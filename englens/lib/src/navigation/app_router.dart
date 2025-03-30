@@ -1,3 +1,4 @@
+import 'package:englens/src/data/models/user_internal.dart';
 import 'package:englens/src/ui/screens/login/login_screen.dart';
 import 'package:englens/src/ui/screens/login/login_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/tabs/tabs_screen.dart';
@@ -9,6 +10,7 @@ class AppRouter {
   static String INITIAL = TabsScreen.routeName;
 
   static navigateDefaultScreen() async {
+    UserInternal userInternal = UserInternal();
     AppRouter.INITIAL = LoginScreen.routeName;
   }
 

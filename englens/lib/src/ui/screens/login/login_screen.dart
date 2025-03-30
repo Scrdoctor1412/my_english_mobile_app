@@ -11,7 +11,18 @@ class LoginScreen extends StatelessWidget {
     return GetBuilder<LoginScreenViewmodel>(
       init: LoginScreenViewmodel(),
       builder: (controller) {
-        return Scaffold(body: Center(child: Text('new login screen')));
+        _body() {
+          return Column(
+            children: [
+              Text('New login screen'),
+              Image.asset('assets/images/test.jpg'),
+            ],
+          );
+        }
+
+        return Scaffold(
+          body: _body(),
+        );
       },
     );
   }
