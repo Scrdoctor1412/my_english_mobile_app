@@ -1,9 +1,19 @@
 import 'package:englens/src/data/models/user_internal.dart';
 import 'package:englens/src/service/firebase/auth/auth_service.dart';
+import 'package:englens/src/ui/screens/english_handbook/english_handbook_screen.dart';
+import 'package:englens/src/ui/screens/english_handbook/english_handbook_screen_viewmodel.dart';
+import 'package:englens/src/ui/screens/home/home_screen.dart';
+import 'package:englens/src/ui/screens/home/home_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/login/forget_password/forget_password_screen.dart';
 import 'package:englens/src/ui/screens/login/forget_password/forget_password_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/login/login_screen.dart';
 import 'package:englens/src/ui/screens/login/login_screen_viewmodel.dart';
+import 'package:englens/src/ui/screens/scan_to_translate/scan_to_translate_screen.dart';
+import 'package:englens/src/ui/screens/scan_to_translate/scan_to_translate_screen_viewmodel.dart';
+import 'package:englens/src/ui/screens/settings/settings_screen.dart';
+import 'package:englens/src/ui/screens/settings/settings_screen_viewmodel.dart';
+import 'package:englens/src/ui/screens/study/study_screen.dart';
+import 'package:englens/src/ui/screens/study/study_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/tabs/tabs_screen.dart';
 import 'package:englens/src/ui/screens/tabs/tabs_screen_viewmodel.dart';
 import 'package:flutter/material.dart';
@@ -38,6 +48,31 @@ class AppRouter {
       page: () => TabsScreen(),
       binding: GetBinding(TabsScreen.routeName),
     ),
+    GetPage(
+      name: EnglishHandbookScreen.routeName,
+      page: () => EnglishHandbookScreen(),
+      binding: GetBinding(TabsScreen.routeName),
+    ),
+    GetPage(
+      name: HomeScreen.routeName,
+      page: () => HomeScreen(),
+      binding: GetBinding(TabsScreen.routeName),
+    ),
+    GetPage(
+      name: ScanToTranslateScreen.routeName,
+      page: () => ScanToTranslateScreen(),
+      binding: GetBinding(TabsScreen.routeName),
+    ),
+    GetPage(
+      name: SettingsScreen.routeName,
+      page: () => SettingsScreen(),
+      binding: GetBinding(TabsScreen.routeName),
+    ),
+    GetPage(
+      name: StudyScreen.routeName,
+      page: () => StudyScreen(),
+      binding: GetBinding(TabsScreen.routeName),
+    ),
   ];
 }
 
@@ -59,6 +94,11 @@ class GetBinding extends Bindings {
         break;
       case TabsScreen.routeName:
         Get.lazyPut(() => TabsScreenViewmodel());
+        Get.lazyPut(() => EnglishHandbookScreenViewmodel());
+        Get.lazyPut(() => HomeScreenViewmodel());
+        Get.lazyPut(() => ScanToTranslateScreenViewmodel());
+        Get.lazyPut(() => SettingsScreenViewmodel());
+        Get.lazyPut(() => StudyScreenViewmodel());
         break;
     }
   }
