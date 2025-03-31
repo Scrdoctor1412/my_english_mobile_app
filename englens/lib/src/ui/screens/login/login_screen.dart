@@ -29,7 +29,7 @@ class LoginScreen extends StatelessWidget {
               ),
               const SizedBox(width: 12),
               Text(
-                'Or',
+                'LOGIN_SCREEN.OR'.tr,
                 style: TextStyle(
                   fontSize: 16,
                   color: ThemePrimary.grey,
@@ -78,13 +78,13 @@ class LoginScreen extends StatelessWidget {
                     controller: controller.emailController,
                     validator: (value) {
                       if (value == null || value.isEmpty) {
-                        return 'Please enter email';
+                        return 'LOGIN_SCREEN.EMAIL_BLANK'.tr;
                       } else {
                         final bool emailValid = RegExp(
                                 r"^[a-zA-Z0-9.a-zA-Z0-9.!#$%&'*+-/=?^_`{|}~]+@[a-zA-Z0-9]+\.[a-zA-Z]+")
                             .hasMatch(value);
                         if (!emailValid) {
-                          return 'Email not right';
+                          return 'LOGIN_SCREEN.EMAIL_ERROR'.tr;
                         }
                       }
                       return null;
@@ -94,8 +94,8 @@ class LoginScreen extends StatelessWidget {
                         Icons.email,
                         color: Color(0xff868686),
                       ),
-                      label: Text('Email'),
-                      hintText: 'Enter email',
+                      label: Text('LOGIN_SCREEN.EMAIL'.tr),
+                      hintText: 'LOGIN_SCREEN.EMAIL_HINT'.tr,
                       // filled: true,
                       // fillColor: Colors.white,
                       border: OutlineInputBorder(
@@ -111,7 +111,7 @@ class LoginScreen extends StatelessWidget {
                     controller: controller.passwordController,
                     validator: (value) {
                       if (value == null || value.isEmpty) {
-                        return 'Please enter password';
+                        return 'LOGIN_SCREEN.PASSWORD_BLANK'.tr;
                       }
                       return null;
                     },
@@ -132,8 +132,8 @@ class LoginScreen extends StatelessWidget {
                           color: Color(0xff868686),
                         ),
                       ),
-                      label: Text('Password'),
-                      hintText: 'Enter email',
+                      label: Text('LOGIN_SCREEN.PASSWORD'.tr),
+                      hintText: 'LOGIN_SCREEN.PASSWORD_HINT'.tr,
                       border: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(26),
                       ),
@@ -153,7 +153,7 @@ class LoginScreen extends StatelessWidget {
                         controller.onLogin();
                       },
                       child: Text(
-                        'Signin',
+                        'LOGIN_SCREEN.SIGNIN'.tr,
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 18,
@@ -172,7 +172,7 @@ class LoginScreen extends StatelessWidget {
                       controller.onTapToForgetPasswordScreen();
                     },
                     child: Text(
-                      'Forgot password?',
+                      'LOGIN_SCREEN.FORGOT_PASSWORD'.tr,
                       style: TextStyle(
                         color: ThemePrimary.primaryBlue,
                       ),
