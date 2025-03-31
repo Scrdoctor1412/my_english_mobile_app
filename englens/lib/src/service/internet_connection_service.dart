@@ -25,22 +25,22 @@ class InternetConnectionService {
   InternetConnectionService._() {
     isConnected().then((result) {
       print('result: $result');
-      if (!result) _showNotConnectedDialog();
+      if (result == false) _showNotConnectedDialog();
     });
-    connectivityStream = connectivity.onConnectivityChanged.listen((result) {
-      if (result != ConnectivityResult.mobile &&
-          result != ConnectivityResult.wifi &&
-          result != ConnectivityResult.ethernet &&
-          result != ConnectivityResult.vpn) {
-        if (!_isDialogShown) {
-          _showNotConnectedDialog();
-        }
-      } else {
-        if (_isDialogShown) {
-          __closeDialog();
-        }
-      }
-    });
+    // connectivityStream = connectivity.onConnectivityChanged.listen((result) {
+    //   if (result != ConnectivityResult.mobile &&
+    //       result != ConnectivityResult.wifi &&
+    //       result != ConnectivityResult.ethernet &&
+    //       result != ConnectivityResult.vpn) {
+    //     if (!_isDialogShown) {
+    //       _showNotConnectedDialog();
+    //     }
+    //   } else {
+    //     if (_isDialogShown) {
+    //       __closeDialog();
+    //     }
+    //   }
+    // });
   }
 
   //methods

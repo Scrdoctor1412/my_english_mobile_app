@@ -1,4 +1,7 @@
 import 'package:englens/src/data/models/user_internal.dart';
+import 'package:englens/src/service/firebase/auth/auth_service.dart';
+import 'package:englens/src/ui/screens/login/forget_password/forget_password_screen.dart';
+import 'package:englens/src/ui/screens/login/forget_password/forget_password_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/login/login_screen.dart';
 import 'package:englens/src/ui/screens/login/login_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/tabs/tabs_screen.dart';
@@ -11,7 +14,12 @@ class AppRouter {
 
   static navigateDefaultScreen() async {
     UserInternal userInternal = UserInternal();
-    AppRouter.INITIAL = LoginScreen.routeName;
+    AuthService authController = Get.put(AuthService());
+    if (authController.user.value != null) {
+      AppRouter.INITIAL = TabsScreen.routeName;
+    } else {
+      AppRouter.INITIAL = LoginScreen.routeName;
+    }
   }
 
   static final List<GetPage> routes = [
@@ -19,6 +27,11 @@ class AppRouter {
       name: LoginScreen.routeName,
       page: () => LoginScreen(),
       binding: GetBinding(LoginScreen.routeName),
+    ),
+    GetPage(
+      name: ForgetPasswordScreen.routeName,
+      page: () => ForgetPasswordScreen(),
+      binding: GetBinding(ForgetPasswordScreen.routeName),
     ),
     GetPage(
       name: TabsScreen.routeName,
@@ -39,6 +52,10 @@ class GetBinding extends Bindings {
     switch (routeName) {
       case LoginScreen.routeName:
         Get.lazyPut(() => LoginScreenViewmodel());
+        Get.lazyPut(() => AuthService());
+        break;
+      case ForgetPasswordScreen.routeName:
+        Get.lazyPut(() => ForgetPasswordScreenViewmodel());
         break;
       case TabsScreen.routeName:
         Get.lazyPut(() => TabsScreenViewmodel());

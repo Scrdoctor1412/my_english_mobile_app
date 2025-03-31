@@ -11,7 +11,26 @@ class TabsScreen extends StatelessWidget {
     return GetBuilder<TabsScreenViewmodel>(
       init: TabsScreenViewmodel(),
       builder: (controller) {
-        return Scaffold(body: Center(child: Text('hello world')));
+        controller.context = context;
+
+        _body() {
+          return Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              Text('Tabs'),
+              ElevatedButton(
+                onPressed: () {
+                  controller.signout();
+                },
+                child: Text('Logout'),
+              ),
+            ],
+          );
+        }
+
+        return Scaffold(
+          body: _body(),
+        );
       },
     );
   }
