@@ -50,6 +50,7 @@ class ThemePrimary {
           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
         ),
       ),
+      scaffoldBackgroundColor: Color(0xfff1f0f6),
     );
   }
 }

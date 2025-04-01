@@ -4,6 +4,8 @@ import 'package:englens/src/ui/screens/english_handbook/english_handbook_screen.
 import 'package:englens/src/ui/screens/english_handbook/english_handbook_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/home/home_screen.dart';
 import 'package:englens/src/ui/screens/home/home_screen_viewmodel.dart';
+import 'package:englens/src/ui/screens/home/word_search/word_search_screen.dart';
+import 'package:englens/src/ui/screens/home/word_search/word_search_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/login/forget_password/forget_password_screen.dart';
 import 'package:englens/src/ui/screens/login/forget_password/forget_password_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/login/login_screen.dart';
@@ -73,6 +75,11 @@ class AppRouter {
       page: () => StudyScreen(),
       binding: GetBinding(TabsScreen.routeName),
     ),
+    GetPage(
+      name: WordSearchScreen.routeName,
+      page: () => WordSearchScreen(),
+      binding: GetBinding(WordSearchScreen.routeName),
+    )
   ];
 }
 
@@ -99,6 +106,9 @@ class GetBinding extends Bindings {
         Get.lazyPut(() => ScanToTranslateScreenViewmodel());
         Get.lazyPut(() => SettingsScreenViewmodel());
         Get.lazyPut(() => StudyScreenViewmodel());
+        break;
+      case WordSearchScreen.routeName:
+        Get.lazyPut(() => WordSearchScreenViewmodel());
         break;
     }
   }

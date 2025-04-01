@@ -30,7 +30,7 @@ class TabsScreen extends StatelessWidget {
               NavigationDestination(icon: Icon(Icons.home), label: 'Home'),
               NavigationDestination(icon: Icon(Icons.school), label: 'Study'),
               NavigationDestination(
-                  icon: Icon(Icons.camera), label: 'Translate'),
+                  icon: Icon(Icons.translate), label: 'Translate'),
               NavigationDestination(icon: Icon(Icons.book), label: 'Handbook'),
               NavigationDestination(
                   icon: Icon(Icons.settings), label: 'Settings'),
