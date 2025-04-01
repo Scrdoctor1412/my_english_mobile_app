@@ -13,8 +13,19 @@ class EnglishHandbookScreen extends StatelessWidget {
       builder: (controller) {
         controller.context = context;
         _body() {
-          return Center(
-            child: Text('English handbook screen'),
+          return Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              Center(
+                child: Text('English handbook screen'),
+              ),
+              ElevatedButton(
+                onPressed: () {
+                  controller.readJson();
+                },
+                child: Text('Test json'),
+              ),
+            ],
           );
         }
 
