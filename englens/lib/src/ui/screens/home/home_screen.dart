@@ -1,3 +1,4 @@
+import 'package:englens/src/data/models/word.dart';
 import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/common/english_card.dart';
 import 'package:englens/src/ui/screens/home/home_screen_viewmodel.dart';
@@ -279,7 +280,22 @@ class HomeScreen extends StatelessWidget {
                             scrollDirection: Axis.horizontal,
                             // physics: NeverScrollableScrollPhysics(),
                             itemBuilder: (context, index) {
-                              return EnglishCard();
+                              return EnglishCard(
+                                word: WordEntry(
+                                  word: 'a',
+                                  pos: 'indefinite article',
+                                  phonetic: '',
+                                  phoneticText: '/a/',
+                                  phoneticAm: '',
+                                  phoneticAmText: '/a/',
+                                  senses: [
+                                    Sense(
+                                      definition: 'bla bla bla',
+                                      examples: [],
+                                    ),
+                                  ],
+                                ),
+                              );
                             },
                             separatorBuilder: (context, index) => SizedBox(
                               width: 20,

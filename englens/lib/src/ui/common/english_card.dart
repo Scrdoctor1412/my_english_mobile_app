@@ -1,8 +1,12 @@
+import 'package:englens/src/data/models/word.dart';
 import 'package:flutter/material.dart';
+
+enum Classifier { verb, noun, adjective, adverb, indefiniteArticle }
 
 class EnglishCard extends StatelessWidget {
   // String
-  const EnglishCard({Key? key}) : super(key: key);
+  WordEntry word;
+  EnglishCard({Key? key, required this.word}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -23,7 +27,7 @@ class EnglishCard extends StatelessWidget {
           Row(
             children: [
               Text(
-                'a',
+                word.word,
                 style: TextStyle(
                   fontSize: 45,
                   fontWeight: FontWeight.w600,
@@ -38,7 +42,7 @@ class EnglishCard extends StatelessWidget {
                 padding: EdgeInsets.symmetric(horizontal: 12),
                 child: Center(
                   child: Text(
-                    'verb',
+                    word.pos,
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 20,
@@ -55,16 +59,19 @@ class EnglishCard extends StatelessWidget {
                 onPressed: () {},
                 icon: Icon(Icons.volume_up_rounded),
               ),
-              Text('/ə/'),
+              // Text('/ə/'),
+              Text(word.phoneticText),
               IconButton(
                 onPressed: () {},
                 icon: Icon(Icons.volume_up_rounded),
               ),
-              Text('/ə/'),
+              // Text('/ə/'),
+              Text(word.phoneticAmText),
             ],
           ),
           Text(
-            'used to show that somebody/something is a member of a group or profession',
+            // 'used to show that somebody/something is a member of a group or profession',
+            word.senses[0].definition,
             style: TextStyle(
               fontSize: 15,
             ),
