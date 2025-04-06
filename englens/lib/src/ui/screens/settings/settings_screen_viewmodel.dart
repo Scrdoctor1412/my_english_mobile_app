@@ -6,9 +6,25 @@ import '../../../service/firebase/auth/auth_service.dart';
 class SettingsScreenViewmodel extends GetViewModelBase {
   AuthService authController = Get.put(AuthService());
 
+  //general menu
+  double generalMenuHeigth = 60;
+  bool isGeneralExpand = false;
+  bool notificationSwitchValue = false;
+
+  void onTapToggleGeneralMenu() {
+    isGeneralExpand = !isGeneralExpand;
+    isGeneralExpand ? generalMenuHeigth = 175 : generalMenuHeigth = 60;
+    update();
+  }
+
+  void onTapToggleNotification() {
+    notificationSwitchValue = !notificationSwitchValue;
+    update();
+  }
+
   void signout() async {
     try {
-      var res = await authController.signOut();
+      await authController.signOut();
     } catch (e) {
       throw (e);
     }

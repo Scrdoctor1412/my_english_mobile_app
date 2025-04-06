@@ -1,4 +1,6 @@
 import 'package:englens/src/app.dart';
+import 'package:englens/src/configs/di.dart';
+import 'package:englens/src/data/repositories/oxford_words_repository.dart';
 import 'package:englens/src/navigation/app_router.dart';
 import 'package:englens/src/service/firebase/auth/auth_service.dart';
 import 'package:englens/src/service/lang/translation_service.dart';
@@ -13,13 +15,15 @@ void main() async {
 
   await Future.wait([
     Firebase.initializeApp(),
+    DI().init(),
   ]);
 
   await TranslationService.init(const Locale('vi', 'en'));
+  await Get.find<OxfordWordsRepositoryImpl>().initData();
 
   // Set System UI overlay style
   SystemChrome.setSystemUIOverlayStyle(
-    SystemUiOverlayStyle(statusBarColor: Colors.transparent),
+    SystemUiOverlayStyle(statusBarColor: Colors.white),
   );
 
   Get.put(AuthService());

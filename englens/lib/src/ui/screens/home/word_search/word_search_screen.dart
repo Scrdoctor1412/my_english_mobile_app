@@ -13,7 +13,7 @@ class WordSearchScreen extends StatelessWidget {
       builder: (controller) {
         controller.context = context;
         var screenWidth = MediaQuery.of(context).size.width;
-        var screenHeight = MediaQuery.of(context).size.height;
+        // var screenHeight = MediaQuery.of(context).size.height;
 
         _appBar() {
           return AppBar(

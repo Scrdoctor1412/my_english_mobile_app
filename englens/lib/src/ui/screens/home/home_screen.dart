@@ -1,3 +1,4 @@
+import 'package:englens/src/data/models/sense.dart';
 import 'package:englens/src/data/models/word.dart';
 import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/common/english_card.dart';
@@ -17,7 +18,7 @@ class HomeScreen extends StatelessWidget {
       builder: (controller) {
         controller.context = context;
         var screenWidth = MediaQuery.of(context).size.width;
-        var screenHeight = MediaQuery.of(context).size.height;
+        // var screenHeight = MediaQuery.of(context).size.height;
 
         _drawer() {
           return Drawer(
@@ -118,7 +119,6 @@ class HomeScreen extends StatelessWidget {
                     onTap: () {
                       // Scaffold.of(context).openDrawer();
                       controller.scaffoldKey.currentState!.openDrawer();
-                      print('lmao');
                     },
                     child: Container(
                       padding: const EdgeInsets.symmetric(
@@ -281,7 +281,7 @@ class HomeScreen extends StatelessWidget {
                             // physics: NeverScrollableScrollPhysics(),
                             itemBuilder: (context, index) {
                               return EnglishCard(
-                                word: WordEntry(
+                                word: Word(
                                   word: 'a',
                                   pos: 'indefinite article',
                                   phonetic: '',
@@ -294,6 +294,7 @@ class HomeScreen extends StatelessWidget {
                                       examples: [],
                                     ),
                                   ],
+                                  index: 0,
                                 ),
                               );
                             },

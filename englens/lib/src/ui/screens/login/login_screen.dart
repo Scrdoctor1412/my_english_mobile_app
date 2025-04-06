@@ -14,7 +14,7 @@ class LoginScreen extends StatelessWidget {
       builder: (controller) {
         controller.context = context;
         var screenHeight = MediaQuery.of(context).size.height;
-        var screenWidth = MediaQuery.of(context).size.width;
+        // var screenWidth = MediaQuery.of(context).size.width;
 
         _orBlock() {
           return Row(

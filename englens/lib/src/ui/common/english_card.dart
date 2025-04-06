@@ -5,11 +5,36 @@ enum Classifier { verb, noun, adjective, adverb, indefiniteArticle }
 
 class EnglishCard extends StatelessWidget {
   // String
-  WordEntry word;
+  final Word word;
   EnglishCard({Key? key, required this.word}) : super(key: key);
+
+  var statusColor = Colors.orange;
+
+  void switchStatusColor() {
+    switch (word.pos) {
+      case "noun":
+        statusColor = Colors.orange;
+        break;
+      case "verb":
+        statusColor = Colors.red;
+        break;
+      case "adjective":
+        statusColor = Colors.amber;
+        break;
+      case "adverb":
+        statusColor = Colors.green;
+        break;
+      case "indefinite article":
+        statusColor = Colors.pink;
+        break;
+      default:
+    }
+  }
 
   @override
   Widget build(BuildContext context) {
+    //change status color
+    switchStatusColor();
     return Container(
       width: MediaQuery.of(context).size.width * 0.75,
       height: MediaQuery.of(context).size.height,
@@ -19,7 +44,7 @@ class EnglishCard extends StatelessWidget {
       ),
       padding: EdgeInsets.symmetric(
         horizontal: 12,
-        // vertical: 12,
+        vertical: 12,
       ),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
@@ -29,14 +54,14 @@ class EnglishCard extends StatelessWidget {
               Text(
                 word.word,
                 style: TextStyle(
-                  fontSize: 45,
+                  fontSize: 35,
                   fontWeight: FontWeight.w600,
                 ),
               ),
               const Spacer(),
               Container(
                 decoration: BoxDecoration(
-                  color: Colors.redAccent,
+                  color: statusColor,
                   borderRadius: BorderRadius.circular(10),
                 ),
                 padding: EdgeInsets.symmetric(horizontal: 12),

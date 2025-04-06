@@ -9,6 +9,11 @@ class ThemePrimary {
   static const primaryOrange = Color(0xffff9500);
   static const lightOrange = Color(0xffffc266);
 
+  // static const successGreen = Color(0xff34c759);
+  static const successGreen = Color(0xFF3FA86B);
+  static const lightGreen = Color(0xffA0E9B3);
+  static const darkGreen = Color(0xff248A3D);
+
   static const darkGrey = Color(0xff333333);
 
   static final ColorScheme myColorScheme = ColorScheme(

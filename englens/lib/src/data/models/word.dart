@@ -1,28 +1,51 @@
 import 'dart:convert';
+import 'package:englens/src/configs/hive/hive_types.dart';
+import 'package:hive_flutter/hive_flutter.dart';
 
-class WordEntry {
-  final String word;
-  final String pos;
-  final String phonetic;
-  final String phoneticText;
-  final String phoneticAm;
-  final String phoneticAmText;
-  final List<Sense> senses;
+import 'package:englens/src/data/models/sense.dart';
 
-  WordEntry({
-    required this.word,
-    required this.pos,
-    required this.phonetic,
-    required this.phoneticText,
-    required this.phoneticAm,
-    required this.phoneticAmText,
-    required this.senses,
-  });
+part 'generated/word.g.dart';
+
+@HiveType(typeId: HiveTypes.word)
+class Word {
+  @HiveField(0)
+  String word;
+
+  @HiveField(1)
+  String pos;
+
+  @HiveField(2)
+  String phonetic;
+
+  @HiveField(3)
+  String phoneticText;
+
+  @HiveField(4)
+  String phoneticAm;
+
+  @HiveField(5)
+  String phoneticAmText;
+
+  @HiveField(6)
+  List<Sense> senses;
+
+  @HiveField(7)
+  int? index;
+
+  Word(
+      {required this.word,
+      required this.pos,
+      required this.phonetic,
+      required this.phoneticText,
+      required this.phoneticAm,
+      required this.phoneticAmText,
+      required this.senses,
+      this.index = 0});
 
   // Chuyển từ JSON String sang WordEntry
-  factory WordEntry.fromJson(String jsonString) {
+  factory Word.fromJson(String jsonString) {
     Map<String, dynamic> json = jsonDecode(jsonString);
-    return WordEntry(
+    return Word(
       word: json["word"],
       pos: json["pos"],
       phonetic: json["phonetic"],
@@ -30,6 +53,7 @@ class WordEntry {
       phoneticAm: json["phonetic_am"],
       phoneticAmText: json["phonetic_am_text"],
       senses: (json["senses"] as List).map((e) => Sense.fromMap(e)).toList(),
+      index: json["index"],
     );
   }
 
@@ -43,6 +67,7 @@ class WordEntry {
       "phonetic_am": phoneticAm,
       "phonetic_am_text": phoneticAmText,
       "senses": senses.map((e) => e.toMap()).toList(),
+      "index": index,
     };
   }
 
@@ -52,65 +77,16 @@ class WordEntry {
   }
 }
 
-class Sense {
-  final String definition;
-  final List<Example> examples;
+class WordList {
+  List<Word> words;
 
-  Sense({
-    required this.definition,
-    required this.examples,
-  });
-
-  factory Sense.fromMap(Map<String, dynamic> json) {
-    return Sense(
-      definition: json["definition"],
-      examples:
-          (json["examples"] as List).map((e) => Example.fromMap(e)).toList(),
-    );
-  }
-
-  Map<String, dynamic> toMap() {
-    return {
-      "definition": definition,
-      "examples": examples.map((e) => e.toMap()).toList(),
-    };
-  }
-}
-
-class Example {
-  final String cf;
-  final String x;
-
-  Example({
-    required this.cf,
-    required this.x,
-  });
-
-  factory Example.fromMap(Map<String, dynamic> json) {
-    return Example(
-      cf: json["cf"],
-      x: json["x"],
-    );
-  }
-
-  Map<String, dynamic> toMap() {
-    return {
-      "cf": cf,
-      "x": x,
-    };
-  }
-}
-
-class WordEntryList {
-  final List<WordEntry> words;
-
-  WordEntryList({required this.words});
+  WordList({required this.words});
 
   // Chuyển từ JSON String sang danh sách WordEntry
-  factory WordEntryList.fromJson(String jsonString) {
+  factory WordList.fromJson(String jsonString) {
     List<dynamic> jsonList = jsonDecode(jsonString);
-    return WordEntryList(
-      words: jsonList.map((e) => WordEntry.fromJson(jsonEncode(e))).toList(),
+    return WordList(
+      words: jsonList.map((e) => Word.fromJson(jsonEncode(e))).toList(),
     );
   }
 
