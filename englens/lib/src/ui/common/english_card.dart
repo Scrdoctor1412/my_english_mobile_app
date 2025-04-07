@@ -54,7 +54,7 @@ class EnglishCard extends StatelessWidget {
               Text(
                 word.word,
                 style: TextStyle(
-                  fontSize: 35,
+                  fontSize: 30,
                   fontWeight: FontWeight.w600,
                 ),
               ),

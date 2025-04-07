@@ -7,16 +7,19 @@ import 'package:flutter/services.dart';
 import 'package:flutter_expandable_fab/flutter_expandable_fab.dart';
 import 'package:get/get.dart';
 
-class EnglishHandbookScreenViewmodel extends GetViewModelBase {
+class EnglishHandbookScreenViewmodel extends GetViewModelBase
+    with GetSingleTickerProviderStateMixin {
   int tabBarIndex = 0;
   final scaffoldKey = GlobalKey<ScaffoldMessengerState>();
   final key = GlobalKey<ExpandableFabState>();
   late WordList wordList;
   final _oxfordWordsRepo = Get.find<OxfordWordsRepositoryImpl>();
+  late TabController tabController;
 
   @override
   onInit() {
     _onGetAllOxfordWords();
+    tabController = TabController(length: 2, vsync: this);
     super.onInit();
   }
 

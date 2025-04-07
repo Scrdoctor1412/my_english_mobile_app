@@ -18,6 +18,7 @@ class EnglishHandbookScreen extends StatelessWidget {
 
         _appBar() {
           return AppBar(
+            // primary: false,
             backgroundColor: ThemePrimary.successGreen,
             title: Text('English handbook'),
             actions: [
@@ -29,30 +30,32 @@ class EnglishHandbookScreen extends StatelessWidget {
             bottom: PreferredSize(
               preferredSize: const Size.fromHeight(60),
               child: ClipRRect(
-                clipBehavior: Clip.antiAlias,
+                // clipBehavior: Clip.antiAlias,
                 child: Container(
-                  height: 50,
+                  height: 45,
                   // decoration: BoxDecoration(
                   //   color: Colors.white.withOpacity(0.2), // Nền chung mờ
                   //   borderRadius: BorderRadius.circular(25),
                   // ),
                   child: TabBar(
+                    controller: controller.tabController,
                     padding: EdgeInsets.zero,
                     onTap: (value) {
                       controller.onTapChangeTabBarIndex(value);
                     },
-                    // isScrollable: true,
                     indicator: BoxDecoration(
                       color: Color(0xfff1f0f6),
+                      // color: Colors.white,
                       borderRadius: BorderRadius.only(
                         topLeft: Radius.circular(16),
                         topRight: Radius.circular(16),
                       ),
+                      // border: Border(
+                      //   bottom: BorderSide(),
+                      // ),
+                      // borderRadius: BorderRadius.circular(32),
                     ),
-
-                    // indicatorPadding: EdgeInsets.only(left: 20),
-                    // dividerColor: Color(0xfff1f0f6),
-                    // dividerColor: ThemePrimary.successGreen,
+                    dividerColor: Colors.transparent,
                     indicatorSize: TabBarIndicatorSize.tab,
                     labelColor: ThemePrimary.successGreen,
                     unselectedLabelColor: Colors.white,
@@ -88,6 +91,7 @@ class EnglishHandbookScreen extends StatelessWidget {
         _wordListTab() {
           return Column(
             mainAxisAlignment: MainAxisAlignment.center,
+            spacing: 10,
             children: [
               // const SizedBox(
               //   height: 12,
@@ -95,15 +99,21 @@ class EnglishHandbookScreen extends StatelessWidget {
               Expanded(
                 child: Padding(
                   padding: const EdgeInsets.symmetric(
-                    horizontal: 12,
+                    horizontal: 16,
                     // vertical: 12,
                   ),
                   child: ListView.separated(
                     itemBuilder: (context, index) {
                       return SizedBox(
-                        height: 250,
-                        child:
-                            EnglishCard(word: controller.wordList.words[index]),
+                        height: 230,
+                        child: InkWell(
+                          onTap: () {
+                            print(index);
+                          },
+                          child: EnglishCard(
+                            word: controller.wordList.words[index],
+                          ),
+                        ),
                       );
                     },
                     separatorBuilder: (context, index) => SizedBox(height: 20),
@@ -127,66 +137,65 @@ class EnglishHandbookScreen extends StatelessWidget {
         }
 
         _body() {
-          return TabBarView(children: [
-            _wordListTab(),
-            _wordListByCategoryTab(),
-          ]);
+          return TabBarView(
+            controller: controller.tabController,
+            children: [
+              _wordListTab(),
+              _wordListByCategoryTab(),
+            ],
+          );
         }
 
-        return DefaultTabController(
-          initialIndex: 0,
-          length: 2,
-          child: Scaffold(
-            appBar: _appBar(),
-            body: _body(),
-            floatingActionButtonLocation: ExpandableFab.location,
-            floatingActionButton: ExpandableFab(
-              key: controller.key,
-              distance: 90,
-              openButtonBuilder: RotateFloatingActionButtonBuilder(
-                shape: const CircleBorder(),
+        return Scaffold(
+          appBar: _appBar(),
+          body: _body(),
+          floatingActionButtonLocation: ExpandableFab.location,
+          floatingActionButton: ExpandableFab(
+            key: controller.key,
+            distance: 90,
+            openButtonBuilder: RotateFloatingActionButtonBuilder(
+              shape: const CircleBorder(),
+              backgroundColor: ThemePrimary.successGreen,
+              foregroundColor: Colors.white,
+              child: Icon(Icons.menu),
+            ),
+            closeButtonBuilder: FloatingActionButtonBuilder(
+              size: 56,
+              builder: (BuildContext context, void Function()? onPressed,
+                  Animation<double> progress) {
+                return IconButton(
+                  onPressed: onPressed,
+                  icon: const Icon(
+                    Icons.close,
+                    size: 30,
+                  ),
+                );
+              },
+            ),
+            children: [
+              FloatingActionButton.small(
                 backgroundColor: ThemePrimary.successGreen,
-                foregroundColor: Colors.white,
-                child: Icon(Icons.menu),
-              ),
-              closeButtonBuilder: FloatingActionButtonBuilder(
-                size: 56,
-                builder: (BuildContext context, void Function()? onPressed,
-                    Animation<double> progress) {
-                  return IconButton(
-                    onPressed: onPressed,
-                    icon: const Icon(
-                      Icons.close,
-                      size: 30,
-                    ),
+                shape: const CircleBorder(),
+                heroTag: null,
+                child: const Icon(Icons.article),
+                onPressed: () {
+                  const SnackBar snackBar = SnackBar(
+                    content: Text("SnackBar"),
                   );
+                  controller.scaffoldKey.currentState?.showSnackBar(snackBar);
                 },
               ),
-              children: [
-                FloatingActionButton.small(
-                  backgroundColor: ThemePrimary.successGreen,
-                  shape: const CircleBorder(),
-                  heroTag: null,
-                  child: const Icon(Icons.article),
-                  onPressed: () {
-                    const SnackBar snackBar = SnackBar(
-                      content: Text("SnackBar"),
-                    );
-                    controller.scaffoldKey.currentState?.showSnackBar(snackBar);
-                  },
-                ),
-                FloatingActionButton.small(
-                  backgroundColor: ThemePrimary.successGreen,
-                  shape: const CircleBorder(),
-                  heroTag: null,
-                  child: const Icon(Icons.text_fields),
-                  onPressed: () {
-                    // Navigator.of(context).push(MaterialPageRoute(
-                    //     builder: ((context) => const NextPage())));
-                  },
-                ),
-              ],
-            ),
+              FloatingActionButton.small(
+                backgroundColor: ThemePrimary.successGreen,
+                shape: const CircleBorder(),
+                heroTag: null,
+                child: const Icon(Icons.text_fields),
+                onPressed: () {
+                  // Navigator.of(context).push(MaterialPageRoute(
+                  //     builder: ((context) => const NextPage())));
+                },
+              ),
+            ],
           ),
         );
       },
@@ -194,111 +203,85 @@ class EnglishHandbookScreen extends StatelessWidget {
   }
 }
 
-// class TabClipper extends CustomClipper<Path> {
-//   // final int countPage;
-//   // final double offset;
+class TabsPainter extends CustomPainter {
+  final TabController controller;
+  final BuildContext context;
+  // final List<double> widths;
+  // final double height;
+  double height = 48;
+  TabsPainter({required this.controller, required this.context})
+      : super(repaint: controller);
 
-//   // TabClipper({required this.countPage, required this.offset});
+  // final List<double> widths = [89, 98, 111, 141, 108];
+  double tabHeight = 50;
+  double tabWidth = MediaQuery.of(Get.context!).size.width / 2;
+  List<double> widths = [
+    MediaQuery.of(Get.context!).size.width / 2,
+    MediaQuery.of(Get.context!).size.width / 2
+  ];
 
-//   double heightDefault = 48.0;
-//   double padding = 9.0;
-//   double sizePlus = 15;
+  @override
+  void paint(Canvas canvas, Size size) {
+    final animation = controller.animation!.value;
+    final dx = tabWidth * animation;
 
-//   @override
-//   Path getClip(Size size) {
-//     double titleBoxWidth = size.width / countPage;
-//     double position = offset / countPage; //countPage;
-//     Path path = Path();
-//     path.moveTo(0.0, heightDefault + padding);
-//     // path.lineTo(0.0, heightDefault+padding);
+    final radius = 16.0;
+    final notchWidth = 36.0;
+    final notchDepth = 8.0;
+    final centerX = dx + tabWidth / 2;
 
-//     //1
-//     path.lineTo(position - 15 - sizePlus * 0.5, heightDefault + padding);
-//     //2
-//     path.quadraticBezierTo(
-//         position - 1.5 + padding * 0.6 - sizePlus * 0.5,
-//         heightDefault + 0.7 + padding,
-//         position + padding * 0.5 - sizePlus * 0.5,
-//         heightDefault - 15 + padding);
-//     //3
-//     path.lineTo(position + padding * 0.5 - sizePlus * 0.5, 15 + padding);
-//     //4
-//     path.quadraticBezierTo(
-//         position + 2.5 + padding * 0.3 - sizePlus * 0.5,
-//         2.5 + padding * 0.6,
-//         position + 15.0 + padding - sizePlus * 0.5,
-//         padding);
-//     //4
-//     path.lineTo(
-//         position + titleBoxWidth - 15.0 - padding + sizePlus * 0.5, padding);
-//     //3
-//     path.quadraticBezierTo(
-//         position + titleBoxWidth - 2.5 - padding * 0.3 + sizePlus * 0.5,
-//         2.5 + padding * 0.6,
-//         position + titleBoxWidth - padding * 0.5 + sizePlus * 0.5,
-//         15.0 + padding);
-//     //2
-//     path.lineTo(position + titleBoxWidth - padding * 0.5 + sizePlus * 0.5,
-//         heightDefault - 15 + padding);
+    final paint = Paint()
+      ..color = Colors.white
+      ..style = PaintingStyle.fill;
 
-//     //1
-//     path.quadraticBezierTo(
-//         position + titleBoxWidth + 1.5 - padding * 0.6 + sizePlus * 0.5,
-//         heightDefault + 0.7 + padding,
-//         position + titleBoxWidth + 15 + sizePlus * 0.5,
-//         heightDefault + padding);
+    final path = Path();
 
-//     path.lineTo(size.width, heightDefault + padding);
-//     path.lineTo(size.width, size.height + padding);
-//     path.lineTo(0, size.height + padding);
-//     return path;
-//   }
+    // Start từ top-left
+    path.moveTo(dx + radius, 0);
+    path.lineTo(dx + tabWidth - radius, 0);
+    path.quadraticBezierTo(dx + tabWidth, 0, dx + tabWidth, radius);
 
-//   @override
-//   bool shouldReclip(CustomClipper<Path> oldClipper) => true;
-// }
+    path.lineTo(dx + tabWidth, tabHeight - radius);
+    path.quadraticBezierTo(
+        dx + tabWidth, tabHeight, dx + tabWidth - radius, tabHeight);
 
-// class TabsPainter extends CustomPainter {
-//   final TabController controller;
+    // Vẽ đến cạnh phải của lõm
+    final rightOfNotch = centerX + notchWidth / 2;
+    path.lineTo(rightOfNotch, tabHeight);
 
-//   TabsPainter({
-//     required this.controller,
-//   }) : super(repaint: controller);
+    // Vẽ lõm đáy ở giữa
+    path.quadraticBezierTo(
+      centerX,
+      tabHeight - notchDepth,
+      centerX - notchWidth / 2,
+      tabHeight,
+    );
 
-//   final List<double> widths = [89, 98, 111, 141, 108];
+    // Tiếp tục vẽ cạnh trái
+    path.lineTo(dx + radius, tabHeight);
+    path.quadraticBezierTo(dx, tabHeight, dx, tabHeight - radius);
+    path.lineTo(dx, radius);
+    path.quadraticBezierTo(dx, 0, dx + radius, 0);
 
-//   @override
-//   void paint(Canvas canvas, Size size) {
-//     final animation = controller.animation!;
-//     final paint = Paint()..color = myColor;
-//     paint.style = PaintingStyle.stroke;
-//     paint.strokeWidth = 1.5;
-//     final dx = sumUntil(animation.value);
-//     final dx2 = sumUntil(animation.value + 1);
-//     final path = Path()..moveTo(-15, 47);
-//     path.relativeLineTo(dx, 0);
-//     path.relativeLineTo(0, -23);
-//     path.relativeLineTo(8, 0);
-//     path.moveTo(dx2 - 27, 24);
-//     path.relativeLineTo(8, 0);
-//     path.relativeLineTo(0, 23);
-//     path.lineTo(sumUntil(5) - 20, 47);
-//     canvas.drawPath(path, paint);
-//   }
+    path.close();
 
-//   double sumUntil(double animation) {
-//     double distance = 0;
-//     final index = animation.floor();
-//     for (int i = 0; i < index; i++) {
-//       distance += widths[i];
-//     }
-//     if (index < widths.length) {
-//       final leftover = animation - index;
-//       distance += leftover * widths[index];
-//     }
-//     return distance;
-//   }
+    canvas.drawShadow(path, Colors.black26, 3, false);
+    canvas.drawPath(path, paint);
+  }
 
-//   @override
-//   bool shouldRepaint(CustomPainter oldDelegate) => false;
-// }
+  double sumUntil(double animation) {
+    double distance = 0;
+    final index = animation.floor();
+    for (int i = 0; i < index; i++) {
+      distance += widths[i];
+    }
+    if (index < widths.length) {
+      final leftover = animation - index;
+      distance += leftover * widths[index];
+    }
+    return distance;
+  }
+
+  @override
+  bool shouldRepaint(CustomPainter oldDelegate) => false;
+}
