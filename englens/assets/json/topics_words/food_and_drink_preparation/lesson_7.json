@@ -1,0 +1,590 @@
+{
+  "title": "Cooking Weights and Measures",
+  "word_list": [
+    {
+      "word": "weight",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=d2VpZ2h0&hash=d478289a44d5185244b8c5271e9073dfa64f38c3&lang=en&cache-only=0",
+      "phonetic_text": "weɪt",
+      "phoenetic_am": "https://tts.langeek.co/read?text=d2VpZ2h0&hash=d478289a44d5185244b8c5271e9073dfa64f38c3&lang=en&cache-only=0",
+      "phonetic_am_text": "weit",
+      "img": "https://cdn.langeek.co/photo/18994/original/weigh?type=jpeg",
+      "sense": [
+        {
+          "definition": "the heaviness of something or someone, which can be measured",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "volume",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=dm9sdW1l&hash=6030dc59a1352c16a74a65e1a288b0e580e9c9c1&lang=en&cache-only=0",
+      "phonetic_text": "vɑ:ljum",
+      "phoenetic_am": "https://tts.langeek.co/read?text=dm9sdW1l&hash=6030dc59a1352c16a74a65e1a288b0e580e9c9c1&lang=en&cache-only=0",
+      "phonetic_am_text": "vaalyum",
+      "img": "https://cdn.langeek.co/photo/23251/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "the amount of space that a substance or object takes or the amount of space inside an object",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "metric system",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bWV0cmljIHN5c3RlbQ&hash=d6bb3378f56c44c09a2b4f263c0e80680a592f39&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=bWV0cmljIHN5c3RlbQ&hash=d6bb3378f56c44c09a2b4f263c0e80680a592f39&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a standard of measurement that is based on the kilogram, the meter, and the liter",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "liter",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bGl0ZXI&hash=ca9f359e2cc0c1e71e8898dbf88d3c2c145258df&lang=en&cache-only=0",
+      "phonetic_text": "li:tər",
+      "phoenetic_am": "https://tts.langeek.co/read?text=bGl0ZXI&hash=ca9f359e2cc0c1e71e8898dbf88d3c2c145258df&lang=en&cache-only=0",
+      "phonetic_am_text": "leetēr",
+      "img": "https://cdn.langeek.co/photo/29749/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a unit for measuring an amount of liquid or gas that equals 2.11 pints",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "milliliter",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bWlsbGlsaXRlcg&hash=67b94c790f0bbd5da92f4046d5f49cb1b422d87d&lang=en&cache-only=0",
+      "phonetic_text": "mɪləlitər",
+      "phoenetic_am": "https://tts.langeek.co/read?text=bWlsbGlsaXRlcg&hash=67b94c790f0bbd5da92f4046d5f49cb1b422d87d&lang=en&cache-only=0",
+      "phonetic_am_text": "milēlitēr",
+      "img": "",
+      "sense": [
+        {
+          "definition": "a unit for measuring the quantity of a liquid or gas that equals one thousandth of a liter",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "gram",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Z3JhbQ&hash=3d937cac7aee285b7ebc90d52e15eae483ee799c&lang=en&cache-only=0",
+      "phonetic_text": "græm",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Z3JhbQ&hash=3d937cac7aee285b7ebc90d52e15eae483ee799c&lang=en&cache-only=0",
+      "phonetic_am_text": "grām",
+      "img": "https://cdn.langeek.co/photo/37686/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a unit of measuring weight equal to one thousandth of a kilogram",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "kilogram",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=a2lsb2dyYW0&hash=b1c32247a9b39fa1a20dd9942f9eeea0cc6306ef&lang=en&cache-only=0",
+      "phonetic_text": "kɪləgræm",
+      "phoenetic_am": "https://tts.langeek.co/read?text=a2lsb2dyYW0&hash=b1c32247a9b39fa1a20dd9942f9eeea0cc6306ef&lang=en&cache-only=0",
+      "phonetic_am_text": "kilēgrām",
+      "img": "https://cdn.langeek.co/photo/29745/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a unit of measuring weight equal to 2.20 pounds or 1000 grams",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "degree Celsius",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=ZGVncmVlIENlbHNpdXM&hash=56e66325844c0be5227da0914802023549a9ea06&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=ZGVncmVlIENlbHNpdXM&hash=56e66325844c0be5227da0914802023549a9ea06&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/20920/original/celsius?type=jpeg",
+      "sense": [
+        {
+          "definition": "a temperature scale where 0°C represents the freezing point and 100°C represents the boiling point of water at standard atmospheric pressure",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "fluid ounce",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Zmx1aWQgb3VuY2U&hash=6f48060a11096c5e766d83d459183805aeb60774&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=Zmx1aWQgb3VuY2U&hash=6f48060a11096c5e766d83d459183805aeb60774&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/32846/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a unit of volume used in the United States to measure liquids, equal to approximately 29.5735 milliliters",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "cup",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y3Vw&hash=6c7182884a298c6f4cab787624857c4d86e4479e&lang=en&cache-only=0",
+      "phonetic_text": "kʌp",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y3Vw&hash=6c7182884a298c6f4cab787624857c4d86e4479e&lang=en&cache-only=0",
+      "phonetic_am_text": "kap",
+      "img": "https://cdn.langeek.co/photo/32848/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a standardized volume measurement used in cooking in the United States, equivalent to approximately 8 fluid ounces",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The recipe calls for two cups of water to be added to the saucepan."
+            },
+            {
+              "cf": "",
+              "x": "She poured half a cup of milk into her cereal bowl for breakfast."
+            },
+            {
+              "cf": "",
+              "x": "The chef measured three cups of flour to prepare the cake batter."
+            },
+            {
+              "cf": "",
+              "x": "The cocktail recipe required one and a half cups of orange juice."
+            },
+            {
+              "cf": "",
+              "x": "He used a quarter cup of olive oil to sauté the vegetables for dinner."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pint",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cGludA&hash=312fd209f480c4d1218c9409bde8d78ec47b2f28&lang=en&cache-only=0",
+      "phonetic_text": "paɪnt",
+      "phoenetic_am": "https://tts.langeek.co/read?text=cGludA&hash=312fd209f480c4d1218c9409bde8d78ec47b2f28&lang=en&cache-only=0",
+      "phonetic_am_text": "paint",
+      "img": "https://cdn.langeek.co/photo/32830/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a measure equal to 16 fluid ounces, often used for measuring liquids such as beer or milk",
+          "examples": [
+            {
+              "cf": "",
+              "x": "I'll have a pint of beer, please."
+            },
+            {
+              "cf": "",
+              "x": "Don't forget to grab a pint of orange juice from the store."
+            },
+            {
+              "cf": "",
+              "x": "The bartender poured a pint of stout into the glass."
+            },
+            {
+              "cf": "",
+              "x": "He poured himself a pint of water before heading out for a run."
+            },
+            {
+              "cf": "",
+              "x": "She bought a pint of chocolate milk for her afternoon snack."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "quart",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cXVhcnQ&hash=a1364db7903caba4ccc90284d1c71013cbaa4e3a&lang=en&cache-only=0",
+      "phonetic_text": "kwɔ:rt",
+      "phoenetic_am": "https://tts.langeek.co/read?text=cXVhcnQ&hash=a1364db7903caba4ccc90284d1c71013cbaa4e3a&lang=en&cache-only=0",
+      "phonetic_am_text": "kwaawrt",
+      "img": "",
+      "sense": [
+        {
+          "definition": "a unit of volume measurement the United States for liquids, equal to 32 fluid ounces or approximately 946 milliliters",
+          "examples": [
+            {
+              "cf": "",
+              "x": "A quart is a unit of volume equal to 32 fluid ounces or approximately 0.946 liters."
+            },
+            {
+              "cf": "",
+              "x": "In cooking recipes, ingredients like milk or water are often measured in quarts."
+            },
+            {
+              "cf": "",
+              "x": "A gallon contains four quarts, making it a larger unit of volume measurement."
+            },
+            {
+              "cf": "",
+              "x": "When converting quarts to liters, one quart is approximately equal to 0.946 liters."
+            },
+            {
+              "cf": "",
+              "x": "The quart is commonly used in the United States for measuring liquids such as milk, juice, and oil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gallon",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Z2FsbG9u&hash=375096762d724d813040f90f7d6c7645844d1b70&lang=en&cache-only=0",
+      "phonetic_text": "gælən",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Z2FsbG9u&hash=375096762d724d813040f90f7d6c7645844d1b70&lang=en&cache-only=0",
+      "phonetic_am_text": "gālēn",
+      "img": "https://cdn.langeek.co/photo/20307/original/gallon?type=jpeg",
+      "sense": [
+        {
+          "definition": "a unit used to measure liquids in the United States, equivalent to approximately 3.785 liters",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "density",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=ZGVuc2l0eQ&hash=530b8f7966015bbd8382c183977b987d3836fec2&lang=en&cache-only=0",
+      "phonetic_text": "dɛnsəti",
+      "phoenetic_am": "https://tts.langeek.co/read?text=ZGVuc2l0eQ&hash=530b8f7966015bbd8382c183977b987d3836fec2&lang=en&cache-only=0",
+      "phonetic_am_text": "densēti",
+      "img": "https://cdn.langeek.co/photo/37684/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "(physics) the degree to which a substance is compacted, measured by dividing its mass by its volume",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The density of water is approximately 1 gram per cubic centimeter (g/cm³)."
+            },
+            {
+              "cf": "",
+              "x": "Air has a much lower density compared to water, which is why objects float in water but fall through air."
+            },
+            {
+              "cf": "",
+              "x": "The density of a material can affect its physical properties, such as its strength and buoyancy."
+            },
+            {
+              "cf": "",
+              "x": "The concept of density is important in geophysics for understanding the composition and structure of Earth's interior."
+            },
+            {
+              "cf": "",
+              "x": "To determine the density of an object, you divide its mass by its volume."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "measuring cup",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bWVhc3VyaW5nIGN1cA&hash=d13a9fa11c32bc221b06b69474c928698fd5e77d&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=bWVhc3VyaW5nIGN1cA&hash=d13a9fa11c32bc221b06b69474c928698fd5e77d&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/26568/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a container with numbers on it for measuring the quantity of something when cooking, used mainly in the US",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "drop",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=ZHJvcA&hash=6811324bfde4d76b3c451b6a5940e227513fd0b0&lang=en&cache-only=0",
+      "phonetic_text": "drɑ:p",
+      "phoenetic_am": "https://tts.langeek.co/read?text=ZHJvcA&hash=6811324bfde4d76b3c451b6a5940e227513fd0b0&lang=en&cache-only=0",
+      "phonetic_am_text": "draap",
+      "img": "https://cdn.langeek.co/photo/35782/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a small amount of liquid or solid that falls or is released in a rounded shape",
+          "examples": [
+            {
+              "cf": "",
+              "x": "A drop of rain landed on her hand."
+            },
+            {
+              "cf": "",
+              "x": "She added a drop of vanilla extract to the batter."
+            },
+            {
+              "cf": "",
+              "x": "He tasted a drop of the spicy sauce before using it."
+            },
+            {
+              "cf": "",
+              "x": "A single drop of blood was visible on the bandage."
+            },
+            {
+              "cf": "",
+              "x": "A drop of sweat rolled down his forehead in the heat."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "smidgen",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=c21pZGdlbg&hash=74cc59ac7dd48144b4e10474a0482dd74085c8e3&lang=en&cache-only=0",
+      "phonetic_text": "smɪʤən",
+      "phoenetic_am": "https://tts.langeek.co/read?text=c21pZGdlbg&hash=74cc59ac7dd48144b4e10474a0482dd74085c8e3&lang=en&cache-only=0",
+      "phonetic_am_text": "smijēn",
+      "img": "",
+      "sense": [
+        {
+          "definition": "a very small and imprecise amount of something, typically a powdered or granular substance, such as salt, sugar, or spices",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The recipe called for just a smidgen of cinnamon to add flavor to the dish."
+            },
+            {
+              "cf": "",
+              "x": "She added a smidgen of salt to the soup to enhance the taste."
+            },
+            {
+              "cf": "",
+              "x": "He sprinkled a smidgen of powdered sugar on top of the dessert for decoration."
+            },
+            {
+              "cf": "",
+              "x": "The chef used a smidgen of cayenne pepper to give the sauce a hint of heat."
+            },
+            {
+              "cf": "",
+              "x": "Grandma's secret ingredient was always a smidgen of nutmeg in her famous apple pie recipe."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pinch",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cGluY2g&hash=03c488005993fb562c97b7e311a412ba8684e813&lang=en&cache-only=0",
+      "phonetic_text": "pɪnʧ",
+      "phoenetic_am": "https://tts.langeek.co/read?text=cGluY2g&hash=03c488005993fb562c97b7e311a412ba8684e813&lang=en&cache-only=0",
+      "phonetic_am_text": "pinch",
+      "img": "https://cdn.langeek.co/photo/21050/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a slight amount of something one can hold between the index finger and thumb",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Add a pinch of salt to enhance the flavor of the dish."
+            },
+            {
+              "cf": "",
+              "x": "He sprinkled a pinch of cinnamon on top of his coffee."
+            },
+            {
+              "cf": "",
+              "x": "A pinch of sugar balances the acidity in the tomato sauce."
+            },
+            {
+              "cf": "",
+              "x": "She added a pinch of herbs for extra aroma in her soup."
+            },
+            {
+              "cf": "",
+              "x": "Even a pinch of cayenne pepper can make the dish quite spicy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dash",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=ZGFzaA&hash=563c742250bda93d14e31dc795b8a0b5fe5be68b&lang=en&cache-only=0",
+      "phonetic_text": "dæʃ",
+      "phoenetic_am": "https://tts.langeek.co/read?text=ZGFzaA&hash=563c742250bda93d14e31dc795b8a0b5fe5be68b&lang=en&cache-only=0",
+      "phonetic_am_text": "dāsh",
+      "img": "",
+      "sense": [
+        {
+          "definition": "a small amount of liquid ingredient that is typically added to a drink in a quick, single pour from a bottle",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "fluid dram",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Zmx1aWQgZHJhbQ&hash=a75ee0be583e94499b5618ca943c4fadb058cab1&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=Zmx1aWQgZHJhbQ&hash=a75ee0be583e94499b5618ca943c4fadb058cab1&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a unit used to measure liquids in the United States, equal to about 3.696 milliliters or 1/8 of a US fluid ounce",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "gill",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Z2lsbA&hash=18d74069554a4e98e20183385deb63adad1f02e1&lang=en&cache-only=0",
+      "phonetic_text": "gɪl",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Z2lsbA&hash=18d74069554a4e98e20183385deb63adad1f02e1&lang=en&cache-only=0",
+      "phonetic_am_text": "gil",
+      "img": "",
+      "sense": [
+        {
+          "definition": "a unit of volume measurement the United States equal to a quarter of a US liquid pint, approximately 4 fluid ounces",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The recipe called for two gills of milk to be added to the batter."
+            },
+            {
+              "cf": "",
+              "x": "The bartender poured a gill of whiskey into the glass to prepare the cocktail."
+            },
+            {
+              "cf": "",
+              "x": "She measured out three gills of water to fill the kettle."
+            },
+            {
+              "cf": "",
+              "x": "The recipe instructed to add a gill of olive oil to the salad dressing."
+            },
+            {
+              "cf": "",
+              "x": "He poured a gill of vinegar into the saucepan to simmer with the vegetables."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "minim",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bWluaW0&hash=20aa1aa3429f5f6df0c2ceb88adf40da409e1e68&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=bWluaW0&hash=20aa1aa3429f5f6df0c2ceb88adf40da409e1e68&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a unit of volume measurement in the United States, equivalent to approximately 0.0616 milliliters",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The recipe for the perfume called for just a single minim of the precious floral essence."
+            },
+            {
+              "cf": "",
+              "x": "The recipe instructed adding just one minim of vanilla extract to the cake batter for a subtle flavor."
+            },
+            {
+              "cf": "",
+              "x": "The chef added a minim of lemon juice to the sauce to brighten its flavor without overpowering the dish."
+            },
+            {
+              "cf": "",
+              "x": "In the marinade, the cook included a minim of soy sauce to enhance the umami flavor of the meat."
+            },
+            {
+              "cf": "",
+              "x": "The pharmacist measured out five minims of the tincture to be added to the prescription."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "salt spoon",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=c2FsdCBzcG9vbg&hash=1c1e59bdd092da94656136fd1a1f456e9220b4b7&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=c2FsdCBzcG9vbg&hash=1c1e59bdd092da94656136fd1a1f456e9220b4b7&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a small spoon specifically used for serving salt, typically used at the dining table",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "British Imperial System",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=QnJpdGlzaCBJbXBlcmlhbCBTeXN0ZW0&hash=713aa39243dcbb7510307215291f222dcafa9c10&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=QnJpdGlzaCBJbXBlcmlhbCBTeXN0ZW0&hash=713aa39243dcbb7510307215291f222dcafa9c10&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a system of measurement used in the United Kingdom, featuring units such as inches, feet, pounds, and gallons",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The British Imperial System, with units like feet and pounds, was once prevalent across the Commonwealth."
+            },
+            {
+              "cf": "",
+              "x": "In the UK, road signs still display distances in miles, a legacy of the British Imperial System."
+            },
+            {
+              "cf": "",
+              "x": "Many Britons have a sense of familiarity with the British Imperial System despite the official adoption of the metric system."
+            },
+            {
+              "cf": "",
+              "x": "Tradesmen often rely on the British Imperial System for measurements, particularly in construction and carpentry."
+            },
+            {
+              "cf": "",
+              "x": "Understanding the British Imperial System is crucial for deciphering historical documents and literature."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ounce",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=b3VuY2U&hash=13b6c855969c3140e42002dafb293d154abd9841&lang=en&cache-only=0",
+      "phonetic_text": "aʊns",
+      "phoenetic_am": "https://tts.langeek.co/read?text=b3VuY2U&hash=13b6c855969c3140e42002dafb293d154abd9841&lang=en&cache-only=0",
+      "phonetic_am_text": "awns",
+      "img": "https://cdn.langeek.co/photo/20129/original/ounce?type=jpeg",
+      "sense": [
+        {
+          "definition": "a unit for measuring weight equal to approximately 28.34 grams",
+          "examples": []
+        }
+      ]
+    }
+  ]
+}

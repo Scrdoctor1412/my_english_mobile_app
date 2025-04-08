@@ -1,0 +1,918 @@
+{
+  "title": "Cakes and Pancakes",
+  "word_list": [
+    {
+      "word": "sponge cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=c3BvbmdlIGNha2U&hash=4514691ee397f5690cad12d83f99008f73ff3bb2&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=c3BvbmdlIGNha2U&hash=4514691ee397f5690cad12d83f99008f73ff3bb2&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/31147/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a soft cake made with eggs, flour, sugar, and sometimes butter",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "layer cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bGF5ZXIgY2FrZQ&hash=7630b469a5bb2e64ca251f76855d01fad8b61bef&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=bGF5ZXIgY2FrZQ&hash=7630b469a5bb2e64ca251f76855d01fad8b61bef&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/27133/original/cake?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of cake that is made by stacking multiple layers of cake with a filling, such as frosting, jam, or whipped cream, in between each layer",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "flourless cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=ZmxvdXJsZXNzIGNha2U&hash=e6b137e9729cf085959223076b202ed49199f98e&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=ZmxvdXJsZXNzIGNha2U&hash=e6b137e9729cf085959223076b202ed49199f98e&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37736/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of cake that is made without using any flour as an ingredient in the recipe",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "one egg cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=b25lIGVnZyBjYWtl&hash=712fe0330557b61721c1d1a0b1a137c9693a70b5&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=b25lIGVnZyBjYWtl&hash=712fe0330557b61721c1d1a0b1a137c9693a70b5&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37864/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of cake recipe that uses only one egg as an ingredient, typically resulting in a smaller, simpler cake with a lighter texture",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "chocolate cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2hvY29sYXRlIGNha2U&hash=0346d81b3d8958dd8074905f665312911495646c&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2hvY29sYXRlIGNha2U&hash=0346d81b3d8958dd8074905f665312911495646c&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/27133/original/cake?type=jpeg",
+      "sense": [
+        {
+          "definition": "a sweet dessert made from flour, sugar, eggs, cocoa powder, and other ingredients, typically served in slices",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She baked a delicious chocolate cake for the birthday party."
+            },
+            {
+              "cf": "",
+              "x": "The bakery sells a rich, moist chocolate cake with layers of ganache."
+            },
+            {
+              "cf": "",
+              "x": "A slice of chocolate cake is perfect with a cup of coffee."
+            },
+            {
+              "cf": "",
+              "x": "The recipe includes dark chocolate to make the chocolate cake extra flavorful."
+            },
+            {
+              "cf": "",
+              "x": "He surprised her with a homemade chocolate cake for their anniversary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "coffee cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y29mZmVlIGNha2U&hash=63ae163155bb449f19151878b419bb3e723ac40a&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y29mZmVlIGNha2U&hash=63ae163155bb449f19151878b419bb3e723ac40a&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37732/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of cake that is usually eaten with coffee and is often flavored with cinnamon, nuts, or fruit",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "carrot cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2Fycm90IGNha2U&hash=002ea9f8550640247fad197e93a68093debbfa33&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2Fycm90IGNha2U&hash=002ea9f8550640247fad197e93a68093debbfa33&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37724/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of cake that typically includes grated carrots in the batter, resulting in a moist, spiced cake often topped with cream cheese frosting",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "coconut cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y29jb251dCBjYWtl&hash=9cdb79b45eeb9fed03c26d4a4ea4690f4c616b64&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y29jb251dCBjYWtl&hash=9cdb79b45eeb9fed03c26d4a4ea4690f4c616b64&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37730/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of cake that is flavored with coconut and often includes coconut milk, shredded coconut, or coconut extract in the recipe",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "butter cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YnV0dGVyIGNha2U&hash=90b12bd2fb5597ec4455029bfe756758c0f7f995&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=YnV0dGVyIGNha2U&hash=90b12bd2fb5597ec4455029bfe756758c0f7f995&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37722/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of cake that is made with a high proportion of butter, resulting in a rich, tender crumb and a delicate buttery flavor",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "applesauce cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YXBwbGVzYXVjZSBjYWtl&hash=047068c5ba361e0f0d1db437a7490cff8e3c91eb&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=YXBwbGVzYXVjZSBjYWtl&hash=047068c5ba361e0f0d1db437a7490cff8e3c91eb&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a type of cake that is made with applesauce as a key ingredient, which adds moisture and flavor to the cake",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "spice cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=c3BpY2UgY2FrZQ&hash=5983621364a42b73a46a436a272e0d25e014c7ba&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=c3BpY2UgY2FrZQ&hash=5983621364a42b73a46a436a272e0d25e014c7ba&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a type of cake that is flavored with a variety of warm spices, such as cinnamon, nutmeg, ginger, and cloves, which add a fragrant and complex flavor to the cake",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "birthday cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YmlydGhkYXkgY2FrZQ&hash=b78852095e5906b0586c138904df887387e11cca&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=YmlydGhkYXkgY2FrZQ&hash=b78852095e5906b0586c138904df887387e11cca&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/48353/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a decorated cake with candles on it that is served in a birthday party",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "wedding cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=d2VkZGluZyBjYWtl&hash=0ed5f92fb8b27cadaa0e3226754c051a337db13c&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=d2VkZGluZyBjYWtl&hash=0ed5f92fb8b27cadaa0e3226754c051a337db13c&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/35798/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a decorated cake served at wedding receptions to celebrate the marriage of a couple",
+          "examples": [
+            {
+              "cf": "",
+              "x": "They cut the wedding cake together during the reception."
+            },
+            {
+              "cf": "",
+              "x": "The wedding cake was a beautiful three-tier design with floral decorations."
+            },
+            {
+              "cf": "",
+              "x": "She saved the top tier of her wedding cake for their first anniversary."
+            },
+            {
+              "cf": "",
+              "x": "Everyone took pictures as they shared the first bite of their wedding cake."
+            },
+            {
+              "cf": "",
+              "x": "They chose a red velvet wedding cake with cream cheese frosting."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Christmas cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Q2hyaXN0bWFzIGNha2U&hash=28bb45de192b9ee3d30cad0ed16155a6023bc182&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=Q2hyaXN0bWFzIGNha2U&hash=28bb45de192b9ee3d30cad0ed16155a6023bc182&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37728/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of cake that is traditionally served during the Christmas holiday season, and is often made with dried fruit, spices, and sometimes brandy or other spirits",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "angel food cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YW5nZWwgZm9vZCBjYWtl&hash=c495c6eddc6e5a0e02f1fa2c436a0afd1908e6ad&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=YW5nZWwgZm9vZCBjYWtl&hash=c495c6eddc6e5a0e02f1fa2c436a0afd1908e6ad&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37648/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of cake that is light and fluffy, and is made from a mixture of whipped egg whites, sugar, and flour",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "black forest cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YmxhY2sgZm9yZXN0IGNha2U&hash=deba81970a628f7d531279c54d1c86192543bd71&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=YmxhY2sgZm9yZXN0IGNha2U&hash=deba81970a628f7d531279c54d1c86192543bd71&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37650/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of chocolate cake that is typically layered with whipped cream and cherries, and often soaked in cherry liqueur",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "Boston cream pie",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Qm9zdG9uIGNyZWFtIHBpZQ&hash=83c769a7f8ed5eec8fd4343232700d91f7d00688&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=Qm9zdG9uIGNyZWFtIHBpZQ&hash=83c769a7f8ed5eec8fd4343232700d91f7d00688&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37932/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of cake that is made from two layers of sponge cake filled with pastry cream and topped with a chocolate glaze",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "brownie",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YnJvd25pZQ&hash=53223805b04aaebda5be22f337d02d210f985d05&lang=en&cache-only=0",
+      "phonetic_text": "braʊni",
+      "phoenetic_am": "https://tts.langeek.co/read?text=YnJvd25pZQ&hash=53223805b04aaebda5be22f337d02d210f985d05&lang=en&cache-only=0",
+      "phonetic_am_text": "brawni",
+      "img": "https://cdn.langeek.co/photo/26974/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a square shaped flat cake that is made with chocolate and occasionally nuts",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "charlotte",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2hhcmxvdHRl&hash=1b21be84c14f51af349be171db1ae89a3a5b93b3&lang=en&cache-only=0",
+      "phonetic_text": "ʃɑ:rlət",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2hhcmxvdHRl&hash=1b21be84c14f51af349be171db1ae89a3a5b93b3&lang=en&cache-only=0",
+      "phonetic_am_text": "shaarlēt",
+      "img": "https://cdn.langeek.co/photo/26976/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a cooked dessert made with sponge cake, biscuits or lady fingers placed in a mold and filled with whipped cream and fruits",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "cheesecake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2hlZXNlY2FrZQ&hash=2bfbf8bf617d588fb3a05af853f42a75ca2302da&lang=en&cache-only=0",
+      "phonetic_text": "ʧi:zkeɪk",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2hlZXNlY2FrZQ&hash=2bfbf8bf617d588fb3a05af853f42a75ca2302da&lang=en&cache-only=0",
+      "phonetic_am_text": "cheezkeik",
+      "img": "https://cdn.langeek.co/photo/50361/original/cheesecake?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of sweet dessert made from soft cheese on a cake or biscuit base",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She baked a classic New York-style cheesecake for the party."
+            },
+            {
+              "cf": "",
+              "x": "The café offers a variety of cheesecakes, including strawberry and chocolate."
+            },
+            {
+              "cf": "",
+              "x": "He topped the cheesecake with fresh berries and a drizzle of syrup."
+            },
+            {
+              "cf": "",
+              "x": "The chef decorated the cheesecake with edible flowers for a fancy touch."
+            },
+            {
+              "cf": "",
+              "x": "The recipe calls for cream cheese and a crumbly biscuit base to make the cheesecake."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chiffon cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2hpZmZvbiBjYWtl&hash=19f6edfabb6109f6b82a068db817fde176db13ce&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2hpZmZvbiBjYWtl&hash=19f6edfabb6109f6b82a068db817fde176db13ce&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37726/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of cake that is light and airy, and is made from a mixture of whipped egg whites, flour, sugar, and oil",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "cupcake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y3VwY2FrZQ&hash=946b47a79cc4afa056d2347978e2562986e8af91&lang=en&cache-only=0",
+      "phonetic_text": "kʌpkeɪk",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y3VwY2FrZQ&hash=946b47a79cc4afa056d2347978e2562986e8af91&lang=en&cache-only=0",
+      "phonetic_am_text": "kapkeik",
+      "img": "https://cdn.langeek.co/photo/50373/original/cupcake?type=jpeg",
+      "sense": [
+        {
+          "definition": "a small cake baked in the shape of a small cup and usually topped with frosting",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She decorated each cupcake with swirls of colorful frosting and sprinkles, creating a sweet and festive treat."
+            },
+            {
+              "cf": "",
+              "x": "The bakery offered a variety of gourmet cupcakes, from classic vanilla to decadent red velvet."
+            },
+            {
+              "cf": "",
+              "x": "He surprised her with a box of freshly baked cupcakes for her birthday, knowing they were her favorite dessert."
+            },
+            {
+              "cf": "",
+              "x": "The children giggled with excitement as they frosted their own cupcakes at the birthday party."
+            },
+            {
+              "cf": "",
+              "x": "She enjoyed a raspberry-filled cupcake with a cup of tea, finding comfort in the simple pleasure of a homemade treat."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "devil's food cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=ZGV2aWwncyBmb29kIGNha2U&hash=e3505205d6b9b80b38890b90fb6aeb46ba1822ae&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=ZGV2aWwncyBmb29kIGNha2U&hash=e3505205d6b9b80b38890b90fb6aeb46ba1822ae&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37734/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of chocolate cake that is known for its rich, dark color and deep chocolate flavor",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "eccles cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=ZWNjbGVzIGNha2U&hash=f43e6471bb7a29afdf5efc7a4f46d2c8fd4ff4ec&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=ZWNjbGVzIGNha2U&hash=f43e6471bb7a29afdf5efc7a4f46d2c8fd4ff4ec&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37846/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of pastry that originated in England and is made from a flaky pastry filled with currants, sugar, and spices",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "fruitcake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=ZnJ1aXRjYWtl&hash=c58fc3fc30bf61c6152ccb197dd0134c7be4ca46&lang=en&cache-only=0",
+      "phonetic_text": "fru:tkeɪk",
+      "phoenetic_am": "https://tts.langeek.co/read?text=ZnJ1aXRjYWtl&hash=c58fc3fc30bf61c6152ccb197dd0134c7be4ca46&lang=en&cache-only=0",
+      "phonetic_am_text": "frootkeik",
+      "img": "https://cdn.langeek.co/photo/37778/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of cake that is made with dried or candied fruit, nuts, and spices, and is often soaked in brandy or other spirits to enhance its flavor",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "ice-cream cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=aWNlLWNyZWFtIGNha2U&hash=b26734426d63ec29f7ac222af26a2cd9570b7481&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=aWNlLWNyZWFtIGNha2U&hash=b26734426d63ec29f7ac222af26a2cd9570b7481&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37780/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of cake that is made from layers of ice cream and cake, which are then frozen together",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "Madeira cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=TWFkZWlyYSBjYWtl&hash=cd2c47ada421a3ca1b2c40d0217df4e969f5c059&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=TWFkZWlyYSBjYWtl&hash=cd2c47ada421a3ca1b2c40d0217df4e969f5c059&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37782/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of sponge cake that is dense, buttery, and has a slightly lemony flavor",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "marble cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bWFyYmxlIGNha2U&hash=69e88c71d0c4091702177d94fc4977d19c8a7f10&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=bWFyYmxlIGNha2U&hash=69e88c71d0c4091702177d94fc4977d19c8a7f10&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37784/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of cake that is made by combining two different flavors of cake batter, usually vanilla and chocolate, which are then swirled together to create a marbled effect",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "mooncake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bW9vbmNha2U&hash=73b52dc90845ab3a9cccbeaaba20e67e26e95b94&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=bW9vbmNha2U&hash=73b52dc90845ab3a9cccbeaaba20e67e26e95b94&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37858/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a traditional Chinese pastry typically eaten during the Mid-Autumn Festival, characterized by its round shape and various fillings",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "petit four",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cGV0aXQgZm91cg&hash=d8bbec9a4f9dc6b44fa0c58f2d7f1441e9afa63f&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=cGV0aXQgZm91cg&hash=d8bbec9a4f9dc6b44fa0c58f2d7f1441e9afa63f&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/31417/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a small designed cake which is served with tea or coffee",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "pound cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cG91bmQgY2FrZQ&hash=ccc2b91e7a8169c0ac2096b3925c2d679b67f1c9&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=cG91bmQgY2FrZQ&hash=ccc2b91e7a8169c0ac2096b3925c2d679b67f1c9&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37868/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of cake that is made from a mixture of flour, butter, sugar, and eggs, and is traditionally baked in a loaf pan",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "red velvet cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cmVkIHZlbHZldCBjYWtl&hash=f77a74c0a4f1c16bc946f54573187870e1241666&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=cmVkIHZlbHZldCBjYWtl&hash=f77a74c0a4f1c16bc946f54573187870e1241666&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37800/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a popular cake characterized by its distinctive red color, typically made with cocoa powder and buttermilk",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "rock cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cm9jayBjYWtl&hash=bd69788e237c5e0da7428bb60e92a6598f415f9d&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=cm9jayBjYWtl&hash=bd69788e237c5e0da7428bb60e92a6598f415f9d&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37758/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of small, rustic cake that is popular in the United Kingdom and is known for its rough and crumbly texture",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "rum baba",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cnVtIGJhYmE&hash=eab3de6b17954ad931b58acd2980d0eadfc5e20d&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=cnVtIGJhYmE&hash=eab3de6b17954ad931b58acd2980d0eadfc5e20d&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37806/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a classic dessert made of a small yeast cake soaked in rum syrup, often filled with whipped cream or pastry cream",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "souffle",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=c291ZmZsZQ&hash=db89213c5ff2b183630edae51684316cae1564c7&lang=en&cache-only=0",
+      "phonetic_text": "sufleɪ",
+      "phoenetic_am": "https://tts.langeek.co/read?text=c291ZmZsZQ&hash=db89213c5ff2b183630edae51684316cae1564c7&lang=en&cache-only=0",
+      "phonetic_am_text": "suflei",
+      "img": "https://cdn.langeek.co/photo/30341/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a dish made with mixing beaten egg whites, flour, and milk together with cheese or fruit until light and spongy",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "Swiss roll",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=U3dpc3Mgcm9sbA&hash=a8cac5074938239fac84b2a0cfbb46f8d21a1c14&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=U3dpc3Mgcm9sbA&hash=a8cac5074938239fac84b2a0cfbb46f8d21a1c14&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37812/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of cake that is made from a thin sheet of sponge cake that is rolled up with a sweet filling, such as jam, cream, or chocolate",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "teacake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=dGVhY2FrZQ&hash=68e4dd850aa95219e50df2d8164d61ead632fcde&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=dGVhY2FrZQ&hash=68e4dd850aa95219e50df2d8164d61ead632fcde&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37872/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of sweet, soft, and fluffy bread or cake that is typically flavored with dried fruit, such as currants, raisins, or cherries",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "upside-down cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=dXBzaWRlLWRvd24gY2FrZQ&hash=de6c29d1f8ff0c700ce425d3de4cac20f655fd27&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=dXBzaWRlLWRvd24gY2FrZQ&hash=de6c29d1f8ff0c700ce425d3de4cac20f655fd27&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37814/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of cake that is baked with fruit on the bottom of the pan, which is then flipped over after baking so that the fruit is on top of the cake",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "madeleine",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bWFkZWxlaW5l&hash=2624bed22be0d53dfff9683b0e933fbbf00a005d&lang=en&cache-only=0",
+      "phonetic_text": "mædəlɛn",
+      "phoenetic_am": "https://tts.langeek.co/read?text=bWFkZWxlaW5l&hash=2624bed22be0d53dfff9683b0e933fbbf00a005d&lang=en&cache-only=0",
+      "phonetic_am_text": "mādēlen",
+      "img": "",
+      "sense": [
+        {
+          "definition": "a traditional small French cake, typically shell-shaped, with a light and airy texture and a distinct lemon or orange flavor",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "Bundt cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=QnVuZHQgY2FrZQ&hash=f2f6ff7b84f9830fdc5962a4ca5d46df56c281cd&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=QnVuZHQgY2FrZQ&hash=f2f6ff7b84f9830fdc5962a4ca5d46df56c281cd&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37720/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of cake that is baked in a Bundt pan, resulting in a ring-shaped cake with decorative grooves and a central tube",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "sheet cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=c2hlZXQgY2FrZQ&hash=46e0c15fd9dabfa7c1264afc801133c5a46268ff&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=c2hlZXQgY2FrZQ&hash=46e0c15fd9dabfa7c1264afc801133c5a46268ff&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37870/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a large rectangular cake that is typically baked in a shallow, flat pan",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "sno ball",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=c25vIGJhbGw&hash=c937b4924d98b30ed424b034a94b21e507336855&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=c25vIGJhbGw&hash=c937b4924d98b30ed424b034a94b21e507336855&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37810/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of sweet treat typically made of cake or marshmallow covered in colorful, flavored coconut flakes",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "pancake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cGFuY2FrZQ&hash=cba3d1feb86635172ce0796d97811dcf463b9737&lang=en&cache-only=0",
+      "phonetic_text": "pænkeɪk",
+      "phoenetic_am": "https://tts.langeek.co/read?text=cGFuY2FrZQ&hash=cba3d1feb86635172ce0796d97811dcf463b9737&lang=en&cache-only=0",
+      "phonetic_am_text": "pānkeik",
+      "img": "https://cdn.langeek.co/photo/19132/original/pancake?type=jpeg",
+      "sense": [
+        {
+          "definition": "a flat round cake that is thin and is made with milk, eggs, and flour, cooked on a hot surface, typically a griddle or frying pan",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She flipped the pancake onto the griddle, eagerly awaiting the golden-brown perfection on the other side."
+            },
+            {
+              "cf": "",
+              "x": "Every Sunday morning, they gather in the kitchen to make a batch of fluffy pancakes topped with fresh berries."
+            },
+            {
+              "cf": "",
+              "x": "The diner serves stacks of pancakes with a variety of toppings, from classic maple syrup to decadent chocolate chips."
+            },
+            {
+              "cf": "",
+              "x": "He prefers his pancakes with a dollop of whipped cream and a sprinkle of powdered sugar for an extra touch of sweetness."
+            },
+            {
+              "cf": "",
+              "x": "The aroma of sizzling pancakes filled the air, drawing hungry guests to the breakfast buffet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hotcake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=aG90Y2FrZQ&hash=4e85a0a38c82bfa15a15ecec7c3872421ce3f171&lang=en&cache-only=0",
+      "phonetic_text": "hɑ:tkeɪk",
+      "phoenetic_am": "https://tts.langeek.co/read?text=aG90Y2FrZQ&hash=4e85a0a38c82bfa15a15ecec7c3872421ce3f171&lang=en&cache-only=0",
+      "phonetic_am_text": "haatkeik",
+      "img": "https://cdn.langeek.co/photo/19132/original/pancake?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of pancake that is made from a batter of flour, eggs, milk, and other ingredients, cooked on a hot griddle or frying pan until golden brown",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "flapjack",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=ZmxhcGphY2s&hash=c95becd9b37b902b5bd23d775dbede12ce2a4d07&lang=en&cache-only=0",
+      "phonetic_text": "flæpʤæk",
+      "phoenetic_am": "https://tts.langeek.co/read?text=ZmxhcGphY2s&hash=c95becd9b37b902b5bd23d775dbede12ce2a4d07&lang=en&cache-only=0",
+      "phonetic_am_text": "flāpjāk",
+      "img": "https://cdn.langeek.co/photo/19132/original/pancake?type=jpeg",
+      "sense": [
+        {
+          "definition": "a thin flat cake made with a batter, both sides of which are cooked on a griddle",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "blini",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Ymxpbmk&hash=e570be569d333053d0a70191d4c65a060a140b5b&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=Ymxpbmk&hash=e570be569d333053d0a70191d4c65a060a140b5b&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37652/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of Russian pancake that is made from buckwheat flour and yeast, and is typically served with toppings such as sour cream, caviar, or smoked salmon",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "crepe",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y3JlcGU&hash=65aaff07d99e34a06a6aaba51ec9f39b5ed249e9&lang=en&cache-only=0",
+      "phonetic_text": "kreɪp",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y3JlcGU&hash=65aaff07d99e34a06a6aaba51ec9f39b5ed249e9&lang=en&cache-only=0",
+      "phonetic_am_text": "kreip",
+      "img": "https://cdn.langeek.co/photo/27672/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a very thin pancake, originally made in Brittany, France",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "gateau",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Z2F0ZWF1&hash=cf11e1dcdd61ddae639b474b0f1080fb57454223&lang=en&cache-only=0",
+      "phonetic_text": "gɑtoʊ",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Z2F0ZWF1&hash=cf11e1dcdd61ddae639b474b0f1080fb57454223&lang=en&cache-only=0",
+      "phonetic_am_text": "gɑtow",
+      "img": "https://cdn.langeek.co/photo/27133/original/cake?type=jpeg",
+      "sense": [
+        {
+          "definition": "any layered cake that is filled with chocolate, fruits, nuts and cream",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "medovik",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bWVkb3Zpaw&hash=68dd974d9a54454c822a4f6e669ec43716f4366d&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=bWVkb3Zpaw&hash=68dd974d9a54454c822a4f6e669ec43716f4366d&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37792/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a Russian honey cake made of multiple layers of honey-infused cake filled with creamy frosting",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "muffin",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bXVmZmlu&hash=397cdd1595fa240b39a6dc5d2e1a0478f3aa8c54&lang=en&cache-only=0",
+      "phonetic_text": "mʌfən",
+      "phoenetic_am": "https://tts.langeek.co/read?text=bXVmZmlu&hash=397cdd1595fa240b39a6dc5d2e1a0478f3aa8c54&lang=en&cache-only=0",
+      "phonetic_am_text": "mafēn",
+      "img": "https://cdn.langeek.co/photo/50349/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a small cup-shaped cake that is sweet in taste, made with eggs and baking powder",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "cake",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2FrZQ&hash=06d0cb848466be1f75dfd8a67dc34ee7a4709661&lang=en&cache-only=0",
+      "phonetic_text": "keɪk",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2FrZQ&hash=06d0cb848466be1f75dfd8a67dc34ee7a4709661&lang=en&cache-only=0",
+      "phonetic_am_text": "keik",
+      "img": "https://cdn.langeek.co/photo/27133/original/cake?type=jpeg",
+      "sense": [
+        {
+          "definition": "a sweet food we make by mixing flour, butter or oil, sugar, eggs and other ingredients, then baking it in an oven",
+          "examples": [
+            {
+              "cf": "",
+              "x": "He baked a gluten-free almond cake for his friend with dietary restrictions."
+            },
+            {
+              "cf": "",
+              "x": "He decorated a vanilla cake with colorful sprinkles for a festive celebration."
+            },
+            {
+              "cf": "",
+              "x": "She enjoyed a slice of strawberry cake with whipped cream frosting."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "torte",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=dG9ydGU&hash=90d0302ea5f3f2a81237d533c70db3f58e25bed7&lang=en&cache-only=0",
+      "phonetic_text": "tɔ:rt",
+      "phoenetic_am": "https://tts.langeek.co/read?text=dG9ydGU&hash=90d0302ea5f3f2a81237d533c70db3f58e25bed7&lang=en&cache-only=0",
+      "phonetic_am_text": "taawrt",
+      "img": "",
+      "sense": [
+        {
+          "definition": "a type of cake made with layers of cake, usually filled with jam, cream, or other flavorings, and topped with a glaze or icing",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "battenburg",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YmF0dGVuYnVyZw&hash=134da5f5b1b80a911c7ccf174b7adf3f90b1e219&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=YmF0dGVuYnVyZw&hash=134da5f5b1b80a911c7ccf174b7adf3f90b1e219&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a traditional British sponge cake that consists of alternating squares of vanilla and pink or yellow sponge cake",
+          "examples": []
+        }
+      ]
+    }
+  ]
+}

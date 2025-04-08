@@ -1,0 +1,414 @@
+{
+  "title": "Vehicle Users",
+  "word_list": [
+    {
+      "word": "driver",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=ZHJpdmVy&hash=c8fedec14115a1d1ebb260baef8f417d7694d675&lang=en&cache-only=0",
+      "phonetic_text": "draɪvər",
+      "phoenetic_am": "https://tts.langeek.co/read?text=ZHJpdmVy&hash=c8fedec14115a1d1ebb260baef8f417d7694d675&lang=en&cache-only=0",
+      "phonetic_am_text": "draivēr",
+      "img": "https://cdn.langeek.co/photo/20095/original/taxi-driver?type=jpeg",
+      "sense": [
+        {
+          "definition": "someone who drives a vehicle",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "rider",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cmlkZXI&hash=68515af32fd62376be28b7a42f1ba442303f8315&lang=en&cache-only=0",
+      "phonetic_text": "raɪdər",
+      "phoenetic_am": "https://tts.langeek.co/read?text=cmlkZXI&hash=68515af32fd62376be28b7a42f1ba442303f8315&lang=en&cache-only=0",
+      "phonetic_am_text": "raidēr",
+      "img": "https://cdn.langeek.co/photo/36814/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "someone who uses a motorcycle or bicycle for transportation",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "biker",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YmlrZXI&hash=79fde71a74abdd2a1398e850717e3ad807f04fc8&lang=en&cache-only=0",
+      "phonetic_text": "baɪkər",
+      "phoenetic_am": "https://tts.langeek.co/read?text=YmlrZXI&hash=79fde71a74abdd2a1398e850717e3ad807f04fc8&lang=en&cache-only=0",
+      "phonetic_am_text": "baikēr",
+      "img": "",
+      "sense": [
+        {
+          "definition": "someone who rides a motorcycle or bicycle",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "cyclist",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y3ljbGlzdA&hash=569b5838c214131c14775d5dcfcd3fa1fd9e46ad&lang=en&cache-only=0",
+      "phonetic_text": "saɪkəlɪst",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y3ljbGlzdA&hash=569b5838c214131c14775d5dcfcd3fa1fd9e46ad&lang=en&cache-only=0",
+      "phonetic_am_text": "saikēlist",
+      "img": "https://cdn.langeek.co/photo/51065/original/cycling?type=jpeg",
+      "sense": [
+        {
+          "definition": "someone who rides a bicycle",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "motorist",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bW90b3Jpc3Q&hash=d3704dd2f89b31f24c81d4a6589b2d15d1b466e9&lang=en&cache-only=0",
+      "phonetic_text": "moʊtərɪst",
+      "phoenetic_am": "https://tts.langeek.co/read?text=bW90b3Jpc3Q&hash=d3704dd2f89b31f24c81d4a6589b2d15d1b466e9&lang=en&cache-only=0",
+      "phonetic_am_text": "mowtērist",
+      "img": "",
+      "sense": [
+        {
+          "definition": "someone who drives a car or other motor vehicle",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "motorcyclist",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bW90b3JjeWNsaXN0&hash=8ce3f180b3fada1c475ff4de7e82379d48039de9&lang=en&cache-only=0",
+      "phonetic_text": "moʊtərsaɪkəlɪst",
+      "phoenetic_am": "https://tts.langeek.co/read?text=bW90b3JjeWNsaXN0&hash=8ce3f180b3fada1c475ff4de7e82379d48039de9&lang=en&cache-only=0",
+      "phonetic_am_text": "mowtērsaikēlist",
+      "img": "",
+      "sense": [
+        {
+          "definition": "someone who rides a motorcycle",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "racer",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cmFjZXI&hash=c6d0fd99b6d4c79d6263abf1a6df19f6cf3ecc27&lang=en&cache-only=0",
+      "phonetic_text": "reɪsər",
+      "phoenetic_am": "https://tts.langeek.co/read?text=cmFjZXI&hash=c6d0fd99b6d4c79d6263abf1a6df19f6cf3ecc27&lang=en&cache-only=0",
+      "phonetic_am_text": "reisēr",
+      "img": "",
+      "sense": [
+        {
+          "definition": "a skilled driver who competes in racing events, maneuvering vehicles at high speeds around tracks or courses",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "teamster",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=dGVhbXN0ZXI&hash=0a0f62fb28c5350231b4a72138cb4feeebe443b8&lang=en&cache-only=0",
+      "phonetic_text": "ti:mstər",
+      "phoenetic_am": "https://tts.langeek.co/read?text=dGVhbXN0ZXI&hash=0a0f62fb28c5350231b4a72138cb4feeebe443b8&lang=en&cache-only=0",
+      "phonetic_am_text": "teemstēr",
+      "img": "https://cdn.langeek.co/photo/33629/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "someone who drives a truck or operates other heavy vehicles, often for transporting goods",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "trucker",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=dHJ1Y2tlcg&hash=596686546ca59e8c57124d38c6c9338cce83edb8&lang=en&cache-only=0",
+      "phonetic_text": "trʌkər",
+      "phoenetic_am": "https://tts.langeek.co/read?text=dHJ1Y2tlcg&hash=596686546ca59e8c57124d38c6c9338cce83edb8&lang=en&cache-only=0",
+      "phonetic_am_text": "trakēr",
+      "img": "https://cdn.langeek.co/photo/33629/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "someone who drives a truck, usually for long distances, to transport goods",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "truck driver",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=dHJ1Y2sgZHJpdmVy&hash=7eba6c725c6ea02d1d6aae5d8ed8347b6b09184e&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=dHJ1Y2sgZHJpdmVy&hash=7eba6c725c6ea02d1d6aae5d8ed8347b6b09184e&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/33629/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "an individual who operates large vehicles to transport goods over long distances",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "cabby",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2FiYnk&hash=b906145e6d623e5a00407c5ac1be7070b10acaef&lang=en&cache-only=0",
+      "phonetic_text": "kæbi",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2FiYnk&hash=b906145e6d623e5a00407c5ac1be7070b10acaef&lang=en&cache-only=0",
+      "phonetic_am_text": "kābi",
+      "img": "https://cdn.langeek.co/photo/20958/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a person who drives a taxi to transport passengers for a set price",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The cabby picked up passengers from the busy airport."
+            },
+            {
+              "cf": "",
+              "x": "Every night, the cabby works late shifts in the city."
+            },
+            {
+              "cf": "",
+              "x": "The cabby skillfully navigated through heavy traffic."
+            },
+            {
+              "cf": "",
+              "x": "During rush hour, cabbies often have to deal with impatient passengers and traffic jams."
+            },
+            {
+              "cf": "",
+              "x": "The cabby stopped at a gas station to refuel before picking up the next passenger."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chauffeur",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2hhdWZmZXVy&hash=755573c7771519acfd9634ea12fbd758b0f7ff8c&lang=en&cache-only=0",
+      "phonetic_text": "ʃoʊfɜr",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2hhdWZmZXVy&hash=755573c7771519acfd9634ea12fbd758b0f7ff8c&lang=en&cache-only=0",
+      "phonetic_am_text": "showfēr",
+      "img": "https://cdn.langeek.co/photo/29701/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "someone who is employed to drive someone else's car for them",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "road hog",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cm9hZCBob2c&hash=942577236781faeb1a426abf6e9630dd88313694&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=cm9hZCBob2c&hash=942577236781faeb1a426abf6e9630dd88313694&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "someone who drives aggressively or selfishly, often taking up more space on the road than necessary",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The road hog cut off several cars while changing lanes without signaling."
+            },
+            {
+              "cf": "",
+              "x": "Every morning, the road hog speeds through traffic, causing delays."
+            },
+            {
+              "cf": "",
+              "x": "The road hog ignored traffic signals and drove recklessly."
+            },
+            {
+              "cf": "",
+              "x": "Other drivers honked at the road hog for blocking the intersection."
+            },
+            {
+              "cf": "",
+              "x": "He encountered a road hog on his way to work, forcing him to slow down."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "outrider",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=b3V0cmlkZXI&hash=d330951815585699cd0a8db0584bc153ba79f75d&lang=en&cache-only=0",
+      "phonetic_text": "aʊtraɪdər",
+      "phoenetic_am": "https://tts.langeek.co/read?text=b3V0cmlkZXI&hash=d330951815585699cd0a8db0584bc153ba79f75d&lang=en&cache-only=0",
+      "phonetic_am_text": "awtraidēr",
+      "img": "",
+      "sense": [
+        {
+          "definition": "someone who rides alongside or ahead of a convoy or group, typically to provide protection or guidance",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The outrider led the procession of vehicles through the crowded streets."
+            },
+            {
+              "cf": "",
+              "x": "The outrider wore a high-visibility vest and communicated with hand signals."
+            },
+            {
+              "cf": "",
+              "x": "She volunteered to be an outrider during the charity bike ride to ensure safety."
+            },
+            {
+              "cf": "",
+              "x": "The outrider cleared the way for the VIP convoy by managing traffic."
+            },
+            {
+              "cf": "",
+              "x": "He admired the skill of the outrider as they maneuvered through narrow lanes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "valet",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=dmFsZXQ&hash=466e9c5f1753fa7b6344bbb75aaaacfb13dff6a1&lang=en&cache-only=0",
+      "phonetic_text": "væleɪ",
+      "phoenetic_am": "https://tts.langeek.co/read?text=dmFsZXQ&hash=466e9c5f1753fa7b6344bbb75aaaacfb13dff6a1&lang=en&cache-only=0",
+      "phonetic_am_text": "vālei",
+      "img": "https://cdn.langeek.co/photo/26483/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "someone whose job is parking customers' cars at restaurants or hotels",
+          "examples": [
+            {
+              "cf": "",
+              "x": "As the hotel guests pulled up to the entrance, the valet swiftly took their keys and parked their car in the designated area."
+            },
+            {
+              "cf": "",
+              "x": "The valet greeted guests with a warm smile as he handed back their keys upon their return from dinner."
+            },
+            {
+              "cf": "",
+              "x": "She tipped the valet generously for his prompt service in retrieving her car during rush hour."
+            },
+            {
+              "cf": "",
+              "x": "The valet carefully maneuvered the expensive sports car into a parking spot, ensuring it was safe and secure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "designated driver",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=ZGVzaWduYXRlZCBkcml2ZXI&hash=40aef79ecb2afd5c8ce3b4a6bc9c070e8f36b218&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=ZGVzaWduYXRlZCBkcml2ZXI&hash=40aef79ecb2afd5c8ce3b4a6bc9c070e8f36b218&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a person chosen to abstain from alcohol and ensure the safe transportation of others who have been drinking",
+          "examples": [
+            {
+              "cf": "",
+              "x": "John agreed to be the designated driver, showing his commitment to responsible drinking habits."
+            },
+            {
+              "cf": "",
+              "x": "Mark volunteered to be the designated driver for the night out with friends."
+            },
+            {
+              "cf": "",
+              "x": "Our group always appoints a designated driver to make sure we get home safely after a party."
+            },
+            {
+              "cf": "",
+              "x": "Lisa, the non-drinker in the group, was the designated driver."
+            },
+            {
+              "cf": "",
+              "x": "The night's designated driver is key for a safe celebration."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "passenger",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cGFzc2VuZ2Vy&hash=5870150d9e37ef496267e4504ea7661bc8bd5fed&lang=en&cache-only=0",
+      "phonetic_text": "pæsənʤər",
+      "phoenetic_am": "https://tts.langeek.co/read?text=cGFzc2VuZ2Vy&hash=5870150d9e37ef496267e4504ea7661bc8bd5fed&lang=en&cache-only=0",
+      "phonetic_am_text": "pāsēnjēr",
+      "img": "https://cdn.langeek.co/photo/36904/original/passenger?type=jpeg",
+      "sense": [
+        {
+          "definition": "someone traveling in a vehicle, aircraft, ship, etc. who is not the pilot, driver, or a crew member",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She often reads a book to pass the time when she's a passenger on long road trips."
+            },
+            {
+              "cf": "",
+              "x": "The bus passenger pressed the button to request the next stop."
+            },
+            {
+              "cf": "",
+              "x": "The bus was crowded with passengers during the morning commute."
+            },
+            {
+              "cf": "",
+              "x": "The flight attendant demonstrated safety procedures to the passengers."
+            },
+            {
+              "cf": "",
+              "x": "The passenger on the cruise ship enjoyed a view of the ocean from her cabin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Hells Angel",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=SGVsbHMgQW5nZWw&hash=9a5937501c42723030840b3128e1ea038b772c0d&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=SGVsbHMgQW5nZWw&hash=9a5937501c42723030840b3128e1ea038b772c0d&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a member of a motorcycle club known for its distinctive style and culture",
+          "examples": [
+            {
+              "cf": "",
+              "x": "He looks like a Hells Angel with his leather jacket and motorcycle boots."
+            },
+            {
+              "cf": "",
+              "x": "The Hells Angel revved his engine loudly as he pulled into the parking lot."
+            },
+            {
+              "cf": "",
+              "x": "People often mistake him for a Hells Angel because of his rugged appearance and love for motorcycles."
+            },
+            {
+              "cf": "",
+              "x": "The Hells Angel greeted his fellow club members with a firm handshake and a nod."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

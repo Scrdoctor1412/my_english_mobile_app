@@ -1,0 +1,885 @@
+{
+  "title": "Road Design and Features",
+  "word_list": [
+    {
+      "word": "lane",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bGFuZQ&hash=a792ef37db9bed07fb61cc9cd5f0c30fc9aadd7a&lang=en&cache-only=0",
+      "phonetic_text": "leɪn",
+      "phoenetic_am": "https://tts.langeek.co/read?text=bGFuZQ&hash=a792ef37db9bed07fb61cc9cd5f0c30fc9aadd7a&lang=en&cache-only=0",
+      "phonetic_am_text": "lein",
+      "img": "https://cdn.langeek.co/photo/19574/original/lane?type=jpeg",
+      "sense": [
+        {
+          "definition": "a part of a road that is separated by white lines",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "slow lane",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=c2xvdyBsYW5l&hash=7f43f59a53ade542553d40de268b160726f0b776&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=c2xvdyBsYW5l&hash=7f43f59a53ade542553d40de268b160726f0b776&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "the lane on a multi-lane road designated for vehicles traveling at slower speeds",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "fast lane",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=ZmFzdCBsYW5l&hash=1e65da64489a5d88483564da62abb4151e7db667&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=ZmFzdCBsYW5l&hash=1e65da64489a5d88483564da62abb4151e7db667&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "the lane on a multi-lane road designated for vehicles traveling at higher speeds",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "passing lane",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cGFzc2luZyBsYW5l&hash=8c24b1ea2003e8784751e9870c4c52af7115be46&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=cGFzc2luZyBsYW5l&hash=8c24b1ea2003e8784751e9870c4c52af7115be46&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "the lane on a road or highway that vehicles use to overtake slower-moving traffic",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "HOV lane",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=SE9WIGxhbmU&hash=90a61f4752666b2082b5865fd894fc98d1e2028b&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=SE9WIGxhbmU&hash=90a61f4752666b2082b5865fd894fc98d1e2028b&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a designated highway lane reserved for vehicles carrying multiple occupants, typically with a minimum requirement of two or more people",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "HOT lane",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=SE9UIGxhbmU&hash=3668a0ee7dfca7fa395a16ea543a68dc7ca1cba5&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=SE9UIGxhbmU&hash=3668a0ee7dfca7fa395a16ea543a68dc7ca1cba5&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a designated highway lane where drivers can choose to pay a toll for faster travel",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "reversible lane",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cmV2ZXJzaWJsZSBsYW5l&hash=ee514e276e24e60cec35d133655d16e0dd968a91&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=cmV2ZXJzaWJsZSBsYW5l&hash=ee514e276e24e60cec35d133655d16e0dd968a91&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a traffic lane that changes direction based on the time of day or traffic flow",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "climbing lane",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2xpbWJpbmcgbGFuZQ&hash=4878b0f49a997edd5b03e8294c63a703a3724fb9&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2xpbWJpbmcgbGFuZQ&hash=4878b0f49a997edd5b03e8294c63a703a3724fb9&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "an additional lane on a road designed to help slower vehicles move uphill without impeding faster traffic",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "bicycle lane",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YmljeWNsZSBsYW5l&hash=157315aa0a7fe24ff7738538b8ef3ebd445f9b3c&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=YmljeWNsZSBsYW5l&hash=157315aa0a7fe24ff7738538b8ef3ebd445f9b3c&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a designated part of the road marked specifically for cyclists to ride safely",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "dogleg",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=ZG9nbGVn&hash=681c100374313ba79915d03534ed6094ba268f50&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=ZG9nbGVn&hash=681c100374313ba79915d03534ed6094ba268f50&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a sharp bend or turn in a road",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "bike lane",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YmlrZSBsYW5l&hash=6b210d2eab78a19c7ca44b361a70d1eb53f49a12&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=YmlrZSBsYW5l&hash=6b210d2eab78a19c7ca44b361a70d1eb53f49a12&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a designated area on a road for cyclists",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "breakdown lane",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YnJlYWtkb3duIGxhbmU&hash=4f7d5b77ffaf724240aebd3ac4ddc083431b9c2d&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=YnJlYWtkb3duIGxhbmU&hash=4f7d5b77ffaf724240aebd3ac4ddc083431b9c2d&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37377/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a lane on the side of a highway where vehicles can stop in case of emergency or mechanical failure",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "express lane",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=ZXhwcmVzcyBsYW5l&hash=a8276ece5f786b5ce07d62ddb7ce12ea1e342766&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=ZXhwcmVzcyBsYW5l&hash=a8276ece5f786b5ce07d62ddb7ce12ea1e342766&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "the part of a road where vehicles can go faster due to light traffic there",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "carpool lane",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2FycG9vbCBsYW5l&hash=20229ff19daaffadabfe8b3f7ae2d58ebcc75f3d&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2FycG9vbCBsYW5l&hash=20229ff19daaffadabfe8b3f7ae2d58ebcc75f3d&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a traffic lane reserved for vehicles with a minimum number of passengers, typically to encourage carpooling and reduce congestion",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "curb",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y3VyYg&hash=c8b1b02f9edd6785620f168cd690f73e7c2327a3&lang=en&cache-only=0",
+      "phonetic_text": "kɜrb",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y3VyYg&hash=c8b1b02f9edd6785620f168cd690f73e7c2327a3&lang=en&cache-only=0",
+      "phonetic_am_text": "kērb",
+      "img": "https://cdn.langeek.co/photo/29832/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "the raised edge at the side of a street, usually made of stone",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "curbside",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y3VyYnNpZGU&hash=c5cb9013f5316af019ae2050c09080959b1e5b90&lang=en&cache-only=0",
+      "phonetic_text": "kɜrbsaɪd",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y3VyYnNpZGU&hash=c5cb9013f5316af019ae2050c09080959b1e5b90&lang=en&cache-only=0",
+      "phonetic_am_text": "kērbsaid",
+      "img": "",
+      "sense": [
+        {
+          "definition": "the area adjacent to the edge of a street or road where vehicles can park or where services, such as deliveries or pickups, often take place",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "camber",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2FtYmVy&hash=fa00ff4bb11c8e9ce6641834b52a12131778a2a1&lang=en&cache-only=0",
+      "phonetic_text": "kæmbər",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2FtYmVy&hash=fa00ff4bb11c8e9ce6641834b52a12131778a2a1&lang=en&cache-only=0",
+      "phonetic_am_text": "kāmbēr",
+      "img": "",
+      "sense": [
+        {
+          "definition": "the slight curve or tilt of a road surface to help with drainage and stability",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "bend",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YmVuZA&hash=2bfaf16ad5e1a3936bd50df9cc17cd218aaac0b2&lang=en&cache-only=0",
+      "phonetic_text": "bɛnd",
+      "phoenetic_am": "https://tts.langeek.co/read?text=YmVuZA&hash=2bfaf16ad5e1a3936bd50df9cc17cd218aaac0b2&lang=en&cache-only=0",
+      "phonetic_am_text": "bend",
+      "img": "https://cdn.langeek.co/photo/21426/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a curve in a road, river, etc.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "switchback",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=c3dpdGNoYmFjaw&hash=a945e9793e19d779225857d7115c617b2720e5fb&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=c3dpdGNoYmFjaw&hash=a945e9793e19d779225857d7115c617b2720e5fb&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a sharp turn or bend in a road or trail that zigzags in order to manage a steep incline or decline",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "gradient",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Z3JhZGllbnQ&hash=fd16c3576446322b0b2b4486826aacaa221863a0&lang=en&cache-only=0",
+      "phonetic_text": "greɪdiənt",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Z3JhZGllbnQ&hash=fd16c3576446322b0b2b4486826aacaa221863a0&lang=en&cache-only=0",
+      "phonetic_am_text": "greidiēnt",
+      "img": "",
+      "sense": [
+        {
+          "definition": "the degree of the angle between the ground and the sloping line, road, etc.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "hairpin turn",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=aGFpcnBpbiB0dXJu&hash=7f55ee0ec526bc6e4dd6a3f73fedb5ebe69588d5&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=aGFpcnBpbiB0dXJu&hash=7f55ee0ec526bc6e4dd6a3f73fedb5ebe69588d5&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a sharp bend in a road that sharply changes its direction",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "winding",
+      "pos": "adjective",
+      "phoenetic": "https://tts.langeek.co/read?text=d2luZGluZw&hash=aa3485e1513a9764170c1155794fc4ddf6dfbee6&lang=en&cache-only=0",
+      "phonetic_text": "waɪndɪng",
+      "phoenetic_am": "https://tts.langeek.co/read?text=d2luZGluZw&hash=aa3485e1513a9764170c1155794fc4ddf6dfbee6&lang=en&cache-only=0",
+      "phonetic_am_text": "wainding",
+      "img": "",
+      "sense": [
+        {
+          "definition": "having multiple twists and turns",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "circle",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2lyY2xl&hash=a3106bd8f319a09589c5fe10e0ff7adaddb92ea0&lang=en&cache-only=0",
+      "phonetic_text": "sɜrkəl",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2lyY2xl&hash=a3106bd8f319a09589c5fe10e0ff7adaddb92ea0&lang=en&cache-only=0",
+      "phonetic_am_text": "sērkēl",
+      "img": "https://cdn.langeek.co/photo/52079/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a circular intersection where multiple roads meet",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "loop around",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bG9vcCBhcm91bmQ&hash=7c1b3a47181f12bb983ec455087bc850a19b4094&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=bG9vcCBhcm91bmQ&hash=7c1b3a47181f12bb983ec455087bc850a19b4094&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a circuitous path or route that returns to the starting point",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The hiking trail formed a loop around the lake, offering picturesque views from all angles."
+            },
+            {
+              "cf": "",
+              "x": "We took a loop around the city to get a better sense of its layout before settling on a place to eat."
+            },
+            {
+              "cf": "",
+              "x": "The bus tour took us on a loop around the historic district, stopping at significant landmarks along the way."
+            },
+            {
+              "cf": "",
+              "x": "After getting lost in the maze, we finally found the correct path that led us in a loop around the garden."
+            },
+            {
+              "cf": "",
+              "x": "The marathon course was designed to loop around the park twice, showcasing its natural beauty to the runners."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "merge",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bWVyZ2U&hash=c68147a7a030f911a74cb59ddfe8e031f4ef009b&lang=en&cache-only=0",
+      "phonetic_text": "mɜrʤ",
+      "phoenetic_am": "https://tts.langeek.co/read?text=bWVyZ2U&hash=c68147a7a030f911a74cb59ddfe8e031f4ef009b&lang=en&cache-only=0",
+      "phonetic_am_text": "mērj",
+      "img": "",
+      "sense": [
+        {
+          "definition": "the point where two or more roads or lanes come together and traffic must combine",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "jughandle",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=anVnaGFuZGxl&hash=3b3a835f9d72758cf113a4f96d7bb3038ccbd116&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=anVnaGFuZGxl&hash=3b3a835f9d72758cf113a4f96d7bb3038ccbd116&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a road feature designed to redirect traffic from a side road to make a safer left turn",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "roadside",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cm9hZHNpZGU&hash=9b7a3d8cc33efe4a6d824ed2469dadce10137a99&lang=en&cache-only=0",
+      "phonetic_text": "roʊdsaɪd",
+      "phoenetic_am": "https://tts.langeek.co/read?text=cm9hZHNpZGU&hash=9b7a3d8cc33efe4a6d824ed2469dadce10137a99&lang=en&cache-only=0",
+      "phonetic_am_text": "rowdsaid",
+      "img": "",
+      "sense": [
+        {
+          "definition": "the area along the edge of a road",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "median strip",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bWVkaWFuIHN0cmlw&hash=e13af6456deddba81059c556b1ecd5d714b4500b&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=bWVkaWFuIHN0cmlw&hash=e13af6456deddba81059c556b1ecd5d714b4500b&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a narrow area of land or barrier that separates lanes of traffic on a highway or road",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "verge",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=dmVyZ2U&hash=b7205db7b601c6c3874c6a52c684bff77bb9b9ff&lang=en&cache-only=0",
+      "phonetic_text": "vɜrʤ",
+      "phoenetic_am": "https://tts.langeek.co/read?text=dmVyZ2U&hash=b7205db7b601c6c3874c6a52c684bff77bb9b9ff&lang=en&cache-only=0",
+      "phonetic_am_text": "vērj",
+      "img": "",
+      "sense": [
+        {
+          "definition": "the strip of land bordering a road, often covered with grass or vegetation",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She walked her dog along the grassy verge."
+            },
+            {
+              "cf": "",
+              "x": "He mowed the verge as part of his landscaping job."
+            },
+            {
+              "cf": "",
+              "x": "They planted trees on the verge to improve aesthetics."
+            },
+            {
+              "cf": "",
+              "x": "The car veered onto the verge to avoid a collision."
+            },
+            {
+              "cf": "",
+              "x": "The verge provided a safe space for pedestrians away from traffic."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shoulder",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=c2hvdWxkZXI&hash=aa6c794c911628c3d4b3f9c5d63eca18f0f0f4f5&lang=en&cache-only=0",
+      "phonetic_text": "ʃoʊldər",
+      "phoenetic_am": "https://tts.langeek.co/read?text=c2hvdWxkZXI&hash=aa6c794c911628c3d4b3f9c5d63eca18f0f0f4f5&lang=en&cache-only=0",
+      "phonetic_am_text": "showldēr",
+      "img": "https://cdn.langeek.co/photo/37377/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "the strip of land on the side of a road where vehicles can stop in an emergency",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The driver pulled over onto the shoulder to check the engine."
+            },
+            {
+              "cf": "",
+              "x": "She parked on the shoulder to make a phone call."
+            },
+            {
+              "cf": "",
+              "x": "He saw a stranded vehicle on the shoulder ahead."
+            },
+            {
+              "cf": "",
+              "x": "They expanded the shoulder to allow more space for emergency stops."
+            },
+            {
+              "cf": "",
+              "x": "The shoulder was used by cyclists and pedestrians in some areas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "soft shoulder",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=c29mdCBzaG91bGRlcg&hash=c9b03ae2f22791b2248b32c542d8625627050f55&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=c29mdCBzaG91bGRlcg&hash=c9b03ae2f22791b2248b32c542d8625627050f55&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "the unpaved or less stable portion alongside a road, typically made of gravel, dirt, or grass, designated for emergency stopping or vehicle breakdowns",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Drivers should be cautious when pulling onto the soft shoulder to avoid getting stuck in mud or gravel."
+            },
+            {
+              "cf": "",
+              "x": "If your car breaks down on the highway, it's safer to park on the soft shoulder rather than in a traffic lane."
+            },
+            {
+              "cf": "",
+              "x": "The police officer directed the driver to move his vehicle onto the soft shoulder after the minor accident."
+            },
+            {
+              "cf": "",
+              "x": "Signs along the highway remind motorists not to litter on the soft shoulder to maintain cleanliness and safety."
+            },
+            {
+              "cf": "",
+              "x": "During heavy rain, the soft shoulder can become muddy and difficult to navigate, so drivers are advised to use caution."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pylon",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cHlsb24&hash=7543783ec13b0b4efefe99d58ecc9c4c475cefa2&lang=en&cache-only=0",
+      "phonetic_text": "paɪlɑn",
+      "phoenetic_am": "https://tts.langeek.co/read?text=cHlsb24&hash=7543783ec13b0b4efefe99d58ecc9c4c475cefa2&lang=en&cache-only=0",
+      "phonetic_am_text": "pailɑn",
+      "img": "",
+      "sense": [
+        {
+          "definition": "a tall metal structure used for carrying high-voltage power lines above the ground",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The transmission lines were supported by tall pylons across the countryside."
+            },
+            {
+              "cf": "",
+              "x": "Engineers inspected the pylon for structural integrity after a severe storm."
+            },
+            {
+              "cf": "",
+              "x": "The new housing development was planned around existing electricity pylons."
+            },
+            {
+              "cf": "",
+              "x": "Pylons are designed to withstand strong winds and other environmental conditions."
+            },
+            {
+              "cf": "",
+              "x": "The power company erected additional pylons to meet growing electricity demands in the region."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gantry",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Z2FudHJ5&hash=912b30846fbb282f284819d1f078a4bdebbd1033&lang=en&cache-only=0",
+      "phonetic_text": "gæntri",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Z2FudHJ5&hash=912b30846fbb282f284819d1f078a4bdebbd1033&lang=en&cache-only=0",
+      "phonetic_am_text": "gāntri",
+      "img": "",
+      "sense": [
+        {
+          "definition": "a structure spanning over a road that supports signs, signals, or cameras",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The gantry displayed the speed limit for each lane."
+            },
+            {
+              "cf": "",
+              "x": "He noticed a camera mounted on the gantry."
+            },
+            {
+              "cf": "",
+              "x": "The gantry was installed to hold the new electronic toll signs."
+            },
+            {
+              "cf": "",
+              "x": "She saw the traffic lights hanging from the gantry."
+            },
+            {
+              "cf": "",
+              "x": "They inspected the gantry for structural integrity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "billboard",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YmlsbGJvYXJk&hash=a0d36fdbd8c4e43e2beaac9cd5ea06150de7d7e9&lang=en&cache-only=0",
+      "phonetic_text": "bɪlbɔrd",
+      "phoenetic_am": "https://tts.langeek.co/read?text=YmlsbGJvYXJk&hash=a0d36fdbd8c4e43e2beaac9cd5ea06150de7d7e9&lang=en&cache-only=0",
+      "phonetic_am_text": "bilbawrd",
+      "img": "https://cdn.langeek.co/photo/36257/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a big sign used for advertising, usually found near roads or highways",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The billboard advertised the latest smartphone on the highway."
+            },
+            {
+              "cf": "",
+              "x": "A bright billboard caught his attention while driving."
+            },
+            {
+              "cf": "",
+              "x": "The company rented a billboard to promote their new product."
+            },
+            {
+              "cf": "",
+              "x": "She saw her favorite celebrity on a giant billboard downtown."
+            },
+            {
+              "cf": "",
+              "x": "The billboard displayed a message about road safety."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pinch point",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cGluY2ggcG9pbnQ&hash=b29928f20cc75881210ae6fd49bbe7ab93637eba&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=cGluY2ggcG9pbnQ&hash=b29928f20cc75881210ae6fd49bbe7ab93637eba&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a place where something becomes narrow, often causing a restriction or bottleneck",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Traffic often builds up at pinch points like bridges and tunnels during rush hour."
+            },
+            {
+              "cf": "",
+              "x": "The meeting room's small size created a pinch point for accommodating all the attendees comfortably."
+            },
+            {
+              "cf": "",
+              "x": "In project management, identifying potential pinch points early helps in smoother execution of plans."
+            },
+            {
+              "cf": "",
+              "x": "The team faced a pinch point in their workflow when the printer broke down unexpectedly."
+            },
+            {
+              "cf": "",
+              "x": "Adequate staffing is crucial to avoid pinch points in customer service during peak times."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "turnaround",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=dHVybmFyb3VuZA&hash=bf47561b624b2ca1d09ea3608bda5d3a52ca58fe&lang=en&cache-only=0",
+      "phonetic_text": "tɜrnəraʊnd",
+      "phoenetic_am": "https://tts.langeek.co/read?text=dHVybmFyb3VuZA&hash=bf47561b624b2ca1d09ea3608bda5d3a52ca58fe&lang=en&cache-only=0",
+      "phonetic_am_text": "tērnērawnd",
+      "img": "",
+      "sense": [
+        {
+          "definition": "a designated area where vehicles can reverse direction",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The driver used the turnaround to head back the way he came."
+            },
+            {
+              "cf": "",
+              "x": "She missed the exit and had to find a turnaround."
+            },
+            {
+              "cf": "",
+              "x": "He appreciated the well-marked turnaround on the highway."
+            },
+            {
+              "cf": "",
+              "x": "They built a new turnaround to improve traffic flow."
+            },
+            {
+              "cf": "",
+              "x": "The turnaround allowed large trucks to change direction safely."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "branch off",
+      "pos": "verb",
+      "phoenetic": "https://tts.langeek.co/read?text=dG8gYnJhbmNoIG9mZg&hash=7546f9ebc2a919c7e7c1b6cbe2809250f5d1092f&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=dG8gYnJhbmNoIG9mZg&hash=7546f9ebc2a919c7e7c1b6cbe2809250f5d1092f&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/37103/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "(of a path or road) to split into another direction, creating a separate route",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The highway branches off into smaller roads leading to nearby towns."
+            },
+            {
+              "cf": "",
+              "x": "As you hike, notice where the trail branches off into alternative paths."
+            },
+            {
+              "cf": "",
+              "x": "The highway branches off into smaller roads leading to nearby towns."
+            },
+            {
+              "cf": "",
+              "x": "The highway branches off near the mountain range, leading to picturesque routes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fork",
+      "pos": "verb",
+      "phoenetic": "https://tts.langeek.co/read?text=dG8gZm9yaw&hash=ff6fbade0301e1717bd5d1db4fb2b7bbc31ead54&lang=en&cache-only=0",
+      "phonetic_text": "fɔ:rk",
+      "phoenetic_am": "https://tts.langeek.co/read?text=dG8gZm9yaw&hash=ff6fbade0301e1717bd5d1db4fb2b7bbc31ead54&lang=en&cache-only=0",
+      "phonetic_am_text": "faawrk",
+      "img": "https://cdn.langeek.co/photo/46603/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "to split into two or more separate paths or divisions",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The hiking trail forked, allowing hikers to choose between different routes."
+            },
+            {
+              "cf": "",
+              "x": "The river forked into two smaller streams as it flowed through the valley."
+            },
+            {
+              "cf": "",
+              "x": "The underground tunnels forked, leading to different sections of the ancient city."
+            },
+            {
+              "cf": "",
+              "x": "In the road network, many intersections fork, offering various directions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "passable",
+      "pos": "adjective",
+      "phoenetic": "https://tts.langeek.co/read?text=cGFzc2FibGU&hash=79ead0c026f73013a03b524a6da36cc56f96b6d6&lang=en&cache-only=0",
+      "phonetic_text": "pæsəbəl",
+      "phoenetic_am": "https://tts.langeek.co/read?text=cGFzc2FibGU&hash=79ead0c026f73013a03b524a6da36cc56f96b6d6&lang=en&cache-only=0",
+      "phonetic_am_text": "pāsēbēl",
+      "img": "",
+      "sense": [
+        {
+          "definition": "of a road or path that is clear and safe to travel on",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The road was barely passable after the heavy snowfall."
+            },
+            {
+              "cf": "",
+              "x": "She checked if the mountain pass was passable before starting the trip."
+            },
+            {
+              "cf": "",
+              "x": "He ensured the trail was passable for hikers."
+            },
+            {
+              "cf": "",
+              "x": "They worked overnight to make the flooded road passable again."
+            },
+            {
+              "cf": "",
+              "x": "The route remained passable despite the recent storms."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "impassable",
+      "pos": "adjective",
+      "phoenetic": "https://tts.langeek.co/read?text=aW1wYXNzYWJsZQ&hash=f4e6ef730364d462d870e0659cae779397c7570a&lang=en&cache-only=0",
+      "phonetic_text": "ɪmpæsəbəl",
+      "phoenetic_am": "https://tts.langeek.co/read?text=aW1wYXNzYWJsZQ&hash=f4e6ef730364d462d870e0659cae779397c7570a&lang=en&cache-only=0",
+      "phonetic_am_text": "impāsēbēl",
+      "img": "",
+      "sense": [
+        {
+          "definition": "(of a path) not possible to travel across or through",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "intersection",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=aW50ZXJzZWN0aW9u&hash=7670b7ff1cdbf50944b2e255f4e8b74b8ca63993&lang=en&cache-only=0",
+      "phonetic_text": "ɪntərsɛkʃən",
+      "phoenetic_am": "https://tts.langeek.co/read?text=aW50ZXJzZWN0aW9u&hash=7670b7ff1cdbf50944b2e255f4e8b74b8ca63993&lang=en&cache-only=0",
+      "phonetic_am_text": "intērsekshēn",
+      "img": "https://cdn.langeek.co/photo/17279/original/intersection?type=jpeg",
+      "sense": [
+        {
+          "definition": "the place where two or more streets, roads, etc. cross each other",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The traffic light at the intersection changed to red, stopping cars from all directions."
+            },
+            {
+              "cf": "",
+              "x": "They waited for the green light at the busy intersection to continue their journey."
+            },
+            {
+              "cf": "",
+              "x": "The city planned to redesign the intersection to improve safety and reduce congestion."
+            },
+            {
+              "cf": "",
+              "x": "He noticed a new restaurant opening at the corner of the intersection where several roads converged."
+            },
+            {
+              "cf": "",
+              "x": "She was involved in a minor accident at the intersection due to another driver running a red light."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

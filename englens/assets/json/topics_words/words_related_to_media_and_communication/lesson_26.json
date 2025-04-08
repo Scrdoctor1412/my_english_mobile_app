@@ -1,0 +1,956 @@
+{
+  "title": "The Internet",
+  "word_list": [
+    {
+      "word": "connectivity",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y29ubmVjdGl2aXR5&hash=40daf3eea63e7256e1d310ecf75259ba8d8fa980&lang=en&cache-only=0",
+      "phonetic_text": "kənɛktɪvɪti",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y29ubmVjdGl2aXR5&hash=40daf3eea63e7256e1d310ecf75259ba8d8fa980&lang=en&cache-only=0",
+      "phonetic_am_text": "kēnektiviti",
+      "img": "",
+      "sense": [
+        {
+          "definition": "the state or extent of being connected or able to communicate with other devices, networks, or systems, facilitating data transmission and exchange",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The connectivity in this area is so poor that I can barely make a phone call."
+            },
+            {
+              "cf": "",
+              "x": "I had trouble with the Wi-Fi connectivity while working from home yesterday."
+            },
+            {
+              "cf": "",
+              "x": "The school upgraded its network to improve connectivity for online classes."
+            },
+            {
+              "cf": "",
+              "x": "Our connectivity issues were fixed after the technician reset the system."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Internet service provider",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=SW50ZXJuZXQgc2VydmljZSBwcm92aWRlcg&hash=b845b625052e9c7d43521bb23a6fb83c975161ca&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=SW50ZXJuZXQgc2VydmljZSBwcm92aWRlcg&hash=b845b625052e9c7d43521bb23a6fb83c975161ca&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a company that provides its customers with Internet access and related services",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "IP address",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=SVAgYWRkcmVzcw&hash=d43d2bad73ae5af85669b228f2bfa11a5efbe28a&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=SVAgYWRkcmVzcw&hash=d43d2bad73ae5af85669b228f2bfa11a5efbe28a&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "(computing) a set of numbers separated by dots that a computer with an active Internet connection is identified with",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "bandwidth",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YmFuZHdpZHRo&hash=77d63ad062f64aea5ddb8e93a65e53420dc583f1&lang=en&cache-only=0",
+      "phonetic_text": "bændwɪdθ",
+      "phoenetic_am": "https://tts.langeek.co/read?text=YmFuZHdpZHRo&hash=77d63ad062f64aea5ddb8e93a65e53420dc583f1&lang=en&cache-only=0",
+      "phonetic_am_text": "bāndwidth",
+      "img": "",
+      "sense": [
+        {
+          "definition": "the maximum rate of data transfer of an electronic communication system",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "Domain Name System",
+      "pos": "None",
+      "phoenetic": "https://tts.langeek.co/read?text=RG9tYWluIE5hbWUgU3lzdGVt&hash=50ae7a2721d1db2507727ad9ef4115f3def69e75&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=RG9tYWluIE5hbWUgU3lzdGVt&hash=50ae7a2721d1db2507727ad9ef4115f3def69e75&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a decentralized naming system used on the Internet to translate human-readable domain names into numerical IP addresses that computers can understand, enabling the proper routing of data between devices and servers",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "TCP",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=VENQ&hash=a078ac20f1b7af41cce42ce61e295f3f3c3e7fd7&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=VENQ&hash=a078ac20f1b7af41cce42ce61e295f3f3c3e7fd7&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a widely used communication protocol that ensures reliable, ordered, and error-checked delivery of data packets over networks, forming the basis of most Internet communication",
+          "examples": [
+            {
+              "cf": "",
+              "x": "When sending a file over the Internet, TCP makes sure the data is received correctly."
+            },
+            {
+              "cf": "",
+              "x": "TCP is like a delivery service that checks if every package reaches its destination in the right order."
+            },
+            {
+              "cf": "",
+              "x": "If you are downloading a large file, TCP ensures that no parts of the file get lost during the process."
+            },
+            {
+              "cf": "",
+              "x": "Without TCP, you could end up with missing or damaged information when browsing the web."
+            },
+            {
+              "cf": "",
+              "x": "Streaming videos rely on TCP to prevent interruptions and ensure smooth playback."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ADSL",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=QURTTA&hash=7a5f1ba5416cf8b0e2762a3be897bb1c5ae38237&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=QURTTA&hash=7a5f1ba5416cf8b0e2762a3be897bb1c5ae38237&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/29370/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a method of connecting to the Internet using a phone line that allows you to use that phone line at the same time",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Many homes and businesses use ADSL to access high-speed Internet without fiber optic cables."
+            },
+            {
+              "cf": "",
+              "x": "ADSL technology allows for faster Internet speeds compared to traditional dial-up connections."
+            },
+            {
+              "cf": "",
+              "x": "ADSL modems require filters to separate voice and data signals over the same line."
+            },
+            {
+              "cf": "",
+              "x": "Students in remote areas rely on ADSL connections for online learning and research."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "virtual private network",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=dmlydHVhbCBwcml2YXRlIG5ldHdvcms&hash=26ff334ff26ca18d86c29ee445425fd8b4ce6625&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=dmlydHVhbCBwcml2YXRlIG5ldHdvcms&hash=26ff334ff26ca18d86c29ee445425fd8b4ce6625&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a secure and encrypted network connection that allows users to access the Internet or private networks from a remote location while maintaining privacy and data protection",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "broadband",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YnJvYWRiYW5k&hash=1971990c4e0caed920f6a3274c4ac0755f56b4ad&lang=en&cache-only=0",
+      "phonetic_text": "brɔ:dbænd",
+      "phoenetic_am": "https://tts.langeek.co/read?text=YnJvYWRiYW5k&hash=1971990c4e0caed920f6a3274c4ac0755f56b4ad&lang=en&cache-only=0",
+      "phonetic_am_text": "braawdbānd",
+      "img": "https://cdn.langeek.co/photo/29370/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a system of Internet connection that allows users to share information simultaneously",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She relies on broadband for her work, as it allows her to upload and download large files quickly."
+            },
+            {
+              "cf": "",
+              "x": "The rural community finally gained access to broadband, opening up new opportunities for remote work and online education."
+            },
+            {
+              "cf": "",
+              "x": "Students in the classroom can access online resources simultaneously thanks to the school's broadband connection."
+            },
+            {
+              "cf": "",
+              "x": "The broadband connection at the conference center ensures that attendees can livestream presentations without interruption."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "connection",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y29ubmVjdGlvbg&hash=c363c03f00cddb696421cef85f2edf151f07dc75&lang=en&cache-only=0",
+      "phonetic_text": "kənɛkʃən",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y29ubmVjdGlvbg&hash=c363c03f00cddb696421cef85f2edf151f07dc75&lang=en&cache-only=0",
+      "phonetic_am_text": "kēnekshēn",
+      "img": "https://cdn.langeek.co/photo/20161/original/connect?type=jpeg",
+      "sense": [
+        {
+          "definition": "the act of establishing or the state of being linked to something",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Despite numerous attempts, John still couldn't establish a stable connection to the Wi-Fi network in his apartment."
+            },
+            {
+              "cf": "",
+              "x": "Lisa's new smartphone comes with lightning-fast internet connection, allowing her to stream videos and browse the web effortlessly."
+            },
+            {
+              "cf": "",
+              "x": "The faulty ethernet cable was replaced, restoring the connection to the office network and enabling employees to resume their work."
+            },
+            {
+              "cf": "",
+              "x": "The connection between the satellite dish and the television receiver was disrupted during the storm, causing a temporary loss of signal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digital communication",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=ZGlnaXRhbCBjb21tdW5pY2F0aW9u&hash=dfe67983ab4d5f230a7fc6b7da5684ad321e6399&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=ZGlnaXRhbCBjb21tdW5pY2F0aW9u&hash=dfe67983ab4d5f230a7fc6b7da5684ad321e6399&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "the process of exchanging information, data, or messages between individuals, devices, or systems using electronic or digital technologies, such as computers, smartphones, the Internet, or other digital platforms",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Many companies use digital communication tools like instant messaging to improve teamwork and productivity."
+            },
+            {
+              "cf": "",
+              "x": "We rely on digital communication for work, using email and video calls to collaborate with colleagues."
+            },
+            {
+              "cf": "",
+              "x": "Digital communication has changed the way we shop, as we can now buy products and services online from home."
+            },
+            {
+              "cf": "",
+              "x": "With digital communication, it is easier than ever to access news and updates from around the world in real-time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "VoIP",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Vm9JUA&hash=2b64d6829c7e131418ffa316d2b1bbb3cd31b4fc&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=Vm9JUA&hash=2b64d6829c7e131418ffa316d2b1bbb3cd31b4fc&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a technology that allows voice communication to be transmitted over the Internet, enabling phone calls and multimedia communication using Internet networks",
+          "examples": [
+            {
+              "cf": "",
+              "x": "I use VoIP to call my family overseas, and it saves a lot of money."
+            },
+            {
+              "cf": "",
+              "x": "My office switched to VoIP because it’s cheaper than traditional phone lines."
+            },
+            {
+              "cf": "",
+              "x": "VoIP allows us to stay connected with our friends without paying high phone bills."
+            },
+            {
+              "cf": "",
+              "x": "You need a stable Internet connection to make clear VoIP calls."
+            },
+            {
+              "cf": "",
+              "x": "We can set up a VoIP system for the business, which will reduce communication costs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internet access",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=SW50ZXJuZXQgYWNjZXNz&hash=bbf8a8fac0c176c3886fb6a1bbadab1eb241804d&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=SW50ZXJuZXQgYWNjZXNz&hash=bbf8a8fac0c176c3886fb6a1bbadab1eb241804d&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "the ability of individuals or devices to connect to the Internet and access online resources, services, and information, enabling communication, browsing, and various online activities",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Some rural areas still lack reliable Internet access."
+            },
+            {
+              "cf": "",
+              "x": "The library offers free Internet access for all visitors."
+            },
+            {
+              "cf": "",
+              "x": "I signed up for a plan that gives me unlimited Internet access at home."
+            },
+            {
+              "cf": "",
+              "x": "I could not join the video call because my Internet access was too slow."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hotspot",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=aG90c3BvdA&hash=8d91015b174fb6a52ab5b32144e5a4b7add3ebdf&lang=en&cache-only=0",
+      "phonetic_text": "hɑ:tspɑt",
+      "phoenetic_am": "https://tts.langeek.co/read?text=aG90c3BvdA&hash=8d91015b174fb6a52ab5b32144e5a4b7add3ebdf&lang=en&cache-only=0",
+      "phonetic_am_text": "haatspɑt",
+      "img": "https://cdn.langeek.co/photo/20145/original/wi-fi?type=jpeg",
+      "sense": [
+        {
+          "definition": "a public place where a wireless Internet connection is made available",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Coffee shops and airports are popular hotspots for travelers needing internet access."
+            },
+            {
+              "cf": "",
+              "x": "Mobile devices can be used as personal hotspots to provide internet connectivity on the go."
+            },
+            {
+              "cf": "",
+              "x": "Public hotspots may have security risks, so users should exercise caution when connecting."
+            },
+            {
+              "cf": "",
+              "x": "The hotel lobby offers free Wi-Fi hotspot service for guests staying at the property."
+            },
+            {
+              "cf": "",
+              "x": "Government initiatives aim to create more urban hotspots to bridge the digital divide."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phishing",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cGhpc2hpbmc&hash=09a4da65cc577d53e97786d1963c38b7a5468c13&lang=en&cache-only=0",
+      "phonetic_text": "fɪʃɪng",
+      "phoenetic_am": "https://tts.langeek.co/read?text=cGhpc2hpbmc&hash=09a4da65cc577d53e97786d1963c38b7a5468c13&lang=en&cache-only=0",
+      "phonetic_am_text": "fishing",
+      "img": "",
+      "sense": [
+        {
+          "definition": "a cybercrime in which someone tricks another into revealing their personal or financial information such as their passwords or bank account numbers and then using this information to steal money from them",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Phishing is a form of cybercrime where attackers attempt to deceive individuals into revealing sensitive information, such as passwords or credit card numbers."
+            },
+            {
+              "cf": "",
+              "x": "The company's employees received training on how to recognize phishing emails and avoid falling victim to scams."
+            },
+            {
+              "cf": "",
+              "x": "Victims of phishing scams are often tricked into clicking on malicious links or providing personal information."
+            },
+            {
+              "cf": "",
+              "x": "Cybersecurity experts recommend using strong passwords and enabling two-factor authentication to protect against phishing attacks."
+            },
+            {
+              "cf": "",
+              "x": "The bank issued a warning about a new phishing campaign targeting customers through fake emails claiming to be from the bank's security team."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "access provider",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YWNjZXNzIHByb3ZpZGVy&hash=286e96fcfb5b1048c8dd14a97698413b7e0ec5d2&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=YWNjZXNzIHByb3ZpZGVy&hash=286e96fcfb5b1048c8dd14a97698413b7e0ec5d2&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/19500/original/server?type=jpeg",
+      "sense": [
+        {
+          "definition": "a company that provides customers with Internet access",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Access providers must comply with regulations to ensure fair access and net neutrality."
+            },
+            {
+              "cf": "",
+              "x": "Satellite companies serve as access providers in remote areas lacking traditional broadband infrastructure."
+            },
+            {
+              "cf": "",
+              "x": "Schools and libraries often partner with access providers to offer free Wi-Fi to students and patrons."
+            },
+            {
+              "cf": "",
+              "x": "Internet service providers (ISPs) are common access providers offering broadband and dial-up connections."
+            },
+            {
+              "cf": "",
+              "x": "Choosing the right access provider is crucial for businesses seeking reliable Internet connectivity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "address",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YWRkcmVzcw&hash=9b2c92352b350afc2846ab17c3d74ea685022e5b&lang=en&cache-only=0",
+      "phonetic_text": "ædrɛs",
+      "phoenetic_am": "https://tts.langeek.co/read?text=YWRkcmVzcw&hash=9b2c92352b350afc2846ab17c3d74ea685022e5b&lang=en&cache-only=0",
+      "phonetic_am_text": "ādres",
+      "img": "https://cdn.langeek.co/photo/51594/original/address?type=jpeg",
+      "sense": [
+        {
+          "definition": "a series of letters and other characters that identifies a destination for email messages or the location of a website",
+          "examples": [
+            {
+              "cf": "",
+              "x": "He copied the website address and shared it with his friends."
+            },
+            {
+              "cf": "",
+              "x": "The website address is case-sensitive, so make sure to type it correctly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "carrier",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2Fycmllcg&hash=e68e000e884944159523620c9cb068ab4a87c84d&lang=en&cache-only=0",
+      "phonetic_text": "kæriər",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2Fycmllcg&hash=e68e000e884944159523620c9cb068ab4a87c84d&lang=en&cache-only=0",
+      "phonetic_am_text": "kāriēr",
+      "img": "",
+      "sense": [
+        {
+          "definition": "a telecommunications firm that provides a cellular or Internet service",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Mobile carriers compete to offer the best coverage and data plans to consumers."
+            },
+            {
+              "cf": "",
+              "x": "Fiber optic cables are used by carriers to transmit high-speed Internet and telephone signals."
+            },
+            {
+              "cf": "",
+              "x": "International carriers facilitate global communication through submarine cables and satellite links."
+            },
+            {
+              "cf": "",
+              "x": "Carriers deploy 5G technology to deliver faster Internet speeds and low-latency connections."
+            },
+            {
+              "cf": "",
+              "x": "Choosing a reliable carrier is crucial for businesses relying on telecommunication services."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "netiquette",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bmV0aXF1ZXR0ZQ&hash=13f1df3cbfa48714c9e807b6f1b581d894d46f5b&lang=en&cache-only=0",
+      "phonetic_text": "nɛtəkʌt",
+      "phoenetic_am": "https://tts.langeek.co/read?text=bmV0aXF1ZXR0ZQ&hash=13f1df3cbfa48714c9e807b6f1b581d894d46f5b&lang=en&cache-only=0",
+      "phonetic_am_text": "netēkat",
+      "img": "",
+      "sense": [
+        {
+          "definition": "the proper or ethical way of communicating over the Internet",
+          "examples": [
+            {
+              "cf": "",
+              "x": "It's essential to check your tone in online messages, as poor netiquette can lead to misunderstandings."
+            },
+            {
+              "cf": "",
+              "x": "Practicing good netiquette helps create a friendly atmosphere in online forums, where everyone feels respected."
+            },
+            {
+              "cf": "",
+              "x": "Following netiquette in online meetings ensures that everyone gets a chance to speak without interruptions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "netizen",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bmV0aXplbg&hash=b1e46fe7c276a908403e48ab68639f342fd6bb50&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=bmV0aXplbg&hash=b1e46fe7c276a908403e48ab68639f342fd6bb50&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a person who is actively engaged in online communities and uses the Internet a lot",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The netizen shared a helpful tutorial on how to improve online security."
+            },
+            {
+              "cf": "",
+              "x": "As a netizen, she spends a lot of time discussing current events on online forums."
+            },
+            {
+              "cf": "",
+              "x": "He was a well-known netizen, always posting insightful comments and links to interesting articles."
+            },
+            {
+              "cf": "",
+              "x": "The rise of social media has made it easier for any netizen to have a voice on global issues."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "net surfer",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bmV0IHN1cmZlcg&hash=ae09970819db8bdfd39e8dbd396d7abd127264b4&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=bmV0IHN1cmZlcg&hash=ae09970819db8bdfd39e8dbd396d7abd127264b4&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a person who spends a lot of time on the Internet",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The net surfer spent hours exploring different websites and online forums."
+            },
+            {
+              "cf": "",
+              "x": "The net surfer enjoyed discovering new trends and gadgets online."
+            },
+            {
+              "cf": "",
+              "x": "Many net surfers use social media to stay connected with friends and family."
+            },
+            {
+              "cf": "",
+              "x": "As a seasoned net surfer, she could quickly find information on any topic."
+            },
+            {
+              "cf": "",
+              "x": "The net surfer was intrigued by the variety of content available on the internet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "newsgroup",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bmV3c2dyb3Vw&hash=b7f5e3ccd08ecf03d52a034e1a4b3cacc732bec6&lang=en&cache-only=0",
+      "phonetic_text": "nu:zgrup",
+      "phoenetic_am": "https://tts.langeek.co/read?text=bmV3c2dyb3Vw&hash=b7f5e3ccd08ecf03d52a034e1a4b3cacc732bec6&lang=en&cache-only=0",
+      "phonetic_am_text": "noozgrup",
+      "img": "",
+      "sense": [
+        {
+          "definition": "‌an online forum where people can post messages and discuss a particular topic of interest",
+          "examples": [
+            {
+              "cf": "",
+              "x": "I joined a newsgroup about photography to learn tips and share my photos with others."
+            },
+            {
+              "cf": "",
+              "x": "She found a helpful solution to her computer issue in a technology newsgroup."
+            },
+            {
+              "cf": "",
+              "x": "He reads a newsgroup every morning to stay updated on the latest science news."
+            },
+            {
+              "cf": "",
+              "x": "The newsgroup on gardening is a great place to ask for advice on growing tomatoes."
+            },
+            {
+              "cf": "",
+              "x": "After joining the newsgroup, I got answers to all my questions about home repairs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "newswire",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bmV3c3dpcmU&hash=66b57267317f93b50bbf7edb31de5ea4879b77e7&lang=en&cache-only=0",
+      "phonetic_text": "nu:zwaɪr",
+      "phoenetic_am": "https://tts.langeek.co/read?text=bmV3c3dpcmU&hash=66b57267317f93b50bbf7edb31de5ea4879b77e7&lang=en&cache-only=0",
+      "phonetic_am_text": "noozwair",
+      "img": "https://cdn.langeek.co/photo/19552/original/news?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of service that gives subscribers the latest news through the Internet or satellite",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Journalists rely on newswires for timely updates on breaking news stories from around the world."
+            },
+            {
+              "cf": "",
+              "x": "The newswire service provides real-time financial data and market analysis to investors."
+            },
+            {
+              "cf": "",
+              "x": "PR agencies use newswires to distribute press releases and announcements to media outlets."
+            },
+            {
+              "cf": "",
+              "x": "Subscribing to a newswire allows businesses to stay informed about industry trends and developments."
+            },
+            {
+              "cf": "",
+              "x": "The government issues official statements through a national newswire for public dissemination."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "HTTP",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=SFRUUA&hash=ef43d3b924e5cbf21c239c130c39ab6ebc650d4d&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=SFRUUA&hash=ef43d3b924e5cbf21c239c130c39ab6ebc650d4d&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/51460/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "the system in HTML in which data is being sent and received on World Wide Web",
+          "examples": [
+            {
+              "cf": "",
+              "x": "They discussed how HTTP works in transferring data online."
+            },
+            {
+              "cf": "",
+              "x": "The browser uses HTTP to fetch the website's content."
+            },
+            {
+              "cf": "",
+              "x": "HTTP protocols determine how messages are formatted and transmitted."
+            },
+            {
+              "cf": "",
+              "x": "She learned about HTTP while studying web development."
+            },
+            {
+              "cf": "",
+              "x": "The developer checked the HTTP response status for errors."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "CDN",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Q0RO&hash=3bab080b775e3b1ed753d61f4354ef1d262573b9&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=Q0RO&hash=3bab080b775e3b1ed753d61f4354ef1d262573b9&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a distributed network of servers strategically placed in different locations to deliver web content, such as images, videos, and other static or dynamic resources",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The website loads much faster thanks to the CDN that stores its data on multiple servers around the world."
+            },
+            {
+              "cf": "",
+              "x": "The CDN helped the online store handle the heavy traffic during the holiday sales."
+            },
+            {
+              "cf": "",
+              "x": "By using a CDN, the company was able to improve its website's performance for international customers."
+            },
+            {
+              "cf": "",
+              "x": "My favorite news site uses a CDN to make sure their articles load quickly no matter where I am."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "network",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bmV0d29yaw&hash=2d79997bac7c037a123ad688044b3c814d323f76&lang=en&cache-only=0",
+      "phonetic_text": "nɛtwɜrk",
+      "phoenetic_am": "https://tts.langeek.co/read?text=bmV0d29yaw&hash=2d79997bac7c037a123ad688044b3c814d323f76&lang=en&cache-only=0",
+      "phonetic_am_text": "netwērk",
+      "img": "https://cdn.langeek.co/photo/19500/original/server?type=jpeg",
+      "sense": [
+        {
+          "definition": "a number of interconnected electronic devices such as computers that form a system so that data can be shared",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Social media platforms allow users to connect with others through a global network."
+            },
+            {
+              "cf": "",
+              "x": "The university's alumni network helps graduates stay connected and share career opportunities."
+            },
+            {
+              "cf": "",
+              "x": "The hacker infiltrated the network and accessed sensitive information."
+            },
+            {
+              "cf": "",
+              "x": "The city implemented a wireless network to provide free internet access in public spaces."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Internet",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=dGhlIEludGVybmV0&hash=c21bcaca2dce5225a379722856d6fdc44f158f18&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=dGhlIEludGVybmV0&hash=c21bcaca2dce5225a379722856d6fdc44f158f18&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/15787/original/internet?type=jpeg",
+      "sense": [
+        {
+          "definition": "‌a global computer network that allows users around the world to communicate with each other and exchange information",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Can you recommend any good websites on the Internet?"
+            },
+            {
+              "cf": "",
+              "x": "He uses the Internet to listen to music and stream movies."
+            },
+            {
+              "cf": "",
+              "x": "She spends a lot of time on the Internet, browsing social media."
+            },
+            {
+              "cf": "",
+              "x": "The Internet has transformed how we connect, work, and entertain ourselves."
+            },
+            {
+              "cf": "",
+              "x": "The Internet is a vast source of knowledge and entertainment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chat",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2hhdA&hash=ca0e5f6739e2f6ab756762b138ccda488ebe76c3&lang=en&cache-only=0",
+      "phonetic_text": "ʧæt",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2hhdA&hash=ca0e5f6739e2f6ab756762b138ccda488ebe76c3&lang=en&cache-only=0",
+      "phonetic_am_text": "chāt",
+      "img": "https://cdn.langeek.co/photo/17783/original/chat?type=jpeg",
+      "sense": [
+        {
+          "definition": "the online exchange of messages between people on the Internet",
+          "examples": [
+            {
+              "cf": "",
+              "x": "He initiated a private chat to ask a personal question."
+            },
+            {
+              "cf": "",
+              "x": "I had a fun chat with my friend on social media yesterday."
+            },
+            {
+              "cf": "",
+              "x": "Let's have a quick chat to discuss the project."
+            },
+            {
+              "cf": "",
+              "x": "The online chat provides a platform for group discussions."
+            },
+            {
+              "cf": "",
+              "x": "They had a long chat about their travel experiences."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "web chat",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=d2ViIGNoYXQ&hash=fb9b0fa0b91eaa18be6fcc192cee467f6fea5efe&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=d2ViIGNoYXQ&hash=fb9b0fa0b91eaa18be6fcc192cee467f6fea5efe&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a real-time communication method on the Internet through text-based messages exchanged between users, typically on websites or through dedicated chat platforms",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Customer support is available 24/7 through the web chat feature on their website."
+            },
+            {
+              "cf": "",
+              "x": "The students used web chat to collaborate on their group project remotely."
+            },
+            {
+              "cf": "",
+              "x": "He engaged in a web chat with technical support to troubleshoot his computer issue."
+            },
+            {
+              "cf": "",
+              "x": "The company implemented a web chat service to enhance online customer interaction."
+            },
+            {
+              "cf": "",
+              "x": "During the webinar, participants can ask questions via web chat and receive answers from the speaker."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chat room",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2hhdCByb29t&hash=475e7e0dbc0a98f6c40d867e63b323fd7efc1e0a&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2hhdCByb29t&hash=475e7e0dbc0a98f6c40d867e63b323fd7efc1e0a&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/19488/original/chat-room?type=jpeg",
+      "sense": [
+        {
+          "definition": "a place on the Internet where people can communicate with one another and talk about a specific topic",
+          "examples": [
+            {
+              "cf": "",
+              "x": "I spent the evening chatting with friends in an online chat room."
+            },
+            {
+              "cf": "",
+              "x": "The chat room was full of people discussing the latest movie releases."
+            },
+            {
+              "cf": "",
+              "x": "After work, I joined a chat room to talk about the game last night."
+            },
+            {
+              "cf": "",
+              "x": "During the event, the organizers set up a chat room for attendees to ask questions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "teleconference",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=dGVsZWNvbmZlcmVuY2U&hash=3ea4866d764a5fda8b64e188b97580c1949f11d4&lang=en&cache-only=0",
+      "phonetic_text": "tɛləkɑ:nfrəns",
+      "phoenetic_am": "https://tts.langeek.co/read?text=dGVsZWNvbmZlcmVuY2U&hash=3ea4866d764a5fda8b64e188b97580c1949f11d4&lang=en&cache-only=0",
+      "phonetic_am_text": "telēkaanfrēns",
+      "img": "https://cdn.langeek.co/photo/28956/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a meeting held among several people who are in different locations, linked via the Internet",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The teleconference allowed team members from different locations to collaborate on the project."
+            },
+            {
+              "cf": "",
+              "x": "She joined the teleconference from her home office using the video conferencing software."
+            },
+            {
+              "cf": "",
+              "x": "The quarterly meeting was conducted via teleconference to accommodate remote attendees."
+            },
+            {
+              "cf": "",
+              "x": "Participants logged into the teleconference using a secure link provided by the organizer."
+            },
+            {
+              "cf": "",
+              "x": "The teleconference was scheduled to discuss the company's financial performance and future goals."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

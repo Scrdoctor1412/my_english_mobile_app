@@ -1,0 +1,764 @@
+{
+  "title": "Cinematic Equipment",
+  "word_list": [
+    {
+      "word": "camera",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2FtZXJh&hash=327bb1a734d59dac359ef58cef4a8fb5e878d935&lang=en&cache-only=0",
+      "phonetic_text": "kæmərə",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2FtZXJh&hash=327bb1a734d59dac359ef58cef4a8fb5e878d935&lang=en&cache-only=0",
+      "phonetic_am_text": "kāmērē",
+      "img": "https://cdn.langeek.co/photo/17409/original/camera?type=jpeg",
+      "sense": [
+        {
+          "definition": "a device or piece of equipment for taking photographs, making movies or television programs",
+          "examples": [
+            {
+              "cf": "",
+              "x": "He borrowed his friend's camera to document the event."
+            },
+            {
+              "cf": "",
+              "x": "The camera flash helped brighten the dark room."
+            },
+            {
+              "cf": "",
+              "x": "The detective checked the security footage from the camera."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "canister",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2FuaXN0ZXI&hash=3b9c2802771b0cdd8af9aac0e6087c7b72d8358c&lang=en&cache-only=0",
+      "phonetic_text": "kænəstər",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2FuaXN0ZXI&hash=3b9c2802771b0cdd8af9aac0e6087c7b72d8358c&lang=en&cache-only=0",
+      "phonetic_am_text": "kānēstēr",
+      "img": "",
+      "sense": [
+        {
+          "definition": "a cylindrical metal container that is used for storing a roll of film",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "celluloid",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2VsbHVsb2lk&hash=7e14aa396f8775106978c6bf8a947e3c4f6a7bf6&lang=en&cache-only=0",
+      "phonetic_text": "sɛləlɔɪd",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2VsbHVsb2lk&hash=7e14aa396f8775106978c6bf8a947e3c4f6a7bf6&lang=en&cache-only=0",
+      "phonetic_am_text": "selēloyd",
+      "img": "",
+      "sense": [
+        {
+          "definition": "a thin clear plastic material that is highly flammable, made in sheets, formerly used as film in cinematography",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "clapperboard",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2xhcHBlcmJvYXJk&hash=afa8b506aaafe3a0d134d6e0c5fb12f6428ca322&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2xhcHBlcmJvYXJk&hash=afa8b506aaafe3a0d134d6e0c5fb12f6428ca322&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a device used in moviemaking that consists of a hinged board, the parts of which are hit together as the shooting of a scene begins to make sure the sound and the picture are synchronized",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "director's chair",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=ZGlyZWN0b3IncyBjaGFpcg&hash=1cab92bcae3ca218dac4e076d76b9a1df122362b&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=ZGlyZWN0b3IncyBjaGFpcg&hash=1cab92bcae3ca218dac4e076d76b9a1df122362b&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a light folding chair that is made of wood, with sides on which arms can be rested and a seat and back made of cloth, usually used by directors on set",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "dolly",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=ZG9sbHk&hash=3f271965d849e6a9b23f5fdacfc5f7c39ec34738&lang=en&cache-only=0",
+      "phonetic_text": "dɑ:li",
+      "phoenetic_am": "https://tts.langeek.co/read?text=ZG9sbHk&hash=3f271965d849e6a9b23f5fdacfc5f7c39ec34738&lang=en&cache-only=0",
+      "phonetic_am_text": "daali",
+      "img": "",
+      "sense": [
+        {
+          "definition": "a low platform on wheels that is used for carrying a TV or movie camera",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "steadicam",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=c3RlYWRpY2Ft&hash=d3dbbd9df853e4c99b6950c17bddede22d88afd9&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=c3RlYWRpY2Ft&hash=d3dbbd9df853e4c99b6950c17bddede22d88afd9&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "any type of camera stabilization system that creates smooth, stable footage while the camera is in motion",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "air ram",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YWlyIHJhbQ&hash=dba503c980f5e089fd8d5806af144f4abd856bda&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=YWlyIHJhbQ&hash=dba503c980f5e089fd8d5806af144f4abd856bda&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a device that is often used to create special effects such as explosions or movements of objects on set, by using compressed air to generate a powerful burst of force",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "storyboard",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=c3Rvcnlib2FyZA&hash=dfe522d4b99a47a33203ad0a8b4791f03a0862d1&lang=en&cache-only=0",
+      "phonetic_text": "stɔ:ribɔrd",
+      "phoenetic_am": "https://tts.langeek.co/read?text=c3Rvcnlib2FyZA&hash=dfe522d4b99a47a33203ad0a8b4791f03a0862d1&lang=en&cache-only=0",
+      "phonetic_am_text": "staawribawrd",
+      "img": "",
+      "sense": [
+        {
+          "definition": "a set of pictures or drawings depicting the outline of the plot of a movie, TV series, etc.",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The director reviewed the storyboard before filming the scene."
+            },
+            {
+              "cf": "",
+              "x": "Each frame in the storyboard represented a key moment in the story."
+            },
+            {
+              "cf": "",
+              "x": "The production team used the storyboard to plan camera angles."
+            },
+            {
+              "cf": "",
+              "x": "A well-designed storyboard helps visualize the flow of a movie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "floodlight",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Zmxvb2RsaWdodA&hash=ec339f0fd2d66d0cabbf51075cb843818b23975f&lang=en&cache-only=0",
+      "phonetic_text": "flʌdlaɪt",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Zmxvb2RsaWdodA&hash=ec339f0fd2d66d0cabbf51075cb843818b23975f&lang=en&cache-only=0",
+      "phonetic_am_text": "fladlait",
+      "img": "https://cdn.langeek.co/photo/36970/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a large lamp that produces a powerful beam of light used for lighting areas such as sports grounds or the outside of buildings",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The stadium was illuminated by powerful floodlights, casting a bright glow over the playing field."
+            },
+            {
+              "cf": "",
+              "x": "The film set was bathed in the warm glow of floodlights, creating a cinematic ambiance for the shoot."
+            },
+            {
+              "cf": "",
+              "x": "The concert stage was illuminated by an array of colorful floodlights, adding to the excitement of the performance."
+            },
+            {
+              "cf": "",
+              "x": "The photographer used floodlights to create dramatic lighting effects in the studio, enhancing the mood of the photoshoot."
+            },
+            {
+              "cf": "",
+              "x": "The tennis court was brightly lit with floodlights, allowing players to continue their match well into the evening."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "HD",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=SEQ&hash=514a6b86d116f2aeed979d70878ba34522166a3a&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=SEQ&hash=514a6b86d116f2aeed979d70878ba34522166a3a&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a system that provides clear and high-quality pictures on television or computer screens",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "shutter",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=c2h1dHRlcg&hash=e4476f42aa4de3901c43286ccf201d69f7068ec2&lang=en&cache-only=0",
+      "phonetic_text": "ʃʌtər",
+      "phoenetic_am": "https://tts.langeek.co/read?text=c2h1dHRlcg&hash=e4476f42aa4de3901c43286ccf201d69f7068ec2&lang=en&cache-only=0",
+      "phonetic_am_text": "shatēr",
+      "img": "",
+      "sense": [
+        {
+          "definition": "a mechanical device in a camera or projector that regulates the exposure time of each frame of film or video",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "optical printer",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=b3B0aWNhbCBwcmludGVy&hash=0aff496e28522682bd7b5caa859c6d7a409a9106&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=b3B0aWNhbCBwcmludGVy&hash=0aff496e28522682bd7b5caa859c6d7a409a9106&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a device used in filmmaking to duplicate, manipulate, and enhance film negatives, positives or prints using optical techniques",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "apple box",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YXBwbGUgYm94&hash=3622108dd5cf594870bde7ad66bfb22b0fb1a4c3&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=YXBwbGUgYm94&hash=3622108dd5cf594870bde7ad66bfb22b0fb1a4c3&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a wooden or plastic box used on film sets to elevate actors, props or equipment",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "baby plate",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YmFieSBwbGF0ZQ&hash=dbac7d975947babf20c43670466b569b1c8e2f38&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=YmFieSBwbGF0ZQ&hash=dbac7d975947babf20c43670466b569b1c8e2f38&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a piece of equipment used to mount lights, cameras, or other accessories to a surface using a 5/8-inch stud",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "camera dolly",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2FtZXJhIGRvbGx5&hash=e3fdacbc791691f236132dfc4b993544bbba8151&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2FtZXJhIGRvbGx5&hash=e3fdacbc791691f236132dfc4b993544bbba8151&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a wheeled device that moves the camera smoothly and steadily during a shot",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "balloon light",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YmFsbG9vbiBsaWdodA&hash=247596784e1000fea0b6ede452cf404469b39cef&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=YmFsbG9vbiBsaWdodA&hash=247596784e1000fea0b6ede452cf404469b39cef&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a large, inflatable lighting device used to create soft, diffused light on film sets",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "C-stand",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Qy1zdGFuZA&hash=63941ec16e1174d1bcc08caaeb8bbcf17a565579&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=Qy1zdGFuZA&hash=63941ec16e1174d1bcc08caaeb8bbcf17a565579&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a type of photographic and cinematography equipment that consists of a base, two riser columns, and a sliding leg used to hold lighting and light modifiers",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "gobo",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Z29ibw&hash=1f78c33c30acd7f1a3873c819a5637fa3897138d&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=Z29ibw&hash=1f78c33c30acd7f1a3873c819a5637fa3897138d&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a thin, flat stencil or template that is placed in front of a light source to control the shape or pattern of the emitted light",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "camera crane",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2FtZXJhIGNyYW5l&hash=0312b2f9deb370a20a42c3460fbe92beab149605&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2FtZXJhIGNyYW5l&hash=0312b2f9deb370a20a42c3460fbe92beab149605&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a mechanical device used to move a camera vertically, horizontally or diagonally, typically to capture sweeping cinematic shots",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "light reflector",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bGlnaHQgcmVmbGVjdG9y&hash=7a79ba185776d2237384db3e0f018c19bd6a4e9a&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=bGlnaHQgcmVmbGVjdG9y&hash=7a79ba185776d2237384db3e0f018c19bd6a4e9a&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a flat surface used to reflect light onto a subject to soften shadows and create a more even lighting",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "video camera",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=dmlkZW8gY2FtZXJh&hash=6ea5b1a9debfa22f496026e5668b217c5c210969&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=dmlkZW8gY2FtZXJh&hash=6ea5b1a9debfa22f496026e5668b217c5c210969&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a type of camera used for electronic motion picture acquisition, initially developed for the television industry but now commonly used in filmmaking as well",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "tripod",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=dHJpcG9k&hash=9c9fc47c77267402808b0da3c74a8ff8c28a4fb9&lang=en&cache-only=0",
+      "phonetic_text": "traɪpɑd",
+      "phoenetic_am": "https://tts.langeek.co/read?text=dHJpcG9k&hash=9c9fc47c77267402808b0da3c74a8ff8c28a4fb9&lang=en&cache-only=0",
+      "phonetic_am_text": "traipɑd",
+      "img": "https://cdn.langeek.co/photo/33725/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a camera support device that consists of three legs and a mounting plate or head, commonly made of lightweight materials such as aluminum or carbon fiber",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "camera light",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2FtZXJhIGxpZ2h0&hash=f367a6ae8feb84fce9b3a5e4d046b6be33f634df&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2FtZXJhIGxpZ2h0&hash=f367a6ae8feb84fce9b3a5e4d046b6be33f634df&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a lighting tool that is mounted on a camera to provide additional illumination during filming",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "three-point lighting kit",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=dGhyZWUtcG9pbnQgbGlnaHRpbmcga2l0&hash=064eaa62697342a35b870441f7e18681df6a1e23&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=dGhyZWUtcG9pbnQgbGlnaHRpbmcga2l0&hash=064eaa62697342a35b870441f7e18681df6a1e23&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a standard lighting setup consisting of a key light, a fill light, and a back light, used to create a balanced and professional-looking illumination of a subject or scene",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "shotgun microphone",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=c2hvdGd1biBtaWNyb3Bob25l&hash=436e81a54fa72a22bdf71e65199ecc777fde099a&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=c2hvdGd1biBtaWNyb3Bob25l&hash=436e81a54fa72a22bdf71e65199ecc777fde099a&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a highly directional microphone that captures sound from a specific direction, often used in film and video production to record dialogue and sound effects",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "boom pole",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Ym9vbSBwb2xl&hash=82ccbeafff3ca0fb05ec1b32282508ab60ac5455&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=Ym9vbSBwb2xl&hash=82ccbeafff3ca0fb05ec1b32282508ab60ac5455&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a long pole used to hold a microphone near the actors but out of the frame",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "mixer",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bWl4ZXI&hash=66d6b7fb4996923afd3a24c4daa126ddd7f59364&lang=en&cache-only=0",
+      "phonetic_text": "mɪksər",
+      "phoenetic_am": "https://tts.langeek.co/read?text=bWl4ZXI&hash=66d6b7fb4996923afd3a24c4daa126ddd7f59364&lang=en&cache-only=0",
+      "phonetic_am_text": "miksēr",
+      "img": "",
+      "sense": [
+        {
+          "definition": "an electronic equipment that is used in cinematography or sound recording which mixes different signals together and produces a single signal",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "projector",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cHJvamVjdG9y&hash=40e988f0acfed4701688b32f178f19284609fa57&lang=en&cache-only=0",
+      "phonetic_text": "prəʤɛktər",
+      "phoenetic_am": "https://tts.langeek.co/read?text=cHJvamVjdG9y&hash=40e988f0acfed4701688b32f178f19284609fa57&lang=en&cache-only=0",
+      "phonetic_am_text": "prējektēr",
+      "img": "https://cdn.langeek.co/photo/35679/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a device used for making images or videos appear on a screen, wall, or other flat surfaces",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The classroom was equipped with a state-of-the-art projector, allowing teachers to display educational videos and presentations."
+            },
+            {
+              "cf": "",
+              "x": "They set up a projector in the backyard for an outdoor movie night, casting larger-than-life images onto a white sheet hung between trees."
+            },
+            {
+              "cf": "",
+              "x": "The conference room had a ceiling-mounted projector for business presentations, ensuring clear visibility for all attendees."
+            },
+            {
+              "cf": "",
+              "x": "He brought his portable projector to the camping trip, turning the side of the tent into a makeshift movie theater under the stars."
+            },
+            {
+              "cf": "",
+              "x": "The art installation used projectors to project images onto the walls of the gallery, creating an immersive visual experience for visitors."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reel",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cmVlbA&hash=be77e70f6f4500eaa399adef8fb9f4e5b1f2c64b&lang=en&cache-only=0",
+      "phonetic_text": "ri:l",
+      "phoenetic_am": "https://tts.langeek.co/read?text=cmVlbA&hash=be77e70f6f4500eaa399adef8fb9f4e5b1f2c64b&lang=en&cache-only=0",
+      "phonetic_am_text": "reel",
+      "img": "",
+      "sense": [
+        {
+          "definition": "a circular item around which film is wound",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The film technician carefully loaded the reel with the latest movie release, preparing it for screening at the cinema."
+            },
+            {
+              "cf": "",
+              "x": "He rummaged through the attic, searching for an old reel of home movies from his childhood."
+            },
+            {
+              "cf": "",
+              "x": "She wound the wire around the reel, securing it in place before connecting it to the electronic device."
+            },
+            {
+              "cf": "",
+              "x": "The antique store featured an assortment of old-fashioned film reels, relics from the golden age of cinema."
+            },
+            {
+              "cf": "",
+              "x": "The engineer examined the steel reel, checking for any signs of wear or damage before using it to spool the cable."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shock mount",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=c2hvY2sgbW91bnQ&hash=7b36f5c71d5d0d4c69c1b04c54bea4043b079a9c&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=c2hvY2sgbW91bnQ&hash=7b36f5c71d5d0d4c69c1b04c54bea4043b079a9c&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a device that suspends a microphone to reduce the transmission of vibrations and handling noise",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "shoulder mount rig",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=c2hvdWxkZXIgbW91bnQgcmln&hash=51a01f617d9e07c879d622bca8932b25b77b0e7c&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=c2hvdWxkZXIgbW91bnQgcmln&hash=51a01f617d9e07c879d622bca8932b25b77b0e7c&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a camera support device that attaches to the operator's shoulder to provide stability and support while filming",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "barn door",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YmFybiBkb29y&hash=109081aff52ab868e4272801c156beb74949bf5c&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=YmFybiBkb29y&hash=109081aff52ab868e4272801c156beb74949bf5c&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a device attached to a lighting fixture or camera that controls the direction and spread of light",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "filmstrip",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=ZmlsbXN0cmlw&hash=df3a49039d2978acb30050031b95983cabdb823c&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=ZmlsbXN0cmlw&hash=df3a49039d2978acb30050031b95983cabdb823c&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a series of still images on a film, through which light is shone in order to be projected on a screen",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "motion capture",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bW90aW9uIGNhcHR1cmU&hash=b333ea4aeb4b441d19436a2139f28f0dd99cfd74&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=bW90aW9uIGNhcHR1cmU&hash=b333ea4aeb4b441d19436a2139f28f0dd99cfd74&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a technique used in computer animation and film production to capture and record the movements of actors or objects for use in digital animation",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "film",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=ZmlsbQ&hash=be649f4cc2d3570fb3c4bbb869cf8fe152aa009b&lang=en&cache-only=0",
+      "phonetic_text": "fɪlm",
+      "phoenetic_am": "https://tts.langeek.co/read?text=ZmlsbQ&hash=be649f4cc2d3570fb3c4bbb869cf8fe152aa009b&lang=en&cache-only=0",
+      "phonetic_am_text": "film",
+      "img": "https://cdn.langeek.co/photo/33715/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a light-sensitive material that is used for capturing photographic images",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "movie camera",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bW92aWUgY2FtZXJh&hash=d52d1604c007fcf2988e3a430b8d73f8f33c5b8f&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=bW92aWUgY2FtZXJh&hash=d52d1604c007fcf2988e3a430b8d73f8f33c5b8f&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a device used to capture motion pictures by recording sequential frames of moving images onto a medium such as film or digital storage",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "handheld camera",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=aGFuZGhlbGQgY2FtZXJh&hash=c57277399df3fc4d54410a5ff63b930f81a0312c&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=aGFuZGhlbGQgY2FtZXJh&hash=c57277399df3fc4d54410a5ff63b930f81a0312c&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a portable camera that can be operated by hand, allowing for flexible and dynamic shooting, often used to achieve a documentary-style or immersive visual experience",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "GoPro camera",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=R29Qcm8gY2FtZXJh&hash=136d3861540a149817408f211b486305c1b8722f&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=R29Qcm8gY2FtZXJh&hash=136d3861540a149817408f211b486305c1b8722f&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a compact, durable, and versatile action camera known for its wide-angle perspective, robust features, and ability to capture high-quality video and photos in various extreme sports and adventurous activities",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "sound stage",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=c291bmQgc3RhZ2U&hash=4352c609cce3f690dc31874f33405672ed71d95d&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=c291bmQgc3RhZ2U&hash=4352c609cce3f690dc31874f33405672ed71d95d&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "an area in a movie studio with acoustic properties that is used to record sounds of a movie",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "spotlight",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=c3BvdGxpZ2h0&hash=31bf152102a9490773eb26e013f2e35978101160&lang=en&cache-only=0",
+      "phonetic_text": "spɑ:tlaɪt",
+      "phoenetic_am": "https://tts.langeek.co/read?text=c3BvdGxpZ2h0&hash=31bf152102a9490773eb26e013f2e35978101160&lang=en&cache-only=0",
+      "phonetic_am_text": "spaatlait",
+      "img": "",
+      "sense": [
+        {
+          "definition": "a lamp that produces a very strong beam of light that can be cast on someone or something, particularly a person on stage",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The actor stepped into the spotlight, his face illuminated by the warm glow of the stage spotlight."
+            },
+            {
+              "cf": "",
+              "x": "The singer dazzled the audience as she moved gracefully under the spotlight, her voice soaring with each note."
+            },
+            {
+              "cf": "",
+              "x": "The magician performed his tricks under the bright spotlight, captivating the audience with his sleight of hand."
+            },
+            {
+              "cf": "",
+              "x": "The dancer twirled and leaped across the stage, her movements accentuated by the dramatic spotlight."
+            },
+            {
+              "cf": "",
+              "x": "The speaker stood confidently in the spotlight, delivering a powerful speech that resonated with the audience."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "action camera",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YWN0aW9uIGNhbWVyYQ&hash=e7ce98a2e5aceadc202991cc5018bc01b68698fe&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=YWN0aW9uIGNhbWVyYQ&hash=e7ce98a2e5aceadc202991cc5018bc01b68698fe&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a small, rugged, and versatile camera designed for capturing high-quality video and photos in dynamic and extreme environments, often used in action sports, outdoor adventures, and other fast-paced activities",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "VR camera",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=VlIgY2FtZXJh&hash=3ca278c6998d207cfe9fd167711c17cc437c7152&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=VlIgY2FtZXJh&hash=3ca278c6998d207cfe9fd167711c17cc437c7152&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a specialized camera designed to capture 360-degree video or images, enabling the creation of immersive virtual reality experiences by providing a full panoramic view of the surroundings when viewed through a VR headset or other compatible devices",
+          "examples": []
+        }
+      ]
+    }
+  ]
+}

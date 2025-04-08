@@ -1,0 +1,574 @@
+{
+  "title": "Two-Dimensional Shapes",
+  "word_list": [
+    {
+      "word": "circle",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=Y2lyY2xl&hash=a3106bd8f319a09589c5fe10e0ff7adaddb92ea0&lang=en&cache-only=0",
+      "phonetic_text": "sɜrkəl",
+      "phoenetic_am": "https://tts.langeek.co/read?text=Y2lyY2xl&hash=a3106bd8f319a09589c5fe10e0ff7adaddb92ea0&lang=en&cache-only=0",
+      "phonetic_am_text": "sērkēl",
+      "img": "https://cdn.langeek.co/photo/14578/original/circle?type=jpeg",
+      "sense": [
+        {
+          "definition": "a completely round, plain shape",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She used a compass to draw a small circle on the map."
+            },
+            {
+              "cf": "",
+              "x": "The children drew a circle on the paper during art class."
+            },
+            {
+              "cf": "",
+              "x": "The Earth is approximately a sphere, which is like a 3D circle."
+            },
+            {
+              "cf": "",
+              "x": "The Olympic rings are five interlocking circles representing continents."
+            },
+            {
+              "cf": "",
+              "x": "The sun was a bright orange circle in the sky during the sunset."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "triangle",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=dHJpYW5nbGU&hash=b7b128c0262c8c153edd4a3bc8a7c5c08cce9876&lang=en&cache-only=0",
+      "phonetic_text": "traɪængəl",
+      "phoenetic_am": "https://tts.langeek.co/read?text=dHJpYW5nbGU&hash=b7b128c0262c8c153edd4a3bc8a7c5c08cce9876&lang=en&cache-only=0",
+      "phonetic_am_text": "traiāngēl",
+      "img": "https://cdn.langeek.co/photo/22913/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "(geometry) a flat shape consisting of three straight sides and three angles",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The artist used a triangle shape to create a dynamic composition."
+            },
+            {
+              "cf": "",
+              "x": "In geometry class, they learned how to calculate the area of a triangle."
+            },
+            {
+              "cf": "",
+              "x": "The roof of the house formed a triangle at the top, providing stability."
+            },
+            {
+              "cf": "",
+              "x": "She folded the paper into a triangle for her origami project."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rectangle",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cmVjdGFuZ2xl&hash=6a972b89712d7d33fd5e0175e111fad2c9b09bbd&lang=en&cache-only=0",
+      "phonetic_text": "rɛktængəl",
+      "phoenetic_am": "https://tts.langeek.co/read?text=cmVjdGFuZ2xl&hash=6a972b89712d7d33fd5e0175e111fad2c9b09bbd&lang=en&cache-only=0",
+      "phonetic_am_text": "rektāngēl",
+      "img": "https://cdn.langeek.co/photo/22907/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "(geometry) a flat shape with four right angles, especially one with opposing sides that are equal and parallel to each other",
+          "examples": [
+            {
+              "cf": "",
+              "x": "In geometry class, they practiced calculating the area of a rectangle."
+            },
+            {
+              "cf": "",
+              "x": "The window was a large rectangle, allowing plenty of natural light into the room."
+            },
+            {
+              "cf": "",
+              "x": "She drew a rectangle on the paper to outline the garden plot."
+            },
+            {
+              "cf": "",
+              "x": "Many road signs are shaped like rectangles for easy visibility."
+            },
+            {
+              "cf": "",
+              "x": "The artist used rectangles in her painting to create a sense of balance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "kite",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=a2l0ZQ&hash=926482001f70d99512fc775b517eab66b460ed6d&lang=en&cache-only=0",
+      "phonetic_text": "kaɪt",
+      "phoenetic_am": "https://tts.langeek.co/read?text=a2l0ZQ&hash=926482001f70d99512fc775b517eab66b460ed6d&lang=en&cache-only=0",
+      "phonetic_am_text": "kait",
+      "img": "https://cdn.langeek.co/photo/51749/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a four-sided shape with two pairs of equal-length adjacent sides",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "square",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=c3F1YXJl&hash=84375fcb232426978fab61ef6cf2a8828931386e&lang=en&cache-only=0",
+      "phonetic_text": "skwɛr",
+      "phoenetic_am": "https://tts.langeek.co/read?text=c3F1YXJl&hash=84375fcb232426978fab61ef6cf2a8828931386e&lang=en&cache-only=0",
+      "phonetic_am_text": "skwer",
+      "img": "https://cdn.langeek.co/photo/14582/original/square?type=jpeg",
+      "sense": [
+        {
+          "definition": "a shape with four equal straight sides and four right angles, each measuring 90°",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The children played hopscotch, drawing squares with chalk on the pavement."
+            },
+            {
+              "cf": "",
+              "x": "The game board was divided into squares for playing chess."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "trapezoid",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=dHJhcGV6b2lk&hash=aa3f94fe7a6441786ec93a712f439e8bafac5c94&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=dHJhcGV6b2lk&hash=aa3f94fe7a6441786ec93a712f439e8bafac5c94&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/25986/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "(geometry) a flat shape with four flat sides, two of which are parallel",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "parallelogram",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cGFyYWxsZWxvZ3JhbQ&hash=3a0f096560e1a0033c3d5ee4456dbb94772bfcbb&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=cGFyYWxsZWxvZ3JhbQ&hash=3a0f096560e1a0033c3d5ee4456dbb94772bfcbb&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/25964/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "(geometry) any flat shape with four straight sides, the opposite sides of which are equal and parallel to each other",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "rhombus",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cmhvbWJ1cw&hash=71c6b349f2349c7a74a77d9ad86c867037d85b52&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=cmhvbWJ1cw&hash=71c6b349f2349c7a74a77d9ad86c867037d85b52&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/14584/original/diamond?type=jpeg",
+      "sense": [
+        {
+          "definition": "(geometry) a flat shape with four equal sides in which opposite angles are equal",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "polygon",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cG9seWdvbg&hash=9742539fb8a11fa8bba2ab31f86e9f31c3f6ca7d&lang=en&cache-only=0",
+      "phonetic_text": "pɑ:lɪgɑn",
+      "phoenetic_am": "https://tts.langeek.co/read?text=cG9seWdvbg&hash=9742539fb8a11fa8bba2ab31f86e9f31c3f6ca7d&lang=en&cache-only=0",
+      "phonetic_am_text": "paaligɑn",
+      "img": "https://cdn.langeek.co/photo/25970/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "(geometry) a flat shape consisting of three or more straight sides",
+          "examples": [
+            {
+              "cf": "",
+              "x": "A triangle is the simplest type of polygon with three sides."
+            },
+            {
+              "cf": "",
+              "x": "The children learned to identify different polygons in their geometry class."
+            },
+            {
+              "cf": "",
+              "x": "The stop sign is an example of an octagonal polygon."
+            },
+            {
+              "cf": "",
+              "x": "Architects often use polygons in their designs for aesthetic and structural purposes."
+            },
+            {
+              "cf": "",
+              "x": "Polygons can be classified based on the number of their sides, such as pentagons and hexagons."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "right triangle",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cmlnaHQgdHJpYW5nbGU&hash=3f66c85935e3be23cd1044d42851400039e54b52&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=cmlnaHQgdHJpYW5nbGU&hash=3f66c85935e3be23cd1044d42851400039e54b52&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/30006/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a flat geometric shape consisting of three straight sides and one right angle",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "oblique triangle",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=b2JsaXF1ZSB0cmlhbmdsZQ&hash=42314e3fa812de7536a69123c725526310ea6246&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=b2JsaXF1ZSB0cmlhbmdsZQ&hash=42314e3fa812de7536a69123c725526310ea6246&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/35507/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a triangle that does not have a right angle",
+          "examples": [
+            {
+              "cf": "",
+              "x": "I drew an oblique triangle with three slanted sides."
+            },
+            {
+              "cf": "",
+              "x": "My kite, shaped like an oblique triangle, soared in the windy sky."
+            },
+            {
+              "cf": "",
+              "x": "The roof of the house formed an oblique triangle against the evening sky."
+            },
+            {
+              "cf": "",
+              "x": "In class, we learned how to calculate the area of an oblique triangle."
+            },
+            {
+              "cf": "",
+              "x": "The pizza slice had an oblique triangle shape, not the usual triangular form."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "scalene triangle",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=c2NhbGVuZSB0cmlhbmdsZQ&hash=129fb45d401ba650be741550b39389bb9a6f5eb0&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=c2NhbGVuZSB0cmlhbmdsZQ&hash=129fb45d401ba650be741550b39389bb9a6f5eb0&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/35515/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of triangle that has all three sides of different lengths",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The sides of a scalene triangle are not equal in length."
+            },
+            {
+              "cf": "",
+              "x": "In the garden, I noticed a scalene triangle formed by the intersecting paths."
+            },
+            {
+              "cf": "",
+              "x": "The bridge's supports created a scalene triangle pattern against the skyline."
+            },
+            {
+              "cf": "",
+              "x": "In geometry class, we measured the angles of various scalene triangles."
+            },
+            {
+              "cf": "",
+              "x": "The roof of the house had a distinct scalene triangle design."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "isosceles triangle",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=aXNvc2NlbGVzIHRyaWFuZ2xl&hash=8d8e4e72457a75fc04acb97d6086ee0a26430a93&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=aXNvc2NlbGVzIHRyaWFuZ2xl&hash=8d8e4e72457a75fc04acb97d6086ee0a26430a93&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/35501/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of triangle that has two sides of equal length and two angles of equal measure",
+          "examples": [
+            {
+              "cf": "",
+              "x": "In an isosceles triangle, the base angles opposite the equal sides are congruent."
+            },
+            {
+              "cf": "",
+              "x": "If the angles of an isosceles triangle are labeled A, B, and C, and side AB is congruent to side BC, then angle A is congruent to angle C."
+            },
+            {
+              "cf": "",
+              "x": "The altitude drawn from the vertex angle of an isosceles triangle bisects the base into two equal segments."
+            },
+            {
+              "cf": "",
+              "x": "An equilateral triangle is a special case of an isosceles triangle where all three sides and angles are equal."
+            },
+            {
+              "cf": "",
+              "x": "The sum of the interior angles of an isosceles triangle is always 180 degrees."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "equilateral triangle",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=ZXF1aWxhdGVyYWwgdHJpYW5nbGU&hash=09ac0c6245529d262d9d0460903a5d8cbe0d6f41&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=ZXF1aWxhdGVyYWwgdHJpYW5nbGU&hash=09ac0c6245529d262d9d0460903a5d8cbe0d6f41&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/35493/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of triangle with all three sides of equal length",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Each side of an equilateral triangle is the same length."
+            },
+            {
+              "cf": "",
+              "x": "The pyramid had an equilateral triangle as its base."
+            },
+            {
+              "cf": "",
+              "x": "The fence surrounding the garden formed an equilateral triangle at each corner."
+            },
+            {
+              "cf": "",
+              "x": "The logo of the company featured an equilateral triangle as a symbol of balance."
+            },
+            {
+              "cf": "",
+              "x": "The traffic sign warned of an upcoming intersection with an equilateral triangle symbol."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "acute-angled triangle",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=YWN1dGUtYW5nbGVkIHRyaWFuZ2xl&hash=0a18bc6863137d73527346754e8d6cfb2144f7eb&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=YWN1dGUtYW5nbGVkIHRyaWFuZ2xl&hash=0a18bc6863137d73527346754e8d6cfb2144f7eb&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "sense": [
+        {
+          "definition": "a type of triangle in which all three angles are less than 90 degrees",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The quilt had a pattern with acute-angled triangles."
+            },
+            {
+              "cf": "",
+              "x": "During math class, we measured angles in acute-angled triangles."
+            },
+            {
+              "cf": "",
+              "x": "The shadow on the ground looked like an acute-angled triangle."
+            },
+            {
+              "cf": "",
+              "x": "A tree's branches outlined an acute-angled triangle against the sunset."
+            },
+            {
+              "cf": "",
+              "x": "A mountain peak formed an acute-angled triangle on the horizon."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "obtuse-angled triangle",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=b2J0dXNlLWFuZ2xlZCB0cmlhbmdsZQ&hash=4e96b6fadc1b8344edada6979ce25486921da2da&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=b2J0dXNlLWFuZ2xlZCB0cmlhbmdsZQ&hash=4e96b6fadc1b8344edada6979ce25486921da2da&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/35509/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a type of triangle that has one angle greater than 90 degrees",
+          "examples": [
+            {
+              "cf": "",
+              "x": "An obtuse-angled triangle has one angle larger than a right angle."
+            },
+            {
+              "cf": "",
+              "x": "The warning sign displayed an obtuse-angled triangle to indicate a wide turn ahead."
+            },
+            {
+              "cf": "",
+              "x": "In geometry class, we learned about the properties of obtuse-angled triangles."
+            },
+            {
+              "cf": "",
+              "x": "The artist painted a landscape with a riverbank forming an obtuse-angled triangle."
+            },
+            {
+              "cf": "",
+              "x": "The chef sliced the pizza into obtuse-angled triangle portions for sharing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rhomboid",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=cmhvbWJvaWQ&hash=4ef2bc6f4659b083ddafcbfd351b3d7bfa2c8991&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=cmhvbWJvaWQ&hash=4ef2bc6f4659b083ddafcbfd351b3d7bfa2c8991&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/25964/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "(geometry) a parallelogram with four straight sides and no right angles",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "semicircle",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=c2VtaWNpcmNsZQ&hash=608966517f1cddefc3cef8dcba22095acbd5c7d9&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phoenetic_am": "https://tts.langeek.co/read?text=c2VtaWNpcmNsZQ&hash=608966517f1cddefc3cef8dcba22095acbd5c7d9&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/25978/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "any half of a circle",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The children sat in a semicircle around the teacher during story time."
+            },
+            {
+              "cf": "",
+              "x": "The architects designed the auditorium with a semicircle of seats for better acoustics."
+            },
+            {
+              "cf": "",
+              "x": "He drew a semicircle on the board to explain the concept of angles."
+            },
+            {
+              "cf": "",
+              "x": "The moon appeared as a bright semicircle in the night sky."
+            },
+            {
+              "cf": "",
+              "x": "The audience formed a semicircle around the street performer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lozenge",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=bG96ZW5nZQ&hash=161d47c579333b5849a160d383b0f8129308fa19&lang=en&cache-only=0",
+      "phonetic_text": "lɔ:zənʤ",
+      "phoenetic_am": "https://tts.langeek.co/read?text=bG96ZW5nZQ&hash=161d47c579333b5849a160d383b0f8129308fa19&lang=en&cache-only=0",
+      "phonetic_am_text": "laawzēnj",
+      "img": "https://cdn.langeek.co/photo/25958/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "(geometry) a figure with four sides and two opposite angles more than 90° and two of less than 90°",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "oblong",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=b2Jsb25n&hash=ae5d057806bf0fa03cbda53af68b66dde6b289e3&lang=en&cache-only=0",
+      "phonetic_text": "ɑ:blɔng",
+      "phoenetic_am": "https://tts.langeek.co/read?text=b2Jsb25n&hash=ae5d057806bf0fa03cbda53af68b66dde6b289e3&lang=en&cache-only=0",
+      "phonetic_am_text": "aablawng",
+      "img": "https://cdn.langeek.co/photo/25960/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a rectangular figure that has unequal adjacent sides with arched angles",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The rug in the living room was an attractive oblong with intricate patterns."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "oval",
+      "pos": "noun",
+      "phoenetic": "https://tts.langeek.co/read?text=b3ZhbA&hash=e156ded81d2bb6df2bcfb1a0cfdf5998cf50a075&lang=en&cache-only=0",
+      "phonetic_text": "oʊvəl",
+      "phoenetic_am": "https://tts.langeek.co/read?text=b3ZhbA&hash=e156ded81d2bb6df2bcfb1a0cfdf5998cf50a075&lang=en&cache-only=0",
+      "phonetic_am_text": "owvēl",
+      "img": "https://cdn.langeek.co/photo/22897/original/?type=jpeg",
+      "sense": [
+        {
+          "definition": "a shape that is wide in the middle and narrow at both ends",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The artist painted an oval in the center of the canvas for emphasis."
+            },
+            {
+              "cf": "",
+              "x": "She drew an oval to represent an egg in her illustration."
+            },
+            {
+              "cf": "",
+              "x": "In geometry, an oval is often described as an ellipse with varying lengths."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
