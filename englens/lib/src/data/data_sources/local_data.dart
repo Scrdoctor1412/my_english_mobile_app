@@ -1,5 +1,6 @@
 import 'package:englens/src/configs/hive/app_hive.dart';
 import 'package:englens/src/data/models/schedule_notification.dart';
+import 'package:englens/src/data/models/topic.dart';
 import 'package:englens/src/data/models/word.dart';
 import 'package:get/get.dart';
 
@@ -16,6 +17,10 @@ abstract interface class LocalData extends GetxController {
   Future<void> removeScheduleNotification(int id);
 
   List<ScheduleNotification> getScheduleNotifications();
+
+  List<Topic> getTopics();
+
+  Future<void> saveTopics(List<Topic> topics);
 }
 
 class HiveDatabase extends GetxController implements LocalData {
@@ -24,6 +29,24 @@ class HiveDatabase extends GetxController implements LocalData {
   HiveDatabase({
     required AppHive appHive,
   }) : _appHive = appHive;
+
+  @override
+  List<Topic> getTopics() {
+    return _appHive.topicsBox.values.toList();
+  }
+
+  @override
+  Future<void> saveTopics(List<Topic> topics) async {
+    // TODO: implement saveTopics
+    // throw UnimplementedError();
+    await _appHive.topicsBox.putAll(
+      Map.fromEntries(
+        topics.map(
+          (topic) => MapEntry(topic.title, topic),
+        ),
+      ),
+    );
+  }
 
   @override
   List<ScheduleNotification> getScheduleNotifications() {

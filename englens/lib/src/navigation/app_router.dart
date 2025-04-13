@@ -1,7 +1,12 @@
+import 'package:dartz/dartz.dart';
 import 'package:englens/src/data/models/user_internal.dart';
 import 'package:englens/src/service/firebase/auth/auth_service.dart';
 import 'package:englens/src/ui/screens/english_handbook/english_handbook_screen.dart';
 import 'package:englens/src/ui/screens/english_handbook/english_handbook_screen_viewmodel.dart';
+import 'package:englens/src/ui/widget/lesson_details/lesson_details_screen.dart';
+import 'package:englens/src/ui/widget/lesson_details/lessons_details_screen_viewmodel.dart';
+import 'package:englens/src/ui/widget/word_details/word_details_screen.dart';
+import 'package:englens/src/ui/widget/word_details/word_details_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/home/home_screen.dart';
 import 'package:englens/src/ui/screens/home/home_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/home/word_search/word_search_screen.dart';
@@ -79,7 +84,17 @@ class AppRouter {
       name: WordSearchScreen.routeName,
       page: () => WordSearchScreen(),
       binding: GetBinding(WordSearchScreen.routeName),
-    )
+    ),
+    GetPage(
+      name: LessonDetailsScreen.routeName,
+      page: () => LessonDetailsScreen(),
+      binding: GetBinding(LessonDetailsScreen.routeName),
+    ),
+    GetPage(
+      name: WordDetailsScreen.routeName,
+      page: () => WordDetailsScreen(),
+      binding: GetBinding(WordDetailsScreen.routeName),
+    ),
   ];
 }
 
@@ -109,6 +124,12 @@ class GetBinding extends Bindings {
         break;
       case WordSearchScreen.routeName:
         Get.lazyPut(() => WordSearchScreenViewmodel());
+        break;
+      case WordDetailsScreen.routeName:
+        Get.lazyPut(() => WordDetailsScreenViewmodel());
+        break;
+      case LessonDetailsScreen.routeName:
+        Get.lazyPut(() => LessonsDetailsScreenViewmodel());
         break;
     }
   }

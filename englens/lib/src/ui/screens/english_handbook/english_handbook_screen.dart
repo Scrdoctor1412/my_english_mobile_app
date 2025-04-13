@@ -1,6 +1,10 @@
 import 'package:englens/src/theme/theme_primary.dart';
-import 'package:englens/src/ui/common/english_card.dart';
+import 'package:englens/src/ui/widget/english_card.dart';
 import 'package:englens/src/ui/screens/english_handbook/english_handbook_screen_viewmodel.dart';
+import 'package:englens/src/ui/widget/lesson_details/lesson_details_screen.dart';
+import 'package:englens/src/ui/widget/lesson_details/lessons_details_screen_viewmodel.dart';
+import 'package:englens/src/ui/widget/word_details/word_details_screen.dart';
+import 'package:englens/src/ui/widget/word_details/word_details_screen_viewmodel.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_expandable_fab/flutter_expandable_fab.dart';
 import 'package:get/get.dart';
@@ -66,7 +70,7 @@ class EnglishHandbookScreen extends StatelessWidget {
                         child: Column(
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
-                            Text('Word List Dictionary'),
+                            Text('Oxford 6000 Dictionary'),
                           ],
                         ),
                       ),
@@ -76,7 +80,7 @@ class EnglishHandbookScreen extends StatelessWidget {
                         child: Column(
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
-                            Text('Word by Categories'),
+                            Text('Vocabs by Topics'),
                           ],
                         ),
                       ),
@@ -108,16 +112,24 @@ class EnglishHandbookScreen extends StatelessWidget {
                         height: 230,
                         child: InkWell(
                           onTap: () {
-                            print(index);
+                            // print(index);
+                            Get.toNamed(
+                              WordDetailsScreen.routeName,
+                              arguments: WordDetailsScreenViewmodelArgs(
+                                lessonTitle: '',
+                                isFromLessonDetailsScreen: false,
+                                onlyWord: [controller.wordList[index]],
+                              ),
+                            );
                           },
                           child: EnglishCard(
-                            word: controller.wordList.words[index],
+                            word: controller.wordList[index],
                           ),
                         ),
                       );
                     },
                     separatorBuilder: (context, index) => SizedBox(height: 20),
-                    itemCount: controller.wordList.words.length,
+                    itemCount: controller.wordList.length,
                   ),
                 ),
               )
@@ -125,14 +137,139 @@ class EnglishHandbookScreen extends StatelessWidget {
           );
         }
 
-        _wordListByCategoryTab() {
-          return Column(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              Center(
-                child: Text('Word list by category'),
-              ),
-            ],
+        _wordListByTopicItem(String title, int index) {
+          var processedTitle = controller.snakeCaseToNormal(title);
+
+          return Container(
+            width: MediaQuery.of(context).size.width,
+            height: 150,
+            decoration: BoxDecoration(
+              color: Colors.white,
+              borderRadius: BorderRadius.circular(8),
+              boxShadow: [
+                BoxShadow(
+                  color: Colors.black.withOpacity(0.1),
+                  blurRadius: 4,
+                  offset: const Offset(0, 2),
+                ),
+              ],
+            ),
+            padding: const EdgeInsets.only(
+              right: 12,
+            ),
+            child: Row(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                SizedBox(
+                  width: 100,
+                  height: 150,
+                  child: ClipRRect(
+                    borderRadius: BorderRadius.circular(8),
+                    child: Hero(
+                      tag: 'to_lesson_${processedTitle}',
+                      child: Image.asset(
+                        'assets/images/topics/${title}.jpg',
+                        fit: BoxFit.fill,
+                      ),
+                    ),
+                  ),
+                ),
+                const SizedBox(
+                  width: 12,
+                ),
+                Expanded(
+                  child: Padding(
+                    padding: const EdgeInsets.all(8.0),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Text(
+                          processedTitle,
+                          style: TextStyle(
+                              fontSize: 20, fontWeight: FontWeight.w600),
+                          maxLines: 2,
+                        ),
+                        const SizedBox(height: 12),
+                        Column(
+                          children: [
+                            Row(
+                              children: [
+                                Icon(
+                                  Icons.menu_book_rounded,
+                                  color: ThemePrimary.successGreen,
+                                ),
+                                const SizedBox(
+                                  width: 8,
+                                ),
+                                Text(
+                                    '${controller.topicsList[index].lessons!.length} Lesson'),
+                                const SizedBox(width: 12),
+                              ],
+                            ),
+                            const SizedBox(height: 8),
+                            Row(
+                              children: [
+                                Icon(
+                                  Icons.library_books_outlined,
+                                  color: ThemePrimary.successGreen,
+                                ),
+                                const SizedBox(
+                                  width: 8,
+                                ),
+                                Text(
+                                    '${controller.countLessonWords(index)} Words'),
+                              ],
+                            ),
+                          ],
+                        )
+                      ],
+                    ),
+                  ),
+                ),
+              ],
+            ),
+          );
+        }
+
+        _wordListByTopicTab() {
+          return Padding(
+            padding: const EdgeInsets.only(
+              top: 12,
+              left: 12,
+              right: 12,
+            ),
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                Expanded(
+                  child: ListView.separated(
+                    itemBuilder: (context, index) {
+                      return InkWell(
+                        onTap: () {
+                          // print(index);
+                          Get.toNamed(
+                            LessonDetailsScreen.routeName,
+                            arguments: LessonDetailsScreenViewmodelArgs(
+                              lessons: controller.topicsList[index].lessons!,
+                              lessonImage:
+                                  'assets/images/topics/${controller.topicsList[index].title}.jpg',
+                              topicTitle: controller.snakeCaseToNormal(
+                                  controller.topicsList[index].title),
+                            ),
+                          );
+                        },
+                        child: _wordListByTopicItem(
+                            controller.topicsList[index].title, index),
+                      );
+                    },
+                    separatorBuilder: (context, index) => const SizedBox(
+                      height: 20,
+                    ),
+                    itemCount: controller.topicsList.length,
+                  ),
+                ),
+              ],
+            ),
           );
         }
 
@@ -141,7 +278,7 @@ class EnglishHandbookScreen extends StatelessWidget {
             controller: controller.tabController,
             children: [
               _wordListTab(),
-              _wordListByCategoryTab(),
+              _wordListByTopicTab(),
             ],
           );
         }

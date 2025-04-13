@@ -32,6 +32,9 @@ class Word {
   @HiveField(7)
   int? index;
 
+  @HiveField(8)
+  String? img;
+
   Word(
       {required this.word,
       required this.pos,
@@ -40,20 +43,22 @@ class Word {
       required this.phoneticAm,
       required this.phoneticAmText,
       required this.senses,
-      this.index = 0});
+      this.index = 0,
+      this.img = ""});
 
   // Chuyển từ JSON String sang WordEntry
-  factory Word.fromJson(String jsonString) {
-    Map<String, dynamic> json = jsonDecode(jsonString);
+  factory Word.fromJson(Map<String, dynamic> json) {
+    // Map<String, dynamic> json = jsonDecode(jsonString);
     return Word(
-      word: json["word"],
-      pos: json["pos"],
-      phonetic: json["phonetic"],
-      phoneticText: json["phonetic_text"],
-      phoneticAm: json["phonetic_am"],
-      phoneticAmText: json["phonetic_am_text"],
+      word: json["word"] ?? "",
+      pos: json["pos"] ?? "",
+      phonetic: json["phonetic"] ?? "",
+      phoneticText: json["phonetic_text"] ?? "",
+      phoneticAm: json["phonetic_am"] ?? "",
+      phoneticAmText: json["phonetic_am_text"] ?? "",
       senses: (json["senses"] as List).map((e) => Sense.fromMap(e)).toList(),
       index: json["index"],
+      img: json["img"] ?? "",
     );
   }
 
@@ -68,6 +73,7 @@ class Word {
       "phonetic_am_text": phoneticAmText,
       "senses": senses.map((e) => e.toMap()).toList(),
       "index": index,
+      "img": img,
     };
   }
 
@@ -77,28 +83,29 @@ class Word {
   }
 }
 
-class WordList {
-  List<Word> words;
+// class WordList {
+//   List<Word> words;
 
-  WordList({required this.words});
+//   WordList({required this.words});
 
-  // Chuyển từ JSON String sang danh sách WordEntry
-  factory WordList.fromJson(String jsonString) {
-    List<dynamic> jsonList = jsonDecode(jsonString);
-    return WordList(
-      words: jsonList.map((e) => Word.fromJson(jsonEncode(e))).toList(),
-    );
-  }
+//   // Chuyển từ JSON String sang danh sách WordEntry
+//   factory WordList.fromJson(Map<String, dynamic> json) {
+//     // List<dynamic> jsonList = jsonDecode(jsonString);
+//     return WordList(
+//       // words: jsonList.map((e) => Word.fromJson(jsonEncode(e))).toList(),
+//       words: json
+//     );
+//   }
 
-  // Chuyển danh sách WordEntry sang Map
-  Map<String, dynamic> toMap() {
-    return {
-      "words": words.map((e) => e.toMap()).toList(),
-    };
-  }
+//   // Chuyển danh sách WordEntry sang Map
+//   Map<String, dynamic> toMap() {
+//     return {
+//       "words": words.map((e) => e.toMap()).toList(),
+//     };
+//   }
 
-  // Chuyển danh sách WordEntry sang JSON String
-  String toJson() {
-    return jsonEncode(toMap());
-  }
-}
+//   // Chuyển danh sách WordEntry sang JSON String
+//   String toJson() {
+//     return jsonEncode(toMap());
+//   }
+// }

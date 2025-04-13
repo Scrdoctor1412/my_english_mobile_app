@@ -24,14 +24,15 @@ class WordAdapter extends TypeAdapter<Word> {
       phoneticAm: fields[4] as String,
       phoneticAmText: fields[5] as String,
       senses: (fields[6] as List).cast<Sense>(),
-      index: fields[7] as int,
+      index: fields[7] as int?,
+      img: fields[8] as String?,
     );
   }
 
   @override
   void write(BinaryWriter writer, Word obj) {
     writer
-      ..writeByte(8)
+      ..writeByte(9)
       ..writeByte(0)
       ..write(obj.word)
       ..writeByte(1)
@@ -47,7 +48,9 @@ class WordAdapter extends TypeAdapter<Word> {
       ..writeByte(6)
       ..write(obj.senses)
       ..writeByte(7)
-      ..write(obj.index);
+      ..write(obj.index)
+      ..writeByte(8)
+      ..write(obj.img);
   }
 
   @override
