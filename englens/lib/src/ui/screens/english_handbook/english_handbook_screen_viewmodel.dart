@@ -48,9 +48,9 @@ class EnglishHandbookScreenViewmodel extends GetViewModelBase
   String snakeCaseToNormal(String input) {
     return input
         .split('_') // Tách chuỗi bằng dấu gạch dưới
-        .map((word) =>
-            word[0].toUpperCase() +
-            word.substring(1)) // Viết hoa chữ cái đầu mỗi từ
+        .map(
+          (word) => word[0].toUpperCase() + word.substring(1),
+        ) // Viết hoa chữ cái đầu mỗi từ
         .join(' '); // Ghép lại các từ bằng dấu cách
   }
 

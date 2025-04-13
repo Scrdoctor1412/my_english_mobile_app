@@ -77,6 +77,104 @@ class HomeScreen extends StatelessWidget {
           );
         }
 
+        _userWordListBlock() {
+          return Container(
+            width: screenWidth / 2.3,
+            height: 75,
+            decoration: BoxDecoration(
+              color: Colors.white,
+              borderRadius: BorderRadius.circular(12),
+              boxShadow: [
+                BoxShadow(
+                  color: Colors.black.withAlpha(48),
+                  offset: Offset(0, 2),
+                  blurRadius: 10,
+                )
+              ],
+            ),
+            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Row(
+                  children: [
+                    Icon(
+                      Icons.folder_copy_outlined,
+                    ),
+                    const Spacer(),
+                    InkWell(
+                      child: Icon(Icons.add),
+                    ),
+                  ],
+                ),
+                Text(
+                  'My Worldlists',
+                  style: TextStyle(
+                    fontSize: 16,
+                    fontWeight: FontWeight.w600,
+                  ),
+                ),
+              ],
+            ),
+          );
+        }
+
+        _dailyWordBlock() {
+          return Container(
+            width: screenWidth / 2.3,
+            height: 75,
+            decoration: BoxDecoration(
+              color: Colors.white,
+              borderRadius: BorderRadius.circular(12),
+              boxShadow: [
+                BoxShadow(
+                  color: Colors.black.withAlpha(48),
+                  offset: Offset(0, 2),
+                  blurRadius: 10,
+                )
+              ],
+            ),
+            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Row(
+                  children: [
+                    Icon(
+                      Icons.list_alt_rounded,
+                    ),
+                    const Spacer(),
+                    Container(
+                      height: 26,
+                      width: 26,
+                      decoration: BoxDecoration(
+                        color: ThemePrimary.primaryOrange,
+                        borderRadius: BorderRadius.circular(50),
+                      ),
+                      child: Center(
+                        child: Text(
+                          '2',
+                          style: TextStyle(
+                            color: Colors.white,
+                            fontWeight: FontWeight.w600,
+                          ),
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
+                Text(
+                  'Daily Words',
+                  style: TextStyle(
+                    fontSize: 16,
+                    fontWeight: FontWeight.w600,
+                  ),
+                ),
+              ],
+            ),
+          );
+        }
+
         _body() {
           return SingleChildScrollView(
             padding: EdgeInsets.only(bottom: 20),
@@ -150,64 +248,12 @@ class HomeScreen extends StatelessWidget {
                           ),
                         ),
                         const SizedBox(height: 20),
-                        Container(
-                          width: screenWidth,
-                          height: 65,
-                          child: Hero(
-                            tag: "search_text_field",
-                            child: Material(
-                              color: Colors.transparent,
-                              child: TextField(
-                                onTap: () {
-                                  Get.toNamed(WordSearchScreen.routeName);
-                                },
-                                decoration: InputDecoration(
-                                  filled: true,
-                                  fillColor: Colors.white,
-                                  hintText: 'What word will you search today?',
-                                  hintStyle: TextStyle(
-                                    fontSize: 15,
-                                    color: ThemePrimary.grey,
-                                    fontWeight: FontWeight.w600,
-                                  ),
-                                  suffixIcon: Icon(
-                                    Icons.search,
-                                    color: ThemePrimary.grey,
-                                  ),
-                                  disabledBorder: OutlineInputBorder(
-                                    borderRadius: BorderRadius.circular(8),
-                                    borderSide: BorderSide(
-                                      color: Colors.transparent.withAlpha(0),
-                                    ),
-                                  ),
-                                  focusedBorder: OutlineInputBorder(
-                                    borderRadius: BorderRadius.circular(8),
-                                    borderSide: BorderSide(
-                                      color: Colors.transparent.withAlpha(0),
-                                    ),
-                                  ),
-                                  enabledBorder: OutlineInputBorder(
-                                    borderRadius: BorderRadius.circular(8),
-                                    borderSide: BorderSide(
-                                      color: Colors.transparent.withAlpha(0),
-                                    ),
-                                  ),
-                                  errorBorder: OutlineInputBorder(
-                                    borderRadius: BorderRadius.circular(8),
-                                    borderSide: BorderSide(
-                                      color: Colors.transparent.withAlpha(0),
-                                    ),
-                                  ),
-                                  border: OutlineInputBorder(
-                                    borderRadius: BorderRadius.circular(8),
-                                    borderSide: BorderSide(
-                                      color: Colors.transparent.withAlpha(0),
-                                    ),
-                                  ),
-                                ),
-                              ),
-                            ),
-                          ),
+                        Row(
+                          children: [
+                            _userWordListBlock(),
+                            const Spacer(),
+                            _dailyWordBlock(),
+                          ],
                         ),
                         const SizedBox(height: 20),
                         Container(
