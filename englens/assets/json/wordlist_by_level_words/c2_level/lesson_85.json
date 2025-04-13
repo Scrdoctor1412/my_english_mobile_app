@@ -1,0 +1,587 @@
+{
+  "topic": "c2_level",
+  "title": "Mathematics",
+  "lesson": "lesson_85",
+  "word_list": [
+    {
+      "word": "algorithm",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=YWxnb3JpdGht&hash=35aceb6d5333a13c322bd523cbe893bd9f445fc5&lang=en&cache-only=0",
+      "phonetic_text": "ælgərɪðəm",
+      "phonetic_am": "https://tts.langeek.co/read?text=YWxnb3JpdGht&hash=35aceb6d5333a13c322bd523cbe893bd9f445fc5&lang=en&cache-only=0",
+      "phonetic_am_text": "ālgēridhēm",
+      "img": "",
+      "senses": [
+        {
+          "definition": "a finite sequence of well-defined, mathematical instructions for completing a specific task or solving a problem",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The Sieve of Eratosthenes is an algorithm for finding all prime numbers up to a given limit."
+            },
+            {
+              "cf": "",
+              "x": "The Dijkstra's algorithm is used to find the shortest path between nodes in a graph."
+            },
+            {
+              "cf": "",
+              "x": "The Fast Fourier Transform (FFT) algorithm efficiently computes the discrete Fourier transform of a sequence or its inverse."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "variance",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=dmFyaWFuY2U&hash=f29b6287b6ad107a401908c34dc66a1913e82bf9&lang=en&cache-only=0",
+      "phonetic_text": "vɛriəns",
+      "phonetic_am": "https://tts.langeek.co/read?text=dmFyaWFuY2U&hash=f29b6287b6ad107a401908c34dc66a1913e82bf9&lang=en&cache-only=0",
+      "phonetic_am_text": "veriēns",
+      "img": "",
+      "senses": [
+        {
+          "definition": "a measure of the dispersion or spread of a set of data points in statistics, representing the average squared deviation from the mean",
+          "examples": [
+            {
+              "cf": "",
+              "x": "In statistics, variance is a measure of how spread out the values in a data set are around the mean."
+            },
+            {
+              "cf": "",
+              "x": "The variance of a random variable is the expectation of the squared deviation of that variable from its mean."
+            },
+            {
+              "cf": "",
+              "x": "A low variance indicates that the data points tend to be close to the mean, while a high variance suggests that the data points are more spread out."
+            },
+            {
+              "cf": "",
+              "x": "The variance formula involves summing the squared differences between each data point and the mean, divided by the number of data points."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "derivative",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=ZGVyaXZhdGl2ZQ&hash=4cd07357bbd80384d088e9900a3c9056dd6b54b2&lang=en&cache-only=0",
+      "phonetic_text": "dərɪvətɪv",
+      "phonetic_am": "https://tts.langeek.co/read?text=ZGVyaXZhdGl2ZQ&hash=4cd07357bbd80384d088e9900a3c9056dd6b54b2&lang=en&cache-only=0",
+      "phonetic_am_text": "dērivētiv",
+      "img": "",
+      "senses": [
+        {
+          "definition": "the rate at which a function changes with respect to its independent variable",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Calculating the derivative of a position function yields the velocity function, describing the rate of change of position with respect to time."
+            },
+            {
+              "cf": "",
+              "x": "The derivative of a revenue function provides the marginal revenue, indicating the additional revenue gained from selling one more unit."
+            },
+            {
+              "cf": "",
+              "x": "Finding the derivative of a distance function results in the instantaneous speed function, representing the speed of an object at a specific moment."
+            },
+            {
+              "cf": "",
+              "x": "In economics, the elasticity of a demand function is determined by finding the derivative with respect to price."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "integral",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=aW50ZWdyYWw&hash=ed4c1ae53eea9127f2faccc8321d19f24665303f&lang=en&cache-only=0",
+      "phonetic_text": "ɪntəgrəl",
+      "phonetic_am": "https://tts.langeek.co/read?text=aW50ZWdyYWw&hash=ed4c1ae53eea9127f2faccc8321d19f24665303f&lang=en&cache-only=0",
+      "phonetic_am_text": "intēgrēl",
+      "img": "",
+      "senses": [
+        {
+          "definition": "a mathematical concept representing the total accumulation of a quantity, often represented by the area under a curve on a graph",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Calculating the integral of a rate of change function provides the total change in the quantity over a given period."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "limit",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=bGltaXQ&hash=8e89ea926ba63589a92ba975e9de2aacb9193f43&lang=en&cache-only=0",
+      "phonetic_text": "lɪmət",
+      "phonetic_am": "https://tts.langeek.co/read?text=bGltaXQ&hash=8e89ea926ba63589a92ba975e9de2aacb9193f43&lang=en&cache-only=0",
+      "phonetic_am_text": "limēt",
+      "img": "",
+      "senses": [
+        {
+          "definition": "the value that a function or sequence approaches as its input or index gets close to a particular value",
+          "examples": [
+            {
+              "cf": "",
+              "x": "In calculus, the concept of a limit is essential for defining derivatives, as it involves understanding how a function behaves near a given point."
+            },
+            {
+              "cf": "",
+              "x": "The limit of a sequence is the value it approaches as the index goes to infinity."
+            },
+            {
+              "cf": "",
+              "x": "The limit of a fraction where the numerator and denominator both approach infinity may involve applying L'Hôpital's Rule."
+            },
+            {
+              "cf": "",
+              "x": "The concept of limits is used to define continuity in functions, where the limit of the function at a point equals the function's value at that point."
+            },
+            {
+              "cf": "",
+              "x": "Evaluating the limit of a difference quotient leads to the definition of a derivative in calculus."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "catastrophe theory",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=Y2F0YXN0cm9waGUgdGhlb3J5&hash=6e77ed35e162e9a0b329ccf3f3e77ae9185503f1&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phonetic_am": "https://tts.langeek.co/read?text=Y2F0YXN0cm9waGUgdGhlb3J5&hash=6e77ed35e162e9a0b329ccf3f3e77ae9185503f1&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "senses": [
+        {
+          "definition": "a branch of mathematics that studies and classifies phenomena characterized by sudden shifts in behavior arising from small changes in circumstances",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Catastrophe theory, introduced by French mathematician René Thom in the 1960s, is a branch of mathematics that studies sudden changes in the behavior of systems as a result of small changes in inputs or parameters."
+            },
+            {
+              "cf": "",
+              "x": "Catastrophe theory models complex systems using mathematical structures called catastrophe manifolds, which describe the possible states of the system and the transitions between them."
+            },
+            {
+              "cf": "",
+              "x": "Applications of catastrophe theory range from biology and ecology to economics and psychology, where it helps explain abrupt shifts in phenomena such as population dynamics, market crashes, and sudden changes in behavior."
+            },
+            {
+              "cf": "",
+              "x": "One of the most famous applications of catastrophe theory is in modeling the behavior of a potential energy surface and predicting phase transitions in physical and chemical systems."
+            },
+            {
+              "cf": "",
+              "x": "Catastrophe theory has also been used to analyze the stability of ecosystems, the dynamics of animal behavior, and the onset of psychiatric disorders, providing insights into the underlying mechanisms driving these phenomena."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "differential",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=ZGlmZmVyZW50aWFs&hash=8e47bb35292a9fae6d6e69b47b2092a8c4f04b82&lang=en&cache-only=0",
+      "phonetic_text": "dɪfərɛnʃəl",
+      "phonetic_am": "https://tts.langeek.co/read?text=ZGlmZmVyZW50aWFs&hash=8e47bb35292a9fae6d6e69b47b2092a8c4f04b82&lang=en&cache-only=0",
+      "phonetic_am_text": "difērenshēl",
+      "img": "",
+      "senses": [
+        {
+          "definition": "(mathematics) a really small change in a function or variable",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Calculus involves studying differentials to understand rates of change."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "logarithm",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=bG9nYXJpdGht&hash=b4a7a1ab26d48ac73471ae5320639ce9640b8c07&lang=en&cache-only=0",
+      "phonetic_text": "lɑ:gərɪðəm",
+      "phonetic_am": "https://tts.langeek.co/read?text=bG9nYXJpdGht&hash=b4a7a1ab26d48ac73471ae5320639ce9640b8c07&lang=en&cache-only=0",
+      "phonetic_am_text": "laagēridhēm",
+      "img": "",
+      "senses": [
+        {
+          "definition": "a mathematical function that represents the exponent to which a fixed number, called the base, must be raised to produce a given number",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She used the logarithm to solve complex exponential equations in her mathematics class."
+            },
+            {
+              "cf": "",
+              "x": "Engineers often apply logarithms in signal processing for efficient data representation."
+            },
+            {
+              "cf": "",
+              "x": "Calculating the logarithm is an essential step in determining the pH level in chemistry."
+            },
+            {
+              "cf": "",
+              "x": "Astronomers apply logarithms to express stellar magnitudes and measure the brightness of celestial objects."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "prime",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=cHJpbWU&hash=6f4962c74000482f6505b0d6cde431b6526cffd3&lang=en&cache-only=0",
+      "phonetic_text": "praɪm",
+      "phonetic_am": "https://tts.langeek.co/read?text=cHJpbWU&hash=6f4962c74000482f6505b0d6cde431b6526cffd3&lang=en&cache-only=0",
+      "phonetic_am_text": "praim",
+      "img": "",
+      "senses": [
+        {
+          "definition": "a natural number greater than 1 that has no positive divisors other than 1 and itself",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Seven is a prime because it's only divisible by 1 and 7."
+            },
+            {
+              "cf": "",
+              "x": "The number 29 is a prime because it has no divisors other than 1 and 29."
+            },
+            {
+              "cf": "",
+              "x": "In math class, we learned how to identify primes up to 100."
+            },
+            {
+              "cf": "",
+              "x": "The number 7 is a prime, as it can only be divided by 1 and 7."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vector",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=dmVjdG9y&hash=ccd110dddfb02d4358ef507e64e26eb62234f5ca&lang=en&cache-only=0",
+      "phonetic_text": "vɛktər",
+      "phonetic_am": "https://tts.langeek.co/read?text=dmVjdG9y&hash=ccd110dddfb02d4358ef507e64e26eb62234f5ca&lang=en&cache-only=0",
+      "phonetic_am_text": "vektēr",
+      "img": "",
+      "senses": [
+        {
+          "definition": "an ordered set of numbers that describes both magnitude and direction, commonly used to represent quantities like displacement, velocity, or force in physics and engineering",
+          "examples": [
+            {
+              "cf": "",
+              "x": "In physics, force is often represented as a vector, considering both its magnitude and direction."
+            },
+            {
+              "cf": "",
+              "x": "Velocity, a vector quantity, describes an object's speed and the direction in which it is moving."
+            },
+            {
+              "cf": "",
+              "x": "Acceleration, a vector in kinematics, represents the rate of change of velocity over time."
+            },
+            {
+              "cf": "",
+              "x": "Wind velocity is a vector quantity, accounting for both the speed and direction of the wind."
+            },
+            {
+              "cf": "",
+              "x": "The force exerted by a tensioned rope can be represented as a vector in mechanics."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "theorem",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=dGhlb3JlbQ&hash=b6b89e38f126e67ff23aeaa2bd2b03e3c153b2fd&lang=en&cache-only=0",
+      "phonetic_text": "θɪrəm",
+      "phonetic_am": "https://tts.langeek.co/read?text=dGhlb3JlbQ&hash=b6b89e38f126e67ff23aeaa2bd2b03e3c153b2fd&lang=en&cache-only=0",
+      "phonetic_am_text": "thirēm",
+      "img": "",
+      "senses": [
+        {
+          "definition": "a statement or proposition that has been proven to be true based on previously established axioms, definitions, and other theorems within a particular mathematical or logical system",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Mathematicians often prove theorems to establish mathematical truths."
+            },
+            {
+              "cf": "",
+              "x": "One fundamental aspect of mathematical reasoning is establishing the validity of theorems."
+            },
+            {
+              "cf": "",
+              "x": "The Pythagorean theorem is a well-known principle in geometry."
+            },
+            {
+              "cf": "",
+              "x": "A theorem typically requires a rigorous proof to be considered valid."
+            },
+            {
+              "cf": "",
+              "x": "Students often encounter various theorems while studying advanced mathematics."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "permutation",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=cGVybXV0YXRpb24&hash=0c2a2f826bef1e2d56ef8a792a43759fe285fc97&lang=en&cache-only=0",
+      "phonetic_text": "pɜrmjuteɪʃən",
+      "phonetic_am": "https://tts.langeek.co/read?text=cGVybXV0YXRpb24&hash=0c2a2f826bef1e2d56ef8a792a43759fe285fc97&lang=en&cache-only=0",
+      "phonetic_am_text": "pērmyuteishēn",
+      "img": "",
+      "senses": [
+        {
+          "definition": "(mathematics) a rearrangement of a set of elements in a specific order or sequence",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The number of permutations of three distinct objects is six."
+            },
+            {
+              "cf": "",
+              "x": "Permutations are often used in probability calculations."
+            },
+            {
+              "cf": "",
+              "x": "Combinatorics relies on permutations to count arrangements without repetition."
+            },
+            {
+              "cf": "",
+              "x": "A permutation of the letters ABC could be BAC or CAB."
+            },
+            {
+              "cf": "",
+              "x": "Permutations are used to count different ways to arrange objects."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "eigenvalue",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=ZWlnZW52YWx1ZQ&hash=673246c9525d30d637f96a3b2a52c6e43638013a&lang=en&cache-only=0",
+      "phonetic_text": "aɪgənvælju",
+      "phonetic_am": "https://tts.langeek.co/read?text=ZWlnZW52YWx1ZQ&hash=673246c9525d30d637f96a3b2a52c6e43638013a&lang=en&cache-only=0",
+      "phonetic_am_text": "aigēnvālyu",
+      "img": "",
+      "senses": [
+        {
+          "definition": "a special number used in linear algebra to describe how vectors change during transformations",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Eigenvalues help us understand how matrices transform vectors."
+            },
+            {
+              "cf": "",
+              "x": "Engineers use eigenvalues to understand structural stability in bridges."
+            },
+            {
+              "cf": "",
+              "x": "Eigenvalues reveal growth rates in population models."
+            },
+            {
+              "cf": "",
+              "x": "The eigenvalues of a symmetric matrix are always real numbers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "set theory",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=c2V0IHRoZW9yeQ&hash=c475ba051d5d0fa27d2a86780a0d4019f48bf177&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phonetic_am": "https://tts.langeek.co/read?text=c2V0IHRoZW9yeQ&hash=c475ba051d5d0fa27d2a86780a0d4019f48bf177&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "senses": [
+        {
+          "definition": "a branch of mathematics that deals with the study of sets, which are collections of distinct objects, and their properties, relationships, and operations",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Set theory helps define relationships between different groups of numbers."
+            },
+            {
+              "cf": "",
+              "x": "In set theory, a set is a collection of distinct elements."
+            },
+            {
+              "cf": "",
+              "x": "Mathematicians use set theory to study the properties and operations of sets."
+            },
+            {
+              "cf": "",
+              "x": "The empty set, denoted by {}, is a fundamental concept in set theory."
+            },
+            {
+              "cf": "",
+              "x": "Set theory forms the basis for defining functions and relations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "polynomial",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=cG9seW5vbWlhbA&hash=93ae869588c5112a004219c4e253704442c0bab6&lang=en&cache-only=0",
+      "phonetic_text": "pɑlinoʊmiəl",
+      "phonetic_am": "https://tts.langeek.co/read?text=cG9seW5vbWlhbA&hash=93ae869588c5112a004219c4e253704442c0bab6&lang=en&cache-only=0",
+      "phonetic_am_text": "pɑlinowmiēl",
+      "img": "",
+      "senses": [
+        {
+          "definition": "a mathematical expression with variables raised to powers and combined using arithmetic operations",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Polynomials are used to represent curves in algebraic geometry."
+            },
+            {
+              "cf": "",
+              "x": "Adding or subtracting polynomials involves combining like terms."
+            },
+            {
+              "cf": "",
+              "x": "The expression 2x+3 is a simple polynomial."
+            },
+            {
+              "cf": "",
+              "x": "Simple expressions like 5x are considered polynomials."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "integration",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=aW50ZWdyYXRpb24&hash=1a7de320083504983d5d1955ac3daebd675be885&lang=en&cache-only=0",
+      "phonetic_text": "ɪntəgreɪʃən",
+      "phonetic_am": "https://tts.langeek.co/read?text=aW50ZWdyYXRpb24&hash=1a7de320083504983d5d1955ac3daebd675be885&lang=en&cache-only=0",
+      "phonetic_am_text": "intēgreishēn",
+      "img": "",
+      "senses": [
+        {
+          "definition": "a mathematical operation that calculates the accumulation of quantities, represented as the area under a curve on a graph",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Integration helps find the area under curves in math."
+            },
+            {
+              "cf": "",
+              "x": "In math, integration helps calculate probabilities."
+            },
+            {
+              "cf": "",
+              "x": "Integration is crucial in calculus for finding patterns in numbers."
+            },
+            {
+              "cf": "",
+              "x": "In signal processing, integration analyzes data for patterns."
+            },
+            {
+              "cf": "",
+              "x": "Physicists use integration to solve problems in mechanics."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "matrix multiplication",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=bWF0cml4IG11bHRpcGxpY2F0aW9u&hash=73d58661f6ecd7a3b660397b2ef2dad7350255e1&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phonetic_am": "https://tts.langeek.co/read?text=bWF0cml4IG11bHRpcGxpY2F0aW9u&hash=73d58661f6ecd7a3b660397b2ef2dad7350255e1&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "senses": [
+        {
+          "definition": "a mathematical operation that combines two matrices to produce a new matrix, calculated by multiplying rows and columns",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Matrix multiplication is essential for solving systems of linear equations."
+            },
+            {
+              "cf": "",
+              "x": "Data scientists apply matrix multiplication in machine learning algorithms for data analysis."
+            },
+            {
+              "cf": "",
+              "x": "Matrix multiplication is often performed using specialized software or programming languages."
+            },
+            {
+              "cf": "",
+              "x": "Understanding matrix multiplication is crucial for solving complex mathematical problems in various disciplines."
+            },
+            {
+              "cf": "",
+              "x": "In finance, matrix multiplication is used for portfolio optimization and risk analysis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "quadratic equation",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=cXVhZHJhdGljIGVxdWF0aW9u&hash=6795c119fbf003c6270859f090ae81d6170ed874&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phonetic_am": "https://tts.langeek.co/read?text=cXVhZHJhdGljIGVxdWF0aW9u&hash=6795c119fbf003c6270859f090ae81d6170ed874&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "senses": [
+        {
+          "definition": "an equation involving the square of a variable",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Quadratic equations involve squared terms like x^2."
+            },
+            {
+              "cf": "",
+              "x": "Quadratic equations are useful for calculating areas of squares and rectangles."
+            },
+            {
+              "cf": "",
+              "x": "Quadratic equations often have two solutions, called roots."
+            },
+            {
+              "cf": "",
+              "x": "Factoring is a common method to solve quadratic equations when possible."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

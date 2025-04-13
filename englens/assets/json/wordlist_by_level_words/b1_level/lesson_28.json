@@ -1,0 +1,1254 @@
+{
+  "topic": "b1_level",
+  "title": "Quantities and Containers",
+  "lesson": "lesson_28",
+  "word_list": [
+    {
+      "word": "Fahrenheit",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=RmFocmVuaGVpdA&hash=77957e435acbcf9dc1bcf9885d284a2f6d834417&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phonetic_am": "https://tts.langeek.co/read?text=RmFocmVuaGVpdA&hash=77957e435acbcf9dc1bcf9885d284a2f6d834417&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/20916/original/fahrenheit?type=jpeg",
+      "senses": [
+        {
+          "definition": "related to or using a temperature scale on which water boils at 212° and freezes at 32°",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "celsius",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=Y2Vsc2l1cw&hash=2b5b28c67d25abc072df70fced6272b235916497&lang=en&cache-only=0",
+      "phonetic_text": "sɛlsiəs",
+      "phonetic_am": "https://tts.langeek.co/read?text=Y2Vsc2l1cw&hash=2b5b28c67d25abc072df70fced6272b235916497&lang=en&cache-only=0",
+      "phonetic_am_text": "selsiēs",
+      "img": "https://cdn.langeek.co/photo/20920/original/celsius?type=jpeg",
+      "senses": [
+        {
+          "definition": "of or relating to the usage of a scale for measuring temperature in which water freezes at 0 degree and boils at 100 degrees",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "centigrade",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=Y2VudGlncmFkZQ&hash=65a912af100cad8a54983e53e28d53239e7cbb7e&lang=en&cache-only=0",
+      "phonetic_text": "sɛntəgreɪd",
+      "phonetic_am": "https://tts.langeek.co/read?text=Y2VudGlncmFkZQ&hash=65a912af100cad8a54983e53e28d53239e7cbb7e&lang=en&cache-only=0",
+      "phonetic_am_text": "sentēgreid",
+      "img": "https://cdn.langeek.co/photo/20918/original/centigrade?type=jpeg",
+      "senses": [
+        {
+          "definition": "related to or using a temperature scale on which water boils at 100° and freezes at 0°",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "dozen",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=ZG96ZW4&hash=53cd5045f17dd7baed43a733fa15d6de47aba412&lang=en&cache-only=0",
+      "phonetic_text": "dʌzən",
+      "phonetic_am": "https://tts.langeek.co/read?text=ZG96ZW4&hash=53cd5045f17dd7baed43a733fa15d6de47aba412&lang=en&cache-only=0",
+      "phonetic_am_text": "dazēn",
+      "img": "https://cdn.langeek.co/photo/20021/original/dozen?type=jpeg",
+      "senses": [
+        {
+          "definition": "a set of twelve items",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She bought a dozen roses to surprise her partner on their anniversary."
+            },
+            {
+              "cf": "",
+              "x": "The restaurant offered a special deal: buy a dozen doughnuts and get one free."
+            },
+            {
+              "cf": "",
+              "x": "The farmer harvested a dozen eggs from the chicken coop every morning."
+            },
+            {
+              "cf": "",
+              "x": "He ordered a dozen pens to stock up for the upcoming school year."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ounce",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=b3VuY2U&hash=13b6c855969c3140e42002dafb293d154abd9841&lang=en&cache-only=0",
+      "phonetic_text": "aʊns",
+      "phonetic_am": "https://tts.langeek.co/read?text=b3VuY2U&hash=13b6c855969c3140e42002dafb293d154abd9841&lang=en&cache-only=0",
+      "phonetic_am_text": "awns",
+      "img": "https://cdn.langeek.co/photo/20129/original/ounce?type=jpeg",
+      "senses": [
+        {
+          "definition": "a unit for measuring weight equal to approximately 28.34 grams",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "gallon",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=Z2FsbG9u&hash=375096762d724d813040f90f7d6c7645844d1b70&lang=en&cache-only=0",
+      "phonetic_text": "gælən",
+      "phonetic_am": "https://tts.langeek.co/read?text=Z2FsbG9u&hash=375096762d724d813040f90f7d6c7645844d1b70&lang=en&cache-only=0",
+      "phonetic_am_text": "gālēn",
+      "img": "https://cdn.langeek.co/photo/20307/original/gallon?type=jpeg",
+      "senses": [
+        {
+          "definition": "a unit used to measure liquids in the United States, equivalent to approximately 3.785 liters",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "inch",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=aW5jaA&hash=35bf20f2d6cf302cdbf76f14543de1f6fc110850&lang=en&cache-only=0",
+      "phonetic_text": "ɪnʧ",
+      "phonetic_am": "https://tts.langeek.co/read?text=aW5jaA&hash=35bf20f2d6cf302cdbf76f14543de1f6fc110850&lang=en&cache-only=0",
+      "phonetic_am_text": "inch",
+      "img": "https://cdn.langeek.co/photo/20127/original/inch?type=jpeg",
+      "senses": [
+        {
+          "definition": "a unit of length equal to one-twelfth of a foot or 2.54 centimeters",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "scale",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=c2NhbGU&hash=f99898ae61ebeee5138e87f4396f6d1366d78b87&lang=en&cache-only=0",
+      "phonetic_text": "skeɪl",
+      "phonetic_am": "https://tts.langeek.co/read?text=c2NhbGU&hash=f99898ae61ebeee5138e87f4396f6d1366d78b87&lang=en&cache-only=0",
+      "phonetic_am_text": "skeil",
+      "img": "",
+      "senses": [
+        {
+          "definition": "the size, amount, or degree of one thing compared with another",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The scale of the earthquake was so immense that it caused widespread damage across the region."
+            },
+            {
+              "cf": "",
+              "x": "When choosing a new car, he considered the scale of fuel efficiency in relation to the vehicle's size."
+            },
+            {
+              "cf": "",
+              "x": "The scale of the forest fire was beyond anything the firefighters had ever encountered."
+            },
+            {
+              "cf": "",
+              "x": "The artist had a remarkable ability to capture the scale of natural landscapes in his paintings."
+            },
+            {
+              "cf": "",
+              "x": "We need to assess the scale of the problem before deciding on a suitable solution."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "piece",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=cGllY2U&hash=eef478a04c9accc95579134c49ae42ba9b838fd8&lang=en&cache-only=0",
+      "phonetic_text": "pi:s",
+      "phonetic_am": "https://tts.langeek.co/read?text=cGllY2U&hash=eef478a04c9accc95579134c49ae42ba9b838fd8&lang=en&cache-only=0",
+      "phonetic_am_text": "pees",
+      "img": "https://cdn.langeek.co/photo/20023/original/piece?type=jpeg",
+      "senses": [
+        {
+          "definition": "an individual part used to build or create something",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Each piece of the puzzle was crucial in completing the picture."
+            },
+            {
+              "cf": "",
+              "x": "The furniture came in several pieces, requiring assembly before use."
+            },
+            {
+              "cf": "",
+              "x": "The engineer examined each intricate piece of the machine to ensure it was functioning correctly."
+            },
+            {
+              "cf": "",
+              "x": "The mechanic replaced the broken pieces of the engine, restoring the car to working order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "slice",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=c2xpY2U&hash=29288f98e6d314fa70d6895d4d7d3955e4792187&lang=en&cache-only=0",
+      "phonetic_text": "slaɪs",
+      "phonetic_am": "https://tts.langeek.co/read?text=c2xpY2U&hash=29288f98e6d314fa70d6895d4d7d3955e4792187&lang=en&cache-only=0",
+      "phonetic_am_text": "slais",
+      "img": "https://cdn.langeek.co/photo/20025/original/slice?type=jpeg",
+      "senses": [
+        {
+          "definition": "a small cut of a larger portion such as a piece of cake, pizza, etc.",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She took a slice of bread and spread some butter on it."
+            },
+            {
+              "cf": "",
+              "x": "He ordered a large pepperoni pizza and ate three slices by himself."
+            },
+            {
+              "cf": "",
+              "x": "She cut the cake into eight equal slices and gave one to each of her guests."
+            },
+            {
+              "cf": "",
+              "x": "He enjoyed a slice of cheese with his wine."
+            },
+            {
+              "cf": "",
+              "x": "She sliced the apple and gave him a slice to taste."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "loaf",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=bG9hZg&hash=91f265abbe7b3d3db0992d38a179d7c87a7b3cba&lang=en&cache-only=0",
+      "phonetic_text": "loʊf",
+      "phonetic_am": "https://tts.langeek.co/read?text=bG9hZg&hash=91f265abbe7b3d3db0992d38a179d7c87a7b3cba&lang=en&cache-only=0",
+      "phonetic_am_text": "lowf",
+      "img": "https://cdn.langeek.co/photo/20243/original/loaf?type=jpeg",
+      "senses": [
+        {
+          "definition": "bread that has a particular shape and is baked in one piece, usually sliced before being served",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The loaf was sliced into even pieces for breakfast."
+            },
+            {
+              "cf": "",
+              "x": "He placed the warm loaf on the cooling rack."
+            },
+            {
+              "cf": "",
+              "x": "A whole loaf was baked for the family gathering."
+            },
+            {
+              "cf": "",
+              "x": "She bought a fresh loaf of bread from the bakery."
+            },
+            {
+              "cf": "",
+              "x": "Can you pass me the loaf from the bread basket?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bar",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=YmFy&hash=ad2da7ff2333c91e5f56246cc478b9d3ea64829c&lang=en&cache-only=0",
+      "phonetic_text": "bɑ:r",
+      "phonetic_am": "https://tts.langeek.co/read?text=YmFy&hash=ad2da7ff2333c91e5f56246cc478b9d3ea64829c&lang=en&cache-only=0",
+      "phonetic_am_text": "baar",
+      "img": "https://cdn.langeek.co/photo/51462/original/bar?type=jpeg",
+      "senses": [
+        {
+          "definition": "an amount of a substance in the shape of a block such as chocolate, soap, etc.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "roll",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=cm9sbA&hash=53ebc833fc607928882c19e9930c8d9c76dc1331&lang=en&cache-only=0",
+      "phonetic_text": "roʊl",
+      "phonetic_am": "https://tts.langeek.co/read?text=cm9sbA&hash=53ebc833fc607928882c19e9930c8d9c76dc1331&lang=en&cache-only=0",
+      "phonetic_am_text": "rowl",
+      "img": "https://cdn.langeek.co/photo/26505/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "something that is wrapped around a tube or shaped into one",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She handed me a roll of film to develop at the photography store."
+            },
+            {
+              "cf": "",
+              "x": "He carried a roll of cash in his pocket for emergencies."
+            },
+            {
+              "cf": "",
+              "x": "The photographer loaded a fresh roll of film into the camera before the shoot."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "number",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=bnVtYmVy&hash=7d74c4e0274e06f9518a58887aa30ec3e91f1969&lang=en&cache-only=0",
+      "phonetic_text": "nʌmbər",
+      "phonetic_am": "https://tts.langeek.co/read?text=bnVtYmVy&hash=7d74c4e0274e06f9518a58887aa30ec3e91f1969&lang=en&cache-only=0",
+      "phonetic_am_text": "nambēr",
+      "img": "https://cdn.langeek.co/photo/23235/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "the quantity of things or people",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The number of attendees at the event far exceeded our expectations."
+            },
+            {
+              "cf": "",
+              "x": "Can you please double-check the number of chairs we have in the conference room?"
+            },
+            {
+              "cf": "",
+              "x": "The number of accidents on this road has increased significantly over the past year."
+            },
+            {
+              "cf": "",
+              "x": "We need to reduce the number of errors in our reports to improve efficiency."
+            },
+            {
+              "cf": "",
+              "x": "The number of books in the library's collection continues to grow each year."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bunch",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=YnVuY2g&hash=9a182d34a9d90d67504e9c9198b173e98f07e871&lang=en&cache-only=0",
+      "phonetic_text": "bʌnʧ",
+      "phonetic_am": "https://tts.langeek.co/read?text=YnVuY2g&hash=9a182d34a9d90d67504e9c9198b173e98f07e871&lang=en&cache-only=0",
+      "phonetic_am_text": "banch",
+      "img": "https://cdn.langeek.co/photo/51464/original/bunch?type=jpeg",
+      "senses": [
+        {
+          "definition": "a group of things sharing the same quality, usually connected to each other",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She picked a bunch of flowers from the garden for the centerpiece."
+            },
+            {
+              "cf": "",
+              "x": "He carried a bunch of keys, each opening a different door in the building."
+            },
+            {
+              "cf": "",
+              "x": "The children gathered a bunch of leaves to make a nature collage."
+            },
+            {
+              "cf": "",
+              "x": "The grocer tied a bunch of bananas together for display."
+            },
+            {
+              "cf": "",
+              "x": "She found a bunch of old letters tied with a ribbon in the attic."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pile",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=cGlsZQ&hash=0c7be7c1c2b8b87af8622868ec6f727f66888741&lang=en&cache-only=0",
+      "phonetic_text": "paɪl",
+      "phonetic_am": "https://tts.langeek.co/read?text=cGlsZQ&hash=0c7be7c1c2b8b87af8622868ec6f727f66888741&lang=en&cache-only=0",
+      "phonetic_am_text": "pail",
+      "img": "",
+      "senses": [
+        {
+          "definition": "a noticeably huge number or amount of a particular thing",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The team had a pile of work to finish before the deadline."
+            },
+            {
+              "cf": "",
+              "x": "After the storm, there was a pile of debris scattered across the neighborhood."
+            },
+            {
+              "cf": "",
+              "x": "As the event ended, there was a pile of leftover food that needed to be donated."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "row",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=cm93&hash=07636e4adce90343ebf42d576faaaa0b4bd00359&lang=en&cache-only=0",
+      "phonetic_text": "roʊ",
+      "phonetic_am": "https://tts.langeek.co/read?text=cm93&hash=07636e4adce90343ebf42d576faaaa0b4bd00359&lang=en&cache-only=0",
+      "phonetic_am_text": "row",
+      "img": "https://cdn.langeek.co/photo/20043/original/row?type=jpeg",
+      "senses": [
+        {
+          "definition": "a group of people or objects placed in a line",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She carefully arranged the books in a straight row on the shelf, organizing them by genre."
+            },
+            {
+              "cf": "",
+              "x": "At the movie theater, we chose seats in the middle row for the best view of the screen."
+            },
+            {
+              "cf": "",
+              "x": "The farmer planted the seeds in a neat row, ensuring each one was spaced evenly apart."
+            },
+            {
+              "cf": "",
+              "x": "During the game, the fans cheered enthusiastically from the front row, eager to support their team."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "edge",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=ZWRnZQ&hash=815ce64aec4ed765642049b2c1c1a6f54cb25ee7&lang=en&cache-only=0",
+      "phonetic_text": "ɛʤ",
+      "phonetic_am": "https://tts.langeek.co/read?text=ZWRnZQ&hash=815ce64aec4ed765642049b2c1c1a6f54cb25ee7&lang=en&cache-only=0",
+      "phonetic_am_text": "ej",
+      "img": "https://cdn.langeek.co/photo/26262/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "the outer part of an area or object that is furthest from the center",
+          "examples": [
+            {
+              "cf": "",
+              "x": "He stood on the edge of the cliff, admiring the breathtaking view below."
+            },
+            {
+              "cf": "",
+              "x": "The knife slipped off the edge of the cutting board and fell to the floor."
+            },
+            {
+              "cf": "",
+              "x": "The cat balanced precariously on the edge of the windowsill."
+            },
+            {
+              "cf": "",
+              "x": "The ice skaters glided gracefully along the edge of the frozen lake."
+            },
+            {
+              "cf": "",
+              "x": "She ran her finger along the edge of the book's pages, feeling the texture of the paper."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "container",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=Y29udGFpbmVy&hash=41f6f039091341cd32639dfe3815a7ffdbfb2d1d&lang=en&cache-only=0",
+      "phonetic_text": "kənteɪnər",
+      "phonetic_am": "https://tts.langeek.co/read?text=Y29udGFpbmVy&hash=41f6f039091341cd32639dfe3815a7ffdbfb2d1d&lang=en&cache-only=0",
+      "phonetic_am_text": "kēnteinēr",
+      "img": "https://cdn.langeek.co/photo/20033/original/container?type=jpeg",
+      "senses": [
+        {
+          "definition": "any object that can be used to store something in, such as a bottle, box, etc.",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She placed the leftover food in a container and put it in the fridge."
+            },
+            {
+              "cf": "",
+              "x": "He bought a decorative container for storing his jewelry."
+            },
+            {
+              "cf": "",
+              "x": "The kitchen was filled with various containers for spices and herbs."
+            },
+            {
+              "cf": "",
+              "x": "The plastic container kept the cookies fresh for days."
+            },
+            {
+              "cf": "",
+              "x": "She filled the container with water."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "carton",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=Y2FydG9u&hash=2627d84953306328ce6dcc538c98e42ce48ca409&lang=en&cache-only=0",
+      "phonetic_text": "kɑ:rtən",
+      "phonetic_am": "https://tts.langeek.co/read?text=Y2FydG9u&hash=2627d84953306328ce6dcc538c98e42ce48ca409&lang=en&cache-only=0",
+      "phonetic_am_text": "kaartēn",
+      "img": "https://cdn.langeek.co/photo/20081/original/packet?type=jpeg",
+      "senses": [
+        {
+          "definition": "a box made of cardboard or plastic for storing goods, especially liquid",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She poured milk from the carton into a glass."
+            },
+            {
+              "cf": "",
+              "x": "The carton of juice was stored in the refrigerator."
+            },
+            {
+              "cf": "",
+              "x": "She picked up a carton of yogurt from the shelf."
+            },
+            {
+              "cf": "",
+              "x": "The carton was labeled with the expiration date."
+            },
+            {
+              "cf": "",
+              "x": "The carton was sealed tightly to prevent leaks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "case",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=Y2FzZQ&hash=9e762cdd45ccbbd42c6cd1a8f7aebc443203f726&lang=en&cache-only=0",
+      "phonetic_text": "keɪs",
+      "phonetic_am": "https://tts.langeek.co/read?text=Y2FzZQ&hash=9e762cdd45ccbbd42c6cd1a8f7aebc443203f726&lang=en&cache-only=0",
+      "phonetic_am_text": "keis",
+      "img": "https://cdn.langeek.co/photo/20848/original/case?type=jpeg",
+      "senses": [
+        {
+          "definition": "a container in which goods can be stored and safely carried around",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She packed her clothes into a large case for the trip."
+            },
+            {
+              "cf": "",
+              "x": "The case was locked to keep the valuables secure."
+            },
+            {
+              "cf": "",
+              "x": "The case was made of leather, giving it a stylish and professional look."
+            },
+            {
+              "cf": "",
+              "x": "I lost my case on the way to the airport and had to report it."
+            },
+            {
+              "cf": "",
+              "x": "She put her makeup in a small case to take to the wedding."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pack",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=cGFjaw&hash=b11908eb7e297a8d6245b344c3b3656997c98ba5&lang=en&cache-only=0",
+      "phonetic_text": "pæk",
+      "phonetic_am": "https://tts.langeek.co/read?text=cGFjaw&hash=b11908eb7e297a8d6245b344c3b3656997c98ba5&lang=en&cache-only=0",
+      "phonetic_am_text": "pāk",
+      "img": "https://cdn.langeek.co/photo/20039/original/pack?type=jpeg",
+      "senses": [
+        {
+          "definition": "a paper or cardboard container that is used to store items of the same type within, such as cigarettes",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "packet",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=cGFja2V0&hash=cbe3d4893d663b990a2c3f709cb64d8226ecda60&lang=en&cache-only=0",
+      "phonetic_text": "pækət",
+      "phonetic_am": "https://tts.langeek.co/read?text=cGFja2V0&hash=cbe3d4893d663b990a2c3f709cb64d8226ecda60&lang=en&cache-only=0",
+      "phonetic_am_text": "pākēt",
+      "img": "https://cdn.langeek.co/photo/20081/original/packet?type=jpeg",
+      "senses": [
+        {
+          "definition": "a small bag typically made of paper, plastic, etc., that can contain various things, such as tea, sugar, or spices",
+          "examples": [
+            {
+              "cf": "",
+              "x": "I used a packet of sauce to flavor the pasta."
+            },
+            {
+              "cf": "",
+              "x": "They gave us free ketchup packets with our meal."
+            },
+            {
+              "cf": "",
+              "x": "The tea came in small, sealed packets."
+            },
+            {
+              "cf": "",
+              "x": "I bought a packet of seeds for the garden."
+            },
+            {
+              "cf": "",
+              "x": "She stored the remaining spices in a resealable packet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "package",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=cGFja2FnZQ&hash=0ca44364e9588f06b8b95f897c90ece7eabc9028&lang=en&cache-only=0",
+      "phonetic_text": "pækəʤ",
+      "phonetic_am": "https://tts.langeek.co/read?text=cGFja2FnZQ&hash=0ca44364e9588f06b8b95f897c90ece7eabc9028&lang=en&cache-only=0",
+      "phonetic_am_text": "pākēj",
+      "img": "https://cdn.langeek.co/photo/20077/original/package?type=jpeg",
+      "senses": [
+        {
+          "definition": "a box or container in which items are packed",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She received a package in the mail containing her new shoes."
+            },
+            {
+              "cf": "",
+              "x": "The fragile items were carefully wrapped and placed in a sturdy package."
+            },
+            {
+              "cf": "",
+              "x": "He sent a package to his friend overseas for their birthday."
+            },
+            {
+              "cf": "",
+              "x": "The delivery driver dropped off the package at the front door."
+            },
+            {
+              "cf": "",
+              "x": "The package was labeled with instructions to handle with care."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mug",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=bXVn&hash=71099b5b96cbe73ed8522be397f35956799e1030&lang=en&cache-only=0",
+      "phonetic_text": "mʌg",
+      "phonetic_am": "https://tts.langeek.co/read?text=bXVn&hash=71099b5b96cbe73ed8522be397f35956799e1030&lang=en&cache-only=0",
+      "phonetic_am_text": "mag",
+      "img": "https://cdn.langeek.co/photo/20075/original/mug?type=jpeg",
+      "senses": [
+        {
+          "definition": "a large cup which is typically used for drinking hot beverages like coffee, tea, or hot chocolate",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She sipped her morning coffee from a favorite ceramic mug adorned with colorful flowers."
+            },
+            {
+              "cf": "",
+              "x": "The cozy café offered a selection of mugs for customers to choose from, each with its own unique design."
+            },
+            {
+              "cf": "",
+              "x": "He cherished his old, chipped mug, a relic from his college days that held sentimental value."
+            },
+            {
+              "cf": "",
+              "x": "The souvenir shop sold mugs featuring famous landmarks from around the world, appealing to tourists."
+            },
+            {
+              "cf": "",
+              "x": "She handed me a mug of tea as we sat by the fire."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jug",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=anVn&hash=21db0697922bb0aa54e9ac80b7aef9d7becb295e&lang=en&cache-only=0",
+      "phonetic_text": "ʤʌg",
+      "phonetic_am": "https://tts.langeek.co/read?text=anVn&hash=21db0697922bb0aa54e9ac80b7aef9d7becb295e&lang=en&cache-only=0",
+      "phonetic_am_text": "jag",
+      "img": "",
+      "senses": [
+        {
+          "definition": "a deep round container with a handle and a very narrow opening that is used for keeping liquids, usually has a stopper or cap",
+          "examples": [
+            {
+              "cf": "",
+              "x": "With a smile, the bartender filled our jug with frothy beer, signaling the start of a festive evening."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jar",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=amFy&hash=e13dc8b26cebdc9da520920c9c749b1a9d23295f&lang=en&cache-only=0",
+      "phonetic_text": "ʤɑ:r",
+      "phonetic_am": "https://tts.langeek.co/read?text=amFy&hash=e13dc8b26cebdc9da520920c9c749b1a9d23295f&lang=en&cache-only=0",
+      "phonetic_am_text": "jaar",
+      "img": "https://cdn.langeek.co/photo/20067/original/jar?type=jpeg",
+      "senses": [
+        {
+          "definition": "a container with a wide opening and a lid, typically made of glass or ceramic, used to store food such as honey, jam, pickles, etc.",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She carefully filled the jar with homemade strawberry jam, sealing it tightly with a lid."
+            },
+            {
+              "cf": "",
+              "x": "The kitchen shelves were lined with colorful jars filled with spices, grains, and dried herbs."
+            },
+            {
+              "cf": "",
+              "x": "He picked up the pickle jar from the pantry, intending to enjoy a tangy snack."
+            },
+            {
+              "cf": "",
+              "x": "The candlelight flickered softly, casting shadows on the rows of jars that adorned the shelves."
+            },
+            {
+              "cf": "",
+              "x": "With a gentle twist, she opened the honey jar, savoring its golden sweetness as it flowed onto her toast."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tube",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=dHViZQ&hash=aa2a33329c1c6fdd5a17f5db7a58efa543939857&lang=en&cache-only=0",
+      "phonetic_text": "tu:b",
+      "phonetic_am": "https://tts.langeek.co/read?text=dHViZQ&hash=aa2a33329c1c6fdd5a17f5db7a58efa543939857&lang=en&cache-only=0",
+      "phonetic_am_text": "toob",
+      "img": "https://cdn.langeek.co/photo/17218/original/toothpaste?type=jpeg",
+      "senses": [
+        {
+          "definition": "a flexible container that is used to store thick liquids",
+          "examples": [
+            {
+              "cf": "",
+              "x": "He squeezed the toothpaste from the tube."
+            },
+            {
+              "cf": "",
+              "x": "They used a metal tube to measure the liquid accurately."
+            },
+            {
+              "cf": "",
+              "x": "She inserted the paper into the tube and sealed it for mailing."
+            },
+            {
+              "cf": "",
+              "x": "The artist dipped his brush into the paint tube."
+            },
+            {
+              "cf": "",
+              "x": "The lifeguard blew the whistle through the plastic tube."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tray",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=dHJheQ&hash=600d6a79bcd492ed83764ec6ab1cc1f2cb285046&lang=en&cache-only=0",
+      "phonetic_text": "treɪ",
+      "phonetic_am": "https://tts.langeek.co/read?text=dHJheQ&hash=600d6a79bcd492ed83764ec6ab1cc1f2cb285046&lang=en&cache-only=0",
+      "phonetic_am_text": "trei",
+      "img": "https://cdn.langeek.co/photo/20089/original/tray?type=jpeg",
+      "senses": [
+        {
+          "definition": "a flat object with elevated edges, often used for holding or carrying food and drink",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She served the tea on a silver tray."
+            },
+            {
+              "cf": "",
+              "x": "The waiter carried a tray of drinks to the table."
+            },
+            {
+              "cf": "",
+              "x": "The tray was full of colorful fruits."
+            },
+            {
+              "cf": "",
+              "x": "The hospital food was served on a plastic tray."
+            },
+            {
+              "cf": "",
+              "x": "He used a tray to carry his breakfast upstairs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "can",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=Y2Fu&hash=3cd76005b05f73b0b6f64626d6b97e602fa24b11&lang=en&cache-only=0",
+      "phonetic_text": "kæn",
+      "phonetic_am": "https://tts.langeek.co/read?text=Y2Fu&hash=3cd76005b05f73b0b6f64626d6b97e602fa24b11&lang=en&cache-only=0",
+      "phonetic_am_text": "kān",
+      "img": "https://cdn.langeek.co/photo/20051/original/can?type=jpeg",
+      "senses": [
+        {
+          "definition": "a container, made of metal, used for storing food or drink",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The vending machine was stocked with various cans of fruit juices and iced teas."
+            },
+            {
+              "cf": "",
+              "x": "She opened a can of soup for a quick and easy lunch."
+            },
+            {
+              "cf": "",
+              "x": "I opened the can of soda and had it with my sandwich."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "basket",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=YmFza2V0&hash=ea51ae2ed027662311c536da2417d6e893e3564e&lang=en&cache-only=0",
+      "phonetic_text": "bæskət",
+      "phonetic_am": "https://tts.langeek.co/read?text=YmFza2V0&hash=ea51ae2ed027662311c536da2417d6e893e3564e&lang=en&cache-only=0",
+      "phonetic_am_text": "bāskēt",
+      "img": "https://cdn.langeek.co/photo/19550/original/basket?type=jpeg",
+      "senses": [
+        {
+          "definition": "an object, usually made of wicker or plastic, with a handle for carrying or keeping things",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She filled the basket with fresh fruits and vegetables from the local farmers' market."
+            },
+            {
+              "cf": "",
+              "x": "He carried a picnic basket to the park, eager to enjoy a meal outdoors with friends."
+            },
+            {
+              "cf": "",
+              "x": "They placed a basket of snacks on the table for guests to enjoy during the party."
+            },
+            {
+              "cf": "",
+              "x": "The children used a basket to collect Easter eggs during the annual egg hunt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bucket",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=YnVja2V0&hash=affea90cbc522f13d27df2fe4ae4fe3e99638c3e&lang=en&cache-only=0",
+      "phonetic_text": "bʌkət",
+      "phonetic_am": "https://tts.langeek.co/read?text=YnVja2V0&hash=affea90cbc522f13d27df2fe4ae4fe3e99638c3e&lang=en&cache-only=0",
+      "phonetic_am_text": "bakēt",
+      "img": "https://cdn.langeek.co/photo/20049/original/bucket?type=jpeg",
+      "senses": [
+        {
+          "definition": "a round open container, made of plastic or metal, with a handle used for keeping or carrying things",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The painter dipped his brush into the bucket of paint to start working on the walls."
+            },
+            {
+              "cf": "",
+              "x": "We used a large bucket to collect apples during the harvest in the orchard."
+            },
+            {
+              "cf": "",
+              "x": "The old barn had a leaky roof, so they placed buckets underneath to catch the rainwater."
+            },
+            {
+              "cf": "",
+              "x": "The fisherman returned from the lake with a bucket full of freshly caught trout."
+            },
+            {
+              "cf": "",
+              "x": "After the storm, they used a bucket to bail out water that had collected in the basement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "extra",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=ZXh0cmE&hash=ede5ef4b06446c5d32a21cfebd9727c472db6f31&lang=en&cache-only=0",
+      "phonetic_text": "ɛkstrə",
+      "phonetic_am": "https://tts.langeek.co/read?text=ZXh0cmE&hash=ede5ef4b06446c5d32a21cfebd9727c472db6f31&lang=en&cache-only=0",
+      "phonetic_am_text": "ekstrē",
+      "img": "https://cdn.langeek.co/photo/20057/original/extra?type=jpeg",
+      "senses": [
+        {
+          "definition": "more than enough or the amount needed",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She packed extra clothes in case of unexpected weather changes."
+            },
+            {
+              "cf": "",
+              "x": "There was extra food left over after the party, enough to last for days."
+            },
+            {
+              "cf": "",
+              "x": "He brought extra cash to cover any unplanned expenses."
+            },
+            {
+              "cf": "",
+              "x": "The teacher provided extra materials for students who wanted to delve deeper into the topic."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "maximum",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=bWF4aW11bQ&hash=0c1137e161c5ce77664614110f0fba382f769a7a&lang=en&cache-only=0",
+      "phonetic_text": "mæksəməm",
+      "phonetic_am": "https://tts.langeek.co/read?text=bWF4aW11bQ&hash=0c1137e161c5ce77664614110f0fba382f769a7a&lang=en&cache-only=0",
+      "phonetic_am_text": "māksēmēm",
+      "img": "",
+      "senses": [
+        {
+          "definition": "the highest amount, degree, or extent there is or is possible, allowed or needed",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The hotel offers a maximum of two complimentary meals per day."
+            },
+            {
+              "cf": "",
+              "x": "The airline allows a maximum of one carry-on bag per passenger."
+            },
+            {
+              "cf": "",
+              "x": "The conference room can accommodate a maximum of 50 attendees."
+            },
+            {
+              "cf": "",
+              "x": "All employees are entitled to a maximum of ten vacation days per year."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "minimum",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=bWluaW11bQ&hash=2b7bf55396ab66325e605f500e4f4f141ebc2b7e&lang=en&cache-only=0",
+      "phonetic_text": "mɪnəməm",
+      "phonetic_am": "https://tts.langeek.co/read?text=bWluaW11bQ&hash=2b7bf55396ab66325e605f500e4f4f141ebc2b7e&lang=en&cache-only=0",
+      "phonetic_am_text": "minēmēm",
+      "img": "",
+      "senses": [
+        {
+          "definition": "the lowest amount, degree, or extent there is or is possible, allowed or required",
+          "examples": [
+            {
+              "cf": "",
+              "x": "We need to keep disruptions to a minimum during the construction process."
+            },
+            {
+              "cf": "",
+              "x": "Each student is required to attend a minimum of three lectures per week."
+            },
+            {
+              "cf": "",
+              "x": "During the pandemic, it's crucial to keep social interactions to a minimum to reduce the spread of the virus."
+            },
+            {
+              "cf": "",
+              "x": "The tour package guarantees a minimum of five tourist attractions to visit."
+            },
+            {
+              "cf": "",
+              "x": "To maintain a healthy work-life balance, try to keep overtime hours to a minimum."
+            },
+            {
+              "cf": "",
+              "x": "The job requires a minimum of five years of experience in the industry."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "limited",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=bGltaXRlZA&hash=d599136ac38b215baa678253a0d4a03f83516055&lang=en&cache-only=0",
+      "phonetic_text": "lɪmətəd",
+      "phonetic_am": "https://tts.langeek.co/read?text=bGltaXRlZA&hash=d599136ac38b215baa678253a0d4a03f83516055&lang=en&cache-only=0",
+      "phonetic_am_text": "limētēd",
+      "img": "",
+      "senses": [
+        {
+          "definition": "very little in quantity or amount",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Our budget for the project is limited, so we need to be mindful of our expenses."
+            },
+            {
+              "cf": "",
+              "x": "The restaurant has limited seating capacity, so it's best to make a reservation ahead of time."
+            },
+            {
+              "cf": "",
+              "x": "The store had a limited supply of the new video game, so it sold out quickly."
+            },
+            {
+              "cf": "",
+              "x": "The limited number of seats at the concert made tickets highly sought after."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "double",
+      "pos": "adverb",
+      "phonetic": "https://tts.langeek.co/read?text=ZG91Ymxl&hash=b3dd0135f219abf0318bcd73af2132cd533a8f89&lang=en&cache-only=0",
+      "phonetic_text": "dʌbəl",
+      "phonetic_am": "https://tts.langeek.co/read?text=ZG91Ymxl&hash=b3dd0135f219abf0318bcd73af2132cd533a8f89&lang=en&cache-only=0",
+      "phonetic_am_text": "dabēl",
+      "img": "https://cdn.langeek.co/photo/20235/original/double?type=jpeg",
+      "senses": [
+        {
+          "definition": "used to indicate that something has increased twice in number, amount, or extent",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "half",
+      "pos": "determiner",
+      "phonetic": "https://tts.langeek.co/read?text=aGFsZg&hash=1dce9609a3b70917d74a05c55e23203c6f570666&lang=en&cache-only=0",
+      "phonetic_text": "hæf",
+      "phonetic_am": "https://tts.langeek.co/read?text=aGFsZg&hash=1dce9609a3b70917d74a05c55e23203c6f570666&lang=en&cache-only=0",
+      "phonetic_am_text": "hāf",
+      "img": "https://cdn.langeek.co/photo/20065/original/half?type=jpeg",
+      "senses": [
+        {
+          "definition": "used to indicate an amount equal to one part of two equal parts of something",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She spent half an hour reading before bed."
+            },
+            {
+              "cf": "",
+              "x": "Half of the cake was already eaten by the time I arrived."
+            },
+            {
+              "cf": "",
+              "x": "The team scored half as many points as they did in the previous game."
+            },
+            {
+              "cf": "",
+              "x": "Half the class decided to participate in the science fair."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "enough",
+      "pos": "determiner",
+      "phonetic": "https://tts.langeek.co/read?text=ZW5vdWdo&hash=804cdce449e181285a49ed9a41224289d962bd8a&lang=en&cache-only=0",
+      "phonetic_text": "ɪnʌf",
+      "phonetic_am": "https://tts.langeek.co/read?text=ZW5vdWdo&hash=804cdce449e181285a49ed9a41224289d962bd8a&lang=en&cache-only=0",
+      "phonetic_am_text": "inaf",
+      "img": "https://cdn.langeek.co/photo/51394/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "used to show that something is as much or as many as it is needed or wanted",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Do you have enough money to cover all your expenses this month?"
+            },
+            {
+              "cf": "",
+              "x": "We need to buy enough supplies to last us through the winter."
+            },
+            {
+              "cf": "",
+              "x": "Make sure you drink enough water during your workout to stay hydrated."
+            },
+            {
+              "cf": "",
+              "x": "Enough had attended the meeting to make it official."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "packet",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=cGFja2V0&hash=cbe3d4893d663b990a2c3f709cb64d8226ecda60&lang=en&cache-only=0",
+      "phonetic_text": "pækət",
+      "phonetic_am": "https://tts.langeek.co/read?text=cGFja2V0&hash=cbe3d4893d663b990a2c3f709cb64d8226ecda60&lang=en&cache-only=0",
+      "phonetic_am_text": "pākēt",
+      "img": "https://cdn.langeek.co/photo/20081/original/packet?type=jpeg",
+      "senses": [
+        {
+          "definition": "goods in a small bag that is typically made of paper, plastic, etc.",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The kids ate a packet of candies, to satisfy their sweet tooth."
+            },
+            {
+              "cf": "",
+              "x": "The hotel provided a complimentary packet of toiletries for each guest."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bit",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=Yml0&hash=2c832637256b043495dcf6922a37c6cbb44dedd3&lang=en&cache-only=0",
+      "phonetic_text": "bɪt",
+      "phonetic_am": "https://tts.langeek.co/read?text=Yml0&hash=2c832637256b043495dcf6922a37c6cbb44dedd3&lang=en&cache-only=0",
+      "phonetic_am_text": "bit",
+      "img": "",
+      "senses": [
+        {
+          "definition": "a small amount, quantity, or piece of something",
+          "examples": [
+            {
+              "cf": "",
+              "x": "He took a tiny bit of cake from the platter."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pitcher",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=cGl0Y2hlcg&hash=7be6cda7743936aac5383d4373ad5099279b2b03&lang=en&cache-only=0",
+      "phonetic_text": "pɪʧər",
+      "phonetic_am": "https://tts.langeek.co/read?text=cGl0Y2hlcg&hash=7be6cda7743936aac5383d4373ad5099279b2b03&lang=en&cache-only=0",
+      "phonetic_am_text": "pichēr",
+      "img": "",
+      "senses": [
+        {
+          "definition": "the quantity or the contents within a deep large container with a wide mouth and a handle",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The campers filled their canteens from a pitcher of fresh spring water."
+            },
+            {
+              "cf": "",
+              "x": "For brunch, they enjoyed mimosas made with a pitcher of freshly squeezed orange juice and champagne."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pitcher",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=cGl0Y2hlcg&hash=7be6cda7743936aac5383d4373ad5099279b2b03&lang=en&cache-only=0",
+      "phonetic_text": "pɪʧər",
+      "phonetic_am": "https://tts.langeek.co/read?text=cGl0Y2hlcg&hash=7be6cda7743936aac5383d4373ad5099279b2b03&lang=en&cache-only=0",
+      "phonetic_am_text": "pichēr",
+      "img": "https://cdn.langeek.co/photo/20071/original/jug?type=jpeg",
+      "senses": [
+        {
+          "definition": "a deep round container with a handle and a curved opening, used for pouring liquids",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The pitcher was filled to the brim with ice-cold lemonade, perfect for a hot summer day."
+            },
+            {
+              "cf": "",
+              "x": "She carefully poured the tea from the pitcher into each guest's cup, making sure not to spill a drop."
+            },
+            {
+              "cf": "",
+              "x": "The pitcher slipped from his grasp, crashing to the floor and shattering into pieces."
+            },
+            {
+              "cf": "",
+              "x": "After the game, the team gathered around the water cooler to refill their pitchers and hydrate."
+            },
+            {
+              "cf": "",
+              "x": "Grandma's old pitcher, passed down through generations, held sentimental value beyond its practical use."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

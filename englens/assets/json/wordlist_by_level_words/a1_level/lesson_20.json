@@ -1,0 +1,834 @@
+{
+  "topic": "a1_level",
+  "title": "The Weather and Nature",
+  "lesson": "lesson_20",
+  "word_list": [
+    {
+      "word": "weather",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=d2VhdGhlcg&hash=b4a232573064706369e26c1ce65ccbda4f901d57&lang=en&cache-only=0",
+      "phonetic_text": "wɛðər",
+      "phonetic_am": "https://tts.langeek.co/read?text=d2VhdGhlcg&hash=b4a232573064706369e26c1ce65ccbda4f901d57&lang=en&cache-only=0",
+      "phonetic_am_text": "wedhēr",
+      "img": "https://cdn.langeek.co/photo/21280/original/weather?type=jpeg",
+      "senses": [
+        {
+          "definition": "things that are related to air and sky such as temperature, rain, wind, etc.",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The weather in this city is usually mild throughout the year."
+            },
+            {
+              "cf": "",
+              "x": "The weather is sunny and warm today, perfect for a picnic."
+            },
+            {
+              "cf": "",
+              "x": "The weather report says there will be snowfall tomorrow."
+            },
+            {
+              "cf": "",
+              "x": "We had to cancel our outdoor plans due to the stormy weather."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fire",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=ZmlyZQ&hash=5594975a4de713f8a86ac24ee92ffc156a2b92d3&lang=en&cache-only=0",
+      "phonetic_text": "faɪər",
+      "phonetic_am": "https://tts.langeek.co/read?text=ZmlyZQ&hash=5594975a4de713f8a86ac24ee92ffc156a2b92d3&lang=en&cache-only=0",
+      "phonetic_am_text": "faiēr",
+      "img": "https://cdn.langeek.co/photo/21210/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "the result of something burning that often produces heat, flame, light, and smoke",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Can you please add some logs to the fire to keep it burning?"
+            },
+            {
+              "cf": "",
+              "x": "The firefighter bravely extinguished the house fire."
+            },
+            {
+              "cf": "",
+              "x": "We enjoyed sitting by the fire, telling stories and staying warm."
+            },
+            {
+              "cf": "",
+              "x": "We used a lighter to start the fire in the fireplace."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hot",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=aG90&hash=0da9ddb695c016e223f206638448aae9581d299f&lang=en&cache-only=0",
+      "phonetic_text": "hɑ:t",
+      "phonetic_am": "https://tts.langeek.co/read?text=aG90&hash=0da9ddb695c016e223f206638448aae9581d299f&lang=en&cache-only=0",
+      "phonetic_am_text": "haat",
+      "img": "https://cdn.langeek.co/photo/48658/original/hot?type=jpeg",
+      "senses": [
+        {
+          "definition": "having a higher than normal temperature",
+          "examples": [
+            {
+              "cf": "",
+              "x": "I turned on the air conditioner because it was getting too hot inside."
+            },
+            {
+              "cf": "",
+              "x": "She wore a hat to protect herself from the hot sun."
+            },
+            {
+              "cf": "",
+              "x": "The hot water in the shower helped me relax after a long day."
+            },
+            {
+              "cf": "",
+              "x": "The metal handle became hot when left in the sun."
+            },
+            {
+              "cf": "",
+              "x": "The soup was too hot to eat right away."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cold",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=Y29sZA&hash=8875f66e2064a93958cd6d321da2787e7167f462&lang=en&cache-only=0",
+      "phonetic_text": "koʊld",
+      "phonetic_am": "https://tts.langeek.co/read?text=Y29sZA&hash=8875f66e2064a93958cd6d321da2787e7167f462&lang=en&cache-only=0",
+      "phonetic_am_text": "kowld",
+      "img": "https://cdn.langeek.co/photo/48635/original/cold?type=jpeg",
+      "senses": [
+        {
+          "definition": "having a temperature lower than the human body's average temperature",
+          "examples": [
+            {
+              "cf": "",
+              "x": "I wore a warm coat to protect myself from the cold wind."
+            },
+            {
+              "cf": "",
+              "x": "The air conditioning made the room too cold, so I adjusted the temperature."
+            },
+            {
+              "cf": "",
+              "x": "The ice cubes made the drink refreshingly cold."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sunny",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=c3Vubnk&hash=6366494c8fe69bcd974ead11499059698b6b5168&lang=en&cache-only=0",
+      "phonetic_text": "sʌni",
+      "phonetic_am": "https://tts.langeek.co/read?text=c3Vubnk&hash=6366494c8fe69bcd974ead11499059698b6b5168&lang=en&cache-only=0",
+      "phonetic_am_text": "sani",
+      "img": "https://cdn.langeek.co/photo/48683/original/fine?type=jpeg",
+      "senses": [
+        {
+          "definition": "very bright because there is a lot of light coming from the sun",
+          "examples": [
+            {
+              "cf": "",
+              "x": "It's a beautiful sunny day, perfect for a picnic in the park."
+            },
+            {
+              "cf": "",
+              "x": "The flowers bloomed under the sunny sky."
+            },
+            {
+              "cf": "",
+              "x": "The sunny day encouraged us to go for a bike ride."
+            },
+            {
+              "cf": "",
+              "x": "The sunny weather makes me feel happy and energized."
+            },
+            {
+              "cf": "",
+              "x": "The sunny weather melted the snow, revealing patches of green grass."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cloud",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=Y2xvdWQ&hash=fe290c08bd0197ecd42d400eca10591ed2d1e867&lang=en&cache-only=0",
+      "phonetic_text": "klaʊd",
+      "phonetic_am": "https://tts.langeek.co/read?text=Y2xvdWQ&hash=fe290c08bd0197ecd42d400eca10591ed2d1e867&lang=en&cache-only=0",
+      "phonetic_am_text": "klawd",
+      "img": "https://cdn.langeek.co/photo/48911/original/cloud?type=jpeg",
+      "senses": [
+        {
+          "definition": "a white or gray visible mass of water vapor floating in the air",
+          "examples": [
+            {
+              "cf": "",
+              "x": "My little son was looking up at the sky and showing me the fluffy white clouds."
+            },
+            {
+              "cf": "",
+              "x": "The airplane flew through the clouds on its way to the destination."
+            },
+            {
+              "cf": "",
+              "x": "The clouds blocked the sun, creating a momentary shadow."
+            },
+            {
+              "cf": "",
+              "x": "The dark clouds signaled that rain was on its way."
+            },
+            {
+              "cf": "",
+              "x": "We sat under a tree, watching the clouds slowly drift across the sky."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cloudy",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=Y2xvdWR5&hash=cb7bd47f90acaf7f03f46c793fc4c55867b2a604&lang=en&cache-only=0",
+      "phonetic_text": "klaʊdi",
+      "phonetic_am": "https://tts.langeek.co/read?text=Y2xvdWR5&hash=cb7bd47f90acaf7f03f46c793fc4c55867b2a604&lang=en&cache-only=0",
+      "phonetic_am_text": "klawdi",
+      "img": "https://cdn.langeek.co/photo/28768/original/cloudy?type=jpeg",
+      "senses": [
+        {
+          "definition": "having many clouds up in the sky",
+          "examples": [
+            {
+              "cf": "",
+              "x": "I carried an umbrella with me because the weather looked cloudy."
+            },
+            {
+              "cf": "",
+              "x": "I couldn't see any stars because it was too cloudy at night."
+            },
+            {
+              "cf": "",
+              "x": "The cloudy sky created a dramatic backdrop for the sunset."
+            },
+            {
+              "cf": "",
+              "x": "The weather forecast predicted a cloudy morning followed by clearing in the afternoon."
+            },
+            {
+              "cf": "",
+              "x": "We decided to postpone our outdoor plans due to the cloudy weather."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=cmFpbg&hash=09fbc93ecfbb5abe6289222cc54dd3c4f58d9ee3&lang=en&cache-only=0",
+      "phonetic_text": "reɪn",
+      "phonetic_am": "https://tts.langeek.co/read?text=cmFpbg&hash=09fbc93ecfbb5abe6289222cc54dd3c4f58d9ee3&lang=en&cache-only=0",
+      "phonetic_am_text": "rein",
+      "img": "https://cdn.langeek.co/photo/21238/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "water that falls in small drops from the sky",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Can you hear the sound of rain tapping on the window?"
+            },
+            {
+              "cf": "",
+              "x": "I forgot my umbrella, and now I'm getting wet in the rain."
+            },
+            {
+              "cf": "",
+              "x": "The rain made the grass and flowers look vibrant and alive."
+            },
+            {
+              "cf": "",
+              "x": "The rain stopped, and a rainbow appeared in the sky."
+            },
+            {
+              "cf": "",
+              "x": "The rain washed away the dust and made everything fresh and clean."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rainy",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=cmFpbnk&hash=9f7638ff1e37d0b6e0cbc14cd6393422a378aaa7&lang=en&cache-only=0",
+      "phonetic_text": "reɪni",
+      "phonetic_am": "https://tts.langeek.co/read?text=cmFpbnk&hash=9f7638ff1e37d0b6e0cbc14cd6393422a378aaa7&lang=en&cache-only=0",
+      "phonetic_am_text": "reini",
+      "img": "https://cdn.langeek.co/photo/20837/original/rainy?type=jpeg",
+      "senses": [
+        {
+          "definition": "having frequent or persistent rainfall",
+          "examples": [
+            {
+              "cf": "",
+              "x": "I like to listen to the sound of raindrops falling on the roof during a rainy day."
+            },
+            {
+              "cf": "",
+              "x": "I stayed indoors because it was a rainy day."
+            },
+            {
+              "cf": "",
+              "x": "The rainy afternoon was perfect for staying in and reading a book."
+            },
+            {
+              "cf": "",
+              "x": "The rainy weather made the streets slippery."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "snowy",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=c25vd3k&hash=54cdfeb37f3b1a568a280bdd22f757e3a2d3e159&lang=en&cache-only=0",
+      "phonetic_text": "snoʊi",
+      "phonetic_am": "https://tts.langeek.co/read?text=c25vd3k&hash=54cdfeb37f3b1a568a280bdd22f757e3a2d3e159&lang=en&cache-only=0",
+      "phonetic_am_text": "snowi",
+      "img": "https://cdn.langeek.co/photo/48679/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "‌(of a period of time or weather) having or bringing snow",
+          "examples": [
+            {
+              "cf": "",
+              "x": "We had a snowy weekend in the mountains, surrounded by beautiful white landscapes."
+            },
+            {
+              "cf": "",
+              "x": "Despite the snowy conditions, the adventurous group went on a hiking expedition in the mountains."
+            },
+            {
+              "cf": "",
+              "x": "The forecast warns of a snowy week ahead, so residents should be careful on the roads."
+            },
+            {
+              "cf": "",
+              "x": "Families gathered for a snowy picnic, savoring the chance to enjoy the outdoors in the winter chill."
+            },
+            {
+              "cf": "",
+              "x": "He slipped on the snowy sidewalk while rushing to catch the bus."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ice",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=aWNl&hash=83d1666b106c16b732ab63530c38c815536289a5&lang=en&cache-only=0",
+      "phonetic_text": "aɪs",
+      "phonetic_am": "https://tts.langeek.co/read?text=aWNl&hash=83d1666b106c16b732ab63530c38c815536289a5&lang=en&cache-only=0",
+      "phonetic_am_text": "ais",
+      "img": "https://cdn.langeek.co/photo/20874/original/ice?type=jpeg",
+      "senses": [
+        {
+          "definition": "frozen water, which has a solid state",
+          "examples": [
+            {
+              "cf": "",
+              "x": "I slipped and fell on the ice while walking on the frozen lake."
+            },
+            {
+              "cf": "",
+              "x": "The hockey players glided effortlessly on the ice."
+            },
+            {
+              "cf": "",
+              "x": "The windshield was covered in ice, so I had to scrape it before driving."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nature",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=bmF0dXJl&hash=6117b7c1510264ec341f12e48adfdbc99cb69272&lang=en&cache-only=0",
+      "phonetic_text": "neɪʧər",
+      "phonetic_am": "https://tts.langeek.co/read?text=bmF0dXJl&hash=6117b7c1510264ec341f12e48adfdbc99cb69272&lang=en&cache-only=0",
+      "phonetic_am_text": "neichēr",
+      "img": "https://cdn.langeek.co/photo/48485/original/nature?type=jpeg",
+      "senses": [
+        {
+          "definition": "everything that exists or happens on the earth, excluding things that humans make or control",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Can you hear the sound of nature?"
+            },
+            {
+              "cf": "",
+              "x": "I find solace in sitting by the river, listening to the soothing sounds of nature."
+            },
+            {
+              "cf": "",
+              "x": "I love spending time in nature, surrounded by trees, flowers, and fresh air."
+            },
+            {
+              "cf": "",
+              "x": "The beauty of nature is evident in the vibrant colors of a sunset."
+            },
+            {
+              "cf": "",
+              "x": "The changing seasons offer a variety of experiences and beauty in nature."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sun",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=c3Vu&hash=38d88e07abd99bc51565301dc68d45a29711a578&lang=en&cache-only=0",
+      "phonetic_text": "sʌn",
+      "phonetic_am": "https://tts.langeek.co/read?text=c3Vu&hash=38d88e07abd99bc51565301dc68d45a29711a578&lang=en&cache-only=0",
+      "phonetic_am_text": "san",
+      "img": "https://cdn.langeek.co/photo/28784/original/sun?type=jpeg",
+      "senses": [
+        {
+          "definition": "the large, bright star in the sky that shines during the day and gives us light and heat",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The sun shines brightly, lighting up the entire sky."
+            },
+            {
+              "cf": "",
+              "x": "I love watching the sunset as the sun paints the sky with vibrant colors."
+            },
+            {
+              "cf": "",
+              "x": "I wear sunglasses to protect my eyes from the sun's glare."
+            },
+            {
+              "cf": "",
+              "x": "The sun rises in the east and sets in the west."
+            },
+            {
+              "cf": "",
+              "x": "The sunflower turned its face towards the sun."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "moon",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=bW9vbg&hash=59b1bdad2ddcd0d886adc0599cf0f7f96aaded70&lang=en&cache-only=0",
+      "phonetic_text": "mu:n",
+      "phonetic_am": "https://tts.langeek.co/read?text=bW9vbg&hash=59b1bdad2ddcd0d886adc0599cf0f7f96aaded70&lang=en&cache-only=0",
+      "phonetic_am_text": "moon",
+      "img": "https://cdn.langeek.co/photo/21214/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "the circular object going round the earth, visible mostly at night",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Can you see the moon peeking out from behind the clouds?"
+            },
+            {
+              "cf": "",
+              "x": "I enjoy watching the moon rise above the horizon."
+            },
+            {
+              "cf": "",
+              "x": "Selenophiles have a deep and intense love for the moon."
+            },
+            {
+              "cf": "",
+              "x": "The moon looked so close, as if we could reach out and touch it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "earth",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=RWFydGg&hash=8ea80c17142464d27cda068a648c57e89a2ba8ba&lang=en&cache-only=0",
+      "phonetic_text": "ɜrθ",
+      "phonetic_am": "https://tts.langeek.co/read?text=RWFydGg&hash=8ea80c17142464d27cda068a648c57e89a2ba8ba&lang=en&cache-only=0",
+      "phonetic_am_text": "ērth",
+      "img": "https://cdn.langeek.co/photo/48649/original/earth?type=jpeg",
+      "senses": [
+        {
+          "definition": "a big round mass covered in land and water, on which we all live",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "sky",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=c2t5&hash=4a167b22b1e8a8acb8922d6cd35250fed5298b99&lang=en&cache-only=0",
+      "phonetic_text": "skaɪ",
+      "phonetic_am": "https://tts.langeek.co/read?text=c2t5&hash=4a167b22b1e8a8acb8922d6cd35250fed5298b99&lang=en&cache-only=0",
+      "phonetic_am_text": "skai",
+      "img": "https://cdn.langeek.co/photo/48629/original/sky?type=jpeg",
+      "senses": [
+        {
+          "definition": "the space above the earth where the sun, clouds, stars, and the moon are and we can see them",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The dark clouds covered the sky, signaling an approaching storm."
+            },
+            {
+              "cf": "",
+              "x": "I love lying on the grass and watching the clouds float across the sky."
+            },
+            {
+              "cf": "",
+              "x": "The sky gradually brightened as the morning sun rose."
+            },
+            {
+              "cf": "",
+              "x": "The sky seemed endless, stretching as far as the eye could see."
+            },
+            {
+              "cf": "",
+              "x": "The sky turned pink and orange as the sun began to set."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "river",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=cml2ZXI&hash=2e148962a682b534d3e07ce8d066f68528191346&lang=en&cache-only=0",
+      "phonetic_text": "rɪvər",
+      "phonetic_am": "https://tts.langeek.co/read?text=cml2ZXI&hash=2e148962a682b534d3e07ce8d066f68528191346&lang=en&cache-only=0",
+      "phonetic_am_text": "rivēr",
+      "img": "https://cdn.langeek.co/photo/51126/original/river?type=jpeg",
+      "senses": [
+        {
+          "definition": "a natural and continuous stream of water flowing on the land to the sea, a lake, or another river",
+          "examples": [
+            {
+              "cf": "",
+              "x": "I dipped my feet in the cool water of the river."
+            },
+            {
+              "cf": "",
+              "x": "The river flowed gently, reflecting the surrounding trees."
+            },
+            {
+              "cf": "",
+              "x": "The river was wide, and we had to cross it using a bridge."
+            },
+            {
+              "cf": "",
+              "x": "We went fishing by the river and caught some fresh trout."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=c2Vh&hash=5aebe9c822d73737c0dd6e47e8c9c28a65312e93&lang=en&cache-only=0",
+      "phonetic_text": "si:",
+      "phonetic_am": "https://tts.langeek.co/read?text=c2Vh&hash=5aebe9c822d73737c0dd6e47e8c9c28a65312e93&lang=en&cache-only=0",
+      "phonetic_am_text": "see",
+      "img": "https://cdn.langeek.co/photo/48347/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "the salt water that covers most of the earth’s surface and surrounds its continents and islands",
+          "examples": [
+            {
+              "cf": "",
+              "x": "I hear the sound of seagulls near the sea."
+            },
+            {
+              "cf": "",
+              "x": "The sea is home to a variety of marine life, such as fish, dolphins, and coral reefs."
+            },
+            {
+              "cf": "",
+              "x": "The sea was calm, and the waves gently lapped against the shore."
+            },
+            {
+              "cf": "",
+              "x": "We collected seashells while walking along the edge of the sea."
+            },
+            {
+              "cf": "",
+              "x": "We spent our vacation relaxing on the sandy beaches by the sea."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mountain",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=bW91bnRhaW4&hash=ea59668576bca4896a9e5901714438b8f88b90d5&lang=en&cache-only=0",
+      "phonetic_text": "maʊntən",
+      "phonetic_am": "https://tts.langeek.co/read?text=bW91bnRhaW4&hash=ea59668576bca4896a9e5901714438b8f88b90d5&lang=en&cache-only=0",
+      "phonetic_am_text": "mawntēn",
+      "img": "https://cdn.langeek.co/photo/21623/original/mountain?type=jpeg",
+      "senses": [
+        {
+          "definition": "a very tall and large natural structure that looks like a huge hill with a pointed top that is often covered in snow",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The mountain is a popular destination for climbers and hikers."
+            },
+            {
+              "cf": "",
+              "x": "The mountain provided a natural barrier between the two valleys."
+            },
+            {
+              "cf": "",
+              "x": "We enjoyed a picnic at the base of the mountain, surrounded by nature."
+            },
+            {
+              "cf": "",
+              "x": "We hiked up the mountain and enjoyed the breathtaking view from the top."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "beach",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=YmVhY2g&hash=39e4d635cb5acb41ee43a09479c713473971f539&lang=en&cache-only=0",
+      "phonetic_text": "bi:ʧ",
+      "phonetic_am": "https://tts.langeek.co/read?text=YmVhY2g&hash=39e4d635cb5acb41ee43a09479c713473971f539&lang=en&cache-only=0",
+      "phonetic_am_text": "beech",
+      "img": "https://cdn.langeek.co/photo/51128/original/coast?type=jpeg",
+      "senses": [
+        {
+          "definition": "an area of sand or small stones next to a sea or a lake",
+          "examples": [
+            {
+              "cf": "",
+              "x": "I buried my feet in the warm sand at the beach."
+            },
+            {
+              "cf": "",
+              "x": "I love strolling along the beach, feeling the soft sand between my toes."
+            },
+            {
+              "cf": "",
+              "x": "The beach is a great place to relax and unwind during vacation."
+            },
+            {
+              "cf": "",
+              "x": "The beach was crowded with people enjoying the sun and surf."
+            },
+            {
+              "cf": "",
+              "x": "We had a picnic on the sandy beach, enjoying the ocean breeze."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "forest",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=Zm9yZXN0&hash=f7e5204a1d2cb53cf42e232a1ce72f478bd289db&lang=en&cache-only=0",
+      "phonetic_text": "fɔ:rəst",
+      "phonetic_am": "https://tts.langeek.co/read?text=Zm9yZXN0&hash=f7e5204a1d2cb53cf42e232a1ce72f478bd289db&lang=en&cache-only=0",
+      "phonetic_am_text": "faawrēst",
+      "img": "https://cdn.langeek.co/photo/18904/original/woodland?type=jpeg",
+      "senses": [
+        {
+          "definition": "a vast area of land that is covered with trees and shrubs",
+          "examples": [
+            {
+              "cf": "",
+              "x": "I love the fresh scent of pine trees in the forest."
+            },
+            {
+              "cf": "",
+              "x": "The forest floor was covered in a thick carpet of fallen leaves."
+            },
+            {
+              "cf": "",
+              "x": "The forest is home to a diverse range of plant and animal species."
+            },
+            {
+              "cf": "",
+              "x": "The forest provided us with shade on a hot summer day."
+            },
+            {
+              "cf": "",
+              "x": "We went for a walk in the forest, surrounded by tall trees and chirping birds."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "island",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=aXNsYW5k&hash=b4ba16bf2fdbe845421c5526c527932548fc99b2&lang=en&cache-only=0",
+      "phonetic_text": "aɪlənd",
+      "phonetic_am": "https://tts.langeek.co/read?text=aXNsYW5k&hash=b4ba16bf2fdbe845421c5526c527932548fc99b2&lang=en&cache-only=0",
+      "phonetic_am_text": "ailēnd",
+      "img": "https://cdn.langeek.co/photo/49103/original/island?type=jpeg",
+      "senses": [
+        {
+          "definition": "a piece of land surrounded by water",
+          "examples": [
+            {
+              "cf": "",
+              "x": "I collected seashells as souvenirs from the beautiful island."
+            },
+            {
+              "cf": "",
+              "x": "The island had a famous lighthouse that guided ships safely to shore."
+            },
+            {
+              "cf": "",
+              "x": "The island had stunning sunsets that painted the sky with vibrant hues."
+            },
+            {
+              "cf": "",
+              "x": "We took a boat to the tropical island and spent the day lounging on the sandy beach."
+            },
+            {
+              "cf": "",
+              "x": "We witnessed sea turtles nesting on the shores of the island."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "star",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=c3Rhcg&hash=a668830f867321684ac9d50d88bee87270c30989&lang=en&cache-only=0",
+      "phonetic_text": "stɑ:r",
+      "phonetic_am": "https://tts.langeek.co/read?text=c3Rhcg&hash=a668830f867321684ac9d50d88bee87270c30989&lang=en&cache-only=0",
+      "phonetic_am_text": "staar",
+      "img": "https://cdn.langeek.co/photo/21973/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "(astronomy) a shining point found in large numbers in the night sky",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The brightest star in the night sky is Sirius, also known as the Dog Star."
+            },
+            {
+              "cf": "",
+              "x": "The sky was so clear that I could see countless stars."
+            },
+            {
+              "cf": "",
+              "x": "The stars twinkled brightly in the dark night sky."
+            },
+            {
+              "cf": "",
+              "x": "We used a telescope to observe distant stars and galaxies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tree",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=dHJlZQ&hash=fc4c44ff97daa7c30cadde326a4b788f790733ab&lang=en&cache-only=0",
+      "phonetic_text": "tri:",
+      "phonetic_am": "https://tts.langeek.co/read?text=dHJlZQ&hash=fc4c44ff97daa7c30cadde326a4b788f790733ab&lang=en&cache-only=0",
+      "phonetic_am_text": "tree",
+      "img": "https://cdn.langeek.co/photo/28183/original/tree?type=jpeg",
+      "senses": [
+        {
+          "definition": "a very tall plant with branches and leaves, that can live a long time",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The leaves on the tree turned vibrant shades of red, orange, and yellow in the autumn."
+            },
+            {
+              "cf": "",
+              "x": "The tree was home to a family of birds, who built their nest among the branches."
+            },
+            {
+              "cf": "",
+              "x": "We climbed the sturdy branches of the tree to get a better view."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "flower",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=Zmxvd2Vy&hash=32969e7328f92f47fc48a7d1dbd4082e5dc64198&lang=en&cache-only=0",
+      "phonetic_text": "flaʊər",
+      "phonetic_am": "https://tts.langeek.co/read?text=Zmxvd2Vy&hash=32969e7328f92f47fc48a7d1dbd4082e5dc64198&lang=en&cache-only=0",
+      "phonetic_am_text": "flawēr",
+      "img": "https://cdn.langeek.co/photo/29028/original/flower?type=jpeg",
+      "senses": [
+        {
+          "definition": "a part of a plant from which the seed or fruit develops",
+          "examples": [
+            {
+              "cf": "",
+              "x": "I decided to buy myself a bouquet of flowers to brighten up my home."
+            },
+            {
+              "cf": "",
+              "x": "I picked a bouquet of fresh flowers from the field."
+            },
+            {
+              "cf": "",
+              "x": "The petals of the flower were delicate and soft to the touch."
+            },
+            {
+              "cf": "",
+              "x": "We decorated the table with a vase of freshly flowers."
+            },
+            {
+              "cf": "",
+              "x": "We planted seeds and watched as the flowers grew."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

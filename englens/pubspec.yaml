@@ -51,6 +51,7 @@ dependencies:
   flutter_expandable_fab: ^2.4.1
   path_provider: ^2.1.5
   dartz: ^0.10.1
+  just_audio: ^0.9.46
 
 
  
@@ -92,41 +93,42 @@ flutter:
   #   - images/a_dot_ham.jpeg
   assets:
     - assets/images/
+    - assets/images/topics/
     - assets/icons/
     - assets/fonts/
     - assets/json/
     - assets/json/oxford_words/
     - assets/json/topics_words/
     - assets/json/topics_words/
-    - assets/json/topics_words/agreement_and_disagreement
-    - assets/json/topics_words/animals
-    - assets/json/topics_words/appearance
-    - assets/json/topics_words/art
-    - assets/json/topics_words/body
-    - assets/json/topics_words/certainty_and_doubt
-    - assets/json/topics_words/cinema_and_theater
-    - assets/json/topics_words/clothes_and_fashion
-    - assets/json/topics_words/colors_and_shapes
-    - assets/json/topics_words/decision_suggestion_obligation
-    - assets/json/topics_words/eating_drinking_and_serving
-    - assets/json/topics_words/education
-    - assets/json/topics_words/food_and_drink_preparation
-    - assets/json/topics_words/food_and_drinks
-    - assets/json/topics_words/food_ingredients
-    - assets/json/topics_words/health_and_sickness
-    - assets/json/topics_words/hobbies_games
-    - assets/json/topics_words/land_transportation
-    - assets/json/topics_words/literature
-    - assets/json/topics_words/music
-    - assets/json/topics_words/opinion_and_argument
-    - assets/json/topics_words/personal_care
-    - assets/json/topics_words/sports
-    - assets/json/topics_words/words_related_to_architecture_and_construction
-    - assets/json/topics_words/words_related_to_home_and_garden
-    - assets/json/topics_words/words_related_to_linguistics
-    - assets/json/topics_words/words_related_to_media_and_communication
-    - assets/json/topics_words/words_related_to_medical_science
-    - assets/json/topics_words/words_related_to_performing_arts
+    - assets/json/topics_words/agreement_and_disagreement/
+    - assets/json/topics_words/animals/
+    - assets/json/topics_words/appearance/
+    - assets/json/topics_words/art/
+    - assets/json/topics_words/body/
+    - assets/json/topics_words/certainty_and_doubt/
+    - assets/json/topics_words/cinema_and_theater/
+    - assets/json/topics_words/clothes_and_fashion/
+    - assets/json/topics_words/colors_and_shapes/
+    - assets/json/topics_words/decision_suggestion_obligation/
+    - assets/json/topics_words/eating_drinking_and_serving/
+    - assets/json/topics_words/education/
+    - assets/json/topics_words/food_and_drink_preparation/
+    - assets/json/topics_words/food_and_drinks/
+    - assets/json/topics_words/food_ingredients/
+    - assets/json/topics_words/health_and_sickness/
+    - assets/json/topics_words/hobbies_games/
+    - assets/json/topics_words/land_transportation/
+    - assets/json/topics_words/literature/
+    - assets/json/topics_words/music/
+    - assets/json/topics_words/opinion_and_argument/
+    - assets/json/topics_words/personal_care/
+    - assets/json/topics_words/sports/
+    - assets/json/topics_words/words_related_to_architecture_and_construction/
+    - assets/json/topics_words/words_related_to_home_and_garden/
+    - assets/json/topics_words/words_related_to_linguistics/
+    - assets/json/topics_words/words_related_to_media_and_communication/
+    - assets/json/topics_words/words_related_to_medical_science/
+    - assets/json/topics_words/words_related_to_performing_arts/
 
 
   # An image asset can refer to one or more resolution-specific "variants", see

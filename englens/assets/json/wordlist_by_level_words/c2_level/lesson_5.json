@@ -1,0 +1,613 @@
+{
+  "topic": "c2_level",
+  "title": "Shapes",
+  "lesson": "lesson_5",
+  "word_list": [
+    {
+      "word": "convex",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=Y29udmV4&hash=33d087984f435b0bf343f22c9565938416490dda&lang=en&cache-only=0",
+      "phonetic_text": "kənvɛks",
+      "phonetic_am": "https://tts.langeek.co/read?text=Y29udmV4&hash=33d087984f435b0bf343f22c9565938416490dda&lang=en&cache-only=0",
+      "phonetic_am_text": "kēnveks",
+      "img": "https://cdn.langeek.co/photo/31482/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "having a surface that is curved outward",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The convex mirror in the hallway made the space appear larger than it actually was."
+            },
+            {
+              "cf": "",
+              "x": "The artist used a convex mold to create the rounded sculpture."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hexagonal",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=aGV4YWdvbmFs&hash=bee02381d9b7b2532be02cd0fa16c53dec216dbb&lang=en&cache-only=0",
+      "phonetic_text": "hɛksægənəl",
+      "phonetic_am": "https://tts.langeek.co/read?text=aGV4YWdvbmFs&hash=bee02381d9b7b2532be02cd0fa16c53dec216dbb&lang=en&cache-only=0",
+      "phonetic_am_text": "heksāgēnēl",
+      "img": "https://cdn.langeek.co/photo/25954/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "having six equal sides and six angles",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The honeycomb displayed a hexagonal arrangement of cells, efficiently utilizing space in the beehive."
+            },
+            {
+              "cf": "",
+              "x": "The tabletop had a unique hexagonal design, adding a modern and geometric touch to the furniture."
+            },
+            {
+              "cf": "",
+              "x": "The soccer ball featured a hexagonal pattern on its surface, creating the iconic appearance of the classic ball."
+            },
+            {
+              "cf": "",
+              "x": "The architecture of the building incorporated hexagonal windows, allowing for both aesthetics and natural light."
+            },
+            {
+              "cf": "",
+              "x": "The beaded snowflake had a hexagonal structure, reflecting the intricate beauty of individual ice crystals."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "concave",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=Y29uY2F2ZQ&hash=dede8957fd65247e1fe90645967ed49a2630f86b&lang=en&cache-only=0",
+      "phonetic_text": "kɑnkeɪv",
+      "phonetic_am": "https://tts.langeek.co/read?text=Y29uY2F2ZQ&hash=dede8957fd65247e1fe90645967ed49a2630f86b&lang=en&cache-only=0",
+      "phonetic_am_text": "kɑnkeiv",
+      "img": "https://cdn.langeek.co/photo/31480/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "having a surface that is curved inward",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "trapezoidal",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=dHJhcGV6b2lkYWw&hash=ab87a92966dc825e20266fd437972918b581b256&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phonetic_am": "https://tts.langeek.co/read?text=dHJhcGV6b2lkYWw&hash=ab87a92966dc825e20266fd437972918b581b256&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "senses": [
+        {
+          "definition": "having the shape of a trapezoid, a quadrilateral with one pair of parallel sides",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The school auditorium had trapezoidal seating arrangements, optimizing sightlines for a better view of the stage."
+            },
+            {
+              "cf": "",
+              "x": "The graphic designer incorporated trapezoidal shapes into the logo, giving it a contemporary and dynamic look."
+            },
+            {
+              "cf": "",
+              "x": "The tabletop had a trapezoidal form, enhancing the uniqueness of the custom-made furniture."
+            },
+            {
+              "cf": "",
+              "x": "The city plaza had trapezoidal tiles in its pavement, forming an interesting and distinctive pattern throughout the pedestrian area."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "curvilinear",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=Y3VydmlsaW5lYXI&hash=faeee99ad36a09852352efe88c44c056a1aa173e&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phonetic_am": "https://tts.langeek.co/read?text=Y3VydmlsaW5lYXI&hash=faeee99ad36a09852352efe88c44c056a1aa173e&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "senses": [
+        {
+          "definition": "having curved lines, forms, or structures",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The architect incorporated curvilinear windows into the building's design, allowing for a harmonious and fluid appearance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "polygonal",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=cG9seWdvbmFs&hash=b5e43df8d2ee753e1f0d40d81cb265ee20684675&lang=en&cache-only=0",
+      "phonetic_text": "pəlɪgənəl",
+      "phonetic_am": "https://tts.langeek.co/read?text=cG9seWdvbmFs&hash=b5e43df8d2ee753e1f0d40d81cb265ee20684675&lang=en&cache-only=0",
+      "phonetic_am_text": "pēligēnēl",
+      "img": "",
+      "senses": [
+        {
+          "definition": "having a shape with multiple straight edges and angles",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The tabletop featured a polygonal pattern, adding a geometric touch to the furniture."
+            },
+            {
+              "cf": "",
+              "x": "The garden design incorporated polygonal paving stones, creating an interesting and structured pathway."
+            },
+            {
+              "cf": "",
+              "x": "The playground equipment had a polygonal design, offering children a fun and visually appealing play area."
+            },
+            {
+              "cf": "",
+              "x": "The architectural blueprint included a polygonal courtyard, enhancing the aesthetic appeal of the building."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "annular",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=YW5udWxhcg&hash=0d47847df7882de20542cd337ea03834d83f62f9&lang=en&cache-only=0",
+      "phonetic_text": "ænjələr",
+      "phonetic_am": "https://tts.langeek.co/read?text=YW5udWxhcg&hash=0d47847df7882de20542cd337ea03834d83f62f9&lang=en&cache-only=0",
+      "phonetic_am_text": "ānyēlēr",
+      "img": "",
+      "senses": [
+        {
+          "definition": "having the form of a ring",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The ornate mirror had an annular frame, adding a touch of elegance to the room."
+            },
+            {
+              "cf": "",
+              "x": "The tree's annular growth rings provided insight into its age and environmental history."
+            },
+            {
+              "cf": "",
+              "x": "The geologist studied the annular patterns in the rock formations to understand the geological history of the area."
+            },
+            {
+              "cf": "",
+              "x": "The treehouse incorporated annular windows, providing panoramic views of the surrounding forest."
+            },
+            {
+              "cf": "",
+              "x": "The wedding cake had tiers with annular decorations, giving it a classic and refined appearance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ellipsoidal",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=ZWxsaXBzb2lkYWw&hash=154774e9563d57eaf2022be1d056b8580e44bf5e&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phonetic_am": "https://tts.langeek.co/read?text=ZWxsaXBzb2lkYWw&hash=154774e9563d57eaf2022be1d056b8580e44bf5e&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "senses": [
+        {
+          "definition": "resembling an ellipse or an oval-shaped object",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The gemstone had an ellipsoidal cut, enhancing its brilliance with a unique oval shape."
+            },
+            {
+              "cf": "",
+              "x": "The elliptical orbit of the comet was represented by an ellipsoidal trajectory on the astronomical chart."
+            },
+            {
+              "cf": "",
+              "x": "The designer created an ellipsoidal vase, combining symmetry and elegance in its oval form."
+            },
+            {
+              "cf": "",
+              "x": "The architect incorporated an ellipsoidal window design, allowing natural light to fill the room with a soft glow."
+            },
+            {
+              "cf": "",
+              "x": "The elliptical table in the dining room had a sleek and modern ellipsoidal design, complementing the overall aesthetic."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "parabolic",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=cGFyYWJvbGlj&hash=7fd6ddd2c8db6ecd8f276fc546872bb67c7f65ae&lang=en&cache-only=0",
+      "phonetic_text": "pɛrəbɑ:lɪk",
+      "phonetic_am": "https://tts.langeek.co/read?text=cGFyYWJvbGlj&hash=7fd6ddd2c8db6ecd8f276fc546872bb67c7f65ae&lang=en&cache-only=0",
+      "phonetic_am_text": "perēbaalik",
+      "img": "",
+      "senses": [
+        {
+          "definition": "resembling a curve that is U-shaped or bowl-shaped",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The satellite dish on the rooftop had a parabolic surface, ensuring optimal reception of television signals."
+            },
+            {
+              "cf": "",
+              "x": "The mathematician explored the properties of a parabolic curve, studying its symmetrical and reflective characteristics."
+            },
+            {
+              "cf": "",
+              "x": "The amusement park ride featured a parabolic motion, providing an exhilarating experience as riders swung back and forth in a U-shaped trajectory."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "octagonal",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=b2N0YWdvbmFs&hash=fa76eb59e5ad121f7d4f8121379fdb51a46fa891&lang=en&cache-only=0",
+      "phonetic_text": "ɑktægənəl",
+      "phonetic_am": "https://tts.langeek.co/read?text=b2N0YWdvbmFs&hash=fa76eb59e5ad121f7d4f8121379fdb51a46fa891&lang=en&cache-only=0",
+      "phonetic_am_text": "ɑktāgēnēl",
+      "img": "",
+      "senses": [
+        {
+          "definition": "having the shape or characteristics of an octagon, which is a polygon with eight sides and eight angles",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The table in the conference room had an octagonal surface, providing ample space for discussions."
+            },
+            {
+              "cf": "",
+              "x": "The medieval tower had an octagonal design, offering panoramic views of the surrounding landscape."
+            },
+            {
+              "cf": "",
+              "x": "The traffic sign indicated an upcoming intersection with an octagonal shape, signaling drivers to stop."
+            },
+            {
+              "cf": "",
+              "x": "The chessboard was crafted with an octagonal pattern, adding a unique twist to the classic game."
+            },
+            {
+              "cf": "",
+              "x": "The stained glass window in the church depicted religious scenes within an octagonal frame."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tetrahedral",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=dGV0cmFoZWRyYWw&hash=4ab56c07b861cf92f0c4479343874c886a019f6d&lang=en&cache-only=0",
+      "phonetic_text": "tɛtrəhi:drəl",
+      "phonetic_am": "https://tts.langeek.co/read?text=dGV0cmFoZWRyYWw&hash=4ab56c07b861cf92f0c4479343874c886a019f6d&lang=en&cache-only=0",
+      "phonetic_am_text": "tetrēheedrēl",
+      "img": "",
+      "senses": [
+        {
+          "definition": "characterized by or resembling a tetrahedron, which has four triangular faces",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The chemist explained that a methane molecule has a tetrahedral geometry, with the carbon atom at the center."
+            },
+            {
+              "cf": "",
+              "x": "The artist's sculpture featured a series of interlocking tetrahedral shapes, creating a complex and fascinating design."
+            },
+            {
+              "cf": "",
+              "x": "The tetrahedral arrangement of atoms in the crystal lattice contributes to its unique properties."
+            },
+            {
+              "cf": "",
+              "x": "In geometry class, they learned how to calculate the angles between the faces of a tetrahedral pyramid."
+            },
+            {
+              "cf": "",
+              "x": "The building's tetrahedral structure provided both aesthetic appeal and structural stability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pentagonal",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=cGVudGFnb25hbA&hash=46de3849605145cc134280af521afc908637e976&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phonetic_am": "https://tts.langeek.co/read?text=cGVudGFnb25hbA&hash=46de3849605145cc134280af521afc908637e976&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/22901/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "having the shape of a pentagon, which is characterized by five straight sides and five angles",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The decorative tiles on the patio had a pentagonal pattern, creating an interesting geometric design."
+            },
+            {
+              "cf": "",
+              "x": "The military badge featured a pentagonal emblem, symbolizing strength and unity."
+            },
+            {
+              "cf": "",
+              "x": "The clock face in the town square was designed with a pentagonal frame, enhancing its visual appeal."
+            },
+            {
+              "cf": "",
+              "x": "The decorative mirror on the wall had a pentagonal frame, adding a touch of sophistication to the room."
+            },
+            {
+              "cf": "",
+              "x": "The architectural blueprint outlined a building with a pentagonal floor plan, maximizing interior space."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cone-shaped",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=Y29uZS1zaGFwZWQ&hash=989d4ad5c5dd28ec4c0949c43b3797fdc3144349&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phonetic_am": "https://tts.langeek.co/read?text=Y29uZS1zaGFwZWQ&hash=989d4ad5c5dd28ec4c0949c43b3797fdc3144349&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/25926/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "having the form or characteristics of a cone, which is a three-dimensional geometric shape with a circular base tapering to a point at the apex",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The birthday hat was cone-shaped, adorned with colorful patterns for a festive look."
+            },
+            {
+              "cf": "",
+              "x": "The ice cream was served in a cone-shaped wafer, adding a delightful crunch to each bite."
+            },
+            {
+              "cf": "",
+              "x": "The pine trees in the forest often had a cone-shaped crown, characteristic of their species."
+            },
+            {
+              "cf": "",
+              "x": "The wizard's hat in the costume shop was tall and cone-shaped, perfect for a magical ensemble."
+            },
+            {
+              "cf": "",
+              "x": "The volcano emitted ash in a cone-shaped plume during the eruption."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "coiled",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=Y29pbGVk&hash=a11d767032c288311244bf2f2b5bf618670f233c&lang=en&cache-only=0",
+      "phonetic_text": "kɔɪld",
+      "phonetic_am": "https://tts.langeek.co/read?text=Y29pbGVk&hash=a11d767032c288311244bf2f2b5bf618670f233c&lang=en&cache-only=0",
+      "phonetic_am_text": "koyld",
+      "img": "",
+      "senses": [
+        {
+          "definition": "having a spiral or wound shape, often forming a series of loops or turns",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The gymnast executed a perfect flip, displaying a coiled form in mid-air before landing gracefully."
+            },
+            {
+              "cf": "",
+              "x": "The climber secured the rope with a coiled knot before ascending the rock face."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tubular",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=dHVidWxhcg&hash=fd23df52a5c89129251caf5c0d76f65ab30aaef5&lang=en&cache-only=0",
+      "phonetic_text": "tu:bjələr",
+      "phonetic_am": "https://tts.langeek.co/read?text=dHVidWxhcg&hash=fd23df52a5c89129251caf5c0d76f65ab30aaef5&lang=en&cache-only=0",
+      "phonetic_am_text": "toobyēlēr",
+      "img": "",
+      "senses": [
+        {
+          "definition": "having the shape or characteristics of a tube",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The exhaust system of the car included tubular components for efficient gas flow."
+            },
+            {
+              "cf": "",
+              "x": "The modern chair had tubular metal legs, contributing to its sleek and minimalist appearance."
+            },
+            {
+              "cf": "",
+              "x": "The flowers in the garden had tubular petals, attracting hummingbirds with their unique shape."
+            },
+            {
+              "cf": "",
+              "x": "The playground equipment included tubular slides, offering children an exciting play experience."
+            },
+            {
+              "cf": "",
+              "x": "The telescope had a tubular design, allowing for easy adjustment and focus."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pyramidal",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=cHlyYW1pZGFs&hash=b122a526b674b6e201b5f155147588cad274d147&lang=en&cache-only=0",
+      "phonetic_text": "pəræmədəl",
+      "phonetic_am": "https://tts.langeek.co/read?text=cHlyYW1pZGFs&hash=b122a526b674b6e201b5f155147588cad274d147&lang=en&cache-only=0",
+      "phonetic_am_text": "pērāmēdēl",
+      "img": "",
+      "senses": [
+        {
+          "definition": "resembling a structure with a polygonal base and triangular sides, often tapering to a point at the apex",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "toroidal",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=dG9yb2lkYWw&hash=ebf0daf16a7039a328f606c86f33f935a6d252ba&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phonetic_am": "https://tts.langeek.co/read?text=dG9yb2lkYWw&hash=ebf0daf16a7039a328f606c86f33f935a6d252ba&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "senses": [
+        {
+          "definition": "resembling a doughnut or a ring-shaped object",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The toroidal doughnut was freshly baked and glazed, tempting everyone with its sweet aroma."
+            },
+            {
+              "cf": "",
+              "x": "The toroidal pool design in the resort's courtyard provided a unique and visually appealing place for relaxation."
+            },
+            {
+              "cf": "",
+              "x": "The modern sculpture in the park had a toroidal shape, creating an interesting focal point for visitors."
+            },
+            {
+              "cf": "",
+              "x": "The coffee shop offered toroidal bagels, a popular choice for those looking for a different twist on the traditional."
+            },
+            {
+              "cf": "",
+              "x": "The tire company introduced a new line of toroidal tires, promising improved performance and durability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bulbous",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=YnVsYm91cw&hash=9de8709cc6815b3e0f7f54eab531687b4cf79bde&lang=en&cache-only=0",
+      "phonetic_text": "bʌlbəs",
+      "phonetic_am": "https://tts.langeek.co/read?text=YnVsYm91cw&hash=9de8709cc6815b3e0f7f54eab531687b4cf79bde&lang=en&cache-only=0",
+      "phonetic_am_text": "balbēs",
+      "img": "",
+      "senses": [
+        {
+          "definition": "having a rounded, swollen, or bulb-shaped form",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The tulip bulbs were bulbous, ready to bloom into vibrant flowers in the spring."
+            },
+            {
+              "cf": "",
+              "x": "The cartoon character had a bulbous nose, adding a humorous touch to its appearance."
+            },
+            {
+              "cf": "",
+              "x": "The cactus had a bulbous base, serving as a water storage reservoir in arid environments."
+            },
+            {
+              "cf": "",
+              "x": "The chef prepared a dish with bulbous mushrooms, enhancing the texture and flavor."
+            },
+            {
+              "cf": "",
+              "x": "The raindrops collected on the leaves, forming bulbous droplets after the storm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "oblong",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=b2Jsb25n&hash=ae5d057806bf0fa03cbda53af68b66dde6b289e3&lang=en&cache-only=0",
+      "phonetic_text": "ɑ:blɔng",
+      "phonetic_am": "https://tts.langeek.co/read?text=b2Jsb25n&hash=ae5d057806bf0fa03cbda53af68b66dde6b289e3&lang=en&cache-only=0",
+      "phonetic_am_text": "aablawng",
+      "img": "https://cdn.langeek.co/photo/25960/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "a rectangular figure that has unequal adjacent sides with arched angles",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The rug in the living room was an attractive oblong with intricate patterns."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "crescent",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=Y3Jlc2NlbnQ&hash=10635fddd1b7578e6840ce2aa5636cd20848cb57&lang=en&cache-only=0",
+      "phonetic_text": "krɛsənt",
+      "phonetic_am": "https://tts.langeek.co/read?text=Y3Jlc2NlbnQ&hash=10635fddd1b7578e6840ce2aa5636cd20848cb57&lang=en&cache-only=0",
+      "phonetic_am_text": "kresēnt",
+      "img": "https://cdn.langeek.co/photo/25930/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "a curved shape with narrow points at the ends that appears wider in the middle, like the shape of the moon in its first and last quarters",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The moon hung low in the sky, its slender crescent casting a gentle light."
+            },
+            {
+              "cf": "",
+              "x": "The street was named Crescent Avenue because it curved in a perfect crescent shape."
+            },
+            {
+              "cf": "",
+              "x": "She watched the crescent slowly grow each night as the moon waxed towards fullness."
+            },
+            {
+              "cf": "",
+              "x": "The ancient coin featured a crescent and star, symbols of the civilization that minted it."
+            },
+            {
+              "cf": "",
+              "x": "The crescent of the new moon was barely visible against the twilight sky."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

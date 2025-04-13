@@ -1,0 +1,792 @@
+{
+  "topic": "b1_level",
+  "title": "Nature and Regions",
+  "lesson": "lesson_23",
+  "word_list": [
+    {
+      "word": "region",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=cmVnaW9u&hash=a72dd05c02f03cbf4bacc629e7b8be4003bb5067&lang=en&cache-only=0",
+      "phonetic_text": "ri:ʤən",
+      "phonetic_am": "https://tts.langeek.co/read?text=cmVnaW9u&hash=a72dd05c02f03cbf4bacc629e7b8be4003bb5067&lang=en&cache-only=0",
+      "phonetic_am_text": "reejēn",
+      "img": "https://cdn.langeek.co/photo/19468/original/region?type=jpeg",
+      "senses": [
+        {
+          "definition": "a large area of land or of the world with specific characteristics, which is usually borderless",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Different regions of the country experience varying weather patterns."
+            },
+            {
+              "cf": "",
+              "x": "The Mediterranean region is known for its mild climate, beautiful coastlines, and rich cultural heritage."
+            },
+            {
+              "cf": "",
+              "x": "The Middle East is a geopolitically significant region, characterized by diverse cultures, religions, and political landscapes."
+            },
+            {
+              "cf": "",
+              "x": "Wine enthusiasts often travel to the Bordeaux region in France to explore its renowned vineyards and taste exquisite wines."
+            },
+            {
+              "cf": "",
+              "x": "The Amazon rainforest is a biodiverse region teeming with unique plant and animal species."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "land",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=bGFuZA&hash=32d6f2265b814e4fa7f7646b5923e1920a114ce9&lang=en&cache-only=0",
+      "phonetic_text": "lænd",
+      "phonetic_am": "https://tts.langeek.co/read?text=bGFuZA&hash=32d6f2265b814e4fa7f7646b5923e1920a114ce9&lang=en&cache-only=0",
+      "phonetic_am_text": "lānd",
+      "img": "https://cdn.langeek.co/photo/19586/original/land?type=jpeg",
+      "senses": [
+        {
+          "definition": "a specific area of ground owned by someone",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "highland",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=aGlnaGxhbmQ&hash=4fd7f42a13e4ae3e9817b6cd6dd0427eb4ea61bf&lang=en&cache-only=0",
+      "phonetic_text": "haɪlənd",
+      "phonetic_am": "https://tts.langeek.co/read?text=aGlnaGxhbmQ&hash=4fd7f42a13e4ae3e9817b6cd6dd0427eb4ea61bf&lang=en&cache-only=0",
+      "phonetic_am_text": "hailēnd",
+      "img": "https://cdn.langeek.co/photo/18896/original/highland?type=jpeg",
+      "senses": [
+        {
+          "definition": "land with mountains or hills",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The Tibetan Plateau is known as the \"Roof of the World,\" a vast highland with towering peaks and expansive plateaus."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "woodland",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=d29vZGxhbmQ&hash=09dd94e48d0eee4a6108e018257a4e4711b7c64f&lang=en&cache-only=0",
+      "phonetic_text": "wʊdlænd",
+      "phonetic_am": "https://tts.langeek.co/read?text=d29vZGxhbmQ&hash=09dd94e48d0eee4a6108e018257a4e4711b7c64f&lang=en&cache-only=0",
+      "phonetic_am_text": "wudlānd",
+      "img": "https://cdn.langeek.co/photo/18904/original/woodland?type=jpeg",
+      "senses": [
+        {
+          "definition": "land that is filled with many trees",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The hikers set off on a trail through the dense woodland to reach the mountain summit."
+            },
+            {
+              "cf": "",
+              "x": "Many animals find shelter and food in the woodland surrounding the village."
+            },
+            {
+              "cf": "",
+              "x": "She loved spending her weekends exploring the peaceful woodland near her home."
+            },
+            {
+              "cf": "",
+              "x": "The woodland was alive with the sounds of birds chirping and leaves rustling in the breeze."
+            },
+            {
+              "cf": "",
+              "x": "The children built a small fort out of sticks in the woodland behind their school."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jungle",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=anVuZ2xl&hash=9746ebe9cfe983624c77fd9d0c53684bf527b0b7&lang=en&cache-only=0",
+      "phonetic_text": "ʤʌngəl",
+      "phonetic_am": "https://tts.langeek.co/read?text=anVuZ2xl&hash=9746ebe9cfe983624c77fd9d0c53684bf527b0b7&lang=en&cache-only=0",
+      "phonetic_am_text": "jangēl",
+      "img": "https://cdn.langeek.co/photo/19000/original/jungle?type=jpeg",
+      "senses": [
+        {
+          "definition": "a tropical forest with many plants growing densely",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Wild cats, like tigers, roam freely in the jungle."
+            },
+            {
+              "cf": "",
+              "x": "The jungle was filled with the sounds of exotic animals."
+            },
+            {
+              "cf": "",
+              "x": "They got lost in the jungle during their hike."
+            },
+            {
+              "cf": "",
+              "x": "Many medicinal plants are found in the jungle."
+            },
+            {
+              "cf": "",
+              "x": "The jungle was so dense that they could barely see ahead."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "meadow",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=bWVhZG93&hash=7cbd8beecb7d3bb909d6cc3ec3992fc0aeaac990&lang=en&cache-only=0",
+      "phonetic_text": "mɛdoʊ",
+      "phonetic_am": "https://tts.langeek.co/read?text=bWVhZG93&hash=7cbd8beecb7d3bb909d6cc3ec3992fc0aeaac990&lang=en&cache-only=0",
+      "phonetic_am_text": "medow",
+      "img": "https://cdn.langeek.co/photo/18948/original/meadow?type=jpeg",
+      "senses": [
+        {
+          "definition": "a piece of land covered in grass and sometimes wild flowers, often used for hay",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "mountain range",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=bW91bnRhaW4gcmFuZ2U&hash=733b6b7df7dd2c8ed4af52fbedc730ed02df13fe&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phonetic_am": "https://tts.langeek.co/read?text=bW91bnRhaW4gcmFuZ2U&hash=733b6b7df7dd2c8ed4af52fbedc730ed02df13fe&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/18902/original/mountain-range?type=jpeg",
+      "senses": [
+        {
+          "definition": "a group of mountains or hills in a line",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The Himalayas are the highest mountain range in the world."
+            },
+            {
+              "cf": "",
+              "x": "The mountain range stretches over several countries."
+            },
+            {
+              "cf": "",
+              "x": "We hiked through the mountain range for days."
+            },
+            {
+              "cf": "",
+              "x": "Many animals live in the dense forests of the mountain range."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cave",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=Y2F2ZQ&hash=bad2a3f76e85aef042739484f779e6917aa54664&lang=en&cache-only=0",
+      "phonetic_text": "keɪv",
+      "phonetic_am": "https://tts.langeek.co/read?text=Y2F2ZQ&hash=bad2a3f76e85aef042739484f779e6917aa54664&lang=en&cache-only=0",
+      "phonetic_am_text": "keiv",
+      "img": "https://cdn.langeek.co/photo/51124/original/cave?type=jpeg",
+      "senses": [
+        {
+          "definition": "a hole or chamber formed underground naturally by rocks gradually breaking down over time",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Exploring caves can be an exciting adventure, revealing hidden chambers and breathtaking formations."
+            },
+            {
+              "cf": "",
+              "x": "The cave's entrance was concealed by dense foliage, leading to a mysterious world beneath the surface."
+            },
+            {
+              "cf": "",
+              "x": "Scientists study caves to understand geological processes and uncover clues about Earth's history."
+            },
+            {
+              "cf": "",
+              "x": "Some caves are home to unique ecosystems, with specialized plants and animals adapted to the dark, subterranean environment."
+            },
+            {
+              "cf": "",
+              "x": "Cave diving enthusiasts brave the depths of underwater caves, navigating narrow passages and exploring submerged chambers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cliff",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=Y2xpZmY&hash=d44997e5f8bbd04d6ea591e3bc2e90a81e6f4e7a&lang=en&cache-only=0",
+      "phonetic_text": "klɪf",
+      "phonetic_am": "https://tts.langeek.co/read?text=Y2xpZmY&hash=d44997e5f8bbd04d6ea591e3bc2e90a81e6f4e7a&lang=en&cache-only=0",
+      "phonetic_am_text": "klif",
+      "img": "https://cdn.langeek.co/photo/51110/original/cliff?type=jpeg",
+      "senses": [
+        {
+          "definition": "an area of rock that is high above the ground with a very steep side, often at the edge of the sea",
+          "examples": [
+            {
+              "cf": "",
+              "x": "They stood at the edge of the cliff, taking in the breathtaking view."
+            },
+            {
+              "cf": "",
+              "x": "The lighthouse was perched precariously on the top of the cliff."
+            },
+            {
+              "cf": "",
+              "x": "Waves crashed against the base of the cliff, sending up sprays of mist."
+            },
+            {
+              "cf": "",
+              "x": "Hikers often visit the cliff for its stunning panorama of the coastline."
+            },
+            {
+              "cf": "",
+              "x": "The birds built their nests along the cliff's steep face."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mountainous",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=bW91bnRhaW5vdXM&hash=b8f0aae51705e2847408486c7b535a76f1e48f5d&lang=en&cache-only=0",
+      "phonetic_text": "maʊntənəs",
+      "phonetic_am": "https://tts.langeek.co/read?text=bW91bnRhaW5vdXM&hash=b8f0aae51705e2847408486c7b535a76f1e48f5d&lang=en&cache-only=0",
+      "phonetic_am_text": "mawntēnēs",
+      "img": "https://cdn.langeek.co/photo/27161/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "(of an area) having a lot of mountains",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The mountainous region offers breathtaking views and challenging hikes."
+            },
+            {
+              "cf": "",
+              "x": "They drove through a mountainous landscape on their road trip."
+            },
+            {
+              "cf": "",
+              "x": "The small village was nestled in a mountainous area, surrounded by peaks."
+            },
+            {
+              "cf": "",
+              "x": "The weather in mountainous regions can be unpredictable."
+            },
+            {
+              "cf": "",
+              "x": "Exploring the mountainous terrain required careful preparation and gear."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rocky",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=cm9ja3k&hash=ed022cf8121e6a2d7c39b0f43775723f0c017fc3&lang=en&cache-only=0",
+      "phonetic_text": "rɑ:ki",
+      "phonetic_am": "https://tts.langeek.co/read?text=cm9ja3k&hash=ed022cf8121e6a2d7c39b0f43775723f0c017fc3&lang=en&cache-only=0",
+      "phonetic_am_text": "raaki",
+      "img": "https://cdn.langeek.co/photo/19470/original/rocky?type=jpeg",
+      "senses": [
+        {
+          "definition": "having a surface that is covered with large, uneven, or rough rocks, stones, or boulders",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The path up the mountain was rocky, making the hike challenging."
+            },
+            {
+              "cf": "",
+              "x": "The beach was rocky, with large boulders scattered along the shore."
+            },
+            {
+              "cf": "",
+              "x": "The riverbed was rocky, with water cascading over the smooth stones."
+            },
+            {
+              "cf": "",
+              "x": "The soil in the garden was rocky, making it difficult to dig and plant flowers."
+            },
+            {
+              "cf": "",
+              "x": "The landscape was rocky and craggy, with cliffs rising steeply from the valley below."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "canyon",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=Y2FueW9u&hash=81db4a4ed80afbd67ab316feb06426791c81bd28&lang=en&cache-only=0",
+      "phonetic_text": "kænjən",
+      "phonetic_am": "https://tts.langeek.co/read?text=Y2FueW9u&hash=81db4a4ed80afbd67ab316feb06426791c81bd28&lang=en&cache-only=0",
+      "phonetic_am_text": "kānyēn",
+      "img": "https://cdn.langeek.co/photo/51120/original/canyon?type=jpeg",
+      "senses": [
+        {
+          "definition": "a valley that is deep and has very steep sides, through which a river is flowing usually",
+          "examples": [
+            {
+              "cf": "",
+              "x": "A river runs through the narrow canyon."
+            },
+            {
+              "cf": "",
+              "x": "We hiked down into the canyon to explore."
+            },
+            {
+              "cf": "",
+              "x": "The canyon walls were covered in colorful rock formations."
+            },
+            {
+              "cf": "",
+              "x": "He took a photo of the sunset over the canyon."
+            },
+            {
+              "cf": "",
+              "x": "They set up camp near the bottom of the canyon."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "waterfall",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=d2F0ZXJmYWxs&hash=7d84a17e372245a038f36a09db6932c3c0f1a6ab&lang=en&cache-only=0",
+      "phonetic_text": "wɔ:tərfɔl",
+      "phonetic_am": "https://tts.langeek.co/read?text=d2F0ZXJmYWxs&hash=7d84a17e372245a038f36a09db6932c3c0f1a6ab&lang=en&cache-only=0",
+      "phonetic_am_text": "waawtērfawl",
+      "img": "https://cdn.langeek.co/photo/51156/original/waterfall?type=jpeg",
+      "senses": [
+        {
+          "definition": "a high place, such as a cliff, from which a river or stream falls",
+          "examples": [
+            {
+              "cf": "",
+              "x": "They hiked for hours to reach the breathtaking waterfall hidden in the forest."
+            },
+            {
+              "cf": "",
+              "x": "The sound of the waterfall was soothing as it cascaded down the rocks."
+            },
+            {
+              "cf": "",
+              "x": "She took stunning photos of the waterfall during their mountain trek."
+            },
+            {
+              "cf": "",
+              "x": "The waterfall created a misty spray that cooled them off on a hot day."
+            },
+            {
+              "cf": "",
+              "x": "He was mesmerized by the sheer power and beauty of the roaring waterfall."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bank",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=YmFuaw&hash=3b043374dcb2ad9a5960636c5f17225375e5af1e&lang=en&cache-only=0",
+      "phonetic_text": "bænk",
+      "phonetic_am": "https://tts.langeek.co/read?text=YmFuaw&hash=3b043374dcb2ad9a5960636c5f17225375e5af1e&lang=en&cache-only=0",
+      "phonetic_am_text": "bānk",
+      "img": "https://cdn.langeek.co/photo/19590/original/bank?type=jpeg",
+      "senses": [
+        {
+          "definition": "land along the sides of a river, canal, etc.",
+          "examples": [
+            {
+              "cf": "",
+              "x": "As we walked along the canal's bank, we admired the vibrant wildflowers and tall grasses."
+            },
+            {
+              "cf": "",
+              "x": "Fishermen lined the bank, patiently waiting for a bite from the fish in the water."
+            },
+            {
+              "cf": "",
+              "x": "The trees on the bank provided much-needed shade for the hikers resting by the river."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "coastline",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=Y29hc3RsaW5l&hash=8fdd9a572920a246c6ade571c04044b7c6b47f57&lang=en&cache-only=0",
+      "phonetic_text": "koʊstlaɪn",
+      "phonetic_am": "https://tts.langeek.co/read?text=Y29hc3RsaW5l&hash=8fdd9a572920a246c6ade571c04044b7c6b47f57&lang=en&cache-only=0",
+      "phonetic_am_text": "kowstlain",
+      "img": "https://cdn.langeek.co/photo/18936/original/coastline?type=jpeg",
+      "senses": [
+        {
+          "definition": "the boundary between land and water, particularly as seen on a map or from above",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The rugged coastline stretched for miles."
+            },
+            {
+              "cf": "",
+              "x": "The storm caused erosion along the coastline."
+            },
+            {
+              "cf": "",
+              "x": "He took a scenic drive along the coastline."
+            },
+            {
+              "cf": "",
+              "x": "The country has a long and diverse coastline."
+            },
+            {
+              "cf": "",
+              "x": "Tourists admired the beauty of the Mediterranean coastline."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sand",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=c2FuZA&hash=fbb0bcf2ead3ecda581cdeb591847b5a57ca4677&lang=en&cache-only=0",
+      "phonetic_text": "sænd",
+      "phonetic_am": "https://tts.langeek.co/read?text=c2FuZA&hash=fbb0bcf2ead3ecda581cdeb591847b5a57ca4677&lang=en&cache-only=0",
+      "phonetic_am_text": "sānd",
+      "img": "https://cdn.langeek.co/photo/51154/original/sand?type=jpeg",
+      "senses": [
+        {
+          "definition": "a pale brown substance that consists of very small pieces of rock, which is found in deserts, on beaches, etc.",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The children built castles with the soft sand on the beach."
+            },
+            {
+              "cf": "",
+              "x": "The wind carried grains of sand across the desert."
+            },
+            {
+              "cf": "",
+              "x": "After the hike, they found their shoes filled with sand."
+            },
+            {
+              "cf": "",
+              "x": "The artist used colored sand to create intricate designs."
+            },
+            {
+              "cf": "",
+              "x": "The sand felt warm under their feet as they walked along the shoreline."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "canal",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=Y2FuYWw&hash=687d97fc87be0f021a856127531fdcfcaa61b035&lang=en&cache-only=0",
+      "phonetic_text": "kənæl",
+      "phonetic_am": "https://tts.langeek.co/read?text=Y2FuYWw&hash=687d97fc87be0f021a856127531fdcfcaa61b035&lang=en&cache-only=0",
+      "phonetic_am_text": "kēnāl",
+      "img": "https://cdn.langeek.co/photo/19464/original/channel?type=jpeg",
+      "senses": [
+        {
+          "definition": "a long and artificial passage built and filled with water for ships to travel along or used to transfer water to other places",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The ship sailed through the canal, heading toward the harbor."
+            },
+            {
+              "cf": "",
+              "x": "They built the canal to connect the river to the lake for easier transport."
+            },
+            {
+              "cf": "",
+              "x": "The canal was used to irrigate the surrounding farmland."
+            },
+            {
+              "cf": "",
+              "x": "They installed locks along the canal to control water flow."
+            },
+            {
+              "cf": "",
+              "x": "The canal was widened to accommodate larger ships."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "channel",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=Y2hhbm5lbA&hash=ad02bd157a24030b1440c6b1461741ac5b908cef&lang=en&cache-only=0",
+      "phonetic_text": "ʧænəl",
+      "phonetic_am": "https://tts.langeek.co/read?text=Y2hhbm5lbA&hash=ad02bd157a24030b1440c6b1461741ac5b908cef&lang=en&cache-only=0",
+      "phonetic_am_text": "chānēl",
+      "img": "https://cdn.langeek.co/photo/19464/original/channel?type=jpeg",
+      "senses": [
+        {
+          "definition": "a wide stretch of water that connects two larger areas of water, particularly two seas",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Ships navigate through the Panama Canal, a man-made channel connecting the Atlantic and Pacific Oceans, to save time and distance on their voyages."
+            },
+            {
+              "cf": "",
+              "x": "Coastal communities along the Intracoastal Waterway in the United States rely on this inland channel for recreational boating, fishing, and transportation between ports along the Atlantic and Gulf coasts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sea level",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=c2VhIGxldmVs&hash=127ae69ab123e85b5dba39325185698dea73ad00&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phonetic_am": "https://tts.langeek.co/read?text=c2VhIGxldmVs&hash=127ae69ab123e85b5dba39325185698dea73ad00&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/19472/original/sea-level?type=jpeg",
+      "senses": [
+        {
+          "definition": "the average height of the surface of the ocean in relation to the land, measured over a specific period of time",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The city is located 50 meters above sea level."
+            },
+            {
+              "cf": "",
+              "x": "Rising sea levels are a concern due to climate change."
+            },
+            {
+              "cf": "",
+              "x": "The beach lies exactly at sea level."
+            },
+            {
+              "cf": "",
+              "x": "The hikers climbed to a point far above sea level."
+            },
+            {
+              "cf": "",
+              "x": "Scientists measure changes in sea level using satellites."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mud",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=bXVk&hash=edb71758a2a054169d9b872a54e7cf9c4083d4fb&lang=en&cache-only=0",
+      "phonetic_text": "mʌd",
+      "phonetic_am": "https://tts.langeek.co/read?text=bXVk&hash=edb71758a2a054169d9b872a54e7cf9c4083d4fb&lang=en&cache-only=0",
+      "phonetic_am_text": "mad",
+      "img": "https://cdn.langeek.co/photo/19002/original/mud?type=jpeg",
+      "senses": [
+        {
+          "definition": "earth that has become wet",
+          "examples": [
+            {
+              "cf": "",
+              "x": "After the rain, the backyard was covered in thick mud, making it challenging to walk without slipping."
+            },
+            {
+              "cf": "",
+              "x": "Farmers use mud to create earthen dams for irrigation, helping to retain water and nourish crops during dry seasons."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "national park",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=bmF0aW9uYWwgcGFyaw&hash=7667ae9c16d68793bb26d57377c94bea8cc2ed01&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phonetic_am": "https://tts.langeek.co/read?text=bmF0aW9uYWwgcGFyaw&hash=7667ae9c16d68793bb26d57377c94bea8cc2ed01&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/18940/original/national-park?type=jpeg",
+      "senses": [
+        {
+          "definition": "an area under the protection of a government, where people can visit, for its wildlife, beauty, or historical sights",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The family spent their vacation hiking in a national park."
+            },
+            {
+              "cf": "",
+              "x": "Yellowstone is the first national park in the United States."
+            },
+            {
+              "cf": "",
+              "x": "National parks are home to diverse wildlife and ecosystems."
+            },
+            {
+              "cf": "",
+              "x": "Visitors are required to follow strict rules in the national park."
+            },
+            {
+              "cf": "",
+              "x": "A guided tour of the national park provided fascinating information."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Antarctic",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=QW50YXJjdGlj&hash=239e6cb542f16cc8e1b1808914dfaf5101cc11a8&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phonetic_am": "https://tts.langeek.co/read?text=QW50YXJjdGlj&hash=239e6cb542f16cc8e1b1808914dfaf5101cc11a8&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/18926/original/antarctic?type=jpeg",
+      "senses": [
+        {
+          "definition": "belonging or related to the South Pole",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "Arctic",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=QXJjdGlj&hash=4ab6d32ee47311bff47717a207359b037f6b1c53&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phonetic_am": "https://tts.langeek.co/read?text=QXJjdGlj&hash=4ab6d32ee47311bff47717a207359b037f6b1c53&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/18998/original/arctic?type=jpeg",
+      "senses": [
+        {
+          "definition": "belonging or related to the region around the North Pole",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The Arctic climate is characterized by extreme cold temperatures and ice."
+            },
+            {
+              "cf": "",
+              "x": "Arctic animals, such as polar bears and seals, are adapted to survive in icy environments."
+            },
+            {
+              "cf": "",
+              "x": "Arctic exploration requires specialized equipment and training due to harsh conditions."
+            },
+            {
+              "cf": "",
+              "x": "Arctic communities rely on traditional knowledge and skills to thrive in their environment."
+            },
+            {
+              "cf": "",
+              "x": "Arctic research focuses on understanding climate change impacts in the polar regions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "volcano",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=dm9sY2Fubw&hash=933a12debe8e6a7243e9cc0e66e2e9dbbff433ab&lang=en&cache-only=0",
+      "phonetic_text": "vɑlkeɪnoʊ",
+      "phonetic_am": "https://tts.langeek.co/read?text=dm9sY2Fubw&hash=933a12debe8e6a7243e9cc0e66e2e9dbbff433ab&lang=en&cache-only=0",
+      "phonetic_am_text": "vɑlkeinow",
+      "img": "https://cdn.langeek.co/photo/51100/original/volcano?type=jpeg",
+      "senses": [
+        {
+          "definition": "a mountain with an opening on its top, from which melted rock and ash can be pushed out into the air",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The volcano erupted, sending ash into the sky."
+            },
+            {
+              "cf": "",
+              "x": "The island is home to an active volcano."
+            },
+            {
+              "cf": "",
+              "x": "The volcano's eruption was one of the most destructive in history."
+            },
+            {
+              "cf": "",
+              "x": "The lava flowed down the side of the volcano."
+            },
+            {
+              "cf": "",
+              "x": "Earthquakes often occur near active volcanoes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "location",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=bG9jYXRpb24&hash=3a096c951810123538e4f0454d574b80c6eff17f&lang=en&cache-only=0",
+      "phonetic_text": "loʊkeɪʃən",
+      "phonetic_am": "https://tts.langeek.co/read?text=bG9jYXRpb24&hash=3a096c951810123538e4f0454d574b80c6eff17f&lang=en&cache-only=0",
+      "phonetic_am_text": "lowkeishēn",
+      "img": "https://cdn.langeek.co/photo/49504/original/location?type=jpeg",
+      "senses": [
+        {
+          "definition": "the geographic position of someone or something",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The new office location is closer to public transportation, making it more accessible for employees."
+            },
+            {
+              "cf": "",
+              "x": "He marked the exact location of the treasure on the map with a red dot."
+            },
+            {
+              "cf": "",
+              "x": "The company chose a prime location downtown for its new flagship store."
+            },
+            {
+              "cf": "",
+              "x": "The GPS coordinates provided the precise location of the archaeological site."
+            },
+            {
+              "cf": "",
+              "x": "She found a secluded location by the lake to relax and unwind."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

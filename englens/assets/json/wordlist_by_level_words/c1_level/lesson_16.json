@@ -1,0 +1,981 @@
+{
+  "topic": "c1_level",
+  "title": "Language Components",
+  "lesson": "lesson_16",
+  "word_list": [
+    {
+      "word": "linguistic",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=bGluZ3Vpc3RpYw&hash=13e8f7e0a41028a02d4239095a5bf884651773a0&lang=en&cache-only=0",
+      "phonetic_text": "lɪngwɪstɪk",
+      "phonetic_am": "https://tts.langeek.co/read?text=bGluZ3Vpc3RpYw&hash=13e8f7e0a41028a02d4239095a5bf884651773a0&lang=en&cache-only=0",
+      "phonetic_am_text": "lingwistik",
+      "img": "https://cdn.langeek.co/photo/19396/original/linguistics?type=jpeg",
+      "senses": [
+        {
+          "definition": "related to the science of language, including its structure, usage, and evolution",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Linguistic research explores the intricacies of language acquisition, syntax, and phonetics."
+            },
+            {
+              "cf": "",
+              "x": "The linguistic diversity of the world's languages is a topic of interest for linguists studying language typology."
+            },
+            {
+              "cf": "",
+              "x": "The study examined linguistic patterns in regional dialects."
+            },
+            {
+              "cf": "",
+              "x": "The teacher emphasized the linguistic differences between English and German."
+            },
+            {
+              "cf": "",
+              "x": "Linguistic barriers can make communication in multicultural teams challenging."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "infinitive",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=aW5maW5pdGl2ZQ&hash=1c3321f3af9bacb83933b4728c3a69a4aaaa4cf3&lang=en&cache-only=0",
+      "phonetic_text": "ɪnfɪnɪtɪv",
+      "phonetic_am": "https://tts.langeek.co/read?text=aW5maW5pdGl2ZQ&hash=1c3321f3af9bacb83933b4728c3a69a4aaaa4cf3&lang=en&cache-only=0",
+      "phonetic_am_text": "infinitiv",
+      "img": "",
+      "senses": [
+        {
+          "definition": "(grammar) the root form of a verb",
+          "examples": [
+            {
+              "cf": "",
+              "x": "In English grammar, the infinitive is the base form of a verb, typically preceded by \"to.\""
+            },
+            {
+              "cf": "",
+              "x": "Examples of infinitives include \"to run,\" \"to eat,\" and \"to sleep.\""
+            },
+            {
+              "cf": "",
+              "x": "The infinitive can function as a noun, adjective, or adverb in a sentence."
+            },
+            {
+              "cf": "",
+              "x": "Infinitives are versatile and can be used in various grammatical constructions to express different meanings and functions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gerund",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=Z2VydW5k&hash=bbfc4bf3db714ac9f0c0175918d22209def88ec6&lang=en&cache-only=0",
+      "phonetic_text": "ʤɛrənd",
+      "phonetic_am": "https://tts.langeek.co/read?text=Z2VydW5k&hash=bbfc4bf3db714ac9f0c0175918d22209def88ec6&lang=en&cache-only=0",
+      "phonetic_am_text": "jerēnd",
+      "img": "",
+      "senses": [
+        {
+          "definition": "(grammar) a form of a verb that functions as a noun and is formed by adding the suffix -ing to the base form of the verb",
+          "examples": [
+            {
+              "cf": "",
+              "x": "A gerund is a verb form that functions as a noun, ending in \"-ing.\""
+            },
+            {
+              "cf": "",
+              "x": "Examples of gerunds include \"swimming,\" \"reading,\" and \"writing.\""
+            },
+            {
+              "cf": "",
+              "x": "Gerunds can serve as subjects, objects, or complements in a sentence."
+            },
+            {
+              "cf": "",
+              "x": "In the sentence \"Running is my favorite hobby,\" \"running\" functions as the subject and is a gerund."
+            },
+            {
+              "cf": "",
+              "x": "Gerunds are used to express actions or activities in a general or abstract sense, rather than as specific instances of action."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "transitive verb",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=dHJhbnNpdGl2ZSB2ZXJi&hash=2b72591689294ddc340628067f590f783478b821&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phonetic_am": "https://tts.langeek.co/read?text=dHJhbnNpdGl2ZSB2ZXJi&hash=2b72591689294ddc340628067f590f783478b821&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "senses": [
+        {
+          "definition": "(grammar) a verb that needs a direct object",
+          "examples": [
+            {
+              "cf": "",
+              "x": "A transitive verb is a verb that requires a direct object to complete its meaning."
+            },
+            {
+              "cf": "",
+              "x": "Examples of transitive verbs include \"eat,\" \"love,\" and \"throw.\""
+            },
+            {
+              "cf": "",
+              "x": "In the sentence \"She ate an apple,\" \"ate\" is the transitive verb, and \"an apple\" is the direct object."
+            },
+            {
+              "cf": "",
+              "x": "Transitive verbs can be followed by a noun, pronoun, or phrase that receives the action of the verb."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intransitive verb",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=aW50cmFuc2l0aXZlIHZlcmI&hash=9f8ee354c5e6aa1912f4fa6b91b56777d7bce296&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phonetic_am": "https://tts.langeek.co/read?text=aW50cmFuc2l0aXZlIHZlcmI&hash=9f8ee354c5e6aa1912f4fa6b91b56777d7bce296&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "senses": [
+        {
+          "definition": "(grammar) a verb without a direct object",
+          "examples": [
+            {
+              "cf": "",
+              "x": "An intransitive verb is a verb that does not require a direct object to complete its meaning."
+            },
+            {
+              "cf": "",
+              "x": "Examples of intransitive verbs include \"laugh,\" \"sleep,\" and \"arrive.\""
+            },
+            {
+              "cf": "",
+              "x": "In the sentence \"He sleeps,\" \"sleeps\" is an intransitive verb because it does not require a direct object."
+            },
+            {
+              "cf": "",
+              "x": "The child giggled uncontrollably, the innocence of laughter exemplifying the joy that an intransitive verb can bring without needing an object."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "number",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=bnVtYmVy&hash=7d74c4e0274e06f9518a58887aa30ec3e91f1969&lang=en&cache-only=0",
+      "phonetic_text": "nʌmbər",
+      "phonetic_am": "https://tts.langeek.co/read?text=bnVtYmVy&hash=7d74c4e0274e06f9518a58887aa30ec3e91f1969&lang=en&cache-only=0",
+      "phonetic_am_text": "nambēr",
+      "img": "",
+      "senses": [
+        {
+          "definition": "(grammar) the form of a word that indicates whether one, two, or more things or people are being referred to",
+          "examples": [
+            {
+              "cf": "",
+              "x": "In English grammar, the number of a noun or pronoun indicates whether it is singular or plural, affecting the form of verbs and pronouns in a sentence."
+            },
+            {
+              "cf": "",
+              "x": "The subject-verb agreement rule states that a singular subject must agree with a singular verb in number, while a plural subject must agree with a plural verb."
+            },
+            {
+              "cf": "",
+              "x": "The number of students in the classroom determines whether the teacher uses singular or plural pronouns when addressing them."
+            },
+            {
+              "cf": "",
+              "x": "When writing essays, it's important to pay attention to the number of nouns and pronouns used to ensure consistency and clarity throughout the text."
+            },
+            {
+              "cf": "",
+              "x": "In languages like Spanish and French, nouns have gender as well as number, requiring agreement with adjectives and articles in both aspects."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "person",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=cGVyc29u&hash=14b6595ab0bee56098bce452501c69097ba0c105&lang=en&cache-only=0",
+      "phonetic_text": "pɜrsən",
+      "phonetic_am": "https://tts.langeek.co/read?text=cGVyc29u&hash=14b6595ab0bee56098bce452501c69097ba0c105&lang=en&cache-only=0",
+      "phonetic_am_text": "pērsēn",
+      "img": "",
+      "senses": [
+        {
+          "definition": "(grammar) each of the three classes of pronouns that refers to who is speaking, who is being spoken to, or others that are not present during the conversation",
+          "examples": [
+            {
+              "cf": "",
+              "x": "In English grammar, the concept of person refers to the perspective from which a speaker or writer refers to themselves, the person they are addressing, or others not present in the conversation."
+            },
+            {
+              "cf": "",
+              "x": "First-person pronouns like 'I,' 'me,' and 'we' refer to the speaker or speakers themselves, while second-person pronouns like 'you' refer to the person or people being addressed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "voice",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=dm9pY2U&hash=2d837e39112a19291355bd3fb17d48f4f76a110f&lang=en&cache-only=0",
+      "phonetic_text": "vɔɪs",
+      "phonetic_am": "https://tts.langeek.co/read?text=dm9pY2U&hash=2d837e39112a19291355bd3fb17d48f4f76a110f&lang=en&cache-only=0",
+      "phonetic_am_text": "voys",
+      "img": "",
+      "senses": [
+        {
+          "definition": "(grammar) the form of a verb that indicates whether the subject does something or something is done to it",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "gender",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=Z2VuZGVy&hash=0d3b9ad4ab2a44f5c4ade99485fac8d4d9f66be0&lang=en&cache-only=0",
+      "phonetic_text": "ʤɛndər",
+      "phonetic_am": "https://tts.langeek.co/read?text=Z2VuZGVy&hash=0d3b9ad4ab2a44f5c4ade99485fac8d4d9f66be0&lang=en&cache-only=0",
+      "phonetic_am_text": "jendēr",
+      "img": "",
+      "senses": [
+        {
+          "definition": "(grammar) a class of words indicating whether they are feminine, masculine, or neuter",
+          "examples": [
+            {
+              "cf": "",
+              "x": "In many languages, such as Spanish and French, nouns are assigned a gender—either masculine or feminine—regardless of the actual gender of the object they represent."
+            },
+            {
+              "cf": "",
+              "x": "German is unique in that it also includes a neuter gender, in addition to masculine and feminine, for classifying nouns."
+            },
+            {
+              "cf": "",
+              "x": "English does not have grammatical gender in the same way as many other languages, although pronouns like 'he,' 'she,' and 'it' can indicate natural gender."
+            },
+            {
+              "cf": "",
+              "x": "The gender of nouns in languages like Latin and Greek is determined by their endings and can sometimes be unpredictable for non-native speakers."
+            },
+            {
+              "cf": "",
+              "x": "In linguistics, gender is a grammatical category that plays a role in agreement between nouns, pronouns, adjectives, and articles within a sentence."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "feminine",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=ZmVtaW5pbmU&hash=98ed090719b6fe0eb83c15daab33f14f050c66d9&lang=en&cache-only=0",
+      "phonetic_text": "fɛmənən",
+      "phonetic_am": "https://tts.langeek.co/read?text=ZmVtaW5pbmU&hash=98ed090719b6fe0eb83c15daab33f14f050c66d9&lang=en&cache-only=0",
+      "phonetic_am_text": "femēnēn",
+      "img": "",
+      "senses": [
+        {
+          "definition": "(of a language's grammar) referring to females",
+          "examples": [
+            {
+              "cf": "",
+              "x": "In languages with grammatical gender, such as Spanish or French, nouns like ' la casa' (the house) or 'la table' (the table) are classified as feminine."
+            },
+            {
+              "cf": "",
+              "x": "Adjectives and articles in these languages must agree in gender and number with the feminine nouns they modify, such as 'la casa bonita' (the beautiful house)."
+            },
+            {
+              "cf": "",
+              "x": "Gendered languages often assign feminine gender to nouns denoting female beings, such as 'la mujer' (the woman) or 'la gata' (the cat, feminine gender)."
+            },
+            {
+              "cf": "",
+              "x": "Some languages, like German, have three genders—masculine, feminine, and neuter—where feminine nouns may be identified by certain endings or characteristics."
+            },
+            {
+              "cf": "",
+              "x": "Understanding the feminine gender in a language is essential for proper agreement and communication, ensuring grammatical correctness in speech and writing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "masculine",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=bWFzY3VsaW5l&hash=80ede030fc845c660d7ff054337a4884d7e85e28&lang=en&cache-only=0",
+      "phonetic_text": "mæskjələn",
+      "phonetic_am": "https://tts.langeek.co/read?text=bWFzY3VsaW5l&hash=80ede030fc845c660d7ff054337a4884d7e85e28&lang=en&cache-only=0",
+      "phonetic_am_text": "māskyēlēn",
+      "img": "",
+      "senses": [
+        {
+          "definition": "(of a language's grammar) referring to males",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Gendered languages often assign masculine gender to nouns denoting male beings, such as 'el hombre' (the man) or 'el perro' (the dog, masculine gender)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "subjunctive",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=c3VianVuY3RpdmU&hash=6b5fcbecb4cdae132bb0a3a4d6b3b104316bf753&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phonetic_am": "https://tts.langeek.co/read?text=c3VianVuY3RpdmU&hash=6b5fcbecb4cdae132bb0a3a4d6b3b104316bf753&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "senses": [
+        {
+          "definition": "(grammar) related to verbs that express wishes, possibility, or doubt",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "word": "phonetics",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=cGhvbmV0aWNz&hash=a227ebbdbcffcf1dd27c9926d2a4703394a5d0d1&lang=en&cache-only=0",
+      "phonetic_text": "fənɛtɪks",
+      "phonetic_am": "https://tts.langeek.co/read?text=cGhvbmV0aWNz&hash=a227ebbdbcffcf1dd27c9926d2a4703394a5d0d1&lang=en&cache-only=0",
+      "phonetic_am_text": "fēnetiks",
+      "img": "",
+      "senses": [
+        {
+          "definition": "the science and study of speech sounds and their production",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Phonetics is the branch of linguistics that studies the sounds of human speech, including their production, transmission, and reception."
+            },
+            {
+              "cf": "",
+              "x": "A phonetics researcher analyzes speech sounds using techniques such as spectrograms and acoustic analysis to understand their properties and patterns."
+            },
+            {
+              "cf": "",
+              "x": "In phonetics, the study of articulatory phonetics focuses on how speech sounds are physically produced by the human vocal tract."
+            },
+            {
+              "cf": "",
+              "x": "Phonetics plays a crucial role in language learning and teaching, helping learners to accurately pronounce and recognize the sounds of a foreign language."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intonation",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=aW50b25hdGlvbg&hash=3e72571bc75d2c3b8569d9356ef64e23f08084f3&lang=en&cache-only=0",
+      "phonetic_text": "ɪntəneɪʃən",
+      "phonetic_am": "https://tts.langeek.co/read?text=aW50b25hdGlvbg&hash=3e72571bc75d2c3b8569d9356ef64e23f08084f3&lang=en&cache-only=0",
+      "phonetic_am_text": "intēneishēn",
+      "img": "",
+      "senses": [
+        {
+          "definition": "(phonetics) the rising and falling of the voice when speaking",
+          "examples": [
+            {
+              "cf": "",
+              "x": "In phonetics, intonation refers to the pattern of rising and falling pitch in speech, which conveys meaning, emotion, and emphasis."
+            },
+            {
+              "cf": "",
+              "x": "Different languages have distinct intonation patterns, such as the rising intonation at the end of yes-no questions in English, as in 'Are you coming?"
+            },
+            {
+              "cf": "",
+              "x": "In some languages, intonation can change the meaning of a word or phrase, as in Mandarin Chinese, where different intonation patterns distinguish between words with the same phonetic sounds."
+            },
+            {
+              "cf": "",
+              "x": "Intonation is an important aspect of spoken language that helps listeners interpret the speaker's attitude, mood, and intention, contributing to effective communication."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dialect",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=ZGlhbGVjdA&hash=75983c4ea233416731097e36f6d908fab8ab19d5&lang=en&cache-only=0",
+      "phonetic_text": "daɪəlɛkt",
+      "phonetic_am": "https://tts.langeek.co/read?text=ZGlhbGVjdA&hash=75983c4ea233416731097e36f6d908fab8ab19d5&lang=en&cache-only=0",
+      "phonetic_am_text": "daiēlekt",
+      "img": "",
+      "senses": [
+        {
+          "definition": "the spoken form of a language specific to a certain region or people which is slightly different from the standard form in words and grammar",
+          "examples": [
+            {
+              "cf": "",
+              "x": "A dialect is a variety of a language spoken by a particular group of people, characterized by unique vocabulary, grammar, and pronunciation."
+            },
+            {
+              "cf": "",
+              "x": "African American Vernacular English (AAVE) is a dialect spoken primarily by African American communities in the United States, characterized by distinctive grammar, vocabulary, and intonation patterns."
+            },
+            {
+              "cf": "",
+              "x": "Linguists study dialects to better understand language variation and change, as well as the social and cultural factors that shape linguistic diversity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "proverb",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=cHJvdmVyYg&hash=0632e9965417e95e7a48c91dfd8fbf439d4c1d25&lang=en&cache-only=0",
+      "phonetic_text": "prɑ:vərb",
+      "phonetic_am": "https://tts.langeek.co/read?text=cHJvdmVyYg&hash=0632e9965417e95e7a48c91dfd8fbf439d4c1d25&lang=en&cache-only=0",
+      "phonetic_am_text": "praavērb",
+      "img": "",
+      "senses": [
+        {
+          "definition": "a well-known statement or phrase that expresses a general truth or gives advice",
+          "examples": [
+            {
+              "cf": "",
+              "x": "A well-known proverb states, 'Actions speak louder than words,' emphasizing the importance of deeds over promises."
+            },
+            {
+              "cf": "",
+              "x": "The proverb 'A stitch in time saves nine' advises that addressing problems early can prevent them from becoming larger issues."
+            },
+            {
+              "cf": "",
+              "x": "One common proverb in English is 'Don't count your chickens before they hatch,' which means you shouldn't assume success until it actually happens."
+            },
+            {
+              "cf": "",
+              "x": "The proverb 'When in Rome, do as the Romans do' suggests that one should adapt to the customs of the place they are visiting."
+            },
+            {
+              "cf": "",
+              "x": "Many cultures have a version of the proverb 'The early bird catches the worm,' which highlights the benefits of being proactive and starting tasks early."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "idiom",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=aWRpb20&hash=73abd6c22ed7ee07a425335b14e326d7c65eca68&lang=en&cache-only=0",
+      "phonetic_text": "ɪdiəm",
+      "phonetic_am": "https://tts.langeek.co/read?text=aWRpb20&hash=73abd6c22ed7ee07a425335b14e326d7c65eca68&lang=en&cache-only=0",
+      "phonetic_am_text": "idiēm",
+      "img": "",
+      "senses": [
+        {
+          "definition": "a group of words or a phrase that has a meaning different from the literal interpretation of its individual words, often specific to a particular language or culture",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The idiom 'kick the bucket' means to die, and its meaning is quite different from the literal interpretation of kicking a bucket."
+            },
+            {
+              "cf": "",
+              "x": "When someone says 'it's raining cats and dogs,' they're using an idiom to describe very heavy rain, not an actual downpour of animals."
+            },
+            {
+              "cf": "",
+              "x": "The phrase 'spill the beans' is an idiom that means to reveal a secret, rather than literally causing beans to fall."
+            },
+            {
+              "cf": "",
+              "x": "In English, the idiom 'break the ice' is used to describe starting a conversation in a social setting to ease tension, not actually cracking ice."
+            },
+            {
+              "cf": "",
+              "x": "The idiom 'piece of cake' refers to something that is very easy to do, which has nothing to do with an actual piece of dessert."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jargon",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=amFyZ29u&hash=ad8b097ee5dc47c4786e6c7cc87f2edce177f583&lang=en&cache-only=0",
+      "phonetic_text": "ʤɑ:rgən",
+      "phonetic_am": "https://tts.langeek.co/read?text=amFyZ29u&hash=ad8b097ee5dc47c4786e6c7cc87f2edce177f583&lang=en&cache-only=0",
+      "phonetic_am_text": "jaargēn",
+      "img": "",
+      "senses": [
+        {
+          "definition": "words, phrases, and expressions used by a specific group or profession, which are incomprehensible to others",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Medical professionals often use jargon such as 'stat,' 'BP,' and 'code blue,' which can be confusing to those outside the healthcare field."
+            },
+            {
+              "cf": "",
+              "x": "Legal jargon, including terms like 'habeas corpus,' 'amicus curiae,' and 'subpoena,' can be difficult for non-lawyers to understand."
+            },
+            {
+              "cf": "",
+              "x": "In the tech industry, jargon like 'API,' 'frontend,' and 'backend' is commonly used among developers but may be unclear to those without technical knowledge."
+            },
+            {
+              "cf": "",
+              "x": "Financial jargon, such as 'bull market,' 'liquidity,' and 'dividends,' is frequently used by investors and financial analysts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "slang",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=c2xhbmc&hash=19ada109d2c0f19653d8cdecd289a17e77586e4c&lang=en&cache-only=0",
+      "phonetic_text": "slæng",
+      "phonetic_am": "https://tts.langeek.co/read?text=c2xhbmc&hash=19ada109d2c0f19653d8cdecd289a17e77586e4c&lang=en&cache-only=0",
+      "phonetic_am_text": "slāng",
+      "img": "",
+      "senses": [
+        {
+          "definition": "words or expressions that are very informal and more common in spoken form, used especially by a particular group of people, such as criminals, children, etc.",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Teenagers often use slang like 'lit' to describe something that is exciting or excellent, which may not be easily understood by older generations."
+            },
+            {
+              "cf": "",
+              "x": "In the 1920s, 'the bee's knees' was popular slang for something outstanding or extraordinary."
+            },
+            {
+              "cf": "",
+              "x": "Internet slang such as 'LOL' (laugh out loud) and 'BRB' (be right back) has become widely recognized and used in online communication."
+            },
+            {
+              "cf": "",
+              "x": "Skaters have their own slang, with terms like 'gnarly' to describe something impressive or 'shredding' to refer to skilled skateboarding."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "euphemism",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=ZXVwaGVtaXNt&hash=138610bc1eb2dcc1dd95b6cca0b738688c83a3e9&lang=en&cache-only=0",
+      "phonetic_text": "ju:fəmɪzəm",
+      "phonetic_am": "https://tts.langeek.co/read?text=ZXVwaGVtaXNt&hash=138610bc1eb2dcc1dd95b6cca0b738688c83a3e9&lang=en&cache-only=0",
+      "phonetic_am_text": "yoofēmizēm",
+      "img": "https://cdn.langeek.co/photo/49772/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "a word or expression that is used instead of a harsh or insulting one in order to be more tactful and polite",
+          "examples": [
+            {
+              "cf": "",
+              "x": "\"Between jobs\" is a euphemism for being unemployed."
+            },
+            {
+              "cf": "",
+              "x": "To avoid upsetting the children, she employed a euphemism, saying their pet rabbit had \"gone to a farm\" instead of mentioning its death."
+            },
+            {
+              "cf": "",
+              "x": "The phrase 'passed away' is a common euphemism for 'died,' used to soften the harsh reality of death."
+            },
+            {
+              "cf": "",
+              "x": "Companies often use the euphemism 'downsizing' instead of 'layoffs' to describe the process of reducing their workforce."
+            },
+            {
+              "cf": "",
+              "x": "In polite conversation, people might use the euphemism 'restroom' or 'bathroom' instead of 'toilet' to refer to a place where one can relieve themselves."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "punctuate",
+      "pos": "verb",
+      "phonetic": "https://tts.langeek.co/read?text=dG8gcHVuY3R1YXRl&hash=043c4e71346810f459f0fd6ed3e3b22897eee80d&lang=en&cache-only=0",
+      "phonetic_text": "pʌnkʧueɪt",
+      "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHVuY3R1YXRl&hash=043c4e71346810f459f0fd6ed3e3b22897eee80d&lang=en&cache-only=0",
+      "phonetic_am_text": "pankchueit",
+      "img": "",
+      "senses": [
+        {
+          "definition": "to use punctuation marks in a text in order to make it more understandable",
+          "examples": [
+            {
+              "cf": "",
+              "x": "When you write an essay, it is important to punctuate your sentences correctly to ensure that your ideas are clearly communicated."
+            },
+            {
+              "cf": "",
+              "x": "The teacher reminded the students to punctuate their dialogue with quotation marks to indicate when a character is speaking."
+            },
+            {
+              "cf": "",
+              "x": "To avoid run-on sentences, you should punctuate with periods, commas, and semicolons where appropriate."
+            },
+            {
+              "cf": "",
+              "x": "He realized he needed to punctuate his email more carefully after receiving feedback that it was difficult to read."
+            },
+            {
+              "cf": "",
+              "x": "Learning how to punctuate complex sentences with colons and dashes can greatly improve your writing style and clarity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "colon",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=Y29sb24&hash=c85d2fd08ad9f012e602cb6d24a39c4dd6b90bb4&lang=en&cache-only=0",
+      "phonetic_text": "koʊlən",
+      "phonetic_am": "https://tts.langeek.co/read?text=Y29sb24&hash=c85d2fd08ad9f012e602cb6d24a39c4dd6b90bb4&lang=en&cache-only=0",
+      "phonetic_am_text": "kowlēn",
+      "img": "https://cdn.langeek.co/photo/27465/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "the punctuation mark : used to introduce a quotation, explanation, or list of items",
+          "examples": [
+            {
+              "cf": "",
+              "x": "In English grammar, a colon is used to introduce a list of items: apples, oranges, bananas, and grapes."
+            },
+            {
+              "cf": "",
+              "x": "The professor explained that a colon is used to introduce an explanation: it helps clarify the preceding statement."
+            },
+            {
+              "cf": "",
+              "x": "To correctly format the citation, use a colon to introduce the quotation: 'To be, or not to be, that is the question.'"
+            },
+            {
+              "cf": "",
+              "x": "He used a colon to separate the two parts of the sentence: the first part stated the problem, and the second part offered the solution."
+            },
+            {
+              "cf": "",
+              "x": "When writing a formal letter, use a colon after the salutation: 'Dear Hiring Manager: I am writing to apply for the position.'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "semicolon",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=c2VtaWNvbG9u&hash=ce792ab484abfb64997bddad78aec5c153180e38&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phonetic_am": "https://tts.langeek.co/read?text=c2VtaWNvbG9u&hash=ce792ab484abfb64997bddad78aec5c153180e38&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/27487/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "the punctuation mark ; used to separate the items in a list or to indicate a pause between two main clauses in a compound sentence",
+          "examples": [
+            {
+              "cf": "",
+              "x": "To connect closely related independent clauses, you can use a semicolon; it's a great way to show the relationship between the two sentences."
+            },
+            {
+              "cf": "",
+              "x": "A semicolon can also be used in complex lists where the items themselves contain commas: for example, 'The meeting was attended by John, the CEO; Jane, the CFO; and Emily, the COO."
+            },
+            {
+              "cf": "",
+              "x": "When writing academic papers, a semicolon is often used to link ideas that are related but could stand as separate sentences."
+            },
+            {
+              "cf": "",
+              "x": "He wasn't sure whether to use a comma or a semicolon; ultimately, he chose the latter to clarify his point."
+            },
+            {
+              "cf": "",
+              "x": "The semicolon is a versatile punctuation mark: it can link independent clauses and organize detailed lists."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "parenthesis",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=cGFyZW50aGVzaXM&hash=cd505d57c6f78b05f45ffa8db77908acf83e5ce2&lang=en&cache-only=0",
+      "phonetic_text": "pərɛnθəsɪs",
+      "phonetic_am": "https://tts.langeek.co/read?text=cGFyZW50aGVzaXM&hash=cd505d57c6f78b05f45ffa8db77908acf83e5ce2&lang=en&cache-only=0",
+      "phonetic_am_text": "pērenthēsis",
+      "img": "https://cdn.langeek.co/photo/27477/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "either of the symbols ( ) used in writing to enclose extra information that is given or to group a symbolic unit in logic or mathematics",
+          "examples": [
+            {
+              "cf": "",
+              "x": "In mathematics, a parenthesis is used to group numbers or operations together, as in (3 + 5) × 2."
+            },
+            {
+              "cf": "",
+              "x": "The author added a clarification in parenthesis to explain a concept further to the reader."
+            },
+            {
+              "cf": "",
+              "x": "She included a joke in parenthesis at the end of her email (just to lighten the mood)."
+            },
+            {
+              "cf": "",
+              "x": "In programming, a parenthesis is used to enclose parameters in a function call, such as print ('Hello, world!')."
+            },
+            {
+              "cf": "",
+              "x": "The sentence was interrupted by a thought in parenthesis (a common occurrence in informal writing)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hyphen",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=aHlwaGVu&hash=71b9e499b814d5164ab03d44aba3aea8586b6cbd&lang=en&cache-only=0",
+      "phonetic_text": "haɪfən",
+      "phonetic_am": "https://tts.langeek.co/read?text=aHlwaGVu&hash=71b9e499b814d5164ab03d44aba3aea8586b6cbd&lang=en&cache-only=0",
+      "phonetic_am_text": "haifēn",
+      "img": "https://cdn.langeek.co/photo/27467/original/?type=jpeg",
+      "senses": [
+        {
+          "definition": "a small line used to connect words or parts of words",
+          "examples": [
+            {
+              "cf": "",
+              "x": "In compound words like 'mother-in-law' and 'self-esteem,' a hyphen is used to connect the different parts of the word."
+            },
+            {
+              "cf": "",
+              "x": "He emphasized the importance of using a hyphen to avoid ambiguity in phrases like 'man-eating shark' versus 'man eating shark."
+            },
+            {
+              "cf": "",
+              "x": "When writing out fractions, a hyphen is often used to separate the numerator from the denominator, as in 'three-fourths."
+            },
+            {
+              "cf": "",
+              "x": "In some cases, a hyphen is used to clarify the meaning of a phrase, such as 're-sign' (to sign again) versus 'resign' (to quit)."
+            },
+            {
+              "cf": "",
+              "x": "She carefully placed a hyphen between the syllables of the word 'co-operate' to show that it is pronounced as two separate units."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "slash",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=c2xhc2g&hash=96a696705938132de4c1c1e5df24a691f95f0c48&lang=en&cache-only=0",
+      "phonetic_text": "slæʃ",
+      "phonetic_am": "https://tts.langeek.co/read?text=c2xhc2g&hash=96a696705938132de4c1c1e5df24a691f95f0c48&lang=en&cache-only=0",
+      "phonetic_am_text": "slāsh",
+      "img": "",
+      "senses": [
+        {
+          "definition": "the symbol / used in print or writing to indicate alternatives or fractions, etc.",
+          "examples": [
+            {
+              "cf": "",
+              "x": "In the sentence, \"Please bring a pencil/pen to the exam,\" the slash indicates a choice between two items."
+            },
+            {
+              "cf": "",
+              "x": "The recipe called for 1/2 cup of sugar, with the slash representing a fraction."
+            },
+            {
+              "cf": "",
+              "x": "In the abbreviation \"and/or,\" the slash indicates that either \"and\" or \"or\" can be used."
+            },
+            {
+              "cf": "",
+              "x": "The file path C:/Documents/Photos uses slashes to separate directories and folders."
+            },
+            {
+              "cf": "",
+              "x": "The phrase \"his/her\" uses a slash to indicate either a male or female gender pronoun."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "interjection",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=aW50ZXJqZWN0aW9u&hash=2dbaff5c56f2b1642f93857fe7aac39294213eac&lang=en&cache-only=0",
+      "phonetic_text": "ɪntərʤɛkʃən",
+      "phonetic_am": "https://tts.langeek.co/read?text=aW50ZXJqZWN0aW9u&hash=2dbaff5c56f2b1642f93857fe7aac39294213eac&lang=en&cache-only=0",
+      "phonetic_am_text": "intērjekshēn",
+      "img": "",
+      "senses": [
+        {
+          "definition": "(grammar) a phrase or word used suddenly to express a particular emotion",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The teacher explained the concept of interjection during grammar class."
+            },
+            {
+              "cf": "",
+              "x": "She used the word 'interjection' in her English essay to demonstrate her understanding of grammar."
+            },
+            {
+              "cf": "",
+              "x": "The linguist discussed the various functions of interjection in language."
+            },
+            {
+              "cf": "",
+              "x": "Students were asked to identify examples of interjection in the passage they were reading."
+            },
+            {
+              "cf": "",
+              "x": "During the debate, the speaker highlighted the importance of interjection in conveying emotions in speech."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "particle",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=cGFydGljbGU&hash=56659d1c2c2e9c4ae2135f70a475b35664d9a33a&lang=en&cache-only=0",
+      "phonetic_text": "pɑ:rtəkəl",
+      "phonetic_am": "https://tts.langeek.co/read?text=cGFydGljbGU&hash=56659d1c2c2e9c4ae2135f70a475b35664d9a33a&lang=en&cache-only=0",
+      "phonetic_am_text": "paartēkēl",
+      "img": "",
+      "senses": [
+        {
+          "definition": "(grammar) an adverb or preposition that is used with a verb to form a phrasal verb",
+          "examples": [
+            {
+              "cf": "",
+              "x": "In the phrasal verb 'look up,' 'up' is a particle that changes the meaning of the verb 'look.'"
+            },
+            {
+              "cf": "",
+              "x": "She carefully explained the function of each particle in the phrasal verb 'break down."
+            },
+            {
+              "cf": "",
+              "x": "Students were asked to identify the particle in each phrasal verb given in the exercise."
+            },
+            {
+              "cf": "",
+              "x": "Particles like 'off,' 'out,' and 'on' are commonly used in English phrasal verbs to indicate direction or action."
+            },
+            {
+              "cf": "",
+              "x": "Understanding the role of particles in phrasal verbs is essential for mastering English grammar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "e.g.",
+      "pos": "adverb",
+      "phonetic": "https://tts.langeek.co/read?text=ZS5nLg&hash=6f4b678125d42257a873e938714d30cd2c4c655f&lang=en&cache-only=0",
+      "phonetic_text": "igi:",
+      "phonetic_am": "https://tts.langeek.co/read?text=ZS5nLg&hash=6f4b678125d42257a873e938714d30cd2c4c655f&lang=en&cache-only=0",
+      "phonetic_am_text": "igee",
+      "img": "",
+      "senses": [
+        {
+          "definition": "used before providing an example",
+          "examples": [
+            {
+              "cf": "",
+              "x": "I have many hobbies, e.g., hiking, painting, and cooking."
+            },
+            {
+              "cf": "",
+              "x": "There are several factors that contribute to climate change, e.g., deforestation, greenhouse gas emissions, and industrial pollution."
+            },
+            {
+              "cf": "",
+              "x": "The company offers various employee benefits, e.g., health insurance, retirement plans, and paid time off."
+            },
+            {
+              "cf": "",
+              "x": "We can use renewable energy sources, e.g., solar and wind power, to reduce our carbon footprint."
+            },
+            {
+              "cf": "",
+              "x": "Many animals are endangered due to habitat destruction, e.g., loss of forests, pollution, and urbanization."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ungrammatical",
+      "pos": "adjective",
+      "phonetic": "https://tts.langeek.co/read?text=dW5ncmFtbWF0aWNhbA&hash=34f370295848c3eda421c37eb0f5a3f21475e7c6&lang=en&cache-only=0",
+      "phonetic_text": null,
+      "phonetic_am": "https://tts.langeek.co/read?text=dW5ncmFtbWF0aWNhbA&hash=34f370295848c3eda421c37eb0f5a3f21475e7c6&lang=en&cache-only=0",
+      "phonetic_am_text": null,
+      "img": "",
+      "senses": [
+        {
+          "definition": "not conforming with the rules of grammar",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The sentence 'He don't likes broccoli' is ungrammatical because 'don't' is not used with 'likes' in standard English."
+            },
+            {
+              "cf": "",
+              "x": "In English, subject-verb agreement errors can make a sentence ungrammatical."
+            },
+            {
+              "cf": "",
+              "x": "Students were asked to identify and correct any ungrammatical sentences in their essays."
+            },
+            {
+              "cf": "",
+              "x": "The use of double negatives in the sentence 'I ain't got none' renders it ungrammatical in standard English."
+            },
+            {
+              "cf": "",
+              "x": "Some dialects may allow constructions that are considered ungrammatical in formal written English."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
