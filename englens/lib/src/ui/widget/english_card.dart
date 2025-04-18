@@ -1,4 +1,5 @@
 import 'package:englens/src/data/models/word.dart';
+import 'package:englens/src/utils/helper.dart';
 import 'package:flutter/material.dart';
 
 enum Classifier { verb, noun, adjective, adverb, indefiniteArticle }
@@ -81,13 +82,17 @@ class EnglishCard extends StatelessWidget {
           Row(
             children: [
               IconButton(
-                onPressed: () {},
+                onPressed: () {
+                  onTapPlayAudio(audioUrl: word.phonetic);
+                },
                 icon: Icon(Icons.volume_up_rounded),
               ),
               // Text('/ə/'),
               Text(word.phoneticText),
               IconButton(
-                onPressed: () {},
+                onPressed: () {
+                  onTapPlayAudio(audioUrl: word.phonetic);
+                },
                 icon: Icon(Icons.volume_up_rounded),
               ),
               // Text('/ə/'),

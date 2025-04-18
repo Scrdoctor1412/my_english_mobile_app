@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class ThemePrimary {
+  ThemePrimary._();
+
   static const grey = Color(0xff868686);
   static const primaryBlue = Color(0xff007aff);
   static const lightBlue = Color(0xff66b2ff);
