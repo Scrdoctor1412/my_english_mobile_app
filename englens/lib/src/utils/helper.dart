@@ -1,3 +1,4 @@
+import 'package:flutter/material.dart';
 import 'package:just_audio/just_audio.dart';
 
 String snakeCaseToNormal(String input) {
@@ -13,4 +14,63 @@ void onTapPlayAudio({String audioUrl = ''}) async {
   final player = AudioPlayer();
   await player.setUrl(audioUrl);
   player.play();
+}
+
+void showCustomAlertDialog({
+  required BuildContext context,
+  required String title,
+  required String content,
+  required Function() onAccept,
+}) {
+  showDialog(
+    context: context,
+    builder: (context) {
+      return Dialog(
+        child: Container(
+          // height: context.size!.height * 0.3,
+          height: 150,
+          padding: const EdgeInsets.only(top: 12, left: 12),
+          decoration: BoxDecoration(
+            color: Colors.white,
+            borderRadius: BorderRadius.circular(12),
+          ),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Center(
+                child: Text(
+                  title,
+                  style: TextStyle(
+                    fontSize: 20,
+                    fontWeight: FontWeight.w600,
+                  ),
+                ),
+              ),
+              const SizedBox(height: 22),
+              Text(content),
+              const Spacer(),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.end,
+                children: [
+                  TextButton(
+                    onPressed: () {
+                      Navigator.of(context).pop();
+                    },
+                    child: Text('Cancel'),
+                  ),
+                  TextButton(
+                    onPressed: () {
+                      // controller.signout();
+                      onAccept();
+                    },
+                    child: Text('Ok'),
+                  ),
+                ],
+              )
+            ],
+          ),
+        ),
+      );
+    },
+  );
 }

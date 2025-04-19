@@ -59,11 +59,15 @@ class LessonDetailsScreen extends StatelessWidget {
                       ),
                     ),
                     const SizedBox(height: 8),
-                    Text(
-                      // '${controller.lessons[0].wordList?.length} words',
-                      controller.lessons[index].title,
-                      style:
-                          TextStyle(fontSize: 16, fontWeight: FontWeight.w500),
+                    SizedBox(
+                      width: screenWidth * 0.75,
+                      child: Text(
+                        // '${controller.lessons[0].wordList?.length} words',
+                        controller.lessons[index].title,
+                        style: TextStyle(
+                            fontSize: 16, fontWeight: FontWeight.w500),
+                        overflow: TextOverflow.ellipsis,
+                      ),
                     ),
                   ],
                 ),

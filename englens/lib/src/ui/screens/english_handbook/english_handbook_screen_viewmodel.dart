@@ -1,11 +1,8 @@
 import 'package:englens/src/core/base_view_model.dart';
-import 'package:englens/src/data/models/topic.dart';
 import 'package:englens/src/data/models/word.dart';
 import 'package:englens/src/data/repositories/oxford_words_repository.dart';
-import 'package:englens/src/data/repositories/topics_repository.dart';
 import 'package:flutter/material.dart';
 
-import 'package:flutter/services.dart';
 import 'package:flutter_expandable_fab/flutter_expandable_fab.dart';
 import 'package:get/get.dart';
 
@@ -20,14 +17,10 @@ class EnglishHandbookScreenViewmodel extends GetViewModelBase
   late List<Word> wordList;
   final _oxfordWordsRepo = Get.find<OxfordWordsRepositoryImpl>();
 
-  final _topicsRepo = Get.find<TopicsRepositoryImpl>();
-  late List<Topic> topicsList;
-
   @override
   onInit() {
     super.onInit();
     _onGetAllOxfordWords();
-    _onGetAllTopics();
     tabController = TabController(length: 2, vsync: this);
   }
 
@@ -38,13 +31,6 @@ class EnglishHandbookScreenViewmodel extends GetViewModelBase
     print(wordList.length);
   }
 
-  _onGetAllTopics() {
-    var list = _topicsRepo.getAllTopics();
-    topicsList = list;
-    print(topicsList.length);
-    // _calculateLessonsWords();
-  }
-
   String snakeCaseToNormal(String input) {
     return input
         .split('_') // Tách chuỗi bằng dấu gạch dưới
@@ -52,16 +38,6 @@ class EnglishHandbookScreenViewmodel extends GetViewModelBase
           (word) => word[0].toUpperCase() + word.substring(1),
         ) // Viết hoa chữ cái đầu mỗi từ
         .join(' '); // Ghép lại các từ bằng dấu cách
-  }
-
-  int countLessonWords(int index) {
-    var lessons = topicsList[index].lessons;
-    int count = 0;
-    for (var lesson in lessons!) {
-      var words = lesson.wordList;
-      count += words?.length ?? 0;
-    }
-    return count;
   }
 
   // _calculateLessonsWords() {

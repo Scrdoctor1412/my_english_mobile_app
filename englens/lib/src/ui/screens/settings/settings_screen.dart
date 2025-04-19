@@ -1,5 +1,8 @@
 import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/screens/settings/settings_screen_viewmodel.dart';
+import 'package:englens/src/ui/screens/settings/widget/settings_item_content_widget.dart';
+import 'package:englens/src/ui/screens/settings/widget/settings_item_widget.dart';
+import 'package:englens/src/utils/helper.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -25,323 +28,6 @@ class SettingsScreen extends StatelessWidget {
               style: TextStyle(fontSize: 32),
             ),
             automaticallyImplyLeading: false,
-            // backgroundColor: Colors.white,
-            // leading: Container(
-            //   padding: const EdgeInsets.only(left: 12),
-            //   height: 65,
-            //   width: 65,
-            //   child: ClipRRect(
-            //       borderRadius: BorderRadius.circular(60),
-            //       child: Image.asset('assets/images/launcher_icon.png')),
-            // ),
-          );
-        }
-
-        _generalSettingsContent() {
-          return AnimatedContainer(
-            duration: const Duration(milliseconds: 230),
-            decoration: BoxDecoration(
-              color: Colors.white,
-              borderRadius: BorderRadius.circular(12),
-              // shape: Rounded,
-              boxShadow: [
-                BoxShadow(
-                  color: Colors.black.withAlpha(60),
-                  blurRadius: 12,
-                  offset: Offset(0, 3),
-                ),
-              ],
-            ),
-            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 12),
-            width: screenWidth,
-            height: controller.generalMenuHeigth, //60,
-            child: Column(
-              mainAxisAlignment: !controller.isGeneralExpand
-                  ? MainAxisAlignment.center
-                  : MainAxisAlignment.start,
-              crossAxisAlignment: CrossAxisAlignment.start,
-              spacing: !controller.isGeneralExpand ? 0 : 24,
-              children: [
-                Row(
-                  children: [
-                    Icon(
-                      Icons.settings,
-                      color: ThemePrimary.grey,
-                    ),
-                    const SizedBox(width: 10),
-                    Text(
-                      'General',
-                      style: TextStyle(
-                        fontSize: 16,
-                        fontWeight: FontWeight.w600,
-                      ),
-                    ),
-                    const Spacer(),
-                    InkWell(
-                      onTap: () {
-                        controller.onTapToggleGeneralMenu();
-                      },
-                      child: Icon(
-                        // CupertinoIcons.chevron_down,
-                        !controller.isGeneralExpand
-                            ? CupertinoIcons.chevron_right
-                            : CupertinoIcons.chevron_down,
-                        color: ThemePrimary.grey,
-                      ),
-                    ),
-                  ],
-                ),
-                Offstage(
-                  offstage: !controller.isGeneralExpand,
-                  child: Row(
-                    children: [
-                      Text(
-                        'Notification',
-                        style: TextStyle(
-                          fontSize: 16,
-                          fontWeight: FontWeight.w600,
-                        ),
-                      ),
-                      const Spacer(),
-                      Switch(
-                        value: controller.notificationSwitchValue,
-                        inactiveThumbColor: ThemePrimary.grey,
-                        inactiveTrackColor: ThemePrimary.grey.withAlpha(40),
-                        trackOutlineColor:
-                            WidgetStateProperty.resolveWith<Color?>(
-                          (Set<WidgetState> states) {
-                            // if (states.contains(WidgetState.disabled)) {
-                            //   return Colors.orange.withOpacity(.48);
-                            // }
-                            return ThemePrimary.grey
-                                .withAlpha(0); // Use the default color.
-                          },
-                        ),
-                        onChanged: (value) {
-                          controller.onTapToggleNotification();
-                        },
-                      )
-                    ],
-                  ),
-                ),
-                Offstage(
-                  offstage: !controller.isGeneralExpand,
-                  child: Row(
-                    children: [
-                      Text(
-                        'Language',
-                        style: TextStyle(
-                          fontSize: 16,
-                          fontWeight: FontWeight.w600,
-                        ),
-                      ),
-                      const Spacer(),
-                      Icon(
-                        CupertinoIcons.chevron_down,
-                        color: ThemePrimary.grey,
-                      ),
-                    ],
-                  ),
-                ),
-              ],
-            ),
-          );
-        }
-
-        _accountSettingsContent() {
-          return AnimatedContainer(
-            duration: const Duration(milliseconds: 600),
-            decoration: BoxDecoration(
-              color: Colors.white,
-              borderRadius: BorderRadius.circular(12),
-              // shape: Rounded,
-              boxShadow: [
-                BoxShadow(
-                  color: Colors.black.withAlpha(60),
-                  blurRadius: 12,
-                  offset: Offset(0, 3),
-                ),
-              ],
-            ),
-            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 12),
-            width: screenWidth,
-            height: 60,
-            child: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Row(
-                  children: [
-                    Icon(
-                      Icons.person,
-                      color: ThemePrimary.grey,
-                    ),
-                    const SizedBox(width: 10),
-                    Text(
-                      'Account',
-                      style: TextStyle(
-                        fontSize: 16,
-                        fontWeight: FontWeight.w600,
-                      ),
-                    ),
-                    const Spacer(),
-                    Icon(
-                      CupertinoIcons.chevron_right,
-                      color: ThemePrimary.grey,
-                    ),
-                  ],
-                ),
-              ],
-            ),
-          );
-        }
-
-        _securitySettingsContent() {
-          return AnimatedContainer(
-            duration: const Duration(milliseconds: 600),
-            decoration: BoxDecoration(
-              color: Colors.white,
-              borderRadius: BorderRadius.circular(12),
-              // shape: Rounded,
-              boxShadow: [
-                BoxShadow(
-                  color: Colors.black.withAlpha(60),
-                  blurRadius: 12,
-                  offset: Offset(0, 3),
-                ),
-              ],
-            ),
-            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 12),
-            width: screenWidth,
-            height: 60,
-            child: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Row(
-                  children: [
-                    Icon(
-                      Icons.verified_user,
-                      color: ThemePrimary.grey,
-                    ),
-                    const SizedBox(width: 10),
-                    Text(
-                      'Security',
-                      style: TextStyle(
-                        fontSize: 16,
-                        fontWeight: FontWeight.w600,
-                      ),
-                    ),
-                    const Spacer(),
-                    Icon(
-                      CupertinoIcons.chevron_right,
-                      color: ThemePrimary.grey,
-                    ),
-                  ],
-                ),
-              ],
-            ),
-          );
-        }
-
-        _contactUsSettingsContent() {
-          return AnimatedContainer(
-            duration: const Duration(milliseconds: 600),
-            decoration: BoxDecoration(
-              color: Colors.white,
-              borderRadius: BorderRadius.circular(12),
-              // shape: Rounded,
-              boxShadow: [
-                BoxShadow(
-                  color: Colors.black.withAlpha(60),
-                  blurRadius: 12,
-                  offset: Offset(0, 3),
-                ),
-              ],
-            ),
-            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 12),
-            width: screenWidth,
-            height: 60,
-            child: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Row(
-                  children: [
-                    Icon(
-                      Icons.email,
-                      color: ThemePrimary.grey,
-                    ),
-                    const SizedBox(width: 10),
-                    Text(
-                      'Contact us',
-                      style: TextStyle(
-                        fontSize: 16,
-                        fontWeight: FontWeight.w600,
-                      ),
-                    ),
-                    const Spacer(),
-                    Icon(
-                      CupertinoIcons.chevron_right,
-                      color: ThemePrimary.grey,
-                    ),
-                  ],
-                ),
-              ],
-            ),
-          );
-        }
-
-        _logoutSettingsContent() {
-          return AnimatedContainer(
-            duration: const Duration(milliseconds: 600),
-            decoration: BoxDecoration(
-              color: Colors.white,
-              borderRadius: BorderRadius.circular(12),
-              // shape: Rounded,
-              boxShadow: [
-                BoxShadow(
-                  color: Colors.black.withAlpha(60),
-                  blurRadius: 12,
-                  offset: Offset(0, 3),
-                ),
-              ],
-            ),
-            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 12),
-            width: screenWidth,
-            height: 60,
-            child: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Row(
-                  children: [
-                    Icon(
-                      Icons.logout,
-                      color: ThemePrimary.grey,
-                    ),
-                    const SizedBox(width: 10),
-                    Text(
-                      'Logout',
-                      style: TextStyle(
-                        fontSize: 16,
-                        fontWeight: FontWeight.w600,
-                      ),
-                    ),
-                    const Spacer(),
-                    InkWell(
-                      onTap: () {
-                        controller.signout();
-                      },
-                      child: Icon(
-                        CupertinoIcons.chevron_right,
-                        color: ThemePrimary.grey,
-                      ),
-                    ),
-                  ],
-                ),
-              ],
-            ),
           );
         }
 
@@ -358,11 +44,72 @@ class SettingsScreen extends StatelessWidget {
                   // fit: BoxFit,
                 ),
               ),
-              _generalSettingsContent(),
-              _accountSettingsContent(),
-              _securitySettingsContent(),
-              _contactUsSettingsContent(),
-              _logoutSettingsContent()
+              SettingsItemWidget(
+                title: 'General',
+                children: [
+                  SettingsItemContentWidget(
+                    title: 'Notification',
+                    trailing: Switch(
+                      value: controller.notificationSwitchValue,
+                      inactiveThumbColor: ThemePrimary.grey,
+                      inactiveTrackColor: ThemePrimary.grey.withAlpha(40),
+                      trackOutlineColor:
+                          WidgetStateProperty.resolveWith<Color?>(
+                        (Set<WidgetState> states) {
+                          // if (states.contains(WidgetState.disabled)) {
+                          //   return Colors.orange.withOpacity(.48);
+                          // }
+                          return ThemePrimary.grey
+                              .withAlpha(0); // Use the default color.
+                        },
+                      ),
+                      onChanged: (value) {
+                        controller.onTapToggleNotification();
+                      },
+                    ),
+                  ),
+                  SettingsItemContentWidget(
+                    title: 'Language',
+                    trailing: IconButton(
+                      onPressed: () {},
+                      icon: Icon(
+                        Icons.chevron_right,
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+              SettingsItemWidget(
+                title: 'Account',
+                icon: Icons.person,
+              ),
+              SettingsItemWidget(
+                title: 'Security',
+                icon: Icons.verified_user,
+              ),
+              SettingsItemWidget(
+                title: 'Contact us',
+                icon: Icons.email,
+              ),
+              SettingsItemWidget(
+                title: 'Logout',
+                icon: Icons.logout,
+                showTrailingIcon: false,
+                isNotExpandable: true,
+                onTap: () {
+                  // controller.signout();
+                  showCustomAlertDialog(
+                    context: context,
+                    title: 'Alert',
+                    content: 'Are you sure you want to logout?',
+                    onAccept: () {
+                      controller.signout();
+                      Navigator.of(context).pop();
+                    },
+                  );
+                },
+                // trailing: ,
+              ),
             ],
           );
         }

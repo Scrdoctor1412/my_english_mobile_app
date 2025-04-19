@@ -107,6 +107,7 @@ class HomeScreen extends StatelessWidget {
                     ),
                   ],
                 ),
+                const SizedBox(height: 10),
                 Text(
                   'My Worldlists',
                   style: TextStyle(
@@ -163,6 +164,7 @@ class HomeScreen extends StatelessWidget {
                     ),
                   ],
                 ),
+                const SizedBox(height: 8),
                 Text(
                   'Daily Words',
                   style: TextStyle(
@@ -231,22 +233,35 @@ class HomeScreen extends StatelessWidget {
                     ),
                   ),
                 ),
+                Positioned(
+                  top: -16,
+                  left: 12,
+                  right: 12,
+                  child: Align(
+                    alignment: Alignment.center,
+                    child: SizedBox(
+                      // width: 330,
+                      height: 330,
+                      child: Image.asset('assets/images/welcome_logo.png'),
+                    ),
+                  ),
+                ),
                 Positioned.fill(
-                  top: 150,
+                  top: 180,
                   // right: ,
                   child: Padding(
                     padding: const EdgeInsets.symmetric(horizontal: 20),
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text(
-                          'Welcome back, User!',
-                          style: TextStyle(
-                            color: Colors.white,
-                            fontSize: 30,
-                            fontWeight: FontWeight.w700,
-                          ),
-                        ),
+                        // Text(
+                        //   'Welcome back, User!',
+                        //   style: TextStyle(
+                        //     color: Colors.white,
+                        //     fontSize: 30,
+                        //     fontWeight: FontWeight.w700,
+                        //   ),
+                        // ),
                         const SizedBox(height: 20),
                         Row(
                           children: [

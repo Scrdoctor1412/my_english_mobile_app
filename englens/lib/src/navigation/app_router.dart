@@ -3,6 +3,11 @@ import 'package:englens/src/data/models/user_internal.dart';
 import 'package:englens/src/service/firebase/auth/auth_service.dart';
 import 'package:englens/src/ui/screens/english_handbook/english_handbook_screen.dart';
 import 'package:englens/src/ui/screens/english_handbook/english_handbook_screen_viewmodel.dart';
+import 'package:englens/src/ui/screens/study/expressions/expressions_screen.dart';
+import 'package:englens/src/ui/screens/study/flashcards/flashcards_screen.dart';
+import 'package:englens/src/ui/screens/study/grammar/grammar_screen.dart';
+import 'package:englens/src/ui/screens/study/pronunciation/pronunciation_screen.dart';
+import 'package:englens/src/ui/screens/study/vocab/vocab_screen.dart';
 import 'package:englens/src/ui/widget/lesson_details/lesson_details_screen.dart';
 import 'package:englens/src/ui/widget/lesson_details/lessons_details_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen.dart';
@@ -40,6 +45,7 @@ class AppRouter {
   }
 
   static final List<GetPage> routes = [
+    //Login Screen
     GetPage(
       name: LoginScreen.routeName,
       page: () => LoginScreen(),
@@ -50,46 +56,89 @@ class AppRouter {
       page: () => ForgetPasswordScreen(),
       binding: GetBinding(ForgetPasswordScreen.routeName),
     ),
+
+    //Tabs screen
     GetPage(
       name: TabsScreen.routeName,
       page: () => TabsScreen(),
       binding: GetBinding(TabsScreen.routeName),
     ),
+
+    //English handbook screen
     GetPage(
       name: EnglishHandbookScreen.routeName,
       page: () => EnglishHandbookScreen(),
       binding: GetBinding(TabsScreen.routeName),
     ),
+
+    //Home screen
     GetPage(
       name: HomeScreen.routeName,
       page: () => HomeScreen(),
       binding: GetBinding(TabsScreen.routeName),
     ),
+
+    //Scan to translate screen
     GetPage(
       name: ScanToTranslateScreen.routeName,
       page: () => ScanToTranslateScreen(),
       binding: GetBinding(TabsScreen.routeName),
     ),
+
+    //Settings screen
     GetPage(
       name: SettingsScreen.routeName,
       page: () => SettingsScreen(),
       binding: GetBinding(TabsScreen.routeName),
     ),
+
+    //Study screen
     GetPage(
       name: StudyScreen.routeName,
       page: () => StudyScreen(),
       binding: GetBinding(TabsScreen.routeName),
     ),
     GetPage(
+      name: VocabScreen.routeName,
+      page: () => VocabScreen(),
+      binding: GetBinding(VocabScreen.routeName),
+    ),
+    GetPage(
+      name: PronunciationScreen.routeName,
+      page: () => PronunciationScreen(),
+      binding: GetBinding(PronunciationScreen.routeName),
+    ),
+    GetPage(
+      name: GrammarScreen.routeName,
+      page: () => GrammarScreen(),
+      binding: GetBinding(GrammarScreen.routeName),
+    ),
+    GetPage(
+      name: FlashcardsScreen.routeName,
+      page: () => FlashcardsScreen(),
+      binding: GetBinding(FlashcardsScreen.routeName),
+    ),
+    GetPage(
+      name: ExpressionsScreen.routeName,
+      page: () => ExpressionsScreen(),
+      binding: GetBinding(ExpressionsScreen.routeName),
+    ),
+
+    //Word search screen
+    GetPage(
       name: WordSearchScreen.routeName,
       page: () => WordSearchScreen(),
       binding: GetBinding(WordSearchScreen.routeName),
     ),
+
+    //Lesson details screen
     GetPage(
       name: LessonDetailsScreen.routeName,
       page: () => LessonDetailsScreen(),
       binding: GetBinding(LessonDetailsScreen.routeName),
     ),
+
+    //Words details screen
     GetPage(
       name: WordDetailsScreen.routeName,
       page: () => WordDetailsScreen(),
