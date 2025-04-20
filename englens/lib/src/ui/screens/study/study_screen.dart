@@ -9,6 +9,7 @@ import 'package:englens/src/ui/screens/study/widget/big_content_block_widget.dar
 import 'package:englens/src/ui/screens/study/widget/small_content_block_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:hive_flutter/adapters.dart';
 
 class StudyScreen extends StatelessWidget {
   static const routeName = '/studyScreen';
@@ -59,65 +60,86 @@ class StudyScreen extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   // spacing: 5,
                   children: [
-                    Column(
-                      spacing: 12,
-                      children: [
-                        BigContentBlockWidget(
-                          title: 'Vocabulary by Topics',
-                          subTitle: 'Start learning new words through topics',
-                          image: Image.asset('assets/images/study/vocab.png'),
-                          color: Color(0xffe7f5f5),
-                          toScreen: () {
-                            Get.toNamed(VocabScreen.routeName);
-                          },
-                        ),
-                        SmallContentBlockWidget(
-                          title: 'Expressions',
-                          subTitle: 'Idioms and phrases',
-                          image: Image.asset(
-                              'assets/images/study/expressions.png'),
-                          toScreen: () =>
-                              Get.toNamed(ExpressionsScreen.routeName),
-                        ),
-                        SizedBox(
-                          height: 124,
-                          child: Image.asset(
-                              'assets/images/study/study_apple_1.png'),
-                        ),
-                      ],
+                    Flexible(
+                      child: Column(
+                        spacing: 12,
+                        children: [
+                          BigContentBlockWidget(
+                            title: 'Vocabulary by Topics',
+                            subTitle: 'Start learning new words through topics',
+                            image: Image.asset('assets/images/study/vocab.png'),
+                            color: Color(0xffe7f5f5),
+                            toScreen: () {
+                              Get.toNamed(VocabScreen.routeName);
+                            },
+                          ),
+                          SmallContentBlockWidget(
+                            title: 'Expressions',
+                            subTitle: 'Idioms and phrases',
+                            image: Image.asset(
+                                'assets/images/study/expressions.png'),
+                            toScreen: () =>
+                                Get.toNamed(ExpressionsScreen.routeName),
+                          ),
+                          SizedBox(
+                            height: 124,
+                            child: Image.asset(
+                              'assets/images/study/study_apple_1.png',
+                            ),
+                          ),
+                        ],
+                      ),
                     ),
-                    Column(
-                      spacing: 12,
-                      mainAxisAlignment: MainAxisAlignment.start,
-                      children: [
-                        SmallContentBlockWidget(
-                          title: 'Grammar',
-                          subTitle: 'Learn grammar rules',
-                          image: Image.asset(
-                            'assets/images/study/book_grammar.png',
-                            fit: BoxFit.contain,
+                    Flexible(
+                      child: Column(
+                        spacing: 12,
+                        mainAxisAlignment: MainAxisAlignment.start,
+                        children: [
+                          SmallContentBlockWidget(
+                            title: 'Grammar',
+                            subTitle: 'Learn grammar rules',
+                            image: Image.asset(
+                              'assets/images/study/book_grammar.png',
+                              fit: BoxFit.contain,
+                            ),
+                            toScreen: () =>
+                                Get.toNamed(GrammarScreen.routeName),
                           ),
-                          toScreen: () => Get.toNamed(GrammarScreen.routeName),
-                        ),
-                        SmallContentBlockWidget(
-                          title: 'Pronunciation',
-                          subTitle: 'Practice pronunciation',
-                          color: Color(0xfffbf1eb),
-                          image: Image.asset(
-                              'assets/images/study/pronunciation.png'),
-                          toScreen: () =>
-                              Get.toNamed(PronunciationScreen.routeName),
-                        ),
-                        SmallContentBlockWidget(
-                          title: 'Flashcards',
-                          subTitle: 'Learn with random flashcards',
-                          image: Image.asset(
-                            'assets/images/study/flashcard.png',
+                          SmallContentBlockWidget(
+                            title: 'Pronunciation',
+                            subTitle: 'Practice pronunciation',
+                            color: Color(0xfffbf1eb),
+                            image: Image.asset(
+                              'assets/images/study/pronunciation.png',
+                              fit: BoxFit.fitHeight,
+                            ),
+                            toScreen: () =>
+                                Get.toNamed(PronunciationScreen.routeName),
                           ),
-                          toScreen: () =>
-                              Get.toNamed(FlashcardsScreen.routeName),
-                        ),
-                      ],
+                          SmallContentBlockWidget(
+                            title: 'Flashcards',
+                            subTitle: 'Learn with random flashcards',
+                            image: Image.asset(
+                              'assets/images/study/flashcard.png',
+                              fit: BoxFit.fitHeight,
+                            ),
+                            toScreen: () =>
+                                Get.toNamed(FlashcardsScreen.routeName),
+                          ),
+                          ClipRRect(
+                            clipBehavior: Clip.antiAlias,
+                            borderRadius: BorderRadius.circular(16),
+                            child: SizedBox(
+                              width: 134,
+                              height: 134,
+                              child: Image.asset(
+                                'assets/images/study/conversation_1.png',
+                                fit: BoxFit.scaleDown,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
                     ),
                   ],
                 ),
@@ -130,7 +152,7 @@ class StudyScreen extends StatelessWidget {
           return Container(
             width: screenWdith,
             // height: 200,
-            height: 60,
+            // height: 70,
             decoration: BoxDecoration(
               color: Colors.white,
               borderRadius: BorderRadius.circular(16),
@@ -147,54 +169,68 @@ class StudyScreen extends StatelessWidget {
         }
 
         _body() {
-          return Stack(
-            children: [
-              SizedBox(
-                width: screenWdith,
-                height: screenHeight,
-              ),
-              Positioned(
-                top: 0,
-                child: _customBackground(),
-              ),
-              Positioned(
-                top: 60,
-                left: 16,
-                child: Container(
+          return SingleChildScrollView(
+            child: Stack(
+              children: [
+                SizedBox(
                   width: screenWdith,
-                  child: Row(
-                    children: [
-                      Text(
-                        'Let\'s study',
-                        style: TextStyle(
-                          color: Colors.white,
-                          fontSize: 32,
-                          fontWeight: FontWeight.w600,
-                        ),
-                      ),
-                      Spacer(),
-                      Expanded(
-                        child: IconButton(
-                          onPressed: () {},
-                          icon: Icon(
-                            Icons.folder_copy,
+                  height: screenHeight,
+                ),
+                Positioned(
+                  top: 0,
+                  child: _customBackground(),
+                ),
+                Positioned(
+                  top: 60,
+                  left: 16,
+                  child: Container(
+                    width: screenWdith,
+                    child: Row(
+                      children: [
+                        Text(
+                          'Let\'s study',
+                          style: TextStyle(
                             color: Colors.white,
+                            fontSize: 32,
+                            fontWeight: FontWeight.w600,
                           ),
                         ),
-                      ),
-                    ],
+                        Spacer(),
+                        Expanded(
+                          child: IconButton(
+                            onPressed: () {},
+                            icon: Icon(
+                              Icons.folder_copy,
+                              color: Colors.white,
+                            ),
+                          ),
+                        ),
+                      ],
+                    ),
                   ),
                 ),
-              ),
-              Positioned.fill(
-                top: 120,
-                child: Padding(
-                  padding:
-                      const EdgeInsets.symmetric(horizontal: 9, vertical: 12),
-                  child: _bodyBlock(),
+                Positioned(
+                  top: 55,
+                  left: 173,
+                  // right: 80,
+                  child: SizedBox(
+                    width: 35,
+                    height: 35,
+                    child: Image.asset(
+                      'assets/images/study/sparkle.png',
+                    ),
+                  ),
                 ),
-              ),
-            ],
+                Positioned.fill(
+                  top: 120,
+                  child: Padding(
+                    padding:
+                        const EdgeInsets.symmetric(horizontal: 9, vertical: 12),
+                    child: _bodyBlock(),
+                  ),
+                ),
+              ],
+            ),
           );
         }
 

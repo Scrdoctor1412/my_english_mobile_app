@@ -38,7 +38,7 @@ class EnglishCard extends StatelessWidget {
     switchStatusColor();
     return Container(
       width: MediaQuery.of(context).size.width * 0.75,
-      height: MediaQuery.of(context).size.height,
+      // height: MediaQuery.of(context).size.height,
       decoration: BoxDecoration(
         color: Colors.white,
         borderRadius: BorderRadius.circular(12),

@@ -25,7 +25,7 @@ class SmallContentBlockWidget extends StatelessWidget {
       onTap: toScreen,
       child: Container(
         width: screenWdith / 2 - 22,
-        height: screenHeight * 0.2,
+        height: screenHeight * 0.21,
         decoration: BoxDecoration(
           color: color ?? Color(0xffe7f8ff),
           borderRadius: BorderRadius.circular(16),
