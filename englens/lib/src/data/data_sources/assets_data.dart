@@ -1,6 +1,7 @@
 import 'dart:convert';
 
 import 'package:englens/src/data/models/lesson.dart';
+import 'package:englens/src/data/models/level_based.dart';
 import 'package:englens/src/data/models/topic.dart';
 import 'package:englens/src/data/models/word.dart';
 import 'package:flutter/foundation.dart';
@@ -12,6 +13,8 @@ abstract interface class AssetsData extends GetxController {
   Future<List<Word>> getAllOxfordWords();
   Future<List<Lesson>> getAllTopicsLesson(String topic);
   Future<List<Topic>> getAllTopics();
+  Future<List<LevelBased>> getAllLevelBased();
+  Future<List<Lesson>> getAllLevelBasedLesson(String level);
 }
 
 class AssetsDataImpl extends GetxController implements AssetsData {
@@ -43,10 +46,10 @@ class AssetsDataImpl extends GetxController implements AssetsData {
   @override
   Future<List<Lesson>> getAllTopicsLesson(String topic) async {
     // TODO: implement getAllTopicsWords
-    return await parseLessons(topic);
+    return await parseTopicsLessons(topic);
   }
 
-  Future<List<Lesson>> parseLessons(String topic) async {
+  Future<List<Lesson>> parseTopicsLessons(String topic) async {
     // final List<String> jsonStrings = [];
     final path = 'assets/json/topics_words/$topic';
 
@@ -143,5 +146,60 @@ class AssetsDataImpl extends GetxController implements AssetsData {
       topics.add(topicModel);
     }
     return topics;
+  }
+
+  @override
+  Future<List<LevelBased>> getAllLevelBased() async {
+    // TODO: implement getAllLevelBased
+    List<String> levelBasedNames = [
+      "a1_level",
+      "a2_level",
+      "b1_level",
+      "b2_level",
+      "c1_level",
+      "c2_level",
+    ];
+
+    List<LevelBased> levelBasedList = [];
+    for (var levelBased in levelBasedNames) {
+      var lessons = await getAllLevelBasedLesson(levelBased);
+      LevelBased levelBasedModel = LevelBased(
+        title: levelBased,
+        lessons: lessons,
+      );
+      levelBasedList.add(levelBasedModel);
+    }
+    return levelBasedList;
+  }
+
+  Future<List<Lesson>> parseLevelBasedLessons(String levelBased) async {
+    // final List<String> jsonStrings = [];
+    final path = 'assets/json/wordlist_by_level_words/$levelBased';
+
+    const topicCase = {
+      'a1_level': 31,
+      'a2_level': 49,
+      'b1_level': 57,
+      'b2_level': 63,
+      'c1_level': 66,
+      'c2_level': 88,
+    };
+
+    final end = topicCase[levelBased] ?? 0;
+
+    final jsonStrings = await Future.wait(
+      List.generate(
+        end + 1,
+        (i) => rootBundle.loadString('$path/lesson_$i.json'),
+      ),
+    );
+    return compute(_parseLessons, jsonStrings);
+  }
+
+  @override
+  Future<List<Lesson>> getAllLevelBasedLesson(String level) async {
+    // TODO: implement getAllLevelBasedLesson
+    // throw UnimplementedError();
+    return await parseLevelBasedLessons(level);
   }
 }

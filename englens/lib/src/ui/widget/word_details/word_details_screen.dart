@@ -149,17 +149,22 @@ class WordDetailsScreen extends StatelessWidget {
                       ),
                       const SizedBox(height: 12),
                       Column(
+                        mainAxisAlignment: MainAxisAlignment.start,
                         children: List.generate(
                           word.senses[0].examples?.length ?? 0,
                           (egIndex) {
                             return Column(
+                              mainAxisAlignment: MainAxisAlignment.start,
                               children: [
                                 Row(
                                   mainAxisAlignment: MainAxisAlignment.start,
+                                  // crossAxisAlignment: CrossAxisAlignment.start,
                                   children: [
-                                    Icon(Icons.circle,
-                                        size: 10,
-                                        color: ThemePrimary.primaryOrange),
+                                    Icon(
+                                      Icons.circle,
+                                      size: 10,
+                                      color: ThemePrimary.primaryOrange,
+                                    ),
                                     const SizedBox(width: 12),
                                     Expanded(
                                       child: Text(

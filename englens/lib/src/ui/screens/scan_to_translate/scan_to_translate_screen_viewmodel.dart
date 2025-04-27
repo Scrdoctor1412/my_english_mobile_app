@@ -1,3 +1,4 @@
+import 'package:cunning_document_scanner/cunning_document_scanner.dart';
 import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/theme/theme_primary.dart';
 import 'package:flutter/material.dart';
@@ -20,10 +21,13 @@ class ScanToTranslateScreenViewmodel extends GetViewModelBase {
     'Gallery',
   ];
 
-  List<XFile>? _mediaFileList;
+  Future<void> pickImageFromGallery() async {
+    final XFile? image = await _picker.pickImage(source: ImageSource.gallery);
+  }
 
-  void _setImageFileListFromFile(XFile? value) {
-    _mediaFileList = value == null ? null : <XFile>[value];
+  void _captureImage() async {
+    var images =
+        await CunningDocumentScanner.getPictures(isGalleryImportAllowed: true);
   }
 
   void onTapShowBottomSheetMedia() async {
@@ -35,7 +39,7 @@ class ScanToTranslateScreenViewmodel extends GetViewModelBase {
           child: Container(
             width: MediaQuery.of(context).size.width,
             height: 120,
-            child: ListView.builder(
+            child: ListView.separated(
               itemBuilder: (context, index) {
                 return InkWell(
                   onTap: () {
@@ -45,7 +49,7 @@ class ScanToTranslateScreenViewmodel extends GetViewModelBase {
                   child: ListTile(
                     leading: Icon(
                       icons[index],
-                      color: ThemePrimary.grey,
+                      color: ThemePrimary.grey.withAlpha(150),
                     ),
                     title: Text(
                       bottomOptions[index],
@@ -56,11 +60,23 @@ class ScanToTranslateScreenViewmodel extends GetViewModelBase {
                   ),
                 );
               },
+              separatorBuilder: (context, index) => Divider(
+                color: ThemePrimary.grey.withAlpha(150),
+              ),
               itemCount: icons.length,
             ),
           ),
         );
       },
     );
+    // print(res);
+    switch (res) {
+      case MediaType.camera:
+        _captureImage();
+        break;
+      case MediaType.gallery:
+        pickImageFromGallery();
+        break;
+    }
   }
 }

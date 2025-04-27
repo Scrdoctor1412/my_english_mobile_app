@@ -56,6 +56,10 @@ dependencies:
   dotted_border: ^2.1.0
   camera: ^0.11.1
   image_picker: ^1.1.2
+  cunning_document_scanner: ^1.2.3
+  permission_handler: ^11.4.0
+  permission_handler_platform_interface: ^4.3.0
+  plugin_platform_interface: ^2.1.8
 
 
  
@@ -99,6 +103,7 @@ flutter:
     - assets/images/
     - assets/images/topics/
     - assets/images/study/
+    - assets/images/level_based/
     - assets/icons/
     - assets/fonts/
     - assets/json/
@@ -134,6 +139,12 @@ flutter:
     - assets/json/topics_words/words_related_to_media_and_communication/
     - assets/json/topics_words/words_related_to_medical_science/
     - assets/json/topics_words/words_related_to_performing_arts/
+    - assets/json/wordlist_by_level_words/a1_level/
+    - assets/json/wordlist_by_level_words/a2_level/
+    - assets/json/wordlist_by_level_words/b1_level/
+    - assets/json/wordlist_by_level_words/b2_level/
+    - assets/json/wordlist_by_level_words/c1_level/
+    - assets/json/wordlist_by_level_words/c2_level/
 
 
   # An image asset can refer to one or more resolution-specific "variants", see

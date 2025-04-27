@@ -7,6 +7,8 @@ import 'package:englens/src/ui/screens/study/expressions/expressions_screen.dart
 import 'package:englens/src/ui/screens/study/flashcards/flashcards_screen.dart';
 import 'package:englens/src/ui/screens/study/grammar/grammar_screen.dart';
 import 'package:englens/src/ui/screens/study/pronunciation/pronunciation_screen.dart';
+import 'package:englens/src/ui/screens/study/vocab/level_based/level_based_screen.dart';
+import 'package:englens/src/ui/screens/study/vocab/topic_related/topic_related_screen.dart';
 import 'package:englens/src/ui/screens/study/vocab/vocab_screen.dart';
 import 'package:englens/src/ui/widget/lesson_details/lesson_details_screen.dart';
 import 'package:englens/src/ui/widget/lesson_details/lessons_details_screen_viewmodel.dart';
@@ -122,6 +124,16 @@ class AppRouter {
       name: ExpressionsScreen.routeName,
       page: () => ExpressionsScreen(),
       binding: GetBinding(ExpressionsScreen.routeName),
+    ),
+    GetPage(
+      name: TopicRelatedScreen.routeName,
+      page: () => TopicRelatedScreen(),
+      binding: GetBinding(TopicRelatedScreen.routeName),
+    ),
+    GetPage(
+      name: LevelBasedScreen.routeName,
+      page: () => LevelBasedScreen(),
+      binding: GetBinding(LevelBasedScreen.routeName),
     ),
 
     //Word search screen

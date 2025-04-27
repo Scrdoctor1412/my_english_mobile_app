@@ -1,5 +1,6 @@
 import 'package:englens/src/app.dart';
 import 'package:englens/src/configs/di.dart';
+import 'package:englens/src/data/repositories/level_based_repository.dart';
 import 'package:englens/src/data/repositories/oxford_words_repository.dart';
 import 'package:englens/src/data/repositories/topics_repository.dart';
 import 'package:englens/src/navigation/app_router.dart';
@@ -22,6 +23,7 @@ void main() async {
   await TranslationService.init(const Locale('vi', 'en'));
   await Get.find<OxfordWordsRepositoryImpl>().initData();
   await Get.find<TopicsRepositoryImpl>().initData();
+  await Get.find<LevelBasedRepositoryImpl>().initData();
 
   // Set System UI overlay style
   SystemChrome.setSystemUIOverlayStyle(

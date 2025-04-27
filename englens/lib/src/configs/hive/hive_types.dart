@@ -9,4 +9,5 @@ class HiveTypes {
   static const scheduledNotification = 5;
   static const topic = 6;
   static const lesson = 7;
+  static const levelBased = 8;
 }

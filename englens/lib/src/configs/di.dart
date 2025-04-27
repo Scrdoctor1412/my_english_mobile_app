@@ -1,6 +1,7 @@
 import 'package:englens/src/configs/hive/app_hive.dart';
 import 'package:englens/src/data/data_sources/assets_data.dart';
 import 'package:englens/src/data/data_sources/local_data.dart';
+import 'package:englens/src/data/repositories/level_based_repository.dart';
 import 'package:englens/src/data/repositories/oxford_words_repository.dart';
 import 'package:englens/src/data/repositories/topics_repository.dart';
 import 'package:get/get.dart';
@@ -30,5 +31,7 @@ class DI {
     Get.put(OxfordWordsRepositoryImpl(
         assetsData: assetsData, localData: localData));
     Get.put(TopicsRepositoryImpl(assetsData: assetsData, localData: localData));
+    Get.put(
+        LevelBasedRepositoryImpl(assetsData: assetsData, localData: localData));
   }
 }

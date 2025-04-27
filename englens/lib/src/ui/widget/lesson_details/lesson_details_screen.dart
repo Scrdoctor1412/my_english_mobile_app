@@ -96,8 +96,8 @@ class LessonDetailsScreen extends StatelessWidget {
             child: SingleChildScrollView(
               child: Container(
                 padding: const EdgeInsets.only(
-                  top: 12,
-                ),
+                    // top: 12,
+                    ),
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [

@@ -65,7 +65,7 @@ class StudyScreen extends StatelessWidget {
                         spacing: 12,
                         children: [
                           BigContentBlockWidget(
-                            title: 'Vocabulary by Topics',
+                            title: 'Vocabulary',
                             subTitle: 'Start learning new words through topics',
                             image: Image.asset('assets/images/study/vocab.png'),
                             color: Color(0xffe7f5f5),

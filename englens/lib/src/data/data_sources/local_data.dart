@@ -1,4 +1,5 @@
 import 'package:englens/src/configs/hive/app_hive.dart';
+import 'package:englens/src/data/models/level_based.dart';
 import 'package:englens/src/data/models/schedule_notification.dart';
 import 'package:englens/src/data/models/topic.dart';
 import 'package:englens/src/data/models/word.dart';
@@ -21,6 +22,10 @@ abstract interface class LocalData extends GetxController {
   List<Topic> getTopics();
 
   Future<void> saveTopics(List<Topic> topics);
+
+  List<LevelBased> getLevelBased();
+
+  Future<void> saveLevelBased(List<LevelBased> levelBased);
 }
 
 class HiveDatabase extends GetxController implements LocalData {
@@ -84,5 +89,21 @@ class HiveDatabase extends GetxController implements LocalData {
         ),
       ),
     );
+  }
+
+  @override
+  List<LevelBased> getLevelBased() {
+    // TODO: implement getLevelBased
+    return _appHive.levelBaseBox.values.toList();
+  }
+
+  @override
+  Future<void> saveLevelBased(List<LevelBased> levelBased) async {
+    // TODO: implement saveLevelBased
+    await _appHive.levelBaseBox.putAll(Map.fromEntries(
+      levelBased.map(
+        (levelBased) => MapEntry(levelBased.title, levelBased),
+      ),
+    ));
   }
 }
