@@ -60,6 +60,7 @@ dependencies:
   permission_handler: ^11.4.0
   permission_handler_platform_interface: ^4.3.0
   plugin_platform_interface: ^2.1.8
+  auto_size_text: ^3.0.0
 
 
  
@@ -104,12 +105,21 @@ flutter:
     - assets/images/topics/
     - assets/images/study/
     - assets/images/level_based/
+    - assets/images/expressions/
+    - assets/images/expressions/idioms/
+    - assets/images/expressions/collocations/
+    - assets/images/expressions/eng_proverbs/
+    - assets/images/expressions/phrasal_verbs/
     - assets/icons/
     - assets/fonts/
     - assets/json/
     - assets/json/oxford_words/
     - assets/json/topics_words/
-    - assets/json/topics_words/
+    - assets/json/expressions/
+    - assets/json/expressions/idioms/
+    - assets/json/expressions/collocations/
+    - assets/json/expressions/eng_proverbs/
+    - assets/json/expressions/phrasal_verbs/
     - assets/json/topics_words/agreement_and_disagreement/
     - assets/json/topics_words/animals/
     - assets/json/topics_words/appearance/
@@ -145,6 +155,61 @@ flutter:
     - assets/json/wordlist_by_level_words/b2_level/
     - assets/json/wordlist_by_level_words/c1_level/
     - assets/json/wordlist_by_level_words/c2_level/
+    - assets/json/expressions/idioms/amounts/
+    - assets/json/expressions/idioms/behavior_approach/
+    - assets/json/expressions/idioms/certainty_possibility/
+    - assets/json/expressions/idioms/danger/
+    - assets/json/expressions/idioms/decision_control/
+    - assets/json/expressions/idioms/describing_people/
+    - assets/json/expressions/idioms/describing_qualities/
+    - assets/json/expressions/idioms/difficulty/
+    - assets/json/expressions/idioms/everyday_life/
+    - assets/json/expressions/idioms/failure/
+    - assets/json/expressions/idioms/feelings/
+    - assets/json/expressions/idioms/influence_involvement/
+    - assets/json/expressions/idioms/interactions/
+    - assets/json/expressions/idioms/knowledge_understanding/
+    - assets/json/expressions/idioms/opinion/
+    - assets/json/expressions/idioms/perseverance/
+    - assets/json/expressions/idioms/personality/
+    - assets/json/expressions/idioms/relationship/
+    - assets/json/expressions/idioms/society_law_politics/
+    - assets/json/expressions/idioms/success/
+    - assets/json/expressions/idioms/time/
+    - assets/json/expressions/idioms/truth_secrecy_deception/
+    - assets/json/expressions/idioms/work_money/
+    - assets/json/expressions/collocations/collocations_of_be_place_put_and_more/
+    - assets/json/expressions/collocations/collocations_of_do_set_go/
+    - assets/json/expressions/collocations/collocations_of_give_keep_come/
+    - assets/json/expressions/collocations/collocations_of_make_take_have/
+    - assets/json/expressions/collocations/collocations_of_pay_run_break_and_more/
+    - assets/json/expressions/collocations/collocations_with_other_verbs/
+    - assets/json/expressions/collocations/compound_adverbs/
+    - assets/json/expressions/collocations/compound_prepositions/
+    - assets/json/expressions/eng_proverbs/behavior_attitude_approach/
+    - assets/json/expressions/eng_proverbs/daily_life/
+    - assets/json/expressions/eng_proverbs/human_relationships/
+    - assets/json/expressions/eng_proverbs/human_traits_qualities/
+    - assets/json/expressions/eng_proverbs/knowledge_wisdom/
+    - assets/json/expressions/eng_proverbs/notions_feelings/
+    - assets/json/expressions/eng_proverbs/outcome_impact/
+    - assets/json/expressions/eng_proverbs/perseverance/
+    - assets/json/expressions/eng_proverbs/qualities/
+    - assets/json/expressions/eng_proverbs/situations_states/
+    - assets/json/expressions/eng_proverbs/social_interaction/
+    - assets/json/expressions/eng_proverbs/society_law_politics/
+    - assets/json/expressions/eng_proverbs/virtue_vice/
+    - assets/json/expressions/eng_proverbs/wealth_success/
+    - assets/json/expressions/phrasal_verbs/phrasal_verbs_using_around_over_along/
+    - assets/json/expressions/phrasal_verbs/phrasal_verbs_using_back_through_with_at_by/
+    - assets/json/expressions/phrasal_verbs/phrasal_verbs_using_down_away/
+    - assets/json/expressions/phrasal_verbs/phrasal_verbs_using_into_to_about_for/
+    - assets/json/expressions/phrasal_verbs/phrasal_verbs_using_off_in/
+    - assets/json/expressions/phrasal_verbs/phrasal_verbs_using_on_upon/
+    - assets/json/expressions/phrasal_verbs/phrasal_verbs_using_out/
+    - assets/json/expressions/phrasal_verbs/phrasal_verbs_using_together_against_apart_others/
+    - assets/json/expressions/phrasal_verbs/phrasal_verbs_using_up/
+
 
 
   # An image asset can refer to one or more resolution-specific "variants", see

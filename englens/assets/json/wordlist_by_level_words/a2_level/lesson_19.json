@@ -11,6 +11,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=d29ybGQ&hash=5b1f3cf11604e7bd5e62a79fb9d1a687eda34ef7&lang=en&cache-only=0",
       "phonetic_am_text": "wērld",
       "img": "https://cdn.langeek.co/photo/17623/original/world?type=jpeg",
+      "pronunciation": "ˈwɝɫd",
       "senses": [
         {
           "definition": "the planet earth, where we all live",
@@ -47,6 +48,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=ZW52aXJvbm1lbnQ&hash=f13919fafccc9d1314233657ea894a50a46cc451&lang=en&cache-only=0",
       "phonetic_am_text": "invairēnmēnt",
       "img": "https://cdn.langeek.co/photo/17605/original/environment?type=jpeg",
+      "pronunciation": "ɪnˈvaɪɹənmənt",
       "senses": [
         {
           "definition": "the natural world around us where people, animals, and plants live",
@@ -83,6 +85,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=cGxhbnQ&hash=3e852761cedd57761156624e95de3a0df56f2fb1&lang=en&cache-only=0",
       "phonetic_am_text": "plānt",
       "img": "https://cdn.langeek.co/photo/17617/original/plant?type=jpeg",
+      "pronunciation": "ˈpɫænt",
       "senses": [
         {
           "definition": "a living thing that grows in ground or water, usually has leaves, stems, flowers, etc.",
@@ -102,6 +105,10 @@
             {
               "cf": "",
               "x": "The rose is a popular plant known for its beautiful flowers."
+            },
+            {
+              "cf": "",
+              "x": "The tomato plant in my garden is starting to bear fruit."
             }
           ]
         }
@@ -115,6 +122,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JvdW5k&hash=3e4d0110f5b9962054b0c0581cbe4d23d7730ab3&lang=en&cache-only=0",
       "phonetic_am_text": "grawnd",
       "img": "https://cdn.langeek.co/photo/17609/original/ground?type=jpeg",
+      "pronunciation": "ˈɡɹaʊnd",
       "senses": [
         {
           "definition": "the surface layer of earth that is solid and people walk on",
@@ -151,6 +159,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=ZmllbGQ&hash=34e0ce6e022f08ac00100a44897bf3d0d2f761ba&lang=en&cache-only=0",
       "phonetic_am_text": "feeld",
       "img": "https://cdn.langeek.co/photo/15913/original/field?type=jpeg",
+      "pronunciation": "ˈfiɫd",
       "senses": [
         {
           "definition": "a piece of land in the country, especially one where crops are grown or animals are kept, typically surrounded by a fence, etc.",
@@ -187,6 +196,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=bGFuZHNjYXBl&hash=2347b6a889d1d9664b4f5a15ac507a4af50b706f&lang=en&cache-only=0",
       "phonetic_am_text": "lāndskeip",
       "img": "https://cdn.langeek.co/photo/17611/original/landscape?type=jpeg",
+      "pronunciation": "ˈɫænˌskeɪp/, /ˈɫændˌskeɪp",
       "senses": [
         {
           "definition": "a beautiful scene in the countryside that can be seen in one particular view",
@@ -223,6 +233,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=dmlldw&hash=90f70a313e879029f4ff556e9ee8a0b55058e4d1&lang=en&cache-only=0",
       "phonetic_am_text": "vyoo",
       "img": "https://cdn.langeek.co/photo/17611/original/landscape?type=jpeg",
+      "pronunciation": "ˈvju",
       "senses": [
         {
           "definition": "a place or an area that can be seen, and is usually beautiful",
@@ -255,6 +266,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Z3Jhc3M&hash=3b8f42ae9bc2cf092ac91d43c9a3ef062d317172&lang=en&cache-only=0",
       "phonetic_am_text": "grās",
       "img": "https://cdn.langeek.co/photo/15917/original/grass?type=jpeg",
+      "pronunciation": "ˈɡɹæs",
       "senses": [
         {
           "definition": "a plant with thin, short, and green upright leaves, commonly found in gardens, parks, etc.",
@@ -291,6 +303,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Y29hc3Q&hash=c71db3d023f6d7164eee906e33b7bc7c27cd812c&lang=en&cache-only=0",
       "phonetic_am_text": "kowst",
       "img": "https://cdn.langeek.co/photo/51128/original/coast?type=jpeg",
+      "pronunciation": "ˈkoʊst",
       "senses": [
         {
           "definition": "the land close to a sea, ocean, or lake",
@@ -327,10 +340,19 @@
       "phonetic_am": "https://tts.langeek.co/read?text=aGlsbA&hash=48476df7c72078e2c0d632e0f2b5286926b2bace&lang=en&cache-only=0",
       "phonetic_am_text": "hil",
       "img": "https://cdn.langeek.co/photo/49389/original/hill?type=jpeg",
+      "pronunciation": "ˈhɪɫ",
       "senses": [
         {
           "definition": "a naturally raised area of land that is higher than the land around it, often with a round shape",
           "examples": [
+            {
+              "cf": "",
+              "x": "From the top of the hill, you can see the whole city."
+            },
+            {
+              "cf": "",
+              "x": "She jogged up the hill every morning as part of her workout."
+            },
             {
               "cf": "",
               "x": "The cycling race included a tough hill climb."
@@ -338,6 +360,10 @@
             {
               "cf": "",
               "x": "The field was surrounded by rolling hills."
+            },
+            {
+              "cf": "",
+              "x": "The hill provided a natural boundary between the two towns."
             }
           ]
         }
@@ -351,6 +377,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=cm9jaw&hash=14572945f86261294e322eb029bb279dceec51c4&lang=en&cache-only=0",
       "phonetic_am_text": "raak",
       "img": "https://cdn.langeek.co/photo/51132/original/rock?type=jpeg",
+      "pronunciation": "ˈɹɑk",
       "senses": [
         {
           "definition": "a solid material forming part of the earth's surface, often made of one or more minerals",
@@ -387,6 +414,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=dmFsbGV5&hash=0d559d333701dbc561508ced9fc3e196da64798e&lang=en&cache-only=0",
       "phonetic_am_text": "vāli",
       "img": "https://cdn.langeek.co/photo/51302/original/valley?type=jpeg",
+      "pronunciation": "ˈvæɫi",
       "senses": [
         {
           "definition": "a low area of land between mountains or hills, often with a river flowing through it",
@@ -423,6 +451,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=bGFrZQ&hash=2dba95c14a3c0cab5e09962fbae9068e0078b6c9&lang=en&cache-only=0",
       "phonetic_am_text": "leik",
       "img": "https://cdn.langeek.co/photo/51118/original/?type=jpeg",
+      "pronunciation": "ˈɫeɪk",
       "senses": [
         {
           "definition": "a large area of water, surrounded by land",
@@ -459,6 +488,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIG9jZWFu&hash=d6551fe4b49f9b9ccd6f613dc9a5b7d68607a612&lang=en&cache-only=0",
       "phonetic_am_text": "owshēn",
       "img": "https://cdn.langeek.co/photo/51090/original/?type=jpeg",
+      "pronunciation": "ˈoʊʃən",
       "senses": [
         {
           "definition": "the great mass of salt water that covers most of the earth's surface",
@@ -491,6 +521,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=cmFpbmZvcmVzdA&hash=001ae1746b57c6ef91dcea17144489f1db6c30ef&lang=en&cache-only=0",
       "phonetic_am_text": "rainfawrēst",
       "img": "https://cdn.langeek.co/photo/15929/original/rainforest?type=jpeg",
+      "pronunciation": "ˈɹaɪnˌfɔɹəst",
       "senses": [
         {
           "definition": "‌a thick, tropical forest with tall trees and consistently heavy rainfall",
@@ -527,6 +558,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=d29vZA&hash=1cdc8208e79e7f55e6acea178afd0dd30d345d26&lang=en&cache-only=0",
       "phonetic_am_text": "wud",
       "img": "https://cdn.langeek.co/photo/39115/original/wood?type=jpeg",
+      "pronunciation": "ˈwʊd",
       "senses": [
         {
           "definition": "the hard material that the trunk and branches of a tree or shrub are made of, used for fuel or timber",
@@ -563,6 +595,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=YXJlYQ&hash=4b08657f242fcd36c7a96d88eb65c8b4c2695617&lang=en&cache-only=0",
       "phonetic_am_text": "eriē",
       "img": "https://cdn.langeek.co/photo/19468/original/region?type=jpeg",
+      "pronunciation": "ˈeriə",
       "senses": [
         {
           "definition": "a particular part or region of a city, country, or the world",
@@ -599,6 +632,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=cGF0aA&hash=b5e27ad65d9bccb7f4858f6129b2e00c5296edf1&lang=en&cache-only=0",
       "phonetic_am_text": "pāth",
       "img": "https://cdn.langeek.co/photo/23449/original/?type=jpeg",
+      "pronunciation": "ˈpæθ",
       "senses": [
         {
           "definition": "a way or track that is built or made by people walking over the same ground",
@@ -635,6 +669,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=bmF0dXJhbA&hash=cf732dd4fedb6f26ab9f3a04be7546b108cbef27&lang=en&cache-only=0",
       "phonetic_am_text": "nāchērēl",
       "img": "https://cdn.langeek.co/photo/23977/original/?type=jpeg",
+      "pronunciation": "ˈnætʃɝəɫ/, /ˈnætʃɹəɫ",
       "senses": [
         {
           "definition": "originating from or created by nature, not made or caused by humans",
@@ -667,6 +702,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzYXN0ZXI&hash=d840dc1d0057057c6ee7c8443fa59a3b0d7ab70b&lang=en&cache-only=0",
       "phonetic_am_text": "dizāstēr",
       "img": "https://cdn.langeek.co/photo/17603/original/disaster?type=jpeg",
+      "pronunciation": "dɪˈzæstɝ",
       "senses": [
         {
           "definition": "a sudden and unfortunate event that causes a great amount of death and destruction",
@@ -703,10 +739,32 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Zmxvb2Q&hash=bf7b0c5db4a02b4ad3ce249d6382a510671f7bd7&lang=en&cache-only=0",
       "phonetic_am_text": "flad",
       "img": "https://cdn.langeek.co/photo/36315/original/flood?type=jpeg",
+      "pronunciation": "ˈfɫəd",
       "senses": [
         {
           "definition": "the rising of a body of water that covers dry places and causes damage",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "After the flood, many people were left homeless."
+            },
+            {
+              "cf": "",
+              "x": "Rescue teams were sent to help those affected by the flood."
+            },
+            {
+              "cf": "",
+              "x": "The flood damage was estimated in the millions of dollars."
+            },
+            {
+              "cf": "",
+              "x": "The flood submerged the entire farmland under water."
+            },
+            {
+              "cf": "",
+              "x": "They had to evacuate their home because of the flood."
+            }
+          ]
         }
       ]
     },
@@ -718,6 +776,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=ZWFydGhxdWFrZQ&hash=f938f240266fb8b859a86301e717c49ba6e36cbe&lang=en&cache-only=0",
       "phonetic_am_text": "ērthkweik",
       "img": "https://cdn.langeek.co/photo/39615/original/earthquake?type=jpeg",
+      "pronunciation": "ˈɝθˌkweɪk",
       "senses": [
         {
           "definition": "the sudden movement and shaking of the earth's surface, usually causing damage",
@@ -754,6 +813,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=aHVycmljYW5l&hash=bc36635ca475bb82cfebc4df00da6f55fffe38af&lang=en&cache-only=0",
       "phonetic_am_text": "hērēkein",
       "img": "https://cdn.langeek.co/photo/39621/original/hurricane?type=jpeg",
+      "pronunciation": "ˈhəɹəˌkeɪnz/, /ˈhɝəˌkeɪn",
       "senses": [
         {
           "definition": "a very strong and destructive wind that moves in circles, often seen in the Caribbean",
@@ -790,6 +850,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=dG9ybmFkbw&hash=6f1e25d98d7fc61ff3365c0ebf07251120f2c8e1&lang=en&cache-only=0",
       "phonetic_am_text": "tawrneidow",
       "img": "https://cdn.langeek.co/photo/46812/original/tornado?type=jpeg",
+      "pronunciation": "tɔɹˈneɪˌdoʊ",
       "senses": [
         {
           "definition": "a strong and dangerous type of wind, which is formed like a turning cone, usually causing damage",
@@ -826,6 +887,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=YXZhbGFuY2hl&hash=32fee7b893148423a51c2cc8437c8b39c066c2a1&lang=en&cache-only=0",
       "phonetic_am_text": "āvēlānch",
       "img": "https://cdn.langeek.co/photo/51106/original/avalanche?type=jpeg",
+      "pronunciation": "ˈævəˌɫæntʃ",
       "senses": [
         {
           "definition": "large amounts of snow falling from mountains",
@@ -862,6 +924,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJvdWdodA&hash=3a449dd424e02d3b1947ce4495fc0d28e160b704&lang=en&cache-only=0",
       "phonetic_am_text": "drawt",
       "img": "https://cdn.langeek.co/photo/39613/original/drought?type=jpeg",
+      "pronunciation": "ˈdɹaʊt",
       "senses": [
         {
           "definition": "a long period of time when there is not much raining",
@@ -898,6 +961,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xpbWF0ZSBjaGFuZ2U&hash=f8281ee5521e6a97585ab155fa50a2c9d60b0c66&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/39201/original/climate-change?type=jpeg",
+      "pronunciation": "klˈaɪmət tʃˈeɪndʒ",
       "senses": [
         {
           "definition": "a permanent change in global or regional climate patterns, including temperature, wind, and rainfall",
@@ -934,6 +998,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGFwcGVu&hash=23605c54de98438cb48b48b40ce829886798af4a&lang=en&cache-only=0",
       "phonetic_am_text": "hāpēn",
       "img": "https://cdn.langeek.co/photo/30050/original/?type=jpeg",
+      "pronunciation": "ˈhæpən",
       "senses": [
         {
           "definition": "to come into existence by chance or as a consequence",
@@ -974,6 +1039,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=dGVycmlibGU&hash=ca3af0076692da17af5cff9ad18e20f26d5b7191&lang=en&cache-only=0",
       "phonetic_am_text": "terēbēl",
       "img": "https://cdn.langeek.co/photo/17307/original/awful?type=jpeg",
+      "pronunciation": "ˈtɛɹəbəɫ",
       "senses": [
         {
           "definition": "very serious and harmful",
@@ -1010,6 +1076,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=bm9ydGhlYXN0&hash=27498d6c85acf85a45c9b86b5941402220cd15a4&lang=en&cache-only=0",
       "phonetic_am_text": "nawrtheest",
       "img": "https://cdn.langeek.co/photo/17613/original/northeast?type=jpeg",
+      "pronunciation": "ˌnɔɹˈθist",
       "senses": [
         {
           "definition": "the direction midway between north and east",
@@ -1042,6 +1109,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=bm9ydGh3ZXN0&hash=6022356614d6b850ef8a4d92a2264b9248ac4fea&lang=en&cache-only=0",
       "phonetic_am_text": "nawrthwest",
       "img": "https://cdn.langeek.co/photo/17615/original/northwest?type=jpeg",
+      "pronunciation": "ˌnɔɹθˈwɛst",
       "senses": [
         {
           "definition": "the direction midway between north and west",
@@ -1078,6 +1146,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=c291dGhlYXN0&hash=e2ea01e4589f61b6905b9739e825326845d6d16a&lang=en&cache-only=0",
       "phonetic_am_text": "sawtheest",
       "img": "https://cdn.langeek.co/photo/17619/original/southeast?type=jpeg",
+      "pronunciation": "ˌsaʊˈθist",
       "senses": [
         {
           "definition": "the direction midway between south and east",
@@ -1110,6 +1179,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=c291dGh3ZXN0&hash=c311dae5895cef44b69d149ecd2de7770fbbd9a8&lang=en&cache-only=0",
       "phonetic_am_text": "sawthwest",
       "img": "https://cdn.langeek.co/photo/17621/original/southwest?type=jpeg",
+      "pronunciation": "ˌsaʊθˈwɛst",
       "senses": [
         {
           "definition": "the direction midway between south and west",
@@ -1146,6 +1216,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVzZXJ0&hash=b49bdd622ba1f3e37802b03a0063657b33b32885&lang=en&cache-only=0",
       "phonetic_am_text": "dezērt",
       "img": "https://cdn.langeek.co/photo/26978/original/?type=jpeg",
+      "pronunciation": "ˈdɛzɝt/, /dɪˈzɝt",
       "senses": [
         {
           "definition": "a large, dry area of land with very few plants, typically one covered with sand",
@@ -1182,6 +1253,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=d2F2ZQ&hash=af7c0cbb77e4c215c6577b12e49738b4c48a2260&lang=en&cache-only=0",
       "phonetic_am_text": "weiv",
       "img": "https://cdn.langeek.co/photo/26290/original/?type=jpeg",
+      "pronunciation": "ˈweɪv",
       "senses": [
         {
           "definition": "a raised body of water that moves along the surface of a sea, river, lake, etc.",

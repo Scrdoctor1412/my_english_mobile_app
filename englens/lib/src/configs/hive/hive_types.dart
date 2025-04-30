@@ -10,4 +10,8 @@ class HiveTypes {
   static const topic = 6;
   static const lesson = 7;
   static const levelBased = 8;
+  static const idioms = 9;
+  static const collocations = 10;
+  static const engProverbs = 11;
+  static const phrasalVerbs = 12;
 }

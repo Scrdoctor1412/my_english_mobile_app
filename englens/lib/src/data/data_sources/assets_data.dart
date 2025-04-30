@@ -1,7 +1,11 @@
 import 'dart:convert';
 
+import 'package:englens/src/data/models/collocations.dart';
+import 'package:englens/src/data/models/eng_proverbs.dart';
+import 'package:englens/src/data/models/idioms.dart';
 import 'package:englens/src/data/models/lesson.dart';
 import 'package:englens/src/data/models/level_based.dart';
+import 'package:englens/src/data/models/phrasal_verbs.dart';
 import 'package:englens/src/data/models/topic.dart';
 import 'package:englens/src/data/models/word.dart';
 import 'package:flutter/foundation.dart';
@@ -15,6 +19,14 @@ abstract interface class AssetsData extends GetxController {
   Future<List<Topic>> getAllTopics();
   Future<List<LevelBased>> getAllLevelBased();
   Future<List<Lesson>> getAllLevelBasedLesson(String level);
+  Future<List<Idioms>> getAllIdioms();
+  Future<List<Collocations>> getAllCollocations();
+  Future<List<EngProverbs>> getAllEngProverbs();
+  Future<List<PhrasalVerbs>> getAllPhrasalVerbs();
+  Future<List<Lesson>> getAllIdiomsLesson(String topic);
+  Future<List<Lesson>> getAllCollocationsLesson(String topic);
+  Future<List<Lesson>> getAllEngProverbsLesson(String topic);
+  Future<List<Lesson>> getAllPhrasalVerbsLesson(String topic);
 }
 
 class AssetsDataImpl extends GetxController implements AssetsData {
@@ -201,5 +213,249 @@ class AssetsDataImpl extends GetxController implements AssetsData {
     // TODO: implement getAllLevelBasedLesson
     // throw UnimplementedError();
     return await parseLevelBasedLessons(level);
+  }
+
+  @override
+  Future<List<Collocations>> getAllCollocations() async {
+    List<String> topics = [
+      "collocations_of_be_place_put_and_more",
+      "collocations_of_do_set_go",
+      "collocations_of_give_keep_come",
+      "collocations_of_make_take_have",
+      "collocations_of_pay_run_break_and_more",
+      "collocations_with_other_verbs",
+      "compound_adverbs",
+      "compound_prepositions",
+    ];
+    List<Collocations> collocations = [];
+    for (var topic in topics) {
+      var lessons = await getAllCollocationsLesson(topic);
+      Collocations collocationsModel = Collocations(
+        title: topic,
+        lessons: lessons,
+      );
+      collocations.add(collocationsModel);
+    }
+    return collocations;
+  }
+
+  @override
+  Future<List<Lesson>> getAllCollocationsLesson(String topic) async {
+    // return await compute(parseCollocationsLessons, topic);
+    return await parseCollocationsLessons(topic);
+  }
+
+  Future<List<Lesson>> parseCollocationsLessons(String topic) async {
+    var collocations_data = {
+      "collocations_of_be_place_put_and_more": 6,
+      "collocations_of_do_set_go": 6,
+      "collocations_of_give_keep_come": 5,
+      "collocations_of_make_take_have": 9,
+      "collocations_of_pay_run_break_and_more": 4,
+      "collocations_with_other_verbs": 7,
+      "compound_adverbs": 8,
+      "compound_prepositions": 10,
+    };
+    final end = collocations_data[topic] ?? 0;
+    final path = 'assets/json/expressions/collocations/$topic';
+    final jsonStrings = await Future.wait(
+      List.generate(
+        end + 1,
+        (i) => rootBundle.loadString('$path/lesson_$i.json'),
+      ),
+    );
+    return compute(_parseLessons, jsonStrings);
+  }
+
+  @override
+  Future<List<EngProverbs>> getAllEngProverbs() async {
+    List<String> topics = [
+      "behavior_attitude_approach",
+      "daily_life",
+      "human_relationships",
+      "human_traits_qualities",
+      "knowledge_wisdom",
+      "notions_feelings",
+      "outcome_impact",
+      "perseverance",
+      "qualities",
+      "situations_states",
+      "social_interaction",
+      "society_law_politics",
+      "virtue_vice",
+      "wealth_success",
+    ];
+
+    List<EngProverbs> engProverbs = [];
+    for (var topic in topics) {
+      var lessons = await getAllEngProverbsLesson(topic);
+      EngProverbs engProverbsModel = EngProverbs(
+        title: topic,
+        lessons: lessons,
+      );
+      engProverbs.add(engProverbsModel);
+    }
+    return engProverbs;
+  }
+
+  @override
+  Future<List<Lesson>> getAllEngProverbsLesson(String topic) {
+    // return compute(parseEngProverbsLessons, topic);
+    return parseEngProverbsLessons(topic);
+  }
+
+  Future<List<Lesson>> parseEngProverbsLessons(String topic) async {
+    var topic_categories = {
+      "behavior_attitude_approach": 17,
+      "daily_life": 6,
+      "human_relationships": 6,
+      "human_traits_qualities": 9,
+      "knowledge_wisdom": 10,
+      "notions_feelings": 9,
+      "outcome_impact": 6,
+      "perseverance": 8,
+      "qualities": 10,
+      "situations_states": 9,
+      "social_interaction": 8,
+      "society_law_politics": 7,
+      "virtue_vice": 6,
+      "wealth_success": 9,
+    };
+    final end = topic_categories[topic] ?? 0;
+    final path = 'assets/json/expressions/eng_proverbs/$topic';
+    final jsonStrings = await Future.wait(
+      List.generate(
+          end + 1, (i) => rootBundle.loadString('$path/lesson_$i.json')),
+    );
+    return compute(_parseLessons, jsonStrings);
+  }
+
+  @override
+  Future<List<Idioms>> getAllIdioms() async {
+    List<String> topics = [
+      "amounts",
+      "behavior_approach",
+      "certainty_possibility",
+      "danger",
+      "decision_control",
+      "describing_people",
+      "describing_qualities",
+      "difficulty",
+      "everyday_life",
+      "failure",
+      "feelings",
+      "influence_involvement",
+      "interactions",
+      "knowledge_understanding",
+      "opinion",
+      "perseverance",
+      "personality",
+      "relationship",
+      "society_law_politics",
+      "success",
+      "time",
+      "truth_secrecy_deception",
+      "work_money",
+    ];
+    List<Idioms> idioms = [];
+    for (var topic in topics) {
+      var lessons = await getAllIdiomsLesson(topic);
+      Idioms idiomsModel = Idioms(title: topic, lessons: lessons);
+      idioms.add(idiomsModel);
+    }
+    return idioms;
+  }
+
+  @override
+  Future<List<Lesson>> getAllIdiomsLesson(String topic) async {
+    return await parseIdiomsLessons(topic);
+  }
+
+  Future<List<Lesson>> parseIdiomsLessons(String topic) async {
+    var vocabulary_categories = {
+      "amounts": 6,
+      "behavior_approach": 16,
+      "certainty_possibility": 10,
+      "danger": 8,
+      "decision_control": 9,
+      "describing_people": 9,
+      "describing_qualities": 15,
+      "difficulty": 10,
+      "everyday_life": 12,
+      "failure": 10,
+      "feelings": 11,
+      "influence_involvement": 11,
+      "interactions": 12,
+      "knowledge_understanding": 12,
+      "opinion": 10,
+      "perseverance": 8,
+      "personality": 11,
+      "relationship": 8,
+      "society_law_politics": 11,
+      "success": 11,
+      "time": 10,
+      "truth_secrecy_deception": 10,
+      "work_money": 11
+    };
+
+    final end = vocabulary_categories[topic] ?? 0;
+    final path = 'assets/json/expressions/idioms/$topic';
+    final jsonStrings = await Future.wait(
+      List.generate(
+        end + 1,
+        (i) => rootBundle.loadString('$path/lesson_$i.json'),
+      ),
+    );
+    return await compute(_parseLessons, jsonStrings);
+  }
+
+  @override
+  Future<List<PhrasalVerbs>> getAllPhrasalVerbs() async {
+    List<String> topic = [
+      "phrasal_verbs_using_around_over_along",
+      "phrasal_verbs_using_back_through_with_at_by",
+      "phrasal_verbs_using_down_away",
+      "phrasal_verbs_using_into_to_about_for",
+      "phrasal_verbs_using_off_in",
+      "phrasal_verbs_using_on_upon",
+      "phrasal_verbs_using_out",
+      "phrasal_verbs_using_together_against_apart_others",
+      "phrasal_verbs_using_up",
+    ];
+    List<PhrasalVerbs> phrasalVerbs = [];
+    for (var topic in topic) {
+      var lessons = await getAllPhrasalVerbsLesson(topic);
+      PhrasalVerbs phrasalVerb = PhrasalVerbs(title: topic, lessons: lessons);
+      phrasalVerbs.add(phrasalVerb);
+    }
+    return phrasalVerbs;
+  }
+
+  @override
+  Future<List<Lesson>> getAllPhrasalVerbsLesson(String topic) async {
+    return parsePhrasalVerbsLessons(topic);
+  }
+
+  Future<List<Lesson>> parsePhrasalVerbsLessons(String topic) async {
+    var phrasal_verbs = {
+      "phrasal_verbs_using_around_over_along": 9,
+      "phrasal_verbs_using_back_through_with_at_by": 9,
+      "phrasal_verbs_using_down_away": 9,
+      "phrasal_verbs_using_into_to_about_for": 9,
+      "phrasal_verbs_using_off_in": 12,
+      "phrasal_verbs_using_on_upon": 9,
+      "phrasal_verbs_using_out": 14,
+      "phrasal_verbs_using_together_against_apart_others": 10,
+      "phrasal_verbs_using_up": 21
+    };
+    final end = phrasal_verbs[topic] ?? 0;
+    final path = 'assets/json/expressions/phrasal_verbs/$topic';
+    final jsonStrings = await Future.wait(
+      List.generate(
+        end + 1,
+        (i) => rootBundle.loadString('$path/lesson_$i.json'),
+      ),
+    );
+    return await compute(_parseLessons, jsonStrings);
   }
 }

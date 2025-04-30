@@ -3,7 +3,11 @@ import 'package:englens/src/data/models/user_internal.dart';
 import 'package:englens/src/service/firebase/auth/auth_service.dart';
 import 'package:englens/src/ui/screens/english_handbook/english_handbook_screen.dart';
 import 'package:englens/src/ui/screens/english_handbook/english_handbook_screen_viewmodel.dart';
+import 'package:englens/src/ui/screens/study/expressions/collocations/collocations_screen.dart';
+import 'package:englens/src/ui/screens/study/expressions/eng_proverbs/eng_proverbs_screen.dart';
 import 'package:englens/src/ui/screens/study/expressions/expressions_screen.dart';
+import 'package:englens/src/ui/screens/study/expressions/idioms/idioms_screen.dart';
+import 'package:englens/src/ui/screens/study/expressions/phrasal_verbs/phrasal_verbs_screen.dart';
 import 'package:englens/src/ui/screens/study/flashcards/flashcards_screen.dart';
 import 'package:englens/src/ui/screens/study/grammar/grammar_screen.dart';
 import 'package:englens/src/ui/screens/study/pronunciation/pronunciation_screen.dart';
@@ -134,6 +138,27 @@ class AppRouter {
       name: LevelBasedScreen.routeName,
       page: () => LevelBasedScreen(),
       binding: GetBinding(LevelBasedScreen.routeName),
+    ),
+
+    GetPage(
+      name: IdiomsScreen.routeName,
+      page: () => IdiomsScreen(),
+      binding: GetBinding(IdiomsScreen.routeName),
+    ),
+    GetPage(
+      name: CollocationsScreen.routeName,
+      page: () => CollocationsScreen(),
+      binding: GetBinding(CollocationsScreen.routeName),
+    ),
+    GetPage(
+      name: EngProverbsScreen.routeName,
+      page: () => EngProverbsScreen(),
+      binding: GetBinding(EngProverbsScreen.routeName),
+    ),
+    GetPage(
+      name: PhrasalVerbsScreen.routeName,
+      page: () => PhrasalVerbsScreen(),
+      binding: GetBinding(PhrasalVerbsScreen.routeName),
     ),
 
     //Word search screen

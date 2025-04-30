@@ -35,6 +35,9 @@ class Word {
   @HiveField(8)
   String? img;
 
+  @HiveField(9)
+  String? pronunciation;
+
   Word(
       {required this.word,
       required this.pos,
@@ -44,7 +47,8 @@ class Word {
       required this.phoneticAmText,
       required this.senses,
       this.index = 0,
-      this.img = ""});
+      this.img = "",
+      this.pronunciation});
 
   // Chuyển từ JSON String sang WordEntry
   factory Word.fromJson(Map<String, dynamic> json) {
@@ -59,6 +63,7 @@ class Word {
       senses: (json["senses"] as List).map((e) => Sense.fromMap(e)).toList(),
       index: json["index"],
       img: json["img"] ?? "",
+      pronunciation: json["pronunciation"] ?? "",
     );
   }
 
@@ -74,6 +79,7 @@ class Word {
       "senses": senses.map((e) => e.toMap()).toList(),
       "index": index,
       "img": img,
+      "pronunciation": pronunciation,
     };
   }
 

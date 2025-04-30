@@ -1,5 +1,9 @@
 import 'package:englens/src/configs/hive/app_hive.dart';
+import 'package:englens/src/data/models/collocations.dart';
+import 'package:englens/src/data/models/eng_proverbs.dart';
+import 'package:englens/src/data/models/idioms.dart';
 import 'package:englens/src/data/models/level_based.dart';
+import 'package:englens/src/data/models/phrasal_verbs.dart';
 import 'package:englens/src/data/models/schedule_notification.dart';
 import 'package:englens/src/data/models/topic.dart';
 import 'package:englens/src/data/models/word.dart';
@@ -26,6 +30,22 @@ abstract interface class LocalData extends GetxController {
   List<LevelBased> getLevelBased();
 
   Future<void> saveLevelBased(List<LevelBased> levelBased);
+
+  List<Idioms> getIdioms();
+
+  Future<void> saveIdioms(List<Idioms> idioms);
+
+  List<Collocations> getCollocations();
+
+  Future<void> saveCollocations(List<Collocations> collocations);
+
+  List<EngProverbs> getEngProverbs();
+
+  Future<void> saveEngProverbs(List<EngProverbs> engProverbs);
+
+  List<PhrasalVerbs> getPhrasalVerbs();
+
+  Future<void> savePhrasalVerbs(List<PhrasalVerbs> phrasalVerbs);
 }
 
 class HiveDatabase extends GetxController implements LocalData {
@@ -103,6 +123,62 @@ class HiveDatabase extends GetxController implements LocalData {
     await _appHive.levelBaseBox.putAll(Map.fromEntries(
       levelBased.map(
         (levelBased) => MapEntry(levelBased.title, levelBased),
+      ),
+    ));
+  }
+
+  @override
+  List<Collocations> getCollocations() {
+    return _appHive.collocationsBox.values.toList();
+  }
+
+  @override
+  List<EngProverbs> getEngProverbs() {
+    return _appHive.engProverbsBox.values.toList();
+  }
+
+  @override
+  List<Idioms> getIdioms() {
+    return _appHive.idiomsBox.values.toList();
+  }
+
+  @override
+  List<PhrasalVerbs> getPhrasalVerbs() {
+    return _appHive.phrasalVerbs.values.toList();
+  }
+
+  @override
+  Future<void> saveCollocations(List<Collocations> collocations) async {
+    await _appHive.collocationsBox.putAll(Map.fromEntries(
+      collocations.map(
+        (collocations) => MapEntry(collocations.title, collocations),
+      ),
+    ));
+  }
+
+  @override
+  Future<void> saveEngProverbs(List<EngProverbs> engProverbs) async {
+    await _appHive.engProverbsBox.putAll(Map.fromEntries(
+      engProverbs.map(
+        (engProverbs) => MapEntry(engProverbs.title, engProverbs),
+      ),
+    ));
+  }
+
+  @override
+  Future<void> saveIdioms(List<Idioms> idioms) async {
+    await _appHive.idiomsBox.putAll(Map.fromEntries(
+      idioms.map(
+        (idioms) => MapEntry(idioms.title, idioms),
+      ),
+    ));
+  }
+
+  @override
+  Future<void> savePhrasalVerbs(List<PhrasalVerbs> phrasalVerbs) async {
+    await _appHive.phrasalVerbs.putAll(Map.fromEntries(
+      phrasalVerbs.map(
+        (phrasalVerbs) => MapEntry(phrasalVerbs.title, phrasalVerbs),
       ),
     ));
   }

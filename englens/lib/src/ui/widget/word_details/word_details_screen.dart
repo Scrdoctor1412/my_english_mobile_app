@@ -62,7 +62,7 @@ class WordDetailsScreen extends StatelessWidget {
                 ),
                 const SizedBox(height: 12),
                 Text(
-                  '/${word.phoneticText}/',
+                  '/${word.pronunciation}/',
                   style: TextStyle(
                     fontSize: 24,
                     color: Colors.grey,

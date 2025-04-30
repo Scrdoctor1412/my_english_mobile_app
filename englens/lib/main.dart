@@ -1,5 +1,6 @@
 import 'package:englens/src/app.dart';
 import 'package:englens/src/configs/di.dart';
+import 'package:englens/src/data/repositories/expressions_repository.dart';
 import 'package:englens/src/data/repositories/level_based_repository.dart';
 import 'package:englens/src/data/repositories/oxford_words_repository.dart';
 import 'package:englens/src/data/repositories/topics_repository.dart';
@@ -24,6 +25,7 @@ void main() async {
   await Get.find<OxfordWordsRepositoryImpl>().initData();
   await Get.find<TopicsRepositoryImpl>().initData();
   await Get.find<LevelBasedRepositoryImpl>().initData();
+  await Get.find<ExpressionsRepositoryImpl>().initData();
 
   // Set System UI overlay style
   SystemChrome.setSystemUIOverlayStyle(
