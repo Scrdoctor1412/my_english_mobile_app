@@ -10,6 +10,8 @@ class ForgetPasswordScreenViewmodel extends GetViewModelBase {
   void onTapResetPassword() async {
     try {
       await authController.resetPassword(emailController.text);
-    } catch (e) {}
+    } catch (e) {
+      print(e);
+    }
   }
 }

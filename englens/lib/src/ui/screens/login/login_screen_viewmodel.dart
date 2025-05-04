@@ -1,6 +1,7 @@
 import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/service/firebase/auth/auth_service.dart';
 import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/ui/screens/login/register/register_screen.dart';
 import 'package:englens/src/ui/widget/loading_dialog.dart';
 import 'package:englens/src/ui/screens/login/forget_password/forget_password_screen.dart';
 import 'package:englens/src/ui/screens/tabs/tabs_screen.dart';
@@ -23,6 +24,10 @@ class LoginScreenViewmodel extends GetViewModelBase {
 
   void onTapToForgetPasswordScreen() {
     Get.toNamed(ForgetPasswordScreen.routeName);
+  }
+
+  void onTapToResgisterScreen() {
+    Get.toNamed(RegisterScreen.routeName);
   }
 
   void onLoginWithGoogle() async {

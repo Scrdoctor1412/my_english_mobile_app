@@ -1,5 +1,6 @@
 import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/screens/login/login_screen_viewmodel.dart';
+import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -160,6 +161,31 @@ class LoginScreen extends StatelessWidget {
                           fontWeight: FontWeight.w700,
                         ),
                       ),
+                    ),
+                  ),
+                  const SizedBox(height: 12),
+                  RichText(
+                    text: TextSpan(
+                      children: [
+                        TextSpan(
+                          text: 'Không có tài khoản?',
+                          style: TextStyle(color: Colors.black),
+                        ),
+                        TextSpan(
+                          text: " ",
+                          style: TextStyle(color: Colors.black),
+                        ),
+                        TextSpan(
+                          text: "Đăng ký",
+                          style: TextStyle(
+                            color: ThemePrimary.primaryBlue,
+                          ),
+                          recognizer: TapGestureRecognizer()
+                            ..onTap = () {
+                              controller.onTapToResgisterScreen();
+                            },
+                        ),
+                      ],
                     ),
                   ),
                   const SizedBox(height: 36),

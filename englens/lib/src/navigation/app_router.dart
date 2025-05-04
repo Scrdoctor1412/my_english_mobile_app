@@ -3,6 +3,7 @@ import 'package:englens/src/data/models/user_internal.dart';
 import 'package:englens/src/service/firebase/auth/auth_service.dart';
 import 'package:englens/src/ui/screens/english_handbook/english_handbook_screen.dart';
 import 'package:englens/src/ui/screens/english_handbook/english_handbook_screen_viewmodel.dart';
+import 'package:englens/src/ui/screens/login/register/register_screen.dart';
 import 'package:englens/src/ui/screens/study/expressions/collocations/collocations_screen.dart';
 import 'package:englens/src/ui/screens/study/expressions/eng_proverbs/eng_proverbs_screen.dart';
 import 'package:englens/src/ui/screens/study/expressions/expressions_screen.dart';
@@ -16,6 +17,7 @@ import 'package:englens/src/ui/screens/study/vocab/topic_related/topic_related_s
 import 'package:englens/src/ui/screens/study/vocab/vocab_screen.dart';
 import 'package:englens/src/ui/widget/lesson_details/lesson_details_screen.dart';
 import 'package:englens/src/ui/widget/lesson_details/lessons_details_screen_viewmodel.dart';
+import 'package:englens/src/ui/widget/my_wordlists/my_wordlists_screen.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/home/home_screen.dart';
@@ -61,6 +63,11 @@ class AppRouter {
       name: ForgetPasswordScreen.routeName,
       page: () => ForgetPasswordScreen(),
       binding: GetBinding(ForgetPasswordScreen.routeName),
+    ),
+    GetPage(
+      name: RegisterScreen.routeName,
+      page: () => RegisterScreen(),
+      binding: GetBinding(RegisterScreen.routeName),
     ),
 
     //Tabs screen
@@ -181,6 +188,14 @@ class AppRouter {
       page: () => WordDetailsScreen(),
       binding: GetBinding(WordDetailsScreen.routeName),
     ),
+
+		//My wordlist screen
+    GetPage(
+      name: MyWordlistsScreen.routeName,
+      page: () => MyWordlistsScreen(),
+      binding: GetBinding(MyWordlistsScreen.routeName),
+    ),
+
   ];
 }
 

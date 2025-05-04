@@ -1,3 +1,4 @@
+import 'package:auto_size_text/auto_size_text.dart';
 import 'package:englens/src/data/models/word.dart';
 import 'package:englens/src/utils/helper.dart';
 import 'package:flutter/material.dart';
@@ -52,10 +53,10 @@ class EnglishCard extends StatelessWidget {
         children: [
           Row(
             children: [
-              Text(
+              AutoSizeText(
                 word.word,
                 style: TextStyle(
-                  fontSize: 30,
+                  fontSize: 28,
                   fontWeight: FontWeight.w600,
                 ),
               ),
@@ -81,12 +82,13 @@ class EnglishCard extends StatelessWidget {
           ),
           Row(
             children: [
-              IconButton(
-                onPressed: () {
-                  onTapPlayAudio(audioUrl: word.phonetic);
-                },
-                icon: Icon(Icons.volume_up_rounded),
-              ),
+              // IconButton(
+              //   onPressed: () {
+              //     onTapPlayAudio(audioUrl: word.phonetic);
+              //   },
+              //   icon: Icon(Icons.volume_up_rounded),
+              // ),
+              Icon(Icons.volume_up_rounded),
               // Text('/ə/'),
               Text(word.phoneticText),
               IconButton(
@@ -99,11 +101,13 @@ class EnglishCard extends StatelessWidget {
               Text(word.phoneticAmText),
             ],
           ),
-          Text(
-            // 'used to show that somebody/something is a member of a group or profession',
-            word.senses[0].definition,
-            style: TextStyle(
-              fontSize: 15,
+          Expanded(
+            child: AutoSizeText(
+              // 'used to show that somebody/something is a member of a group or profession',
+              word.senses[0].definition,
+              // style: TextStyle(
+              //   fontSize: 15,
+              // ),
             ),
           ),
         ],

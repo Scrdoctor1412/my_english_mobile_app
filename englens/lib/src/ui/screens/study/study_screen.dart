@@ -126,24 +126,28 @@ class StudyScreen extends StatelessWidget {
                             toScreen: () =>
                                 Get.toNamed(FlashcardsScreen.routeName),
                           ),
-                          ClipRRect(
-                            clipBehavior: Clip.antiAlias,
-                            borderRadius: BorderRadius.circular(16),
-                            child: SizedBox(
-                              width: 134,
-                              height: 134,
-                              child: Image.asset(
-                                'assets/images/study/conversation_1.png',
-                                fit: BoxFit.scaleDown,
-                              ),
-                            ),
-                          ),
+                          // ClipRRect(
+                          //   clipBehavior: Clip.antiAlias,
+                          //   borderRadius: BorderRadius.circular(16),
+                          //   child: SizedBox(
+                          //     width: 134,
+                          //     height: 134,
+                          //     child: Image.asset(
+                          //       'assets/images/study/conversation_1.png',
+                          //       fit: BoxFit.scaleDown,
+                          //     ),
+                          //   ),
+                          // ),
+                          // const SizedBox(
+                          //   height: 44,
+                          // ),
                         ],
                       ),
                     ),
                   ],
                 ),
               ),
+              // const SizedBox(height: 46),
             ],
           );
         }
@@ -151,6 +155,7 @@ class StudyScreen extends StatelessWidget {
         _bodyBlock() {
           return Container(
             width: screenWdith,
+            // height: screenHeight * 1.26,
             // height: 200,
             // height: 70,
             decoration: BoxDecoration(
@@ -227,6 +232,7 @@ class StudyScreen extends StatelessWidget {
                     padding:
                         const EdgeInsets.symmetric(horizontal: 9, vertical: 12),
                     child: _bodyBlock(),
+                    // child: Container(height: screenHeight, child: _bodyBlock()),
                   ),
                 ),
               ],

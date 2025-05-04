@@ -1,4 +1,5 @@
 import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/ui/widget/custom_search_bar.dart';
 import 'package:englens/src/ui/widget/english_card.dart';
 import 'package:englens/src/ui/screens/english_handbook/english_handbook_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/lesson_details/lesson_details_screen.dart';
@@ -28,109 +29,48 @@ class EnglishHandbookScreen extends StatelessWidget {
             actions: [
               IconButton(
                 onPressed: () {},
-                icon: Icon(Icons.more_vert),
+                icon: Icon(Icons.search),
               )
             ],
-            // bottom: PreferredSize(
-            //   preferredSize: const Size.fromHeight(60),
-            //   child: ClipRRect(
-            //     // clipBehavior: Clip.antiAlias,
-            //     child: Container(
-            //       height: 45,
-            //       // decoration: BoxDecoration(
-            //       //   color: Colors.white.withOpacity(0.2), // Nền chung mờ
-            //       //   borderRadius: BorderRadius.circular(25),
-            //       // ),
-            //       child: TabBar(
-            //         controller: controller.tabController,
-            //         padding: EdgeInsets.zero,
-            //         onTap: (value) {
-            //           controller.onTapChangeTabBarIndex(value);
-            //         },
-            //         indicator: BoxDecoration(
-            //           color: Color(0xfff1f0f6),
-            //           // color: Colors.white,
-            //           borderRadius: BorderRadius.only(
-            //             topLeft: Radius.circular(16),
-            //             topRight: Radius.circular(16),
-            //           ),
-            //           // border: Border(
-            //           //   bottom: BorderSide(),
-            //           // ),
-            //           // borderRadius: BorderRadius.circular(32),
-            //         ),
-            //         dividerColor: Colors.transparent,
-            //         indicatorSize: TabBarIndicatorSize.tab,
-            //         labelColor: ThemePrimary.successGreen,
-            //         unselectedLabelColor: Colors.white,
-            //         tabs: [
-            //           Container(
-            //             width: MediaQuery.of(context).size.width,
-            //             padding: EdgeInsets.symmetric(vertical: 6),
-            //             child: Column(
-            //               mainAxisAlignment: MainAxisAlignment.center,
-            //               children: [
-            //                 Text('Oxford 6000 Dictionary'),
-            //               ],
-            //             ),
-            //           ),
-            //           Container(
-            //             width: MediaQuery.of(context).size.width,
-            //             padding: EdgeInsets.symmetric(vertical: 6),
-            //             child: Column(
-            //               mainAxisAlignment: MainAxisAlignment.center,
-            //               children: [
-            //                 Text('Vocabs by Topics'),
-            //               ],
-            //             ),
-            //           ),
-            //         ],
-            //       ),
-            //     ),
-            //   ),
-            // ),
           );
         }
 
         _wordListTab() {
           return Column(
             mainAxisAlignment: MainAxisAlignment.center,
-            spacing: 10,
+            // spacing: 10,
             children: [
               // const SizedBox(
               //   height: 12,
               // ),
               Expanded(
-                child: Padding(
-                  padding: const EdgeInsets.symmetric(
-                    horizontal: 16,
-                    vertical: 12,
-                  ),
-                  child: ListView.separated(
-                    itemBuilder: (context, index) {
-                      return SizedBox(
-                        height: 230,
-                        child: InkWell(
-                          onTap: () {
-                            // print(index);
-                            Get.toNamed(
-                              WordDetailsScreen.routeName,
-                              arguments: WordDetailsScreenViewmodelArgs(
-                                lessonTitle: '',
-                                isFromLessonDetailsScreen: false,
-                                onlyWord: [controller.wordList[index]],
-                              ),
-                            );
-                          },
+                child: ListView.separated(
+                  itemBuilder: (context, index) {
+                    return SizedBox(
+                      height: 230,
+                      child: InkWell(
+                        onTap: () {
+                          // print(index);
+                          Get.toNamed(
+                            WordDetailsScreen.routeName,
+                            arguments: WordDetailsScreenViewmodelArgs(
+                              lessonTitle: '',
+                              isFromLessonDetailsScreen: false,
+                              onlyWord: [controller.wordList[index]],
+                            ),
+                          );
+                        },
+                        child: Padding(
+                          padding: const EdgeInsets.symmetric(vertical: 10),
                           child: EnglishCard(
                             word: controller.wordList[index],
                           ),
                         ),
-                      );
-                    },
-                    separatorBuilder: (context, index) => SizedBox(height: 20),
-                    itemCount: controller.wordList.length,
-                  ),
+                      ),
+                    );
+                  },
+                  separatorBuilder: (context, index) => SizedBox(),
+                  itemCount: controller.wordList.length,
                 ),
               )
             ],
@@ -138,67 +78,26 @@ class EnglishHandbookScreen extends StatelessWidget {
         }
 
         _body() {
-          // return TabBarView(
-          //   controller: controller.tabController,
-          //   children: [
-          //     _wordListTab(),
-          //     _wordListByTopicTab(),
-          //   ],
-          // );
-          return _wordListTab();
+          return Padding(
+            padding: const EdgeInsets.only(
+              left: 12,
+              right: 12,
+              top: 12,
+            ),
+            child: Column(
+              children: [
+                CustomSearchBar(),
+                Expanded(
+                  child: _wordListTab(),
+                ),
+              ],
+            ),
+          );
         }
 
         return Scaffold(
           appBar: _appBar(),
           body: _body(),
-          // floatingActionButtonLocation: ExpandableFab.location,
-          // floatingActionButton: ExpandableFab(
-          //   key: controller.key,
-          //   distance: 90,
-          //   openButtonBuilder: RotateFloatingActionButtonBuilder(
-          //     shape: const CircleBorder(),
-          //     backgroundColor: ThemePrimary.successGreen,
-          //     foregroundColor: Colors.white,
-          //     child: Icon(Icons.menu),
-          //   ),
-          //   closeButtonBuilder: FloatingActionButtonBuilder(
-          //     size: 56,
-          //     builder: (BuildContext context, void Function()? onPressed,
-          //         Animation<double> progress) {
-          //       return IconButton(
-          //         onPressed: onPressed,
-          //         icon: const Icon(
-          //           Icons.close,
-          //           size: 30,
-          //         ),
-          //       );
-          //     },
-          //   ),
-          //   children: [
-          //     FloatingActionButton.small(
-          //       backgroundColor: ThemePrimary.successGreen,
-          //       shape: const CircleBorder(),
-          //       heroTag: null,
-          //       child: const Icon(Icons.article),
-          //       onPressed: () {
-          //         const SnackBar snackBar = SnackBar(
-          //           content: Text("SnackBar"),
-          //         );
-          //         controller.scaffoldKey.currentState?.showSnackBar(snackBar);
-          //       },
-          //     ),
-          //     FloatingActionButton.small(
-          //       backgroundColor: ThemePrimary.successGreen,
-          //       shape: const CircleBorder(),
-          //       heroTag: null,
-          //       child: const Icon(Icons.text_fields),
-          //       onPressed: () {
-          //         // Navigator.of(context).push(MaterialPageRoute(
-          //         //     builder: ((context) => const NextPage())));
-          //       },
-          //     ),
-          //   ],
-          // ),
         );
       },
     );

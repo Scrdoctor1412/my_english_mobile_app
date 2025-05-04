@@ -1,3 +1,4 @@
+import 'package:auto_size_text/auto_size_text.dart';
 import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/lesson_details/lessons_details_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen.dart';
@@ -46,43 +47,57 @@ class LessonDetailsScreen extends StatelessWidget {
         _lessonItem(int index) {
           return Container(
             padding: const EdgeInsets.symmetric(horizontal: 12),
+            width: screenWidth,
             child: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
-                Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Text(
-                      // controller.lessons[0].title,
-                      'Lesson ${index + 1}',
-                      style: TextStyle(
-                        fontSize: 16,
-                      ),
+                Expanded(
+                  flex: 2,
+                  child: Container(
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Text(
+                          // controller.lessons[0].title,
+                          'Lesson ${index + 1}',
+                          style: TextStyle(
+                            fontSize: 16,
+                          ),
+                        ),
+                        const SizedBox(height: 8),
+                        AutoSizeText(
+                          // '${controller.lessons[0].wordList?.length} words',
+                          controller.lessons[index].title,
+                          style: TextStyle(
+                              fontSize: 16, fontWeight: FontWeight.w500),
+                          overflow: TextOverflow.ellipsis,
+                          maxLines: 2,
+                        ),
+                      ],
                     ),
-                    const SizedBox(height: 8),
-                    SizedBox(
-                      width: screenWidth * 0.75,
-                      child: Text(
-                        // '${controller.lessons[0].wordList?.length} words',
-                        controller.lessons[index].title,
-                        style: TextStyle(
-                            fontSize: 16, fontWeight: FontWeight.w500),
-                        overflow: TextOverflow.ellipsis,
-                      ),
-                    ),
-                  ],
+                  ),
                 ),
                 const Spacer(),
-                IconButton(
-                  onPressed: () {},
-                  icon: Icon(Icons.bookmark_add_outlined),
-                ),
-                // IconButton(
-                //   onPressed: () {},
-                //   icon: Icon(Icons.chevron_right),
-                // ),
-                Icon(
-                  Icons.chevron_right,
-                  // color: ThemePrimary.grey,
+                Expanded(
+                  flex: 1,
+                  child: Container(
+                    child: Row(
+                      children: [
+                        IconButton(
+                          onPressed: () {},
+                          icon: Icon(Icons.bookmark_add_outlined),
+                        ),
+                        // IconButton(
+                        //   onPressed: () {},
+                        //   icon: Icon(Icons.chevron_right),
+                        // ),
+                        Icon(
+                          Icons.chevron_right,
+                          // color: ThemePrimary.grey,
+                        ),
+                      ],
+                    ),
+                  ),
                 ),
               ],
             ),

@@ -4,6 +4,9 @@ import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/english_card.dart';
 import 'package:englens/src/ui/screens/home/home_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/home/word_search/word_search_screen.dart';
+import 'package:englens/src/ui/widget/my_wordlists/my_wordlists_screen.dart';
+import 'package:englens/src/ui/widget/word_details/word_details_screen.dart';
+import 'package:englens/src/ui/widget/word_details/word_details_screen_viewmodel.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -18,7 +21,7 @@ class HomeScreen extends StatelessWidget {
       builder: (controller) {
         controller.context = context;
         var screenWidth = MediaQuery.of(context).size.width;
-        // var screenHeight = MediaQuery.of(context).size.height;
+        var screenHeight = MediaQuery.of(context).size.height;
 
         _drawer() {
           return Drawer(
@@ -78,44 +81,49 @@ class HomeScreen extends StatelessWidget {
         }
 
         _userWordListBlock() {
-          return Container(
-            width: screenWidth / 2.3,
-            height: 75,
-            decoration: BoxDecoration(
-              color: Colors.white,
-              borderRadius: BorderRadius.circular(12),
-              boxShadow: [
-                BoxShadow(
-                  color: Colors.black.withAlpha(48),
-                  offset: Offset(0, 2),
-                  blurRadius: 10,
-                )
-              ],
-            ),
-            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Row(
-                  children: [
-                    Icon(
-                      Icons.folder_copy_outlined,
-                    ),
-                    const Spacer(),
-                    InkWell(
-                      child: Icon(Icons.add),
-                    ),
-                  ],
-                ),
-                const SizedBox(height: 10),
-                Text(
-                  'My Worldlists',
-                  style: TextStyle(
-                    fontSize: 16,
-                    fontWeight: FontWeight.w600,
+          return InkWell(
+            onTap: () {
+							Get.toNamed(MyWordlistsScreen.routeName);
+						},
+            child: Container(
+              width: screenWidth / 2.3,
+              height: 75,
+              decoration: BoxDecoration(
+                color: Colors.white,
+                borderRadius: BorderRadius.circular(12),
+                boxShadow: [
+                  BoxShadow(
+                    color: Colors.black.withAlpha(48),
+                    offset: Offset(0, 2),
+                    blurRadius: 10,
+                  )
+                ],
+              ),
+              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Row(
+                    children: [
+                      Icon(
+                        Icons.folder_copy_outlined,
+                      ),
+                      const Spacer(),
+                      InkWell(
+                        child: Icon(Icons.add),
+                      ),
+                    ],
                   ),
-                ),
-              ],
+                  const SizedBox(height: 10),
+                  Text(
+                    'My WordLists',
+                    style: TextStyle(
+                      fontSize: 16,
+                      fontWeight: FontWeight.w600,
+                    ),
+                  ),
+                ],
+              ),
             ),
           );
         }
@@ -179,203 +187,224 @@ class HomeScreen extends StatelessWidget {
 
         _body() {
           return SingleChildScrollView(
+            physics: AlwaysScrollableScrollPhysics(),
             padding: EdgeInsets.only(bottom: 20),
-            child: Stack(
-              // fit: StackFit.,
-              children: [
-                CustomPaint(
-                  size: Size(MediaQuery.of(context).size.width,
-                      MediaQuery.of(context).size.height),
-                  painter: RPSCustomPainter(),
-                ),
-                Positioned(
-                  top: 40,
-                  // right: 20,
-                  left: screenWidth * 0.78,
-                  child: Container(
-                    width: 60,
-                    height: 60,
-                    decoration: BoxDecoration(
-                      borderRadius: BorderRadius.circular(32),
-                      boxShadow: [
-                        BoxShadow(
-                          color: Colors.black.withAlpha(50),
-                          offset: Offset(1, 3),
-                          blurRadius: 5,
-                          spreadRadius: 1,
-                        ),
-                      ],
-                    ),
-                    child: ClipRRect(
-                      borderRadius: BorderRadius.circular(50),
-                      child: Image.asset('assets/images/launcher_icon.png'),
-                    ),
+            child: Container(
+              height: screenHeight * 1.055,
+              width: screenWidth,
+              child: Stack(
+                // fit: StackFit.,
+                children: [
+                  CustomPaint(
+                    size: Size(MediaQuery.of(context).size.width,
+                        MediaQuery.of(context).size.height),
+                    painter: RPSCustomPainter(),
                   ),
-                ),
-                Positioned(
-                  top: 50,
-                  left: 20,
-                  child: GestureDetector(
-                    onTap: () {
-                      // Scaffold.of(context).openDrawer();
-                      controller.scaffoldKey.currentState!.openDrawer();
-                    },
+                  Positioned(
+                    top: 40,
+                    // right: 20,
+                    left: screenWidth * 0.78,
                     child: Container(
-                      padding: const EdgeInsets.symmetric(
-                          vertical: 12, horizontal: 8),
+                      width: 60,
+                      height: 60,
                       decoration: BoxDecoration(
-                          color: Colors.white.withAlpha(90),
-                          borderRadius: BorderRadius.circular(12)),
-                      child: Icon(
-                        Icons.menu,
-                        color: Colors.white,
+                        borderRadius: BorderRadius.circular(32),
+                        boxShadow: [
+                          BoxShadow(
+                            color: Colors.black.withAlpha(50),
+                            offset: Offset(1, 3),
+                            blurRadius: 5,
+                            spreadRadius: 1,
+                          ),
+                        ],
+                      ),
+                      child: ClipRRect(
+                        borderRadius: BorderRadius.circular(50),
+                        child: Image.asset('assets/images/launcher_icon.png'),
                       ),
                     ),
                   ),
-                ),
-                Positioned(
-                  top: -16,
-                  left: 12,
-                  right: 12,
-                  child: Align(
-                    alignment: Alignment.center,
-                    child: SizedBox(
-                      // width: 330,
-                      height: 330,
-                      child: Image.asset('assets/images/welcome_logo.png'),
+                  Positioned(
+                    top: 50,
+                    left: 20,
+                    child: GestureDetector(
+                      onTap: () {
+                        Scaffold.of(context).openDrawer();
+                        controller.scaffoldKey.currentState!.openDrawer();
+                      },
+                      child: Container(
+                        padding: const EdgeInsets.symmetric(
+                            vertical: 12, horizontal: 8),
+                        decoration: BoxDecoration(
+                            color: Colors.white.withAlpha(90),
+                            borderRadius: BorderRadius.circular(12)),
+                        child: Icon(
+                          Icons.menu,
+                          color: Colors.white,
+                        ),
+                      ),
                     ),
                   ),
-                ),
-                Positioned.fill(
-                  top: 180,
-                  // right: ,
-                  child: Padding(
-                    padding: const EdgeInsets.symmetric(horizontal: 20),
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        // Text(
-                        //   'Welcome back, User!',
-                        //   style: TextStyle(
-                        //     color: Colors.white,
-                        //     fontSize: 30,
-                        //     fontWeight: FontWeight.w700,
-                        //   ),
-                        // ),
-                        const SizedBox(height: 20),
-                        Row(
-                          children: [
-                            _userWordListBlock(),
-                            const Spacer(),
-                            _dailyWordBlock(),
-                          ],
-                        ),
-                        const SizedBox(height: 20),
-                        Container(
-                          width: screenWidth,
-                          padding: const EdgeInsets.symmetric(vertical: 12),
-                          decoration: BoxDecoration(
-                            color: Colors.white,
-                            borderRadius: BorderRadius.circular(12),
-                            boxShadow: [
-                              BoxShadow(
-                                color: Colors.black.withAlpha(48),
-                                offset: Offset(0, 2),
-                                blurRadius: 10,
-                              )
-                            ],
-                          ),
-                          child: Column(
-                            crossAxisAlignment: CrossAxisAlignment.center,
-                            children: [
-                              Text(
-                                'How many words have you learn today?',
-                                style: TextStyle(
-                                  fontSize: 18,
-                                  fontWeight: FontWeight.w700,
-                                ),
-                                textAlign: TextAlign.center,
-                              ),
-                              const SizedBox(height: 20),
-                              Stack(
-                                alignment: Alignment.center,
+                  Positioned(
+                    top: -16,
+                    left: 12,
+                    right: 12,
+                    child: Align(
+                      alignment: Alignment.center,
+                      child: SizedBox(
+                        // width: 330,
+                        height: 330,
+                        child: Image.asset('assets/images/welcome_logo.png'),
+                      ),
+                    ),
+                  ),
+                  Positioned.fill(
+                    top: 180,
+                    // right: ,
+                    child: Padding(
+                      padding: const EdgeInsets.symmetric(horizontal: 20),
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          const SizedBox(height: 20),
+                          Flexible(
+                            flex: 1,
+                            child: Container(
+                              child: Row(
                                 children: [
-                                  SizedBox(
-                                    width: 130,
-                                    height: 130,
-                                    child: CircularProgressIndicator(
-                                      strokeWidth: 10,
-                                      color: ThemePrimary.primaryOrange,
-                                      backgroundColor:
-                                          ThemePrimary.grey.withAlpha(50),
-                                      strokeCap: StrokeCap.round,
-                                      value: 0.5,
+                                  _userWordListBlock(),
+                                  const Spacer(),
+                                  _dailyWordBlock(),
+                                ],
+                              ),
+                            ),
+                          ),
+
+                          const SizedBox(height: 20),
+                          Flexible(
+                            flex: 3,
+                            child: Container(
+                              width: screenWidth,
+                              height: screenHeight * 0.75,
+                              padding: const EdgeInsets.symmetric(vertical: 12),
+                              decoration: BoxDecoration(
+                                color: Colors.white,
+                                borderRadius: BorderRadius.circular(12),
+                                boxShadow: [
+                                  BoxShadow(
+                                    color: Colors.black.withAlpha(48),
+                                    offset: Offset(0, 2),
+                                    blurRadius: 10,
+                                  )
+                                ],
+                              ),
+                              child: Column(
+                                crossAxisAlignment: CrossAxisAlignment.center,
+                                children: [
+                                  Text(
+                                    'How many words have you learn today?',
+                                    style: TextStyle(
+                                      fontSize: 18,
+                                      fontWeight: FontWeight.w700,
+                                    ),
+                                    textAlign: TextAlign.center,
+                                  ),
+                                  const SizedBox(height: 20),
+                                  Stack(
+                                    alignment: Alignment.center,
+                                    children: [
+                                      SizedBox(
+                                        width: 130,
+                                        height: 130,
+                                        child: CircularProgressIndicator(
+                                          strokeWidth: 10,
+                                          color: ThemePrimary.primaryOrange,
+                                          backgroundColor:
+                                              ThemePrimary.grey.withAlpha(50),
+                                          strokeCap: StrokeCap.round,
+                                          value: 0.5,
+                                        ),
+                                      ),
+                                      Text(
+                                        '2/5',
+                                        style: TextStyle(
+                                          fontSize: 40,
+                                          letterSpacing: 3,
+                                          fontWeight: FontWeight.w600,
+                                        ),
+                                      ),
+                                    ],
+                                  ),
+                                  const SizedBox(height: 15),
+                                ],
+                              ),
+                            ),
+                          ),
+                          const SizedBox(height: 26),
+                          Flexible(
+                            flex: 3,
+                            child: Container(
+                              // height: screenHeight * 0.4,
+                              child: Column(
+                                children: [
+                                  Text(
+                                    'Have you known these 5 words?',
+                                    style: TextStyle(
+                                      fontSize: 18,
+                                      fontWeight: FontWeight.w700,
                                     ),
                                   ),
-                                  Text(
-                                    '2/5',
-                                    style: TextStyle(
-                                      fontSize: 40,
-                                      letterSpacing: 3,
-                                      fontWeight: FontWeight.w600,
+                                  const SizedBox(height: 20),
+                                  Expanded(
+                                    child: ListView.separated(
+                                      shrinkWrap: true,
+                                      scrollDirection: Axis.horizontal,
+                                      // physics: NeverScrollableScrollPhysics(),
+                                      itemBuilder: (context, index) {
+                                        return SizedBox(
+                                          // height: 230,
+                                          width: screenWidth * 0.9,
+                                          child: InkWell(
+                                            onTap: () => Get.toNamed(
+                                              WordDetailsScreen.routeName,
+                                              arguments:
+                                                  WordDetailsScreenViewmodelArgs(
+                                                isFromLessonDetailsScreen:
+                                                    false,
+                                                onlyWord: [
+                                                  controller
+                                                      .listRandomWords[index]
+                                                ],
+                                              ),
+                                            ),
+                                            child: EnglishCard(
+                                                word: controller
+                                                    .listRandomWords[index]),
+                                          ),
+                                        );
+                                      },
+                                      separatorBuilder: (context, index) =>
+                                          SizedBox(
+                                        width: 20,
+                                      ),
+                                      itemCount:
+                                          controller.listRandomWords.length,
                                     ),
                                   ),
                                 ],
                               ),
-                              const SizedBox(height: 15),
-                            ],
-                          ),
-                        ),
-                        const SizedBox(height: 26),
-                        Text(
-                          'Have you known these 5 words?',
-                          style: TextStyle(
-                            fontSize: 18,
-                            fontWeight: FontWeight.w700,
-                          ),
-                        ),
-                        const SizedBox(height: 20),
-                        Expanded(
-                          child: ListView.separated(
-                            shrinkWrap: true,
-                            scrollDirection: Axis.horizontal,
-                            // physics: NeverScrollableScrollPhysics(),
-                            itemBuilder: (context, index) {
-                              return SizedBox(
-                                height: 230,
-                                child: EnglishCard(
-                                  word: Word(
-                                    word: 'a',
-                                    pos: 'indefinite article',
-                                    phonetic: '',
-                                    phoneticText: '/a/',
-                                    phoneticAm: '',
-                                    phoneticAmText: '/a/',
-                                    senses: [
-                                      Sense(
-                                        definition: 'bla bla bla',
-                                        examples: [],
-                                      ),
-                                    ],
-                                    index: 0,
-                                  ),
-                                ),
-                              );
-                            },
-                            separatorBuilder: (context, index) => SizedBox(
-                              width: 20,
                             ),
-                            itemCount: 5,
                           ),
-                        ),
-                        // const SizedBox(height: 20),
-                      ],
+
+                          // const SizedBox(height: 20),
+                        ],
+                      ),
                     ),
                   ),
-                ),
-                // Positioned.fill(child: const SizedBox(height: 20)),
-                // Container(height: 1000),
-              ],
+                  // Positioned.fill(child: const SizedBox(height: 20)),
+                  // Container(height: 1000),
+                ],
+              ),
             ),
           );
         }
