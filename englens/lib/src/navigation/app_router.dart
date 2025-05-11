@@ -9,12 +9,12 @@ import 'package:englens/src/ui/screens/study/expressions/eng_proverbs/eng_prover
 import 'package:englens/src/ui/screens/study/expressions/expressions_screen.dart';
 import 'package:englens/src/ui/screens/study/expressions/idioms/idioms_screen.dart';
 import 'package:englens/src/ui/screens/study/expressions/phrasal_verbs/phrasal_verbs_screen.dart';
-import 'package:englens/src/ui/screens/study/flashcards/flashcards_screen.dart';
 import 'package:englens/src/ui/screens/study/grammar/grammar_screen.dart';
 import 'package:englens/src/ui/screens/study/pronunciation/pronunciation_screen.dart';
 import 'package:englens/src/ui/screens/study/vocab/level_based/level_based_screen.dart';
 import 'package:englens/src/ui/screens/study/vocab/topic_related/topic_related_screen.dart';
 import 'package:englens/src/ui/screens/study/vocab/vocab_screen.dart';
+import 'package:englens/src/ui/widget/flashcards/flashcards_screen.dart';
 import 'package:englens/src/ui/widget/lesson_details/lesson_details_screen.dart';
 import 'package:englens/src/ui/widget/lesson_details/lessons_details_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/my_wordlists/my_wordlists_screen.dart';

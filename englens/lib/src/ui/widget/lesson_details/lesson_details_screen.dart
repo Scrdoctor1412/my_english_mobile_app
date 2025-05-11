@@ -1,5 +1,7 @@
 import 'package:auto_size_text/auto_size_text.dart';
 import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/ui/widget/flashcards/flashcards_screen.dart';
+import 'package:englens/src/ui/widget/flashcards/flashcards_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/lesson_details/lessons_details_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen_viewmodel.dart';
@@ -44,62 +46,165 @@ class LessonDetailsScreen extends StatelessWidget {
           );
         }
 
-        _lessonItem(int index) {
+        // Widget _
+
+        _LessonLearnFlow(int index) {
+          __lessonLearnItem(
+              {required String title,
+              required String assetImagePath,
+              required VoidCallback onTap}) {
+            return GestureDetector(
+              onTap: onTap,
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Container(
+                    width: 65,
+                    height: 65,
+                    decoration: BoxDecoration(
+                      border: Border.all(
+                        color: ThemePrimary.primaryBlue,
+                        width: 2,
+                      ),
+                      borderRadius: BorderRadius.circular(42),
+                    ),
+                    padding: EdgeInsets.all(12),
+                    child: Center(
+                      child: SizedBox(
+                        width: 60,
+                        height: 60,
+                        child: Image.asset(
+                          assetImagePath,
+                          fit: BoxFit.fitHeight,
+                        ),
+                      ),
+                    ),
+                  ),
+                  const SizedBox(height: 6),
+                  Text(title),
+                ],
+              ),
+            );
+          }
+
           return Container(
-            padding: const EdgeInsets.symmetric(horizontal: 12),
-            width: screenWidth,
+            padding: const EdgeInsets.symmetric(
+              vertical: 12,
+              horizontal: 12,
+            ),
             child: Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
                 Expanded(
-                  flex: 2,
-                  child: Container(
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Text(
-                          // controller.lessons[0].title,
-                          'Lesson ${index + 1}',
-                          style: TextStyle(
-                            fontSize: 16,
-                          ),
-                        ),
-                        const SizedBox(height: 8),
-                        AutoSizeText(
-                          // '${controller.lessons[0].wordList?.length} words',
-                          controller.lessons[index].title,
-                          style: TextStyle(
-                              fontSize: 16, fontWeight: FontWeight.w500),
-                          overflow: TextOverflow.ellipsis,
-                          maxLines: 2,
-                        ),
-                      ],
-                    ),
-                  ),
+                    child: Divider(
+                  thickness: 2,
+                  color: ThemePrimary.grey,
+                )),
+                __lessonLearnItem(
+                  title: 'Review',
+                  assetImagePath: 'assets/icons/review_blue.png',
+                  onTap: () {
+                    Get.toNamed(
+                      WordDetailsScreen.routeName,
+                      arguments: WordDetailsScreenViewmodelArgs(
+                          words: controller.lessons[index].wordList!,
+                          lessonTitle: controller.lessons[index].title,
+                          isFromLessonDetailsScreen: true),
+                    );
+                  },
                 ),
-                const Spacer(),
                 Expanded(
-                  flex: 1,
-                  child: Container(
-                    child: Row(
-                      children: [
-                        IconButton(
-                          onPressed: () {},
-                          icon: Icon(Icons.bookmark_add_outlined),
+                    child: Divider(
+                  thickness: 2,
+                  color: ThemePrimary.grey,
+                )),
+                __lessonLearnItem(
+                  title: 'Flashcards',
+                  assetImagePath: 'assets/icons/flashcards_blue.png',
+                  onTap: () {
+                    Get.toNamed(
+                      FlashcardsScreen.routeName,
+                      arguments: FlashcardsScreenArgs(
+                        title: controller.lessons[index].title,
+                        wordList: controller.lessons[index].wordList!,
+                      ),
+                    );
+                  },
+                ),
+                Expanded(
+                    child: Divider(
+                  thickness: 2,
+                  color: ThemePrimary.grey,
+                )),
+              ],
+            ),
+          );
+        }
+
+        _lessonItem2(int index) {
+          return Container(
+            width: screenWidth,
+            // height: screenHeight,
+            child: ExpansionTileTheme(
+              data: ExpansionTileThemeData(
+                collapsedBackgroundColor: Colors.transparent,
+                backgroundColor: Colors.transparent,
+                shape: RoundedRectangleBorder(
+                  side: BorderSide(color: Colors.transparent),
+                ),
+                collapsedShape: RoundedRectangleBorder(
+                  side: BorderSide(color: Colors.transparent),
+                ),
+                collapsedIconColor: Colors.black,
+                iconColor: Colors.black,
+                collapsedTextColor: Colors.black,
+              ),
+              child: ExpansionTile(
+                title: Container(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(
+                        // controller.lessons[0].title,
+                        'Lesson ${index + 1}',
+                        style: TextStyle(
+                          fontSize: 16,
                         ),
-                        // IconButton(
-                        //   onPressed: () {},
-                        //   icon: Icon(Icons.chevron_right),
-                        // ),
-                        Icon(
-                          Icons.chevron_right,
-                          // color: ThemePrimary.grey,
-                        ),
-                      ],
-                    ),
+                      ),
+                      const SizedBox(height: 8),
+                      AutoSizeText(
+                        // '${controller.lessons[0].wordList?.length} words',
+                        controller.lessons[index].title,
+                        style: TextStyle(
+                            fontSize: 16, fontWeight: FontWeight.w500),
+                        overflow: TextOverflow.ellipsis,
+                        maxLines: 2,
+                      ),
+                    ],
                   ),
                 ),
-              ],
+                trailing: SizedBox(
+                  width: screenWidth * 0.2,
+                  child: Row(
+                    children: [
+                      IconButton(
+                        onPressed: () {},
+                        icon: Icon(Icons.bookmark_add_outlined),
+                      ),
+                      // IconButton(
+                      //   onPressed: () {},
+                      //   icon: Icon(Icons.chevron_right),
+                      // ),
+                      Icon(
+                        Icons.chevron_right,
+                        // color: ThemePrimary.grey,
+                      ),
+                    ],
+                  ),
+                ),
+                children: [
+                  _LessonLearnFlow(index),
+                ],
+              ),
             ),
           );
         }
@@ -144,21 +249,21 @@ class LessonDetailsScreen extends StatelessWidget {
                           children: [
                             InkWell(
                               onTap: () {
-                                Get.toNamed(
-                                  WordDetailsScreen.routeName,
-                                  arguments: WordDetailsScreenViewmodelArgs(
-                                      words:
-                                          controller.lessons[index].wordList!,
-                                      lessonTitle:
-                                          controller.lessons[index].title,
-                                      isFromLessonDetailsScreen: true),
-                                );
+                                // Get.toNamed(
+                                //   WordDetailsScreen.routeName,
+                                //   arguments: WordDetailsScreenViewmodelArgs(
+                                //       words:
+                                //           controller.lessons[index].wordList!,
+                                //       lessonTitle:
+                                //           controller.lessons[index].title,
+                                //       isFromLessonDetailsScreen: true),
+                                // );
                               },
-                              child: _lessonItem(index),
+                              child: _lessonItem2(index),
                             ),
                             Divider(
                               color: ThemePrimary.grey.withAlpha(60),
-                              height: 30,
+                              height: 16,
                             ),
                           ],
                         ),
