@@ -1,3 +1,7 @@
+import 'package:englens/src/data/models/sense.dart';
+import 'package:englens/src/ui/widget/complete/complete_screen.dart';
+import 'package:englens/src/ui/widget/complete/complete_screen_viewmodel.dart';
+import 'package:englens/src/ui/widget/flashcards/flashcards_screen_viewmodel.dart';
 import 'package:get/get.dart';
 import 'package:just_audio/just_audio.dart';
 
@@ -28,6 +32,9 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
   int pageCurrentIndex = 0;
   int pageLastIndex = 0;
 
+  //list temp words use for creating space to swipe to complete screen after user's complete reviewing
+  List<Word> tempWords = [];
+
   @override
   void onInit() {
     super.onInit();
@@ -38,10 +45,25 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
       isFromLessonDetailsScreen = args.isFromLessonDetailsScreen ?? false;
       onlyWord = args.onlyWord ?? null;
     }
+    for (var word in words) {
+      tempWords.add(word);
+    }
+    //dummy word
+    tempWords.add(Word(
+        word: "",
+        pos: "",
+        phonetic: "",
+        phoneticText: "",
+        phoneticAm: "",
+        phoneticAmText: "",
+        senses: [Sense(definition: "", examples: [])]));
     progressValue = 1 / words.length;
   }
 
   void onChangePage(int index) {
+    if (index > words.length - 1) {
+      onToCompleteScreen();
+    }
     pageLastIndex = pageCurrentIndex;
     pageCurrentIndex = index;
     if (pageCurrentIndex > pageLastIndex) {
@@ -51,6 +73,20 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
     }
 
     update();
+  }
+
+  void onToCompleteScreen() {
+    Get.offNamed(
+      CompleteScreen.routeName,
+      arguments: CompleteScreenArgs(
+        title: lessonTitle,
+        flashcardArgs: FlashcardsScreenArgs(
+          title: lessonTitle,
+          wordList: words,
+        ),
+        type: CompleteScreenType.wordReview,
+      ),
+    );
   }
 
   void onTapPlayAudio(String audioUrl) async {

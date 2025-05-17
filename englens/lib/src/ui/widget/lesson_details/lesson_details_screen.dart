@@ -59,8 +59,8 @@ class LessonDetailsScreen extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Container(
-                    width: 65,
-                    height: 65,
+                    width: 60,
+                    height: 60,
                     decoration: BoxDecoration(
                       border: Border.all(
                         color: ThemePrimary.primaryBlue,

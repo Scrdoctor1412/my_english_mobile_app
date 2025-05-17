@@ -1,7 +1,10 @@
 import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/data/models/word.dart';
+import 'package:englens/src/ui/widget/complete/complete_screen.dart';
+import 'package:englens/src/ui/widget/complete/complete_screen_viewmodel.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:get/get_connect/http/src/utils/utils.dart';
 
 class FlashcardsScreenArgs {
   final String title;
@@ -21,11 +24,14 @@ class FlashcardsScreenViewmodel extends GetViewModelBase
   PageController pageController = PageController();
   int pageIndex = 0;
 
-  late AnimationController animController;
-  late Animation<double> animation;
+  //flash card is front or back
   bool isFront = true;
 
   String idFlashCard = 'idflashcard';
+  late double progressValue;
+
+  List<Word> listCorrect = [];
+  List<Word> listIncorrect = [];
 
   @override
   void onInit() {
@@ -36,46 +42,65 @@ class FlashcardsScreenViewmodel extends GetViewModelBase
       title = args.title;
       wordList = args.wordList;
     }
-    animController = AnimationController(
-      vsync: this,
-      duration: const Duration(
-        milliseconds: 600,
-      ),
-    );
-    animation = Tween<double>(begin: 0, end: 1).animate(animController);
+
+    progressValue = 1 / wordList.length;
   }
 
   @override
   void dispose() {
     // TODO: implement dispose
-    animController.dispose();
     super.dispose();
+    pageController.dispose();
   }
 
-  void toggleCard() {
-    if (isFront) {
-      animController.forward();
-    } else {
-      animController.reverse();
-    }
-    isFront = !isFront;
+  void onUpdateProgressValue() {
+    progressValue += 1 / wordList.length;
     update();
   }
 
   void onTapCorrect() {
     pageIndex += 1;
-		pageController.jumpToPage(pageIndex);
-    // pageController.animateToPage(pageIndex,
-    //     duration: const Duration(milliseconds: 600), curve: Curves.elasticIn);
-		update();
+    if (pageIndex >= wordList.length) {
+      Get.offNamed(
+        CompleteScreen.routeName,
+        arguments: CompleteScreenArgs(
+            title: title,
+            flashcardArgs:
+                FlashcardsScreenArgs(title: title, wordList: wordList),
+            type: CompleteScreenType.flashcard),
+      );
+      // Get.offNamed(CompleteScreen.routeName,
+      //     arguments: CompleteScreenArgs(title: title, flashcard, wordList: wordList)));
+      return;
+    }
+    ;
+    listCorrect.add(wordList[pageIndex]);
+    pageController.animateToPage(pageIndex,
+        duration: const Duration(milliseconds: 300), curve: Curves.easeIn);
+    onUpdateProgressValue();
+    update();
   }
 
   void onTapIncorrect() {
-		pageIndex += 1;
-		pageController.jumpToPage(pageIndex);
-    // pageIndex -= 1;
-    // pageController.animateToPage(pageIndex,
-    //     duration: const Duration(milliseconds: 600), curve: Curves.elasticIn);
-		update();
-	}
+    pageIndex += 1;
+    if (pageIndex >= wordList.length) {
+      Get.offNamed(
+        CompleteScreen.routeName,
+        arguments: CompleteScreenArgs(
+            title: title,
+            flashcardArgs: FlashcardsScreenArgs(
+              title: title,
+              wordList: wordList,
+            ),
+            type: CompleteScreenType.flashcard),
+      );
+      return;
+    }
+    ;
+    listIncorrect.add(wordList[pageIndex]);
+    onUpdateProgressValue();
+    pageController.animateToPage(pageIndex,
+        duration: const Duration(milliseconds: 300), curve: Curves.easeIn);
+    update();
+  }
 }

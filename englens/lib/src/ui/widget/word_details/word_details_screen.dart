@@ -62,7 +62,7 @@ class WordDetailsScreen extends StatelessWidget {
                 ),
                 const SizedBox(height: 12),
                 Text(
-                  '/${word.pronunciation ?? word.phoneticText.split('/')[1]}/',
+                  '/${word.pronunciation != null && word.pronunciation != "" ? word.pronunciation : word.phoneticText == "" ? '' : word.phoneticText.split('/')[1]}/',
                   style: TextStyle(
                     fontSize: 24,
                     color: Colors.grey,
@@ -203,10 +203,12 @@ class WordDetailsScreen extends StatelessWidget {
                   itemBuilder: (context, index) {
                     return Padding(
                       padding: const EdgeInsets.only(right: 16, left: 16),
-                      child: _wordDetails(index),
+                      child: index <= controller.words.length - 1
+                          ? _wordDetails(index)
+                          : SizedBox(),
                     );
                   },
-                  itemCount: controller.words.length,
+                  itemCount: controller.tempWords.length,
                 )
               : Padding(
                   padding: const EdgeInsets.symmetric(horizontal: 16),

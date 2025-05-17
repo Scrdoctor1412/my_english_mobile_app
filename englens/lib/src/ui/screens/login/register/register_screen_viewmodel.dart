@@ -27,7 +27,7 @@ class RegisterScreenViewmodel extends GetViewModelBase {
       try {
         var res = await _authService.createUserWithEmailAndPassword(
             email: emailController.text, password: passwordController.text);
-        print(res);
+
         // if (res != null) {
         //   Get.offAllNamed(LoginScreen.routeName);
         // }

@@ -14,6 +14,7 @@ import 'package:englens/src/ui/screens/study/pronunciation/pronunciation_screen.
 import 'package:englens/src/ui/screens/study/vocab/level_based/level_based_screen.dart';
 import 'package:englens/src/ui/screens/study/vocab/topic_related/topic_related_screen.dart';
 import 'package:englens/src/ui/screens/study/vocab/vocab_screen.dart';
+import 'package:englens/src/ui/widget/complete/complete_screen.dart';
 import 'package:englens/src/ui/widget/flashcards/flashcards_screen.dart';
 import 'package:englens/src/ui/widget/lesson_details/lesson_details_screen.dart';
 import 'package:englens/src/ui/widget/lesson_details/lessons_details_screen_viewmodel.dart';
@@ -126,11 +127,7 @@ class AppRouter {
       page: () => GrammarScreen(),
       binding: GetBinding(GrammarScreen.routeName),
     ),
-    GetPage(
-      name: FlashcardsScreen.routeName,
-      page: () => FlashcardsScreen(),
-      binding: GetBinding(FlashcardsScreen.routeName),
-    ),
+
     GetPage(
       name: ExpressionsScreen.routeName,
       page: () => ExpressionsScreen(),
@@ -189,13 +186,24 @@ class AppRouter {
       binding: GetBinding(WordDetailsScreen.routeName),
     ),
 
-		//My wordlist screen
+    //My wordlist screen
     GetPage(
       name: MyWordlistsScreen.routeName,
       page: () => MyWordlistsScreen(),
       binding: GetBinding(MyWordlistsScreen.routeName),
     ),
 
+    //Flashcard screen
+    GetPage(
+      name: FlashcardsScreen.routeName,
+      page: () => FlashcardsScreen(),
+      binding: GetBinding(FlashcardsScreen.routeName),
+    ),
+    GetPage(
+      name: CompleteScreen.routeName,
+      page: () => CompleteScreen(),
+      binding: GetBinding(CompleteScreen.routeName),
+    ),
   ];
 }
 
