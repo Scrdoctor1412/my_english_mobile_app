@@ -11,6 +11,7 @@ import 'package:englens/src/ui/screens/study/expressions/idioms/idioms_screen.da
 import 'package:englens/src/ui/screens/study/expressions/phrasal_verbs/phrasal_verbs_screen.dart';
 import 'package:englens/src/ui/screens/study/grammar/grammar_screen.dart';
 import 'package:englens/src/ui/screens/study/pronunciation/pronunciation_screen.dart';
+import 'package:englens/src/ui/screens/study/random_flashcards/random_flashcards_screen.dart';
 import 'package:englens/src/ui/screens/study/vocab/level_based/level_based_screen.dart';
 import 'package:englens/src/ui/screens/study/vocab/topic_related/topic_related_screen.dart';
 import 'package:englens/src/ui/screens/study/vocab/vocab_screen.dart';
@@ -163,6 +164,11 @@ class AppRouter {
       name: PhrasalVerbsScreen.routeName,
       page: () => PhrasalVerbsScreen(),
       binding: GetBinding(PhrasalVerbsScreen.routeName),
+    ),
+    GetPage(
+      name: RandomFlashcardsScreen.routeName,
+      page: () => RandomFlashcardsScreen(),
+      binding: GetBinding(RandomFlashcardsScreen.routeName),
     ),
 
     //Word search screen

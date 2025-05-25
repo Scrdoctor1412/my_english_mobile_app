@@ -5,7 +5,7 @@ import 'package:englens/src/data/repositories/level_based_repository.dart';
 import 'package:englens/src/data/repositories/oxford_words_repository.dart';
 import 'package:englens/src/data/repositories/topics_repository.dart';
 import 'package:englens/src/navigation/app_router.dart';
-import 'package:englens/src/service/firebase/auth/auth_service.dart';
+
 import 'package:englens/src/service/lang/translation_service.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
@@ -31,8 +31,6 @@ void main() async {
   SystemChrome.setSystemUIOverlayStyle(
     SystemUiOverlayStyle(statusBarColor: Colors.transparent),
   );
-
-  Get.put(AuthService());
 
   // Nvigate to default screen
   await AppRouter.navigateDefaultScreen();

@@ -1,3 +1,4 @@
+import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/screens/study/expressions/expressions_screen_viewmode.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -15,6 +16,7 @@ class ExpressionsScreen extends StatelessWidget {
         _appBar() {
           return AppBar(
             title: Text('Expressions'),
+            backgroundColor: ThemePrimary.primaryOrange,
           );
         }
 
@@ -36,14 +38,14 @@ class ExpressionsScreen extends StatelessWidget {
                     fontWeight: FontWeight.w600,
                   ),
                 ),
-                Text('0 lessons'),
+                Text(
+                    '${controller.expressionsSectionTopicsCount[index]} topics'),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.end,
                   children: [
                     SizedBox(
                       height: 120,
-                      child:
-                          Image.asset('assets/images/study/pronunciation.png'),
+                      child: Image.asset('assets/images/study/expressions.png'),
                     ),
                   ],
                 )

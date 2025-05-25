@@ -24,14 +24,14 @@ class FlashcardsScreenViewmodel extends GetViewModelBase
   PageController pageController = PageController();
   int pageIndex = 0;
 
-  //flash card is front or back
-  bool isFront = true;
-
   String idFlashCard = 'idflashcard';
   late double progressValue;
 
+  List<Word> tempWordList = [];
   List<Word> listCorrect = [];
   List<Word> listIncorrect = [];
+
+  bool isVolumeOn = true;
 
   @override
   void onInit() {
@@ -42,7 +42,7 @@ class FlashcardsScreenViewmodel extends GetViewModelBase
       title = args.title;
       wordList = args.wordList;
     }
-
+    tempWordList = wordList.map((e) => e).toList();
     progressValue = 1 / wordList.length;
   }
 
@@ -53,14 +53,33 @@ class FlashcardsScreenViewmodel extends GetViewModelBase
     pageController.dispose();
   }
 
+  void toggleVolume() {
+    isVolumeOn = !isVolumeOn;
+    update();
+  }
+
   void onUpdateProgressValue() {
-    progressValue += 1 / wordList.length;
+    progressValue += 1 / tempWordList.length;
     update();
   }
 
   void onTapCorrect() {
-    pageIndex += 1;
-    if (pageIndex >= wordList.length) {
+    //Kiểm tra nếu từ trong flashcard hiện tại trùng với từ trong list incorrect thì remove từ đó ra khỏi list incorrect
+    if (listIncorrect.firstWhereOrNull(
+            (element) => element.word == tempWordList[pageIndex].word) !=
+        null) {
+      var index = listIncorrect.indexWhere(
+          (element) => element.word == tempWordList[pageIndex].word);
+      listIncorrect.removeAt(index);
+      //cập nhật lại temp wordlist nếu có xóa
+      tempWordList = [...wordList, ...listIncorrect];
+      pageIndex = pageIndex;
+    } else {
+      pageIndex += 1;
+    }
+
+    //if end of the flashcards move to completion screen
+    if (pageIndex >= wordList.length && listIncorrect.isEmpty) {
       Get.offNamed(
         CompleteScreen.routeName,
         arguments: CompleteScreenArgs(
@@ -69,12 +88,17 @@ class FlashcardsScreenViewmodel extends GetViewModelBase
                 FlashcardsScreenArgs(title: title, wordList: wordList),
             type: CompleteScreenType.flashcard),
       );
-      // Get.offNamed(CompleteScreen.routeName,
-      //     arguments: CompleteScreenArgs(title: title, flashcard, wordList: wordList)));
+
       return;
     }
-    ;
-    listCorrect.add(wordList[pageIndex]);
+
+    //thêm từ vào list correct
+    if (listCorrect.indexWhere(
+            (element) => element.word == tempWordList[pageIndex].word) !=
+        -1) {
+      listCorrect.add(tempWordList[pageIndex]);
+    }
+
     pageController.animateToPage(pageIndex,
         duration: const Duration(milliseconds: 300), curve: Curves.easeIn);
     onUpdateProgressValue();
@@ -82,25 +106,40 @@ class FlashcardsScreenViewmodel extends GetViewModelBase
   }
 
   void onTapIncorrect() {
-    pageIndex += 1;
-    if (pageIndex >= wordList.length) {
-      Get.offNamed(
-        CompleteScreen.routeName,
-        arguments: CompleteScreenArgs(
-            title: title,
-            flashcardArgs: FlashcardsScreenArgs(
-              title: title,
-              wordList: wordList,
-            ),
-            type: CompleteScreenType.flashcard),
-      );
-      return;
+    // tempWordList.removeAt(pageIndex);
+
+    listIncorrect.add(tempWordList[pageIndex]);
+
+    // if (findDup == null) {
+    //   listIncorrect.add(tempWordList[pageIndex]);
+    // }
+
+    tempWordList = [...wordList, ...listIncorrect];
+
+    //if end of the flashcards move to completion screen
+    // if (pageIndex >= wordList.length && listIncorrect.isNotEmpty) {
+    //   pageIndex = pageIndex;
+    // } else {
+    //   pageIndex += 1;
+    // }
+    if (listIncorrect.length > 1) {
+      //thêm từ vào list incorrect
+      var findDup = listIncorrect.firstWhereOrNull(
+          (element) => element.word == tempWordList[pageIndex].word);
+      if (findDup != null) {
+        var index = listIncorrect.indexWhere(
+          (element) => element.word == tempWordList[pageIndex].word,
+        );
+        listIncorrect.removeAt(index);
+      }
     }
-    ;
-    listIncorrect.add(wordList[pageIndex]);
+
+    pageIndex += 1;
+
     onUpdateProgressValue();
     pageController.animateToPage(pageIndex,
         duration: const Duration(milliseconds: 300), curve: Curves.easeIn);
+
     update();
   }
 }

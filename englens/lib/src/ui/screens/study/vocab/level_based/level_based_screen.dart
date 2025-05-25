@@ -18,6 +18,7 @@ class LevelBasedScreen extends StatelessWidget {
         _appBar() {
           return AppBar(
             title: Text('Level-based'),
+            backgroundColor: ThemePrimary.lightBlue,
           );
         }
 

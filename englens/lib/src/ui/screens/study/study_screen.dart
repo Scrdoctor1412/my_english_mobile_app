@@ -2,6 +2,7 @@ import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/screens/study/expressions/expressions_screen.dart';
 import 'package:englens/src/ui/screens/study/grammar/grammar_screen.dart';
 import 'package:englens/src/ui/screens/study/pronunciation/pronunciation_screen.dart';
+import 'package:englens/src/ui/screens/study/random_flashcards/random_flashcards_screen.dart';
 import 'package:englens/src/ui/screens/study/study_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/study/vocab/vocab_screen.dart';
 import 'package:englens/src/ui/screens/study/widget/big_content_block_widget.dart';
@@ -124,7 +125,7 @@ class StudyScreen extends StatelessWidget {
                               fit: BoxFit.fitHeight,
                             ),
                             toScreen: () =>
-                                Get.toNamed(FlashcardsScreen.routeName),
+                                Get.toNamed(RandomFlashcardsScreen.routeName),
                           ),
                           // ClipRRect(
                           //   clipBehavior: Clip.antiAlias,

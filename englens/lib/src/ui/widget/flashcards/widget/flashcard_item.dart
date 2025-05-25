@@ -1,6 +1,7 @@
 import 'dart:async';
 
 import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/utils/helper.dart';
 import 'package:flutter/material.dart';
 
 class FlashcardItem extends StatefulWidget {
@@ -8,20 +9,24 @@ class FlashcardItem extends StatefulWidget {
   final String pos;
   final String? imgUrl;
   final String definition;
+  final String? audioUrl;
   final Function() onTapCorrect;
   final Function() onTapIncorrect;
-  final bool isFront;
+  final bool isVolumeOn;
+  final bool? isFront;
 
-  const FlashcardItem(
-      {Key? key,
-      required this.word,
-      required this.pos,
-      this.imgUrl = '',
-      required this.definition,
-      required this.onTapCorrect,
-      required this.onTapIncorrect,
-      required this.isFront})
-      : super(key: key);
+  const FlashcardItem({
+    Key? key,
+    required this.word,
+    required this.pos,
+    this.imgUrl = '',
+    required this.definition,
+    required this.onTapCorrect,
+    required this.onTapIncorrect,
+    required this.isVolumeOn,
+    this.audioUrl,
+    this.isFront = true,
+  }) : super(key: key);
 
   @override
   _FlashcardItemState createState() => _FlashcardItemState();
@@ -31,7 +36,7 @@ class _FlashcardItemState extends State<FlashcardItem>
     with SingleTickerProviderStateMixin {
   late AnimationController animController;
   late Animation<double> animation;
-  bool isFront = true;
+  late bool isFront;
 
   late Timer _timer;
   int _start = 3;
@@ -48,6 +53,8 @@ class _FlashcardItemState extends State<FlashcardItem>
       ),
     );
     animation = Tween<double>(begin: 0, end: 1).animate(animController);
+    widget.isVolumeOn ? onTapPlayAudio(audioUrl: widget.audioUrl!) : null;
+    isFront = widget.isFront!;
     startTimer();
   }
 
@@ -211,7 +218,9 @@ class _FlashcardItemState extends State<FlashcardItem>
                 alignment: Alignment.topCenter,
                 child: InkWell(
                   onTap: () {
-                    // print('hi');
+                    if (widget.audioUrl != null) {
+                      onTapPlayAudio(audioUrl: widget.audioUrl!);
+                    }
                   },
                   child: Container(
                     width: 65,

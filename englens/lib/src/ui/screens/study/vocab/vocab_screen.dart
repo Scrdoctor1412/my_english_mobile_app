@@ -20,6 +20,7 @@ class VocabScreen extends StatelessWidget {
         _appBar() {
           return AppBar(
             title: Text('Vocabulary'),
+            backgroundColor: ThemePrimary.lightBlue,
           );
         }
 
@@ -41,14 +42,15 @@ class VocabScreen extends StatelessWidget {
                     fontWeight: FontWeight.w600,
                   ),
                 ),
-                Text('0 lessons'),
+                Text('${controller.vocabSectionTopics[index]} topics'),
+                // const Spacer(),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.end,
                   children: [
                     SizedBox(
                       height: 120,
-                      child:
-                          Image.asset('assets/images/study/pronunciation.png'),
+                      width: 80,
+                      child: Image.asset('assets/images/study/vocab.png'),
                     ),
                   ],
                 )

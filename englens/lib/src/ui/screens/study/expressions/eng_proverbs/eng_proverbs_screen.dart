@@ -20,6 +20,7 @@ class EngProverbsScreen extends StatelessWidget {
         _appBar() {
           return AppBar(
             title: Text('Idioms'),
+            backgroundColor: ThemePrimary.primaryOrange,
           );
         }
 

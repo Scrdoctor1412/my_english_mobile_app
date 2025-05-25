@@ -6,6 +6,7 @@ import 'package:englens/src/data/repositories/level_based_repository.dart';
 import 'package:englens/src/data/repositories/oxford_words_repository.dart';
 import 'package:englens/src/data/repositories/topics_repository.dart';
 import 'package:get/get.dart';
+import 'package:englens/src/service/firebase/auth/auth_service.dart';
 
 class DI {
   static DI? _instance;
@@ -23,6 +24,8 @@ class DI {
     await appHive.init();
 
     Get.put(appHive);
+
+    Get.put(AuthService());
 
     //controllers
     Get.put(HiveDatabase(appHive: appHive)); //local data

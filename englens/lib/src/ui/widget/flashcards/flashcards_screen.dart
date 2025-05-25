@@ -25,6 +25,16 @@ class FlashcardsScreen extends StatelessWidget {
               style: TextStyle(color: Colors.black),
             ),
             foregroundColor: Colors.black,
+            actions: [
+              IconButton(
+                onPressed: () {
+                  controller.toggleVolume();
+                },
+                icon: controller.isVolumeOn
+                    ? Icon(Icons.volume_up_rounded)
+                    : Icon(Icons.volume_off),
+              ),
+            ],
           );
         }
 
@@ -33,6 +43,7 @@ class FlashcardsScreen extends StatelessWidget {
             children: [
               LinearProgressIndicator(
                 value: controller.progressValue,
+                trackGap: 2,
               ),
               Expanded(
                 child: PageView.builder(
@@ -45,17 +56,18 @@ class FlashcardsScreen extends StatelessWidget {
                           horizontal: 12, vertical: 12),
                       child: FlashcardItem(
                         definition:
-                            controller.wordList[index].senses[0].definition,
-                        imgUrl: controller.wordList[index].img,
-                        isFront: controller.isFront,
+                            controller.tempWordList[index].senses[0].definition,
+                        imgUrl: controller.tempWordList[index].img,
+                        isVolumeOn: controller.isVolumeOn,
                         onTapCorrect: controller.onTapCorrect,
                         onTapIncorrect: controller.onTapIncorrect,
-                        pos: controller.wordList[index].pos,
-                        word: controller.wordList[index].word,
+                        pos: controller.tempWordList[index].pos,
+                        word: controller.tempWordList[index].word,
+                        audioUrl: controller.tempWordList[index].phonetic,
                       ),
                     );
                   },
-                  itemCount: controller.wordList.length,
+                  itemCount: controller.tempWordList.length,
                 ),
               )
             ],

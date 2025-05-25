@@ -59,6 +59,7 @@ class WordDetailsScreen extends StatelessWidget {
                     fontSize: 32,
                     fontWeight: FontWeight.bold,
                   ),
+                  textAlign: TextAlign.center,
                 ),
                 const SizedBox(height: 12),
                 Text(
@@ -67,6 +68,7 @@ class WordDetailsScreen extends StatelessWidget {
                     fontSize: 24,
                     color: Colors.grey,
                   ),
+                  textAlign: TextAlign.center,
                 ),
                 const SizedBox(height: 12),
                 Container(

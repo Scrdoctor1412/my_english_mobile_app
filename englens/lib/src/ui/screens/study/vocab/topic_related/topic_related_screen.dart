@@ -19,6 +19,7 @@ class TopicRelatedScreen extends StatelessWidget {
         _appBar() {
           return AppBar(
             title: Text('Topic-related'),
+            backgroundColor: ThemePrimary.lightBlue,
           );
         }
 
