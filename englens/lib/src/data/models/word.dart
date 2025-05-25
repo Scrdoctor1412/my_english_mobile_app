@@ -38,6 +38,9 @@ class Word {
   @HiveField(9)
   String? pronunciation;
 
+  @HiveField(10)
+  String? id;
+
   Word(
       {required this.word,
       required this.pos,
@@ -48,7 +51,7 @@ class Word {
       required this.senses,
       this.index = 0,
       this.img = "",
-      this.pronunciation});
+      this.pronunciation, this.id = ""});
 
   // Chuyển từ JSON String sang WordEntry
   factory Word.fromJson(Map<String, dynamic> json) {
@@ -64,6 +67,7 @@ class Word {
       index: json["index"],
       img: json["img"] ?? "",
       pronunciation: json["pronunciation"] ?? "",
+      id: json["id"] ?? "",
     );
   }
 
@@ -80,6 +84,7 @@ class Word {
       "index": index,
       "img": img,
       "pronunciation": pronunciation,
+      "id": id,
     };
   }
 

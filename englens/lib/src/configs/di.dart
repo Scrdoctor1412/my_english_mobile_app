@@ -5,6 +5,8 @@ import 'package:englens/src/data/repositories/expressions_repository.dart';
 import 'package:englens/src/data/repositories/level_based_repository.dart';
 import 'package:englens/src/data/repositories/oxford_words_repository.dart';
 import 'package:englens/src/data/repositories/topics_repository.dart';
+import 'package:englens/src/data/repositories/user_words_repository.dart';
+import 'package:englens/src/service/firebase/word/word_service.dart';
 import 'package:get/get.dart';
 import 'package:englens/src/service/firebase/auth/auth_service.dart';
 
@@ -26,6 +28,7 @@ class DI {
     Get.put(appHive);
 
     Get.put(AuthService());
+    Get.put(WordService());
 
     //controllers
     Get.put(HiveDatabase(appHive: appHive)); //local data
@@ -39,5 +42,6 @@ class DI {
         LevelBasedRepositoryImpl(assetsData: assetsData, localData: localData));
     Get.put(ExpressionsRepositoryImpl(
         assetsData: assetsData, localData: localData));
+  
   }
 }

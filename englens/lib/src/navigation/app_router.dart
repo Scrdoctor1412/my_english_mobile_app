@@ -20,6 +20,7 @@ import 'package:englens/src/ui/widget/flashcards/flashcards_screen.dart';
 import 'package:englens/src/ui/widget/lesson_details/lesson_details_screen.dart';
 import 'package:englens/src/ui/widget/lesson_details/lessons_details_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/my_wordlists/my_wordlists_screen.dart';
+import 'package:englens/src/ui/widget/my_wordlists/word_list/word_list_screen.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/home/home_screen.dart';
@@ -197,6 +198,11 @@ class AppRouter {
       name: MyWordlistsScreen.routeName,
       page: () => MyWordlistsScreen(),
       binding: GetBinding(MyWordlistsScreen.routeName),
+    ),
+    GetPage(
+      name: WordListScreen.routeName,
+      page: () => WordListScreen(),
+      binding: GetBinding(WordListScreen.routeName),
     ),
 
     //Flashcard screen

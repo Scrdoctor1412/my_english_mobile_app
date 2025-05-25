@@ -92,7 +92,10 @@ class WordDetailsScreen extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: [
                     InkWell(
-                      onTap: () {},
+                      onTap: () {
+                        controller.onTapSaveWordToMyWordList(word: word);
+                        
+                      },
                       borderRadius: BorderRadius.circular(12),
                       child: Container(
                         width: 60,

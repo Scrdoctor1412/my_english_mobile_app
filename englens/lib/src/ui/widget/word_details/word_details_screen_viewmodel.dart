@@ -1,7 +1,11 @@
 import 'package:englens/src/data/models/sense.dart';
+import 'package:englens/src/data/repositories/user_words_repository.dart';
+import 'package:englens/src/service/firebase/word/word_service.dart';
+import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/complete/complete_screen.dart';
 import 'package:englens/src/ui/widget/complete/complete_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/flashcards/flashcards_screen_viewmodel.dart';
+import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:just_audio/just_audio.dart';
 
@@ -23,6 +27,9 @@ class WordDetailsScreenViewmodelArgs {
 }
 
 class WordDetailsScreenViewmodel extends GetViewModelBase {
+
+  final UserWordsRepositoryImpl userWordsRepositoryImpl = UserWordsRepositoryImpl();
+
   List<Word> words = [];
   String lessonTitle = '';
   List<Word>? onlyWord;
@@ -92,5 +99,31 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
   void onTapPlayAudio(String audioUrl) async {
     await player.setUrl(audioUrl);
     player.play();
+  }
+
+
+  void onTapSaveWordToMyWordList({required Word word}) async {
+    var res = await userWordsRepositoryImpl.addWord(word);
+    if(res){
+      ScaffoldMessenger.of(context!).showSnackBar(
+            SnackBar(
+              backgroundColor: ThemePrimary.darkBlue,
+              content: Text(
+                'Save success!',
+                style: TextStyle(color: Colors.white),
+              ),
+            ),
+          );
+    }else{
+      ScaffoldMessenger.of(context!).showSnackBar(
+            SnackBar(
+              backgroundColor: ThemePrimary.darkBlue,
+              content: Text(
+                'Save failed!',
+                style: TextStyle(color: Colors.white),
+              ),
+            ),
+          );
+    }
   }
 }
