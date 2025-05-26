@@ -5,6 +5,7 @@ import 'package:get/get_state_manager/get_state_manager.dart';
 
 class WordListScreen extends StatelessWidget {
   static const routeName = '/wordListScreen';
+
   const WordListScreen({Key? key}) : super(key: key);
 
   @override
@@ -15,12 +16,41 @@ class WordListScreen extends StatelessWidget {
         _appBar() {
           return AppBar(
             title: Text(
-              'Title User\'s Word List Name',
-              style: TextStyle(color: Colors.black),
+              'Word list ${controller.title}',
+              // style: TextStyle(color: Colors.black),
             ),
-            backgroundColor: Colors.white,
-            foregroundColor: Colors.black,
+            // backgroundColor: Colors.white,
+            // foregroundColor: Colors.black,
             centerTitle: true,
+            actions: [
+              IconButton(
+                onPressed: () {},
+                icon: Icon(Icons.add),
+              ),
+            ],
+          );
+        }
+
+        _emptyWidget() {
+          // return
+          return Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              SizedBox(
+                width: 260,
+                height: 260,
+                child: Image.asset('assets/images/empty_data.png'),
+              ),
+              Text(
+                'You haven\'t add any words yet!',
+                style: TextStyle(
+                  color: ThemePrimary.grey.withAlpha(150),
+                  fontSize: 20,
+                  fontWeight: FontWeight.w800,
+                ),
+              ),
+            ],
           );
         }
 
@@ -89,16 +119,18 @@ class WordListScreen extends StatelessWidget {
         }
 
         _body() {
-          return Container(
-            padding: const EdgeInsets.symmetric(
-              horizontal: 12,
-            ),
-            child: ListView.builder(
-              padding: const EdgeInsets.symmetric(vertical: 12),
-              itemBuilder: (context, index) => _wordItem(index),
-              itemCount: controller.wordList.length,
-            ),
-          );
+          return controller.wordList.isEmpty
+              ? Center(child: _emptyWidget())
+              : Container(
+                  padding: const EdgeInsets.symmetric(
+                    horizontal: 12,
+                  ),
+                  child: ListView.builder(
+                    padding: const EdgeInsets.symmetric(vertical: 12),
+                    itemBuilder: (context, index) => _wordItem(index),
+                    itemCount: controller.wordList.length,
+                  ),
+                );
         }
 
         return Scaffold(

@@ -51,7 +51,8 @@ class Word {
       required this.senses,
       this.index = 0,
       this.img = "",
-      this.pronunciation, this.id = ""});
+      this.pronunciation,
+      this.id = ""});
 
   // Chuyển từ JSON String sang WordEntry
   factory Word.fromJson(Map<String, dynamic> json) {
@@ -86,6 +87,22 @@ class Word {
       "pronunciation": pronunciation,
       "id": id,
     };
+  }
+
+  factory Word.fromMap(Map<String, dynamic> map) {
+    return Word(
+      id: map["id"] ?? "",
+      phonetic: map["phoenetic"] ?? "",
+      phoneticAm: map["phoenetic_am"] ?? "",
+      phoneticAmText: map["phoenetic_am_text"] ?? "",
+      phoneticText: map["phoenetic_text"] ?? "",
+      pos: map["pos"] ?? "",
+      senses: map["senses"] ?? "",
+      word: map["word"] ?? "",
+      img: map["word"] ?? "",
+      index: map["index"] ?? 0,
+      pronunciation: map["pronunciation"] ?? "",
+    );
   }
 
   // Chuyển từ Object Dart sang JSON String

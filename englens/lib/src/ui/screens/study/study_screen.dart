@@ -204,7 +204,9 @@ class StudyScreen extends StatelessWidget {
                         Spacer(),
                         Expanded(
                           child: IconButton(
-                            onPressed: () {},
+                            onPressed: () {
+                              controller.onTapToMyWordList();
+                            },
                             icon: Icon(
                               Icons.folder_copy,
                               color: Colors.white,

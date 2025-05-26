@@ -43,7 +43,7 @@ class FlashcardsScreen extends StatelessWidget {
             children: [
               LinearProgressIndicator(
                 value: controller.progressValue,
-                trackGap: 2,
+                // trackGap: 2,
               ),
               Expanded(
                 child: PageView.builder(

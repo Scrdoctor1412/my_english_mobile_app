@@ -45,6 +45,7 @@ class SettingsScreen extends StatelessWidget {
                 ),
               ),
               SettingsItemWidget(
+                icon: Icons.settings,
                 title: 'General',
                 children: [
                   SettingsItemContentWidget(

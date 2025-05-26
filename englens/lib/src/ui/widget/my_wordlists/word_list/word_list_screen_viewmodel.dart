@@ -4,11 +4,13 @@ import 'package:get/get_core/src/get_main.dart';
 import 'package:get/get_navigation/src/extension_navigation.dart';
 
 class WordListScreenArgs {
+  final String title;
   final List<Word> wordList;
-  WordListScreenArgs({required this.wordList});
+  WordListScreenArgs({required this.wordList, required this.title});
 }
 
 class WordListScreenViewmodel extends GetViewModelBase {
+  late String title;
   late List<Word> wordList;
 
   @override
@@ -18,6 +20,7 @@ class WordListScreenViewmodel extends GetViewModelBase {
     if (Get.arguments != null) {
       WordListScreenArgs args = Get.arguments as WordListScreenArgs;
       wordList = args.wordList;
+      title = args.title;
     }
   }
 }

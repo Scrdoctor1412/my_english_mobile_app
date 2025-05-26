@@ -6,12 +6,14 @@ class SettingsItemWidget extends StatelessWidget {
   final String title;
   final IconData? icon;
   final bool showTrailingIcon;
-  final List<SettingsItemContentWidget>? children;
+  final List<Widget>? children;
   final Widget? trailing;
   final bool isNotExpandable;
   final VoidCallback? onTap;
+  final ExpansionTileThemeData _themeData;
+  final bool showShadow;
 
-  const SettingsItemWidget({
+  SettingsItemWidget({
     Key? key,
     this.children,
     required this.title,
@@ -20,37 +22,43 @@ class SettingsItemWidget extends StatelessWidget {
     this.trailing,
     this.isNotExpandable = false,
     this.onTap,
-  }) : super(key: key);
+    ExpansionTileThemeData? themeData,
+    this.showShadow = true,
+  })  : _themeData = themeData ??
+            ExpansionTileThemeData(
+              backgroundColor: Colors.white,
+              collapsedBackgroundColor: Colors.white,
+              shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(12),
+              ),
+              collapsedShape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(12),
+              ),
+              childrenPadding: const EdgeInsets.only(
+                left: 22,
+                right: 12,
+                bottom: 12,
+              ),
+              iconColor: ThemePrimary.grey,
+            ),
+        super(key: key);
 
   @override
   Widget build(BuildContext context) {
     bool test = false;
     return ExpansionTileTheme(
-      data: ExpansionTileThemeData(
-        backgroundColor: Colors.white,
-        collapsedBackgroundColor: Colors.white,
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(12),
-        ),
-        collapsedShape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(12),
-        ),
-        childrenPadding: const EdgeInsets.only(
-          left: 22,
-          right: 12,
-          bottom: 12,
-        ),
-        iconColor: ThemePrimary.grey,
-      ),
+      data: _themeData,
       child: Container(
         decoration: BoxDecoration(
-          boxShadow: [
-            BoxShadow(
-              color: Colors.black.withAlpha(60),
-              blurRadius: 12,
-              offset: Offset(0, 3),
-            ),
-          ],
+          boxShadow: showShadow
+              ? [
+                  BoxShadow(
+                    color: Colors.black.withAlpha(60),
+                    blurRadius: 12,
+                    offset: Offset(0, 3),
+                  ),
+                ]
+              : [],
         ),
         child: InkWell(
           onTap: onTap ?? () {},
@@ -69,12 +77,14 @@ class SettingsItemWidget extends StatelessWidget {
                   fontSize: 16,
                 ),
               ),
-              leading: Icon(
-                icon ?? Icons.settings,
-                color: ThemePrimary.grey,
-              ),
+              leading: icon != null
+                  ? Icon(
+                      icon,
+                      color: ThemePrimary.grey,
+                    )
+                  : null,
               onExpansionChanged: (value) {},
-              children: <SettingsItemContentWidget>[
+              children: [
                 ...children ?? [],
               ],
             ),

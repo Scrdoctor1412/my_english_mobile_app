@@ -94,7 +94,6 @@ class WordDetailsScreen extends StatelessWidget {
                     InkWell(
                       onTap: () {
                         controller.onTapSaveWordToMyWordList(word: word);
-                        
                       },
                       borderRadius: BorderRadius.circular(12),
                       child: Container(

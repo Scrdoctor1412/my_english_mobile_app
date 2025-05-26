@@ -5,6 +5,8 @@ import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/complete/complete_screen.dart';
 import 'package:englens/src/ui/widget/complete/complete_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/flashcards/flashcards_screen_viewmodel.dart';
+import 'package:englens/src/ui/widget/loading_dialog.dart';
+import 'package:englens/src/utils/helper.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:just_audio/just_audio.dart';
@@ -27,8 +29,8 @@ class WordDetailsScreenViewmodelArgs {
 }
 
 class WordDetailsScreenViewmodel extends GetViewModelBase {
-
-  final UserWordsRepositoryImpl userWordsRepositoryImpl = UserWordsRepositoryImpl();
+  final UserWordsRepositoryImpl userWordsRepositoryImpl =
+      UserWordsRepositoryImpl();
 
   List<Word> words = [];
   String lessonTitle = '';
@@ -101,29 +103,39 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
     player.play();
   }
 
+  // void showUsersWordListBottomSheet() async {
+  //   var wordListId = await onTapShowUsersWordListBottomSheet(context: context!);
+  // }
 
   void onTapSaveWordToMyWordList({required Word word}) async {
-    var res = await userWordsRepositoryImpl.addWord(word);
-    if(res){
-      ScaffoldMessenger.of(context!).showSnackBar(
-            SnackBar(
-              backgroundColor: ThemePrimary.darkBlue,
-              content: Text(
-                'Save success!',
-                style: TextStyle(color: Colors.white),
-              ),
+    var wordListId = await onTapShowUsersWordListBottomSheet(context: context!);
+    if (wordListId != null && wordListId is String) {
+      ShowLoadingDialog.showLoadingDialog(
+          context: context!, loadingText: 'Adding...');
+      var res = await userWordsRepositoryImpl.addWord(word, wordListId);
+      if (res) {
+        ShowLoadingDialog.hideLoadingDialog(context: context!);
+        ScaffoldMessenger.of(context!).showSnackBar(
+          SnackBar(
+            backgroundColor: ThemePrimary.darkBlue,
+            content: Text(
+              'Save success!',
+              style: TextStyle(color: Colors.white),
             ),
-          );
-    }else{
-      ScaffoldMessenger.of(context!).showSnackBar(
-            SnackBar(
-              backgroundColor: ThemePrimary.darkBlue,
-              content: Text(
-                'Save failed!',
-                style: TextStyle(color: Colors.white),
-              ),
+          ),
+        );
+      } else {
+        ShowLoadingDialog.hideLoadingDialog(context: context!);
+        ScaffoldMessenger.of(context!).showSnackBar(
+          SnackBar(
+            backgroundColor: ThemePrimary.darkBlue,
+            content: Text(
+              'Save failed!',
+              style: TextStyle(color: Colors.white),
             ),
-          );
+          ),
+        );
+      }
     }
   }
 }
