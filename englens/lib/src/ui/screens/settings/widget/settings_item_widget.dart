@@ -12,19 +12,21 @@ class SettingsItemWidget extends StatelessWidget {
   final VoidCallback? onTap;
   final ExpansionTileThemeData _themeData;
   final bool showShadow;
+  final List<Color>? gradient;
 
-  SettingsItemWidget({
-    Key? key,
-    this.children,
-    required this.title,
-    this.icon,
-    this.showTrailingIcon = true,
-    this.trailing,
-    this.isNotExpandable = false,
-    this.onTap,
-    ExpansionTileThemeData? themeData,
-    this.showShadow = true,
-  })  : _themeData = themeData ??
+  SettingsItemWidget(
+      {Key? key,
+      this.children,
+      required this.title,
+      this.icon,
+      this.showTrailingIcon = true,
+      this.trailing,
+      this.isNotExpandable = false,
+      this.onTap,
+      ExpansionTileThemeData? themeData,
+      this.showShadow = true,
+      this.gradient})
+      : _themeData = themeData ??
             ExpansionTileThemeData(
               backgroundColor: Colors.white,
               collapsedBackgroundColor: Colors.white,
@@ -64,29 +66,39 @@ class SettingsItemWidget extends StatelessWidget {
           onTap: onTap ?? () {},
           child: AbsorbPointer(
             absorbing: isNotExpandable,
-            child: ExpansionTile(
-              // enabled: false,
-              // enableFeedback: true,
-              showTrailingIcon: showTrailingIcon,
-              trailing: trailing ?? null,
-              initiallyExpanded: test,
-              title: Text(
-                title,
-                style: TextStyle(
-                  fontWeight: FontWeight.w600,
-                  fontSize: 16,
+            child: Container(
+              decoration: BoxDecoration(
+                gradient: LinearGradient(
+                  colors: gradient ?? [Colors.transparent, Colors.transparent],
                 ),
               ),
-              leading: icon != null
-                  ? Icon(
-                      icon,
-                      color: ThemePrimary.grey,
-                    )
-                  : null,
-              onExpansionChanged: (value) {},
-              children: [
-                ...children ?? [],
-              ],
+              child: ExpansionTile(
+                // enabled: false,
+                // enableFeedback: true,
+                // collapsedBackgroundColor: Colors.white,
+                showTrailingIcon: showTrailingIcon,
+                trailing: trailing ?? null,
+                initiallyExpanded: test,
+                title: Text(
+                  title,
+                  style: TextStyle(
+                    fontWeight: FontWeight.w600,
+                    fontSize: 16,
+                  ),
+                ),
+                leading: icon != null
+                    ? Icon(
+                        icon,
+                        color: ThemePrimary.grey,
+                      )
+                    : null,
+                onExpansionChanged: (value) {
+                  print(value);
+                },
+                children: [
+                  ...children ?? [],
+                ],
+              ),
             ),
           ),
         ),

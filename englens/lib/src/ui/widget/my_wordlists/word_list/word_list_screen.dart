@@ -1,6 +1,7 @@
 import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/my_wordlists/word_list/word_list_screen_viewmodel.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_slidable/flutter_slidable.dart';
 import 'package:get/get_state_manager/get_state_manager.dart';
 
 class WordListScreen extends StatelessWidget {
@@ -13,6 +14,7 @@ class WordListScreen extends StatelessWidget {
     return GetBuilder<WordListScreenViewmodel>(
       init: WordListScreenViewmodel(),
       builder: (controller) {
+        controller.context = context;
         _appBar() {
           return AppBar(
             title: Text(
@@ -55,82 +57,114 @@ class WordListScreen extends StatelessWidget {
         }
 
         _wordItem(int index) {
-          return Container(
-            padding: const EdgeInsets.only(
-              right: 12,
-              left: 12,
-              top: 10,
-            ),
-            decoration: BoxDecoration(
-              color: Colors.white,
-              borderRadius: index == 0
-                  ? BorderRadius.only(
-                      topLeft: Radius.circular(12),
-                      topRight: Radius.circular(12),
-                    )
-                  : index == controller.wordList.length - 1
-                      ? BorderRadius.only(
-                          bottomRight: Radius.circular(12),
-                          bottomLeft: Radius.circular(12),
-                        )
-                      : null,
-            ),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
+          return Slidable(
+            endActionPane: ActionPane(
+              motion: ScrollMotion(),
               children: [
-                Row(
+                SlidableAction(
+                  onPressed: (context) {
+                    return;
+                  },
+                  backgroundColor: ThemePrimary.primaryOrange,
+                  foregroundColor: Colors.white,
+                  icon: Icons.edit,
+                  label: 'Edit',
+                ),
+                SlidableAction(
+                  onPressed: (context) {
+                    controller.onTapDeleteWord(index);
+                  },
+                  backgroundColor: Colors.red,
+                  foregroundColor: Colors.white,
+                  icon: Icons.delete,
+                  label: 'Delete',
+                )
+              ],
+            ),
+            child: InkWell(
+              onTap: () {
+                controller.onTapToWordDetails(controller.wordList[index]);
+              },
+              child: Container(
+                padding: const EdgeInsets.only(
+                  right: 12,
+                  left: 12,
+                  top: 10,
+                ),
+                decoration: BoxDecoration(
+                  color: Colors.white,
+                  borderRadius: index == 0
+                      ? BorderRadius.only(
+                          topLeft: Radius.circular(12),
+                          topRight: Radius.circular(12),
+                        )
+                      : index == controller.wordList.length - 1
+                          ? BorderRadius.only(
+                              bottomRight: Radius.circular(12),
+                              bottomLeft: Radius.circular(12),
+                            )
+                          : null,
+                ),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Container(
-                      width: 5,
-                      height: 26,
-                      decoration: BoxDecoration(
-                        color: ThemePrimary.primaryOrange,
-                        borderRadius: BorderRadius.circular(8),
+                    Row(
+                      children: [
+                        Container(
+                          width: 5,
+                          height: 26,
+                          decoration: BoxDecoration(
+                            color: ThemePrimary.primaryOrange,
+                            borderRadius: BorderRadius.circular(8),
+                          ),
+                        ),
+                        const SizedBox(width: 10),
+                        Expanded(
+                          child: Text(
+                            controller.wordList[index].word,
+                            style: TextStyle(
+                                fontWeight: FontWeight.bold,
+                                fontSize: 18,
+                                overflow: TextOverflow.ellipsis),
+                          ),
+                        ),
+                      ],
+                    ),
+                    const SizedBox(height: 10),
+                    Text(
+                      controller.wordList[index].senses[0].definition,
+                      style: TextStyle(
+                        fontSize: 16,
                       ),
                     ),
-                    const SizedBox(width: 10),
-                    Expanded(
-                      child: Text(
-                        controller.wordList[index].word,
-                        style: TextStyle(
-                            fontWeight: FontWeight.bold,
-                            fontSize: 18,
-                            overflow: TextOverflow.ellipsis),
-                      ),
+                    const SizedBox(
+                      height: 10,
+                    ),
+                    Divider(
+                      color: ThemePrimary.grey.withAlpha(80),
                     ),
                   ],
                 ),
-                const SizedBox(height: 10),
-                Text(
-                  controller.wordList[index].senses[0].definition,
-                  style: TextStyle(
-                    fontSize: 16,
-                  ),
-                ),
-                const SizedBox(
-                  height: 10,
-                ),
-                Divider(
-                  color: ThemePrimary.grey.withAlpha(80),
-                ),
-              ],
+              ),
             ),
           );
         }
 
         _body() {
-          return controller.wordList.isEmpty
-              ? Center(child: _emptyWidget())
-              : Container(
-                  padding: const EdgeInsets.symmetric(
-                    horizontal: 12,
-                  ),
-                  child: ListView.builder(
-                    padding: const EdgeInsets.symmetric(vertical: 12),
-                    itemBuilder: (context, index) => _wordItem(index),
-                    itemCount: controller.wordList.length,
-                  ),
-                );
+          return controller.isLoading
+              ? Center(child: CircularProgressIndicator())
+              : controller.wordList.isEmpty
+                  ? Center(child: _emptyWidget())
+                  : Container(
+                      padding: const EdgeInsets.symmetric(
+                        horizontal: 12,
+                      ),
+                      child: ListView.builder(
+                        padding: const EdgeInsets.symmetric(vertical: 12),
+                        itemBuilder: (context, index) => _wordItem(index),
+                        itemCount: controller.wordList.length,
+                      ),
+                    );
         }
 
         return Scaffold(

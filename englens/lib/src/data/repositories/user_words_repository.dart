@@ -6,15 +6,19 @@ import 'package:englens/src/service/firebase/word/word_service.dart';
 import 'package:get/get.dart';
 
 abstract interface class UserWordsRepository {
-  Future<List<Word>> getAllUsersWords(String wordListId);
+  Future<List<Word>> getAllUsersWords({required String wordListId});
 
-  Future<bool> addWord(Word word, String wordListId);
+  Future<bool> addWord({required Word word, required String wordListId});
 
-  Future<bool> deleteWord(Word word, String wordListId);
+  Future<bool> deleteWord({required String wordId, required String wordListId});
 
   Future<List<UserWordList>> getAllUserWordList();
 
-  Future<bool> addWordList(UserWordList userWordList);
+  Future<bool> addWordList({required UserWordList userWordList});
+
+  Future<bool> deleteWordList({required String wordListId});
+
+  Future<bool> updateWordList({required UserWordList userWordList});
 }
 
 class UserWordsRepositoryImpl extends GetxController
@@ -23,7 +27,7 @@ class UserWordsRepositoryImpl extends GetxController
   final WordService _wordService = Get.find<WordService>();
 
   @override
-  Future<bool> addWord(Word word, String wordListId) {
+  Future<bool> addWord({required Word word, required String wordListId}) {
     var userId = _authService.user.value!.uid;
     var res = _wordService.addWord(
         userId: userId, word: word, wordListId: wordListId);
@@ -31,7 +35,7 @@ class UserWordsRepositoryImpl extends GetxController
   }
 
   @override
-  Future<List<Word>> getAllUsersWords(String wordListId) async {
+  Future<List<Word>> getAllUsersWords({required String wordListId}) async {
     var userId = _authService.user.value!.uid;
     var res = await _wordService.getAllUserWords(
         userId: userId, wordListId: wordListId);
@@ -39,10 +43,11 @@ class UserWordsRepositoryImpl extends GetxController
   }
 
   @override
-  Future<bool> deleteWord(Word word, String wordListId) {
+  Future<bool> deleteWord(
+      {required String wordId, required String wordListId}) {
     var userId = _authService.user.value!.uid;
     var res = _wordService.deleteWord(
-        userId: userId, wordId: word.id!, wordListId: wordListId);
+        userId: userId, wordId: wordId, wordListId: wordListId);
     return res;
   }
 
@@ -54,9 +59,25 @@ class UserWordsRepositoryImpl extends GetxController
   }
 
   @override
-  Future<bool> addWordList(UserWordList userWordList) {
+  Future<bool> addWordList({required UserWordList userWordList}) {
     var userId = _authService.user.value!.uid;
     var res = _wordService.addWordList(userId: userId, wordList: userWordList);
+    return res;
+  }
+
+  @override
+  Future<bool> deleteWordList({required String wordListId}) {
+    var userId = _authService.user.value!.uid;
+    var res =
+        _wordService.deleteWordList(userId: userId, wordListId: wordListId);
+    return res;
+  }
+
+  @override
+  Future<bool> updateWordList({required UserWordList userWordList}) {
+    var userId = _authService.user.value!.uid;
+    var res =
+        _wordService.updateWordList(userId: userId, wordList: userWordList);
     return res;
   }
 }

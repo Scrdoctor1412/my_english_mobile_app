@@ -5,13 +5,17 @@ class SettingsItemContentWidget extends StatelessWidget {
   final Widget? trailing;
   final Widget? child;
   final Function? onTap;
-  const SettingsItemContentWidget({
-    Key? key,
-    required this.title,
-    this.trailing,
-    this.child,
-    this.onTap,
-  }) : super(key: key);
+  final EdgeInsets? padding;
+  final Color? backgroundColor;
+  const SettingsItemContentWidget(
+      {Key? key,
+      required this.title,
+      this.trailing,
+      this.child,
+      this.onTap,
+      this.backgroundColor,
+      this.padding})
+      : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -20,18 +24,24 @@ class SettingsItemContentWidget extends StatelessWidget {
           onTap: () {
             onTap != null ? onTap!() : null;
           },
-          child: Row(
-            children: [
-              Text(
-                title,
-                style: TextStyle(
-                  fontSize: 16,
-                  fontWeight: FontWeight.w600,
+          child: Container(
+            decoration: BoxDecoration(
+              color: backgroundColor ?? Colors.transparent,
+            ),
+            padding: padding ?? EdgeInsets.zero,
+            child: Row(
+              children: [
+                Text(
+                  title,
+                  style: TextStyle(
+                    fontSize: 16,
+                    fontWeight: FontWeight.w600,
+                  ),
                 ),
-              ),
-              const Spacer(),
-              trailing ?? SizedBox.shrink(),
-            ],
+                const Spacer(),
+                trailing ?? SizedBox.shrink(),
+              ],
+            ),
           ),
         );
   }

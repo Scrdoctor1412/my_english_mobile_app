@@ -4,6 +4,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:englens/src/data/models/user_word_list.dart';
 import 'package:englens/src/data/models/word.dart';
 import 'package:englens/src/service/firebase/auth/auth_service.dart';
+import 'package:flutter/widgets.dart';
 import 'package:get/get.dart';
 import 'package:uuid/uuid.dart';
 
@@ -12,7 +13,8 @@ class WordService extends GetxController {
   // final AuthService authService = Get.find<AuthService>();
   var uuid = Uuid();
 
-  // Future<>
+  //---------WORD LIST--------
+
   Future<List<UserWordList>> getAllUserWordList(
       {required String userId}) async {
     List<UserWordList> list = [];
@@ -31,7 +33,7 @@ class WordService extends GetxController {
       }
       return list;
     } catch (e) {
-      print(e);
+      debugPrint(e.toString());
       return list;
     }
   }
@@ -73,6 +75,10 @@ class WordService extends GetxController {
       {required String userId, required String wordListId}) async {
     bool isSuccess = false;
     try {
+      var words = await getAllUserWords(userId: userId, wordListId: wordListId);
+      for (var item in words) {
+        deleteWord(userId: userId, wordListId: wordListId, wordId: item.id!);
+      }
       await _fireStore
           .collection("users")
           .doc(userId)
@@ -90,6 +96,28 @@ class WordService extends GetxController {
       return isSuccess;
     }
   }
+
+  Future<bool> updateWordList(
+      {required String userId, required UserWordList wordList}) async {
+    bool isSuccess = false;
+    try {
+      await _fireStore
+          .collection("users")
+          .doc(userId)
+          .collection("wordlist")
+          .doc(wordList.id)
+          .update(wordList.toMap())
+          .then((value) {
+        isSuccess = true;
+      });
+      return isSuccess;
+    } catch (e) {
+      debugPrint(e.toString());
+      return isSuccess;
+    }
+  }
+
+  //----------WORD-----------
 
   Future<List<Word>> getAllUserWords(
       {required String userId, required String wordListId}) async {

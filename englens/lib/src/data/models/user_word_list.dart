@@ -14,6 +14,18 @@ class UserWordList {
     required this.wordList,
   });
 
+  UserWordList copyWith({
+    String? id,
+    String? name,
+    List<Word>? wordList,
+  }) {
+    return UserWordList(
+      id: id ?? this.id,
+      name: name ?? this.name,
+      wordList: wordList ?? this.wordList,
+    );
+  }
+
   Map<String, dynamic> toMap() {
     return <String, dynamic>{
       'id': id,

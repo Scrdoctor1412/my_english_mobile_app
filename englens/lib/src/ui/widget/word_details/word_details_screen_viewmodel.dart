@@ -99,8 +99,12 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
   }
 
   void onTapPlayAudio(String audioUrl) async {
-    await player.setUrl(audioUrl);
-    player.play();
+    try {
+      await player.setUrl(audioUrl);
+      player.play();
+    } catch (e) {
+      debugPrint(e.toString());
+    }
   }
 
   // void showUsersWordListBottomSheet() async {
@@ -112,7 +116,8 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
     if (wordListId != null && wordListId is String) {
       ShowLoadingDialog.showLoadingDialog(
           context: context!, loadingText: 'Adding...');
-      var res = await userWordsRepositoryImpl.addWord(word, wordListId);
+      var res = await userWordsRepositoryImpl.addWord(
+          word: word, wordListId: wordListId);
       if (res) {
         ShowLoadingDialog.hideLoadingDialog(context: context!);
         ScaffoldMessenger.of(context!).showSnackBar(

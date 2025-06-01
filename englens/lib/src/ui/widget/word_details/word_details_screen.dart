@@ -20,6 +20,12 @@ class WordDetailsScreen extends StatelessWidget {
         _appBar() {
           return AppBar(
             title: Text(controller.lessonTitle),
+            backgroundColor: controller.isFromLessonDetailsScreen
+                ? ThemePrimary.primaryBlue
+                : Colors.transparent,
+            foregroundColor: controller.isFromLessonDetailsScreen
+                ? Colors.white
+                : Colors.black,
             bottom: controller.isFromLessonDetailsScreen
                 ? PreferredSize(
                     preferredSize: const Size.fromHeight(1),
