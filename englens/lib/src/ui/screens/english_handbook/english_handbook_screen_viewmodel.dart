@@ -1,6 +1,8 @@
 import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/data/models/word.dart';
 import 'package:englens/src/data/repositories/oxford_words_repository.dart';
+import 'package:englens/src/ui/screens/home/word_search/word_search_screen.dart';
+import 'package:englens/src/ui/screens/home/word_search/word_search_screen_viewmodel.dart';
 import 'package:flutter/material.dart';
 
 import 'package:flutter_expandable_fab/flutter_expandable_fab.dart';
@@ -38,6 +40,11 @@ class EnglishHandbookScreenViewmodel extends GetViewModelBase
           (word) => word[0].toUpperCase() + word.substring(1),
         ) // Viết hoa chữ cái đầu mỗi từ
         .join(' '); // Ghép lại các từ bằng dấu cách
+  }
+
+  void onTapToWordSearch() {
+    Get.toNamed(WordSearchScreen.routeName,
+        arguments: WordSearchScreenArgs(wordList: wordList));
   }
 
   // _calculateLessonsWords() {

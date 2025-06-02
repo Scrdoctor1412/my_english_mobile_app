@@ -28,7 +28,9 @@ class EnglishHandbookScreen extends StatelessWidget {
             title: Text('English handbook'),
             actions: [
               IconButton(
-                onPressed: () {},
+                onPressed: () {
+                  controller.onTapToWordSearch();
+                },
                 icon: Icon(Icons.search),
               )
             ],
@@ -46,22 +48,22 @@ class EnglishHandbookScreen extends StatelessWidget {
               Expanded(
                 child: ListView.separated(
                   itemBuilder: (context, index) {
-                    return SizedBox(
-                      height: 230,
-                      child: InkWell(
-                        onTap: () {
-                          // print(index);
-                          Get.toNamed(
-                            WordDetailsScreen.routeName,
-                            arguments: WordDetailsScreenViewmodelArgs(
-                              lessonTitle: '',
-                              isFromLessonDetailsScreen: false,
-                              onlyWord: [controller.wordList[index]],
-                            ),
-                          );
-                        },
-                        child: Padding(
-                          padding: const EdgeInsets.symmetric(vertical: 10),
+                    return Padding(
+                      padding: const EdgeInsets.only(top: 15),
+                      child: SizedBox(
+                        height: 230,
+                        child: InkWell(
+                          onTap: () {
+                            // print(index);
+                            Get.toNamed(
+                              WordDetailsScreen.routeName,
+                              arguments: WordDetailsScreenViewmodelArgs(
+                                lessonTitle: '',
+                                isFromLessonDetailsScreen: false,
+                                onlyWord: [controller.wordList[index]],
+                              ),
+                            );
+                          },
                           child: EnglishCard(
                             word: controller.wordList[index],
                           ),
@@ -82,11 +84,11 @@ class EnglishHandbookScreen extends StatelessWidget {
             padding: const EdgeInsets.only(
               left: 12,
               right: 12,
-              top: 12,
+              // top: 12,
             ),
             child: Column(
               children: [
-                CustomSearchBar(),
+                // CustomSearchBar(),
                 Expanded(
                   child: _wordListTab(),
                 ),
