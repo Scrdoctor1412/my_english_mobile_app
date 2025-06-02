@@ -63,7 +63,7 @@ class WordListScreen extends StatelessWidget {
               children: [
                 SlidableAction(
                   onPressed: (context) {
-                    return;
+                    controller.onTapEditWord(index);
                   },
                   backgroundColor: ThemePrimary.primaryOrange,
                   foregroundColor: Colors.white,

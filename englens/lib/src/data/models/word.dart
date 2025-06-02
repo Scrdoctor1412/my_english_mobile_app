@@ -109,6 +109,34 @@ class Word {
   String toJson() {
     return jsonEncode(toMap());
   }
+
+  Word copyWith({
+    String? word,
+    String? pos,
+    String? phonetic,
+    String? phoneticText,
+    String? phoneticAm,
+    String? phoneticAmText,
+    List<Sense>? senses,
+    int? index,
+    String? img,
+    String? pronunciation,
+    String? id,
+  }) {
+    return Word(
+      word: word ?? this.word,
+      pos: pos ?? this.pos,
+      phonetic: phonetic ?? this.phonetic,
+      phoneticText: phoneticText ?? this.phoneticText,
+      phoneticAm: phoneticAm ?? this.phoneticAm,
+      phoneticAmText: phoneticAmText ?? this.phoneticAmText,
+      senses: senses ?? this.senses,
+      index: index ?? this.index,
+      img: img ?? this.img,
+      pronunciation: pronunciation ?? this.pronunciation,
+      id: id ?? this.id,
+    );
+  }
 }
 
 // class WordList {

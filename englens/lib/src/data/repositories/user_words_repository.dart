@@ -12,6 +12,9 @@ abstract interface class UserWordsRepository {
 
   Future<bool> deleteWord({required String wordId, required String wordListId});
 
+  Future<bool> updateWord(
+      {required String wordId, required String wordListId, required Word word});
+
   Future<List<UserWordList>> getAllUserWordList();
 
   Future<bool> addWordList({required UserWordList userWordList});
@@ -78,6 +81,17 @@ class UserWordsRepositoryImpl extends GetxController
     var userId = _authService.user.value!.uid;
     var res =
         _wordService.updateWordList(userId: userId, wordList: userWordList);
+    return res;
+  }
+
+  @override
+  Future<bool> updateWord(
+      {required String wordId,
+      required String wordListId,
+      required Word word}) {
+    var userId = _authService.user.value!.uid;
+    var res = _wordService.updateWord(
+        userId: userId, word: word, wordListId: wordListId, wordId: wordId);
     return res;
   }
 }

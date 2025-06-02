@@ -208,4 +208,31 @@ class WordService extends GetxController {
       return isSuccess;
     }
   }
+
+  Future<bool> updateWord(
+      {required String userId,
+      required Word word,
+      required String wordListId,
+      required String wordId}) async {
+    bool isSuccess = false;
+    try {
+      await _fireStore
+          .collection('users')
+          .doc(userId)
+          .collection("wordlist")
+          .doc(wordListId)
+          .collection("words")
+          .doc(wordId)
+          .update(word.toMap())
+          .then(
+        (value) {
+          isSuccess = true;
+        },
+      );
+      return isSuccess;
+    } catch (e) {
+      debugPrint(e.toString());
+      return isSuccess;
+    }
+  }
 }

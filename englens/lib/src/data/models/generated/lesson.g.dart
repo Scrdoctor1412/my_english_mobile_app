@@ -21,13 +21,15 @@ class LessonAdapter extends TypeAdapter<Lesson> {
       title: fields[1] as String,
       lesson: fields[2] as String,
       wordList: (fields[3] as List?)?.cast<Word>(),
+      id: fields[4] as String?,
+      isBookmarked: fields[5] as bool?,
     );
   }
 
   @override
   void write(BinaryWriter writer, Lesson obj) {
     writer
-      ..writeByte(4)
+      ..writeByte(6)
       ..writeByte(0)
       ..write(obj.topic)
       ..writeByte(1)
@@ -35,7 +37,11 @@ class LessonAdapter extends TypeAdapter<Lesson> {
       ..writeByte(2)
       ..write(obj.lesson)
       ..writeByte(3)
-      ..write(obj.wordList);
+      ..write(obj.wordList)
+      ..writeByte(4)
+      ..write(obj.id)
+      ..writeByte(5)
+      ..write(obj.isBookmarked);
   }
 
   @override

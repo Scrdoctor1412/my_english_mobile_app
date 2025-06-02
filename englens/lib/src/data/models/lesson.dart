@@ -18,11 +18,19 @@ class Lesson {
   @HiveField(3)
   List<Word>? wordList;
 
+  @HiveField(4)
+  String? id;
+
+  @HiveField(5)
+  bool? isBookmarked;
+
   Lesson({
     required this.topic,
     required this.title,
     required this.lesson,
     this.wordList,
+    this.id,
+    this.isBookmarked,
   });
 
   factory Lesson.fromJson(Map<String, dynamic> json) {
@@ -39,6 +47,8 @@ class Lesson {
       wordList: (json['word_list'] as List<dynamic>)
           .map((lesWordList) => Word.fromJson(lesWordList))
           .toList(),
+      id: json['id'] ?? "",
+      isBookmarked: json['is_bookmarked'] ?? false,
       // wordList: words
       // wordList: );
     );
@@ -49,6 +59,8 @@ class Lesson {
       'title': title,
       'lesson': lesson,
       'word_list': wordList?.map((word) => word.toJson()).toList(),
+      'id': id,
+      'is_bookmarked': isBookmarked,
     };
   }
 }

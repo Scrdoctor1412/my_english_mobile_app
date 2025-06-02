@@ -30,6 +30,7 @@ class FlashcardsScreenViewmodel extends GetViewModelBase
   List<Word> tempWordList = [];
   List<Word> listCorrect = [];
   List<Word> listIncorrect = [];
+  List<Word> tempListIncorrect = [];
 
   bool isVolumeOn = true;
 
@@ -68,25 +69,23 @@ class FlashcardsScreenViewmodel extends GetViewModelBase
     if (listIncorrect.firstWhereOrNull(
             (element) => element.word == tempWordList[pageIndex].word) !=
         null) {
-      var index = listIncorrect.indexWhere(
-          (element) => element.word == tempWordList[pageIndex].word);
-      listIncorrect.removeAt(index);
-      //cập nhật lại temp wordlist nếu có xóa
-      tempWordList = [...wordList, ...listIncorrect];
-      pageIndex = pageIndex;
-    } else {
-      pageIndex += 1;
+      tempListIncorrect.removeWhere(
+        (element) => element.word == tempWordList[pageIndex].word,
+      );
     }
 
+    pageIndex += 1;
+
     //if end of the flashcards move to completion screen
-    if (pageIndex >= wordList.length && listIncorrect.isEmpty) {
+    if (pageIndex >= wordList.length && tempListIncorrect.isEmpty) {
       Get.offNamed(
         CompleteScreen.routeName,
         arguments: CompleteScreenArgs(
-            title: title,
-            flashcardArgs:
-                FlashcardsScreenArgs(title: title, wordList: wordList),
-            type: CompleteScreenType.flashcard),
+          title: title,
+          flashcardArgs: FlashcardsScreenArgs(title: title, wordList: wordList),
+          type: CompleteScreenType.flashcard,
+          listIncorrect: listIncorrect,
+        ),
       );
 
       return;
@@ -106,33 +105,10 @@ class FlashcardsScreenViewmodel extends GetViewModelBase
   }
 
   void onTapIncorrect() {
-    // tempWordList.removeAt(pageIndex);
-
     listIncorrect.add(tempWordList[pageIndex]);
-
-    // if (findDup == null) {
-    //   listIncorrect.add(tempWordList[pageIndex]);
-    // }
+    tempListIncorrect.add(tempWordList[pageIndex]);
 
     tempWordList = [...wordList, ...listIncorrect];
-
-    //if end of the flashcards move to completion screen
-    // if (pageIndex >= wordList.length && listIncorrect.isNotEmpty) {
-    //   pageIndex = pageIndex;
-    // } else {
-    //   pageIndex += 1;
-    // }
-    if (listIncorrect.length > 1) {
-      //thêm từ vào list incorrect
-      var findDup = listIncorrect.firstWhereOrNull(
-          (element) => element.word == tempWordList[pageIndex].word);
-      if (findDup != null) {
-        var index = listIncorrect.indexWhere(
-          (element) => element.word == tempWordList[pageIndex].word,
-        );
-        listIncorrect.removeAt(index);
-      }
-    }
 
     pageIndex += 1;
 

@@ -16,10 +16,13 @@ import 'package:englens/src/ui/screens/study/vocab/level_based/level_based_scree
 import 'package:englens/src/ui/screens/study/vocab/topic_related/topic_related_screen.dart';
 import 'package:englens/src/ui/screens/study/vocab/vocab_screen.dart';
 import 'package:englens/src/ui/widget/complete/complete_screen.dart';
+import 'package:englens/src/ui/widget/complete/difficult_words/difficult_words_screen.dart';
 import 'package:englens/src/ui/widget/flashcards/flashcards_screen.dart';
 import 'package:englens/src/ui/widget/lesson_details/lesson_details_screen.dart';
 import 'package:englens/src/ui/widget/lesson_details/lessons_details_screen_viewmodel.dart';
+import 'package:englens/src/ui/widget/my_wordlists/bookmark/bookmark_screen.dart';
 import 'package:englens/src/ui/widget/my_wordlists/my_wordlists_screen.dart';
+import 'package:englens/src/ui/widget/my_wordlists/word_list/word_list_edit_screen/word_list_edit_screen.dart';
 import 'package:englens/src/ui/widget/my_wordlists/word_list/word_list_screen.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen_viewmodel.dart';
@@ -215,6 +218,27 @@ class AppRouter {
       name: CompleteScreen.routeName,
       page: () => CompleteScreen(),
       binding: GetBinding(CompleteScreen.routeName),
+    ),
+
+    //Word list edit screen
+    GetPage(
+      name: WordListEditScreen.routeName,
+      page: () => WordListEditScreen(),
+      binding: GetBinding(WordListEditScreen.routeName),
+    ),
+
+    //Difficult words screen
+    GetPage(
+      name: DifficultWordsScreen.routeName,
+      page: () => DifficultWordsScreen(),
+      binding: GetBinding(DifficultWordsScreen.routeName),
+    ),
+
+    //Book mark screen
+    GetPage(
+      name: BookmarkScreen.routeName,
+      page: () => BookmarkScreen(),
+      binding: GetBinding(BookmarkScreen.routeName),
     ),
   ];
 }

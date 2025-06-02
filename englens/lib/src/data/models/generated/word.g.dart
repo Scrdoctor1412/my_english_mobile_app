@@ -27,13 +27,14 @@ class WordAdapter extends TypeAdapter<Word> {
       index: fields[7] as int?,
       img: fields[8] as String?,
       pronunciation: fields[9] as String?,
+      id: fields[10] as String?,
     );
   }
 
   @override
   void write(BinaryWriter writer, Word obj) {
     writer
-      ..writeByte(10)
+      ..writeByte(11)
       ..writeByte(0)
       ..write(obj.word)
       ..writeByte(1)
@@ -53,7 +54,9 @@ class WordAdapter extends TypeAdapter<Word> {
       ..writeByte(8)
       ..write(obj.img)
       ..writeByte(9)
-      ..write(obj.pronunciation);
+      ..write(obj.pronunciation)
+      ..writeByte(10)
+      ..write(obj.id);
   }
 
   @override

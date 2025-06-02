@@ -43,12 +43,14 @@ class CompleteScreen extends StatelessWidget {
                 const SizedBox(height: 12),
                 controller.type == CompleteScreenType.flashcard
                     ? TextButton(
-                        onPressed: () {},
+                        onPressed: () {
+                          controller.onTapToDifficultWords();
+                        },
                         child: Row(
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
                             Text(
-                              'See 7 difficult words',
+                              'See ${controller.listMapWordIncorrectKeys.length} difficult words',
                               style: TextStyle(fontSize: 22),
                             ),
                             Icon(Icons.chevron_right),

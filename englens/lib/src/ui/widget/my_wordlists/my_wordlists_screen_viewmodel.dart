@@ -4,6 +4,7 @@ import 'package:englens/src/data/models/word.dart';
 import 'package:englens/src/data/repositories/user_words_repository.dart';
 import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/loading_dialog.dart';
+import 'package:englens/src/ui/widget/my_wordlists/bookmark/bookmark_screen.dart';
 import 'package:englens/src/ui/widget/my_wordlists/word_list/word_list_screen.dart';
 import 'package:englens/src/ui/widget/my_wordlists/word_list/word_list_screen_viewmodel.dart';
 import 'package:englens/src/utils/helper.dart';
@@ -39,6 +40,10 @@ class MyWordlistsScreenViewmodel extends GetViewModelBase {
     //     await _userWordsRepository.getAllUsersWords(wordListId: wordListId);
     Get.toNamed(WordListScreen.routeName,
         arguments: WordListScreenArgs(wordListId: wordListId, title: title));
+  }
+
+  void onTapToBookmark() {
+    Get.toNamed(BookmarkScreen.routeName);
   }
 
   void onTapAddWordList() async {

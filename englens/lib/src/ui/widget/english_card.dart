@@ -30,6 +30,8 @@ class EnglishCard extends StatelessWidget {
         statusColor = Colors.pink;
         break;
       default:
+        statusColor = Colors.indigo;
+        break;
     }
   }
 

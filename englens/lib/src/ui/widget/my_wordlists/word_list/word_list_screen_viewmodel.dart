@@ -3,6 +3,8 @@ import 'package:englens/src/data/models/word.dart';
 import 'package:englens/src/data/repositories/user_words_repository.dart';
 import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/loading_dialog.dart';
+import 'package:englens/src/ui/widget/my_wordlists/word_list/word_list_edit_screen/word_list_edit_screen.dart';
+import 'package:englens/src/ui/widget/my_wordlists/word_list/word_list_edit_screen/word_list_edit_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen_viewmodel.dart';
 import 'package:englens/src/utils/helper.dart';
@@ -54,7 +56,14 @@ class WordListScreenViewmodel extends GetViewModelBase {
     );
   }
 
-  void onTapEditWord() {}
+  void onTapEditWord(int index) {
+    Get.toNamed(
+      WordListEditScreen.routeName,
+      arguments: WordListEditScreenArgs(
+        word: wordList[index],
+      ),
+    );
+  }
 
   void onTapCreateWord() {}
 

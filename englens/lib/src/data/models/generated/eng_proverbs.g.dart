@@ -19,17 +19,23 @@ class EngProverbsAdapter extends TypeAdapter<EngProverbs> {
     return EngProverbs(
       title: fields[0] as String,
       lessons: (fields[1] as List?)?.cast<Lesson>(),
+      id: fields[2] as String?,
+      isBookmarked: fields[3] as bool?,
     );
   }
 
   @override
   void write(BinaryWriter writer, EngProverbs obj) {
     writer
-      ..writeByte(2)
+      ..writeByte(4)
       ..writeByte(0)
       ..write(obj.title)
       ..writeByte(1)
-      ..write(obj.lessons);
+      ..write(obj.lessons)
+      ..writeByte(2)
+      ..write(obj.id)
+      ..writeByte(3)
+      ..write(obj.isBookmarked);
   }
 
   @override

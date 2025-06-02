@@ -183,10 +183,11 @@ class MyWordlistsScreen extends StatelessWidget {
               //   color: ThemePrimary.grey.withAlpha(100),
               // ),
               const SizedBox(
-                height: 12,
+                height: 6,
               ),
               SettingsItemWidget(
                 title: "Bookmark",
+                onTap: () => controller.onTapToBookmark(),
                 gradient: [
                   // Colors.grey.shade400.withAlpha(180),
                   // Colors.grey.shade200,
@@ -210,6 +211,7 @@ class MyWordlistsScreen extends StatelessWidget {
         }
 
         return Scaffold(
+          backgroundColor: Colors.white,
           appBar: _appBar(),
           body: _body(),
         );
