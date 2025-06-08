@@ -1,6 +1,8 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
 import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/data/models/word.dart';
+import 'package:englens/src/ui/widget/word_details/word_details_screen.dart';
+import 'package:englens/src/ui/widget/word_details/word_details_screen_viewmodel.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -31,5 +33,17 @@ class WordSearchScreenViewmodel extends GetViewModelBase {
         .where((word) => word.word.toLowerCase().contains(value.toLowerCase()))
         .toList();
     update();
+  }
+
+  void onTapToWordDetails(int index) {
+    Get.toNamed(
+      WordDetailsScreen.routeName,
+      arguments: WordDetailsScreenViewmodelArgs(
+        isFromLessonDetailsScreen: false,
+        onlyWord: [
+          searchResult[index],
+        ],
+      ),
+    );
   }
 }

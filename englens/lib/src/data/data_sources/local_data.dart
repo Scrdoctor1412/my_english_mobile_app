@@ -8,6 +8,7 @@ import 'package:englens/src/data/models/schedule_notification.dart';
 import 'package:englens/src/data/models/topic.dart';
 import 'package:englens/src/data/models/word.dart';
 import 'package:get/get.dart';
+import 'package:uuid/uuid.dart';
 
 abstract interface class LocalData extends GetxController {
   Future<void> saveWords(List<Word> words);
@@ -50,6 +51,7 @@ abstract interface class LocalData extends GetxController {
 
 class HiveDatabase extends GetxController implements LocalData {
   final AppHive _appHive;
+  final uuid = Uuid();
 
   HiveDatabase({
     required AppHive appHive,

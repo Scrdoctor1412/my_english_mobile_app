@@ -30,7 +30,6 @@ class EnglishHandbookScreenViewmodel extends GetViewModelBase
     var list = _oxfordWordsRepo.getAllOxfordWords();
     // test = list;
     wordList = list;
-    print(wordList.length);
   }
 
   String snakeCaseToNormal(String input) {

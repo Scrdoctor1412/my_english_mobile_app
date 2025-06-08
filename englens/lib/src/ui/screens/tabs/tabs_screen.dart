@@ -58,14 +58,14 @@ class TabsScreen extends StatelessWidget {
                           : Colors.black,
                     ),
                     label: 'Study'),
-                NavigationDestination(
-                    icon: Icon(
-                      Icons.translate,
-                      color: controller.tabIndex == 2
-                          ? Colors.white
-                          : Colors.black,
-                    ),
-                    label: 'Translate'),
+                // NavigationDestination(
+                //     icon: Icon(
+                //       Icons.translate,
+                //       color: controller.tabIndex == 2
+                //           ? Colors.white
+                //           : Colors.black,
+                //     ),
+                //     label: 'Translate'),
                 NavigationDestination(
                     icon: Icon(
                       Icons.book,

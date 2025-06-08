@@ -20,28 +20,40 @@ class ScanToTranslateScreen extends StatelessWidget {
           return AppBar(
             title: Text('Translate'),
             centerTitle: true,
-            automaticallyImplyLeading: false,
+            // automaticallyImplyLeading: false,
           );
         }
 
         _body() {
-          return ListView(
+          return Stack(
             children: [
               Container(
-                height: screenHeight * 0.55,
+                height: screenHeight,
+                width: screenWdith,
                 padding: const EdgeInsets.all(12),
                 child: DottedBorder(
                   borderType: BorderType.RRect,
                   radius: Radius.circular(8),
                   dashPattern: [6, 6],
-                  child: Center(
-                    child: ElevatedButton(
-                      onPressed: () async {
-                        controller.onTapShowBottomSheetMedia();
-                      },
-                      child: Text(
-                        '+ Add picture',
-                      ),
+                  child: SizedBox(),
+                ),
+              ),
+              Center(
+                child: InkWell(
+                  onTap: () async {
+                    controller.onTapShowBottomSheetMedia();
+                  },
+                  child: SizedBox(
+                    width: 120,
+                    child: Row(
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      children: [
+                        Icon(Icons.camera_alt),
+                        const SizedBox(width: 8),
+                        Text(
+                          'Add picture',
+                        ),
+                      ],
                     ),
                   ),
                 ),

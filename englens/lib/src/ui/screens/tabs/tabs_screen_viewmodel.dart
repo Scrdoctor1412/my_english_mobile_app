@@ -11,7 +11,7 @@ class TabsScreenViewmodel extends GetViewModelBase {
   var tabsScreen = [
     HomeScreen(),
     StudyScreen(),
-    ScanToTranslateScreen(),
+    // ScanToTranslateScreen(),
     EnglishHandbookScreen(),
     SettingsScreen(),
   ];

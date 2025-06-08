@@ -1,16 +1,16 @@
 import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/ui/screens/scan_to_translate/scan_to_translate_screen.dart';
 import 'package:englens/src/ui/screens/study/expressions/expressions_screen.dart';
 import 'package:englens/src/ui/screens/study/grammar/grammar_screen.dart';
-import 'package:englens/src/ui/screens/study/pronunciation/pronunciation_screen.dart';
+
 import 'package:englens/src/ui/screens/study/random_flashcards/random_flashcards_screen.dart';
 import 'package:englens/src/ui/screens/study/study_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/study/vocab/vocab_screen.dart';
 import 'package:englens/src/ui/screens/study/widget/big_content_block_widget.dart';
 import 'package:englens/src/ui/screens/study/widget/small_content_block_widget.dart';
-import 'package:englens/src/ui/widget/flashcards/flashcards_screen.dart';
+
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:hive_flutter/adapters.dart';
 
 class StudyScreen extends StatelessWidget {
   static const routeName = '/studyScreen';
@@ -107,15 +107,15 @@ class StudyScreen extends StatelessWidget {
                                 Get.toNamed(GrammarScreen.routeName),
                           ),
                           SmallContentBlockWidget(
-                            title: 'Pronunciation',
-                            subTitle: 'Practice pronunciation',
+                            title: 'Translate',
+                            subTitle: 'More translate more knowledge',
                             color: Color(0xfffbf1eb),
                             image: Image.asset(
                               'assets/images/study/pronunciation.png',
                               fit: BoxFit.fitHeight,
                             ),
                             toScreen: () =>
-                                Get.toNamed(PronunciationScreen.routeName),
+                                Get.toNamed(ScanToTranslateScreen.routeName),
                           ),
                           SmallContentBlockWidget(
                             title: 'Flashcards',

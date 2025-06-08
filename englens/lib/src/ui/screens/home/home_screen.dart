@@ -1,9 +1,7 @@
-import 'package:englens/src/data/models/sense.dart';
-import 'package:englens/src/data/models/word.dart';
 import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/english_card.dart';
 import 'package:englens/src/ui/screens/home/home_screen_viewmodel.dart';
-import 'package:englens/src/ui/screens/home/word_search/word_search_screen.dart';
+
 import 'package:englens/src/ui/widget/my_wordlists/my_wordlists_screen.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen_viewmodel.dart';
@@ -83,8 +81,8 @@ class HomeScreen extends StatelessWidget {
         _userWordListBlock() {
           return InkWell(
             onTap: () {
-							Get.toNamed(MyWordlistsScreen.routeName);
-						},
+              Get.toNamed(MyWordlistsScreen.routeName);
+            },
             child: Container(
               width: screenWidth / 2.3,
               height: 75,
@@ -103,16 +101,19 @@ class HomeScreen extends StatelessWidget {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  Row(
-                    children: [
-                      Icon(
-                        Icons.folder_copy_outlined,
-                      ),
-                      const Spacer(),
-                      InkWell(
-                        child: Icon(Icons.add),
-                      ),
-                    ],
+                  Expanded(
+                    child: Row(
+                      children: [
+                        Icon(
+                          Icons.folder_copy_outlined,
+                          color: Colors.orange,
+                        ),
+                        const Spacer(),
+                        InkWell(
+                          child: Icon(Icons.add),
+                        ),
+                      ],
+                    ),
                   ),
                   const SizedBox(height: 10),
                   Text(
@@ -128,7 +129,7 @@ class HomeScreen extends StatelessWidget {
           );
         }
 
-        _dailyWordBlock() {
+        _wordBoxBlock() {
           return Container(
             width: screenWidth / 2.3,
             height: 75,
@@ -147,34 +148,39 @@ class HomeScreen extends StatelessWidget {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Row(
-                  children: [
-                    Icon(
-                      Icons.list_alt_rounded,
-                    ),
-                    const Spacer(),
-                    Container(
-                      height: 26,
-                      width: 26,
-                      decoration: BoxDecoration(
+                Expanded(
+                  child: Row(
+                    children: [
+                      Icon(
+                        // Icons.list_alt_rounded,
+                        Icons.view_in_ar_rounded,
                         color: ThemePrimary.primaryOrange,
-                        borderRadius: BorderRadius.circular(50),
                       ),
-                      child: Center(
-                        child: Text(
-                          '2',
-                          style: TextStyle(
-                            color: Colors.white,
-                            fontWeight: FontWeight.w600,
-                          ),
-                        ),
-                      ),
-                    ),
-                  ],
+                      // FaIcon(FontAwesomeIcons.cube),
+                      const Spacer(),
+                      // Container(
+                      //   height: 26,
+                      //   width: 26,
+                      //   decoration: BoxDecoration(
+                      //     color: ThemePrimary.primaryOrange,
+                      //     borderRadius: BorderRadius.circular(50),
+                      //   ),
+                      //   child: Center(
+                      //     child: Text(
+                      //       '2',
+                      //       style: TextStyle(
+                      //         color: Colors.white,
+                      //         fontWeight: FontWeight.w600,
+                      //       ),
+                      //     ),
+                      //   ),
+                      // ),
+                    ],
+                  ),
                 ),
                 const SizedBox(height: 8),
                 Text(
-                  'Daily Words',
+                  'Daily word',
                   style: TextStyle(
                     fontSize: 16,
                     fontWeight: FontWeight.w600,
@@ -274,7 +280,7 @@ class HomeScreen extends StatelessWidget {
                                 children: [
                                   _userWordListBlock(),
                                   const Spacer(),
-                                  _dailyWordBlock(),
+                                  _wordBoxBlock()
                                 ],
                               ),
                             ),
@@ -348,7 +354,7 @@ class HomeScreen extends StatelessWidget {
                               child: Column(
                                 children: [
                                   Text(
-                                    'Have you known these 5 words?',
+                                    'Daily random 5 words for you!',
                                     style: TextStyle(
                                       fontSize: 18,
                                       fontWeight: FontWeight.w700,

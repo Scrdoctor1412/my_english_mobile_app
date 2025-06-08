@@ -94,8 +94,13 @@ class WordSearchScreen extends StatelessWidget {
                 height: 230,
                 padding:
                     const EdgeInsets.symmetric(horizontal: 12, vertical: 12),
-                child: EnglishCard(
-                  word: controller.searchResult[index],
+                child: InkWell(
+                  onTap: () {
+                    controller.onTapToWordDetails(index);
+                  },
+                  child: EnglishCard(
+                    word: controller.searchResult[index],
+                  ),
                 ),
               );
             },
