@@ -36,10 +36,12 @@ class LocalWordService {
   LocalWordService._();
 
   static Future<void> initData() async {
-    await _expressionsRepositoryImpl.initData();
-    await _levelBasedRepositoryImpl.initData();
-    await _topicsRepositoryImpl.initData();
-    await _oxfordWordsRepositoryImpl.initData();
+    await Future.wait([
+      _expressionsRepositoryImpl.initData(),
+      _levelBasedRepositoryImpl.initData(),
+      _topicsRepositoryImpl.initData(),
+      _oxfordWordsRepositoryImpl.initData(),
+    ]);
 
     listLevelBased = _levelBasedRepositoryImpl.getAllLevelBased();
     listTopics = _topicsRepositoryImpl.getAllTopics();

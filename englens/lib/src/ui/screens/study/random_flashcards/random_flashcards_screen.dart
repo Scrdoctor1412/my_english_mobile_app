@@ -23,7 +23,9 @@ class RandomFlashcardsScreen extends StatelessWidget {
 
         _autoRandomFlascardBlock() {
           return InkWell(
-            onTap: () {},
+            onTap: () {
+              controller.onTapCardDeckPreparation();
+            },
             child: Container(
               width: screenWdith,
               decoration: BoxDecoration(
@@ -64,7 +66,9 @@ class RandomFlashcardsScreen extends StatelessWidget {
 
         _randomFromWordListBlock() {
           return InkWell(
-            onTap: () {},
+            onTap: () {
+              controller.onTapCardDeckPreparation();
+            },
             child: Container(
               width: screenWdith,
               decoration: BoxDecoration(
