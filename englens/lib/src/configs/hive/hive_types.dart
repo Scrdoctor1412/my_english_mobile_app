@@ -14,4 +14,6 @@ class HiveTypes {
   static const collocations = 10;
   static const engProverbs = 11;
   static const phrasalVerbs = 12;
+  static const learningCategory = 13;
+  static const categoryType = 14;
 }

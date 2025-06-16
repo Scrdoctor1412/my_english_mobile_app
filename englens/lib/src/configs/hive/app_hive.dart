@@ -2,6 +2,7 @@ import 'package:englens/src/data/models/collocations.dart';
 import 'package:englens/src/data/models/eng_proverbs.dart';
 import 'package:englens/src/data/models/example.dart';
 import 'package:englens/src/data/models/idioms.dart';
+import 'package:englens/src/data/models/learning_category.dart';
 import 'package:englens/src/data/models/level_based.dart';
 import 'package:englens/src/data/models/phrasal_verbs.dart';
 import 'package:englens/src/data/models/schedule_notification.dart';
@@ -16,6 +17,7 @@ import 'package:path_provider/path_provider.dart';
 
 class AppHive extends GetxController {
   static const String wordKey = 'word';
+  static const String learningCategoryKey = 'learningCategory';
   static const String scheduleNotificationKey = 'scheduledNotification';
   static const String topicsKey = 'topics';
   static const String levelBasedKey = 'levelBased';
@@ -25,6 +27,8 @@ class AppHive extends GetxController {
   static const String phrasalVerbsKey = 'phrasalVerbs';
 
   Box<Word> get wordBox => Hive.box<Word>(wordKey);
+  Box<LearningCategory> get learningCategoryBox =>
+      Hive.box<LearningCategory>(learningCategoryKey);
   Box<ScheduleNotification> get scheduleNotificationBox =>
       Hive.box<ScheduleNotification>(scheduleNotificationKey);
   Box<Topic> get topicsBox => Hive.box<Topic>(topicsKey);
@@ -39,6 +43,7 @@ class AppHive extends GetxController {
     final dir = await getApplicationCacheDirectory();
     await Hive.initFlutter(dir.path);
 
+    Hive.registerAdapter(LearningCategoryAdapter());
     Hive.registerAdapter(ExampleAdapter());
     Hive.registerAdapter(SenseAdapter());
     Hive.registerAdapter(WordAdapter());
@@ -54,6 +59,7 @@ class AppHive extends GetxController {
     // await Hive.deleteBoxFromDisk(wordKey)
 
     await Hive.openBox<Word>(wordKey);
+    await Hive.openBox<LearningCategory>(learningCategoryKey);
     await Hive.openBox<ScheduleNotification>(scheduleNotificationKey);
     await Hive.openBox<Topic>(topicsKey);
     await Hive.openBox<LevelBased>(levelBasedKey);

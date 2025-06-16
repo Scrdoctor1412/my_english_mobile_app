@@ -2,6 +2,7 @@ import 'package:englens/src/configs/hive/app_hive.dart';
 import 'package:englens/src/data/models/collocations.dart';
 import 'package:englens/src/data/models/eng_proverbs.dart';
 import 'package:englens/src/data/models/idioms.dart';
+import 'package:englens/src/data/models/learning_category.dart';
 import 'package:englens/src/data/models/level_based.dart';
 import 'package:englens/src/data/models/phrasal_verbs.dart';
 import 'package:englens/src/data/models/schedule_notification.dart';
@@ -47,6 +48,10 @@ abstract interface class LocalData extends GetxController {
   List<PhrasalVerbs> getPhrasalVerbs();
 
   Future<void> savePhrasalVerbs(List<PhrasalVerbs> phrasalVerbs);
+
+  List<LearningCategory> getLearningCategory();
+
+  Future<void> saveLearningCategories(List<LearningCategory> learningCategory);
 }
 
 class HiveDatabase extends GetxController implements LocalData {
@@ -183,5 +188,22 @@ class HiveDatabase extends GetxController implements LocalData {
         (phrasalVerbs) => MapEntry(phrasalVerbs.title, phrasalVerbs),
       ),
     ));
+  }
+
+  @override
+  List<LearningCategory> getLearningCategory() {
+    return _appHive.learningCategoryBox.values.toList();
+  }
+
+  @override
+  Future<void> saveLearningCategories(
+      List<LearningCategory> learningCategory) async {
+    await _appHive.learningCategoryBox.putAll(
+      Map.fromEntries(
+        learningCategory.map(
+          (e) => MapEntry(e.id, e),
+        ),
+      ),
+    );
   }
 }

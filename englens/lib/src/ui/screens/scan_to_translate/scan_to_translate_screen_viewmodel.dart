@@ -47,12 +47,16 @@ class ScanToTranslateScreenViewmodel extends GetViewModelBase {
   }
 
   Future<void> _processImage() async {
-    final inputImage = InputImage.fromFilePath(imageFile!.path);
-    final textRec = TextRecognizer();
-    final RecognizedText recognizedText =
-        await textRec.processImage(inputImage);
-    String extractText = recognizedText.text;
-    print(extractText);
+    try {
+      final inputImage = InputImage.fromFilePath(imageFile!.path);
+      final textRec = TextRecognizer();
+      final RecognizedText recognizedText =
+          await textRec.processImage(inputImage);
+      String extractText = recognizedText.text;
+      print(extractText);
+    } catch (e) {
+      debugPrint(e.toString());
+    }
   }
 
   void onTapShowBottomSheetMedia() async {

@@ -3,6 +3,7 @@ import 'dart:convert';
 import 'package:englens/src/data/models/collocations.dart';
 import 'package:englens/src/data/models/eng_proverbs.dart';
 import 'package:englens/src/data/models/idioms.dart';
+import 'package:englens/src/data/models/learning_category.dart';
 import 'package:englens/src/data/models/lesson.dart';
 import 'package:englens/src/data/models/level_based.dart';
 import 'package:englens/src/data/models/phrasal_verbs.dart';
@@ -11,6 +12,7 @@ import 'package:englens/src/data/models/word.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
+import 'package:uuid/uuid.dart';
 
 abstract interface class AssetsData extends GetxController {
   Future<List<Word>> getOxfordWordsByLetter(String letter);
@@ -27,9 +29,25 @@ abstract interface class AssetsData extends GetxController {
   Future<List<Lesson>> getAllCollocationsLesson(String topic);
   Future<List<Lesson>> getAllEngProverbsLesson(String topic);
   Future<List<Lesson>> getAllPhrasalVerbsLesson(String topic);
+
+  Future<List<LearningCategory>> getAllTopicsCat();
+  Future<List<LearningCategory>> getAllLevelBasedCat();
+  Future<List<LearningCategory>> getAllIdiomsCat();
+  Future<List<LearningCategory>> getAllCollocationsCat();
+  Future<List<LearningCategory>> getAllEngProverbsCat();
+  Future<List<LearningCategory>> getAllPhrasalVerbsCat();
+
+  Future<List<Word>> getAllTopicsWords();
+  Future<List<Word>> getAllLevelBasedWords();
+  Future<List<Word>> getAllIdiomsWords();
+  Future<List<Word>> getAllCollocationsWords();
+  Future<List<Word>> getAllEngProverbsWords();
+  Future<List<Word>> getAllPhrasalVerbsWords();
 }
 
 class AssetsDataImpl extends GetxController implements AssetsData {
+  var uuid = const Uuid();
+
   @override
   Future<List<Word>> getOxfordWordsByLetter(String letter) async {
     final path = 'assets/json/oxford_words/$letter.json';
@@ -457,5 +475,274 @@ class AssetsDataImpl extends GetxController implements AssetsData {
       ),
     );
     return await compute(_parseLessons, jsonStrings);
+  }
+
+  @override
+  Future<List<LearningCategory>> getAllCollocationsCat() async {
+    List<String> topics = [
+      "collocations_of_be_place_put_and_more",
+      "collocations_of_do_set_go",
+      "collocations_of_give_keep_come",
+      "collocations_of_make_take_have",
+      "collocations_of_pay_run_break_and_more",
+      "collocations_with_other_verbs",
+      "compound_adverbs",
+      "compound_prepositions",
+    ];
+    List<LearningCategory> collocations = [];
+    for (var topic in topics) {
+      var lessons = await getAllCollocationsLesson(topic);
+      LearningCategory collocationsModel = LearningCategory(
+          id: uuid.v4(),
+          title: topic,
+          lessons: lessons,
+          categoryType: CategoryType.collocations);
+      collocations.add(collocationsModel);
+    }
+    return collocations;
+  }
+
+  @override
+  Future<List<LearningCategory>> getAllEngProverbsCat() async {
+    List<String> topics = [
+      "behavior_attitude_approach",
+      "daily_life",
+      "human_relationships",
+      "human_traits_qualities",
+      "knowledge_wisdom",
+      "notions_feelings",
+      "outcome_impact",
+      "perseverance",
+      "qualities",
+      "situations_states",
+      "social_interaction",
+      "society_law_politics",
+      "virtue_vice",
+      "wealth_success",
+    ];
+
+    List<LearningCategory> engProverbs = [];
+    for (var topic in topics) {
+      var lessons = await getAllEngProverbsLesson(topic);
+      LearningCategory engProverbsModel = LearningCategory(
+          id: uuid.v4(),
+          title: topic,
+          lessons: lessons,
+          categoryType: CategoryType.engProverbs);
+      engProverbs.add(engProverbsModel);
+    }
+    return engProverbs;
+  }
+
+  @override
+  Future<List<LearningCategory>> getAllIdiomsCat() async {
+    List<String> topics = [
+      "amounts",
+      "behavior_approach",
+      "certainty_possibility",
+      "danger",
+      "decision_control",
+      "describing_people",
+      "describing_qualities",
+      "difficulty",
+      "everyday_life",
+      "failure",
+      "feelings",
+      "influence_involvement",
+      "interactions",
+      "knowledge_understanding",
+      "opinion",
+      "perseverance",
+      "personality",
+      "relationship",
+      "society_law_politics",
+      "success",
+      "time",
+      "truth_secrecy_deception",
+      "work_money",
+    ];
+    List<LearningCategory> idioms = [];
+    for (var topic in topics) {
+      var lessons = await getAllIdiomsLesson(topic);
+      LearningCategory idiomsModel = LearningCategory(
+        id: uuid.v4(),
+        title: topic,
+        lessons: lessons,
+        categoryType: CategoryType.idioms,
+      );
+      idioms.add(idiomsModel);
+    }
+    return idioms;
+  }
+
+  @override
+  Future<List<LearningCategory>> getAllLevelBasedCat() async {
+    List<String> levelBasedNames = [
+      "a1_level",
+      "a2_level",
+      "b1_level",
+      "b2_level",
+      "c1_level",
+      "c2_level",
+    ];
+
+    List<LearningCategory> levelBasedList = [];
+    for (var levelBased in levelBasedNames) {
+      var lessons = await getAllLevelBasedLesson(levelBased);
+      LearningCategory levelBasedModel = LearningCategory(
+        id: uuid.v4(),
+        title: levelBased,
+        lessons: lessons,
+        categoryType: CategoryType.levelBased,
+      );
+      levelBasedList.add(levelBasedModel);
+    }
+    return levelBasedList;
+  }
+
+  @override
+  Future<List<LearningCategory>> getAllPhrasalVerbsCat() async {
+    List<String> topic = [
+      "phrasal_verbs_using_around_over_along",
+      "phrasal_verbs_using_back_through_with_at_by",
+      "phrasal_verbs_using_down_away",
+      "phrasal_verbs_using_into_to_about_for",
+      "phrasal_verbs_using_off_in",
+      "phrasal_verbs_using_on_upon",
+      "phrasal_verbs_using_out",
+      "phrasal_verbs_using_together_against_apart_others",
+      "phrasal_verbs_using_up",
+    ];
+    // List<PhrasalVerbs> phrasalVerbs = [];
+    List<LearningCategory> phrasalVerbs = [];
+    for (var topic in topic) {
+      var lessons = await getAllPhrasalVerbsLesson(topic);
+      LearningCategory phrasalVerb = LearningCategory(
+          id: uuid.v4(),
+          title: topic,
+          lessons: lessons,
+          categoryType: CategoryType.phraselVerbs);
+      phrasalVerbs.add(phrasalVerb);
+    }
+    return phrasalVerbs;
+  }
+
+  @override
+  Future<List<LearningCategory>> getAllTopicsCat() async {
+    List<String> topicNames = [
+      "agreement_and_disagreement",
+      "animals",
+      "appearance",
+      "art",
+      "body",
+      "certainty_and_doubt",
+      "cinema_and_theater",
+      "colors_and_shapes",
+      "decision_suggestion_obligation",
+      "eating_drinking_and_serving",
+      "education",
+      "food_and_drink_preparation",
+      "food_and_drinks",
+      "food_ingredients",
+      "health_and_sickness",
+      "hobbies_games",
+      "land_transportation",
+      "literature",
+      "music",
+      "opinion_and_argument",
+      "personal_care",
+      "sports",
+      "words_related_to_architecture_and_construction",
+      "words_related_to_home_and_garden",
+      "words_related_to_linguistics",
+      "words_related_to_media_and_communication",
+      "words_related_to_medical_science",
+      "words_related_to_performing_arts"
+    ];
+
+    List<LearningCategory> topics = [];
+    for (var topic in topicNames) {
+      List<Lesson> lessons = await getAllTopicsLesson(topic);
+      LearningCategory topicModel = LearningCategory(
+        id: uuid.v4(),
+        title: topic,
+        lessons: lessons,
+        categoryType: CategoryType.topic,
+      );
+      topics.add(topicModel);
+    }
+    return topics;
+  }
+
+  @override
+  Future<List<Word>> getAllTopicsWords() async {
+    List<LearningCategory> topics = await getAllTopicsCat();
+    List<Word> words = [];
+    for (var topic in topics) {
+      for (var lesson in topic.lessons!) {
+        words = [...words, ...lesson.wordList!];
+      }
+    }
+    return words;
+  }
+
+  @override
+  Future<List<Word>> getAllCollocationsWords() async {
+    List<LearningCategory> topics = await getAllCollocationsCat();
+    List<Word> words = [];
+    for (var topic in topics) {
+      for (var lesson in topic.lessons!) {
+        words = [...words, ...lesson.wordList!];
+      }
+    }
+    return words;
+  }
+
+  @override
+  Future<List<Word>> getAllEngProverbsWords() async {
+    List<LearningCategory> topics = await getAllEngProverbsCat();
+    List<Word> words = [];
+    for (var topic in topics) {
+      for (var lesson in topic.lessons!) {
+        words = [...words, ...lesson.wordList!];
+      }
+    }
+    return words;
+  }
+
+  @override
+  Future<List<Word>> getAllIdiomsWords() async {
+    List<LearningCategory> topics = await getAllIdiomsCat();
+    List<Word> words = [];
+    for (var topic in topics) {
+      for (var lesson in topic.lessons!) {
+        words = [...words, ...lesson.wordList!];
+      }
+    }
+    return words;
+  }
+
+  @override
+  Future<List<Word>> getAllLevelBasedWords() async {
+    List<LearningCategory> topics = await getAllLevelBasedCat();
+    List<Word> words = [];
+    for (var topic in topics) {
+      for (var lesson in topic.lessons!) {
+        words = [...words, ...lesson.wordList!];
+      }
+    }
+    return words;
+  }
+
+  @override
+  Future<List<Word>> getAllPhrasalVerbsWords() async {
+    List<LearningCategory> topics = await getAllPhrasalVerbsCat();
+    List<Word> words = [];
+    for (var topic in topics) {
+      for (var lesson in topic.lessons!) {
+        words = [...words, ...lesson.wordList!];
+      }
+    }
+    return words;
   }
 }
