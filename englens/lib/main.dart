@@ -19,7 +19,7 @@ void main() async {
   ]);
 
   await TranslationService.init(const Locale('vi', 'en'));
-  await LocalWordService.initData();
+  await LocalWordService.initData2();
 
   // Set System UI overlay style
   SystemChrome.setSystemUIOverlayStyle(

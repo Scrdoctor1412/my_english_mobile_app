@@ -1,5 +1,6 @@
 import 'package:dotted_border/dotted_border.dart';
 import 'package:englens/src/ui/screens/scan_to_translate/scan_to_translate_screen_viewmodel.dart';
+import 'package:englens/src/ui/widget/custom_search_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -24,41 +25,120 @@ class ScanToTranslateScreen extends StatelessWidget {
           );
         }
 
-        _body() {
-          return Stack(
-            children: [
-              Container(
-                height: screenHeight,
-                width: screenWdith,
-                padding: const EdgeInsets.all(12),
-                child: DottedBorder(
-                  borderType: BorderType.RRect,
-                  radius: Radius.circular(8),
-                  dashPattern: [6, 6],
-                  child: SizedBox(),
-                ),
-              ),
-              Center(
-                child: InkWell(
-                  onTap: () async {
-                    controller.onTapShowBottomSheetMedia();
-                  },
-                  child: SizedBox(
-                    width: 120,
-                    child: Row(
-                      mainAxisAlignment: MainAxisAlignment.center,
+        _customSearchBar() {
+          return CustomSearchBar();
+        }
+
+        _pictureDisplay() {
+          return controller.imageBytes != null
+              ? Container(
+                  // height: 220,
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                  ),
+                  height: screenHeight * 0.55,
+                  width: screenWdith,
+                  child: Image.memory(controller.imageBytes!),
+                )
+              : DottedBorder(
+                  padding: EdgeInsets.symmetric(
+                    vertical: 100,
+                  ),
+                  dashPattern: [8, 8],
+                  radius: Radius.circular(32),
+                  child: Center(
+                    child: Column(
                       children: [
-                        Icon(Icons.camera_alt),
-                        const SizedBox(width: 8),
-                        Text(
-                          'Add picture',
+                        SizedBox(
+                          height: 220,
+                          child: Image.asset(
+                              'assets/images/scan_translate/picture_holder_2.png'),
+                        ),
+                        const SizedBox(height: 12),
+                        Text('Add picture to start translate'),
+                        const SizedBox(
+                          height: 26,
+                        ),
+                        ElevatedButton(
+                          onPressed: () {
+                            controller.onTapShowBottomSheetMedia();
+                          },
+                          child: Text('Add picture'),
                         ),
                       ],
                     ),
                   ),
-                ),
+                );
+        }
+
+        _body() {
+          return SingleChildScrollView(
+            physics: NeverScrollableScrollPhysics(),
+            child: Container(
+              height: screenHeight,
+              child: Column(
+                children: [
+                  _customSearchBar(),
+                  const SizedBox(
+                    height: 22,
+                  ),
+                  Padding(
+                    padding: const EdgeInsets.symmetric(
+                      horizontal: 12,
+                    ),
+                    child: _pictureDisplay(),
+                  ),
+                  // const SizedBox(
+                  //   height: 26,
+                  // ),
+                  // const Spacer(),
+                  if (controller.imageBytes != null) ...[
+                    Container(
+                      padding: const EdgeInsets.symmetric(
+                        vertical: 60,
+                      ),
+                      child: Column(
+                        children: [
+                          SizedBox(
+                            width: 190,
+                            child: ElevatedButton(
+                              onPressed: () {
+                                // controller.onTapShowBottomSheetMedia();
+                                controller.onTapShowBottomSheetTranslate();
+                              },
+                              child: Row(
+                                mainAxisAlignment: MainAxisAlignment.center,
+                                children: [
+                                  Icon(Icons.translate),
+                                  const SizedBox(width: 8),
+                                  Text('Scan Image'),
+                                ],
+                              ),
+                            ),
+                          ),
+                          SizedBox(
+                            width: 190,
+                            child: ElevatedButton(
+                              onPressed: () {
+                                controller.onTapShowBottomSheetMedia();
+                              },
+                              child: Row(
+                                mainAxisAlignment: MainAxisAlignment.center,
+                                children: [
+                                  Icon(Icons.camera_alt),
+                                  const SizedBox(width: 8),
+                                  Text("Take picture"),
+                                ],
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ],
+                ],
               ),
-            ],
+            ),
           );
         }
 

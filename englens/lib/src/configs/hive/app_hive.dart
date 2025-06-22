@@ -55,6 +55,7 @@ class AppHive extends GetxController {
     Hive.registerAdapter(CollocationsAdapter());
     Hive.registerAdapter(EngProverbsAdapter());
     Hive.registerAdapter(PhrasalVerbsAdapter());
+    Hive.registerAdapter(CategoryTypeAdapter());
 
     // await Hive.deleteBoxFromDisk(wordKey)
 

@@ -3,11 +3,13 @@ import 'dart:convert';
 import 'package:englens/src/data/models/collocations.dart';
 import 'package:englens/src/data/models/eng_proverbs.dart';
 import 'package:englens/src/data/models/idioms.dart';
+import 'package:englens/src/data/models/learning_category.dart';
 import 'package:englens/src/data/models/level_based.dart';
 import 'package:englens/src/data/models/phrasal_verbs.dart';
 import 'package:englens/src/data/models/topic.dart';
 import 'package:englens/src/data/models/word.dart';
 import 'package:englens/src/data/repositories/expressions_repository.dart';
+import 'package:englens/src/data/repositories/learning_category_repository.dart';
 import 'package:englens/src/data/repositories/level_based_repository.dart';
 import 'package:englens/src/data/repositories/oxford_words_repository.dart';
 import 'package:englens/src/data/repositories/topics_repository.dart';
@@ -23,6 +25,8 @@ class LocalWordService {
       Get.find<TopicsRepositoryImpl>();
   static final OxfordWordsRepositoryImpl _oxfordWordsRepositoryImpl =
       Get.find<OxfordWordsRepositoryImpl>();
+  static final LearningCategoryRepositoryImpl _learningCategoryRepositoryImpl =
+      Get.find<LearningCategoryRepositoryImpl>();
 
   static List<LevelBased> listLevelBased = [];
   static List<Topic> listTopics = [];
@@ -88,6 +92,26 @@ class LocalWordService {
     words = [...words, ...oxfordWords];
 
     // await saveListWordToGlobalWordList(words);
+  }
+
+  static Future<void> initData2() async {
+    await Future.wait([
+      _learningCategoryRepositoryImpl.initData(),
+      _oxfordWordsRepositoryImpl.initData(),
+    ]);
+
+    var learningCategory =
+        _learningCategoryRepositoryImpl.getAllLearningCategory();
+
+    for (var item in learningCategory) {
+      for (var lesson in item.lessons!) {
+        words = [...words, ...lesson.wordList!];
+      }
+    }
+
+    oxfordWords = _oxfordWordsRepositoryImpl.getAllOxfordWords();
+
+    words = [...words, ...oxfordWords];
   }
 
   static List<Word> getAllWordsFromLocal() {

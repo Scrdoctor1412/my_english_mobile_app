@@ -1,6 +1,7 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
 import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/data/models/word.dart';
+import 'package:englens/src/service/local_word_service.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen_viewmodel.dart';
 import 'package:flutter/material.dart';
@@ -25,6 +26,8 @@ class WordSearchScreenViewmodel extends GetViewModelBase {
     if (Get.arguments != null) {
       WordSearchScreenArgs args = Get.arguments as WordSearchScreenArgs;
       wordList = args.wordList;
+    } else {
+      wordList = LocalWordService.getAllWordsFromLocal();
     }
   }
 

@@ -2,6 +2,7 @@ import 'package:englens/src/configs/hive/app_hive.dart';
 import 'package:englens/src/data/data_sources/assets_data.dart';
 import 'package:englens/src/data/data_sources/local_data.dart';
 import 'package:englens/src/data/repositories/expressions_repository.dart';
+import 'package:englens/src/data/repositories/learning_category_repository.dart';
 import 'package:englens/src/data/repositories/level_based_repository.dart';
 import 'package:englens/src/data/repositories/oxford_words_repository.dart';
 import 'package:englens/src/data/repositories/topics_repository.dart';
@@ -42,6 +43,7 @@ class DI {
         LevelBasedRepositoryImpl(assetsData: assetsData, localData: localData));
     Get.put(ExpressionsRepositoryImpl(
         assetsData: assetsData, localData: localData));
-  
+    Get.put(LearningCategoryRepositoryImpl(
+        assetsData: assetsData, localData: localData));
   }
 }
