@@ -1,17 +1,19 @@
 import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/data/models/idioms.dart';
+import 'package:englens/src/data/models/learning_category.dart';
 import 'package:englens/src/data/repositories/expressions_repository.dart';
+import 'package:englens/src/data/repositories/learning_category_repository.dart';
 import 'package:get/get.dart';
 
 class IdiomsScreenViewmodel extends GetViewModelBase {
-  final _expressionRepo = Get.find<ExpressionsRepositoryImpl>();
-  late List<Idioms> idiomsList;
+  final _expressionRepo = Get.find<LearningCategoryRepositoryImpl>();
+  late List<LearningCategory> idiomsList;
 
   @override
   void onInit() {
     // TODO: implement onInit
     super.onInit();
-    idiomsList = _expressionRepo.getAllIdioms();
+    idiomsList = _expressionRepo.getAllIdiomsCat();
   }
 
   int countLessonWords(int index) {

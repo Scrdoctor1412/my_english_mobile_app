@@ -141,6 +141,7 @@ class CollocationsScreen extends StatelessWidget {
                                   'assets/images/expressions/collocations/${controller.collocationsList[index].title}.jpg',
                               topicTitle: snakeCaseToNormal(
                                   controller.collocationsList[index].title),
+                              topicId: controller.collocationsList[index].id,
                             ),
                           );
                         },

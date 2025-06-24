@@ -13,7 +13,10 @@ import 'package:flutter/widgets.dart';
 import 'package:get/get.dart';
 import 'package:camera/camera.dart';
 import 'package:google_mlkit_text_recognition/google_mlkit_text_recognition.dart';
+import 'package:hive_flutter/adapters.dart';
+import 'package:image_cropper/image_cropper.dart';
 import 'package:image_picker/image_picker.dart';
+import 'package:translator/translator.dart';
 
 enum MediaType { camera, gallery }
 
@@ -35,16 +38,50 @@ class ScanToTranslateScreenViewmodel extends GetViewModelBase {
   @override
   void onInit() {
     super.onInit();
-    words = LocalWordService.getAllWordsFromLocal();
+    initData();
+  }
+
+  void initData() async {
+    words = await LocalWordService.getAllWordsFromLocal();
   }
 
   Future<void> pickImageFromGallery() async {
     try {
       final XFile? image = await _picker.pickImage(source: ImageSource.gallery);
+
       if (image != null) {
-        imageFile = File(image.path);
-        imageBytes = await image.readAsBytes();
-        update();
+        CroppedFile? croppedFile = await ImageCropper().cropImage(
+          sourcePath: image.path,
+          uiSettings: [
+            AndroidUiSettings(
+              toolbarTitle: 'Cropper',
+              toolbarColor: ThemePrimary.primaryBlue,
+              toolbarWidgetColor: Colors.white,
+              aspectRatioPresets: [
+                CropAspectRatioPreset.original,
+                CropAspectRatioPreset.square,
+                // CropAspectRatioPresetCustom(),
+              ],
+              lockAspectRatio: false,
+            ),
+            IOSUiSettings(
+              title: 'Cropper',
+              aspectRatioPresets: [
+                CropAspectRatioPreset.original,
+                CropAspectRatioPreset.square,
+                // CropAspectRatioPresetCustom(), // IMPORTANT: iOS supports only one custom aspect ratio in preset list
+              ],
+              // lockAspectRatio: false,
+              aspectRatioLockEnabled: false,
+            ),
+          ],
+        );
+        if (croppedFile != null) {
+          imageFile = File(croppedFile.path);
+          imageBytes = await imageFile!.readAsBytes();
+          update();
+        }
+
         // _processImage();
       }
     } catch (e) {
@@ -77,6 +114,7 @@ class ScanToTranslateScreenViewmodel extends GetViewModelBase {
           await textRec.processImage(inputImage);
       String extractText = recognizedText.text;
       print(extractText);
+
       return extractText;
     } catch (e) {
       debugPrint(e.toString());
@@ -86,8 +124,28 @@ class ScanToTranslateScreenViewmodel extends GetViewModelBase {
 
   void onTapSpecificWord(String word) {
     var index = words.indexWhere((element) =>
-        element.word.toLowerCase().trim() == word.toLowerCase().trim());
+        element.word
+            .toLowerCase()
+            .trim()
+            .replaceAll(RegExp(r'[^a-zA-Z0-9\s]'), '') ==
+        word.toLowerCase().trim().replaceAll(RegExp(r'[^a-zA-Z0-9\s]'), ''));
+    // print(word.toLowerCase().trim().replaceAll(RegExp(r'[^a-zA-Z0-9\s]'), ''));
     print(index);
+    // print(words.length);
+  }
+
+  Future<String> _onTranslateText(String input) async {
+    try {
+      final translator = GoogleTranslator();
+      var res = await translator.translate(input, from: 'en', to: 'vi');
+      if (res != null) {
+        return res.text;
+      }
+      return "";
+    } catch (e) {
+      debugPrint(e.toString());
+      return "";
+    }
   }
 
   void onTapShowBottomSheetTranslate() async {
@@ -100,50 +158,131 @@ class ScanToTranslateScreenViewmodel extends GetViewModelBase {
 
     a = a.replaceAll("\n", " ");
 
+    var translatedText = await _onTranslateText(a);
+    if (translatedText == "") {
+      Get.back();
+    }
+    // print(translatedText);
+
     List<String> listText = a.split(" ");
+    List<String> listTranslatedText = translatedText.split(" ");
 
     if (a != "") {
       await showModalBottomSheet(
         context: context!,
         isScrollControlled: true,
+        backgroundColor: Colors.transparent,
         builder: (context) {
           return Container(
             width: MediaQuery.of(context).size.width,
             height: MediaQuery.of(context).size.height * 0.8,
-            padding: const EdgeInsets.only(top: 12, left: 12, right: 12),
+            decoration: BoxDecoration(
+              color: Colors.grey.shade100,
+              borderRadius: BorderRadius.only(
+                topLeft: Radius.circular(22),
+                topRight: Radius.circular(22),
+              ),
+            ),
             child: SingleChildScrollView(
               child: Column(
                 children: [
-                  Text(
-                    "Extracted Text",
-                    style: TextStyle(
-                      fontSize: 20,
-                      fontWeight: FontWeight.w600,
+                  Align(
+                    alignment: Alignment.topCenter,
+                    child: Container(
+                      // width: MediaQuery.of(context).size.width,
+                      // color: Colors.blue,
+                      padding: const EdgeInsets.symmetric(vertical: 12),
+                      child: Text(
+                        "Translate",
+                        style: TextStyle(
+                          fontSize: 20,
+                          fontWeight: FontWeight.w600,
+                        ),
+                      ),
                     ),
                   ),
-                  const SizedBox(
-                    height: 22,
+                  Divider(
+                    color: Colors.grey.shade500,
                   ),
-                  RichText(
-                    text: TextSpan(
-                      style: TextStyle(
-                        fontSize: 18,
-                        color: Colors.black,
-                        wordSpacing: 6,
-                      ),
+                  Padding(
+                    padding:
+                        const EdgeInsets.only(top: 12, left: 12, right: 12),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        ...listText
-                            .map(
-                              (e) => TextSpan(
-                                text: "$e ",
-                                recognizer: TapGestureRecognizer()
-                                  ..onTap = () {
-                                    print(e);
-                                    onTapSpecificWord(e);
-                                  },
+                        const SizedBox(
+                          height: 22,
+                        ),
+                        Text(
+                          'Translate Text',
+                          style: TextStyle(
+                            fontSize: 19,
+                            fontWeight: FontWeight.w700,
+                          ),
+                        ),
+                        const SizedBox(height: 12),
+                        Container(
+                          decoration: BoxDecoration(
+                            color: Colors.white,
+                            borderRadius: BorderRadius.circular(12),
+                          ),
+                          padding: const EdgeInsets.symmetric(
+                            horizontal: 12,
+                            vertical: 12,
+                          ),
+                          child: Text(
+                            translatedText,
+                            style: TextStyle(
+                              fontSize: 18,
+                              color: Colors.black,
+                              // wordSpacing: 6,
+                            ),
+                          ),
+                        ),
+                        const SizedBox(
+                          height: 22,
+                        ),
+                        Text(
+                          'Original Text',
+                          style: TextStyle(
+                            fontSize: 19,
+                            fontWeight: FontWeight.w700,
+                          ),
+                        ),
+                        const SizedBox(height: 12),
+                        Container(
+                          decoration: BoxDecoration(
+                            color: Colors.white,
+                            borderRadius: BorderRadius.circular(12),
+                          ),
+                          padding: const EdgeInsets.symmetric(
+                            horizontal: 12,
+                            vertical: 12,
+                          ),
+                          child: RichText(
+                            text: TextSpan(
+                              style: TextStyle(
+                                fontSize: 18,
+                                color: Colors.black,
+                                wordSpacing: 6,
                               ),
-                            )
-                            .toList(),
+                              children: [
+                                ...listText
+                                    .map(
+                                      (e) => TextSpan(
+                                        text: "$e ",
+                                        recognizer: TapGestureRecognizer()
+                                          ..onTap = () {
+                                            // print(e);
+                                            onTapSpecificWord(e);
+                                          },
+                                      ),
+                                    )
+                                    .toList(),
+                              ],
+                            ),
+                          ),
+                        ),
                       ],
                     ),
                   ),

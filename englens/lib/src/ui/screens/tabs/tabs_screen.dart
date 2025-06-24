@@ -69,7 +69,7 @@ class TabsScreen extends StatelessWidget {
                 NavigationDestination(
                     icon: Icon(
                       Icons.book,
-                      color: controller.tabIndex == 3
+                      color: controller.tabIndex == 2
                           ? Colors.white
                           : Colors.black,
                     ),
@@ -77,7 +77,7 @@ class TabsScreen extends StatelessWidget {
                 NavigationDestination(
                     icon: Icon(
                       Icons.settings,
-                      color: controller.tabIndex == 4
+                      color: controller.tabIndex == 3
                           ? Colors.white
                           : Colors.black,
                     ),

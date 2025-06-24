@@ -1,11 +1,13 @@
 import 'package:englens/src/core/base_view_model.dart';
+import 'package:englens/src/data/models/learning_category.dart';
 import 'package:englens/src/data/models/topic.dart';
+import 'package:englens/src/data/repositories/learning_category_repository.dart';
 import 'package:englens/src/data/repositories/topics_repository.dart';
 import 'package:get/get.dart';
 
 class TopicRelatedScreenViewmodel extends GetViewModelBase {
-  final _topicsRepo = Get.find<TopicsRepositoryImpl>();
-  late List<Topic> topicsList;
+  final _topicsRepo = Get.find<LearningCategoryRepositoryImpl>();
+  late List<LearningCategory> topicsList;
 
   @override
   void onInit() {
@@ -14,7 +16,7 @@ class TopicRelatedScreenViewmodel extends GetViewModelBase {
   }
 
   _onGetAllTopics() {
-    var list = _topicsRepo.getAllTopics();
+    var list = _topicsRepo.getAllTopicCat();
     topicsList = list;
     print(topicsList.length);
     // _calculateLessonsWords();

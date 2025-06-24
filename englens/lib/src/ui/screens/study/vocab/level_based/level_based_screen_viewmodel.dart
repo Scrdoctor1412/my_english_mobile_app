@@ -1,11 +1,13 @@
 import 'package:englens/src/core/base_view_model.dart';
+import 'package:englens/src/data/models/learning_category.dart';
 import 'package:englens/src/data/models/level_based.dart';
+import 'package:englens/src/data/repositories/learning_category_repository.dart';
 import 'package:englens/src/data/repositories/level_based_repository.dart';
 import 'package:get/get.dart';
 
 class LevelBasedScreenViewmodel extends GetViewModelBase {
-  final _levelBasedRepo = Get.find<LevelBasedRepositoryImpl>();
-  late List<LevelBased> levelBasedList;
+  final _levelBasedRepo = Get.find<LearningCategoryRepositoryImpl>();
+  late List<LearningCategory> levelBasedList;
 
   @override
   void onInit() {
@@ -14,7 +16,7 @@ class LevelBasedScreenViewmodel extends GetViewModelBase {
   }
 
   _onGetAllLevelBased() {
-    var list = _levelBasedRepo.getAllLevelBased();
+    var list = _levelBasedRepo.getAllLevelBasedCat();
     levelBasedList = list;
     print(levelBasedList.length);
   }

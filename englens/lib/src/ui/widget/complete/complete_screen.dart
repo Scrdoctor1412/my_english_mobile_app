@@ -42,21 +42,23 @@ class CompleteScreen extends StatelessWidget {
                 ),
                 const SizedBox(height: 12),
                 controller.type == CompleteScreenType.flashcard
-                    ? TextButton(
-                        onPressed: () {
-                          controller.onTapToDifficultWords();
-                        },
-                        child: Row(
-                          mainAxisAlignment: MainAxisAlignment.center,
-                          children: [
-                            Text(
-                              'See ${controller.listMapWordIncorrectKeys.length} difficult words',
-                              style: TextStyle(fontSize: 22),
+                    ? controller.listMapWordIncorrectKeys.isNotEmpty
+                        ? TextButton(
+                            onPressed: () {
+                              controller.onTapToDifficultWords();
+                            },
+                            child: Row(
+                              mainAxisAlignment: MainAxisAlignment.center,
+                              children: [
+                                Text(
+                                  'See ${controller.listMapWordIncorrectKeys.length} difficult words',
+                                  style: TextStyle(fontSize: 22),
+                                ),
+                                Icon(Icons.chevron_right),
+                              ],
                             ),
-                            Icon(Icons.chevron_right),
-                          ],
-                        ),
-                      )
+                          )
+                        : SizedBox()
                     : SizedBox(),
                 const SizedBox(height: 90),
                 SizedBox(

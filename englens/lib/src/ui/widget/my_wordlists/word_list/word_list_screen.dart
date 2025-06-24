@@ -25,11 +25,30 @@ class WordListScreen extends StatelessWidget {
             // foregroundColor: Colors.black,
             centerTitle: true,
             actions: [
-              IconButton(
-                onPressed: () {},
-                icon: Icon(Icons.add),
-              ),
+              if (controller.fromScreen == ToWordListFromScreen.neutral)
+                IconButton(
+                  onPressed: () {
+                    controller.onTapToStudyWord();
+                  },
+                  icon: Icon(Icons.add),
+                ),
+              if (controller.isOnLongPress)
+                IconButton(
+                  onPressed: () {
+                    // controller.onTapToStudyWord();
+                    controller.onAcceptSelect();
+                  },
+                  icon: Icon(Icons.check),
+                )
             ],
+            leading: controller.isOnLongPress
+                ? IconButton(
+                    icon: Icon(Icons.close),
+                    onPressed: () {
+                      controller.onCancelSelect();
+                    },
+                  )
+                : null,
           );
         }
 
@@ -58,32 +77,40 @@ class WordListScreen extends StatelessWidget {
 
         _wordItem(int index) {
           return Slidable(
-            endActionPane: ActionPane(
-              motion: ScrollMotion(),
-              children: [
-                SlidableAction(
-                  onPressed: (context) {
-                    controller.onTapEditWord(index);
-                  },
-                  backgroundColor: ThemePrimary.primaryOrange,
-                  foregroundColor: Colors.white,
-                  icon: Icons.edit,
-                  label: 'Edit',
-                ),
-                SlidableAction(
-                  onPressed: (context) {
-                    controller.onTapDeleteWord(index);
-                  },
-                  backgroundColor: Colors.red,
-                  foregroundColor: Colors.white,
-                  icon: Icons.delete,
-                  label: 'Delete',
-                )
-              ],
-            ),
+            endActionPane: controller.fromScreen == ToWordListFromScreen.neutral
+                ? ActionPane(
+                    motion: ScrollMotion(),
+                    children: [
+                      // SlidableAction(
+                      //   onPressed: (context) {
+                      //     controller.onTapEditWord(index);
+                      //   },
+                      //   backgroundColor: ThemePrimary.primaryOrange,
+                      //   foregroundColor: Colors.white,
+                      //   icon: Icons.edit,
+                      //   label: 'Edit',
+                      // ),
+                      SlidableAction(
+                        onPressed: (context) {
+                          controller.onTapDeleteWord(index);
+                        },
+                        backgroundColor: Colors.red,
+                        foregroundColor: Colors.white,
+                        icon: Icons.delete,
+                        label: 'Delete',
+                      )
+                    ],
+                  )
+                : null,
             child: InkWell(
               onTap: () {
-                controller.onTapToWordDetails(controller.wordList[index]);
+                controller.isOnLongPress
+                    ? controller.onPressSelectOrDeselect(index)
+                    : controller.onTapToWordDetails(controller.wordList[index]);
+              },
+              onLongPress: () {
+                // print("on longf press");
+                controller.onLongPress(index);
               },
               child: Container(
                 padding: const EdgeInsets.only(
@@ -92,7 +119,9 @@ class WordListScreen extends StatelessWidget {
                   top: 10,
                 ),
                 decoration: BoxDecoration(
-                  color: Colors.white,
+                  color: controller.wordSelected[index]
+                      ? Colors.grey.shade300
+                      : Colors.white,
                   borderRadius: index == 0
                       ? BorderRadius.only(
                           topLeft: Radius.circular(12),
@@ -140,9 +169,9 @@ class WordListScreen extends StatelessWidget {
                     const SizedBox(
                       height: 10,
                     ),
-                    Divider(
-                      color: ThemePrimary.grey.withAlpha(80),
-                    ),
+                    // Divider(
+                    //   color: ThemePrimary.grey.withAlpha(80),
+                    // ),
                   ],
                 ),
               ),
@@ -159,10 +188,17 @@ class WordListScreen extends StatelessWidget {
                       padding: const EdgeInsets.symmetric(
                         horizontal: 12,
                       ),
-                      child: ListView.builder(
+                      child: ListView.separated(
                         padding: const EdgeInsets.symmetric(vertical: 12),
                         itemBuilder: (context, index) => _wordItem(index),
                         itemCount: controller.wordList.length,
+                        separatorBuilder: (context, index) => Container(
+                          color: Colors.white,
+                          padding: const EdgeInsets.symmetric(horizontal: 12),
+                          child: Divider(
+                            color: ThemePrimary.grey.withAlpha(80),
+                          ),
+                        ),
                       ),
                     );
         }

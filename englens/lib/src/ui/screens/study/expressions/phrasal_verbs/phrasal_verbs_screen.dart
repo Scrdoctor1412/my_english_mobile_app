@@ -142,6 +142,7 @@ class PhrasalVerbsScreen extends StatelessWidget {
                                   'assets/images/expressions/phrasal_verbs/${controller.phrasalVerbsList[index].title}.jpg',
                               topicTitle: snakeCaseToNormal(
                                   controller.phrasalVerbsList[index].title),
+                              topicId: controller.phrasalVerbsList[index].id,
                             ),
                           );
                         },

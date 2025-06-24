@@ -27,8 +27,13 @@ class WordSearchScreenViewmodel extends GetViewModelBase {
       WordSearchScreenArgs args = Get.arguments as WordSearchScreenArgs;
       wordList = args.wordList;
     } else {
-      wordList = LocalWordService.getAllWordsFromLocal();
+      initData();
     }
+  }
+
+  void initData() async {
+    wordList = await LocalWordService.getAllWordsFromLocal();
+    update();
   }
 
   void onSearch(String value) {

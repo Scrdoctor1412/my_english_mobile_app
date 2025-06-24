@@ -78,7 +78,7 @@ class ScanToTranslateScreen extends StatelessWidget {
               height: screenHeight,
               child: Column(
                 children: [
-                  _customSearchBar(),
+                  // _customSearchBar(),
                   const SizedBox(
                     height: 22,
                   ),
@@ -111,7 +111,10 @@ class ScanToTranslateScreen extends StatelessWidget {
                                 children: [
                                   Icon(Icons.translate),
                                   const SizedBox(width: 8),
-                                  Text('Scan Image'),
+                                  Text(
+                                    'Scan Image',
+                                    style: TextStyle(fontSize: 16),
+                                  ),
                                 ],
                               ),
                             ),
@@ -127,7 +130,10 @@ class ScanToTranslateScreen extends StatelessWidget {
                                 children: [
                                   Icon(Icons.camera_alt),
                                   const SizedBox(width: 8),
-                                  Text("Take picture"),
+                                  Text(
+                                    "Take picture",
+                                    style: TextStyle(fontSize: 16),
+                                  ),
                                 ],
                               ),
                             ),

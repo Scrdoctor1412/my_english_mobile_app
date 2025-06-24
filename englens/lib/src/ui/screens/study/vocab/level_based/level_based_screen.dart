@@ -140,6 +140,7 @@ class LevelBasedScreen extends StatelessWidget {
                                   'assets/images/level_based/${controller.levelBasedList[index].title}.jpg',
                               topicTitle: snakeCaseToNormal(
                                   controller.levelBasedList[index].title),
+                              topicId: controller.levelBasedList[index].id,
                             ),
                           );
                         },

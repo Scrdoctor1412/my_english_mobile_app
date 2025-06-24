@@ -65,6 +65,7 @@ dependencies:
   flutter_slidable: ^4.0.0
   font_awesome_flutter: ^10.8.0
   translator: ^1.0.3+1
+  image_cropper: ^9.1.0
 
 
  
@@ -115,6 +116,7 @@ flutter:
     - assets/images/expressions/collocations/
     - assets/images/expressions/eng_proverbs/
     - assets/images/expressions/phrasal_verbs/
+    - assets/images/learning_category/
     - assets/icons/
     - assets/fonts/
     - assets/json/

@@ -34,12 +34,15 @@ class LessonDetailsScreen extends StatelessWidget {
             ),
             actions: [
               IconButton(
-                icon: const Icon(
+                icon: Icon(
                   Icons.bookmark_add_outlined,
-                  color: Colors.black,
+                  color: controller.isBookmarkBook
+                      ? ThemePrimary.primaryBlue
+                      : Colors.black,
                 ),
                 onPressed: () {
                   // Perform search action
+                  controller.onTapToggleBookmarkBook();
                 },
               ),
             ],
@@ -187,8 +190,15 @@ class LessonDetailsScreen extends StatelessWidget {
                   child: Row(
                     children: [
                       IconButton(
-                        onPressed: () {},
-                        icon: Icon(Icons.bookmark_add_outlined),
+                        onPressed: () {
+                          controller.onTapBookmarkLesson(index);
+                        },
+                        icon: Icon(
+                          Icons.bookmark_add_outlined,
+                          color: controller.isBookmarkLessons[index]
+                              ? ThemePrimary.primaryBlue
+                              : Colors.black,
+                        ),
                       ),
                       // IconButton(
                       //   onPressed: () {},

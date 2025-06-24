@@ -139,6 +139,7 @@ class TopicRelatedScreen extends StatelessWidget {
                                   'assets/images/topics/${controller.topicsList[index].title}.jpg',
                               topicTitle: snakeCaseToNormal(
                                   controller.topicsList[index].title),
+                              topicId: controller.topicsList[index].id,
                             ),
                           );
                         },

@@ -29,6 +29,14 @@ class EnglishHandbookScreenViewmodel extends GetViewModelBase
   _onGetAllOxfordWords() {
     var list = _oxfordWordsRepo.getAllOxfordWords();
     // test = list;
+    list = list
+        .where(
+          (element) => element.pos.toLowerCase() != "none",
+        )
+        .toList();
+
+    list.sort((a, b) => a.word.toLowerCase().compareTo(b.word.toLowerCase()));
+
     wordList = list;
   }
 

@@ -52,6 +52,8 @@ abstract interface class LocalData extends GetxController {
   List<LearningCategory> getLearningCategory();
 
   Future<void> saveLearningCategories(List<LearningCategory> learningCategory);
+
+  Future<void> updateLearningCategory(LearningCategory learningCategory);
 }
 
 class HiveDatabase extends GetxController implements LocalData {
@@ -112,7 +114,7 @@ class HiveDatabase extends GetxController implements LocalData {
     await _appHive.wordBox.putAll(
       Map.fromEntries(
         words.map(
-          (word) => MapEntry(word.index, word),
+          (word) => MapEntry(word.id, word),
         ),
       ),
     );
@@ -205,5 +207,11 @@ class HiveDatabase extends GetxController implements LocalData {
         ),
       ),
     );
+  }
+
+  @override
+  Future<void> updateLearningCategory(LearningCategory learningCategory) async {
+    await _appHive.learningCategoryBox
+        .put(learningCategory.id, learningCategory);
   }
 }

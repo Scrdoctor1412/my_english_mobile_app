@@ -5,6 +5,7 @@ import 'package:englens/src/data/data_sources/local_data.dart';
 import 'package:englens/src/data/models/word.dart';
 import 'package:englens/src/utils/extensions/list_extensions.dart';
 import 'package:get/get.dart';
+import 'package:uuid/uuid.dart';
 
 abstract interface class OxfordWordsRepository {
   Future<void> initData();
@@ -29,8 +30,10 @@ class OxfordWordsRepositoryImpl extends GetxController
   Future<void> initData() async {
     final currentWords = _localData.getWords();
     if (currentWords.isNotEmpty) return;
+    var uuid = Uuid();
     final words = (await _assetsData.getAllOxfordWords()).mapIndexed(
       (index, word) {
+        word.id = uuid.v4();
         word.index = index + 1;
         return word;
       },

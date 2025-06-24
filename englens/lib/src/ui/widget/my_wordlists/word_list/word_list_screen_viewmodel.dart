@@ -2,6 +2,8 @@ import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/data/models/word.dart';
 import 'package:englens/src/data/repositories/user_words_repository.dart';
 import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/ui/screens/tabs/tabs_screen.dart';
+import 'package:englens/src/ui/screens/tabs/tabs_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/loading_dialog.dart';
 import 'package:englens/src/ui/widget/my_wordlists/word_list/word_list_edit_screen/word_list_edit_screen.dart';
 import 'package:englens/src/ui/widget/my_wordlists/word_list/word_list_edit_screen/word_list_edit_screen_viewmodel.dart';
@@ -12,10 +14,17 @@ import 'package:flutter/material.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:get/get_navigation/src/extension_navigation.dart';
 
+enum ToWordListFromScreen { neutral, randomFlashCard }
+
 class WordListScreenArgs {
   final String title;
   final String wordListId;
-  WordListScreenArgs({required this.wordListId, required this.title});
+  final ToWordListFromScreen fromScreen;
+  WordListScreenArgs({
+    required this.wordListId,
+    required this.title,
+    this.fromScreen = ToWordListFromScreen.neutral,
+  });
 }
 
 class WordListScreenViewmodel extends GetViewModelBase {
@@ -24,8 +33,14 @@ class WordListScreenViewmodel extends GetViewModelBase {
   late String title;
   late String wordListId;
   List<Word> wordList = [];
+  List<bool> wordSelected = [];
+
+  ToWordListFromScreen fromScreen = ToWordListFromScreen.neutral;
 
   bool isLoading = true;
+
+  bool isOnLongPress = false;
+  List<int> longPressSelectIndex = [];
 
   @override
   void onInit() {
@@ -35,6 +50,7 @@ class WordListScreenViewmodel extends GetViewModelBase {
       WordListScreenArgs args = Get.arguments as WordListScreenArgs;
       wordListId = args.wordListId;
       title = args.title;
+      fromScreen = args.fromScreen;
     }
     initData();
   }
@@ -43,7 +59,42 @@ class WordListScreenViewmodel extends GetViewModelBase {
     var res =
         await _userWordsRepository.getAllUsersWords(wordListId: wordListId);
     wordList = res;
+    wordSelected = List.generate(wordList.length, (index) => false);
     isLoading = false;
+    update();
+  }
+
+  void onCancelSelect() {
+    isOnLongPress = false;
+    longPressSelectIndex.clear();
+    wordSelected.asMap().forEach((key, value) {
+      wordSelected[key] = false;
+    });
+    update();
+  }
+
+  void onAcceptSelect() {
+    var listWordRes =
+        longPressSelectIndex.map((index) => wordList[index]).toList();
+    Get.back(result: listWordRes);
+  }
+
+  void onLongPress(int index) {
+    isOnLongPress = true;
+    longPressSelectIndex.add(index);
+    wordSelected[index] = true;
+    update();
+  }
+
+  void onPressSelectOrDeselect(int index) {
+    wordSelected[index] = !wordSelected[index];
+    if (wordSelected[index]) {
+      longPressSelectIndex.add(index);
+    } else {
+      longPressSelectIndex.remove(index);
+    }
+    // longPressSelectIndex.remove(index);
+
     update();
   }
 
@@ -65,7 +116,12 @@ class WordListScreenViewmodel extends GetViewModelBase {
     );
   }
 
-  void onTapCreateWord() {}
+  void onTapToStudyWord() {
+    Get.offAllNamed(
+      TabsScreen.routeName,
+      arguments: TabsScreenViewArgs(tabIndex: 1),
+    );
+  }
 
   void onTapDeleteWord(int index) async {
     await showCustomAlertDialog(

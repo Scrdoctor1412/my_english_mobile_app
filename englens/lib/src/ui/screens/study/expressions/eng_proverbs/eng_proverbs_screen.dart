@@ -140,7 +140,9 @@ class EngProverbsScreen extends StatelessWidget {
                               lessonImage:
                                   'assets/images/expressions/eng_proverbs/${controller.engProverbsList[index].title}.jpg',
                               topicTitle: snakeCaseToNormal(
-                                  controller.engProverbsList[index].title),
+                                controller.engProverbsList[index].title,
+                              ),
+                              topicId: controller.engProverbsList[index].id,
                             ),
                           );
                         },

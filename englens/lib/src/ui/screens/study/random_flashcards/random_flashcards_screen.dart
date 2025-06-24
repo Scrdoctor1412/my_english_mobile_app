@@ -1,3 +1,4 @@
+import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/screens/study/random_flashcards/random_flashcards_screen_viewmodel.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get_state_manager/src/simple/get_state.dart';
@@ -18,6 +19,7 @@ class RandomFlashcardsScreen extends StatelessWidget {
         _appBar() {
           return AppBar(
             title: Text('Flashcards'),
+            backgroundColor: ThemePrimary.primaryOrange,
           );
         }
 
@@ -67,7 +69,8 @@ class RandomFlashcardsScreen extends StatelessWidget {
         _randomFromWordListBlock() {
           return InkWell(
             onTap: () {
-              controller.onTapCardDeckPreparation();
+              // controller.onTapCardDeckPreparation();
+              controller.onTapToWordList();
             },
             child: Container(
               width: screenWdith,
@@ -88,6 +91,19 @@ class RandomFlashcardsScreen extends StatelessWidget {
                   ),
                   const SizedBox(height: 8),
                   Text('Choose words from your word list to review'),
+                  const SizedBox(height: 12),
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.end,
+                    children: [
+                      SizedBox(
+                        width: 80,
+                        height: 80,
+                        child: Image.asset(
+                          'assets/images/study/flashcard.png',
+                        ),
+                      ),
+                    ],
+                  ),
                 ],
               ),
             ),

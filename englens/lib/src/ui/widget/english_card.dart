@@ -55,11 +55,14 @@ class EnglishCard extends StatelessWidget {
         children: [
           Row(
             children: [
-              AutoSizeText(
-                word.word,
-                style: TextStyle(
-                  fontSize: 28,
-                  fontWeight: FontWeight.w600,
+              Expanded(
+                child: AutoSizeText(
+                  word.word,
+                  style: TextStyle(
+                    fontSize: 23,
+                    fontWeight: FontWeight.w600,
+                  ),
+                  maxLines: 2,
                 ),
               ),
               const Spacer(),
@@ -90,26 +93,36 @@ class EnglishCard extends StatelessWidget {
               //   },
               //   icon: Icon(Icons.volume_up_rounded),
               // ),
-              Icon(Icons.volume_up_rounded),
-              // Text('/ə/'),
-              Text(word.phoneticText),
-              IconButton(
-                onPressed: () {
+              InkWell(
+                onTap: () {
                   onTapPlayAudio(audioUrl: word.phonetic);
                 },
-                icon: Icon(Icons.volume_up_rounded),
+                child: Icon(Icons.volume_up_rounded),
               ),
+              const SizedBox(width: 12),
               // Text('/ə/'),
-              Text(word.phoneticAmText),
+              word.phoneticText != ""
+                  ? Text(word.phoneticText)
+                  : Text('/$word.pronunciation!/'),
+              if (word.phoneticAmText != "") ...[
+                IconButton(
+                  onPressed: () {
+                    onTapPlayAudio(audioUrl: word.phonetic);
+                  },
+                  icon: Icon(Icons.volume_up_rounded),
+                ),
+                // Text('/ə/'),
+                Text(word.phoneticAmText),
+              ],
             ],
           ),
           Expanded(
             child: AutoSizeText(
               // 'used to show that somebody/something is a member of a group or profession',
               word.senses[0].definition,
-              // style: TextStyle(
-              //   fontSize: 15,
-              // ),
+              style: TextStyle(
+                fontSize: 15,
+              ),
             ),
           ),
         ],

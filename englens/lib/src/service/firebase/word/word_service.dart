@@ -159,8 +159,8 @@ class WordService extends GetxController {
         }
       }
 
-      var id = uuid.v4();
-      word.id = id;
+      // var id = uuid.v4();
+      // word.id = id;
       var jsonWord = word.toMap();
 
       await _fireStore
@@ -169,7 +169,7 @@ class WordService extends GetxController {
           .collection('wordlist')
           .doc(wordListId)
           .collection('words')
-          .doc(id)
+          .doc(word.id)
           .set(jsonWord)
           .then(
         (value) {

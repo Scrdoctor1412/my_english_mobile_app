@@ -1,17 +1,19 @@
 import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/data/models/collocations.dart';
+import 'package:englens/src/data/models/learning_category.dart';
 import 'package:englens/src/data/repositories/expressions_repository.dart';
+import 'package:englens/src/data/repositories/learning_category_repository.dart';
 import 'package:get/get.dart';
 
 class CollocationsScreenViewmodel extends GetViewModelBase {
-  final _expressionRepo = Get.find<ExpressionsRepositoryImpl>();
-  late List<Collocations> collocationsList;
+  final _expressionRepo = Get.find<LearningCategoryRepositoryImpl>();
+  late List<LearningCategory> collocationsList;
 
   @override
   void onInit() {
     // TODO: implement onInit
     super.onInit();
-    collocationsList = _expressionRepo.getAllCollocations();
+    collocationsList = _expressionRepo.getAllCollocationsCat();
   }
 
   int countLessonWords(int index) {

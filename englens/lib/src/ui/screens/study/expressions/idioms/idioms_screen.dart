@@ -139,6 +139,7 @@ class IdiomsScreen extends StatelessWidget {
                                   'assets/images/expressions/idioms/${controller.idiomsList[index].title}.jpg',
                               topicTitle: snakeCaseToNormal(
                                   controller.idiomsList[index].title),
+                              topicId: controller.idiomsList[index].id,
                             ),
                           );
                         },

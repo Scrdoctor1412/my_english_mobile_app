@@ -17,82 +17,15 @@ import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class LocalWordService {
-  static final ExpressionsRepositoryImpl _expressionsRepositoryImpl =
-      Get.find<ExpressionsRepositoryImpl>();
-  static final LevelBasedRepositoryImpl _levelBasedRepositoryImpl =
-      Get.find<LevelBasedRepositoryImpl>();
-  static final TopicsRepositoryImpl _topicsRepositoryImpl =
-      Get.find<TopicsRepositoryImpl>();
   static final OxfordWordsRepositoryImpl _oxfordWordsRepositoryImpl =
       Get.find<OxfordWordsRepositoryImpl>();
   static final LearningCategoryRepositoryImpl _learningCategoryRepositoryImpl =
       Get.find<LearningCategoryRepositoryImpl>();
 
-  static List<LevelBased> listLevelBased = [];
-  static List<Topic> listTopics = [];
-  static List<Idioms> listIdioms = [];
-  static List<EngProverbs> listEngProverbs = [];
-  static List<Collocations> listCollocations = [];
-  static List<PhrasalVerbs> listPhrasalVerbs = [];
   static List<Word> oxfordWords = [];
   static List<Word> words = [];
 
   LocalWordService._();
-
-  static Future<void> initData() async {
-    await Future.wait([
-      _expressionsRepositoryImpl.initData(),
-      _levelBasedRepositoryImpl.initData(),
-      _topicsRepositoryImpl.initData(),
-      _oxfordWordsRepositoryImpl.initData(),
-    ]);
-
-    listLevelBased = _levelBasedRepositoryImpl.getAllLevelBased();
-    listTopics = _topicsRepositoryImpl.getAllTopics();
-    listIdioms = _expressionsRepositoryImpl.getAllIdioms();
-    listEngProverbs = _expressionsRepositoryImpl.getAllEngProverbs();
-    listCollocations = _expressionsRepositoryImpl.getAllCollocations();
-    listPhrasalVerbs = _expressionsRepositoryImpl.getAllPhrasalverbs();
-    oxfordWords = _oxfordWordsRepositoryImpl.getAllOxfordWords();
-
-    for (var topic in listLevelBased) {
-      for (var lesson in topic.lessons!) {
-        words = [...words, ...lesson.wordList!];
-      }
-    }
-
-    for (var topic in listTopics) {
-      for (var lesson in topic.lessons!) {
-        words = [...words, ...lesson.wordList!];
-      }
-    }
-
-    for (var topic in listIdioms) {
-      for (var lesson in topic.lessons!) {
-        words = [...words, ...lesson.wordList!];
-      }
-    }
-
-    for (var topic in listEngProverbs) {
-      for (var lesson in topic.lessons!) {
-        words = [...words, ...lesson.wordList!];
-      }
-    }
-
-    for (var topic in listCollocations) {
-      for (var lesson in topic.lessons!) {
-        words = [...words, ...lesson.wordList!];
-      }
-    }
-    for (var topic in listPhrasalVerbs) {
-      for (var lesson in topic.lessons!) {
-        words = [...words, ...lesson.wordList!];
-      }
-    }
-    words = [...words, ...oxfordWords];
-
-    // await saveListWordToGlobalWordList(words);
-  }
 
   static Future<void> initData2() async {
     await Future.wait([
@@ -112,10 +45,23 @@ class LocalWordService {
     oxfordWords = _oxfordWordsRepositoryImpl.getAllOxfordWords();
 
     words = [...words, ...oxfordWords];
+    await getAllWordsFromLocal();
   }
 
-  static List<Word> getAllWordsFromLocal() {
-    return words;
+  static Future<List<Word>> getAllWordsFromLocal() async {
+    return await _learningCategoryRepositoryImpl.getAllWords();
+  }
+
+  static List<LearningCategory> getAllLearningCategory() {
+    return _learningCategoryRepositoryImpl.getAllLearningCategory();
+  }
+
+  static List<Word> getAllOxfordWords() {
+    return _oxfordWordsRepositoryImpl.getAllOxfordWords();
+  }
+
+  static void updateCategory(LearningCategory learningCategory) async {
+    return _learningCategoryRepositoryImpl.updateCategory(learningCategory);
   }
 
   //Hàm lưu danh sách từ vựng tổng từ local
