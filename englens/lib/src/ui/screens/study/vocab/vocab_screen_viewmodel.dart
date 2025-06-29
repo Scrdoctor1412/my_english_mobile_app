@@ -1,10 +1,8 @@
 import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/data/models/learning_category.dart';
-import 'package:englens/src/data/models/level_based.dart';
-import 'package:englens/src/data/models/topic.dart';
+
 import 'package:englens/src/data/repositories/learning_category_repository.dart';
-import 'package:englens/src/data/repositories/level_based_repository.dart';
-import 'package:englens/src/data/repositories/topics_repository.dart';
+
 import 'package:englens/src/ui/screens/study/vocab/level_based/level_based_screen.dart';
 import 'package:englens/src/ui/screens/study/vocab/topic_related/topic_related_screen.dart';
 import 'package:get/get.dart';

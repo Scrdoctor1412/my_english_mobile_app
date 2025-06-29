@@ -16,17 +16,17 @@ class InternetConnectionService {
 
   factory InternetConnectionService.instance() {
     _instance ??= InternetConnectionService._();
-    // if (_instance == null) {
-    //   _instance = InternetConnectionService._();
-    // }
+    if (_instance == null) {
+      _instance = InternetConnectionService._();
+    }
     return _instance!;
   }
 
   InternetConnectionService._() {
-    isConnected().then((result) {
-      print('result: $result');
-      if (result == false) _showNotConnectedDialog();
-    });
+    // isConnected().then((result) {
+    //   print('result: $result');
+    //   if (result == false) _showNotConnectedDialog();
+    // });
     // connectivityStream = connectivity.onConnectivityChanged.listen((result) {
     //   if (result != ConnectivityResult.mobile &&
     //       result != ConnectivityResult.wifi &&

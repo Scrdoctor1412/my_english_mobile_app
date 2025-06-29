@@ -3,6 +3,7 @@ import 'dart:math';
 import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/data/models/word.dart';
 import 'package:englens/src/data/repositories/oxford_words_repository.dart';
+import 'package:englens/src/ui/screens/home/leitner_daily_words/leitner_daily_words_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -30,5 +31,9 @@ class HomeScreenViewmodel extends GetViewModelBase {
       })
     ];
     update();
+  }
+
+  void onTapToLeinerDailyWords() {
+    Get.toNamed(LeitnerDailyWordsScreen.routeName);
   }
 }

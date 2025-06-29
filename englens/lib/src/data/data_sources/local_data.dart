@@ -1,12 +1,10 @@
 import 'package:englens/src/configs/hive/app_hive.dart';
-import 'package:englens/src/data/models/collocations.dart';
-import 'package:englens/src/data/models/eng_proverbs.dart';
-import 'package:englens/src/data/models/idioms.dart';
+
 import 'package:englens/src/data/models/learning_category.dart';
-import 'package:englens/src/data/models/level_based.dart';
-import 'package:englens/src/data/models/phrasal_verbs.dart';
+import 'package:englens/src/data/models/leitner_box.dart';
+
 import 'package:englens/src/data/models/schedule_notification.dart';
-import 'package:englens/src/data/models/topic.dart';
+
 import 'package:englens/src/data/models/word.dart';
 import 'package:get/get.dart';
 import 'package:uuid/uuid.dart';
@@ -25,35 +23,17 @@ abstract interface class LocalData extends GetxController {
 
   List<ScheduleNotification> getScheduleNotifications();
 
-  List<Topic> getTopics();
-
-  Future<void> saveTopics(List<Topic> topics);
-
-  List<LevelBased> getLevelBased();
-
-  Future<void> saveLevelBased(List<LevelBased> levelBased);
-
-  List<Idioms> getIdioms();
-
-  Future<void> saveIdioms(List<Idioms> idioms);
-
-  List<Collocations> getCollocations();
-
-  Future<void> saveCollocations(List<Collocations> collocations);
-
-  List<EngProverbs> getEngProverbs();
-
-  Future<void> saveEngProverbs(List<EngProverbs> engProverbs);
-
-  List<PhrasalVerbs> getPhrasalVerbs();
-
-  Future<void> savePhrasalVerbs(List<PhrasalVerbs> phrasalVerbs);
-
   List<LearningCategory> getLearningCategory();
 
   Future<void> saveLearningCategories(List<LearningCategory> learningCategory);
 
   Future<void> updateLearningCategory(LearningCategory learningCategory);
+
+  Future<void> saveLeitnerBoxes(List<LeitnerBox> leitnerBoxes);
+
+  List<LeitnerBox> getLeitnerBoxes();
+
+  Future<void> updateLeitnerBox(LeitnerBox leitnerBox);
 }
 
 class HiveDatabase extends GetxController implements LocalData {
@@ -63,24 +43,6 @@ class HiveDatabase extends GetxController implements LocalData {
   HiveDatabase({
     required AppHive appHive,
   }) : _appHive = appHive;
-
-  @override
-  List<Topic> getTopics() {
-    return _appHive.topicsBox.values.toList();
-  }
-
-  @override
-  Future<void> saveTopics(List<Topic> topics) async {
-    // TODO: implement saveTopics
-    // throw UnimplementedError();
-    await _appHive.topicsBox.putAll(
-      Map.fromEntries(
-        topics.map(
-          (topic) => MapEntry(topic.title, topic),
-        ),
-      ),
-    );
-  }
 
   @override
   List<ScheduleNotification> getScheduleNotifications() {
@@ -121,78 +83,6 @@ class HiveDatabase extends GetxController implements LocalData {
   }
 
   @override
-  List<LevelBased> getLevelBased() {
-    // TODO: implement getLevelBased
-    return _appHive.levelBaseBox.values.toList();
-  }
-
-  @override
-  Future<void> saveLevelBased(List<LevelBased> levelBased) async {
-    // TODO: implement saveLevelBased
-    await _appHive.levelBaseBox.putAll(Map.fromEntries(
-      levelBased.map(
-        (levelBased) => MapEntry(levelBased.title, levelBased),
-      ),
-    ));
-  }
-
-  @override
-  List<Collocations> getCollocations() {
-    return _appHive.collocationsBox.values.toList();
-  }
-
-  @override
-  List<EngProverbs> getEngProverbs() {
-    return _appHive.engProverbsBox.values.toList();
-  }
-
-  @override
-  List<Idioms> getIdioms() {
-    return _appHive.idiomsBox.values.toList();
-  }
-
-  @override
-  List<PhrasalVerbs> getPhrasalVerbs() {
-    return _appHive.phrasalVerbs.values.toList();
-  }
-
-  @override
-  Future<void> saveCollocations(List<Collocations> collocations) async {
-    await _appHive.collocationsBox.putAll(Map.fromEntries(
-      collocations.map(
-        (collocations) => MapEntry(collocations.title, collocations),
-      ),
-    ));
-  }
-
-  @override
-  Future<void> saveEngProverbs(List<EngProverbs> engProverbs) async {
-    await _appHive.engProverbsBox.putAll(Map.fromEntries(
-      engProverbs.map(
-        (engProverbs) => MapEntry(engProverbs.title, engProverbs),
-      ),
-    ));
-  }
-
-  @override
-  Future<void> saveIdioms(List<Idioms> idioms) async {
-    await _appHive.idiomsBox.putAll(Map.fromEntries(
-      idioms.map(
-        (idioms) => MapEntry(idioms.title, idioms),
-      ),
-    ));
-  }
-
-  @override
-  Future<void> savePhrasalVerbs(List<PhrasalVerbs> phrasalVerbs) async {
-    await _appHive.phrasalVerbs.putAll(Map.fromEntries(
-      phrasalVerbs.map(
-        (phrasalVerbs) => MapEntry(phrasalVerbs.title, phrasalVerbs),
-      ),
-    ));
-  }
-
-  @override
   List<LearningCategory> getLearningCategory() {
     return _appHive.learningCategoryBox.values.toList();
   }
@@ -213,5 +103,26 @@ class HiveDatabase extends GetxController implements LocalData {
   Future<void> updateLearningCategory(LearningCategory learningCategory) async {
     await _appHive.learningCategoryBox
         .put(learningCategory.id, learningCategory);
+  }
+
+  @override
+  List<LeitnerBox> getLeitnerBoxes() {
+    return _appHive.leitnerBoxBox.values.toList();
+  }
+
+  @override
+  Future<void> saveLeitnerBoxes(List<LeitnerBox> leitnerBoxes) async {
+    await _appHive.leitnerBoxBox.putAll(
+      Map.fromEntries(
+        leitnerBoxes.map(
+          (e) => MapEntry(e.index, e),
+        ),
+      ),
+    );
+  }
+
+  @override
+  Future<void> updateLeitnerBox(LeitnerBox leitnerBox) async {
+    _appHive.leitnerBoxBox.put(leitnerBox.index, leitnerBox);
   }
 }

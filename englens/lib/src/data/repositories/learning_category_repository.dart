@@ -5,7 +5,6 @@ import 'package:englens/src/data/models/word.dart';
 import 'package:englens/src/utils/extensions/list_extensions.dart';
 import 'package:get/get.dart';
 import 'package:uuid/uuid.dart';
-import 'package:uuid/v4.dart';
 
 abstract interface class LearningCategoryRepository {
   Future<void> initData();

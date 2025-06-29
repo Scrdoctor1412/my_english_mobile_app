@@ -3,6 +3,8 @@ import 'package:englens/src/data/models/user_internal.dart';
 import 'package:englens/src/service/firebase/auth/auth_service.dart';
 import 'package:englens/src/ui/screens/english_handbook/english_handbook_screen.dart';
 import 'package:englens/src/ui/screens/english_handbook/english_handbook_screen_viewmodel.dart';
+import 'package:englens/src/ui/screens/home/leitner_daily_words/leitner_box/leitner_box_screen.dart';
+import 'package:englens/src/ui/screens/home/leitner_daily_words/leitner_daily_words_screen.dart';
 import 'package:englens/src/ui/screens/login/register/register_screen.dart';
 import 'package:englens/src/ui/screens/study/expressions/collocations/collocations_screen.dart';
 import 'package:englens/src/ui/screens/study/expressions/eng_proverbs/eng_proverbs_screen.dart';
@@ -245,6 +247,18 @@ class AppRouter {
       name: BookmarkScreen.routeName,
       page: () => BookmarkScreen(),
       binding: GetBinding(BookmarkScreen.routeName),
+    ),
+
+    //Leitner box
+    GetPage(
+      name: LeitnerDailyWordsScreen.routeName,
+      page: () => LeitnerDailyWordsScreen(),
+      binding: GetBinding(LeitnerDailyWordsScreen.routeName),
+    ),
+    GetPage(
+      name: LeitnerBoxScreen.routeName,
+      page: () => LeitnerBoxScreen(),
+      binding: GetBinding(LeitnerBoxScreen.routeName),
     ),
   ];
 }

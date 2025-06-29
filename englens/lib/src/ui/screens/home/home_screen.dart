@@ -130,63 +130,66 @@ class HomeScreen extends StatelessWidget {
         }
 
         _wordBoxBlock() {
-          return Container(
-            width: screenWidth / 2.3,
-            height: 75,
-            decoration: BoxDecoration(
-              color: Colors.white,
-              borderRadius: BorderRadius.circular(12),
-              boxShadow: [
-                BoxShadow(
-                  color: Colors.black.withAlpha(48),
-                  offset: Offset(0, 2),
-                  blurRadius: 10,
-                )
-              ],
-            ),
-            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Expanded(
-                  child: Row(
-                    children: [
-                      Icon(
-                        // Icons.list_alt_rounded,
-                        Icons.view_in_ar_rounded,
-                        color: ThemePrimary.primaryOrange,
-                      ),
-                      // FaIcon(FontAwesomeIcons.cube),
-                      const Spacer(),
-                      // Container(
-                      //   height: 26,
-                      //   width: 26,
-                      //   decoration: BoxDecoration(
-                      //     color: ThemePrimary.primaryOrange,
-                      //     borderRadius: BorderRadius.circular(50),
-                      //   ),
-                      //   child: Center(
-                      //     child: Text(
-                      //       '2',
-                      //       style: TextStyle(
-                      //         color: Colors.white,
-                      //         fontWeight: FontWeight.w600,
-                      //       ),
-                      //     ),
-                      //   ),
-                      // ),
-                    ],
+          return InkWell(
+            onTap: () => controller.onTapToLeinerDailyWords(),
+            child: Container(
+              width: screenWidth / 2.3,
+              height: 75,
+              decoration: BoxDecoration(
+                color: Colors.white,
+                borderRadius: BorderRadius.circular(12),
+                boxShadow: [
+                  BoxShadow(
+                    color: Colors.black.withAlpha(48),
+                    offset: Offset(0, 2),
+                    blurRadius: 10,
+                  )
+                ],
+              ),
+              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Expanded(
+                    child: Row(
+                      children: [
+                        Icon(
+                          // Icons.list_alt_rounded,
+                          Icons.view_in_ar_rounded,
+                          color: ThemePrimary.primaryOrange,
+                        ),
+                        // FaIcon(FontAwesomeIcons.cube),
+                        const Spacer(),
+                        // Container(
+                        //   height: 26,
+                        //   width: 26,
+                        //   decoration: BoxDecoration(
+                        //     color: ThemePrimary.primaryOrange,
+                        //     borderRadius: BorderRadius.circular(50),
+                        //   ),
+                        //   child: Center(
+                        //     child: Text(
+                        //       '2',
+                        //       style: TextStyle(
+                        //         color: Colors.white,
+                        //         fontWeight: FontWeight.w600,
+                        //       ),
+                        //     ),
+                        //   ),
+                        // ),
+                      ],
+                    ),
                   ),
-                ),
-                const SizedBox(height: 8),
-                Text(
-                  'Daily word',
-                  style: TextStyle(
-                    fontSize: 16,
-                    fontWeight: FontWeight.w600,
+                  const SizedBox(height: 8),
+                  Text(
+                    'Daily words',
+                    style: TextStyle(
+                      fontSize: 16,
+                      fontWeight: FontWeight.w600,
+                    ),
                   ),
-                ),
-              ],
+                ],
+              ),
             ),
           );
         }

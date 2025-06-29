@@ -1,5 +1,5 @@
 import 'package:englens/src/core/base_view_model.dart';
-import 'package:englens/src/data/repositories/expressions_repository.dart';
+
 import 'package:englens/src/data/repositories/learning_category_repository.dart';
 import 'package:englens/src/ui/screens/study/expressions/collocations/collocations_screen.dart';
 import 'package:englens/src/ui/screens/study/expressions/eng_proverbs/eng_proverbs_screen.dart';

@@ -16,4 +16,6 @@ class HiveTypes {
   static const phrasalVerbs = 12;
   static const learningCategory = 13;
   static const categoryType = 14;
+  static const leitnerBox = 15;
+  static const leitnerBoxType = 16;
 }

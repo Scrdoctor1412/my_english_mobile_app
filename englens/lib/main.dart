@@ -4,6 +4,7 @@ import 'package:englens/src/configs/di.dart';
 import 'package:englens/src/navigation/app_router.dart';
 
 import 'package:englens/src/service/lang/translation_service.dart';
+import 'package:englens/src/service/leitner_box_service.dart';
 import 'package:englens/src/service/local_word_service.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
@@ -19,7 +20,11 @@ void main() async {
   ]);
 
   await TranslationService.init(const Locale('vi', 'en'));
-  await LocalWordService.initData2();
+
+  await Future.wait([
+    LocalWordService.initData2(),
+    LeitnerBoxService.initData(),
+  ]);
 
   // Set System UI overlay style
   SystemChrome.setSystemUIOverlayStyle(

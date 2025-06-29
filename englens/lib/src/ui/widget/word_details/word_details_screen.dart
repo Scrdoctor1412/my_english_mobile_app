@@ -1,6 +1,7 @@
 import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen_viewmodel.dart';
 import 'package:flutter/material.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:get/get_state_manager/src/simple/get_state.dart';
 import 'package:get/instance_manager.dart';
 
@@ -110,6 +111,32 @@ class WordDetailsScreen extends StatelessWidget {
                           borderRadius: BorderRadius.circular(12),
                         ),
                         child: Icon(Icons.photo_filter),
+                      ),
+                    ),
+                    InkWell(
+                      onTap: () {
+                        // controller.onTapSaveWordToMyWordList(word: word);
+                        controller.onTapToggleWordToLeitnerBox(index);
+                      },
+                      borderRadius: BorderRadius.circular(12),
+                      child: Container(
+                        width: 60,
+                        height: 60,
+                        decoration: BoxDecoration(
+                          color: ThemePrimary.grey.withAlpha(60),
+                          borderRadius: BorderRadius.circular(12),
+                          border: Border.all(
+                            color: controller.isAddToLeitner[index]
+                                ? ThemePrimary.successGreen
+                                : Colors.transparent,
+                            // color: ThemePrimary.successGreen,
+                            width: 3,
+                          ),
+                        ),
+                        child: Icon(
+                          Icons.add_box_outlined,
+                          // color: Colors.white,
+                        ),
                       ),
                     ),
                     InkWell(

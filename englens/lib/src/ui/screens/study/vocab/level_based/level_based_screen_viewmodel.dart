@@ -1,8 +1,8 @@
 import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/data/models/learning_category.dart';
-import 'package:englens/src/data/models/level_based.dart';
+
 import 'package:englens/src/data/repositories/learning_category_repository.dart';
-import 'package:englens/src/data/repositories/level_based_repository.dart';
+
 import 'package:get/get.dart';
 
 class LevelBasedScreenViewmodel extends GetViewModelBase {

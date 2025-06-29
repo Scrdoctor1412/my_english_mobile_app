@@ -1,13 +1,8 @@
 import 'dart:convert';
 
-import 'package:englens/src/data/models/collocations.dart';
-import 'package:englens/src/data/models/eng_proverbs.dart';
-import 'package:englens/src/data/models/idioms.dart';
 import 'package:englens/src/data/models/learning_category.dart';
 import 'package:englens/src/data/models/lesson.dart';
-import 'package:englens/src/data/models/level_based.dart';
-import 'package:englens/src/data/models/phrasal_verbs.dart';
-import 'package:englens/src/data/models/topic.dart';
+
 import 'package:englens/src/data/models/word.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
@@ -17,14 +12,9 @@ import 'package:uuid/uuid.dart';
 abstract interface class AssetsData extends GetxController {
   Future<List<Word>> getOxfordWordsByLetter(String letter);
   Future<List<Word>> getAllOxfordWords();
+
   Future<List<Lesson>> getAllTopicsLesson(String topic);
-  Future<List<Topic>> getAllTopics();
-  Future<List<LevelBased>> getAllLevelBased();
   Future<List<Lesson>> getAllLevelBasedLesson(String level);
-  Future<List<Idioms>> getAllIdioms();
-  Future<List<Collocations>> getAllCollocations();
-  Future<List<EngProverbs>> getAllEngProverbs();
-  Future<List<PhrasalVerbs>> getAllPhrasalVerbs();
   Future<List<Lesson>> getAllIdiomsLesson(String topic);
   Future<List<Lesson>> getAllCollocationsLesson(String topic);
   Future<List<Lesson>> getAllEngProverbsLesson(String topic);
@@ -132,76 +122,6 @@ class AssetsDataImpl extends GetxController implements AssetsData {
     }).toList();
   }
 
-  @override
-  Future<List<Topic>> getAllTopics() async {
-    // TODO: implement getAllTopics
-    List<String> topicNames = [
-      "agreement_and_disagreement",
-      "animals",
-      "appearance",
-      "art",
-      "body",
-      "certainty_and_doubt",
-      "cinema_and_theater",
-      "colors_and_shapes",
-      "decision_suggestion_obligation",
-      "eating_drinking_and_serving",
-      "education",
-      "food_and_drink_preparation",
-      "food_and_drinks",
-      "food_ingredients",
-      "health_and_sickness",
-      "hobbies_games",
-      "land_transportation",
-      "literature",
-      "music",
-      "opinion_and_argument",
-      "personal_care",
-      "sports",
-      "words_related_to_architecture_and_construction",
-      "words_related_to_home_and_garden",
-      "words_related_to_linguistics",
-      "words_related_to_media_and_communication",
-      "words_related_to_medical_science",
-      "words_related_to_performing_arts"
-    ];
-
-    List<Topic> topics = [];
-    for (var topic in topicNames) {
-      List<Lesson> lessons = await getAllTopicsLesson(topic);
-      Topic topicModel = Topic(
-        title: topic,
-        lessons: lessons,
-      );
-      topics.add(topicModel);
-    }
-    return topics;
-  }
-
-  @override
-  Future<List<LevelBased>> getAllLevelBased() async {
-    // TODO: implement getAllLevelBased
-    List<String> levelBasedNames = [
-      "a1_level",
-      "a2_level",
-      "b1_level",
-      "b2_level",
-      "c1_level",
-      "c2_level",
-    ];
-
-    List<LevelBased> levelBasedList = [];
-    for (var levelBased in levelBasedNames) {
-      var lessons = await getAllLevelBasedLesson(levelBased);
-      LevelBased levelBasedModel = LevelBased(
-        title: levelBased,
-        lessons: lessons,
-      );
-      levelBasedList.add(levelBasedModel);
-    }
-    return levelBasedList;
-  }
-
   Future<List<Lesson>> parseLevelBasedLessons(String levelBased) async {
     // final List<String> jsonStrings = [];
     final path = 'assets/json/wordlist_by_level_words/$levelBased';
@@ -234,30 +154,6 @@ class AssetsDataImpl extends GetxController implements AssetsData {
   }
 
   @override
-  Future<List<Collocations>> getAllCollocations() async {
-    List<String> topics = [
-      "collocations_of_be_place_put_and_more",
-      "collocations_of_do_set_go",
-      "collocations_of_give_keep_come",
-      "collocations_of_make_take_have",
-      "collocations_of_pay_run_break_and_more",
-      "collocations_with_other_verbs",
-      "compound_adverbs",
-      "compound_prepositions",
-    ];
-    List<Collocations> collocations = [];
-    for (var topic in topics) {
-      var lessons = await getAllCollocationsLesson(topic);
-      Collocations collocationsModel = Collocations(
-        title: topic,
-        lessons: lessons,
-      );
-      collocations.add(collocationsModel);
-    }
-    return collocations;
-  }
-
-  @override
   Future<List<Lesson>> getAllCollocationsLesson(String topic) async {
     // return await compute(parseCollocationsLessons, topic);
     return await parseCollocationsLessons(topic);
@@ -283,37 +179,6 @@ class AssetsDataImpl extends GetxController implements AssetsData {
       ),
     );
     return compute(_parseLessons, jsonStrings);
-  }
-
-  @override
-  Future<List<EngProverbs>> getAllEngProverbs() async {
-    List<String> topics = [
-      "behavior_attitude_approach",
-      "daily_life",
-      "human_relationships",
-      "human_traits_qualities",
-      "knowledge_wisdom",
-      "notions_feelings",
-      "outcome_impact",
-      "perseverance",
-      "qualities",
-      "situations_states",
-      "social_interaction",
-      "society_law_politics",
-      "virtue_vice",
-      "wealth_success",
-    ];
-
-    List<EngProverbs> engProverbs = [];
-    for (var topic in topics) {
-      var lessons = await getAllEngProverbsLesson(topic);
-      EngProverbs engProverbsModel = EngProverbs(
-        title: topic,
-        lessons: lessons,
-      );
-      engProverbs.add(engProverbsModel);
-    }
-    return engProverbs;
   }
 
   @override
@@ -346,42 +211,6 @@ class AssetsDataImpl extends GetxController implements AssetsData {
           end + 1, (i) => rootBundle.loadString('$path/lesson_$i.json')),
     );
     return compute(_parseLessons, jsonStrings);
-  }
-
-  @override
-  Future<List<Idioms>> getAllIdioms() async {
-    List<String> topics = [
-      "amounts",
-      "behavior_approach",
-      "certainty_possibility",
-      "danger",
-      "decision_control",
-      "describing_people",
-      "describing_qualities",
-      "difficulty",
-      "everyday_life",
-      "failure",
-      "feelings",
-      "influence_involvement",
-      "interactions",
-      "knowledge_understanding",
-      "opinion",
-      "perseverance",
-      "personality",
-      "relationship",
-      "society_law_politics",
-      "success",
-      "time",
-      "truth_secrecy_deception",
-      "work_money",
-    ];
-    List<Idioms> idioms = [];
-    for (var topic in topics) {
-      var lessons = await getAllIdiomsLesson(topic);
-      Idioms idiomsModel = Idioms(title: topic, lessons: lessons);
-      idioms.add(idiomsModel);
-    }
-    return idioms;
   }
 
   @override
@@ -425,28 +254,6 @@ class AssetsDataImpl extends GetxController implements AssetsData {
       ),
     );
     return await compute(_parseLessons, jsonStrings);
-  }
-
-  @override
-  Future<List<PhrasalVerbs>> getAllPhrasalVerbs() async {
-    List<String> topic = [
-      "phrasal_verbs_using_around_over_along",
-      "phrasal_verbs_using_back_through_with_at_by",
-      "phrasal_verbs_using_down_away",
-      "phrasal_verbs_using_into_to_about_for",
-      "phrasal_verbs_using_off_in",
-      "phrasal_verbs_using_on_upon",
-      "phrasal_verbs_using_out",
-      "phrasal_verbs_using_together_against_apart_others",
-      "phrasal_verbs_using_up",
-    ];
-    List<PhrasalVerbs> phrasalVerbs = [];
-    for (var topic in topic) {
-      var lessons = await getAllPhrasalVerbsLesson(topic);
-      PhrasalVerbs phrasalVerb = PhrasalVerbs(title: topic, lessons: lessons);
-      phrasalVerbs.add(phrasalVerb);
-    }
-    return phrasalVerbs;
   }
 
   @override

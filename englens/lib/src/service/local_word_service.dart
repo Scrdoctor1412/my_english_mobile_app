@@ -1,18 +1,13 @@
 import 'dart:convert';
 
-import 'package:englens/src/data/models/collocations.dart';
-import 'package:englens/src/data/models/eng_proverbs.dart';
-import 'package:englens/src/data/models/idioms.dart';
 import 'package:englens/src/data/models/learning_category.dart';
-import 'package:englens/src/data/models/level_based.dart';
-import 'package:englens/src/data/models/phrasal_verbs.dart';
-import 'package:englens/src/data/models/topic.dart';
+
 import 'package:englens/src/data/models/word.dart';
-import 'package:englens/src/data/repositories/expressions_repository.dart';
+
 import 'package:englens/src/data/repositories/learning_category_repository.dart';
-import 'package:englens/src/data/repositories/level_based_repository.dart';
+
 import 'package:englens/src/data/repositories/oxford_words_repository.dart';
-import 'package:englens/src/data/repositories/topics_repository.dart';
+
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -48,20 +43,33 @@ class LocalWordService {
     await getAllWordsFromLocal();
   }
 
+  ///Hàm hỗ trợ lấy tất cả từ vựng có trong local
   static Future<List<Word>> getAllWordsFromLocal() async {
     return await _learningCategoryRepositoryImpl.getAllWords();
   }
 
+  ///Hàm Hỗ trợ lấy tất cả các danh mục
   static List<LearningCategory> getAllLearningCategory() {
     return _learningCategoryRepositoryImpl.getAllLearningCategory();
   }
 
+  ///Hàm hỗ trợ lấy các từ vựng Oxford
   static List<Word> getAllOxfordWords() {
     return _oxfordWordsRepositoryImpl.getAllOxfordWords();
   }
 
+  ///Hàm hỗ trợ update danh mục từ vựng
+  ///@param - LearningCategory learningCategory: object đanh mục từ vựng cần update
   static void updateCategory(LearningCategory learningCategory) async {
     return _learningCategoryRepositoryImpl.updateCategory(learningCategory);
+  }
+
+  ///Hám lấy từ
+  ///@param - String wordId: id của từ
+  static Future<Word> getWord(String wordId) async {
+    var words = await LocalWordService.getAllWordsFromLocal();
+    var word = words.firstWhere((element) => element.id == wordId);
+    return word;
   }
 
   //Hàm lưu danh sách từ vựng tổng từ local
