@@ -1,5 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/ui/screens/study/learning_category/learning_category_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/study/vocab/vocab_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/lesson_details/lesson_details_screen.dart';
 import 'package:englens/src/ui/widget/lesson_details/lessons_details_screen_viewmodel.dart';
@@ -8,19 +9,22 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_state_manager/src/simple/get_state.dart';
 
-class VocabScreen extends StatelessWidget {
-  static const routeName = '/vocabScreen';
-  const VocabScreen({Key? key}) : super(key: key);
+class LearningCategoryScreen extends StatelessWidget {
+  static const routeName = '/learningCatScreen';
+  const LearningCategoryScreen({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    return GetBuilder<VocabScreenViewmodel>(
-      init: VocabScreenViewmodel(),
+    return GetBuilder<LearningCategoryScreenViewModel>(
+      init: LearningCategoryScreenViewModel(),
       builder: (controller) {
         _appBar() {
           return AppBar(
-            title: Text('Vocabulary'),
-            backgroundColor: ThemePrimary.lightBlue,
+            title: Text(controller.title),
+            backgroundColor:
+                controller.screenType == LearningCategoryScreenType.expressions
+                    ? ThemePrimary.primaryOrange
+                    : Colors.lightBlue,
           );
         }
 
@@ -50,7 +54,10 @@ class VocabScreen extends StatelessWidget {
                     SizedBox(
                       height: 120,
                       width: 80,
-                      child: Image.asset('assets/images/study/vocab.png'),
+                      child: controller.screenType ==
+                              LearningCategoryScreenType.expressions
+                          ? Image.asset('assets/images/study/expressions.png')
+                          : Image.asset('assets/images/study/vocab.png'),
                     ),
                   ],
                 )
@@ -72,6 +79,7 @@ class VocabScreen extends StatelessWidget {
                 child: InkWell(
                   onTap: () {
                     // Get.toNamed(controller.vocabularySectionScreenName[index]);
+                    controller.onTapToCatLessons(index);
                   },
                   child: _vocabItem(index),
                 ),

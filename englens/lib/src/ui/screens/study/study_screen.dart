@@ -2,6 +2,7 @@ import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/screens/scan_to_translate/scan_to_translate_screen.dart';
 import 'package:englens/src/ui/screens/study/expressions/expressions_screen.dart';
 import 'package:englens/src/ui/screens/study/grammar/grammar_screen.dart';
+import 'package:englens/src/ui/screens/study/learning_category/learning_category_screen_viewmodel.dart';
 
 import 'package:englens/src/ui/screens/study/random_flashcards/random_flashcards_screen.dart';
 import 'package:englens/src/ui/screens/study/study_screen_viewmodel.dart';
@@ -71,7 +72,12 @@ class StudyScreen extends StatelessWidget {
                             image: Image.asset('assets/images/study/vocab.png'),
                             color: Color(0xffe7f5f5),
                             toScreen: () {
-                              Get.toNamed(VocabScreen.routeName);
+                              // Get.toNamed(VocabScreen.routeName);
+                              controller.onTapToLearningCat(
+                                title: "Vocabulary",
+                                screenType:
+                                    LearningCategoryScreenType.vocabulary,
+                              );
                             },
                           ),
                           SmallContentBlockWidget(
@@ -79,8 +85,11 @@ class StudyScreen extends StatelessWidget {
                             subTitle: 'Idioms and phrases',
                             image: Image.asset(
                                 'assets/images/study/expressions.png'),
-                            toScreen: () =>
-                                Get.toNamed(ExpressionsScreen.routeName),
+                            toScreen: () => controller.onTapToLearningCat(
+                              title: "Expressions",
+                              screenType:
+                                  LearningCategoryScreenType.expressions,
+                            ),
                           ),
                           SizedBox(
                             height: 124,

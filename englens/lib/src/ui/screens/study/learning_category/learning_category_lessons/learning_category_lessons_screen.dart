@@ -1,29 +1,34 @@
 import 'package:englens/src/theme/theme_primary.dart';
-import 'package:englens/src/ui/screens/study/vocab/level_based/level_based_screen_viewmodel.dart';
+import 'package:englens/src/ui/screens/study/learning_category/learning_category_lessons/learning_category_lessons_screen_viewmodel.dart';
+import 'package:englens/src/ui/screens/study/learning_category/learning_category_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/lesson_details/lesson_details_screen.dart';
 import 'package:englens/src/ui/widget/lesson_details/lessons_details_screen_viewmodel.dart';
 import 'package:englens/src/utils/helper.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-class LevelBasedScreen extends StatelessWidget {
-  static const routeName = '/levelBasedScreen';
-  const LevelBasedScreen({Key? key}) : super(key: key);
+class LearningCategoryLessonsScreen extends StatelessWidget {
+  static const String routeName = "/learningCatLessosScreen";
+  const LearningCategoryLessonsScreen({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    return GetBuilder<LevelBasedScreenViewmodel>(
-      init: LevelBasedScreenViewmodel(),
+    return GetBuilder<LearningCategoryLessonsScreenViewmodel>(
+      init: LearningCategoryLessonsScreenViewmodel(),
       builder: (controller) {
         _appBar() {
           return AppBar(
-            title: Text('Level-based'),
-            backgroundColor: ThemePrimary.lightBlue,
+            title: Text(controller.title),
+            backgroundColor:
+                controller.screenType == LearningCategoryScreenType.expressions
+                    ? ThemePrimary.primaryOrange
+                    : Colors.lightBlue,
           );
         }
 
-        _wordListByLevelBasedItem(String title, int index) {
+        _wordListByTopicItem(String title, int index) {
           var processedTitle = snakeCaseToNormal(title);
+          String link = controller.getImageLink(title);
 
           return Container(
             width: MediaQuery.of(context).size.width,
@@ -53,7 +58,8 @@ class LevelBasedScreen extends StatelessWidget {
                     child: Hero(
                       tag: 'to_lesson_$processedTitle',
                       child: Image.asset(
-                        'assets/images/level_based/$title.jpg',
+                        // 'assets/images/topics/$title.jpg',
+                        link,
                         fit: BoxFit.fill,
                       ),
                     ),
@@ -87,7 +93,7 @@ class LevelBasedScreen extends StatelessWidget {
                                   width: 8,
                                 ),
                                 Text(
-                                    '${controller.levelBasedList[index].lessons!.length} Lesson'),
+                                    '${controller.topicsList[index].lessons!.length} Lesson'),
                                 const SizedBox(width: 12),
                               ],
                             ),
@@ -116,10 +122,9 @@ class LevelBasedScreen extends StatelessWidget {
           );
         }
 
-        _wordListByLevelBased() {
+        _wordListByTopic() {
           return Padding(
             padding: const EdgeInsets.only(
-              // top: 12,
               left: 12,
               right: 12,
             ),
@@ -134,25 +139,26 @@ class LevelBasedScreen extends StatelessWidget {
                           Get.toNamed(
                             LessonDetailsScreen.routeName,
                             arguments: LessonDetailsScreenViewmodelArgs(
-                              lessons:
-                                  controller.levelBasedList[index].lessons!,
+                              lessons: controller.topicsList[index].lessons!,
                               lessonImage:
-                                  'assets/images/level_based/${controller.levelBasedList[index].title}.jpg',
+                                  // 'assets/images/topics/${controller.topicsList[index].title}.jpg',
+                                  controller.getImageLink(
+                                      controller.topicsList[index].title),
                               topicTitle: snakeCaseToNormal(
-                                  controller.levelBasedList[index].title),
-                              topicId: controller.levelBasedList[index].id,
+                                  controller.topicsList[index].title),
+                              topicId: controller.topicsList[index].id,
                             ),
                           );
                         },
                         child: Padding(
                           padding: const EdgeInsets.only(top: 20),
-                          child: _wordListByLevelBasedItem(
-                              controller.levelBasedList[index].title, index),
+                          child: _wordListByTopicItem(
+                              controller.topicsList[index].title, index),
                         ),
                       );
                     },
                     separatorBuilder: (context, index) => const SizedBox(),
-                    itemCount: controller.levelBasedList.length,
+                    itemCount: controller.topicsList.length,
                   ),
                 ),
               ],
@@ -161,7 +167,7 @@ class LevelBasedScreen extends StatelessWidget {
         }
 
         _body() {
-          return _wordListByLevelBased();
+          return _wordListByTopic();
         }
 
         return Scaffold(

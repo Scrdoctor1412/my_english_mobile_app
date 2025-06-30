@@ -13,18 +13,16 @@ import 'package:flutter/services.dart';
 void main() async {
   // Ensure Flutter bindings are initialized
   WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
 
   await Future.wait([
-    Firebase.initializeApp(),
+    TranslationService.init(const Locale('vi', 'en')),
     DI().init(),
+    // LocalWordService.initData2()
   ]);
 
-  await TranslationService.init(const Locale('vi', 'en'));
-
-  await Future.wait([
-    LocalWordService.initData2(),
-    LeitnerBoxService.initData(),
-  ]);
+  // await TranslationService.init(const Locale('vi', 'en'));
+  await LocalWordService.initData2();
 
   // Set System UI overlay style
   SystemChrome.setSystemUIOverlayStyle(

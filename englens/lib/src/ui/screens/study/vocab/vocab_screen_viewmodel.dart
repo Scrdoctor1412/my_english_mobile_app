@@ -3,8 +3,6 @@ import 'package:englens/src/data/models/learning_category.dart';
 
 import 'package:englens/src/data/repositories/learning_category_repository.dart';
 
-import 'package:englens/src/ui/screens/study/vocab/level_based/level_based_screen.dart';
-import 'package:englens/src/ui/screens/study/vocab/topic_related/topic_related_screen.dart';
 import 'package:get/get.dart';
 
 class VocabScreenViewmodel extends GetViewModelBase {
@@ -16,10 +14,10 @@ class VocabScreenViewmodel extends GetViewModelBase {
     "Topic-related",
   ];
   List<int> vocabSectionTopics = [];
-  List<String> vocabularySectionScreenName = [
-    LevelBasedScreen.routeName,
-    TopicRelatedScreen.routeName,
-  ];
+  // List<String> vocabularySectionScreenName = [
+  //   LevelBasedScreen.routeName,
+  //   TopicRelatedScreen.routeName,
+  // ];
 
   @override
   void onInit() {

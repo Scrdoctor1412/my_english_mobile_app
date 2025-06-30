@@ -6,17 +6,17 @@ import 'package:englens/src/ui/screens/english_handbook/english_handbook_screen_
 import 'package:englens/src/ui/screens/home/leitner_daily_words/leitner_box/leitner_box_screen.dart';
 import 'package:englens/src/ui/screens/home/leitner_daily_words/leitner_daily_words_screen.dart';
 import 'package:englens/src/ui/screens/login/register/register_screen.dart';
-import 'package:englens/src/ui/screens/study/expressions/collocations/collocations_screen.dart';
-import 'package:englens/src/ui/screens/study/expressions/eng_proverbs/eng_proverbs_screen.dart';
+
 import 'package:englens/src/ui/screens/study/expressions/expressions_screen.dart';
-import 'package:englens/src/ui/screens/study/expressions/idioms/idioms_screen.dart';
-import 'package:englens/src/ui/screens/study/expressions/phrasal_verbs/phrasal_verbs_screen.dart';
+
 import 'package:englens/src/ui/screens/study/grammar/grammar_screen.dart';
+import 'package:englens/src/ui/screens/study/learning_category/learning_category_lessons/learning_category_lessons_screen.dart';
+import 'package:englens/src/ui/screens/study/learning_category/learning_category_lessons/learning_category_lessons_screen_viewmodel.dart';
+import 'package:englens/src/ui/screens/study/learning_category/learning_category_screen.dart';
 import 'package:englens/src/ui/screens/study/pronunciation/pronunciation_screen.dart';
 import 'package:englens/src/ui/screens/study/random_flashcards/card_deck_preparation/card_deck_preparation_screen.dart';
 import 'package:englens/src/ui/screens/study/random_flashcards/random_flashcards_screen.dart';
-import 'package:englens/src/ui/screens/study/vocab/level_based/level_based_screen.dart';
-import 'package:englens/src/ui/screens/study/vocab/topic_related/topic_related_screen.dart';
+
 import 'package:englens/src/ui/screens/study/vocab/vocab_screen.dart';
 import 'package:englens/src/ui/widget/complete/complete_screen.dart';
 import 'package:englens/src/ui/widget/complete/difficult_words/difficult_words_screen.dart';
@@ -141,37 +141,7 @@ class AppRouter {
       page: () => ExpressionsScreen(),
       binding: GetBinding(ExpressionsScreen.routeName),
     ),
-    GetPage(
-      name: TopicRelatedScreen.routeName,
-      page: () => TopicRelatedScreen(),
-      binding: GetBinding(TopicRelatedScreen.routeName),
-    ),
-    GetPage(
-      name: LevelBasedScreen.routeName,
-      page: () => LevelBasedScreen(),
-      binding: GetBinding(LevelBasedScreen.routeName),
-    ),
 
-    GetPage(
-      name: IdiomsScreen.routeName,
-      page: () => IdiomsScreen(),
-      binding: GetBinding(IdiomsScreen.routeName),
-    ),
-    GetPage(
-      name: CollocationsScreen.routeName,
-      page: () => CollocationsScreen(),
-      binding: GetBinding(CollocationsScreen.routeName),
-    ),
-    GetPage(
-      name: EngProverbsScreen.routeName,
-      page: () => EngProverbsScreen(),
-      binding: GetBinding(EngProverbsScreen.routeName),
-    ),
-    GetPage(
-      name: PhrasalVerbsScreen.routeName,
-      page: () => PhrasalVerbsScreen(),
-      binding: GetBinding(PhrasalVerbsScreen.routeName),
-    ),
     GetPage(
       name: RandomFlashcardsScreen.routeName,
       page: () => RandomFlashcardsScreen(),
@@ -181,6 +151,16 @@ class AppRouter {
       name: CardDeckPreparationScreen.routeName,
       page: () => CardDeckPreparationScreen(),
       binding: GetBinding(CardDeckPreparationScreen.routeName),
+    ),
+    GetPage(
+      name: LearningCategoryScreen.routeName,
+      page: () => LearningCategoryScreen(),
+      binding: GetBinding(LearningCategoryScreen.routeName),
+    ),
+    GetPage(
+      name: LearningCategoryLessonsScreen.routeName,
+      page: () => LearningCategoryLessonsScreen(),
+      binding: GetBinding(LearningCategoryLessonsScreen.routeName),
     ),
 
     //Word search screen

@@ -66,7 +66,7 @@ class ExpressionsScreen extends StatelessWidget {
                 ),
                 child: InkWell(
                   onTap: () {
-                    Get.toNamed(controller.vocabularySectionScreenName[index]);
+                    // Get.toNamed(controller.vocabularySectionScreenName[index]);
                   },
                   child: _expressionsItem(index),
                 ),
