@@ -9,7 +9,7 @@ import 'package:englens/src/ui/widget/word_details/word_details_screen_viewmodel
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-enum CompleteScreenType { flashcard, wordReview }
+enum CompleteScreenType { flashcard, wordReview, leitnerBox }
 
 class CompleteScreenArgs {
   final String title;
@@ -64,6 +64,11 @@ class CompleteScreenViewmodel extends GetViewModelBase {
         reviewButtonTypeText = "Review";
         flashcardButtonTypeText = "Flashcard Practice";
         break;
+      default:
+        praiseTypeText = "the flashcards";
+        reviewButtonTypeText = "Review";
+        flashcardButtonTypeText = "Reset Flashcard";
+        break;
     }
 
     for (var i = 0; i < listIncorrect.length; i++) {
@@ -97,5 +102,9 @@ class CompleteScreenViewmodel extends GetViewModelBase {
   void onTapToDifficultWords() {
     Get.toNamed(DifficultWordsScreen.routeName,
         arguments: DifficultWordsScreenArgs(listIncorrect: listIncorrect));
+  }
+
+  void onGetBack() {
+    Get.back(result: "yes");
   }
 }

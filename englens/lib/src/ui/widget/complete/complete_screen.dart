@@ -1,6 +1,7 @@
 import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/complete/complete_screen_viewmodel.dart';
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 import 'package:get/get_state_manager/src/simple/get_state.dart';
 
 class CompleteScreen extends StatelessWidget {
@@ -20,6 +21,17 @@ class CompleteScreen extends StatelessWidget {
             ),
             backgroundColor: Colors.transparent,
             foregroundColor: Colors.black,
+            automaticallyImplyLeading: false,
+            leading: IconButton(
+              onPressed: () {
+                if (controller.type == CompleteScreenType.leitnerBox) {
+                  controller.onGetBack();
+                } else {
+                  Get.back();
+                }
+              },
+              icon: Icon(Icons.arrow_back),
+            ),
           );
         }
 

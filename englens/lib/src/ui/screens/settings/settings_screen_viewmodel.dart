@@ -10,6 +10,7 @@ class SettingsScreenViewmodel extends GetViewModelBase {
   double generalMenuHeigth = 60;
   bool isGeneralExpand = false;
   bool notificationSwitchValue = false;
+  bool languageSwitchValue = false;
 
   void onTapToggleGeneralMenu() {
     isGeneralExpand = !isGeneralExpand;
@@ -19,6 +20,11 @@ class SettingsScreenViewmodel extends GetViewModelBase {
 
   void onTapToggleNotification() {
     notificationSwitchValue = !notificationSwitchValue;
+    update();
+  }
+
+  void onTapToggleLanguage() {
+    languageSwitchValue = !languageSwitchValue;
     update();
   }
 

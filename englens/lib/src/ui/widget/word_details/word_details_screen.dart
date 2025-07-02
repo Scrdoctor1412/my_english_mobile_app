@@ -123,6 +123,9 @@ class WordDetailsScreen extends StatelessWidget {
                         width: 60,
                         height: 60,
                         decoration: BoxDecoration(
+                          // color: controller.isAddToLeitner[index]
+                          //     ? Colors.green
+                          //     : ThemePrimary.grey.withAlpha(60),
                           color: ThemePrimary.grey.withAlpha(60),
                           borderRadius: BorderRadius.circular(12),
                           border: Border.all(
@@ -135,6 +138,9 @@ class WordDetailsScreen extends StatelessWidget {
                         ),
                         child: Icon(
                           Icons.add_box_outlined,
+                          color: controller.isAddToLeitner[index]
+                              ? ThemePrimary.successGreen
+                              : Colors.black,
                           // color: Colors.white,
                         ),
                       ),

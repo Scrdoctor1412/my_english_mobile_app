@@ -89,7 +89,10 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
   void initData() async {
     prefs = await SharedPreferences.getInstance();
 
+    //Lấy danh sách các từ đang được thêm vào leitner box
     var listPrefs = prefs.getStringList(AppConstants.leitnerBoxPrefsKey);
+
+    //Trường hợp từ vựng được truyền từ các bài học
     if (words != null && words.isNotEmpty) {
       for (var word in words) {
         if (listPrefs != null && listPrefs.isNotEmpty) {
@@ -99,6 +102,7 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
         }
       }
     } else if (onlyWord != null && onlyWord!.isNotEmpty) {
+      //Trường hợp từ vựng được truyền từ screen Home
       for (var word in onlyWord!) {
         if (listPrefs != null && listPrefs.isNotEmpty) {
           if (listPrefs.contains(word.id)) {
@@ -107,6 +111,7 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
         }
       }
     }
+    print(isAddToLeitner);
     update();
   }
 
@@ -161,11 +166,11 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
         //check trùng
         int isDuplicate = leitnerboxeswordsid
             .indexWhere((element) => element == words[index].id!);
-        if (isDuplicate != -1) {
+        if (isDuplicate == -1) {
           leitnerboxeswordsid.add(words[index].id!);
         }
 
-        prefs.setStringList(
+        await prefs.setStringList(
             AppConstants.leitnerBoxPrefsKey, leitnerboxeswordsid);
       } else if (onlyWord != null && onlyWord!.isNotEmpty) {
         LeitnerBoxService.addNewToLeitnerBox(onlyWord![0].id!);
@@ -175,11 +180,11 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
         //check duplicate
         int isDuplicate = leitnerboxeswordsid
             .indexWhere((element) => element == onlyWord!.first.id!);
-        if (isDuplicate != -1) {
+        if (isDuplicate == -1) {
           leitnerboxeswordsid.add(onlyWord!.first.id!);
         }
 
-        prefs.setStringList(
+        await prefs.setStringList(
             AppConstants.leitnerBoxPrefsKey, leitnerboxeswordsid);
       }
     } else {
@@ -192,7 +197,7 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
           listPrefs.removeWhere((element) => element == onlyWord![0].id);
         }
 
-        prefs.setStringList(AppConstants.leitnerBoxPrefsKey, listPrefs);
+        await prefs.setStringList(AppConstants.leitnerBoxPrefsKey, listPrefs);
       }
     }
 

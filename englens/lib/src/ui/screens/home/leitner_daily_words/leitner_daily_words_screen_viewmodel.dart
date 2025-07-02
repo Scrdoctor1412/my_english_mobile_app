@@ -6,6 +6,9 @@ import 'package:englens/src/service/local_word_service.dart';
 import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/screens/home/leitner_daily_words/leitner_box/leitner_box_screen.dart';
 import 'package:englens/src/ui/screens/home/leitner_daily_words/leitner_box/leitner_box_screen_viewmodel.dart';
+import 'package:englens/src/ui/widget/complete/complete_screen_viewmodel.dart';
+import 'package:englens/src/ui/widget/flashcards/flashcards_screen.dart';
+import 'package:englens/src/ui/widget/flashcards/flashcards_screen_viewmodel.dart';
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
@@ -177,6 +180,15 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
   int countLearningWords = 0;
   int countLearnedWords = 0;
 
+  final Map<LeitnerBoxType, int> boxIntervals = {
+    LeitnerBoxType.everyDay: 1,
+    LeitnerBoxType.every2days: 2,
+    LeitnerBoxType.every4days: 4,
+    LeitnerBoxType.every8days: 8,
+    LeitnerBoxType.every16days: 16,
+    LeitnerBoxType.every32days: 32,
+  };
+
   @override
   void onInit() {
     // TODO: implement onInit
@@ -212,6 +224,49 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
     onCountWaitingWords();
 
     update();
+  }
+
+  bool shouldLearnToday(LeitnerBox box) {
+    if (box.boxType == LeitnerBoxType.pending || box.lastLearned == null) {
+      return true;
+    }
+
+    final interval = boxIntervals[box.boxType];
+    if (interval == null) return false;
+
+    final nextDate = box.lastLearned!.add(Duration(days: interval));
+    final today = DateTime.now();
+
+    return !nextDate.isAfter(today); // hôm nay hoặc quá hạn
+  }
+
+  void onTapLearnNow() async {
+    List<Word> todayWords = [];
+
+    for (var i = 0; i < leitnerBoxes.length; i++) {
+      // bỏ pending & learned
+      final box = leitnerBoxes[i];
+      if (shouldLearnToday(box)) {
+        for (var wordId in box.wordIds!) {
+          final word = await LocalWordService.getWord(wordId);
+          todayWords.add(word);
+        }
+      }
+    }
+
+    if (todayWords.isEmpty) {
+      Get.snackbar("Thông báo", "Không có từ nào cần học hôm nay");
+      return;
+    }
+
+    var res = await Get.toNamed(
+      FlashcardsScreen.routeName,
+      arguments: FlashcardsScreenArgs(
+          title: "test",
+          wordList: todayWords,
+          completeScreenType: CompleteScreenType.leitnerBox),
+    );
+    print("res: $res");
   }
 
   void onCountWaitingWords() {

@@ -6,6 +6,7 @@ import 'package:englens/src/utils/helper.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:hive_flutter/hive_flutter.dart';
 
 class SettingsScreen extends StatelessWidget {
   static const routeName = '/settingsScreen';
@@ -18,7 +19,7 @@ class SettingsScreen extends StatelessWidget {
       builder: (controller) {
         controller.context = context;
         var screenWidth = MediaQuery.of(context).size.width;
-        // var screenHeight = MediaQuery.of(context).size.height;
+        var screenHeight = MediaQuery.of(context).size.height;
 
         _appBar() {
           return AppBar(
@@ -31,87 +32,191 @@ class SettingsScreen extends StatelessWidget {
           );
         }
 
-        _bodyContent() {
-          return Column(
-            spacing: 16,
-            children: [
-              SizedBox(
-                height: 120 * 1.5,
-                width: 120 * 1.5,
-                child: Image.asset(
-                  'assets/icons/app_icon_color_white_2.png',
-                  // scale: 1,
-                  // fit: BoxFit,
-                ),
-              ),
-              SettingsItemWidget(
-                icon: Icons.settings,
-                title: 'General',
-                children: [
-                  SettingsItemContentWidget(
-                    title: 'Notification',
-                    trailing: Switch(
-                      value: controller.notificationSwitchValue,
-                      inactiveThumbColor: ThemePrimary.grey,
-                      inactiveTrackColor: ThemePrimary.grey.withAlpha(40),
-                      trackOutlineColor:
-                          WidgetStateProperty.resolveWith<Color?>(
-                        (Set<WidgetState> states) {
-                          // if (states.contains(WidgetState.disabled)) {
-                          //   return Colors.orange.withOpacity(.48);
-                          // }
-                          return ThemePrimary.grey
-                              .withAlpha(0); // Use the default color.
-                        },
+        // _bodyContent() {
+        //   return Column(
+        //     spacing: 16,
+        //     children: [
+        //       SizedBox(
+        //         height: 120 * 1.5,
+        //         width: 120 * 1.5,
+        //         child: Image.asset(
+        //           'assets/icons/app_icon_color_white_2.png',
+        //           // scale: 1,
+        //           // fit: BoxFit,
+        //         ),
+        //       ),
+        //       SettingsItemWidget(
+        //         icon: Icons.settings,
+        //         title: 'General',
+        //         children: [
+        //           SettingsItemContentWidget(
+        //             title: 'Notification',
+        //             trailing: Switch(
+        //               value: controller.notificationSwitchValue,
+        //               inactiveThumbColor: ThemePrimary.grey,
+        //               inactiveTrackColor: ThemePrimary.grey.withAlpha(40),
+        //               trackOutlineColor:
+        //                   WidgetStateProperty.resolveWith<Color?>(
+        //                 (Set<WidgetState> states) {
+        //                   // if (states.contains(WidgetState.disabled)) {
+        //                   //   return Colors.orange.withOpacity(.48);
+        //                   // }
+        //                   return ThemePrimary.grey
+        //                       .withAlpha(0); // Use the default color.
+        //                 },
+        //               ),
+        //               onChanged: (value) {
+        //                 controller.onTapToggleNotification();
+        //               },
+        //             ),
+        //           ),
+        //           SettingsItemContentWidget(
+        //             title: 'Language',
+        //             trailing: IconButton(
+        //               onPressed: () {},
+        //               icon: Icon(
+        //                 Icons.chevron_right,
+        //               ),
+        //             ),
+        //           ),
+        //         ],
+        //       ),
+        //       SettingsItemWidget(
+        //         title: 'Account',
+        //         icon: Icons.person,
+        //       ),
+        //       SettingsItemWidget(
+        //         title: 'Security',
+        //         icon: Icons.verified_user,
+        //       ),
+        //       SettingsItemWidget(
+        //         title: 'Contact us',
+        //         icon: Icons.email,
+        //       ),
+        //       SettingsItemWidget(
+        //         title: 'Logout',
+        //         icon: Icons.logout,
+        //         showTrailingIcon: false,
+        //         isNotExpandable: true,
+        //         onTap: () {
+        //           // controller.signout();
+        //           showCustomAlertDialog(
+        //             context: context,
+        //             title: 'Alert',
+        //             content: 'Are you sure you want to logout?',
+        //             onAccept: () {
+        //               controller.signout();
+        //               Navigator.of(context).pop();
+        //             },
+        //           );
+        //         },
+        //         // trailing: ,
+        //       ),
+        //     ],
+        //   );
+        // }
+
+        _bodyContent2() {
+          return Container(
+            height: screenHeight,
+            width: screenWidth,
+            decoration: BoxDecoration(
+              color: Colors.white,
+              borderRadius: BorderRadius.circular(12),
+            ),
+            padding: const EdgeInsets.symmetric(
+              horizontal: 12,
+              vertical: 16,
+            ),
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.start,
+              children: [
+                Row(
+                  crossAxisAlignment: CrossAxisAlignment.center,
+                  children: [
+                    Icon(Icons.notifications),
+                    const SizedBox(width: 8),
+                    Text(
+                      'Notification',
+                      style: TextStyle(
+                        fontSize: 18,
+                        fontWeight: FontWeight.bold,
                       ),
+                    ),
+                    const Spacer(),
+                    Switch(
+                      value: controller.notificationSwitchValue,
                       onChanged: (value) {
                         controller.onTapToggleNotification();
                       },
                     ),
-                  ),
-                  SettingsItemContentWidget(
-                    title: 'Language',
-                    trailing: IconButton(
-                      onPressed: () {},
-                      icon: Icon(
-                        Icons.chevron_right,
+                  ],
+                ),
+                const SizedBox(height: 12),
+                Row(
+                  crossAxisAlignment: CrossAxisAlignment.center,
+                  children: [
+                    Icon(Icons.language),
+                    const SizedBox(width: 8),
+                    Text(
+                      'Language',
+                      style: TextStyle(
+                        fontSize: 18,
+                        fontWeight: FontWeight.w500,
                       ),
                     ),
+                    const Spacer(),
+                    Text(
+                      "vi/en",
+                      style: TextStyle(
+                        fontSize: 18,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                    Switch(
+                      value: controller.languageSwitchValue,
+                      onChanged: (value) {
+                        controller.onTapToggleLanguage();
+                      },
+                    ),
+                  ],
+                ),
+                const Spacer(),
+                Divider(
+                  color: Colors.grey.withAlpha(120),
+                ),
+                InkWell(
+                  onTap: () {
+                    // controller.on
+                    showCustomAlertDialog(
+                      context: context,
+                      title: 'Alert',
+                      content: 'Are you sure you want to logout?',
+                      onAccept: () {
+                        controller.signout();
+                        Navigator.of(context).pop();
+                      },
+                    );
+                  },
+                  child: Row(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Icon(Icons.logout),
+                      const SizedBox(width: 8),
+                      Text(
+                        'Logout',
+                        style: TextStyle(
+                          fontSize: 18,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                      const Spacer(),
+                      Icon(Icons.chevron_right),
+                    ],
                   ),
-                ],
-              ),
-              SettingsItemWidget(
-                title: 'Account',
-                icon: Icons.person,
-              ),
-              SettingsItemWidget(
-                title: 'Security',
-                icon: Icons.verified_user,
-              ),
-              SettingsItemWidget(
-                title: 'Contact us',
-                icon: Icons.email,
-              ),
-              SettingsItemWidget(
-                title: 'Logout',
-                icon: Icons.logout,
-                showTrailingIcon: false,
-                isNotExpandable: true,
-                onTap: () {
-                  // controller.signout();
-                  showCustomAlertDialog(
-                    context: context,
-                    title: 'Alert',
-                    content: 'Are you sure you want to logout?',
-                    onAccept: () {
-                      controller.signout();
-                      Navigator.of(context).pop();
-                    },
-                  );
-                },
-                // trailing: ,
-              ),
-            ],
+                ),
+              ],
+            ),
           );
         }
 
@@ -126,10 +231,11 @@ class SettingsScreen extends StatelessWidget {
                 painter: RPSCustomPainter(),
               ),
               Positioned.fill(
-                child: Padding(
-                  padding: const EdgeInsets.symmetric(horizontal: 12),
-                  child: SingleChildScrollView(child: _bodyContent()),
-                ),
+                top: 80,
+                right: 12,
+                left: 12,
+                bottom: 30,
+                child: _bodyContent2(),
               )
             ],
           );

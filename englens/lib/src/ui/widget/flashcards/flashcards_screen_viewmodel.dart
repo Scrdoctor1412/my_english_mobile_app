@@ -9,10 +9,12 @@ import 'package:get/get_connect/http/src/utils/utils.dart';
 class FlashcardsScreenArgs {
   final String title;
   final List<Word> wordList;
+  final CompleteScreenType? completeScreenType;
 
   FlashcardsScreenArgs({
     required this.title,
     required this.wordList,
+    this.completeScreenType,
   });
 }
 
@@ -20,6 +22,7 @@ class FlashcardsScreenViewmodel extends GetViewModelBase
     with GetSingleTickerProviderStateMixin {
   late String title;
   late List<Word> wordList;
+  CompleteScreenType? completeScreenType;
 
   PageController pageController = PageController();
   int pageIndex = 0;
@@ -42,6 +45,7 @@ class FlashcardsScreenViewmodel extends GetViewModelBase
       FlashcardsScreenArgs args = Get.arguments;
       title = args.title;
       wordList = args.wordList;
+      completeScreenType = args.completeScreenType;
     }
     tempWordList = wordList.map((e) => e).toList();
     progressValue = 1 / wordList.length;
@@ -78,6 +82,26 @@ class FlashcardsScreenViewmodel extends GetViewModelBase
 
     //if end of the flashcards move to completion screen
     if (pageIndex >= wordList.length && tempListIncorrect.isEmpty) {
+      //Trường hợp sử dụng flashcard từ Leitner Box cần kết quả trả về từ CompleteScreen
+      if (completeScreenType != null &&
+          completeScreenType == CompleteScreenType.leitnerBox) {
+        Get.toNamed(
+          CompleteScreen.routeName,
+          arguments: CompleteScreenArgs(
+            title: title,
+            flashcardArgs:
+                FlashcardsScreenArgs(title: title, wordList: wordList),
+            type: CompleteScreenType.leitnerBox,
+            listIncorrect: listIncorrect,
+          ),
+        )!
+            .then(
+          (value) {
+            Get.back(result: value);
+          },
+        );
+        return;
+      }
       Get.offNamed(
         CompleteScreen.routeName,
         arguments: CompleteScreenArgs(

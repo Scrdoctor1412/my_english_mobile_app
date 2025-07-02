@@ -1,5 +1,6 @@
 import 'package:englens/src/data/models/leitner_box.dart';
 import 'package:englens/src/data/repositories/leitner_box_repository.dart';
+import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 class LeitnerBoxService {
@@ -29,9 +30,13 @@ class LeitnerBoxService {
   }
 
   static void addNewToLeitnerBox(String wordId) {
-    leitnerBoxes[0] = leitnerBoxes[0].copyWith(
-      wordIds: [...leitnerBoxes[0].wordIds!, wordId],
-    );
-    saveLeitnerBoxes(leitnerBoxes);
+    if (leitnerBoxes.isNotEmpty) {
+      leitnerBoxes[0] = leitnerBoxes[0].copyWith(
+        wordIds: [...leitnerBoxes[0].wordIds!, wordId],
+      );
+      saveLeitnerBoxes(leitnerBoxes);
+    } else {
+      debugPrint("leitnerBox service: leitnerBox is empty");
+    }
   }
 }

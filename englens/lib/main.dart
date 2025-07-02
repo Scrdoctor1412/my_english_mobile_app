@@ -22,7 +22,10 @@ void main() async {
   ]);
 
   // await TranslationService.init(const Locale('vi', 'en'));
-  await LocalWordService.initData2();
+  await Future.wait([
+    LeitnerBoxService.initData(),
+    LocalWordService.initData2(),
+  ]);
 
   // Set System UI overlay style
   SystemChrome.setSystemUIOverlayStyle(

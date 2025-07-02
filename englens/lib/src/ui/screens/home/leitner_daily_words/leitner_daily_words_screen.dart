@@ -1,3 +1,4 @@
+import 'package:dotted_border/dotted_border.dart';
 import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/screens/home/leitner_daily_words/leitner_daily_words_screen_viewmodel.dart';
 import 'package:flutter/material.dart';
@@ -166,7 +167,7 @@ class LeitnerDailyWordsScreen extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.center,
                           children: [
                             Expanded(
-                              flex: 7,
+                              flex: 8,
                               child: Container(
                                 child: Column(children: [
                                   Stack(
@@ -174,46 +175,76 @@ class LeitnerDailyWordsScreen extends StatelessWidget {
                                     children: [
                                       Center(
                                         child: SizedBox(
-                                          width: 150,
-                                          height: 150,
+                                          width: 145,
+                                          height: 145,
                                           child: CircularProgressIndicator(
                                             value: 1,
                                           ),
                                         ),
                                       ),
                                       Center(
-                                        child: Column(
-                                          mainAxisAlignment:
-                                              MainAxisAlignment.center,
-                                          crossAxisAlignment:
-                                              CrossAxisAlignment.center,
-                                          children: [
-                                            Text(
-                                              'Start',
-                                              style: TextStyle(
-                                                fontSize: 26,
-                                                fontWeight: FontWeight.bold,
+                                        child: InkWell(
+                                          borderRadius:
+                                              BorderRadius.circular(70),
+                                          onTap: () {
+                                            // print('tap');
+                                            controller.onTapLearnNow();
+                                          },
+                                          child: Container(
+                                            width: 160,
+                                            height: 160,
+                                            decoration: BoxDecoration(
+                                              // color: Colors.white,
+                                              borderRadius:
+                                                  BorderRadius.circular(70),
+                                            ),
+                                            child: DottedBorder(
+                                              borderType: BorderType.RRect,
+                                              radius: Radius.circular(80),
+                                              strokeWidth: 6,
+                                              dashPattern: [8, 6],
+                                              padding: EdgeInsets.all(12),
+                                              color: ThemePrimary.primaryOrange,
+                                              child: Center(
+                                                child: Column(
+                                                  mainAxisAlignment:
+                                                      MainAxisAlignment.center,
+                                                  crossAxisAlignment:
+                                                      CrossAxisAlignment.center,
+                                                  children: [
+                                                    Text(
+                                                      'Start',
+                                                      style: TextStyle(
+                                                        fontSize: 26,
+                                                        fontWeight:
+                                                            FontWeight.bold,
+                                                      ),
+                                                    ),
+                                                    Text(
+                                                      'Click to start',
+                                                      style: TextStyle(
+                                                        fontSize: 16,
+                                                        color: Colors
+                                                            .grey.shade600,
+                                                        fontWeight:
+                                                            FontWeight.w500,
+                                                      ),
+                                                    ),
+                                                  ],
+                                                ),
                                               ),
                                             ),
-                                            Text(
-                                              'Click to start',
-                                              style: TextStyle(
-                                                fontSize: 16,
-                                                color: Colors.grey.shade600,
-                                                fontWeight: FontWeight.w500,
-                                              ),
-                                            ),
-                                          ],
+                                          ),
                                         ),
-                                      )
+                                      ),
                                     ],
                                   ),
                                 ]),
                               ),
                             ),
-                            // const SizedBox(
-                            //   width: 16,
-                            // ),
+                            const SizedBox(
+                              width: 12,
+                            ),
                             Expanded(
                               flex: 7,
                               child: Container(
