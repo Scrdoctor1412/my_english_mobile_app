@@ -117,106 +117,121 @@ class SettingsScreen extends StatelessWidget {
         // }
 
         _bodyContent2() {
-          return Container(
-            height: screenHeight,
-            width: screenWidth,
-            decoration: BoxDecoration(
-              color: Colors.white,
-              borderRadius: BorderRadius.circular(12),
-            ),
-            padding: const EdgeInsets.symmetric(
-              horizontal: 12,
-              vertical: 16,
-            ),
-            child: Column(
-              mainAxisAlignment: MainAxisAlignment.start,
-              children: [
-                Row(
-                  crossAxisAlignment: CrossAxisAlignment.center,
+          return Column(
+            children: [
+              SizedBox(
+                height: 120 * 1.5,
+                width: 120 * 1.5,
+                child: Image.asset(
+                  'assets/icons/app_icon_color_white_2.png',
+                  // scale: 1,
+                  // fit: BoxFit,
+                ),
+              ),
+              const SizedBox(height: 44),
+              Container(
+                // height: screenHeight * 0.5,
+                width: screenWidth,
+                decoration: BoxDecoration(
+                  color: Colors.white,
+                  borderRadius: BorderRadius.circular(12),
+                ),
+                padding: const EdgeInsets.symmetric(
+                  horizontal: 12,
+                  vertical: 16,
+                ),
+                child: Column(
+                  mainAxisAlignment: MainAxisAlignment.start,
                   children: [
-                    Icon(Icons.notifications),
-                    const SizedBox(width: 8),
-                    Text(
-                      'Notification',
-                      style: TextStyle(
-                        fontSize: 18,
-                        fontWeight: FontWeight.bold,
-                      ),
-                    ),
-                    const Spacer(),
-                    Switch(
-                      value: controller.notificationSwitchValue,
-                      onChanged: (value) {
-                        controller.onTapToggleNotification();
-                      },
-                    ),
-                  ],
-                ),
-                const SizedBox(height: 12),
-                Row(
-                  crossAxisAlignment: CrossAxisAlignment.center,
-                  children: [
-                    Icon(Icons.language),
-                    const SizedBox(width: 8),
-                    Text(
-                      'Language',
-                      style: TextStyle(
-                        fontSize: 18,
-                        fontWeight: FontWeight.w500,
-                      ),
-                    ),
-                    const Spacer(),
-                    Text(
-                      "vi/en",
-                      style: TextStyle(
-                        fontSize: 18,
-                        fontWeight: FontWeight.bold,
-                      ),
-                    ),
-                    Switch(
-                      value: controller.languageSwitchValue,
-                      onChanged: (value) {
-                        controller.onTapToggleLanguage();
-                      },
-                    ),
-                  ],
-                ),
-                const Spacer(),
-                Divider(
-                  color: Colors.grey.withAlpha(120),
-                ),
-                InkWell(
-                  onTap: () {
-                    // controller.on
-                    showCustomAlertDialog(
-                      context: context,
-                      title: 'Alert',
-                      content: 'Are you sure you want to logout?',
-                      onAccept: () {
-                        controller.signout();
-                        Navigator.of(context).pop();
-                      },
-                    );
-                  },
-                  child: Row(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      Icon(Icons.logout),
-                      const SizedBox(width: 8),
-                      Text(
-                        'Logout',
-                        style: TextStyle(
-                          fontSize: 18,
-                          fontWeight: FontWeight.bold,
+                    Row(
+                      crossAxisAlignment: CrossAxisAlignment.center,
+                      children: [
+                        Icon(Icons.notifications),
+                        const SizedBox(width: 8),
+                        Text(
+                          'Notification',
+                          style: TextStyle(
+                            fontSize: 18,
+                            fontWeight: FontWeight.bold,
+                          ),
                         ),
+                        const Spacer(),
+                        Switch(
+                          value: controller.notificationSwitchValue,
+                          onChanged: (value) {
+                            controller.onTapToggleNotification();
+                          },
+                        ),
+                      ],
+                    ),
+                    const SizedBox(height: 12),
+                    Row(
+                      crossAxisAlignment: CrossAxisAlignment.center,
+                      children: [
+                        Icon(Icons.language),
+                        const SizedBox(width: 8),
+                        Text(
+                          'Language',
+                          style: TextStyle(
+                            fontSize: 18,
+                            fontWeight: FontWeight.w500,
+                          ),
+                        ),
+                        const Spacer(),
+                        Text(
+                          "vi/en",
+                          style: TextStyle(
+                            fontSize: 18,
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                        Switch(
+                          value: controller.languageSwitchValue,
+                          onChanged: (value) {
+                            controller.onTapToggleLanguage();
+                          },
+                        ),
+                      ],
+                    ),
+                    // const Spacer(),
+                    const SizedBox(height: 22),
+                    Divider(
+                      color: Colors.grey.withAlpha(120),
+                    ),
+                    InkWell(
+                      onTap: () {
+                        // controller.on
+                        showCustomAlertDialog(
+                          context: context,
+                          title: 'Alert',
+                          content: 'Are you sure you want to logout?',
+                          onAccept: () {
+                            controller.signout();
+                            Navigator.of(context).pop();
+                          },
+                        );
+                      },
+                      child: Row(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Icon(Icons.logout),
+                          const SizedBox(width: 8),
+                          Text(
+                            'Logout',
+                            style: TextStyle(
+                              fontSize: 18,
+                              fontWeight: FontWeight.bold,
+                            ),
+                          ),
+                          const Spacer(),
+                          Icon(Icons.chevron_right),
+                        ],
                       ),
-                      const Spacer(),
-                      Icon(Icons.chevron_right),
-                    ],
-                  ),
+                    ),
+                  ],
                 ),
-              ],
-            ),
+              ),
+            ],
           );
         }
 
@@ -230,11 +245,11 @@ class SettingsScreen extends StatelessWidget {
                 ),
                 painter: RPSCustomPainter(),
               ),
-              Positioned.fill(
-                top: 80,
+              Positioned(
+                top: 33,
                 right: 12,
                 left: 12,
-                bottom: 30,
+                // bottom: 30,
                 child: _bodyContent2(),
               )
             ],

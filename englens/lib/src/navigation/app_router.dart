@@ -8,6 +8,8 @@ import 'package:englens/src/ui/screens/home/leitner_daily_words/leitner_daily_wo
 import 'package:englens/src/ui/screens/login/register/register_screen.dart';
 
 import 'package:englens/src/ui/screens/study/expressions/expressions_screen.dart';
+import 'package:englens/src/ui/screens/study/grammar/grammar_lessons/grammar_lessons_screen.dart';
+import 'package:englens/src/ui/screens/study/grammar/grammar_lessons_details/grammar_lessons_details_screen.dart';
 
 import 'package:englens/src/ui/screens/study/grammar/grammar_screen.dart';
 import 'package:englens/src/ui/screens/study/learning_category/learning_category_lessons/learning_category_lessons_screen.dart';
@@ -239,6 +241,17 @@ class AppRouter {
       name: LeitnerBoxScreen.routeName,
       page: () => LeitnerBoxScreen(),
       binding: GetBinding(LeitnerBoxScreen.routeName),
+    ),
+
+    GetPage(
+      name: GrammarLessonsScreen.routeName,
+      page: () => GrammarLessonsScreen(),
+      binding: GetBinding(GrammarLessonsScreen.routeName),
+    ),
+    GetPage(
+      name: GrammarLessonsDetailsScreen.routeName,
+      page: () => GrammarLessonsDetailsScreen(),
+      binding: GetBinding(GrammarLessonsDetailsScreen.routeName),
     ),
   ];
 }

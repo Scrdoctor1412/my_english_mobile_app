@@ -6,7 +6,7 @@ import 'package:get/get.dart';
 
 class LoginScreen extends StatelessWidget {
   static const routeName = '/loginScreen';
-  const LoginScreen({Key? key}) : super(key: key);
+  const LoginScreen({Key? key});
 
   @override
   Widget build(BuildContext context) {

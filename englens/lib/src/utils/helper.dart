@@ -5,6 +5,7 @@ import 'package:englens/src/ui/widget/loading_dialog.dart';
 import 'package:englens/src/ui/widget/my_wordlists/add_word_list_bottom_sheet/add_word_list_bottom_sheet.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:just_audio/just_audio.dart';
 
@@ -181,4 +182,9 @@ Future<dynamic> onTapShowUsersWordListBottomSheet(
   );
 
   return id;
+}
+
+Future<String> loadAssets(String assetLink) async {
+  final data = await rootBundle.loadString(assetLink);
+  return data;
 }

@@ -66,6 +66,7 @@ dependencies:
   font_awesome_flutter: ^10.8.0
   translator: ^1.0.3+1
   image_cropper: ^9.1.0
+  flutter_markdown: ^0.7.7+1
 
 
  
@@ -75,6 +76,7 @@ dev_dependencies:
     sdk: flutter
   hive_generator:
   build_runner:
+  flutter_gen_runner:
   flutter_launcher_icons: ^0.14.3
 
   # The "flutter_lints" package below contains a set of recommended lints to
@@ -92,6 +94,19 @@ flutter_launcher_icons:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
+
+flutter_gen:
+  output: lib/gen/ # Optional (default: lib/gen/)
+  line_length: 80 # Optional (default: 80)
+
+  # Optional
+  integrations:
+    image: true
+    flutter_svg: true
+    rive: true
+    lottie: true
+   
+
 
 # The following section is specific to Flutter packages.
 flutter:
@@ -119,6 +134,15 @@ flutter:
     - assets/images/learning_category/
     - assets/icons/
     - assets/fonts/
+    - assets/md/
+    - assets/md/grammar/
+    - assets/md/grammar/sentences/
+    - assets/md/grammar/tenses/
+    - assets/md/grammar/tenses/present/
+    - assets/md/grammar/tenses/future/
+    - assets/md/grammar/tenses/past/
+    - assets/md/grammar/words/
+    - assets/md/grammar/words/word__families/
     - assets/json/
     - assets/json/oxford_words/
     - assets/json/topics_words/

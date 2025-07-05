@@ -55,6 +55,9 @@ class HomeScreen extends StatelessWidget {
                     // ...
                   },
                 ),
+                const Divider(
+                  color: Colors.grey,
+                ),
                 ListTile(
                   leading: Icon(
                     Icons.bar_chart,
