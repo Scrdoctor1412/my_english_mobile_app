@@ -1,15 +1,17 @@
 {
+  "id": "f8a9545e-775d-4cb5-b279-3890537d7b99",
   "topic": "education",
   "title": "Social Sciences",
   "lesson": "lesson_20",
   "word_list": [
     {
+      "id": "1a4350ba-2041-48d6-a8d8-9be16c28a4e0",
       "word": "history",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGlzdG9yeQ&hash=c196a9867934a2cc53334822d4ca2c61b99ea3fa&lang=en&cache-only=0",
-      "phonetic_text": "hɪstəri",
+      "phonetic_text": "hɪs.tə.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=aGlzdG9yeQ&hash=c196a9867934a2cc53334822d4ca2c61b99ea3fa&lang=en&cache-only=0",
-      "phonetic_am_text": "histēri",
+      "phonetic_am_text": "his.tē.ri",
       "img": "https://cdn.langeek.co/photo/49195/original/history?type=jpeg",
       "pronunciation": "ˈhɪstɚi/ , /ˈhɪstri",
       "senses": [
@@ -41,12 +43,13 @@
       ]
     },
     {
+      "id": "5df941d7-cfe6-4f7b-aa89-a42ca20c2b7e",
       "word": "literature",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGl0ZXJhdHVyZQ&hash=3b00b980e903ec616e05e2e79ad1e9d8c9049457&lang=en&cache-only=0",
-      "phonetic_text": "lɪtərəʧər",
+      "phonetic_text": "lɪ.tɜ.rə.ʧɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bGl0ZXJhdHVyZQ&hash=3b00b980e903ec616e05e2e79ad1e9d8c9049457&lang=en&cache-only=0",
-      "phonetic_am_text": "litērēchēr",
+      "phonetic_am_text": "li.tē.rē.chēr",
       "img": "https://cdn.langeek.co/photo/51878/original/literature?type=jpeg",
       "pronunciation": "ˈɫɪtɝətʃɝ",
       "senses": [
@@ -57,12 +60,13 @@
       ]
     },
     {
+      "id": "28854ba3-5678-4263-955d-01965d614174",
       "word": "musicology",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXVzaWNvbG9neQ&hash=16ef942252b49b5aeaa5d8207cd7cd978c940214&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mju:.zɪ.kɑ:.lə.ʤi",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVzaWNvbG9neQ&hash=16ef942252b49b5aeaa5d8207cd7cd978c940214&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "myoo.zi.kaa.lē.ji",
       "img": "",
       "pronunciation": "mjˌuːzɪkˈɑːlədʒi",
       "senses": [
@@ -94,10 +98,11 @@
       ]
     },
     {
+      "id": "825a3c2b-eb26-47c9-82e1-5334a4c7ddc3",
       "word": "English",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RW5nbGlzaA&hash=acd3b3712f92a44433353cf562619ec540a3e0c7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RW5nbGlzaA&hash=acd3b3712f92a44433353cf562619ec540a3e0c7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -115,10 +120,11 @@
       ]
     },
     {
+      "id": "5aa6b62e-8a1f-44dd-be96-b8a0fe329e23",
       "word": "arts",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJ0cw&hash=5c7021675effff7b18d752b8a02f25cb6f5624be&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:rts",
+      "phonetic_text": "ɑrts",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJ0cw&hash=5c7021675effff7b18d752b8a02f25cb6f5624be&lang=en&cache-only=0",
       "phonetic_am_text": "aarts",
       "img": "",
@@ -152,12 +158,13 @@
       ]
     },
     {
+      "id": "86f44ad4-1087-487f-922c-e5e9035e266b",
       "word": "liberal arts",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGliZXJhbCBhcnRz&hash=06225df543d1ea2cf90aca0ef42011fc807a84de&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɪ.bɜ.rəl ɑrts",
       "phonetic_am": "https://tts.langeek.co/read?text=bGliZXJhbCBhcnRz&hash=06225df543d1ea2cf90aca0ef42011fc807a84de&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "li.bē.rēl aarts",
       "img": "",
       "pronunciation": "lˈɪbɚɹəl ˈɑːɹts",
       "senses": [
@@ -189,14 +196,15 @@
       ]
     },
     {
-      "word": "performing arts",
+      "id": "38fc03a9-ac6e-45ed-a8dd-82c55bdded09",
+      "word": "the performing arts",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIHBlcmZvcm1pbmcgYXJ0cw&hash=34464e6af4525800b628628045d18d1ad12a8f0a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɜr.fɔr.mɪng ɑrts",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIHBlcmZvcm1pbmcgYXJ0cw&hash=34464e6af4525800b628628045d18d1ad12a8f0a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pēr.fawr.ming aarts",
       "img": "https://cdn.langeek.co/photo/52035/original/performing-arts?type=jpeg",
-      "pronunciation": "pɚfˈɔːɹmɪŋ ˈɑːɹts",
+      "pronunciation": "pɚˈfɔrmɪŋ ɑrts",
       "senses": [
         {
           "definition": "types of art such as dance, drama, and music that are performed in front of an audience",
@@ -226,14 +234,15 @@
       ]
     },
     {
+      "id": "c27a8f8e-d15c-45bc-9d49-d0378b04482f",
       "word": "psychology",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHN5Y2hvbG9neQ&hash=e228bea33c687a9fac8a8a5f1be47323c87fba03&lang=en&cache-only=0",
-      "phonetic_text": "saɪkɑ:ləʤi",
+      "phonetic_text": "saɪ.kɑ.lə.ʤi",
       "phonetic_am": "https://tts.langeek.co/read?text=cHN5Y2hvbG9neQ&hash=e228bea33c687a9fac8a8a5f1be47323c87fba03&lang=en&cache-only=0",
-      "phonetic_am_text": "saikaalēji",
+      "phonetic_am_text": "sai.kaa.lē.ji",
       "img": "https://cdn.langeek.co/photo/19170/original/psychology?type=jpeg",
-      "pronunciation": "saɪˈkɑɫədʒi",
+      "pronunciation": "saɪˈkɑlədʒi",
       "senses": [
         {
           "definition": "a field of science that studies the mind, its functions, and how it affects behavior",
@@ -255,14 +264,15 @@
       ]
     },
     {
+      "id": "bd804bff-4928-4915-b8f9-d81cd6e343b0",
       "word": "sociology",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c29jaW9sb2d5&hash=5afedb87b054a106ce3f30c0c6969943128bed8c&lang=en&cache-only=0",
-      "phonetic_text": "soʊsiɑ:ləʤi",
+      "phonetic_text": "soʊ.siɑ.lə.ʤi",
       "phonetic_am": "https://tts.langeek.co/read?text=c29jaW9sb2d5&hash=5afedb87b054a106ce3f30c0c6969943128bed8c&lang=en&cache-only=0",
-      "phonetic_am_text": "sowsiaalēji",
+      "phonetic_am_text": "sooo.siaa.lē.ji",
       "img": "https://cdn.langeek.co/photo/31536/original/?type=jpeg",
-      "pronunciation": "ˌsoʊsiˈɑɫədʒi",
+      "pronunciation": "ˌsoʊsiˈɑlədʒi/ , /ˌsoʊʃiˈɑlədʒi",
       "senses": [
         {
           "definition": "the scientific study of human society, its nature, structure, and development, as well as social behavior",
@@ -288,14 +298,15 @@
       ]
     },
     {
+      "id": "ed38a609-4a50-439d-ae0c-67c3ec1b2f89",
       "word": "theology",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhlb2xvZ3k&hash=d4890d1a6aa1e9f2583a91cf3073502738033431&lang=en&cache-only=0",
-      "phonetic_text": "θiɑ:ləʤi",
+      "phonetic_text": "θiɑ.lə.ʤi",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlb2xvZ3k&hash=d4890d1a6aa1e9f2583a91cf3073502738033431&lang=en&cache-only=0",
-      "phonetic_am_text": "thiaalēji",
+      "phonetic_am_text": "thiaa.lē.ji",
       "img": "https://cdn.langeek.co/photo/29477/original/?type=jpeg",
-      "pronunciation": "θiˈɑɫədʒi",
+      "pronunciation": "θiˈɑlədʒi",
       "senses": [
         {
           "definition": "the study of religions and faiths",
@@ -325,12 +336,13 @@
       ]
     },
     {
+      "id": "da96a6a5-9ab2-4dcc-a70a-d3ff7ea82d17",
       "word": "anthropology",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW50aHJvcG9sb2d5&hash=b64033327a9e83422b34d633dd5b1b6e83219108&lang=en&cache-only=0",
-      "phonetic_text": "ænθrəpɑ:ləʤi",
+      "phonetic_text": "ænθ.rə.pɑ.lə.ʤi",
       "phonetic_am": "https://tts.langeek.co/read?text=YW50aHJvcG9sb2d5&hash=b64033327a9e83422b34d633dd5b1b6e83219108&lang=en&cache-only=0",
-      "phonetic_am_text": "ānthrēpaalēji",
+      "phonetic_am_text": "ānth.rē.paa.lē.ji",
       "img": "https://cdn.langeek.co/photo/31733/original/?type=jpeg",
       "pronunciation": "ˌænθɹəˈpɑɫədʒi",
       "senses": [
@@ -358,12 +370,13 @@
       ]
     },
     {
+      "id": "099e2e8e-3f8a-4acc-bf66-b1391cdd0bdb",
       "word": "geography",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2VvZ3JhcGh5&hash=0bb24975da1fc73066ecbdf983d5ab2828e5dcb8&lang=en&cache-only=0",
-      "phonetic_text": "ʤiɑ:grəfi",
+      "phonetic_text": "ʤiɑg.rə.fi",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2VvZ3JhcGh5&hash=0bb24975da1fc73066ecbdf983d5ab2828e5dcb8&lang=en&cache-only=0",
-      "phonetic_am_text": "jiaagrēfi",
+      "phonetic_am_text": "jiaag.rē.fi",
       "img": "https://cdn.langeek.co/photo/15479/original/geography?type=jpeg",
       "pronunciation": "dʒiˈɑɡɹəfi",
       "senses": [
@@ -395,14 +408,15 @@
       ]
     },
     {
+      "id": "e041fe39-b9fa-40cb-9239-03a0710a7109",
       "word": "philosophy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGhpbG9zb3BoeQ&hash=9ab75c92049d412b941c8c67d935c8339029798d&lang=en&cache-only=0",
-      "phonetic_text": "fəlɑ:səfi",
+      "phonetic_text": "fə.lɑ.sə.fi",
       "phonetic_am": "https://tts.langeek.co/read?text=cGhpbG9zb3BoeQ&hash=9ab75c92049d412b941c8c67d935c8339029798d&lang=en&cache-only=0",
-      "phonetic_am_text": "fēlaasēfi",
+      "phonetic_am_text": "fē.laa.sē.fi",
       "img": "https://cdn.langeek.co/photo/19168/original/philosophy?type=jpeg",
-      "pronunciation": "fəˈɫɑsəfi",
+      "pronunciation": "fəˈlɑsəfi",
       "senses": [
         {
           "definition": "the study of the meaning of the universe, existence, and reality",
@@ -432,14 +446,15 @@
       ]
     },
     {
+      "id": "680d885a-7247-4c25-82eb-f4791d86ea1b",
       "word": "linguistics",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGluZ3Vpc3RpY3M&hash=2ac7de182d2dd9144aea5e4a9f6469a5c1f0b7cc&lang=en&cache-only=0",
-      "phonetic_text": "lɪngwɪstɪks",
+      "phonetic_text": "lɪng.wɪs.tɪks",
       "phonetic_am": "https://tts.langeek.co/read?text=bGluZ3Vpc3RpY3M&hash=2ac7de182d2dd9144aea5e4a9f6469a5c1f0b7cc&lang=en&cache-only=0",
-      "phonetic_am_text": "lingwistiks",
+      "phonetic_am_text": "ling.vis.tiks",
       "img": "https://cdn.langeek.co/photo/19396/original/linguistics?type=jpeg",
-      "pronunciation": "ɫɪŋˈɡwɪstɪks",
+      "pronunciation": "lɪŋˈɡwɪstɪks",
       "senses": [
         {
           "definition": "the study of the evolution and structure of language in general or of certain languages",
@@ -448,12 +463,13 @@
       ]
     },
     {
+      "id": "5f65d612-216e-4785-8c56-30766d417dca",
       "word": "phonetics",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGhvbmV0aWNz&hash=a227ebbdbcffcf1dd27c9926d2a4703394a5d0d1&lang=en&cache-only=0",
-      "phonetic_text": "fənɛtɪks",
+      "phonetic_text": "fə.nɛ.tɪks",
       "phonetic_am": "https://tts.langeek.co/read?text=cGhvbmV0aWNz&hash=a227ebbdbcffcf1dd27c9926d2a4703394a5d0d1&lang=en&cache-only=0",
-      "phonetic_am_text": "fēnetiks",
+      "phonetic_am_text": "fē.ne.tiks",
       "img": "",
       "pronunciation": "fəˈnɛtɪks",
       "senses": [
@@ -481,14 +497,15 @@
       ]
     },
     {
+      "id": "a615fc4b-110a-4d67-a193-d07de865db70",
       "word": "politics",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9saXRpY3M&hash=a06405f55167efa515dcdc52a09b3a0758821df0&lang=en&cache-only=0",
-      "phonetic_text": "pɑ:lətɪks",
+      "phonetic_text": "pɑ.lə.tɪks",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9saXRpY3M&hash=a06405f55167efa515dcdc52a09b3a0758821df0&lang=en&cache-only=0",
-      "phonetic_am_text": "paalētiks",
+      "phonetic_am_text": "paa.lē.tiks",
       "img": "",
-      "pronunciation": "ˈpɑɫəˌtɪks",
+      "pronunciation": "ˈpɑlɪˌtɪks",
       "senses": [
         {
           "definition": "the academic exploration and analysis of political systems, institutions, ideologies, policies, and behavior, with a focus on understanding and explaining the dynamics of power, governance, and public decision-making",
@@ -497,14 +514,15 @@
       ]
     },
     {
+      "id": "172dfee5-4aa0-477a-aef4-05d953c24797",
       "word": "economics",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWNvbm9taWNz&hash=ba8affe139e977b584aa77cb023eb51c70e39866&lang=en&cache-only=0",
-      "phonetic_text": "ɛkənɑ:mɪks",
+      "phonetic_text": "ɛ.kə.nɑ.mɪks",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWNvbm9taWNz&hash=ba8affe139e977b584aa77cb023eb51c70e39866&lang=en&cache-only=0",
-      "phonetic_am_text": "ekēnaamiks",
+      "phonetic_am_text": "e.kē.naa.miks",
       "img": "https://cdn.langeek.co/photo/36948/original/?type=jpeg",
-      "pronunciation": "ˌɛkəˈnɑmɪks/, /ˌikəˈnɑmɪks",
+      "pronunciation": "ˌɛkəˈnɑmɪks/ , /ˌiːkəˈnɑmɪks",
       "senses": [
         {
           "definition": "the study of how money, goods, and resources are produced, distributed, and used in a country or society",
@@ -530,14 +548,15 @@
       ]
     },
     {
+      "id": "532f391e-c605-4280-8b53-d9ad7ad6c650",
       "word": "humanities",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aHVtYW5pdGllcw&hash=8f460a597132bf35713b03c8bcdfddc3a1245f5a&lang=en&cache-only=0",
-      "phonetic_text": "hjumænɪtiz",
+      "phonetic_text": "hju.mæ.nɪ.tiz",
       "phonetic_am": "https://tts.langeek.co/read?text=aHVtYW5pdGllcw&hash=8f460a597132bf35713b03c8bcdfddc3a1245f5a&lang=en&cache-only=0",
-      "phonetic_am_text": "hyumānitiz",
+      "phonetic_am_text": "hyoo.mā.ni.tiz",
       "img": "",
-      "pronunciation": "hjuˈmænɪtiz/, /juˈmænɪtiz",
+      "pronunciation": "hjuˈmænɪtiz",
       "senses": [
         {
           "definition": "studies that deal with people and their behavior such as language, philosophy, history, etc.",
@@ -567,10 +586,11 @@
       ]
     },
     {
+      "id": "a93ffcd0-a23c-4f4c-a568-57da79a7561c",
       "word": "social studies",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c29jaWFsIHN0dWRpZXM&hash=4cf6e9c5438c0100829892faef10d7b72c40c454&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=c29jaWFsIHN0dWRpZXM&hash=4cf6e9c5438c0100829892faef10d7b72c40c454&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -604,10 +624,11 @@
       ]
     },
     {
+      "id": "97030f87-11b7-4f7f-91f6-5cd49a9ae4c9",
       "word": "business studies",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVzaW5lc3Mgc3R1ZGllcw&hash=74f2c446aed8884aab7da704af34bd09055fbf4c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVzaW5lc3Mgc3R1ZGllcw&hash=74f2c446aed8884aab7da704af34bd09055fbf4c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -615,34 +636,18 @@
       "senses": [
         {
           "definition": "an academic discipline that explores various aspects of business management, including finance, marketing, operations, and organizational behavior",
-          "examples": [
-            {
-              "cf": "",
-              "x": "John enrolled in business studies to gain a comprehensive understanding of management principles and practices."
-            },
-            {
-              "cf": "",
-              "x": "Sarah's favorite course in business studies was marketing, where she learned about consumer behavior and market research."
-            },
-            {
-              "cf": "",
-              "x": "The business studies curriculum includes case studies and simulations to provide students with practical insights into real-world business challenges."
-            },
-            {
-              "cf": "",
-              "x": "After completing her degree in business studies, Emily secured a job at a multinational corporation as a financial analyst."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "4af3e058-6408-4652-9575-76a5d8f73468",
       "word": "religious education",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVsaWdpb3VzIGVkdWNhdGlvbg&hash=ac1d557b240abc8f359132e39606b72cee526bc8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ri.lɪ.ʤəs ɛ.ʤə.keɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVsaWdpb3VzIGVkdWNhdGlvbg&hash=ac1d557b240abc8f359132e39606b72cee526bc8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ri.li.jēs e.jē.kei.shēn",
       "img": "https://cdn.langeek.co/photo/29477/original/?type=jpeg",
       "pronunciation": "ɹɪlˈɪdʒəs ˌɛdʒuːkˈeɪʃən",
       "senses": [

@@ -1,13 +1,15 @@
 {
+  "id": "acec8224-a297-44a0-ab4d-ebc7b0d7d468",
   "topic": "danger",
   "title": "Asking for Trouble",
   "lesson": "lesson_5",
   "word_list": [
     {
-      "word": "[bell] the cat",
+      "id": "27f0d8b5-e0fb-4daf-a1f2-4f5cdf472038",
+      "word": "to [bell] the cat",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmVsbCB0aGUgY2F0&hash=0d4df97f9df9390ca79bad73b92d142f02c52afd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmVsbCB0aGUgY2F0&hash=0d4df97f9df9390ca79bad73b92d142f02c52afd&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -41,10 +43,11 @@
       ]
     },
     {
+      "id": "db98b3fe-afd3-4365-9f18-f0f07046c63d",
       "word": "(leap|jump) in the dark",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bGVhcCBpbiB0aGUgZGFyaw&hash=c68763b8ff020b77a0b8b15ef5f9ebfc698d7660&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVhcCBpbiB0aGUgZGFyaw&hash=c68763b8ff020b77a0b8b15ef5f9ebfc698d7660&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -78,10 +81,11 @@
       ]
     },
     {
-      "word": "[push] {one's} luck",
+      "id": "353f183f-adb3-4e32-9245-c044b7b73763",
+      "word": "to [push] {one's} luck",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHVzaCBvbmUncyBsdWNr&hash=00ec74bd23579438e3de0b553245fdeab081dcb8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHVzaCBvbmUncyBsdWNr&hash=00ec74bd23579438e3de0b553245fdeab081dcb8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -103,10 +107,11 @@
       ]
     },
     {
-      "word": "[sail] close to the wind",
+      "id": "e3b93da9-b031-4920-bc40-d71851b913bd",
+      "word": "to [sail] close to the wind",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2FpbCBjbG9zZSB0byB0aGUgd2luZA&hash=d586f25f88cbb8e48b44a397f7db03eadf716885&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2FpbCBjbG9zZSB0byB0aGUgd2luZA&hash=d586f25f88cbb8e48b44a397f7db03eadf716885&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -114,36 +119,16 @@
       "senses": [
         {
           "definition": "to do something that is dangerous, improper, or possibly illegal",
-          "examples": [
-            {
-              "cf": "",
-              "x": "His frequent late arrivals at work sail close to the wind of the company's punctuality policy."
-            },
-            {
-              "cf": "",
-              "x": "The company's aggressive marketing tactics sometimes sail close to the wind of ethical boundaries."
-            },
-            {
-              "cf": "",
-              "x": "When it comes to financial regulations, some investors prefer to sail close to the wind to maximize their profits."
-            },
-            {
-              "cf": "",
-              "x": "The athlete's behavior on and off the field often sails close to the wind of sportsmanship and fair play."
-            },
-            {
-              "cf": "",
-              "x": "In politics, some politicians choose to sail close to the wind of public opinion, even if it means taking controversial positions."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "8d90b107-db47-4bdc-86b4-0473b1ad5e32",
       "word": "a mug's game",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YSBtdWcncyBnYW1l&hash=b05ad6114640457262b8f06a0f26ab2a9e3b8bcb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YSBtdWcncyBnYW1l&hash=b05ad6114640457262b8f06a0f26ab2a9e3b8bcb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -177,10 +162,11 @@
       ]
     },
     {
-      "word": "[roll] the dice",
+      "id": "2aff8fe8-0b50-4eba-a52e-98cb08a70c5b",
+      "word": "to [roll] the dice",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcm9sbCB0aGUgZGljZQ&hash=f01b5339ed84a71eeb50b184b75b363b81a46162&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcm9sbCB0aGUgZGljZQ&hash=f01b5339ed84a71eeb50b184b75b363b81a46162&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -188,36 +174,16 @@
       "senses": [
         {
           "definition": "to rely on chance in doing something",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I rolled the dice on a tool brand I haven't used before."
-            },
-            {
-              "cf": "",
-              "x": "When he decided to quit his stable job and start his own business, he was rolling the dice on his financial future."
-            },
-            {
-              "cf": "",
-              "x": "In relationships, you never know if it will work out, but sometimes you have to roll the dice and take a chance on love."
-            },
-            {
-              "cf": "",
-              "x": "The company decided to roll the dice on a new advertising campaign to reach a broader audience."
-            },
-            {
-              "cf": "",
-              "x": "When investing in the stock market, you're essentially rolling the dice, as market performance can be unpredictable."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[play] with fire",
+      "id": "7f0a3f26-3b57-44eb-a117-98689529c76f",
+      "word": "to [play] with fire",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGxheSB3aXRoIGZpcmU&hash=73856949e63b8b8fef118fdd3e7b16c7478cabf7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGxheSB3aXRoIGZpcmU&hash=73856949e63b8b8fef118fdd3e7b16c7478cabf7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -251,10 +217,11 @@
       ]
     },
     {
-      "word": "[have] a death wish",
+      "id": "ba1c03eb-c504-43cb-b8ee-ecb42a9b39e2",
+      "word": "to [have] a death wish",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGF2ZSBhIGRlYXRoIHdpc2g&hash=211a2001f21fed3a7cedc74920aeb52aef24af57&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGF2ZSBhIGRlYXRoIHdpc2g&hash=211a2001f21fed3a7cedc74920aeb52aef24af57&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -262,32 +229,16 @@
       "senses": [
         {
           "definition": "to behave in a way that is risky, dangerous, or reckless",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He must have a death wish, the way he drives at breakneck speeds on the highway."
-            },
-            {
-              "cf": "",
-              "x": "Jumping off a cliff without a parachute is like having a death wish."
-            },
-            {
-              "cf": "",
-              "x": "It's as if she has a death wish, constantly provoking dangerous animals in the wild."
-            },
-            {
-              "cf": "",
-              "x": "Venturing into that abandoned, structurally unsound building shows that he must have a death wish."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[ask] for trouble",
+      "id": "17252775-5473-47b4-860b-216bc7f1efe6",
+      "word": "to [ask] for trouble",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYXNrIGZvciB0cm91Ymxl&hash=a7c1918e34f6c99b75864e981ab8d11c184ef5cc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYXNrIGZvciB0cm91Ymxl&hash=a7c1918e34f6c99b75864e981ab8d11c184ef5cc&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -313,10 +264,11 @@
       ]
     },
     {
-      "word": "[be] cruising for a bruising",
+      "id": "0318f37f-b4de-4a19-b534-5b6a47b16bda",
+      "word": "to [be] cruising for a bruising",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgY3J1aXNpbmcgZm9yIGEgYnJ1aXNpbmc&hash=5f381e698b8fbcfc65f256104d34187b62344f2b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgY3J1aXNpbmcgZm9yIGEgYnJ1aXNpbmc&hash=5f381e698b8fbcfc65f256104d34187b62344f2b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -324,28 +276,16 @@
       "senses": [
         {
           "definition": "to knowingly do what can get one into trouble",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Unless you've got your stuff together then you're cruising for a bruising"
-            },
-            {
-              "cf": "",
-              "x": "Mocking your boss in front of the entire team is a surefire way to be cruising for a bruising at work."
-            },
-            {
-              "cf": "",
-              "x": "Starting a fight with the biggest guy in the bar is like saying you're cruising for a bruising; it won't end well."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[live] on the edge",
+      "id": "81da71a1-129e-4258-bcce-cfa970173f29",
+      "word": "to [live] on the edge",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGl2ZSBvbiB0aGUgZWRnZQ&hash=6e323a888323be789b629bd748e84b4126513128&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGl2ZSBvbiB0aGUgZWRnZQ&hash=6e323a888323be789b629bd748e84b4126513128&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -353,28 +293,7 @@
       "senses": [
         {
           "definition": "to have a life that involves one facing a lot of danger and taking great risks",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He's the kind of person who loves to live on the edge, constantly seeking new adrenaline-pumping adventures."
-            },
-            {
-              "cf": "",
-              "x": "Their decision to quit their stable jobs and travel the world is a perfect example of living on the edge."
-            },
-            {
-              "cf": "",
-              "x": "She lives on the edge by participating in extreme sports like skydiving and rock climbing."
-            },
-            {
-              "cf": "",
-              "x": "Choosing a career in the entertainment industry is like living on the edge, with its unpredictable ups and downs."
-            },
-            {
-              "cf": "",
-              "x": "Driving at such high speeds on icy roads is living on the edge; it's a recipe for disaster."
-            }
-          ]
+          "examples": []
         }
       ]
     }

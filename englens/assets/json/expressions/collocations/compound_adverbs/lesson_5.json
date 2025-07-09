@@ -1,13 +1,15 @@
 {
+  "id": "ac37023a-1acb-41ee-bfb3-189456636435",
   "topic": "compound_adverbs",
   "title": "Expressing Contrast",
   "lesson": "lesson_5",
   "word_list": [
     {
+      "id": "97a76101-be5b-4372-a59b-4ef152cd6e64",
       "word": "against (all|the|all the) odds",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YWdhaW5zdCBhbGwgdGhlIG9kZHM&hash=5298740315adaefdc86293e73638260246837e6c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YWdhaW5zdCBhbGwgdGhlIG9kZHM&hash=5298740315adaefdc86293e73638260246837e6c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -20,12 +22,13 @@
       ]
     },
     {
+      "id": "a4c73c62-5ad8-469d-9bf9-b95f5523c462",
       "word": "at any rate",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YXQgYW55IHJhdGU&hash=5dbe55f853f4ef01c4a11e8261c4cf2e737994b5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æt ɛ.ni reɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=YXQgYW55IHJhdGU&hash=5dbe55f853f4ef01c4a11e8261c4cf2e737994b5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "āt e.ni reit",
       "img": "",
       "pronunciation": "æt ˌɛni ɹˈeɪt",
       "senses": [
@@ -57,10 +60,11 @@
       ]
     },
     {
+      "id": "5eccce5d-f06b-48db-a09e-1fc68c2c1554",
       "word": "(in|by) contrast",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=aW4gY29udHJhc3Q&hash=623bf70af4cbdd7e6fdcaf977c431ce91bcd759c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gY29udHJhc3Q&hash=623bf70af4cbdd7e6fdcaf977c431ce91bcd759c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -94,12 +98,13 @@
       ]
     },
     {
+      "id": "111bdfd4-9a4b-49d6-8ef2-52b215e0e8c8",
       "word": "on the contrary",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=b24gdGhlIGNvbnRyYXJ5&hash=a47ce7add57f7d33e5f905960707c66460938d54&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n ðə kɑnt.rɛ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gdGhlIGNvbnRyYXJ5&hash=a47ce7add57f7d33e5f905960707c66460938d54&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan dhē kaant.re.ri",
       "img": "",
       "pronunciation": "ɑːnðə kˈɑːntɹɛɹi",
       "senses": [
@@ -115,28 +120,51 @@
       ]
     },
     {
+      "id": "a0b97e33-8de9-422a-9bfd-80acb08a5507",
       "word": "on the flip side",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=b24gdGhlIGZsaXAgc2lkZQ&hash=e99da7f4775f465badb5b8d73bab8e865173960f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n ðə flɪp saɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gdGhlIGZsaXAgc2lkZQ&hash=e99da7f4775f465badb5b8d73bab8e865173960f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan dhē flip said",
       "img": "",
       "pronunciation": "ɑːnðə flˈɪp sˈaɪd",
       "senses": [
         {
           "definition": "used to introduce a contrasting aspect of a situation",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "On the flip side, while the job offers a higher salary, it also requires a longer commute."
+            },
+            {
+              "cf": "",
+              "x": "Dining out offers convenience and variety, though on the flip side, it can strain budgets and compromise health goals."
+            },
+            {
+              "cf": "",
+              "x": "Working in a fast-paced environment can be exciting and challenging, but on the flip side, it can also be stressful and lead to burnout."
+            },
+            {
+              "cf": "",
+              "x": "While living in a suburban area offers peace and quiet, on the flip side, it may lack the vibrant cultural scene found in urban centers."
+            },
+            {
+              "cf": "",
+              "x": "Investing in stocks has the potential for high returns, but on the flip side, it also carries the risk of financial loss."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b47c31e1-b4ae-4c0c-acac-d65532c4083d",
       "word": "on the one hand",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=b24gdGhlIG9uZSBoYW5k&hash=6009d790b410f247fe6d79d42d13bf7857bb8e2e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n ðə n hænd",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gdGhlIG9uZSBoYW5k&hash=6009d790b410f247fe6d79d42d13bf7857bb8e2e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan dhē n hānd",
       "img": "",
       "pronunciation": "ɑːnðə wˈʌn hˈænd",
       "senses": [
@@ -168,10 +196,11 @@
       ]
     },
     {
+      "id": "bfed899e-6c16-4b75-811f-9e73b886d67f",
       "word": "on the other (hand|)",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=b24gdGhlIG90aGVyIGhhbmQ&hash=f455c5531f1c0a25eee416765f06072ed212bf50&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gdGhlIG90aGVyIGhhbmQ&hash=f455c5531f1c0a25eee416765f06072ed212bf50&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -189,12 +218,13 @@
       ]
     },
     {
+      "id": "ae399c50-6048-4ffa-b6f7-b032f8163012",
       "word": "in retrospect",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=aW4gcmV0cm9zcGVjdA&hash=90735f505f75e0abd30709a9ecc1e98c3c866f25&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn rɛt.rəs.pɛkt",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gcmV0cm9zcGVjdA&hash=90735f505f75e0abd30709a9ecc1e98c3c866f25&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in ret.rēs.pekt",
       "img": "",
       "pronunciation": "ɪn ɹˌɛtɹoʊspˈɛkt",
       "senses": [

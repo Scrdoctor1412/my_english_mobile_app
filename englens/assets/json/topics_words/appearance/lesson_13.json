@@ -1,17 +1,19 @@
 {
+  "id": "2363213d-4e27-4429-b51b-d55291985b36",
   "topic": "appearance",
   "title": "Facial Expressions",
   "lesson": "lesson_13",
   "word_list": [
     {
+      "id": "1b61d4a4-d089-4b68-a5b9-820835aa819e",
       "word": "frown",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnJvd24&hash=664ef4910277758cdb8367874b70188236510b1c&lang=en&cache-only=0",
       "phonetic_text": "fraʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJvd24&hash=664ef4910277758cdb8367874b70188236510b1c&lang=en&cache-only=0",
-      "phonetic_am_text": "frawn",
+      "phonetic_am_text": "fraoon",
       "img": "https://cdn.langeek.co/photo/17115/original/frown?type=jpeg",
-      "pronunciation": "ˈfɹaʊn",
+      "pronunciation": "fraʊn",
       "senses": [
         {
           "definition": "an expression on the face in which the eyebrows are brought together, creating lines above the eyes, which shows anger, worry, or disapproval",
@@ -41,6 +43,7 @@
       ]
     },
     {
+      "id": "8a86d1f4-b150-463b-9cdb-45b6ccc402d7",
       "word": "glare",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2xhcmU&hash=468a5f20bc98d02773ab91de7ce234bda4974811&lang=en&cache-only=0",
@@ -78,12 +81,13 @@
       ]
     },
     {
+      "id": "bd2c1091-4d8c-4b82-b38e-e58d34b3b727",
       "word": "grimace",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JpbWFjZQ&hash=2e7450f2c69e2a5f0924416fb3387cece7f4fdc2&lang=en&cache-only=0",
-      "phonetic_text": "grɪməs",
+      "phonetic_text": "grɪ.məs",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JpbWFjZQ&hash=2e7450f2c69e2a5f0924416fb3387cece7f4fdc2&lang=en&cache-only=0",
-      "phonetic_am_text": "grimēs",
+      "phonetic_am_text": "gri.mēs",
       "img": "https://cdn.langeek.co/photo/17115/original/frown?type=jpeg",
       "pronunciation": "ˈɡɹɪməs",
       "senses": [
@@ -115,12 +119,13 @@
       ]
     },
     {
+      "id": "5dbd0d97-7597-45dc-bfff-1664fc7f9425",
       "word": "long face",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9uZyBmYWNl&hash=15ed946b72d7d1e77638946eeda607160a367ae9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɑ:ng feɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9uZyBmYWNl&hash=15ed946b72d7d1e77638946eeda607160a367ae9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "laang feis",
       "img": "https://cdn.langeek.co/photo/42624/original/?type=jpeg",
       "pronunciation": "lˈɑːŋ fˈeɪs",
       "senses": [
@@ -152,12 +157,13 @@
       ]
     },
     {
+      "id": "142ee0a6-e184-40ee-b0e7-75bfb867b59c",
       "word": "scowl",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Nvd2w&hash=24d90c640d9551b7f96913371a378e30a4ae3858&lang=en&cache-only=0",
       "phonetic_text": "skaʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Nvd2w&hash=24d90c640d9551b7f96913371a378e30a4ae3858&lang=en&cache-only=0",
-      "phonetic_am_text": "skawl",
+      "phonetic_am_text": "skaool",
       "img": "https://cdn.langeek.co/photo/17115/original/frown?type=jpeg",
       "pronunciation": "ˈskaʊɫ",
       "senses": [
@@ -168,12 +174,13 @@
       ]
     },
     {
+      "id": "8def02f5-4cc9-4daa-995f-6ead16b5e645",
       "word": "side-eye",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2lkZS1leWU&hash=df7fff58b7b245db0eb04afa5a02911f4f3a6bd3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "saɪd-aɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=c2lkZS1leWU&hash=df7fff58b7b245db0eb04afa5a02911f4f3a6bd3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "said-ai",
       "img": "",
       "pronunciation": "sˈaɪdˈaɪ",
       "senses": [
@@ -184,12 +191,13 @@
       ]
     },
     {
+      "id": "4147e0ab-5077-4945-8ac4-a1c5d229b6cf",
       "word": "wink",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2luaw&hash=1c4e42917137dcea4cca86a958b60d8242688f7a&lang=en&cache-only=0",
       "phonetic_text": "wɪnk",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luaw&hash=1c4e42917137dcea4cca86a958b60d8242688f7a&lang=en&cache-only=0",
-      "phonetic_am_text": "wink",
+      "phonetic_am_text": "vink",
       "img": "https://cdn.langeek.co/photo/23017/original/?type=jpeg",
       "pronunciation": "ˈwɪŋk",
       "senses": [
@@ -200,12 +208,13 @@
       ]
     },
     {
+      "id": "ed6a2213-f57e-49a1-95f9-17e4f3799cd4",
       "word": "blush",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ymx1c2g&hash=56e5a13df95356d43e63cdcec77dd29f3f90c0cf&lang=en&cache-only=0",
-      "phonetic_text": "blʌʃ",
+      "phonetic_text": "bləʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=Ymx1c2g&hash=56e5a13df95356d43e63cdcec77dd29f3f90c0cf&lang=en&cache-only=0",
-      "phonetic_am_text": "blash",
+      "phonetic_am_text": "blēsh",
       "img": "https://cdn.langeek.co/photo/30082/original/?type=jpeg",
       "pronunciation": "ˈbɫəʃ",
       "senses": [
@@ -216,12 +225,13 @@
       ]
     },
     {
+      "id": "c5a52dc9-e5b3-426b-b0d0-0fdf23bfcbdb",
       "word": "flushed",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Zmx1c2hlZA&hash=cd87d727b5f6a50ed7ec97f92da849e9c73530d8&lang=en&cache-only=0",
-      "phonetic_text": "flʌʃt",
+      "phonetic_text": "fləʃt",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmx1c2hlZA&hash=cd87d727b5f6a50ed7ec97f92da849e9c73530d8&lang=en&cache-only=0",
-      "phonetic_am_text": "flasht",
+      "phonetic_am_text": "flēsht",
       "img": "https://cdn.langeek.co/photo/30082/original/?type=jpeg",
       "pronunciation": "ˈfɫəʃt",
       "senses": [
@@ -249,12 +259,13 @@
       ]
     },
     {
-      "word": "glow",
+      "id": "cd3961f3-af82-4b53-be44-0ff1eb499cc6",
+      "word": "to glow",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2xvdw&hash=fa9b6b0797f355db9322c7462da52fcebe6c6c8a&lang=en&cache-only=0",
       "phonetic_text": "gloʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2xvdw&hash=fa9b6b0797f355db9322c7462da52fcebe6c6c8a&lang=en&cache-only=0",
-      "phonetic_am_text": "glow",
+      "phonetic_am_text": "glooo",
       "img": "",
       "pronunciation": "ˈɡɫoʊ",
       "senses": [
@@ -282,7 +293,8 @@
       ]
     },
     {
-      "word": "pale",
+      "id": "4a656b0a-08ed-4338-956f-040d7c83bf97",
+      "word": "to pale",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGFsZQ&hash=413d49e6d03f7097d50d611f863f59107e107cfa&lang=en&cache-only=0",
       "phonetic_text": "peɪl",
@@ -307,12 +319,13 @@
       ]
     },
     {
-      "word": "crease",
+      "id": "b4b3526a-a48c-452c-838d-55b2977b2089",
+      "word": "to crease",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3JlYXNl&hash=dbb4a6bb204128cc8c175869a013b847af0e22a4&lang=en&cache-only=0",
-      "phonetic_text": "kri:s",
+      "phonetic_text": "kris",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3JlYXNl&hash=dbb4a6bb204128cc8c175869a013b847af0e22a4&lang=en&cache-only=0",
-      "phonetic_am_text": "krees",
+      "phonetic_am_text": "kris",
       "img": "https://cdn.langeek.co/photo/46926/original/?type=jpeg",
       "pronunciation": "ˈkɹis",
       "senses": [
@@ -340,12 +353,13 @@
       ]
     },
     {
-      "word": "crumple",
+      "id": "b649a3fe-e9bb-44fb-8487-b81a25b11004",
+      "word": "to crumple",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3J1bXBsZQ&hash=c43dbce04b35f3006646b57e0cf9315f9ddffedd&lang=en&cache-only=0",
-      "phonetic_text": "krʌmpəl",
+      "phonetic_text": "krəm.pəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3J1bXBsZQ&hash=c43dbce04b35f3006646b57e0cf9315f9ddffedd&lang=en&cache-only=0",
-      "phonetic_am_text": "krampēl",
+      "phonetic_am_text": "krēm.pēl",
       "img": "",
       "pronunciation": "ˈkɹəmpəɫ",
       "senses": [
@@ -377,12 +391,13 @@
       ]
     },
     {
-      "word": "furrow",
+      "id": "86e50af8-568b-4602-9325-cbfb7f5249ac",
+      "word": "to furrow",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZnVycm93&hash=74c9f6893dfbed37b6bf1d2582dd1bf43d5649e8&lang=en&cache-only=0",
-      "phonetic_text": "fɜroʊ",
+      "phonetic_text": "fɜr.roʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZnVycm93&hash=74c9f6893dfbed37b6bf1d2582dd1bf43d5649e8&lang=en&cache-only=0",
-      "phonetic_am_text": "fērow",
+      "phonetic_am_text": "fēr.rooo",
       "img": "",
       "pronunciation": "ˈfɝoʊ",
       "senses": [
@@ -393,12 +408,13 @@
       ]
     },
     {
-      "word": "bug out",
+      "id": "200b0e4a-03c7-4b8b-97b1-e5c2af77e3be",
+      "word": "to bug out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnVnIG91dA&hash=61d034ae5f108bb06570681172c83c79d603d7d3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bʌg aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnVnIG91dA&hash=61d034ae5f108bb06570681172c83c79d603d7d3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bag aoot",
       "img": "",
       "pronunciation": "bˈʌɡ ˈaʊt",
       "senses": [
@@ -409,12 +425,13 @@
       ]
     },
     {
-      "word": "glower",
+      "id": "61eed50d-07ec-4846-a923-a4b9b8012467",
+      "word": "to glower",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2xvd2Vy&hash=6453416022c31be7d82930978c38cdb0f67edc0b&lang=en&cache-only=0",
-      "phonetic_text": "glaʊər",
+      "phonetic_text": "glaʊɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2xvd2Vy&hash=6453416022c31be7d82930978c38cdb0f67edc0b&lang=en&cache-only=0",
-      "phonetic_am_text": "glawēr",
+      "phonetic_am_text": "glaooēr",
       "img": "https://cdn.langeek.co/photo/17115/original/frown?type=jpeg",
       "pronunciation": "ˈɡɫaʊɝ",
       "senses": [
@@ -446,12 +463,13 @@
       ]
     },
     {
-      "word": "grimace",
+      "id": "73e6c367-c88d-40c9-92d2-b070e83e5a20",
+      "word": "to grimace",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ3JpbWFjZQ&hash=f397623677bbc0cd7bd349b238b237111c724b65&lang=en&cache-only=0",
-      "phonetic_text": "grɪməs",
+      "phonetic_text": "grɪ.məs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ3JpbWFjZQ&hash=f397623677bbc0cd7bd349b238b237111c724b65&lang=en&cache-only=0",
-      "phonetic_am_text": "grimēs",
+      "phonetic_am_text": "gri.mēs",
       "img": "https://cdn.langeek.co/photo/30221/original/?type=jpeg",
       "pronunciation": "ˈɡɹɪməs",
       "senses": [
@@ -483,12 +501,13 @@
       ]
     },
     {
-      "word": "lower",
+      "id": "c05b14bf-4c9c-4e1d-bb0d-4581a2f8d426",
+      "word": "to lower",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbG93ZXI&hash=fe20472657cf09f7f3d824cd64105fe235ce9433&lang=en&cache-only=0",
-      "phonetic_text": "loʊər",
+      "phonetic_text": "loʊɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbG93ZXI&hash=fe20472657cf09f7f3d824cd64105fe235ce9433&lang=en&cache-only=0",
-      "phonetic_am_text": "lowēr",
+      "phonetic_am_text": "loooēr",
       "img": "https://cdn.langeek.co/photo/17115/original/frown?type=jpeg",
       "pronunciation": "ˈɫoʊɝ",
       "senses": [
@@ -516,12 +535,13 @@
       ]
     },
     {
-      "word": "pout",
+      "id": "5c5a638e-ab24-40f9-adee-f188108cc4a2",
+      "word": "to pout",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcG91dA&hash=7d0824539841c6a593c86164a6baa625c4fe4850&lang=en&cache-only=0",
       "phonetic_text": "paʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcG91dA&hash=7d0824539841c6a593c86164a6baa625c4fe4850&lang=en&cache-only=0",
-      "phonetic_am_text": "pawt",
+      "phonetic_am_text": "paoot",
       "img": "https://cdn.langeek.co/photo/37342/original/?type=jpeg",
       "pronunciation": "ˈpaʊt",
       "senses": [
@@ -553,7 +573,8 @@
       ]
     },
     {
-      "word": "purse",
+      "id": "43add6ea-88cf-48c6-926d-d9a04c79a989",
+      "word": "to purse",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHVyc2U&hash=7fe70b07e245dcf51dcf5d2cae36daacc9a5172a&lang=en&cache-only=0",
       "phonetic_text": "pɜrs",
@@ -569,12 +590,13 @@
       ]
     },
     {
-      "word": "scowl",
+      "id": "4045941e-72e6-43d0-8345-f495100f0483",
+      "word": "to scowl",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2Nvd2w&hash=5510bcc42e3060cdbcd6a3be7cdf88a3b70f58b7&lang=en&cache-only=0",
       "phonetic_text": "skaʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2Nvd2w&hash=5510bcc42e3060cdbcd6a3be7cdf88a3b70f58b7&lang=en&cache-only=0",
-      "phonetic_am_text": "skawl",
+      "phonetic_am_text": "skaool",
       "img": "https://cdn.langeek.co/photo/17115/original/frown?type=jpeg",
       "pronunciation": "ˈskaʊɫ",
       "senses": [
@@ -585,12 +607,13 @@
       ]
     },
     {
-      "word": "sulk",
+      "id": "7721a09a-0766-4ceb-8800-54941d6e354a",
+      "word": "to sulk",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3Vsaw&hash=4348a3cad4619259b24da18b95e1dccde9520768&lang=en&cache-only=0",
-      "phonetic_text": "sʌlk",
+      "phonetic_text": "səlk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3Vsaw&hash=4348a3cad4619259b24da18b95e1dccde9520768&lang=en&cache-only=0",
-      "phonetic_am_text": "salk",
+      "phonetic_am_text": "sēlk",
       "img": "",
       "pronunciation": "ˈsəɫk",
       "senses": [
@@ -614,12 +637,13 @@
       ]
     },
     {
-      "word": "wince",
+      "id": "7eeda405-2ed0-4984-8610-332c123a8308",
+      "word": "to wince",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2luY2U&hash=48b8f752036e4b54135434183202966042dd1a28&lang=en&cache-only=0",
       "phonetic_text": "wɪns",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2luY2U&hash=48b8f752036e4b54135434183202966042dd1a28&lang=en&cache-only=0",
-      "phonetic_am_text": "wins",
+      "phonetic_am_text": "vins",
       "img": "https://cdn.langeek.co/photo/16236/original/sore-throat?type=jpeg",
       "pronunciation": "ˈwɪns",
       "senses": [
@@ -643,6 +667,7 @@
       ]
     },
     {
+      "id": "f96773ce-2c17-4123-96ec-a1b2b36a2636",
       "word": "smile",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c21pbGU&hash=3fbbbd4949847bf1b00755ede44f8d8e8370b99f&lang=en&cache-only=0",
@@ -650,7 +675,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=c21pbGU&hash=3fbbbd4949847bf1b00755ede44f8d8e8370b99f&lang=en&cache-only=0",
       "phonetic_am_text": "smail",
       "img": "https://cdn.langeek.co/photo/49153/original/smile?type=jpeg",
-      "pronunciation": "ˈsmaɪɫ",
+      "pronunciation": "smaɪl",
       "senses": [
         {
           "definition": "an expression in which our mouth curves upwards, when we are being friendly or are happy or amused",
@@ -680,6 +705,7 @@
       ]
     },
     {
+      "id": "f7500cf2-13b9-4ec2-ab8a-fade4a7e1a8b",
       "word": "grin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3Jpbg&hash=13777fc6bec1ca0e32da56de2172003e5a91bf57&lang=en&cache-only=0",
@@ -687,7 +713,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Z3Jpbg&hash=13777fc6bec1ca0e32da56de2172003e5a91bf57&lang=en&cache-only=0",
       "phonetic_am_text": "grin",
       "img": "https://cdn.langeek.co/photo/19785/original/grin?type=jpeg",
-      "pronunciation": "ˈɡɹɪn",
+      "pronunciation": "ɡrɪn",
       "senses": [
         {
           "definition": "a broad smile that reveals the teeth",
@@ -717,14 +743,15 @@
       ]
     },
     {
+      "id": "4bc405e3-2b69-45e7-a5a3-0e79fd4ddc52",
       "word": "beam",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVhbQ&hash=4e49c21077cb58fde7a96fef133a463e928dfa1c&lang=en&cache-only=0",
-      "phonetic_text": "bi:m",
+      "phonetic_text": "bim",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVhbQ&hash=4e49c21077cb58fde7a96fef133a463e928dfa1c&lang=en&cache-only=0",
-      "phonetic_am_text": "beem",
+      "phonetic_am_text": "bim",
       "img": "https://cdn.langeek.co/photo/19785/original/grin?type=jpeg",
-      "pronunciation": "ˈbim",
+      "pronunciation": "biːm",
       "senses": [
         {
           "definition": "a wide and joyful smile",
@@ -733,6 +760,7 @@
       ]
     },
     {
+      "id": "8d155bf8-9f85-45ab-aa15-b4c375cbd15b",
       "word": "sneer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c25lZXI&hash=edc819e33b7d6110f40e8cb7cc3d5ee434a66a05&lang=en&cache-only=0",
@@ -749,6 +777,7 @@
       ]
     },
     {
+      "id": "9dee0171-9ca3-4c73-9765-7b4d306d0c48",
       "word": "smirk",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c21pcms&hash=28232a16c99f945ef8f3dda48e16a6b088bb90ae&lang=en&cache-only=0",
@@ -786,12 +815,13 @@
       ]
     },
     {
+      "id": "3db75709-c066-4e73-96bb-566369b2fc58",
       "word": "simper",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2ltcGVy&hash=a7d5539076f0a19e8581b7e575be4b529281349b&lang=en&cache-only=0",
-      "phonetic_text": "sɪmpər",
+      "phonetic_text": "sɪm.pɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c2ltcGVy&hash=a7d5539076f0a19e8581b7e575be4b529281349b&lang=en&cache-only=0",
-      "phonetic_am_text": "simpēr",
+      "phonetic_am_text": "sim.pēr",
       "img": "",
       "pronunciation": "ˈsɪmpɝ",
       "senses": [
@@ -802,12 +832,13 @@
       ]
     },
     {
+      "id": "8fb8e318-5ac1-4d8b-92ad-82e5e0d1d8b1",
       "word": "bleak",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YmxlYWs&hash=cedfbacefaffba590d426e11b52e82f1b61c4e29&lang=en&cache-only=0",
-      "phonetic_text": "bli:k",
+      "phonetic_text": "blik",
       "phonetic_am": "https://tts.langeek.co/read?text=YmxlYWs&hash=cedfbacefaffba590d426e11b52e82f1b61c4e29&lang=en&cache-only=0",
-      "phonetic_am_text": "bleek",
+      "phonetic_am_text": "blik",
       "img": "",
       "pronunciation": "ˈbɫik",
       "senses": [
@@ -839,6 +870,7 @@
       ]
     },
     {
+      "id": "b62b88b0-db1e-4962-add1-853eef30c5f8",
       "word": "glazed",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Z2xhemVk&hash=091b2e787cc7000fa252610b2681e7071c22955b&lang=en&cache-only=0",
@@ -868,6 +900,7 @@
       ]
     },
     {
+      "id": "4e940688-91ad-43ef-bc6a-ece1d5245896",
       "word": "wry",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=d3J5&hash=8e590cf5e9fb57a20a5defbc67776796e485a259&lang=en&cache-only=0",
@@ -884,13 +917,14 @@
       ]
     },
     {
+      "id": "28d51916-0754-47bd-a76e-74dca25bfa50",
       "word": "worried",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=d29ycmllZA&hash=e8dcd4f18c931f67fa7080551d69f847706bbc28&lang=en&cache-only=0",
-      "phonetic_text": "wɜrid",
+      "phonetic_text": "wɜ.rid",
       "phonetic_am": "https://tts.langeek.co/read?text=d29ycmllZA&hash=e8dcd4f18c931f67fa7080551d69f847706bbc28&lang=en&cache-only=0",
-      "phonetic_am_text": "wērid",
-      "img": "https://cdn.langeek.co/photo/52159/original/worry?type=jpeg",
+      "phonetic_am_text": "vē.rid",
+      "img": "https://cdn.langeek.co/photo/61310/original/worry?type=jpeg",
       "pronunciation": "ˈwɝid",
       "senses": [
         {
@@ -921,12 +955,13 @@
       ]
     },
     {
+      "id": "f28d695e-1c3a-4a7c-8b36-69881205755d",
       "word": "wild-eyed",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=d2lsZC1leWVk&hash=662d62796daf2a8a53746526be996b453541282b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "waɪld-aɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=d2lsZC1leWVk&hash=662d62796daf2a8a53746526be996b453541282b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vaild-aid",
       "img": "",
       "pronunciation": "wˈaɪldˈaɪd",
       "senses": [
@@ -937,12 +972,13 @@
       ]
     },
     {
+      "id": "163c2680-2ddd-41e3-b33d-58cd7915b813",
       "word": "unblinking",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dW5ibGlua2luZw&hash=95b4102f10b1f36ac1be2bc25ab81c4cfdd8d804&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʌn.blɪn.kɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5ibGlua2luZw&hash=95b4102f10b1f36ac1be2bc25ab81c4cfdd8d804&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "an.blin.king",
       "img": "",
       "pronunciation": "ʌnblˈɪŋkɪŋ",
       "senses": [
@@ -953,12 +989,13 @@
       ]
     },
     {
+      "id": "fba0710c-cbe0-43a1-92a6-3f204d38f893",
       "word": "wince",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2luY2U&hash=5034c6c1506bad59ea815162474b090d40afda59&lang=en&cache-only=0",
       "phonetic_text": "wɪns",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luY2U&hash=5034c6c1506bad59ea815162474b090d40afda59&lang=en&cache-only=0",
-      "phonetic_am_text": "wins",
+      "phonetic_am_text": "vins",
       "img": "https://cdn.langeek.co/photo/16236/original/sore-throat?type=jpeg",
       "pronunciation": "ˈwɪns",
       "senses": [
@@ -969,14 +1006,15 @@
       ]
     },
     {
-      "word": "beam",
+      "id": "7f51b6e4-9daf-4b26-aed8-a4bbd71fa07a",
+      "word": "to beam",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmVhbQ&hash=60991687835e496659999d9110e1fdcd6f8b314b&lang=en&cache-only=0",
-      "phonetic_text": "bi:m",
+      "phonetic_text": "bim",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmVhbQ&hash=60991687835e496659999d9110e1fdcd6f8b314b&lang=en&cache-only=0",
-      "phonetic_am_text": "beem",
+      "phonetic_am_text": "bim",
       "img": "https://cdn.langeek.co/photo/49153/original/smile?type=jpeg",
-      "pronunciation": "ˈbim",
+      "pronunciation": "biːm",
       "senses": [
         {
           "definition": "to show an emotion with a joyful smile",
@@ -1002,7 +1040,8 @@
       ]
     },
     {
-      "word": "sneer",
+      "id": "6a6b44f9-b208-45c9-99a8-4881ff60fbb3",
+      "word": "to sneer",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc25lZXI&hash=8370d3cf626115c83dceab43d1b6eeca9e305a81&lang=en&cache-only=0",
       "phonetic_text": "snɪr",
@@ -1039,7 +1078,8 @@
       ]
     },
     {
-      "word": "smirk",
+      "id": "775b6831-59a9-48a7-a0d6-66175121eb02",
+      "word": "to smirk",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc21pcms&hash=d5917a2e7c147143bc8fdae68be959d21ca8b737&lang=en&cache-only=0",
       "phonetic_text": "smɜrk",

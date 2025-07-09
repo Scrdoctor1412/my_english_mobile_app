@@ -1,16 +1,18 @@
 {
+  "id": "5198c789-de7c-4daf-97fa-fd686dce465f",
   "topic": "health_and_sickness",
   "title": "Describing Pain and Injury",
   "lesson": "lesson_18",
   "word_list": [
     {
+      "id": "ea563de3-b116-471e-8871-a13d4e8e8f43",
       "word": "achy",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YWNoeQ&hash=ebdc6b6ee07f8a337c6d530b71bd6133cb6089c0&lang=en&cache-only=0",
-      "phonetic_text": "eɪki",
+      "phonetic_text": "eɪ.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=YWNoeQ&hash=ebdc6b6ee07f8a337c6d530b71bd6133cb6089c0&lang=en&cache-only=0",
-      "phonetic_am_text": "eiki",
-      "img": "https://cdn.langeek.co/photo/51600/original/pain?type=jpeg",
+      "phonetic_am_text": "ei.ki",
+      "img": "https://cdn.langeek.co/photo/61674/original/pain?type=jpeg",
       "pronunciation": "ˈeɪki",
       "senses": [
         {
@@ -20,76 +22,173 @@
       ]
     },
     {
+      "id": "c09e5811-3250-472d-9680-d6c634e95bad",
       "word": "acute",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YWN1dGU&hash=0653ddd84bc7f71b374840fe36cc1f00a31865e2&lang=en&cache-only=0",
-      "phonetic_text": "əkju:t",
+      "phonetic_text": "ə.kjut",
       "phonetic_am": "https://tts.langeek.co/read?text=YWN1dGU&hash=0653ddd84bc7f71b374840fe36cc1f00a31865e2&lang=en&cache-only=0",
-      "phonetic_am_text": "ēkyoot",
+      "phonetic_am_text": "ē.kyoot",
       "img": "",
       "pronunciation": "əkˈjut",
       "senses": [
         {
           "definition": "(of an illness) suddenly becoming severe but for a short time",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Jack was hospitalized due to an acute bout of appendicitis."
+            },
+            {
+              "cf": "",
+              "x": "Mary experienced acute food poisoning after eating contaminated seafood, leading to severe vomiting and diarrhea."
+            },
+            {
+              "cf": "",
+              "x": "Tom's acute migraine headache was so intense that he had to lie down in a dark room until it subsided."
+            },
+            {
+              "cf": "",
+              "x": "Sarah's acute allergic reaction to peanuts caused her throat to swell rapidly, requiring immediate medical attention."
+            },
+            {
+              "cf": "",
+              "x": "Emily was diagnosed with acute bronchitis after experiencing sudden onset of coughing, chest pain, and difficulty breathing."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "64150b09-2b5b-494b-9c58-37bfa7842568",
       "word": "agonizing",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YWdvbml6aW5n&hash=07b023f482c0f7ea2fa54aedf82625374c62c9f0&lang=en&cache-only=0",
-      "phonetic_text": "ægənaɪzɪng",
+      "phonetic_text": "æ.gə.naɪ.zɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=YWdvbml6aW5n&hash=07b023f482c0f7ea2fa54aedf82625374c62c9f0&lang=en&cache-only=0",
-      "phonetic_am_text": "āgēnaizing",
+      "phonetic_am_text": "ā.gē.nai.zing",
       "img": "https://cdn.langeek.co/photo/23521/original/?type=jpeg",
       "pronunciation": "ˈæɡənaɪzɪŋ",
       "senses": [
         {
           "definition": "causing a lot of difficulty, pain, distress, or discomfort",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The agonizing wait for test results filled her with dread."
+            },
+            {
+              "cf": "",
+              "x": "The agonizing decision to end the relationship weighed heavily on his mind."
+            },
+            {
+              "cf": "",
+              "x": "The agonizing pain in her knee made it difficult to walk."
+            },
+            {
+              "cf": "",
+              "x": "The agonizing uncertainty about the future kept him awake at night."
+            },
+            {
+              "cf": "",
+              "x": "The agonizing defeat in the championship game left the team devastated."
+            },
+            {
+              "cf": "",
+              "x": "The long, agonizing hours of labor were finally over."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "3e8813f4-b61d-4ee8-a654-ca2eabd14b57",
       "word": "crippling",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y3JpcHBsaW5n&hash=b4e95fd146b0d52ceaabbe83129a851b6f9d162c&lang=en&cache-only=0",
-      "phonetic_text": "krɪpəlɪng",
+      "phonetic_text": "krɪ.pə.lɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3JpcHBsaW5n&hash=b4e95fd146b0d52ceaabbe83129a851b6f9d162c&lang=en&cache-only=0",
-      "phonetic_am_text": "kripēling",
+      "phonetic_am_text": "kri.pē.ling",
       "img": "",
       "pronunciation": "ˈkɹɪpəɫɪŋ/, /ˈkɹɪpɫɪŋ",
       "senses": [
         {
           "definition": "causing severe damage or limitation, often making it difficult to function normally",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The crippling injury left him unable to walk without assistance."
+            },
+            {
+              "cf": "",
+              "x": "The crippling debt burdened the family, making it difficult to meet basic needs."
+            },
+            {
+              "cf": "",
+              "x": "The crippling anxiety prevented her from leaving the house."
+            },
+            {
+              "cf": "",
+              "x": "The crippling effects of the disease left him bedridden for months."
+            },
+            {
+              "cf": "",
+              "x": "The crippling fear of failure paralyzed her, preventing her from pursuing her dreams."
+            },
+            {
+              "cf": "",
+              "x": "The crippling addiction to drugs destroyed his relationships and career."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "93c66aab-5801-445c-a4f7-2baa3cecd70c",
       "word": "excruciating",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZXhjcnVjaWF0aW5n&hash=b91f05403147d2e85b3eddefa5c2c19bdd6a295c&lang=en&cache-only=0",
-      "phonetic_text": "ɪkskru:ʃieɪtɪng",
+      "phonetic_text": "ɪksk.ru.ʃieɪ.tɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXhjcnVjaWF0aW5n&hash=b91f05403147d2e85b3eddefa5c2c19bdd6a295c&lang=en&cache-only=0",
-      "phonetic_am_text": "ikskrooshieiting",
+      "phonetic_am_text": "iksk.roo.shiei.ting",
       "img": "https://cdn.langeek.co/photo/23521/original/?type=jpeg",
       "pronunciation": "ɪksˈkɹuʃiˌeɪtɪŋ",
       "senses": [
         {
           "definition": "causing extreme pain or discomfort",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The excruciating pain in his leg made every step a challenge after the accident."
+            },
+            {
+              "cf": "",
+              "x": "The patient described the excruciating agony of a migraine that lasted for hours."
+            },
+            {
+              "cf": "",
+              "x": "Enduring the excruciating heat during the heatwave, residents sought relief wherever they could find it."
+            },
+            {
+              "cf": "",
+              "x": "The silence in the room after the devastating news was almost excruciating."
+            },
+            {
+              "cf": "",
+              "x": "The athlete pushed through the excruciating fatigue to cross the finish line."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "64adb657-7491-4a60-b537-9bc0a3e93db2",
       "word": "inflamed",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aW5mbGFtZWQ&hash=6d001e471fea49e845cdd4892bc1b9c071a26960&lang=en&cache-only=0",
-      "phonetic_text": "ɪnfleɪmd",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5mbGFtZWQ&hash=6d001e471fea49e845cdd4892bc1b9c071a26960&lang=en&cache-only=0",
-      "phonetic_am_text": "infleimd",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ɪnˈfɫeɪmd",
       "senses": [
@@ -100,60 +199,119 @@
       ]
     },
     {
+      "id": "ad28ee9b-b75d-4e5b-b7ec-1f1d1b432100",
       "word": "itchy",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aXRjaHk&hash=47157f26888b116106744042128e39ae1a0fa53b&lang=en&cache-only=0",
-      "phonetic_text": "ɪʧi",
+      "phonetic_text": "ɪ.ʧi",
       "phonetic_am": "https://tts.langeek.co/read?text=aXRjaHk&hash=47157f26888b116106744042128e39ae1a0fa53b&lang=en&cache-only=0",
-      "phonetic_am_text": "ichi",
+      "phonetic_am_text": "i.chi",
       "img": "https://cdn.langeek.co/photo/29426/original/?type=jpeg",
       "pronunciation": "ˈɪtʃi",
       "senses": [
         {
           "definition": "causing an annoying feeling on the skin that makes a person want to scratch it",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The mosquito bites left itchy red spots."
+            },
+            {
+              "cf": "",
+              "x": "The wool sweater felt too itchy on her skin."
+            },
+            {
+              "cf": "",
+              "x": "An itchy scarf can be uncomfortable in winter."
+            },
+            {
+              "cf": "",
+              "x": "The rash made his arms red and itchy."
+            },
+            {
+              "cf": "",
+              "x": "An itchy throat can be an early sign of a cold."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "ce57dac7-6768-4ffb-9d52-6586bd1507ca",
       "word": "painful",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cGFpbmZ1bA&hash=e70d70d572136a2ac7fecb1c2e68fffffe0b3931&lang=en&cache-only=0",
-      "phonetic_text": "peɪnfəl",
+      "phonetic_text": "peɪn.fəl",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFpbmZ1bA&hash=e70d70d572136a2ac7fecb1c2e68fffffe0b3931&lang=en&cache-only=0",
-      "phonetic_am_text": "peinfēl",
+      "phonetic_am_text": "pein.fēl",
       "img": "https://cdn.langeek.co/photo/23521/original/?type=jpeg",
-      "pronunciation": "ˈpeɪnfəɫ",
+      "pronunciation": "ˈpeɪnfəl",
       "senses": [
         {
           "definition": "causing physical pain in someone",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The painful bruise on his leg made it hard to walk."
+            },
+            {
+              "cf": "",
+              "x": "His painful back muscles tightened after the long workout."
+            },
+            {
+              "cf": "",
+              "x": "Her painful shoulder prevented her from lifting anything heavy."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1d3ad075-a7f2-40c3-ab4a-26bbfb5c87b8",
       "word": "painfully",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=cGFpbmZ1bGx5&hash=b261f7222c5f92cc562badcbb43f8a568ddac2f3&lang=en&cache-only=0",
-      "phonetic_text": "peɪnfəli",
+      "phonetic_text": "peɪn.fə.li",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFpbmZ1bGx5&hash=b261f7222c5f92cc562badcbb43f8a568ddac2f3&lang=en&cache-only=0",
-      "phonetic_am_text": "peinfēli",
+      "phonetic_am_text": "pein.fē.li",
       "img": "https://cdn.langeek.co/photo/49932/original/?type=jpeg",
       "pronunciation": "ˈpeɪnfəɫi",
       "senses": [
         {
           "definition": "in a way that causes physical or emotional discomfort or suffering",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She smiled painfully as she tried to conceal the toothache during the meeting."
+            },
+            {
+              "cf": "",
+              "x": "The athlete continued to run, despite the painfully sore muscles from yesterday's intense workout."
+            },
+            {
+              "cf": "",
+              "x": "His rejection letter hit him painfully, reminding him of the missed opportunity."
+            },
+            {
+              "cf": "",
+              "x": "The breakup was painfully emotional, leaving both parties with a sense of heartache."
+            },
+            {
+              "cf": "",
+              "x": "She spoke painfully about the loss of her beloved pet, tears welling up in her eyes."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "84468b6a-170e-4ff8-badf-a51511204e28",
       "word": "raging",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cmFnaW5n&hash=5fd8b3b2b47b7a745195938a48ce3015e9e81967&lang=en&cache-only=0",
-      "phonetic_text": "reɪʤɪng",
+      "phonetic_text": "reɪ.ʤɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=cmFnaW5n&hash=5fd8b3b2b47b7a745195938a48ce3015e9e81967&lang=en&cache-only=0",
-      "phonetic_am_text": "reijing",
+      "phonetic_am_text": "rei.jing",
       "img": "",
       "pronunciation": "ˈɹeɪdʒɪŋ",
       "senses": [
@@ -164,45 +322,94 @@
       ]
     },
     {
+      "id": "8bbbcc1d-85b1-4ecc-88f6-24586e108431",
       "word": "severe",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c2V2ZXJl&hash=90886791d8d0e1fd24bc439a42b7b117bc236c8d&lang=en&cache-only=0",
-      "phonetic_text": "səvɪr",
+      "phonetic_text": "sə.vɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=c2V2ZXJl&hash=90886791d8d0e1fd24bc439a42b7b117bc236c8d&lang=en&cache-only=0",
-      "phonetic_am_text": "sēvir",
+      "phonetic_am_text": "sē.vir",
       "img": "https://cdn.langeek.co/photo/33139/original/?type=jpeg",
-      "pronunciation": "səˈvɪɹ",
+      "pronunciation": "səˈvɪr",
       "senses": [
         {
           "definition": "very harsh or intense",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The building suffered severe damage from the earthquake."
+            },
+            {
+              "cf": "",
+              "x": "The city experienced severe flooding after the heavy rain."
+            },
+            {
+              "cf": "",
+              "x": "The country is facing severe economic problems."
+            },
+            {
+              "cf": "",
+              "x": "The doctor said his condition was severe and he needed immediate treatment."
+            },
+            {
+              "cf": "",
+              "x": "The winter was severe with record-breaking snowfall."
+            },
+            {
+              "cf": "",
+              "x": "He faced severe criticism for his actions."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "20d4955f-3a34-4d07-965f-7b0d897151f5",
       "word": "sharp",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c2hhcnA&hash=972244ec15676b3b56066aa40a8e754d81066927&lang=en&cache-only=0",
-      "phonetic_text": "ʃɑ:rp",
+      "phonetic_text": "ʃɑrp",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hhcnA&hash=972244ec15676b3b56066aa40a8e754d81066927&lang=en&cache-only=0",
       "phonetic_am_text": "shaarp",
       "img": "",
-      "pronunciation": "ˈʃɑɹp",
+      "pronunciation": "ʃɑrp",
       "senses": [
         {
           "definition": "intense, sudden, and piercing discomfort, often linked to injuries or severe pain",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "When she twisted her ankle, she felt a sharp pain shoot through it, making her gasp."
+            },
+            {
+              "cf": "",
+              "x": "The sudden movement resulted in a sharp ache in his lower back, causing him to wince."
+            },
+            {
+              "cf": "",
+              "x": "After the surgery, he experienced sharp discomfort at the incision site."
+            },
+            {
+              "cf": "",
+              "x": "A sharp throbbing in her temple signaled the onset of a migraine."
+            },
+            {
+              "cf": "",
+              "x": "The burn on his hand left a sharp stinging sensation."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c5b464a0-aabf-4b49-a4e0-fa0302254324",
       "word": "sore",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c29yZQ&hash=ac0ce0bd4ce1aa7fc2a7121f4cf3a55857197475&lang=en&cache-only=0",
       "phonetic_text": "sɔ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=c29yZQ&hash=ac0ce0bd4ce1aa7fc2a7121f4cf3a55857197475&lang=en&cache-only=0",
-      "phonetic_am_text": "saawr",
-      "img": "https://cdn.langeek.co/photo/51600/original/pain?type=jpeg",
+      "phonetic_am_text": "sawr",
+      "img": "https://cdn.langeek.co/photo/61674/original/pain?type=jpeg",
       "pronunciation": "sɔːr",
       "senses": [
         {
@@ -233,12 +440,13 @@
       ]
     },
     {
+      "id": "17312af3-306c-4676-9136-bb314aa2b3d8",
       "word": "agoraphobic",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YWdvcmFwaG9iaWM&hash=39866d15d444f15a19cdfed15d810426ecfb9be2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æ.go:.ra.foʊ.bɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=YWdvcmFwaG9iaWM&hash=39866d15d444f15a19cdfed15d810426ecfb9be2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ā.go.ra.fooo.bik",
       "img": "",
       "pronunciation": "ˌæɡoːɹɐfˈoʊbɪk",
       "senses": [
@@ -254,28 +462,51 @@
       ]
     },
     {
+      "id": "fa4604cd-2104-4a41-ba9c-ef983801d370",
       "word": "arthritic",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YXJ0aHJpdGlj&hash=966c77bf235befd3644d395560053e790d8dc64b&lang=en&cache-only=0",
-      "phonetic_text": "ɑrθrɪtɪk",
+      "phonetic_text": "ɑrθ.rɪ.tɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJ0aHJpdGlj&hash=966c77bf235befd3644d395560053e790d8dc64b&lang=en&cache-only=0",
-      "phonetic_am_text": "ɑrthritik",
+      "phonetic_am_text": "aarth.ri.tik",
       "img": "",
       "pronunciation": "ɑɹˈθɹɪtɪk",
       "senses": [
         {
           "definition": "pertaining to a medical condition characterized by inflammation and pain in the joints",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The arthritic pain in her knees worsened during cold weather."
+            },
+            {
+              "cf": "",
+              "x": "Arthritic joints may experience stiffness and limited range of motion."
+            },
+            {
+              "cf": "",
+              "x": "He adapted his lifestyle to accommodate arthritic limitations, using assistive devices for daily tasks."
+            },
+            {
+              "cf": "",
+              "x": "Medications are often prescribed to alleviate pain and inflammation in arthritic conditions."
+            },
+            {
+              "cf": "",
+              "x": "A well-balanced diet rich in anti-inflammatory foods can benefit individuals with arthritic tendencies."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "brain dead",
+      "id": "c4598b8e-7ac7-4005-b62e-767d1ce300be",
+      "word": "brain-dead",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YnJhaW4tZGVhZA&hash=540a7dbb35308ffb56d7169fb8842ea02bee1d7f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "breɪn-dɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJhaW4tZGVhZA&hash=540a7dbb35308ffb56d7169fb8842ea02bee1d7f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "brein-ded",
       "img": "",
       "pronunciation": "bɹˈeɪndˈɛd",
       "senses": [
@@ -286,12 +517,13 @@
       ]
     },
     {
+      "id": "020c60dd-f841-490d-8439-c73b9e603024",
       "word": "concussed",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y29uY3Vzc2Vk&hash=ceaa3f04fe03933b6beee2aee51896dede4a0c51&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kən.kʌst",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uY3Vzc2Vk&hash=ceaa3f04fe03933b6beee2aee51896dede4a0c51&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kēn.kast",
       "img": "",
       "pronunciation": "kənkˈʌst",
       "senses": [
@@ -302,44 +534,73 @@
       ]
     },
     {
+      "id": "9a68aa85-b701-480b-b7c0-d434f171ecbd",
       "word": "dehydrated",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZGVoeWRyYXRlZA&hash=be8fd8b1a17c08d368ffb7cd12cfd9fe84cb7b31&lang=en&cache-only=0",
-      "phonetic_text": "dɪhaɪdreɪtəd",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVoeWRyYXRlZA&hash=be8fd8b1a17c08d368ffb7cd12cfd9fe84cb7b31&lang=en&cache-only=0",
-      "phonetic_am_text": "dihaidreitēd",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "dɪˈhaɪdɹeɪtəd",
       "senses": [
         {
           "definition": "characterized by a state of excessive fluid loss or insufficient hydration, often leading to discomfort, weakness, and complications",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Dehydrated individuals may exhibit signs of lethargy, dry mouth, and decreased urine output."
+            },
+            {
+              "cf": "",
+              "x": "Dehydrated muscles can result in increased susceptibility to strains and injuries."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a87fbf02-0c52-4ebf-b57c-acab17fd561e",
       "word": "diabetic",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZGlhYmV0aWM&hash=556d53f0a7285cf9f8343240402215b795e66cf5&lang=en&cache-only=0",
-      "phonetic_text": "daɪəbɛtɪk",
+      "phonetic_text": "daɪə.bɛ.tɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlhYmV0aWM&hash=556d53f0a7285cf9f8343240402215b795e66cf5&lang=en&cache-only=0",
-      "phonetic_am_text": "daiēbetik",
+      "phonetic_am_text": "daiē.be.tik",
       "img": "",
       "pronunciation": "ˌdaɪəˈbɛtɪk",
       "senses": [
         {
           "definition": "relating to a medical condition characterized by an impaired ability to regulate blood sugar levels",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Diabetic education programs provide valuable information on self-care practices and lifestyle adjustments."
+            },
+            {
+              "cf": "",
+              "x": "The diabetic support group provided valuable resources and encouragement for managing the condition."
+            },
+            {
+              "cf": "",
+              "x": "The research team focused on developing new technologies for diabetic care and monitoring."
+            },
+            {
+              "cf": "",
+              "x": "The cookbook featured recipes tailored to diabetic dietary restrictions, emphasizing balanced and nutritious meals."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "cc140057-0ea9-4ea1-bac9-34cc0d2e1752",
       "word": "dyslexic",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZHlzbGV4aWM&hash=d7ee9bcefe9f4ad603f83b4787679359d42069aa&lang=en&cache-only=0",
-      "phonetic_text": "dɪslɛksɪk",
+      "phonetic_text": "dɪs.lɛk.sɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHlzbGV4aWM&hash=d7ee9bcefe9f4ad603f83b4787679359d42069aa&lang=en&cache-only=0",
-      "phonetic_am_text": "disleksik",
+      "phonetic_am_text": "dis.lek.sik",
       "img": "",
       "pronunciation": "dɪˈsɫɛksɪk",
       "senses": [
@@ -350,44 +611,77 @@
       ]
     },
     {
+      "id": "231b1c37-ff4c-4e94-9aa9-c9a05ee0d1ec",
       "word": "epileptic",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZXBpbGVwdGlj&hash=91430ee9463c6c5871d83f8644d0b93f1efd38d7&lang=en&cache-only=0",
-      "phonetic_text": "ɛpəlɛptɪk",
+      "phonetic_text": "ɛ.pə.lɛp.tɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXBpbGVwdGlj&hash=91430ee9463c6c5871d83f8644d0b93f1efd38d7&lang=en&cache-only=0",
-      "phonetic_am_text": "epēleptik",
+      "phonetic_am_text": "e.pē.lep.tik",
       "img": "",
       "pronunciation": "ˌɛpəˈɫɛptɪk",
       "senses": [
         {
           "definition": "associated with a neurological disorder characterized by recurrent seizures",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Schools implement safety protocols for epileptic students during seizures."
+            },
+            {
+              "cf": "",
+              "x": "The neurologist specializes in treating epileptic patients and managing seizures."
+            },
+            {
+              "cf": "",
+              "x": "The school nurse is trained to administer first aid during an epileptic episode."
+            },
+            {
+              "cf": "",
+              "x": "Technological advancements, like seizure detection devices, support epileptic patients and caregivers."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "6a26f6ec-024d-44cf-bf7f-f6683f8934c6",
       "word": "frostbitten",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZnJvc3RiaXR0ZW4&hash=42776c6334fafe413646099c516793c6a369b9fe&lang=en&cache-only=0",
-      "phonetic_text": "frɔ:stbɪtən",
+      "phonetic_text": "frɔst.bɪ.tən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJvc3RiaXR0ZW4&hash=42776c6334fafe413646099c516793c6a369b9fe&lang=en&cache-only=0",
-      "phonetic_am_text": "fraawstbitēn",
+      "phonetic_am_text": "frawst.bi.tēn",
       "img": "",
       "pronunciation": "ˈfɹɔstˌbɪtən",
       "senses": [
         {
           "definition": "affected by a condition where skin and underlying tissues freeze due to exposure to extremely cold temperatures",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The hiker sought immediate help for frostbitten fingers."
+            },
+            {
+              "cf": "",
+              "x": "Proper clothing prevents frostbitten extremities in cold weather."
+            },
+            {
+              "cf": "",
+              "x": "Rapid rewarming is crucial for treating mild frostbitten extremities."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "79494a5f-7502-4ab3-bdeb-becec2d6fafc",
       "word": "incontinent",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aW5jb250aW5lbnQ&hash=84180ffbaacc2bd180c46c10ac0d1c3bb2de8ea1&lang=en&cache-only=0",
-      "phonetic_text": "ɪnkɑ:ntənənt",
+      "phonetic_text": "ɪn.kɑ:n.tɪ.nənt",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5jb250aW5lbnQ&hash=84180ffbaacc2bd180c46c10ac0d1c3bb2de8ea1&lang=en&cache-only=0",
-      "phonetic_am_text": "inkaantēnēnt",
+      "phonetic_am_text": "in.kaan.ti.nēnt",
       "img": "",
       "pronunciation": "ˌɪnˈkɑntənənt",
       "senses": [
@@ -398,109 +692,242 @@
       ]
     },
     {
+      "id": "80a302b3-e752-4264-b206-62511189ea01",
       "word": "leprous",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bGVwcm91cw&hash=cf4c7f4973a466676680553dee7d8821b7bf3892&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɛp.rəs",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVwcm91cw&hash=cf4c7f4973a466676680553dee7d8821b7bf3892&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lep.rēs",
       "img": "",
       "pronunciation": "lˈɛpɹəs",
       "senses": [
         {
           "definition": "affected by a chronic infectious disease causing skin lesions and nerve damage",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Campaigns aim to reduce stigma around leprous individuals."
+            },
+            {
+              "cf": "",
+              "x": "Early detection is crucial in managing leprous symptoms."
+            },
+            {
+              "cf": "",
+              "x": "The clinic specializes in caring for leprous patients with skin lesions."
+            },
+            {
+              "cf": "",
+              "x": "Medical research advances treatments for leprous patients."
+            },
+            {
+              "cf": "",
+              "x": "Global initiatives improve healthcare and living conditions for leprous individuals."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e5f25327-e3bd-469e-969a-9e2a657609e2",
       "word": "malnourished",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bWFsbm91cmlzaGVk&hash=a9994c238cafa19d8f3f46379a51c3ece991ef72&lang=en&cache-only=0",
-      "phonetic_text": "mælnɜrɪʃt",
+      "phonetic_text": "mæl.nɜ.rɪʃt",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFsbm91cmlzaGVk&hash=a9994c238cafa19d8f3f46379a51c3ece991ef72&lang=en&cache-only=0",
-      "phonetic_am_text": "mālnērisht",
+      "phonetic_am_text": "māl.nē.risht",
       "img": "",
       "pronunciation": "mæɫˈnɝɪʃt",
       "senses": [
         {
           "definition": "affected by a lack of proper nutrition, resulting in inadequate nourishment for overall well-being",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Signs of malnourished individuals include fatigue and stunted growth."
+            },
+            {
+              "cf": "",
+              "x": "Malnourished patients benefit from comprehensive nutritional support."
+            },
+            {
+              "cf": "",
+              "x": "Treatment plans focus on monitoring weight gain and improving nutrition in malnourished patients."
+            },
+            {
+              "cf": "",
+              "x": "Early detection prevents severe health complications in malnourished individuals."
+            },
+            {
+              "cf": "",
+              "x": "Malnourished children are vulnerable to infections due to weakened immune systems."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c88bd2b3-05ec-4f23-8952-355849591583",
       "word": "rheumatic",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cmhldW1hdGlj&hash=690aeb5d0735d6114586fe72ea64188822e6cbc0&lang=en&cache-only=0",
-      "phonetic_text": "rumætɪk",
+      "phonetic_text": "ru.mæ.tɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=cmhldW1hdGlj&hash=690aeb5d0735d6114586fe72ea64188822e6cbc0&lang=en&cache-only=0",
-      "phonetic_am_text": "rumātik",
+      "phonetic_am_text": "roo.mā.tik",
       "img": "",
       "pronunciation": "ɹuˈmætɪk",
       "senses": [
         {
           "definition": "related to conditions causing inflammation and pain in joints, muscles, or connective tissues",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Support groups provide coping strategies for rheumatic individuals"
+            },
+            {
+              "cf": "",
+              "x": "Proper diagnosis is crucial for effective treatment in rheumatic disorders."
+            },
+            {
+              "cf": "",
+              "x": "Lifestyle changes, like regular exercise, alleviate symptoms in rheumatic patients."
+            },
+            {
+              "cf": "",
+              "x": "Weather changes may worsen rheumatic symptoms, requiring precautions."
+            },
+            {
+              "cf": "",
+              "x": "Medication and exercise help manage symptoms in rheumatic conditions."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "ec3ecc81-4b20-4204-9b7a-8faa8689298f",
       "word": "sclerotic",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c2NsZXJvdGlj&hash=04222af4869c7b9c41196a0b269efb4efcf6715c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sklə.rɑ:.tɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=c2NsZXJvdGlj&hash=04222af4869c7b9c41196a0b269efb4efcf6715c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sklē.raa.tik",
       "img": "",
       "pronunciation": "skləɹˈɑːɾɪk",
       "senses": [
         {
           "definition": "characterized by a condition involving abnormal hardening or thickening of tissues",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Sclerotic skin conditions reduce flexibility and cause discomfort."
+            },
+            {
+              "cf": "",
+              "x": "Sclerotic changes in blood vessels impact blood flow and circulation."
+            },
+            {
+              "cf": "",
+              "x": "The ophthalmologist checked for sclerotic damage to the retinas."
+            },
+            {
+              "cf": "",
+              "x": "Lifestyle changes, including a healthy diet, help manage symptoms of sclerotic conditions."
+            },
+            {
+              "cf": "",
+              "x": "Sclerotic lung disease leads to breathing difficulties and reduced lung capacity."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "763e38c9-7b4d-4e46-a649-291f994d3a80",
       "word": "ulcerated",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dWxjZXJhdGVk&hash=cebbd721e9ab2722a0056d3bf12ac712c84e1f28&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʌl.sə.reɪ.tid",
       "phonetic_am": "https://tts.langeek.co/read?text=dWxjZXJhdGVk&hash=cebbd721e9ab2722a0056d3bf12ac712c84e1f28&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "al.sē.rei.tid",
       "img": "",
       "pronunciation": "ˈʌlsɚɹˌeɪɾᵻd",
       "senses": [
         {
           "definition": "having open sores or wounds, often causing discomfort or pain",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He went to the doctor for his ulcerated leg wound."
+            },
+            {
+              "cf": "",
+              "x": "Special ointments help heal ulcerated skin conditions."
+            },
+            {
+              "cf": "",
+              "x": "Careful foot care is important for preventing ulcerated feet in diabetes."
+            },
+            {
+              "cf": "",
+              "x": "The dermatologist checked the cause of the patient's ulcerated lesion."
+            },
+            {
+              "cf": "",
+              "x": "Abdominal pain may result from an ulcerated stomach lining in chronic gastritis."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a0a373a1-830b-41a1-9d74-4893895653b2",
       "word": "vertiginous",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dmVydGlnaW5vdXM&hash=b890979934e813fd0cc43d54e382f2560f1869eb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "vər.tɪ.ʤɪ.nəs",
       "phonetic_am": "https://tts.langeek.co/read?text=dmVydGlnaW5vdXM&hash=b890979934e813fd0cc43d54e382f2560f1869eb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/35722/original/?type=jpeg",
-      "pronunciation": "vɜːtˈɪdʒɪnəs",
+      "phonetic_am_text": "vēr.ti.ji.nēs",
+      "img": "https://cdn.langeek.co/photo/60023/original/?type=jpeg",
+      "pronunciation": "vərˈtɪdʒɪnəs",
       "senses": [
         {
           "definition": "having a sensation of dizziness or a feeling of spinning, often associated with balance or inner ear issues",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The patient reported a vertiginous sensation when standing up quickly."
+            },
+            {
+              "cf": "",
+              "x": "The vertiginous individual struggled to maintain balance."
+            },
+            {
+              "cf": "",
+              "x": "Certain medications may cause a temporary vertiginous feeling as a side effect."
+            },
+            {
+              "cf": "",
+              "x": "A sudden drop in blood pressure can result in a brief vertiginous episode."
+            },
+            {
+              "cf": "",
+              "x": "The elderly are more prone to vertiginous issues due to age-related changes in balance."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1fbc4e24-4479-4b1b-b341-24c3668197a2",
       "word": "banged up",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YmFuZ2VkIHVw&hash=5619b8d3cb4de2aed978f63fe128d8bd8fb58bae&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFuZ2VkIHVw&hash=5619b8d3cb4de2aed978f63fe128d8bd8fb58bae&lang=en&cache-only=0",
       "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/39339/original/hurt?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/61744/original/hurt?type=jpeg",
       "pronunciation": "bˈæŋɡd ˈʌp",
       "senses": [
         {
@@ -510,12 +937,13 @@
       ]
     },
     {
+      "id": "fd9f2230-07a6-4251-80c1-3a9d4118f31f",
       "word": "battered",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YmF0dGVyZWQ&hash=7719d7c5a669cec491fa6a1da97b5438ecd54409&lang=en&cache-only=0",
-      "phonetic_text": "bætərd",
+      "phonetic_text": "bæ.tɜrd",
       "phonetic_am": "https://tts.langeek.co/read?text=YmF0dGVyZWQ&hash=7719d7c5a669cec491fa6a1da97b5438ecd54409&lang=en&cache-only=0",
-      "phonetic_am_text": "bātērd",
+      "phonetic_am_text": "bā.tērd",
       "img": "",
       "pronunciation": "ˈbætɝd",
       "senses": [
@@ -526,22 +954,29 @@
       ]
     },
     {
+      "id": "8465ca37-ea83-4fd8-8497-f955faa2f9a9",
       "word": "broken",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YnJva2Vu&hash=2c903d7b310169d9315e17c2b1276fd860f0bba5&lang=en&cache-only=0",
-      "phonetic_text": "broʊkən",
+      "phonetic_text": "broʊ.kən",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJva2Vu&hash=2c903d7b310169d9315e17c2b1276fd860f0bba5&lang=en&cache-only=0",
-      "phonetic_am_text": "browkēn",
+      "phonetic_am_text": "brooo.kēn",
       "img": "",
       "pronunciation": "ˈbroʊkən",
       "senses": [
         {
           "definition": "physically or mentally weakened as a result of much suffering",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The long, grueling divorce left her feeling broken, questioning if she would ever be able to trust again."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c8991c39-8310-411d-ac97-22ae1cf51f9e",
       "word": "burnt",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YnVybnQ&hash=06d00fc0708358320edb0bf62641a5e6483cd7e8&lang=en&cache-only=0",
@@ -558,12 +993,13 @@
       ]
     },
     {
+      "id": "2c975f04-807c-4753-bb34-49fd27c13a00",
       "word": "bruising",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YnJ1aXNpbmc&hash=cd819cd07b5ae4808141298bd9eafe2cb78ffba6&lang=en&cache-only=0",
-      "phonetic_text": "bru:zɪng",
+      "phonetic_text": "bru.zɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJ1aXNpbmc&hash=cd819cd07b5ae4808141298bd9eafe2cb78ffba6&lang=en&cache-only=0",
-      "phonetic_am_text": "broozing",
+      "phonetic_am_text": "broo.zing",
       "img": "",
       "pronunciation": "ˈbɹuzɪŋ",
       "senses": [

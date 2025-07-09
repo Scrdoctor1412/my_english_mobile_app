@@ -1,13 +1,15 @@
 {
+  "id": "cbf2310a-8ab0-44ab-82c2-413cc0de6e3b",
   "topic": "words_related_to_media_and_communication",
   "title": "People in Social Media",
   "lesson": "lesson_3",
   "word_list": [
     {
-      "word": "internet celebrity",
+      "id": "ce1de1f8-e3bc-46aa-b726-0a7f59ef7d0b",
+      "word": "Internet celebrity",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=SW50ZXJuZXQgY2VsZWJyaXR5&hash=4499fa42c52363e2ac4b3ac22b083af97679fa38&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=SW50ZXJuZXQgY2VsZWJyaXR5&hash=4499fa42c52363e2ac4b3ac22b083af97679fa38&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -20,10 +22,11 @@
       ]
     },
     {
+      "id": "7744196c-1dd0-4207-b832-d62c018bbf13",
       "word": "YouTuber",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=WW91VHViZXI&hash=afa5c96d9871d61929251672ccf733190d88bb6e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=WW91VHViZXI&hash=afa5c96d9871d61929251672ccf733190d88bb6e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -53,28 +56,47 @@
       ]
     },
     {
+      "id": "b29f4b7e-b39f-4643-9f9c-25aa669be5b2",
       "word": "vlogger",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmxvZ2dlcg&hash=30b13d26116172139251f889394f45fa64784bc1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "vi:.lɔ.gər",
       "phonetic_am": "https://tts.langeek.co/read?text=dmxvZ2dlcg&hash=30b13d26116172139251f889394f45fa64784bc1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vi.law.gēr",
       "img": "",
       "pronunciation": "vˈiːlˈɔɡɚ",
       "senses": [
         {
           "definition": "a person who regularly updates a blog or a social media account by short videos",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "My favorite vlogger just posted a new travel video, and I can't wait to watch it."
+            },
+            {
+              "cf": "",
+              "x": "The vlogger uploaded a behind-the-scenes look at her latest project."
+            },
+            {
+              "cf": "",
+              "x": "I enjoy watching vloggers who share their daily routines and adventures."
+            },
+            {
+              "cf": "",
+              "x": "The vlogger gave some great advice on how to grow a channel and engage with viewers."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "2b6d3944-b5a6-4c96-8770-d3ba62bf7ee0",
       "word": "influencer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5mbHVlbmNlcg&hash=68c882ac3ef4da395020b7cdd346a10166cf3ac2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪnf.lu:ən.sər",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5mbHVlbmNlcg&hash=68c882ac3ef4da395020b7cdd346a10166cf3ac2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "inf.looēn.sēr",
       "img": "",
       "pronunciation": "ˈɪnfluːənsɚ",
       "senses": [
@@ -85,14 +107,15 @@
       ]
     },
     {
+      "id": "48fef4ae-a6d7-4815-8f0a-2397a1207fc2",
       "word": "blogger",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmxvZ2dlcg&hash=3de78f3b979424f13dd7734c3a0da94d5d44a8e9&lang=en&cache-only=0",
-      "phonetic_text": "blɔ:gər",
+      "phonetic_text": "blɔ.gɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YmxvZ2dlcg&hash=3de78f3b979424f13dd7734c3a0da94d5d44a8e9&lang=en&cache-only=0",
-      "phonetic_am_text": "blaawgēr",
+      "phonetic_am_text": "blaw.gēr",
       "img": "https://cdn.langeek.co/photo/19677/original/blogger?type=jpeg",
-      "pronunciation": "ˈbɫɔɡɝ",
+      "pronunciation": "ˈblɑɡɚ",
       "senses": [
         {
           "definition": "an individual who maintains and regularly adds new content to a blog",
@@ -118,12 +141,13 @@
       ]
     },
     {
+      "id": "20a95db9-5c29-46d5-9bd1-7f512e39622b",
       "word": "social media manager",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c29jaWFsIG1lZGlhIG1hbmFnZXI&hash=38bf39b189ac58fd595f3d858b1d964cd94cfe2b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "soʊ.ʃəl mi:.diə mæ.nɪ.ʤər",
       "phonetic_am": "https://tts.langeek.co/read?text=c29jaWFsIG1lZGlhIG1hbmFnZXI&hash=38bf39b189ac58fd595f3d858b1d964cd94cfe2b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sooo.shēl mi.diē mā.ni.jēr",
       "img": "",
       "pronunciation": "sˈoʊʃəl mˈiːdiːə mˈænɪdʒɚ",
       "senses": [
@@ -151,12 +175,13 @@
       ]
     },
     {
+      "id": "e09c0160-0a83-4403-87ab-7dc96d87f00d",
       "word": "content creator",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29udGVudCBjcmVhdG9y&hash=95d37c5210ed3e15b9a1064924979ed442391ae6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑn.tɛnt krieɪ.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29udGVudCBjcmVhdG9y&hash=95d37c5210ed3e15b9a1064924979ed442391ae6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaan.tent kriei.tēr",
       "img": "",
       "pronunciation": "kˈɑːntɛnt kɹiːˈeɪɾɚ",
       "senses": [
@@ -184,12 +209,13 @@
       ]
     },
     {
+      "id": "bb616c87-5631-44e9-bad8-05cdd50dce1e",
       "word": "advertiser",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWR2ZXJ0aXNlcg&hash=3a676d764e09bc7abdd215e91a39473cd18fb929&lang=en&cache-only=0",
-      "phonetic_text": "ædvərtaɪzər",
+      "phonetic_text": "æd.vɜr.taɪ.zɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YWR2ZXJ0aXNlcg&hash=3a676d764e09bc7abdd215e91a39473cd18fb929&lang=en&cache-only=0",
-      "phonetic_am_text": "ādvērtaizēr",
+      "phonetic_am_text": "ād.vēr.tai.zēr",
       "img": "",
       "pronunciation": "ˈædvɝˌtaɪzɝ",
       "senses": [
@@ -221,12 +247,13 @@
       ]
     },
     {
+      "id": "0570af8f-f541-4c8e-9ac8-d1f8e0e89d67",
       "word": "media planner",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWVkaWEgcGxhbm5lcg&hash=b69b357b86df54e012895f4572274ae41c5cfe31&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mi:.diə plæ.nɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bWVkaWEgcGxhbm5lcg&hash=b69b357b86df54e012895f4572274ae41c5cfe31&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mi.diē plā.nēr",
       "img": "",
       "pronunciation": "mˈiːdiːə plˈænɚ",
       "senses": [
@@ -254,12 +281,13 @@
       ]
     },
     {
+      "id": "425bd061-9739-4e3f-8274-4ce121d8f0b4",
       "word": "user",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dXNlcg&hash=c6594b2d744e3570af26f72ecb8bf2140b24180e&lang=en&cache-only=0",
-      "phonetic_text": "ju:zər",
+      "phonetic_text": "ju.zɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dXNlcg&hash=c6594b2d744e3570af26f72ecb8bf2140b24180e&lang=en&cache-only=0",
-      "phonetic_am_text": "yoozēr",
+      "phonetic_am_text": "yoo.zēr",
       "img": "",
       "pronunciation": "ˈjuzɝ",
       "senses": [
@@ -270,12 +298,13 @@
       ]
     },
     {
+      "id": "2db0d852-4c11-4e04-a2df-7cbc877ab14f",
       "word": "surfer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3VyZmVy&hash=a1b8892eab67175fae7159fe118777d09da7fb0b&lang=en&cache-only=0",
-      "phonetic_text": "sɜrfər",
+      "phonetic_text": "sɜr.fɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3VyZmVy&hash=a1b8892eab67175fae7159fe118777d09da7fb0b&lang=en&cache-only=0",
-      "phonetic_am_text": "sērfēr",
+      "phonetic_am_text": "sēr.fēr",
       "img": "https://cdn.langeek.co/photo/27439/original/?type=jpeg",
       "pronunciation": "ˈsɝfɝ",
       "senses": [
@@ -286,14 +315,15 @@
       ]
     },
     {
+      "id": "959be87b-c83e-4dde-b4c1-f6f13bbfb34c",
       "word": "subscriber",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3Vic2NyaWJlcg&hash=03c25247f0a597f7d0b091235d9ffacb2433abfd&lang=en&cache-only=0",
-      "phonetic_text": "səbskraɪbər",
+      "phonetic_text": "səbs.kraɪ.bɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3Vic2NyaWJlcg&hash=03c25247f0a597f7d0b091235d9ffacb2433abfd&lang=en&cache-only=0",
-      "phonetic_am_text": "sēbskraibēr",
+      "phonetic_am_text": "sēbs.krai.bēr",
       "img": "",
-      "pronunciation": "səbsˈkɹaɪbɝ",
+      "pronunciation": "səbˈskraɪbɚ",
       "senses": [
         {
           "definition": "an individual who has chosen to follow or subscribe to a particular user, page, or channel",
@@ -323,12 +353,13 @@
       ]
     },
     {
+      "id": "e066bdaa-0f76-48d9-b562-e765edabb215",
       "word": "follower",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9sbG93ZXI&hash=4a4e83290fb7d85bf829b8201d47602c85141282&lang=en&cache-only=0",
-      "phonetic_text": "fɑ:loʊər",
+      "phonetic_text": "fɑ.loʊɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9sbG93ZXI&hash=4a4e83290fb7d85bf829b8201d47602c85141282&lang=en&cache-only=0",
-      "phonetic_am_text": "faalowēr",
+      "phonetic_am_text": "faa.loooēr",
       "img": "",
       "pronunciation": "ˈfɑɫoʊɝ",
       "senses": [
@@ -352,13 +383,14 @@
       ]
     },
     {
+      "id": "f01a3a18-a4d8-4e87-a534-fba70b9ba3e1",
       "word": "fan",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFu&hash=af482d3c8e5ab064e654e5b69cdc159e7a446b94&lang=en&cache-only=0",
       "phonetic_text": "fæn",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFu&hash=af482d3c8e5ab064e654e5b69cdc159e7a446b94&lang=en&cache-only=0",
       "phonetic_am_text": "fān",
-      "img": "https://cdn.langeek.co/photo/17523/original/fan?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/61614/original/fan?type=jpeg",
       "pronunciation": "fæn",
       "senses": [
         {
@@ -389,12 +421,13 @@
       ]
     },
     {
+      "id": "561c478f-e91c-41cc-ba82-fcf66235d192",
       "word": "commenter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29tbWVudGVy&hash=135827e818eb4e082dc103e46617aef25fd3b49f&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:mɛntər",
+      "phonetic_text": "kɑ:.mɛn.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tbWVudGVy&hash=135827e818eb4e082dc103e46617aef25fd3b49f&lang=en&cache-only=0",
-      "phonetic_am_text": "kaamentēr",
+      "phonetic_am_text": "kaa.men.tēr",
       "img": "",
       "pronunciation": "kˈɑːmɛntɚ",
       "senses": [
@@ -422,14 +455,15 @@
       ]
     },
     {
+      "id": "76f5569e-0382-4a84-81ee-c1a87e2e33d3",
       "word": "audience",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXVkaWVuY2U&hash=e49791df32fe6509887447d58e8cec6db54ead05&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:diəns",
+      "phonetic_text": "ɑ.diəns",
       "phonetic_am": "https://tts.langeek.co/read?text=YXVkaWVuY2U&hash=e49791df32fe6509887447d58e8cec6db54ead05&lang=en&cache-only=0",
-      "phonetic_am_text": "aadiēns",
+      "phonetic_am_text": "aa.diēns",
       "img": "",
-      "pronunciation": "ˈɑdiəns/, /ˈɔdiəns",
+      "pronunciation": "ˈɑdiˌəns",
       "senses": [
         {
           "definition": "a group of individuals who receive, consume, or engage with a particular form of media, such as television shows, films, performances, or social media content",
@@ -459,12 +493,13 @@
       ]
     },
     {
+      "id": "4e338dd9-a04e-44bb-b38c-cf078803fcd1",
       "word": "content provider",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29udGVudCBwcm92aWRlcg&hash=b8eb3a96a9892dac35081a07f236c5530013a4f0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑn.tɛnt prə.vaɪ.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29udGVudCBwcm92aWRlcg&hash=b8eb3a96a9892dac35081a07f236c5530013a4f0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaan.tent prē.vai.dēr",
       "img": "",
       "pronunciation": "kˈɑːntɛnt pɹəvˈaɪdɚ",
       "senses": [
@@ -492,12 +527,30 @@
       ]
     },
     {
+      "id": "3ed0ea7f-5665-4ac7-9d0b-1e7cb39734b5",
+      "word": "administrator",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=YWRtaW5pc3RyYXRvcg&hash=5086acd19460bfe6ee41f80ec90fbe51e05f3d8a&lang=en&cache-only=0",
+      "phonetic_text": "əd.mɪ.nəst.reɪ.tɜr",
+      "phonetic_am": "https://tts.langeek.co/read?text=YWRtaW5pc3RyYXRvcg&hash=5086acd19460bfe6ee41f80ec90fbe51e05f3d8a&lang=en&cache-only=0",
+      "phonetic_am_text": "ēd.mi.nēst.rei.tēr",
+      "img": "",
+      "pronunciation": "ədˈmɪnəˌstɹeɪtɝ",
+      "senses": [
+        {
+          "definition": "someone who manages and oversees a page, group, or account on social media, controlling content and interactions",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "id": "2ae786d1-c5b9-46da-8293-dee57edfb15c",
       "word": "public relations specialist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHVibGljIHJlbGF0aW9ucyBzcGVjaWFsaXN0&hash=d362f3d32606fd4f13f6c7bc9768f125c1a7e81f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pəb.lɪk ri.leɪ.ʃənz spɛ.ʃə.ləst",
       "phonetic_am": "https://tts.langeek.co/read?text=cHVibGljIHJlbGF0aW9ucyBzcGVjaWFsaXN0&hash=d362f3d32606fd4f13f6c7bc9768f125c1a7e81f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pēb.lik ri.lei.shēnz spe.shē.lēst",
       "img": "",
       "pronunciation": "pˈʌblɪk ɹɪlˈeɪʃənz spˈɛʃəlˌɪst",
       "senses": [

@@ -1,9 +1,11 @@
 {
+  "id": "dc701377-34b9-48de-bdf6-68f2c88dd2d7",
   "topic": "body",
   "title": "Glands and Hormones",
   "lesson": "lesson_3",
   "word_list": [
     {
+      "id": "abd860c0-d7d2-4baa-9b3f-62295c6b79e6",
       "word": "gland",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2xhbmQ&hash=cb357ac2f02cd03d56da1b7be3242b78e5553414&lang=en&cache-only=0",
@@ -11,21 +13,31 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Z2xhbmQ&hash=cb357ac2f02cd03d56da1b7be3242b78e5553414&lang=en&cache-only=0",
       "phonetic_am_text": "glānd",
       "img": "https://cdn.langeek.co/photo/32096/original/?type=jpeg",
-      "pronunciation": "ˈɡɫænd",
+      "pronunciation": "ɡlænd",
       "senses": [
         {
           "definition": "an organ in the body that produces certain chemical substances to be used in the body or to be discharged into the surroundings",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The endocrine system includes glands such as the thyroid and adrenal glands, which regulate hormones in the body."
+            },
+            {
+              "cf": "",
+              "x": "The doctor prescribed medication to stimulate the production of insulin by the pancreas gland in the patient with diabetes."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "4fbf6432-a5af-42ac-a98e-eb925d487d81",
       "word": "tarsal gland",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFyc2FsIGdsYW5k&hash=9f6bf3bc9d733d098ca452c151f9518947129305&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɑ:r.səl glænd",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFyc2FsIGdsYW5k&hash=9f6bf3bc9d733d098ca452c151f9518947129305&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "taar.sēl glānd",
       "img": "",
       "pronunciation": "tˈɑːɹsəl ɡlˈænd",
       "senses": [
@@ -36,12 +48,13 @@
       ]
     },
     {
+      "id": "1450c7fb-39a3-4074-8728-104e816da3ed",
       "word": "pituitary gland",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGl0dWl0YXJ5IGdsYW5k&hash=ba3d61ee5fb082197c56d461eff05eaad397cfb9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pə.tuə.tɛ.ri glænd",
       "phonetic_am": "https://tts.langeek.co/read?text=cGl0dWl0YXJ5IGdsYW5k&hash=ba3d61ee5fb082197c56d461eff05eaad397cfb9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pē.tooē.te.ri glānd",
       "img": "",
       "pronunciation": "pɪtˈuːətˌɛɹi ɡlˈænd",
       "senses": [
@@ -52,10 +65,11 @@
       ]
     },
     {
+      "id": "cd29411a-a844-4d81-b158-d66b84053b7d",
       "word": "pineal gland",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGluZWFsIGdsYW5k&hash=1e060d40498ca0f9a9c771dd43b2dc78838874a8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cGluZWFsIGdsYW5k&hash=1e060d40498ca0f9a9c771dd43b2dc78838874a8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/30439/original/?type=jpeg",
@@ -68,12 +82,13 @@
       ]
     },
     {
+      "id": "f0dcedbd-8b4f-476d-880c-b69f507d6fef",
       "word": "thyroid gland",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGh5cm9pZCBnbGFuZA&hash=e5d4398cc7cb906940bd008cfebb9bd72265ba22&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "θaɪ.rɔɪd glænd",
       "phonetic_am": "https://tts.langeek.co/read?text=dGh5cm9pZCBnbGFuZA&hash=e5d4398cc7cb906940bd008cfebb9bd72265ba22&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "thai.rawid glānd",
       "img": "https://cdn.langeek.co/photo/30379/original/?type=jpeg",
       "pronunciation": "θˈaɪɹɔɪd ɡlˈænd",
       "senses": [
@@ -84,12 +99,13 @@
       ]
     },
     {
+      "id": "fef92389-6034-438a-8771-d1e1980d6d75",
       "word": "parathyroid gland",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFyYXRoeXJvaWQgZ2xhbmQ&hash=333ab8627f66d2ab75e8ec7051c60cd45b719291&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pæ.rə.θɪ.rɔɪd glænd",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFyYXRoeXJvaWQgZ2xhbmQ&hash=333ab8627f66d2ab75e8ec7051c60cd45b719291&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pā.rē.thi.rawid glānd",
       "img": "",
       "pronunciation": "pˈæɹəθˌɪɹɔɪd ɡlˈænd",
       "senses": [
@@ -100,12 +116,13 @@
       ]
     },
     {
+      "id": "95268be0-781f-4aab-9ef3-3e2816904234",
       "word": "thymus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGh5bXVz&hash=947558a4ca9933cf39842ceee1827adefd9ca1c0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "θaɪ.məs",
       "phonetic_am": "https://tts.langeek.co/read?text=dGh5bXVz&hash=947558a4ca9933cf39842ceee1827adefd9ca1c0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "thai.mēs",
       "img": "",
       "pronunciation": "θˈaɪməs",
       "senses": [
@@ -116,12 +133,13 @@
       ]
     },
     {
+      "id": "ad6fb9bf-a19e-42b4-afa5-4c90071e611d",
       "word": "adrenal",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWRyZW5hbA&hash=0011fc93539295846e38de659be068d21045bd74&lang=en&cache-only=0",
-      "phonetic_text": "ədri:nəl",
+      "phonetic_text": "əd.ri.nəl",
       "phonetic_am": "https://tts.langeek.co/read?text=YWRyZW5hbA&hash=0011fc93539295846e38de659be068d21045bd74&lang=en&cache-only=0",
-      "phonetic_am_text": "ēdreenēl",
+      "phonetic_am_text": "ēd.ri.nēl",
       "img": "",
       "pronunciation": "əˈdɹinəɫ",
       "senses": [
@@ -132,12 +150,13 @@
       ]
     },
     {
+      "id": "a4f80704-43c1-4f30-b921-98e8af328192",
       "word": "aldosterone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWxkb3N0ZXJvbmU&hash=c28d30c9fe70806ca687c19631f3276955b6c719&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɔ:l.dɑ:s.tə.roʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxkb3N0ZXJvbmU&hash=c28d30c9fe70806ca687c19631f3276955b6c719&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "awl.daas.tē.rooon",
       "img": "",
       "pronunciation": "ɔːldˈɑːstɚɹˌoʊn",
       "senses": [
@@ -148,12 +167,13 @@
       ]
     },
     {
+      "id": "fb359f02-00e0-4348-8e68-e05bceeedeb8",
       "word": "corticosteroid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29ydGljb3N0ZXJvaWQ&hash=c5b1b6445cad6feae0fcd2b6924950f5b6e1e74f&lang=en&cache-only=0",
-      "phonetic_text": "kɔrtɪkoʊstɛrɔɪd",
+      "phonetic_text": "kɔr.tɪ.koʊs.tɛ.rɔɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29ydGljb3N0ZXJvaWQ&hash=c5b1b6445cad6feae0fcd2b6924950f5b6e1e74f&lang=en&cache-only=0",
-      "phonetic_am_text": "kawrtikowsteroyd",
+      "phonetic_am_text": "kawr.ti.kooos.te.rawid",
       "img": "",
       "pronunciation": "ˌkɔɹtɪkoʊˈstɛˌɹɔɪd",
       "senses": [
@@ -164,14 +184,15 @@
       ]
     },
     {
+      "id": "67d54541-65ee-4903-9aeb-503cb65c0052",
       "word": "adrenaline",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWRyZW5hbGluZQ&hash=b7d2e06628f549a3dd895a6a810fce439fe4faa0&lang=en&cache-only=0",
-      "phonetic_text": "ədrɛnələn",
+      "phonetic_text": "əd.rɛ.nə.lən",
       "phonetic_am": "https://tts.langeek.co/read?text=YWRyZW5hbGluZQ&hash=b7d2e06628f549a3dd895a6a810fce439fe4faa0&lang=en&cache-only=0",
-      "phonetic_am_text": "ēdrenēlēn",
+      "phonetic_am_text": "ēd.re.nē.lēn",
       "img": "",
-      "pronunciation": "əˈdɹɛnəɫən",
+      "pronunciation": "əˈdrɛnəlɪn",
       "senses": [
         {
           "definition": "a body hormone produced in case of anger, fear, or excitement that makes the heart beat faster and the body react quicker",
@@ -201,12 +222,13 @@
       ]
     },
     {
+      "id": "56683e13-e3f8-4b14-a177-5e2c17b00f98",
       "word": "adrenocorticotrophic hormone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWRyZW5vY29ydGljb3Ryb3BoaWMgaG9ybW9uZQ&hash=b52278b8707db49b2ef8d4911cedbcbdb110fd7b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ad.rɛ.nə.kɔ:r.tɪ.kət.rɑ:.fɪk hɔr.moʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=YWRyZW5vY29ydGljb3Ryb3BoaWMgaG9ybW9uZQ&hash=b52278b8707db49b2ef8d4911cedbcbdb110fd7b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ad.re.nē.kawr.ti.kēt.raa.fik hawr.mooon",
       "img": "",
       "pronunciation": "ɐdɹˌɛnəkˌɔːɹɾɪkətɹˈɑːfɪk hˈoːɹmoʊn",
       "senses": [
@@ -217,12 +239,13 @@
       ]
     },
     {
+      "id": "c5062b58-c324-4c6d-85e2-309c8fb0f86f",
       "word": "antidiuretic hormone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW50aWRpdXJldGljIGhvcm1vbmU&hash=0a8495e91e4f43bdced5a06706333aee62778257&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æn.tɪ.dɪju:.rɛ.tɪk hɔr.moʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=YW50aWRpdXJldGljIGhvcm1vbmU&hash=0a8495e91e4f43bdced5a06706333aee62778257&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ān.ti.diyoo.re.tik hawr.mooon",
       "img": "",
       "pronunciation": "ˌæntɪdˌɪjuːɹˈɛɾɪk hˈoːɹmoʊn",
       "senses": [
@@ -233,12 +256,13 @@
       ]
     },
     {
+      "id": "c84ff3da-7268-46f8-8704-7fea188a43dd",
       "word": "growth hormone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3Jvd3RoIGhvcm1vbmU&hash=88ee780d90334aac718975473b6f7fd069502d83&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "groʊθ hɔr.moʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3Jvd3RoIGhvcm1vbmU&hash=88ee780d90334aac718975473b6f7fd069502d83&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "groooth hawr.mooon",
       "img": "",
       "pronunciation": "ɡɹˈoʊθ hˈoːɹmoʊn",
       "senses": [
@@ -249,10 +273,11 @@
       ]
     },
     {
+      "id": "d68dc87c-a8e7-4126-b05f-263ed30a05e7",
       "word": "luteinizing hormone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bHV0ZWluaXppbmcgaG9ybW9uZQ&hash=3ba42dd878bdbb58416b5a1c9d8790173d24c172&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bHV0ZWluaXppbmcgaG9ybW9uZQ&hash=3ba42dd878bdbb58416b5a1c9d8790173d24c172&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -265,12 +290,13 @@
       ]
     },
     {
+      "id": "053f32a4-ad8f-49f0-aa96-d1ae575c7823",
       "word": "follicle-stimulating hormone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9sbGljbGUtc3RpbXVsYXRpbmcgaG9ybW9uZQ&hash=304df1d91a78a174e38b4a559b7d2f39f09503f6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɑ.lə.kəl-stɪm.jə.leɪ.tɪng hɔr.moʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9sbGljbGUtc3RpbXVsYXRpbmcgaG9ybW9uZQ&hash=304df1d91a78a174e38b4a559b7d2f39f09503f6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "faa.lē.kēl-stim.yē.lei.ting hawr.mooon",
       "img": "",
       "pronunciation": "fˈɑːlɪkəlstˈɪmjʊlˌeɪɾɪŋ hˈoːɹmoʊn",
       "senses": [
@@ -281,12 +307,13 @@
       ]
     },
     {
+      "id": "74c05c90-2aa4-42a7-b5c0-3b054f202ecc",
       "word": "oxytocin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3h5dG9jaW4&hash=3bda4d5e03be082d43adc9b406eb57ca64fea84c&lang=en&cache-only=0",
-      "phonetic_text": "ɑksətoʊsən",
+      "phonetic_text": "ɑk.sə.toʊ.sən",
       "phonetic_am": "https://tts.langeek.co/read?text=b3h5dG9jaW4&hash=3bda4d5e03be082d43adc9b406eb57ca64fea84c&lang=en&cache-only=0",
-      "phonetic_am_text": "ɑksētowsēn",
+      "phonetic_am_text": "aak.sē.tooo.sēn",
       "img": "",
       "pronunciation": "ˌɑksəˈtoʊsən",
       "senses": [
@@ -297,12 +324,13 @@
       ]
     },
     {
+      "id": "62691bfa-c756-4996-a4d9-fec0fae28d09",
       "word": "prolactin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvbGFjdGlu&hash=28c92a0e080ebc84cf059e21ce0440c521c37507&lang=en&cache-only=0",
-      "phonetic_text": "proʊlæktən",
+      "phonetic_text": "proʊ.læk.tən",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvbGFjdGlu&hash=28c92a0e080ebc84cf059e21ce0440c521c37507&lang=en&cache-only=0",
-      "phonetic_am_text": "prowlāktēn",
+      "phonetic_am_text": "prooo.lāk.tēn",
       "img": "",
       "pronunciation": "pɹoʊˈɫæktən",
       "senses": [
@@ -313,12 +341,13 @@
       ]
     },
     {
+      "id": "451be3f8-7203-41bb-9125-94615687e399",
       "word": "thyroid-stimulating hormone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGh5cm9pZC1zdGltdWxhdGluZyBob3Jtb25l&hash=46c4d6aaaa9799a2cfb2c90369f74a745d8ff488&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "θaɪ.rɔɪd-stɪm.jə.leɪ.tɪng hɔr.moʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=dGh5cm9pZC1zdGltdWxhdGluZyBob3Jtb25l&hash=46c4d6aaaa9799a2cfb2c90369f74a745d8ff488&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "thai.rawid-stim.yē.lei.ting hawr.mooon",
       "img": "",
       "pronunciation": "θˈaɪɹɔɪdstˈɪmjʊlˌeɪɾɪŋ hˈoːɹmoʊn",
       "senses": [
@@ -329,12 +358,13 @@
       ]
     },
     {
+      "id": "58a493e6-19af-4746-95bb-0f48557599c7",
       "word": "renin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVuaW4&hash=a10d8d23ae88fc73fb75fe2c7d00e2dd36889040&lang=en&cache-only=0",
-      "phonetic_text": "ri:nən",
+      "phonetic_text": "ri.nən",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVuaW4&hash=a10d8d23ae88fc73fb75fe2c7d00e2dd36889040&lang=en&cache-only=0",
-      "phonetic_am_text": "reenēn",
+      "phonetic_am_text": "ri.nēn",
       "img": "",
       "pronunciation": "ˈɹinən",
       "senses": [
@@ -345,12 +375,13 @@
       ]
     },
     {
+      "id": "64717645-f36d-48cd-89c8-047a39347d6f",
       "word": "angiotensin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW5naW90ZW5zaW4&hash=5f2c950bc3f2b5cc91d1b45275fd6ac500614461&lang=en&cache-only=0",
-      "phonetic_text": "ænʤioʊtɛnsɪn",
+      "phonetic_text": "æn.ʤioʊ.tɛn.sɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=YW5naW90ZW5zaW4&hash=5f2c950bc3f2b5cc91d1b45275fd6ac500614461&lang=en&cache-only=0",
-      "phonetic_am_text": "ānjiowtensin",
+      "phonetic_am_text": "ān.jiooo.ten.sin",
       "img": "",
       "pronunciation": "ˌænˌdʒioʊˈtɛnsɪn",
       "senses": [
@@ -361,12 +392,13 @@
       ]
     },
     {
+      "id": "7eb35d0a-6554-4461-a239-5daa19444c95",
       "word": "erythropoietin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXJ5dGhyb3BvaWV0aW4&hash=61531cdde7ca136c3bbabf7e200cb0653740d22b&lang=en&cache-only=0",
-      "phonetic_text": "ɛrɪθrəpɔɪtɪn",
+      "phonetic_text": "ɛ.rɪθ.rə.pɔɪtn",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXJ5dGhyb3BvaWV0aW4&hash=61531cdde7ca136c3bbabf7e200cb0653740d22b&lang=en&cache-only=0",
-      "phonetic_am_text": "erithrēpoytin",
+      "phonetic_am_text": "e.rith.rē.pawitn",
       "img": "",
       "pronunciation": "ɛˌɹɪθɹəˈpɔɪtɪn",
       "senses": [
@@ -377,12 +409,13 @@
       ]
     },
     {
+      "id": "bc316cf6-15a0-4a92-90cb-e604e56c9154",
       "word": "glucagon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2x1Y2Fnb24&hash=9f18cf85552acb94b7dc50e55df66932b481d352&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "glu:.kə.gɑ:n",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2x1Y2Fnb24&hash=9f18cf85552acb94b7dc50e55df66932b481d352&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gloo.kē.gaan",
       "img": "",
       "pronunciation": "ɡlˈuːkəɡˌɑːn",
       "senses": [
@@ -393,12 +426,13 @@
       ]
     },
     {
+      "id": "103a3589-bb16-4f0a-9f5a-dfb2662ca56f",
       "word": "insulin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5zdWxpbg&hash=c6c2639ec3b2f0a279cc30ff6859ac7e978f0ffc&lang=en&cache-only=0",
-      "phonetic_text": "ɪnsələn",
+      "phonetic_text": "ɪn.sə.lən",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5zdWxpbg&hash=c6c2639ec3b2f0a279cc30ff6859ac7e978f0ffc&lang=en&cache-only=0",
-      "phonetic_am_text": "insēlēn",
+      "phonetic_am_text": "in.sē.lēn",
       "img": "",
       "pronunciation": "ˈɪnsəɫən",
       "senses": [
@@ -409,12 +443,13 @@
       ]
     },
     {
+      "id": "ef51c99a-aeeb-4a6d-92bc-4bb1a3e201c6",
       "word": "estrogen",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXN0cm9nZW4&hash=78d38cc59d8058c1aacb0f86c15835823f29de71&lang=en&cache-only=0",
-      "phonetic_text": "ɛstrəʤən",
+      "phonetic_text": "ɛst.rə.ʤən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXN0cm9nZW4&hash=78d38cc59d8058c1aacb0f86c15835823f29de71&lang=en&cache-only=0",
-      "phonetic_am_text": "estrējēn",
+      "phonetic_am_text": "est.rē.jēn",
       "img": "",
       "pronunciation": "ˈɛstɹədʒən",
       "senses": [
@@ -425,12 +460,13 @@
       ]
     },
     {
+      "id": "6fff86d2-f915-4c65-8f9d-898386bf10f0",
       "word": "progesterone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvZ2VzdGVyb25l&hash=de19dacd35401e6fb0c2b17639a39c6539570d01&lang=en&cache-only=0",
-      "phonetic_text": "proʊʤɛstəroʊn",
+      "phonetic_text": "proʊ.ʤɛs.tɜ.roʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvZ2VzdGVyb25l&hash=de19dacd35401e6fb0c2b17639a39c6539570d01&lang=en&cache-only=0",
-      "phonetic_am_text": "prowjestērown",
+      "phonetic_am_text": "prooo.jes.tē.rooon",
       "img": "",
       "pronunciation": "pɹoʊˈdʒɛstɝˌoʊn",
       "senses": [
@@ -441,12 +477,13 @@
       ]
     },
     {
+      "id": "d1e34415-c1cc-45c0-8aa4-cebc2559d9d1",
       "word": "thyroid hormone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGh5cm9pZCBob3Jtb25l&hash=8331be43e8939d57bf87d7323b173b4a53857d8f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "θaɪ.rɔɪd hɔr.moʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=dGh5cm9pZCBob3Jtb25l&hash=8331be43e8939d57bf87d7323b173b4a53857d8f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "thai.rawid hawr.mooon",
       "img": "",
       "pronunciation": "θˈaɪɹɔɪd hˈoːɹmoʊn",
       "senses": [
@@ -457,12 +494,13 @@
       ]
     },
     {
+      "id": "397eff66-db2f-49d3-bb2f-6118ccbb489e",
       "word": "parathyroid hormone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFyYXRoeXJvaWQgaG9ybW9uZQ&hash=6dacae6d7c0b3ced8275286bce3a55f75061ab0e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pæ.rə.θɪ.rɔɪd hɔr.moʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFyYXRoeXJvaWQgaG9ybW9uZQ&hash=6dacae6d7c0b3ced8275286bce3a55f75061ab0e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pā.rē.thi.rawid hawr.mooon",
       "img": "",
       "pronunciation": "pˈæɹəθˌɪɹɔɪd hˈoːɹmoʊn",
       "senses": [
@@ -473,12 +511,13 @@
       ]
     },
     {
+      "id": "c58670ff-e0ca-4962-b452-4194788345df",
       "word": "epinephrine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXBpbmVwaHJpbmU&hash=f9ed7c4acc92599163a1ad887c2b865050a030a9&lang=en&cache-only=0",
-      "phonetic_text": "ɛpɪnɛfrɪn",
+      "phonetic_text": "ɛ.pɪ.nɛf.rɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXBpbmVwaHJpbmU&hash=f9ed7c4acc92599163a1ad887c2b865050a030a9&lang=en&cache-only=0",
-      "phonetic_am_text": "epinefrin",
+      "phonetic_am_text": "e.pi.nef.rin",
       "img": "",
       "pronunciation": "ˌɛpɪˈnɛfɹɪn",
       "senses": [
@@ -489,12 +528,13 @@
       ]
     },
     {
+      "id": "410f904f-70bb-48d0-811d-172c7bd4615e",
       "word": "norepinephrine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bm9yZXBpbmVwaHJpbmU&hash=e65a16503254ca1f2565117f39f212734ebae17b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nɔ:r.ɛ.pɪ.nɛf.rɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=bm9yZXBpbmVwaHJpbmU&hash=e65a16503254ca1f2565117f39f212734ebae17b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nawr.e.pi.nef.rin",
       "img": "",
       "pronunciation": "nˈoːɹpaɪnfɹˌiːn",
       "senses": [
@@ -505,12 +545,13 @@
       ]
     },
     {
+      "id": "0100a538-647b-440a-b045-a2d9ea57089e",
       "word": "melatonin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWVsYXRvbmlu&hash=291481a7a9b17f122b80bcc7b35ddb9fd8598b84&lang=en&cache-only=0",
-      "phonetic_text": "mɛlətoʊnɪn",
+      "phonetic_text": "mɛ.lə.toʊ.nɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=bWVsYXRvbmlu&hash=291481a7a9b17f122b80bcc7b35ddb9fd8598b84&lang=en&cache-only=0",
-      "phonetic_am_text": "melētownin",
+      "phonetic_am_text": "me.lē.tooo.nin",
       "img": "",
       "pronunciation": "ˌmɛɫəˈtoʊnɪn",
       "senses": [
@@ -521,12 +562,13 @@
       ]
     },
     {
+      "id": "36a65983-ae6e-49a7-b1cb-2b9925b53618",
       "word": "growth hormone-releasing factor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3Jvd3RoIGhvcm1vbmUtcmVsZWFzaW5nIGZhY3Rvcg&hash=ccabbdb8d144acaef6a4c1c8506bcd9aada4c23d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "groʊθ hɔr.moʊn-ri.li.sɪng fæk.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3Jvd3RoIGhvcm1vbmUtcmVsZWFzaW5nIGZhY3Rvcg&hash=ccabbdb8d144acaef6a4c1c8506bcd9aada4c23d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "groooth hawr.mooon-ri.li.sing fāk.tēr",
       "img": "",
       "pronunciation": "ɡɹˈoʊθ hˈoːɹmoʊnɹɪlˈiːsɪŋ fˈæktɚ",
       "senses": [
@@ -537,10 +579,11 @@
       ]
     },
     {
+      "id": "6f786a56-55f1-45b8-8085-f79350a1e4db",
       "word": "thyrotrophic hormone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGh5cm90cm9waGljIGhvcm1vbmU&hash=97ebdba4d9075404092764acd1df466c4e6a6177&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGh5cm90cm9waGljIGhvcm1vbmU&hash=97ebdba4d9075404092764acd1df466c4e6a6177&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -553,12 +596,13 @@
       ]
     },
     {
+      "id": "61e875aa-ac1e-49e7-a923-a1c1064b6bba",
       "word": "corticotropin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29ydGljb3Ryb3Bpbg&hash=cde56eac26d29f1b92a1d3ebf6eda8cf1a1c3506&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɔ:r.tɪ.kɑ:t.rə.pɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29ydGljb3Ryb3Bpbg&hash=cde56eac26d29f1b92a1d3ebf6eda8cf1a1c3506&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kawr.ti.kaat.rē.pin",
       "img": "",
       "pronunciation": "kˈɔːɹɾɪkˌɑːtɹəpˌɪn",
       "senses": [
@@ -569,12 +613,13 @@
       ]
     },
     {
+      "id": "ab86a7bb-06c4-47c0-99af-983a30aa64d5",
       "word": "salivary gland",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FsaXZhcnkgZ2xhbmQ&hash=4ed1ee4221a8e88a038b6478153ce596411df237&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sæ.lɪ.vɛ.ri glænd",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FsaXZhcnkgZ2xhbmQ&hash=4ed1ee4221a8e88a038b6478153ce596411df237&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sā.li.ve.ri glānd",
       "img": "",
       "pronunciation": "sˈælɪvˌɛɹi ɡlˈænd",
       "senses": [
@@ -585,12 +630,13 @@
       ]
     },
     {
+      "id": "731727da-4367-4c0a-ac30-bd85dbf63412",
       "word": "seminal vesicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VtaW5hbCB2ZXNpY2xl&hash=019aae6948518b1174cc3070e7522d8c93f0894b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛ.mə.nəl vɛ.zɪ.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VtaW5hbCB2ZXNpY2xl&hash=019aae6948518b1174cc3070e7522d8c93f0894b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "se.mē.nēl ve.zi.kēl",
       "img": "",
       "pronunciation": "sˈɛmɪnəl vˈɛsɪkəl",
       "senses": [
@@ -601,12 +647,13 @@
       ]
     },
     {
+      "id": "a7309617-34e0-493e-9fd5-26ec437bebe5",
       "word": "gonad",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29uYWQ&hash=a813e414c5c8d61fbb00de42368d75c0d2c6c2b6&lang=en&cache-only=0",
-      "phonetic_text": "goʊnæd",
+      "phonetic_text": "goʊ.næd",
       "phonetic_am": "https://tts.langeek.co/read?text=Z29uYWQ&hash=a813e414c5c8d61fbb00de42368d75c0d2c6c2b6&lang=en&cache-only=0",
-      "phonetic_am_text": "gownād",
+      "phonetic_am_text": "gooo.nād",
       "img": "",
       "pronunciation": "ˈɡoʊnæd",
       "senses": [
@@ -617,10 +664,11 @@
       ]
     },
     {
+      "id": "d9f78a2f-3ba4-44b7-9e1a-133a7022e4d0",
       "word": "mammary gland",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFtbWFyeSBnbGFuZA&hash=f4b6820d003f6dffc09f184e2a62835b499e740e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFtbWFyeSBnbGFuZA&hash=f4b6820d003f6dffc09f184e2a62835b499e740e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -633,12 +681,13 @@
       ]
     },
     {
+      "id": "486abc28-d6d6-4316-920c-4c23ae98e39a",
       "word": "sublingual gland",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3VibGluZ3VhbCBnbGFuZA&hash=852d03dc1ddacebc051b7208be1f92fdcf406f5f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sʌb.lɪng.wəl glænd",
       "phonetic_am": "https://tts.langeek.co/read?text=c3VibGluZ3VhbCBnbGFuZA&hash=852d03dc1ddacebc051b7208be1f92fdcf406f5f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sab.ling.vēl glānd",
       "img": "",
       "pronunciation": "sˈʌblɪŋɡwəl ɡlˈænd",
       "senses": [
@@ -649,10 +698,11 @@
       ]
     },
     {
+      "id": "bb51d490-2081-400a-82dc-38221662cf81",
       "word": "submandibular gland",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3VibWFuZGlidWxhciBnbGFuZA&hash=5cd4a0e8aebaf41fc7edd64366fc8f16d7f7f4cf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=c3VibWFuZGlidWxhciBnbGFuZA&hash=5cd4a0e8aebaf41fc7edd64366fc8f16d7f7f4cf&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -665,12 +715,13 @@
       ]
     },
     {
+      "id": "247efe9b-e176-42a6-b4b4-065636a6aa53",
       "word": "parotid gland",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFyb3RpZCBnbGFuZA&hash=f27d41922ce86c04ad57accbea6b747242b9075f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pæ.rə.tɪd glænd",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFyb3RpZCBnbGFuZA&hash=f27d41922ce86c04ad57accbea6b747242b9075f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pā.rē.tid glānd",
       "img": "",
       "pronunciation": "pˈæɹətˌɪd ɡlˈænd",
       "senses": [
@@ -681,12 +732,13 @@
       ]
     },
     {
+      "id": "d4c1a9e5-2dd4-4bbd-88b0-2720f04c134c",
       "word": "sweat gland",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3dlYXQgZ2xhbmQ&hash=f41178a15655d5c06f042065c1bdb5a81eeb4009&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "swɛt glænd",
       "phonetic_am": "https://tts.langeek.co/read?text=c3dlYXQgZ2xhbmQ&hash=f41178a15655d5c06f042065c1bdb5a81eeb4009&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "svet glānd",
       "img": "",
       "pronunciation": "swˈɛt ɡlˈænd",
       "senses": [
@@ -697,10 +749,11 @@
       ]
     },
     {
+      "id": "9ad406f8-6f39-4fd1-9f4e-3d24cec65c5b",
       "word": "sebaceous gland",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2ViYWNlb3VzIGdsYW5k&hash=86c42679ce72af2378c53b7e371e5cebe0b11bc5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=c2ViYWNlb3VzIGdsYW5k&hash=86c42679ce72af2378c53b7e371e5cebe0b11bc5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -713,12 +766,13 @@
       ]
     },
     {
+      "id": "dbf1044c-8bf1-40c2-8bfb-f39a987a1d27",
       "word": "eccrine gland",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWNjcmluZSBnbGFuZA&hash=2cdc2e26458be776b6f584313c5538862e41402f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛk.raɪn glænd",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWNjcmluZSBnbGFuZA&hash=2cdc2e26458be776b6f584313c5538862e41402f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ek.rain glānd",
       "img": "",
       "pronunciation": "ˈɛkɹaɪn ɡlˈænd",
       "senses": [
@@ -729,12 +783,13 @@
       ]
     },
     {
+      "id": "7ba602d9-0839-4cc2-b651-24d1cfa99f0d",
       "word": "apocrine gland",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXBvY3JpbmUgZ2xhbmQ&hash=9322664d1c621e33ed9b6ee1e148242a02a24563&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "a.pɑ:k.raɪn glænd",
       "phonetic_am": "https://tts.langeek.co/read?text=YXBvY3JpbmUgZ2xhbmQ&hash=9322664d1c621e33ed9b6ee1e148242a02a24563&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "a.paak.rain glānd",
       "img": "",
       "pronunciation": "ɐpˈɑːkɹaɪn ɡlˈænd",
       "senses": [
@@ -745,12 +800,13 @@
       ]
     },
     {
+      "id": "224928c3-fd3b-414c-a320-28f9002a4b4f",
       "word": "gonadotrophic hormone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29uYWRvdHJvcGhpYyBob3Jtb25l&hash=5a6ab0545b334fae9233b472938aaa818b447a39&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gɑ:.na.dət.rɑ:.fɪk hɔr.moʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=Z29uYWRvdHJvcGhpYyBob3Jtb25l&hash=5a6ab0545b334fae9233b472938aaa818b447a39&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gaa.na.dēt.raa.fik hawr.mooon",
       "img": "",
       "pronunciation": "ɡˌɑːnɐdətɹˈɑːfɪk hˈoːɹmoʊn",
       "senses": [
@@ -761,12 +817,13 @@
       ]
     },
     {
+      "id": "61678107-7234-454e-a845-9cdeda43e7a0",
       "word": "testis",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVzdGlz&hash=857600c9ae5140696d92fc66c00ce609ee008b09&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɛs.tiz",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVzdGlz&hash=857600c9ae5140696d92fc66c00ce609ee008b09&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tes.tiz",
       "img": "",
       "pronunciation": "tˈɛstiz",
       "senses": [
@@ -777,12 +834,13 @@
       ]
     },
     {
+      "id": "7988f9fd-0303-4935-872b-ded0eede100e",
       "word": "duct gland",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHVjdCBnbGFuZA&hash=97d85638f03e86ca0f8163db7e70b229caee8fda&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dəkt glænd",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHVjdCBnbGFuZA&hash=97d85638f03e86ca0f8163db7e70b229caee8fda&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dēkt glānd",
       "img": "",
       "pronunciation": "dˈʌkt ɡlˈænd",
       "senses": [
@@ -793,28 +851,51 @@
       ]
     },
     {
+      "id": "8ea714d4-539c-4767-adae-c6228c5dd181",
       "word": "prostate",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvc3RhdGU&hash=13b401f3dbacbbb00c548ff578e5de80b85aca30&lang=en&cache-only=0",
-      "phonetic_text": "prɑ:steɪt",
+      "phonetic_text": "prɑs.teɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvc3RhdGU&hash=13b401f3dbacbbb00c548ff578e5de80b85aca30&lang=en&cache-only=0",
-      "phonetic_am_text": "praasteit",
+      "phonetic_am_text": "praas.teit",
       "img": "",
-      "pronunciation": "ˈpɹɑˌsteɪt",
+      "pronunciation": "ˈprɑˌsteɪt",
       "senses": [
         {
           "definition": "a gland in the male body that produces fluid for semen and surrounds the urethra, aiding in urine control",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The prostate is a small, walnut-sized organ located below the bladder and in front of the rectum in men."
+            },
+            {
+              "cf": "",
+              "x": "Enlargement of the prostate gland is a common condition in older men, often causing urinary symptoms such as frequent urination."
+            },
+            {
+              "cf": "",
+              "x": "The doctor performed a digital rectal examination to assess the size and condition of the patient's prostate."
+            },
+            {
+              "cf": "",
+              "x": "Inflammation of the prostate gland, known as prostatitis, can cause pain and discomfort in the pelvic area."
+            },
+            {
+              "cf": "",
+              "x": "The urologist recommended a prostate biopsy to further evaluate the presence of abnormal cells within the gland."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "ce42d0c3-7443-4796-a338-4d50e21e1d3d",
       "word": "gastrointestinal hormone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2FzdHJvaW50ZXN0aW5hbCBob3Jtb25l&hash=917fe97b00cbca7490fd15d82cb2b1e267e334ca&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gæst.roʊɪn.tɛs.tə.nəl hɔr.moʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2FzdHJvaW50ZXN0aW5hbCBob3Jtb25l&hash=917fe97b00cbca7490fd15d82cb2b1e267e334ca&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gāst.roooin.tes.tē.nēl hawr.mooon",
       "img": "",
       "pronunciation": "ɡˈæstɹɔɪntˌɛstɪnəl hˈoːɹmoʊn",
       "senses": [

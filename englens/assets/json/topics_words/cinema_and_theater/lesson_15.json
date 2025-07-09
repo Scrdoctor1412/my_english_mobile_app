@@ -1,10 +1,12 @@
 {
+  "id": "ea5fc9a9-7692-43cc-ab34-a45015970b57",
   "topic": "cinema_and_theater",
   "title": "Verbs Related to Cinema and Theater",
   "lesson": "lesson_15",
   "word_list": [
     {
-      "word": "rate",
+      "id": "6f6077bb-c2ec-4201-9bfc-db8ef6e3ad88",
+      "word": "to rate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmF0ZQ&hash=6d35a68a111763591f815f994be2ab65e6729bdc&lang=en&cache-only=0",
       "phonetic_text": "reɪt",
@@ -15,31 +17,59 @@
       "senses": [
         {
           "definition": "to judge the value or importance of something",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The company rates its customer service very highly."
+            },
+            {
+              "cf": "",
+              "x": "I rate his work very highly because he's so talented."
+            },
+            {
+              "cf": "",
+              "x": "The movie was rated poorly by critics."
+            },
+            {
+              "cf": "",
+              "x": "He rates the idea of going on vacation very highly."
+            },
+            {
+              "cf": "",
+              "x": "The restaurant was rated highly for its delicious food."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "act",
+      "id": "4387ed25-cf00-451f-af73-89967ae4b888",
+      "word": "to act",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWN0&hash=79e2be26d16ed5a64c2a4d07b42cd4f25a642093&lang=en&cache-only=0",
       "phonetic_text": "ækt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWN0&hash=79e2be26d16ed5a64c2a4d07b42cd4f25a642093&lang=en&cache-only=0",
       "phonetic_am_text": "ākt",
       "img": "https://cdn.langeek.co/photo/27239/original/?type=jpeg",
-      "pronunciation": "ˈækt",
+      "pronunciation": "ækt",
       "senses": [
         {
           "definition": "to play or perform a role in a play, movie, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She acted the role of Juliet beautifully in the school play."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "ad lib",
+      "id": "a64d6f52-8d6b-46c2-b8bd-219143ed9c0d",
+      "word": "to ad lib",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWQgbGli&hash=c32d30ce4efdc7a4b5b349b7269b99e011af99a9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWQgbGli&hash=c32d30ce4efdc7a4b5b349b7269b99e011af99a9&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -52,12 +82,13 @@
       ]
     },
     {
-      "word": "co-star",
+      "id": "9ad3d758-db0b-4d94-aa59-124a3011d2a1",
+      "word": "to co-star",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY28tc3Rhcg&hash=7a2239a3ae0ba664cc2a7ccbd5571e208de18d97&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "koʊ-stɑr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY28tc3Rhcg&hash=7a2239a3ae0ba664cc2a7ccbd5571e208de18d97&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kooo-staar",
       "img": "",
       "pronunciation": "kˈoʊstˈɑːɹ",
       "senses": [
@@ -68,23 +99,46 @@
       ]
     },
     {
-      "word": "overact",
+      "id": "c5ddec34-06e0-4a14-8a74-cd246d0f2004",
+      "word": "to overact",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gb3ZlcmFjdA&hash=1de42af5e8c1ef2acac870fa6f9ec52bf00b0626&lang=en&cache-only=0",
-      "phonetic_text": "oʊvərækt",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gb3ZlcmFjdA&hash=1de42af5e8c1ef2acac870fa6f9ec52bf00b0626&lang=en&cache-only=0",
-      "phonetic_am_text": "owvērākt",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˈoʊvɝˌækt",
       "senses": [
         {
           "definition": "to act a role in an exaggerated way that is not natural",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He tends to overact by emphasizing every line with dramatic gestures."
+            },
+            {
+              "cf": "",
+              "x": "The comedian intentionally overacts to elicit laughs from the audience."
+            },
+            {
+              "cf": "",
+              "x": "During rehearsals, he was overacting until the director intervened."
+            },
+            {
+              "cf": "",
+              "x": "Critics have noticed that he has overacted in previous roles."
+            },
+            {
+              "cf": "",
+              "x": "If he continues to overact, he will struggle to convey the character's true emotions."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "play",
+      "id": "8c5ce1d8-513c-4f4a-9414-3ef156697bd5",
+      "word": "to play",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGxheQ&hash=a3c216e79f57dc78f3571927648783c93d2a305f&lang=en&cache-only=0",
       "phonetic_text": "pleɪ",
@@ -95,65 +149,145 @@
       "senses": [
         {
           "definition": "to represent the role of a particular character in a play, movie, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He played a villain in the action movie."
+            },
+            {
+              "cf": "",
+              "x": "She had always desired to play Lady Macbeth in Shakespeare's Macbeth."
+            },
+            {
+              "cf": "",
+              "x": "The part of James Bond was played by Sean Connery."
+            },
+            {
+              "cf": "",
+              "x": "The role of Romeo was one of the most fulfilling I ever played."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "portray",
+      "id": "546643f2-89fd-4685-9660-be2757548e3a",
+      "word": "to portray",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcG9ydHJheQ&hash=eef13e061e780f78398def0d503636ce5a8e8681&lang=en&cache-only=0",
-      "phonetic_text": "pɔrtreɪ",
+      "phonetic_text": "pɔrt.reɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcG9ydHJheQ&hash=eef13e061e780f78398def0d503636ce5a8e8681&lang=en&cache-only=0",
-      "phonetic_am_text": "pawrtrei",
-      "img": "https://cdn.langeek.co/photo/22588/original/?type=jpeg",
-      "pronunciation": "pɔɹˈtɹeɪ",
+      "phonetic_am_text": "pawrt.rei",
+      "img": "https://cdn.langeek.co/photo/61458/original/?type=jpeg",
+      "pronunciation": "pɔrˈtreɪ",
       "senses": [
         {
           "definition": "to play the role of a character in a movie, play, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She portrayed the protagonist in the critically acclaimed film, earning praise for her nuanced performance."
+            },
+            {
+              "cf": "",
+              "x": "He was chosen to portray the iconic historical figure in the epic biopic, showcasing his versatility as an actor."
+            },
+            {
+              "cf": "",
+              "x": "The actor's ability to portray villains with depth and charisma has made him a sought-after talent in Hollywood."
+            },
+            {
+              "cf": "",
+              "x": "She worked closely with the director to accurately portray the mannerisms and speech patterns of the real-life person she was portraying."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "star",
+      "id": "e4d16810-c619-478c-9c39-9fb11f3dda39",
+      "word": "to star",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3Rhcg&hash=192a17e7401b5ed4f235f9a58ba36d817d52bd7f&lang=en&cache-only=0",
-      "phonetic_text": "stɑ:r",
+      "phonetic_text": "stɑr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3Rhcg&hash=192a17e7401b5ed4f235f9a58ba36d817d52bd7f&lang=en&cache-only=0",
       "phonetic_am_text": "staar",
-      "img": "https://cdn.langeek.co/photo/22588/original/?type=jpeg",
-      "pronunciation": "stɑːr",
+      "img": "https://cdn.langeek.co/photo/61458/original/?type=jpeg",
+      "pronunciation": "stɑr",
       "senses": [
         {
           "definition": "to act as a main character in a play, movie, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He starred in a critically acclaimed play at the local theater."
+            },
+            {
+              "cf": "",
+              "x": "After years of hard work, she finally gets to star in a major motion picture."
+            },
+            {
+              "cf": "",
+              "x": "The child actress stars in a popular TV show aimed at young audiences."
+            },
+            {
+              "cf": "",
+              "x": "She stars as the protagonist in the new Broadway musical."
+            },
+            {
+              "cf": "",
+              "x": "They hope to star in a big-budget production someday."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "understudy",
+      "id": "6d1a22ef-3110-4e5a-8117-68bc0610c8f9",
+      "word": "to understudy",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdW5kZXJzdHVkeQ&hash=8c0f2902b0660f4ebb31e58691dce8746094b6c3&lang=en&cache-only=0",
-      "phonetic_text": "ʌndərstʌdi",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdW5kZXJzdHVkeQ&hash=8c0f2902b0660f4ebb31e58691dce8746094b6c3&lang=en&cache-only=0",
-      "phonetic_am_text": "andērstadi",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˈəndɝˌstədi",
       "senses": [
         {
           "definition": "to learn and rehearse a role in a play or other performance as a substitute for the regular performer in case of need",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She was chosen to understudy the lead actress in case of illness or absence."
+            },
+            {
+              "cf": "",
+              "x": "He spent weeks understudying the role of Hamlet in preparation for the big performance."
+            },
+            {
+              "cf": "",
+              "x": "The director asked her to understudy several roles in case of last-minute changes."
+            },
+            {
+              "cf": "",
+              "x": "The actor agreed to understudy the villain's role as a backup option."
+            },
+            {
+              "cf": "",
+              "x": "The young actor eagerly accepted the chance to understudy the famous lead performer."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "exeunt",
+      "id": "c7fb2bb6-06e0-4833-bf64-5c9283c4dc69",
+      "word": "to exeunt",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZXhldW50&hash=3f955d3724882fa908661b41e92f3abda4809856&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛ.gzju:nt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZXhldW50&hash=3f955d3724882fa908661b41e92f3abda4809856&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "e.gzyoont",
       "img": "",
       "pronunciation": "ɛɡzjˈuːnt",
       "senses": [
@@ -164,28 +298,51 @@
       ]
     },
     {
-      "word": "prompt",
+      "id": "69e79e1a-d21f-4376-a06e-33565b5697ce",
+      "word": "to prompt",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJvbXB0&hash=d9700e71413c49f081092feafdea1cb8ec677c77&lang=en&cache-only=0",
-      "phonetic_text": "prɑ:mpt",
+      "phonetic_text": "prɑmpt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJvbXB0&hash=d9700e71413c49f081092feafdea1cb8ec677c77&lang=en&cache-only=0",
       "phonetic_am_text": "praampt",
       "img": "",
-      "pronunciation": "ˈpɹɑmpt",
+      "pronunciation": "prɑmpt",
       "senses": [
         {
           "definition": "to assist someone by suggesting the next words or actions they may have forgotten or not fully learned",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "During the play rehearsal, the director prompted the actor who had momentarily forgotten their lines."
+            },
+            {
+              "cf": "",
+              "x": "The teacher prompted the shy student during the oral presentation, helping them recall key points they had prepared."
+            },
+            {
+              "cf": "",
+              "x": "The supportive audience members would softly prompt the nervous singer."
+            },
+            {
+              "cf": "",
+              "x": "The stage manager was ready to prompt any actor who needed assistance with their dialogue during the live performance."
+            },
+            {
+              "cf": "",
+              "x": "In the acting workshop, participants took turns prompting each other to improvise."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "rhubarb",
+      "id": "a80695dd-0d4b-4759-97ae-a6fb53b747b7",
+      "word": "to rhubarb",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmh1YmFyYg&hash=bc279d0f1a1cbccceefaaf429f250ed14ac8af76&lang=en&cache-only=0",
-      "phonetic_text": "ru:bɑrb",
+      "phonetic_text": "ru.bɑrb",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmh1YmFyYg&hash=bc279d0f1a1cbccceefaaf429f250ed14ac8af76&lang=en&cache-only=0",
-      "phonetic_am_text": "roobɑrb",
+      "phonetic_am_text": "roo.baarb",
       "img": "",
       "pronunciation": "ˈɹuˌbɑɹb",
       "senses": [
@@ -196,60 +353,123 @@
       ]
     },
     {
-      "word": "audition",
+      "id": "dd1e507e-0c47-4a86-aba5-35b0283e5191",
+      "word": "to audition",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYXVkaXRpb24&hash=25d4ca496071cb55185136147999b58b6163fde2&lang=en&cache-only=0",
-      "phonetic_text": "ɑdɪʃən",
+      "phonetic_text": "ɑ.dɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYXVkaXRpb24&hash=25d4ca496071cb55185136147999b58b6163fde2&lang=en&cache-only=0",
-      "phonetic_am_text": "ɑdishēn",
+      "phonetic_am_text": "aa.di.shēn",
       "img": "",
       "pronunciation": "ɑˈdɪʃən",
       "senses": [
         {
           "definition": "to give a short performance in order to get a role in a movie, play, show, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She auditioned for the lead role in the play."
+            },
+            {
+              "cf": "",
+              "x": "Hundreds of actors auditioned for the same part."
+            },
+            {
+              "cf": "",
+              "x": "He auditioned but didn’t get the role he wanted."
+            },
+            {
+              "cf": "",
+              "x": "She auditioned in front of a panel of judges."
+            },
+            {
+              "cf": "",
+              "x": "They asked him to audition again with a different monologue."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "cast",
+      "id": "8ea34416-5ea9-4118-823a-1b08d28cc827",
+      "word": "to cast",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2FzdA&hash=c5cdd8b055f9453234db59adf14baa090188c1df&lang=en&cache-only=0",
       "phonetic_text": "kæst",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2FzdA&hash=c5cdd8b055f9453234db59adf14baa090188c1df&lang=en&cache-only=0",
       "phonetic_am_text": "kāst",
       "img": "",
-      "pronunciation": "ˈkæst",
+      "pronunciation": "kæst",
       "senses": [
         {
           "definition": "to choose a performer to play a role in a movie, opera, play, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The director will cast the lead role in the upcoming musical next week."
+            },
+            {
+              "cf": "",
+              "x": "They cast several actors from different backgrounds to bring diversity to the film."
+            },
+            {
+              "cf": "",
+              "x": "The producer cast him as the villain due to his strong performance in auditions."
+            },
+            {
+              "cf": "",
+              "x": "The theater company cast a famous actress for the main role in the play."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "miscast",
+      "id": "587f0991-5d74-4991-9704-015bcb490a6a",
+      "word": "to miscast",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWlzY2FzdA&hash=dd018e32dd43d24e213a35b80b5b850c29566e2b&lang=en&cache-only=0",
-      "phonetic_text": "mɪskæst",
+      "phonetic_text": "mɪs.kæst",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWlzY2FzdA&hash=dd018e32dd43d24e213a35b80b5b850c29566e2b&lang=en&cache-only=0",
-      "phonetic_am_text": "miskāst",
+      "phonetic_am_text": "mis.kāst",
       "img": "",
       "pronunciation": "mɪˈskæst",
       "senses": [
         {
           "definition": "to assign the roles of a play, motion picture, etc. to unsuitable actors",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "By the time they realized it, they had already miscast the key role."
+            },
+            {
+              "cf": "",
+              "x": "The casting director is currently miscasting roles for the upcoming play."
+            },
+            {
+              "cf": "",
+              "x": "If they had listened to the casting advice, they wouldn't have miscast the main character."
+            },
+            {
+              "cf": "",
+              "x": "Critics argued that the director miscast the romantic lead, resulting in a lack of on-screen chemistry."
+            },
+            {
+              "cf": "",
+              "x": "They miscast the supporting role, which affected the chemistry among the main characters."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "recast",
+      "id": "80d82b9e-4299-420b-afa0-f63c3cb74b5f",
+      "word": "to recast",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVjYXN0&hash=a490f83bf0e42f8e016d00e8d57b6552952dd893&lang=en&cache-only=0",
-      "phonetic_text": "rikæst",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVjYXN0&hash=a490f83bf0e42f8e016d00e8d57b6552952dd893&lang=en&cache-only=0",
-      "phonetic_am_text": "rikāst",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ɹiˈkæst",
       "senses": [
@@ -260,28 +480,51 @@
       ]
     },
     {
-      "word": "rehearse",
+      "id": "340e2d03-2bc7-441d-811e-365d13c28dbe",
+      "word": "to rehearse",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVoZWFyc2U&hash=79baf71319b7046201c1eedb22c45bea53618fe0&lang=en&cache-only=0",
-      "phonetic_text": "rihɜrs",
+      "phonetic_text": "ri.hɜrs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVoZWFyc2U&hash=79baf71319b7046201c1eedb22c45bea53618fe0&lang=en&cache-only=0",
-      "phonetic_am_text": "rihērs",
+      "phonetic_am_text": "ri.hērs",
       "img": "https://cdn.langeek.co/photo/59498/original/?type=jpeg",
       "pronunciation": "ɹiˈhɝs",
       "senses": [
         {
           "definition": "to practice a play, piece of music, etc. before the public performance",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The actors gathered in the theater to rehearse their lines and perfect their stage movements before the opening night."
+            },
+            {
+              "cf": "",
+              "x": "The musicians decided to rehearse their new song several times to ensure a flawless performance."
+            },
+            {
+              "cf": "",
+              "x": "Before the big dance recital, the ballet troupe spent hours rehearsing their routines."
+            },
+            {
+              "cf": "",
+              "x": "The theater cast diligently rehearsed their scenes to deliver a polished and engaging performance."
+            },
+            {
+              "cf": "",
+              "x": "The choir members dedicated extra time to rehearse their harmonies for the upcoming concert."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "typecast",
+      "id": "8af804fb-fb3f-4579-9db4-10610216fd7b",
+      "word": "to typecast",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHlwZWNhc3Q&hash=5329fc6008068ca1cb8d74db83215fdf8db84c94&lang=en&cache-only=0",
-      "phonetic_text": "taɪpkæst",
+      "phonetic_text": "taɪp.kæst",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHlwZWNhc3Q&hash=5329fc6008068ca1cb8d74db83215fdf8db84c94&lang=en&cache-only=0",
-      "phonetic_am_text": "taipkāst",
+      "phonetic_am_text": "taip.kāst",
       "img": "",
       "pronunciation": "ˈtaɪpˌkæst",
       "senses": [
@@ -292,55 +535,122 @@
       ]
     },
     {
-      "word": "direct",
+      "id": "b3901c35-4b95-47dd-8602-9f7597a625e9",
+      "word": "to direct",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlyZWN0&hash=a8f2a75121d8a2658da73d89b5cbf48e8e2bdc30&lang=en&cache-only=0",
-      "phonetic_text": "dərɛkt",
+      "phonetic_text": "daɪ.rɛkt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlyZWN0&hash=a8f2a75121d8a2658da73d89b5cbf48e8e2bdc30&lang=en&cache-only=0",
-      "phonetic_am_text": "dērekt",
+      "phonetic_am_text": "dai.rekt",
       "img": "https://cdn.langeek.co/photo/50581/original/director?type=jpeg",
-      "pronunciation": "daɪˈɹɛkt/, /dɝˈɛkt/, /dɪˈɹɛkt",
+      "pronunciation": "daɪˈrɛkt/ , /dəˈrɛkt",
       "senses": [
         {
           "definition": "to give instructions to actors and organize the scenes or flow of a movie, play, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "During rehearsals, the director focused on directing the actors' movements and expressions to convey the intended emotions."
+            },
+            {
+              "cf": "",
+              "x": "She enjoys directing school plays because she gets to work closely with the young actors and help them improve."
+            },
+            {
+              "cf": "",
+              "x": "The director spent hours on set, directing the actors to bring their characters to life."
+            },
+            {
+              "cf": "",
+              "x": "She was hired to direct the actors in the upcoming theater production."
+            },
+            {
+              "cf": "",
+              "x": "She directed the actors to experiment with different emotions to find the best delivery."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "dub",
+      "id": "d4184b7f-a7f8-4e3c-81f9-89ee43f3ded2",
+      "word": "to dub",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHVi&hash=36f9246471a039fa442d0b5a96ad4557546c7566&lang=en&cache-only=0",
-      "phonetic_text": "dʌb",
+      "phonetic_text": "dəb",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZHVi&hash=36f9246471a039fa442d0b5a96ad4557546c7566&lang=en&cache-only=0",
-      "phonetic_am_text": "dab",
+      "phonetic_am_text": "dēb",
       "img": "https://cdn.langeek.co/photo/47584/original/?type=jpeg",
-      "pronunciation": "ˈdəb",
+      "pronunciation": "dʌb",
       "senses": [
         {
           "definition": "to change the original language of a movie or TV show into another language",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The studio hired professional voice actors to dub the foreign film into English for international audiences."
+            },
+            {
+              "cf": "",
+              "x": "The television network plans to dub the popular Korean drama into Spanish to expand its audience base."
+            },
+            {
+              "cf": "",
+              "x": "She was hired to dub the lead character in the Japanese anime series for its English release."
+            },
+            {
+              "cf": "",
+              "x": "The film distributor decided to dub the classic French movie into Mandarin to appeal to the Chinese market."
+            },
+            {
+              "cf": "",
+              "x": "The movie studio opted to dub the dialogue rather than use subtitles for the theatrical release."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "edit",
+      "id": "5c245325-3427-4066-ae71-54bc370b9a21",
+      "word": "to edit",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZWRpdA&hash=343cb81eee2d0e88e048dbd3dbb109dcf922e864&lang=en&cache-only=0",
-      "phonetic_text": "ɛdət",
+      "phonetic_text": "ɛ.dɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZWRpdA&hash=343cb81eee2d0e88e048dbd3dbb109dcf922e864&lang=en&cache-only=0",
-      "phonetic_am_text": "edēt",
+      "phonetic_am_text": "e.dit",
       "img": "https://cdn.langeek.co/photo/19080/original/editor?type=jpeg",
-      "pronunciation": "ˈɛdət",
+      "pronunciation": "ˈɛdɪt",
       "senses": [
         {
           "definition": "to choose and arrange the parts that are crucial to the story of a movie, show, etc. and cut out unnecessary ones",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "After shooting wrapped, the director and editor collaborated to edit the documentary."
+            },
+            {
+              "cf": "",
+              "x": "The television producer hired an expert to edit the pilot episode."
+            },
+            {
+              "cf": "",
+              "x": "In the editing room, the team worked tirelessly to edit the action sequences."
+            },
+            {
+              "cf": "",
+              "x": "The independent filmmaker spent months editing her debut feature film."
+            },
+            {
+              "cf": "",
+              "x": "The editor used advanced editing software to edit the comedy special."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "film",
+      "id": "08918f27-6306-4daf-a37b-d646913a3d43",
+      "word": "to film",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmlsbQ&hash=3aafdf92d9e7dafd8c3a94b419c2dc6ec71ed05d&lang=en&cache-only=0",
       "phonetic_text": "fɪlm",
@@ -351,33 +661,73 @@
       "senses": [
         {
           "definition": "to capture or record moving images, typically using a camera or video recording device",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She films short videos for her YouTube channel regularly."
+            },
+            {
+              "cf": "",
+              "x": "Right now, the director is filming a crucial scene on set."
+            },
+            {
+              "cf": "",
+              "x": "The team is filming the final episode of the television series."
+            },
+            {
+              "cf": "",
+              "x": "By this time, they have already filmed three episodes of the new series."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "freeze",
+      "id": "3759cc8b-ce6b-479b-8609-f7fa5fbf9cb6",
+      "word": "to freeze",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZnJlZXpl&hash=8194175dffa7d6f8052c0d040b20e7ca987eb2a6&lang=en&cache-only=0",
-      "phonetic_text": "fri:z",
+      "phonetic_text": "friz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZnJlZXpl&hash=8194175dffa7d6f8052c0d040b20e7ca987eb2a6&lang=en&cache-only=0",
-      "phonetic_am_text": "freez",
+      "phonetic_am_text": "friz",
       "img": "",
-      "pronunciation": "ˈfɹiz",
+      "pronunciation": "friːz",
       "senses": [
         {
           "definition": "to stop a movie or video to look at a particular frame",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "During the film analysis class, the professor would frequently freeze the movie to discuss specific scenes in detail."
+            },
+            {
+              "cf": "",
+              "x": "She paused the video player to freeze the frame showing the suspect entering the building, hoping to gather more clues."
+            },
+            {
+              "cf": "",
+              "x": "The film critic would often freeze the movie at key moments to analyze the composition and cinematography."
+            },
+            {
+              "cf": "",
+              "x": "In order to capture screenshots for their presentation, they had to freeze the video at precise moments."
+            },
+            {
+              "cf": "",
+              "x": "The director instructed the editor to freeze the footage at the climax of the scene, emphasizing the dramatic tension."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "intercut",
+      "id": "66ddc674-52fd-41c7-b492-32b9e493624f",
+      "word": "to intercut",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW50ZXJjdXQ&hash=86d50704dff570f57e5030803c03f391c4c230ab&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn.tər.kʌt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW50ZXJjdXQ&hash=86d50704dff570f57e5030803c03f391c4c230ab&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in.tēr.kat",
       "img": "",
       "pronunciation": "ˌɪntɚkˈʌt",
       "senses": [
@@ -388,44 +738,85 @@
       ]
     },
     {
-      "word": "produce",
+      "id": "3a24f235-199b-4837-862a-090fd72763cd",
+      "word": "to produce",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJvZHVjZQ&hash=054a384a1e7f0a408ebc1210f3d4e80c3197790f&lang=en&cache-only=0",
-      "phonetic_text": "prədu:s",
+      "phonetic_text": "proʊ.dus",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJvZHVjZQ&hash=054a384a1e7f0a408ebc1210f3d4e80c3197790f&lang=en&cache-only=0",
-      "phonetic_am_text": "prēdoos",
+      "phonetic_am_text": "prooo.doos",
       "img": "https://cdn.langeek.co/photo/19094/original/produce?type=jpeg",
-      "pronunciation": "ˈpɹoʊdus/, /pɹəˈdus",
+      "pronunciation": "prəˈdus",
       "senses": [
         {
           "definition": "to provide money for and be in charge of the making of a movie, play, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She produced a TV series about adopted children."
+            },
+            {
+              "cf": "",
+              "x": "The video was produced and directed by filmmaker Neil Campbell."
+            },
+            {
+              "cf": "",
+              "x": "The wealthy philanthropist decided to produce a documentary on environmental conservation."
+            },
+            {
+              "cf": "",
+              "x": "The renowned director secured funding from investors to produce a groundbreaking science fiction film."
+            },
+            {
+              "cf": "",
+              "x": "The talented playwright was eager to produce her latest play."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "set",
+      "id": "927f1412-e0bc-4935-b0cd-972d41c69af3",
+      "word": "to set",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2V0&hash=6e48eaf638484e3be1206c21cf243d021ed39f10&lang=en&cache-only=0",
       "phonetic_text": "sɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2V0&hash=6e48eaf638484e3be1206c21cf243d021ed39f10&lang=en&cache-only=0",
       "phonetic_am_text": "set",
       "img": "",
-      "pronunciation": "ˈsɛt",
+      "pronunciation": "sɛt",
       "senses": [
         {
           "definition": "to place the events of a play, movie, novel, etc. in a particular time or place",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The play is set in the roaring 1920s."
+            },
+            {
+              "cf": "",
+              "x": "The novel is set during World War II."
+            },
+            {
+              "cf": "",
+              "x": "The Director set the play in 19th century London."
+            },
+            {
+              "cf": "",
+              "x": "The Playwright sets the scene in a busy marketplace."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "stage-manage",
+      "id": "3451aced-0e1e-4cfa-9f1b-fb585d587e8d",
+      "word": "to stage-manage",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RhZ2UtbWFuYWdl&hash=9368ff4c9683e6b8956e474295e03850b574e737&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "steɪʤ-mæ.nɪʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RhZ2UtbWFuYWdl&hash=9368ff4c9683e6b8956e474295e03850b574e737&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "steij-mā.nij",
       "img": "",
       "pronunciation": "stˈeɪdʒmˈænɪdʒ",
       "senses": [
@@ -436,14 +827,15 @@
       ]
     },
     {
-      "word": "release",
+      "id": "50b88394-f779-4790-a40d-53b2cb9ad5e2",
+      "word": "to release",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVsZWFzZQ&hash=5d6cb704990b270eaca8ba9fa015cde280df0405&lang=en&cache-only=0",
-      "phonetic_text": "rili:s",
+      "phonetic_text": "ri.lis",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVsZWFzZQ&hash=5d6cb704990b270eaca8ba9fa015cde280df0405&lang=en&cache-only=0",
-      "phonetic_am_text": "rilees",
+      "phonetic_am_text": "ri.lis",
       "img": "https://cdn.langeek.co/photo/48305/original/?type=jpeg",
-      "pronunciation": "ɹiˈɫis",
+      "pronunciation": "rɪˈliːs",
       "senses": [
         {
           "definition": "to make a movie, music, etc. available to the public",
@@ -452,76 +844,165 @@
       ]
     },
     {
-      "word": "screen",
+      "id": "675aa1ac-57d0-43d5-b996-5119ba475c33",
+      "word": "to screen",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NyZWVu&hash=5ffa74e12f91a716fc6af40922d155b1fbb865d8&lang=en&cache-only=0",
       "phonetic_text": "skri:n",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NyZWVu&hash=5ffa74e12f91a716fc6af40922d155b1fbb865d8&lang=en&cache-only=0",
-      "phonetic_am_text": "skreen",
+      "phonetic_am_text": "skrin",
       "img": "https://cdn.langeek.co/photo/58629/original/?type=jpeg",
       "pronunciation": "skriːn",
       "senses": [
         {
           "definition": "to show a video or film in a movie theater or on TV",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The cinema will screen the highly anticipated movie this weekend."
+            },
+            {
+              "cf": "",
+              "x": "The television network will screen the documentary on environmental conservation next week."
+            },
+            {
+              "cf": "",
+              "x": "The film festival will screen a selection of independent movies from various genres."
+            },
+            {
+              "cf": "",
+              "x": "The local community center plans to screen classic films for residents every month."
+            },
+            {
+              "cf": "",
+              "x": "The streaming service will screen the latest episodes of the popular TV series."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "adapt",
+      "id": "7ca73348-26a7-493f-9788-1c626b1fbf6f",
+      "word": "to adapt",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWRhcHQ&hash=b1b3ee2ba0296b5f37c85a314edec9007b13d3e3&lang=en&cache-only=0",
-      "phonetic_text": "ədæpt",
+      "phonetic_text": "ə.dæpt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWRhcHQ&hash=b1b3ee2ba0296b5f37c85a314edec9007b13d3e3&lang=en&cache-only=0",
-      "phonetic_am_text": "ēdāpt",
+      "phonetic_am_text": "ē.dāpt",
       "img": "https://cdn.langeek.co/photo/32492/original/?type=jpeg",
       "pronunciation": "əˈdæpt",
       "senses": [
         {
           "definition": "to change a book or play in a way that can be made into a movie, TV series, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The screenwriter adapted the bestselling novel into a screenplay."
+            },
+            {
+              "cf": "",
+              "x": "The director worked closely with the playwright to adapt the stage production for television."
+            },
+            {
+              "cf": "",
+              "x": "The producers hired a team of writers to adapt the classic play for a modern audience."
+            },
+            {
+              "cf": "",
+              "x": "The screenwriter successfully adapted the nonfiction book into a gripping true-crime series."
+            },
+            {
+              "cf": "",
+              "x": "The studio acquired the rights to adapt the graphic novel for TV."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "animate",
+      "id": "fab650c0-9214-4d5c-8c11-0e7483f13de0",
+      "word": "to animate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYW5pbWF0ZQ&hash=d29f6c4745243dd838fc34807e5794b9d29c003d&lang=en&cache-only=0",
-      "phonetic_text": "ænəmət",
+      "phonetic_text": "æ.nə.meɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYW5pbWF0ZQ&hash=d29f6c4745243dd838fc34807e5794b9d29c003d&lang=en&cache-only=0",
-      "phonetic_am_text": "ānēmēt",
+      "phonetic_am_text": "ā.nē.meit",
       "img": "https://cdn.langeek.co/photo/51743/original/animation?type=jpeg",
       "pronunciation": "ˈænəˌmeɪt/, /ˈænəmət",
       "senses": [
         {
           "definition": "to bring characters or objects to life through movement using animation techniques or computer programs",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The studio animates characters for its upcoming animated film using advanced CGI technology."
+            },
+            {
+              "cf": "",
+              "x": "She animated a cute cartoon character for a children's television show."
+            },
+            {
+              "cf": "",
+              "x": "He is animating a series of illustrations to create a dynamic storytelling experience."
+            },
+            {
+              "cf": "",
+              "x": "The video game company animated lifelike movements for its characters to enhance gameplay."
+            },
+            {
+              "cf": "",
+              "x": "She is animating a dancing figure for an online advertisement."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "appear",
+      "id": "3d462995-f8b0-404b-be65-6e0db04c64e5",
+      "word": "to appear",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYXBwZWFy&hash=4c79aa0d99faf7a2e6a0405f11be1ceaf284ccd3&lang=en&cache-only=0",
-      "phonetic_text": "əpɪr",
+      "phonetic_text": "ə.pɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYXBwZWFy&hash=4c79aa0d99faf7a2e6a0405f11be1ceaf284ccd3&lang=en&cache-only=0",
-      "phonetic_am_text": "ēpir",
+      "phonetic_am_text": "ē.pir",
       "img": "https://cdn.langeek.co/photo/22361/original/?type=jpeg",
       "pronunciation": "əˈpɪr",
       "senses": [
         {
           "definition": "to take part in a play, TV show, movie, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The famous actor will appear in the upcoming blockbuster film."
+            },
+            {
+              "cf": "",
+              "x": "She will appear as a guest judge on the reality TV show next week."
+            },
+            {
+              "cf": "",
+              "x": "The beloved character will appear in the final season of the television series."
+            },
+            {
+              "cf": "",
+              "x": "He is set to appear in a supporting role in the Broadway play next month."
+            },
+            {
+              "cf": "",
+              "x": "The talk show host will appear as a guest star on the sitcom's season finale."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "colorize",
+      "id": "4430cccb-b373-48ca-8dd5-30c370752d6c",
+      "word": "to colorize",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29sb3JpemU&hash=fa75353f01da65d6796e81717e5dd29889e1eaad&lang=en&cache-only=0",
-      "phonetic_text": "kʌləraɪz",
+      "phonetic_text": "kə.lɜ.raɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29sb3JpemU&hash=fa75353f01da65d6796e81717e5dd29889e1eaad&lang=en&cache-only=0",
-      "phonetic_am_text": "kalēraiz",
+      "phonetic_am_text": "kē.lē.raiz",
       "img": "",
       "pronunciation": "ˈkəɫɝˌaɪz",
       "senses": [
@@ -532,10 +1013,11 @@
       ]
     },
     {
-      "word": "cue",
+      "id": "b8760969-911e-4ca8-b80f-cc8704d7b6a2",
+      "word": "to cue",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3Vl&hash=d52572e19c062500cc4258dc1f9b0130120f6b83&lang=en&cache-only=0",
-      "phonetic_text": "kju:",
+      "phonetic_text": "kju",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3Vl&hash=d52572e19c062500cc4258dc1f9b0130120f6b83&lang=en&cache-only=0",
       "phonetic_am_text": "kyoo",
       "img": "",
@@ -548,7 +1030,8 @@
       ]
     },
     {
-      "word": "cut",
+      "id": "7a731788-0f7b-4579-8f33-ad823a0bdc0e",
+      "word": "to cut",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3V0&hash=5c0a06b7124a306811bf5557a68596a8cb917a5f&lang=en&cache-only=0",
       "phonetic_text": "kʌt",
@@ -564,78 +1047,151 @@
       ]
     },
     {
-      "word": "dramatize",
+      "id": "28e73e41-2d07-447c-acc3-9ff012b8e2cb",
+      "word": "to dramatize",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJhbWF0aXpl&hash=0e1bd114dd46766355e1bb382acef01391ba391e&lang=en&cache-only=0",
-      "phonetic_text": "drɑ:mətaɪz",
+      "phonetic_text": "dræ.mə.taɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZHJhbWF0aXpl&hash=0e1bd114dd46766355e1bb382acef01391ba391e&lang=en&cache-only=0",
-      "phonetic_am_text": "draamētaiz",
+      "phonetic_am_text": "drā.mē.taiz",
       "img": "",
-      "pronunciation": "ˈdɹæməˌtaɪz/, /ˈdɹɑməˌtaɪz",
+      "pronunciation": "ˈdræməˌtaɪz",
       "senses": [
         {
           "definition": "to turn a book, story, or an event into a movie or play",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Historical accounts of great leaders are often dramatized in biographical films to engage modern audiences."
+            },
+            {
+              "cf": "",
+              "x": "The playwright decided to dramatize the novel, adapting it into an engaging and visually stunning stage production."
+            },
+            {
+              "cf": "",
+              "x": "The acclaimed director was hired to dramatize the bestselling novel into a blockbuster film."
+            },
+            {
+              "cf": "",
+              "x": "The playwright took creative liberties to dramatize the historical event, bringing it to life on stage."
+            },
+            {
+              "cf": "",
+              "x": "The producers decided to dramatize the true crime story for television, capturing the public's attention with its gripping narrative."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "enact",
+      "id": "655fec23-6c6d-427f-82b5-a1f6e3302e69",
+      "word": "to enact",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZW5hY3Q&hash=4c964a87f7d0697c61be0252081e93d6dd5e950c&lang=en&cache-only=0",
-      "phonetic_text": "ɪnækt",
+      "phonetic_text": "ɛn.ækt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZW5hY3Q&hash=4c964a87f7d0697c61be0252081e93d6dd5e950c&lang=en&cache-only=0",
-      "phonetic_am_text": "inākt",
+      "phonetic_am_text": "en.ākt",
       "img": "https://cdn.langeek.co/photo/26604/original/?type=jpeg",
       "pronunciation": "ɪˈnækt",
       "senses": [
         {
           "definition": "to act a role in a motion picture or perform a play on stage",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She will enact the lead role in the upcoming romantic comedy."
+            },
+            {
+              "cf": "",
+              "x": "He enacted the role of a troubled detective in last year's acclaimed thriller."
+            },
+            {
+              "cf": "",
+              "x": "The actors rehearsed tirelessly to enact their parts in the historical drama."
+            },
+            {
+              "cf": "",
+              "x": "They are currently enacting scenes from a famous play in drama class."
+            },
+            {
+              "cf": "",
+              "x": "During the audition, she was enacting a dramatic monologue that impressed the casting director."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "perform",
+      "id": "bb063cf3-c4aa-43bf-9a91-c6113f629636",
+      "word": "to perform",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGVyZm9ybQ&hash=4f6a152ba639497d8521f6f1ff70aa9ae93ce9b9&lang=en&cache-only=0",
-      "phonetic_text": "pərfɔ:rm",
+      "phonetic_text": "pər.fɔ:rm",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGVyZm9ybQ&hash=4f6a152ba639497d8521f6f1ff70aa9ae93ce9b9&lang=en&cache-only=0",
-      "phonetic_am_text": "pērfaawrm",
+      "phonetic_am_text": "pēr.fawrm",
       "img": "https://cdn.langeek.co/photo/15961/original/concert?type=jpeg",
       "pronunciation": "pɚˈfɔːrm",
       "senses": [
         {
           "definition": "to give a performance of something such as a play or a piece of music for entertainment",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The band will perform at the city park next week."
+            },
+            {
+              "cf": "",
+              "x": "The comedian performed in front of a large audience."
+            },
+            {
+              "cf": "",
+              "x": "The magician performed an incredible trick."
+            },
+            {
+              "cf": "",
+              "x": "The orchestra will perform Beethoven's Fifth Symphony tonight."
+            },
+            {
+              "cf": "",
+              "x": "They perform a traditional dance at the festival every year."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "put on",
+      "id": "35ae8014-8a24-4766-9bf7-567f48f01ff4",
+      "word": "to put on",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IG9u&hash=c874e673b42aee1bd7924077f0aa9df584d74436&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pʊt ɑ:n",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IG9u&hash=c874e673b42aee1bd7924077f0aa9df584d74436&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "poot aan",
       "img": "",
       "pronunciation": "pʊt ɑːn",
       "senses": [
         {
           "definition": "to stage a play, a show, etc. for an audience",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "They are putting on a musical at the local theater next month."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "shoot",
+      "id": "6af0329f-7f84-4132-88d2-d983d38718ba",
+      "word": "to shoot",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2hvb3Q&hash=1f12a6de2ae7bd1be2d2eeb0f9e09517bd119691&lang=en&cache-only=0",
       "phonetic_text": "ʃu:t",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2hvb3Q&hash=1f12a6de2ae7bd1be2d2eeb0f9e09517bd119691&lang=en&cache-only=0",
       "phonetic_am_text": "shoot",
       "img": "https://cdn.langeek.co/photo/22413/original/?type=jpeg",
-      "pronunciation": "ˈʃut",
+      "pronunciation": "ʃuːt",
       "senses": [
         {
           "definition": "to film or take a photograph of something",
@@ -644,58 +1200,93 @@
       ]
     },
     {
-      "word": "stage",
+      "id": "0b274b69-6933-4b62-9418-a8b7387253a4",
+      "word": "to stage",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RhZ2U&hash=cc108389334adb56e73f7775c3fd553763ae38fe&lang=en&cache-only=0",
       "phonetic_text": "steɪʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RhZ2U&hash=cc108389334adb56e73f7775c3fd553763ae38fe&lang=en&cache-only=0",
       "phonetic_am_text": "steij",
       "img": "https://cdn.langeek.co/photo/22361/original/?type=jpeg",
-      "pronunciation": "ˈsteɪdʒ",
+      "pronunciation": "steɪʤ",
       "senses": [
         {
           "definition": "to present a play or other event to an audience",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The theater company stages Shakespearean plays throughout the year."
+            },
+            {
+              "cf": "",
+              "x": "They stage a musical production every spring."
+            },
+            {
+              "cf": "",
+              "x": "The theater group plans to stage a new production of Romeo and Juliet this summer."
+            },
+            {
+              "cf": "",
+              "x": "The director is known for staging elaborate and visually stunning plays."
+            },
+            {
+              "cf": "",
+              "x": "The opera will be staged at the historic downtown theater."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "zoom in",
+      "id": "98980754-b411-4fe0-94d0-9966619562d7",
+      "word": "to zoom in",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gem9vbSBpbg&hash=72c7e0d09258de37bd2705eaad0ee773b5107a47&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "zum ɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gem9vbSBpbg&hash=72c7e0d09258de37bd2705eaad0ee773b5107a47&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "zoom in",
       "img": "https://cdn.langeek.co/photo/26254/original/?type=jpeg",
       "pronunciation": "zˈuːm ˈɪn",
       "senses": [
         {
           "definition": "to adjust the lens of a camera in a way that makes the person or thing being filmed or photographed appear closer or larger",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The photographer zoomed in to capture the intricate details of the butterfly's wings."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "zoom out",
+      "id": "759315db-450b-4575-8500-639eb70470a6",
+      "word": "to zoom out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gem9vbSBvdXQ&hash=49271f1acc199050628f2febb9482404be2a938c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "zum aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gem9vbSBvdXQ&hash=49271f1acc199050628f2febb9482404be2a938c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "zoom aoot",
       "img": "https://cdn.langeek.co/photo/52881/original/?type=jpeg",
       "pronunciation": "zˈuːm ˈaʊt",
       "senses": [
         {
           "definition": "to adjust the lens of a camera in a way that makes the person or thing being filmed or photographed appear further away or smaller",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The photographer skillfully zoomed out, revealing the breathtaking expanse of the sunset."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "flop",
+      "id": "6666c400-3952-4e3a-8a0d-b77693193fb6",
+      "word": "to flop",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmxvcA&hash=40f40695177768dc96cb39f592dff976da713621&lang=en&cache-only=0",
-      "phonetic_text": "flɑ:p",
+      "phonetic_text": "flɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmxvcA&hash=40f40695177768dc96cb39f592dff976da713621&lang=en&cache-only=0",
       "phonetic_am_text": "flaap",
       "img": "https://cdn.langeek.co/photo/48093/original/?type=jpeg",
@@ -703,44 +1294,110 @@
       "senses": [
         {
           "definition": "(of a play, motion picture, or new product) to fail to be of any success or produce the intended effect",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Despite high expectations, the Broadway play flopped after receiving unfavorable reviews."
+            },
+            {
+              "cf": "",
+              "x": "The ambitious film, with its star-studded cast, unexpectedly flopped at the box office."
+            },
+            {
+              "cf": "",
+              "x": "The comedy show, once popular, began to flop in its later seasons."
+            },
+            {
+              "cf": "",
+              "x": "Despite heavy marketing efforts, the fashion brand's new collection flopped."
+            },
+            {
+              "cf": "",
+              "x": "After a series of successful albums, the artist's latest release unexpectedly flopped."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "plug",
+      "id": "d7eccb76-b4e8-4d8f-8564-ec843a7adc15",
+      "word": "to plug",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGx1Zw&hash=198437527bd080a0b9deedc300d6af329a095219&lang=en&cache-only=0",
-      "phonetic_text": "plʌg",
+      "phonetic_text": "pləg",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGx1Zw&hash=198437527bd080a0b9deedc300d6af329a095219&lang=en&cache-only=0",
-      "phonetic_am_text": "plag",
+      "phonetic_am_text": "plēg",
       "img": "",
-      "pronunciation": "ˈpɫəɡ",
+      "pronunciation": "plʌɡ",
       "senses": [
         {
           "definition": "to publicly praise a new book, motion picture, etc. as a way of promoting it",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The author went on multiple talk shows to plug her latest novel and discuss its themes."
+            },
+            {
+              "cf": "",
+              "x": "During the press conference, the director plugged the upcoming film, highlighting its innovative cinematography."
+            },
+            {
+              "cf": "",
+              "x": "Celebrities often plug products on their social media platforms to endorse them to their followers."
+            },
+            {
+              "cf": "",
+              "x": "The actor made appearances on late-night television to plug his new movie and engage with fans."
+            },
+            {
+              "cf": "",
+              "x": "The comedian plugged his upcoming stand-up special, promising audiences an evening of laughter and entertainment."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "preview",
+      "id": "f7821c60-0e60-4689-8846-b6d16203869b",
+      "word": "to preview",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJldmlldw&hash=b5a9161ec95880350a1850fb29326d273eaab278&lang=en&cache-only=0",
-      "phonetic_text": "pri:vju",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJldmlldw&hash=b5a9161ec95880350a1850fb29326d273eaab278&lang=en&cache-only=0",
-      "phonetic_am_text": "preevyu",
-      "img": "",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/59900/original/?type=jpeg",
       "pronunciation": "ˈpɹivˌju",
       "senses": [
         {
           "definition": "to watch a movie, play, TV show, etc. in advance of public presentation",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Critics are invited to preview the new movie before its official release."
+            },
+            {
+              "cf": "",
+              "x": "She previews the next episode of her favorite TV series online."
+            },
+            {
+              "cf": "",
+              "x": "The director previews the final cut of the film before its premiere."
+            },
+            {
+              "cf": "",
+              "x": "Journalists are allowed to preview the new video game before it hits the shelves."
+            },
+            {
+              "cf": "",
+              "x": "He previews the latest musical on Broadway to write a review for the newspaper."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "mime",
+      "id": "026597ec-3718-4329-9c5a-c7c4ed72ae5f",
+      "word": "to mime",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWltZQ&hash=6aa3d296ade4ba3907c7ef65603ddf75c75958d1&lang=en&cache-only=0",
       "phonetic_text": "maɪm",
@@ -756,10 +1413,11 @@
       ]
     },
     {
-      "word": "[blow] {one's} lines",
+      "id": "8e3b0512-6301-45db-877f-f34830563d41",
+      "word": "to [blow] {one's} lines",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmxvdyBvbmUncyBsaW5lcw&hash=f5cb98cc4d2f92a15a5322ab9917e03dfedb9686&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmxvdyBvbmUncyBsaW5lcw&hash=f5cb98cc4d2f92a15a5322ab9917e03dfedb9686&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

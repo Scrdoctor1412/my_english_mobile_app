@@ -1,63 +1,111 @@
 {
+  "id": "94d84709-05d6-40a3-a3a9-c93de7ed34fe",
   "topic": "phrasal_verbs_using_up",
   "title": "Sleeping, Protecting, or Connecting",
   "lesson": "lesson_15",
   "word_list": [
     {
-      "word": "back up",
+      "id": "1708ab26-7195-4f8e-ad32-bcc62ab36806",
+      "word": "to back up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmFjayB1cA&hash=1bb8102e632d0337f1c1db4ff4fb53baaefec463&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæk ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmFjayB1cA&hash=1bb8102e632d0337f1c1db4ff4fb53baaefec463&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bāk ap",
       "img": "https://cdn.langeek.co/photo/26383/original/?type=jpeg",
-      "pronunciation": "bˈæk ˈʌp",
+      "pronunciation": "bæk ˈʌp",
       "senses": [
         {
           "definition": "to support someone or something",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The loyal fans always back up their favorite sports team."
+            },
+            {
+              "cf": "",
+              "x": "The coach consistently backs up his players, fostering team spirit."
+            },
+            {
+              "cf": "",
+              "x": "I'll back up your proposal during the meeting."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "get up",
+      "id": "f90b17ea-3cb8-416f-bb49-5d579920e6a1",
+      "word": "to get up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IHVw&hash=349caf1e6127d71036b2b7208870e63685e6f3fd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gɛt ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IHVw&hash=349caf1e6127d71036b2b7208870e63685e6f3fd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "get ap",
       "img": "https://cdn.langeek.co/photo/43358/original/get-up?type=jpeg",
       "pronunciation": "ɡɛt ˈʌp",
       "senses": [
         {
           "definition": "to wake up and get out of bed",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I usually get up at 6 AM to start my day."
+            },
+            {
+              "cf": "",
+              "x": "Every morning, she gets up early to meditate and prepare for the day."
+            },
+            {
+              "cf": "",
+              "x": "When the alarm goes off, I struggle to get up and start the day."
+            },
+            {
+              "cf": "",
+              "x": "She hit the snooze button a few times before finally getting up."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "hook up",
+      "id": "c2970231-e9ae-4c88-a9d6-0f4803a3d00c",
+      "word": "to hook up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaG9vayB1cA&hash=96e318885d50e922a8e7bd29afd3bfbc20d8f6ee&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hʊk ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaG9vayB1cA&hash=96e318885d50e922a8e7bd29afd3bfbc20d8f6ee&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hook ap",
       "img": "https://cdn.langeek.co/photo/32002/original/?type=jpeg",
       "pronunciation": "hˈʊk ˈʌp",
       "senses": [
         {
           "definition": "to link or connect someone or something to another device or system",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "We need to hook up the new TV to the cable box."
+            },
+            {
+              "cf": "",
+              "x": "The technician will hook up the speakers to the audio system for better sound quality."
+            },
+            {
+              "cf": "",
+              "x": "The electrician will hook up the solar panels to the grid to start generating electricity."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "prop up",
+      "id": "e223b0e4-540a-4b71-8370-2128a872f052",
+      "word": "to prop up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJvcCB1cA&hash=72a80f63fa61910d065f83c19dfab55b08345734&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "prɑp ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJvcCB1cA&hash=72a80f63fa61910d065f83c19dfab55b08345734&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "praap ap",
       "img": "https://cdn.langeek.co/photo/48255/original/?type=jpeg",
       "pronunciation": "pɹˈɑːp ˈʌp",
       "senses": [
@@ -68,98 +116,194 @@
       ]
     },
     {
-      "word": "sit up",
+      "id": "609aa56f-66dc-4458-8019-4bd856ae6c6b",
+      "word": "to sit up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2l0IHVw&hash=5c5d0a133fb4c6e200271e10aa5d9c458d5cfb76&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɪt ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2l0IHVw&hash=5c5d0a133fb4c6e200271e10aa5d9c458d5cfb76&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sit ap",
       "img": "https://cdn.langeek.co/photo/47190/original/?type=jpeg",
       "pronunciation": "sˈɪt ˈʌp",
       "senses": [
         {
           "definition": "to stay awake beyond the usual or expected time",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I had to sit up late last night to finish my assignment for school."
+            },
+            {
+              "cf": "",
+              "x": "Despite feeling tired, she decided to sit up and watch the late-night talk show."
+            },
+            {
+              "cf": "",
+              "x": "They like to sit up and chat with friends when they come over for a visit."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "stand up for",
+      "id": "edf4d588-c66b-4551-8813-9bc0c64e489f",
+      "word": "to stand up for",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RhbmQgdXAgZm9y&hash=4c07f208adfca1cc53a739da9ecda6ab502799bb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stænd ʌp fɔ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RhbmQgdXAgZm9y&hash=4c07f208adfca1cc53a739da9ecda6ab502799bb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "stānd ap fawr",
       "img": "https://cdn.langeek.co/photo/26383/original/?type=jpeg",
       "pronunciation": "stˈænd ˈʌp fɔːɹ",
       "senses": [
         {
           "definition": "to defend or support someone or something",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She bravely stood up for her younger sibling against the school bullies."
+            },
+            {
+              "cf": "",
+              "x": "The community members stood up for social equality and fought against discrimination."
+            },
+            {
+              "cf": "",
+              "x": "The parent stood up for their child's education rights in the school board meeting."
+            },
+            {
+              "cf": "",
+              "x": "The organization stood up for the preservation of historical landmarks in the city."
+            },
+            {
+              "cf": "",
+              "x": "The team captain stood up for their teammates when they faced unfair criticism."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "stay up",
+      "id": "25269a18-231d-4910-8f6c-05564b7293a5",
+      "word": "to stay up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RheSB1cA&hash=3c549be20602293116229082c7ad15b7b13c17c5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "steɪ ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RheSB1cA&hash=3c549be20602293116229082c7ad15b7b13c17c5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "stei ap",
       "img": "https://cdn.langeek.co/photo/47190/original/?type=jpeg",
       "pronunciation": "stˈeɪ ˈʌp",
       "senses": [
         {
           "definition": "to choose not to go to bed and remain awake",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The night shift worker always stays up during their shift to ensure the smooth operation of their job."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "wait up",
+      "id": "2e7ae01d-d1e0-4db4-af81-03291cc77ebd",
+      "word": "to wait up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2FpdCB1cA&hash=8c71a48471a3b5095c340662c2fffe639de0e49c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "weɪt ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2FpdCB1cA&hash=8c71a48471a3b5095c340662c2fffe639de0e49c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "veit ap",
       "img": "https://cdn.langeek.co/photo/52171/original/?type=jpeg",
       "pronunciation": "wˈeɪt ˈʌp",
       "senses": [
         {
           "definition": "to stay awake and wait for someone to come",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The dog always waits up for its owner to come back home."
+            },
+            {
+              "cf": "",
+              "x": "Despite the tiredness, they waited up for their sibling's safe return."
+            },
+            {
+              "cf": "",
+              "x": "The family waited up in the living room for the overdue relative."
+            },
+            {
+              "cf": "",
+              "x": "We waited up for hours until our friends arrived from the trip."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "wake up",
+      "id": "f7a372d7-f778-44b7-a2eb-956086398348",
+      "word": "to wake up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2FrZSB1cA&hash=48822a0458cfff8100876a6c8f775a96182933ab&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "weɪk ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2FrZSB1cA&hash=48822a0458cfff8100876a6c8f775a96182933ab&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "veik ap",
       "img": "https://cdn.langeek.co/photo/21183/original/wake-up?type=jpeg",
-      "pronunciation": "weɪk ʌp",
+      "pronunciation": "ˈweɪk ˈʌp",
       "senses": [
         {
           "definition": "to no longer be asleep",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I remind her to wake up early for her flight tomorrow."
+            },
+            {
+              "cf": "",
+              "x": "I wake up early every morning to go for a run."
+            },
+            {
+              "cf": "",
+              "x": "She woke up late and had to rush to catch the bus."
+            },
+            {
+              "cf": "",
+              "x": "They usually wake up at 7 o'clock on weekdays."
+            },
+            {
+              "cf": "",
+              "x": "We should wake up early to catch the sunrise at the beach."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "wire up",
+      "id": "2b18e81b-f093-4ac6-b0f7-640742bf284b",
+      "word": "to wire up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2lyZSB1cA&hash=426a604ddf222a3d1e59d329cb633e5e9baf517b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "waɪr ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2lyZSB1cA&hash=426a604ddf222a3d1e59d329cb633e5e9baf517b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vair ap",
       "img": "https://cdn.langeek.co/photo/52097/original/?type=jpeg",
       "pronunciation": "wˈaɪɚɹ ˈʌp",
       "senses": [
         {
           "definition": "to connect something to electrical equipment using wires",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The sound engineer will wire up the instruments directly to the mixing console."
+            },
+            {
+              "cf": "",
+              "x": "They need to wire up the control panel to the mainframe for the system to function."
+            },
+            {
+              "cf": "",
+              "x": "The technician was hired to wire up the security system in the office."
+            }
+          ]
         }
       ]
     }

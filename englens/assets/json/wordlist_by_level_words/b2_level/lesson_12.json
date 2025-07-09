@@ -1,15 +1,17 @@
 {
+  "id": "de9f4c67-0ed1-4a41-a63f-5b5e076177d0",
   "topic": "b2_level",
   "title": "Cooking",
   "lesson": "lesson_12",
   "word_list": [
     {
+      "id": "43368774-2648-45d5-88c6-ab9e2f733bce",
       "word": "recipe",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVjaXBl&hash=a7724e768b8bb688a9dd2d15231a14b603eccc93&lang=en&cache-only=0",
-      "phonetic_text": "rɛsəpi",
+      "phonetic_text": "rɛ.sə.pi",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVjaXBl&hash=a7724e768b8bb688a9dd2d15231a14b603eccc93&lang=en&cache-only=0",
-      "phonetic_am_text": "resēpi",
+      "phonetic_am_text": "re.sē.pi",
       "img": "https://cdn.langeek.co/photo/14023/original/recipe?type=jpeg",
       "pronunciation": "ˈɹɛsəpi",
       "senses": [
@@ -41,12 +43,13 @@
       ]
     },
     {
+      "id": "eff7c69c-9c80-4a3d-bf55-133d5e2fd3d2",
       "word": "ingredient",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5ncmVkaWVudA&hash=a66489e6ab943286de0bee91d964a98d13fe33f7&lang=en&cache-only=0",
-      "phonetic_text": "ɪngri:diənt",
+      "phonetic_text": "ɪng.ri.diənt",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5ncmVkaWVudA&hash=a66489e6ab943286de0bee91d964a98d13fe33f7&lang=en&cache-only=0",
-      "phonetic_am_text": "ingreediēnt",
+      "phonetic_am_text": "ing.ri.diēnt",
       "img": "https://cdn.langeek.co/photo/20938/original/?type=jpeg",
       "pronunciation": "ˌɪnˈɡɹidiənt",
       "senses": [
@@ -78,14 +81,15 @@
       ]
     },
     {
-      "word": "beat",
+      "id": "ca91651d-e047-4117-9373-eb08437ff897",
+      "word": "to beat",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmVhdA&hash=14b6a5e5516853eab3dd3c141536485f300b4800&lang=en&cache-only=0",
-      "phonetic_text": "bi:t",
+      "phonetic_text": "bit",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmVhdA&hash=14b6a5e5516853eab3dd3c141536485f300b4800&lang=en&cache-only=0",
-      "phonetic_am_text": "beet",
+      "phonetic_am_text": "bit",
       "img": "https://cdn.langeek.co/photo/20940/original/?type=jpeg",
-      "pronunciation": "ˈbit",
+      "pronunciation": "biːt",
       "senses": [
         {
           "definition": "to repeatedly mix something using a spoon, fork, etc.",
@@ -115,10 +119,11 @@
       ]
     },
     {
-      "word": "chop",
+      "id": "b8d95a8f-a03a-45f5-b212-b9df88492b5c",
+      "word": "to chop",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hvcA&hash=781b0759af1e9a46b6ea60c8e65ed0404603f328&lang=en&cache-only=0",
-      "phonetic_text": "ʧɑ:p",
+      "phonetic_text": "ʧɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2hvcA&hash=781b0759af1e9a46b6ea60c8e65ed0404603f328&lang=en&cache-only=0",
       "phonetic_am_text": "chaap",
       "img": "https://cdn.langeek.co/photo/20950/original/?type=jpeg",
@@ -148,12 +153,13 @@
       ]
     },
     {
-      "word": "garnish",
+      "id": "895a3f57-92a6-44f6-9f38-0faf8f97b11d",
+      "word": "to garnish",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2FybmlzaA&hash=e001128cc0583a34ea1c98c6c3481ea7df11fe2c&lang=en&cache-only=0",
-      "phonetic_text": "gɑ:rnɪʃ",
+      "phonetic_text": "gɑr.nɪʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2FybmlzaA&hash=e001128cc0583a34ea1c98c6c3481ea7df11fe2c&lang=en&cache-only=0",
-      "phonetic_am_text": "gaarnish",
+      "phonetic_am_text": "gaar.nish",
       "img": "https://cdn.langeek.co/photo/20952/original/?type=jpeg",
       "pronunciation": "ˈɡɑɹnɪʃ",
       "senses": [
@@ -185,7 +191,8 @@
       ]
     },
     {
-      "word": "grill",
+      "id": "f4486b23-482c-4b6f-a781-c096a1a0bf1b",
+      "word": "to grill",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ3JpbGw&hash=7191c8a710da2cac5c35ffbf899d7967d4416d16&lang=en&cache-only=0",
       "phonetic_text": "grɪl",
@@ -214,14 +221,15 @@
       ]
     },
     {
-      "word": "heat",
+      "id": "2e45fb5e-4fd2-4a68-a8f5-8bf3f81b0c42",
+      "word": "to heat",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGVhdA&hash=ba4f461f9fa7b55668f94cd5a5ae9a78d890c6dd&lang=en&cache-only=0",
-      "phonetic_text": "hi:t",
+      "phonetic_text": "hit",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGVhdA&hash=ba4f461f9fa7b55668f94cd5a5ae9a78d890c6dd&lang=en&cache-only=0",
-      "phonetic_am_text": "heet",
+      "phonetic_am_text": "hit",
       "img": "https://cdn.langeek.co/photo/20964/original/?type=jpeg",
-      "pronunciation": "ˈhit",
+      "pronunciation": "hit",
       "senses": [
         {
           "definition": "to raise the temperature of something",
@@ -251,12 +259,13 @@
       ]
     },
     {
-      "word": "marinate",
+      "id": "f0953329-1ab1-4384-b4db-39883c94b922",
+      "word": "to marinate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFyaW5hdGU&hash=45ac742fc95a7033da4ac2bcea0631cdfa3f7ce4&lang=en&cache-only=0",
-      "phonetic_text": "mɛrəneɪt",
+      "phonetic_text": "mɛ.rə.neɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFyaW5hdGU&hash=45ac742fc95a7033da4ac2bcea0631cdfa3f7ce4&lang=en&cache-only=0",
-      "phonetic_am_text": "merēneit",
+      "phonetic_am_text": "me.rē.neit",
       "img": "https://cdn.langeek.co/photo/29645/original/?type=jpeg",
       "pronunciation": "ˈmɛɹəˌneɪt",
       "senses": [
@@ -288,12 +297,13 @@
       ]
     },
     {
-      "word": "peel",
+      "id": "b39b1545-6974-4175-aede-ccb507c97732",
+      "word": "to peel",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGVlbA&hash=81fde1f955de802eeadbd1d04af148355b811dcf&lang=en&cache-only=0",
-      "phonetic_text": "pi:l",
+      "phonetic_text": "pil",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGVlbA&hash=81fde1f955de802eeadbd1d04af148355b811dcf&lang=en&cache-only=0",
-      "phonetic_am_text": "peel",
+      "phonetic_am_text": "pil",
       "img": "https://cdn.langeek.co/photo/58400/original/?type=jpeg",
       "pronunciation": "ˈpiɫ",
       "senses": [
@@ -325,12 +335,13 @@
       ]
     },
     {
-      "word": "poach",
+      "id": "428a712e-3fae-475c-a2b5-7f35b6c2b777",
+      "word": "to poach",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcG9hY2g&hash=65ba48c8bf776780c323a2599c4fe3d3568d850c&lang=en&cache-only=0",
       "phonetic_text": "poʊʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcG9hY2g&hash=65ba48c8bf776780c323a2599c4fe3d3568d850c&lang=en&cache-only=0",
-      "phonetic_am_text": "powch",
+      "phonetic_am_text": "poooch",
       "img": "https://cdn.langeek.co/photo/21074/original/?type=jpeg",
       "pronunciation": "ˈpoʊtʃ",
       "senses": [
@@ -362,12 +373,13 @@
       ]
     },
     {
-      "word": "roast",
+      "id": "052f0e30-2da3-4c38-b1c2-cba663ea9a26",
+      "word": "to roast",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcm9hc3Q&hash=120b26cdde24131fe56dbd4ab17e1f7c5f290bf4&lang=en&cache-only=0",
       "phonetic_text": "roʊst",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcm9hc3Q&hash=120b26cdde24131fe56dbd4ab17e1f7c5f290bf4&lang=en&cache-only=0",
-      "phonetic_am_text": "rowst",
+      "phonetic_am_text": "rooost",
       "img": "https://cdn.langeek.co/photo/36323/original/barbecue?type=jpeg",
       "pronunciation": "ˈɹoʊst",
       "senses": [
@@ -399,14 +411,15 @@
       ]
     },
     {
-      "word": "slice",
+      "id": "d75ab188-3a60-47e0-9387-145161fb4e93",
+      "word": "to slice",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2xpY2U&hash=f10b41725b30a262a3cfba0abe9421542b115d60&lang=en&cache-only=0",
       "phonetic_text": "slaɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2xpY2U&hash=f10b41725b30a262a3cfba0abe9421542b115d60&lang=en&cache-only=0",
       "phonetic_am_text": "slais",
       "img": "https://cdn.langeek.co/photo/46159/original/?type=jpeg",
-      "pronunciation": "ˈsɫaɪs",
+      "pronunciation": "slaɪs",
       "senses": [
         {
           "definition": "to cut food or other things into thin, flat pieces",
@@ -436,7 +449,8 @@
       ]
     },
     {
-      "word": "stir",
+      "id": "c73fc91f-822f-480d-944f-795e8d3e27cb",
+      "word": "to stir",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3Rpcg&hash=c8a3eb14dfa62173ce4e9766f65dad212c420826&lang=en&cache-only=0",
       "phonetic_text": "stɜr",
@@ -473,12 +487,13 @@
       ]
     },
     {
-      "word": "toast",
+      "id": "f8de539c-f445-4c86-ab43-b477b9d198e1",
+      "word": "to toast",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdG9hc3Q&hash=a5802a8aa2791baa15756df6c8ff09fa1fc2f19a&lang=en&cache-only=0",
       "phonetic_text": "toʊst",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdG9hc3Q&hash=a5802a8aa2791baa15756df6c8ff09fa1fc2f19a&lang=en&cache-only=0",
-      "phonetic_am_text": "towst",
+      "phonetic_am_text": "tooost",
       "img": "https://cdn.langeek.co/photo/21000/original/?type=jpeg",
       "pronunciation": "toʊst",
       "senses": [
@@ -506,12 +521,13 @@
       ]
     },
     {
+      "id": "deed8967-a226-4dda-8c0b-de145adf863d",
       "word": "counter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291bnRlcg&hash=ea1a025c0af09ad2d0bccc03f824b567d7ce8134&lang=en&cache-only=0",
-      "phonetic_text": "kaʊntər",
+      "phonetic_text": "kaʊn.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291bnRlcg&hash=ea1a025c0af09ad2d0bccc03f824b567d7ce8134&lang=en&cache-only=0",
-      "phonetic_am_text": "kawntēr",
+      "phonetic_am_text": "kaoon.tēr",
       "img": "https://cdn.langeek.co/photo/50773/original/?type=jpeg",
       "pronunciation": "ˈkaʊntɝ",
       "senses": [
@@ -543,12 +559,13 @@
       ]
     },
     {
+      "id": "b0a8f1ee-a2fe-4896-a6ab-63284d99e3d8",
       "word": "utensil",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dXRlbnNpbA&hash=ef4cd234eccc9dc2bea43747ce66e587571af173&lang=en&cache-only=0",
-      "phonetic_text": "jutɛnsəl",
+      "phonetic_text": "ju.tɛn.səl",
       "phonetic_am": "https://tts.langeek.co/read?text=dXRlbnNpbA&hash=ef4cd234eccc9dc2bea43747ce66e587571af173&lang=en&cache-only=0",
-      "phonetic_am_text": "yutensēl",
+      "phonetic_am_text": "yoo.ten.sēl",
       "img": "https://cdn.langeek.co/photo/21088/original/?type=jpeg",
       "pronunciation": "juˈtɛnsəɫ",
       "senses": [
@@ -580,14 +597,15 @@
       ]
     },
     {
+      "id": "78502ef8-d183-4fdc-964b-8394f55176b6",
       "word": "barbecue",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFyYmVjdWU&hash=dfbe06d9faeec91a2817eb74ec4eeb80c6dcd206&lang=en&cache-only=0",
-      "phonetic_text": "bɑ:rbɪkju",
+      "phonetic_text": "bɑ:r.bɪ.kju:",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFyYmVjdWU&hash=dfbe06d9faeec91a2817eb74ec4eeb80c6dcd206&lang=en&cache-only=0",
-      "phonetic_am_text": "baarbikyu",
+      "phonetic_am_text": "baar.bi.kyoo",
       "img": "https://cdn.langeek.co/photo/20948/original/?type=jpeg",
-      "pronunciation": "ˈbɑɹbɪkˌju",
+      "pronunciation": "ˈbɑːrbɪˌkjuː",
       "senses": [
         {
           "definition": "a frame made of metal on which food is cooked over a fire",
@@ -617,12 +635,13 @@
       ]
     },
     {
+      "id": "91a5c46a-9e4e-4a12-8cdf-0fcc64c879c5",
       "word": "blender",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmxlbmRlcg&hash=e086909e164c9306a7015ab601ee8ee24a79f321&lang=en&cache-only=0",
-      "phonetic_text": "blɛndər",
+      "phonetic_text": "blɛn.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YmxlbmRlcg&hash=e086909e164c9306a7015ab601ee8ee24a79f321&lang=en&cache-only=0",
-      "phonetic_am_text": "blendēr",
+      "phonetic_am_text": "blen.dēr",
       "img": "https://cdn.langeek.co/photo/50779/original/blender?type=jpeg",
       "pronunciation": "ˈbɫɛndɝ",
       "senses": [
@@ -654,12 +673,13 @@
       ]
     },
     {
+      "id": "e54f2951-1491-46b0-ae75-ac314047cffd",
       "word": "frying pan",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnJ5aW5nIHBhbg&hash=702eb246d3a10767df1fcbd0c702d7a032cc4e26&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fraɪɪng pæn",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJ5aW5nIHBhbg&hash=702eb246d3a10767df1fcbd0c702d7a032cc4e26&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fraiing pān",
       "img": "https://cdn.langeek.co/photo/20990/original/?type=jpeg",
       "pronunciation": "fɹˈaɪɪŋ pˈæn",
       "senses": [
@@ -687,12 +707,13 @@
       ]
     },
     {
+      "id": "5e8c8e4e-a4a7-4d75-b76e-c23794030c84",
       "word": "wok",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d29r&hash=462440c9779b9ef8341a7267b95d7bccfd165bc1&lang=en&cache-only=0",
-      "phonetic_text": "wɑ:k",
+      "phonetic_text": "wɑk",
       "phonetic_am": "https://tts.langeek.co/read?text=d29r&hash=462440c9779b9ef8341a7267b95d7bccfd165bc1&lang=en&cache-only=0",
-      "phonetic_am_text": "waak",
+      "phonetic_am_text": "vaak",
       "img": "https://cdn.langeek.co/photo/21002/original/?type=jpeg",
       "pronunciation": "ˈwɑk",
       "senses": [
@@ -724,12 +745,13 @@
       ]
     },
     {
+      "id": "c85a236b-173d-4c62-bed8-98464ffbd333",
       "word": "mixer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWl4ZXI&hash=66d6b7fb4996923afd3a24c4daa126ddd7f59364&lang=en&cache-only=0",
-      "phonetic_text": "mɪksər",
+      "phonetic_text": "mɪk.sɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bWl4ZXI&hash=66d6b7fb4996923afd3a24c4daa126ddd7f59364&lang=en&cache-only=0",
-      "phonetic_am_text": "miksēr",
+      "phonetic_am_text": "mik.sēr",
       "img": "https://cdn.langeek.co/photo/20994/original/?type=jpeg",
       "pronunciation": "ˈmɪksɝ",
       "senses": [
@@ -757,6 +779,7 @@
       ]
     },
     {
+      "id": "246dee94-02ce-4f57-8534-a2ed69d3afd5",
       "word": "lid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGlk&hash=23e5782ebc5e372135137f7f7d6366ff98d94d94&lang=en&cache-only=0",
@@ -794,12 +817,13 @@
       ]
     },
     {
+      "id": "c2640a35-8159-4964-b3bd-5d2529565d52",
       "word": "mixing bowl",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWl4aW5nIGJvd2w&hash=dde9d4f10f7f714bfdd615209867afc9100574a9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mɪk.sɪng boʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=bWl4aW5nIGJvd2w&hash=dde9d4f10f7f714bfdd615209867afc9100574a9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mik.sing boool",
       "img": "https://cdn.langeek.co/photo/50811/original/?type=jpeg",
       "pronunciation": "mˈɪksɪŋ bˈoʊl",
       "senses": [
@@ -827,12 +851,13 @@
       ]
     },
     {
+      "id": "69f70f92-c0ba-4267-af07-d6694325d9ce",
       "word": "wooden spoon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d29vZGVuIHNwb29u&hash=f3abfd74464538af8f5e95b2723553b93c40e9b7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wʊ.dən spu:n",
       "phonetic_am": "https://tts.langeek.co/read?text=d29vZGVuIHNwb29u&hash=f3abfd74464538af8f5e95b2723553b93c40e9b7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "voo.dēn spoon",
       "img": "https://cdn.langeek.co/photo/21058/original/?type=jpeg",
       "pronunciation": "wˈʊdən spˈuːn",
       "senses": [
@@ -864,6 +889,7 @@
       ]
     },
     {
+      "id": "7b5da83a-6fa8-431a-b190-6d414d13fd62",
       "word": "scale",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2NhbGU&hash=f99898ae61ebeee5138e87f4396f6d1366d78b87&lang=en&cache-only=0",
@@ -871,7 +897,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=c2NhbGU&hash=f99898ae61ebeee5138e87f4396f6d1366d78b87&lang=en&cache-only=0",
       "phonetic_am_text": "skeil",
       "img": "https://cdn.langeek.co/photo/21052/original/?type=jpeg",
-      "pronunciation": "ˈskeɪɫ",
+      "pronunciation": "skeɪl",
       "senses": [
         {
           "definition": "a device used to weigh people or objects",
@@ -901,6 +927,7 @@
       ]
     },
     {
+      "id": "6658a5b3-25da-4507-8d7b-faf247dff920",
       "word": "pinch",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGluY2g&hash=03c488005993fb562c97b7e311a412ba8684e813&lang=en&cache-only=0",
@@ -938,12 +965,13 @@
       ]
     },
     {
+      "id": "3ac77f63-c75b-4614-96d0-93984015ccda",
       "word": "cupful",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3VwZnVs&hash=1f7924952939f877559452cf0ff39f404a348a80&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kʌp.fəl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3VwZnVs&hash=1f7924952939f877559452cf0ff39f404a348a80&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kap.fēl",
       "img": "https://cdn.langeek.co/photo/21106/original/?type=jpeg",
       "pronunciation": "kˈʌpfəl",
       "senses": [
@@ -975,12 +1003,13 @@
       ]
     },
     {
+      "id": "9adb1ee0-b9b0-4e22-b5ed-970934f07251",
       "word": "spoonful",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3Bvb25mdWw&hash=b211a944f225a919bfef758598091bb0b63c5a0f&lang=en&cache-only=0",
-      "phonetic_text": "spu:nfʊl",
+      "phonetic_text": "spun.fʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=c3Bvb25mdWw&hash=b211a944f225a919bfef758598091bb0b63c5a0f&lang=en&cache-only=0",
-      "phonetic_am_text": "spoonful",
+      "phonetic_am_text": "spoon.fool",
       "img": "https://cdn.langeek.co/photo/21054/original/?type=jpeg",
       "pronunciation": "ˈspunˌfʊɫ",
       "senses": [

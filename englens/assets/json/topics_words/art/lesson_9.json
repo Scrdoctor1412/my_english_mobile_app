@@ -1,26 +1,50 @@
 {
+  "id": "ce91148d-6a8c-4b20-ab27-f0eabe5d9420",
   "topic": "art",
   "title": "Verbs Related to Art",
   "lesson": "lesson_9",
   "word_list": [
     {
-      "word": "draw",
+      "id": "b10955bf-2790-458b-8eda-6ae8ddfb8c5f",
+      "word": "to draw",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJhdw&hash=ab6f269bffb435cfd9a0bc4804d97fe13056f03e&lang=en&cache-only=0",
       "phonetic_text": "drɔ:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZHJhdw&hash=ab6f269bffb435cfd9a0bc4804d97fe13056f03e&lang=en&cache-only=0",
-      "phonetic_am_text": "draaw",
+      "phonetic_am_text": "draw",
       "img": "https://cdn.langeek.co/photo/51686/original/drawing?type=jpeg",
       "pronunciation": "drɔː",
       "senses": [
         {
           "definition": "to make a picture of something using a pencil, pen, etc. without coloring it",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He drew a cute cat on the paper for his little sister."
+            },
+            {
+              "cf": "",
+              "x": "My little brother is able to draw a perfect circle freehand."
+            },
+            {
+              "cf": "",
+              "x": "The artist can draw realistic portraits of people."
+            },
+            {
+              "cf": "",
+              "x": "The child used crayons to draw a colorful butterfly."
+            },
+            {
+              "cf": "",
+              "x": "They drew the outline of a house in their art project."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "paint",
+      "id": "c2de50d5-6c6d-4001-b184-0be0ef74452c",
+      "word": "to paint",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGFpbnQ&hash=72685a4540c64191fbead28e5bb4800c9965ed68&lang=en&cache-only=0",
       "phonetic_text": "peɪnt",
@@ -31,19 +55,41 @@
       "senses": [
         {
           "definition": "to produce a picture or design with paint",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She painted a beautiful landscape of the countryside."
+            },
+            {
+              "cf": "",
+              "x": "The artist painted a portrait of his wife using oil colors."
+            },
+            {
+              "cf": "",
+              "x": "He enjoys painting abstract art, using bold colors and shapes."
+            },
+            {
+              "cf": "",
+              "x": "The students painted murals on the classroom walls as part of a school project."
+            },
+            {
+              "cf": "",
+              "x": "She painted a still life of fruits and flowers for the art exhibition."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "sketch",
+      "id": "016ab61f-8f60-4517-9ac6-e3ed6c9bcf02",
+      "word": "to sketch",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2tldGNo&hash=c20dee27acc19d2e3441f6da541ef0a39c68d4d2&lang=en&cache-only=0",
       "phonetic_text": "skɛʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2tldGNo&hash=c20dee27acc19d2e3441f6da541ef0a39c68d4d2&lang=en&cache-only=0",
       "phonetic_am_text": "skech",
       "img": "https://cdn.langeek.co/photo/51696/original/sketch?type=jpeg",
-      "pronunciation": "ˈskɛtʃ",
+      "pronunciation": "skɛʧ",
       "senses": [
         {
           "definition": "to produce an elementary and quick drawing of someone or something",
@@ -52,7 +98,8 @@
       ]
     },
     {
-      "word": "trace",
+      "id": "0cdb07b6-da15-4567-865d-6d2dc9f2944c",
+      "word": "to trace",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHJhY2U&hash=787fa2f81d736eae39fd8124a7d603bd19a0a2ac&lang=en&cache-only=0",
       "phonetic_text": "treɪs",
@@ -89,12 +136,13 @@
       ]
     },
     {
-      "word": "rough out",
+      "id": "3cea9afe-3ce4-485f-8417-b371da68f3a7",
+      "word": "to rough out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcm91Z2ggb3V0&hash=3aeecf87bc257cb79877520288c6c7daa92d0439&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rəf aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcm91Z2ggb3V0&hash=3aeecf87bc257cb79877520288c6c7daa92d0439&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rēf aoot",
       "img": "https://cdn.langeek.co/photo/18762/original/sketch?type=jpeg",
       "pronunciation": "ɹˈʌf ˈaʊt",
       "senses": [
@@ -122,7 +170,8 @@
       ]
     },
     {
-      "word": "etch",
+      "id": "0a768891-e0d0-4d4c-a10e-48befa018e0c",
+      "word": "to etch",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZXRjaA&hash=88be14541f74c6504503bf810ccead22e138938d&lang=en&cache-only=0",
       "phonetic_text": "ɛʧ",
@@ -133,19 +182,41 @@
       "senses": [
         {
           "definition": "to cut or carve designs or writings on a hard surface, often using acid or a laser beam",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The artist etched a detailed illustration on a metal plate."
+            },
+            {
+              "cf": "",
+              "x": "The jeweler etched intricate patterns onto the silver pendant."
+            },
+            {
+              "cf": "",
+              "x": "The printmaker used a technique to etch fine lines onto the copper plate."
+            },
+            {
+              "cf": "",
+              "x": "The scientist etched a microscopic circuit on a silicon wafer."
+            },
+            {
+              "cf": "",
+              "x": "The glass artist etched a beautiful design onto the transparent surface."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "shade",
+      "id": "b90da874-beca-4094-a4c8-c553c697901d",
+      "word": "to shade",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2hhZGU&hash=06662295d8afdad3267c3c1651349671cdbd1aa8&lang=en&cache-only=0",
       "phonetic_text": "ʃeɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2hhZGU&hash=06662295d8afdad3267c3c1651349671cdbd1aa8&lang=en&cache-only=0",
       "phonetic_am_text": "sheid",
       "img": "",
-      "pronunciation": "ˈʃeɪd",
+      "pronunciation": "ʃeɪd",
       "senses": [
         {
           "definition": "to darken part of a picture or drawing using pencils, etc.",
@@ -175,14 +246,15 @@
       ]
     },
     {
-      "word": "illustrate",
+      "id": "80c4d1a3-2ace-4eb3-92f7-e55a82d02ec8",
+      "word": "to illustrate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaWxsdXN0cmF0ZQ&hash=1d57e5a868549ba81eb0a10b5dc9461f0cb0dfc6&lang=en&cache-only=0",
-      "phonetic_text": "ɪləstreɪt",
+      "phonetic_text": "ɪ.ləst.reɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaWxsdXN0cmF0ZQ&hash=1d57e5a868549ba81eb0a10b5dc9461f0cb0dfc6&lang=en&cache-only=0",
-      "phonetic_am_text": "ilēstreit",
+      "phonetic_am_text": "i.lēst.reit",
       "img": "https://cdn.langeek.co/photo/18764/original/illustrate?type=jpeg",
-      "pronunciation": "ˈɪɫəˌstɹeɪt",
+      "pronunciation": "ˈɪləˌstreɪt",
       "senses": [
         {
           "definition": "to use pictures in a book, magazine, etc.",
@@ -204,12 +276,13 @@
       ]
     },
     {
-      "word": "crayon",
+      "id": "a2b547a2-9250-4008-a6ff-d5518c3c3540",
+      "word": "to crayon",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3JheW9u&hash=42a368a00ada65181f309d7d517f3c5a243b9b7a&lang=en&cache-only=0",
       "phonetic_text": "kreɪɑn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3JheW9u&hash=42a368a00ada65181f309d7d517f3c5a243b9b7a&lang=en&cache-only=0",
-      "phonetic_am_text": "kreiɑn",
+      "phonetic_am_text": "kreiaan",
       "img": "https://cdn.langeek.co/photo/25529/original/?type=jpeg",
       "pronunciation": "ˈkɹeɪˌɑn",
       "senses": [
@@ -220,14 +293,15 @@
       ]
     },
     {
-      "word": "doodle",
+      "id": "4aba16f4-1c9e-4a6c-8e49-d1be2ba13b16",
+      "word": "to doodle",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZG9vZGxl&hash=c93d3f2539a0b4f5cb0ea52715915dcaf46c4cfc&lang=en&cache-only=0",
-      "phonetic_text": "du:dəl",
+      "phonetic_text": "du.dəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZG9vZGxl&hash=c93d3f2539a0b4f5cb0ea52715915dcaf46c4cfc&lang=en&cache-only=0",
-      "phonetic_am_text": "doodēl",
+      "phonetic_am_text": "doo.dēl",
       "img": "https://cdn.langeek.co/photo/18866/original/doodle?type=jpeg",
-      "pronunciation": "ˈdudəɫ",
+      "pronunciation": "ˈduːdəl",
       "senses": [
         {
           "definition": "to aimlessly draw lines and shapes, particularly when one is bored",
@@ -257,12 +331,13 @@
       ]
     },
     {
-      "word": "base on",
+      "id": "91743df6-c720-45e3-8f00-1fb23b86bf13",
+      "word": "to base on",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmFzZSBvbg&hash=04e806fdd7f9d73954c1018867e03327fc078b7e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "beɪs ɑ:n",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmFzZSBvbg&hash=04e806fdd7f9d73954c1018867e03327fc078b7e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "beis aan",
       "img": "https://cdn.langeek.co/photo/52839/original/?type=jpeg",
       "pronunciation": "bˈeɪs ˈɑːn",
       "senses": [
@@ -282,7 +357,8 @@
       ]
     },
     {
-      "word": "blend",
+      "id": "5e2082da-8f00-4acb-9530-e3a25b0f52b0",
+      "word": "to blend",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmxlbmQ&hash=b8d6a5b713355a315a955fa4cb1e86915fac61f2&lang=en&cache-only=0",
       "phonetic_text": "blɛnd",
@@ -315,10 +391,11 @@
       ]
     },
     {
-      "word": "carve",
+      "id": "00d5e453-6a0f-4ab6-a22c-1d38ac18d71f",
+      "word": "to carve",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2FydmU&hash=58bf5e39e55af095aa85d87a7b1b7c82bb865e3e&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:rv",
+      "phonetic_text": "kɑrv",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2FydmU&hash=58bf5e39e55af095aa85d87a7b1b7c82bb865e3e&lang=en&cache-only=0",
       "phonetic_am_text": "kaarv",
       "img": "",
@@ -348,12 +425,13 @@
       ]
     },
     {
-      "word": "circumscribe",
+      "id": "0ae55072-7772-45a8-8c25-7db9d456f92e",
+      "word": "to circumscribe",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2lyY3Vtc2NyaWJl&hash=6c8e0330aa23c467a86538e93cb27cf2dd2a077f&lang=en&cache-only=0",
-      "phonetic_text": "sɜrkəmskraɪb",
+      "phonetic_text": "sɜr.kəms.kraɪb",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2lyY3Vtc2NyaWJl&hash=6c8e0330aa23c467a86538e93cb27cf2dd2a077f&lang=en&cache-only=0",
-      "phonetic_am_text": "sērkēmskraib",
+      "phonetic_am_text": "sēr.kēms.kraib",
       "img": "",
       "pronunciation": "ˌsɝkəmsˈkɹaɪb",
       "senses": [
@@ -385,12 +463,13 @@
       ]
     },
     {
-      "word": "complement",
+      "id": "143beac9-2bdd-41ab-97c4-6b57b08a2a52",
+      "word": "to complement",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29tcGxlbWVudA&hash=79d0f99e90f52540c2994cba7ddf621238431cd3&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:mpləmənt",
+      "phonetic_text": "kɑmp.lə.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29tcGxlbWVudA&hash=79d0f99e90f52540c2994cba7ddf621238431cd3&lang=en&cache-only=0",
-      "phonetic_am_text": "kaamplēmēnt",
+      "phonetic_am_text": "kaamp.lē.mēnt",
       "img": "https://cdn.langeek.co/photo/59014/original/?type=jpeg",
       "pronunciation": "ˈkɑmpɫəmənt",
       "senses": [
@@ -422,12 +501,13 @@
       ]
     },
     {
-      "word": "render",
+      "id": "c19a6096-7262-4bd3-8c19-00f7fd4defee",
+      "word": "to render",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVuZGVy&hash=402ee8f514f6ac76c79c9ca41efc04eb400b5c82&lang=en&cache-only=0",
-      "phonetic_text": "rɛndər",
+      "phonetic_text": "rɛn.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVuZGVy&hash=402ee8f514f6ac76c79c9ca41efc04eb400b5c82&lang=en&cache-only=0",
-      "phonetic_am_text": "rendēr",
+      "phonetic_am_text": "ren.dēr",
       "img": "",
       "pronunciation": "ˈɹɛndɝ",
       "senses": [
@@ -459,14 +539,15 @@
       ]
     },
     {
-      "word": "represent",
+      "id": "c4776e4d-fabd-49f8-90ba-ff3ca9f80657",
+      "word": "to represent",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVwcmVzZW50&hash=48e540dc93dec60282144b81632c53fbaf4e85e3&lang=en&cache-only=0",
-      "phonetic_text": "rɛprɪzɛnt",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVwcmVzZW50&hash=48e540dc93dec60282144b81632c53fbaf4e85e3&lang=en&cache-only=0",
-      "phonetic_am_text": "reprizent",
+      "phonetic_am_text": null,
       "img": "",
-      "pronunciation": "ˌɹɛpɹɪˈzɛnt",
+      "pronunciation": "ˌrɛprɪˈzɛnt",
       "senses": [
         {
           "definition": "to show someone or something in a piece of art",
@@ -492,12 +573,13 @@
       ]
     },
     {
-      "word": "restore",
+      "id": "6526faa5-c190-4a8f-a167-9ec2cda643df",
+      "word": "to restore",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVzdG9yZQ&hash=0332be68cea53963a1efc0f14b6b5550ea987c70&lang=en&cache-only=0",
-      "phonetic_text": "rɪstɔ:r",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVzdG9yZQ&hash=0332be68cea53963a1efc0f14b6b5550ea987c70&lang=en&cache-only=0",
-      "phonetic_am_text": "ristaawr",
+      "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/20804/original/?type=jpeg",
       "pronunciation": "ɹɪˈstɔɹ",
       "senses": [
@@ -529,12 +611,13 @@
       ]
     },
     {
-      "word": "scribble",
+      "id": "60fa0cbe-e583-4acd-bbd8-2224829da4ab",
+      "word": "to scribble",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NyaWJibGU&hash=fd58c582e9a48c2895c7465733afe8418fcf66f8&lang=en&cache-only=0",
-      "phonetic_text": "skrɪbəl",
+      "phonetic_text": "skrɪ.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NyaWJibGU&hash=fd58c582e9a48c2895c7465733afe8418fcf66f8&lang=en&cache-only=0",
-      "phonetic_am_text": "skribēl",
+      "phonetic_am_text": "skri.bēl",
       "img": "https://cdn.langeek.co/photo/18866/original/doodle?type=jpeg",
       "pronunciation": "ˈskɹɪbəɫ",
       "senses": [
@@ -566,12 +649,13 @@
       ]
     },
     {
-      "word": "smudge",
+      "id": "00acb513-e89d-4c07-af79-584442bdc2a5",
+      "word": "to smudge",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc211ZGdl&hash=44ff085cd0ea9e51f03ff04f38c4a69954bb9886&lang=en&cache-only=0",
-      "phonetic_text": "smʌʤ",
+      "phonetic_text": "sməʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc211ZGdl&hash=44ff085cd0ea9e51f03ff04f38c4a69954bb9886&lang=en&cache-only=0",
-      "phonetic_am_text": "smaj",
+      "phonetic_am_text": "smēj",
       "img": "https://cdn.langeek.co/photo/46802/original/?type=jpeg",
       "pronunciation": "ˈsmədʒ",
       "senses": [
@@ -603,12 +687,13 @@
       ]
     },
     {
-      "word": "stipple",
+      "id": "0ed4b4ec-95e1-44af-a916-b2d8195bc0d0",
+      "word": "to stipple",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RpcHBsZQ&hash=ecea7658bf816a302d9b1cae280520d6d0e542ee&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stɪ.pəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RpcHBsZQ&hash=ecea7658bf816a302d9b1cae280520d6d0e542ee&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sti.pēl",
       "img": "",
       "pronunciation": "stˈɪpəl",
       "senses": [
@@ -619,12 +704,13 @@
       ]
     },
     {
-      "word": "streak",
+      "id": "6e5f8570-71f6-450c-b4d0-4a4aab7781a5",
+      "word": "to streak",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RyZWFr&hash=901affa2afc203d766a65e6a8d9bd3d6ccc14d34&lang=en&cache-only=0",
-      "phonetic_text": "stri:k",
+      "phonetic_text": "strik",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RyZWFr&hash=901affa2afc203d766a65e6a8d9bd3d6ccc14d34&lang=en&cache-only=0",
-      "phonetic_am_text": "streek",
+      "phonetic_am_text": "strik",
       "img": "",
       "pronunciation": "ˈstɹik",
       "senses": [
@@ -635,14 +721,15 @@
       ]
     },
     {
-      "word": "craft",
+      "id": "b539ee66-0a45-493e-ab10-50ab7f3e704f",
+      "word": "to craft",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3JhZnQ&hash=e269e494e8e787ba52baed9d7d36db6e2f458ca4&lang=en&cache-only=0",
       "phonetic_text": "kræft",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3JhZnQ&hash=e269e494e8e787ba52baed9d7d36db6e2f458ca4&lang=en&cache-only=0",
       "phonetic_am_text": "krāft",
       "img": "https://cdn.langeek.co/photo/31972/original/?type=jpeg",
-      "pronunciation": "ˈkɹæft",
+      "pronunciation": "kræft",
       "senses": [
         {
           "definition": "to skillfully make something, particularly with the hands",
@@ -668,7 +755,8 @@
       ]
     },
     {
-      "word": "create",
+      "id": "78191093-6d70-41e7-a1ee-adf359c434a5",
+      "word": "to create",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3JlYXRl&hash=add4ae58fec98328e28aa15bdcf35dc4976d4340&lang=en&cache-only=0",
       "phonetic_text": "krieɪt",
@@ -705,12 +793,13 @@
       ]
     },
     {
-      "word": "crisscross",
+      "id": "73519cb7-6775-479f-9467-eb61c0ddefa3",
+      "word": "to crisscross",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3Jpc3Njcm9zcw&hash=9ca7a68d4a43f217dabd7254ded75c023697ad79&lang=en&cache-only=0",
-      "phonetic_text": "krɪskrɔs",
+      "phonetic_text": "krɪsk.rɔs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3Jpc3Njcm9zcw&hash=9ca7a68d4a43f217dabd7254ded75c023697ad79&lang=en&cache-only=0",
-      "phonetic_am_text": "kriskraws",
+      "phonetic_am_text": "krisk.raws",
       "img": "",
       "pronunciation": "ˈkɹɪsˌkɹɔs",
       "senses": [
@@ -721,12 +810,13 @@
       ]
     },
     {
-      "word": "daub",
+      "id": "21c7af65-7877-4836-bc95-bfeda70fad10",
+      "word": "to daub",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGF1Yg&hash=eeaea4f83fac4f838b1eb7debabe5d37d1ea63cb&lang=en&cache-only=0",
-      "phonetic_text": "dɔ:b",
+      "phonetic_text": "dɔb",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGF1Yg&hash=eeaea4f83fac4f838b1eb7debabe5d37d1ea63cb&lang=en&cache-only=0",
-      "phonetic_am_text": "daawb",
+      "phonetic_am_text": "dawb",
       "img": "",
       "pronunciation": "ˈdɔb",
       "senses": [
@@ -758,12 +848,13 @@
       ]
     },
     {
-      "word": "delineate",
+      "id": "e9a7eec1-de23-4058-8d10-e54fdf0f413f",
+      "word": "to delineate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVsaW5lYXRl&hash=b0e7376fe388867dde0cd45cfb711a9f01ad2f48&lang=en&cache-only=0",
-      "phonetic_text": "dɪlɪnieɪt",
+      "phonetic_text": "dɪ.lɪ.nieɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVsaW5lYXRl&hash=b0e7376fe388867dde0cd45cfb711a9f01ad2f48&lang=en&cache-only=0",
-      "phonetic_am_text": "dilinieit",
+      "phonetic_am_text": "di.li.nieit",
       "img": "",
       "pronunciation": "dɪˈɫɪniˌeɪt",
       "senses": [
@@ -783,12 +874,13 @@
       ]
     },
     {
-      "word": "depict",
+      "id": "9c6d1c2c-33cb-4658-9d38-179b7753340b",
+      "word": "to depict",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVwaWN0&hash=56319b9b8745eacda3d7db389590ebcaf0828f5e&lang=en&cache-only=0",
-      "phonetic_text": "dɪpɪkt",
+      "phonetic_text": "dɪ.pɪkt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVwaWN0&hash=56319b9b8745eacda3d7db389590ebcaf0828f5e&lang=en&cache-only=0",
-      "phonetic_am_text": "dipikt",
+      "phonetic_am_text": "di.pikt",
       "img": "",
       "pronunciation": "dɪˈpɪkt",
       "senses": [
@@ -820,7 +912,8 @@
       ]
     },
     {
-      "word": "draft",
+      "id": "4147e25e-88de-475b-ac49-ce2771a0ac8f",
+      "word": "to draft",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJhZnQ&hash=f995e16debd5c89462c3c259511e9d4205f739ca&lang=en&cache-only=0",
       "phonetic_text": "dræft",
@@ -857,12 +950,13 @@
       ]
     },
     {
-      "word": "engrave",
+      "id": "04959568-fa15-488c-abce-4f74eb8ae561",
+      "word": "to engrave",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZW5ncmF2ZQ&hash=bd222626e982dc0ff95fbc9e5b6e10dac93c9c40&lang=en&cache-only=0",
-      "phonetic_text": "ɪngreɪv",
+      "phonetic_text": "ɛn.greɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZW5ncmF2ZQ&hash=bd222626e982dc0ff95fbc9e5b6e10dac93c9c40&lang=en&cache-only=0",
-      "phonetic_am_text": "ingreiv",
+      "phonetic_am_text": "en.greiv",
       "img": "https://cdn.langeek.co/photo/51194/original/?type=jpeg",
       "pronunciation": "ɪnˈɡɹeɪv",
       "senses": [
@@ -894,12 +988,13 @@
       ]
     },
     {
-      "word": "execute",
+      "id": "4cae079a-082f-4a7f-af80-a6b5701abc42",
+      "word": "to execute",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZXhlY3V0ZQ&hash=7e84ce7028a3d39381101d60d34c00d4dc782bed&lang=en&cache-only=0",
-      "phonetic_text": "ɛksəkjut",
+      "phonetic_text": "ɛk.sə.kjut",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZXhlY3V0ZQ&hash=7e84ce7028a3d39381101d60d34c00d4dc782bed&lang=en&cache-only=0",
-      "phonetic_am_text": "eksēkyut",
+      "phonetic_am_text": "ek.sē.kyoot",
       "img": "",
       "pronunciation": "ˈɛksəkˌjut",
       "senses": [
@@ -927,13 +1022,14 @@
       ]
     },
     {
-      "word": "formulate",
+      "id": "43f7eff8-f0c5-4ef7-8978-e5e7f4c9c6cf",
+      "word": "to formulate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZm9ybXVsYXRl&hash=1780c63630a73a55c51c24e9f914bb39923ff7a8&lang=en&cache-only=0",
-      "phonetic_text": "fɔ:rmjəleɪt",
+      "phonetic_text": "fɔrm.jə.leɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZm9ybXVsYXRl&hash=1780c63630a73a55c51c24e9f914bb39923ff7a8&lang=en&cache-only=0",
-      "phonetic_am_text": "faawrmyēleit",
-      "img": "https://cdn.langeek.co/photo/22766/original/?type=jpeg",
+      "phonetic_am_text": "fawrm.yē.leit",
+      "img": "https://cdn.langeek.co/photo/61204/original/?type=jpeg",
       "pronunciation": "ˈfɔɹmjəˌɫeɪt",
       "senses": [
         {
@@ -964,12 +1060,13 @@
       ]
     },
     {
-      "word": "imitate",
+      "id": "7af5f063-631a-4131-9817-8945a0a5a27e",
+      "word": "to imitate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW1pdGF0ZQ&hash=f16cc34b23b12c687b8171390e014eba8c42fd70&lang=en&cache-only=0",
-      "phonetic_text": "ɪməteɪt",
+      "phonetic_text": "ɪ.mə.teɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW1pdGF0ZQ&hash=f16cc34b23b12c687b8171390e014eba8c42fd70&lang=en&cache-only=0",
-      "phonetic_am_text": "imēteit",
+      "phonetic_am_text": "i.mē.teit",
       "img": "",
       "pronunciation": "ˈɪməˌteɪt",
       "senses": [
@@ -1001,12 +1098,13 @@
       ]
     },
     {
-      "word": "imprint",
+      "id": "4caf4191-d679-4b46-8f94-c914ede03568",
+      "word": "to imprint",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW1wcmludA&hash=f06ea24ff1dca283f5ada7de43999fd50321a212&lang=en&cache-only=0",
-      "phonetic_text": "ɪmprɪnt",
+      "phonetic_text": "ɪm.prɪnt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW1wcmludA&hash=f06ea24ff1dca283f5ada7de43999fd50321a212&lang=en&cache-only=0",
-      "phonetic_am_text": "imprint",
+      "phonetic_am_text": "im.print",
       "img": "https://cdn.langeek.co/photo/47160/original/?type=jpeg",
       "pronunciation": "ˈɪmpɹɪnt/, /ˌɪmˈpɹɪnt",
       "senses": [
@@ -1038,14 +1136,15 @@
       ]
     },
     {
-      "word": "mark",
+      "id": "6a5365e0-39ad-482e-95a0-2a85b4e21fc8",
+      "word": "to mark",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFyaw&hash=72101b8a7263ad8ff7bf2546814c35e27875c2e3&lang=en&cache-only=0",
-      "phonetic_text": "mɑ:rk",
+      "phonetic_text": "mɑrk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFyaw&hash=72101b8a7263ad8ff7bf2546814c35e27875c2e3&lang=en&cache-only=0",
       "phonetic_am_text": "maark",
-      "img": "https://cdn.langeek.co/photo/22475/original/?type=jpeg",
-      "pronunciation": "ˈmɑɹk",
+      "img": "https://cdn.langeek.co/photo/61076/original/?type=jpeg",
+      "pronunciation": "mɑrk",
       "senses": [
         {
           "definition": "to leave a sign, line, etc. on something",
@@ -1071,12 +1170,13 @@
       ]
     },
     {
-      "word": "mimic",
+      "id": "351f49c1-9865-4340-86d1-a7d88318d935",
+      "word": "to mimic",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWltaWM&hash=7a4072e7c595d6abcfed99888e5773a499eceada&lang=en&cache-only=0",
-      "phonetic_text": "mɪmɪk",
+      "phonetic_text": "mɪ.mɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWltaWM&hash=7a4072e7c595d6abcfed99888e5773a499eceada&lang=en&cache-only=0",
-      "phonetic_am_text": "mimik",
+      "phonetic_am_text": "mi.mik",
       "img": "https://cdn.langeek.co/photo/59278/original/?type=jpeg",
       "pronunciation": "ˈmɪmɪk",
       "senses": [
@@ -1108,14 +1208,15 @@
       ]
     },
     {
-      "word": "model",
+      "id": "7a686eb0-2c4a-47c1-9944-5d63b530e08a",
+      "word": "to model",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbW9kZWw&hash=5f918294689456dbcc9ca35e7a701670bfe71cda&lang=en&cache-only=0",
-      "phonetic_text": "mɑ:dəl",
+      "phonetic_text": "mɑ.dəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbW9kZWw&hash=5f918294689456dbcc9ca35e7a701670bfe71cda&lang=en&cache-only=0",
-      "phonetic_am_text": "maadēl",
+      "phonetic_am_text": "maa.dēl",
       "img": "https://cdn.langeek.co/photo/47608/original/?type=jpeg",
-      "pronunciation": "ˈmɑdəɫ",
+      "pronunciation": "ˈmɑdəl",
       "senses": [
         {
           "definition": "to create a smaller representation of something using wood, etc.",
@@ -1141,12 +1242,13 @@
       ]
     },
     {
-      "word": "originate",
+      "id": "3218e6a7-c491-49de-ae35-84fd83d2032e",
+      "word": "to originate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gb3JpZ2luYXRl&hash=e26130792392bcd2365b04aa5e7e68946e659b73&lang=en&cache-only=0",
-      "phonetic_text": "ərɪʤəneɪt",
+      "phonetic_text": "ɜ.rɪ.ʤə.neɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gb3JpZ2luYXRl&hash=e26130792392bcd2365b04aa5e7e68946e659b73&lang=en&cache-only=0",
-      "phonetic_am_text": "ērijēneit",
+      "phonetic_am_text": "ē.ri.jē.neit",
       "img": "",
       "pronunciation": "ɝˈɪdʒəˌneɪt",
       "senses": [
@@ -1178,12 +1280,13 @@
       ]
     },
     {
-      "word": "outline",
+      "id": "66937532-3eba-4ee0-acaf-77ef7262644a",
+      "word": "to outline",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gb3V0bGluZQ&hash=972523ddb928e9a8867502ec0ed641de2e2b9d5f&lang=en&cache-only=0",
-      "phonetic_text": "aʊtlaɪn",
+      "phonetic_text": "aʊt.laɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gb3V0bGluZQ&hash=972523ddb928e9a8867502ec0ed641de2e2b9d5f&lang=en&cache-only=0",
-      "phonetic_am_text": "awtlain",
+      "phonetic_am_text": "aoot.lain",
       "img": "",
       "pronunciation": "ˈaʊtˌɫaɪn",
       "senses": [
@@ -1215,12 +1318,13 @@
       ]
     },
     {
-      "word": "preserve",
+      "id": "9501c342-b41c-467c-988b-ba535fc478c6",
+      "word": "to preserve",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJlc2VydmU&hash=8b25eb18daf6195e2ae782e380c16f0c6225d433&lang=en&cache-only=0",
-      "phonetic_text": "prəzɜrv",
+      "phonetic_text": "prə.zɜrv",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJlc2VydmU&hash=8b25eb18daf6195e2ae782e380c16f0c6225d433&lang=en&cache-only=0",
-      "phonetic_am_text": "prēzērv",
+      "phonetic_am_text": "prē.zērv",
       "img": "https://cdn.langeek.co/photo/21167/original/?type=jpeg",
       "pronunciation": "pɹəˈzɝv/, /pɹiˈzɝv/, /pɹɪˈzɝv",
       "senses": [
@@ -1248,12 +1352,13 @@
       ]
     },
     {
-      "word": "recreate",
+      "id": "d91eec01-222e-44d1-a640-66a39b1f23d5",
+      "word": "to recreate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVjcmVhdGU&hash=85e866f54efe74f974b6ef0a8d865f43aed6e2b4&lang=en&cache-only=0",
-      "phonetic_text": "rɛkrieɪt",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVjcmVhdGU&hash=85e866f54efe74f974b6ef0a8d865f43aed6e2b4&lang=en&cache-only=0",
-      "phonetic_am_text": "rekrieit",
+      "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/59670/original/?type=jpeg",
       "pronunciation": "ˈɹɛkɹiˌeɪt/, /ɹikɹiˈeɪt",
       "senses": [
@@ -1285,12 +1390,13 @@
       ]
     },
     {
-      "word": "regenerate",
+      "id": "dc3ac5ea-c788-4efc-a776-50b4dc3d05c9",
+      "word": "to regenerate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVnZW5lcmF0ZQ&hash=c9c165c20ccf02ff2a75ec99194294bcb012e9d5&lang=en&cache-only=0",
-      "phonetic_text": "riʤɛnəreɪt",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVnZW5lcmF0ZQ&hash=c9c165c20ccf02ff2a75ec99194294bcb012e9d5&lang=en&cache-only=0",
-      "phonetic_am_text": "rijenēreit",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ɹiˈdʒɛnɝˌeɪt",
       "senses": [
@@ -1301,12 +1407,13 @@
       ]
     },
     {
-      "word": "visualize",
+      "id": "a88520a5-3162-4315-8677-9379a2b909b0",
+      "word": "to visualize",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdmlzdWFsaXpl&hash=d34bdea4c126c0c5467f9a2c851826629e8cd5e7&lang=en&cache-only=0",
-      "phonetic_text": "vɪʒwəlaɪz",
+      "phonetic_text": "vɪʒ.wə.laɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdmlzdWFsaXpl&hash=d34bdea4c126c0c5467f9a2c851826629e8cd5e7&lang=en&cache-only=0",
-      "phonetic_am_text": "vizhwēlaiz",
+      "phonetic_am_text": "vizh.vē.laiz",
       "img": "https://cdn.langeek.co/photo/28073/original/?type=jpeg",
       "pronunciation": "ˈvɪʒwəˌɫaɪz",
       "senses": [

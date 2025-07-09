@@ -1,111 +1,233 @@
 {
+  "id": "b186162d-1771-4597-a804-e8f54357130a",
   "topic": "c2_level",
   "title": "Education",
   "lesson": "lesson_68",
   "word_list": [
     {
+      "id": "60f885fb-cbec-4526-a0a4-a052e6c3152a",
       "word": "sorority",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c29yb3JpdHk&hash=3628f08aacf58a50bed15d2c291cc0df1db430fe&lang=en&cache-only=0",
-      "phonetic_text": "sərɔ:rəti",
+      "phonetic_text": "sɜ.rɔ.rə.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=c29yb3JpdHk&hash=3628f08aacf58a50bed15d2c291cc0df1db430fe&lang=en&cache-only=0",
-      "phonetic_am_text": "sēraawrēti",
+      "phonetic_am_text": "sē.raw.rē.ti",
       "img": "",
       "pronunciation": "sɝˈɔɹəti",
       "senses": [
         {
           "definition": "a social club for female students in a university or college, especially in the US and Canada",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Joining a sorority can provide students with opportunities for leadership, friendship, and community service."
+            },
+            {
+              "cf": "",
+              "x": "Sororities often organize social events, philanthropic activities, and academic support programs for their members."
+            },
+            {
+              "cf": "",
+              "x": "Membership in a sorority can create lifelong bonds and connections with other women who share similar values and interests."
+            },
+            {
+              "cf": "",
+              "x": "Sorority houses serve as hubs for social gatherings and group activities, fostering a sense of belonging among members."
+            },
+            {
+              "cf": "",
+              "x": "Sorority recruitment is a competitive process where potential new members visit different chapters to find the one that best fits their personality and goals."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "22b54970-43d9-46f5-a491-66bc66836413",
       "word": "fraternity",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnJhdGVybml0eQ&hash=7d32488e61ee18856990715076c7b1434c9965af&lang=en&cache-only=0",
-      "phonetic_text": "frətɜrnəti",
+      "phonetic_text": "frə.tɜr.nə.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJhdGVybml0eQ&hash=7d32488e61ee18856990715076c7b1434c9965af&lang=en&cache-only=0",
-      "phonetic_am_text": "frētērnēti",
+      "phonetic_am_text": "frē.tēr.nē.ti",
       "img": "",
       "pronunciation": "fɹəˈtɝnəti/, /fɹəˈtɝnɪti",
       "senses": [
         {
           "definition": "a social club for male students in a university or college, especially in the US and Canada",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He pledged to join a fraternity during his freshman year at university."
+            },
+            {
+              "cf": "",
+              "x": "The fraternity hosted a charity event to raise funds for a local cause."
+            },
+            {
+              "cf": "",
+              "x": "Members of the fraternity often lived together in a shared house near campus."
+            },
+            {
+              "cf": "",
+              "x": "The fraternity held regular social events, including parties and barbecues."
+            },
+            {
+              "cf": "",
+              "x": "He formed lifelong friendships through his involvement in the fraternity during his college years."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "8657ecd7-6fc5-43e0-8bcd-cf4a735bf301",
       "word": "alumnus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWx1bW51cw&hash=afbd575f83e1b42e83238b48e57c94416ce6b718&lang=en&cache-only=0",
-      "phonetic_text": "əlʌmnəs",
+      "phonetic_text": "ə.ləm.nəs",
       "phonetic_am": "https://tts.langeek.co/read?text=YWx1bW51cw&hash=afbd575f83e1b42e83238b48e57c94416ce6b718&lang=en&cache-only=0",
-      "phonetic_am_text": "ēlamnēs",
+      "phonetic_am_text": "ē.lēm.nēs",
       "img": "",
       "pronunciation": "əˈɫəmnəs",
       "senses": [
         {
           "definition": "a person, particularly a male one, who is a former student of a college, university, or school",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The university recognized John Smith as an outstanding alumnus for his contributions to the field of medicine."
+            },
+            {
+              "cf": "",
+              "x": "As an alumnus of Harvard University, she remains actively involved in alumni events and fundraising efforts."
+            },
+            {
+              "cf": "",
+              "x": "The alumni association organizes networking opportunities and social events to keep alumnus connected with their alma mater."
+            },
+            {
+              "cf": "",
+              "x": "After graduation, he became a successful entrepreneur, making his alma mater proud of their accomplished alumnus."
+            },
+            {
+              "cf": "",
+              "x": "The university's newsletter features stories about notable alumni, celebrating their achievements and contributions to society."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "5c9c8faa-2def-436d-9323-2b7aee54f4a5",
       "word": "alumna",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWx1bW5h&hash=fc2a979f8183a0f87f0d53503f04f720e265c088&lang=en&cache-only=0",
-      "phonetic_text": "əlʌmnə",
+      "phonetic_text": "ə.ləm.nə",
       "phonetic_am": "https://tts.langeek.co/read?text=YWx1bW5h&hash=fc2a979f8183a0f87f0d53503f04f720e265c088&lang=en&cache-only=0",
-      "phonetic_am_text": "ēlamnē",
+      "phonetic_am_text": "ē.lēm.nē",
       "img": "https://cdn.langeek.co/photo/29404/original/graduation?type=jpeg",
       "pronunciation": "əˈɫəmnə",
       "senses": [
         {
           "definition": "a former female student or pupil of a school, university, or college",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The university honored Jane Doe as an exceptional alumna for her achievements in the field of engineering."
+            },
+            {
+              "cf": "",
+              "x": "As an alumna of Yale University, she remains actively engaged in mentoring programs for current students."
+            },
+            {
+              "cf": "",
+              "x": "She returned to campus as a guest speaker, inspiring current students with her experiences as a successful alumna."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f708f698-03f2-43d3-bd19-f38eaae76287",
       "word": "commencement",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29tbWVuY2VtZW50&hash=85efc755f6399cba508c0c4b368c30de6437781a&lang=en&cache-only=0",
-      "phonetic_text": "kəmɛnsmənt",
+      "phonetic_text": "kə.mɛn.smənt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tbWVuY2VtZW50&hash=85efc755f6399cba508c0c4b368c30de6437781a&lang=en&cache-only=0",
-      "phonetic_am_text": "kēmensmēnt",
+      "phonetic_am_text": "kē.men.smēnt",
       "img": "",
       "pronunciation": "kəˈmɛnsmənt",
       "senses": [
         {
           "definition": "a formal ceremony marking the completion of an academic program, typically involving the awarding of diplomas or degrees to students who have successfully completed their studies",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Families gathered to witness the commencement of their loved ones as they received their diplomas."
+            },
+            {
+              "cf": "",
+              "x": "The commencement stage was adorned with flowers and banners, creating a festive atmosphere for the graduating students."
+            },
+            {
+              "cf": "",
+              "x": "The commencement program included speeches, musical performances, and the official conferring of degrees."
+            },
+            {
+              "cf": "",
+              "x": "Graduates felt a sense of accomplishment and pride as they walked across the stage during the commencement procession."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "d57da033-d2d9-4d87-897a-d4996ac9a6c9",
       "word": "endowment",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZW5kb3dtZW50&hash=98854239957b44ef8d711aabcdba7bd84c1188fe&lang=en&cache-only=0",
-      "phonetic_text": "ɛndaʊmənt",
+      "phonetic_text": "ɛn.daʊ.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZW5kb3dtZW50&hash=98854239957b44ef8d711aabcdba7bd84c1188fe&lang=en&cache-only=0",
-      "phonetic_am_text": "endawmēnt",
+      "phonetic_am_text": "en.daoo.mēnt",
       "img": "",
       "pronunciation": "ɛnˈdaʊmənt",
       "senses": [
         {
           "definition": "a financial contribution or asset given to support specific purposes, like education or charitable activities",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The university used a significant endowment to establish a scholarship fund for deserving students."
+            },
+            {
+              "cf": "",
+              "x": "The cultural institution relied on its endowment to finance ongoing art exhibitions and programs."
+            },
+            {
+              "cf": "",
+              "x": "The museum's acquisitions were made possible through a combination of grants and endowments."
+            },
+            {
+              "cf": "",
+              "x": "The library's endowment allowed for the expansion of its collection and digital resources."
+            },
+            {
+              "cf": "",
+              "x": "The school used its endowment to enhance facilities and offer extracurricular programs."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c47bb80e-3251-4ed2-b5ec-f13ea162f291",
       "word": "dean",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVhbg&hash=fa4c6aa5dd0a8bddbe3d71b67abec00e347dfc85&lang=en&cache-only=0",
-      "phonetic_text": "di:n",
+      "phonetic_text": "din",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVhbg&hash=fa4c6aa5dd0a8bddbe3d71b67abec00e347dfc85&lang=en&cache-only=0",
-      "phonetic_am_text": "deen",
+      "phonetic_am_text": "din",
       "img": "",
       "pronunciation": "ˈdin",
       "senses": [
@@ -133,12 +255,13 @@
       ]
     },
     {
+      "id": "b149b977-574d-4d78-a291-4582eee61d46",
       "word": "grade point average",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JhZGUgcG9pbnQgYXZlcmFnZQ&hash=65e50bcd3d41c69a54629310edd3057bd2e2a26b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "greɪd pɔɪnt æ.və.rɪʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JhZGUgcG9pbnQgYXZlcmFnZQ&hash=65e50bcd3d41c69a54629310edd3057bd2e2a26b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "greid pawint ā.vē.rij",
       "img": "",
       "pronunciation": "dʒˌiːpˌiːˈeɪ",
       "senses": [
@@ -170,70 +293,147 @@
       ]
     },
     {
+      "id": "6390eeda-51de-4b7b-819e-49b000abf21f",
       "word": "exeat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXhlYXQ&hash=220b24446866b9b7b5c36612aa473a75bb8f2ee5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛ.gzi:t",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXhlYXQ&hash=220b24446866b9b7b5c36612aa473a75bb8f2ee5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "e.gzit",
       "img": "",
       "pronunciation": "ɛɡzˈiːt",
       "senses": [
         {
           "definition": "a formal permission to be absent, especially from a school or other institution",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The boarding school granted him an exeat, allowing him to leave campus for the weekend to visit his family."
+            },
+            {
+              "cf": "",
+              "x": "Students must obtain permission from the school administration before taking an exeat to leave campus during term time."
+            },
+            {
+              "cf": "",
+              "x": "The parents signed their child's exeat form, indicating approval for them to attend a special event off campus."
+            },
+            {
+              "cf": "",
+              "x": "Exeats are typically granted for specific purposes, such as medical appointments or family emergencies."
+            },
+            {
+              "cf": "",
+              "x": "Upon returning from their exeat, students are required to sign back in at the school's reception desk."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "447629b2-387e-4b31-9a5d-e15e86c88bb1",
       "word": "valedictorian",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmFsZWRpY3Rvcmlhbg&hash=43f409ba5a9a8a184d6fe1340b82d2b34c2f1613&lang=en&cache-only=0",
-      "phonetic_text": "vælədɪktɔ:riən",
+      "phonetic_text": "væ.lə.dɪk.tɔ.riən",
       "phonetic_am": "https://tts.langeek.co/read?text=dmFsZWRpY3Rvcmlhbg&hash=43f409ba5a9a8a184d6fe1340b82d2b34c2f1613&lang=en&cache-only=0",
-      "phonetic_am_text": "vālēdiktaawriēn",
+      "phonetic_am_text": "vā.lē.dik.taw.riēn",
       "img": "",
       "pronunciation": "ˌvæɫəˌdɪkˈtɔɹiən",
       "senses": [
         {
           "definition": "an elite student with the highest grade throughout school that gets chosen to give a speech at their graduation ceremony",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The valedictorian delivered an inspiring speech at the commencement ceremony, reflecting on the journey of the graduating class."
+            },
+            {
+              "cf": "",
+              "x": "The valedictorian's speech resonated with her classmates, who applauded her accomplishments and words of wisdom."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f6701152-60b3-4f9b-8ea9-cba1284df669",
       "word": "demerit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVtZXJpdA&hash=86df2792ab88c70350f9d505746c982dfdee6945&lang=en&cache-only=0",
-      "phonetic_text": "dimɛrət",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVtZXJpdA&hash=86df2792ab88c70350f9d505746c982dfdee6945&lang=en&cache-only=0",
-      "phonetic_am_text": "dimerēt",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "diˈmɛɹət",
       "senses": [
         {
           "definition": "a point against someone for a fault or wrongdoing, often used in educational or disciplinary contexts",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The student received a demerit for consistently arriving late to class."
+            },
+            {
+              "cf": "",
+              "x": "Demerits were assigned to individuals who violated the school's dress code policy."
+            },
+            {
+              "cf": "",
+              "x": "Talking during a test resulted in demerits for several students in the examination hall."
+            },
+            {
+              "cf": "",
+              "x": "Repeated use of inappropriate language led to demerits for the offender in the workplace."
+            },
+            {
+              "cf": "",
+              "x": "The demerit system was implemented to discourage disruptive behavior in the classroom."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "cba53040-7e67-4f40-b554-6e67d1dc69c1",
       "word": "colloquium",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29sbG9xdWl1bQ&hash=934336b33da77f5d28ae06457c05e4401fb56055&lang=en&cache-only=0",
-      "phonetic_text": "kəloʊkwiəm",
+      "phonetic_text": "kə.loʊ.kwiəm",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29sbG9xdWl1bQ&hash=934336b33da77f5d28ae06457c05e4401fb56055&lang=en&cache-only=0",
-      "phonetic_am_text": "kēlowkwiēm",
+      "phonetic_am_text": "kē.looo.kviēm",
       "img": "",
       "pronunciation": "kəˈɫoʊkwiəm",
       "senses": [
         {
           "definition": "a formal and academic conference or seminar",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The university hosted a colloquium on environmental sustainability, featuring presentations from experts in the field."
+            },
+            {
+              "cf": "",
+              "x": "Attendance at the colloquium was required for graduate students in the department, as it provided valuable insights into current research trends."
+            },
+            {
+              "cf": "",
+              "x": "The colloquium served as a platform for scholars to exchange ideas and engage in interdisciplinary dialogue."
+            },
+            {
+              "cf": "",
+              "x": "The keynote speaker delivered a compelling address at the colloquium, highlighting emerging challenges and opportunities in the field."
+            },
+            {
+              "cf": "",
+              "x": "Participants at the colloquium were invited to submit papers for consideration in the upcoming academic journal special issue."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "d8525206-bb6b-4d23-a80f-5a07ded0f597",
       "word": "crib",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3JpYg&hash=06ad5686a12bda6b1a3431ac4eae5ece5d958784&lang=en&cache-only=0",
@@ -245,204 +445,474 @@
       "senses": [
         {
           "definition": "a translation or paraphrase of a literary work, often used for study or reference",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The student consulted a Shakespearean crib to better understand the complex language of the play."
+            },
+            {
+              "cf": "",
+              "x": "The language learner used a bilingual crib to aid in understanding the nuances of the foreign text."
+            },
+            {
+              "cf": "",
+              "x": "The literature professor encouraged students to create cribs as study aids for challenging texts."
+            },
+            {
+              "cf": "",
+              "x": "The historian relied on ancient manuscripts as a crib for deciphering historical events."
+            },
+            {
+              "cf": "",
+              "x": "As a teaching tool, the educator provided cribs to help students grasp the meaning of complex poetry."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c35808e5-bcac-44a3-b67c-3e1c6457fad1",
       "word": "practicum",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJhY3RpY3Vt&hash=c9cb3e5afa6ea78d82528b62ec88a698957f284e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "præk.tɪ.kəm",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJhY3RpY3Vt&hash=c9cb3e5afa6ea78d82528b62ec88a698957f284e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "prāk.ti.kēm",
       "img": "",
       "pronunciation": "pɹˈæktɪkəm",
       "senses": [
         {
           "definition": "a supervised practical experience or training period, often part of an academic course, allowing students to apply theoretical knowledge in real-world settings",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "As part of her education program, Sarah completed a practicum at a local elementary school, gaining valuable teaching experience."
+            },
+            {
+              "cf": "",
+              "x": "The practicum provided hands-on training in clinical settings, allowing students to apply theoretical knowledge to real-life situations."
+            },
+            {
+              "cf": "",
+              "x": "Participants in the counseling program are required to complete a practicum under the supervision of licensed professionals."
+            },
+            {
+              "cf": "",
+              "x": "The practicum coordinator assists students in securing placements and oversees their progress throughout the experience."
+            },
+            {
+              "cf": "",
+              "x": "Successful completion of the practicum is a prerequisite for graduation in many professional programs, ensuring that students are prepared for their future careers."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7da5f6b8-e924-43eb-b66b-757a06b6281a",
       "word": "bursary",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVyc2FyeQ&hash=0dcb8fdd100063da51bb601bf011e19e344db231&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɜ:.sə.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVyc2FyeQ&hash=0dcb8fdd100063da51bb601bf011e19e344db231&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bē.sē.ri",
       "img": "",
-      "pronunciation": "bˈɜːsɚɹi",
+      "pronunciation": "ˈbɝsəri",
       "senses": [
         {
           "definition": "a financial grant or scholarship typically awarded to support a student's education",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The university awarded a bursary to the student who demonstrated exceptional academic achievement."
+            },
+            {
+              "cf": "",
+              "x": "The foundation's generous bursary covered the cost of textbooks and other necessary supplies for the recipient."
+            },
+            {
+              "cf": "",
+              "x": "The aspiring artist received a bursary to attend an esteemed art school and nurture their creative talents."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a5889988-8e90-42a2-8f6a-e67cd39b31d9",
       "word": "matriculation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWF0cmljdWxhdGlvbg&hash=7fabe44aa761a7ff212232075fb22770495a9c49&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mæt.rɪ.kjʊ.leɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=bWF0cmljdWxhdGlvbg&hash=7fabe44aa761a7ff212232075fb22770495a9c49&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "māt.ri.kyoo.lei.shēn",
       "img": "",
       "pronunciation": "mˌætɹɪkjʊlˈeɪʃən",
       "senses": [
         {
           "definition": "the formal enrollment process at a university or college",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Have you finished your matriculation yet?"
+            },
+            {
+              "cf": "",
+              "x": "Matriculation confirms your acceptance to the institution."
+            },
+            {
+              "cf": "",
+              "x": "I completed my matriculation last week."
+            },
+            {
+              "cf": "",
+              "x": "Students must complete matriculation before starting courses."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b2e8b3ea-f5e8-4b1f-a676-fe9035e4146c",
       "word": "pedant",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVkYW50&hash=a74576175c344bb60725f79403d753b37f09ce0b&lang=en&cache-only=0",
-      "phonetic_text": "pɛdənt",
+      "phonetic_text": "pɛ.dənt",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVkYW50&hash=a74576175c344bb60725f79403d753b37f09ce0b&lang=en&cache-only=0",
-      "phonetic_am_text": "pedēnt",
+      "phonetic_am_text": "pe.dēnt",
       "img": "",
       "pronunciation": "ˈpɛdənt",
       "senses": [
         {
           "definition": "a person who overly emphasizes minor details or rules, often displaying a pretentious or excessive concern for academic correctness",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The pedant corrected everyone's grammar in class."
+            },
+            {
+              "cf": "",
+              "x": "Don't be such a pedant about punctuation."
+            },
+            {
+              "cf": "",
+              "x": "He's such a pedant when it comes to citing sources."
+            },
+            {
+              "cf": "",
+              "x": "Being a pedant can sometimes alienate others."
+            },
+            {
+              "cf": "",
+              "x": "The pedant couldn't resist pointing out the smallest errors."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "afd5642c-9bfa-4229-b065-913b85f4161d",
       "word": "monograph",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9ub2dyYXBo&hash=3798f683143ff58d29257eaf4c1b42508f3054da&lang=en&cache-only=0",
-      "phonetic_text": "mɑ:nəgræf",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9ub2dyYXBo&hash=3798f683143ff58d29257eaf4c1b42508f3054da&lang=en&cache-only=0",
-      "phonetic_am_text": "maanēgrāf",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˈmɑnəˌɡɹæf",
       "senses": [
         {
           "definition": "a detailed written account of a particular subject, usually in the format of a short book",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Libraries often house monographs that delve deep into niche subjects, providing invaluable resources for researchers."
+            },
+            {
+              "cf": "",
+              "x": "The professor's monograph on ancient Roman pottery is considered a seminal work in the field."
+            },
+            {
+              "cf": "",
+              "x": "Dr. Smith published a monograph on the history of ancient civilizations, which has become a seminal work in the field."
+            },
+            {
+              "cf": "",
+              "x": "The scholar spent years researching and writing her monograph on medieval literature, delving into previously unexplored aspects of the subject."
+            },
+            {
+              "cf": "",
+              "x": "The monograph provides a comprehensive overview of the artist's oeuvre, accompanied by detailed analyses of key works."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "eebb9610-7f90-4206-b600-09c8432c39a6",
       "word": "prodigy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvZGlneQ&hash=7af6b0e2e242eb8fe4987dc0fcc16a0c8f03d01d&lang=en&cache-only=0",
-      "phonetic_text": "prɑ:dəʤi",
+      "phonetic_text": "prɑ.də.ʤi",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvZGlneQ&hash=7af6b0e2e242eb8fe4987dc0fcc16a0c8f03d01d&lang=en&cache-only=0",
-      "phonetic_am_text": "praadēji",
+      "phonetic_am_text": "praa.dē.ji",
       "img": "",
       "pronunciation": "ˈpɹɑdədʒi",
       "senses": [
         {
           "definition": "a person, typically a child, who demonstrates exceptional talent or ability in a particular area, often beyond what is considered normal for their age",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The young pianist was a musical prodigy, performing at concerts by age six."
+            },
+            {
+              "cf": "",
+              "x": "Scientists called her a prodigy after she solved complex equations as a teenager."
+            },
+            {
+              "cf": "",
+              "x": "The chess prodigy defeated experienced grandmasters before turning ten."
+            },
+            {
+              "cf": "",
+              "x": "His parents recognized he was a prodigy when he started composing music at five."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "19e90c73-96db-46a6-92f4-259928d2c742",
       "word": "conservatory",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29uc2VydmF0b3J5&hash=dca128942d06a7a2a264890bf1641707055dfcfd&lang=en&cache-only=0",
-      "phonetic_text": "kənsɜrvətɔri",
+      "phonetic_text": "kən.sɜr.və.tɔ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uc2VydmF0b3J5&hash=dca128942d06a7a2a264890bf1641707055dfcfd&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnsērvētawri",
+      "phonetic_am_text": "kēn.sēr.vē.taw.ri",
       "img": "",
       "pronunciation": "kənˈsɝvətɔɹi",
       "senses": [
         {
           "definition": "a school or college that people attend to for studying music, theater, or some other form of art",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The renowned conservatory offered intensive training programs in classical music, dance, and theater, attracting talented students from around the world."
+            },
+            {
+              "cf": "",
+              "x": "She auditioned for admission to the prestigious conservatory, hoping to pursue her passion for acting and hone her skills under renowned instructors."
+            },
+            {
+              "cf": "",
+              "x": "The conservatory's curriculum emphasized not only technical proficiency but also creativity and artistic expression, fostering a well-rounded education for aspiring performers."
+            },
+            {
+              "cf": "",
+              "x": "Graduates of the conservatory went on to achieve success in their respective fields, landing leading roles on Broadway, performing with top orchestras, and exhibiting their artwork in galleries worldwide."
+            },
+            {
+              "cf": "",
+              "x": "As a faculty member at the conservatory, he was dedicated to nurturing the next generation of artists and instilling in them a deep appreciation for their craft."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "d78ff039-22eb-478e-9f64-8d1d6e64e0fd",
       "word": "didactics",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlkYWN0aWNz&hash=f0983cce7cdddf29635a9418bf4ab1ca91169d38&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɪ.dæk.tɪks",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlkYWN0aWNz&hash=f0983cce7cdddf29635a9418bf4ab1ca91169d38&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "di.dāk.tiks",
       "img": "https://cdn.langeek.co/photo/19989/original/education?type=jpeg",
       "pronunciation": "dɪdˈæktɪks",
       "senses": [
         {
           "definition": "the practice of teaching and its methods",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The course focused on the didactics of mathematics teaching."
+            },
+            {
+              "cf": "",
+              "x": "She studied didactics to improve her teaching skills."
+            },
+            {
+              "cf": "",
+              "x": "Didactics involves planning effective lessons."
+            },
+            {
+              "cf": "",
+              "x": "Teachers receive training in didactics during their education."
+            },
+            {
+              "cf": "",
+              "x": "The book offers practical advice on classroom didactics."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7b51e443-e1e2-4e76-be95-fa3c17308f15",
       "word": "ratiocination",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmF0aW9jaW5hdGlvbg&hash=7a2023436fa8234614cb6f6b28b460795f5309a3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ræ.tɪɑ:.si.neɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=cmF0aW9jaW5hdGlvbg&hash=7a2023436fa8234614cb6f6b28b460795f5309a3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rā.tiaa.si.nei.shēn",
       "img": "",
       "pronunciation": "ɹˌæɾɪˌɑːsᵻnˈeɪʃən",
       "senses": [
         {
           "definition": "the process of logical thinking or reasoning",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Sherlock Holmes's keen ratiocination enabled him to solve even the most perplexing mysteries."
+            },
+            {
+              "cf": "",
+              "x": "The detective's ratiocination led him to deduce the identity of the culprit based on careful analysis of the evidence."
+            },
+            {
+              "cf": "",
+              "x": "Ratiocination is an essential skill for scientists, allowing them to formulate hypotheses and draw logical conclusions from experimental data."
+            },
+            {
+              "cf": "",
+              "x": "The philosopher's ratiocination challenged conventional wisdom, leading to groundbreaking insights into the nature of reality."
+            },
+            {
+              "cf": "",
+              "x": "Students are encouraged to develop their ratiocination skills through exercises in critical thinking and problem-solving."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "flunk",
+      "id": "d7fb48e1-ce73-47be-a3a7-75a8b127e9a6",
+      "word": "to flunk",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmx1bms&hash=2d7a49ad247b4c7aa88720670a02ab1614d95b8b&lang=en&cache-only=0",
-      "phonetic_text": "flʌnk",
+      "phonetic_text": "flənk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmx1bms&hash=2d7a49ad247b4c7aa88720670a02ab1614d95b8b&lang=en&cache-only=0",
-      "phonetic_am_text": "flank",
+      "phonetic_am_text": "flēnk",
       "img": "https://cdn.langeek.co/photo/22249/original/?type=jpeg",
       "pronunciation": "ˈfɫəŋk",
       "senses": [
         {
           "definition": "to fail in reaching the required standard to succeed in a test, course of study, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Despite studying hard, he unfortunately flunked the math exam."
+            },
+            {
+              "cf": "",
+              "x": "If students don't complete their assignments, they may flunk the course."
+            },
+            {
+              "cf": "",
+              "x": "Without proper preparation, it's easy to flunk a challenging subject in school."
+            },
+            {
+              "cf": "",
+              "x": "The lack of attendance and effort caused several students to flunk the class."
+            },
+            {
+              "cf": "",
+              "x": "Failing to submit the project on time could lead to a decision to flunk the course."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "invigilate",
+      "id": "1b83d20c-8792-43ab-8171-226defebe2e5",
+      "word": "to invigilate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW52aWdpbGF0ZQ&hash=9f7e087ba1d8b970533acc226b8bb0513b263381&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn.vɪ.ʤi.leɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW52aWdpbGF0ZQ&hash=9f7e087ba1d8b970533acc226b8bb0513b263381&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in.vi.ji.leit",
       "img": "",
       "pronunciation": "ɪnvˈɪdʒᵻlˌeɪt",
       "senses": [
         {
           "definition": "to monitor, especially during an examination, to ensure that rules are followed and cheating is prevented",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The teacher was assigned to invigilate the final exams to ensure a fair testing environment."
+            },
+            {
+              "cf": "",
+              "x": "During the standardized test, several proctors were present to invigilate and prevent any instances of cheating."
+            },
+            {
+              "cf": "",
+              "x": "The strict professor invigilated the quiz, closely observing students to prevent any unauthorized assistance."
+            },
+            {
+              "cf": "",
+              "x": "The school implemented a rotational system for teachers to invigilate different exams throughout the semester."
+            },
+            {
+              "cf": "",
+              "x": "Online exams were invigilated using specialized software to detect any irregularities or cheating."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "scrutinize",
+      "id": "5e4b4669-5c75-4aea-9a38-ccacf877bb52",
+      "word": "to scrutinize",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NydXRpbml6ZQ&hash=d50fc25c368bd2bb396a29c1e1b8b94ab8aed42c&lang=en&cache-only=0",
-      "phonetic_text": "skru:tənaɪz",
+      "phonetic_text": "skru.tə.naɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NydXRpbml6ZQ&hash=d50fc25c368bd2bb396a29c1e1b8b94ab8aed42c&lang=en&cache-only=0",
-      "phonetic_am_text": "skrootēnaiz",
+      "phonetic_am_text": "skroo.tē.naiz",
       "img": "https://cdn.langeek.co/photo/53274/original/?type=jpeg",
       "pronunciation": "ˈskɹutəˌnaɪz",
       "senses": [
         {
           "definition": "to examine something closely and carefully in order to find errors",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Inspectors scrutinized the company's financial records to find any errors."
+            },
+            {
+              "cf": "",
+              "x": "The editor scrutinized the text to ensure it was free of any grammatical errors."
+            },
+            {
+              "cf": "",
+              "x": "Software specialists scrutinized the code to find any existing bugs."
+            },
+            {
+              "cf": "",
+              "x": "Opponents scrutinized the new bill to find its flaws."
+            },
+            {
+              "cf": "",
+              "x": "The customs officer scrutinized the passenger's suitcase to ensure they weren't carrying any contraband."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "ditch",
+      "id": "165ca158-8a45-41d0-84af-819866679e6e",
+      "word": "to ditch",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGl0Y2g&hash=af0a88a3a1c75c2a781d96320cccc682a3004986&lang=en&cache-only=0",
       "phonetic_text": "dɪʧ",
@@ -458,50 +928,112 @@
       ]
     },
     {
+      "id": "a10693c3-20a9-4b74-a0e7-0abaa99386d2",
       "word": "interdisciplinary",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aW50ZXJkaXNjaXBsaW5hcnk&hash=196ef87214a9fff4b365f0adedab6c11c1c5efca&lang=en&cache-only=0",
-      "phonetic_text": "ɪntərdɪsəplənɛri",
+      "phonetic_text": "ɪn.tɜr.dɪs.əp.lə.nɛ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=aW50ZXJkaXNjaXBsaW5hcnk&hash=196ef87214a9fff4b365f0adedab6c11c1c5efca&lang=en&cache-only=0",
-      "phonetic_am_text": "intērdisēplēneri",
+      "phonetic_am_text": "in.tēr.dis.ēp.lē.ne.ri",
       "img": "",
       "pronunciation": "ˌɪntɝˈdɪsəpɫəˌnɛɹi",
       "senses": [
         {
           "definition": "involving or combining multiple academic disciplines or fields of study",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The research project was interdisciplinary, drawing on expertise from fields such as biology, chemistry, and engineering."
+            },
+            {
+              "cf": "",
+              "x": "The interdisciplinary approach to environmental studies included input from ecologists, economists, and sociologists."
+            },
+            {
+              "cf": "",
+              "x": "The conference brought together scholars from various disciplines for an interdisciplinary discussion on artificial intelligence."
+            },
+            {
+              "cf": "",
+              "x": "The university introduced an interdisciplinary major, allowing students to combine courses from different departments to pursue a customized academic path."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "04b532a8-d911-43e6-956c-c7f20631512a",
       "word": "esoteric",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZXNvdGVyaWM&hash=df312c5f899b4ab598b60fb09d6210c5d04e7b9c&lang=en&cache-only=0",
-      "phonetic_text": "ɛsətɛrɪk",
+      "phonetic_text": "ɛ.sə.tɛ.rɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXNvdGVyaWM&hash=df312c5f899b4ab598b60fb09d6210c5d04e7b9c&lang=en&cache-only=0",
-      "phonetic_am_text": "esēterik",
+      "phonetic_am_text": "e.sē.te.rik",
       "img": "https://cdn.langeek.co/photo/45675/original/?type=jpeg",
       "pronunciation": "ˌɛsəˈtɛɹɪk/, /ˌɛsoʊˈtɛɹɪk",
       "senses": [
         {
           "definition": "intended for or understood by only a small, specialized group, often due to complexity",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The professor's esoteric lecture on philosophy was difficult for most students to follow."
+            },
+            {
+              "cf": "",
+              "x": "The book explored esoteric concepts that only advanced practitioners could appreciate."
+            },
+            {
+              "cf": "",
+              "x": "His esoteric knowledge of ancient languages fascinated the scholars in the field."
+            },
+            {
+              "cf": "",
+              "x": "The artist's work was filled with esoteric symbols known only to a few."
+            },
+            {
+              "cf": "",
+              "x": "The discussion became esoteric, delving into topics that only experts could fully grasp."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "cc46fcd4-21e3-4fe9-ba4f-d8d7f0e9a7a8",
       "word": "didactic",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZGlkYWN0aWM&hash=f7e60c8fc4e48160faa4763d8656f254da5b5d6f&lang=en&cache-only=0",
-      "phonetic_text": "daɪdæktɪk",
+      "phonetic_text": "daɪ.dæk.tɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlkYWN0aWM&hash=f7e60c8fc4e48160faa4763d8656f254da5b5d6f&lang=en&cache-only=0",
-      "phonetic_am_text": "daidāktik",
+      "phonetic_am_text": "dai.dāk.tik",
       "img": "",
       "pronunciation": "daɪˈdæktɪk",
       "senses": [
         {
           "definition": "aiming to teach a moral lesson",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The professor's lectures were highly didactic, providing students with valuable insights into the subject matter."
+            },
+            {
+              "cf": "",
+              "x": "The children's book was not only entertaining but also had a didactic purpose, teaching important life lessons."
+            },
+            {
+              "cf": "",
+              "x": "Some critics argue that the film's message was too didactic, overshadowing its artistic merits."
+            },
+            {
+              "cf": "",
+              "x": "The didactic nature of the workshop helped participants gain a deeper understanding of the topic."
+            },
+            {
+              "cf": "",
+              "x": "While some enjoy didactic literature for its educational value, others prefer works that focus more on storytelling and character development."
+            }
+          ]
         }
       ]
     }

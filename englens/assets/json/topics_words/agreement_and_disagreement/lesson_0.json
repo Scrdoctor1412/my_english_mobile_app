@@ -1,17 +1,19 @@
 {
+  "id": "1e16627f-f5d5-46bb-bbc5-14c8a171b856",
   "topic": "agreement_and_disagreement",
   "title": "Agreement",
   "lesson": "lesson_0",
   "word_list": [
     {
+      "id": "f404020c-9868-4d50-9f29-6e8339e03705",
       "word": "absolutely",
-      "pos": "adverb",
+      "pos": "interjection",
       "phonetic": "https://tts.langeek.co/read?text=YWJzb2x1dGVseQ&hash=5f2b274d530b8fd8f80ac7a414ff0422bca83e7b&lang=en&cache-only=0",
-      "phonetic_text": "æbsəlu:tli",
+      "phonetic_text": "æb.sə.lut.li",
       "phonetic_am": "https://tts.langeek.co/read?text=YWJzb2x1dGVseQ&hash=5f2b274d530b8fd8f80ac7a414ff0422bca83e7b&lang=en&cache-only=0",
-      "phonetic_am_text": "ābsēlootli",
+      "phonetic_am_text": "āb.sē.loot.li",
       "img": "https://cdn.langeek.co/photo/35694/original/ok?type=jpeg",
-      "pronunciation": "ˌæbsəˈɫutɫi",
+      "pronunciation": "ˌæbsəˈluːtli",
       "senses": [
         {
           "definition": "used to show complete agreement",
@@ -20,12 +22,13 @@
       ]
     },
     {
-      "word": "accede",
+      "id": "6cc6d987-8832-4613-b6b6-04cbb6cf9814",
+      "word": "to accede",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWNjZWRl&hash=fcaf3bd282830713d3849d751cffeb3e44595008&lang=en&cache-only=0",
-      "phonetic_text": "æksi:d",
+      "phonetic_text": "æ.ksid",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWNjZWRl&hash=fcaf3bd282830713d3849d751cffeb3e44595008&lang=en&cache-only=0",
-      "phonetic_am_text": "ākseed",
+      "phonetic_am_text": "ā.ksid",
       "img": "https://cdn.langeek.co/photo/43252/original/?type=jpeg",
       "pronunciation": "ækˈsid",
       "senses": [
@@ -36,12 +39,13 @@
       ]
     },
     {
-      "word": "accept",
+      "id": "a7290bc4-87c2-46e6-adf2-6729f0f5910b",
+      "word": "to accept",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWNjZXB0&hash=ef64f9b1bfbf96e7f48f6a7f5fdc34ae63da434d&lang=en&cache-only=0",
-      "phonetic_text": "æksɛpt",
+      "phonetic_text": "æk.sɛpt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWNjZXB0&hash=ef64f9b1bfbf96e7f48f6a7f5fdc34ae63da434d&lang=en&cache-only=0",
-      "phonetic_am_text": "āksept",
+      "phonetic_am_text": "āk.sept",
       "img": "https://cdn.langeek.co/photo/22269/original/?type=jpeg",
       "pronunciation": "ækˈsɛpt",
       "senses": [
@@ -73,12 +77,13 @@
       ]
     },
     {
+      "id": "ea36a92c-8a6f-4fe9-a2a3-2eab2afc0aea",
       "word": "acceptable",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YWNjZXB0YWJsZQ&hash=2617f7ef54cd40d1dc350603c9865cb6dc764257&lang=en&cache-only=0",
-      "phonetic_text": "æksɛptəbəl",
+      "phonetic_text": "æk.sɛp.təbbl",
       "phonetic_am": "https://tts.langeek.co/read?text=YWNjZXB0YWJsZQ&hash=2617f7ef54cd40d1dc350603c9865cb6dc764257&lang=en&cache-only=0",
-      "phonetic_am_text": "ākseptēbēl",
+      "phonetic_am_text": "āk.sep.tēbbl",
       "img": "",
       "pronunciation": "ækˈsɛptəbəɫ/, /əkˈsɛptəbəɫ",
       "senses": [
@@ -104,18 +109,23 @@
             {
               "cf": "",
               "x": "It is perfectly acceptable to ask for clarification if you do not understand instructions given by a supervisor."
+            },
+            {
+              "cf": "",
+              "x": "His behavior was not considered acceptable at the dinner party."
             }
           ]
         }
       ]
     },
     {
+      "id": "2bfd5e6b-fa6c-4449-8ec7-70efe25db9fb",
       "word": "acceptably",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YWNjZXB0YWJseQ&hash=773a84edc631f0f4751de8478869d57030b0aba6&lang=en&cache-only=0",
-      "phonetic_text": "æksɛptəbli",
+      "phonetic_text": "æk.sɛp.təb.li",
       "phonetic_am": "https://tts.langeek.co/read?text=YWNjZXB0YWJseQ&hash=773a84edc631f0f4751de8478869d57030b0aba6&lang=en&cache-only=0",
-      "phonetic_am_text": "ākseptēbli",
+      "phonetic_am_text": "āk.sep.tēb.li",
       "img": "",
       "pronunciation": "ækˈsɛptəbɫi/, /əkˈsɛptəbɫi",
       "senses": [
@@ -147,14 +157,15 @@
       ]
     },
     {
+      "id": "7a5542be-8608-47a3-9463-ec35b7487cad",
       "word": "acceptance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWNjZXB0YW5jZQ&hash=166ed98f57d649e7310bd45429ba349aa968a090&lang=en&cache-only=0",
-      "phonetic_text": "æksɛptəns",
+      "phonetic_text": "æ.ksɛp.təns",
       "phonetic_am": "https://tts.langeek.co/read?text=YWNjZXB0YW5jZQ&hash=166ed98f57d649e7310bd45429ba349aa968a090&lang=en&cache-only=0",
-      "phonetic_am_text": "ākseptēns",
+      "phonetic_am_text": "ā.ksep.tēns",
       "img": "https://cdn.langeek.co/photo/35694/original/ok?type=jpeg",
-      "pronunciation": "ækˈsɛptəns/, /əkˈsɛptəns",
+      "pronunciation": "əkˈsɛptəns",
       "senses": [
         {
           "definition": "the act of agreeing with a belief, idea, statement, etc.",
@@ -180,12 +191,13 @@
       ]
     },
     {
+      "id": "0d2c8844-1a7b-4767-9c28-573969b18a01",
       "word": "accord",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWNjb3Jk&hash=c88bf7526a82bc39ccfb97301429daa58467a032&lang=en&cache-only=0",
-      "phonetic_text": "əkɔ:rd",
+      "phonetic_text": "ə.kɔrd",
       "phonetic_am": "https://tts.langeek.co/read?text=YWNjb3Jk&hash=c88bf7526a82bc39ccfb97301429daa58467a032&lang=en&cache-only=0",
-      "phonetic_am_text": "ēkaawrd",
+      "phonetic_am_text": "ē.kawrd",
       "img": "",
       "pronunciation": "əˈkɔɹd",
       "senses": [
@@ -217,12 +229,13 @@
       ]
     },
     {
+      "id": "0cc311e9-ed0a-49cc-8ad6-3cc3d4511898",
       "word": "a done deal",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YSBkb25lIGRlYWw&hash=a9a10230aea734f3e189576408431bca7a5e43e5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ə dən di:l",
       "phonetic_am": "https://tts.langeek.co/read?text=YSBkb25lIGRlYWw&hash=a9a10230aea734f3e189576408431bca7a5e43e5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ē dēn dil",
       "img": "",
       "pronunciation": "ɐ dˈʌn dˈiːl",
       "senses": [
@@ -254,12 +267,13 @@
       ]
     },
     {
+      "id": "c0ea49a5-60db-457b-b289-6148d513e313",
       "word": "affirmative",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWZmaXJtYXRpdmU&hash=fca842585b8f00919d1d69bf8b2f87c3d7640c95&lang=en&cache-only=0",
-      "phonetic_text": "əfɜrmətɪv",
+      "phonetic_text": "ə.fɜr.mə.tɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=YWZmaXJtYXRpdmU&hash=fca842585b8f00919d1d69bf8b2f87c3d7640c95&lang=en&cache-only=0",
-      "phonetic_am_text": "ēfērmētiv",
+      "phonetic_am_text": "ē.fēr.mē.tiv",
       "img": "https://cdn.langeek.co/photo/19278/original/positive?type=jpeg",
       "pronunciation": "əˈfɝmətɪv",
       "senses": [
@@ -270,12 +284,13 @@
       ]
     },
     {
+      "id": "c261a0d7-e0a7-4173-8501-7d97495309d8",
       "word": "affirmative",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YWZmaXJtYXRpdmU&hash=fca842585b8f00919d1d69bf8b2f87c3d7640c95&lang=en&cache-only=0",
-      "phonetic_text": "əfɜrmətɪv",
+      "phonetic_text": "ə.fɜr.mə.tɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=YWZmaXJtYXRpdmU&hash=fca842585b8f00919d1d69bf8b2f87c3d7640c95&lang=en&cache-only=0",
-      "phonetic_am_text": "ēfērmētiv",
+      "phonetic_am_text": "ē.fēr.mē.tiv",
       "img": "https://cdn.langeek.co/photo/20251/original/supportive?type=jpeg",
       "pronunciation": "əˈfɝmətɪv",
       "senses": [
@@ -307,12 +322,13 @@
       ]
     },
     {
+      "id": "ff0a3d92-3889-4501-84a1-a33b41aaf940",
       "word": "affirmatively",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YWZmaXJtYXRpdmVseQ&hash=ed2673a1469847dd1ce174cb56495f457a02c944&lang=en&cache-only=0",
-      "phonetic_text": "əfɜrmətɪvli",
+      "phonetic_text": "ə.fɜr.mə.tɪv.li",
       "phonetic_am": "https://tts.langeek.co/read?text=YWZmaXJtYXRpdmVseQ&hash=ed2673a1469847dd1ce174cb56495f457a02c944&lang=en&cache-only=0",
-      "phonetic_am_text": "ēfērmētivli",
+      "phonetic_am_text": "ē.fēr.mē.tiv.li",
       "img": "https://cdn.langeek.co/photo/48107/original/?type=jpeg",
       "pronunciation": "əˈfɝmətɪvɫi",
       "senses": [
@@ -344,12 +360,13 @@
       ]
     },
     {
-      "word": "agree",
+      "id": "9bcfc6b3-3d52-45b5-979f-f082704320ce",
+      "word": "to agree",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWdyZWU&hash=fcaeb65e94506bb6233699f16cb21af9d3e144eb&lang=en&cache-only=0",
-      "phonetic_text": "əgri:",
+      "phonetic_text": "əg.ri:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWdyZWU&hash=fcaeb65e94506bb6233699f16cb21af9d3e144eb&lang=en&cache-only=0",
-      "phonetic_am_text": "ēgree",
+      "phonetic_am_text": "ēg.ri",
       "img": "https://cdn.langeek.co/photo/20770/original/contract?type=jpeg",
       "pronunciation": "əˈɡriː",
       "senses": [
@@ -373,12 +390,13 @@
       ]
     },
     {
+      "id": "1bc1fb0a-2141-40c7-bafd-0a72d016f083",
       "word": "agreed",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YWdyZWVk&hash=265b5c62f95f5a158ab600e470d428fd2fe62453&lang=en&cache-only=0",
-      "phonetic_text": "əgri:d",
+      "phonetic_text": "əg.rid",
       "phonetic_am": "https://tts.langeek.co/read?text=YWdyZWVk&hash=265b5c62f95f5a158ab600e470d428fd2fe62453&lang=en&cache-only=0",
-      "phonetic_am_text": "ēgreed",
+      "phonetic_am_text": "ēg.rid",
       "img": "https://cdn.langeek.co/photo/22269/original/?type=jpeg",
       "pronunciation": "əˈɡɹid",
       "senses": [
@@ -389,14 +407,15 @@
       ]
     },
     {
+      "id": "c5721cd3-f50a-4335-83e0-53588d43870a",
       "word": "agreement",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWdyZWVtZW50&hash=802bd957adcccdafac90e734fa8e7fe335dfdc1e&lang=en&cache-only=0",
-      "phonetic_text": "əgri:mənt",
+      "phonetic_text": "əg.ri:.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=YWdyZWVtZW50&hash=802bd957adcccdafac90e734fa8e7fe335dfdc1e&lang=en&cache-only=0",
-      "phonetic_am_text": "ēgreemēnt",
+      "phonetic_am_text": "ēg.ri.mēnt",
       "img": "https://cdn.langeek.co/photo/20770/original/contract?type=jpeg",
-      "pronunciation": "əˈɡɹimənt",
+      "pronunciation": "əˈɡriːmənt",
       "senses": [
         {
           "definition": "a promise, an arrangement, or a contract between two or more people",
@@ -422,10 +441,11 @@
       ]
     },
     {
-      "word": "[agree] to (disagree|differ)",
+      "id": "3b3b875f-501b-4a60-8259-bb37a51c89b5",
+      "word": "to [agree] to (disagree|differ)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWdyZWUgdG8gZGlzYWdyZWU&hash=1265143cd88519a79d37776b5f960d78149c844e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWdyZWUgdG8gZGlzYWdyZWU&hash=1265143cd88519a79d37776b5f960d78149c844e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -447,12 +467,13 @@
       ]
     },
     {
-      "word": "align",
+      "id": "06028fd0-52ae-415c-9b23-e765131255b0",
+      "word": "to align",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWxpZ24&hash=e5ee76648aee941dae2fc152118b45d99e388e84&lang=en&cache-only=0",
-      "phonetic_text": "əlaɪn",
+      "phonetic_text": "ə.laɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWxpZ24&hash=e5ee76648aee941dae2fc152118b45d99e388e84&lang=en&cache-only=0",
-      "phonetic_am_text": "ēlain",
+      "phonetic_am_text": "ē.lain",
       "img": "",
       "pronunciation": "əˈɫaɪn",
       "senses": [
@@ -484,12 +505,13 @@
       ]
     },
     {
+      "id": "45638ab4-55e8-4a4d-865e-a431fc5530ca",
       "word": "alliance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWxsaWFuY2U&hash=28dd64272e8d30442bb08bbad2a62139bf0c92e0&lang=en&cache-only=0",
-      "phonetic_text": "əlaɪəns",
+      "phonetic_text": "ə.laɪəns",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxsaWFuY2U&hash=28dd64272e8d30442bb08bbad2a62139bf0c92e0&lang=en&cache-only=0",
-      "phonetic_am_text": "ēlaiēns",
+      "phonetic_am_text": "ē.laiēns",
       "img": "https://cdn.langeek.co/photo/20766/original/partnership?type=jpeg",
       "pronunciation": "əˈɫaɪəns",
       "senses": [
@@ -521,12 +543,13 @@
       ]
     },
     {
+      "id": "4e780d82-5667-46a9-be35-328424901dda",
       "word": "all right",
       "pos": "interjection",
       "phonetic": "https://tts.langeek.co/read?text=YWxsIHJpZ2h0&hash=c4d4195cffa56662c35ef20937776febcb19b3e0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɔ:l raɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxsIHJpZ2h0&hash=c4d4195cffa56662c35ef20937776febcb19b3e0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "awl rait",
       "img": "https://cdn.langeek.co/photo/35694/original/ok?type=jpeg",
       "pronunciation": "ˌɔːl ˈraɪt",
       "senses": [
@@ -558,14 +581,15 @@
       ]
     },
     {
-      "word": "ally",
+      "id": "ce574d58-c31f-4c1d-a455-e4d4eb039ade",
+      "word": "to ally",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWxseQ&hash=13af5cf98aab886bbbad526135d6bbc0b4f8e31d&lang=en&cache-only=0",
-      "phonetic_text": "ælaɪ",
+      "phonetic_text": "æ.laɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWxseQ&hash=13af5cf98aab886bbbad526135d6bbc0b4f8e31d&lang=en&cache-only=0",
-      "phonetic_am_text": "ālai",
+      "phonetic_am_text": "ā.lai",
       "img": "https://cdn.langeek.co/photo/19418/original/loyal?type=jpeg",
-      "pronunciation": "ˈæɫaɪ/, /əˈɫaɪ",
+      "pronunciation": "ˈælaɪ",
       "senses": [
         {
           "definition": "to support or side with another",
@@ -574,12 +598,13 @@
       ]
     },
     {
+      "id": "ed527df7-9c7c-4632-a348-0aa5a5887064",
       "word": "arrangement",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJyYW5nZW1lbnQ&hash=2684ff3040fb9fbee96e8d68aad8a644efd96e2f&lang=en&cache-only=0",
-      "phonetic_text": "əreɪnʤmənt",
+      "phonetic_text": "ɜ.reɪn.ʤmənt",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJyYW5nZW1lbnQ&hash=2684ff3040fb9fbee96e8d68aad8a644efd96e2f&lang=en&cache-only=0",
-      "phonetic_am_text": "ēreinjmēnt",
+      "phonetic_am_text": "ē.rein.jmēnt",
       "img": "",
       "pronunciation": "ɝˈeɪndʒmənt",
       "senses": [
@@ -611,12 +636,13 @@
       ]
     },
     {
+      "id": "10676b7c-87ad-4f2c-8d2a-4532eb6bcaea",
       "word": "anodyne",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YW5vZHluZQ&hash=5548bc52e600717e2566a4cdf55be962360c78c8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æ.nə.daɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=YW5vZHluZQ&hash=5548bc52e600717e2566a4cdf55be962360c78c8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ā.nē.dain",
       "img": "",
       "pronunciation": "ˈænədˌaɪn",
       "senses": [
@@ -632,12 +658,13 @@
       ]
     },
     {
+      "id": "8d4957e4-d605-4555-a7ec-6a12e722d873",
       "word": "approbation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXBwcm9iYXRpb24&hash=e64a77fafe68794cc6863462d613b31f49340a2d&lang=en&cache-only=0",
-      "phonetic_text": "æprəbeɪʃən",
+      "phonetic_text": "æp.rə.beɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=YXBwcm9iYXRpb24&hash=e64a77fafe68794cc6863462d613b31f49340a2d&lang=en&cache-only=0",
-      "phonetic_am_text": "āprēbeishēn",
+      "phonetic_am_text": "āp.rē.bei.shēn",
       "img": "",
       "pronunciation": "ˌæpɹəˈbeɪʃən",
       "senses": [
@@ -669,14 +696,15 @@
       ]
     },
     {
+      "id": "5a0f763c-6e9f-40ab-9526-1b9c36cd6687",
       "word": "approval",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXBwcm92YWw&hash=60825bccd5593e5855ce5f7e020b528e6d2d8097&lang=en&cache-only=0",
-      "phonetic_text": "əpru:vəl",
+      "phonetic_text": "əp.ru.vəl",
       "phonetic_am": "https://tts.langeek.co/read?text=YXBwcm92YWw&hash=60825bccd5593e5855ce5f7e020b528e6d2d8097&lang=en&cache-only=0",
-      "phonetic_am_text": "ēproovēl",
+      "phonetic_am_text": "ēp.roo.vēl",
       "img": "",
-      "pronunciation": "əˈpɹuvəɫ",
+      "pronunciation": "əˈpruːvəl",
       "senses": [
         {
           "definition": "a formal agreement to something",
@@ -706,12 +734,13 @@
       ]
     },
     {
-      "word": "approve",
+      "id": "77aa82e4-59c9-4581-bd3d-179b644ac643",
+      "word": "to approve",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYXBwcm92ZQ&hash=735ab11d5a9fa1aeb8e25d90d03a2259d0a64bc2&lang=en&cache-only=0",
-      "phonetic_text": "əpru:v",
+      "phonetic_text": "əp.ruv",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYXBwcm92ZQ&hash=735ab11d5a9fa1aeb8e25d90d03a2259d0a64bc2&lang=en&cache-only=0",
-      "phonetic_am_text": "ēproov",
+      "phonetic_am_text": "ēp.roov",
       "img": "https://cdn.langeek.co/photo/27766/original/?type=jpeg",
       "pronunciation": "əˈpɹuv",
       "senses": [
@@ -743,12 +772,13 @@
       ]
     },
     {
+      "id": "c93e661d-5260-4488-9df4-7de9f2da7717",
       "word": "assent",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXNzZW50&hash=25b54fb0ea46862e93a02d78f6e001fd559bfe8e&lang=en&cache-only=0",
-      "phonetic_text": "əsɛnt",
+      "phonetic_text": "ə.sɛnt",
       "phonetic_am": "https://tts.langeek.co/read?text=YXNzZW50&hash=25b54fb0ea46862e93a02d78f6e001fd559bfe8e&lang=en&cache-only=0",
-      "phonetic_am_text": "ēsent",
+      "phonetic_am_text": "ē.sent",
       "img": "",
       "pronunciation": "əˈsɛnt",
       "senses": [
@@ -759,12 +789,13 @@
       ]
     },
     {
-      "word": "assent",
+      "id": "4771a404-f8a0-4403-8e87-48fc0ad9339f",
+      "word": "to assent",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYXNzZW50&hash=96db83ac36de7dd9c5d60f66b1a9f46045431d2e&lang=en&cache-only=0",
-      "phonetic_text": "əsɛnt",
+      "phonetic_text": "ə.sɛnt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYXNzZW50&hash=96db83ac36de7dd9c5d60f66b1a9f46045431d2e&lang=en&cache-only=0",
-      "phonetic_am_text": "ēsent",
+      "phonetic_am_text": "ē.sent",
       "img": "https://cdn.langeek.co/photo/43252/original/?type=jpeg",
       "pronunciation": "əˈsɛnt",
       "senses": [
@@ -796,14 +827,15 @@
       ]
     },
     {
-      "word": "associate",
+      "id": "5b5f177e-d261-4368-860c-b2d7aabd0fb7",
+      "word": "to associate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYXNzb2NpYXRl&hash=5dde5a1abb721253d5d6c793b55d7d32037f0bd2&lang=en&cache-only=0",
-      "phonetic_text": "əsoʊsiət",
+      "phonetic_text": "ə.soʊ.sieɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYXNzb2NpYXRl&hash=5dde5a1abb721253d5d6c793b55d7d32037f0bd2&lang=en&cache-only=0",
-      "phonetic_am_text": "ēsowsiēt",
+      "phonetic_am_text": "ē.sooo.sieit",
       "img": "",
-      "pronunciation": "əˈsoʊsiˌeɪt/, /əˈsoʊsiət/, /əˈsoʊʃiˌeɪt/, /əˈsoʊʃiət",
+      "pronunciation": "əˈsoʊʃiˌeɪt",
       "senses": [
         {
           "definition": "to make a connection between someone or something and another in the mind",
@@ -833,12 +865,13 @@
       ]
     },
     {
+      "id": "f2b95372-f05f-4625-92d8-19100920b364",
       "word": "at all",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YXQgYWxs&hash=fe8466a1e1bb48b767af0cdc1f3498fab6c4ddbd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æt ɔ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=YXQgYWxs&hash=fe8466a1e1bb48b767af0cdc1f3498fab6c4ddbd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "āt awl",
       "img": "",
       "pronunciation": "æt ˈɔːl",
       "senses": [
@@ -870,10 +903,11 @@
       ]
     },
     {
+      "id": "6c67cd68-775a-4cba-8669-27a0d5f358da",
       "word": "at one (with|on|about) {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXQgb25lIHdpdGggc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=7d649f8943a15f6fa45d59442d9169371a783fe5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXQgb25lIHdpdGggc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=7d649f8943a15f6fa45d59442d9169371a783fe5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -919,14 +953,15 @@
       ]
     },
     {
+      "id": "0d3bdc3c-c180-44cb-a19e-700685b98a1f",
       "word": "bargain",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFyZ2Fpbg&hash=ff2a28022d3af03e307452b2308321d6f13d6122&lang=en&cache-only=0",
-      "phonetic_text": "bɑ:rgən",
+      "phonetic_text": "bɑr.geɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFyZ2Fpbg&hash=ff2a28022d3af03e307452b2308321d6f13d6122&lang=en&cache-only=0",
-      "phonetic_am_text": "baargēn",
+      "phonetic_am_text": "baar.gein",
       "img": "",
-      "pronunciation": "ˈbɑrɡɪn/, /ˈbɑrɡən",
+      "pronunciation": "ˈbɑrɡɪn",
       "senses": [
         {
           "definition": "an agreement between two people or a group of people, based on which they do something particular for one another",
@@ -956,12 +991,13 @@
       ]
     },
     {
-      "word": "be with someone",
+      "id": "5968406d-509d-4e3e-a0bc-b564f4d4cc81",
+      "word": "to be with someone",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgd2l0aCBzb21lb25l&hash=5d129a3b012177f0843dcef255cfaa1c5355814c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bi: wɪð sʌm.n",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgd2l0aCBzb21lb25l&hash=5d129a3b012177f0843dcef255cfaa1c5355814c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bi vidh sam.n",
       "img": "",
       "pronunciation": "biː wɪð sˈʌmwʌn",
       "senses": [
@@ -972,12 +1008,13 @@
       ]
     },
     {
+      "id": "815b8912-ed0e-4ee2-aaef-ff7f91bf361c",
       "word": "buy-in",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnV5LWlu&hash=696f959f7f4b0eb9c316ea1e269f6b1d566969d4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "baɪ-ɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=YnV5LWlu&hash=696f959f7f4b0eb9c316ea1e269f6b1d566969d4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bai-in",
       "img": "",
       "pronunciation": "bˈaɪˈɪn",
       "senses": [

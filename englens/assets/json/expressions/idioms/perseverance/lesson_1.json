@@ -1,15 +1,17 @@
 {
+  "id": "40a2ca91-5876-46c8-898e-e22991d847ef",
   "topic": "perseverance",
   "title": "Persistence",
   "lesson": "lesson_1",
   "word_list": [
     {
+      "id": "b99fff2d-2e60-4f14-aa2a-33a3730938a8",
       "word": "come rain or come shine",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Y29tZSByYWluIG9yIGNvbWUgc2hpbmU&hash=9de5c04056d268d5a525ec43a2f3119d616bd25a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kʌm reɪn ɔ:r kʌm ʃaɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tZSByYWluIG9yIGNvbWUgc2hpbmU&hash=9de5c04056d268d5a525ec43a2f3119d616bd25a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kam rein awr kam shain",
       "img": "https://cdn.langeek.co/photo/42942/original/?type=jpeg",
       "pronunciation": "kˈʌm ɹˈeɪn ɔːɹ kˈʌm ʃˈaɪn",
       "senses": [
@@ -41,10 +43,11 @@
       ]
     },
     {
+      "id": "11b24e07-94da-4ae2-be23-674e00039416",
       "word": "(to|until) the bitter end",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGhlIGJpdHRlciBlbmQ&hash=716534ee86f306adb1f61ef7e92695179952c349&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGhlIGJpdHRlciBlbmQ&hash=716534ee86f306adb1f61ef7e92695179952c349&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42952/original/?type=jpeg",
@@ -66,10 +69,11 @@
       ]
     },
     {
-      "word": "[get|take] the bit between {one's} teeth",
+      "id": "8feb5050-d0eb-4e70-909a-da86458c8d07",
+      "word": "to [get|take] the bit between {one's} teeth",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IHRoZSBiaXQgYmV0d2VlbiBvbmUncyB0ZWV0aA&hash=42cbe1f18105dad86bdff6e74a5638aa632c8bed&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IHRoZSBiaXQgYmV0d2VlbiBvbmUncyB0ZWV0aA&hash=42cbe1f18105dad86bdff6e74a5638aa632c8bed&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42414/original/?type=jpeg",
@@ -77,28 +81,16 @@
       "senses": [
         {
           "definition": "to begin doing or taking part in something with enthusiasm and determination",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He can be lazy about doing his work, but when he gets the bit between his teeth there's no stopping him."
-            },
-            {
-              "cf": "",
-              "x": "She wasn't that interested at first, but she loved it once she got the bit between her teeth."
-            },
-            {
-              "cf": "",
-              "x": "Taking the bit between his teeth he set off across the plain with greater speed than the bones of his anatomy ever gave any promise of."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[go] down (swinging|fighting)",
+      "id": "6d56494a-acee-4ddf-a30e-a59ab607b9fa",
+      "word": "to [go] down (swinging|fighting)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ28gZG93biBzd2luZ2luZw&hash=1fd556de1983e50e37bb504ca085a3a7d50ba193&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ28gZG93biBzd2luZ2luZw&hash=1fd556de1983e50e37bb504ca085a3a7d50ba193&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42968/original/?type=jpeg",
@@ -111,10 +103,11 @@
       ]
     },
     {
-      "word": "[grit] {one's} teeth",
+      "id": "829bd5b9-cfd1-4b4f-b35d-c9667a29be01",
+      "word": "to [grit] {one's} teeth",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ3JpdCBvbmUncyB0ZWV0aA&hash=76fbdaf87ce0db27114500674546d55d4e4a858c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ3JpdCBvbmUncyB0ZWV0aA&hash=76fbdaf87ce0db27114500674546d55d4e4a858c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44094/original/?type=jpeg",
@@ -122,24 +115,16 @@
       "senses": [
         {
           "definition": "to face one's challenges or problems with absolute courage and determination",
-          "examples": [
-            {
-              "cf": "",
-              "x": "All through the race, Sally was gritting her teeth."
-            },
-            {
-              "cf": "",
-              "x": "Despite the odds, he just gritted his teeth without ever complaining."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[keep] {one's} [head] above water",
+      "id": "5331bb65-4e57-4d7e-a5fa-c828356dd68c",
+      "word": "to [keep] {one's} [head] above water",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCBvbmUncyBoZWFkIGFib3ZlIHdhdGVy&hash=682e59c626f862990f8eae2be0eec1dca231804e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCBvbmUncyBoZWFkIGFib3ZlIHdhdGVy&hash=682e59c626f862990f8eae2be0eec1dca231804e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43108/original/?type=jpeg",
@@ -147,28 +132,16 @@
       "senses": [
         {
           "definition": "to manage to stay strong and determined, despite the likelihood of failure",
-          "examples": [
-            {
-              "cf": "",
-              "x": "For years they struggled to keep their heads above water."
-            },
-            {
-              "cf": "",
-              "x": "The business is in trouble, but we are just about keeping our heads above water."
-            },
-            {
-              "cf": "",
-              "x": "We have so much debt that we're barely able to keep our heads above water."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[keep] {one's} chin up",
+      "id": "b6521898-a181-4319-8216-023ef573bca7",
+      "word": "to [keep] {one's} chin up",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCBvbmUncyBjaGluIHVw&hash=6ca0fc6dc1b57a77b19ccb317af923434b41c57d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCBvbmUncyBjaGluIHVw&hash=6ca0fc6dc1b57a77b19ccb317af923434b41c57d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43014/original/?type=jpeg",
@@ -194,10 +167,11 @@
       ]
     },
     {
-      "word": "[live] to (fight|see) another day",
+      "id": "c7931f5e-2665-47de-a5d5-5866a21d6ff5",
+      "word": "to [live] to (fight|see) another day",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGl2ZSB0byBmaWdodCBhbm90aGVyIGRheQ&hash=d8f16b5ffc0f467d7266aacd99f1a28d025cb006&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGl2ZSB0byBmaWdodCBhbm90aGVyIGRheQ&hash=d8f16b5ffc0f467d7266aacd99f1a28d025cb006&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43094/original/?type=jpeg",
@@ -205,28 +179,16 @@
       "senses": [
         {
           "definition": "to survive a tough situation or disastrous experience and get the chance to try again",
-          "examples": [
-            {
-              "cf": "",
-              "x": "So Fenchurch East lives to fight another day."
-            },
-            {
-              "cf": "",
-              "x": "Thanks to your resourceful parents, you live to see another day."
-            },
-            {
-              "cf": "",
-              "x": "We didn't win this time, but we live to fight another day."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[push] it",
+      "id": "02aae74f-1fce-4f48-80cd-9ba61ca88c85",
+      "word": "to [push] it",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHVzaCBpdA&hash=b014ee52a6eba2d871981202296b66644178ab45&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHVzaCBpdA&hash=b014ee52a6eba2d871981202296b66644178ab45&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43110/original/?type=jpeg",
@@ -248,10 +210,11 @@
       ]
     },
     {
-      "word": "[put] up a fight",
+      "id": "48c33685-320d-4906-8470-e60ad283a758",
+      "word": "to [put] up a fight",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IHVwIGEgZmlnaHQ&hash=e395185f0986c8e6ea1c8f23186a45e36ed106f6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IHVwIGEgZmlnaHQ&hash=e395185f0986c8e6ea1c8f23186a45e36ed106f6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43112/original/?type=jpeg",
@@ -259,24 +222,16 @@
       "senses": [
         {
           "definition": "to try one's best to stay strong and determined in the face of danger or extremely low odds of success",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She and her campaign put up a fight to the very end, but it was clear in the weeks leading up to the election that she would lose."
-            },
-            {
-              "cf": "",
-              "x": "Why do they bother putting up a fight?"
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[stand|hold] {one's} ground",
+      "id": "c444e7dc-61d8-49fa-81a1-668c94355cb6",
+      "word": "to [stand|hold] {one's} ground",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RhbmQgb25lJ3MgZ3JvdW5k&hash=c14b15424b3c916818b7f47e9c24d64f6fcaa680&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RhbmQgb25lJ3MgZ3JvdW5k&hash=c14b15424b3c916818b7f47e9c24d64f6fcaa680&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44102/original/?type=jpeg",
@@ -298,12 +253,13 @@
       ]
     },
     {
+      "id": "4c1880de-dbfe-4352-8a42-985379dd73bb",
       "word": "by hook or by crook",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YnkgaG9vayBvciBieSBjcm9vaw&hash=43db122bfb91f0b527d31b65316c0efe34592139&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "baɪ hʊk ɔ:r baɪ krʊk",
       "phonetic_am": "https://tts.langeek.co/read?text=YnkgaG9vayBvciBieSBjcm9vaw&hash=43db122bfb91f0b527d31b65316c0efe34592139&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bai hook awr bai krook",
       "img": "https://cdn.langeek.co/photo/42956/original/?type=jpeg",
       "pronunciation": "baɪ hˈʊk ɔːɹ baɪ kɹˈʊk",
       "senses": [
@@ -335,12 +291,13 @@
       ]
     },
     {
+      "id": "754e2eb3-365d-45ad-8e68-cc6aa2169abc",
       "word": "come hell or high water",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Y29tZSBoZWxsIG9yIGhpZ2ggd2F0ZXI&hash=c36b1f2d4597a52e38558eb8980b9dcdc7ee5ab3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kʌm hɛl ɔ:r haɪ wɑ:.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tZSBoZWxsIG9yIGhpZ2ggd2F0ZXI&hash=c36b1f2d4597a52e38558eb8980b9dcdc7ee5ab3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kam hel awr hai vaa.tēr",
       "img": "https://cdn.langeek.co/photo/42958/original/?type=jpeg",
       "pronunciation": "kˈʌm hˈɛl ɔːɹ hˈaɪ wˈɔːɾɚ",
       "senses": [
@@ -356,31 +313,28 @@
       ]
     },
     {
+      "id": "42d3b77d-40ca-4093-9d0e-4341ab8fac56",
       "word": "come what may",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Y29tZSB3aGF0IG1heQ&hash=deb55a85c58eff47d49811770f21f2c57c1d4ba3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kʌm wʌt meɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tZSB3aGF0IG1heQ&hash=deb55a85c58eff47d49811770f21f2c57c1d4ba3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kam vat mei",
       "img": "https://cdn.langeek.co/photo/42960/original/?type=jpeg",
       "pronunciation": "kˈʌm wˌʌt mˈeɪ",
       "senses": [
         {
           "definition": "no matter what happens or how difficult thigs turn out to be",
-          "examples": [
-            {
-              "cf": "",
-              "x": "They're going to make the change, come what may."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "7660a11f-31ad-44fe-a87c-316ac3d0425a",
       "word": "in the teeth of {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aW4gdGhlIHRlZXRoIG9mIHNvbWV0aGluZw&hash=e5758a5799457d2138d3c36501d5c44e4c1d7ab2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gdGhlIHRlZXRoIG9mIHNvbWV0aGluZw&hash=e5758a5799457d2138d3c36501d5c44e4c1d7ab2&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42918/original/?type=jpeg",
@@ -388,28 +342,16 @@
       "senses": [
         {
           "definition": "no matter how many problems one might face or how hard achieving something gets",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I was battling my way along the promenade in the teeth of a force ten gale."
-            },
-            {
-              "cf": "",
-              "x": "In the teeth of the longest recession since the 1930s, the company continues to perform well."
-            },
-            {
-              "cf": "",
-              "x": "Permission for the development was granted in the teeth of opposition from local shopkeepers."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "last resort",
+      "id": "8a8391cb-d673-4405-a2e9-4c379888df4f",
+      "word": "(last|final) resort",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFzdCByZXNvcnQ&hash=27b7929778be61b64b0c7f38c078fd9dfd613b07&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFzdCByZXNvcnQ&hash=27b7929778be61b64b0c7f38c078fd9dfd613b07&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42922/original/?type=jpeg",
@@ -443,10 +385,11 @@
       ]
     },
     {
+      "id": "41b05a85-2085-4095-b56e-9643eb073e4f",
       "word": "the courage of {one's} (own|) convictions",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIGNvdXJhZ2Ugb2Ygb25lJ3Mgb3duIGNvbnZpY3Rpb25z&hash=c5132926efa11eb791742ab8ca55ce17b381b814&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIGNvdXJhZ2Ugb2Ygb25lJ3Mgb3duIGNvbnZpY3Rpb25z&hash=c5132926efa11eb791742ab8ca55ce17b381b814&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43088/original/?type=jpeg",
@@ -454,30 +397,18 @@
       "senses": [
         {
           "definition": "one's bravery and determination to do what they believe is the right thing, regardless of what other people may think",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Despite facing criticism, she had the courage of her convictions and stood by her decision."
-            },
-            {
-              "cf": "",
-              "x": "He demonstrated the courage of his own convictions by refusing to compromise his ethical standards."
-            },
-            {
-              "cf": "",
-              "x": "The leader's unwavering commitment to his principles showcased the courage of his convictions."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "0354e507-0dcc-4e6d-84fd-01cbae4c5568",
       "word": "dead set",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZGVhZCBzZXQ&hash=ab50d22fbe9e334f0f71e6e7663b906644e9e4a4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɛd sɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVhZCBzZXQ&hash=ab50d22fbe9e334f0f71e6e7663b906644e9e4a4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ded set",
       "img": "https://cdn.langeek.co/photo/42916/original/?type=jpeg",
       "pronunciation": "dˈɛd sˈɛt",
       "senses": [
@@ -493,10 +424,11 @@
       ]
     },
     {
-      "word": "[keep] it up",
+      "id": "60cc1eaf-0136-474b-8db3-00a867d9861c",
+      "word": "to [keep] it up",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCBpdCB1cA&hash=ef9566092b09685228d260885508c09da46c702a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCBpdCB1cA&hash=ef9566092b09685228d260885508c09da46c702a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42966/original/?type=jpeg",
@@ -518,10 +450,11 @@
       ]
     },
     {
-      "word": "[mean] business",
+      "id": "f7a4fa64-4db1-417d-ae59-03db375a3a66",
+      "word": "to [mean] business",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWVhbiBidXNpbmVzcw&hash=0a7394a49e0ca9bd5ee6d4ed6f672f929a69b578&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWVhbiBidXNpbmVzcw&hash=0a7394a49e0ca9bd5ee6d4ed6f672f929a69b578&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42928/original/?type=jpeg",

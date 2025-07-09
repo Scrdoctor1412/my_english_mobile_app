@@ -1,13 +1,15 @@
 {
+  "id": "075c978e-79ee-430e-a209-255d0d8656a7",
   "topic": "society_law_politics",
   "title": "Injustice",
   "lesson": "lesson_3",
   "word_list": [
     {
-      "word": "[get] away with murder",
+      "id": "dc08a5d0-2485-40f3-810a-9f6175068b26",
+      "word": "to [get] away with murder",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IGF3YXkgd2l0aCBtdXJkZXI&hash=50cd54fa64705b348c405c8a5fac605da120f1e5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IGF3YXkgd2l0aCBtdXJkZXI&hash=50cd54fa64705b348c405c8a5fac605da120f1e5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43514/original/?type=jpeg",
@@ -20,10 +22,11 @@
       ]
     },
     {
-      "word": "[jump] the line",
+      "id": "ac961d50-c77b-4177-bd05-6d5747142523",
+      "word": "to [jump] the line",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ganVtcCB0aGUgbGluZQ&hash=2cf797c097c132e039066dee3b57abe12ade5df3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ganVtcCB0aGUgbGluZQ&hash=2cf797c097c132e039066dee3b57abe12ade5df3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43516/original/?type=jpeg",
@@ -36,42 +39,87 @@
       ]
     },
     {
+      "id": "57638724-e658-420d-9bf0-8d30975e3b49",
       "word": "conflict of interest",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Y29uZmxpY3Qgb2YgaW50ZXJlc3Q&hash=3eb49c6bda88a346f5b09d71f2a42ab2f2f99d22&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑnf.lɪkt ʌv ɪn.trəst",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uZmxpY3Qgb2YgaW50ZXJlc3Q&hash=3eb49c6bda88a346f5b09d71f2a42ab2f2f99d22&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaanf.likt av in.trēst",
       "img": "https://cdn.langeek.co/photo/43512/original/?type=jpeg",
       "pronunciation": "kˈɑːnflɪkt ʌv ˈɪntɹəst",
       "senses": [
         {
           "definition": "a situation where someone's personal stake or potential gain from a decision may hinder their ability to make an unbiased or fair choice",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The judge recused himself from the case due to a conflict of interest, as he was a shareholder in the company being sued."
+            },
+            {
+              "cf": "",
+              "x": "The sports coach faced allegations of favoritism and a potential conflict of interest when it was discovered that a family member was on the team."
+            },
+            {
+              "cf": "",
+              "x": "Her role as a journalist clashed with her personal friendship with the politician, resulting in a conflict of interest."
+            },
+            {
+              "cf": "",
+              "x": "The researcher's close family connection to a study subject prompted concerns about a conflict of interest in the research."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "2b538236-ef06-4a83-a43b-b7379f0a8bd3",
       "word": "raw deal",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmF3IGRlYWw&hash=89238f77f6ca1b0c2843e133a9588abc2aef2bfb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɑ di:l",
       "phonetic_am": "https://tts.langeek.co/read?text=cmF3IGRlYWw&hash=89238f77f6ca1b0c2843e133a9588abc2aef2bfb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "raa dil",
       "img": "https://cdn.langeek.co/photo/43554/original/?type=jpeg",
       "pronunciation": "ɹˈɔː dˈiːl",
       "senses": [
         {
           "definition": "a treatment that is not fair or equal",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I feel like I'm getting a raw deal in this business partnership."
+            },
+            {
+              "cf": "",
+              "x": "She always gets a raw deal when it comes to promotions at work."
+            },
+            {
+              "cf": "",
+              "x": "We're constantly being given a raw deal by our landlord."
+            },
+            {
+              "cf": "",
+              "x": "He got a raw deal in that lawsuit; the settlement was far less than he deserved."
+            },
+            {
+              "cf": "",
+              "x": "They received a raw deal during the negotiation process and were left with unfavorable terms."
+            },
+            {
+              "cf": "",
+              "x": "The employees felt they had been given a raw deal when their benefits were suddenly cut."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[tar] {sb/sth} with the same brush",
+      "id": "fc123db7-4d43-4cf9-ab17-e8426baa267b",
+      "word": "to [tar] {sb/sth} with the same brush",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFyIHNvbWVib2R5IG9yIHNvbWV0aGluZyB3aXRoIHRoZSBzYW1lIGJydXNo&hash=1eb6de5363bdc252e18bc7e2ee8e23e8242a34c6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFyIHNvbWVib2R5IG9yIHNvbWV0aGluZyB3aXRoIHRoZSBzYW1lIGJydXNo&hash=1eb6de5363bdc252e18bc7e2ee8e23e8242a34c6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43558/original/?type=jpeg",
@@ -84,26 +132,45 @@
       ]
     },
     {
+      "id": "7acf77fa-b938-4ccd-b3f9-a56d5bfdf4f4",
       "word": "cheap shot",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hlYXAgc2hvdA&hash=3efa858dc37accd17478c97ed7adc91dad343554&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧi:p ʃɑt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hlYXAgc2hvdA&hash=3efa858dc37accd17478c97ed7adc91dad343554&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chip shaat",
       "img": "https://cdn.langeek.co/photo/42628/original/?type=jpeg",
       "pronunciation": "tʃˈiːp ʃˈɑːt",
       "senses": [
         {
           "definition": "a comment or statement that is cruel or unfair",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He enabled him to take the cheap shot that ended the fight, stirred the pot and kept Mayweather at the center of controversy."
+            },
+            {
+              "cf": "",
+              "x": "I didn't appreciate that cheap shot you took at me at the party."
+            },
+            {
+              "cf": "",
+              "x": "I think her making fun of his wife was a cheap shot"
+            },
+            {
+              "cf": "",
+              "x": "It would be a cheap shot to roast Franklin with the evidence he gave you as his friend."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[cry] foul",
+      "id": "e8551131-ab13-4a7d-919c-4114854cf68e",
+      "word": "to [cry] foul",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3J5IGZvdWw&hash=f7d7eff8599ce99371d7c62621a9b87816f6dbb4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3J5IGZvdWw&hash=f7d7eff8599ce99371d7c62621a9b87816f6dbb4&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43548/original/?type=jpeg",
@@ -116,26 +183,61 @@
       ]
     },
     {
+      "id": "a4e44ce4-8e95-470e-ae64-3ecfbe1faacb",
       "word": "kangaroo court",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2FuZ2Fyb28gY291cnQ&hash=f8638d58239a0fb0b590b67a94501850fad89ba4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kæn.gɜ.ru kɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=a2FuZ2Fyb28gY291cnQ&hash=f8638d58239a0fb0b590b67a94501850fad89ba4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kān.gē.roo kawrt",
       "img": "https://cdn.langeek.co/photo/44002/original/?type=jpeg",
       "pronunciation": "kˈæŋɡɐɹˌuː kˈoːɹt",
       "senses": [
         {
           "definition": "an unofficial court that does not follow the rules and usually punishes people without giving them a fair trial",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "They are conducting a kangaroo court to quickly dispense with the accused's case."
+            },
+            {
+              "cf": "",
+              "x": "The employees believe that the disciplinary hearings at their workplace are akin to a kangaroo court."
+            },
+            {
+              "cf": "",
+              "x": "The activists claim that the government is running a kangaroo court to suppress dissenting voices."
+            },
+            {
+              "cf": "",
+              "x": "The defendant's lawyer argued that the trial was a kangaroo court due to the biased judge."
+            },
+            {
+              "cf": "",
+              "x": "We knew it was a kangaroo court as the verdict was reached before any evidence was presented."
+            },
+            {
+              "cf": "",
+              "x": "The international community condemned the dictator's regime for their kangaroo courts during that period."
+            },
+            {
+              "cf": "",
+              "x": "If the authorities continue to ignore due process, there will be a risk of turning the legal system into a kangaroo court."
+            },
+            {
+              "cf": "",
+              "x": "I fear that the company's internal investigation might devolve into a kangaroo court if proper safeguards are not in place."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[get] a free pass",
+      "id": "9572005f-1a01-4e02-8231-b8e96a9082ba",
+      "word": "to [get] a free pass",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IGEgZnJlZSBwYXNz&hash=89319671592024a0558ab84c5b95686653f6cfd2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IGEgZnJlZSBwYXNz&hash=89319671592024a0558ab84c5b95686653f6cfd2&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43586/original/?type=jpeg",
@@ -143,31 +245,83 @@
       "senses": [
         {
           "definition": "to receive special treatment or permission to avoid obligations, restrictions, or consequences",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He always gets a free pass for his mistakes while others face consequences."
+            },
+            {
+              "cf": "",
+              "x": "They get a free pass because of their influential connections."
+            },
+            {
+              "cf": "",
+              "x": "She got a free pass for her tardiness because of her close relationship with the boss."
+            },
+            {
+              "cf": "",
+              "x": "Despite the evidence against him, he somehow got a free pass in the trial."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "31539fc4-5ba6-4045-9cd3-65344415ff82",
       "word": "below the belt",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YmVsb3cgdGhlIGJlbHQ&hash=837cdba0ba1748c7e8c37af78d9e6033d0495825&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɪ.loʊ ðə bɛlt",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVsb3cgdGhlIGJlbHQ&hash=837cdba0ba1748c7e8c37af78d9e6033d0495825&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bi.looo dhē belt",
       "img": "https://cdn.langeek.co/photo/31693/original/?type=jpeg",
       "pronunciation": "bɪlˌoʊ ðə bˈɛlt",
       "senses": [
         {
           "definition": "in a way that unfairly takes advantage of a person's weaknesses",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Bringing up her past failures during the argument was a below the belt move."
+            },
+            {
+              "cf": "",
+              "x": "Spreading false rumors about his personal life was a below the belt tactic to tarnish his reputation."
+            },
+            {
+              "cf": "",
+              "x": "His sarcastic comment about her appearance was a below the belt remark that crossed the line."
+            },
+            {
+              "cf": "",
+              "x": "Using confidential information against a former colleague in a business deal was a below the belt action."
+            },
+            {
+              "cf": "",
+              "x": "Mocking someone's insecurities in front of others is hitting below the belt."
+            },
+            {
+              "cf": "",
+              "x": "Insulting a person's family during a debate is considered below the belt in a civilized discussion."
+            },
+            {
+              "cf": "",
+              "x": "Sending anonymous hate messages to exploit someone's vulnerabilities is a below the belt act of cyberbullying."
+            },
+            {
+              "cf": "",
+              "x": "Employing personal attacks instead of addressing the issue at hand is resorting to below the belt strategies."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "cf1babcc-02ab-4795-9100-077dd2d800f2",
       "word": "judge, jury, and executioner",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=anVkZ2UsIGp1cnksIGFuZCBleGVjdXRpb25lcg&hash=a75082403087f5f7a07cf683ca2a855b332c677e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=anVkZ2UsIGp1cnksIGFuZCBleGVjdXRpb25lcg&hash=a75082403087f5f7a07cf683ca2a855b332c677e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43450/original/?type=jpeg",
@@ -180,55 +334,19 @@
       ]
     },
     {
+      "id": "dce695e7-53fb-438e-b61b-a54f3dd44020",
       "word": "the short end of the stick",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIHNob3J0IGVuZCBvZiB0aGUgc3RpY2s&hash=a6f8158038c5acb57dd67f0c2cbcca7cc8e11a00&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ðə ʃɔrt ɛnd ʌv ðə stɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIHNob3J0IGVuZCBvZiB0aGUgc3RpY2s&hash=a6f8158038c5acb57dd67f0c2cbcca7cc8e11a00&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dhē shawrt end av dhē stik",
       "img": "https://cdn.langeek.co/photo/43556/original/?type=jpeg",
       "pronunciation": "ðə ʃˈɔːɹt ˈɛnd ʌvðə stˈɪk",
       "senses": [
         {
           "definition": "an unfavorable or disadvantageous position or outcome that one receives in a particular situation",
-          "examples": [
-            {
-              "cf": "",
-              "x": "In this negotiation, it feels like our side is getting the short end of the stick with the unfavorable terms being imposed upon us."
-            },
-            {
-              "cf": "",
-              "x": "The employees in the company believe they are consistently getting the short end of the stick when it comes to promotions and raises."
-            },
-            {
-              "cf": "",
-              "x": "Despite their hard work and dedication, marginalized communities often find themselves on the receiving end of the short end of the stick in terms of access to resources and opportunities."
-            },
-            {
-              "cf": "",
-              "x": "Throughout history, certain groups have received the short end of the stick, facing discrimination and oppression based on their race, gender, or socioeconomic status."
-            },
-            {
-              "cf": "",
-              "x": "During the economic recession, many families felt they got the short end of the stick as they struggled to make ends meet while the wealthy seemed unaffected."
-            },
-            {
-              "cf": "",
-              "x": "In the previous project, our team got the short end of the stick with the most challenging tasks and tight deadlines."
-            },
-            {
-              "cf": "",
-              "x": "If we don't address systemic inequalities, future generations will continue to get the short end of the stick, perpetuating cycles of disadvantage and injustice."
-            },
-            {
-              "cf": "",
-              "x": "Without proper regulations and oversight, there is a risk that workers will get the short end of the stick in terms of wages and working conditions in the coming years."
-            },
-            {
-              "cf": "",
-              "x": "The marginalized communities fear they will continue to get the short end of the stick unless proactive measures are taken to address systemic biases and discrimination."
-            }
-          ]
+          "examples": []
         }
       ]
     }

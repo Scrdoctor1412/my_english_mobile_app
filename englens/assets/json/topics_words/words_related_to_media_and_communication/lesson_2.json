@@ -1,15 +1,17 @@
 {
+  "id": "be7a7a56-8417-4e84-9847-aefc07a9d39f",
   "topic": "words_related_to_media_and_communication",
   "title": "Social Media Interactions",
   "lesson": "lesson_2",
   "word_list": [
     {
-      "word": "post",
+      "id": "4c4a2575-2684-4f69-943e-712661f3fe59",
+      "word": "to post",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcG9zdA&hash=023f2f84b83723cf6a79f15601fb26d813af4dda&lang=en&cache-only=0",
       "phonetic_text": "poʊst",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcG9zdA&hash=023f2f84b83723cf6a79f15601fb26d813af4dda&lang=en&cache-only=0",
-      "phonetic_am_text": "powst",
+      "phonetic_am_text": "pooost",
       "img": "https://cdn.langeek.co/photo/29212/original/?type=jpeg",
       "pronunciation": "poʊst",
       "senses": [
@@ -37,7 +39,8 @@
       ]
     },
     {
-      "word": "share",
+      "id": "801ed56a-1b09-4150-87ac-436bfaef0458",
+      "word": "to share",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2hhcmU&hash=2fdc32346871753d5fdf75008e9c453a351505c4&lang=en&cache-only=0",
       "phonetic_text": "ʃɛr",
@@ -78,7 +81,8 @@
       ]
     },
     {
-      "word": "like",
+      "id": "c639d300-b1dc-4a7f-9154-2d9b7d63f214",
+      "word": "to like",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGlrZQ&hash=a753f2b9d00ab3c1a3a0bec21a1ef34a42143faf&lang=en&cache-only=0",
       "phonetic_text": "laɪk",
@@ -111,12 +115,13 @@
       ]
     },
     {
-      "word": "dislike",
+      "id": "13fa016c-ca55-4ca8-981e-0fc5d5b43a29",
+      "word": "to dislike",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlzbGlrZQ&hash=bdf748fe08435621cef658dd83e3d5d150701680&lang=en&cache-only=0",
-      "phonetic_text": "dɪslaɪk",
+      "phonetic_text": "dɪs.laɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlzbGlrZQ&hash=bdf748fe08435621cef658dd83e3d5d150701680&lang=en&cache-only=0",
-      "phonetic_am_text": "dislaik",
+      "phonetic_am_text": "dis.laik",
       "img": "",
       "pronunciation": "dɪsˈlaɪk",
       "senses": [
@@ -148,12 +153,13 @@
       ]
     },
     {
-      "word": "comment",
+      "id": "96bc82bf-9eea-4f2a-b00c-03d44ffd4c61",
+      "word": "to comment",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29tbWVudA&hash=816cf9a08d34435c25770aa2eea35f820666978f&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:mɛnt",
+      "phonetic_text": "kɑ:.mɛnt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29tbWVudA&hash=816cf9a08d34435c25770aa2eea35f820666978f&lang=en&cache-only=0",
-      "phonetic_am_text": "kaament",
+      "phonetic_am_text": "kaa.ment",
       "img": "https://cdn.langeek.co/photo/17785/original/comment?type=jpeg",
       "pronunciation": "ˈkɑːmɛnt",
       "senses": [
@@ -185,14 +191,15 @@
       ]
     },
     {
-      "word": "follow",
+      "id": "79a57a99-b50b-48e7-b549-01d6390027d1",
+      "word": "to follow",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZm9sbG93&hash=81f37c11a5ef93e3d1ef3f754dd1914977bdf9a7&lang=en&cache-only=0",
-      "phonetic_text": "fɑ:loʊ",
+      "phonetic_text": "fɑ.loʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZm9sbG93&hash=81f37c11a5ef93e3d1ef3f754dd1914977bdf9a7&lang=en&cache-only=0",
-      "phonetic_am_text": "faalow",
+      "phonetic_am_text": "faa.looo",
       "img": "",
-      "pronunciation": "ˈfɑɫoʊ",
+      "pronunciation": "ˈfɑloʊ",
       "senses": [
         {
           "definition": "to subscribe to a person or organization's account on a social media platform to check everything that they post or publish",
@@ -222,12 +229,13 @@
       ]
     },
     {
-      "word": "unfollow",
+      "id": "f7411514-c500-4ec3-9fdc-9be9723c6584",
+      "word": "to unfollow",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdW5mb2xsb3c&hash=b65eb48bce498becd7ff254f0a6257151ebc94ba&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʌn.fɑ.loʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdW5mb2xsb3c&hash=b65eb48bce498becd7ff254f0a6257151ebc94ba&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "an.faa.looo",
       "img": "",
       "pronunciation": "ʌnfˈɑːloʊ",
       "senses": [
@@ -238,7 +246,8 @@
       ]
     },
     {
-      "word": "tag",
+      "id": "4e862cd3-846f-4693-ac47-3d134dc0ccb3",
+      "word": "to tag",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFn&hash=b882342b57bf984d207492a1eae0f7f766296f5b&lang=en&cache-only=0",
       "phonetic_text": "tæg",
@@ -249,73 +258,37 @@
       "senses": [
         {
           "definition": "to associate or label someone or something in a post, comment, or photo, typically by using their username or adding relevant keywords, enabling others to easily find or identify them when viewing the content",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Don't forget to tag me in the photo from last night's party so I can share it with my friends!"
-            },
-            {
-              "cf": "",
-              "x": "I'll tag the author of this article in my tweet to give them credit for their insightful work."
-            },
-            {
-              "cf": "",
-              "x": "When you post the group picture, make sure to tag everyone so they know it's up!"
-            },
-            {
-              "cf": "",
-              "x": "He's the one who always tags us in those hilarious memes on Facebook."
-            },
-            {
-              "cf": "",
-              "x": "I always tag my favorite artists in my drawings inspired by their work."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "mention",
+      "id": "e2bbc0be-b332-48a0-82d2-94929adbd83a",
+      "word": "to mention",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWVudGlvbg&hash=05be962fb0bb5e9e672c7470cb4ea9083d0d3c62&lang=en&cache-only=0",
-      "phonetic_text": "mɛnʃən",
+      "phonetic_text": "mɛn.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWVudGlvbg&hash=05be962fb0bb5e9e672c7470cb4ea9083d0d3c62&lang=en&cache-only=0",
-      "phonetic_am_text": "menshēn",
+      "phonetic_am_text": "men.shēn",
       "img": "",
       "pronunciation": "ˈmɛnʃən",
       "senses": [
         {
           "definition": "to include or reference another user's username or handle in a post, comment, or message, often by using the \"@\" symbol followed by their username, drawing their attention to the content or inviting them to join the conversation",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I want to mention my friend's new business venture on my Instagram story."
-            },
-            {
-              "cf": "",
-              "x": "She mentioned me in her Facebook post about our recent collaboration."
-            },
-            {
-              "cf": "",
-              "x": "You should mention the brand you're wearing in your TikTok video for product promotion."
-            },
-            {
-              "cf": "",
-              "x": "I'm going to mention your username in my Instagram caption to give you credit for the photo."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "DM",
+      "id": "55d18d3a-5518-457c-87fc-1426a6c12a92",
+      "word": "to DM",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gRE0&hash=4e70670406dd7913a0365d1a9eeda8a977045ee0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gRE0&hash=4e70670406dd7913a0365d1a9eeda8a977045ee0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
-      "pronunciation": "dˌiːˈɛm",
+      "pronunciation": "diː ɛm",
       "senses": [
         {
           "definition": "to send someone a private message on the social media",
@@ -324,12 +297,13 @@
       ]
     },
     {
-      "word": "reply",
+      "id": "1a8bf8ab-25c2-47b7-a8bb-f3f5fa85e9bc",
+      "word": "to reply",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVwbHk&hash=396860369f29f7f2f8fb03e1bc01ee008244d8af&lang=en&cache-only=0",
-      "phonetic_text": "rɪplaɪ",
+      "phonetic_text": "rɪp.laɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVwbHk&hash=396860369f29f7f2f8fb03e1bc01ee008244d8af&lang=en&cache-only=0",
-      "phonetic_am_text": "riplai",
+      "phonetic_am_text": "rip.lai",
       "img": "",
       "pronunciation": "rɪˈplaɪ",
       "senses": [
@@ -361,10 +335,11 @@
       ]
     },
     {
-      "word": "retweet",
+      "id": "ca1c97c8-f2a2-4f8a-9df3-9d33e2634580",
+      "word": "to retweet",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmV0d2VldA&hash=b5935551805a7a28c138b36fa9e756ca46994d24&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmV0d2VldA&hash=b5935551805a7a28c138b36fa9e756ca46994d24&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -382,14 +357,15 @@
       ]
     },
     {
-      "word": "favorite",
+      "id": "25e6e55d-65f5-48ab-adf2-255a60469009",
+      "word": "to favorite",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmF2b3JpdGU&hash=fa806cb074b5cbd25edd9139ef716650e7b1580a&lang=en&cache-only=0",
-      "phonetic_text": "feɪvərɪt",
+      "phonetic_text": "feɪ.və.rɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmF2b3JpdGU&hash=fa806cb074b5cbd25edd9139ef716650e7b1580a&lang=en&cache-only=0",
-      "phonetic_am_text": "feivērit",
+      "phonetic_am_text": "fei.vē.rit",
       "img": "",
-      "pronunciation": "ˈfeɪvɝɪt/, /ˈfeɪvɹət",
+      "pronunciation": "ˈfeɪvɚɪt",
       "senses": [
         {
           "definition": "to mark or indicate that a post, tweet, or other content is liked, enjoyed, or of interest by selecting a \"favorite\" or similar button, allowing users to save or bookmark the content for future reference or to show appreciation for the post",
@@ -398,47 +374,32 @@
       ]
     },
     {
-      "word": "save",
+      "id": "d6fbb6b3-ced0-4feb-9d04-e869f45bf689",
+      "word": "to save",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2F2ZQ&hash=89a06fa419a9dc559941b967d3dcb789909a7b1c&lang=en&cache-only=0",
       "phonetic_text": "seɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2F2ZQ&hash=89a06fa419a9dc559941b967d3dcb789909a7b1c&lang=en&cache-only=0",
       "phonetic_am_text": "seiv",
       "img": "",
-      "pronunciation": "ˈseɪv",
+      "pronunciation": "seɪv",
       "senses": [
         {
           "definition": "to preserve or bookmark a post, image, video, or other content for later viewing or reference, often by selecting a \"save\" or similar option provided by the platform",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She saved the interesting article to read during her commute."
-            },
-            {
-              "cf": "",
-              "x": "You can save this video to your playlist for future enjoyment."
-            },
-            {
-              "cf": "",
-              "x": "I often save inspirational quotes I find online."
-            },
-            {
-              "cf": "",
-              "x": "You can save that funny meme to share with friends later."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "block",
+      "id": "513656e5-e298-4433-8c57-1d69f3e05b81",
+      "word": "to block",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmxvY2s&hash=4681320f781fb51e1c8d51bb10a3955f43c39d9d&lang=en&cache-only=0",
-      "phonetic_text": "blɑ:k",
+      "phonetic_text": "blɑk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmxvY2s&hash=4681320f781fb51e1c8d51bb10a3955f43c39d9d&lang=en&cache-only=0",
       "phonetic_am_text": "blaak",
       "img": "https://cdn.langeek.co/photo/59759/original/?type=jpeg",
-      "pronunciation": "ˈbɫɑk",
+      "pronunciation": "blɑk",
       "senses": [
         {
           "definition": "to prevent someone from contacting or viewing one's activities on social media",
@@ -468,14 +429,15 @@
       ]
     },
     {
-      "word": "unblock",
+      "id": "b858bac6-1356-40ea-9a4a-f753a69d3d13",
+      "word": "to unblock",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdW5ibG9jaw&hash=86a1b8a7fc74a9bb02780271ffda98694034a7d7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʌn.blɑk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdW5ibG9jaw&hash=86a1b8a7fc74a9bb02780271ffda98694034a7d7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "an.blaak",
       "img": "",
-      "pronunciation": "ʌnblˈɑːk",
+      "pronunciation": "ʌnˈblɑk",
       "senses": [
         {
           "definition": "to remove restrictions or limitations placed on another user's account, allowing them to regain access to one's profile, posts, or interactions",
@@ -484,44 +446,25 @@
       ]
     },
     {
-      "word": "report",
+      "id": "2462dfda-ac8e-4b51-af8f-fb1d6d09baa6",
+      "word": "to report",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVwb3J0&hash=029b324999d920db6e45ff603b6d4942830dbef1&lang=en&cache-only=0",
-      "phonetic_text": "ripɔ:rt",
+      "phonetic_text": "ri.pɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVwb3J0&hash=029b324999d920db6e45ff603b6d4942830dbef1&lang=en&cache-only=0",
-      "phonetic_am_text": "ripaawrt",
+      "phonetic_am_text": "ri.pawrt",
       "img": "",
-      "pronunciation": "ɹiˈpɔɹt/, /ɹɪˈpɔɹt",
+      "pronunciation": "rɪˈpɔrt",
       "senses": [
         {
           "definition": "to notify the platform or its administrators about inappropriate, offensive, or abusive content or behavior by using the provided reporting feature or option",
-          "examples": [
-            {
-              "cf": "",
-              "x": "If you come across a post that violates the community guidelines, please report it for review."
-            },
-            {
-              "cf": "",
-              "x": "The website has a reporting system in place to enable users to report spam or fraudulent activity."
-            },
-            {
-              "cf": "",
-              "x": "The online forum relies on its community members to report any instances of inappropriate behavior or offensive language."
-            },
-            {
-              "cf": "",
-              "x": "The gaming platform encourages players to report any cheating, hacking, or abusive behavior."
-            },
-            {
-              "cf": "",
-              "x": "It is important to report any instances of impersonation or account hacking to the platform's security team."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "hide",
+      "id": "edcd33b5-1db2-4512-bf67-da0b2245ca2a",
+      "word": "to hide",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGlkZQ&hash=f8a3cde01f857c28e73659a94933ba8473001e3b&lang=en&cache-only=0",
       "phonetic_text": "haɪd",
@@ -558,7 +501,8 @@
       ]
     },
     {
-      "word": "friend",
+      "id": "9c5f934b-52a6-4ae9-a02f-78cdc1d5fd19",
+      "word": "to friend",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZnJpZW5k&hash=1ec195a4272ecbc5e429121056db695dfad76672&lang=en&cache-only=0",
       "phonetic_text": "frɛnd",
@@ -583,14 +527,15 @@
       ]
     },
     {
-      "word": "tweet",
+      "id": "a8158004-0f07-4f65-8149-4f90bcdd905d",
+      "word": "to tweet",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHdlZXQ&hash=88d3d822f384ccacc160efabb0447f00cacc0214&lang=en&cache-only=0",
       "phonetic_text": "twi:t",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHdlZXQ&hash=88d3d822f384ccacc160efabb0447f00cacc0214&lang=en&cache-only=0",
-      "phonetic_am_text": "tweet",
+      "phonetic_am_text": "tvit",
       "img": "https://cdn.langeek.co/photo/36838/original/?type=jpeg",
-      "pronunciation": "ˈtwit",
+      "pronunciation": "twiːt",
       "senses": [
         {
           "definition": "to post or send something on X social media",
@@ -620,12 +565,13 @@
       ]
     },
     {
-      "word": "pm",
+      "id": "cd919753-8acf-436e-bbb8-f660721dbda6",
+      "word": "to pm",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcG0&hash=9094c4c99379b0bf9a7ae06f8ea64452897b5e72&lang=en&cache-only=0",
-      "phonetic_text": "pi:ɛm",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcG0&hash=9094c4c99379b0bf9a7ae06f8ea64452897b5e72&lang=en&cache-only=0",
-      "phonetic_am_text": "peeem",
+      "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/17783/original/chat?type=jpeg",
       "pronunciation": "ˈpiˈɛm",
       "senses": [
@@ -636,12 +582,13 @@
       ]
     },
     {
-      "word": "deactivate",
+      "id": "b83d4868-9c20-4f12-b15d-d58ca7f1923e",
+      "word": "to deactivate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVhY3RpdmF0ZQ&hash=cd9683cca19641770a0958dd26ae1ee89e694bc5&lang=en&cache-only=0",
-      "phonetic_text": "diæktɪveɪt",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVhY3RpdmF0ZQ&hash=cd9683cca19641770a0958dd26ae1ee89e694bc5&lang=en&cache-only=0",
-      "phonetic_am_text": "diāktiveit",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˌdiˈæktɪˌveɪt",
       "senses": [
@@ -673,14 +620,15 @@
       ]
     },
     {
-      "word": "subscribe",
+      "id": "a8e0e7af-40fc-4660-a0a2-9adc0813b705",
+      "word": "to subscribe",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3Vic2NyaWJl&hash=26e13c7164e24b8bdef0a5c3e88091021618ff3e&lang=en&cache-only=0",
-      "phonetic_text": "səbskraɪb",
+      "phonetic_text": "səbs.kraɪb",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3Vic2NyaWJl&hash=26e13c7164e24b8bdef0a5c3e88091021618ff3e&lang=en&cache-only=0",
-      "phonetic_am_text": "sēbskraib",
+      "phonetic_am_text": "sēbs.kraib",
       "img": "",
-      "pronunciation": "səbsˈkɹaɪb",
+      "pronunciation": "səbˈskraɪb",
       "senses": [
         {
           "definition": "to voluntarily sign up or register for a service or regular updates, indicating the desire to receive ongoing content or notifications from a specific source",
@@ -689,12 +637,13 @@
       ]
     },
     {
-      "word": "unsubscribe",
+      "id": "8d11bc35-a951-41b4-8e99-02f0e2cb499f",
+      "word": "to unsubscribe",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdW5zdWJzY3JpYmU&hash=ee4dcaa9ab2b9c79cbc65c6f6394a582dd654532&lang=en&cache-only=0",
-      "phonetic_text": "ənsəbskraɪb",
+      "phonetic_text": "ʌn.səbs.kraɪb",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdW5zdWJzY3JpYmU&hash=ee4dcaa9ab2b9c79cbc65c6f6394a582dd654532&lang=en&cache-only=0",
-      "phonetic_am_text": "ēnsēbskraib",
+      "phonetic_am_text": "an.sēbs.kraib",
       "img": "",
       "pronunciation": "ənsəbsˈkɹaɪb",
       "senses": [

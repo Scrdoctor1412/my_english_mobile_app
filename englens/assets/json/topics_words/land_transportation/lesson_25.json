@@ -1,9 +1,11 @@
 {
+  "id": "e66a3b32-6d71-4861-95a0-51f015f3afcf",
   "topic": "land_transportation",
   "title": "Road Design and Features",
   "lesson": "lesson_25",
   "word_list": [
     {
+      "id": "a780030f-3f4c-408b-b0ec-c456ff85d754",
       "word": "lane",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFuZQ&hash=a792ef37db9bed07fb61cc9cd5f0c30fc9aadd7a&lang=en&cache-only=0",
@@ -11,7 +13,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=bGFuZQ&hash=a792ef37db9bed07fb61cc9cd5f0c30fc9aadd7a&lang=en&cache-only=0",
       "phonetic_am_text": "lein",
       "img": "https://cdn.langeek.co/photo/19574/original/lane?type=jpeg",
-      "pronunciation": "ˈɫeɪn",
+      "pronunciation": "leɪn",
       "senses": [
         {
           "definition": "a part of a road that is separated by white lines",
@@ -37,12 +39,13 @@
       ]
     },
     {
+      "id": "c7cc4cdf-980c-41c1-8243-67d86c048d22",
       "word": "slow lane",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2xvdyBsYW5l&hash=7f43f59a53ade542553d40de268b160726f0b776&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sloʊ leɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=c2xvdyBsYW5l&hash=7f43f59a53ade542553d40de268b160726f0b776&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "slooo lein",
       "img": "",
       "pronunciation": "slˈoʊ lˈeɪn",
       "senses": [
@@ -74,12 +77,13 @@
       ]
     },
     {
+      "id": "c1802f29-1f1a-460f-ad3c-337ccec47bc7",
       "word": "fast lane",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFzdCBsYW5l&hash=1e65da64489a5d88483564da62abb4151e7db667&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fæst leɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFzdCBsYW5l&hash=1e65da64489a5d88483564da62abb4151e7db667&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fāst lein",
       "img": "",
       "pronunciation": "fˈæst lˈeɪn",
       "senses": [
@@ -111,47 +115,28 @@
       ]
     },
     {
+      "id": "e654eacd-51ae-4915-bcbd-f8e87397f758",
       "word": "passing lane",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFzc2luZyBsYW5l&hash=8c24b1ea2003e8784751e9870c4c52af7115be46&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pæ.sɪng leɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFzc2luZyBsYW5l&hash=8c24b1ea2003e8784751e9870c4c52af7115be46&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pā.sing lein",
       "img": "",
       "pronunciation": "pˈæsɪŋ lˈeɪn",
       "senses": [
         {
           "definition": "the lane on a road or highway that vehicles use to overtake slower-moving traffic",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Drivers should use the passing lane only when they need to overtake slower vehicles ahead of them."
-            },
-            {
-              "cf": "",
-              "x": "It's important to keep the passing lane clear for faster-moving traffic to maintain a smooth flow of vehicles."
-            },
-            {
-              "cf": "",
-              "x": "In some countries, there are strict rules about how long you can stay in the passing lane if you're not overtaking another vehicle."
-            },
-            {
-              "cf": "",
-              "x": "When approaching a slower vehicle, it's courteous to move into the passing lane briefly to overtake and then return to the right lane."
-            },
-            {
-              "cf": "",
-              "x": "Using the passing lane responsibly helps prevent congestion and promotes safer driving habits on busy highways."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "61db5ad0-c17c-438e-81c6-9f2a788763b6",
       "word": "HOV lane",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=SE9WIGxhbmU&hash=90a61f4752666b2082b5865fd894fc98d1e2028b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=SE9WIGxhbmU&hash=90a61f4752666b2082b5865fd894fc98d1e2028b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -185,10 +170,11 @@
       ]
     },
     {
+      "id": "931be961-93e0-4dd0-bd46-f4f350c444a4",
       "word": "HOT lane",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=SE9UIGxhbmU&hash=3668a0ee7dfca7fa395a16ea543a68dc7ca1cba5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=SE9UIGxhbmU&hash=3668a0ee7dfca7fa395a16ea543a68dc7ca1cba5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -201,123 +187,64 @@
       ]
     },
     {
+      "id": "33acdacc-9a39-45f9-bb0a-b75fe22c3bc5",
       "word": "reversible lane",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmV2ZXJzaWJsZSBsYW5l&hash=ee514e276e24e60cec35d133655d16e0dd968a91&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ri.vɜr.sə.bəl leɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=cmV2ZXJzaWJsZSBsYW5l&hash=ee514e276e24e60cec35d133655d16e0dd968a91&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ri.vēr.sē.bēl lein",
       "img": "",
       "pronunciation": "ɹɪvˈɜːsəbəl lˈeɪn",
       "senses": [
         {
           "definition": "a traffic lane that changes direction based on the time of day or traffic flow",
-          "examples": [
-            {
-              "cf": "",
-              "x": "In some cities, reversible lanes are used during rush hours to accommodate the heavy influx of commuters heading in one direction."
-            },
-            {
-              "cf": "",
-              "x": "Drivers must pay close attention to the signs indicating when a reversible lane is in effect to avoid driving against traffic."
-            },
-            {
-              "cf": "",
-              "x": "It is important for motorists to adhere to the posted speed limits and lane markings when using reversible lanes to ensure safety for all road users."
-            },
-            {
-              "cf": "",
-              "x": "Before traveling, it's wise to check local traffic reports to understand when reversible lanes might be active on your route."
-            },
-            {
-              "cf": "",
-              "x": "Authorities regularly monitor reversible lanes to adjust their operations based on traffic conditions and improve overall traffic flow."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "73b63cb2-c2e7-41e9-9213-34c8e603fd3b",
       "word": "climbing lane",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xpbWJpbmcgbGFuZQ&hash=4878b0f49a997edd5b03e8294c63a703a3724fb9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "klaɪm.ɪng leɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xpbWJpbmcgbGFuZQ&hash=4878b0f49a997edd5b03e8294c63a703a3724fb9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "klaim.ing lein",
       "img": "",
       "pronunciation": "klˈaɪmɪŋ lˈeɪn",
       "senses": [
         {
           "definition": "an additional lane on a road designed to help slower vehicles move uphill without impeding faster traffic",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The highway has a climbing lane that allows trucks to ascend the steep hill without slowing down other vehicles."
-            },
-            {
-              "cf": "",
-              "x": "Drivers appreciate climbing lanes because they reduce congestion during peak travel times."
-            },
-            {
-              "cf": "",
-              "x": "When approaching a climbing lane, motorists should check for merging vehicles to ensure safe lane changes."
-            },
-            {
-              "cf": "",
-              "x": "A climbing lane typically appears on roads with frequent elevation changes to improve traffic flow."
-            },
-            {
-              "cf": "",
-              "x": "During construction, workers added a climbing lane to ease traffic congestion caused by slow-moving vehicles."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "a54dd5bb-651d-4514-bd83-30a21f68f208",
       "word": "bicycle lane",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmljeWNsZSBsYW5l&hash=157315aa0a7fe24ff7738538b8ef3ebd445f9b3c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "baɪ.sɪkl leɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=YmljeWNsZSBsYW5l&hash=157315aa0a7fe24ff7738538b8ef3ebd445f9b3c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bai.sikl lein",
       "img": "",
       "pronunciation": "bˈaɪsɪkəl lˈeɪn",
       "senses": [
         {
           "definition": "a designated part of the road marked specifically for cyclists to ride safely",
-          "examples": [
-            {
-              "cf": "",
-              "x": "In many cities, bicycle lanes are painted with white lines to separate them from car traffic."
-            },
-            {
-              "cf": "",
-              "x": "Cyclists appreciate bicycle lanes because they provide a safer route through busy areas."
-            },
-            {
-              "cf": "",
-              "x": "It's important for drivers to be aware of bicycle lanes and yield to cyclists when turning across them."
-            },
-            {
-              "cf": "",
-              "x": "Some bicycle lanes are physically separated from car lanes by barriers or curbs for added safety."
-            },
-            {
-              "cf": "",
-              "x": "City planners often consider adding bicycle lanes to improve transportation options and reduce traffic congestion."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "a7c1f1d1-d3cd-4859-8d5a-40db8cb5ee60",
       "word": "dogleg",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZG9nbGVn&hash=681c100374313ba79915d03534ed6094ba268f50&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɔ:g.lɛg",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG9nbGVn&hash=681c100374313ba79915d03534ed6094ba268f50&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dawg.leg",
       "img": "",
       "pronunciation": "dˈɑːɡlɛɡ",
       "senses": [
@@ -349,49 +276,30 @@
       ]
     },
     {
+      "id": "5858efa5-a0b7-49b7-9cfc-94cd4f4501d2",
       "word": "bike lane",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmlrZSBsYW5l&hash=6b210d2eab78a19c7ca44b361a70d1eb53f49a12&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "baɪk leɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=YmlrZSBsYW5l&hash=6b210d2eab78a19c7ca44b361a70d1eb53f49a12&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baik lein",
       "img": "",
       "pronunciation": "bˈaɪk lˈeɪn",
       "senses": [
         {
           "definition": "a designated area on a road for cyclists",
-          "examples": [
-            {
-              "cf": "",
-              "x": "In many cities, bike lanes are marked with painted symbols of bicycles to indicate where cyclists should ride."
-            },
-            {
-              "cf": "",
-              "x": "The city council plans to expand the bike lane network to encourage more people to cycle instead of drive."
-            },
-            {
-              "cf": "",
-              "x": "It is important for drivers to be aware of bike lanes and yield to cyclists when turning across them."
-            },
-            {
-              "cf": "",
-              "x": "During rush hour, the bike lane can be quite busy with commuters on bicycles heading to work or school."
-            },
-            {
-              "cf": "",
-              "x": "Safety precautions such as wearing helmets and using lights at night are recommended for cyclists using bike lanes."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "3fd37f2a-86af-4679-a583-bedeffa5e169",
       "word": "breakdown lane",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJlYWtkb3duIGxhbmU&hash=4f7d5b77ffaf724240aebd3ac4ddc083431b9c2d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "breɪk.daʊn leɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJlYWtkb3duIGxhbmU&hash=4f7d5b77ffaf724240aebd3ac4ddc083431b9c2d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "breik.daoon lein",
       "img": "https://cdn.langeek.co/photo/37377/original/?type=jpeg",
       "pronunciation": "bɹˈeɪkdaʊn lˈeɪn",
       "senses": [
@@ -423,12 +331,13 @@
       ]
     },
     {
+      "id": "bf6e441f-fe10-406e-a004-f45c83d1e6d8",
       "word": "express lane",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXhwcmVzcyBsYW5l&hash=a8276ece5f786b5ce07d62ddb7ce12ea1e342766&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪksp.rɛs leɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXhwcmVzcyBsYW5l&hash=a8276ece5f786b5ce07d62ddb7ce12ea1e342766&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "iksp.res lein",
       "img": "",
       "pronunciation": "ɛkspɹˈɛs lˈeɪn",
       "senses": [
@@ -460,12 +369,13 @@
       ]
     },
     {
+      "id": "3c3edb7f-a5df-48ec-95b0-844c2e8479c3",
       "word": "carpool lane",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FycG9vbCBsYW5l&hash=20229ff19daaffadabfe8b3f7ae2d58ebcc75f3d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑ:r.pu:l leɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FycG9vbCBsYW5l&hash=20229ff19daaffadabfe8b3f7ae2d58ebcc75f3d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaar.pool lein",
       "img": "",
       "pronunciation": "kˈɑːɹpuːl lˈeɪn",
       "senses": [
@@ -497,6 +407,7 @@
       ]
     },
     {
+      "id": "1539bf46-2a8d-4de5-b0a2-bce184dac698",
       "word": "curb",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3VyYg&hash=c8b1b02f9edd6785620f168cd690f73e7c2327a3&lang=en&cache-only=0",
@@ -530,12 +441,13 @@
       ]
     },
     {
+      "id": "70bd72ac-13f2-4156-9bca-d94b56a1fca1",
       "word": "curbside",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3VyYnNpZGU&hash=c5cb9013f5316af019ae2050c09080959b1e5b90&lang=en&cache-only=0",
-      "phonetic_text": "kɜrbsaɪd",
+      "phonetic_text": "kɜrb.saɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3VyYnNpZGU&hash=c5cb9013f5316af019ae2050c09080959b1e5b90&lang=en&cache-only=0",
-      "phonetic_am_text": "kērbsaid",
+      "phonetic_am_text": "kērb.said",
       "img": "",
       "pronunciation": "ˈkɝbˌsaɪd",
       "senses": [
@@ -559,12 +471,13 @@
       ]
     },
     {
+      "id": "16bcf961-9850-407f-82af-de1d06e00090",
       "word": "camber",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FtYmVy&hash=fa00ff4bb11c8e9ce6641834b52a12131778a2a1&lang=en&cache-only=0",
-      "phonetic_text": "kæmbər",
+      "phonetic_text": "kæm.bɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FtYmVy&hash=fa00ff4bb11c8e9ce6641834b52a12131778a2a1&lang=en&cache-only=0",
-      "phonetic_am_text": "kāmbēr",
+      "phonetic_am_text": "kām.bēr",
       "img": "",
       "pronunciation": "ˈkæmbɝ",
       "senses": [
@@ -596,6 +509,7 @@
       ]
     },
     {
+      "id": "646f8b43-9beb-43fc-86ac-876116665194",
       "word": "bend",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVuZA&hash=2bfaf16ad5e1a3936bd50df9cc17cd218aaac0b2&lang=en&cache-only=0",
@@ -603,7 +517,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=YmVuZA&hash=2bfaf16ad5e1a3936bd50df9cc17cd218aaac0b2&lang=en&cache-only=0",
       "phonetic_am_text": "bend",
       "img": "https://cdn.langeek.co/photo/21426/original/?type=jpeg",
-      "pronunciation": "ˈbɛnd",
+      "pronunciation": "bɛnd",
       "senses": [
         {
           "definition": "a curve in a road, river, etc.",
@@ -621,12 +535,13 @@
       ]
     },
     {
+      "id": "66a54d20-dd78-4bd6-95eb-3ef2582f7d00",
       "word": "switchback",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3dpdGNoYmFjaw&hash=a945e9793e19d779225857d7115c617b2720e5fb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "swɪʧ.bæk",
       "phonetic_am": "https://tts.langeek.co/read?text=c3dpdGNoYmFjaw&hash=a945e9793e19d779225857d7115c617b2720e5fb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "svich.bāk",
       "img": "",
       "pronunciation": "swˈɪtʃbæk",
       "senses": [
@@ -658,12 +573,13 @@
       ]
     },
     {
+      "id": "278b48ae-18cc-450e-bf2f-11d7a1c13984",
       "word": "gradient",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JhZGllbnQ&hash=fd16c3576446322b0b2b4486826aacaa221863a0&lang=en&cache-only=0",
-      "phonetic_text": "greɪdiənt",
+      "phonetic_text": "greɪ.diənt",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JhZGllbnQ&hash=fd16c3576446322b0b2b4486826aacaa221863a0&lang=en&cache-only=0",
-      "phonetic_am_text": "greidiēnt",
+      "phonetic_am_text": "grei.diēnt",
       "img": "",
       "pronunciation": "ˈɡɹeɪdiənt",
       "senses": [
@@ -674,49 +590,30 @@
       ]
     },
     {
+      "id": "32f836d8-9e37-4b8b-afec-2e34ce969f2a",
       "word": "hairpin turn",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFpcnBpbiB0dXJu&hash=7f55ee0ec526bc6e4dd6a3f73fedb5ebe69588d5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɛr.pɪn tɜrn",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFpcnBpbiB0dXJu&hash=7f55ee0ec526bc6e4dd6a3f73fedb5ebe69588d5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "her.pin tērn",
       "img": "",
       "pronunciation": "hˈɛɹpɪn tˈɜːn",
       "senses": [
         {
           "definition": "a sharp bend in a road that sharply changes its direction",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The mountain road had several hairpin turns, making it challenging for drivers to navigate."
-            },
-            {
-              "cf": "",
-              "x": "She gripped the steering wheel tightly as she approached the hairpin turn on the narrow road."
-            },
-            {
-              "cf": "",
-              "x": "The cyclist slowed down to safely maneuver the hairpin turn at the bottom of the hill."
-            },
-            {
-              "cf": "",
-              "x": "The bus driver skillfully negotiated the hairpin turn despite the vehicle's large size."
-            },
-            {
-              "cf": "",
-              "x": "Signs warned drivers of the upcoming hairpin turn ahead, advising them to reduce speed."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "4dea2279-aa1f-417d-bf6e-9e123e30de4a",
       "word": "winding",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=d2luZGluZw&hash=aa3485e1513a9764170c1155794fc4ddf6dfbee6&lang=en&cache-only=0",
-      "phonetic_text": "waɪndɪng",
+      "phonetic_text": "waɪn.dɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luZGluZw&hash=aa3485e1513a9764170c1155794fc4ddf6dfbee6&lang=en&cache-only=0",
-      "phonetic_am_text": "wainding",
+      "phonetic_am_text": "vain.ding",
       "img": "",
       "pronunciation": "ˈwaɪndɪŋ",
       "senses": [
@@ -736,12 +633,13 @@
       ]
     },
     {
+      "id": "121eecb0-c883-4ff1-b2b3-1be1f6a405e0",
       "word": "circle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2lyY2xl&hash=a3106bd8f319a09589c5fe10e0ff7adaddb92ea0&lang=en&cache-only=0",
-      "phonetic_text": "sɜrkəl",
+      "phonetic_text": "sɜrk.lə",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2lyY2xl&hash=a3106bd8f319a09589c5fe10e0ff7adaddb92ea0&lang=en&cache-only=0",
-      "phonetic_am_text": "sērkēl",
+      "phonetic_am_text": "sērk.lē",
       "img": "https://cdn.langeek.co/photo/52079/original/?type=jpeg",
       "pronunciation": "ˈsɝːkəl",
       "senses": [
@@ -773,43 +671,24 @@
       ]
     },
     {
+      "id": "5049091f-af7d-4b72-bb8b-2a99ee1cde47",
       "word": "loop around",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9vcCBhcm91bmQ&hash=7c1b3a47181f12bb983ec455087bc850a19b4094&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lup ə.raʊnd",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9vcCBhcm91bmQ&hash=7c1b3a47181f12bb983ec455087bc850a19b4094&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "loop ē.raoond",
       "img": "",
       "pronunciation": "lˈuːp ɐɹˈaʊnd",
       "senses": [
         {
           "definition": "a circuitous path or route that returns to the starting point",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The hiking trail formed a loop around the lake, offering picturesque views from all angles."
-            },
-            {
-              "cf": "",
-              "x": "We took a loop around the city to get a better sense of its layout before settling on a place to eat."
-            },
-            {
-              "cf": "",
-              "x": "The bus tour took us on a loop around the historic district, stopping at significant landmarks along the way."
-            },
-            {
-              "cf": "",
-              "x": "After getting lost in the maze, we finally found the correct path that led us in a loop around the garden."
-            },
-            {
-              "cf": "",
-              "x": "The marathon course was designed to loop around the park twice, showcasing its natural beauty to the runners."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "ba84cae1-a211-4bf5-b01e-bffc1f0335b6",
       "word": "merge",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWVyZ2U&hash=c68147a7a030f911a74cb59ddfe8e031f4ef009b&lang=en&cache-only=0",
@@ -817,42 +696,22 @@
       "phonetic_am": "https://tts.langeek.co/read?text=bWVyZ2U&hash=c68147a7a030f911a74cb59ddfe8e031f4ef009b&lang=en&cache-only=0",
       "phonetic_am_text": "mērj",
       "img": "",
-      "pronunciation": "ˈmɝdʒ",
+      "pronunciation": "mɝːʤ",
       "senses": [
         {
           "definition": "the point where two or more roads or lanes come together and traffic must combine",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Drivers should use caution when approaching the highway merge to avoid accidents."
-            },
-            {
-              "cf": "",
-              "x": "The new interchange design aims to reduce congestion at the busy merge."
-            },
-            {
-              "cf": "",
-              "x": "At the merge, vehicles must yield to those already on the main road."
-            },
-            {
-              "cf": "",
-              "x": "Traffic signs provide clear instructions on how to navigate the merge safely."
-            },
-            {
-              "cf": "",
-              "x": "The construction project includes widening the merge to accommodate increased traffic flow."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "e19c4ee7-b998-4249-9185-e786d46e79da",
       "word": "jughandle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=anVnaGFuZGxl&hash=3b3a835f9d72758cf113a4f96d7bb3038ccbd116&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤəg.hæn.dəl",
       "phonetic_am": "https://tts.langeek.co/read?text=anVnaGFuZGxl&hash=3b3a835f9d72758cf113a4f96d7bb3038ccbd116&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "jēg.hān.dēl",
       "img": "",
       "pronunciation": "dʒˈʌɡændəl",
       "senses": [
@@ -884,12 +743,13 @@
       ]
     },
     {
+      "id": "84539daf-8611-43ad-a99d-104226de3b8e",
       "word": "roadside",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9hZHNpZGU&hash=9b7a3d8cc33efe4a6d824ed2469dadce10137a99&lang=en&cache-only=0",
-      "phonetic_text": "roʊdsaɪd",
+      "phonetic_text": "roʊd.saɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9hZHNpZGU&hash=9b7a3d8cc33efe4a6d824ed2469dadce10137a99&lang=en&cache-only=0",
-      "phonetic_am_text": "rowdsaid",
+      "phonetic_am_text": "roood.said",
       "img": "",
       "pronunciation": "ˈɹoʊdˌsaɪd",
       "senses": [
@@ -921,43 +781,24 @@
       ]
     },
     {
+      "id": "063d7c28-33db-499b-8f1f-e8552677d164",
       "word": "median strip",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWVkaWFuIHN0cmlw&hash=e13af6456deddba81059c556b1ecd5d714b4500b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mi.diən strɪp",
       "phonetic_am": "https://tts.langeek.co/read?text=bWVkaWFuIHN0cmlw&hash=e13af6456deddba81059c556b1ecd5d714b4500b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mi.diēn strip",
       "img": "",
       "pronunciation": "mˈiːdiːən stɹˈɪp",
       "senses": [
         {
           "definition": "a narrow area of land or barrier that separates lanes of traffic on a highway or road",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The highway was divided by a median strip, with flowers planted along its length."
-            },
-            {
-              "cf": "",
-              "x": "Drivers should be cautious when crossing the median strip to avoid accidents."
-            },
-            {
-              "cf": "",
-              "x": "The workers installed new lights along the median strip to improve visibility at night."
-            },
-            {
-              "cf": "",
-              "x": "The accident occurred when a vehicle veered across the median strip into oncoming traffic."
-            },
-            {
-              "cf": "",
-              "x": "Pedestrians should never attempt to walk across the median strip due to the high-speed traffic nearby."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "3c59322f-e1ea-4e7a-acba-522c5eb5014b",
       "word": "verge",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmVyZ2U&hash=b7205db7b601c6c3874c6a52c684bff77bb9b9ff&lang=en&cache-only=0",
@@ -995,12 +836,13 @@
       ]
     },
     {
+      "id": "9e314b63-a6a1-496a-8bac-9cb04a32259e",
       "word": "shoulder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2hvdWxkZXI&hash=aa6c794c911628c3d4b3f9c5d63eca18f0f0f4f5&lang=en&cache-only=0",
-      "phonetic_text": "ʃoʊldər",
+      "phonetic_text": "ʃoʊl.dər",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hvdWxkZXI&hash=aa6c794c911628c3d4b3f9c5d63eca18f0f0f4f5&lang=en&cache-only=0",
-      "phonetic_am_text": "showldēr",
+      "phonetic_am_text": "shoool.dēr",
       "img": "https://cdn.langeek.co/photo/37377/original/?type=jpeg",
       "pronunciation": "ˈʃoʊldɚ",
       "senses": [
@@ -1032,12 +874,13 @@
       ]
     },
     {
+      "id": "bfb962bf-338a-4021-833a-77f91207340e",
       "word": "soft shoulder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c29mdCBzaG91bGRlcg&hash=c9b03ae2f22791b2248b32c542d8625627050f55&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɑft ʃoʊl.dər",
       "phonetic_am": "https://tts.langeek.co/read?text=c29mdCBzaG91bGRlcg&hash=c9b03ae2f22791b2248b32c542d8625627050f55&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "saaft shoool.dēr",
       "img": "",
       "pronunciation": "sˈɔft ʃˈoʊldɚ",
       "senses": [
@@ -1069,12 +912,13 @@
       ]
     },
     {
+      "id": "81857c7e-75f6-4dbc-b16e-214ad2fd70cd",
       "word": "pylon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHlsb24&hash=7543783ec13b0b4efefe99d58ecc9c4c475cefa2&lang=en&cache-only=0",
-      "phonetic_text": "paɪlɑn",
+      "phonetic_text": "paɪ.lɑn",
       "phonetic_am": "https://tts.langeek.co/read?text=cHlsb24&hash=7543783ec13b0b4efefe99d58ecc9c4c475cefa2&lang=en&cache-only=0",
-      "phonetic_am_text": "pailɑn",
+      "phonetic_am_text": "pai.laan",
       "img": "",
       "pronunciation": "ˈpaɪˌɫɑn",
       "senses": [
@@ -1106,12 +950,13 @@
       ]
     },
     {
+      "id": "9b4c9f64-74a5-48bc-94a1-dd14bc4bf07c",
       "word": "gantry",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2FudHJ5&hash=912b30846fbb282f284819d1f078a4bdebbd1033&lang=en&cache-only=0",
-      "phonetic_text": "gæntri",
+      "phonetic_text": "gænt.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2FudHJ5&hash=912b30846fbb282f284819d1f078a4bdebbd1033&lang=en&cache-only=0",
-      "phonetic_am_text": "gāntri",
+      "phonetic_am_text": "gānt.ri",
       "img": "",
       "pronunciation": "ˈɡæntɹi",
       "senses": [
@@ -1143,12 +988,13 @@
       ]
     },
     {
+      "id": "240857d7-964d-49bd-9248-a81584c8e5de",
       "word": "billboard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmlsbGJvYXJk&hash=a0d36fdbd8c4e43e2beaac9cd5ea06150de7d7e9&lang=en&cache-only=0",
-      "phonetic_text": "bɪlbɔrd",
+      "phonetic_text": "bɪl.bɔ:rd",
       "phonetic_am": "https://tts.langeek.co/read?text=YmlsbGJvYXJk&hash=a0d36fdbd8c4e43e2beaac9cd5ea06150de7d7e9&lang=en&cache-only=0",
-      "phonetic_am_text": "bilbawrd",
+      "phonetic_am_text": "bil.bawrd",
       "img": "https://cdn.langeek.co/photo/36257/original/?type=jpeg",
       "pronunciation": "ˈbɪɫˌbɔɹd",
       "senses": [
@@ -1180,49 +1026,30 @@
       ]
     },
     {
+      "id": "066496f5-bf5c-4f09-a403-ada3a8b9d7dd",
       "word": "pinch point",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGluY2ggcG9pbnQ&hash=b29928f20cc75881210ae6fd49bbe7ab93637eba&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɪnʧ pɔɪnt",
       "phonetic_am": "https://tts.langeek.co/read?text=cGluY2ggcG9pbnQ&hash=b29928f20cc75881210ae6fd49bbe7ab93637eba&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pinch pawint",
       "img": "",
       "pronunciation": "pˈɪntʃ pˈɔɪnt",
       "senses": [
         {
           "definition": "a place where something becomes narrow, often causing a restriction or bottleneck",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Traffic often builds up at pinch points like bridges and tunnels during rush hour."
-            },
-            {
-              "cf": "",
-              "x": "The meeting room's small size created a pinch point for accommodating all the attendees comfortably."
-            },
-            {
-              "cf": "",
-              "x": "In project management, identifying potential pinch points early helps in smoother execution of plans."
-            },
-            {
-              "cf": "",
-              "x": "The team faced a pinch point in their workflow when the printer broke down unexpectedly."
-            },
-            {
-              "cf": "",
-              "x": "Adequate staffing is crucial to avoid pinch points in customer service during peak times."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "3c4d3ea6-390f-482c-93ab-4435343a71a3",
       "word": "turnaround",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHVybmFyb3VuZA&hash=bf47561b624b2ca1d09ea3608bda5d3a52ca58fe&lang=en&cache-only=0",
-      "phonetic_text": "tɜrnəraʊnd",
+      "phonetic_text": "tɜrn.ə.raʊnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dHVybmFyb3VuZA&hash=bf47561b624b2ca1d09ea3608bda5d3a52ca58fe&lang=en&cache-only=0",
-      "phonetic_am_text": "tērnērawnd",
+      "phonetic_am_text": "tērn.ē.raoond",
       "img": "",
       "pronunciation": "ˈtɝnɝˌaʊnd",
       "senses": [
@@ -1254,45 +1081,30 @@
       ]
     },
     {
-      "word": "branch off",
+      "id": "5f100d25-ec32-44d0-a74a-971ed35ec934",
+      "word": "to branch off",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJhbmNoIG9mZg&hash=7546f9ebc2a919c7e7c1b6cbe2809250f5d1092f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "brænʧ ɑf",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJhbmNoIG9mZg&hash=7546f9ebc2a919c7e7c1b6cbe2809250f5d1092f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "brānch aaf",
       "img": "https://cdn.langeek.co/photo/37103/original/?type=jpeg",
       "pronunciation": "bɹˈæntʃ ˈɔf",
       "senses": [
         {
           "definition": "(of a path or road) to split into another direction, creating a separate route",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The highway branches off into smaller roads leading to nearby towns."
-            },
-            {
-              "cf": "",
-              "x": "As you hike, notice where the trail branches off into alternative paths."
-            },
-            {
-              "cf": "",
-              "x": "The highway branches off into smaller roads leading to nearby towns."
-            },
-            {
-              "cf": "",
-              "x": "The highway branches off near the mountain range, leading to picturesque routes."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "fork",
+      "id": "ad05a03e-c559-45dc-b4dd-9dbd79c4d904",
+      "word": "to fork",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZm9yaw&hash=ff6fbade0301e1717bd5d1db4fb2b7bbc31ead54&lang=en&cache-only=0",
       "phonetic_text": "fɔ:rk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZm9yaw&hash=ff6fbade0301e1717bd5d1db4fb2b7bbc31ead54&lang=en&cache-only=0",
-      "phonetic_am_text": "faawrk",
+      "phonetic_am_text": "fawrk",
       "img": "https://cdn.langeek.co/photo/46603/original/?type=jpeg",
       "pronunciation": "fɔːrk",
       "senses": [
@@ -1320,12 +1132,13 @@
       ]
     },
     {
+      "id": "121ddb09-6700-4267-b317-824b05ff7fad",
       "word": "passable",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cGFzc2FibGU&hash=79ead0c026f73013a03b524a6da36cc56f96b6d6&lang=en&cache-only=0",
-      "phonetic_text": "pæsəbəl",
+      "phonetic_text": "pæ.sə.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFzc2FibGU&hash=79ead0c026f73013a03b524a6da36cc56f96b6d6&lang=en&cache-only=0",
-      "phonetic_am_text": "pāsēbēl",
+      "phonetic_am_text": "pā.sē.bēl",
       "img": "",
       "pronunciation": "ˈpæsəbəɫ",
       "senses": [
@@ -1357,12 +1170,13 @@
       ]
     },
     {
+      "id": "252343bd-c1e9-4210-894a-fb8a0b9bef92",
       "word": "impassable",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aW1wYXNzYWJsZQ&hash=f4e6ef730364d462d870e0659cae779397c7570a&lang=en&cache-only=0",
-      "phonetic_text": "ɪmpæsəbəl",
+      "phonetic_text": "ɪm.pæ.sə.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=aW1wYXNzYWJsZQ&hash=f4e6ef730364d462d870e0659cae779397c7570a&lang=en&cache-only=0",
-      "phonetic_am_text": "impāsēbēl",
+      "phonetic_am_text": "im.pā.sē.bēl",
       "img": "",
       "pronunciation": "ˌɪmˈpæsəbəɫ",
       "senses": [
@@ -1373,12 +1187,13 @@
       ]
     },
     {
+      "id": "212cf45e-0b9b-449e-ab83-6a3c8a35b8c4",
       "word": "intersection",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW50ZXJzZWN0aW9u&hash=7670b7ff1cdbf50944b2e255f4e8b74b8ca63993&lang=en&cache-only=0",
-      "phonetic_text": "ɪntərsɛkʃən",
+      "phonetic_text": "ɪn.tɜr.sɛk.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=aW50ZXJzZWN0aW9u&hash=7670b7ff1cdbf50944b2e255f4e8b74b8ca63993&lang=en&cache-only=0",
-      "phonetic_am_text": "intērsekshēn",
+      "phonetic_am_text": "in.tēr.sek.shēn",
       "img": "https://cdn.langeek.co/photo/17279/original/intersection?type=jpeg",
       "pronunciation": "ˌɪntɝˈsɛkʃən",
       "senses": [
@@ -1410,12 +1225,13 @@
       ]
     },
     {
+      "id": "6f95d38c-132d-4c60-9a69-e7eae0c57eee",
       "word": "wrong-way concurrency",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d3Jvbmctd2F5IGNvbmN1cnJlbmN5&hash=d6e5577b9ad5b0cd72d4cb7b3db1156caffdbb48&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɑng-weɪ kən.kɜ:.rən.si",
       "phonetic_am": "https://tts.langeek.co/read?text=d3Jvbmctd2F5IGNvbmN1cnJlbmN5&hash=d6e5577b9ad5b0cd72d4cb7b3db1156caffdbb48&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "raang-vei kēn.kē.rēn.si",
       "img": "",
       "pronunciation": "ɹˈɔŋwˈeɪ kənkˈɜːɹənsi",
       "senses": [

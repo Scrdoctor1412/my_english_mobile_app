@@ -1,31 +1,51 @@
 {
+  "id": "9a0de62f-6aeb-45d1-8041-a7ba70c26732",
   "topic": "music",
   "title": "Describing Music",
   "lesson": "lesson_27",
   "word_list": [
     {
+      "id": "20f074fc-0cd6-4f29-9716-52537f315c03",
       "word": "acoustic",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YWNvdXN0aWM&hash=cb322e6b23c2438c63d73bbb4272ee9809d4405a&lang=en&cache-only=0",
-      "phonetic_text": "əku:stɪk",
+      "phonetic_text": "ə.kus.tɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=YWNvdXN0aWM&hash=cb322e6b23c2438c63d73bbb4272ee9809d4405a&lang=en&cache-only=0",
-      "phonetic_am_text": "ēkoostik",
+      "phonetic_am_text": "ē.koos.tik",
       "img": "https://cdn.langeek.co/photo/39015/original/guitarist?type=jpeg",
-      "pronunciation": "əˈkustɪk",
+      "pronunciation": "əˈkuːstɪk",
       "senses": [
         {
           "definition": "(of a musical instrument) making a sound that is natural, not amplified",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The band played an acoustic set, showcasing their talent without electronic amplification."
+            },
+            {
+              "cf": "",
+              "x": "He enjoyed the acoustic performance in the intimate setting of the coffee shop."
+            },
+            {
+              "cf": "",
+              "x": "They recorded the album using acoustic instruments to capture an authentic sound."
+            },
+            {
+              "cf": "",
+              "x": "They performed an acoustic version of the song, using only guitars and vocals."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1eb699a5-1385-4f84-8ef8-6543d5ba3744",
       "word": "staccato",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c3RhY2NhdG8&hash=0841e375d516ceb066ad6d1659b32d611242f697&lang=en&cache-only=0",
-      "phonetic_text": "stəkɑ:toʊ",
+      "phonetic_text": "stə.kɑ.toʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RhY2NhdG8&hash=0841e375d516ceb066ad6d1659b32d611242f697&lang=en&cache-only=0",
-      "phonetic_am_text": "stēkaatow",
+      "phonetic_am_text": "stē.kaa.tooo",
       "img": "",
       "pronunciation": "stəˈkɑˌtoʊ",
       "senses": [
@@ -36,44 +56,89 @@
       ]
     },
     {
+      "id": "cfa16572-30e0-4c52-b195-4a5f16c40773",
       "word": "tuneless",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dHVuZWxlc3M&hash=ffbf6dc8d2c1d25e753154647d777c79185b6117&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tu:n.ləs",
       "phonetic_am": "https://tts.langeek.co/read?text=dHVuZWxlc3M&hash=ffbf6dc8d2c1d25e753154647d777c79185b6117&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "toon.lēs",
       "img": "",
-      "pronunciation": "tˈuːnləs",
+      "pronunciation": "ˈtuːnləs",
       "senses": [
         {
           "definition": "lacking a pleasant tune",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Despite her efforts, the singer's performance was unfortunately tuneless and off-key."
+            },
+            {
+              "cf": "",
+              "x": "The amateur guitarist's playing was tuneless, causing discomfort among the audience."
+            },
+            {
+              "cf": "",
+              "x": "He attempted to hum along to the tune, but his voice came out tuneless and awkward."
+            },
+            {
+              "cf": "",
+              "x": "The children's choir struggled with their performance, resulting in a tuneless rendition of the song."
+            },
+            {
+              "cf": "",
+              "x": "The karaoke session turned chaotic when several participants sang tuneless versions of popular songs."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "af5e0499-6d4d-4b83-aa70-1d587f8ab0b1",
       "word": "tuneful",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dHVuZWZ1bA&hash=42f8be019c89f71557186badb4d7f414b23c41f7&lang=en&cache-only=0",
-      "phonetic_text": "tu:nfəl",
+      "phonetic_text": "tun.fəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dHVuZWZ1bA&hash=42f8be019c89f71557186badb4d7f414b23c41f7&lang=en&cache-only=0",
-      "phonetic_am_text": "toonfēl",
+      "phonetic_am_text": "toon.fēl",
       "img": "",
       "pronunciation": "ˈtunfəɫ",
       "senses": [
         {
           "definition": "pleasantly melodic and harmonious",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The choir’s tuneful rendition of the carol filled the church with a warm, festive spirit."
+            },
+            {
+              "cf": "",
+              "x": "Her tuneful singing made the entire room stop and listen."
+            },
+            {
+              "cf": "",
+              "x": "The song’s tuneful melody was easy to remember and stuck with you long after it ended."
+            },
+            {
+              "cf": "",
+              "x": "The composer is known for his tuneful symphonies that appeal to a wide audience."
+            },
+            {
+              "cf": "",
+              "x": "The children’s tuneful laughter echoed through the playground, adding to the cheerful atmosphere."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "aa2bb8d2-5846-4048-b940-c1f1b5d91e57",
       "word": "tenor",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dGVub3I&hash=84db500e8a3a1697f8e57529f0b987ac7df3dc9e&lang=en&cache-only=0",
-      "phonetic_text": "tɛnər",
+      "phonetic_text": "tɛ.nɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVub3I&hash=84db500e8a3a1697f8e57529f0b987ac7df3dc9e&lang=en&cache-only=0",
-      "phonetic_am_text": "tenēr",
+      "phonetic_am_text": "te.nēr",
       "img": "",
       "pronunciation": "ˈtɛnɝ",
       "senses": [
@@ -84,12 +149,13 @@
       ]
     },
     {
+      "id": "8507aadf-04e7-4379-81e0-cf1a5d86ecf1",
       "word": "vivace",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=dml2YWNl&hash=675d670683d5cacbf958dc386c033dd3b751d5f5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "vɪ.veɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=dml2YWNl&hash=675d670683d5cacbf958dc386c033dd3b751d5f5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vi.veis",
       "img": "",
       "pronunciation": "vˈɪveɪs",
       "senses": [
@@ -100,124 +166,243 @@
       ]
     },
     {
+      "id": "c2546263-b68a-4731-878e-6ba99fb06a3a",
       "word": "symphonic",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c3ltcGhvbmlj&hash=3f030c6ecf8d4f6190ad581a5de07b9c59580ef5&lang=en&cache-only=0",
-      "phonetic_text": "sɪmfɑ:nɪk",
+      "phonetic_text": "sɪm.fɑ.nɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=c3ltcGhvbmlj&hash=3f030c6ecf8d4f6190ad581a5de07b9c59580ef5&lang=en&cache-only=0",
-      "phonetic_am_text": "simfaanik",
+      "phonetic_am_text": "sim.faa.nik",
       "img": "",
       "pronunciation": "sɪmˈfɑnɪk",
       "senses": [
         {
           "definition": "connected with or in form of a symphony",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The concert featured a brilliant symphonic performance by the city's orchestra."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7ba574fc-b30e-4575-87ff-33106795ab04",
       "word": "melodious",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bWVsb2Rpb3Vz&hash=e941ccd89fe0145a3b791c1621072dcf104fb6b1&lang=en&cache-only=0",
-      "phonetic_text": "məloʊdiəs",
+      "phonetic_text": "mə.loʊ.diəs",
       "phonetic_am": "https://tts.langeek.co/read?text=bWVsb2Rpb3Vz&hash=e941ccd89fe0145a3b791c1621072dcf104fb6b1&lang=en&cache-only=0",
-      "phonetic_am_text": "mēlowdiēs",
+      "phonetic_am_text": "mē.looo.diēs",
       "img": "",
       "pronunciation": "məˈɫoʊdiəs",
       "senses": [
         {
           "definition": "having a pleasant sound",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The melodious tones of the violin captivated the audience throughout the performance."
+            },
+            {
+              "cf": "",
+              "x": "Birds sang in melodious harmony as the sun began to rise."
+            },
+            {
+              "cf": "",
+              "x": "Her melodious voice made the lullaby soothing and calming."
+            },
+            {
+              "cf": "",
+              "x": "The melodious chimes of the clock added a charming touch to the room."
+            },
+            {
+              "cf": "",
+              "x": "They enjoyed a melodious evening with soft jazz playing in the background."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "ee0a6f03-fb83-42f8-86bd-165e77ab41c1",
       "word": "melodic",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bWVsb2RpYw&hash=f6447201f99391b6743459ca527e08ef6c39731a&lang=en&cache-only=0",
-      "phonetic_text": "məlɑ:dɪk",
+      "phonetic_text": "mə.lɑ.dɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=bWVsb2RpYw&hash=f6447201f99391b6743459ca527e08ef6c39731a&lang=en&cache-only=0",
-      "phonetic_am_text": "mēlaadik",
+      "phonetic_am_text": "mē.laa.dik",
       "img": "",
       "pronunciation": "məˈɫɑdɪk",
       "senses": [
         {
           "definition": "having a pleasing, musical sound",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The singer's melodic voice captivated the entire audience."
+            },
+            {
+              "cf": "",
+              "x": "The birds outside created a melodic backdrop to the morning."
+            },
+            {
+              "cf": "",
+              "x": "His melodic laughter was infectious, putting everyone in a good mood."
+            },
+            {
+              "cf": "",
+              "x": "The wind chimes had a soft, melodic sound that was calming."
+            },
+            {
+              "cf": "",
+              "x": "The melody was simple yet deeply melodic, filling the room with warmth."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f4157a0d-d291-4d6c-8947-3b1d51a4c1fc",
       "word": "major",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bWFqb3I&hash=a1d6b106985ce5b8fdebcca4db23b60d058514c3&lang=en&cache-only=0",
-      "phonetic_text": "meɪʤər",
+      "phonetic_text": "meɪ.ʤər",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFqb3I&hash=a1d6b106985ce5b8fdebcca4db23b60d058514c3&lang=en&cache-only=0",
-      "phonetic_am_text": "meijēr",
+      "phonetic_am_text": "mei.jēr",
       "img": "https://cdn.langeek.co/photo/30711/original/?type=jpeg",
       "pronunciation": "ˈmeɪdʒɚ",
       "senses": [
         {
           "definition": "based on a scale in which the interval between the third and the fourth notes and the seventh and the eighth notes is a half step",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The guitarist played a series of major chords to enhance the song's harmony."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "dee5bae0-3bfa-4a7f-9d68-e8e8c77a9287",
       "word": "live",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=bGl2ZQ&hash=406867a04825bf06b5e64b1a275e214872c8b293&lang=en&cache-only=0",
-      "phonetic_text": "laɪv",
+      "phonetic_text": "lɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=bGl2ZQ&hash=406867a04825bf06b5e64b1a275e214872c8b293&lang=en&cache-only=0",
-      "phonetic_am_text": "laiv",
+      "phonetic_am_text": "liv",
       "img": "https://cdn.langeek.co/photo/30709/original/?type=jpeg",
       "pronunciation": "lʌɪv",
       "senses": [
         {
           "definition": "used when an event or performance is happening at the present moment or being broadcast in real-time",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The concert will be broadcast live, allowing fans to experience the music in real-time."
+            },
+            {
+              "cf": "",
+              "x": "The news anchor reported live from the scene of the event, providing up-to-the-minute information."
+            },
+            {
+              "cf": "",
+              "x": "We are going live in five minutes, so get ready."
+            },
+            {
+              "cf": "",
+              "x": "The talk show is filmed live, with the audience present during the recording."
+            },
+            {
+              "cf": "",
+              "x": "The radio show is aired live, allowing listeners to tune in as the hosts discuss current topics."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "483e36c9-d741-49ab-b4e3-25a8aa4b39fa",
       "word": "instrumental",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aW5zdHJ1bWVudGFs&hash=dba1af19153b4fc83210e9510b1fb59df2a2d5e4&lang=en&cache-only=0",
-      "phonetic_text": "ɪnstrəmɛntəl",
+      "phonetic_text": "ɪns.trə.mɛn.əl",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5zdHJ1bWVudGFs&hash=dba1af19153b4fc83210e9510b1fb59df2a2d5e4&lang=en&cache-only=0",
-      "phonetic_am_text": "instrēmentēl",
+      "phonetic_am_text": "ins.trē.men.ēl",
       "img": "",
-      "pronunciation": "ˌɪnstɹəˈmɛnəɫ/, /ˌɪnstɹəˈmɛntəɫ",
+      "pronunciation": "ˌɪnstrəˈmɛntə‌l",
       "senses": [
         {
           "definition": "(of music) made only by instruments and without vocals",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The instrumental piece featured a beautiful piano melody accompanied by strings."
+            },
+            {
+              "cf": "",
+              "x": "The instrumental version of the song allowed listeners to appreciate the intricate arrangements."
+            },
+            {
+              "cf": "",
+              "x": "He enjoyed listening to instrumental jazz while studying."
+            },
+            {
+              "cf": "",
+              "x": "They performed an instrumental cover of the popular song, showcasing their musical skills."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "4b0f5838-fce1-4a6b-936f-5aef128d1dee",
       "word": "harmonic",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aGFybW9uaWM&hash=05d435e115eda67fc018f711924cbe1f2388aa9d&lang=en&cache-only=0",
-      "phonetic_text": "hɑrmɑ:nɪk",
+      "phonetic_text": "hɑr.mɑ.nɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFybW9uaWM&hash=05d435e115eda67fc018f711924cbe1f2388aa9d&lang=en&cache-only=0",
-      "phonetic_am_text": "hɑrmaanik",
+      "phonetic_am_text": "haar.maa.nik",
       "img": "",
       "pronunciation": "hɑɹˈmɑnɪk",
       "senses": [
         {
           "definition": "having blended sounds or tones that combine in a pleasing way",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The choir produced a harmonic blend that filled the concert hall with rich, beautiful sounds."
+            },
+            {
+              "cf": "",
+              "x": "The composer's harmonic techniques made the symphony resonate with emotional depth."
+            },
+            {
+              "cf": "",
+              "x": "The harmonic structure of the piece was complex and layered, making it a joy to listen to."
+            },
+            {
+              "cf": "",
+              "x": "The guitarist's harmonic chords added a unique texture to the song."
+            },
+            {
+              "cf": "",
+              "x": "Their harmonic voices created a soothing and immersive listening experience."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "83a5180b-7752-483a-978c-70eb5b82bfd7",
       "word": "grungy",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Z3J1bmd5&hash=e9b2d81837246920e52924987f538918ab11c7cf&lang=en&cache-only=0",
-      "phonetic_text": "grʌnʤi",
+      "phonetic_text": "grən.ʤi",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3J1bmd5&hash=e9b2d81837246920e52924987f538918ab11c7cf&lang=en&cache-only=0",
-      "phonetic_am_text": "granji",
+      "phonetic_am_text": "grēn.ji",
       "img": "",
       "pronunciation": "ˈɡɹəndʒi",
       "senses": [
@@ -228,28 +413,51 @@
       ]
     },
     {
+      "id": "7912efa2-d4c2-4218-8e65-35bbb32fd74a",
       "word": "sharp",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c2hhcnA&hash=972244ec15676b3b56066aa40a8e754d81066927&lang=en&cache-only=0",
-      "phonetic_text": "ʃɑ:rp",
+      "phonetic_text": "ʃɑrp",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hhcnA&hash=972244ec15676b3b56066aa40a8e754d81066927&lang=en&cache-only=0",
       "phonetic_am_text": "shaarp",
       "img": "",
-      "pronunciation": "ˈʃɑɹp",
+      "pronunciation": "ʃɑrp",
       "senses": [
         {
           "definition": "having a slightly higher pitch than the corresponding natural note",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The singer hit a sharp high note that resonated throughout the auditorium."
+            },
+            {
+              "cf": "",
+              "x": "The pianist played a series of sharp chords, adding a sense of urgency to the music."
+            },
+            {
+              "cf": "",
+              "x": "The conductor signaled for the brass section to play with a sharp attack, creating a powerful and dynamic sound."
+            },
+            {
+              "cf": "",
+              "x": "The violinist produced a sharp sound by pressing firmly on the strings with the bow."
+            },
+            {
+              "cf": "",
+              "x": "The guitarist adjusted the tuning pegs to ensure each string was sharp before the performance."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "ec92c42a-91c0-4fde-9998-28b92a90baaa",
       "word": "punky",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cHVua3k&hash=a9ad0fa0233c166b51f93528fa7e97371b11819e&lang=en&cache-only=0",
-      "phonetic_text": "pʌnki",
+      "phonetic_text": "pən.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=cHVua3k&hash=a9ad0fa0233c166b51f93528fa7e97371b11819e&lang=en&cache-only=0",
-      "phonetic_am_text": "panki",
+      "phonetic_am_text": "pēn.ki",
       "img": "",
       "pronunciation": "ˈpəŋki",
       "senses": [
@@ -260,12 +468,13 @@
       ]
     },
     {
+      "id": "cf6f44d9-7a66-4275-b606-27c6a944f722",
       "word": "natural",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bmF0dXJhbA&hash=cf732dd4fedb6f26ab9f3a04be7546b108cbef27&lang=en&cache-only=0",
-      "phonetic_text": "næʧərəl",
+      "phonetic_text": "næ.ʧə.rəl",
       "phonetic_am": "https://tts.langeek.co/read?text=bmF0dXJhbA&hash=cf732dd4fedb6f26ab9f3a04be7546b108cbef27&lang=en&cache-only=0",
-      "phonetic_am_text": "nāchērēl",
+      "phonetic_am_text": "nā.chē.rēl",
       "img": "https://cdn.langeek.co/photo/30715/original/?type=jpeg",
       "pronunciation": "ˈnætʃərəl",
       "senses": [
@@ -276,28 +485,39 @@
       ]
     },
     {
+      "id": "5e2c1ad2-e562-43f4-a76c-0780f07c1e47",
       "word": "minor",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bWlub3I&hash=f8b89e1df33a65fd76960164e37d776a5d7046ae&lang=en&cache-only=0",
-      "phonetic_text": "maɪnər",
+      "phonetic_text": "maɪ.nɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bWlub3I&hash=f8b89e1df33a65fd76960164e37d776a5d7046ae&lang=en&cache-only=0",
-      "phonetic_am_text": "mainēr",
+      "phonetic_am_text": "mai.nēr",
       "img": "https://cdn.langeek.co/photo/30713/original/?type=jpeg",
       "pronunciation": "ˈmaɪnɝ",
       "senses": [
         {
           "definition": "based on a scale in which the interval between the second and the third notes, the fifth and the sixth notes and the seventh and eighth notes is a half step",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She preferred playing minor chords for their dramatic effect."
+            },
+            {
+              "cf": "",
+              "x": "The song's minor tonality created a haunting atmosphere."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "cb7ee517-1cdc-4556-8296-131614c45e44",
       "word": "atonal",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YXRvbmFs&hash=165eb4eaceb60e6baad102c08d16773c60206562&lang=en&cache-only=0",
-      "phonetic_text": "eɪtoʊnəl",
+      "phonetic_text": "eɪ.toʊ.nəl",
       "phonetic_am": "https://tts.langeek.co/read?text=YXRvbmFs&hash=165eb4eaceb60e6baad102c08d16773c60206562&lang=en&cache-only=0",
-      "phonetic_am_text": "eitownēl",
+      "phonetic_am_text": "ei.tooo.nēl",
       "img": "",
       "pronunciation": "eɪˈtoʊnəɫ",
       "senses": [
@@ -308,28 +528,43 @@
       ]
     },
     {
+      "id": "890d61b5-62e6-4bcf-b816-273f1577aada",
       "word": "ambient",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YW1iaWVudA&hash=a1f0263e7cc5198f843229c1aa0c230d97eec027&lang=en&cache-only=0",
-      "phonetic_text": "æmbiənt",
+      "phonetic_text": "æm.biənt",
       "phonetic_am": "https://tts.langeek.co/read?text=YW1iaWVudA&hash=a1f0263e7cc5198f843229c1aa0c230d97eec027&lang=en&cache-only=0",
-      "phonetic_am_text": "āmbiēnt",
+      "phonetic_am_text": "ām.biēnt",
       "img": "",
       "pronunciation": "ˈæmbiənt",
       "senses": [
         {
           "definition": "relating to the type of music that emphasizes on tone and atmosphere rather than traditional structure",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He enjoys listening to ambient tracks while studying because they help him focus."
+            },
+            {
+              "cf": "",
+              "x": "The ambient soundscape provided a relaxing backdrop to the spa's massage treatments."
+            },
+            {
+              "cf": "",
+              "x": "The artist is known for blending ambient melodies with electronic beats in their compositions."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "9147e0aa-4b3d-4f11-8307-f23e8f2ed6dd",
       "word": "aleatory",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YWxlYXRvcnk&hash=814d7feb6fe9a297eafbb1e81c5bd2137d428e93&lang=en&cache-only=0",
-      "phonetic_text": "eɪliətɔri",
+      "phonetic_text": "eɪ.liə.tɔ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxlYXRvcnk&hash=814d7feb6fe9a297eafbb1e81c5bd2137d428e93&lang=en&cache-only=0",
-      "phonetic_am_text": "eiliētawri",
+      "phonetic_am_text": "ei.liē.taw.ri",
       "img": "",
       "pronunciation": "ˈeɪɫiəˌtɔɹi",
       "senses": [
@@ -340,44 +575,77 @@
       ]
     },
     {
+      "id": "e2226d81-e807-429f-9c8f-49b6ba5eda38",
       "word": "low",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bG93&hash=df64a23aeefb5c8ec4ec37d4752f869da3bb93dc&lang=en&cache-only=0",
       "phonetic_text": "loʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=bG93&hash=df64a23aeefb5c8ec4ec37d4752f869da3bb93dc&lang=en&cache-only=0",
-      "phonetic_am_text": "low",
+      "phonetic_am_text": "looo",
       "img": "",
       "pronunciation": "loʊ",
       "senses": [
         {
           "definition": "(of a vowel) articulated by positioning the tongue down and the mouth open",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The word contains a low vowel sound."
+            },
+            {
+              "cf": "",
+              "x": "In \"cat,\" the /æ/ is a low vowel."
+            },
+            {
+              "cf": "",
+              "x": "Low vowels require more jaw opening."
+            },
+            {
+              "cf": "",
+              "x": "Phonetic charts list /ɑ/ as a low vowel."
+            },
+            {
+              "cf": "",
+              "x": "He emphasized the low vowel in the dialect."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a854b52f-7a9a-4aec-b0c5-d026242b0bdc",
       "word": "brassy",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YnJhc3N5&hash=bd6424c00e4c5febc5bb920933157097eda7eb09&lang=en&cache-only=0",
-      "phonetic_text": "bræsi",
+      "phonetic_text": "bræ.si",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJhc3N5&hash=bd6424c00e4c5febc5bb920933157097eda7eb09&lang=en&cache-only=0",
-      "phonetic_am_text": "brāsi",
+      "phonetic_am_text": "brā.si",
       "img": "",
       "pronunciation": "ˈbɹæsi",
       "senses": [
         {
           "definition": "having a harsh, loud, or bold tone, reminiscent of brass instruments",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Her voice took on a brassy quality as she sang the high notes."
+            },
+            {
+              "cf": "",
+              "x": "The brass section in the orchestra added a brassy edge to the performance."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "053dd45b-7572-4c45-9af2-c7041cf6720f",
       "word": "biphonic",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YmlwaG9uaWM&hash=c802ca9b8ba302e7e152422759fe0ead7e752037&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "baɪ.fɑ.nɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=YmlwaG9uaWM&hash=c802ca9b8ba302e7e152422759fe0ead7e752037&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bai.faa.nik",
       "img": "",
       "pronunciation": "baɪfˈɑːnɪk",
       "senses": [
@@ -388,12 +656,13 @@
       ]
     },
     {
+      "id": "441dfa1d-c144-48f3-8724-b4a1f2856251",
       "word": "vocal",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dm9jYWw&hash=b943d47b916d36a364b99b9c44562e44c6afaad4&lang=en&cache-only=0",
-      "phonetic_text": "voʊkəl",
+      "phonetic_text": "voʊ.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dm9jYWw&hash=b943d47b916d36a364b99b9c44562e44c6afaad4&lang=en&cache-only=0",
-      "phonetic_am_text": "vowkēl",
+      "phonetic_am_text": "vooo.kēl",
       "img": "",
       "pronunciation": "ˈvoʊkəɫ",
       "senses": [
@@ -404,78 +673,155 @@
       ]
     },
     {
+      "id": "da3914fb-1f9d-4776-9ca7-2ba99eed4e29",
       "word": "rhythmic",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cmh5dGhtaWM&hash=1f131f7fdaa8a0ec210935b1e07b14e1e9e7fc6a&lang=en&cache-only=0",
-      "phonetic_text": "rɪðmɪk",
+      "phonetic_text": "rɪð.mɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=cmh5dGhtaWM&hash=1f131f7fdaa8a0ec210935b1e07b14e1e9e7fc6a&lang=en&cache-only=0",
-      "phonetic_am_text": "ridhmik",
+      "phonetic_am_text": "ridh.mik",
       "img": "",
       "pronunciation": "ˈɹɪðmɪk",
       "senses": [
         {
           "definition": "having a pattern or regular sequence of sounds, movements, or events",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The rhythmic tapping of the drum set the pace for the band."
+            },
+            {
+              "cf": "",
+              "x": "The ticking of the clock was rhythmic, marking the passage of time in a steady pattern."
+            },
+            {
+              "cf": "",
+              "x": "The clapping and stomping at the concert added a rhythmic energy to the music."
+            },
+            {
+              "cf": "",
+              "x": "Her rhythmic steps followed the beat of the music perfectly."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "014ded9c-3047-42d4-9d45-f522eea5ba59",
       "word": "musical",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bXVzaWNhbA&hash=c7a3e11a7deeffea2a1b813f1d1b252ed7fcd1d7&lang=en&cache-only=0",
-      "phonetic_text": "mju:zɪkəl",
+      "phonetic_text": "mju:.zɪ.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVzaWNhbA&hash=c7a3e11a7deeffea2a1b813f1d1b252ed7fcd1d7&lang=en&cache-only=0",
-      "phonetic_am_text": "myoozikēl",
+      "phonetic_am_text": "myoo.zi.kēl",
       "img": "",
       "pronunciation": "ˈmjuːzɪkəl",
       "senses": [
         {
           "definition": "relating to or containing music",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He's taking a musical theory class to enhance his songwriting skills."
+            },
+            {
+              "cf": "",
+              "x": "His room is filled with musical equipment for recording his own songs."
+            },
+            {
+              "cf": "",
+              "x": "She has a musical talent and can play several instruments."
+            },
+            {
+              "cf": "",
+              "x": "She's pursuing a musical career as a singer-songwriter."
+            },
+            {
+              "cf": "",
+              "x": "The musical piece they performed was from a famous opera."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a8df4718-680e-46da-b061-5a494a146a4b",
       "word": "orchestral",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=b3JjaGVzdHJhbA&hash=4550cf56dc7fb9b260ea1fd99e5e8ff5ad35f3f3&lang=en&cache-only=0",
-      "phonetic_text": "ɔrkɛstrəl",
+      "phonetic_text": "ɔr.kɛst.rəl",
       "phonetic_am": "https://tts.langeek.co/read?text=b3JjaGVzdHJhbA&hash=4550cf56dc7fb9b260ea1fd99e5e8ff5ad35f3f3&lang=en&cache-only=0",
-      "phonetic_am_text": "awrkestrēl",
+      "phonetic_am_text": "awr.kest.rēl",
       "img": "",
       "pronunciation": "ɔɹˈkɛstɹəɫ",
       "senses": [
         {
           "definition": "made for or related to an orchestra, typically involving a wide range of instruments playing together",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The orchestral performance captivated the audience with its grandeur and complexity."
+            },
+            {
+              "cf": "",
+              "x": "She enjoyed listening to orchestral music while studying."
+            },
+            {
+              "cf": "",
+              "x": "The orchestral arrangement of the song added depth and richness to the melody."
+            },
+            {
+              "cf": "",
+              "x": "He conducted an orchestral rehearsal to prepare for the upcoming concert."
+            },
+            {
+              "cf": "",
+              "x": "She composed an orchestral piece for the symphony's upcoming concert."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "924160a3-c595-4bbc-9a5e-e2b44f744831",
       "word": "classical",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y2xhc3NpY2Fs&hash=604d05011281b0c1f48618b9ec0b1060a840060f&lang=en&cache-only=0",
-      "phonetic_text": "klæsɪkəl",
+      "phonetic_text": "klæ.sɪ.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xhc3NpY2Fs&hash=604d05011281b0c1f48618b9ec0b1060a840060f&lang=en&cache-only=0",
-      "phonetic_am_text": "klāsikēl",
+      "phonetic_am_text": "klā.si.kēl",
       "img": "https://cdn.langeek.co/photo/17059/original/classical?type=jpeg",
       "pronunciation": "ˈklæsɪkəl",
       "senses": [
         {
           "definition": "related to music that is respected, serious, and is typically from the Western tradition",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Her music teacher introduced her to several classical composers."
+            },
+            {
+              "cf": "",
+              "x": "The orchestra played a classical piece by Mozart."
+            },
+            {
+              "cf": "",
+              "x": "The soundtrack of the movie included several classical pieces."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "33518695-0d2e-4c2e-8ae8-9a6fbbce1b56",
       "word": "lyric",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bHlyaWM&hash=b1ec278468dc7592745575ed0fd90689b7777267&lang=en&cache-only=0",
-      "phonetic_text": "lɪrɪk",
+      "phonetic_text": "lɪ.rɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=bHlyaWM&hash=b1ec278468dc7592745575ed0fd90689b7777267&lang=en&cache-only=0",
-      "phonetic_am_text": "lirik",
+      "phonetic_am_text": "li.rik",
       "img": "",
-      "pronunciation": "ˈɫɪɹɪk",
+      "pronunciation": "ˈlɪrɪk",
       "senses": [
         {
           "definition": "(of a singing voice) having a light register and a melodic style",
@@ -484,44 +830,105 @@
       ]
     },
     {
+      "id": "5be026c8-6adb-4ebb-8591-539b5b7045b3",
       "word": "loud",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bG91ZA&hash=4288a67880cbd61001e7091c753d3621c5ca708d&lang=en&cache-only=0",
       "phonetic_text": "laʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=bG91ZA&hash=4288a67880cbd61001e7091c753d3621c5ca708d&lang=en&cache-only=0",
-      "phonetic_am_text": "lawd",
+      "phonetic_am_text": "laood",
       "img": "https://cdn.langeek.co/photo/46271/original/?type=jpeg",
       "pronunciation": "laʊd",
       "senses": [
         {
           "definition": "producing a sound or noise with high volume",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He slammed the door with a loud bang."
+            },
+            {
+              "cf": "",
+              "x": "His laugh is so loud that you can hear it from the next room."
+            },
+            {
+              "cf": "",
+              "x": "She spoke in a loud voice so everyone in the audience could hear her."
+            },
+            {
+              "cf": "",
+              "x": "The loud music from the party kept me awake all night."
+            },
+            {
+              "cf": "",
+              "x": "The orchestra built up to a loud climax in the final movement."
+            },
+            {
+              "cf": "",
+              "x": "The singer belted out the chorus with a loud, powerful voice."
+            },
+            {
+              "cf": "",
+              "x": "The loud drumming during the dramatic finale heightened the intensity of the performance."
+            },
+            {
+              "cf": "",
+              "x": "The brass section played with a loud, triumphant sound in the fanfare."
+            },
+            {
+              "cf": "",
+              "x": "The conductor signaled for the entire ensemble to play with a loud intensity in the fortissimo passage."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f30b4cf4-c039-4043-b079-0860f6a284a4",
       "word": "funky",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZnVua3k&hash=5d52a7dfee300d7456d7353043a9948b159175db&lang=en&cache-only=0",
-      "phonetic_text": "fʌnki",
+      "phonetic_text": "fən.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnVua3k&hash=5d52a7dfee300d7456d7353043a9948b159175db&lang=en&cache-only=0",
-      "phonetic_am_text": "fanki",
+      "phonetic_am_text": "fēn.ki",
       "img": "",
       "pronunciation": "ˈfəŋki",
       "senses": [
         {
           "definition": "(of music) having a rhythmic, energetic quality with a strong, distinctive beat that encourages movement",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The funky bassline got everyone on the dance floor moving."
+            },
+            {
+              "cf": "",
+              "x": "Her band played a funky rendition of the classic song, adding their own unique style."
+            },
+            {
+              "cf": "",
+              "x": "The funky rhythm section laid down a solid foundation for the band's improvisation."
+            },
+            {
+              "cf": "",
+              "x": "The funky guitar solo brought an element of spontaneity to the performance."
+            },
+            {
+              "cf": "",
+              "x": "The funky beat of the drum kept the audience engaged and energized."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f80cf715-d2b5-44c3-badf-080f4ee92e24",
       "word": "all-star",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YWxsLXN0YXI&hash=d278a32e67e60d0ffbd003afba0178fa907c2f6c&lang=en&cache-only=0",
-      "phonetic_text": "ɔlstɑ:r",
+      "phonetic_text": "ɔ:l-stɑr",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxsLXN0YXI&hash=d278a32e67e60d0ffbd003afba0178fa907c2f6c&lang=en&cache-only=0",
-      "phonetic_am_text": "awlstaar",
+      "phonetic_am_text": "awl-staar",
       "img": "",
       "pronunciation": "ˌɔɫˈstɑɹ",
       "senses": [
@@ -532,28 +939,51 @@
       ]
     },
     {
+      "id": "e4399942-d0f6-4b05-8e52-02691c2a5977",
       "word": "solo",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c29sbw&hash=d7f125cd7d417c69bf04c30ade7afac1a472bce2&lang=en&cache-only=0",
-      "phonetic_text": "soʊloʊ",
+      "phonetic_text": "soʊ.loʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=c29sbw&hash=d7f125cd7d417c69bf04c30ade7afac1a472bce2&lang=en&cache-only=0",
-      "phonetic_am_text": "sowlow",
+      "phonetic_am_text": "sooo.looo",
       "img": "",
       "pronunciation": "ˈsoʊˌɫoʊ",
       "senses": [
         {
           "definition": "done or created by just one musician, rather than by a group or ensemble",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The solo performance by the pianist captivated the audience with its haunting melody."
+            },
+            {
+              "cf": "",
+              "x": "She wrote a solo piece for the violin, showcasing its versatility and beauty."
+            },
+            {
+              "cf": "",
+              "x": "He composed a solo piano composition that expressed a range of emotions."
+            },
+            {
+              "cf": "",
+              "x": "His latest solo track has topped the charts, showcasing his individual artistry."
+            },
+            {
+              "cf": "",
+              "x": "He delivered a solo rendition of the song, accompanied only by his acoustic guitar."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7b060d14-5c89-49a1-b660-faccc7b1e059",
       "word": "solid-body",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c29saWQtYm9keQ&hash=2654f652d52b1e15a1243c08aee722bb545bd7a9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɑ.lɪd-bɑ:.di",
       "phonetic_am": "https://tts.langeek.co/read?text=c29saWQtYm9keQ&hash=2654f652d52b1e15a1243c08aee722bb545bd7a9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "saa.lid-baa.di",
       "img": "",
       "pronunciation": "sˈɑːlɪdbˈɑːdi",
       "senses": [
@@ -564,14 +994,15 @@
       ]
     },
     {
+      "id": "a2da10e2-1fd0-4b26-8ec4-e0297b2dbc99",
       "word": "pop",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cG9w&hash=571382523d99421296dc91e86260ce64f8188b97&lang=en&cache-only=0",
-      "phonetic_text": "pɑ:p",
+      "phonetic_text": "pɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9w&hash=571382523d99421296dc91e86260ce64f8188b97&lang=en&cache-only=0",
       "phonetic_am_text": "paap",
       "img": "",
-      "pronunciation": "ˈpɑp",
+      "pronunciation": "pɑp",
       "senses": [
         {
           "definition": "related to popular culture, with many appealing elements such as music, fashion, art, etc.",
@@ -580,60 +1011,123 @@
       ]
     },
     {
+      "id": "6f89678b-e26f-4cd1-88d2-205aea275ee3",
       "word": "avant-garde",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YXZhbnQtZ2FyZGU&hash=eba9c4b80549d0695522e7bd6c39f4ad85c7ad31&lang=en&cache-only=0",
-      "phonetic_text": "əvɑ:ntgɑ:rd",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXZhbnQtZ2FyZGU&hash=eba9c4b80549d0695522e7bd6c39f4ad85c7ad31&lang=en&cache-only=0",
-      "phonetic_am_text": "ēvaantgaard",
+      "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/25355/original/?type=jpeg",
       "pronunciation": "əˈvɑnˈɡɑɹd/, /əˈvɑntˈɡɑɹd",
       "senses": [
         {
           "definition": "innovative, experimental, or unconventional in style or approach, especially in the arts",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The avant-garde filmmaker pushed the boundaries of narrative structure, crafting abstract, non-linear stories that challenged viewers' perceptions of cinema."
+            },
+            {
+              "cf": "",
+              "x": "Avant-garde fashion designers often eschew traditional trends, opting instead for bold, avant-garde creations that blur the line between clothing and art."
+            },
+            {
+              "cf": "",
+              "x": "The avant-garde composer experimented with unconventional instrumentation and avant-garde techniques, producing compositions that defied conventional musical conventions."
+            },
+            {
+              "cf": "",
+              "x": "Avant-garde literature embraces unconventional narrative techniques and experimental prose styles, inviting readers on a journey of discovery and exploration."
+            },
+            {
+              "cf": "",
+              "x": "In the realm of visual art, avant-garde painters explore new forms of expression, pushing the boundaries of traditional techniques to create groundbreaking works that defy categorization."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "157540ae-da41-4d13-bce3-6aa16a70862a",
       "word": "treble",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dHJlYmxl&hash=fa857fcd99184d843179031dc244bb102330fc40&lang=en&cache-only=0",
-      "phonetic_text": "trɛbəl",
+      "phonetic_text": "trɛ.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJlYmxl&hash=fa857fcd99184d843179031dc244bb102330fc40&lang=en&cache-only=0",
-      "phonetic_am_text": "trebēl",
+      "phonetic_am_text": "tre.bēl",
       "img": "",
       "pronunciation": "ˈtɹɛbəɫ",
       "senses": [
         {
           "definition": "relating to the highest range of musical notes or frequencies",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Her voice soared into the treble range as she hit the high notes effortlessly."
+            },
+            {
+              "cf": "",
+              "x": "The treble frequencies in the audio mix were adjusted to bring out the sparkle in the piano melody."
+            },
+            {
+              "cf": "",
+              "x": "The soprano singer effortlessly reached the treble notes in the opera aria."
+            },
+            {
+              "cf": "",
+              "x": "The flute's treble tones danced above the orchestra, adding a delicate shimmer to the piece."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "d81d7989-5173-4192-bc28-80c0aa5b2269",
       "word": "monophonic",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bW9ub3Bob25pYw&hash=55f677ee932ff6c73c10b36ca26692ad1a36fb0a&lang=en&cache-only=0",
-      "phonetic_text": "mɑnəfɑ:nɪk",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9ub3Bob25pYw&hash=55f677ee932ff6c73c10b36ca26692ad1a36fb0a&lang=en&cache-only=0",
-      "phonetic_am_text": "mɑnēfaanik",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˌmɑnəˈfɑnɪk",
       "senses": [
         {
           "definition": "describing sound transmission, recording or reproduction that is transferred through a single channel",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The old radio played monophonic sound, lacking the depth and directionality of modern stereo systems."
+            },
+            {
+              "cf": "",
+              "x": "Despite its monophonic output, the vintage record player had a charm that appealed to many audiophiles."
+            },
+            {
+              "cf": "",
+              "x": "For years, all telephones transmitted voice in monophonic audio, making conference calls sound flat."
+            },
+            {
+              "cf": "",
+              "x": "Even though the speaker system was monophonic, it provided clear and crisp audio for the presentation."
+            },
+            {
+              "cf": "",
+              "x": "The monophonic nature of the original film soundtrack gave it a classic, vintage feel."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0eee5226-f6a0-4bc0-96ce-9df0c2cc26b8",
       "word": "on shuffle",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=b24gc2h1ZmZsZQ&hash=bb93917c08752ed04e391136caa5cccf89859907&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n ʃə.fəl",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gc2h1ZmZsZQ&hash=bb93917c08752ed04e391136caa5cccf89859907&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan shē.fēl",
       "img": "",
       "pronunciation": "ˌɑːn ʃˈʌfəl",
       "senses": [
@@ -644,10 +1138,11 @@
       ]
     },
     {
+      "id": "40b86f89-acf3-4fbb-b5a8-4786bd1c83f2",
       "word": "a capella",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YSBjYXBlbGxh&hash=07c0abdd38b6f7060d7ec54a334e74f18ef65867&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YSBjYXBlbGxh&hash=07c0abdd38b6f7060d7ec54a334e74f18ef65867&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/38174/original/?type=jpeg",

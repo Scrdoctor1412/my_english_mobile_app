@@ -1,26 +1,50 @@
 {
+  "id": "a7642b87-a4cd-434f-a006-fa379602e660",
   "topic": "food_and_drink_preparation",
   "title": "Mechanical Cooking Methods",
   "lesson": "lesson_12",
   "word_list": [
     {
-      "word": "beat",
+      "id": "e93bc6b9-218c-413d-a367-0b6e4612f5ad",
+      "word": "to beat",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmVhdA&hash=14b6a5e5516853eab3dd3c141536485f300b4800&lang=en&cache-only=0",
-      "phonetic_text": "bi:t",
+      "phonetic_text": "bit",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmVhdA&hash=14b6a5e5516853eab3dd3c141536485f300b4800&lang=en&cache-only=0",
-      "phonetic_am_text": "beet",
+      "phonetic_am_text": "bit",
       "img": "https://cdn.langeek.co/photo/20940/original/?type=jpeg",
-      "pronunciation": "ˈbit",
+      "pronunciation": "biːt",
       "senses": [
         {
           "definition": "to repeatedly mix something using a spoon, fork, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Beat the eggs until they are fluffy and light in color."
+            },
+            {
+              "cf": "",
+              "x": "She had to beat the batter for several minutes to remove all the lumps."
+            },
+            {
+              "cf": "",
+              "x": "He used a whisk to beat the cream into soft peaks."
+            },
+            {
+              "cf": "",
+              "x": "To make a smooth sauce, you need to beat the ingredients well."
+            },
+            {
+              "cf": "",
+              "x": "The recipe instructs to beat the butter and sugar until creamy."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "blend",
+      "id": "6ed46c1f-25f0-48c3-94e5-e4648c013310",
+      "word": "to blend",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmxlbmQ&hash=b8d6a5b713355a315a955fa4cb1e86915fac61f2&lang=en&cache-only=0",
       "phonetic_text": "blɛnd",
@@ -31,12 +55,30 @@
       "senses": [
         {
           "definition": "to combine different substances together",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The chef blended various spices to create a flavorful sauce."
+            },
+            {
+              "cf": "",
+              "x": "The artist skillfully blended colors on the canvas for a harmonious effect."
+            },
+            {
+              "cf": "",
+              "x": "To achieve the perfect aroma, the perfumer blended different scents."
+            },
+            {
+              "cf": "",
+              "x": "The bartender blended ingredients to craft a delicious cocktail."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "blitz",
+      "id": "68f281f5-5639-42f1-aaec-d21db85cfd61",
+      "word": "to blitz",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmxpdHo&hash=d7f2f483b3c48f2d2696d20ac4e8896917b63d57&lang=en&cache-only=0",
       "phonetic_text": "blɪts",
@@ -73,12 +115,13 @@
       ]
     },
     {
-      "word": "bone",
+      "id": "3d1448ab-74c8-46d8-ad1b-5874ec836a87",
+      "word": "to bone",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYm9uZQ&hash=99ff467435883d8a892672255f18bc9c59be5a67&lang=en&cache-only=0",
       "phonetic_text": "boʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYm9uZQ&hash=99ff467435883d8a892672255f18bc9c59be5a67&lang=en&cache-only=0",
-      "phonetic_am_text": "bown",
+      "phonetic_am_text": "booon",
       "img": "",
       "pronunciation": "boʊn",
       "senses": [
@@ -89,14 +132,15 @@
       ]
     },
     {
-      "word": "butcher",
+      "id": "c77ad57f-fa7f-471c-a5c2-7e1b4fbee903",
+      "word": "to butcher",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnV0Y2hlcg&hash=d341d62f86ec41fc9a34fa175fdd9d4fd1766488&lang=en&cache-only=0",
-      "phonetic_text": "bʊʧər",
+      "phonetic_text": "bʊ.ʧər",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnV0Y2hlcg&hash=d341d62f86ec41fc9a34fa175fdd9d4fd1766488&lang=en&cache-only=0",
-      "phonetic_am_text": "buchēr",
+      "phonetic_am_text": "boo.chēr",
       "img": "",
-      "pronunciation": "ˈbʊtʃər",
+      "pronunciation": "ˈbʊtʃɚ",
       "senses": [
         {
           "definition": "to kill and prepare animals, typically for food",
@@ -122,12 +166,13 @@
       ]
     },
     {
-      "word": "butter",
+      "id": "2c31607b-efdf-46dd-b4a6-880a67b2b4b1",
+      "word": "to butter",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnV0dGVy&hash=83cda0c77c212a2042df06952659bda39876a98d&lang=en&cache-only=0",
-      "phonetic_text": "bʌtər",
+      "phonetic_text": "bʌ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnV0dGVy&hash=83cda0c77c212a2042df06952659bda39876a98d&lang=en&cache-only=0",
-      "phonetic_am_text": "batēr",
+      "phonetic_am_text": "ba.tēr",
       "img": "https://cdn.langeek.co/photo/31109/original/family-room?type=jpeg",
       "pronunciation": "ˈbʌtɚ",
       "senses": [
@@ -155,10 +200,11 @@
       ]
     },
     {
-      "word": "carve",
+      "id": "cf64389a-beac-499c-aaa9-93ce72fcf578",
+      "word": "to carve",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2FydmU&hash=58bf5e39e55af095aa85d87a7b1b7c82bb865e3e&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:rv",
+      "phonetic_text": "kɑrv",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2FydmU&hash=58bf5e39e55af095aa85d87a7b1b7c82bb865e3e&lang=en&cache-only=0",
       "phonetic_am_text": "kaarv",
       "img": "https://cdn.langeek.co/photo/26467/original/?type=jpeg",
@@ -192,12 +238,13 @@
       ]
     },
     {
+      "id": "98097a4d-e3d2-4302-8170-e7561aa593d5",
       "word": "chiffonade",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hpZmZvbmFkZQ&hash=972b519d29bbb1ddded207ede94d99c9590c3c5d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʃɪ.fə.neɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hpZmZvbmFkZQ&hash=972b519d29bbb1ddded207ede94d99c9590c3c5d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "shi.fē.neid",
       "img": "https://cdn.langeek.co/photo/37896/original/?type=jpeg",
       "pronunciation": "ʃɪfəneɪd",
       "senses": [
@@ -208,7 +255,8 @@
       ]
     },
     {
-      "word": "chip",
+      "id": "fd957345-8166-4a72-819a-348ba3ba27f5",
+      "word": "to chip",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hpcA&hash=6c088dd471cf19ae015c5f3a16c3b046db05d756&lang=en&cache-only=0",
       "phonetic_text": "ʧɪp",
@@ -237,7 +285,8 @@
       ]
     },
     {
-      "word": "churn",
+      "id": "dacec1c1-fb26-4196-b358-8d075a47115e",
+      "word": "to churn",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2h1cm4&hash=195bbb039a4e53d181833faff6963c84d95034ca&lang=en&cache-only=0",
       "phonetic_text": "ʧɜrn",
@@ -270,12 +319,13 @@
       ]
     },
     {
-      "word": "clean",
+      "id": "f48e4536-8c2b-41c1-be60-d4414c0e32fb",
+      "word": "to clean",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2xlYW4&hash=c39f5c5c3fc679eaf7d8fa2c4b79d9896a05d2db&lang=en&cache-only=0",
       "phonetic_text": "kli:n",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2xlYW4&hash=c39f5c5c3fc679eaf7d8fa2c4b79d9896a05d2db&lang=en&cache-only=0",
-      "phonetic_am_text": "kleen",
+      "phonetic_am_text": "klin",
       "img": "",
       "pronunciation": "kliːn",
       "senses": [
@@ -307,12 +357,13 @@
       ]
     },
     {
-      "word": "core",
+      "id": "072b8563-81f4-4797-8ed2-7473f66d4573",
+      "word": "to core",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29yZQ&hash=d7a652cbec70e40d59b35b6826bdcbec6892555b&lang=en&cache-only=0",
-      "phonetic_text": "kɔ:r",
+      "phonetic_text": "kɔr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29yZQ&hash=d7a652cbec70e40d59b35b6826bdcbec6892555b&lang=en&cache-only=0",
-      "phonetic_am_text": "kaawr",
+      "phonetic_am_text": "kawr",
       "img": "",
       "pronunciation": "ˈkɔɹ",
       "senses": [
@@ -344,12 +395,13 @@
       ]
     },
     {
-      "word": "concasse",
+      "id": "6cb901d0-4597-4f66-a76a-856eb33c4911",
+      "word": "to concasse",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29uY2Fzc2U&hash=224684a022317061051e0c6fd276c6ce2586ffeb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑ:n.ka.seɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29uY2Fzc2U&hash=224684a022317061051e0c6fd276c6ce2586ffeb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaan.ka.sei",
       "img": "",
       "pronunciation": "kɑːnkɐseɪ",
       "senses": [
@@ -373,12 +425,13 @@
       ]
     },
     {
-      "word": "cream",
+      "id": "a4ac1626-5df9-45c6-b349-dcf5a24d54d8",
+      "word": "to cream",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3JlYW0&hash=01fbf416a3503f4cf0e30537f8686cbbdcd1fad7&lang=en&cache-only=0",
       "phonetic_text": "kri:m",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3JlYW0&hash=01fbf416a3503f4cf0e30537f8686cbbdcd1fad7&lang=en&cache-only=0",
-      "phonetic_am_text": "kreem",
+      "phonetic_am_text": "krim",
       "img": "https://cdn.langeek.co/photo/20940/original/?type=jpeg",
       "pronunciation": "kriːm",
       "senses": [
@@ -410,10 +463,11 @@
       ]
     },
     {
-      "word": "cube",
+      "id": "d89304d6-e03b-45d4-9b9a-78732834c793",
+      "word": "to cube",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3ViZQ&hash=d9c3f95a9bf324d87f7fcd2bd563d6600cb55248&lang=en&cache-only=0",
-      "phonetic_text": "kju:b",
+      "phonetic_text": "kjub",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3ViZQ&hash=d9c3f95a9bf324d87f7fcd2bd563d6600cb55248&lang=en&cache-only=0",
       "phonetic_am_text": "kyoob",
       "img": "https://cdn.langeek.co/photo/20950/original/?type=jpeg",
@@ -447,14 +501,15 @@
       ]
     },
     {
-      "word": "curry",
+      "id": "28debc0a-5bad-4693-ac08-e95b52898ddb",
+      "word": "to curry",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3Vycnk&hash=994b00bada6b2262633d7517ebf6435cfb14364d&lang=en&cache-only=0",
-      "phonetic_text": "kʌri",
+      "phonetic_text": "kə.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3Vycnk&hash=994b00bada6b2262633d7517ebf6435cfb14364d&lang=en&cache-only=0",
-      "phonetic_am_text": "kari",
+      "phonetic_am_text": "kē.ri",
       "img": "https://cdn.langeek.co/photo/21422/original/?type=jpeg",
-      "pronunciation": "ˈkəɹi/, /ˈkɝi",
+      "pronunciation": "ˈkɝːi",
       "senses": [
         {
           "definition": "to flavor food with a mix of spices commonly used in Indian cuisines",
@@ -484,7 +539,8 @@
       ]
     },
     {
-      "word": "cut",
+      "id": "8ca00681-4bd6-4257-9e96-06398d968c78",
+      "word": "to cut",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3V0&hash=5c0a06b7124a306811bf5557a68596a8cb917a5f&lang=en&cache-only=0",
       "phonetic_text": "kʌt",
@@ -521,10 +577,11 @@
       ]
     },
     {
-      "word": "deseed",
+      "id": "8dbc299f-c065-430f-9abb-244e71cb6989",
+      "word": "to deseed",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVzZWVk&hash=98c1b8dbed97d2f9db88e3158deff00c1c5be1b7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVzZWVk&hash=98c1b8dbed97d2f9db88e3158deff00c1c5be1b7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/37794/original/?type=jpeg",
@@ -537,14 +594,15 @@
       ]
     },
     {
-      "word": "dice",
+      "id": "4a795e47-9160-43f3-b98a-984ae1b05479",
+      "word": "to dice",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGljZQ&hash=adde24967590f127612f6d7c97acf70e928253fc&lang=en&cache-only=0",
       "phonetic_text": "daɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGljZQ&hash=adde24967590f127612f6d7c97acf70e928253fc&lang=en&cache-only=0",
       "phonetic_am_text": "dais",
       "img": "https://cdn.langeek.co/photo/20950/original/?type=jpeg",
-      "pronunciation": "ˈdaɪs",
+      "pronunciation": "daɪs",
       "senses": [
         {
           "definition": "to cut food into small cubes",
@@ -574,12 +632,13 @@
       ]
     },
     {
+      "id": "edec8b8b-a521-4a4a-a940-950365a106d8",
       "word": "dough sheet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZG91Z2ggc2hlZXQ&hash=6c24c373949aa287c78ccbbbe3c19255e3dcb18e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "doʊ ʃit",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG91Z2ggc2hlZXQ&hash=6c24c373949aa287c78ccbbbe3c19255e3dcb18e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dooo shit",
       "img": "https://cdn.langeek.co/photo/37796/original/?type=jpeg",
       "pronunciation": "doʊ ʃiːt",
       "senses": [
@@ -590,7 +649,8 @@
       ]
     },
     {
-      "word": "dredge",
+      "id": "bbf89ec5-78c3-4d1f-870b-70c0a5d385ab",
+      "word": "to dredge",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJlZGdl&hash=6600c935c5ba7b75051b01b159bbcabdef4b553e&lang=en&cache-only=0",
       "phonetic_text": "drɛʤ",
@@ -627,7 +687,8 @@
       ]
     },
     {
-      "word": "dress",
+      "id": "5cd636dd-68d8-45a0-b528-8be3dbf20b97",
+      "word": "to dress",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJlc3M&hash=adb9d8e3b42291ca982155552090e4b30bb84d1e&lang=en&cache-only=0",
       "phonetic_text": "drɛs",
@@ -664,28 +725,51 @@
       ]
     },
     {
-      "word": "drizzle",
+      "id": "9ffcf92a-e76c-4ce9-96d0-1d11d7c5dc5a",
+      "word": "to drizzle",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJpenpsZQ&hash=aa6b35a8bdd805ff063b0fbf8882e409df879bff&lang=en&cache-only=0",
-      "phonetic_text": "drɪzəl",
+      "phonetic_text": "drɪ.zəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZHJpenpsZQ&hash=aa6b35a8bdd805ff063b0fbf8882e409df879bff&lang=en&cache-only=0",
-      "phonetic_am_text": "drizēl",
+      "phonetic_am_text": "dri.zēl",
       "img": "https://cdn.langeek.co/photo/37816/original/?type=jpeg",
       "pronunciation": "ˈdɹɪzəɫ",
       "senses": [
         {
           "definition": "to pour a thin, fine stream of liquid, such as sauce, oil, or syrup, over food",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "To enhance the presentation, the pastry chef drizzled chocolate sauce in a delicate pattern over the dessert."
+            },
+            {
+              "cf": "",
+              "x": "The home cook decided to drizzle honey over the fresh berries to sweeten the fruit salad."
+            },
+            {
+              "cf": "",
+              "x": "The chef carefully drizzles olive oil over the bruschetta, giving it a glossy finish."
+            },
+            {
+              "cf": "",
+              "x": "To create a visually appealing dish, the culinary artist drizzled raspberry coulis over the creamy panna cotta."
+            },
+            {
+              "cf": "",
+              "x": "The chef artfully drizzled balsamic glaze over the Caprese salad, adding a touch of elegance."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "9cda633d-720c-40f3-ab20-419db807d76e",
       "word": "egg wash",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWdnIHdhc2g&hash=537326f779c613cd8492a8f201e4d4a1109c508b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛg wɑ:ʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWdnIHdhc2g&hash=537326f779c613cd8492a8f201e4d4a1109c508b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "eg vaash",
       "img": "https://cdn.langeek.co/photo/37904/original/?type=jpeg",
       "pronunciation": "ɛɡ wɑːʃ",
       "senses": [
@@ -696,12 +780,13 @@
       ]
     },
     {
-      "word": "engastrate",
+      "id": "0743d40a-3e1e-4461-9b1e-d685c4430d62",
+      "word": "to engastrate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZW5nYXN0cmF0ZQ&hash=307e79e48330a762847fd30888c433d13e6e9c5f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛn.gæst.reɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZW5nYXN0cmF0ZQ&hash=307e79e48330a762847fd30888c433d13e6e9c5f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "en.gāst.reit",
       "img": "",
       "pronunciation": "ɛnɡæstɹeɪt",
       "senses": [
@@ -712,12 +797,13 @@
       ]
     },
     {
-      "word": "filet",
+      "id": "b25a6257-ee61-4b1e-8c54-c988aa8a997b",
+      "word": "to filet",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmlsZXQ&hash=63ffbbe402b9d4aea6af374c81516cc534f07732&lang=en&cache-only=0",
-      "phonetic_text": "fɪleɪ",
+      "phonetic_text": "fɪ.leɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmlsZXQ&hash=63ffbbe402b9d4aea6af374c81516cc534f07732&lang=en&cache-only=0",
-      "phonetic_am_text": "filei",
+      "phonetic_am_text": "fi.lei",
       "img": "",
       "pronunciation": "fɪˈɫeɪ",
       "senses": [
@@ -728,7 +814,8 @@
       ]
     },
     {
-      "word": "flake",
+      "id": "337582cb-7d6b-4035-906c-4d4823fad4bd",
+      "word": "to flake",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmxha2U&hash=fb1975dfab90269f2ea0005de09a134484522dcf&lang=en&cache-only=0",
       "phonetic_text": "fleɪk",
@@ -744,12 +831,13 @@
       ]
     },
     {
-      "word": "fold in",
+      "id": "a361128f-bbac-4db5-8c12-0ed5bfa14b60",
+      "word": "to fold in",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZm9sZCBpbg&hash=514ae15dd7966a4d9c7cadd1ca002817b6e04a2f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "foʊld ɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZm9sZCBpbg&hash=514ae15dd7966a4d9c7cadd1ca002817b6e04a2f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fooold in",
       "img": "https://cdn.langeek.co/photo/37818/original/?type=jpeg",
       "pronunciation": "foʊld ɪn",
       "senses": [
@@ -760,7 +848,8 @@
       ]
     },
     {
-      "word": "french",
+      "id": "570df5b5-f62a-4770-8f68-ff6abeb0777f",
+      "word": "to french",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZnJlbmNo&hash=9fa5484df81c340725ecffd8c3c9109d2edc9e23&lang=en&cache-only=0",
       "phonetic_text": "frɛnʧ",
@@ -771,28 +860,72 @@
       "senses": [
         {
           "definition": "to slice food, typically vegetables, into long, thin strips or ribbons",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She frenches the carrots for the salad, creating elegant ribbons."
+            },
+            {
+              "cf": "",
+              "x": "Yesterday, he frenched the zucchini for the stir-fry, adding a touch of sophistication to the dish."
+            },
+            {
+              "cf": "",
+              "x": "Tomorrow, they will french the cucumbers for the appetizer, enhancing its visual appeal."
+            },
+            {
+              "cf": "",
+              "x": "The chef is frenching the bell peppers for the dish, ensuring uniformity in presentation."
+            },
+            {
+              "cf": "",
+              "x": "While I was preparing dinner, she was frenching the green beans, adding a gourmet touch to the meal."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "garnish",
+      "id": "3e37597d-46f3-46fa-a119-df204aeec683",
+      "word": "to garnish",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2FybmlzaA&hash=e001128cc0583a34ea1c98c6c3481ea7df11fe2c&lang=en&cache-only=0",
-      "phonetic_text": "gɑ:rnɪʃ",
+      "phonetic_text": "gɑr.nɪʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2FybmlzaA&hash=e001128cc0583a34ea1c98c6c3481ea7df11fe2c&lang=en&cache-only=0",
-      "phonetic_am_text": "gaarnish",
+      "phonetic_am_text": "gaar.nish",
       "img": "https://cdn.langeek.co/photo/20952/original/?type=jpeg",
       "pronunciation": "ˈɡɑɹnɪʃ",
       "senses": [
         {
           "definition": "to make food look more delicious by decorating it",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She garnished the salad with cherry tomatoes and fresh herbs."
+            },
+            {
+              "cf": "",
+              "x": "The chef is in the kitchen garnishing the soup with a sprinkle of chopped parsley."
+            },
+            {
+              "cf": "",
+              "x": "He garnished the main course with a slice of lemon and a sprig of rosemary."
+            },
+            {
+              "cf": "",
+              "x": "They garnished the platter of sushi with slices of pickled ginger and wasabi."
+            },
+            {
+              "cf": "",
+              "x": "The dessert was garnished with a dusting of powdered sugar and a mint leaf."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "grate",
+      "id": "0b644605-5200-44ee-b799-d7bd983c471b",
+      "word": "to grate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ3JhdGU&hash=a77fc48b14d3df0c1694bca702d1b7eefbc6fa8f&lang=en&cache-only=0",
       "phonetic_text": "greɪt",
@@ -803,19 +936,37 @@
       "senses": [
         {
           "definition": "to cut food into small pieces or shreds using a tool with sharp holes",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Grate the cheese for the pizza using a cheese grater."
+            },
+            {
+              "cf": "",
+              "x": "She grated carrots to add to the salad for extra crunch."
+            },
+            {
+              "cf": "",
+              "x": "Grate some lemon zest to add a refreshing touch to the dish."
+            },
+            {
+              "cf": "",
+              "x": "He carefully grated chocolate to sprinkle on top of the dessert."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "gut",
+      "id": "b29b0d60-5037-4a72-9895-39347129a7b6",
+      "word": "to gut",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ3V0&hash=38be70190f497fc921356d6ab6e21eeb862461d0&lang=en&cache-only=0",
-      "phonetic_text": "gʌt",
+      "phonetic_text": "gət",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ3V0&hash=38be70190f497fc921356d6ab6e21eeb862461d0&lang=en&cache-only=0",
-      "phonetic_am_text": "gat",
+      "phonetic_am_text": "gēt",
       "img": "https://cdn.langeek.co/photo/37820/original/?type=jpeg",
-      "pronunciation": "ˈɡət",
+      "pronunciation": "ɡʌt",
       "senses": [
         {
           "definition": "to remove the internal organs or intestines, typically from an animal, often for food preparation",
@@ -833,12 +984,13 @@
       ]
     },
     {
-      "word": "hull",
+      "id": "81af183c-59a6-4161-867c-d11a613cd1f7",
+      "word": "to hull",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaHVsbA&hash=2db6734363416c0f5018a57230fb597d66c8c7e8&lang=en&cache-only=0",
-      "phonetic_text": "hʌl",
+      "phonetic_text": "həl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaHVsbA&hash=2db6734363416c0f5018a57230fb597d66c8c7e8&lang=en&cache-only=0",
-      "phonetic_am_text": "hal",
+      "phonetic_am_text": "hēl",
       "img": "https://cdn.langeek.co/photo/37822/original/?type=jpeg",
       "pronunciation": "ˈhəɫ",
       "senses": [
@@ -862,14 +1014,15 @@
       ]
     },
     {
-      "word": "joint",
+      "id": "61d0cf0c-7475-484f-8578-1fa046bb8f5c",
+      "word": "to joint",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gam9pbnQ&hash=089a394aa1e1fd33648425dad717885664270a86&lang=en&cache-only=0",
       "phonetic_text": "ʤɔɪnt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gam9pbnQ&hash=089a394aa1e1fd33648425dad717885664270a86&lang=en&cache-only=0",
-      "phonetic_am_text": "joynt",
+      "phonetic_am_text": "jawint",
       "img": "",
-      "pronunciation": "ˈdʒɔɪnt",
+      "pronunciation": "ʤɔɪnt",
       "senses": [
         {
           "definition": "to prepare meat by cutting or separating it at the natural points of articulation, often in preparation for cooking",
@@ -899,7 +1052,8 @@
       ]
     },
     {
-      "word": "juice",
+      "id": "61087fa5-544c-4418-b95a-d14d5281efe1",
+      "word": "to juice",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8ganVpY2U&hash=128ad0dd6d7c5b14196768e5794efadbde471971&lang=en&cache-only=0",
       "phonetic_text": "ʤu:s",
@@ -924,12 +1078,13 @@
       ]
     },
     {
-      "word": "julienne",
+      "id": "1b236f7e-2c91-465a-9434-17870ad3447a",
+      "word": "to julienne",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8ganVsaWVubmU&hash=4f7c8c237c81ac84fa8aed03ea4c0104e8ea77a2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤu:.lɪɛn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ganVsaWVubmU&hash=4f7c8c237c81ac84fa8aed03ea4c0104e8ea77a2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "joo.lien",
       "img": "https://cdn.langeek.co/photo/37906/original/?type=jpeg",
       "pronunciation": "dʒˌuːlɪˈɛn",
       "senses": [
@@ -957,12 +1112,13 @@
       ]
     },
     {
-      "word": "knead",
+      "id": "a02bb406-3cf5-42d5-ab03-adc74f894715",
+      "word": "to knead",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga25lYWQ&hash=e2d42d3ec55996f443d0e20c37d2cf4f91b1f0c8&lang=en&cache-only=0",
-      "phonetic_text": "ni:d",
+      "phonetic_text": "nid",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga25lYWQ&hash=e2d42d3ec55996f443d0e20c37d2cf4f91b1f0c8&lang=en&cache-only=0",
-      "phonetic_am_text": "need",
+      "phonetic_am_text": "nid",
       "img": "https://cdn.langeek.co/photo/32014/original/?type=jpeg",
       "pronunciation": "ˈnid",
       "senses": [
@@ -994,14 +1150,15 @@
       ]
     },
     {
-      "word": "ladle",
+      "id": "f5acd3e9-dabb-4f1d-98c9-278819843a8e",
+      "word": "to ladle",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGFkbGU&hash=b2a899601398e14e14b65155b4980ad15b11f118&lang=en&cache-only=0",
-      "phonetic_text": "leɪdəl",
+      "phonetic_text": "leɪ.dəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGFkbGU&hash=b2a899601398e14e14b65155b4980ad15b11f118&lang=en&cache-only=0",
-      "phonetic_am_text": "leidēl",
+      "phonetic_am_text": "lei.dēl",
       "img": "https://cdn.langeek.co/photo/37824/original/?type=jpeg",
-      "pronunciation": "ˈɫeɪdəɫ",
+      "pronunciation": "ˈleɪdəl",
       "senses": [
         {
           "definition": "to serve or transfer a liquid or food using a ladle",
@@ -1027,7 +1184,8 @@
       ]
     },
     {
-      "word": "mash",
+      "id": "4df0a9f0-f4f3-4e52-adc8-aee27ad34989",
+      "word": "to mash",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFzaA&hash=5da03b308fe1038cb36c384ad296854f4854c2de&lang=en&cache-only=0",
       "phonetic_text": "mæʃ",
@@ -1064,7 +1222,8 @@
       ]
     },
     {
-      "word": "mill",
+      "id": "dfc44868-636c-49b9-82d5-ecd939b982c4",
+      "word": "to mill",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWlsbA&hash=e759ca2f313718904db54260357707a3240edc39&lang=en&cache-only=0",
       "phonetic_text": "mɪl",
@@ -1097,7 +1256,8 @@
       ]
     },
     {
-      "word": "mince",
+      "id": "525f961f-1fe9-41fe-b6b0-14476b2f2e59",
+      "word": "to mince",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWluY2U&hash=5ece0cd2aa0e431273eddde26a072cf4e2b4f1e4&lang=en&cache-only=0",
       "phonetic_text": "mɪns",
@@ -1134,14 +1294,15 @@
       ]
     },
     {
-      "word": "mix",
+      "id": "a6e0e8e4-dee4-42cc-a135-4a1fc8479809",
+      "word": "to mix",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWl4&hash=546a170bd9424b6135dc7929cb1885c5f54a5636&lang=en&cache-only=0",
       "phonetic_text": "mɪks",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWl4&hash=546a170bd9424b6135dc7929cb1885c5f54a5636&lang=en&cache-only=0",
       "phonetic_am_text": "miks",
       "img": "https://cdn.langeek.co/photo/50811/original/?type=jpeg",
-      "pronunciation": "ˈmɪks",
+      "pronunciation": "mɪks",
       "senses": [
         {
           "definition": "to combine two or more distinct substances or elements to form a unified whole",
@@ -1171,7 +1332,8 @@
       ]
     },
     {
-      "word": "pare",
+      "id": "c885b11a-c18d-4f6c-b9c8-d69891ba9848",
+      "word": "to pare",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGFyZQ&hash=1620bc9c878b8e4ccc4f3244799820d30f988510&lang=en&cache-only=0",
       "phonetic_text": "pɛr",
@@ -1208,12 +1370,13 @@
       ]
     },
     {
-      "word": "peel",
+      "id": "b8497875-570d-4342-b92d-826b7b8eb8d0",
+      "word": "to peel",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGVlbA&hash=81fde1f955de802eeadbd1d04af148355b811dcf&lang=en&cache-only=0",
-      "phonetic_text": "pi:l",
+      "phonetic_text": "pil",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGVlbA&hash=81fde1f955de802eeadbd1d04af148355b811dcf&lang=en&cache-only=0",
-      "phonetic_am_text": "peel",
+      "phonetic_am_text": "pil",
       "img": "https://cdn.langeek.co/photo/58400/original/?type=jpeg",
       "pronunciation": "ˈpiɫ",
       "senses": [
@@ -1245,12 +1408,13 @@
       ]
     },
     {
-      "word": "pepper",
+      "id": "fac39106-308b-4319-9c69-55da0a2e59cb",
+      "word": "to pepper",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGVwcGVy&hash=7710311e675a06cf4852aae3b36e251af1ef3650&lang=en&cache-only=0",
-      "phonetic_text": "pɛpər",
+      "phonetic_text": "pɛ.pər",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGVwcGVy&hash=7710311e675a06cf4852aae3b36e251af1ef3650&lang=en&cache-only=0",
-      "phonetic_am_text": "pepēr",
+      "phonetic_am_text": "pe.pēr",
       "img": "https://cdn.langeek.co/photo/37828/original/?type=jpeg",
       "pronunciation": "ˈpɛpɚ",
       "senses": [
@@ -1270,7 +1434,8 @@
       ]
     },
     {
-      "word": "pipe",
+      "id": "8d15db91-1ebc-4345-972c-b3536ec7aab6",
+      "word": "to pipe",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGlwZQ&hash=e3e58b86a324dc41a301cd060df0b3f8b63fd383&lang=en&cache-only=0",
       "phonetic_text": "paɪp",
@@ -1307,7 +1472,8 @@
       ]
     },
     {
-      "word": "pit",
+      "id": "cc9e0f44-8cd6-424c-ab52-fd4c8c71719f",
+      "word": "to pit",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGl0&hash=c11b8fb27c09141d1a5db179b0261bfeb12e006a&lang=en&cache-only=0",
       "phonetic_text": "pɪt",
@@ -1344,12 +1510,13 @@
       ]
     },
     {
-      "word": "pluck",
+      "id": "eade97f2-770a-4543-812d-28a029ad59cc",
+      "word": "to pluck",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGx1Y2s&hash=ddeccdf1b8016208b380349b98b652939992f074&lang=en&cache-only=0",
-      "phonetic_text": "plʌk",
+      "phonetic_text": "plək",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGx1Y2s&hash=ddeccdf1b8016208b380349b98b652939992f074&lang=en&cache-only=0",
-      "phonetic_am_text": "plak",
+      "phonetic_am_text": "plēk",
       "img": "https://cdn.langeek.co/photo/46878/original/?type=jpeg",
       "pronunciation": "ˈpɫək",
       "senses": [
@@ -1381,10 +1548,11 @@
       ]
     },
     {
-      "word": "pod",
+      "id": "afeb6d43-08b3-47d7-8aba-11b3eb304c47",
+      "word": "to pod",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcG9k&hash=929da7819b1005e58da0500dc7f1afa19d6322e9&lang=en&cache-only=0",
-      "phonetic_text": "pɑ:d",
+      "phonetic_text": "pɑd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcG9k&hash=929da7819b1005e58da0500dc7f1afa19d6322e9&lang=en&cache-only=0",
       "phonetic_am_text": "paad",
       "img": "",
@@ -1418,12 +1586,13 @@
       ]
     },
     {
-      "word": "prepare",
+      "id": "720433f2-cba7-4d12-95c1-4478f023cac4",
+      "word": "to prepare",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJlcGFyZQ&hash=6d13eb7259b657713a2b76799cc9a0094205187a&lang=en&cache-only=0",
-      "phonetic_text": "pripɛr",
+      "phonetic_text": "prɪ.pɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJlcGFyZQ&hash=6d13eb7259b657713a2b76799cc9a0094205187a&lang=en&cache-only=0",
-      "phonetic_am_text": "priper",
+      "phonetic_am_text": "pri.per",
       "img": "https://cdn.langeek.co/photo/27059/original/cook?type=jpeg",
       "pronunciation": "prɪˈpɛr",
       "senses": [
@@ -1455,12 +1624,13 @@
       ]
     },
     {
-      "word": "rustle up",
+      "id": "9eda9d0d-cf16-4a3c-8777-53876f263a08",
+      "word": "to rustle up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcnVzdGxlIHVw&hash=0d00cf2a409708d27e0daee90127c3afdef593cc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rə.səl ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcnVzdGxlIHVw&hash=0d00cf2a409708d27e0daee90127c3afdef593cc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rē.sēl ap",
       "img": "https://cdn.langeek.co/photo/44112/original/?type=jpeg",
       "pronunciation": "ɹʌsəl ʌp",
       "senses": [
@@ -1484,12 +1654,13 @@
       ]
     },
     {
-      "word": "salt",
+      "id": "f31b1512-b974-4e90-af56-0fad42fd0b3d",
+      "word": "to salt",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2FsdA&hash=c74c5953d11752740d6eb1fdf452c9e175ed9456&lang=en&cache-only=0",
       "phonetic_text": "sɔ:lt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2FsdA&hash=c74c5953d11752740d6eb1fdf452c9e175ed9456&lang=en&cache-only=0",
-      "phonetic_am_text": "saawlt",
+      "phonetic_am_text": "sawlt",
       "img": "https://cdn.langeek.co/photo/27119/original/salty?type=jpeg",
       "pronunciation": "sɔːlt",
       "senses": [
@@ -1521,14 +1692,15 @@
       ]
     },
     {
-      "word": "scale",
+      "id": "bb40e599-d006-4f79-b68f-de2dc80aa2d3",
+      "word": "to scale",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NhbGU&hash=e0a6e3bcc02458bd4fe745abd440a27f5779a610&lang=en&cache-only=0",
       "phonetic_text": "skeɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NhbGU&hash=e0a6e3bcc02458bd4fe745abd440a27f5779a610&lang=en&cache-only=0",
       "phonetic_am_text": "skeil",
       "img": "",
-      "pronunciation": "ˈskeɪɫ",
+      "pronunciation": "skeɪl",
       "senses": [
         {
           "definition": "to adjust or modify something according to a specific rate, standard, or size",
@@ -1558,12 +1730,13 @@
       ]
     },
     {
-      "word": "scramble",
+      "id": "90aa5374-2c17-455f-bedd-ba5da1e5555b",
+      "word": "to scramble",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NyYW1ibGU&hash=b5d4b3d35f2f2141ae6b726d5b4ffad7d484e53d&lang=en&cache-only=0",
-      "phonetic_text": "skræmbəl",
+      "phonetic_text": "skræm.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NyYW1ibGU&hash=b5d4b3d35f2f2141ae6b726d5b4ffad7d484e53d&lang=en&cache-only=0",
-      "phonetic_am_text": "skrāmbēl",
+      "phonetic_am_text": "skrām.bēl",
       "img": "https://cdn.langeek.co/photo/20940/original/?type=jpeg",
       "pronunciation": "ˈskɹæmbəɫ",
       "senses": [
@@ -1595,7 +1768,8 @@
       ]
     },
     {
-      "word": "scrape",
+      "id": "c944d84d-c767-4343-b218-7bfe71bf7e6d",
+      "word": "to scrape",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NyYXBl&hash=38dd7428d9256a588ba0f740a2374686fe0b945b&lang=en&cache-only=0",
       "phonetic_text": "skreɪp",
@@ -1632,12 +1806,13 @@
       ]
     },
     {
-      "word": "season",
+      "id": "75828b9c-1887-4765-a62c-3b6d1800f176",
+      "word": "to season",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2Vhc29u&hash=20bcb95166452bf29ab7cbb14e99ac6af81ac02d&lang=en&cache-only=0",
-      "phonetic_text": "si:zən",
+      "phonetic_text": "si:.sʌn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2Vhc29u&hash=20bcb95166452bf29ab7cbb14e99ac6af81ac02d&lang=en&cache-only=0",
-      "phonetic_am_text": "seezēn",
+      "phonetic_am_text": "si.san",
       "img": "https://cdn.langeek.co/photo/21422/original/?type=jpeg",
       "pronunciation": "ˈsiːzən",
       "senses": [
@@ -1669,14 +1844,15 @@
       ]
     },
     {
-      "word": "seed",
+      "id": "af5dd953-0c7c-466f-b3d1-dd8c5eab1301",
+      "word": "to seed",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2VlZA&hash=c43ca079a96edfbc947e1cb60deef80696901c54&lang=en&cache-only=0",
       "phonetic_text": "si:d",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2VlZA&hash=c43ca079a96edfbc947e1cb60deef80696901c54&lang=en&cache-only=0",
-      "phonetic_am_text": "seed",
+      "phonetic_am_text": "sid",
       "img": "https://cdn.langeek.co/photo/37794/original/?type=jpeg",
-      "pronunciation": "ˈsid",
+      "pronunciation": "siːd",
       "senses": [
         {
           "definition": "to remove the seeds from a fruit or vegetable",
@@ -1706,14 +1882,15 @@
       ]
     },
     {
-      "word": "shave",
+      "id": "58c6ce86-13b2-4f43-a11f-7fdacc3586ad",
+      "word": "to shave",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2hhdmU&hash=d268f8e696d4bdf081fef892c14c7c46903c6f62&lang=en&cache-only=0",
       "phonetic_text": "ʃeɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2hhdmU&hash=d268f8e696d4bdf081fef892c14c7c46903c6f62&lang=en&cache-only=0",
       "phonetic_am_text": "sheiv",
       "img": "",
-      "pronunciation": "ˈʃeɪv",
+      "pronunciation": "ʃeɪv",
       "senses": [
         {
           "definition": "to cut thin slices or layers from the surface of something",
@@ -1743,10 +1920,11 @@
       ]
     },
     {
-      "word": "shell",
+      "id": "d0bb8eed-0199-4734-849c-ba0e7a0c3eac",
+      "word": "to shell",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2hlbGw&hash=c25ee1cdbeb3165f59e0fbd9b3f316454e7283a1&lang=en&cache-only=0",
-      "phonetic_text": "ʃɛl",
+      "phonetic_text": "ʃel",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2hlbGw&hash=c25ee1cdbeb3165f59e0fbd9b3f316454e7283a1&lang=en&cache-only=0",
       "phonetic_am_text": "shel",
       "img": "",
@@ -1780,7 +1958,8 @@
       ]
     },
     {
-      "word": "shred",
+      "id": "509a9691-59c9-4211-bb5c-18248e9d306b",
+      "word": "to shred",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2hyZWQ&hash=bef36760a8fbd8d012f6ab01db158a2fee16c16e&lang=en&cache-only=0",
       "phonetic_text": "ʃrɛd",
@@ -1817,12 +1996,13 @@
       ]
     },
     {
-      "word": "shuck",
+      "id": "4d64b23d-7844-472b-95eb-e298c403eddb",
+      "word": "to shuck",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2h1Y2s&hash=89a0508169091c3f98c40624a1d3185fb05a796b&lang=en&cache-only=0",
-      "phonetic_text": "ʃʌk",
+      "phonetic_text": "ʃək",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2h1Y2s&hash=89a0508169091c3f98c40624a1d3185fb05a796b&lang=en&cache-only=0",
-      "phonetic_am_text": "shak",
+      "phonetic_am_text": "shēk",
       "img": "",
       "pronunciation": "ˈʃək",
       "senses": [
@@ -1833,7 +2013,8 @@
       ]
     },
     {
-      "word": "sift",
+      "id": "be025666-6d08-49d9-a301-2bea206578ef",
+      "word": "to sift",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2lmdA&hash=71acc9b5ed8ad863505971c713db50fefc06907c&lang=en&cache-only=0",
       "phonetic_text": "sɪft",
@@ -1870,7 +2051,8 @@
       ]
     },
     {
-      "word": "skim",
+      "id": "5cefd5f8-b694-4599-b120-a398aa9524df",
+      "word": "to skim",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2tpbQ&hash=fb7265516e8931708533591cd5966da739c108fe&lang=en&cache-only=0",
       "phonetic_text": "skɪm",
@@ -1881,37 +2063,13 @@
       "senses": [
         {
           "definition": "to remove a substance, such as foam or fat,  from the surface of a liquid or object, typically by gently scooping or brushing it off",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The chef decided to skim the impurities from the soup, ensuring a clear and flavorful broth."
-            },
-            {
-              "cf": "",
-              "x": "She used a fine mesh sieve to skim the floating debris from the pond."
-            },
-            {
-              "cf": "",
-              "x": "Before serving, the barista would skillfully skim the excess foam from the top of each cappuccino."
-            },
-            {
-              "cf": "",
-              "x": "The beekeeper carefully skimmed the beeswax from the top of the honeycombs."
-            },
-            {
-              "cf": "",
-              "x": "He decided to skim the excess oil off the top of the soup to reduce its richness."
-            },
-            {
-              "cf": "",
-              "x": "To maintain the clarity of the fish tank, he regularly skimmed the floating particles."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "skin",
+      "id": "205f35fe-fb70-417e-8175-cbc82e0bb910",
+      "word": "to skin",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2tpbg&hash=6bb6913f890adaa445960a89d918ac374234acb2&lang=en&cache-only=0",
       "phonetic_text": "skɪn",
@@ -1922,38 +2080,18 @@
       "senses": [
         {
           "definition": "to remove the outer layer or covering from something",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Skin the potatoes before boiling them."
-            },
-            {
-              "cf": "",
-              "x": "He skillfully skinned the fish before cooking it."
-            },
-            {
-              "cf": "",
-              "x": "Please skin the tomatoes before adding them to the salad."
-            },
-            {
-              "cf": "",
-              "x": "Before roasting the peppers, remember to skin them first."
-            },
-            {
-              "cf": "",
-              "x": "Skinning the fruit makes it easier to eat."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "spice up",
+      "id": "b4cc1001-0dc5-44b8-8ef5-d4829de23abc",
+      "word": "to spice up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3BpY2UgdXA&hash=9f83ceef4a3ec34841b4b0e6e8c81f0e58d0ae3e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spaɪs ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3BpY2UgdXA&hash=9f83ceef4a3ec34841b4b0e6e8c81f0e58d0ae3e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "spais ap",
       "img": "https://cdn.langeek.co/photo/37830/original/?type=jpeg",
       "pronunciation": "spˈaɪs ˈʌp",
       "senses": [
@@ -1973,14 +2111,15 @@
       ]
     },
     {
-      "word": "spread",
+      "id": "4919edea-ada9-496b-b76c-16c9138ba5b3",
+      "word": "to spread",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3ByZWFk&hash=186a71363dbe46fabc6d68b1f05f81a55b369bc9&lang=en&cache-only=0",
       "phonetic_text": "sprɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3ByZWFk&hash=186a71363dbe46fabc6d68b1f05f81a55b369bc9&lang=en&cache-only=0",
       "phonetic_am_text": "spred",
       "img": "https://cdn.langeek.co/photo/31109/original/family-room?type=jpeg",
-      "pronunciation": "ˈspred",
+      "pronunciation": "sprɛd",
       "senses": [
         {
           "definition": "to put a layer of a smooth or soft substance over a surface",
@@ -2010,7 +2149,8 @@
       ]
     },
     {
-      "word": "stir",
+      "id": "772a8cac-b76d-4f8a-8bd7-8c6a4361406f",
+      "word": "to stir",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3Rpcg&hash=c8a3eb14dfa62173ce4e9766f65dad212c420826&lang=en&cache-only=0",
       "phonetic_text": "stɜr",
@@ -2047,14 +2187,15 @@
       ]
     },
     {
-      "word": "stone",
+      "id": "f2d2c7d0-6984-4d84-b7d7-ff9d90bae8e8",
+      "word": "to stone",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RvbmU&hash=19b138046b5779b7773d3307e8e06524e592fb56&lang=en&cache-only=0",
       "phonetic_text": "stoʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RvbmU&hash=19b138046b5779b7773d3307e8e06524e592fb56&lang=en&cache-only=0",
-      "phonetic_am_text": "stown",
+      "phonetic_am_text": "stooon",
       "img": "",
-      "pronunciation": "ˈstoʊn",
+      "pronunciation": "stoʊn",
       "senses": [
         {
           "definition": "to remove the seeds from fruits, such as cherries or peaches",
@@ -2084,12 +2225,13 @@
       ]
     },
     {
-      "word": "stuff",
+      "id": "a4b42dc7-a034-46a3-b323-7f27300a1d96",
+      "word": "to stuff",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3R1ZmY&hash=c99a6c6a570d1d74cfcb1013f531246f45fa70e9&lang=en&cache-only=0",
-      "phonetic_text": "stʌf",
+      "phonetic_text": "stəf",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3R1ZmY&hash=c99a6c6a570d1d74cfcb1013f531246f45fa70e9&lang=en&cache-only=0",
-      "phonetic_am_text": "staf",
+      "phonetic_am_text": "stēf",
       "img": "https://cdn.langeek.co/photo/32668/original/?type=jpeg",
       "pronunciation": "ˈstəf",
       "senses": [
@@ -2121,12 +2263,13 @@
       ]
     },
     {
-      "word": "sweeten",
+      "id": "11d62c27-778f-4e25-bd3c-f6a043b960c4",
+      "word": "to sweeten",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3dlZXRlbg&hash=4b08f43a7c4bc6ff1789299add3a7e6ae6a00d9c&lang=en&cache-only=0",
-      "phonetic_text": "swi:tən",
+      "phonetic_text": "swi.tən",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3dlZXRlbg&hash=4b08f43a7c4bc6ff1789299add3a7e6ae6a00d9c&lang=en&cache-only=0",
-      "phonetic_am_text": "sweetēn",
+      "phonetic_am_text": "svi.tēn",
       "img": "https://cdn.langeek.co/photo/47927/original/?type=jpeg",
       "pronunciation": "ˈswitən",
       "senses": [
@@ -2158,12 +2301,13 @@
       ]
     },
     {
-      "word": "tenderize",
+      "id": "56aa5a22-77ff-44df-af00-4e2d3fe88284",
+      "word": "to tenderize",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGVuZGVyaXpl&hash=2c93d042ea65dec47dc69177473d553878803204&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɛn.dɪ.raɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGVuZGVyaXpl&hash=2c93d042ea65dec47dc69177473d553878803204&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ten.di.raiz",
       "img": "https://cdn.langeek.co/photo/32674/original/?type=jpeg",
       "pronunciation": "tˈɛndɪɹˌaɪz",
       "senses": [
@@ -2174,12 +2318,13 @@
       ]
     },
     {
-      "word": "top and tail",
+      "id": "a46ea912-e17e-4456-bb8c-ace780d55d00",
+      "word": "to top and tail",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdG9wIGFuZCB0YWls&hash=307aae92e954fc6af4507883034aa2294fe56bb2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɑp ænd teɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdG9wIGFuZCB0YWls&hash=307aae92e954fc6af4507883034aa2294fe56bb2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "taap ānd teil",
       "img": "",
       "pronunciation": "tɑːp ænd teɪl",
       "senses": [
@@ -2190,12 +2335,13 @@
       ]
     },
     {
-      "word": "toss",
+      "id": "deb0f9ca-9716-4527-8136-3fb2d409ffc0",
+      "word": "to toss",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdG9zcw&hash=f7134ed668bee4e8e5225821367068bb7a7d6b39&lang=en&cache-only=0",
-      "phonetic_text": "tɔ:s",
+      "phonetic_text": "tɔs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdG9zcw&hash=f7134ed668bee4e8e5225821367068bb7a7d6b39&lang=en&cache-only=0",
-      "phonetic_am_text": "taaws",
+      "phonetic_am_text": "taws",
       "img": "https://cdn.langeek.co/photo/37832/original/?type=jpeg",
       "pronunciation": "ˈtɔs",
       "senses": [
@@ -2227,12 +2373,13 @@
       ]
     },
     {
-      "word": "truss",
+      "id": "b9605bc5-227c-4e95-9d1e-a685e68f5a52",
+      "word": "to truss",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHJ1c3M&hash=047aadd7100d53d60a80cc353e66ac3363c423fa&lang=en&cache-only=0",
-      "phonetic_text": "trʌs",
+      "phonetic_text": "trəs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHJ1c3M&hash=047aadd7100d53d60a80cc353e66ac3363c423fa&lang=en&cache-only=0",
-      "phonetic_am_text": "tras",
+      "phonetic_am_text": "trēs",
       "img": "",
       "pronunciation": "ˈtɹəs",
       "senses": [
@@ -2264,71 +2411,136 @@
       ]
     },
     {
-      "word": "whip",
+      "id": "9089780f-2c5d-4cdb-a6d8-d48f0c8d496f",
+      "word": "to whip",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2hpcA&hash=cf7ad5bf2dfa378563a955a75b892cb465d15821&lang=en&cache-only=0",
-      "phonetic_text": "wɪp",
+      "phonetic_text": "hwɪp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2hpcA&hash=cf7ad5bf2dfa378563a955a75b892cb465d15821&lang=en&cache-only=0",
-      "phonetic_am_text": "wip",
+      "phonetic_am_text": "hvip",
       "img": "https://cdn.langeek.co/photo/20940/original/?type=jpeg",
-      "pronunciation": "ˈhwɪp/, /ˈwɪp",
+      "pronunciation": "wɪp",
       "senses": [
         {
           "definition": "to mix ingredients with a wire whisk or fork in cooking or baking to achieve a specific texture",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The recipe instructed me to whip the eggs with a wire whisk until they formed soft peaks."
+            },
+            {
+              "cf": "",
+              "x": "She decided to whip the cream to a smooth consistency for the dessert topping."
+            },
+            {
+              "cf": "",
+              "x": "In baking, it's essential to whip the batter thoroughly to incorporate air for a light and fluffy cake."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "whip up",
+      "id": "e2152316-6fb2-4cba-bc58-80030a82eb85",
+      "word": "to whip up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2hpcCB1cA&hash=c95a3344fa9fc9e2d6ea2cd6ee80eca65e840589&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hwɪp ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2hpcCB1cA&hash=c95a3344fa9fc9e2d6ea2cd6ee80eca65e840589&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hvip ap",
       "img": "https://cdn.langeek.co/photo/51638/original/?type=jpeg",
       "pronunciation": "wˈɪp ˈʌp",
       "senses": [
         {
           "definition": "to make food very quickly",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Let's whip up a quick dessert to satisfy our sweet tooth."
+            },
+            {
+              "cf": "",
+              "x": "Let's whip up a quick and easy breakfast before we leave."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "whisk",
+      "id": "e5c446d6-dd2c-4faa-bc6e-c883b7d21f38",
+      "word": "to whisk",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2hpc2s&hash=cc3667af9a31483a527dc95ed369679da199f3ef&lang=en&cache-only=0",
-      "phonetic_text": "wɪsk",
+      "phonetic_text": "hwɪsk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2hpc2s&hash=cc3667af9a31483a527dc95ed369679da199f3ef&lang=en&cache-only=0",
-      "phonetic_am_text": "wisk",
+      "phonetic_am_text": "hvisk",
       "img": "https://cdn.langeek.co/photo/20940/original/?type=jpeg",
       "pronunciation": "ˈhwɪsk/, /ˈwɪsk",
       "senses": [
         {
           "definition": "to beat or mix rapidly, typically with a utensil such as a whisk",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She whisked the eggs vigorously to create a fluffy omelette."
+            },
+            {
+              "cf": "",
+              "x": "In the mixing bowl, he whisked the ingredients to prepare the pancake batter."
+            },
+            {
+              "cf": "",
+              "x": "The recipe instructed her to whisk the sauce continuously over low heat until it thickened."
+            },
+            {
+              "cf": "",
+              "x": "To make the perfect salad dressing, she whisks olive oil, vinegar, and herbs."
+            },
+            {
+              "cf": "",
+              "x": "The chef whisks the cream until it forms soft peaks for the dessert topping."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "whizz",
+      "id": "59605fe4-ead2-4f4b-901b-d76b18841191",
+      "word": "to whizz",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2hpeno&hash=16006c1f7cbd2dcbbe22eeac7e45d548bcc531b9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2hpeno&hash=16006c1f7cbd2dcbbe22eeac7e45d548bcc531b9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "viz",
       "img": "https://cdn.langeek.co/photo/37910/original/?type=jpeg",
       "pronunciation": "wˈɪz",
       "senses": [
         {
           "definition": "to blend or puree ingredients using a food processor or blender",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "After adding the ingredients, whizz the mixture in the food processor until it forms a smooth paste."
+            },
+            {
+              "cf": "",
+              "x": "To make the sauce, simply whizz the cooked vegetables with some broth."
+            },
+            {
+              "cf": "",
+              "x": "The chef demonstrated how to whizz the nuts and dates in a blender to create a delicious energy bar base."
+            },
+            {
+              "cf": "",
+              "x": "Before adding the liquid, whizz the dry ingredients in the food processor to break up any lumps and ensure a smooth batter."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "zest",
+      "id": "02b282f5-07ef-458f-b3e2-d81cf3bfd2ec",
+      "word": "to zest",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gemVzdA&hash=978dc2e7dad702cd60d0c7a16641943dafeee145&lang=en&cache-only=0",
       "phonetic_text": "zɛst",
@@ -2339,7 +2551,16 @@
       "senses": [
         {
           "definition": "to add flavor or enhance the taste of food by adding citrus peel or other aromatic ingredients",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He zests the lemon over the pasta to give it a refreshing flavor."
+            },
+            {
+              "cf": "",
+              "x": "She zests the orange into the salad dressing to add a tangy twist."
+            }
+          ]
         }
       ]
     }

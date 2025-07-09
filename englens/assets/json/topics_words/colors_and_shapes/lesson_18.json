@@ -1,29 +1,37 @@
 {
+  "id": "ea2d4fad-7f34-442e-82f1-d4bcd10b21e9",
   "topic": "colors_and_shapes",
   "title": "Three-Dimensional Shapes",
   "lesson": "lesson_18",
   "word_list": [
     {
+      "id": "70c6a50e-a09e-4560-94dc-96e51438a53b",
       "word": "solid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c29saWQ&hash=5cf761efea8fd81409ce33e8058d6ab06e663129&lang=en&cache-only=0",
-      "phonetic_text": "sɑ:ləd",
+      "phonetic_text": "sɑ.lɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=c29saWQ&hash=5cf761efea8fd81409ce33e8058d6ab06e663129&lang=en&cache-only=0",
-      "phonetic_am_text": "saalēd",
+      "phonetic_am_text": "saa.lid",
       "img": "https://cdn.langeek.co/photo/25982/original/?type=jpeg",
-      "pronunciation": "ˈsɑɫəd",
+      "pronunciation": "ˈsɑlɪd",
       "senses": [
         {
           "definition": "(geometry) a shape that is not two-dimensional because it has height, width, and length",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Solids can be classified into different types such as prisms, pyramids, spheres, and cylinders based on their geometric properties."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "edf5550a-25b2-4e5e-9fe7-f033f31bc7d9",
       "word": "cube",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3ViZQ&hash=0cdf65c2a957f6ab295e6c2396fe487777c075fb&lang=en&cache-only=0",
-      "phonetic_text": "kju:b",
+      "phonetic_text": "kjub",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3ViZQ&hash=0cdf65c2a957f6ab295e6c2396fe487777c075fb&lang=en&cache-only=0",
       "phonetic_am_text": "kyoob",
       "img": "https://cdn.langeek.co/photo/22887/original/?type=jpeg",
@@ -31,17 +39,39 @@
       "senses": [
         {
           "definition": "a figure, either hollow or solid, with six equal square sides",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The dice used in board games are typically shaped like cubes."
+            },
+            {
+              "cf": "",
+              "x": "The child stacked colorful toy cubes to build a tower."
+            },
+            {
+              "cf": "",
+              "x": "The classroom had storage bins shaped like colorful cubes for organizing supplies."
+            },
+            {
+              "cf": "",
+              "x": "The teacher used wooden cubes as math manipulatives to teach volume and geometry."
+            },
+            {
+              "cf": "",
+              "x": "The ice in the cooler was formed into perfect cubes."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "02c8eeea-1af4-4b77-910c-e1cf6b454175",
       "word": "cuboid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3Vib2lk&hash=250eeffe5ffa4f34a88954d3b382dc2fa1531c32&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kju:.bɔɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3Vib2lk&hash=250eeffe5ffa4f34a88954d3b382dc2fa1531c32&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kyoo.bawid",
       "img": "https://cdn.langeek.co/photo/35489/original/?type=jpeg",
       "pronunciation": "kjˈuːbɔɪd",
       "senses": [
@@ -52,12 +82,13 @@
       ]
     },
     {
+      "id": "efca55a7-ea39-4b5e-85ac-f9c92fceb949",
       "word": "spheroid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BoZXJvaWQ&hash=2cc089fbc5f06d5ee621382ffb06cbbf843ef501&lang=en&cache-only=0",
-      "phonetic_text": "sfɪrɔɪd",
+      "phonetic_text": "sfɪ.rɔɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BoZXJvaWQ&hash=2cc089fbc5f06d5ee621382ffb06cbbf843ef501&lang=en&cache-only=0",
-      "phonetic_am_text": "sfiroyd",
+      "phonetic_am_text": "sfi.rawid",
       "img": "https://cdn.langeek.co/photo/25996/original/?type=jpeg",
       "pronunciation": "ˈsfɪˌɹɔɪd",
       "senses": [
@@ -77,6 +108,7 @@
       ]
     },
     {
+      "id": "683196eb-dad3-4889-9496-1a22a24a4647",
       "word": "sphere",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BoZXJl&hash=02249bd8a6db57cba1d01bdd732ad08202384774&lang=en&cache-only=0",
@@ -106,76 +138,153 @@
       ]
     },
     {
+      "id": "3604a90f-ad81-4c8c-bb6d-a360dd1f4198",
       "word": "cone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29uZQ&hash=6e668fa8e3f8987c920eadf6f5f3f2e0fa2ea36a&lang=en&cache-only=0",
       "phonetic_text": "koʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uZQ&hash=6e668fa8e3f8987c920eadf6f5f3f2e0fa2ea36a&lang=en&cache-only=0",
-      "phonetic_am_text": "kown",
+      "phonetic_am_text": "kooon",
       "img": "https://cdn.langeek.co/photo/25926/original/?type=jpeg",
-      "pronunciation": "ˈkoʊn",
+      "pronunciation": "koʊn",
       "senses": [
         {
           "definition": "(geometry) a three dimensional shape with a circular base that rises to a single point",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The party decorations included colorful paper cones filled with candies for the guests."
+            },
+            {
+              "cf": "",
+              "x": "The rocket soared into the sky, leaving behind a trail of smoke that formed a cone."
+            },
+            {
+              "cf": "",
+              "x": "The chef stacked three ice cream scoops in a waffle cone for the perfect summer treat."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "ed5b869d-5d37-4ef3-9933-568a8eaa489f",
       "word": "cylinder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3lsaW5kZXI&hash=cb4f7679a4bf610b27f5536e70de8ec1a22af70a&lang=en&cache-only=0",
-      "phonetic_text": "sɪləndər",
+      "phonetic_text": "sɪ.lən.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3lsaW5kZXI&hash=cb4f7679a4bf610b27f5536e70de8ec1a22af70a&lang=en&cache-only=0",
-      "phonetic_am_text": "silēndēr",
+      "phonetic_am_text": "si.lēn.dēr",
       "img": "https://cdn.langeek.co/photo/25934/original/?type=jpeg",
-      "pronunciation": "ˈsɪɫəndɝ/, /ˈsɪɫɪndɝ",
+      "pronunciation": "ˈsɪləndɚ",
       "senses": [
         {
           "definition": "(geometry) a solid or hollow shape with two circular bases at each end and straight parallel sides",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The glass on the table was in the shape of a tall, slender cylinder."
+            },
+            {
+              "cf": "",
+              "x": "The industrial containers were large cylinders, perfect for storing liquids."
+            },
+            {
+              "cf": "",
+              "x": "The artist sculpted a beautiful marble cylinder as part of a modern art installation."
+            },
+            {
+              "cf": "",
+              "x": "In geometry class, we learned how to calculate the volume of a cylinder using its height and base area."
+            },
+            {
+              "cf": "",
+              "x": "The ancient columns were made in the shape of massive stone cylinders, supporting the grand structure."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "bfce0147-43b8-49a4-89c2-7d4fd9b7c376",
       "word": "ellipsoid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWxsaXBzb2lk&hash=daf8bd779bc2074f1c4a1eee460d64aaca6b7943&lang=en&cache-only=0",
-      "phonetic_text": "ɪlɪpsɔɪd",
+      "phonetic_text": "ɪ.lɪp.sɔɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWxsaXBzb2lk&hash=daf8bd779bc2074f1c4a1eee460d64aaca6b7943&lang=en&cache-only=0",
-      "phonetic_am_text": "ilipsoyd",
+      "phonetic_am_text": "i.lip.sawid",
       "img": "",
       "pronunciation": "ɪˈɫɪpsɔɪd",
       "senses": [
         {
           "definition": "a three-dimensional shape similar to a stretched or compressed sphere",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "An ellipsoid can be formed by elongating or compressing a sphere along its axes."
+            },
+            {
+              "cf": "",
+              "x": "In geodesy, the reference ellipsoid is used as a mathematical model to represent the Earth's shape."
+            },
+            {
+              "cf": "",
+              "x": "Ellipsoids are common in physics and engineering, describing shapes ranging from celestial bodies to mechanical components."
+            },
+            {
+              "cf": "",
+              "x": "Navigation systems often use ellipsoids to model the Earth's surface for accurate positioning."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "90b228d3-fe58-4cac-9ff1-b09f86042e01",
       "word": "hemisphere",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGVtaXNwaGVyZQ&hash=74eba366290e89e698c39a763a0741919745b755&lang=en&cache-only=0",
-      "phonetic_text": "hɛmɪsfɪr",
+      "phonetic_text": "hɛ.mɪs.fɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=aGVtaXNwaGVyZQ&hash=74eba366290e89e698c39a763a0741919745b755&lang=en&cache-only=0",
-      "phonetic_am_text": "hemisfir",
+      "phonetic_am_text": "he.mis.fir",
       "img": "https://cdn.langeek.co/photo/25948/original/?type=jpeg",
       "pronunciation": "ˈhɛmɪsˌfɪɹ",
       "senses": [
         {
           "definition": "either half of a sphere",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The sports arena's roof was designed in the shape of a hemisphere."
+            },
+            {
+              "cf": "",
+              "x": "The artist created a sculpture featuring a glass hemisphere."
+            },
+            {
+              "cf": "",
+              "x": "They used a metal hemisphere to cover the delicate machinery."
+            },
+            {
+              "cf": "",
+              "x": "The planetarium displayed a 3D model of a hemisphere to explain celestial movements."
+            },
+            {
+              "cf": "",
+              "x": "The dome's structure resembled a hemisphere, providing a spacious and airy interior."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1f4150f9-0bdd-4aab-a119-a0dadafa16a1",
       "word": "polyhedron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9seWhlZHJvbg&hash=bdc8b00fd2f169c7889f5a56089b579698b0e95f&lang=en&cache-only=0",
-      "phonetic_text": "pɑlihi:drən",
+      "phonetic_text": "pɑ.li.hid.rən",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9seWhlZHJvbg&hash=bdc8b00fd2f169c7889f5a56089b579698b0e95f&lang=en&cache-only=0",
-      "phonetic_am_text": "pɑliheedrēn",
+      "phonetic_am_text": "paa.li.hid.rēn",
       "img": "https://cdn.langeek.co/photo/25938/original/?type=jpeg",
       "pronunciation": "ˌpɑˌɫiˈhidɹən",
       "senses": [
@@ -199,12 +308,13 @@
       ]
     },
     {
+      "id": "1d8135f2-cfff-4427-831f-01b7104703b8",
       "word": "trihedron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJpaGVkcm9u&hash=19a3dc1485af23cac45c7eac0bd18cb68dce2352&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "traɪ.hi:d.rən",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJpaGVkcm9u&hash=19a3dc1485af23cac45c7eac0bd18cb68dce2352&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trai.hid.rēn",
       "img": "https://cdn.langeek.co/photo/26000/original/?type=jpeg",
       "pronunciation": "tɹaɪhˈiːdɹən",
       "senses": [
@@ -215,12 +325,13 @@
       ]
     },
     {
+      "id": "c0b24a83-8843-40e6-812b-6d8ca81b48fc",
       "word": "tetrahedron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGV0cmFoZWRyb24&hash=5b62ceb2c10d5377b6207ee048b303ab3ca0e0ba&lang=en&cache-only=0",
-      "phonetic_text": "tɛtrəhi:drən",
+      "phonetic_text": "tɛt.rə.hid.rən",
       "phonetic_am": "https://tts.langeek.co/read?text=dGV0cmFoZWRyb24&hash=5b62ceb2c10d5377b6207ee048b303ab3ca0e0ba&lang=en&cache-only=0",
-      "phonetic_am_text": "tetrēheedrēn",
+      "phonetic_am_text": "tet.rē.hid.rēn",
       "img": "https://cdn.langeek.co/photo/25998/original/?type=jpeg",
       "pronunciation": "ˌtɛtɹəˈhidɹən",
       "senses": [
@@ -231,12 +342,13 @@
       ]
     },
     {
+      "id": "179540e2-2fe3-444d-a243-69f5883f6697",
       "word": "pentahedron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVudGFoZWRyb24&hash=0b622983743125a5cb2837f15a3e82cc61d1536c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɛn.ta.hi:d.rən",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVudGFoZWRyb24&hash=0b622983743125a5cb2837f15a3e82cc61d1536c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pen.ta.hid.rēn",
       "img": "https://cdn.langeek.co/photo/25968/original/?type=jpeg",
       "pronunciation": "pˌɛntɐhˈiːdɹən",
       "senses": [
@@ -256,12 +368,13 @@
       ]
     },
     {
+      "id": "ba33b9d6-72e7-4df4-b6a4-108a00527db5",
       "word": "hexahedron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGV4YWhlZHJvbg&hash=448260084ad574b8feef0f4a98448f176f33c0c8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɛk.sa.hi:d.rən",
       "phonetic_am": "https://tts.langeek.co/read?text=aGV4YWhlZHJvbg&hash=448260084ad574b8feef0f4a98448f176f33c0c8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hek.sa.hid.rēn",
       "img": "https://cdn.langeek.co/photo/25990/original/?type=jpeg",
       "pronunciation": "hˌɛksɐhˈiːdɹən",
       "senses": [
@@ -272,12 +385,13 @@
       ]
     },
     {
+      "id": "5ee47905-c858-42b2-9b06-b8e2ef42ad24",
       "word": "heptahedron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGVwdGFoZWRyb24&hash=5542df7b6caecb78cc67ca0e735d9d5fe6efcdb7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɛp.ta.hi:d.rən",
       "phonetic_am": "https://tts.langeek.co/read?text=aGVwdGFoZWRyb24&hash=5542df7b6caecb78cc67ca0e735d9d5fe6efcdb7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hep.ta.hid.rēn",
       "img": "https://cdn.langeek.co/photo/35561/original/?type=jpeg",
       "pronunciation": "hˌɛptɐhˈiːdɹən",
       "senses": [
@@ -288,12 +402,13 @@
       ]
     },
     {
+      "id": "234d0238-949d-4e67-8c17-9e829d7a547f",
       "word": "octahedron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b2N0YWhlZHJvbg&hash=581b20a3cafea7c0ebddbc26ecb7b8a55a79f45f&lang=en&cache-only=0",
-      "phonetic_text": "ɑktəhi:drən",
+      "phonetic_text": "ɑk.tə.hid.rən",
       "phonetic_am": "https://tts.langeek.co/read?text=b2N0YWhlZHJvbg&hash=581b20a3cafea7c0ebddbc26ecb7b8a55a79f45f&lang=en&cache-only=0",
-      "phonetic_am_text": "ɑktēheedrēn",
+      "phonetic_am_text": "aak.tē.hid.rēn",
       "img": "https://cdn.langeek.co/photo/35571/original/?type=jpeg",
       "pronunciation": "ˌɑktəˈhidɹən",
       "senses": [
@@ -321,12 +436,13 @@
       ]
     },
     {
+      "id": "78b3df0b-cfae-436d-8b44-c9d414d28922",
       "word": "nonahedron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bm9uYWhlZHJvbg&hash=9c0d63dc772632cada698bb2c7a45b61be3ae6d7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nɑ:.næ.hi:d.rən",
       "phonetic_am": "https://tts.langeek.co/read?text=bm9uYWhlZHJvbg&hash=9c0d63dc772632cada698bb2c7a45b61be3ae6d7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "naa.nā.hid.rēn",
       "img": "https://cdn.langeek.co/photo/35567/original/?type=jpeg",
       "pronunciation": "nˌɑːnæhˈiːdɹən",
       "senses": [
@@ -354,12 +470,13 @@
       ]
     },
     {
+      "id": "5a8c4ade-a6a5-4054-b286-29bc1f03c5b3",
       "word": "decahedron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVjYWhlZHJvbg&hash=40c259e3215b2f23a931ff5db6927593e86ed095&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "di.ka.hi:d.rən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVjYWhlZHJvbg&hash=40c259e3215b2f23a931ff5db6927593e86ed095&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "di.ka.hid.rēn",
       "img": "https://cdn.langeek.co/photo/25936/original/?type=jpeg",
       "pronunciation": "dᵻkɐhˈiːdɹən",
       "senses": [
@@ -370,12 +487,13 @@
       ]
     },
     {
+      "id": "146a40a7-61ab-4813-9b52-f37afb8a47b8",
       "word": "dodecahedron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZG9kZWNhaGVkcm9u&hash=aec1f63d79fb50ca2b6eb8550cbd873515392dc0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "doʊ.dɛ.ka.hi:d.rən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG9kZWNhaGVkcm9u&hash=aec1f63d79fb50ca2b6eb8550cbd873515392dc0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dooo.de.ka.hid.rēn",
       "img": "https://cdn.langeek.co/photo/35491/original/?type=jpeg",
       "pronunciation": "doʊdˌɛkɐhˈiːdɹən",
       "senses": [
@@ -407,12 +525,13 @@
       ]
     },
     {
+      "id": "2ac22d20-c520-446f-9a6a-219c4f38127e",
       "word": "icosahedron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aWNvc2FoZWRyb24&hash=4c6e89e52f53d863b18223ad6bcdb887d807d638&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aɪ.kə.sa.hi:d.rən",
       "phonetic_am": "https://tts.langeek.co/read?text=aWNvc2FoZWRyb24&hash=4c6e89e52f53d863b18223ad6bcdb887d807d638&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ai.kē.sa.hid.rēn",
       "img": "https://cdn.langeek.co/photo/35565/original/?type=jpeg",
       "pronunciation": "ˌaɪkəsɐhˈiːdɹən",
       "senses": [
@@ -440,12 +559,13 @@
       ]
     },
     {
+      "id": "22c3011c-5263-4cd5-aa4d-f1964751a059",
       "word": "toroidal polyhedron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dG9yb2lkYWwgcG9seWhlZHJvbg&hash=4c445fdbc62839c135365aeeb5d6afac52f5ea26&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "to:.rɔɪ.dəl pɑ.li.hid.rən",
       "phonetic_am": "https://tts.langeek.co/read?text=dG9yb2lkYWwgcG9seWhlZHJvbg&hash=4c445fdbc62839c135365aeeb5d6afac52f5ea26&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "to.rawi.dēl paa.li.hid.rēn",
       "img": "https://cdn.langeek.co/photo/35587/original/?type=jpeg",
       "pronunciation": "tˈoːɹɔɪdəl pˌɑːlɪhˈiːdɹən",
       "senses": [
@@ -456,12 +576,13 @@
       ]
     },
     {
+      "id": "027f6177-1e08-485a-a558-db67abcb096b",
       "word": "prism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJpc20&hash=de53c76687580ce13d5b2e33522d6bdc2abeec69&lang=en&cache-only=0",
-      "phonetic_text": "prɪzəm",
+      "phonetic_text": "prɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJpc20&hash=de53c76687580ce13d5b2e33522d6bdc2abeec69&lang=en&cache-only=0",
-      "phonetic_am_text": "prizēm",
+      "phonetic_am_text": "pri.zēm",
       "img": "https://cdn.langeek.co/photo/25972/original/?type=jpeg",
       "pronunciation": "ˈpɹɪzəm",
       "senses": [
@@ -472,12 +593,13 @@
       ]
     },
     {
+      "id": "0dfb3cbf-82d8-4b3d-9627-e738eb9b71b0",
       "word": "oblique prism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b2JsaXF1ZSBwcmlzbQ&hash=23ce4736b163643f6efa1086a67aa37309a6c038&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "əb.lik prɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=b2JsaXF1ZSBwcmlzbQ&hash=23ce4736b163643f6efa1086a67aa37309a6c038&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ēb.lik pri.zēm",
       "img": "https://cdn.langeek.co/photo/35569/original/?type=jpeg",
       "pronunciation": "əblˈiːk pɹˈɪzəm",
       "senses": [
@@ -488,12 +610,13 @@
       ]
     },
     {
+      "id": "7facd54d-a64e-4e19-8cec-af24ce406944",
       "word": "right prism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmlnaHQgcHJpc20&hash=e6e35af27307e9b9d753ef0bde8e1be8ab95f89b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "raɪt prɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=cmlnaHQgcHJpc20&hash=e6e35af27307e9b9d753ef0bde8e1be8ab95f89b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rait pri.zēm",
       "img": "https://cdn.langeek.co/photo/35579/original/?type=jpeg",
       "pronunciation": "ɹˈaɪt pɹˈɪzəm",
       "senses": [
@@ -504,12 +627,13 @@
       ]
     },
     {
+      "id": "06df04b0-1e0c-40ed-92e3-757a279003c2",
       "word": "uniform prism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dW5pZm9ybSBwcmlzbQ&hash=ad3a05506e5a94e9e6ca99f5b5e2619015382d5b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ju:.nɪ.fɔ:rm prɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5pZm9ybSBwcmlzbQ&hash=ad3a05506e5a94e9e6ca99f5b5e2619015382d5b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "yoo.ni.fawrm pri.zēm",
       "img": "https://cdn.langeek.co/photo/35519/original/?type=jpeg",
       "pronunciation": "jˈuːnɪfˌɔːɹm pɹˈɪzəm",
       "senses": [
@@ -520,12 +644,13 @@
       ]
     },
     {
+      "id": "c4466c8d-74c8-44c3-873f-e4748db23883",
       "word": "triangular prism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJpYW5ndWxhciBwcmlzbQ&hash=ac844d240acaf1c561e59c8694ce25f6977463d7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "traɪæng.jə.lɜr prɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJpYW5ndWxhciBwcmlzbQ&hash=ac844d240acaf1c561e59c8694ce25f6977463d7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "traiāng.yē.lēr pri.zēm",
       "img": "https://cdn.langeek.co/photo/35589/original/?type=jpeg",
       "pronunciation": "tɹaɪˈænɡjʊlɚ pɹˈɪzəm",
       "senses": [
@@ -557,12 +682,13 @@
       ]
     },
     {
+      "id": "6c796b77-76dd-414c-b996-e7cb0d4c48c2",
       "word": "square prism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3F1YXJlIHByaXNt&hash=77bfa0693f57797c2270401b459a229b8e514f06&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skwɛr prɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=c3F1YXJlIHByaXNt&hash=77bfa0693f57797c2270401b459a229b8e514f06&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skver pri.zēm",
       "img": "",
       "pronunciation": "skwˈɛɹ pɹˈɪzəm",
       "senses": [
@@ -573,12 +699,13 @@
       ]
     },
     {
+      "id": "8e507a23-6c21-45f7-8ee4-5172cdbfb985",
       "word": "pentagonal prism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVudGFnb25hbCBwcmlzbQ&hash=90f738334439388683e1ca511d7ff11abd77e02c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɛn.tæ.gə.nəl prɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVudGFnb25hbCBwcmlzbQ&hash=90f738334439388683e1ca511d7ff11abd77e02c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pen.tā.gē.nēl pri.zēm",
       "img": "https://cdn.langeek.co/photo/35575/original/?type=jpeg",
       "pronunciation": "pɛntˈæɡənəl pɹˈɪzəm",
       "senses": [
@@ -589,12 +716,13 @@
       ]
     },
     {
+      "id": "c5bef7ad-0d1a-405d-b581-de8de0b9521e",
       "word": "hexagonal prism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGV4YWdvbmFsIHByaXNt&hash=8a90f7ff486a5d7d3e545516a682a42dac629fcb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɛks.æ.gə.nəl prɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=aGV4YWdvbmFsIHByaXNt&hash=8a90f7ff486a5d7d3e545516a682a42dac629fcb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "heks.ā.gē.nēl pri.zēm",
       "img": "",
       "pronunciation": "hɛksˈæɡənəl pɹˈɪzəm",
       "senses": [
@@ -605,12 +733,13 @@
       ]
     },
     {
+      "id": "c24d73fb-bcc3-4892-bac6-213708b7ab0e",
       "word": "rhombohedron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmhvbWJvaGVkcm9u&hash=637c80cf603c0a41b19aca788677d90a247ebfc0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɑ:m.boʊ.hi:d.rən",
       "phonetic_am": "https://tts.langeek.co/read?text=cmhvbWJvaGVkcm9u&hash=637c80cf603c0a41b19aca788677d90a247ebfc0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "raam.booo.hid.rēn",
       "img": "",
       "pronunciation": "ɹˌɑːmboʊhˈiːdɹən",
       "senses": [
@@ -642,12 +771,13 @@
       ]
     },
     {
+      "id": "0fb90564-ba80-4a8a-989e-987325eff586",
       "word": "parallelepiped",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFyYWxsZWxlcGlwZWQ&hash=e6657729812c535f4b5e45c45fa50251148b97fc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pæ.rə.lɛ.lɪ.paɪpt",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFyYWxsZWxlcGlwZWQ&hash=e6657729812c535f4b5e45c45fa50251148b97fc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pā.rē.le.li.paipt",
       "img": "https://cdn.langeek.co/photo/35573/original/?type=jpeg",
       "pronunciation": "pˈæɹəlˌɛlɪpˌaɪpt",
       "senses": [
@@ -671,12 +801,13 @@
       ]
     },
     {
+      "id": "1fd5aefe-47f5-440e-8ff6-9abf1793a1fd",
       "word": "hyperboloid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aHlwZXJib2xvaWQ&hash=6f0535d1e19586e4b210c3546485d2cf3d24ad56&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "haɪ.pər.bɑ:.lɔɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=aHlwZXJib2xvaWQ&hash=6f0535d1e19586e4b210c3546485d2cf3d24ad56&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hai.pēr.baa.lawid",
       "img": "https://cdn.langeek.co/photo/35563/original/?type=jpeg",
       "pronunciation": "hˈaɪpɚbˌɑːlɔɪd",
       "senses": [
@@ -700,12 +831,13 @@
       ]
     },
     {
+      "id": "ee5258f0-6469-4375-ad62-6eb4d441a732",
       "word": "platonic solid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGxhdG9uaWMgc29saWQ&hash=607f77f7b1ffad34efc8e0530b2c5f6ca4c4005b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "plə.tɑ.nɪk sɑ.lɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=cGxhdG9uaWMgc29saWQ&hash=607f77f7b1ffad34efc8e0530b2c5f6ca4c4005b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "plē.taa.nik saa.lid",
       "img": "https://cdn.langeek.co/photo/35577/original/?type=jpeg",
       "pronunciation": "plætˈɑːnɪk sˈɑːlɪd",
       "senses": [
@@ -737,12 +869,13 @@
       ]
     },
     {
+      "id": "2e57bd89-e406-4122-b936-723683d60582",
       "word": "star polyhedron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RhciBwb2x5aGVkcm9u&hash=ba52a6b3c08db802fe0ae31c60fa09c77a65f67d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stɑr pɑ.li.hid.rən",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RhciBwb2x5aGVkcm9u&hash=ba52a6b3c08db802fe0ae31c60fa09c77a65f67d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "staar paa.li.hid.rēn",
       "img": "",
       "pronunciation": "stˈɑːɹ pˌɑːlɪhˈiːdɹən",
       "senses": [
@@ -753,10 +886,11 @@
       ]
     },
     {
+      "id": "954f7ff6-d8f3-4dca-bd7f-84089c864c42",
       "word": "Kepler-Poinsot polyhedron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=S2VwbGVyLVBvaW5zb3QgcG9seWhlZHJvbg&hash=be326a8a59b3eedac900aa9b50cce37b7b58eb9d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=S2VwbGVyLVBvaW5zb3QgcG9seWhlZHJvbg&hash=be326a8a59b3eedac900aa9b50cce37b7b58eb9d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/35503/original/?type=jpeg",
@@ -769,10 +903,11 @@
       ]
     },
     {
+      "id": "0e84da3b-3ec4-48cb-9ac4-35eb678a565f",
       "word": "Szilassi polyhedron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=U3ppbGFzc2kgcG9seWhlZHJvbg&hash=28eae8c8a8c20434a05f3c9ff3247ab9a0f39e89&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=U3ppbGFzc2kgcG9seWhlZHJvbg&hash=28eae8c8a8c20434a05f3c9ff3247ab9a0f39e89&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -785,10 +920,11 @@
       ]
     },
     {
+      "id": "e69d0ff1-5c1e-4a07-8c91-521f1824f4ff",
       "word": "Csaszar polyhedron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q3Nhc3phciBwb2x5aGVkcm9u&hash=8561397cc2320e8d28fbd56b0878fae110357f94&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Q3Nhc3phciBwb2x5aGVkcm9u&hash=8561397cc2320e8d28fbd56b0878fae110357f94&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/35487/original/?type=jpeg",
@@ -801,12 +937,13 @@
       ]
     },
     {
+      "id": "751b69f3-8479-4d95-af61-6ddf44ed39f5",
       "word": "uniform polyhedron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dW5pZm9ybSBwb2x5aGVkcm9u&hash=79c77921299a0bc500d8802f9b0ff373847dd9bd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ju:.nɪ.fɔ:rm pɑ.li.hid.rən",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5pZm9ybSBwb2x5aGVkcm9u&hash=79c77921299a0bc500d8802f9b0ff373847dd9bd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "yoo.ni.fawrm paa.li.hid.rēn",
       "img": "https://cdn.langeek.co/photo/35591/original/?type=jpeg",
       "pronunciation": "jˈuːnɪfˌɔːɹm pˌɑːlɪhˈiːdɹən",
       "senses": [
@@ -817,10 +954,11 @@
       ]
     },
     {
+      "id": "d2b3456b-bb5d-4540-9985-4fd666549f32",
       "word": "Archimedean solid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QXJjaGltZWRlYW4gc29saWQ&hash=e1d128454ff558beb08646487c6f232c78ab926c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QXJjaGltZWRlYW4gc29saWQ&hash=e1d128454ff558beb08646487c6f232c78ab926c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/35481/original/?type=jpeg",
@@ -833,12 +971,13 @@
       ]
     },
     {
+      "id": "0c5db072-49d4-437f-bbc1-0eb5b22eb114",
       "word": "snub dodecahedron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c251YiBkb2RlY2FoZWRyb24&hash=542f7db9cb43dfbb34015026ddae4163a81a7f8b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "snəb doʊ.dɛ.ka.hi:d.rən",
       "phonetic_am": "https://tts.langeek.co/read?text=c251YiBkb2RlY2FoZWRyb24&hash=542f7db9cb43dfbb34015026ddae4163a81a7f8b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "snēb dooo.de.ka.hid.rēn",
       "img": "https://cdn.langeek.co/photo/35583/original/?type=jpeg",
       "pronunciation": "snˈʌb doʊdˌɛkɐhˈiːdɹən",
       "senses": [
@@ -849,12 +988,13 @@
       ]
     },
     {
+      "id": "843a70aa-7665-4de8-8947-e345558c1c21",
       "word": "pyramid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHlyYW1pZA&hash=595619b0554ffa87d6a6f979dbb6b36564f71334&lang=en&cache-only=0",
-      "phonetic_text": "pɪrəmɪd",
+      "phonetic_text": "pɪ.rə.mɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=cHlyYW1pZA&hash=595619b0554ffa87d6a6f979dbb6b36564f71334&lang=en&cache-only=0",
-      "phonetic_am_text": "pirēmid",
+      "phonetic_am_text": "pi.rē.mid",
       "img": "https://cdn.langeek.co/photo/22905/original/?type=jpeg",
       "pronunciation": "ˈpɪɹəmɪd",
       "senses": [
@@ -882,12 +1022,13 @@
       ]
     },
     {
+      "id": "61e67451-eb39-4a7f-82a3-8a812682cc60",
       "word": "triangular-based pyramid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJpYW5ndWxhci1iYXNlZCBweXJhbWlk&hash=2f9a44db25ca6e37edd3c71f051495287b6189ea&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "traɪæng.jə.lɜr-beɪst pɪ.rə.mɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJpYW5ndWxhci1iYXNlZCBweXJhbWlk&hash=2f9a44db25ca6e37edd3c71f051495287b6189ea&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "traiāng.yē.lēr-beist pi.rē.mid",
       "img": "",
       "pronunciation": "tɹaɪˈænɡjʊlɚbˈeɪst pˈɪɹɐmˌɪd",
       "senses": [
@@ -898,12 +1039,13 @@
       ]
     },
     {
+      "id": "c8d3c865-dd41-43f1-bada-0fbbc10a7fac",
       "word": "square pyramid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3F1YXJlIHB5cmFtaWQ&hash=dd4763deabd2b5dbb1d460d44186b57d9d9fec39&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skwɛr pɪ.rə.mɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=c3F1YXJlIHB5cmFtaWQ&hash=dd4763deabd2b5dbb1d460d44186b57d9d9fec39&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skver pi.rē.mid",
       "img": "https://cdn.langeek.co/photo/35521/original/?type=jpeg",
       "pronunciation": "skwˈɛɹ pˈɪɹɐmˌɪd",
       "senses": [
@@ -914,12 +1056,13 @@
       ]
     },
     {
+      "id": "50ecb28e-de84-4b45-baf5-5708273b460a",
       "word": "pentagonal pyramid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVudGFnb25hbCBweXJhbWlk&hash=338fee8b76a8aacfd3ee58f3d8bbccfe98d17040&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɛn.tæ.gə.nəl pɪ.rə.mɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVudGFnb25hbCBweXJhbWlk&hash=338fee8b76a8aacfd3ee58f3d8bbccfe98d17040&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pen.tā.gē.nēl pi.rē.mid",
       "img": "",
       "pronunciation": "pɛntˈæɡənəl pˈɪɹɐmˌɪd",
       "senses": [
@@ -930,10 +1073,11 @@
       ]
     },
     {
+      "id": "68adadeb-e517-4024-85c1-2901fc47e376",
       "word": "stellated dodecahedron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RlbGxhdGVkIGRvZGVjYWhlZHJvbg&hash=7ca06088ba33685db9aed094e1ecf0785e38b708&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RlbGxhdGVkIGRvZGVjYWhlZHJvbg&hash=7ca06088ba33685db9aed094e1ecf0785e38b708&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -946,28 +1090,43 @@
       ]
     },
     {
+      "id": "26e606de-e4e2-416a-9bee-91ec65cbd0db",
       "word": "torus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dG9ydXM&hash=be0776e853ba07d5abc9c73db7fad3866e40d2de&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "to:.rəs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG9ydXM&hash=be0776e853ba07d5abc9c73db7fad3866e40d2de&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "to.rēs",
       "img": "https://cdn.langeek.co/photo/44994/original/?type=jpeg",
       "pronunciation": "tˈoːɹəs",
       "senses": [
         {
           "definition": "a solid shape resembling a donut or ring, made by spinning a circle around a line that does not cut through the circle",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The handle of a coffee mug is shaped like a torus, providing a comfortable grip."
+            },
+            {
+              "cf": "",
+              "x": "A car's tire can be visualized as a torus, with the rubber forming a circular ring."
+            },
+            {
+              "cf": "",
+              "x": "The large sculpture in the park resembled a torus, captivating the attention of passersby."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "572710f1-3c80-4abc-b4b8-7fbf0c52359e",
       "word": "hexagonal pyramid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGV4YWdvbmFsIHB5cmFtaWQ&hash=20ff38775dc07c8dc3d168de91e71d41b1d61469&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɛks.æ.gə.nəl pɪ.rə.mɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=aGV4YWdvbmFsIHB5cmFtaWQ&hash=20ff38775dc07c8dc3d168de91e71d41b1d61469&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "heks.ā.gē.nēl pi.rē.mid",
       "img": "",
       "pronunciation": "hɛksˈæɡənəl pˈɪɹɐmˌɪd",
       "senses": [
@@ -978,10 +1137,11 @@
       ]
     },
     {
+      "id": "53af7653-dab5-411f-b605-91efb1de3ec2",
       "word": "heptagonal pyramid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGVwdGFnb25hbCBweXJhbWlk&hash=e4ba7d18e6be00f6fdf1f878e7a728a93f84ff1c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aGVwdGFnb25hbCBweXJhbWlk&hash=e4ba7d18e6be00f6fdf1f878e7a728a93f84ff1c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/35559/original/?type=jpeg",
@@ -994,12 +1154,13 @@
       ]
     },
     {
+      "id": "38c8fa07-daaf-4b4b-be77-d7a3d1016f4b",
       "word": "octagonal pyramid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b2N0YWdvbmFsIHB5cmFtaWQ&hash=490736fc6ea060b5b68604bbc25e2d26dd1e550d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑk.tæ.gə.nəl pɪ.rə.mɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=b2N0YWdvbmFsIHB5cmFtaWQ&hash=490736fc6ea060b5b68604bbc25e2d26dd1e550d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aak.tā.gē.nēl pi.rē.mid",
       "img": "",
       "pronunciation": "ɑːktˈæɡənəl pˈɪɹɐmˌɪd",
       "senses": [

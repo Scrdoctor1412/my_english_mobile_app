@@ -1,13 +1,15 @@
 {
+  "id": "af784a41-1c5c-4c4d-96a7-d77e2ee23360",
   "topic": "situations_states",
   "title": "Chance & Luck",
   "lesson": "lesson_7",
   "word_list": [
     {
+      "id": "1bb2ebd4-21cb-4cbd-9df6-fa79aabe7af0",
       "word": "a cherry year a merry year (,a plum year a dumb year|)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YSBjaGVycnkgeWVhciBhIG1lcnJ5IHllYXIgLGEgcGx1bSB5ZWFyIGEgZHVtYiB5ZWFy&hash=ae600df3badf57920d1f014125d0acb07f9b555e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YSBjaGVycnkgeWVhciBhIG1lcnJ5IHllYXIgLGEgcGx1bSB5ZWFyIGEgZHVtYiB5ZWFy&hash=ae600df3badf57920d1f014125d0acb07f9b555e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -15,41 +17,33 @@
       "senses": [
         {
           "definition": "a year with an abundance of cherries brings happiness and cheer, while a year with an abundance of plums leads to silence or lack of excitement",
-          "examples": [
-            {
-              "cf": "",
-              "x": "With all the good news we've been receiving lately, I have a feeling this will be a cherry year a merry year for us."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "72beb18f-31cc-4d86-9780-b5df1bb4f3d2",
       "word": "a little wit may save a fortunate man",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YSBsaXR0bGUgd2l0IG1heSBzYXZlIGEgZm9ydHVuYXRlIG1hbg&hash=cebf834ad76226d969ad709a3f1183c4173820dd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ə lɪ.təl wɪt meɪ seɪv ə fɔr.ʧə.nət mæn",
       "phonetic_am": "https://tts.langeek.co/read?text=YSBsaXR0bGUgd2l0IG1heSBzYXZlIGEgZm9ydHVuYXRlIG1hbg&hash=cebf834ad76226d969ad709a3f1183c4173820dd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ē li.tēl vit mei seiv ē fawr.chē.nēt mān",
       "img": "",
       "pronunciation": "ɐ lˈɪɾəl wˈɪt mˈeɪ sˈeɪv ɐ fˈɔːɹtʃənət mˈæn",
       "senses": [
         {
           "definition": "used to emphasize the importance of intelligence and resourcefulness in achieving success, suggesting that good fortune may not always be enough to succeed or overcome challenges",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Joe was about to sign a contract with a new business partner when his lawyer advised him that a little wit may save a fortunate man from signing a contract with unfavorable terms."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "fc959613-7c03-47b2-9cae-94de249d8d1f",
       "word": "bad luck often brings good luck",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YmFkIGx1Y2sgb2Z0ZW4gYnJpbmdzIGdvb2QgbHVjaw&hash=603364d4f6121910d1e0c334a97d682b9f4f07f0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFkIGx1Y2sgb2Z0ZW4gYnJpbmdzIGdvb2QgbHVjaw&hash=603364d4f6121910d1e0c334a97d682b9f4f07f0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -62,12 +56,13 @@
       ]
     },
     {
+      "id": "d8a87481-f0f4-40fc-ba9d-7799c286eb20",
       "word": "better to be born lucky than rich",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YmV0dGVyIHRvIGJlIGJvcm4gbHVja3kgdGhhbiByaWNo&hash=8240c4cb5ce2b1916cbcb525304cd39fa67b2b13&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɛ.tɜr tu: bi: bɔrn lʌ.ki ðæn rɪʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=YmV0dGVyIHRvIGJlIGJvcm4gbHVja3kgdGhhbiByaWNo&hash=8240c4cb5ce2b1916cbcb525304cd39fa67b2b13&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "be.tēr too bi bawrn la.ki dhān rich",
       "img": "",
       "pronunciation": "bˈɛɾɚ təbi bˈɔːɹn lˈʌki ðɐn ɹˈɪtʃ",
       "senses": [
@@ -78,10 +73,11 @@
       ]
     },
     {
+      "id": "b346236c-2b1a-4585-ba71-83a20ebf49bf",
       "word": "devil's children (have|inherit) the devil's luck",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZGV2aWwncyBjaGlsZHJlbiBoYXZlIHRoZSBkZXZpbCdzIGx1Y2s&hash=1475e1319404d868253ed87666af0c68dc0bea11&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGV2aWwncyBjaGlsZHJlbiBoYXZlIHRoZSBkZXZpbCdzIGx1Y2s&hash=1475e1319404d868253ed87666af0c68dc0bea11&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -94,10 +90,11 @@
       ]
     },
     {
+      "id": "88c18d34-6d68-444b-984f-8c3287af253e",
       "word": "fortune knocks once at every man's door",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Zm9ydHVuZSBrbm9ja3Mgb25jZSBhdCBldmVyeSBtYW4ncyBkb29y&hash=0cb9b9bf897db21e77b88bdbb398290b3cb37b23&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9ydHVuZSBrbm9ja3Mgb25jZSBhdCBldmVyeSBtYW4ncyBkb29y&hash=0cb9b9bf897db21e77b88bdbb398290b3cb37b23&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -105,22 +102,18 @@
       "senses": [
         {
           "definition": "used to suggest that opportunities for success or good luck are not limitless, and that individuals should be ready to seize opportunities when they arise",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Mary was hesitant to take a risk, but her grandmother reminded her that fortune knocks once at every man's door."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "feda2fd7-ef96-45ae-83a5-14e17815b726",
       "word": "the bread always falls buttered side down",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIGJyZWFkIGFsd2F5cyBmYWxscyBidXR0ZXJlZCBzaWRlIGRvd24&hash=b2f38f8aadaae74f536dbc6f5d0895673d86323c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ðə brɛd ɔ:l.weɪz fɔlz bjut.rɛd saɪd daʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIGJyZWFkIGFsd2F5cyBmYWxscyBidXR0ZXJlZCBzaWRlIGRvd24&hash=b2f38f8aadaae74f536dbc6f5d0895673d86323c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dhē bred awl.veiz fawlz byoot.red said daoon",
       "img": "",
       "pronunciation": "ðə bɹˈɛd ˈɔːlweɪz fˈɔːlz bˈʌɾɚd sˈaɪd dˈaʊn",
       "senses": [
@@ -131,10 +124,11 @@
       ]
     },
     {
+      "id": "4167260b-6373-400e-9bda-949cc36e0360",
       "word": "lucky at cards, unlucky in love",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bHVja3kgYXQgY2FyZHMsIHVubHVja3kgaW4gbG92ZQ&hash=92e6a841053e5cc63c83324b36fc77c8d2af703e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bHVja3kgYXQgY2FyZHMsIHVubHVja3kgaW4gbG92ZQ&hash=92e6a841053e5cc63c83324b36fc77c8d2af703e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -147,10 +141,11 @@
       ]
     },
     {
+      "id": "aebe0e7a-3448-473a-96d9-a2d207d84a59",
       "word": "every dog has its day",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZXZlcnkgZG9nIGhhcyBpdHMgZGF5&hash=47f9599592441338176f837c42265235cc19b0d6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXZlcnkgZG9nIGhhcyBpdHMgZGF5&hash=47f9599592441338176f837c42265235cc19b0d6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

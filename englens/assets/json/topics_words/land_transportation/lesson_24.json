@@ -1,57 +1,117 @@
 {
+  "id": "2af2e1f9-989a-48bf-a110-f5aea553d23f",
   "topic": "land_transportation",
   "title": "Infrastructure",
   "lesson": "lesson_24",
   "word_list": [
     {
+      "id": "542d2f4a-8b96-4a6b-9f45-797faece436c",
       "word": "road",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9hZA&hash=ac3855acaf56bd0a2fe1166404f20636929ff61b&lang=en&cache-only=0",
       "phonetic_text": "roʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9hZA&hash=ac3855acaf56bd0a2fe1166404f20636929ff61b&lang=en&cache-only=0",
-      "phonetic_am_text": "rowd",
+      "phonetic_am_text": "roood",
       "img": "https://cdn.langeek.co/photo/51526/original/road?type=jpeg",
-      "pronunciation": "ˈɹoʊd",
+      "pronunciation": "roʊd",
       "senses": [
         {
           "definition": "a wide path made for cars, buses, etc. to travel along",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "They drove down a winding road to reach the countryside."
+            },
+            {
+              "cf": "",
+              "x": "The city widened the road to handle more traffic."
+            },
+            {
+              "cf": "",
+              "x": "There's a dedicated road for pedestrians and cyclists along the riverbank."
+            },
+            {
+              "cf": "",
+              "x": "The old town is accessible by a charming narrow cobblestone road."
+            },
+            {
+              "cf": "",
+              "x": "The highway closure led drivers to take a detour on another road."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b6e059f7-81b5-473e-b3d9-d01aa82be99e",
       "word": "roadway",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9hZHdheQ&hash=006d86ca6015490814526d87a2ed3999b9876a74&lang=en&cache-only=0",
-      "phonetic_text": "roʊdweɪ",
+      "phonetic_text": "roʊd.weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9hZHdheQ&hash=006d86ca6015490814526d87a2ed3999b9876a74&lang=en&cache-only=0",
-      "phonetic_am_text": "rowdwei",
+      "phonetic_am_text": "roood.vei",
       "img": "https://cdn.langeek.co/photo/51526/original/road?type=jpeg",
       "pronunciation": "ˈɹoʊdˌweɪ",
       "senses": [
         {
           "definition": "a paved surface used for travel by vehicles",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The roadway was smooth and well-maintained."
+            },
+            {
+              "cf": "",
+              "x": "She walked along the roadway to reach the bus stop."
+            },
+            {
+              "cf": "",
+              "x": "He noticed potholes on the roadway after heavy rain."
+            },
+            {
+              "cf": "",
+              "x": "The roadway had clear markings for lanes."
+            },
+            {
+              "cf": "",
+              "x": "They repaved the roadway to improve driving conditions."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "86ed06b7-8f31-4614-8c9d-3e00ecc9dbe3",
       "word": "way",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2F5&hash=6d8b1c2a355267d3f6ffebe5aa56c534ca3649f1&lang=en&cache-only=0",
       "phonetic_text": "weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=d2F5&hash=6d8b1c2a355267d3f6ffebe5aa56c534ca3649f1&lang=en&cache-only=0",
-      "phonetic_am_text": "wei",
+      "phonetic_am_text": "vei",
       "img": "https://cdn.langeek.co/photo/51526/original/road?type=jpeg",
-      "pronunciation": "ˈweɪ",
+      "pronunciation": "weɪ",
       "senses": [
         {
-          "definition": "a passage that we use to get to a place or reach to a point",
-          "examples": []
+          "definition": "a passage used for walking, riding, or driving",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The narrow way led to the village."
+            },
+            {
+              "cf": "",
+              "x": "They strolled down the quiet way."
+            },
+            {
+              "cf": "",
+              "x": "His car was parked along the main way."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7da59bf7-0ee6-4893-b38e-990d0ccf5088",
       "word": "path",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGF0aA&hash=b5e27ad65d9bccb7f4858f6129b2e00c5296edf1&lang=en&cache-only=0",
@@ -63,11 +123,33 @@
       "senses": [
         {
           "definition": "a way or track that is built or made by people walking over the same ground",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Cyclists and walkers shared the path through the park."
+            },
+            {
+              "cf": "",
+              "x": "He shoveled the snow off the path."
+            },
+            {
+              "cf": "",
+              "x": "She walked along the path every morning."
+            },
+            {
+              "cf": "",
+              "x": "The garden path was covered in autumn leaves."
+            },
+            {
+              "cf": "",
+              "x": "The path was lined with blooming flowers."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "57b24c5d-d531-4b25-be92-10d78881a333",
       "word": "place",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGxhY2U&hash=ad9a12ece3f54922ed80edb2907e69bfc10da4b8&lang=en&cache-only=0",
@@ -84,6 +166,7 @@
       ]
     },
     {
+      "id": "977802f7-bb66-4976-926d-0827360b2970",
       "word": "line",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGluZQ&hash=e89245f2be47e8897fc5069817862feb24c1d8be&lang=en&cache-only=0",
@@ -100,44 +183,89 @@
       ]
     },
     {
+      "id": "685d2032-623e-4ed0-92c1-bc9bd458108c",
       "word": "highroad",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGlnaHJvYWQ&hash=0a83b3e7dc5a2e3ba058ed1820ce17e887c6e82d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "haɪ.roʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=aGlnaHJvYWQ&hash=0a83b3e7dc5a2e3ba058ed1820ce17e887c6e82d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hai.roood",
       "img": "",
       "pronunciation": "hˈaɪɹoʊd",
       "senses": [
         {
           "definition": "a main road or highway, often used for long-distance travel",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "They took the highroad to avoid traffic in the city."
+            },
+            {
+              "cf": "",
+              "x": "She preferred driving on the highroad for faster travel."
+            },
+            {
+              "cf": "",
+              "x": "He enjoyed the scenic views along the coastal highroad."
+            },
+            {
+              "cf": "",
+              "x": "The highroad was congested during rush hour."
+            },
+            {
+              "cf": "",
+              "x": "They planned to widen the highroad for increased traffic."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a994fc53-0d98-4a5b-97dd-6597bc87f716",
       "word": "private road",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJpdmF0ZSByb2Fk&hash=24578cd53fb72ab6fe9cb58cafd93d7c551dac15&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "praɪ.vət roʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJpdmF0ZSByb2Fk&hash=24578cd53fb72ab6fe9cb58cafd93d7c551dac15&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "prai.vēt roood",
       "img": "https://cdn.langeek.co/photo/29354/original/?type=jpeg",
       "pronunciation": "pɹˈaɪvət ɹˈoʊd",
       "senses": [
         {
           "definition": "a road owned and maintained by a private individual or organization",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The private road required permission to access."
+            },
+            {
+              "cf": "",
+              "x": "She lived at the end of a long private road."
+            },
+            {
+              "cf": "",
+              "x": "He installed security cameras along the private road."
+            },
+            {
+              "cf": "",
+              "x": "They repaired the potholes on the private road."
+            },
+            {
+              "cf": "",
+              "x": "The private road was gated for security."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0abe2b00-5f20-40c4-aff4-de9731a644cb",
       "word": "musical road",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXVzaWNhbCByb2Fk&hash=db2e494a79306f4350a792b2afc6f3485a5e8d96&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mju:.zɪ.kəl roʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVzaWNhbCByb2Fk&hash=db2e494a79306f4350a792b2afc6f3485a5e8d96&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "myoo.zi.kēl roood",
       "img": "",
       "pronunciation": "mjˈuːzɪkəl ɹˈoʊd",
       "senses": [
@@ -148,28 +276,51 @@
       ]
     },
     {
+      "id": "028ecb16-4c2a-4fec-81fd-fa109a56cd1e",
       "word": "main line",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFpbiBsaW5l&hash=31f1aaf8364ea0dffd56c5ba9e9fc4f7876bbb76&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "meɪn laɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFpbiBsaW5l&hash=31f1aaf8364ea0dffd56c5ba9e9fc4f7876bbb76&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mein lain",
       "img": "https://cdn.langeek.co/photo/23119/original/?type=jpeg",
       "pronunciation": "mˈeɪn lˈaɪn",
       "senses": [
         {
           "definition": "an important railroad line between two cities or large towns",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The train's main line connects the city to several suburban areas."
+            },
+            {
+              "cf": "",
+              "x": "The main line upgrades included new tracks and improved safety measures."
+            },
+            {
+              "cf": "",
+              "x": "The main line runs between the capital city and the industrial center, facilitating commerce."
+            },
+            {
+              "cf": "",
+              "x": "Many businesses rely on the main line for transporting goods efficiently between regions."
+            },
+            {
+              "cf": "",
+              "x": "Travelers often prefer the main line for its frequent train services and convenience."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "3651f189-a187-457f-82c4-985e58620caf",
       "word": "causeway",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2F1c2V3YXk&hash=7dc8cf5ab824bdf7ad18dae89d772b1a7f968710&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:zweɪ",
+      "phonetic_text": "kɑz.weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2F1c2V3YXk&hash=7dc8cf5ab824bdf7ad18dae89d772b1a7f968710&lang=en&cache-only=0",
-      "phonetic_am_text": "kaazwei",
+      "phonetic_am_text": "kaaz.vei",
       "img": "",
       "pronunciation": "ˈkɑzˌweɪ/, /ˈkɔzˌweɪ",
       "senses": [
@@ -201,13 +352,14 @@
       ]
     },
     {
+      "id": "439d97bf-df31-4f92-b12c-4c7fa5ab498b",
       "word": "main road",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFpbiByb2Fk&hash=659887756ccbc96029303ff78135f0c390125cdd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "meɪn roʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFpbiByb2Fk&hash=659887756ccbc96029303ff78135f0c390125cdd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/17192/original/highway?type=jpeg",
+      "phonetic_am_text": "mein roood",
+      "img": "https://cdn.langeek.co/photo/61612/original/highway?type=jpeg",
       "pronunciation": "mˈeɪn ɹˈoʊd",
       "senses": [
         {
@@ -238,12 +390,13 @@
       ]
     },
     {
+      "id": "fd954e1f-7e9a-4b58-a41d-554056b4027a",
       "word": "side road",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2lkZSByb2Fk&hash=e0f3ab9ac4bb4212df45a483424db4c34d492a2c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "saɪd roʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=c2lkZSByb2Fk&hash=e0f3ab9ac4bb4212df45a483424db4c34d492a2c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "said roood",
       "img": "",
       "pronunciation": "sˈaɪd ɹˈoʊd",
       "senses": [
@@ -275,49 +428,30 @@
       ]
     },
     {
+      "id": "6f2d051a-1991-4221-bf55-7944a59c8b39",
       "word": "auxiliary route",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXV4aWxpYXJ5IHJvdXRl&hash=e77020070d8c242fc33c976cd41ce94256369cd4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ.gzɪ.liɛ.ri ru:t",
       "phonetic_am": "https://tts.langeek.co/read?text=YXV4aWxpYXJ5IHJvdXRl&hash=e77020070d8c242fc33c976cd41ce94256369cd4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aa.gzi.lie.ri root",
       "img": "",
       "pronunciation": "ɔːksˈɪliəɹi ɹˈaʊt",
       "senses": [
         {
           "definition": "a secondary road or path designed to help manage traffic flow by providing alternative routes to the main roads",
-          "examples": [
-            {
-              "cf": "",
-              "x": "During rush hour, many drivers use the auxiliary route to avoid traffic jams on the main highway."
-            },
-            {
-              "cf": "",
-              "x": "The city built an auxiliary route to connect the two neighborhoods and reduce congestion."
-            },
-            {
-              "cf": "",
-              "x": "Road signs clearly mark the auxiliary route so that travelers can easily find their way."
-            },
-            {
-              "cf": "",
-              "x": "When the primary road was under construction, the auxiliary route became very busy."
-            },
-            {
-              "cf": "",
-              "x": "Emergency vehicles often use the auxiliary route to reach their destinations more quickly."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "44b9ed96-096d-47a8-b386-a4368fafa3fe",
       "word": "byroad",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ynlyb2Fk&hash=ef427998af11393ccc8b0957928319bb49033bbb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "baɪ.roʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=Ynlyb2Fk&hash=ef427998af11393ccc8b0957928319bb49033bbb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bai.roood",
       "img": "",
       "pronunciation": "bˈaɪɹoʊd",
       "senses": [
@@ -349,12 +483,13 @@
       ]
     },
     {
+      "id": "178486d0-85cc-4b9e-888a-7d58be431aeb",
       "word": "byway",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ynl3YXk&hash=5b4232bd31d3130ac148760fabc1c571f40379a3&lang=en&cache-only=0",
-      "phonetic_text": "baɪweɪ",
+      "phonetic_text": "baɪ.weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=Ynl3YXk&hash=5b4232bd31d3130ac148760fabc1c571f40379a3&lang=en&cache-only=0",
-      "phonetic_am_text": "baiwei",
+      "phonetic_am_text": "bai.vei",
       "img": "",
       "pronunciation": "ˈbaɪˌweɪ",
       "senses": [
@@ -386,12 +521,13 @@
       ]
     },
     {
+      "id": "7b89936f-8119-4b66-b681-c8150677bfed",
       "word": "detour",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGV0b3Vy&hash=ff1ba9d209918013e3842b819881ceea3722528d&lang=en&cache-only=0",
-      "phonetic_text": "dɪtʊr",
+      "phonetic_text": "di.tʊr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGV0b3Vy&hash=ff1ba9d209918013e3842b819881ceea3722528d&lang=en&cache-only=0",
-      "phonetic_am_text": "ditur",
+      "phonetic_am_text": "di.toor",
       "img": "",
       "pronunciation": "ˈditʊɹ/, /dɪˈtʊɹ",
       "senses": [
@@ -423,13 +559,14 @@
       ]
     },
     {
+      "id": "7d85a750-4d78-49b6-a8c9-f95ffee27059",
       "word": "highway",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGlnaHdheQ&hash=0b6f054c85cfd222ee0a66c6e0c4d54d7f480742&lang=en&cache-only=0",
-      "phonetic_text": "haɪweɪ",
+      "phonetic_text": "haɪ.weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=aGlnaHdheQ&hash=0b6f054c85cfd222ee0a66c6e0c4d54d7f480742&lang=en&cache-only=0",
-      "phonetic_am_text": "haiwei",
-      "img": "https://cdn.langeek.co/photo/17192/original/highway?type=jpeg",
+      "phonetic_am_text": "hai.vei",
+      "img": "https://cdn.langeek.co/photo/61612/original/highway?type=jpeg",
       "pronunciation": "ˈhaɪˌweɪ",
       "senses": [
         {
@@ -460,12 +597,13 @@
       ]
     },
     {
+      "id": "2a63ff51-9f65-4e7b-8c47-4cc443bb18da",
       "word": "state highway",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RhdGUgaGlnaHdheQ&hash=1f05ce7ab8f6d7e12bda6c5652d19816062844ae&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "steɪt haɪ.weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RhdGUgaGlnaHdheQ&hash=1f05ce7ab8f6d7e12bda6c5652d19816062844ae&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "steit hai.vei",
       "img": "",
       "pronunciation": "stˈeɪt hˈaɪweɪ",
       "senses": [
@@ -497,28 +635,51 @@
       ]
     },
     {
+      "id": "03e5c874-63d6-4cbd-9d44-f2f915b7b3db",
       "word": "freeway",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnJlZXdheQ&hash=b3c82ba27e30008fb14f72eff8532b08424b08e1&lang=en&cache-only=0",
-      "phonetic_text": "fri:weɪ",
+      "phonetic_text": "fri:.weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJlZXdheQ&hash=b3c82ba27e30008fb14f72eff8532b08424b08e1&lang=en&cache-only=0",
-      "phonetic_am_text": "freewei",
+      "phonetic_am_text": "fri.vei",
       "img": "https://cdn.langeek.co/photo/51630/original/expressway?type=jpeg",
       "pronunciation": "ˈfɹiˌweɪ",
       "senses": [
         {
           "definition": "a controlled-access highway that has no intersections or cross-traffic and is designed for high-speed travel",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "We drove for hours on the freeway without any stops."
+            },
+            {
+              "cf": "",
+              "x": "The freeway was closed for construction, causing a huge traffic jam."
+            },
+            {
+              "cf": "",
+              "x": "The exit to the freeway was clearly marked with signs."
+            },
+            {
+              "cf": "",
+              "x": "They decided to take the freeway to avoid the smaller roads."
+            },
+            {
+              "cf": "",
+              "x": "She was speeding down the freeway when a police car appeared."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "59d27d6f-7388-45f3-8384-ca594a9b81c2",
       "word": "stroad",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3Ryb2Fk&hash=c7a628033fdb57af5d62e0c9e79f6ed7a9560abd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stroʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=c3Ryb2Fk&hash=c7a628033fdb57af5d62e0c9e79f6ed7a9560abd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "stroood",
       "img": "",
       "pronunciation": "stɹˈoʊd",
       "senses": [
@@ -529,6 +690,7 @@
       ]
     },
     {
+      "id": "ae8d04c9-a70a-4900-9697-85fe3d148a0c",
       "word": "ramp",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFtcA&hash=0603f6a457583110f34b8ce2eafa5b7016abd232&lang=en&cache-only=0",
@@ -539,18 +701,40 @@
       "pronunciation": "ˈɹæmp",
       "senses": [
         {
-          "definition": "a gently sloping pathway that connects a lower or higher level, designed to facilitate the smooth entry to or exit from a main road or highway",
-          "examples": []
+          "definition": "a short road or pathway that allows vehicles to enter or exit a main road or highway",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Take the ramp to get onto the highway."
+            },
+            {
+              "cf": "",
+              "x": "The exit ramp led us smoothly off the freeway and into town."
+            },
+            {
+              "cf": "",
+              "x": "The car slowed down as it approached the ramp."
+            },
+            {
+              "cf": "",
+              "x": "The truck driver maneuvered onto the highway using the entrance ramp."
+            },
+            {
+              "cf": "",
+              "x": "The exit ramp was closed for construction."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "286995b1-2765-4774-8493-eee976710a77",
       "word": "the scenic route",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIHNjZW5pYyByb3V0ZQ&hash=06cdf58208e90cc2ceab4890ee64a7d238a0d6bc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ðə si.nɪk ru:t",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIHNjZW5pYyByb3V0ZQ&hash=06cdf58208e90cc2ceab4890ee64a7d238a0d6bc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dhē si.nik root",
       "img": "",
       "pronunciation": "ðə sˈiːnɪk ɹˈaʊt",
       "senses": [
@@ -582,12 +766,13 @@
       ]
     },
     {
+      "id": "a4abbdd0-28de-470a-a5b2-83f1639bd462",
       "word": "parkway",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFya3dheQ&hash=b9061b46da28b7ee8d8bbbd35e9027c68c944f4c&lang=en&cache-only=0",
-      "phonetic_text": "pɑ:rkweɪ",
+      "phonetic_text": "pɑ:rk.weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFya3dheQ&hash=b9061b46da28b7ee8d8bbbd35e9027c68c944f4c&lang=en&cache-only=0",
-      "phonetic_am_text": "paarkwei",
+      "phonetic_am_text": "paark.vei",
       "img": "",
       "pronunciation": "ˈpɑɹˌkweɪ",
       "senses": [
@@ -619,12 +804,13 @@
       ]
     },
     {
+      "id": "2fa59bb1-7160-4c17-bf07-f420c43c38be",
       "word": "toll road",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dG9sbCByb2Fk&hash=f84c42c77e3f7d8a7073ab8e9e2d672cddfa07ef&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "toʊl roʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG9sbCByb2Fk&hash=f84c42c77e3f7d8a7073ab8e9e2d672cddfa07ef&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "toool roood",
       "img": "",
       "pronunciation": "tˈoʊl ɹˈoʊd",
       "senses": [
@@ -652,38 +838,83 @@
       ]
     },
     {
+      "id": "9ba2548f-7565-4b0e-b70e-853c9d227acf",
       "word": "collector road",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29sbGVjdG9yIHJvYWQ&hash=b617422262d9ba05c5713265547a80506196d68c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kə.lɛk.tɜr roʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29sbGVjdG9yIHJvYWQ&hash=b617422262d9ba05c5713265547a80506196d68c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kē.lek.tēr roood",
       "img": "",
       "pronunciation": "kəlˈɛktɚ ɹˈoʊd",
       "senses": [
         {
           "definition": "a type of street designed to gather traffic from local neighborhoods and distribute it to larger roads or highways",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The collector road near our neighborhood helps manage the flow of cars going to and from the city center."
+            },
+            {
+              "cf": "",
+              "x": "Drivers use the collector road to avoid congestion on the main highway during rush hour."
+            },
+            {
+              "cf": "",
+              "x": "Pedestrians should be cautious when crossing the collector road, as traffic can be heavy at certain times."
+            },
+            {
+              "cf": "",
+              "x": "Local businesses benefit from the steady stream of customers traveling along the collector road."
+            },
+            {
+              "cf": "",
+              "x": "City planners are considering widening the collector road to accommodate increasing traffic volume."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "03fa3d1d-155e-49d5-b4f8-0ec1c706e79d",
       "word": "connector",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29ubmVjdG9y&hash=f3f9699fb6c234c7c48797f02581bbf1d4e381b3&lang=en&cache-only=0",
-      "phonetic_text": "kənɛktər",
+      "phonetic_text": "kə.nɛk.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29ubmVjdG9y&hash=f3f9699fb6c234c7c48797f02581bbf1d4e381b3&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnektēr",
+      "phonetic_am_text": "kē.nek.tēr",
       "img": "",
       "pronunciation": "kəˈnɛktɝ",
       "senses": [
         {
           "definition": "a road or pathway that links two or more places together, facilitating travel and transportation",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The new connector between the two towns has reduced travel time significantly."
+            },
+            {
+              "cf": "",
+              "x": "Drivers rely on this connector to avoid heavy traffic on the main highways."
+            },
+            {
+              "cf": "",
+              "x": "The city council plans to build more connectors to improve local infrastructure."
+            },
+            {
+              "cf": "",
+              "x": "Using the connector, we can reach the airport in less than thirty minutes."
+            },
+            {
+              "cf": "",
+              "x": "The old bridge served as a vital connector for the rural communities on either side of the river."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "195eb621-c7fe-4ffc-a6d9-8dff333c9771",
       "word": "bridge",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJpZGdl&hash=aa3a1de665607f96791a2091b80ffdef472aa568&lang=en&cache-only=0",
@@ -691,19 +922,37 @@
       "phonetic_am": "https://tts.langeek.co/read?text=YnJpZGdl&hash=aa3a1de665607f96791a2091b80ffdef472aa568&lang=en&cache-only=0",
       "phonetic_am_text": "brij",
       "img": "https://cdn.langeek.co/photo/51524/original/bridge?type=jpeg",
-      "pronunciation": "ˈbɹɪdʒ",
+      "pronunciation": "brɪʤ",
       "senses": [
         {
           "definition": "a structure built over a river, road, etc. that enables people or vehicles to go from one side to the other",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "They crossed the bridge to reach the other side of the river."
+            },
+            {
+              "cf": "",
+              "x": "She paused on the bridge to take photographs of the city skyline."
+            },
+            {
+              "cf": "",
+              "x": "They drove across the bridge to visit the neighboring town."
+            },
+            {
+              "cf": "",
+              "x": "The old stone bridge was a historic landmark in the region."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a11b1228-7710-4e12-9f34-9e060b34ec6c",
       "word": "overbridge",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3ZlcmJyaWRnZQ&hash=143cb38fd624b8a117cbcb2a199763a0965082c5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b3ZlcmJyaWRnZQ&hash=143cb38fd624b8a117cbcb2a199763a0965082c5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -737,14 +986,15 @@
       ]
     },
     {
+      "id": "d3c30223-1f07-421f-a0a0-06ff163991c8",
       "word": "overpass",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3ZlcnBhc3M&hash=3a14abcfd44e0d690e6047e60f1a0c884ebe2ea9&lang=en&cache-only=0",
-      "phonetic_text": "oʊvərpæs",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b3ZlcnBhc3M&hash=3a14abcfd44e0d690e6047e60f1a0c884ebe2ea9&lang=en&cache-only=0",
-      "phonetic_am_text": "owvērpās",
+      "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/19576/original/overpass?type=jpeg",
-      "pronunciation": "ˈoʊvɝˌpæs",
+      "pronunciation": "ˈoʊvɚˌpæs",
       "senses": [
         {
           "definition": "a type of bridge that is built over a road to provide a different passage",
@@ -753,14 +1003,15 @@
       ]
     },
     {
+      "id": "8216f836-0eb9-49d6-b46d-eda85d89cf0b",
       "word": "underpass",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dW5kZXJwYXNz&hash=c9f94e1b39c9a29c6b0783089f71177a99b8d499&lang=en&cache-only=0",
-      "phonetic_text": "ʌndərpæs",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5kZXJwYXNz&hash=c9f94e1b39c9a29c6b0783089f71177a99b8d499&lang=en&cache-only=0",
-      "phonetic_am_text": "andērpās",
-      "img": "https://cdn.langeek.co/photo/17198/original/underpass?type=jpeg",
-      "pronunciation": "ˈəndɝˌpæs",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/61542/original/underpass?type=jpeg",
+      "pronunciation": "ˈʌndɚˌpæs",
       "senses": [
         {
           "definition": "an underground tunnel or path that people can use to cross a road, railway, etc.",
@@ -790,12 +1041,13 @@
       ]
     },
     {
+      "id": "73e60008-0690-40a2-a6d1-9bb0b4cd8e63",
       "word": "drawbridge",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJhd2JyaWRnZQ&hash=b8ce55d24067495c7ba2c80e6310eb6f02817fd9&lang=en&cache-only=0",
-      "phonetic_text": "drɔ:brɪʤ",
+      "phonetic_text": "drɔ:.brɪʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJhd2JyaWRnZQ&hash=b8ce55d24067495c7ba2c80e6310eb6f02817fd9&lang=en&cache-only=0",
-      "phonetic_am_text": "draawbrij",
+      "phonetic_am_text": "draw.brij",
       "img": "https://cdn.langeek.co/photo/27129/original/?type=jpeg",
       "pronunciation": "ˈdɹɔˌbɹɪdʒ",
       "senses": [
@@ -806,26 +1058,49 @@
       ]
     },
     {
+      "id": "e9810593-6f28-42ab-b335-143acd297635",
       "word": "bascule bridge",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFzY3VsZSBicmlkZ2U&hash=67c1dfee93aab70afcf47ad9af67fb49d522a024&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæs.kju:l brɪʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFzY3VsZSBicmlkZ2U&hash=67c1dfee93aab70afcf47ad9af67fb49d522a024&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bās.kyool brij",
       "img": "",
       "pronunciation": "bˈæskjuːl bɹˈɪdʒ",
       "senses": [
         {
           "definition": "a type of movable bridge that can be raised and lowered to allow for the passage of water traffic",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The bascule bridge lifted to let the large cargo ship pass through the river."
+            },
+            {
+              "cf": "",
+              "x": "We had to wait for the bascule bridge to close before we could continue our drive."
+            },
+            {
+              "cf": "",
+              "x": "The workers were busy inspecting the bascule bridge to make sure it was functioning properly."
+            },
+            {
+              "cf": "",
+              "x": "The bascule bridge is raised every hour to allow boats to go through the canal."
+            },
+            {
+              "cf": "",
+              "x": "It was exciting to watch the bascule bridge open for the sailboats."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "efdbfdc6-9c69-41a8-8f03-8ef1eadac666",
       "word": "flyover",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zmx5b3Zlcg&hash=4283ad43611f7696572442aa32c232e94ddab435&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmx5b3Zlcg&hash=4283ad43611f7696572442aa32c232e94ddab435&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/19576/original/overpass?type=jpeg",
@@ -838,12 +1113,13 @@
       ]
     },
     {
+      "id": "ca6f67a7-1d92-4375-b9dc-25626d7f8b45",
       "word": "viaduct",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmlhZHVjdA&hash=d96e73368ef57c750f3889c0ecc713082a85a46f&lang=en&cache-only=0",
-      "phonetic_text": "vaɪədəkt",
+      "phonetic_text": "vaɪə.dəkt",
       "phonetic_am": "https://tts.langeek.co/read?text=dmlhZHVjdA&hash=d96e73368ef57c750f3889c0ecc713082a85a46f&lang=en&cache-only=0",
-      "phonetic_am_text": "vaiēdēkt",
+      "phonetic_am_text": "vaiē.dēkt",
       "img": "",
       "pronunciation": "ˈvaɪədəkt",
       "senses": [
@@ -875,12 +1151,13 @@
       ]
     },
     {
+      "id": "da9867fd-0730-434c-b0b9-11cca0656605",
       "word": "corniche",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29ybmljaGU&hash=afc869211bc4efc9ddf1ae3251f189a1be6f6dc4&lang=en&cache-only=0",
-      "phonetic_text": "kɔ:rnɪʃ",
+      "phonetic_text": "kɔr.nɪʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29ybmljaGU&hash=afc869211bc4efc9ddf1ae3251f189a1be6f6dc4&lang=en&cache-only=0",
-      "phonetic_am_text": "kaawrnish",
+      "phonetic_am_text": "kawr.nish",
       "img": "",
       "pronunciation": "ˈkɔɹnɪʃ",
       "senses": [
@@ -891,14 +1168,15 @@
       ]
     },
     {
+      "id": "2ee8962e-50e9-40cb-bb5d-d5df916f19d0",
       "word": "tunnel",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHVubmVs&hash=17611f6774f1056a17aeca8e722b05350d7617d7&lang=en&cache-only=0",
-      "phonetic_text": "tʌnəl",
+      "phonetic_text": "tʌ.nəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dHVubmVs&hash=17611f6774f1056a17aeca8e722b05350d7617d7&lang=en&cache-only=0",
-      "phonetic_am_text": "tanēl",
+      "phonetic_am_text": "ta.nēl",
       "img": "https://cdn.langeek.co/photo/43496/original/tunnel?type=jpeg",
-      "pronunciation": "ˈtənəɫ",
+      "pronunciation": "ˈtʌnəl",
       "senses": [
         {
           "definition": "a passage dug through or under a mountain or a structure, typically for cars, trains, people, etc.",
@@ -928,28 +1206,51 @@
       ]
     },
     {
+      "id": "b419bc21-c237-476b-a6f3-3106c31ef9ec",
       "word": "railroad",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFpbHJvYWQ&hash=e124dc3a01f15103aa1af04d149bb053cab37ff7&lang=en&cache-only=0",
-      "phonetic_text": "reɪlroʊd",
+      "phonetic_text": "reɪl.roʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=cmFpbHJvYWQ&hash=e124dc3a01f15103aa1af04d149bb053cab37ff7&lang=en&cache-only=0",
-      "phonetic_am_text": "reilrowd",
+      "phonetic_am_text": "reil.roood",
       "img": "https://cdn.langeek.co/photo/18565/original/track?type=jpeg",
-      "pronunciation": "ˈɹeɪɫˌɹoʊd",
+      "pronunciation": "ˈreɪlˌroʊd",
       "senses": [
         {
           "definition": "a track with rails along which trains run",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He enjoyed walking along the railroad, listening to the sounds of the passing trains."
+            },
+            {
+              "cf": "",
+              "x": "She sat down on a bench next to the railroad, watching the trains pass by."
+            },
+            {
+              "cf": "",
+              "x": "The houses were built close to the railroad, so you could hear the trains."
+            },
+            {
+              "cf": "",
+              "x": "The railroad stretched into the distance, vanishing at the horizon."
+            },
+            {
+              "cf": "",
+              "x": "We crossed the railroad on our way to the park."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "976395aa-4f96-4eae-8498-c3e083beca32",
       "word": "tramline",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhbWxpbmU&hash=74cbf51d20e9f0b73a48c3e917e12b41d6f470bb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "træm.laɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhbWxpbmU&hash=74cbf51d20e9f0b73a48c3e917e12b41d6f470bb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trām.lain",
       "img": "",
       "pronunciation": "tɹˈæmlaɪn",
       "senses": [
@@ -981,6 +1282,7 @@
       ]
     },
     {
+      "id": "a2d6cd07-e896-4037-8456-ec6bb5fde11a",
       "word": "branch",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJhbmNo&hash=ea0bdf57655d68997d3b4fe2e441d585f705257a&lang=en&cache-only=0",
@@ -988,7 +1290,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=YnJhbmNo&hash=ea0bdf57655d68997d3b4fe2e441d585f705257a&lang=en&cache-only=0",
       "phonetic_am_text": "brānch",
       "img": "",
-      "pronunciation": "ˈbɹæntʃ",
+      "pronunciation": "bræntʃ",
       "senses": [
         {
           "definition": "a secondary or lesser-used road or path that diverges from a main road or path",
@@ -997,28 +1299,51 @@
       ]
     },
     {
+      "id": "1898b3df-3223-4c1e-9cd9-8990548a1eee",
       "word": "turnpike",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHVybnBpa2U&hash=357ee5bc5885781f493bfd8c07289e7a15804968&lang=en&cache-only=0",
-      "phonetic_text": "tɜrnpaɪk",
+      "phonetic_text": "tɜrn.paɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=dHVybnBpa2U&hash=357ee5bc5885781f493bfd8c07289e7a15804968&lang=en&cache-only=0",
-      "phonetic_am_text": "tērnpaik",
+      "phonetic_am_text": "tērn.paik",
       "img": "",
       "pronunciation": "ˈtɝnˌpaɪk",
       "senses": [
         {
           "definition": "a major highway, typically with a gate where travelers pay a fee for use",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Drivers used the turnpike to bypass heavy traffic on the regular route."
+            },
+            {
+              "cf": "",
+              "x": "The old turnpike was upgraded to accommodate more vehicles."
+            },
+            {
+              "cf": "",
+              "x": "Travelers appreciated the smooth ride on the newly paved turnpike."
+            },
+            {
+              "cf": "",
+              "x": "Toll booths along the turnpike collected fees for maintenance and improvements."
+            },
+            {
+              "cf": "",
+              "x": "Historically, turnpikes played a significant role in facilitating commerce between cities."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "2f547f8e-799c-4b96-bc04-585e7f318ca4",
       "word": "feeder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmVlZGVy&hash=7deadedfc34618e3145c448e5f8980a74695e94c&lang=en&cache-only=0",
-      "phonetic_text": "fi:dər",
+      "phonetic_text": "fi.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmVlZGVy&hash=7deadedfc34618e3145c448e5f8980a74695e94c&lang=en&cache-only=0",
-      "phonetic_am_text": "feedēr",
+      "phonetic_am_text": "fi.dēr",
       "img": "",
       "pronunciation": "ˈfidɝ",
       "senses": [
@@ -1038,12 +1363,13 @@
       ]
     },
     {
+      "id": "119a856f-f4c1-4038-8185-2fe44e625489",
       "word": "exit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXhpdA&hash=4056c96c98934dd93ddd25fe0f04b865e25a1ad9&lang=en&cache-only=0",
-      "phonetic_text": "ɛgzɪt",
+      "phonetic_text": "ɛ.gzɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXhpdA&hash=4056c96c98934dd93ddd25fe0f04b865e25a1ad9&lang=en&cache-only=0",
-      "phonetic_am_text": "egzit",
+      "phonetic_am_text": "e.gzit",
       "img": "https://cdn.langeek.co/photo/23035/original/?type=jpeg",
       "pronunciation": "ˈɛɡzɪt/, /ˈɛksət",
       "senses": [
@@ -1071,28 +1397,51 @@
       ]
     },
     {
+      "id": "6e5457b5-0add-4de6-a565-ebe09b25e611",
       "word": "rest stop",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVzdCBzdG9w&hash=892834d969199b418ac7ffeb30b59191b2f7c30d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɛst stɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVzdCBzdG9w&hash=892834d969199b418ac7ffeb30b59191b2f7c30d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rest staap",
       "img": "",
       "pronunciation": "ɹˈɛst stˈɑːp",
       "senses": [
         {
           "definition": "an area near a road where people can stop to eat food, rest, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The family decided to stop at a rest stop to stretch their legs during the long drive."
+            },
+            {
+              "cf": "",
+              "x": "Many rest stops offer vending machines for quick snacks and drinks."
+            },
+            {
+              "cf": "",
+              "x": "The clean rest stop had ample parking and picnic tables for visitors."
+            },
+            {
+              "cf": "",
+              "x": "Some rest stops include tourist information centers to help travelers plan their route."
+            },
+            {
+              "cf": "",
+              "x": "The rest stop featured a playground, making it a great place for kids to play."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "5abda72a-2d59-4a50-b8a3-97b4a9d98398",
       "word": "rest area",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVzdCBhcmVh&hash=b2b4a8b895617e28d243576d160ac0eb3f911bc5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɛst ɛ.riə",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVzdCBhcmVh&hash=b2b4a8b895617e28d243576d160ac0eb3f911bc5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rest e.riē",
       "img": "",
       "pronunciation": "ɹˈɛst ˈɛɹiə",
       "senses": [
@@ -1124,28 +1473,51 @@
       ]
     },
     {
+      "id": "89b1116f-b335-4fa2-adf5-c9ff2b41a7c0",
       "word": "truck stop",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJ1Y2sgc3RvcA&hash=37aa48778708b8dbc4cdd9c634ce5dfc5dbead3d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "trʌk stɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJ1Y2sgc3RvcA&hash=37aa48778708b8dbc4cdd9c634ce5dfc5dbead3d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trak staap",
       "img": "",
       "pronunciation": "tɹˈʌk stˈɑːp",
       "senses": [
         {
           "definition": "a facility along highways where truck drivers can refuel, rest, and eat",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "They stopped at the truck stop for a quick meal."
+            },
+            {
+              "cf": "",
+              "x": "She filled up the truck's fuel tank at the truck stop."
+            },
+            {
+              "cf": "",
+              "x": "He slept in his cab at the truck stop overnight."
+            },
+            {
+              "cf": "",
+              "x": "They installed security cameras at the truck stop."
+            },
+            {
+              "cf": "",
+              "x": "The truck stop offered amenities like showers and laundry facilities."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1736bb05-75b3-4733-8764-ac96401c9a95",
       "word": "concurrency",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29uY3VycmVuY3k&hash=1e2e687ddc03612550b78b7613b09b05f4d53f93&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kən.kɜ:.rən.si",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uY3VycmVuY3k&hash=1e2e687ddc03612550b78b7613b09b05f4d53f93&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kēn.kē.rēn.si",
       "img": "",
       "pronunciation": "kənkˈɜːɹənsi",
       "senses": [
@@ -1177,28 +1549,47 @@
       ]
     },
     {
+      "id": "bcef3955-c504-4676-a1b1-78f41d8a5bd1",
       "word": "manhole",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFuaG9sZQ&hash=cb225ba7c4605f09b96c3a59291c20460638514e&lang=en&cache-only=0",
-      "phonetic_text": "mænhoʊl",
+      "phonetic_text": "mæn.hoʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFuaG9sZQ&hash=cb225ba7c4605f09b96c3a59291c20460638514e&lang=en&cache-only=0",
-      "phonetic_am_text": "mānhowl",
+      "phonetic_am_text": "mān.hoool",
       "img": "",
       "pronunciation": "ˈmænˌhoʊɫ",
       "senses": [
         {
           "definition": "a covered opening in a roadway or street used for access to underground utilities",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "They repaired the sewer line through the manhole."
+            },
+            {
+              "cf": "",
+              "x": "He marked the location of the manhole for safety reasons."
+            },
+            {
+              "cf": "",
+              "x": "They cleaned debris from the manhole after heavy rain."
+            },
+            {
+              "cf": "",
+              "x": "The manhole was marked with reflective tape for visibility."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b181df89-bd5b-4b49-b9d6-4e7a82ce1dc4",
       "word": "manhole cover",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFuaG9sZSBjb3Zlcg&hash=209a57a21a44ba5147d79f8598202a34ba41fd6c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mæn.hoʊl kʌ.vər",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFuaG9sZSBjb3Zlcg&hash=209a57a21a44ba5147d79f8598202a34ba41fd6c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mān.hoool ka.vēr",
       "img": "",
       "pronunciation": "mˈænhoʊl kˈʌvɚ",
       "senses": [

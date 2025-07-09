@@ -1,17 +1,19 @@
 {
+  "id": "29702ef6-f2d7-4a6b-ba93-bf5cacfb7404",
   "topic": "food_and_drink_preparation",
   "title": "Cooking Weights and Measures",
   "lesson": "lesson_7",
   "word_list": [
     {
+      "id": "a7fb609e-7572-490c-930a-3ada3ca87b3a",
       "word": "weight",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2VpZ2h0&hash=d478289a44d5185244b8c5271e9073dfa64f38c3&lang=en&cache-only=0",
       "phonetic_text": "weɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=d2VpZ2h0&hash=d478289a44d5185244b8c5271e9073dfa64f38c3&lang=en&cache-only=0",
-      "phonetic_am_text": "weit",
-      "img": "https://cdn.langeek.co/photo/18994/original/weigh?type=jpeg",
-      "pronunciation": "ˈweɪt",
+      "phonetic_am_text": "veit",
+      "img": "https://cdn.langeek.co/photo/61568/original/weigh?type=jpeg",
+      "pronunciation": "weɪt",
       "senses": [
         {
           "definition": "the heaviness of something or someone, which can be measured",
@@ -41,12 +43,13 @@
       ]
     },
     {
+      "id": "10297a18-9a05-4351-abe6-d85eae0070da",
       "word": "volume",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dm9sdW1l&hash=6030dc59a1352c16a74a65e1a288b0e580e9c9c1&lang=en&cache-only=0",
-      "phonetic_text": "vɑ:ljum",
+      "phonetic_text": "vɑ.ljum",
       "phonetic_am": "https://tts.langeek.co/read?text=dm9sdW1l&hash=6030dc59a1352c16a74a65e1a288b0e580e9c9c1&lang=en&cache-only=0",
-      "phonetic_am_text": "vaalyum",
+      "phonetic_am_text": "vaa.lyoom",
       "img": "https://cdn.langeek.co/photo/23251/original/?type=jpeg",
       "pronunciation": "ˈvɑɫjum",
       "senses": [
@@ -78,12 +81,13 @@
       ]
     },
     {
+      "id": "b42c40b8-0f24-4542-84b3-1a540d5da8e6",
       "word": "metric system",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWV0cmljIHN5c3RlbQ&hash=d6bb3378f56c44c09a2b4f263c0e80680a592f39&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "met.rɪk sɪs.təm",
       "phonetic_am": "https://tts.langeek.co/read?text=bWV0cmljIHN5c3RlbQ&hash=d6bb3378f56c44c09a2b4f263c0e80680a592f39&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "met.rik sis.tēm",
       "img": "",
       "pronunciation": "mˈɛtɹɪk sˈɪstəm",
       "senses": [
@@ -115,14 +119,15 @@
       ]
     },
     {
+      "id": "08a01721-1011-4490-a52f-eccd9bc497cd",
       "word": "liter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGl0ZXI&hash=ca9f359e2cc0c1e71e8898dbf88d3c2c145258df&lang=en&cache-only=0",
-      "phonetic_text": "li:tər",
+      "phonetic_text": "li:.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=bGl0ZXI&hash=ca9f359e2cc0c1e71e8898dbf88d3c2c145258df&lang=en&cache-only=0",
-      "phonetic_am_text": "leetēr",
-      "img": "https://cdn.langeek.co/photo/29749/original/?type=jpeg",
-      "pronunciation": "ˈɫitɝ",
+      "phonetic_am_text": "li.tēr",
+      "img": "https://cdn.langeek.co/photo/61550/original/?type=jpeg",
+      "pronunciation": "ˈliːtɚ",
       "senses": [
         {
           "definition": "a unit for measuring an amount of liquid or gas that equals 2.11 pints",
@@ -152,14 +157,15 @@
       ]
     },
     {
+      "id": "3f7be947-f430-443a-8702-c6acb8ce41d2",
       "word": "milliliter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWlsbGlsaXRlcg&hash=67b94c790f0bbd5da92f4046d5f49cb1b422d87d&lang=en&cache-only=0",
-      "phonetic_text": "mɪləlitər",
+      "phonetic_text": "mɪ.lɪ.li:.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=bWlsbGlsaXRlcg&hash=67b94c790f0bbd5da92f4046d5f49cb1b422d87d&lang=en&cache-only=0",
-      "phonetic_am_text": "milēlitēr",
-      "img": "",
-      "pronunciation": "ˈmɪɫəˌɫitɝ",
+      "phonetic_am_text": "mi.li.li.tēr",
+      "img": "https://cdn.langeek.co/photo/61562/original/?type=jpeg",
+      "pronunciation": "ˈmɪlɪˌliːtɚ",
       "senses": [
         {
           "definition": "a unit for measuring the quantity of a liquid or gas that equals one thousandth of a liter",
@@ -189,13 +195,14 @@
       ]
     },
     {
+      "id": "838bfcea-7794-4377-b57c-66f9756d2be8",
       "word": "gram",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JhbQ&hash=3d937cac7aee285b7ebc90d52e15eae483ee799c&lang=en&cache-only=0",
       "phonetic_text": "græm",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JhbQ&hash=3d937cac7aee285b7ebc90d52e15eae483ee799c&lang=en&cache-only=0",
       "phonetic_am_text": "grām",
-      "img": "https://cdn.langeek.co/photo/37686/original/?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/61494/original/?type=jpeg",
       "pronunciation": "ɡræm",
       "senses": [
         {
@@ -226,12 +233,13 @@
       ]
     },
     {
+      "id": "bad02a94-c8f5-4b8e-bb08-a1c63d47bb3e",
       "word": "kilogram",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2lsb2dyYW0&hash=b1c32247a9b39fa1a20dd9942f9eeea0cc6306ef&lang=en&cache-only=0",
-      "phonetic_text": "kɪləgræm",
+      "phonetic_text": "kɪ.ləg.ræm",
       "phonetic_am": "https://tts.langeek.co/read?text=a2lsb2dyYW0&hash=b1c32247a9b39fa1a20dd9942f9eeea0cc6306ef&lang=en&cache-only=0",
-      "phonetic_am_text": "kilēgrām",
+      "phonetic_am_text": "ki.lēg.rām",
       "img": "https://cdn.langeek.co/photo/29745/original/?type=jpeg",
       "pronunciation": "ˈkɪɫəˌɡɹæm",
       "senses": [
@@ -263,10 +271,11 @@
       ]
     },
     {
+      "id": "eb98101d-824a-40c0-acf5-1f1b3dc48f09",
       "word": "degree Celsius",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVncmVlIENlbHNpdXM&hash=56e66325844c0be5227da0914802023549a9ea06&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVncmVlIENlbHNpdXM&hash=56e66325844c0be5227da0914802023549a9ea06&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/20920/original/celsius?type=jpeg",
@@ -279,12 +288,13 @@
       ]
     },
     {
+      "id": "4f4b88ee-5682-4f0f-9430-11eb96d4ddfb",
       "word": "fluid ounce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zmx1aWQgb3VuY2U&hash=6f48060a11096c5e766d83d459183805aeb60774&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fluəd aʊns",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmx1aWQgb3VuY2U&hash=6f48060a11096c5e766d83d459183805aeb60774&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "flooēd aoons",
       "img": "https://cdn.langeek.co/photo/32846/original/?type=jpeg",
       "pronunciation": "flˈuːɪd ˈaʊns",
       "senses": [
@@ -295,6 +305,7 @@
       ]
     },
     {
+      "id": "57fa3f51-d8a0-4f2f-8473-893c153845d1",
       "word": "cup",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3Vw&hash=6c7182884a298c6f4cab787624857c4d86e4479e&lang=en&cache-only=0",
@@ -332,6 +343,7 @@
       ]
     },
     {
+      "id": "53864aeb-064a-48b4-869d-7d9ca07645b3",
       "word": "pint",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGludA&hash=312fd209f480c4d1218c9409bde8d78ec47b2f28&lang=en&cache-only=0",
@@ -369,12 +381,13 @@
       ]
     },
     {
+      "id": "0f069ec3-0a2b-4157-9d24-f7fbd5342fa0",
       "word": "quart",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cXVhcnQ&hash=a1364db7903caba4ccc90284d1c71013cbaa4e3a&lang=en&cache-only=0",
-      "phonetic_text": "kwɔ:rt",
+      "phonetic_text": "kwɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=cXVhcnQ&hash=a1364db7903caba4ccc90284d1c71013cbaa4e3a&lang=en&cache-only=0",
-      "phonetic_am_text": "kwaawrt",
+      "phonetic_am_text": "kvawrt",
       "img": "",
       "pronunciation": "ˈkwɔɹt",
       "senses": [
@@ -406,14 +419,15 @@
       ]
     },
     {
+      "id": "c423fd55-31a2-4d2f-bdbe-04aeb8988855",
       "word": "gallon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2FsbG9u&hash=375096762d724d813040f90f7d6c7645844d1b70&lang=en&cache-only=0",
-      "phonetic_text": "gælən",
+      "phonetic_text": "gæ.lən",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2FsbG9u&hash=375096762d724d813040f90f7d6c7645844d1b70&lang=en&cache-only=0",
-      "phonetic_am_text": "gālēn",
+      "phonetic_am_text": "gā.lēn",
       "img": "https://cdn.langeek.co/photo/20307/original/gallon?type=jpeg",
-      "pronunciation": "ˈɡæɫən",
+      "pronunciation": "ˈɡælən",
       "senses": [
         {
           "definition": "a unit used to measure liquids in the United States, equivalent to approximately 3.785 liters",
@@ -422,12 +436,13 @@
       ]
     },
     {
+      "id": "e32dc1c0-9967-4029-b30e-49d63e991c8c",
       "word": "density",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVuc2l0eQ&hash=530b8f7966015bbd8382c183977b987d3836fec2&lang=en&cache-only=0",
-      "phonetic_text": "dɛnsəti",
+      "phonetic_text": "dɛn.sə.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVuc2l0eQ&hash=530b8f7966015bbd8382c183977b987d3836fec2&lang=en&cache-only=0",
-      "phonetic_am_text": "densēti",
+      "phonetic_am_text": "den.sē.ti",
       "img": "https://cdn.langeek.co/photo/37684/original/?type=jpeg",
       "pronunciation": "ˈdɛnsəti/, /ˈdɛnsɪti",
       "senses": [
@@ -459,12 +474,13 @@
       ]
     },
     {
+      "id": "0105e012-f5c9-4ec3-918e-e5d8c5a1167b",
       "word": "measuring cup",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWVhc3VyaW5nIGN1cA&hash=d13a9fa11c32bc221b06b69474c928698fd5e77d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mɛ.ʒɜ.rɪng kʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=bWVhc3VyaW5nIGN1cA&hash=d13a9fa11c32bc221b06b69474c928698fd5e77d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "me.zhē.ring kap",
       "img": "https://cdn.langeek.co/photo/26568/original/?type=jpeg",
       "pronunciation": "mˈɛʒɚɹɪŋ kˈʌp",
       "senses": [
@@ -475,14 +491,15 @@
       ]
     },
     {
+      "id": "c6b73fac-31a1-4e2d-853a-7164ae27fd09",
       "word": "drop",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJvcA&hash=6811324bfde4d76b3c451b6a5940e227513fd0b0&lang=en&cache-only=0",
-      "phonetic_text": "drɑ:p",
+      "phonetic_text": "drɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJvcA&hash=6811324bfde4d76b3c451b6a5940e227513fd0b0&lang=en&cache-only=0",
       "phonetic_am_text": "draap",
       "img": "https://cdn.langeek.co/photo/35782/original/?type=jpeg",
-      "pronunciation": "ˈdɹɑp/, /ˈdɹɔp",
+      "pronunciation": "drɑp",
       "senses": [
         {
           "definition": "a small amount of liquid or solid that falls or is released in a rounded shape",
@@ -512,12 +529,13 @@
       ]
     },
     {
+      "id": "98b2f4db-de04-4e8a-a4a5-0fd0522a0c35",
       "word": "smidgen",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c21pZGdlbg&hash=74cc59ac7dd48144b4e10474a0482dd74085c8e3&lang=en&cache-only=0",
-      "phonetic_text": "smɪʤən",
+      "phonetic_text": "smɪ.ʤən",
       "phonetic_am": "https://tts.langeek.co/read?text=c21pZGdlbg&hash=74cc59ac7dd48144b4e10474a0482dd74085c8e3&lang=en&cache-only=0",
-      "phonetic_am_text": "smijēn",
+      "phonetic_am_text": "smi.jēn",
       "img": "",
       "pronunciation": "ˈsmɪdʒən",
       "senses": [
@@ -549,6 +567,7 @@
       ]
     },
     {
+      "id": "a4f32c75-43e8-4ac6-91d4-1559336323c9",
       "word": "pinch",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGluY2g&hash=03c488005993fb562c97b7e311a412ba8684e813&lang=en&cache-only=0",
@@ -586,6 +605,7 @@
       ]
     },
     {
+      "id": "221f531b-4404-43e6-8035-b7505c6ac106",
       "word": "dash",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGFzaA&hash=563c742250bda93d14e31dc795b8a0b5fe5be68b&lang=en&cache-only=0",
@@ -602,12 +622,13 @@
       ]
     },
     {
+      "id": "685810fe-3c80-42f3-8deb-f469a9813f6f",
       "word": "fluid dram",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zmx1aWQgZHJhbQ&hash=a75ee0be583e94499b5618ca943c4fadb058cab1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fluəd di.ræm",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmx1aWQgZHJhbQ&hash=a75ee0be583e94499b5618ca943c4fadb058cab1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "flooēd di.rām",
       "img": "",
       "pronunciation": "flˈuːɪd dɹˈæm",
       "senses": [
@@ -639,6 +660,7 @@
       ]
     },
     {
+      "id": "ab859139-0448-4997-8725-2e04ddd86e4f",
       "word": "gill",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2lsbA&hash=18d74069554a4e98e20183385deb63adad1f02e1&lang=en&cache-only=0",
@@ -676,12 +698,13 @@
       ]
     },
     {
+      "id": "d4c3a220-9e47-4305-bf88-725ad4b8360c",
       "word": "minim",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWluaW0&hash=20aa1aa3429f5f6df0c2ceb88adf40da409e1e68&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mɪ.nɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=bWluaW0&hash=20aa1aa3429f5f6df0c2ceb88adf40da409e1e68&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mi.nim",
       "img": "",
       "pronunciation": "mˈɪnɪm",
       "senses": [
@@ -713,12 +736,13 @@
       ]
     },
     {
+      "id": "a362d402-70f8-451c-b7c3-5ff4d43ec925",
       "word": "salt spoon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FsdCBzcG9vbg&hash=1c1e59bdd092da94656136fd1a1f456e9220b4b7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɔ:lt spu:n",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FsdCBzcG9vbg&hash=1c1e59bdd092da94656136fd1a1f456e9220b4b7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sawlt spoon",
       "img": "",
       "pronunciation": "sɑːlt spuːn",
       "senses": [
@@ -729,10 +753,11 @@
       ]
     },
     {
+      "id": "ed7557b8-3733-4a6a-adde-7c985fcc9c40",
       "word": "British Imperial System",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QnJpdGlzaCBJbXBlcmlhbCBTeXN0ZW0&hash=713aa39243dcbb7510307215291f222dcafa9c10&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QnJpdGlzaCBJbXBlcmlhbCBTeXN0ZW0&hash=713aa39243dcbb7510307215291f222dcafa9c10&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -766,14 +791,15 @@
       ]
     },
     {
+      "id": "019c3341-2838-409e-80ff-b5ea55f868af",
       "word": "ounce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3VuY2U&hash=13b6c855969c3140e42002dafb293d154abd9841&lang=en&cache-only=0",
       "phonetic_text": "aʊns",
       "phonetic_am": "https://tts.langeek.co/read?text=b3VuY2U&hash=13b6c855969c3140e42002dafb293d154abd9841&lang=en&cache-only=0",
-      "phonetic_am_text": "awns",
+      "phonetic_am_text": "aoons",
       "img": "https://cdn.langeek.co/photo/20129/original/ounce?type=jpeg",
-      "pronunciation": "ˈaʊns",
+      "pronunciation": "aʊns",
       "senses": [
         {
           "definition": "a unit for measuring weight equal to approximately 28.34 grams",

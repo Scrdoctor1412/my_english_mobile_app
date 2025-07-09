@@ -1,13 +1,15 @@
 {
+  "id": "e8e1d2f1-cd36-4a32-9a50-413e46bb4527",
   "topic": "truth_secrecy_deception",
   "title": "Deception",
   "lesson": "lesson_0",
   "word_list": [
     {
-      "word": "[pull] the wool over {one's} eyes",
+      "id": "952baa6a-fc49-4b20-a4db-e427d31e649f",
+      "word": "to [pull] the wool over {one's} eyes",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHVsbCB0aGUgd29vbCBvdmVyIG9uZSdzIGV5ZXM&hash=a9184958f94c229b093ad0e636a553d4ee29649d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHVsbCB0aGUgd29vbCBvdmVyIG9uZSdzIGV5ZXM&hash=a9184958f94c229b093ad0e636a553d4ee29649d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -25,10 +27,11 @@
       ]
     },
     {
-      "word": "[bend|stretch] the truth",
+      "id": "6dbbe697-174b-4543-9205-3d83a8648afb",
+      "word": "to [bend|stretch] the truth",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmVuZCB0aGUgdHJ1dGg&hash=bd09e04590756f2554a53eec12aee1de8d7e2c7f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmVuZCB0aGUgdHJ1dGg&hash=bd09e04590756f2554a53eec12aee1de8d7e2c7f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -36,36 +39,16 @@
       "senses": [
         {
           "definition": "to not be completely truthful about something by changing or omitting some facts",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He always bends the truth so he never gets in any trouble."
-            },
-            {
-              "cf": "",
-              "x": "I know he has stretched the truth about how much he had helped in the project."
-            },
-            {
-              "cf": "",
-              "x": "The politician bent the truth about his qualifications in order to get elected."
-            },
-            {
-              "cf": "",
-              "x": "The student bent the truth about her grade on the test in order to avoid getting in trouble with her parents."
-            },
-            {
-              "cf": "",
-              "x": "The witness stretched the truth about what she saw in order to help her friend's case."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[blow] smoke",
+      "id": "78e2ab5d-74a8-4e7b-a868-b2536b5a136c",
+      "word": "to [blow] smoke",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmxvdyBzbW9rZQ&hash=33f4f00bac2819387abbef91ed229a4954651e5a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmxvdyBzbW9rZQ&hash=33f4f00bac2819387abbef91ed229a4954651e5a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -73,36 +56,16 @@
       "senses": [
         {
           "definition": "to try to deceive a person by doing or saying something that misleads or confuses them",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The politician was known to blow smoke about his achievements, but there was little substance behind his claims."
-            },
-            {
-              "cf": "",
-              "x": "Don't be fooled by his confident demeanor; he's just blowing smoke to cover up his lack of knowledge on the topic."
-            },
-            {
-              "cf": "",
-              "x": "The salesperson tried to blow smoke about the product's miraculous benefits, but the customers were skeptical and sought more information."
-            },
-            {
-              "cf": "",
-              "x": "When confronted about the discrepancies in his story, the suspect continued to blow smoke, making it difficult for investigators to uncover the truth."
-            },
-            {
-              "cf": "",
-              "x": "The manager realized that the employee was blowing smoke during the presentation when asked for concrete evidence to support the proposed strategy."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "0e622e6d-e9ed-4846-8954-6ae4ee457702",
       "word": "Canterbury tale",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q2FudGVyYnVyeSB0YWxl&hash=abe5efd85faecba930dc1db327bddad16bdae850&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Q2FudGVyYnVyeSB0YWxl&hash=abe5efd85faecba930dc1db327bddad16bdae850&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -136,10 +99,11 @@
       ]
     },
     {
-      "word": "[cook] the books",
+      "id": "1969e40d-7359-4a56-b796-4bf243716a6e",
+      "word": "to [cook] the books",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29vayB0aGUgYm9va3M&hash=655d3f07ffd3a63a2466578ee93b2529955af9b3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29vayB0aGUgYm9va3M&hash=655d3f07ffd3a63a2466578ee93b2529955af9b3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -147,38 +111,18 @@
       "senses": [
         {
           "definition": "to illegally change the financial records of a company or organization for personal gain",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The CEO was caught trying to cook the books to make the company's financial situation appear more favorable than it actually was."
-            },
-            {
-              "cf": "",
-              "x": "The auditors discovered evidence that someone had been attempting to cook the books to hide embezzlement within the organization."
-            },
-            {
-              "cf": "",
-              "x": "When the business started facing financial difficulties, the desperate owner resorted to cooking the books in an attempt to secure additional investment."
-            },
-            {
-              "cf": "",
-              "x": "The scandal erupted when it was revealed that the high-profile company had been cooking the books for years to maintain its market standing."
-            },
-            {
-              "cf": "",
-              "x": "The employee was fired for attempting to cook the books in an effort to receive a higher bonus."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "6e87d523-14d4-4d92-add9-9301f7c4a4ab",
       "word": "snow job",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c25vdyBqb2I&hash=1e6d582d39499a07a02032396075082b5faa0fdb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "snoʊ ʤɑ:b",
       "phonetic_am": "https://tts.langeek.co/read?text=c25vdyBqb2I&hash=1e6d582d39499a07a02032396075082b5faa0fdb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "snooo jaab",
       "img": "",
       "pronunciation": "snˈoʊ dʒˈɑːb",
       "senses": [
@@ -210,10 +154,11 @@
       ]
     },
     {
+      "id": "bede74c6-af0d-4e62-ba81-84f242c978b1",
       "word": "hook, line, and sinker",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aG9vaywgbGluZSwgYW5kIHNpbmtlcg&hash=6d74f3d82cc07c431d750e078cf57ca32562258c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9vaywgbGluZSwgYW5kIHNpbmtlcg&hash=6d74f3d82cc07c431d750e078cf57ca32562258c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -226,10 +171,11 @@
       ]
     },
     {
-      "word": "[throw] dust in {one's} eyes",
+      "id": "b5db213c-9bf8-4e37-8966-90ef71ba93d3",
+      "word": "to [throw] dust in {one's} eyes",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGhyb3cgZHVzdCBpbiBvbmUncyBleWVz&hash=9821cad1680818f8eefb8757244295d849a09744&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGhyb3cgZHVzdCBpbiBvbmUncyBleWVz&hash=9821cad1680818f8eefb8757244295d849a09744&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -242,10 +188,11 @@
       ]
     },
     {
-      "word": "[worm] {sth} out of {sb}",
+      "id": "ec50cd90-3d83-41e4-8100-62fd884ccb06",
+      "word": "to [worm] {sth} out of {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd29ybSBzb21ldGhpbmcgb3V0IG9mIHNvbWVib2R5&hash=a69e18edcfa264866ffc4d83fb1306d0c5f621ff&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd29ybSBzb21ldGhpbmcgb3V0IG9mIHNvbWVib2R5&hash=a69e18edcfa264866ffc4d83fb1306d0c5f621ff&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -258,10 +205,11 @@
       ]
     },
     {
-      "word": "[take] {sb} for a ride",
+      "id": "ea8aae22-b364-4032-9f41-bab8d254f1e1",
+      "word": "to [take] {sb} for a ride",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBzb21lYm9keSBmb3IgYSByaWRl&hash=450be0f149386d5377123dc263e886e97e03209c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBzb21lYm9keSBmb3IgYSByaWRl&hash=450be0f149386d5377123dc263e886e97e03209c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -269,28 +217,16 @@
       "senses": [
         {
           "definition": "to deceive a person, often in order to steal their money",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Be cautious with online offers that seem too good to be true; scammers may be trying to take you for a ride."
-            },
-            {
-              "cf": "",
-              "x": "Unaware of the mechanic's dishonesty, she feared he might take her for a ride by recommending unnecessary repairs."
-            },
-            {
-              "cf": "",
-              "x": "The con artist convinced the gullible tourist to invest in a fake business opportunity, ultimately taking them for a ride and disappearing with their money."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[smell] a rat",
+      "id": "d9813f0c-bd4b-48bd-878b-d871d035a9fc",
+      "word": "to [smell] a rat",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc21lbGwgYSByYXQ&hash=4e6878a208201be56ab1be63c55f7856276c46bf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc21lbGwgYSByYXQ&hash=4e6878a208201be56ab1be63c55f7856276c46bf&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -298,38 +234,18 @@
       "senses": [
         {
           "definition": "to begin to feel that there might be something wrong or dishonest about a situation",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After noticing inconsistencies in her colleague's story, she began to smell a rat and decided to investigate further."
-            },
-            {
-              "cf": "",
-              "x": "The sudden change in his behavior made his friends smell a rat, suspecting he was hiding something."
-            },
-            {
-              "cf": "",
-              "x": "The unusual financial transactions led the accountant to smell a rat and report potential fraud to the authorities."
-            },
-            {
-              "cf": "",
-              "x": "When the new employee avoided eye contact and gave vague answers, the manager began to smell a rat and initiated a background check."
-            },
-            {
-              "cf": "",
-              "x": "The unexpected turn of events in the negotiations made the experienced diplomat smell a rat, prompting a reassessment of the situation."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "ed9ffcee-0496-443e-a756-e9e269e01303",
       "word": "monkey business",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9ua2V5IGJ1c2luZXNz&hash=ebf2ac87b7db1cd2e3290a2ccd96f5a9a6e0c9f8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mʌn.ki bɪz.nɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9ua2V5IGJ1c2luZXNz&hash=ebf2ac87b7db1cd2e3290a2ccd96f5a9a6e0c9f8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "man.ki biz.nis",
       "img": "",
       "pronunciation": "mˈʌnki bˈɪznəs",
       "senses": [
@@ -361,10 +277,11 @@
       ]
     },
     {
+      "id": "472f90e8-5e92-4f68-a423-d562169717fc",
       "word": "(as|) crooked as a dog's hind leg",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXMgY3Jvb2tlZCBhcyBhIGRvZydzIGhpbmQgbGVn&hash=ba3a5b8a90970cae5ed0fec8c9848b734b914afa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXMgY3Jvb2tlZCBhcyBhIGRvZydzIGhpbmQgbGVn&hash=ba3a5b8a90970cae5ed0fec8c9848b734b914afa&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -398,10 +315,11 @@
       ]
     },
     {
-      "word": "[lead] {sb} (up|down) the garden path",
+      "id": "8df7fa60-9465-4207-873c-7507e7f1d034",
+      "word": "to [lead] {sb} (up|down) the garden path",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGVhZCBzb21lYm9keSB1cCB0aGUgZ2FyZGVuIHBhdGg&hash=ef24d2dabf7226971aff5db02524b59a0b31b92a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGVhZCBzb21lYm9keSB1cCB0aGUgZ2FyZGVuIHBhdGg&hash=ef24d2dabf7226971aff5db02524b59a0b31b92a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -409,22 +327,18 @@
       "senses": [
         {
           "definition": "to make a person believe something that is not true",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Trusting her friend's advice, she followed the suggestions that ultimately led her down the garden path of a misguided business venture."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "9917788b-d8b0-4b87-9273-cfb8b32cf129",
       "word": "bait and switch",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YmFpdCBhbmQgc3dpdGNo&hash=19c72fe89471d41bff157b2db1da20da7411b50e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "beɪt ænd swɪʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFpdCBhbmQgc3dpdGNo&hash=19c72fe89471d41bff157b2db1da20da7411b50e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "beit ānd svich",
       "img": "",
       "pronunciation": "bˈeɪt ænd swˈɪtʃ",
       "senses": [
@@ -448,10 +362,11 @@
       ]
     },
     {
+      "id": "a34ac535-d59a-419b-8203-647c293f44a8",
       "word": "smoke and mirrors",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=c21va2UgYW5kIG1pcnJvcnM&hash=0e7970e05e021641c3a90866e4f6399c74336fd2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=c21va2UgYW5kIG1pcnJvcnM&hash=0e7970e05e021641c3a90866e4f6399c74336fd2&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -459,36 +374,16 @@
       "senses": [
         {
           "definition": "a situation where something seems impressive or important, but is actually just a distraction from something else",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The politician's speech was full of smoke and mirrors, promising change but lacking concrete plans."
-            },
-            {
-              "cf": "",
-              "x": "The elaborate marketing campaign used smoke and mirrors to make the product seem revolutionary, despite its basic features."
-            },
-            {
-              "cf": "",
-              "x": "The financial report was criticized for employing smoke and mirrors to make the company's performance appear more robust than it actually was."
-            },
-            {
-              "cf": "",
-              "x": "The illusionist captivated the audience with a performance that relied on smoke and mirrors to make objects seemingly appear and disappear."
-            },
-            {
-              "cf": "",
-              "x": "The charismatic speaker used smoke and mirrors during the presentation, diverting attention from the controversial aspects of the proposal."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[pull] a fast one",
+      "id": "bc6fbda6-6de7-442c-bf7f-b6384424da30",
+      "word": "to [pull] a fast one",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHVsbCBhIGZhc3Qgb25l&hash=4e4b1d98f50348533004efb74e96a508a1bd625b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHVsbCBhIGZhc3Qgb25l&hash=4e4b1d98f50348533004efb74e96a508a1bd625b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -496,38 +391,18 @@
       "senses": [
         {
           "definition": "to cheat someone in a clever and often unexpected way",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He thought he could pull a fast one on the teacher by giving a fake excuse for not doing his homework, but she saw right through it."
-            },
-            {
-              "cf": "",
-              "x": "The salesman tried to pull a fast one by offering a 'limited-time discount' that wasn't really a discount at all."
-            },
-            {
-              "cf": "",
-              "x": "She pulled a fast one on her friends by organizing a surprise party they never saw coming."
-            },
-            {
-              "cf": "",
-              "x": "The scam artist managed to pull a fast one on unsuspecting investors by promising high returns on a fake investment scheme."
-            },
-            {
-              "cf": "",
-              "x": "Don't think you can pull a fast one on Sarah; she's always one step ahead."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "2194f0c7-e437-4a14-935b-5dc166cf2f3f",
       "word": "free lunch",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnJlZSBsdW5jaA&hash=8f0ecab45edd40c304de7c97cb8e3d4a3dff6919&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fri: lʌnʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJlZSBsdW5jaA&hash=8f0ecab45edd40c304de7c97cb8e3d4a3dff6919&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fri lanch",
       "img": "",
       "pronunciation": "fɹˈiː lˈʌntʃ",
       "senses": [
@@ -559,12 +434,13 @@
       ]
     },
     {
+      "id": "526f7f0f-608c-4fda-82e9-7b9d0a10ec3c",
       "word": "copycat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29weWNhdA&hash=19ed31bf209abdebdc8770c1a077bd6072afcd5a&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:pikæt",
+      "phonetic_text": "kɑ:.pi.kæt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29weWNhdA&hash=19ed31bf209abdebdc8770c1a077bd6072afcd5a&lang=en&cache-only=0",
-      "phonetic_am_text": "kaapikāt",
+      "phonetic_am_text": "kaa.pi.kāt",
       "img": "",
       "pronunciation": "ˈkɑpiˌkæt",
       "senses": [

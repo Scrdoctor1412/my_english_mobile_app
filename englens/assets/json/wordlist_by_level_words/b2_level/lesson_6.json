@@ -1,15 +1,17 @@
 {
+  "id": "9dfe0c62-f9a4-4d07-beec-818ad266cc7e",
   "topic": "b2_level",
   "title": "Business and Office",
   "lesson": "lesson_6",
   "word_list": [
     {
+      "id": "5009c7ed-56a8-4bc6-b26b-ac34790d49f8",
       "word": "agency",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWdlbmN5&hash=e66ddfa592731a64124551dd125519326c98ebfc&lang=en&cache-only=0",
-      "phonetic_text": "eɪʤənsi",
+      "phonetic_text": "eɪ.ʤən.si",
       "phonetic_am": "https://tts.langeek.co/read?text=YWdlbmN5&hash=e66ddfa592731a64124551dd125519326c98ebfc&lang=en&cache-only=0",
-      "phonetic_am_text": "eijēnsi",
+      "phonetic_am_text": "ei.jēn.si",
       "img": "",
       "pronunciation": "ˈeɪdʒənsi",
       "senses": [
@@ -29,12 +31,13 @@
       ]
     },
     {
+      "id": "abe5f671-d0a7-43fc-884f-971458cc1272",
       "word": "corporation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29ycG9yYXRpb24&hash=51856556620772510e2de1ad847c4e974ae651f3&lang=en&cache-only=0",
-      "phonetic_text": "kɔrpəreɪʃən",
+      "phonetic_text": "kɔr.pɜ.reɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29ycG9yYXRpb24&hash=51856556620772510e2de1ad847c4e974ae651f3&lang=en&cache-only=0",
-      "phonetic_am_text": "kawrpēreishēn",
+      "phonetic_am_text": "kawr.pē.rei.shēn",
       "img": "https://cdn.langeek.co/photo/17911/original/organization?type=jpeg",
       "pronunciation": "ˌkɔɹpɝˈeɪʃən",
       "senses": [
@@ -66,12 +69,13 @@
       ]
     },
     {
+      "id": "21dc870d-5ebd-4cb4-be08-340a16c3f00d",
       "word": "board",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9hcmQ&hash=6dec2b1475a01601e90e4b9a96944e22bddf4af1&lang=en&cache-only=0",
       "phonetic_text": "bɔ:rd",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9hcmQ&hash=6dec2b1475a01601e90e4b9a96944e22bddf4af1&lang=en&cache-only=0",
-      "phonetic_am_text": "baawrd",
+      "phonetic_am_text": "bawrd",
       "img": "",
       "pronunciation": "bɔːrd",
       "senses": [
@@ -99,18 +103,23 @@
       ]
     },
     {
+      "id": "4450a1db-61b6-4209-998f-7aab4adbcd66",
       "word": "chairman",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hhaXJtYW4&hash=4a3f61ba79a7b017ccae2060882072fde12197a5&lang=en&cache-only=0",
-      "phonetic_text": "ʧɛrmən",
+      "phonetic_text": "ʧɛr.mæn",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hhaXJtYW4&hash=4a3f61ba79a7b017ccae2060882072fde12197a5&lang=en&cache-only=0",
-      "phonetic_am_text": "chermēn",
+      "phonetic_am_text": "cher.mān",
       "img": "https://cdn.langeek.co/photo/40741/original/boss?type=jpeg",
       "pronunciation": "ˈtʃɛɹmən",
       "senses": [
         {
           "definition": "someone who is in charge of a company, organization, etc., for the long term",
           "examples": [
+            {
+              "cf": "",
+              "x": "The chairman of the board announced a new strategic direction for the company during the annual shareholders' meeting."
+            },
             {
               "cf": "",
               "x": "As chairman, he ensured that all voices were heard and that decisions were made democratically."
@@ -132,12 +141,13 @@
       ]
     },
     {
+      "id": "f1a999be-c135-4656-b414-399b47360f01",
       "word": "entrepreneur",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZW50cmVwcmVuZXVy&hash=5d959a06df011dde545ff215c7b766ec90f2d654&lang=en&cache-only=0",
-      "phonetic_text": "ɑntrəprənɜr",
+      "phonetic_text": "ɑnt.rəp.rə.nɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZW50cmVwcmVuZXVy&hash=5d959a06df011dde545ff215c7b766ec90f2d654&lang=en&cache-only=0",
-      "phonetic_am_text": "ɑntrēprēnēr",
+      "phonetic_am_text": "aant.rēp.rē.nēr",
       "img": "https://cdn.langeek.co/photo/16358/original/businesswoman?type=jpeg",
       "pronunciation": "ˌɑntɹəpɹəˈnɝ/, /ˌɑntɹəpɹəˈnʊɹ",
       "senses": [
@@ -169,6 +179,7 @@
       ]
     },
     {
+      "id": "cddcb0c9-0e62-41b7-9ca0-cac671cb0461",
       "word": "clerk",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xlcms&hash=255b576c70219b8770f8a378961ca3667e1d947e&lang=en&cache-only=0",
@@ -206,6 +217,7 @@
       ]
     },
     {
+      "id": "602cadc2-9634-40b6-a348-059501f87336",
       "word": "draft",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJhZnQ&hash=77fba2a700f5a107e37c24f5c7772c6bddcc33c3&lang=en&cache-only=0",
@@ -239,12 +251,13 @@
       ]
     },
     {
+      "id": "18f6534a-2a5d-473a-9fe4-a34b05310e1d",
       "word": "income",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5jb21l&hash=32ff0b43239c1305cfe0bbf1ccd61364a69295d8&lang=en&cache-only=0",
-      "phonetic_text": "ɪnkʌm",
+      "phonetic_text": "ɪn.kəm",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5jb21l&hash=32ff0b43239c1305cfe0bbf1ccd61364a69295d8&lang=en&cache-only=0",
-      "phonetic_am_text": "inkam",
+      "phonetic_am_text": "in.kēm",
       "img": "https://cdn.langeek.co/photo/17903/original/salary?type=jpeg",
       "pronunciation": "ˈɪnˌkəm",
       "senses": [
@@ -276,12 +289,13 @@
       ]
     },
     {
+      "id": "cef751a2-8923-4b8d-8e89-56fe7324877a",
       "word": "insurance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5zdXJhbmNl&hash=4685d27070102cba994897309213060bcf2cc615&lang=en&cache-only=0",
-      "phonetic_text": "ɪnʃʊrəns",
+      "phonetic_text": "ɪn.ʃʊ.rəns",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5zdXJhbmNl&hash=4685d27070102cba994897309213060bcf2cc615&lang=en&cache-only=0",
-      "phonetic_am_text": "inshurēns",
+      "phonetic_am_text": "in.shoo.rēns",
       "img": "",
       "pronunciation": "ˌɪnˈʃʊɹəns",
       "senses": [
@@ -297,12 +311,13 @@
       ]
     },
     {
+      "id": "acc4899c-6b71-48aa-abc5-a65e923363eb",
       "word": "market research",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFya2V0IHJlc2VhcmNo&hash=f5119b88186760d0b8e4a515c8bcd2349c66f3da&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mɑr.kɪt ri:.sɜrʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFya2V0IHJlc2VhcmNo&hash=f5119b88186760d0b8e4a515c8bcd2349c66f3da&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "maar.kit ri.sērch",
       "img": "https://cdn.langeek.co/photo/19803/original/marketing?type=jpeg",
       "pronunciation": "mˈɑːɹkɪt ɹɪsˈɜːtʃ",
       "senses": [
@@ -334,49 +349,30 @@
       ]
     },
     {
-      "word": "contract",
+      "id": "86bcf484-0382-4179-b0ec-f6a743ca625a",
+      "word": "to contract",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29udHJhY3Q&hash=dbc92c1f895c97fc8d360b561ebdc5d78c7be2d6&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:ntrækt",
+      "phonetic_text": "kɑnt.rækt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29udHJhY3Q&hash=dbc92c1f895c97fc8d360b561ebdc5d78c7be2d6&lang=en&cache-only=0",
-      "phonetic_am_text": "kaantrākt",
+      "phonetic_am_text": "kaant.rākt",
       "img": "https://cdn.langeek.co/photo/20770/original/contract?type=jpeg",
-      "pronunciation": "ˈkɑnˌtɹækt/, /kənˈtɹækt",
+      "pronunciation": "ˈkɑnˌtrækt",
       "senses": [
         {
           "definition": "to enter or make an official arrangement with someone",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The company contracted with a local supplier to provide raw materials for their manufacturing process."
-            },
-            {
-              "cf": "",
-              "x": "After months of negotiations, they finally contracted with a construction firm to build their new office building."
-            },
-            {
-              "cf": "",
-              "x": "The artist contracted with a gallery to showcase their work in an upcoming exhibition."
-            },
-            {
-              "cf": "",
-              "x": "The city government contracted with a waste management company to handle garbage collection and disposal services."
-            },
-            {
-              "cf": "",
-              "x": "She contracted with a freelance writer to help her with content creation for her website."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "establish",
+      "id": "5e50ec4e-ac9a-45f0-ad50-42cdedb20e39",
+      "word": "to establish",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZXN0YWJsaXNo&hash=bc61c08c86d0e48ae071c62bc0ffeafa7c3eeeb4&lang=en&cache-only=0",
-      "phonetic_text": "ɪstæblɪʃ",
+      "phonetic_text": "ɪs.tæb.lɪʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZXN0YWJsaXNo&hash=bc61c08c86d0e48ae071c62bc0ffeafa7c3eeeb4&lang=en&cache-only=0",
-      "phonetic_am_text": "istāblish",
+      "phonetic_am_text": "is.tāb.lish",
       "img": "https://cdn.langeek.co/photo/27796/original/?type=jpeg",
       "pronunciation": "ɪˈstæbɫɪʃ",
       "senses": [
@@ -408,12 +404,13 @@
       ]
     },
     {
-      "word": "found",
+      "id": "9f73a25c-551a-414f-91ec-48644d1524e9",
+      "word": "to found",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZm91bmQ&hash=37e6189e549f885226d791d1d8fb477cbf6f6ec5&lang=en&cache-only=0",
       "phonetic_text": "faʊnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZm91bmQ&hash=37e6189e549f885226d791d1d8fb477cbf6f6ec5&lang=en&cache-only=0",
-      "phonetic_am_text": "fawnd",
+      "phonetic_am_text": "faoond",
       "img": "https://cdn.langeek.co/photo/52985/original/?type=jpeg",
       "pronunciation": "ˈfaʊnd",
       "senses": [
@@ -441,12 +438,13 @@
       ]
     },
     {
-      "word": "fund",
+      "id": "c5a66afd-154f-4b11-abe7-b8216d45cbe6",
+      "word": "to fund",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZnVuZA&hash=75db28e1fed9174b81a974449f60f2f5a3991b9a&lang=en&cache-only=0",
-      "phonetic_text": "fʌnd",
+      "phonetic_text": "fənd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZnVuZA&hash=75db28e1fed9174b81a974449f60f2f5a3991b9a&lang=en&cache-only=0",
-      "phonetic_am_text": "fand",
+      "phonetic_am_text": "fēnd",
       "img": "https://cdn.langeek.co/photo/48241/original/?type=jpeg",
       "pronunciation": "ˈfənd",
       "senses": [
@@ -474,12 +472,13 @@
       ]
     },
     {
-      "word": "manufacture",
+      "id": "251e0001-6d9a-40b4-96ef-cf6e754833ad",
+      "word": "to manufacture",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFudWZhY3R1cmU&hash=4872bdecc607fa1c7286cee47b3a6670620979ad&lang=en&cache-only=0",
-      "phonetic_text": "mænjəfækʧər",
+      "phonetic_text": "mæn.jə.fæk.ʧɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFudWZhY3R1cmU&hash=4872bdecc607fa1c7286cee47b3a6670620979ad&lang=en&cache-only=0",
-      "phonetic_am_text": "mānyēfākchēr",
+      "phonetic_am_text": "mān.yē.fāk.chēr",
       "img": "https://cdn.langeek.co/photo/20772/original/manufacture?type=jpeg",
       "pronunciation": "ˌmænjəˈfæktʃɝ",
       "senses": [
@@ -511,12 +510,13 @@
       ]
     },
     {
-      "word": "launch",
+      "id": "f8f074e6-3179-40c7-8198-5d2ae34ca392",
+      "word": "to launch",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGF1bmNo&hash=6be157bb7adbfd46acdf7008486bc0ca35b8c1fb&lang=en&cache-only=0",
-      "phonetic_text": "lɔ:nʧ",
+      "phonetic_text": "lɔnʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGF1bmNo&hash=6be157bb7adbfd46acdf7008486bc0ca35b8c1fb&lang=en&cache-only=0",
-      "phonetic_am_text": "laawnch",
+      "phonetic_am_text": "lawnch",
       "img": "https://cdn.langeek.co/photo/27796/original/?type=jpeg",
       "pronunciation": "ˈɫɔntʃ",
       "senses": [
@@ -544,7 +544,8 @@
       ]
     },
     {
-      "word": "ship",
+      "id": "16ceaa29-2b05-436a-852e-6acde1458ba5",
+      "word": "to ship",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2hpcA&hash=35da5aec7234816da5b68bf16d7913e00742bc51&lang=en&cache-only=0",
       "phonetic_text": "ʃɪp",
@@ -569,12 +570,13 @@
       ]
     },
     {
-      "word": "sponsor",
+      "id": "c35c549b-b65f-414a-bd75-096105ecb3d3",
+      "word": "to sponsor",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3BvbnNvcg&hash=6012407a48941c566e64eec376296c07256aac49&lang=en&cache-only=0",
-      "phonetic_text": "spɑ:nsər",
+      "phonetic_text": "spɑn.sɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3BvbnNvcg&hash=6012407a48941c566e64eec376296c07256aac49&lang=en&cache-only=0",
-      "phonetic_am_text": "spaansēr",
+      "phonetic_am_text": "spaan.sēr",
       "img": "https://cdn.langeek.co/photo/48255/original/?type=jpeg",
       "pronunciation": "ˈspɑnsɝ",
       "senses": [
@@ -606,12 +608,13 @@
       ]
     },
     {
+      "id": "9e2ab352-f750-482c-972b-73eb5838c6ef",
       "word": "strategy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RyYXRlZ3k&hash=6c0e2570d309c247f0d10e2df78b7444d4d39847&lang=en&cache-only=0",
-      "phonetic_text": "strætəʤi",
+      "phonetic_text": "stræ.tə.ʤi",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyYXRlZ3k&hash=6c0e2570d309c247f0d10e2df78b7444d4d39847&lang=en&cache-only=0",
-      "phonetic_am_text": "strātēji",
+      "phonetic_am_text": "strā.tē.ji",
       "img": "",
       "pronunciation": "ˈstɹætədʒi",
       "senses": [
@@ -643,12 +646,13 @@
       ]
     },
     {
+      "id": "2307cc47-8e95-4cd4-8c98-dee9cf0faf60",
       "word": "partnership",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFydG5lcnNoaXA&hash=dedb71a6b62df413238736046360ea43b233dd19&lang=en&cache-only=0",
-      "phonetic_text": "pɑ:rtnərʃɪp",
+      "phonetic_text": "pɑrt.nɜr.ʃɪp",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFydG5lcnNoaXA&hash=dedb71a6b62df413238736046360ea43b233dd19&lang=en&cache-only=0",
-      "phonetic_am_text": "paartnērship",
+      "phonetic_am_text": "paart.nēr.ship",
       "img": "https://cdn.langeek.co/photo/20766/original/partnership?type=jpeg",
       "pronunciation": "ˈpɑɹtnɝˌʃɪp",
       "senses": [
@@ -676,12 +680,13 @@
       ]
     },
     {
+      "id": "f24f314c-709b-480b-927a-44643b1a0fc7",
       "word": "profit margin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvZml0IG1hcmdpbg&hash=9e48395594525553c5c3c02129c9a0d4d3f7d974&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "prɑ.fət mɑr.ʤən",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvZml0IG1hcmdpbg&hash=9e48395594525553c5c3c02129c9a0d4d3f7d974&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "praa.fēt maar.jēn",
       "img": "",
       "pronunciation": "pɹˈɑːfɪt mˈɑːɹdʒɪn",
       "senses": [
@@ -713,12 +718,13 @@
       ]
     },
     {
+      "id": "6797df3b-3258-4ca2-8e77-f72c43e2e600",
       "word": "stockholder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RvY2tob2xkZXI&hash=ff60094036e8533b49f26f6fb7e814c51e70c17e&lang=en&cache-only=0",
-      "phonetic_text": "stɑ:khoʊldər",
+      "phonetic_text": "stɑk.hoʊl.dər",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RvY2tob2xkZXI&hash=ff60094036e8533b49f26f6fb7e814c51e70c17e&lang=en&cache-only=0",
-      "phonetic_am_text": "staakhowldēr",
+      "phonetic_am_text": "staak.hoool.dēr",
       "img": "",
       "pronunciation": "ˈstɑkˌhoʊɫdɝ",
       "senses": [
@@ -746,12 +752,13 @@
       ]
     },
     {
+      "id": "4479cade-e727-4670-9a00-dff53c31616d",
       "word": "union",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dW5pb24&hash=f031e9729789d3c9ee870c41949bbb5141281ef2&lang=en&cache-only=0",
-      "phonetic_text": "ju:njən",
+      "phonetic_text": "jun.jən",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5pb24&hash=f031e9729789d3c9ee870c41949bbb5141281ef2&lang=en&cache-only=0",
-      "phonetic_am_text": "yoonyēn",
+      "phonetic_am_text": "yoon.yēn",
       "img": "",
       "pronunciation": "ˈjunjən",
       "senses": [
@@ -783,12 +790,13 @@
       ]
     },
     {
+      "id": "b5519402-8640-4c3c-8b92-6e8d35dea859",
       "word": "tax evasion",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGF4IGV2YXNpb24&hash=048cf01182d2b05af4313537976c62042a10a738&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tæks i.veɪ.ʒən",
       "phonetic_am": "https://tts.langeek.co/read?text=dGF4IGV2YXNpb24&hash=048cf01182d2b05af4313537976c62042a10a738&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tāks i.vei.zhēn",
       "img": "",
       "pronunciation": "tˈæks ɪvˈeɪʒən",
       "senses": [
@@ -820,12 +828,13 @@
       ]
     },
     {
+      "id": "8e96e3e7-5611-4528-b1b6-db21562b4d9f",
       "word": "shipment",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2hpcG1lbnQ&hash=cb7329a82cf80690f0bf6082e99eeb48cd0717bb&lang=en&cache-only=0",
-      "phonetic_text": "ʃɪpmənt",
+      "phonetic_text": "ʃɪp.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hpcG1lbnQ&hash=cb7329a82cf80690f0bf6082e99eeb48cd0717bb&lang=en&cache-only=0",
-      "phonetic_am_text": "shipmēnt",
+      "phonetic_am_text": "ship.mēnt",
       "img": "",
       "pronunciation": "ˈʃɪpmənt",
       "senses": [
@@ -853,12 +862,13 @@
       ]
     },
     {
+      "id": "701e9d50-db9e-4ea1-90df-26a997fc956b",
       "word": "fortune",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9ydHVuZQ&hash=d19accb73a8d45fe2a21e179b561988236657952&lang=en&cache-only=0",
-      "phonetic_text": "fɔ:rʧən",
+      "phonetic_text": "fɔr.ʧən",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9ydHVuZQ&hash=d19accb73a8d45fe2a21e179b561988236657952&lang=en&cache-only=0",
-      "phonetic_am_text": "faawrchēn",
+      "phonetic_am_text": "fawr.chēn",
       "img": "https://cdn.langeek.co/photo/20764/original/fortune?type=jpeg",
       "pronunciation": "ˈfɔɹtʃən/, /ˈfɔɹtʃun",
       "senses": [
@@ -890,12 +900,13 @@
       ]
     },
     {
+      "id": "4a6de182-44a9-4518-8158-8fb74566d672",
       "word": "savings",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2F2aW5ncw&hash=a79eee892234624c808a4bba1d55443ad7a6ea46&lang=en&cache-only=0",
-      "phonetic_text": "seɪvɪngz",
+      "phonetic_text": "seɪ.vɪngz",
       "phonetic_am": "https://tts.langeek.co/read?text=c2F2aW5ncw&hash=a79eee892234624c808a4bba1d55443ad7a6ea46&lang=en&cache-only=0",
-      "phonetic_am_text": "seivingz",
+      "phonetic_am_text": "sei.vingz",
       "img": "https://cdn.langeek.co/photo/20768/original/savings?type=jpeg",
       "pronunciation": "ˈseɪvɪŋz",
       "senses": [
@@ -915,13 +926,14 @@
       ]
     },
     {
+      "id": "14f90fa9-49b3-493f-b502-653b1e6b7d43",
       "word": "wealthy",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=d2VhbHRoeQ&hash=edf90607383fc687f7013fa23e0d843cafb6bb98&lang=en&cache-only=0",
-      "phonetic_text": "wɛlθi",
+      "phonetic_text": "wɛl.θi",
       "phonetic_am": "https://tts.langeek.co/read?text=d2VhbHRoeQ&hash=edf90607383fc687f7013fa23e0d843cafb6bb98&lang=en&cache-only=0",
-      "phonetic_am_text": "welthi",
-      "img": "https://cdn.langeek.co/photo/20774/original/wealthy?type=jpeg",
+      "phonetic_am_text": "vel.thi",
+      "img": "https://cdn.langeek.co/photo/60616/original/wealthy?type=jpeg",
       "pronunciation": "ˈwɛɫθi",
       "senses": [
         {
@@ -952,12 +964,13 @@
       ]
     },
     {
-      "word": "come down",
+      "id": "d9156c73-8fb6-4a89-9ed5-fa595f1e8928",
+      "word": "to come down",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29tZSBkb3du&hash=384eaf508c8d618bcbf3001ba14d1f7c2f5e0ea1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kʌm daʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29tZSBkb3du&hash=384eaf508c8d618bcbf3001ba14d1f7c2f5e0ea1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kam daoon",
       "img": "https://cdn.langeek.co/photo/27794/original/?type=jpeg",
       "pronunciation": "kˈʌm dˈaʊn",
       "senses": [
@@ -989,12 +1002,13 @@
       ]
     },
     {
-      "word": "live on",
+      "id": "6f9b5d25-a3d3-45f9-bd61-12992952fa9f",
+      "word": "to live on",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGl2ZSBvbg&hash=3e750920055ffd5ea12693831a22b146f14c9682&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɪv ɑ:n",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGl2ZSBvbg&hash=3e750920055ffd5ea12693831a22b146f14c9682&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "liv aan",
       "img": "",
       "pronunciation": "lˈaɪv ˈɑːn",
       "senses": [
@@ -1022,14 +1036,15 @@
       ]
     },
     {
-      "word": "pay off",
+      "id": "26c7048c-c153-47f2-a94d-d9208b648822",
+      "word": "to pay off",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGF5IG9mZg&hash=0d04632768329e0ba8e524f40b504768e295e952&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "peɪ ɑf",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGF5IG9mZg&hash=0d04632768329e0ba8e524f40b504768e295e952&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pei aaf",
       "img": "",
-      "pronunciation": "pˈeɪ ˈɔf",
+      "pronunciation": "peɪ af",
       "senses": [
         {
           "definition": "to give the full amount of money owed on a debt or loan",
@@ -1051,43 +1066,32 @@
       ]
     },
     {
-      "word": "set aside",
+      "id": "c22dee3a-3ee8-46c8-a434-eb3d66ef9d91",
+      "word": "to set aside",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2V0IGFzaWRl&hash=f6afb837a18e61ad5797628472529631cd260e6d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛt ə.saɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2V0IGFzaWRl&hash=f6afb837a18e61ad5797628472529631cd260e6d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "set ē.said",
       "img": "https://cdn.langeek.co/photo/54509/original/?type=jpeg",
       "pronunciation": "sˈɛt ɐsˈaɪd",
       "senses": [
         {
           "definition": "to keep or save money, time, etc. for a specific purpose",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The family set aside a portion of their income for emergency expenses."
-            },
-            {
-              "cf": "",
-              "x": "It's essential to set aside a portion of your earnings for retirement."
-            },
-            {
-              "cf": "",
-              "x": "They always set aside a percentage of their profits for charity."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "1d6fff53-4470-4958-b9b3-45bb69cdf033",
       "word": "discount",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzY291bnQ&hash=7e4837558d7b20a529bcab300f5196d322b7d664&lang=en&cache-only=0",
-      "phonetic_text": "dɪskaʊnt",
+      "phonetic_text": "dɪs.kaʊnt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzY291bnQ&hash=7e4837558d7b20a529bcab300f5196d322b7d664&lang=en&cache-only=0",
-      "phonetic_am_text": "diskawnt",
+      "phonetic_am_text": "dis.kaoont",
       "img": "https://cdn.langeek.co/photo/19610/original/discount?type=jpeg",
-      "pronunciation": "ˈdɪskaʊnt/, /dɪˈskaʊnt",
+      "pronunciation": "ˈdɪskaʊnt",
       "senses": [
         {
           "definition": "the act of reducing the usual price of something",
@@ -1117,12 +1121,13 @@
       ]
     },
     {
+      "id": "cd22db4e-acf7-4ff0-9d8d-fd6a58b50d82",
       "word": "fee",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmVl&hash=00f7afcc7d5f95ee20e5151e1d7c94a6050717c3&lang=en&cache-only=0",
-      "phonetic_text": "fi:",
+      "phonetic_text": "fi",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmVl&hash=00f7afcc7d5f95ee20e5151e1d7c94a6050717c3&lang=en&cache-only=0",
-      "phonetic_am_text": "fee",
+      "phonetic_am_text": "fi",
       "img": "https://cdn.langeek.co/photo/20762/original/fee?type=jpeg",
       "pronunciation": "ˈfi",
       "senses": [
@@ -1154,12 +1159,13 @@
       ]
     },
     {
+      "id": "0a90d3b9-9829-4c11-a45c-aa4b831a4c81",
       "word": "lending",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGVuZGluZw&hash=cab35271edc4a77ff994421feff39cd0a41abde6&lang=en&cache-only=0",
-      "phonetic_text": "lɛndɪng",
+      "phonetic_text": "lɛn.dɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVuZGluZw&hash=cab35271edc4a77ff994421feff39cd0a41abde6&lang=en&cache-only=0",
-      "phonetic_am_text": "lending",
+      "phonetic_am_text": "len.ding",
       "img": "",
       "pronunciation": "ˈɫɛndɪŋ",
       "senses": [
@@ -1183,12 +1189,13 @@
       ]
     },
     {
+      "id": "252763eb-93a4-4953-99e1-dc58777242b1",
       "word": "senior",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c2VuaW9y&hash=19ee5486c2c13ed16410985c096a1e7595241498&lang=en&cache-only=0",
-      "phonetic_text": "si:njər",
+      "phonetic_text": "si:.niər",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VuaW9y&hash=19ee5486c2c13ed16410985c096a1e7595241498&lang=en&cache-only=0",
-      "phonetic_am_text": "seenyēr",
+      "phonetic_am_text": "si.niēr",
       "img": "https://cdn.langeek.co/photo/50585/original/manager?type=jpeg",
       "pronunciation": "ˈsiːniɚ",
       "senses": [
@@ -1224,14 +1231,15 @@
       ]
     },
     {
+      "id": "9b168858-eaef-4cf7-b1f3-b6eb10d6f948",
       "word": "junior",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=anVuaW9y&hash=c7424e2be0cfd4f6f2d82fe6649ed88ef6dd73c7&lang=en&cache-only=0",
-      "phonetic_text": "ʤu:njər",
+      "phonetic_text": "ʤu:.niər",
       "phonetic_am": "https://tts.langeek.co/read?text=anVuaW9y&hash=c7424e2be0cfd4f6f2d82fe6649ed88ef6dd73c7&lang=en&cache-only=0",
-      "phonetic_am_text": "joonyēr",
+      "phonetic_am_text": "joo.niēr",
       "img": "https://cdn.langeek.co/photo/16740/original/assistant?type=jpeg",
-      "pronunciation": "ˈdʒuːniɚ",
+      "pronunciation": "ˈʤuːnjɚ",
       "senses": [
         {
           "definition": "lower in rank or position compared to someone else wthin a work environment",
@@ -1261,12 +1269,13 @@
       ]
     },
     {
-      "word": "speak",
+      "id": "86331dcf-b82c-42e4-847f-926c1b166a08",
+      "word": "to speak",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3BlYWs&hash=6d30ebf9b713503cc57376e8cc08814ebaa9f248&lang=en&cache-only=0",
       "phonetic_text": "spi:k",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3BlYWs&hash=6d30ebf9b713503cc57376e8cc08814ebaa9f248&lang=en&cache-only=0",
-      "phonetic_am_text": "speek",
+      "phonetic_am_text": "spik",
       "img": "https://cdn.langeek.co/photo/40549/original/speak?type=jpeg",
       "pronunciation": "spiːk",
       "senses": [
@@ -1290,12 +1299,13 @@
       ]
     },
     {
+      "id": "3b739e2e-3fe6-4780-b02c-e1d552d34a10",
       "word": "chief executive officer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hpZWYgZXhlY3V0aXZlIG9mZmljZXI&hash=ddf1fd2cee44c1d78a61ec862c5475a38e51ced8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧif ɪ.gzɛk.jə.tɪv ɔ.fə.sɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hpZWYgZXhlY3V0aXZlIG9mZmljZXI&hash=ddf1fd2cee44c1d78a61ec862c5475a38e51ced8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chif i.gzek.yē.tiv aw.fē.sēr",
       "img": "https://cdn.langeek.co/photo/40741/original/boss?type=jpeg",
       "pronunciation": "tʃˈiːf ɛɡzˈɛkjuːtˌɪv ˈɑːfɪsɚ",
       "senses": [

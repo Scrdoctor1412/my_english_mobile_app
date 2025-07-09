@@ -1,15 +1,17 @@
 {
+  "id": "d5a6b63c-e358-402a-acf2-1ef839bb27f6",
   "topic": "c1_level",
   "title": "Cooking",
   "lesson": "lesson_49",
   "word_list": [
     {
+      "id": "72de0f14-4742-47ff-9d2d-da0016b2a8fb",
       "word": "batter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmF0dGVy&hash=45d06a3a8cdd0b669aa91421a536f66cc645dbf3&lang=en&cache-only=0",
-      "phonetic_text": "bætər",
+      "phonetic_text": "bæ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=YmF0dGVy&hash=45d06a3a8cdd0b669aa91421a536f66cc645dbf3&lang=en&cache-only=0",
-      "phonetic_am_text": "bātēr",
+      "phonetic_am_text": "bā.tēr",
       "img": "https://cdn.langeek.co/photo/20940/original/?type=jpeg",
       "pronunciation": "ˈbætər",
       "senses": [
@@ -33,7 +35,8 @@
       ]
     },
     {
-      "word": "blend",
+      "id": "d99be589-bff7-4d95-a367-9fcee590aee1",
+      "word": "to blend",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmxlbmQ&hash=b8d6a5b713355a315a955fa4cb1e86915fac61f2&lang=en&cache-only=0",
       "phonetic_text": "blɛnd",
@@ -66,10 +69,11 @@
       ]
     },
     {
-      "word": "carve",
+      "id": "0f0c3b18-89e5-402b-aed2-0ce9adfd82bc",
+      "word": "to carve",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2FydmU&hash=58bf5e39e55af095aa85d87a7b1b7c82bb865e3e&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:rv",
+      "phonetic_text": "kɑrv",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2FydmU&hash=58bf5e39e55af095aa85d87a7b1b7c82bb865e3e&lang=en&cache-only=0",
       "phonetic_am_text": "kaarv",
       "img": "https://cdn.langeek.co/photo/26467/original/?type=jpeg",
@@ -103,12 +107,13 @@
       ]
     },
     {
-      "word": "deep-fry",
+      "id": "fe82c107-aed1-4a60-8f18-1c97590913f4",
+      "word": "to deep-fry",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVlcC1mcnk&hash=5eae94f214e05cee76b49d4996a8f266743c4dc0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dip-fraɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVlcC1mcnk&hash=5eae94f214e05cee76b49d4996a8f266743c4dc0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dip-frai",
       "img": "https://cdn.langeek.co/photo/20942/original/?type=jpeg",
       "pronunciation": "dˈiːpfɹˈaɪ",
       "senses": [
@@ -119,12 +124,13 @@
       ]
     },
     {
-      "word": "defrost",
+      "id": "9532fb10-ef45-49fe-93ad-dfe61840ff5b",
+      "word": "to defrost",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVmcm9zdA&hash=787030f4f0cde55964064a83075237382ec503a0&lang=en&cache-only=0",
-      "phonetic_text": "dɪfrɔ:st",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVmcm9zdA&hash=787030f4f0cde55964064a83075237382ec503a0&lang=en&cache-only=0",
-      "phonetic_am_text": "difraawst",
+      "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/32736/original/?type=jpeg",
       "pronunciation": "dɪˈfɹɔst",
       "senses": [
@@ -156,12 +162,13 @@
       ]
     },
     {
-      "word": "digest",
+      "id": "321e648c-9de5-45dd-9a7c-2460fa7cd1a8",
+      "word": "to digest",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlnZXN0&hash=91b73f22d97e2543311eaf7b1551ae19d879db41&lang=en&cache-only=0",
-      "phonetic_text": "daɪʤɛst",
+      "phonetic_text": "daɪ.ʤɛst",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlnZXN0&hash=91b73f22d97e2543311eaf7b1551ae19d879db41&lang=en&cache-only=0",
-      "phonetic_am_text": "daijest",
+      "phonetic_am_text": "dai.jest",
       "img": "https://cdn.langeek.co/photo/59050/original/?type=jpeg",
       "pronunciation": "ˈdaɪdʒɛst/, /daɪˈdʒɛst",
       "senses": [
@@ -189,7 +196,8 @@
       ]
     },
     {
-      "word": "mash",
+      "id": "eda3238c-12fe-4152-b591-481dd49fe119",
+      "word": "to mash",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFzaA&hash=5da03b308fe1038cb36c384ad296854f4854c2de&lang=en&cache-only=0",
       "phonetic_text": "mæʃ",
@@ -226,10 +234,11 @@
       ]
     },
     {
-      "word": "reheat",
+      "id": "0105ef0c-881b-4d6e-bc97-68fb8c50f015",
+      "word": "to reheat",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVoZWF0&hash=642f757e58f7adc663f5eab88408031a9c65dc0f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVoZWF0&hash=642f757e58f7adc663f5eab88408031a9c65dc0f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/20964/original/?type=jpeg",
@@ -263,7 +272,8 @@
       ]
     },
     {
-      "word": "grate",
+      "id": "8ccc5e45-ba33-4f81-85a7-d5b8c85f58c5",
+      "word": "to grate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ3JhdGU&hash=a77fc48b14d3df0c1694bca702d1b7eefbc6fa8f&lang=en&cache-only=0",
       "phonetic_text": "greɪt",
@@ -296,7 +306,8 @@
       ]
     },
     {
-      "word": "grind",
+      "id": "2e24039e-cd7a-41cb-b757-fa1950020389",
+      "word": "to grind",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ3JpbmQ&hash=7b0568f3a208ec1a90ed1934d8f68ffbb907fde0&lang=en&cache-only=0",
       "phonetic_text": "graɪnd",
@@ -325,12 +336,13 @@
       ]
     },
     {
-      "word": "simmer",
+      "id": "e6bf9da3-5d3c-4ac9-8f33-ead73c3c4a93",
+      "word": "to simmer",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2ltbWVy&hash=4945d2fe56fb42d44d9e1ad8b0e7c8bdec420df2&lang=en&cache-only=0",
-      "phonetic_text": "sɪmər",
+      "phonetic_text": "sɪ.mɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2ltbWVy&hash=4945d2fe56fb42d44d9e1ad8b0e7c8bdec420df2&lang=en&cache-only=0",
-      "phonetic_am_text": "simēr",
+      "phonetic_am_text": "si.mēr",
       "img": "https://cdn.langeek.co/photo/27057/original/boil?type=jpeg",
       "pronunciation": "ˈsɪmɝ",
       "senses": [
@@ -358,12 +370,13 @@
       ]
     },
     {
-      "word": "steam",
+      "id": "b09441b6-ce0a-4cc1-8764-7d4f9a235b66",
+      "word": "to steam",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RlYW0&hash=51299a7a10b35fa0a9693178b8c1a3e513543e17&lang=en&cache-only=0",
-      "phonetic_text": "sti:m",
+      "phonetic_text": "stim",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RlYW0&hash=51299a7a10b35fa0a9693178b8c1a3e513543e17&lang=en&cache-only=0",
-      "phonetic_am_text": "steem",
+      "phonetic_am_text": "stim",
       "img": "https://cdn.langeek.co/photo/26668/original/?type=jpeg",
       "pronunciation": "ˈstim",
       "senses": [
@@ -395,14 +408,15 @@
       ]
     },
     {
-      "word": "stew",
+      "id": "73b0d051-326c-48f8-9d89-d729ba8c40cb",
+      "word": "to stew",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3Rldw&hash=58d88082b9e667491f392828cde919fbb1b3ac69&lang=en&cache-only=0",
-      "phonetic_text": "stu:",
+      "phonetic_text": "stu",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3Rldw&hash=58d88082b9e667491f392828cde919fbb1b3ac69&lang=en&cache-only=0",
       "phonetic_am_text": "stoo",
       "img": "https://cdn.langeek.co/photo/21074/original/?type=jpeg",
-      "pronunciation": "ˈstu",
+      "pronunciation": "stuː",
       "senses": [
         {
           "definition": "to cook something at a low temperature in liquid in a closed container",
@@ -424,12 +438,13 @@
       ]
     },
     {
-      "word": "warm up",
+      "id": "4d122b7b-9c87-4bab-aa11-5f88e6982c84",
+      "word": "to warm up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2FybSB1cA&hash=487eac85bdefc920120eda9b47329e5c42e43f32&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɔrm ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2FybSB1cA&hash=487eac85bdefc920120eda9b47329e5c42e43f32&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vawrm ap",
       "img": "https://cdn.langeek.co/photo/20964/original/?type=jpeg",
       "pronunciation": "wˈɔːɹm ˈʌp",
       "senses": [
@@ -440,14 +455,15 @@
       ]
     },
     {
-      "word": "whip",
+      "id": "91c2d0d8-a3fc-45ca-bb61-19ceb37679b6",
+      "word": "to whip",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2hpcA&hash=cf7ad5bf2dfa378563a955a75b892cb465d15821&lang=en&cache-only=0",
-      "phonetic_text": "wɪp",
+      "phonetic_text": "hwɪp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2hpcA&hash=cf7ad5bf2dfa378563a955a75b892cb465d15821&lang=en&cache-only=0",
-      "phonetic_am_text": "wip",
+      "phonetic_am_text": "hvip",
       "img": "https://cdn.langeek.co/photo/20940/original/?type=jpeg",
-      "pronunciation": "ˈhwɪp/, /ˈwɪp",
+      "pronunciation": "wɪp",
       "senses": [
         {
           "definition": "to mix ingredients with a wire whisk or fork in cooking or baking to achieve a specific texture",
@@ -469,12 +485,13 @@
       ]
     },
     {
-      "word": "squeeze",
+      "id": "08ae433a-ddd5-493f-8f7d-b3dbf54af573",
+      "word": "to squeeze",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3F1ZWV6ZQ&hash=29b4a909232f20ce4c9a788df2d43ff44270622d&lang=en&cache-only=0",
-      "phonetic_text": "skwi:z",
+      "phonetic_text": "skwiz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3F1ZWV6ZQ&hash=29b4a909232f20ce4c9a788df2d43ff44270622d&lang=en&cache-only=0",
-      "phonetic_am_text": "skweez",
+      "phonetic_am_text": "skviz",
       "img": "https://cdn.langeek.co/photo/31998/original/?type=jpeg",
       "pronunciation": "ˈskwiz",
       "senses": [
@@ -506,6 +523,7 @@
       ]
     },
     {
+      "id": "9fa3e36f-9aa2-467c-a857-6924d7299a6a",
       "word": "bland",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YmxhbmQ&hash=7fb5362cf71279ab0c337a5b58f558fcb2965437&lang=en&cache-only=0",
@@ -539,12 +557,13 @@
       ]
     },
     {
+      "id": "7d7dfeb2-54ee-43ae-a232-06eb89209c1a",
       "word": "chunky",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y2h1bmt5&hash=09fd6d451d8976b6a9c2cdb713a87dcdcb937299&lang=en&cache-only=0",
-      "phonetic_text": "ʧʌnki",
+      "phonetic_text": "ʧən.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2h1bmt5&hash=09fd6d451d8976b6a9c2cdb713a87dcdcb937299&lang=en&cache-only=0",
-      "phonetic_am_text": "chanki",
+      "phonetic_am_text": "chēn.ki",
       "img": "https://cdn.langeek.co/photo/30928/original/?type=jpeg",
       "pronunciation": "ˈtʃəŋki",
       "senses": [
@@ -568,10 +587,11 @@
       ]
     },
     {
+      "id": "0d6c2bac-c296-4bb5-924b-781d919b0147",
       "word": "chewy",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y2hld3k&hash=829d0faecc27ab28a9dbed4c07f0c64479243214&lang=en&cache-only=0",
-      "phonetic_text": "ʧu:i",
+      "phonetic_text": "ʧui",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hld3k&hash=829d0faecc27ab28a9dbed4c07f0c64479243214&lang=en&cache-only=0",
       "phonetic_am_text": "chooi",
       "img": "https://cdn.langeek.co/photo/32680/original/?type=jpeg",
@@ -597,14 +617,15 @@
       ]
     },
     {
+      "id": "b05b0c64-c62a-46d2-ad9f-dc7dd54133e5",
       "word": "creamy",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y3JlYW15&hash=c4ead45852dff5b488118017a94b157d434cfd8e&lang=en&cache-only=0",
-      "phonetic_text": "kri:mi",
+      "phonetic_text": "kri.mi",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3JlYW15&hash=c4ead45852dff5b488118017a94b157d434cfd8e&lang=en&cache-only=0",
-      "phonetic_am_text": "kreemi",
+      "phonetic_am_text": "kri.mi",
       "img": "https://cdn.langeek.co/photo/26728/original/?type=jpeg",
-      "pronunciation": "ˈkɹimi",
+      "pronunciation": "ˈkriːmi",
       "senses": [
         {
           "definition": "having a smooth and soft texture",
@@ -630,12 +651,13 @@
       ]
     },
     {
+      "id": "0a1d9622-066e-4fc3-a596-a8dd5e28a541",
       "word": "crispy",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y3Jpc3B5&hash=4b8b0949bc3aa8b2240074ced108c7560f32d9b8&lang=en&cache-only=0",
-      "phonetic_text": "krɪspi",
+      "phonetic_text": "krɪs.pi",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3Jpc3B5&hash=4b8b0949bc3aa8b2240074ced108c7560f32d9b8&lang=en&cache-only=0",
-      "phonetic_am_text": "krispi",
+      "phonetic_am_text": "kris.pi",
       "img": "https://cdn.langeek.co/photo/15681/original/potato-chip?type=jpeg",
       "pronunciation": "ˈkɹɪspi",
       "senses": [
@@ -646,12 +668,13 @@
       ]
     },
     {
+      "id": "6e2383b9-ac0b-425d-b8ee-bf68714b09c7",
       "word": "crunchy",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y3J1bmNoeQ&hash=fa5b7b0dac5f1b17ddd6b1f1eb19b8f030e032a3&lang=en&cache-only=0",
-      "phonetic_text": "krʌnʧi",
+      "phonetic_text": "krən.ʧi",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3J1bmNoeQ&hash=fa5b7b0dac5f1b17ddd6b1f1eb19b8f030e032a3&lang=en&cache-only=0",
-      "phonetic_am_text": "kranchi",
+      "phonetic_am_text": "krēn.chi",
       "img": "https://cdn.langeek.co/photo/15681/original/potato-chip?type=jpeg",
       "pronunciation": "ˈkɹəntʃi",
       "senses": [
@@ -683,12 +706,13 @@
       ]
     },
     {
+      "id": "194581b3-fc66-41b6-b2eb-79c327aeeded",
       "word": "tinned",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dGlubmVk&hash=0633c18733513742ebb4a05dec7e266a8d9dd415&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɪnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dGlubmVk&hash=0633c18733513742ebb4a05dec7e266a8d9dd415&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tind",
       "img": "https://cdn.langeek.co/photo/51572/original/?type=jpeg",
       "pronunciation": "tˈɪnd",
       "senses": [
@@ -699,12 +723,13 @@
       ]
     },
     {
+      "id": "75371def-a482-4ffc-a326-c32046fb92bd",
       "word": "appetite",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXBwZXRpdGU&hash=999638aec5315eb2becd865f433d1e32462313d9&lang=en&cache-only=0",
-      "phonetic_text": "æpətaɪt",
+      "phonetic_text": "æ.pə.taɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=YXBwZXRpdGU&hash=999638aec5315eb2becd865f433d1e32462313d9&lang=en&cache-only=0",
-      "phonetic_am_text": "āpētait",
+      "phonetic_am_text": "ā.pē.tait",
       "img": "https://cdn.langeek.co/photo/16023/original/delicious?type=jpeg",
       "pronunciation": "ˈæpəˌtaɪt",
       "senses": [
@@ -736,12 +761,13 @@
       ]
     },
     {
+      "id": "b0fb85b3-ed8b-4e0c-8144-96ed13234baf",
       "word": "banquet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFucXVldA&hash=5e8d849f4ebbd462de6b6d5bb07afc53281cbfcb&lang=en&cache-only=0",
-      "phonetic_text": "bænkwət",
+      "phonetic_text": "bænk.wət",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFucXVldA&hash=5e8d849f4ebbd462de6b6d5bb07afc53281cbfcb&lang=en&cache-only=0",
-      "phonetic_am_text": "bānkwēt",
+      "phonetic_am_text": "bānk.vēt",
       "img": "https://cdn.langeek.co/photo/32084/original/?type=jpeg",
       "pronunciation": "ˈbæŋkwət",
       "senses": [
@@ -773,12 +799,13 @@
       ]
     },
     {
+      "id": "2fc564b2-6fbd-4d09-8ce2-5a6f408b8e4f",
       "word": "feast",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmVhc3Q&hash=6b92abece3a8b748af54e5efce22cc78fdf87e79&lang=en&cache-only=0",
-      "phonetic_text": "fi:st",
+      "phonetic_text": "fist",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmVhc3Q&hash=6b92abece3a8b748af54e5efce22cc78fdf87e79&lang=en&cache-only=0",
-      "phonetic_am_text": "feest",
+      "phonetic_am_text": "fist",
       "img": "https://cdn.langeek.co/photo/32084/original/?type=jpeg",
       "pronunciation": "ˈfist",
       "senses": [
@@ -810,12 +837,13 @@
       ]
     },
     {
+      "id": "9f1841c7-8bfe-408e-980d-6cf3732da363",
       "word": "brunch",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJ1bmNo&hash=e721e840d0739db687eff6a6a096280525a12b5e&lang=en&cache-only=0",
-      "phonetic_text": "brʌnʧ",
+      "phonetic_text": "brənʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJ1bmNo&hash=e721e840d0739db687eff6a6a096280525a12b5e&lang=en&cache-only=0",
-      "phonetic_am_text": "branch",
+      "phonetic_am_text": "brēnch",
       "img": "https://cdn.langeek.co/photo/30866/original/?type=jpeg",
       "pronunciation": "ˈbɹəntʃ",
       "senses": [
@@ -839,12 +867,13 @@
       ]
     },
     {
+      "id": "d308f3da-7cf4-4388-8dcc-5aa1895dc36d",
       "word": "buffet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVmZmV0&hash=2fdc68f23739d81b0ef367d9802e48892bd3769f&lang=en&cache-only=0",
-      "phonetic_text": "bʌfət",
+      "phonetic_text": "bə.fət",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVmZmV0&hash=2fdc68f23739d81b0ef367d9802e48892bd3769f&lang=en&cache-only=0",
-      "phonetic_am_text": "bafēt",
+      "phonetic_am_text": "bē.fēt",
       "img": "https://cdn.langeek.co/photo/26554/original/?type=jpeg",
       "pronunciation": "ˈbəfət/, /bəˈfeɪ",
       "senses": [
@@ -876,12 +905,13 @@
       ]
     },
     {
+      "id": "5e4b4708-88ff-4e01-a5b6-c5500dda2204",
       "word": "teatime",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVhdGltZQ&hash=c2339e189f1811d035743c3363a125a06ed140f5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ti:.taɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVhdGltZQ&hash=c2339e189f1811d035743c3363a125a06ed140f5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ti.taim",
       "img": "https://cdn.langeek.co/photo/51220/original/?type=jpeg",
       "pronunciation": "tˈiːtaɪm",
       "senses": [
@@ -913,12 +943,13 @@
       ]
     },
     {
+      "id": "e4e01c4a-7bdb-428e-84f5-75cb6c7f19cd",
       "word": "corkscrew",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29ya3NjcmV3&hash=68cda47b792099849e310216b38ef53d50906ed3&lang=en&cache-only=0",
-      "phonetic_text": "kɔ:rkskru",
+      "phonetic_text": "kɔrk.skru",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29ya3NjcmV3&hash=68cda47b792099849e310216b38ef53d50906ed3&lang=en&cache-only=0",
-      "phonetic_am_text": "kaawrkskru",
+      "phonetic_am_text": "kawrk.skroo",
       "img": "https://cdn.langeek.co/photo/30744/original/?type=jpeg",
       "pronunciation": "ˈkɔɹksˌkɹu",
       "senses": [
@@ -950,12 +981,13 @@
       ]
     },
     {
+      "id": "908e4d65-54a3-455c-a0ac-793d765cbaad",
       "word": "glassware",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2xhc3N3YXJl&hash=154c531b206e111b5407d3b3ce7f0b47cb25cadd&lang=en&cache-only=0",
-      "phonetic_text": "glæswɛr",
+      "phonetic_text": "glæs.wɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2xhc3N3YXJl&hash=154c531b206e111b5407d3b3ce7f0b47cb25cadd&lang=en&cache-only=0",
-      "phonetic_am_text": "glāswer",
+      "phonetic_am_text": "glās.ver",
       "img": "https://cdn.langeek.co/photo/26566/original/?type=jpeg",
       "pronunciation": "ˈɡɫæsˌwɛɹ",
       "senses": [
@@ -979,12 +1011,13 @@
       ]
     },
     {
+      "id": "c5d07eb4-807a-437a-8478-48a9e6b062cb",
       "word": "tureen",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHVyZWVu&hash=48c87dca03e23d57d7159900d36373e01f377082&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tjə.ri:n",
       "phonetic_am": "https://tts.langeek.co/read?text=dHVyZWVu&hash=48c87dca03e23d57d7159900d36373e01f377082&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tyē.rin",
       "img": "https://cdn.langeek.co/photo/26854/original/?type=jpeg",
       "pronunciation": "tjɚɹˈiːn",
       "senses": [

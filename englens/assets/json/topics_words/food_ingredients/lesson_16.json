@@ -1,431 +1,781 @@
 {
+  "id": "881f2f93-271d-44f0-ba57-f03635b25bfe",
   "topic": "food_ingredients",
   "title": "Sauces, Dressings, and Condiments",
   "lesson": "lesson_16",
   "word_list": [
     {
+      "id": "ecba6cac-ce42-411d-a094-82267d715b2b",
       "word": "barbecue sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFyYmVjdWUgc2F1Y2U&hash=06fc9fadca4b557febdbc96ae4557fd4b95106b6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɑ:r.bɪ.kju: sɔ:s",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFyYmVjdWUgc2F1Y2U&hash=06fc9fadca4b557febdbc96ae4557fd4b95106b6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baar.bi.kyoo saws",
       "img": "https://cdn.langeek.co/photo/29078/original/?type=jpeg",
-      "pronunciation": "bˈɑːɹbɪkjˌuː sˈɔːs",
+      "pronunciation": "ˈbɑrbɪˌkjuː sɑs",
       "senses": [
         {
           "definition": "a sauce made with tomatoes, garlic, onion, vinegar, etc. that is usually served with barbecued food",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The food truck offered a unique twist on classic barbecue, featuring a spicy and tangy barbecue sauce with a hint of citrus."
+            },
+            {
+              "cf": "",
+              "x": "They gathered around the picnic table, passing around a bottle of barbecue sauce to enhance the flavor of their hamburgers."
+            },
+            {
+              "cf": "",
+              "x": "He slathered the ribs with a generous amount of barbecue sauce before placing them on the grill to caramelize."
+            },
+            {
+              "cf": "",
+              "x": "The homemade barbecue sauce had a perfect balance of sweetness and tanginess, making it an instant hit at the cookout."
+            },
+            {
+              "cf": "",
+              "x": "She marinated the chicken wings in spicy barbecue sauce overnight for maximum flavor."
+            },
+            {
+              "cf": "",
+              "x": "The pulled pork sandwich was topped with coleslaw and a drizzle of smoky barbecue sauce."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "fa5536ce-0432-473b-82a8-3a83bdc1260e",
       "word": "white sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2hpdGUgc2F1Y2U&hash=ef01fe2f33d1bee9daa08330d5b5cdb6e828b1d8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "waɪt sɔ:s",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hpdGUgc2F1Y2U&hash=ef01fe2f33d1bee9daa08330d5b5cdb6e828b1d8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vait saws",
       "img": "https://cdn.langeek.co/photo/21322/original/?type=jpeg",
       "pronunciation": "wˈaɪt sˈɔːs",
       "senses": [
         {
           "definition": "a rich sauce made with milk, flour, and butter",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She used white sauce to make a classic lasagna with layers of pasta and cheese."
+            },
+            {
+              "cf": "",
+              "x": "The recipe called for adding white sauce to the chicken and broccoli mixture for a comforting casserole."
+            },
+            {
+              "cf": "",
+              "x": "He prepared a homemade white sauce to drizzle over the roasted vegetables."
+            },
+            {
+              "cf": "",
+              "x": "The chef demonstrated how to make a velvety white sauce as a base for a pasta dish."
+            },
+            {
+              "cf": "",
+              "x": "The white sauce was enhanced with garlic and herbs to complement the fish."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "48fa459c-8b0f-4a6b-83fd-12262250a91b",
       "word": "hot sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG90IHNhdWNl&hash=f87e327392df87c4d6c8f2ec21c0b9bdd2e28178&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɑ:t sɔ:s",
       "phonetic_am": "https://tts.langeek.co/read?text=aG90IHNhdWNl&hash=f87e327392df87c4d6c8f2ec21c0b9bdd2e28178&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "haat saws",
       "img": "https://cdn.langeek.co/photo/30988/original/?type=jpeg",
       "pronunciation": "hˈɑːt sˈɔːs",
       "senses": [
         {
           "definition": "a spicy condiment typically made from chili peppers and other ingredients",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "As soon as the hot sauce touched his lips, he felt a rush of heat spreading throughout his mouth."
+            },
+            {
+              "cf": "",
+              "x": "When I tasted the hot sauce, my taste buds were instantly awakened by its intense heat and bold flavor."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b16e57f5-b4fb-49c2-9f60-1ad16fbfd1ea",
       "word": "tomato sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dG9tYXRvIHNhdWNl&hash=9e493d4ae2d48196f33f8ac561e3acbfafabece5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tə.meɪ.toʊ sɔ:s",
       "phonetic_am": "https://tts.langeek.co/read?text=dG9tYXRvIHNhdWNl&hash=9e493d4ae2d48196f33f8ac561e3acbfafabece5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tē.mei.tooo saws",
       "img": "https://cdn.langeek.co/photo/51306/original/?type=jpeg",
       "pronunciation": "təmˈeɪɾoʊ sˈɔːs",
       "senses": [
         {
           "definition": "a type of sauce made from tomatoes, often used as a flavoring for food",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She poured tomato sauce over the pasta."
+            },
+            {
+              "cf": "",
+              "x": "The pizza was covered with homemade tomato sauce."
+            },
+            {
+              "cf": "",
+              "x": "He added spices to the tomato sauce for extra flavor."
+            },
+            {
+              "cf": "",
+              "x": "The recipe calls for fresh tomato sauce."
+            },
+            {
+              "cf": "",
+              "x": "She bought a jar of tomato sauce from the store."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "295a3038-8e1b-40b7-bda4-9b036b373f27",
       "word": "soy sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c295IHNhdWNl&hash=e5cb4119772affd3ec5c0765950140e0ca6d06a2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɔɪ sɔ:s",
       "phonetic_am": "https://tts.langeek.co/read?text=c295IHNhdWNl&hash=e5cb4119772affd3ec5c0765950140e0ca6d06a2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sawi saws",
       "img": "https://cdn.langeek.co/photo/21316/original/?type=jpeg",
       "pronunciation": "sˈɔɪ sˈɔːs",
       "senses": [
         {
           "definition": "a thin dark brown sauce, made from soybeans, used in Asian cuisines",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She served a dipping sauce made from soy sauce, honey, and chili for the crispy spring rolls."
+            },
+            {
+              "cf": "",
+              "x": "They brought a bottle of soy sauce to the picnic, adding a savory twist to their outdoor meal."
+            },
+            {
+              "cf": "",
+              "x": "She drizzled soy sauce over her stir-fried noodles for added flavor."
+            },
+            {
+              "cf": "",
+              "x": "Soy sauce is a key ingredient in traditional Japanese dishes like sushi and teriyaki."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b11ee4da-6b79-4450-8e8b-34af8aceed3f",
       "word": "steak sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RlYWsgc2F1Y2U&hash=47c9c2ebb14c1ee3482e93fc93de37b0e375f869&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "steɪk sɔ:s",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RlYWsgc2F1Y2U&hash=47c9c2ebb14c1ee3482e93fc93de37b0e375f869&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "steik saws",
       "img": "https://cdn.langeek.co/photo/35204/original/?type=jpeg",
       "pronunciation": "stˈeɪk sˈɔːs",
       "senses": [
         {
           "definition": "a condiment typically used to enhance the flavor of steak, often made with a combination of savory and tangy ingredients",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "As soon as the steak sauce touched his lips, he knew he had discovered the secret ingredient."
+            },
+            {
+              "cf": "",
+              "x": "They attended a cooking class where they learned to make their own homemade steak sauce."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "85352fc2-9e50-4fb6-aa3f-d0710527f3e5",
       "word": "ketchup",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2V0Y2h1cA&hash=3e69ea66d97a5bc43bf03829640e7a5cf3c8bb44&lang=en&cache-only=0",
-      "phonetic_text": "kɛʧəp",
+      "phonetic_text": "kɛ.ʧəp",
       "phonetic_am": "https://tts.langeek.co/read?text=a2V0Y2h1cA&hash=3e69ea66d97a5bc43bf03829640e7a5cf3c8bb44&lang=en&cache-only=0",
-      "phonetic_am_text": "kechēp",
+      "phonetic_am_text": "ke.chēp",
       "img": "https://cdn.langeek.co/photo/51306/original/?type=jpeg",
       "pronunciation": "ˈkɛtʃəp",
       "senses": [
         {
           "definition": "a cold sauce made from tomatoes, which has a thick texture and is served with some food",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He squirted ketchup on his hot dog to add a bit of sweetness and tang."
+            },
+            {
+              "cf": "",
+              "x": "The restaurant served a small bowl of ketchup alongside the basket of crispy fries."
+            },
+            {
+              "cf": "",
+              "x": "She prefers to mix ketchup with mayonnaise for a creamy dipping sauce."
+            },
+            {
+              "cf": "",
+              "x": "They ran out of ketchup, so he had to use mustard on his sandwich instead."
+            },
+            {
+              "cf": "",
+              "x": "The kids enjoyed dipping their chicken nuggets into ketchup during lunch."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "55516901-d6a6-4478-a44d-558c4288df63",
       "word": "salsa",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Fsc2E&hash=0298ff7c7e5ccb17d8e1e649436f2b44142ffafa&lang=en&cache-only=0",
-      "phonetic_text": "sɔ:lsə",
+      "phonetic_text": "sɔl.sə",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Fsc2E&hash=0298ff7c7e5ccb17d8e1e649436f2b44142ffafa&lang=en&cache-only=0",
-      "phonetic_am_text": "saawlsē",
+      "phonetic_am_text": "sawl.sē",
       "img": "https://cdn.langeek.co/photo/31345/original/?type=jpeg",
       "pronunciation": "ˈsɔɫsə",
       "senses": [
         {
           "definition": "a spicy sauce made with chilis and tomatoes, widely used in Mexican cuisine",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She dipped her chips into fresh salsa."
+            },
+            {
+              "cf": "",
+              "x": "The tacos were served with homemade salsa."
+            },
+            {
+              "cf": "",
+              "x": "He made a spicy salsa with extra chili peppers."
+            },
+            {
+              "cf": "",
+              "x": "The restaurant offers mild and hot salsa."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a49f7f78-4360-4d59-bbfa-f55ed79b32a5",
       "word": "tartar sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFydGFyIHNhdWNl&hash=0d7b0d5683eeb2dd4e6e2798a9fad05fddc948f7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɑr.tɜr sɔ:s",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFydGFyIHNhdWNl&hash=0d7b0d5683eeb2dd4e6e2798a9fad05fddc948f7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "taar.tēr saws",
       "img": "https://cdn.langeek.co/photo/31349/original/?type=jpeg",
       "pronunciation": "tˈɑːɹɾɚ sˈɔːs",
       "senses": [
         {
           "definition": "a creamy condiment typically made with mayonnaise, pickles, and various seasonings, often served with seafood",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He spread a generous amount of tartar sauce on his fish sandwich."
+            },
+            {
+              "cf": "",
+              "x": "You can elevate your fish tacos by adding a dollop of tartar sauce."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "8ef58937-a834-428f-961a-642972421488",
       "word": "vinaigrette",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmluYWlncmV0dGU&hash=c95fab100389d94f8d269848353b0592323ca358&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "vɪ.neɪg.rɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=dmluYWlncmV0dGU&hash=c95fab100389d94f8d269848353b0592323ca358&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vi.neig.ret",
       "img": "https://cdn.langeek.co/photo/35208/original/?type=jpeg",
       "pronunciation": "vˌɪneɪɡɹˈɛt",
       "senses": [
         {
           "definition": "a mixture of oil, vinegar, and seasonings, commonly used as a salad dressing",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "When I tasted the vinaigrette, I was instantly transported to a sunny Mediterranean coastline."
+            },
+            {
+              "cf": "",
+              "x": "You can marinate your grilled chicken in a citrus vinaigrette before cooking."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "ff552e0f-3b22-4ffa-a587-3249af477e69",
       "word": "vinegar",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmluZWdhcg&hash=3f1925cd5531ff5104b9f6b12ada9f5b939882be&lang=en&cache-only=0",
-      "phonetic_text": "vɪnəgər",
+      "phonetic_text": "vɪ.nə.gɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dmluZWdhcg&hash=3f1925cd5531ff5104b9f6b12ada9f5b939882be&lang=en&cache-only=0",
-      "phonetic_am_text": "vinēgēr",
+      "phonetic_am_text": "vi.nē.gēr",
       "img": "https://cdn.langeek.co/photo/21318/original/?type=jpeg",
       "pronunciation": "ˈvɪnəɡɝ",
       "senses": [
         {
           "definition": "a sour liquid that is commonly used in cooking, cleaning, or to preserve food",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "As soon as the vinegar touched her lips, she could feel the mouth-puckering sensation."
+            },
+            {
+              "cf": "",
+              "x": "She mixed vinegar with oil and herbs to create a homemade salad dressing."
+            },
+            {
+              "cf": "",
+              "x": "They used vinegar to pickle cucumbers, transforming them into crunchy and tangy homemade pickles."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "d39ccc36-094b-412d-b4cb-104beb31ac9e",
       "word": "pickle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGlja2xl&hash=b1d3e85ea382eeaff0a849672b52134ad9f61da1&lang=en&cache-only=0",
-      "phonetic_text": "pɪkəl",
+      "phonetic_text": "pɪ.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=cGlja2xl&hash=b1d3e85ea382eeaff0a849672b52134ad9f61da1&lang=en&cache-only=0",
-      "phonetic_am_text": "pikēl",
+      "phonetic_am_text": "pi.kēl",
       "img": "https://cdn.langeek.co/photo/19118/original/pickle?type=jpeg",
-      "pronunciation": "ˈpɪkəɫ",
+      "pronunciation": "ˈpɪkəl",
       "senses": [
         {
           "definition": "a vegetable, usually a small cucumber, that is preserved in salt water or vinegar",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She packed a lunchbox with a turkey sandwich layered with pickles."
+            },
+            {
+              "cf": "",
+              "x": "When I tasted the pickles, I was pleasantly surprised by the perfect balance of sourness and spices."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f7249324-9cbb-495d-87ac-7ea6a6edd46f",
       "word": "pickle relish",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGlja2xlIHJlbGlzaA&hash=eebd7121c107097902004a0718eccef6050e8f57&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɪ.kəl rɛ.lɪʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=cGlja2xlIHJlbGlzaA&hash=eebd7121c107097902004a0718eccef6050e8f57&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pi.kēl re.lish",
       "img": "https://cdn.langeek.co/photo/35196/original/?type=jpeg",
       "pronunciation": "pˈɪkəl ɹˈɛlɪʃ",
       "senses": [
         {
           "definition": "a condiment made from finely chopped pickles",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I heard their specialty burger is served with homemade pickle relish."
+            },
+            {
+              "cf": "",
+              "x": "I never thought of adding pickle relish to tartar sauce, that sounds amazing!"
+            }
+          ]
         }
       ]
     },
     {
+      "id": "d6d7f5b2-6e39-4b23-a999-dd237960fe0d",
       "word": "wine sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2luZSBzYXVjZQ&hash=5c8ac596e55012daa85da84dca12572865cc4881&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "waɪn sɔ:s",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luZSBzYXVjZQ&hash=5c8ac596e55012daa85da84dca12572865cc4881&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vain saws",
       "img": "https://cdn.langeek.co/photo/35210/original/?type=jpeg",
       "pronunciation": "wˈaɪn sˈɔːs",
       "senses": [
         {
           "definition": "a type of flavorful liquid or reduction made with wine as a primary ingredient",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He created a delicious mushroom and wine sauce to accompany his vegetarian lasagna."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c68172dc-80e9-446d-b08f-3b178c3e990d",
       "word": "aioli",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWlvbGk&hash=fccc3cf6edebc896d4b1304e53fa5fbd2d4b5a83&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "eɪɑ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=YWlvbGk&hash=fccc3cf6edebc896d4b1304e53fa5fbd2d4b5a83&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "eiaal",
       "img": "https://cdn.langeek.co/photo/21308/original/?type=jpeg",
       "pronunciation": "ˈeɪɑːli",
       "senses": [
         {
           "definition": "a mayonnaise that is seasoned with garlic and occasionally with red pepper",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "When I tasted the aioli, I was pleasantly surprised by the balance of rich garlic and zesty lemon."
+            },
+            {
+              "cf": "",
+              "x": "You can use aioli as a versatile condiment for burgers, tacos, and even as a dip for vegetables."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a06f8589-ceee-4983-af61-99fd1d05be41",
       "word": "bread sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJlYWQgc2F1Y2U&hash=bc0cc1df339cbcfb6d61303ee3cfdf46ca813c9d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "brɛd sɔ:s",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJlYWQgc2F1Y2U&hash=bc0cc1df339cbcfb6d61303ee3cfdf46ca813c9d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bred saws",
       "img": "https://cdn.langeek.co/photo/35154/original/?type=jpeg",
       "pronunciation": "bɹˈɛd sˈɔːs",
       "senses": [
         {
           "definition": "a creamy and savory sauce made from bread crumbs, milk, and spices",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Guests were impressed by the roasted duck with bread sauce."
+            },
+            {
+              "cf": "",
+              "x": "He made a luxurious bread sauce with warm milk and spices."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "73a71775-72fb-4b3b-a838-952910a16cf3",
       "word": "cheese sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hlZXNlIHNhdWNl&hash=055e9f3d9da74a8327d5e4bb5d3ccb21aee6ddc1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧi:z sɔ:s",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hlZXNlIHNhdWNl&hash=055e9f3d9da74a8327d5e4bb5d3ccb21aee6ddc1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chiz saws",
       "img": "https://cdn.langeek.co/photo/30992/original/?type=jpeg",
       "pronunciation": "tʃˈiːz sˈɔːs",
       "senses": [
         {
           "definition": "a creamy and savory sauce made with melted cheese",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He made a creamy and flavorful cheese sauce by combining different varieties of cheese."
+            },
+            {
+              "cf": "",
+              "x": "His homemade lasagna was enhanced with a rich cheese sauce."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1263d162-51a9-4cc7-a1d1-2ab2264e612f",
       "word": "chili sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hpbGkgc2F1Y2U&hash=04f40b51bf448104e1f9daca5d9351751dc96a1b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧɪ.li sɔ:s",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hpbGkgc2F1Y2U&hash=04f40b51bf448104e1f9daca5d9351751dc96a1b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chi.li saws",
       "img": "https://cdn.langeek.co/photo/35156/original/?type=jpeg",
       "pronunciation": "tʃˈɪli sˈɔːs",
       "senses": [
         {
           "definition": "a spicy and flavorful condiment made from chili peppers, vinegar, and various seasonings",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He prepared a homemade chili sauce by blending fresh chili peppers, garlic, and vinegar."
+            },
+            {
+              "cf": "",
+              "x": "You can elevate your tacos by spooning some chili sauce onto the fillings."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "8bfec4c2-285c-43f7-8ed9-c196c508de48",
       "word": "gravy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3Jhdnk&hash=e25a7f1e89061b241e24a1118a3260c03fd70813&lang=en&cache-only=0",
-      "phonetic_text": "greɪvi",
+      "phonetic_text": "greɪ.vi",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3Jhdnk&hash=e25a7f1e89061b241e24a1118a3260c03fd70813&lang=en&cache-only=0",
-      "phonetic_am_text": "greivi",
+      "phonetic_am_text": "grei.vi",
       "img": "https://cdn.langeek.co/photo/30974/original/?type=jpeg",
       "pronunciation": "ˈɡɹeɪvi",
       "senses": [
         {
           "definition": "a brown sauce made from cooked meat juice and stock that is thickened with flour",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I would like some extra gravy on my roast beef sandwich."
+            },
+            {
+              "cf": "",
+              "x": "They couldn't get enough of the savory gravy that accompanied their Sunday roast"
+            }
+          ]
         }
       ]
     },
     {
+      "id": "df6006b2-bc8d-40f4-bb96-1a4d0dcbd131",
       "word": "garlic sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2FybGljIHNhdWNl&hash=c09cf9e4b27eccf903f01111ecdb3121e8cb3f90&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gɑr.lɪk sɔ:s",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2FybGljIHNhdWNl&hash=c09cf9e4b27eccf903f01111ecdb3121e8cb3f90&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gaar.lik saws",
       "img": "https://cdn.langeek.co/photo/35162/original/?type=jpeg",
       "pronunciation": "ɡˈɑːɹlɪk sˈɔːs",
       "senses": [
         {
           "definition": "a type of sauce made with garlic, oil, lemon juice, and salt, used to add flavor to meat, fish, or vegetables",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She dipped her fries in garlic sauce."
+            },
+            {
+              "cf": "",
+              "x": "The grilled chicken was covered in creamy garlic sauce."
+            },
+            {
+              "cf": "",
+              "x": "He made homemade garlic sauce with olive oil and lemon."
+            },
+            {
+              "cf": "",
+              "x": "Garlic sauce adds a rich flavor to kebabs."
+            },
+            {
+              "cf": "",
+              "x": "The restaurant’s garlic sauce is famous for its strong taste."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1e0a0d8f-69e4-4222-bdaf-f307a19e3088",
       "word": "mayonnaise",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWF5b25uYWlzZQ&hash=d94eed41da23737bedc50617e014a7c10abb22b3&lang=en&cache-only=0",
-      "phonetic_text": "meɪəneɪz",
+      "phonetic_text": "meɪə.neɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=bWF5b25uYWlzZQ&hash=d94eed41da23737bedc50617e014a7c10abb22b3&lang=en&cache-only=0",
-      "phonetic_am_text": "meiēneiz",
+      "phonetic_am_text": "meiē.neiz",
       "img": "https://cdn.langeek.co/photo/21308/original/?type=jpeg",
       "pronunciation": "ˈmeɪəˌneɪz",
       "senses": [
         {
           "definition": "a thick white dressing made with egg yolks, vegetable oil, and vinegar, served cold",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She spread mayonnaise on the sandwich to add a rich, creamy texture."
+            },
+            {
+              "cf": "",
+              "x": "The recipe for coleslaw called for mixing mayonnaise with shredded cabbage and carrots."
+            },
+            {
+              "cf": "",
+              "x": "He made a homemade mayonnaise using a blender to achieve a smooth consistency."
+            },
+            {
+              "cf": "",
+              "x": "The chef recommended adding a touch of mayonnaise to the deviled eggs for extra creaminess."
+            },
+            {
+              "cf": "",
+              "x": "He prefers to mix mayonnaise with mustard for a tangy spread on his burgers."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "6cdf543b-b01a-4563-a3c4-ffa2ab922525",
       "word": "mushroom sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXVzaHJvb20gc2F1Y2U&hash=a024227a9faf54bbc857533e619c7dda2e6cd143&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "məʃ.ru:m sɔ:s",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVzaHJvb20gc2F1Y2U&hash=a024227a9faf54bbc857533e619c7dda2e6cd143&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mēsh.room saws",
       "img": "https://cdn.langeek.co/photo/35192/original/?type=jpeg",
       "pronunciation": "mˈʌʃɹuːm sˈɔːs",
       "senses": [
         {
           "definition": "a savory and flavorful condiment made with mushrooms and other ingredients",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He poured the rich mushroom sauce over his grilled steak."
+            },
+            {
+              "cf": "",
+              "x": "She stirred the creamy mushroom sauce into her pasta."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f268ba56-4409-4d0f-b1a0-625b44ae286d",
       "word": "relish",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVsaXNo&hash=bb9993157deb549959e22ad4f64b4e85a2ef1dd8&lang=en&cache-only=0",
-      "phonetic_text": "rɛlɪʃ",
+      "phonetic_text": "rɛ.lɪʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVsaXNo&hash=bb9993157deb549959e22ad4f64b4e85a2ef1dd8&lang=en&cache-only=0",
-      "phonetic_am_text": "relish",
+      "phonetic_am_text": "re.lish",
       "img": "https://cdn.langeek.co/photo/31339/original/?type=jpeg",
       "pronunciation": "ˈɹɛɫɪʃ",
       "senses": [
         {
           "definition": "a condiment of hot or savory taste that is served with meat, cheese, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "You can elevate your tuna salad by mixing it with a spoonful of relish."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "d10bb75c-7d25-4ba1-8478-9c6ffe3c767a",
       "word": "salad cream",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FsYWQgY3JlYW0&hash=41199df83308e8adeba42512b93ed481ad53d1f0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sæ.ləd kri:m",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FsYWQgY3JlYW0&hash=41199df83308e8adeba42512b93ed481ad53d1f0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sā.lēd krim",
       "img": "https://cdn.langeek.co/photo/21308/original/?type=jpeg",
       "pronunciation": "sˈæləd kɹˈiːm",
       "senses": [
         {
           "definition": "a pale yellow dressing similar to mayonnaise that is served with sandwiches, salads, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He whipped up a homemade salad cream with mayonnaise and herbs."
+            },
+            {
+              "cf": "",
+              "x": "They served fresh vegetables with a side of tangy salad cream."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "15a3fe6f-dc67-4bc4-b2a1-363f59b95ae2",
       "word": "aspic",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXNwaWM&hash=5fd5cb52fe19efe1c529a0ae1a5eb01356cec10f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æs.pɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=YXNwaWM&hash=5fd5cb52fe19efe1c529a0ae1a5eb01356cec10f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ās.pik",
       "img": "https://cdn.langeek.co/photo/35152/original/?type=jpeg",
       "pronunciation": "ˈæspɪk",
       "senses": [
         {
           "definition": "a savory jelly made from meat or fish stock used to set ingredients in a solidified form",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Last night we served individual portions of chicken and mushroom aspic."
+            },
+            {
+              "cf": "",
+              "x": "They celebrated the special occasion with a beautifully molded aspic."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1327f329-9e03-466e-ab8b-c80edcf94f26",
       "word": "balsamic vinegar",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFsc2FtaWMgdmluZWdhcg&hash=2a4facb9927f0ded6e251c3384c365ad83bdadfd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɑl.sɑ.mɪk vɪ.nə.gɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFsc2FtaWMgdmluZWdhcg&hash=2a4facb9927f0ded6e251c3384c365ad83bdadfd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baal.saa.mik vi.nē.gēr",
       "img": "https://cdn.langeek.co/photo/30898/original/?type=jpeg",
       "pronunciation": "bɔːlsˈæmɪk vˈɪnᵻɡɚ",
       "senses": [
         {
           "definition": "a sweet vinegar with dark color that is aged in barrels, originally from Italy",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "They dipped their bread into a small bowl of balsamic vinegar and olive oil."
+            },
+            {
+              "cf": "",
+              "x": "They used balsamic vinegar to marinate the grilled chicken."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b1346c7f-d2d0-4d19-af5e-0764f8bf6d80",
       "word": "broth",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJvdGg&hash=dfda490317452f59a62e0519f65d086279cdbdec&lang=en&cache-only=0",
-      "phonetic_text": "brɔ:θ",
+      "phonetic_text": "brɔθ",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJvdGg&hash=dfda490317452f59a62e0519f65d086279cdbdec&lang=en&cache-only=0",
-      "phonetic_am_text": "braawth",
+      "phonetic_am_text": "brawth",
       "img": "https://cdn.langeek.co/photo/28057/original/?type=jpeg",
       "pronunciation": "ˈbɹɔθ",
       "senses": [
@@ -436,22 +786,45 @@
       ]
     },
     {
+      "id": "25cda645-72b4-4d8b-a730-abab8c302142",
       "word": "chutney",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2h1dG5leQ&hash=6baed98d4bf03d06e5aa4f8840886555e608f225&lang=en&cache-only=0",
-      "phonetic_text": "ʧʌtni",
+      "phonetic_text": "ʧət.ni",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2h1dG5leQ&hash=6baed98d4bf03d06e5aa4f8840886555e608f225&lang=en&cache-only=0",
-      "phonetic_am_text": "chatni",
+      "phonetic_am_text": "chēt.ni",
       "img": "https://cdn.langeek.co/photo/35158/original/?type=jpeg",
       "pronunciation": "ˈtʃətni",
       "senses": [
         {
           "definition": "a combination of either pickles, vegetables, spices, and herbs, that is used as condiment",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I created a unique avocado chutney, blending the creamy fruit with lime juice, cilantro, and jalapenos."
+            },
+            {
+              "cf": "",
+              "x": "When I tasted the tomato chutney, I was pleasantly surprised by the robust flavors."
+            },
+            {
+              "cf": "",
+              "x": "The mango chutney served with the curry added a tangy sweetness to the dish."
+            },
+            {
+              "cf": "",
+              "x": "The mint chutney provided a refreshing contrast to the spicy samosas."
+            },
+            {
+              "cf": "",
+              "x": "The tamarind chutney had a perfect balance of sweet and sour flavors, complementing the savory pakoras."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "bda01f9b-c8f3-410b-856d-e7d6d5261ce2",
       "word": "dip",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlw&hash=9bcfe64e44d3a309a8e4fdc754bbd59fbd0ae9a0&lang=en&cache-only=0",
@@ -459,21 +832,31 @@
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlw&hash=9bcfe64e44d3a309a8e4fdc754bbd59fbd0ae9a0&lang=en&cache-only=0",
       "phonetic_am_text": "dip",
       "img": "https://cdn.langeek.co/photo/24026/original/?type=jpeg",
-      "pronunciation": "ˈdɪp",
+      "pronunciation": "dɪp",
       "senses": [
         {
           "definition": "a thick cold sauce in which pieces of food are dunked before being eaten",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He prepared a delicious spinach and artichoke dip for the party."
+            },
+            {
+              "cf": "",
+              "x": "When I tasted the caramel dip, I couldn't resist dipping my apple slices into the sweet and sticky sauce."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e39fc18a-e248-40d0-8ea2-dc0867cde294",
       "word": "dressing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJlc3Npbmc&hash=cc27118dd8be8ec7afa7ba87ec0da23cfea29dc8&lang=en&cache-only=0",
-      "phonetic_text": "drɛsɪng",
+      "phonetic_text": "drɛ.sɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJlc3Npbmc&hash=cc27118dd8be8ec7afa7ba87ec0da23cfea29dc8&lang=en&cache-only=0",
-      "phonetic_am_text": "dresing",
+      "phonetic_am_text": "dre.sing",
       "img": "https://cdn.langeek.co/photo/51560/original/sauce?type=jpeg",
       "pronunciation": "ˈdɹɛsɪŋ",
       "senses": [
@@ -484,10 +867,11 @@
       ]
     },
     {
+      "id": "ad54bca0-a922-44a7-8e37-1f062aa9011b",
       "word": "French dressing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RnJlbmNoIGRyZXNzaW5n&hash=f70070200a89394328da1d9306e42dfb9c7ece1c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RnJlbmNoIGRyZXNzaW5n&hash=f70070200a89394328da1d9306e42dfb9c7ece1c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/35160/original/?type=jpeg",
@@ -500,42 +884,63 @@
       ]
     },
     {
+      "id": "2497e83f-87a0-425d-87c8-29672f509eee",
       "word": "guacamole",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3VhY2Ftb2xl&hash=bc009b5abce1041436cf71571e161edc1ca0a478&lang=en&cache-only=0",
-      "phonetic_text": "gwɑkəmoʊli",
+      "phonetic_text": "gwɑ.kə.moʊ.li",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3VhY2Ftb2xl&hash=bc009b5abce1041436cf71571e161edc1ca0a478&lang=en&cache-only=0",
-      "phonetic_am_text": "gwɑkēmowli",
+      "phonetic_am_text": "gvaa.kē.mooo.li",
       "img": "https://cdn.langeek.co/photo/31183/original/?type=jpeg",
       "pronunciation": "ˌɡwɑkəˈmoʊɫi",
       "senses": [
         {
           "definition": "a dish consisting of a mixture of mashed avocado, onions, chilies, tomatoes, etc., originated in Mexico",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He decided to make his own guacamole using ripe avocados, lime juice, and a sprinkle of salt."
+            },
+            {
+              "cf": "",
+              "x": "You can customize your sandwich with a dollop of guacamole."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "5d7b1aef-1f72-4712-8da2-2980598655d2",
       "word": "hollandaise sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG9sbGFuZGFpc2Ugc2F1Y2U&hash=3562e677d2f2570d1c58632369c5b3e3d07dc5ca&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɑ:.lən.deɪz sɔ:s",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9sbGFuZGFpc2Ugc2F1Y2U&hash=3562e677d2f2570d1c58632369c5b3e3d07dc5ca&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "haa.lēn.deiz saws",
       "img": "https://cdn.langeek.co/photo/30992/original/?type=jpeg",
       "pronunciation": "hˌɑːləndˈeɪz sˈɔːs",
       "senses": [
         {
           "definition": "a sauce made with egg yolks, butter, and lemon juice or vinegar, often served with vegetables",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She spooned a velvety hollandaise sauce over her grilled asparagus"
+            },
+            {
+              "cf": "",
+              "x": "The chef prepared a delicious hollandaise sauce for the restaurant's signature dish."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e954110e-e21f-41ec-a875-aee9f8c28a88",
       "word": "Thousand Island dressing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VGhvdXNhbmQgSXNsYW5kIGRyZXNzaW5n&hash=31aa2ff0b11df00500f63dc84afa93093a9c38ef&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=VGhvdXNhbmQgSXNsYW5kIGRyZXNzaW5n&hash=31aa2ff0b11df00500f63dc84afa93093a9c38ef&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/31353/original/?type=jpeg",
@@ -548,6 +953,7 @@
       ]
     },
     {
+      "id": "c08edfc7-5ddf-4aeb-b2b9-b8295c8b670d",
       "word": "ranch",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFuY2g&hash=1cb2c89b2f2b357e97804b1743d1da961851b276&lang=en&cache-only=0",
@@ -555,67 +961,107 @@
       "phonetic_am": "https://tts.langeek.co/read?text=cmFuY2g&hash=1cb2c89b2f2b357e97804b1743d1da961851b276&lang=en&cache-only=0",
       "phonetic_am_text": "rānch",
       "img": "https://cdn.langeek.co/photo/35198/original/?type=jpeg",
-      "pronunciation": "ˈɹæntʃ",
+      "pronunciation": "ræntʃ",
       "senses": [
         {
           "definition": "a popular dressing or dip made with buttermilk, garlic, herbs, and other flavors, used for salads, vegetables, and snacks",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "As the chef, I created a special pizza with ranch sauce instead of traditional tomato sauce."
+            },
+            {
+              "cf": "",
+              "x": "He dipped his crispy chicken nuggets into the creamy ranch."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "32624e6c-4589-4721-81f6-952d294afbee",
       "word": "pesto",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVzdG8&hash=857ca2b1c890c6646c63282accd25643e4ac1280&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɛs.toʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVzdG8&hash=857ca2b1c890c6646c63282accd25643e4ac1280&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pes.tooo",
       "img": "https://cdn.langeek.co/photo/30982/original/?type=jpeg",
       "pronunciation": "pˈɛstoʊ",
       "senses": [
         {
           "definition": "a pasta sauce that is made with basil, olive oil, garlic and pine nuts to which grated parmesan is also added",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She packed a lunchbox with a delicious pesto pasta salad."
+            },
+            {
+              "cf": "",
+              "x": "She tossed her steaming pasta with a dollop of pesto, creating a vibrant and flavorful meal."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f16b6668-98e5-433a-9b48-9b3d987c5dd1",
       "word": "piccalilli",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGljY2FsaWxsaQ&hash=1627a3ee7e4b5d34fa97d475d2658c45dc098752&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɪ.ka.lɪ.li",
       "phonetic_am": "https://tts.langeek.co/read?text=cGljY2FsaWxsaQ&hash=1627a3ee7e4b5d34fa97d475d2658c45dc098752&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pi.ka.li.li",
       "img": "https://cdn.langeek.co/photo/35194/original/?type=jpeg",
       "pronunciation": "pˌɪkɐlˈɪli",
       "senses": [
         {
           "definition": "a tangy and spicy British relish made with pickled vegetables",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She served a side dish of piccalilli with her homemade burgers."
+            },
+            {
+              "cf": "",
+              "x": "You can't go wrong with a dollop of piccalilli on a juicy burger or hot dog."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "84d925b7-890d-4804-9612-9b06c0843f77",
       "word": "marinade",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFyaW5hZGU&hash=9c9fbe95a64a977cb346b0e140982f6fa96bd4ac&lang=en&cache-only=0",
-      "phonetic_text": "mɑ:rɪneɪd",
+      "phonetic_text": "mɑ.rɪ.neɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFyaW5hZGU&hash=9c9fbe95a64a977cb346b0e140982f6fa96bd4ac&lang=en&cache-only=0",
-      "phonetic_am_text": "maarineid",
+      "phonetic_am_text": "maa.ri.neid",
       "img": "https://cdn.langeek.co/photo/29645/original/?type=jpeg",
       "pronunciation": "ˈmɑɹɪˌneɪd",
       "senses": [
         {
           "definition": "a mixtures of oil, spices, vinegar or wine in which food, especially meat or fish, is left to become softer or be flavored before cooking",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "They let the steak sit in the marinade overnight to enhance its tenderness and flavor."
+            },
+            {
+              "cf": "",
+              "x": "They mixed together yogurt, turmeric, and ginger to create a flavorful Indian marinade for the chicken tikka."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "d6115fb0-a9e6-4a1f-98b8-c080127847d7",
       "word": "piri-piri",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGlyaS1waXJp&hash=e904606f3a090bba3feba5edf35a2dc548e26c6e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cGlyaS1waXJp&hash=e904606f3a090bba3feba5edf35a2dc548e26c6e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/30984/original/?type=jpeg",
@@ -623,17 +1069,27 @@
       "senses": [
         {
           "definition": "a very hot and spicy sauce made with red chili peppers, originally made in Portugal",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I prepared a piri-piri marinade by blending together chili peppers, garlic, and lemon juice for the grilled vegetables."
+            },
+            {
+              "cf": "",
+              "x": "She coated the pork ribs with a generous amount of piri-piri marinade."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "tabasco",
+      "id": "470539cf-d68b-458f-8859-e9ce5b843b72",
+      "word": "Tabasco",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VGFiYXNjbw&hash=28204ef64c35fc84779c70192288133b33414266&lang=en&cache-only=0",
-      "phonetic_text": "təbæskoʊ",
+      "phonetic_text": "tə.bæs.koʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=VGFiYXNjbw&hash=28204ef64c35fc84779c70192288133b33414266&lang=en&cache-only=0",
-      "phonetic_am_text": "tēbāskow",
+      "phonetic_am_text": "tē.bās.kooo",
       "img": "https://cdn.langeek.co/photo/30988/original/?type=jpeg",
       "pronunciation": "təˈbæskoʊ",
       "senses": [
@@ -644,10 +1100,11 @@
       ]
     },
     {
+      "id": "53ace910-515e-4f0b-81f4-7a0fab1c6a63",
       "word": "satay sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2F0YXkgc2F1Y2U&hash=c3a51c6b6307f05669fef1d20b17ed9c01ada43e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=c2F0YXkgc2F1Y2U&hash=c3a51c6b6307f05669fef1d20b17ed9c01ada43e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/30986/original/?type=jpeg",
@@ -655,15 +1112,37 @@
       "senses": [
         {
           "definition": "a spicy sauce made with peanuts served with an Indonesian or Malaysian food of the same name",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He drizzled satay sauce over the grilled vegetables for a nutty taste."
+            },
+            {
+              "cf": "",
+              "x": "She loves dipping her spring rolls in satay sauce for extra flavor."
+            },
+            {
+              "cf": "",
+              "x": "They served satay sauce as a condiment alongside the main dish."
+            },
+            {
+              "cf": "",
+              "x": "The satay sauce was so delicious that she asked for the recipe."
+            },
+            {
+              "cf": "",
+              "x": "The chicken skewers were served with a generous portion of satay sauce."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "93e9be7f-f73f-4364-ab72-e7e4ab4fac71",
       "word": "Bearnaise sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QmVhcm5haXNlIHNhdWNl&hash=6c828dc7e5a1c3723a90890ea109cc331db89d3b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QmVhcm5haXNlIHNhdWNl&hash=6c828dc7e5a1c3723a90890ea109cc331db89d3b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/21322/original/?type=jpeg",
@@ -671,79 +1150,133 @@
       "senses": [
         {
           "definition": "a thick sauce made with butter and egg yolks, seasoned with shallots, tarragon and vinegar",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "As a chef, I take pride in creating a homemade Bearnaise sauce that elevates any dish."
+            },
+            {
+              "cf": "",
+              "x": "We enjoyed lobster tails with creamy Bearnaise sauce."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "9a623b7f-f44d-47c7-b7b1-9e1291cc739f",
       "word": "bechamel sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVjaGFtZWwgc2F1Y2U&hash=ea34902fd96c440570a79722ea2433c011b0655d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɛ.ʧeɪ.məl sɔ:s",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVjaGFtZWwgc2F1Y2U&hash=ea34902fd96c440570a79722ea2433c011b0655d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "be.chei.mēl saws",
       "img": "https://cdn.langeek.co/photo/21322/original/?type=jpeg",
       "pronunciation": "bˈeɪtʃeɪməl sˈɔːs",
       "senses": [
         {
           "definition": "a creamy white sauce made from cooked butter and flour mixed with milk",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I couldn't resist licking my spoon clean after tasting the bechamel sauce."
+            },
+            {
+              "cf": "",
+              "x": "She prepared a lasagna with layers of noodles, meat, and bechamel sauce."
+            },
+            {
+              "cf": "",
+              "x": "We topped our baked potatoes with a generous drizzle of bechamel sauce."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b1830d94-bdfe-44c3-9197-e65c17f7ea2a",
       "word": "carbonara",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FyYm9uYXJh&hash=f9ab668faccc0de4c130b40ef02e6064fb1a150b&lang=en&cache-only=0",
-      "phonetic_text": "kɑrboʊnɑ:rə",
+      "phonetic_text": "kɑr.boʊ.nɑ.rə",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FyYm9uYXJh&hash=f9ab668faccc0de4c130b40ef02e6064fb1a150b&lang=en&cache-only=0",
-      "phonetic_am_text": "kɑrbownaarē",
+      "phonetic_am_text": "kaar.booo.naa.rē",
       "img": "https://cdn.langeek.co/photo/30970/original/?type=jpeg",
       "pronunciation": "kɑɹboʊˈnɑɹə",
       "senses": [
         {
           "definition": "an Italian sauce that is made with chopped bacon, grated parmesan cheese and eggs, served with pasta",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He grew up in an Italian household and learned how to make carbonara from his nonna."
+            },
+            {
+              "cf": "",
+              "x": "I attended a cooking class where we learned the secrets to making a perfect carbonara sauce."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "cac240a5-fa8a-4d77-96c2-e0a05d2f24e9",
       "word": "clotted cream",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xvdHRlZCBjcmVhbQ&hash=566ba9de7e6b8ad2e3a2979146de86b7afd41eaa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "klɑ.təd kri:m",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xvdHRlZCBjcmVhbQ&hash=566ba9de7e6b8ad2e3a2979146de86b7afd41eaa&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "klaa.tēd krim",
       "img": "https://cdn.langeek.co/photo/27373/original/?type=jpeg",
       "pronunciation": "klˈɑːɾᵻd kɹˈiːm",
       "senses": [
         {
           "definition": "a thick cream that is made by gradually heating whole milk until lumps of cream rise to the top, originally made in the UK",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The clotted cream added a creamy element to the homemade trifle."
+            },
+            {
+              "cf": "",
+              "x": "The strawberries and clotted cream combined to create a heavenly dessert parfait."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "ba74810b-cb5c-4235-b7f6-c2cb939a01b9",
       "word": "marinara",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFyaW5hcmE&hash=14229560c72bc18683f1cb251ea9f94a015bf982&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mæ.rɪ.nɑ:.rə",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFyaW5hcmE&hash=14229560c72bc18683f1cb251ea9f94a015bf982&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mā.ri.naa.rē",
       "img": "https://cdn.langeek.co/photo/30980/original/?type=jpeg",
       "pronunciation": "mˌæɹɪnˈɑːɹɹə",
       "senses": [
         {
           "definition": "an Italian sauce consisting of tomatoes, onions, garlics, herbs and seasonings, served with pasta",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He uses marinara sauce as a dip for his garlic bread and a base for his lasagna."
+            },
+            {
+              "cf": "",
+              "x": "They traveled to Italy and enjoyed the authentic marinara sauce at a charming seaside restaurant."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b6ea9e0c-8f1b-46e0-98c1-16335cb8a543",
       "word": "mornay sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9ybmF5IHNhdWNl&hash=14df3e6876b8dd37931abf5e37be69ef60d09c1e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9ybmF5IHNhdWNl&hash=14df3e6876b8dd37931abf5e37be69ef60d09c1e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/21322/original/?type=jpeg",
@@ -751,47 +1284,77 @@
       "senses": [
         {
           "definition": "a velvety sauce that is based on béchamel with grated gruyere or parmesan cheese",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "My parents hosted a brunch and served Eggs Benedict with a luscious mornay sauce, impressing their guests."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7f6267bd-c0e5-4041-a1f0-ce8a35d2dda1",
       "word": "mustard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXVzdGFyZA&hash=a65f85c4817c99309a4c1351cbe3e74e55112691&lang=en&cache-only=0",
-      "phonetic_text": "mʌstərd",
+      "phonetic_text": "məs.tɜrd",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVzdGFyZA&hash=a65f85c4817c99309a4c1351cbe3e74e55112691&lang=en&cache-only=0",
-      "phonetic_am_text": "mastērd",
+      "phonetic_am_text": "mēs.tērd",
       "img": "https://cdn.langeek.co/photo/21312/original/?type=jpeg",
       "pronunciation": "ˈməstɝd",
       "senses": [
         {
           "definition": "a cold yellow or brown condiment with a hot taste taken from the seeds of a small plant with yellow flowers",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She spread a dollop of mustard on her sandwich for an extra kick."
+            },
+            {
+              "cf": "",
+              "x": "You can't have a classic hot dog without a generous squeeze of mustard on top."
+            },
+            {
+              "cf": "",
+              "x": "The chef prepared a honey mustard glaze to baste the grilled chicken thighs."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f00aba1c-f5e4-46c3-9158-211d8e388dc0",
       "word": "salad dressing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FsYWQgZHJlc3Npbmc&hash=4d64e07084805ae1c1ebe7ab7666538bed586c74&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sæ.ləd drɛ.sɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FsYWQgZHJlc3Npbmc&hash=4d64e07084805ae1c1ebe7ab7666538bed586c74&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sā.lēd dre.sing",
       "img": "https://cdn.langeek.co/photo/51560/original/sauce?type=jpeg",
       "pronunciation": "sˈæləd dɹˈɛsɪŋ",
       "senses": [
         {
           "definition": "a mixture of ingredients that is typically added to salads or other dishes to enhance their flavor and texture",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The restaurant offers a variety of salad dressings, allowing you to customize your salad to your liking."
+            },
+            {
+              "cf": "",
+              "x": "We discovered a new salad dressing recipe that combines honey and mustard for a perfect balance of sweet and tangy flavors."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "8af53983-9c03-4621-a089-fa004d41afa1",
       "word": "Worcestershire sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=V29yY2VzdGVyc2hpcmUgc2F1Y2U&hash=8918cb1525a38d456a586964a3c49bc66ae23e55&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=V29yY2VzdGVyc2hpcmUgc2F1Y2U&hash=8918cb1525a38d456a586964a3c49bc66ae23e55&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/21316/original/?type=jpeg",
@@ -799,15 +1362,29 @@
       "senses": [
         {
           "definition": "a tangy and savory condiment made from anchovies, vinegar, and various spices, originally made in Worcester, England",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I love to sprinkle Worcestershire sauce on my scrambled eggs."
+            },
+            {
+              "cf": "",
+              "x": "The secret behind Worcestershire sauce lies in its unique combination of ingredients, such as anchovies, tamarind, and spices."
+            },
+            {
+              "cf": "",
+              "x": "They say that Worcestershire sauce gets its name from the city of Worcester in England."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0b119d5e-d040-4b74-b46c-a487743861d3",
       "word": "bolognese pasta sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9sb2duZXNlIHBhc3RhIHNhdWNl&hash=2acf7de5ea15bccd848cc88e579311c07db76025&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9sb2duZXNlIHBhc3RhIHNhdWNl&hash=2acf7de5ea15bccd848cc88e579311c07db76025&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/30587/original/?type=jpeg",
@@ -815,47 +1392,77 @@
       "senses": [
         {
           "definition": "a type of rich and hearty Italian sauce made with ground meat, tomatoes, and aromatic herbs",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I always make a large batch of bolognese pasta sauce and freeze it in portions, so I can enjoy it anytime I want."
+            },
+            {
+              "cf": "",
+              "x": "The restaurant served a mouthwatering plate of spaghetti with bolognese pasta sauce."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0512c44e-9a1d-4afe-ab42-7faea728eeb0",
       "word": "spaghetti sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BhZ2hldHRpIHNhdWNl&hash=ed69f807fe3d712847e5e0af44e23022bf9da78a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spə.gɛ.ti sɔ:s",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BhZ2hldHRpIHNhdWNl&hash=ed69f807fe3d712847e5e0af44e23022bf9da78a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "spē.ge.ti saws",
       "img": "https://cdn.langeek.co/photo/30980/original/?type=jpeg",
       "pronunciation": "spɐɡˈɛɾi sˈɔːs",
       "senses": [
         {
           "definition": "a tomato-based sauce commonly used as a topping for spaghetti and other pasta dishes",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I like to add extra herbs and spices to my homemade spaghetti sauce for a personalized touch."
+            },
+            {
+              "cf": "",
+              "x": "The restaurant served a variety of pasta dishes, each featuring their signature spaghetti sauce."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "cf79f3cb-a99c-42e9-8a01-d86ab003d405",
       "word": "taco sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFjbyBzYXVjZQ&hash=d6e6b6a17069a7218af68af5b7bbe1b81338221a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɑ.koʊ sɔ:s",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFjbyBzYXVjZQ&hash=d6e6b6a17069a7218af68af5b7bbe1b81338221a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "taa.kooo saws",
       "img": "https://cdn.langeek.co/photo/35206/original/?type=jpeg",
       "pronunciation": "tˈɑːkoʊ sˈɔːs",
       "senses": [
         {
           "definition": "a flavorful condiment typically used to enhance the taste of tacos and other Mexican dishes",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "As a taco enthusiast, I always make sure to have a bottle of taco sauce in my pantry."
+            },
+            {
+              "cf": "",
+              "x": "He generously poured taco sauce over his loaded nachos."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "35515f62-6173-4910-af13-25a4cda788c2",
       "word": "remoulade sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVtb3VsYWRlIHNhdWNl&hash=e55f95712a741cb5cd4f1fc303da8bf5a0ce8b75&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVtb3VsYWRlIHNhdWNl&hash=e55f95712a741cb5cd4f1fc303da8bf5a0ce8b75&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/35200/original/?type=jpeg",
@@ -863,87 +1470,146 @@
       "senses": [
         {
           "definition": "a tangy and creamy condiment typically made with mayonnaise, mustard, pickles, and herbs",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He mixed the remoulade sauce with a hint of lemon juice, giving it a refreshing twist."
+            },
+            {
+              "cf": "",
+              "x": "She used to dip her fried shrimp into the tangy remoulade sauce when she was younger."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "5753d57e-3433-4cb3-b15e-6110b06c29a5",
       "word": "cocktail sauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29ja3RhaWwgc2F1Y2U&hash=8c8fd85962ef190347e54124f48280ac8dba177b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑk.teɪl sɔ:s",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29ja3RhaWwgc2F1Y2U&hash=8c8fd85962ef190347e54124f48280ac8dba177b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaak.teil saws",
       "img": "https://cdn.langeek.co/photo/35202/original/?type=jpeg",
       "pronunciation": "kˈɑːkteɪl sˈɔːs",
       "senses": [
         {
           "definition": "a tangy and spicy condiment typically served with seafood",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "As a dipping sauce connoisseur, I declared the cocktail sauce as the ideal accompaniment to my fried fish fillets."
+            },
+            {
+              "cf": "",
+              "x": "She spread a dollop of cocktail sauce on her oysters."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "53e69150-5863-4b11-ba8f-0b693a13ec13",
       "word": "applesauce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXBwbGVzYXVjZQ&hash=243f82ca75eb0b09afc7b3062c58b75ddb86f000&lang=en&cache-only=0",
-      "phonetic_text": "æpəlsɔs",
+      "phonetic_text": "æ.pəl.sɔ:s",
       "phonetic_am": "https://tts.langeek.co/read?text=YXBwbGVzYXVjZQ&hash=243f82ca75eb0b09afc7b3062c58b75ddb86f000&lang=en&cache-only=0",
-      "phonetic_am_text": "āpēlsaws",
+      "phonetic_am_text": "ā.pēl.saws",
       "img": "",
       "pronunciation": "ˈæpəɫˌsɔs",
       "senses": [
         {
           "definition": "a pureed mixture of cooked apples, often sweetened and flavored with spices",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "In my favorite restauran, warm applesauce is served as a side dish with the roasted chicken."
+            },
+            {
+              "cf": "",
+              "x": "We brought a jar of homemade applesauce to share at the picnic."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "86e7f922-8781-4c4e-9214-b508c925f850",
       "word": "mole",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9sZQ&hash=927592ebc57ae33e2bf8f70c1c9efd3a1a92c2c8&lang=en&cache-only=0",
       "phonetic_text": "moʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9sZQ&hash=927592ebc57ae33e2bf8f70c1c9efd3a1a92c2c8&lang=en&cache-only=0",
-      "phonetic_am_text": "mowl",
+      "phonetic_am_text": "moool",
       "img": "https://cdn.langeek.co/photo/35164/original/?type=jpeg",
       "pronunciation": "ˈmoʊɫ",
       "senses": [
         {
           "definition": "a rich and complex Mexican sauce made with chili peppers, chocolate, nuts, and various spices",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Even the pickiest eaters were won over by the creamy and mildly spicy mole."
+            },
+            {
+              "cf": "",
+              "x": "I enjoyed the vegetarian black bean and vegetable mole as a delicious meat-free option."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "ffd6ec59-870b-4d31-b505-eebdde7805ba",
       "word": "fumet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnVtZXQ&hash=93d1bb91bda012dd879fd37c281601d1bed1e985&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fju:.mɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnVtZXQ&hash=93d1bb91bda012dd879fd37c281601d1bed1e985&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fyoo.mit",
       "img": "",
       "pronunciation": "fjˈuːmɪt",
       "senses": [
         {
           "definition": "a concentrated stock made from fish bones, shells, or seafood trimmings with vegetables and herbs used for flavoring sauces, soups, and stews",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I asked my sister to add a touch of fumet to her creamy mushroom sauce."
+            },
+            {
+              "cf": "",
+              "x": "They simmered the chicken fumet for hours, creating a flavorful base for their homemade soup."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e64f779c-d717-4e09-8af2-78dc8f126f34",
       "word": "caper",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FwZXI&hash=dd8e92129e27ac1fddc7fb20644a811a5073c362&lang=en&cache-only=0",
-      "phonetic_text": "keɪpər",
+      "phonetic_text": "keɪ.pɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FwZXI&hash=dd8e92129e27ac1fddc7fb20644a811a5073c362&lang=en&cache-only=0",
-      "phonetic_am_text": "keipēr",
+      "phonetic_am_text": "kei.pēr",
       "img": "https://cdn.langeek.co/photo/35270/original/?type=jpeg",
       "pronunciation": "ˈkeɪpɝ",
       "senses": [
         {
           "definition": "a small, tangy, and pickled flower bud commonly used as a condiment or ingredient in various dishes",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He garnished the grilled fish with a few capers, enhancing its savory taste."
+            },
+            {
+              "cf": "",
+              "x": "It's always a good idea to keep a jar of capers in the pantry for those moments when you want to elevate your recipes."
+            }
+          ]
         }
       ]
     }

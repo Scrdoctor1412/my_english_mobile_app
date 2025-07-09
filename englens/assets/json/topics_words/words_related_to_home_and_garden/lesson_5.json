@@ -1,9 +1,11 @@
 {
+  "id": "e8f163ca-9926-4aac-b00d-2353977db4b8",
   "topic": "words_related_to_home_and_garden",
   "title": "Chairs and Stools",
   "lesson": "lesson_5",
   "word_list": [
     {
+      "id": "5a372e9c-bbf8-43cf-83e7-e3646e540d53",
       "word": "chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hhaXI&hash=45633f05549abd59b87026ad75653d2d7f7958f1&lang=en&cache-only=0",
@@ -41,10 +43,11 @@
       ]
     },
     {
+      "id": "1638ed63-f9a9-49fb-8b28-d1d7ea8690f5",
       "word": "stool",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3Rvb2w&hash=01f09b638e5b10644c2fa45bd1b9fede7e8bf5fb&lang=en&cache-only=0",
-      "phonetic_text": "stu:l",
+      "phonetic_text": "stul",
       "phonetic_am": "https://tts.langeek.co/read?text=c3Rvb2w&hash=01f09b638e5b10644c2fa45bd1b9fede7e8bf5fb&lang=en&cache-only=0",
       "phonetic_am_text": "stool",
       "img": "https://cdn.langeek.co/photo/28409/original/?type=jpeg",
@@ -78,14 +81,15 @@
       ]
     },
     {
+      "id": "dbf78ee5-bb2a-4727-a002-96a99c25e5ea",
       "word": "bergere",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVyZ2VyZQ&hash=d4c29cc3ff05e56e166dd63f7cf605862fe518e6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɜrg.ɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVyZ2VyZQ&hash=d4c29cc3ff05e56e166dd63f7cf605862fe518e6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bērg.er",
       "img": "",
-      "pronunciation": "bˈɜːdʒɚ",
+      "pronunciation": "bɛrˈʒɛr",
       "senses": [
         {
           "definition": "a French-style armchair with upholstered sides and back and an exposed wooden frame",
@@ -94,38 +98,83 @@
       ]
     },
     {
+      "id": "10471752-c4cf-41c3-a3e7-753203dc92e6",
       "word": "armchair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJtY2hhaXI&hash=1ef5a7bc3f3cb4b8c59835842e629eeb12dbdf72&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:rmʧɛr",
+      "phonetic_text": "ɑ:rm.ʧɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJtY2hhaXI&hash=1ef5a7bc3f3cb4b8c59835842e629eeb12dbdf72&lang=en&cache-only=0",
-      "phonetic_am_text": "aarmcher",
+      "phonetic_am_text": "aarm.cher",
       "img": "https://cdn.langeek.co/photo/50777/original/armchair?type=jpeg",
       "pronunciation": "ˈɑɹmˌtʃɛɹ",
       "senses": [
         {
           "definition": "a chair with side supports for the arms and a comfortable backrest, often used for relaxation or reading",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The dog loves to curl up in the armchair when no one’s looking."
+            },
+            {
+              "cf": "",
+              "x": "He sank into the armchair after a long day at work."
+            },
+            {
+              "cf": "",
+              "x": "He sat in the armchair by the fire, reading a book."
+            },
+            {
+              "cf": "",
+              "x": "She bought a new armchair with soft cushions for the study."
+            },
+            {
+              "cf": "",
+              "x": "The living room had a cozy armchair and a matching sofa."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "59b1b792-1bf8-4061-b8f9-3b6d3616e787",
       "word": "banquette",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFucXVldHRl&hash=38537596459a121f58c3c5990f9bfa30f19d3a9e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæn.kɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFucXVldHRl&hash=38537596459a121f58c3c5990f9bfa30f19d3a9e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bān.ket",
       "img": "https://cdn.langeek.co/photo/42158/original/?type=jpeg",
       "pronunciation": "bænkˈɛt",
       "senses": [
         {
           "definition": "an upholstered bench often built into a wall or used as built-in seating in a dining or kitchen area",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The restaurant had a cozy corner with a banquette where families could sit together."
+            },
+            {
+              "cf": "",
+              "x": "She decided to add a banquette in the kitchen to make the dining area more comfortable."
+            },
+            {
+              "cf": "",
+              "x": "The banquette along the wall was upholstered in soft leather, making it both stylish and practical."
+            },
+            {
+              "cf": "",
+              "x": "During the renovation, they replaced the old chairs with a custom-built banquette to save space."
+            },
+            {
+              "cf": "",
+              "x": "The café featured a banquette with colorful cushions, creating a vibrant seating arrangement."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "5fc88e15-059c-41d9-8f8b-790f2386cb8d",
       "word": "bench",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVuY2g&hash=155d600c93dea5356641a7d2da5a2bb06e2a1abd&lang=en&cache-only=0",
@@ -137,17 +186,35 @@
       "senses": [
         {
           "definition": "a long and hard seat that is normally made of metal or wood and two or multiple people can sit on",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I like to sit on the bench and watch people walking by."
+            },
+            {
+              "cf": "",
+              "x": "She found a comfortable bench to rest and read her book."
+            },
+            {
+              "cf": "",
+              "x": "She tied her shoelaces on the bench before going for a run."
+            },
+            {
+              "cf": "",
+              "x": "They gathered around the bench to have a group discussion."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "954ab1b7-4f0c-416b-a95d-39223e12d74b",
       "word": "barrel chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFycmVsIGNoYWly&hash=ad1b824373fef4181b74c059eb7147eb0f2360a0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæ.rəl ʧɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFycmVsIGNoYWly&hash=ad1b824373fef4181b74c059eb7147eb0f2360a0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bā.rēl cher",
       "img": "https://cdn.langeek.co/photo/42160/original/?type=jpeg",
       "pronunciation": "bˈæɹəl tʃˈɛɹ",
       "senses": [
@@ -179,12 +246,13 @@
       ]
     },
     {
+      "id": "fe097656-732b-4ee9-85ba-b8be9aaf0d8f",
       "word": "basket chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFza2V0IGNoYWly&hash=b01adaad19c5f6f1443f01462e243a0627ca1985&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæs.kət ʧɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFza2V0IGNoYWly&hash=b01adaad19c5f6f1443f01462e243a0627ca1985&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bās.kēt cher",
       "img": "https://cdn.langeek.co/photo/42162/original/?type=jpeg",
       "pronunciation": "bˈæskɪt tʃˈɛɹ",
       "senses": [
@@ -216,12 +284,13 @@
       ]
     },
     {
+      "id": "de869d5f-020e-4ff8-b8aa-55689856456d",
       "word": "beanbag",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVhbmJhZw&hash=edebd701a14457d040cacfa76f4bd6f2efdd549a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bi:n.bæg",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVhbmJhZw&hash=edebd701a14457d040cacfa76f4bd6f2efdd549a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bin.bāg",
       "img": "https://cdn.langeek.co/photo/42102/original/?type=jpeg",
       "pronunciation": "bˈiːnbæɡ",
       "senses": [
@@ -232,12 +301,13 @@
       ]
     },
     {
+      "id": "c2f66ff2-be75-41b2-9048-d43a8fd98104",
       "word": "bentwood",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVudHdvb2Q&hash=101f814102469d96bb87514dad058275b765ca24&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɛnt.wʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVudHdvb2Q&hash=101f814102469d96bb87514dad058275b765ca24&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bent.vood",
       "img": "https://cdn.langeek.co/photo/42164/original/?type=jpeg",
       "pronunciation": "ˈbentwʊd",
       "senses": [
@@ -269,10 +339,11 @@
       ]
     },
     {
-      "word": "berbice chair",
+      "id": "ca66c72a-00d3-4749-a28a-d6aeef8eb22b",
+      "word": "Berbice chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QmVyYmljZSBjaGFpcg&hash=c0f8a549da606f52efcafabe5943d22595e34f74&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QmVyYmljZSBjaGFpcg&hash=c0f8a549da606f52efcafabe5943d22595e34f74&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42166/original/?type=jpeg",
@@ -306,12 +377,13 @@
       ]
     },
     {
+      "id": "20c26bc0-2b80-4e55-a3c6-e98249b28db4",
       "word": "carver",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FydmVy&hash=7b0a9e07e06049479fdc9bf757e7cf3f0730834a&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:rvər",
+      "phonetic_text": "kɑr.vɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FydmVy&hash=7b0a9e07e06049479fdc9bf757e7cf3f0730834a&lang=en&cache-only=0",
-      "phonetic_am_text": "kaarvēr",
+      "phonetic_am_text": "kaar.vēr",
       "img": "",
       "pronunciation": "ˈkɑɹvɝ",
       "senses": [
@@ -322,12 +394,13 @@
       ]
     },
     {
+      "id": "4ba7d06f-7df6-4bf1-8964-aca9a9c5dace",
       "word": "deck chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVjayBjaGFpcg&hash=6f7d35557517153dfea0b46c8835b125351374cb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɛk ʧɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVjayBjaGFpcg&hash=6f7d35557517153dfea0b46c8835b125351374cb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dek cher",
       "img": "https://cdn.langeek.co/photo/33829/original/?type=jpeg",
       "pronunciation": "dˈɛk tʃˈɛɹ",
       "senses": [
@@ -359,12 +432,13 @@
       ]
     },
     {
+      "id": "71fe180f-b728-4d16-b0dc-50a02616d8f0",
       "word": "dining chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGluaW5nIGNoYWly&hash=244390df83bd32d058901f3b72323dbd8d30b06a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "daɪ.nɪng ʧɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGluaW5nIGNoYWly&hash=244390df83bd32d058901f3b72323dbd8d30b06a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dai.ning cher",
       "img": "https://cdn.langeek.co/photo/42180/original/?type=jpeg",
       "pronunciation": "dˈaɪnɪŋ tʃˈɛɹ",
       "senses": [
@@ -375,12 +449,13 @@
       ]
     },
     {
+      "id": "64749018-44da-4150-afbc-569c07c8982c",
       "word": "easy chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWFzeSBjaGFpcg&hash=2f1e71654d6b20b3821172d9b2baf05d8338878f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "i:.zi ʧɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWFzeSBjaGFpcg&hash=2f1e71654d6b20b3821172d9b2baf05d8338878f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "i.zi cher",
       "img": "https://cdn.langeek.co/photo/28313/original/?type=jpeg",
       "pronunciation": "ˈiːzi tʃˈɛɹ",
       "senses": [
@@ -412,12 +487,13 @@
       ]
     },
     {
+      "id": "dcf18fe5-1036-4ac9-8f46-c4f4d298ce28",
       "word": "fauteuil",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmF1dGV1aWw&hash=18eabf3d93f47f1b84d1f75b14798c10b52afe19&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɔ:.tju:ɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmF1dGV1aWw&hash=18eabf3d93f47f1b84d1f75b14798c10b52afe19&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "faw.tyooil",
       "img": "https://cdn.langeek.co/photo/42104/original/?type=jpeg",
       "pronunciation": "fˈɔːtjuːˌɪl",
       "senses": [
@@ -449,12 +525,13 @@
       ]
     },
     {
+      "id": "b61414cc-3bf1-4859-87bb-861fa53c03f8",
       "word": "fiddle-back chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmlkZGxlLWJhY2sgY2hhaXI&hash=a5c8350dd8866ed5ff31d5ed5803293b20413ff0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɪ.dəl-bæk ʧɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmlkZGxlLWJhY2sgY2hhaXI&hash=a5c8350dd8866ed5ff31d5ed5803293b20413ff0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fi.dēl-bāk cher",
       "img": "https://cdn.langeek.co/photo/42106/original/?type=jpeg",
       "pronunciation": "fˈɪdəlbˈæk",
       "senses": [
@@ -486,12 +563,13 @@
       ]
     },
     {
+      "id": "f03c1188-d901-49bb-9417-a38e7a47ac29",
       "word": "folding chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9sZGluZyBjaGFpcg&hash=7feb81858daaa2d97c039361de09fde848bee95b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "foʊl.dɪng ʧɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9sZGluZyBjaGFpcg&hash=7feb81858daaa2d97c039361de09fde848bee95b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "foool.ding cher",
       "img": "https://cdn.langeek.co/photo/33390/original/?type=jpeg",
       "pronunciation": "fˈoʊldɪŋ tʃˈɛɹ",
       "senses": [
@@ -523,12 +601,13 @@
       ]
     },
     {
+      "id": "03d23225-d321-42f6-a0a4-d23f147407dd",
       "word": "garden chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2FyZGVuIGNoYWly&hash=0f8ef5173e9b2353ddd3702c2f6b86cdfc7b3ba1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gɑ:r.dən ʧɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2FyZGVuIGNoYWly&hash=0f8ef5173e9b2353ddd3702c2f6b86cdfc7b3ba1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gaar.dēn cher",
       "img": "https://cdn.langeek.co/photo/42178/original/?type=jpeg",
       "pronunciation": "ɡˈɑːɹdən tʃˈɛɹ",
       "senses": [
@@ -560,12 +639,13 @@
       ]
     },
     {
+      "id": "4686dc71-55a4-4fac-b985-fa9c63ae54dd",
       "word": "hassock",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFzc29jaw&hash=1aa74c8e507ce092c985742fc8f097864d4cc126&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hæ.sək",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFzc29jaw&hash=1aa74c8e507ce092c985742fc8f097864d4cc126&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hā.sēk",
       "img": "https://cdn.langeek.co/photo/42108/original/?type=jpeg",
       "pronunciation": "hˈæsək",
       "senses": [
@@ -576,12 +656,13 @@
       ]
     },
     {
+      "id": "4f5ff65b-1561-4b00-8bbb-a387d6f92b79",
       "word": "high chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGlnaCBjaGFpcg&hash=969f18877bab4f69c1340cbeadcf2ea1b3dcf90f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "haɪ ʧɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=aGlnaCBjaGFpcg&hash=969f18877bab4f69c1340cbeadcf2ea1b3dcf90f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hai cher",
       "img": "https://cdn.langeek.co/photo/28321/original/?type=jpeg",
       "pronunciation": "hˈaɪ tʃˈɛɹ",
       "senses": [
@@ -592,12 +673,13 @@
       ]
     },
     {
+      "id": "80f03713-4957-483f-b3fb-ff3bb980e751",
       "word": "kneeling chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a25lZWxpbmcgY2hhaXI&hash=e887bc95fbf517b67fa390f1ffa89d8d14821495&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ni.lɪng ʧɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=a25lZWxpbmcgY2hhaXI&hash=e887bc95fbf517b67fa390f1ffa89d8d14821495&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ni.ling cher",
       "img": "https://cdn.langeek.co/photo/42186/original/?type=jpeg",
       "pronunciation": "nˈiːlɪŋ tʃˈɛɹ",
       "senses": [
@@ -629,28 +711,51 @@
       ]
     },
     {
+      "id": "fd99bd24-cb7e-4b56-8b8a-c53bc2ecbd86",
       "word": "ladder-back chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFkZGVyLWJhY2sgY2hhaXI&hash=f4e888e85d58dff46b6da632bcc1e99e4740cc30&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "læ.dɜr-bæk ʧɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFkZGVyLWJhY2sgY2hhaXI&hash=f4e888e85d58dff46b6da632bcc1e99e4740cc30&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lā.dēr-bāk cher",
       "img": "https://cdn.langeek.co/photo/42192/original/?type=jpeg",
       "pronunciation": "lˈædɚbˈæk tʃˈɛɹ",
       "senses": [
         {
           "definition": "a type of chair with horizontal slats resembling a ladder on the backrest",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The old farmhouse had a set of ladder-back chairs around the dining table."
+            },
+            {
+              "cf": "",
+              "x": "I found a beautiful ladder-back chair at the antique store."
+            },
+            {
+              "cf": "",
+              "x": "The kitchen was decorated with wooden ladder-back chairs, giving it a rustic feel."
+            },
+            {
+              "cf": "",
+              "x": "She sat in a ladder-back chair by the window, enjoying the afternoon sun."
+            },
+            {
+              "cf": "",
+              "x": "The artist painted a series of ladder-back chairs in various colors."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e51ba30c-df51-4f5c-a86e-ec38412f17f7",
       "word": "lounger",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG91bmdlcg&hash=09226279fa32e313804f069c9f107d109ceb3a13&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "laʊn.ʤər",
       "phonetic_am": "https://tts.langeek.co/read?text=bG91bmdlcg&hash=09226279fa32e313804f069c9f107d109ceb3a13&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "laoon.jēr",
       "img": "https://cdn.langeek.co/photo/42196/original/?type=jpeg",
       "pronunciation": "lˈaʊndʒɚ",
       "senses": [
@@ -661,10 +766,11 @@
       ]
     },
     {
+      "id": "56c34470-230b-4ff4-bf5f-4c9280c5e1aa",
       "word": "Morris chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=TW9ycmlzIGNoYWly&hash=605197cd3adb8fea9273295ac7bc571f7ec67571&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=TW9ycmlzIGNoYWly&hash=605197cd3adb8fea9273295ac7bc571f7ec67571&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42168/original/?type=jpeg",
@@ -672,33 +778,77 @@
       "senses": [
         {
           "definition": "a type of armchair with adjustable back and arms that can be lowered to create a flat surface",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The Morris chair in the living room has a beautiful wooden frame and a comfy, adjustable backrest."
+            },
+            {
+              "cf": "",
+              "x": "After a long day, he relaxed in his Morris chair, tilting the backrest to the perfect angle."
+            },
+            {
+              "cf": "",
+              "x": "The vintage Morris chair added a touch of elegance to the room with its classic design."
+            },
+            {
+              "cf": "",
+              "x": "She loves curling up with a good book in her Morris chair, which reclines for ultimate comfort."
+            },
+            {
+              "cf": "",
+              "x": "We decided to add a Morris chair to our reading nook for a cozy and stylish seating option."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b10c899c-0bd8-42b0-9e90-b9d6b6916439",
       "word": "platform rocker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGxhdGZvcm0gcm9ja2Vy&hash=3855e6c73c40ef08c1493b09651f758eb60104cd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "plæt.fɔrm rɑ.kɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cGxhdGZvcm0gcm9ja2Vy&hash=3855e6c73c40ef08c1493b09651f758eb60104cd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "plāt.fawrm raa.kēr",
       "img": "",
       "pronunciation": "plˈætfɔːɹm ɹˈɑːkɚ",
       "senses": [
         {
           "definition": "a rocking chair with a stationary base and a platform that moves with the chair's back and seat",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The platform rocker in the living room provided the perfect spot for reading a book in the afternoon."
+            },
+            {
+              "cf": "",
+              "x": "She relaxed in her platform rocker, enjoying the gentle rocking motion while watching the sunset."
+            },
+            {
+              "cf": "",
+              "x": "After a long day, he sank into the cozy platform rocker and let the rhythmic rocking help him unwind."
+            },
+            {
+              "cf": "",
+              "x": "The nursery had a comfortable platform rocker for the parents to use while soothing their baby to sleep."
+            },
+            {
+              "cf": "",
+              "x": "They placed a platform rocker by the fireplace, creating a cozy corner for quiet moments."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f06ce211-d5f3-4899-b74d-6bb272034643",
       "word": "pouf",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG91Zg&hash=9dc55b190ee942d4770ea96b96c367f3051e6207&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pu:f",
       "phonetic_am": "https://tts.langeek.co/read?text=cG91Zg&hash=9dc55b190ee942d4770ea96b96c367f3051e6207&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "poof",
       "img": "",
       "pronunciation": "pˈuːf",
       "senses": [
@@ -709,76 +859,161 @@
       ]
     },
     {
+      "id": "718f2d73-ab50-42a6-a158-84dc7939df75",
       "word": "reclining chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVjbGluaW5nIGNoYWly&hash=92cfd8deb6a78e0a26df4873adb8ac34672d6128&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rik.laɪ.nɪng ʧɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVjbGluaW5nIGNoYWly&hash=92cfd8deb6a78e0a26df4873adb8ac34672d6128&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rik.lai.ning cher",
       "img": "https://cdn.langeek.co/photo/28405/original/?type=jpeg",
       "pronunciation": "ɹɪklˈaɪnɪŋ tʃˈɛɹ",
       "senses": [
         {
           "definition": "a chair with a backrest that tilts backwards and a footrest that extends out in front of the seat",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "After a long day at work, she sank into her reclining chair and stretched out her legs."
+            },
+            {
+              "cf": "",
+              "x": "The reclining chair in the living room was perfect for watching movies on the weekend."
+            },
+            {
+              "cf": "",
+              "x": "He adjusted the footrest on his reclining chair to relax after his workout."
+            },
+            {
+              "cf": "",
+              "x": "The reclining chair in the corner of the room is my favorite spot to unwind."
+            },
+            {
+              "cf": "",
+              "x": "The elderly woman enjoys sitting in her reclining chair with a good book."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "639d4a61-5f7c-498f-8a5b-5ac2d7b2ba9d",
       "word": "straight chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RyYWlnaHQgY2hhaXI&hash=036eb3e6ee070ed540da774a915274da5b047796&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "streɪt ʧɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyYWlnaHQgY2hhaXI&hash=036eb3e6ee070ed540da774a915274da5b047796&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "streit cher",
       "img": "https://cdn.langeek.co/photo/42210/original/?type=jpeg",
       "pronunciation": "stɹˈeɪt tʃˈɛɹ",
       "senses": [
         {
           "definition": "a simple chair without arms or upholstery, usually made of wood and designed for basic seating",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The straight chair is perfect for the dining table, offering simple and sturdy seating."
+            },
+            {
+              "cf": "",
+              "x": "The office was filled with straight chairs around a long conference table."
+            },
+            {
+              "cf": "",
+              "x": "He preferred the straight chair over the lounge chair for working on his projects."
+            },
+            {
+              "cf": "",
+              "x": "The straight chair was uncomfortable after a few hours, but it served its purpose."
+            },
+            {
+              "cf": "",
+              "x": "They placed a row of straight chairs along the wall for extra seating during the event."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "64f894e8-db89-4d20-a067-fd643941e4e9",
       "word": "swing egg chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3dpbmcgZWdnIGNoYWly&hash=a10f54a742a96ee712941c61dabd8ec91ba1f7e5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "swɪng ɛg ʧɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3dpbmcgZWdnIGNoYWly&hash=a10f54a742a96ee712941c61dabd8ec91ba1f7e5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sving eg cher",
       "img": "https://cdn.langeek.co/photo/42174/original/?type=jpeg",
       "pronunciation": "swˈɪŋ ˈɛɡ tʃˈɛɹ",
       "senses": [
         {
           "definition": "a type of hanging chair with a round egg-shaped seat that swings and can be used for indoor or outdoor seating",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The swing egg chair on the patio was the perfect spot to relax and enjoy the view."
+            },
+            {
+              "cf": "",
+              "x": "She spent the afternoon reading in the swing egg chair, gently rocking back and forth."
+            },
+            {
+              "cf": "",
+              "x": "The kids took turns sitting in the swing egg chair, laughing as it swayed in the breeze."
+            },
+            {
+              "cf": "",
+              "x": "After a long day, he loved unwinding in his cozy swing egg chair on the balcony."
+            },
+            {
+              "cf": "",
+              "x": "The swing egg chair adds a touch of style and comfort to the outdoor lounge area."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "6a56ae6c-6490-4fa4-8cd3-ec67842a82bb",
       "word": "swivel chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3dpdmVsIGNoYWly&hash=4ea919bf173ca29ef9cc8e1f3cfa38e9cf6c141d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "swɪ.vəl ʧɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3dpdmVsIGNoYWly&hash=4ea919bf173ca29ef9cc8e1f3cfa38e9cf6c141d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "svi.vēl cher",
       "img": "https://cdn.langeek.co/photo/42204/original/?type=jpeg",
       "pronunciation": "swˈɪvəl tʃˈɛɹ",
       "senses": [
         {
           "definition": "a type of chair that can rotate 360 degrees around a central axis, allowing the seated person to easily turn and face different directions",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The swivel chair was comfortable enough for long meetings, with a padded seat and adjustable height."
+            },
+            {
+              "cf": "",
+              "x": "The children fought over who would sit in the swivel chair during family game night."
+            },
+            {
+              "cf": "",
+              "x": "I adjusted the swivel chair to a lower position to make it easier to reach the computer."
+            },
+            {
+              "cf": "",
+              "x": "The office has swivel chairs that allow employees to move around easily while working at their desks."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "48c36e3b-cfe6-4f7d-a9ba-268d691dfd98",
       "word": "tub chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHViIGNoYWly&hash=0f37a687f9031b2eefaa8442f583b4a0a413a6e5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "təb ʧɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=dHViIGNoYWly&hash=0f37a687f9031b2eefaa8442f583b4a0a413a6e5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tēb cher",
       "img": "https://cdn.langeek.co/photo/42206/original/?type=jpeg",
       "pronunciation": "tˈʌb tʃˈɛɹ",
       "senses": [
@@ -810,10 +1045,11 @@
       ]
     },
     {
+      "id": "106aafad-66bb-4499-b74c-b3eefb344b18",
       "word": "Windsor chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=V2luZHNvciBjaGFpcg&hash=8a3448ba5a13142d201dc4c5eae89665a35bedd8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=V2luZHNvciBjaGFpcg&hash=8a3448ba5a13142d201dc4c5eae89665a35bedd8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42172/original/?type=jpeg",
@@ -839,12 +1075,13 @@
       ]
     },
     {
+      "id": "e2ac0fb0-fe8d-4497-9127-5869417545fc",
       "word": "wing chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2luZyBjaGFpcg&hash=7bae59d76d61a540411a574cf71d7ebcc9721fad&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɪng ʧɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luZyBjaGFpcg&hash=7bae59d76d61a540411a574cf71d7ebcc9721fad&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ving cher",
       "img": "https://cdn.langeek.co/photo/42208/original/?type=jpeg",
       "pronunciation": "wˈɪŋ tʃˈɛɹ",
       "senses": [
@@ -876,10 +1113,11 @@
       ]
     },
     {
+      "id": "be84d5a1-4d04-4976-b8b8-a6376ee9b920",
       "word": "rocking chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9ja2luZyBjaGFpcg&hash=d783b14187e2600093c187514eaa1625c105afe5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9ja2luZyBjaGFpcg&hash=d783b14187e2600093c187514eaa1625c105afe5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/28407/original/?type=jpeg",
@@ -913,12 +1151,13 @@
       ]
     },
     {
+      "id": "33f55cea-88dd-42a1-adb8-a8b93d2bb470",
       "word": "accent chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWNjZW50IGNoYWly&hash=73e5e9195711283cb655b40fec1fccbaa73ff3e1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æk.sɛnt ʧɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=YWNjZW50IGNoYWly&hash=73e5e9195711283cb655b40fec1fccbaa73ff3e1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "āk.sent cher",
       "img": "",
       "pronunciation": "ˈæksənt tʃˈɛɹ",
       "senses": [
@@ -950,12 +1189,13 @@
       ]
     },
     {
+      "id": "a63dcff2-560b-4233-b11d-a472df1b514d",
       "word": "vanity stool",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmFuaXR5IHN0b29s&hash=5789ee7c0b4413a8c922daf4c78508c080bbacd5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "væ.nə.ti stul",
       "phonetic_am": "https://tts.langeek.co/read?text=dmFuaXR5IHN0b29s&hash=5789ee7c0b4413a8c922daf4c78508c080bbacd5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vā.nē.ti stool",
       "img": "https://cdn.langeek.co/photo/42170/original/?type=jpeg",
       "pronunciation": "vˈænɪɾi stˈuːl",
       "senses": [
@@ -966,12 +1206,13 @@
       ]
     },
     {
+      "id": "17f04f50-b23e-41ae-a518-556f38f4235b",
       "word": "footstool",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9vdHN0b29s&hash=46bf47571dc1f22dc6cfaf6ead50fbeed6afb07d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fʊt.stul",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9vdHN0b29s&hash=46bf47571dc1f22dc6cfaf6ead50fbeed6afb07d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "foot.stool",
       "img": "",
       "pronunciation": "fˈʊtstuːl",
       "senses": [
@@ -1003,12 +1244,13 @@
       ]
     },
     {
+      "id": "49194470-5b38-49cb-a077-3861d405f05c",
       "word": "bar stool",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFyIHN0b29s&hash=025acf39667093ede16038184e17e3801f1f0bbd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɑr stul",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFyIHN0b29s&hash=025acf39667093ede16038184e17e3801f1f0bbd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baar stool",
       "img": "https://cdn.langeek.co/photo/50699/original/?type=jpeg",
       "pronunciation": "bˈɑːɹ stˈuːl",
       "senses": [
@@ -1036,12 +1278,13 @@
       ]
     },
     {
+      "id": "a37b3ba6-a792-487f-b638-bbefeca6b4be",
       "word": "counter stool",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291bnRlciBzdG9vbA&hash=047b956e5ac395a4d8247702e03f049d7bf86f2e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kaʊn.tɜr stul",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291bnRlciBzdG9vbA&hash=047b956e5ac395a4d8247702e03f049d7bf86f2e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaoon.tēr stool",
       "img": "",
       "pronunciation": "kˈaʊntɚ stˈuːl",
       "senses": [
@@ -1069,12 +1312,13 @@
       ]
     },
     {
+      "id": "a02c80e5-2d21-441b-801d-a61fcbaa7e6a",
       "word": "garden stool",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2FyZGVuIHN0b29s&hash=a51b03ec82eee7d53273969384db8078f7e98654&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gɑ:r.dən stul",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2FyZGVuIHN0b29s&hash=a51b03ec82eee7d53273969384db8078f7e98654&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gaar.dēn stool",
       "img": "https://cdn.langeek.co/photo/42182/original/?type=jpeg",
       "pronunciation": "ɡˈɑːɹdən stˈuːl",
       "senses": [
@@ -1106,12 +1350,13 @@
       ]
     },
     {
+      "id": "c05bf443-82b9-43cd-9cca-94c2a8cef467",
       "word": "ottoman",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3R0b21hbg&hash=b74bd4456bf115628024b3eb94d378daa30d6ff0&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:təmən",
+      "phonetic_text": "ɑ.tə.mən",
       "phonetic_am": "https://tts.langeek.co/read?text=b3R0b21hbg&hash=b74bd4456bf115628024b3eb94d378daa30d6ff0&lang=en&cache-only=0",
-      "phonetic_am_text": "aatēmēn",
+      "phonetic_am_text": "aa.tē.mēn",
       "img": "https://cdn.langeek.co/photo/42110/original/?type=jpeg",
       "pronunciation": "ˈɑtəmən",
       "senses": [
@@ -1122,12 +1367,13 @@
       ]
     },
     {
+      "id": "1f9eb081-28b9-4530-96f0-7ba059a796a9",
       "word": "step stool",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RlcCBzdG9vbA&hash=e05d051048b9d538c83edec99d2cf66700a67e2f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stɛp stul",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RlcCBzdG9vbA&hash=e05d051048b9d538c83edec99d2cf66700a67e2f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "step stool",
       "img": "https://cdn.langeek.co/photo/42200/original/?type=jpeg",
       "pronunciation": "stˈɛp stˈuːl",
       "senses": [
@@ -1159,12 +1405,13 @@
       ]
     },
     {
+      "id": "74e6bbfb-a68a-4175-b9f6-344aa99556e5",
       "word": "folding stool",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9sZGluZyBzdG9vbA&hash=886b5e2386f837522c66f5f24759728d88046296&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "foʊl.dɪng stul",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9sZGluZyBzdG9vbA&hash=886b5e2386f837522c66f5f24759728d88046296&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "foool.ding stool",
       "img": "",
       "pronunciation": "fˈoʊldɪŋ stˈuːl",
       "senses": [
@@ -1196,6 +1443,7 @@
       ]
     },
     {
+      "id": "0d8bba64-6e97-4f95-9f53-ff7c5b56c9b6",
       "word": "leg",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGVn&hash=5f8f04ff0cf2f7301b58813e1b162bc9a90143e0&lang=en&cache-only=0",
@@ -1212,44 +1460,89 @@
       ]
     },
     {
+      "id": "1a9913a0-3c7d-453f-886d-2b4ae142639a",
       "word": "backrest",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFja3Jlc3Q&hash=105da19e4c8e55fbb56f64681f8e5dac9dc45147&lang=en&cache-only=0",
-      "phonetic_text": "bækrɛst",
+      "phonetic_text": "bæk.rɛst",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFja3Jlc3Q&hash=105da19e4c8e55fbb56f64681f8e5dac9dc45147&lang=en&cache-only=0",
-      "phonetic_am_text": "bākrest",
+      "phonetic_am_text": "bāk.rest",
       "img": "https://cdn.langeek.co/photo/42156/original/?type=jpeg",
       "pronunciation": "ˈbæˌkɹɛst",
       "senses": [
         {
           "definition": "the part of a chair, bench, or sofa that supports the back and may extend up to the shoulders or head",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The backrest of the chair was perfectly angled for comfort."
+            },
+            {
+              "cf": "",
+              "x": "She leaned back against the soft backrest and sighed with relief."
+            },
+            {
+              "cf": "",
+              "x": "The backrest of the sofa provides excellent support for long sitting sessions."
+            },
+            {
+              "cf": "",
+              "x": "The reclining chair has a movable backrest that allows you to change its angle."
+            },
+            {
+              "cf": "",
+              "x": "He adjusted the backrest of the chair to find a more comfortable position."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f20a758a-a36d-4d3d-b534-2acc88ff0ce2",
       "word": "armrest",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJtcmVzdA&hash=d24c4a67b507fb7b59f421364d93b7466ee1f827&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:rmrɛst",
+      "phonetic_text": "ɑ:rm.rɛst",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJtcmVzdA&hash=d24c4a67b507fb7b59f421364d93b7466ee1f827&lang=en&cache-only=0",
-      "phonetic_am_text": "aarmrest",
+      "phonetic_am_text": "aarm.rest",
       "img": "",
       "pronunciation": "ˈɑɹmˌɹɛst",
       "senses": [
         {
           "definition": "a part of a chair or sofa that is designed to support the arms of a seated person, providing comfort and relaxation",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She rested her arms on the armrests while relaxing in the comfortable chair."
+            },
+            {
+              "cf": "",
+              "x": "The armrest of the couch was covered in soft fabric for added comfort."
+            },
+            {
+              "cf": "",
+              "x": "He adjusted the armrest to a more comfortable height before sitting down."
+            },
+            {
+              "cf": "",
+              "x": "The recliner had padded armrests, making it perfect for long hours of sitting."
+            },
+            {
+              "cf": "",
+              "x": "She noticed the armrest was broken and needed to be repaired."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0d562968-58b0-4aa9-84ff-f7869eafd305",
       "word": "cushion",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3VzaGlvbg&hash=640b12031d1d1aaa946a61eaaebf0a32c114bb5c&lang=en&cache-only=0",
-      "phonetic_text": "kʊʃən",
+      "phonetic_text": "kʊ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3VzaGlvbg&hash=640b12031d1d1aaa946a61eaaebf0a32c114bb5c&lang=en&cache-only=0",
-      "phonetic_am_text": "kushēn",
+      "phonetic_am_text": "koo.shēn",
       "img": "",
       "pronunciation": "ˈkʊʃən",
       "senses": [
@@ -1260,14 +1553,15 @@
       ]
     },
     {
+      "id": "78e7ef49-1769-46ec-9d4c-787b40967de1",
       "word": "seat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VhdA&hash=f4950cd795f5864a6fa4e13b6014a71d656c452e&lang=en&cache-only=0",
       "phonetic_text": "si:t",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VhdA&hash=f4950cd795f5864a6fa4e13b6014a71d656c452e&lang=en&cache-only=0",
-      "phonetic_am_text": "seet",
+      "phonetic_am_text": "sit",
       "img": "",
-      "pronunciation": "ˈsit",
+      "pronunciation": "siːt",
       "senses": [
         {
           "definition": "the part of a chair or a sofa where one sits, typically consisting of a flat, horizontal surface supported by legs or a frame",
@@ -1276,12 +1570,13 @@
       ]
     },
     {
+      "id": "33035d2c-6178-4796-9e82-bdd6620393bd",
       "word": "massage chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFzc2FnZSBjaGFpcg&hash=76ecf04b0dff38b36bbe79d76c65d922544c55c6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mə.sɑʒ ʧɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFzc2FnZSBjaGFpcg&hash=76ecf04b0dff38b36bbe79d76c65d922544c55c6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mē.saazh cher",
       "img": "",
       "pronunciation": "mɐsˈɑːʒ tʃˈɛɹ",
       "senses": [

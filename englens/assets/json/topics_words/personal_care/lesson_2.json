@@ -1,15 +1,17 @@
 {
+  "id": "a128287a-c45e-47cb-b1f0-2a27105782b6",
   "topic": "personal_care",
   "title": "Skin Care",
   "lesson": "lesson_2",
   "word_list": [
     {
-      "word": "cream",
+      "id": "bab028f8-505c-46cd-9682-82a60de65d60",
+      "word": "to cream",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3JlYW0&hash=01fbf416a3503f4cf0e30537f8686cbbdcd1fad7&lang=en&cache-only=0",
       "phonetic_text": "kri:m",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3JlYW0&hash=01fbf416a3503f4cf0e30537f8686cbbdcd1fad7&lang=en&cache-only=0",
-      "phonetic_am_text": "kreem",
+      "phonetic_am_text": "krim",
       "img": "https://cdn.langeek.co/photo/29860/original/?type=jpeg",
       "pronunciation": "kriːm",
       "senses": [
@@ -41,12 +43,13 @@
       ]
     },
     {
+      "id": "92e61331-6161-4a61-8041-a4c43ce4c341",
       "word": "facial",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFjaWFs&hash=b7d2a01389ba38706fb043094b713c793b3a8bf4&lang=en&cache-only=0",
-      "phonetic_text": "feɪʃəl",
+      "phonetic_text": "feɪ.ʃəl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFjaWFs&hash=b7d2a01389ba38706fb043094b713c793b3a8bf4&lang=en&cache-only=0",
-      "phonetic_am_text": "feishēl",
+      "phonetic_am_text": "fei.shēl",
       "img": "https://cdn.langeek.co/photo/22840/original/?type=jpeg",
       "pronunciation": "ˈfeɪʃəɫ",
       "senses": [
@@ -78,12 +81,13 @@
       ]
     },
     {
-      "word": "exfoliate",
+      "id": "c6829449-4e36-4d00-ab72-026bbe7e1bad",
+      "word": "to exfoliate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZXhmb2xpYXRl&hash=9ce6c255e966a4ac5d92570ea5906232752727ca&lang=en&cache-only=0",
-      "phonetic_text": "ɛksfoʊlieɪt",
+      "phonetic_text": "ɛk.sfoʊ.lieɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZXhmb2xpYXRl&hash=9ce6c255e966a4ac5d92570ea5906232752727ca&lang=en&cache-only=0",
-      "phonetic_am_text": "eksfowlieit",
+      "phonetic_am_text": "ek.sfooo.lieit",
       "img": "",
       "pronunciation": "ɛksˈfoʊɫieɪt",
       "senses": [
@@ -115,12 +119,13 @@
       ]
     },
     {
+      "id": "f7a67f84-326a-4784-a8bc-dd3783cf2035",
       "word": "chemical peel",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hlbWljYWwgcGVlbA&hash=1d70dddc1cf7f580da7c3a4a7e1ef7c4fbd83a12&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɛ.mə.kəl pil",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hlbWljYWwgcGVlbA&hash=1d70dddc1cf7f580da7c3a4a7e1ef7c4fbd83a12&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ke.mē.kēl pil",
       "img": "",
       "pronunciation": "kɛmɪkəl piːl",
       "senses": [
@@ -131,7 +136,8 @@
       ]
     },
     {
-      "word": "cleanse",
+      "id": "42a89579-d63d-4279-9bc6-8c77a82fe653",
+      "word": "to cleanse",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2xlYW5zZQ&hash=0ce14c304c74fb56a2d9154f00fe1f0dfd2165b6&lang=en&cache-only=0",
       "phonetic_text": "klɛnz",
@@ -168,12 +174,13 @@
       ]
     },
     {
+      "id": "07a50ccc-21d5-4da4-967d-130eaf48259d",
       "word": "face peel",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFjZSBwZWVs&hash=07b3b1d35a1bdb2b360a1a47e8aaba2324d7133a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "feɪs pil",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFjZSBwZWVs&hash=07b3b1d35a1bdb2b360a1a47e8aaba2324d7133a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "feis pil",
       "img": "",
       "pronunciation": "feɪs piːl",
       "senses": [
@@ -184,12 +191,13 @@
       ]
     },
     {
-      "word": "make up",
+      "id": "8fb659f9-b99d-4eef-8ce1-cc1745283c29",
+      "word": "to make up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZSB1cA&hash=0b8bc43fbdf0ecebc12ad0092ad26bf192017101&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "meɪk ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFrZSB1cA&hash=0b8bc43fbdf0ecebc12ad0092ad26bf192017101&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "meik ap",
       "img": "",
       "pronunciation": "mˌeɪk ˈʌp",
       "senses": [
@@ -217,12 +225,13 @@
       ]
     },
     {
-      "word": "massage",
+      "id": "9947654d-b7ea-4e7d-935e-5aa4555bea34",
+      "word": "to massage",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFzc2FnZQ&hash=4546245f1fefccf6fcb9828b96a350f61002f742&lang=en&cache-only=0",
-      "phonetic_text": "məsɑ:ʒ",
+      "phonetic_text": "mə.sɑʒ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFzc2FnZQ&hash=4546245f1fefccf6fcb9828b96a350f61002f742&lang=en&cache-only=0",
-      "phonetic_am_text": "mēsaazh",
+      "phonetic_am_text": "mē.saazh",
       "img": "https://cdn.langeek.co/photo/21903/original/?type=jpeg",
       "pronunciation": "məˈsɑʒ",
       "senses": [
@@ -250,12 +259,13 @@
       ]
     },
     {
-      "word": "moisturize",
+      "id": "ac930603-f56e-424d-b138-44013d44ec42",
+      "word": "to moisturize",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbW9pc3R1cml6ZQ&hash=ef093590fa6b232bf66f4061cbf27ca5f4952746&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mɔɪs.ʧə.raɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbW9pc3R1cml6ZQ&hash=ef093590fa6b232bf66f4061cbf27ca5f4952746&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mawis.chē.raiz",
       "img": "",
       "pronunciation": "mˈɔɪstʃɚɹˌaɪz",
       "senses": [
@@ -266,6 +276,7 @@
       ]
     },
     {
+      "id": "604b7319-0a7c-4702-8b63-f6c3900df581",
       "word": "pat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGF0&hash=56cc2604a1da2c64f4376772dc54fc4f95822f0b&lang=en&cache-only=0",
@@ -282,12 +293,13 @@
       ]
     },
     {
-      "word": "powder",
+      "id": "47cb3112-3f04-418a-88bb-5a48a6089c03",
+      "word": "to powder",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcG93ZGVy&hash=dd1ac69239209c143f17cb82a9bde541caf3decb&lang=en&cache-only=0",
-      "phonetic_text": "paʊdər",
+      "phonetic_text": "paʊ.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcG93ZGVy&hash=dd1ac69239209c143f17cb82a9bde541caf3decb&lang=en&cache-only=0",
-      "phonetic_am_text": "pawdēr",
+      "phonetic_am_text": "paoo.dēr",
       "img": "",
       "pronunciation": "ˈpaʊdɝ",
       "senses": [
@@ -298,12 +310,13 @@
       ]
     },
     {
-      "word": "put on",
+      "id": "71024f6d-733f-48be-aad5-45ede6c52b8d",
+      "word": "to put on",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IG9u&hash=c874e673b42aee1bd7924077f0aa9df584d74436&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pʊt ɑ:n",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IG9u&hash=c874e673b42aee1bd7924077f0aa9df584d74436&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "poot aan",
       "img": "",
       "pronunciation": "pʊt ɑːn",
       "senses": [
@@ -314,12 +327,13 @@
       ]
     },
     {
-      "word": "touch up",
+      "id": "4b804ac4-0c56-4845-93b4-de63721b3d59",
+      "word": "to touch up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdG91Y2ggdXA&hash=1b0e65cce45c8b182ff63d6385e7ddf95562c067&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tʌʧ ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdG91Y2ggdXA&hash=1b0e65cce45c8b182ff63d6385e7ddf95562c067&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tach ap",
       "img": "https://cdn.langeek.co/photo/53574/original/?type=jpeg",
       "pronunciation": "tˈʌtʃ ˈʌp",
       "senses": [
@@ -330,12 +344,13 @@
       ]
     },
     {
+      "id": "710cd17a-df68-49cd-a6eb-dc5743e99436",
       "word": "skincare",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2tpbmNhcmU&hash=fbea01972e1da6cee108aabbbb1cec3635717d7e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skɪn.kɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=c2tpbmNhcmU&hash=fbea01972e1da6cee108aabbbb1cec3635717d7e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skin.ker",
       "img": "",
       "pronunciation": "skˈɪnkɛɹ",
       "senses": [
@@ -346,12 +361,13 @@
       ]
     },
     {
+      "id": "6fe59315-6ed0-439a-96fc-10b16e10ed14",
       "word": "toiletries",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dG9pbGV0cmllcw&hash=a912106cfd63e43a11f3fb330a7e3634909573be&lang=en&cache-only=0",
-      "phonetic_text": "tɔɪlətriz",
+      "phonetic_text": "tɔɪ.lət.riz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG9pbGV0cmllcw&hash=a912106cfd63e43a11f3fb330a7e3634909573be&lang=en&cache-only=0",
-      "phonetic_am_text": "toylētriz",
+      "phonetic_am_text": "tawi.lēt.riz",
       "img": "",
       "pronunciation": "ˈtɔɪɫətɹiz",
       "senses": [
@@ -362,12 +378,13 @@
       ]
     },
     {
+      "id": "cf914155-1370-435c-845a-966e5b3fd0ce",
       "word": "cosmetics",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29zbWV0aWNz&hash=1ede1b4ba1fc1a2666cac8fecb3e17fc0e57f2a3&lang=en&cache-only=0",
-      "phonetic_text": "kɑzmɛtɪks",
+      "phonetic_text": "kɑz.mɛ.tɪks",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29zbWV0aWNz&hash=1ede1b4ba1fc1a2666cac8fecb3e17fc0e57f2a3&lang=en&cache-only=0",
-      "phonetic_am_text": "kɑzmetiks",
+      "phonetic_am_text": "kaaz.me.tiks",
       "img": "https://cdn.langeek.co/photo/22961/original/?type=jpeg",
       "pronunciation": "kɑzˈmɛtɪks",
       "senses": [
@@ -395,12 +412,13 @@
       ]
     },
     {
+      "id": "62f29ebd-d0d2-4dee-bad8-a055654cbc23",
       "word": "cosmetic",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y29zbWV0aWM&hash=c737f015f1b108a2aace0f2e290a8c7417fbb7d6&lang=en&cache-only=0",
-      "phonetic_text": "kɑzmɛtɪk",
+      "phonetic_text": "kɑz.mɛ.tɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29zbWV0aWM&hash=c737f015f1b108a2aace0f2e290a8c7417fbb7d6&lang=en&cache-only=0",
-      "phonetic_am_text": "kɑzmetik",
+      "phonetic_am_text": "kaaz.me.tik",
       "img": "https://cdn.langeek.co/photo/22854/original/?type=jpeg",
       "pronunciation": "kɑzˈmɛtɪk",
       "senses": [
@@ -424,14 +442,15 @@
       ]
     },
     {
-      "word": "apply",
+      "id": "ebe3b866-a374-4a49-a881-a8f32c3f3015",
+      "word": "to apply",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYXBwbHk&hash=676baf37dddbc56a944042eaf533fe4ec42f4552&lang=en&cache-only=0",
-      "phonetic_text": "əplaɪ",
+      "phonetic_text": "əp.laɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYXBwbHk&hash=676baf37dddbc56a944042eaf533fe4ec42f4552&lang=en&cache-only=0",
-      "phonetic_am_text": "ēplai",
+      "phonetic_am_text": "ēp.lai",
       "img": "",
-      "pronunciation": "əˈpɫaɪ",
+      "pronunciation": "əˈplaɪ",
       "senses": [
         {
           "definition": "to put or spread something, such as a product or substance, onto a surface or area",
@@ -461,12 +480,13 @@
       ]
     },
     {
+      "id": "73a678c4-8777-4eba-9e8e-274fd803fce3",
       "word": "botox",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym90b3g&hash=5de6e31bc8b57cb2a5164d3192cd57988484af9d&lang=en&cache-only=0",
-      "phonetic_text": "boʊtɔks",
+      "phonetic_text": "boʊ.tɔks",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym90b3g&hash=5de6e31bc8b57cb2a5164d3192cd57988484af9d&lang=en&cache-only=0",
-      "phonetic_am_text": "bowtawks",
+      "phonetic_am_text": "booo.tawks",
       "img": "",
       "pronunciation": "ˈboʊˌtɔks",
       "senses": [
@@ -477,12 +497,13 @@
       ]
     },
     {
+      "id": "99d15a27-002c-44e0-9aac-88eae6244bb1",
       "word": "photorejuvenation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGhvdG9yZWp1dmVuYXRpb24&hash=33c738ee130010bdb0b2b3a35c52d2a5ab902669&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "foʊ.toʊ.rɪ.ʤu:.və.neɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=cGhvdG9yZWp1dmVuYXRpb24&hash=33c738ee130010bdb0b2b3a35c52d2a5ab902669&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fooo.tooo.ri.joo.vē.nei.shēn",
       "img": "",
       "pronunciation": "foʊɾoʊɹɪdʒuːvəneɪʃən",
       "senses": [
@@ -493,12 +514,13 @@
       ]
     },
     {
+      "id": "019c3d9a-613d-4f0e-8146-15cc9e74b97c",
       "word": "injectable filler",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5qZWN0YWJsZSBmaWxsZXI&hash=57c0d83fcaa0d838fd4c8510b36aca5cca40d782&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn.ʤɛk.tə.bəl fɪ.lɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5qZWN0YWJsZSBmaWxsZXI&hash=57c0d83fcaa0d838fd4c8510b36aca5cca40d782&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in.jek.tē.bēl fi.lēr",
       "img": "",
       "pronunciation": "ɪndʒˈɛktəbəl fɪlɚ",
       "senses": [
@@ -509,12 +531,13 @@
       ]
     },
     {
+      "id": "d60eaa54-c373-465c-b5a3-b46c1e844f44",
       "word": "exfoliation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXhmb2xpYXRpb24&hash=6f6cbaffa25e1deb422733217cad357117ada66c&lang=en&cache-only=0",
-      "phonetic_text": "ɛksfoʊlieɪʃən",
+      "phonetic_text": "ɛk.sfoʊ.lieɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXhmb2xpYXRpb24&hash=6f6cbaffa25e1deb422733217cad357117ada66c&lang=en&cache-only=0",
-      "phonetic_am_text": "eksfowlieishēn",
+      "phonetic_am_text": "ek.sfooo.liei.shēn",
       "img": "",
       "pronunciation": "ɛksˌfoʊɫiˈeɪʃən",
       "senses": [
@@ -525,10 +548,11 @@
       ]
     },
     {
+      "id": "8a4e948a-9be9-48bf-96b5-90e97ef305b0",
       "word": "laser resurfacing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFzZXIgcmVzdXJmYWNpbmc&hash=bbee9874d2396595d0cd9f5ec926a46c1c3ed437&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFzZXIgcmVzdXJmYWNpbmc&hash=bbee9874d2396595d0cd9f5ec926a46c1c3ed437&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -541,12 +565,13 @@
       ]
     },
     {
+      "id": "15a2aed0-a530-4ec4-b638-ce3bdb2d934d",
       "word": "facial rejuvenation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFjaWFsIHJlanV2ZW5hdGlvbg&hash=2d58edb9177d3d045a2d775580c5a8f043eabd52&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "feɪ.ʃəl rɪ.ʤu.və.neɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFjaWFsIHJlanV2ZW5hdGlvbg&hash=2d58edb9177d3d045a2d775580c5a8f043eabd52&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fei.shēl ri.joo.vē.nei.shēn",
       "img": "",
       "pronunciation": "feɪʃəl ɹɪdʒˌuːvəneɪʃən",
       "senses": [
@@ -557,14 +582,15 @@
       ]
     },
     {
+      "id": "55e254b8-f9ef-4b05-b71f-e3567b4f9a87",
       "word": "microdermabrasion",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWljcm9kZXJtYWJyYXNpb24&hash=467bc79cd8b988576f0dc55b4639c03fd7ce2bd8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "maɪk.roʊ.dɜr.məb.reɪ.ʒən",
       "phonetic_am": "https://tts.langeek.co/read?text=bWljcm9kZXJtYWJyYXNpb24&hash=467bc79cd8b988576f0dc55b4639c03fd7ce2bd8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "maik.rooo.dēr.mēb.rei.zhēn",
       "img": "",
-      "pronunciation": "maɪkɹoʊdˈɜːmɐbɹeɪʒən",
+      "pronunciation": "ˌmaɪkroʊˌdɝməˈbreɪʒən",
       "senses": [
         {
           "definition": "a cosmetic procedure that involves exfoliating the skin to remove dead skin cells and improve the skin's texture and appearance",
@@ -573,12 +599,13 @@
       ]
     },
     {
+      "id": "69c39f65-4e42-4068-97e4-c1125d5c8445",
       "word": "retinol therapy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmV0aW5vbCB0aGVyYXB5&hash=7c54956d17f60aebf3bc38e662622963161a08ff&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɛ.tɪ.nɔl θɛ.rə.pi",
       "phonetic_am": "https://tts.langeek.co/read?text=cmV0aW5vbCB0aGVyYXB5&hash=7c54956d17f60aebf3bc38e662622963161a08ff&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "re.ti.nawl the.rē.pi",
       "img": "",
       "pronunciation": "ɹɛtɪnɑːl θɛɹəpi",
       "senses": [
@@ -589,12 +616,13 @@
       ]
     },
     {
+      "id": "40087a9c-9670-4538-9525-db5d73a10d15",
       "word": "ultrasonic skin treatment",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dWx0cmFzb25pYyBza2luIHRyZWF0bWVudA&hash=c0304557fb9843a4ca96014c4fff96bf7f4befb1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "əlt.rə.sɑ.nɪk skɪn tri:t.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=dWx0cmFzb25pYyBza2luIHRyZWF0bWVudA&hash=c0304557fb9843a4ca96014c4fff96bf7f4befb1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ēlt.rē.saa.nik skin trit.mēnt",
       "img": "",
       "pronunciation": "ʊltɹɐsɑːnɪk skɪn tɹiːtmənt",
       "senses": [

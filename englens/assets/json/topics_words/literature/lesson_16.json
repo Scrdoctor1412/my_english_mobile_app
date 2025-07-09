@@ -1,15 +1,17 @@
 {
+  "id": "3a5a938d-3e29-4f89-ae72-e09beb140d8b",
   "topic": "literature",
   "title": "Mythological Places and Objects",
   "lesson": "lesson_16",
   "word_list": [
     {
-      "word": "atlantis",
+      "id": "29a009e5-d15f-4cf5-b910-aca72d9f2d68",
+      "word": "Atlantis",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QXRsYW50aXM&hash=4d573187b4c69ebc3219e2c6159f3e8cfa0a9341&lang=en&cache-only=0",
-      "phonetic_text": "ætlæntɪs",
+      "phonetic_text": "æt.læn.ɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=QXRsYW50aXM&hash=4d573187b4c69ebc3219e2c6159f3e8cfa0a9341&lang=en&cache-only=0",
-      "phonetic_am_text": "ātlāntis",
+      "phonetic_am_text": "āt.lān.is",
       "img": "",
       "pronunciation": "ætˈɫænɪs/, /ætˈɫæntɪs",
       "senses": [
@@ -20,12 +22,13 @@
       ]
     },
     {
-      "word": "elysium",
+      "id": "b3050759-7330-4836-9fc5-c565c94722e7",
+      "word": "Elysium",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RWx5c2l1bQ&hash=3cd8397a4a5b389bfbd77812fd070f3b01026911&lang=en&cache-only=0",
-      "phonetic_text": "ɪlɪziəm",
+      "phonetic_text": "ɪ.lɪ.ziəm",
       "phonetic_am": "https://tts.langeek.co/read?text=RWx5c2l1bQ&hash=3cd8397a4a5b389bfbd77812fd070f3b01026911&lang=en&cache-only=0",
-      "phonetic_am_text": "iliziēm",
+      "phonetic_am_text": "i.li.ziēm",
       "img": "",
       "pronunciation": "ɪˈɫɪziəm",
       "senses": [
@@ -36,12 +39,13 @@
       ]
     },
     {
-      "word": "mount olympus",
+      "id": "63e81db1-2ea5-4813-9fde-87cc44642478",
+      "word": "Mount olympus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=TW91bnQgb2x5bXB1cw&hash=5e399093426ec0cfe56af2f3c7a9731a1296fc3e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "maʊnt oʊ.lɪm.pəs",
       "phonetic_am": "https://tts.langeek.co/read?text=TW91bnQgb2x5bXB1cw&hash=5e399093426ec0cfe56af2f3c7a9731a1296fc3e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "maoont ooo.lim.pēs",
       "img": "",
       "pronunciation": "mˈaʊnt əlˈɪmpəs",
       "senses": [
@@ -52,12 +56,13 @@
       ]
     },
     {
-      "word": "asgard",
+      "id": "647120bf-50cd-441b-8fa4-9bbeea91ce5a",
+      "word": "Asgard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QXNnYXJk&hash=2b1478e91f5dc860b7d582b3f4bc8ae57d6d5420&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:sgɑrd",
+      "phonetic_text": "ɑs.gɑrd",
       "phonetic_am": "https://tts.langeek.co/read?text=QXNnYXJk&hash=2b1478e91f5dc860b7d582b3f4bc8ae57d6d5420&lang=en&cache-only=0",
-      "phonetic_am_text": "aasgɑrd",
+      "phonetic_am_text": "aas.gaard",
       "img": "",
       "pronunciation": "ˈɑsˌɡɑɹd",
       "senses": [
@@ -68,12 +73,13 @@
       ]
     },
     {
-      "word": "yggdrasil",
+      "id": "3e50250b-5855-475f-a26a-d43f7e452ed3",
+      "word": "Yggdrasil",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=WWdnZHJhc2ls&hash=d88d25d863c07b4f40fc6d22df814ef864f73868&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪgd.ræ.səl",
       "phonetic_am": "https://tts.langeek.co/read?text=WWdnZHJhc2ls&hash=d88d25d863c07b4f40fc6d22df814ef864f73868&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "igd.rā.sēl",
       "img": "",
       "pronunciation": "ˈɪɡdɹæsəl",
       "senses": [
@@ -84,10 +90,11 @@
       ]
     },
     {
+      "id": "bc56c042-dd25-45ca-a9ce-b18318cc6677",
       "word": "Midgard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=TWlkZ2FyZA&hash=cfe3a5fd38cf30cecbc5cb5aed995369ab2331d1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=TWlkZ2FyZA&hash=cfe3a5fd38cf30cecbc5cb5aed995369ab2331d1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -100,12 +107,13 @@
       ]
     },
     {
-      "word": "underworld",
+      "id": "6b8548be-afcf-4704-809b-8a68f08c12d8",
+      "word": "the Underworld",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIFVuZGVyd29ybGQ&hash=625ca573fd3d987a58cb6035105cae4e99b8e0d6&lang=en&cache-only=0",
-      "phonetic_text": "ʌndərwɜrld",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIFVuZGVyd29ybGQ&hash=625ca573fd3d987a58cb6035105cae4e99b8e0d6&lang=en&cache-only=0",
-      "phonetic_am_text": "andērwērld",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˈəndɝˌwɝɫd",
       "senses": [
@@ -116,12 +124,13 @@
       ]
     },
     {
+      "id": "c02d2664-fe1a-46fa-a5a3-e99f4b0f761e",
       "word": "oracle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3JhY2xl&hash=fdd7fca8cd775e64a62dfbf281fe5cbb39c672ff&lang=en&cache-only=0",
-      "phonetic_text": "ɔ:rəkəl",
+      "phonetic_text": "ɔ.rə.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=b3JhY2xl&hash=fdd7fca8cd775e64a62dfbf281fe5cbb39c672ff&lang=en&cache-only=0",
-      "phonetic_am_text": "aawrēkēl",
+      "phonetic_am_text": "aw.rē.kēl",
       "img": "",
       "pronunciation": "ˈɔɹəkəɫ",
       "senses": [
@@ -132,12 +141,30 @@
       ]
     },
     {
-      "word": "troy",
+      "id": "fcfebcaa-1c76-454d-9da7-9fbbd0259882",
+      "word": "the Labyrinth",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=dGhlIExhYnlyaW50aA&hash=41ecffc986cae6f891a49b474e5aa5c459b33f3a&lang=en&cache-only=0",
+      "phonetic_text": "læ.bɜ.rɪnθ",
+      "phonetic_am": "https://tts.langeek.co/read?text=dGhlIExhYnlyaW50aA&hash=41ecffc986cae6f891a49b474e5aa5c459b33f3a&lang=en&cache-only=0",
+      "phonetic_am_text": "lā.bē.rinth",
+      "img": "",
+      "pronunciation": "ˈɫæbɝˌɪnθ",
+      "senses": [
+        {
+          "definition": "(in Greek mythology) a complex maze designed to trap the Minotaur, which was so intricate that it was nearly impossible to escape from",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "id": "65a7b154-730a-4718-8cd3-48af23ddeb0b",
+      "word": "Troy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VHJveQ&hash=005d9ca847f32777b0b4d0325de443b10bc60244&lang=en&cache-only=0",
       "phonetic_text": "trɔɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=VHJveQ&hash=005d9ca847f32777b0b4d0325de443b10bc60244&lang=en&cache-only=0",
-      "phonetic_am_text": "troy",
+      "phonetic_am_text": "trawi",
       "img": "",
       "pronunciation": "ˈtɹɔɪ",
       "senses": [
@@ -148,12 +175,13 @@
       ]
     },
     {
-      "word": "tiryns",
+      "id": "7e38ee31-6914-45ed-804c-32425fd12f6c",
+      "word": "Tiryns",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VGlyeW5z&hash=6de63d87606c003582665e808e18c847ab7ca9ec&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɜ:.rɪnz",
       "phonetic_am": "https://tts.langeek.co/read?text=VGlyeW5z&hash=6de63d87606c003582665e808e18c847ab7ca9ec&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tē.rinz",
       "img": "",
       "pronunciation": "tˈɜːɹɪnz",
       "senses": [
@@ -164,12 +192,13 @@
       ]
     },
     {
-      "word": "thebes",
+      "id": "3b94e473-46c3-46bb-87cc-f8189e58191b",
+      "word": "Thebes",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VGhlYmVz&hash=e912ce4ce7d8ee1b1d90206c73ac69f3154c1e9e&lang=en&cache-only=0",
-      "phonetic_text": "θi:bz",
+      "phonetic_text": "θibz",
       "phonetic_am": "https://tts.langeek.co/read?text=VGhlYmVz&hash=e912ce4ce7d8ee1b1d90206c73ac69f3154c1e9e&lang=en&cache-only=0",
-      "phonetic_am_text": "theebz",
+      "phonetic_am_text": "thibz",
       "img": "",
       "pronunciation": "ˈθibz",
       "senses": [
@@ -180,10 +209,11 @@
       ]
     },
     {
+      "id": "b569b6f0-2e50-4754-acb1-3b9a92fe7f90",
       "word": "Sparta",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=U3BhcnRh&hash=b8bd86c4725030215a0d8484e146b79f1fd068e6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=U3BhcnRh&hash=b8bd86c4725030215a0d8484e146b79f1fd068e6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -196,12 +226,13 @@
       ]
     },
     {
-      "word": "mycenae",
+      "id": "d602dede-b791-44d5-9121-05222d8528f6",
+      "word": "Mycenae",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=TXljZW5hZQ&hash=b35f93d07e33da22decb054278f0f68d4d262980&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "maɪ.sə.ni:",
       "phonetic_am": "https://tts.langeek.co/read?text=TXljZW5hZQ&hash=b35f93d07e33da22decb054278f0f68d4d262980&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mai.sē.ni",
       "img": "",
       "pronunciation": "mˈaɪsənˌiː",
       "senses": [
@@ -212,12 +243,13 @@
       ]
     },
     {
-      "word": "corinth",
+      "id": "9fae317f-71c4-4027-8a98-3253fec06949",
+      "word": "Corinth",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q29yaW50aA&hash=576098e07c6de30f1970c07375131159f3760b46&lang=en&cache-only=0",
-      "phonetic_text": "kɔ:rənθ",
+      "phonetic_text": "kɔ.rənθ",
       "phonetic_am": "https://tts.langeek.co/read?text=Q29yaW50aA&hash=576098e07c6de30f1970c07375131159f3760b46&lang=en&cache-only=0",
-      "phonetic_am_text": "kaawrēnth",
+      "phonetic_am_text": "kaw.rēnth",
       "img": "",
       "pronunciation": "ˈkɔɹənθ",
       "senses": [
@@ -228,7 +260,8 @@
       ]
     },
     {
-      "word": "styx",
+      "id": "5c5445ce-4a43-4d62-83d6-9cb9ef61c365",
+      "word": "Styx",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=U3R5eA&hash=d0e29dba8590e0b93c88e55d2b3a50e58b811e45&lang=en&cache-only=0",
       "phonetic_text": "stɪks",
@@ -244,12 +277,13 @@
       ]
     },
     {
-      "word": "nun",
+      "id": "afcf2915-9f97-4179-8e25-1fc12faeaa95",
+      "word": "Nun",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=TnVu&hash=b666fe469aac2a850906d76385f4b262dba08ba9&lang=en&cache-only=0",
-      "phonetic_text": "nʌn",
+      "phonetic_text": "nən",
       "phonetic_am": "https://tts.langeek.co/read?text=TnVu&hash=b666fe469aac2a850906d76385f4b262dba08ba9&lang=en&cache-only=0",
-      "phonetic_am_text": "nan",
+      "phonetic_am_text": "nēn",
       "img": "",
       "pronunciation": "ˈnən",
       "senses": [
@@ -260,10 +294,11 @@
       ]
     },
     {
+      "id": "df68a26a-8fba-4411-b804-90c3d4b8e109",
       "word": "Fortunate Isles",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Rm9ydHVuYXRlIElzbGVz&hash=fb0a57ca9bb1dc027c8b48a6f44a51c64e400ae4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Rm9ydHVuYXRlIElzbGVz&hash=fb0a57ca9bb1dc027c8b48a6f44a51c64e400ae4&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -276,12 +311,13 @@
       ]
     },
     {
-      "word": "excalibur",
+      "id": "e0026ba7-13cd-4a36-8bc6-b2cb701de68c",
+      "word": "Excalibur",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RXhjYWxpYnVy&hash=ca12d94e082f05b653dfb6e53c9cedf76468348e&lang=en&cache-only=0",
-      "phonetic_text": "ɛkskæləbər",
+      "phonetic_text": "ɛk.skæ.lə.bɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=RXhjYWxpYnVy&hash=ca12d94e082f05b653dfb6e53c9cedf76468348e&lang=en&cache-only=0",
-      "phonetic_am_text": "ekskālēbēr",
+      "phonetic_am_text": "ek.skā.lē.bēr",
       "img": "",
       "pronunciation": "ˌɛkˈskæɫəbɝ",
       "senses": [
@@ -292,10 +328,11 @@
       ]
     },
     {
-      "word": "pandora's box",
+      "id": "b43cd20c-27ec-4271-b9c4-2aaa6019b5e2",
+      "word": "Pandora's box",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=UGFuZG9yYSdzIGJveA&hash=de853e4f1ce62dc6b0c412bf2e7f7bf0da08e9d0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=UGFuZG9yYSdzIGJveA&hash=de853e4f1ce62dc6b0c412bf2e7f7bf0da08e9d0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -308,12 +345,13 @@
       ]
     },
     {
+      "id": "671c4a87-baaa-4cf4-82ff-782edf03c386",
       "word": "trident",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJpZGVudA&hash=7618352525ab9edcd5a7af2c1932475e88fc2731&lang=en&cache-only=0",
-      "phonetic_text": "traɪdənt",
+      "phonetic_text": "traɪ.dənt",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJpZGVudA&hash=7618352525ab9edcd5a7af2c1932475e88fc2731&lang=en&cache-only=0",
-      "phonetic_am_text": "traidēnt",
+      "phonetic_am_text": "trai.dēnt",
       "img": "",
       "pronunciation": "ˈtɹaɪdənt",
       "senses": [
@@ -324,12 +362,13 @@
       ]
     },
     {
+      "id": "8049a02d-3ac1-414f-95c3-7fe197728f5f",
       "word": "aegis",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWVnaXM&hash=023e3f884696d83a42b4f20f29aea36361aef4e4&lang=en&cache-only=0",
-      "phonetic_text": "i:ʤəs",
+      "phonetic_text": "i.ʤəs",
       "phonetic_am": "https://tts.langeek.co/read?text=YWVnaXM&hash=023e3f884696d83a42b4f20f29aea36361aef4e4&lang=en&cache-only=0",
-      "phonetic_am_text": "eejēs",
+      "phonetic_am_text": "i.jēs",
       "img": "",
       "pronunciation": "ˈidʒəs",
       "senses": [
@@ -340,12 +379,13 @@
       ]
     },
     {
+      "id": "8c2f682c-7959-42f1-a3dd-76288e3acf04",
       "word": "amulet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW11bGV0&hash=3015110c5a4aa0262e8b626ec870265192fc2a51&lang=en&cache-only=0",
-      "phonetic_text": "æmjələt",
+      "phonetic_text": "æm.jə.lət",
       "phonetic_am": "https://tts.langeek.co/read?text=YW11bGV0&hash=3015110c5a4aa0262e8b626ec870265192fc2a51&lang=en&cache-only=0",
-      "phonetic_am_text": "āmyēlēt",
+      "phonetic_am_text": "ām.yē.lēt",
       "img": "https://cdn.langeek.co/photo/26451/original/?type=jpeg",
       "pronunciation": "ˈæmjəɫət",
       "senses": [
@@ -356,6 +396,7 @@
       ]
     },
     {
+      "id": "aeeec0d8-a3fe-4d81-8a67-e12e4f12fb83",
       "word": "ankh",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW5raA&hash=a265d63cba073acfc42888e259017b1ea7d8584e&lang=en&cache-only=0",
@@ -372,12 +413,13 @@
       ]
     },
     {
-      "word": "ark of the covenant",
+      "id": "fb262264-cf79-4a00-aaa4-e58a9bca32a1",
+      "word": "the Ark of the covenant",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIEFyayBvZiB0aGUgY292ZW5hbnQ&hash=63a754cb3698e08c1f652819d472bef39cf332c9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑrk ʌv ðə kə.və.nənt",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIEFyayBvZiB0aGUgY292ZW5hbnQ&hash=63a754cb3698e08c1f652819d472bef39cf332c9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aark av dhē kē.vē.nēnt",
       "img": "",
       "pronunciation": "ˈɑːɹk ʌvðə kˈʌvənənt",
       "senses": [
@@ -388,12 +430,13 @@
       ]
     },
     {
+      "id": "6d79c900-a3b7-46e2-b957-ef3dc9668da3",
       "word": "caduceus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FkdWNldXM&hash=9d94b02feb4ab90da514564df5d411b00a237250&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kæ.ʤu:.sɪəs",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FkdWNldXM&hash=9d94b02feb4ab90da514564df5d411b00a237250&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kā.joo.siēs",
       "img": "",
       "pronunciation": "kædʒˈuːsɪəs",
       "senses": [
@@ -404,10 +447,11 @@
       ]
     },
     {
-      "word": "venus's girdle",
+      "id": "052b7e63-e5b5-469e-9ca7-93e45c042cda",
+      "word": "Venus's girdle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VmVudXMncyBnaXJkbGU&hash=ced1012ad1efafbd6488bd7f88846f26b9fa717b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=VmVudXMncyBnaXJkbGU&hash=ced1012ad1efafbd6488bd7f88846f26b9fa717b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -420,12 +464,13 @@
       ]
     },
     {
+      "id": "0969ef9d-7f31-43f5-a247-ebfaaf478b0c",
       "word": "chalice",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hhbGljZQ&hash=4ae28ea2bdd8e8fab4600990efeb4ea879365d92&lang=en&cache-only=0",
-      "phonetic_text": "ʧælɪs",
+      "phonetic_text": "ʧæ.lɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hhbGljZQ&hash=4ae28ea2bdd8e8fab4600990efeb4ea879365d92&lang=en&cache-only=0",
-      "phonetic_am_text": "chālis",
+      "phonetic_am_text": "chā.lis",
       "img": "https://cdn.langeek.co/photo/38369/original/?type=jpeg",
       "pronunciation": "ˈtʃæɫɪs",
       "senses": [
@@ -436,12 +481,13 @@
       ]
     },
     {
-      "word": "fountain of youth",
+      "id": "00ad3a14-d0b6-4fa0-a806-6f0a5ac1b5f6",
+      "word": "the Fountain of youth",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIEZvdW50YWluIG9mIHlvdXRo&hash=b87975bbc9e530290e9955838f9f943247e9ff52&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "faʊn.tən ʌv juθ",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIEZvdW50YWluIG9mIHlvdXRo&hash=b87975bbc9e530290e9955838f9f943247e9ff52&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "faoon.tēn av yooth",
       "img": "",
       "pronunciation": "fˈaʊntɪn ʌv jˈuːθ",
       "senses": [
@@ -452,10 +498,11 @@
       ]
     },
     {
+      "id": "d37cbcbe-ebb4-4bde-9b5c-402a164209de",
       "word": "Draupnir",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RHJhdXBuaXI&hash=33ac846af4154b8da54d91daa6296796b2bed598&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RHJhdXBuaXI&hash=33ac846af4154b8da54d91daa6296796b2bed598&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -468,12 +515,13 @@
       ]
     },
     {
+      "id": "c1d4f58a-555e-4206-9049-8a3e9dceae1b",
       "word": "wand",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2FuZA&hash=214fecc2dae1f90bf727ac50405af0d209bedddf&lang=en&cache-only=0",
-      "phonetic_text": "wɑ:nd",
+      "phonetic_text": "wɑnd",
       "phonetic_am": "https://tts.langeek.co/read?text=d2FuZA&hash=214fecc2dae1f90bf727ac50405af0d209bedddf&lang=en&cache-only=0",
-      "phonetic_am_text": "waand",
+      "phonetic_am_text": "vaand",
       "img": "",
       "pronunciation": "ˈwɑnd",
       "senses": [
@@ -484,12 +532,13 @@
       ]
     },
     {
-      "word": "emerald tablet",
+      "id": "7706846b-5a94-4d5e-9076-6d9e30a7cc2e",
+      "word": "the Emerald tablet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIEVtZXJhbGQgdGFibGV0&hash=e87562d9567bbf04b9ab7892b1fda70d327a52c5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛ.mɜ.rəld tæb.lət",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIEVtZXJhbGQgdGFibGV0&hash=e87562d9567bbf04b9ab7892b1fda70d327a52c5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "e.mē.rēld tāb.lēt",
       "img": "",
       "pronunciation": "ˈɛmɚɹəld tˈæblət",
       "senses": [
@@ -500,10 +549,11 @@
       ]
     },
     {
-      "word": "eye of ra",
+      "id": "d25e2ad5-2403-4ca6-963e-ba649b6cbbf8",
+      "word": "Eye of ra",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RXllIG9mIHJh&hash=8e7d98ac88137ae24b6c9fed13573df2689d5b98&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RXllIG9mIHJh&hash=8e7d98ac88137ae24b6c9fed13573df2689d5b98&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -516,12 +566,13 @@
       ]
     },
     {
-      "word": "golden fleece",
+      "id": "7527ba5f-3e10-4800-906e-c65b23f612f9",
+      "word": "Golden fleece",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=R29sZGVuIGZsZWVjZQ&hash=bcbfa29784f3882226b4799114516d75cd50a7ae&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "goʊl.dən flis",
       "phonetic_am": "https://tts.langeek.co/read?text=R29sZGVuIGZsZWVjZQ&hash=bcbfa29784f3882226b4799114516d75cd50a7ae&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "goool.dēn flis",
       "img": "",
       "pronunciation": "ɡˈoʊldən flˈiːs",
       "senses": [
@@ -532,10 +583,11 @@
       ]
     },
     {
-      "word": "the Holy Grail",
+      "id": "6a2d7131-856a-45db-a543-76e58952c122",
+      "word": "Holy Grail",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=SG9seSBHcmFpbA&hash=358cc5e7167e57930318e9b18548a4a211d27200&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=SG9seSBHcmFpbA&hash=358cc5e7167e57930318e9b18548a4a211d27200&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -548,12 +600,13 @@
       ]
     },
     {
+      "id": "fa83d420-a936-482f-8463-82dff6d33b6a",
       "word": "cornucopia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29ybnVjb3BpYQ&hash=3faa142c96b5f662ca6b2ba9e111452514c0dfa8&lang=en&cache-only=0",
-      "phonetic_text": "kɔrnəkoʊpiə",
+      "phonetic_text": "kɔr.nə.koʊ.piə",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29ybnVjb3BpYQ&hash=3faa142c96b5f662ca6b2ba9e111452514c0dfa8&lang=en&cache-only=0",
-      "phonetic_am_text": "kawrnēkowpiē",
+      "phonetic_am_text": "kawr.nē.kooo.piē",
       "img": "",
       "pronunciation": "ˌkɔɹnəˈkoʊpiə",
       "senses": [
@@ -564,12 +617,13 @@
       ]
     },
     {
-      "word": "valhalla",
+      "id": "4832d386-5a02-4a35-842b-608783ef7ab9",
+      "word": "Valhalla",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VmFsaGFsbGE&hash=40338069fb33aaf74bf64f747176b94064f7b01b&lang=en&cache-only=0",
-      "phonetic_text": "vælhælə",
+      "phonetic_text": "væl.hæ.lə",
       "phonetic_am": "https://tts.langeek.co/read?text=VmFsaGFsbGE&hash=40338069fb33aaf74bf64f747176b94064f7b01b&lang=en&cache-only=0",
-      "phonetic_am_text": "vālhālē",
+      "phonetic_am_text": "vāl.hā.lē",
       "img": "",
       "pronunciation": "ˌvæɫˈhæɫə",
       "senses": [
@@ -580,12 +634,13 @@
       ]
     },
     {
+      "id": "202d0305-c69e-4840-b8a9-885a4d0d863b",
       "word": "wishing well",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2lzaGluZyB3ZWxs&hash=39262613b3c5cb726ed4abb2824d0cb5553d8fec&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɪ.ʃɪng wɛl",
       "phonetic_am": "https://tts.langeek.co/read?text=d2lzaGluZyB3ZWxs&hash=39262613b3c5cb726ed4abb2824d0cb5553d8fec&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vi.shing vel",
       "img": "",
       "pronunciation": "wˈɪʃɪŋ wˈɛl",
       "senses": [
@@ -596,12 +651,13 @@
       ]
     },
     {
+      "id": "b4be066b-b01a-43b4-b243-74452e865963",
       "word": "magic carpet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFnaWMgY2FycGV0&hash=ad4fc152e9284e45d0474b82a7e47491ca54dd86&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mæ.ʤɪk kɑ:r.pɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFnaWMgY2FycGV0&hash=ad4fc152e9284e45d0474b82a7e47491ca54dd86&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mā.jik kaar.pit",
       "img": "",
       "pronunciation": "mˈædʒɪk kˈɑːɹpɪt",
       "senses": [
@@ -612,12 +668,13 @@
       ]
     },
     {
+      "id": "608ea69c-dd40-489d-b213-eb7bd03851d0",
       "word": "talaria",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFsYXJpYQ&hash=a875b64fdc76b995141c78834d94c2ac4c438321&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tæ.lɛ.riə",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFsYXJpYQ&hash=a875b64fdc76b995141c78834d94c2ac4c438321&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tā.le.riē",
       "img": "",
       "pronunciation": "tælˈɛɹiə",
       "senses": [
@@ -628,12 +685,13 @@
       ]
     },
     {
-      "word": "wonderland",
+      "id": "b7a35117-21f8-4a1b-bbca-fbec57a3b249",
+      "word": "Wonderland",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=V29uZGVybGFuZA&hash=7ce9c730fe350105a986fb4c3aa45ee368cff806&lang=en&cache-only=0",
-      "phonetic_text": "wʌndərlænd",
+      "phonetic_text": "wən.dɜr.lænd",
       "phonetic_am": "https://tts.langeek.co/read?text=V29uZGVybGFuZA&hash=7ce9c730fe350105a986fb4c3aa45ee368cff806&lang=en&cache-only=0",
-      "phonetic_am_text": "wandērlānd",
+      "phonetic_am_text": "vēn.dēr.lānd",
       "img": "",
       "pronunciation": "ˈwəndɝˌɫænd",
       "senses": [

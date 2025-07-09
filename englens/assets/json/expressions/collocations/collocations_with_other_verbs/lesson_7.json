@@ -1,13 +1,15 @@
 {
+  "id": "2bfed0fe-44a4-427b-b30f-9cb007c84e01",
   "topic": "collocations_with_other_verbs",
   "title": "Engagement & Exchange",
   "lesson": "lesson_7",
   "word_list": [
     {
-      "word": "[close] the gap",
+      "id": "e743e4f8-2c9d-4829-b50c-4c508de5401f",
+      "word": "to [close] the gap",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2xvc2UgdGhlIGdhcA&hash=838dca3d4e86c08f300698ce5925be4548786263&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2xvc2UgdGhlIGdhcA&hash=838dca3d4e86c08f300698ce5925be4548786263&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -37,10 +39,11 @@
       ]
     },
     {
-      "word": "[draw] a comparison",
+      "id": "a2e9dbd1-b99b-4433-9381-ac40ee258118",
+      "word": "to [draw] a comparison",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJhdyBhIGNvbXBhcmlzb24&hash=4cb2bf879aeea130db0c631ca7938e771207037f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZHJhdyBhIGNvbXBhcmlzb24&hash=4cb2bf879aeea130db0c631ca7938e771207037f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -70,10 +73,11 @@
       ]
     },
     {
-      "word": "[jump] to (a|the) conclusion",
+      "id": "21dade46-2ef5-4f80-b6e4-e143585c0016",
+      "word": "to [jump] to (a|the) conclusion",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ganVtcCB0byBhIGNvbmNsdXNpb24&hash=66b34bc4a29617df905ce9ae7438150179f0202a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ganVtcCB0byBhIGNvbmNsdXNpb24&hash=66b34bc4a29617df905ce9ae7438150179f0202a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -95,10 +99,11 @@
       ]
     },
     {
-      "word": "[steer] clear of {sb/sth}",
+      "id": "7872d993-3df0-4d6d-981a-5627f753d1fa",
+      "word": "to [steer] clear of {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RlZXIgY2xlYXIgb2Ygc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=fe8a7f0cba96f3868380aa0b19353bd49f305e7d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RlZXIgY2xlYXIgb2Ygc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=fe8a7f0cba96f3868380aa0b19353bd49f305e7d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -106,32 +111,16 @@
       "senses": [
         {
           "definition": "to stay away from someone or something unpleasant, particularly one that is dangerous or troublesome",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She decided to steer clear of the argument to maintain a peaceful atmosphere."
-            },
-            {
-              "cf": "",
-              "x": "He knew it was best to steer clear of his former business partner, who had a history of unethical practices."
-            },
-            {
-              "cf": "",
-              "x": "He chose to steer clear of his neighbor who always seemed to create drama and conflict."
-            },
-            {
-              "cf": "",
-              "x": "To avoid potential conflicts, she chose to steer clear of controversial topics in conversation."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[wait] {one's} turn",
+      "id": "86fa975a-e0ee-43f7-8533-b464faa2e28d",
+      "word": "to [wait] {one's} turn",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2FpdCBvbmUncyB0dXJu&hash=42bbbabededd2a4bc71abf196c816e5436fa483a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2FpdCBvbmUncyB0dXJu&hash=42bbbabededd2a4bc71abf196c816e5436fa483a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -139,36 +128,16 @@
       "senses": [
         {
           "definition": "to patiently remain in line or in a queue, allowing others to go ahead before it is one's opportunity to proceed",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She patiently waited her turn at the busy coffee shop."
-            },
-            {
-              "cf": "",
-              "x": "The teacher instructed the students to wait their turn to speak during the discussion."
-            },
-            {
-              "cf": "",
-              "x": "In a conversation, it's important to listen and wait your turn to contribute."
-            },
-            {
-              "cf": "",
-              "x": "In the doctor's office, patients are expected to wait their turn until called by the receptionist."
-            },
-            {
-              "cf": "",
-              "x": "At the crowded bus stop, everyone patiently waited their turn to board the bus."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[bear] in mind",
+      "id": "ea2a8442-f504-41a1-9ef5-01ceb0e43a52",
+      "word": "to [bear] in mind",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmVhciBpbiBtaW5k&hash=796feaa6d3f3a8ae3d9abd140251a967cb8b2d2a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmVhciBpbiBtaW5k&hash=796feaa6d3f3a8ae3d9abd140251a967cb8b2d2a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -190,10 +159,11 @@
       ]
     },
     {
-      "word": "[wring] {sth} (from|out of) {sb}",
+      "id": "dd79d74a-ade9-49dd-9e58-45398028c563",
+      "word": "to [wring] {sth} (from|out of) {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd3Jpbmcgc29tZXRoaW5nIGZyb20gb2Ygc29tZWJvZHk&hash=52bf689638056c7a371e89f106a0998c10a85b58&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd3Jpbmcgc29tZXRoaW5nIGZyb20gb2Ygc29tZWJvZHk&hash=52bf689638056c7a371e89f106a0998c10a85b58&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/52271/original/?type=jpeg",
@@ -211,10 +181,11 @@
       ]
     },
     {
-      "word": "[cross] {one's} legs",
+      "id": "e4746d4a-1211-4f76-b95a-062890b91e99",
+      "word": "to [cross] {one's} legs",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3Jvc3Mgb25lJ3MgbGVncw&hash=c1dd50d15ba085a330f321e1dbe10ac6dbe67729&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3Jvc3Mgb25lJ3MgbGVncw&hash=c1dd50d15ba085a330f321e1dbe10ac6dbe67729&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -244,10 +215,11 @@
       ]
     },
     {
-      "word": "[lie] low",
+      "id": "fe2b754b-4702-462d-9991-d7fc1fcb6c35",
+      "word": "to [lie] low",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGllIGxvdw&hash=96a7aedbc0da639b836272d61be9c28f304993d5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGllIGxvdw&hash=96a7aedbc0da639b836272d61be9c28f304993d5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -277,12 +249,13 @@
       ]
     },
     {
-      "word": "look forward to",
+      "id": "af1cd341-18b0-4fcb-87b3-cdad1cab2336",
+      "word": "to look forward to",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbG9vayBmb3J3YXJkIHRv&hash=fe7a1e2068595d33184655a9d1fe92fa47b9ef3c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lʊk fɔr.wərd tu:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbG9vayBmb3J3YXJkIHRv&hash=fe7a1e2068595d33184655a9d1fe92fa47b9ef3c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "look fawr.vērd too",
       "img": "https://cdn.langeek.co/photo/26311/original/?type=jpeg",
       "pronunciation": "lˈʊk fˈoːɹwɚd tuː",
       "senses": [
@@ -314,10 +287,11 @@
       ]
     },
     {
-      "word": "[lend] credence",
+      "id": "f89afb72-a16d-48c2-857a-3fc9b22ce481",
+      "word": "to [lend] credence",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGVuZCBjcmVkZW5jZQ&hash=3b7bd049d5dab1ffdb16791441ae1d6efc42fc64&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGVuZCBjcmVkZW5jZQ&hash=3b7bd049d5dab1ffdb16791441ae1d6efc42fc64&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -325,36 +299,16 @@
       "senses": [
         {
           "definition": "to give support or credibility to a belief, theory, or statement",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Her eyewitness account lends credence to the idea that there was foul play involved in the incident."
-            },
-            {
-              "cf": "",
-              "x": "The scientific study lends credence to the hypothesis that certain foods can affect mood and mental health."
-            },
-            {
-              "cf": "",
-              "x": "The leaked documents lend credence to suspicions of corruption within the government."
-            },
-            {
-              "cf": "",
-              "x": "The expert's endorsement lends credence to the product's effectiveness and safety."
-            },
-            {
-              "cf": "",
-              "x": "The video evidence lends credence to the allegations of police brutality during the protest."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[build] momentum",
+      "id": "b2f6fcf8-00f8-49f1-8eb5-21d8f21b45d6",
+      "word": "to [build] momentum",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnVpbGQgbW9tZW50dW0&hash=97cc6d540c209ea5e386fd2d368ad73fc2eba583&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnVpbGQgbW9tZW50dW0&hash=97cc6d540c209ea5e386fd2d368ad73fc2eba583&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

@@ -23,6 +23,9 @@ class HomeScreen extends StatelessWidget {
 
         _drawer() {
           return Drawer(
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(0),
+            ),
             child: ListView(
               padding: EdgeInsets.zero,
               children: [
@@ -239,7 +242,7 @@ class HomeScreen extends StatelessWidget {
                   Positioned(
                     top: 50,
                     left: 20,
-                    child: GestureDetector(
+                    child: InkWell(
                       onTap: () {
                         Scaffold.of(context).openDrawer();
                         controller.scaffoldKey.currentState!.openDrawer();
@@ -338,7 +341,7 @@ class HomeScreen extends StatelessWidget {
                                         ),
                                       ),
                                       Text(
-                                        '2/5',
+                                        '0',
                                         style: TextStyle(
                                           fontSize: 40,
                                           letterSpacing: 3,

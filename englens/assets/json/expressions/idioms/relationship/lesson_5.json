@@ -1,13 +1,15 @@
 {
+  "id": "9488c1bd-2506-4c12-9b10-181835658823",
   "topic": "relationship",
   "title": "Dating",
   "lesson": "lesson_5",
   "word_list": [
     {
-      "word": "[make|cast] sheep's eyes at {sb}",
+      "id": "2a466ba3-051c-41b8-ba21-22fc947e793f",
+      "word": "to [make|cast] sheep's eyes at {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZSBzaGVlcCdzIGV5ZXMgYXQgc29tZWJvZHk&hash=ff606f342aeb5f7022a97741e546ac16f32ee580&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFrZSBzaGVlcCdzIGV5ZXMgYXQgc29tZWJvZHk&hash=ff606f342aeb5f7022a97741e546ac16f32ee580&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40205/original/?type=jpeg",
@@ -15,80 +17,52 @@
       "senses": [
         {
           "definition": "to look at someone in a way that shows one is very passionate about them",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Kelly giggled as she caught Josh making sheep's eyes at her across the crowded room."
-            },
-            {
-              "cf": "",
-              "x": "Patricia couldn't help but cast sheep's eyes at Tom from across the room, hoping he would notice her interest."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "e1bb2d85-1f5f-4e5f-adc8-f7bd5551d418",
       "word": "knight in shining armor",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=a25pZ2h0IGluIHNoaW5pbmcgYXJtb3I&hash=4d7b01f186a7be71cfa32828857ed27ed4f60d87&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "naɪt ɪn ʃaɪ.nɪng ɑr.mər",
       "phonetic_am": "https://tts.langeek.co/read?text=a25pZ2h0IGluIHNoaW5pbmcgYXJtb3I&hash=4d7b01f186a7be71cfa32828857ed27ed4f60d87&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nait in shai.ning aar.mēr",
       "img": "https://cdn.langeek.co/photo/40253/original/?type=jpeg",
       "pronunciation": "nˈaɪt ɪn ʃˈaɪnɪŋ ˈɑːɹmɚ",
       "senses": [
         {
           "definition": "a man who has all the qualities of a perfect romantic partner",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After a long day at work, Mary returned home to find a candlelit dinner prepared by her husband, her very own knight in shining armor."
-            },
-            {
-              "cf": "",
-              "x": "When Ashley's car broke down on the side of the road, Daniel, her knight in shining armor, arrived to rescue her and fix the engine."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "cd199874-4040-418e-a1cf-e78dddb9cb7d",
       "word": "goo-goo eyes",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29vLWdvbyBleWVz&hash=d1104f163397db7181c44b8b8a859e1258676d27&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gu-gu aɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=Z29vLWdvbyBleWVz&hash=d1104f163397db7181c44b8b8a859e1258676d27&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "goo-goo aiz",
       "img": "https://cdn.langeek.co/photo/40199/original/?type=jpeg",
       "pronunciation": "ɡˈuːɡˈuː ˈaɪz",
       "senses": [
         {
           "definition": "excessively affectionate glances at someone",
-          "examples": [
-            {
-              "cf": "",
-              "x": "As the couple sat in the park, they exchanged goo-goo eyes, completely enamored with each other."
-            },
-            {
-              "cf": "",
-              "x": "Blake couldn't help but notice how Camila was giving him goo-goo eyes during the entire dinner party."
-            },
-            {
-              "cf": "",
-              "x": "The little girl made goo-goo eyes at her parents, hoping to get a treat from the store."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "0c910ca0-a4be-439e-b609-1e9b0a4bfe27",
       "word": "sweet nothings",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3dlZXQgbm90aGluZ3M&hash=a009ce3a00dee8e6a84db3f303120d0b21908302&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "swi:t nə.θɪngz",
       "phonetic_am": "https://tts.langeek.co/read?text=c3dlZXQgbm90aGluZ3M&hash=a009ce3a00dee8e6a84db3f303120d0b21908302&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "svit nē.thingz",
       "img": "https://cdn.langeek.co/photo/40207/original/?type=jpeg",
       "pronunciation": "swˈiːt nˈʌθɪŋz",
       "senses": [
@@ -108,10 +82,11 @@
       ]
     },
     {
-      "word": "[bill] and [coo]",
+      "id": "d8e52427-ec09-4b0f-a8b6-ac42f14af1c6",
+      "word": "to [bill] and [coo]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmlsbCBhbmQgY29v&hash=456c239dabd23f0603c3cc480e2acdcdc6607feb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmlsbCBhbmQgY29v&hash=456c239dabd23f0603c3cc480e2acdcdc6607feb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40197/original/?type=jpeg",
@@ -119,45 +94,33 @@
       "senses": [
         {
           "definition": "(of two people) to kiss and talk with one another in a very quiet and sentimental way",
-          "examples": [
-            {
-              "cf": "",
-              "x": "At their anniversary party, the couple held hands, exchanged loving glances, and billed and cooed all night long."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "b8bce533-637a-41f7-9ac4-780b5f57e8b3",
       "word": "big mama",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmlnIG1hbWE&hash=47fcd3acb90f7f2d6d015925ae204fd21a076af5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɪg mɑ.mə",
       "phonetic_am": "https://tts.langeek.co/read?text=YmlnIG1hbWE&hash=47fcd3acb90f7f2d6d015925ae204fd21a076af5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "big maa.mē",
       "img": "https://cdn.langeek.co/photo/23061/original/?type=jpeg",
       "pronunciation": "bˈɪɡ mˈɑːmɐ",
       "senses": [
         {
           "definition": "used to refer to a man's wife or girlfriend",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I want to spend the rest of my life with my big mama."
-            },
-            {
-              "cf": "",
-              "x": "I'm going to take big mama out to dinner tonight."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[punch] above {one's} weight",
+      "id": "580f6ee8-e09a-4358-a469-e5f119dac6fc",
+      "word": "to [punch] above {one's} weight",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHVuY2ggYWJvdmUgb25lJ3Mgd2VpZ2h0&hash=6b56844189d0fedd438f9e2fa17201f84a4306b1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHVuY2ggYWJvdmUgb25lJ3Mgd2VpZ2h0&hash=6b56844189d0fedd438f9e2fa17201f84a4306b1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40261/original/?type=jpeg",
@@ -170,10 +133,11 @@
       ]
     },
     {
-      "word": "[be] an item",
+      "id": "887f3df6-214c-46c0-8bd8-fc86b72e4d08",
+      "word": "to [be] an item",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgYW4gaXRlbQ&hash=55055fde9d773fa80ac8313e4aa34e73625f052b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgYW4gaXRlbQ&hash=55055fde9d773fa80ac8313e4aa34e73625f052b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/29924/original/?type=jpeg",
@@ -195,33 +159,30 @@
       ]
     },
     {
+      "id": "b27fae6c-cd0e-49e0-8e2f-f02f62869adc",
       "word": "plenty of fish in the sea",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=cGxlbnR5IG9mIGZpc2ggaW4gdGhlIHNlYQ&hash=2c93ce2fea400951c2b3f30b8c474ef3d5e85033&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "plɛn.i ʌv fɪʃ ɪn ðə si:",
       "phonetic_am": "https://tts.langeek.co/read?text=cGxlbnR5IG9mIGZpc2ggaW4gdGhlIHNlYQ&hash=2c93ce2fea400951c2b3f30b8c474ef3d5e85033&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "plen.i av fish in dhē si",
       "img": "https://cdn.langeek.co/photo/40259/original/?type=jpeg",
       "pronunciation": "plˈɛnti ʌv fˈɪʃ ɪnðə sˈiː",
       "senses": [
         {
           "definition": "used to tell someone who is coming off a romantic relationship that they still have many options if they choose to get over the previous one",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After going through a breakup, Elizabeth's friends reminded her that there are plenty of fish in the sea and that she would find someone new."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "9bcb80db-21c3-4bb1-8b89-d6163fd030ae",
       "word": "bedroom eyes",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVkcm9vbSBleWVz&hash=195b583a03d152f5de60521428be933eebb31490&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɛd.ru:m aɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVkcm9vbSBleWVz&hash=195b583a03d152f5de60521428be933eebb31490&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bed.room aiz",
       "img": "https://cdn.langeek.co/photo/40195/original/?type=jpeg",
       "pronunciation": "bˈɛdɹuːm ˈaɪz",
       "senses": [
@@ -249,10 +210,11 @@
       ]
     },
     {
-      "word": "[have] something going with {sb}",
+      "id": "afd373cd-a44f-42a8-af68-ba17bfb3ca53",
+      "word": "to [have] something going with {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGF2ZSBzb21ldGhpbmcgZ29pbmcgd2l0aCBzb21lYm9keQ&hash=5b4f73b30de09fd522ffa2f57c87b8c4f4425f2e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGF2ZSBzb21ldGhpbmcgZ29pbmcgd2l0aCBzb21lYm9keQ&hash=5b4f73b30de09fd522ffa2f57c87b8c4f4425f2e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/35806/original/?type=jpeg",
@@ -265,10 +227,11 @@
       ]
     },
     {
-      "word": "[swing] both ways",
+      "id": "ef4d2f7c-e858-464f-9bca-8e7e20426dcf",
+      "word": "to [swing] both ways",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3dpbmcgYm90aCB3YXlz&hash=bda23cfce222597fe6a4e1b2dcd80d96deb9fffd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3dpbmcgYm90aCB3YXlz&hash=bda23cfce222597fe6a4e1b2dcd80d96deb9fffd&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40129/original/?type=jpeg",

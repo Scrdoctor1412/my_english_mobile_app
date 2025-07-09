@@ -1,13 +1,15 @@
 {
+  "id": "86b3d557-ddf0-4cae-91f9-36d2b5c2e20f",
   "topic": "danger",
   "title": "Violence",
   "lesson": "lesson_7",
   "word_list": [
     {
-      "word": "[beat|bash] {one's} brains (in|out)",
+      "id": "dee15fa6-62a7-45d4-af94-7de657f55d0e",
+      "word": "to [beat|bash] {one's} brains (in|out)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmVhdCBvbmUncyBicmFpbnMgaW4&hash=28cf18acdfa8ea42ea9f2c5570a642a3dac7ee57&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmVhdCBvbmUncyBicmFpbnMgaW4&hash=28cf18acdfa8ea42ea9f2c5570a642a3dac7ee57&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -15,20 +17,16 @@
       "senses": [
         {
           "definition": "to hit a person in the head so much that they die or get seriously injured",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The gang of thugs cornered the unfortunate individual and proceeded to beat his brains in, leaving him in critical condition."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[take] {sb} for a ride",
+      "id": "bd75e3da-3b86-4838-90b9-772798ab6a29",
+      "word": "to [take] {sb} for a ride",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBzb21lYm9keSBmb3IgYSByaWRl&hash=450be0f149386d5377123dc263e886e97e03209c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBzb21lYm9keSBmb3IgYSByaWRl&hash=450be0f149386d5377123dc263e886e97e03209c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -41,10 +39,11 @@
       ]
     },
     {
-      "word": "[lay] a (finger|hand) on {sb/sth}",
+      "id": "52ad1e76-f349-48cb-9006-a0d12524174e",
+      "word": "to [lay] a (finger|hand) on {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGF5IGEgZmluZ2VyIG9uIHNvbWVib2R5IG9yIHNvbWV0aGluZw&hash=4d6b679f3b14142f6f612f5b4bf6123f50f1f311&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGF5IGEgZmluZ2VyIG9uIHNvbWVib2R5IG9yIHNvbWV0aGluZw&hash=4d6b679f3b14142f6f612f5b4bf6123f50f1f311&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -52,73 +51,33 @@
       "senses": [
         {
           "definition": "to try to hurt a person physically or damage something in any slight way",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He was so angry, but he didn't lay a finger on his opponent, choosing to resolve the conflict peacefully."
-            },
-            {
-              "cf": "",
-              "x": "The bully threatened to beat up the smaller kid, but he never laid a finger on him."
-            },
-            {
-              "cf": "",
-              "x": "Despite the heated argument, she made sure not to lay a hand on her sibling during their disagreement."
-            },
-            {
-              "cf": "",
-              "x": "The strict teacher had a reputation for maintaining discipline without ever laying a finger on her students."
-            },
-            {
-              "cf": "",
-              "x": "The security personnel were instructed not to lay a finger on any protesters, even in the face of provocation."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "9674681f-9425-4207-96ef-efb9e7072a52",
       "word": "knuckle sandwich",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a251Y2tsZSBzYW5kd2ljaA&hash=78341a6ad86e7d88f3af43fe692a7bb8cfcb68e1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nəəkl sænd.wɪʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=a251Y2tsZSBzYW5kd2ljaA&hash=78341a6ad86e7d88f3af43fe692a7bb8cfcb68e1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nēēkl sānd.vich",
       "img": "",
       "pronunciation": "nˈʌkəl sˈændwɪtʃ",
       "senses": [
         {
           "definition": "used to refer to a punch that is hit in a person's mouth",
-          "examples": [
-            {
-              "cf": "",
-              "x": "When the schoolyard bully wouldn't leave him alone, he finally stood up and threatened to give him a knuckle sandwich."
-            },
-            {
-              "cf": "",
-              "x": "The heated argument at the bar almost turned into a brawl, with one patron warning the other to watch out for a knuckle sandwich."
-            },
-            {
-              "cf": "",
-              "x": "During the boxing match, the champion delivered a powerful punch to his opponent, essentially serving him a metaphorical knuckle sandwich."
-            },
-            {
-              "cf": "",
-              "x": "In the comedy movie, the witty protagonist threatened to serve his obnoxious neighbor a knuckle sandwich as a humorous way to defuse the situation."
-            },
-            {
-              "cf": "",
-              "x": "When the heckler continued to disrupt the comedian's act, the performer quipped that he might receive a knuckle sandwich if he didn't quiet down."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[knock] {one's} block off",
+      "id": "bc4270b5-f250-401c-84b4-0880a9686ae9",
+      "word": "to [knock] {one's} block off",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga25vY2sgb25lJ3MgYmxvY2sgb2Zm&hash=ffa96d60b7952de66e81de533debfc920a9ecef8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga25vY2sgb25lJ3MgYmxvY2sgb2Zm&hash=ffa96d60b7952de66e81de533debfc920a9ecef8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -126,24 +85,16 @@
       "senses": [
         {
           "definition": "to severely beat someone, often said as a threat",
-          "examples": [
-            {
-              "cf": "",
-              "x": "If he keeps insulting people, someone's going to knock his block off one of these days."
-            },
-            {
-              "cf": "",
-              "x": "When the prank went too far, she warned her friend that she'd knock his block off if he didn't stop."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[have] a go",
+      "id": "4f25e17e-60dd-4221-8ec1-d8abca6733ec",
+      "word": "to [have] a go",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGF2ZSBhIGdv&hash=9f794bd9dc51d028d8daa7705ed53757939cf213&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGF2ZSBhIGdv&hash=9f794bd9dc51d028d8daa7705ed53757939cf213&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -177,10 +128,11 @@
       ]
     },
     {
-      "word": "[clean] {one's} clock",
+      "id": "8222d289-b3b1-44fb-8bf8-d63524015744",
+      "word": "to [clean] {one's} clock",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2xlYW4gb25lJ3MgY2xvY2s&hash=7b84f5edf355b75a6126bcaa5a60bfcfda313909&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2xlYW4gb25lJ3MgY2xvY2s&hash=7b84f5edf355b75a6126bcaa5a60bfcfda313909&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -198,10 +150,11 @@
       ]
     },
     {
-      "word": "[beat] {sb} to a pulp",
+      "id": "935d1468-f28a-4d75-874b-161d16192d5b",
+      "word": "to [beat] {sb} to a pulp",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmVhdCBzb21lYm9keSB0byBhIHB1bHA&hash=a87e50c2ee9d8a8075cdce3eef8f5055a06b68dd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmVhdCBzb21lYm9keSB0byBhIHB1bHA&hash=a87e50c2ee9d8a8075cdce3eef8f5055a06b68dd&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -209,24 +162,16 @@
       "senses": [
         {
           "definition": "to keep hitting a person to the point of severe injury",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The rival football team was so much stronger that they beat us to a pulp on the field."
-            },
-            {
-              "cf": "",
-              "x": "After the final exam, Sarah felt mentally exhausted, as the challenging questions had beaten her to a pulp."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[beat] the (pants|socks) off {sb}",
+      "id": "e2e752ab-df8a-4fb2-8525-6f005c157b19",
+      "word": "to [beat] the (pants|socks) off {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmVhdCB0aGUgcGFudHMgb2ZmIHNvbWVib2R5&hash=8052e9781f61dfba2a2a195b7b006ed6a011ec93&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmVhdCB0aGUgcGFudHMgb2ZmIHNvbWVib2R5&hash=8052e9781f61dfba2a2a195b7b006ed6a011ec93&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -234,20 +179,16 @@
       "senses": [
         {
           "definition": "to easily win over an opponent or badly defeat them in a competition or contest",
-          "examples": [
-            {
-              "cf": "",
-              "x": "John is an amazing chess player; he can beat the pants off anyone in the club."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[whale] on {sb/sth}",
+      "id": "e4ce03a4-0e19-4941-af5b-9f615f05caf8",
+      "word": "to [whale] on {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2hhbGUgb24gc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=12aa58bb85bd91e7d46bec2f4e88a0291b6e479f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2hhbGUgb24gc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=12aa58bb85bd91e7d46bec2f4e88a0291b6e479f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -255,32 +196,16 @@
       "senses": [
         {
           "definition": "to violently or forcefully hit a person or thing many times",
-          "examples": [
-            {
-              "cf": "",
-              "x": "In the bar brawl, he started to whale on his opponent, throwing punch after punch."
-            },
-            {
-              "cf": "",
-              "x": "The bullies cornered the smaller kid and began to whale on him until a teacher intervened."
-            },
-            {
-              "cf": "",
-              "x": "The security guard had to use force to subdue the unruly protester who was whaling on the building's entrance."
-            },
-            {
-              "cf": "",
-              "x": "When provoked, the normally calm individual can unexpectedly whale on others with surprising strength."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[trade] punches",
+      "id": "55efd2db-5f1f-442d-9e1a-40cd1e16dc15",
+      "word": "to [trade] punches",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHJhZGUgcHVuY2hlcw&hash=9346bf46df764ae9483dbbc998c613e13bd3dd4c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHJhZGUgcHVuY2hlcw&hash=9346bf46df764ae9483dbbc998c613e13bd3dd4c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -288,36 +213,16 @@
       "senses": [
         {
           "definition": "(of people) to use their fists in order to hit each other during a fight or competition",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The two boxers traded punches in the ring, with each fighter trying to land a decisive blow."
-            },
-            {
-              "cf": "",
-              "x": "During the bar brawl, multiple patrons traded punches, leading to a chaotic scene."
-            },
-            {
-              "cf": "",
-              "x": "In the schoolyard fight, the two students traded punches until a teacher intervened to stop the altercation."
-            },
-            {
-              "cf": "",
-              "x": "When tempers flared during the argument, it escalated to a point where the individuals involved began to trade punches."
-            },
-            {
-              "cf": "",
-              "x": "The street fight ended when the two combatants tired themselves out, having traded punches for several minutes."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[come] to blows",
+      "id": "a0bb84a8-7d51-474e-bf46-037c7432831e",
+      "word": "to [come] to blows",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29tZSB0byBibG93cw&hash=51bad17edbe85c7bc42a8aa2cc8c964db7c0ffed&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29tZSB0byBibG93cw&hash=51bad17edbe85c7bc42a8aa2cc8c964db7c0ffed&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -325,28 +230,16 @@
       "senses": [
         {
           "definition": "(of two or more people) to get into a serious verbal argument or begin attacking each other physically because of a prior disagreement",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The heated argument between the neighbors eventually came to blows, resulting in a call to the police."
-            },
-            {
-              "cf": "",
-              "x": "At the crowded concert, a dispute over seating escalated, and it came to blows when security had to intervene to restore order."
-            },
-            {
-              "cf": "",
-              "x": "The disagreement between the two political leaders came to blows as they physically confronted each other during a televised debate."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[make] mincemeat (out|) of {sb/sth}",
+      "id": "8045e1cf-c9f4-40f5-9729-e5fe7ee24ad2",
+      "word": "to [make] mincemeat (out|) of {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZSBtaW5jZW1lYXQgb3V0IG9mIHNvbWVib2R5IG9yIHNvbWV0aGluZw&hash=3fda209d00694b4a0fb5a0b79dc716bb70573e5a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFrZSBtaW5jZW1lYXQgb3V0IG9mIHNvbWVib2R5IG9yIHNvbWV0aGluZw&hash=3fda209d00694b4a0fb5a0b79dc716bb70573e5a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -380,10 +273,11 @@
       ]
     },
     {
-      "word": "[beat|knock] the (living|) daylights out of {sb}",
+      "id": "02264944-78a5-4a0c-a803-2bcea9d59a23",
+      "word": "to [beat|knock] the (living|) daylights out of {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmVhdCB0aGUgbGl2aW5nIGRheWxpZ2h0cyBvdXQgb2Ygc29tZWJvZHk&hash=fb52930c23bf18d3b86013de60a6c54f3c9bce42&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmVhdCB0aGUgbGl2aW5nIGRheWxpZ2h0cyBvdXQgb2Ygc29tZWJvZHk&hash=fb52930c23bf18d3b86013de60a6c54f3c9bce42&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/22919/original/?type=jpeg",
@@ -401,10 +295,11 @@
       ]
     },
     {
-      "word": "[lay] a glove on {sb/sth}",
+      "id": "e63266c0-bc0f-4ca0-b10e-02a1c7ce51b5",
+      "word": "to [lay] a glove on {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGF5IGEgZ2xvdmUgb24gc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=ce6bba52f267eb62a059f4d081a439e760dc50f9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGF5IGEgZ2xvdmUgb24gc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=ce6bba52f267eb62a059f4d081a439e760dc50f9&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -412,28 +307,16 @@
       "senses": [
         {
           "definition": "to physically hit someone, particularly while wearing boxing gloves",
-          "examples": [
-            {
-              "cf": "",
-              "x": "In the intense boxing match, the champion couldn't lay a glove on his skilled opponent, who dodged every punch."
-            },
-            {
-              "cf": "",
-              "x": "The skilled martial artist's training enabled her to swiftly counter her opponent's attacks, making it nearly impossible for him to lay a glove on her."
-            },
-            {
-              "cf": "",
-              "x": "In the schoolyard fight, it was clear that the bully was no match for the smaller kid, as he couldn't lay a glove on his agile adversary."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[be] in the wars",
+      "id": "54034946-04da-4a95-b990-e79120d282ae",
+      "word": "to [be] in the wars",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgaW4gdGhlIHdhcnM&hash=1d7c257dc65acff7a79c0e688bb7f6d877008b9b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgaW4gdGhlIHdhcnM&hash=1d7c257dc65acff7a79c0e688bb7f6d877008b9b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

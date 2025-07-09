@@ -1,13 +1,15 @@
 {
+  "id": "58de869c-3218-48da-9964-958bfa4f52ed",
   "topic": "danger",
   "title": "Posing a Risk",
   "lesson": "lesson_1",
   "word_list": [
     {
-      "word": "[walk|tread] a tightrope",
+      "id": "1ae47851-031b-4edb-b98a-63efc4f8b872",
+      "word": "to [walk|tread] a tightrope",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2FsayBhIHRpZ2h0cm9wZQ&hash=9aa6c4ec189d77050b81e1b1f97fd9e13b119b41&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2FsayBhIHRpZ2h0cm9wZQ&hash=9aa6c4ec189d77050b81e1b1f97fd9e13b119b41&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -41,12 +43,13 @@
       ]
     },
     {
+      "id": "9cdc2d3c-a6cd-46fd-a876-5de54cf21fc3",
       "word": "a roll of the dice",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YSByb2xsIG9mIHRoZSBkaWNl&hash=ed7bfde4187f90312146e97c697d9b6dc1b86a52&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ə roʊl ʌv ðə daɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=YSByb2xsIG9mIHRoZSBkaWNl&hash=ed7bfde4187f90312146e97c697d9b6dc1b86a52&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ē roool av dhē dais",
       "img": "",
       "pronunciation": "ɐ ɹˈoʊl ʌvðə dˈaɪs",
       "senses": [
@@ -78,12 +81,13 @@
       ]
     },
     {
+      "id": "9260c0a2-504e-49cc-9cd0-426228db9318",
       "word": "house of cards",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aG91c2Ugb2YgY2FyZHM&hash=91488589c670df6aa5f2be7a02d0ce051e1f61a1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "haʊs ʌv kɑrdz",
       "phonetic_am": "https://tts.langeek.co/read?text=aG91c2Ugb2YgY2FyZHM&hash=91488589c670df6aa5f2be7a02d0ce051e1f61a1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "haoos av kaardz",
       "img": "",
       "pronunciation": "hˈaʊs ʌv kˈɑːɹdz",
       "senses": [
@@ -115,10 +119,11 @@
       ]
     },
     {
+      "id": "b93df0c6-1939-45fa-a27c-bf39d61e28e0",
       "word": "thrills and (spills|chills)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhyaWxscyBhbmQgc3BpbGxz&hash=8eee8ba0c5a98d369d06d3e0a6bebf9ff47c3dc9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhyaWxscyBhbmQgc3BpbGxz&hash=8eee8ba0c5a98d369d06d3e0a6bebf9ff47c3dc9&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -126,36 +131,16 @@
       "senses": [
         {
           "definition": "the kind of excitement that comes from engaging in activities that are dangerous",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Traveling to remote and unexplored places brings not only thrills and spills but also the opportunity to learn and grow."
-            },
-            {
-              "cf": "",
-              "x": "Participating in extreme sports like skydiving or rock climbing offers the perfect blend of thrills and chills for adrenaline junkies."
-            },
-            {
-              "cf": "",
-              "x": "Working in the entertainment industry can be a roller coaster ride with its thrills and spills, where one day you're on top, and the next day you face challenges."
-            },
-            {
-              "cf": "",
-              "x": "Life as a firefighter is full of thrills and chills, where you save lives one moment and battle intense fires the next."
-            },
-            {
-              "cf": "",
-              "x": "The stock market is a prime example of the thrills and spills of investing, where fortunes can be made or lost in a matter of seconds."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "88276e23-bd95-4467-8aa7-546c99d1df2c",
       "word": "dangerous (ground|territory)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZGFuZ2Vyb3VzIGdyb3VuZA&hash=e4172fd20a9fcee815d0badb68c5fbee0688eb8a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGFuZ2Vyb3VzIGdyb3VuZA&hash=e4172fd20a9fcee815d0badb68c5fbee0688eb8a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -189,10 +174,11 @@
       ]
     },
     {
-      "word": "[hang] by a (thread|hair)",
+      "id": "08d653f0-be34-4d59-ae49-f6dbb041bfe1",
+      "word": "to [hang] by a (thread|hair)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGFuZyBieSBhIHRocmVhZA&hash=6bc34a9d50aed994b5fbd5820135072c1e4c1405&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGFuZyBieSBhIHRocmVhZA&hash=6bc34a9d50aed994b5fbd5820135072c1e4c1405&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -226,68 +212,45 @@
       ]
     },
     {
+      "id": "d1a3043f-4d41-4b14-9b42-a5f978b5b445",
       "word": "in the fast lane",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aW4gdGhlIGZhc3QgbGFuZQ&hash=9a9472dcef1f016100ff0e7e391f7dda026d07fc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn ðə fæst leɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gdGhlIGZhc3QgbGFuZQ&hash=9a9472dcef1f016100ff0e7e391f7dda026d07fc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in dhē fāst lein",
       "img": "",
       "pronunciation": "ɪnðə fˈæst lˈeɪn",
       "senses": [
         {
           "definition": "in a way that involves danger yet is full of excitement and adventure",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Ever since he started traveling the world as a freelance photographer, he's been living life in the fast lane, capturing breathtaking but risky shots."
-            },
-            {
-              "cf": "",
-              "x": "Their decision to go skydiving together was a way of experiencing life in the fast lane, seeking the ultimate adventure."
-            },
-            {
-              "cf": "",
-              "x": "She chose a career as a wildlife biologist, working with dangerous animals in remote locations, always in the fast lane of exploration and discovery."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "21d33d6e-f6f2-4509-8942-fa0a2c2a42e4",
       "word": "touch and go",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG91Y2ggYW5kIGdv&hash=bbdf38fe5b2f97e6604bd64bb13542f9ed83a6a4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tʌʧ ænd goʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG91Y2ggYW5kIGdv&hash=bbdf38fe5b2f97e6604bd64bb13542f9ed83a6a4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tach ānd gooo",
       "img": "",
       "pronunciation": "tˈʌtʃ ænd ɡˈoʊ",
       "senses": [
         {
           "definition": "involving risk and uncertainty",
-          "examples": [
-            {
-              "cf": "",
-              "x": "It's touch and go whether he'll pull through at the end of this month."
-            },
-            {
-              "cf": "",
-              "x": "In the final minutes of the game, the outcome was touch and go, with both teams vying for victory."
-            },
-            {
-              "cf": "",
-              "x": "The negotiations with the rival company were touch and go, with both sides hesitant to compromise."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "cbb540e0-d8cf-4119-a9be-2e60b277ab05",
       "word": "on a razor's edge",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gYSByYXpvcidzIGVkZ2U&hash=9bd3389e77d6c4929dc82a8d2469afc252bd99a5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gYSByYXpvcidzIGVkZ2U&hash=9bd3389e77d6c4929dc82a8d2469afc252bd99a5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -295,30 +258,18 @@
       "senses": [
         {
           "definition": "in a very critical situation where the outcome is uncertain and any sort of mistake can lead to serious consequences",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The company's financial stability is on a razor's edge, with mounting debts and declining profits."
-            },
-            {
-              "cf": "",
-              "x": "After the team's star player was injured, their chances of winning the championship were on a razor's edge."
-            },
-            {
-              "cf": "",
-              "x": "The climber found himself on a razor's edge, carefully navigating the treacherous mountain path."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "7faa7f55-2e38-4929-a591-a256200258ff",
       "word": "on a knife-edge",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gYSBrbmlmZS1lZGdl&hash=3538188a7286034da184146ce22b3c87fb485b4d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n ə naɪf-ɛʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gYSBrbmlmZS1lZGdl&hash=3538188a7286034da184146ce22b3c87fb485b4d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan ē naif-ej",
       "img": "",
       "pronunciation": "ˌɑːn ɐ nˈaɪfˈɛdʒ",
       "senses": [
@@ -346,47 +297,28 @@
       ]
     },
     {
+      "id": "348dd8b3-f311-4f9f-a0ce-fbc3ee39b615",
       "word": "bear garden",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVhciBnYXJkZW4&hash=caff5f942390f9fe5c4b3ed83b258495afa53af3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɛr gɑ:r.dən",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVhciBnYXJkZW4&hash=caff5f942390f9fe5c4b3ed83b258495afa53af3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ber gaar.dēn",
       "img": "",
       "pronunciation": "bˈɛɹ ɡˈɑːɹdən",
       "senses": [
         {
           "definition": "a place or situation marked by confusion or chaos",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The classroom turned into a bear garden when the substitute teacher lost control of the students."
-            },
-            {
-              "cf": "",
-              "x": "The protest outside the government building became a bear garden, with demonstrators and counter-demonstrators clashing."
-            },
-            {
-              "cf": "",
-              "x": "Trying to manage the overcrowded and understaffed emergency room during a crisis felt like working in a bear garden for the doctors and nurses."
-            },
-            {
-              "cf": "",
-              "x": "The family reunion turned into a bear garden when long-standing disagreements and conflicts resurfaced."
-            },
-            {
-              "cf": "",
-              "x": "The political debate on television quickly devolved into a bear garden, with shouting and personal attacks among the candidates."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[lie] in wait",
+      "id": "e4fb11c1-51e0-439d-898f-060841c73632",
+      "word": "to [lie] in wait",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGllIGluIHdhaXQ&hash=f4ede28da4b056bbf4c01921981d5ea98d4ff9a6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGllIGluIHdhaXQ&hash=f4ede28da4b056bbf4c01921981d5ea98d4ff9a6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -412,47 +344,28 @@
       ]
     },
     {
+      "id": "2c977323-ae4d-491f-996d-ca63b8a0c39d",
       "word": "leap of faith",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bGVhcCBvZiBmYWl0aA&hash=74babbf9756daa93806b2e01030d78d1b9021208&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lip ʌv feɪθ",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVhcCBvZiBmYWl0aA&hash=74babbf9756daa93806b2e01030d78d1b9021208&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lip av feith",
       "img": "",
       "pronunciation": "lˈiːp ʌv fˈeɪθ",
       "senses": [
         {
           "definition": "an action that involves taking the risk to believe or trust something that may not be true or reliable",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Starting a new business requires a leap of faith, as success is not guaranteed."
-            },
-            {
-              "cf": "",
-              "x": "Marriage often involves a leap of faith, as couples commit to a lifelong partnership with an uncertain future."
-            },
-            {
-              "cf": "",
-              "x": "She took a leap of faith and decided to move to a foreign country for a job opportunity."
-            },
-            {
-              "cf": "",
-              "x": "The scientist's groundbreaking hypothesis was a leap of faith that led to a revolutionary discovery."
-            },
-            {
-              "cf": "",
-              "x": "Believing in oneself and pursuing dreams sometimes requires taking a leap of faith, even in the face of uncertainty."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[lay] {sth} on the line",
+      "id": "472f59fb-96fe-45b0-b45d-3b3f90007dd0",
+      "word": "to [lay] {sth} on the line",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGF5IHNvbWV0aGluZyBvbiB0aGUgbGluZQ&hash=b1759681875deb1f2956be8a304a2f6fda23d43e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGF5IHNvbWV0aGluZyBvbiB0aGUgbGluZQ&hash=b1759681875deb1f2956be8a304a2f6fda23d43e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -486,10 +399,11 @@
       ]
     },
     {
-      "word": "[run] the risk of {sth}",
+      "id": "9ead6392-4f58-4c62-8281-9c7df01f2dcc",
+      "word": "to [run] the risk of {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcnVuIHRoZSByaXNrIG9mIHNvbWV0aGluZw&hash=dea961d88bbe624d28f8645e0d52ce6ead16e880&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcnVuIHRoZSByaXNrIG9mIHNvbWV0aGluZw&hash=dea961d88bbe624d28f8645e0d52ce6ead16e880&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -515,10 +429,11 @@
       ]
     },
     {
+      "id": "f4149cfd-122a-4813-9ca6-d98e2b9aafde",
       "word": "in harm's way",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aW4gaGFybSdzIHdheQ&hash=accfabc1c2fcfa93bb0d11f557d82cce08b8ea6a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gaGFybSdzIHdheQ&hash=accfabc1c2fcfa93bb0d11f557d82cce08b8ea6a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -526,28 +441,16 @@
       "senses": [
         {
           "definition": "in a situation where there is potential danger or risk to one's safety or well-being",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Journalists often find themselves in harm's way when reporting from conflict zones or disaster areas."
-            },
-            {
-              "cf": "",
-              "x": "Soldiers on the front lines are always in harm's way, facing the constant threat of enemy attacks."
-            },
-            {
-              "cf": "",
-              "x": "The coastal town is frequently in harm's way during hurricane season, and residents must be prepared for potential flooding and strong winds."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[swim] with sharks",
+      "id": "31201e43-fcdc-4c45-8f23-4537a0b86690",
+      "word": "to [swim] with sharks",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3dpbSB3aXRoIHNoYXJrcw&hash=d2ef0544d81af2b1af4b62daf369575b840dbe43&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3dpbSB3aXRoIHNoYXJrcw&hash=d2ef0544d81af2b1af4b62daf369575b840dbe43&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -560,10 +463,11 @@
       ]
     },
     {
-      "word": "[spell] disaster",
+      "id": "c0e8ab30-3832-416e-94a1-00443194eba8",
+      "word": "to [spell] disaster",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3BlbGwgZGlzYXN0ZXI&hash=e99093bdd06320454b0d7944672f9ccc2473e736&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3BlbGwgZGlzYXN0ZXI&hash=e99093bdd06320454b0d7944672f9ccc2473e736&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

@@ -1,9 +1,11 @@
 {
+  "id": "8b90a189-f2f9-49b4-9cab-1aeeef1d97d8",
   "topic": "animals",
   "title": "Felines",
   "lesson": "lesson_2",
   "word_list": [
     {
+      "id": "45963d66-b7ad-4d85-acd9-545c2b2ebf49",
       "word": "lion",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGlvbg&hash=ab74fe6d5caa031d802e102fbd155c1646564353&lang=en&cache-only=0",
@@ -41,12 +43,13 @@
       ]
     },
     {
+      "id": "cb6fbb14-0671-41ce-86c0-c4bf3907a9d0",
       "word": "mountain lion",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW91bnRhaW4gbGlvbg&hash=a087f74ba4b5d04dddbd942786caa0ca4b124093&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "maʊntn laɪən",
       "phonetic_am": "https://tts.langeek.co/read?text=bW91bnRhaW4gbGlvbg&hash=a087f74ba4b5d04dddbd942786caa0ca4b124093&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "maoontn laiēn",
       "img": "https://cdn.langeek.co/photo/24268/original/?type=jpeg",
       "pronunciation": "mˈaʊntɪn lˈaɪən",
       "senses": [
@@ -57,44 +60,89 @@
       ]
     },
     {
+      "id": "08f478ca-99c7-4e03-aec9-f28afc4fd8d5",
       "word": "tiger",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGlnZXI&hash=87294c9efa079ffe3afd9764f8acdb5aaf9c2d88&lang=en&cache-only=0",
-      "phonetic_text": "taɪgər",
+      "phonetic_text": "taɪ.gər",
       "phonetic_am": "https://tts.langeek.co/read?text=dGlnZXI&hash=87294c9efa079ffe3afd9764f8acdb5aaf9c2d88&lang=en&cache-only=0",
-      "phonetic_am_text": "taigēr",
+      "phonetic_am_text": "tai.gēr",
       "img": "https://cdn.langeek.co/photo/50273/original/tiger?type=jpeg",
       "pronunciation": "ˈtaɪɡɚ",
       "senses": [
         {
           "definition": "a type of large and wild animal that is from the cat family, has orange fur and black stripes, and is mostly found in Asia",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "John learned that tigers are excellent swimmers."
+            },
+            {
+              "cf": "",
+              "x": "Mark was amazed to see a tiger at the zoo."
+            },
+            {
+              "cf": "",
+              "x": "The tiger is a majestic and powerful wild animal."
+            },
+            {
+              "cf": "",
+              "x": "The tiger's orange and black stripes are distinctive."
+            },
+            {
+              "cf": "",
+              "x": "Tigers are known for their hunting and stalking skills."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f702f640-7853-4d85-b8e4-d212356701f8",
       "word": "jaguar",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=amFndWFy&hash=90edc62fe627fcff28a79fe85c67a14817f3d93c&lang=en&cache-only=0",
-      "phonetic_text": "ʤægwɑr",
+      "phonetic_text": "ʤæg.wɑr",
       "phonetic_am": "https://tts.langeek.co/read?text=amFndWFy&hash=90edc62fe627fcff28a79fe85c67a14817f3d93c&lang=en&cache-only=0",
-      "phonetic_am_text": "jāgwɑr",
+      "phonetic_am_text": "jāg.vaar",
       "img": "https://cdn.langeek.co/photo/50176/original/?type=jpeg",
-      "pronunciation": "ˈdʒæˌɡwɑɹ",
+      "pronunciation": "ˈʤæɡˌwɑr/ , /ˈʤæɡjuːˌɑr",
       "senses": [
         {
           "definition": "a large wild animal belonging to the cat family with a yellow fur covered with black spots, native to Central and South America",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "With sleek muscles rippling beneath its spotted coat, the jaguar stalked its prey through the dense jungle."
+            },
+            {
+              "cf": "",
+              "x": "The jaguar's amber eyes gleamed with intensity as it prepared to pounce on its unsuspecting target."
+            },
+            {
+              "cf": "",
+              "x": "Camouflaged among the foliage, the jaguar blended seamlessly into its lush surroundings."
+            },
+            {
+              "cf": "",
+              "x": "Jaguars are apex predators, exerting control over their territory with stealth and strength."
+            },
+            {
+              "cf": "",
+              "x": "The elusive jaguar is a master of ambush, patiently waiting for the perfect moment to strike."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "3646c24e-6a0a-42a7-a6ff-c1cf63e5df76",
       "word": "wildcat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2lsZGNhdA&hash=3090d79225ae108babca976d7c3b93c5607333e5&lang=en&cache-only=0",
-      "phonetic_text": "waɪldkæt",
+      "phonetic_text": "waɪld.kæt",
       "phonetic_am": "https://tts.langeek.co/read?text=d2lsZGNhdA&hash=3090d79225ae108babca976d7c3b93c5607333e5&lang=en&cache-only=0",
-      "phonetic_am_text": "waildkāt",
+      "phonetic_am_text": "vaild.kāt",
       "img": "https://cdn.langeek.co/photo/24230/original/?type=jpeg",
       "pronunciation": "ˈwaɪɫdˌkæt",
       "senses": [
@@ -105,12 +153,13 @@
       ]
     },
     {
+      "id": "ea074e1b-98c3-43c0-af5a-89924de201a0",
       "word": "puma",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHVtYQ&hash=f86bc0a0ef9e5f647d1c2eab28c63d20f19b869c&lang=en&cache-only=0",
-      "phonetic_text": "pu:mə",
+      "phonetic_text": "pu.mə",
       "phonetic_am": "https://tts.langeek.co/read?text=cHVtYQ&hash=f86bc0a0ef9e5f647d1c2eab28c63d20f19b869c&lang=en&cache-only=0",
-      "phonetic_am_text": "poomē",
+      "phonetic_am_text": "poo.mē",
       "img": "https://cdn.langeek.co/photo/24761/original/?type=jpeg",
       "pronunciation": "ˈpumə",
       "senses": [
@@ -121,14 +170,15 @@
       ]
     },
     {
+      "id": "be46277b-6d7b-4002-9f55-b00e77fa8ceb",
       "word": "cougar",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291Z2Fy&hash=677c2a4377984fd4b05f586f8bc1706df653e989&lang=en&cache-only=0",
-      "phonetic_text": "ku:gər",
+      "phonetic_text": "ku.gɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291Z2Fy&hash=677c2a4377984fd4b05f586f8bc1706df653e989&lang=en&cache-only=0",
-      "phonetic_am_text": "koogēr",
+      "phonetic_am_text": "koo.gēr",
       "img": "https://cdn.langeek.co/photo/24102/original/?type=jpeg",
-      "pronunciation": "ˈkuɡɝ",
+      "pronunciation": "ˈkuɡɚ",
       "senses": [
         {
           "definition": "a large wild cat with a tawny fur that lives in mountains, native to the Americas",
@@ -158,6 +208,7 @@
       ]
     },
     {
+      "id": "e247c3ea-55e8-4854-9b43-9a036a936594",
       "word": "lynx",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bHlueA&hash=b1128ccca61a68821359734b0aaebefb0bf0a0e4&lang=en&cache-only=0",
@@ -174,12 +225,13 @@
       ]
     },
     {
+      "id": "4cbc544d-a7b2-4778-9638-07c5210c6933",
       "word": "bobcat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9iY2F0&hash=8167df294c0f40c5d5f5a7af38cd098645df1730&lang=en&cache-only=0",
-      "phonetic_text": "bɑ:bkæt",
+      "phonetic_text": "bɑb.kæt",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9iY2F0&hash=8167df294c0f40c5d5f5a7af38cd098645df1730&lang=en&cache-only=0",
-      "phonetic_am_text": "baabkāt",
+      "phonetic_am_text": "baab.kāt",
       "img": "https://cdn.langeek.co/photo/24068/original/?type=jpeg",
       "pronunciation": "ˈbɑbˌkæt",
       "senses": [
@@ -190,14 +242,15 @@
       ]
     },
     {
+      "id": "c4ea2091-8e01-4108-a6ee-29fd7df8dc94",
       "word": "cheetah",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hlZXRhaA&hash=7151965318d0cadc42bf19ad6c90667d6bfecab8&lang=en&cache-only=0",
-      "phonetic_text": "ʧi:tə",
+      "phonetic_text": "ʧi.tə",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hlZXRhaA&hash=7151965318d0cadc42bf19ad6c90667d6bfecab8&lang=en&cache-only=0",
-      "phonetic_am_text": "cheetē",
+      "phonetic_am_text": "chi.tē",
       "img": "https://cdn.langeek.co/photo/20535/original/cheetah?type=jpeg",
-      "pronunciation": "ˈtʃitə",
+      "pronunciation": "ˈʧiːtə",
       "senses": [
         {
           "definition": "a type of large and wild animal that is from the cat family, can run very fast, and has yellow fur that is covered with small black spots",
@@ -219,14 +272,15 @@
       ]
     },
     {
+      "id": "967c7fba-c9bb-49fb-b1cb-e1f8c3314f16",
       "word": "leopard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGVvcGFyZA&hash=20cd5bac981fe27db703385e98471e5ce8358bd6&lang=en&cache-only=0",
-      "phonetic_text": "lɛpərd",
+      "phonetic_text": "lɛ.pɜrd",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVvcGFyZA&hash=20cd5bac981fe27db703385e98471e5ce8358bd6&lang=en&cache-only=0",
-      "phonetic_am_text": "lepērd",
+      "phonetic_am_text": "le.pērd",
       "img": "https://cdn.langeek.co/photo/50178/original/leopard?type=jpeg",
-      "pronunciation": "ˈɫɛpɝd",
+      "pronunciation": "ˈlɛpɚd",
       "senses": [
         {
           "definition": "a large wild animal from the cat family with yellow fur and hollow black spots",
@@ -256,12 +310,13 @@
       ]
     },
     {
+      "id": "285d8210-5d59-427f-be20-d200ce221dda",
       "word": "snow leopard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c25vdyBsZW9wYXJk&hash=c17d7b4629cfe2085eb400e47be87fa89057a513&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "snoʊ lɛ.pɜrd",
       "phonetic_am": "https://tts.langeek.co/read?text=c25vdyBsZW9wYXJk&hash=c17d7b4629cfe2085eb400e47be87fa89057a513&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "snooo le.pērd",
       "img": "https://cdn.langeek.co/photo/34168/original/?type=jpeg",
       "pronunciation": "snˈoʊ lˈɛpɚd",
       "senses": [
@@ -272,12 +327,13 @@
       ]
     },
     {
+      "id": "d48442a5-924d-4b2f-aec8-4b8fdaac394b",
       "word": "ocelot",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b2NlbG90&hash=b1e0634724684c82bd328e1127b769a1bcc0c855&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:səlɑt",
+      "phonetic_text": "ɑ.sə.lɑt",
       "phonetic_am": "https://tts.langeek.co/read?text=b2NlbG90&hash=b1e0634724684c82bd328e1127b769a1bcc0c855&lang=en&cache-only=0",
-      "phonetic_am_text": "aasēlɑt",
+      "phonetic_am_text": "aa.sē.laat",
       "img": "https://cdn.langeek.co/photo/24274/original/?type=jpeg",
       "pronunciation": "ˈɑsəˌɫɑt",
       "senses": [
@@ -288,12 +344,13 @@
       ]
     },
     {
+      "id": "54d71a03-0241-442b-8a7f-caeee5d8accb",
       "word": "civet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2l2ZXQ&hash=7864883efd913d120ec3a7e72f63baaae6ab699d&lang=en&cache-only=0",
-      "phonetic_text": "sɪvət",
+      "phonetic_text": "sɪ.vət",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2l2ZXQ&hash=7864883efd913d120ec3a7e72f63baaae6ab699d&lang=en&cache-only=0",
-      "phonetic_am_text": "sivēt",
+      "phonetic_am_text": "si.vēt",
       "img": "https://cdn.langeek.co/photo/24098/original/?type=jpeg",
       "pronunciation": "ˈsɪvət",
       "senses": [
@@ -304,12 +361,13 @@
       ]
     },
     {
+      "id": "13307a90-98fd-4faf-83f3-cfe5835ba26e",
       "word": "margay",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFyZ2F5&hash=d419d1735b7eb364b96321843249800840eb0f1a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mɑ:r.geɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFyZ2F5&hash=d419d1735b7eb364b96321843249800840eb0f1a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "maar.gei",
       "img": "https://cdn.langeek.co/photo/34164/original/?type=jpeg",
       "pronunciation": "mˈɑːɹɡeɪ",
       "senses": [
@@ -320,12 +378,13 @@
       ]
     },
     {
+      "id": "2d9f15fa-a098-43eb-ab86-cf71798f9d37",
       "word": "marbled cat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFyYmxlZCBjYXQ&hash=d2d3944fa7ce9fd2dec2d92714ae5ef34c71f3f5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mɑr.bəld kæt",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFyYmxlZCBjYXQ&hash=d2d3944fa7ce9fd2dec2d92714ae5ef34c71f3f5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "maar.bēld kāt",
       "img": "",
       "pronunciation": "ˈmɑːrbəld kæt",
       "senses": [
@@ -336,12 +395,13 @@
       ]
     },
     {
+      "id": "86550e1d-9269-420f-bb0c-52758f7ea3ab",
       "word": "kodkod",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a29ka29k&hash=b5261a69a9f0fd01a78cee996dd20b4af4743002&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "koð.koð",
       "phonetic_am": "https://tts.langeek.co/read?text=a29ka29k&hash=b5261a69a9f0fd01a78cee996dd20b4af4743002&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kodh.kodh",
       "img": "https://cdn.langeek.co/photo/34162/original/?type=jpeg",
       "pronunciation": "koðˈkoð",
       "senses": [
@@ -352,12 +412,13 @@
       ]
     },
     {
+      "id": "ba61f696-bf94-4852-8c6b-f2b5f05ffafb",
       "word": "bay cat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmF5IGNhdA&hash=304f52aa3422bf7541d73f72cdb5f907256e838a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "beɪ kæt",
       "phonetic_am": "https://tts.langeek.co/read?text=YmF5IGNhdA&hash=304f52aa3422bf7541d73f72cdb5f907256e838a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bei kāt",
       "img": "https://cdn.langeek.co/photo/34156/original/?type=jpeg",
       "pronunciation": "beɪ kæt",
       "senses": [
@@ -368,12 +429,13 @@
       ]
     },
     {
+      "id": "63075202-bbf1-4a6b-9100-544c45558144",
       "word": "leopard cat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGVvcGFyZCBjYXQ&hash=dedbc7e1fb199cbd66fba8d891c716dcef39d97f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɛ.pɜrd kæt",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVvcGFyZCBjYXQ&hash=dedbc7e1fb199cbd66fba8d891c716dcef39d97f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "le.pērd kāt",
       "img": "https://cdn.langeek.co/photo/39625/original/?type=jpeg",
       "pronunciation": "lˈɛpɚd kˈæt",
       "senses": [
@@ -384,12 +446,13 @@
       ]
     },
     {
+      "id": "9818b789-cf17-461f-99f3-ffb38da762cb",
       "word": "flat-headed cat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmxhdC1oZWFkZWQgY2F0&hash=6f835ed8cd380392f609ec8e3e0dd73a3814d8c1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "flæt-hɛ.dɪd kæt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmxhdC1oZWFkZWQgY2F0&hash=6f835ed8cd380392f609ec8e3e0dd73a3814d8c1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "flāt-he.did kāt",
       "img": "https://cdn.langeek.co/photo/34158/original/?type=jpeg",
       "pronunciation": "flætˈhedɪd kæt",
       "senses": [
@@ -400,12 +463,13 @@
       ]
     },
     {
+      "id": "6cbff804-fc88-49ad-a3a9-821545bf72a1",
       "word": "fishing cat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmlzaGluZyBjYXQ&hash=a71b22d554e092b55737fd3d6c6d1714fecf1037&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɪ.ʃɪng kæt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmlzaGluZyBjYXQ&hash=a71b22d554e092b55737fd3d6c6d1714fecf1037&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fi.shing kāt",
       "img": "",
       "pronunciation": "ˈfɪʃɪŋ kæt",
       "senses": [
@@ -416,12 +480,13 @@
       ]
     },
     {
+      "id": "7168a35c-51a1-473a-a387-92e757ee267a",
       "word": "jaguarundi",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=amFndWFydW5kaQ&hash=0ab0413b2441730db75698f07bc5b63e7df5288a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤæ.ga.rʌn.di",
       "phonetic_am": "https://tts.langeek.co/read?text=amFndWFydW5kaQ&hash=0ab0413b2441730db75698f07bc5b63e7df5288a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "jā.ga.ran.di",
       "img": "https://cdn.langeek.co/photo/34160/original/?type=jpeg",
       "pronunciation": "dʒˌæɡɐɹˈʌndi",
       "senses": [
@@ -432,12 +497,13 @@
       ]
     },
     {
+      "id": "f374cbb6-14de-4643-9b16-1e72a943d3f4",
       "word": "genet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2VuZXQ&hash=613cd8d8422a16ffb843d654925065d7993de4c0&lang=en&cache-only=0",
-      "phonetic_text": "ʤɛnɪt",
+      "phonetic_text": "ʤɛ.nɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2VuZXQ&hash=613cd8d8422a16ffb843d654925065d7993de4c0&lang=en&cache-only=0",
-      "phonetic_am_text": "jenit",
+      "phonetic_am_text": "je.nit",
       "img": "https://cdn.langeek.co/photo/24162/original/?type=jpeg",
       "pronunciation": "ˈdʒɛnɪt",
       "senses": [
@@ -448,12 +514,13 @@
       ]
     },
     {
+      "id": "106a2340-1d46-4299-a4fe-9765281a50a7",
       "word": "oncilla",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b25jaWxsYQ&hash=4123b1aaec9f7a6bafb6885fb757c9d7ca0309c2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɒn.si:ə",
       "phonetic_am": "https://tts.langeek.co/read?text=b25jaWxsYQ&hash=4123b1aaec9f7a6bafb6885fb757c9d7ca0309c2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "on.siē",
       "img": "https://cdn.langeek.co/photo/39945/original/?type=jpeg",
       "pronunciation": "ɒnˈsiː.ə",
       "senses": [
@@ -464,14 +531,15 @@
       ]
     },
     {
+      "id": "ac3809ac-97e6-49ae-aa0d-bccb39442840",
       "word": "serval",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VydmFs&hash=42eb84b18e3d7ce7ccbd54111b05b4763ad58535&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɜr.vəl",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VydmFs&hash=42eb84b18e3d7ce7ccbd54111b05b4763ad58535&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sēr.vēl",
       "img": "https://cdn.langeek.co/photo/34201/original/?type=jpeg",
-      "pronunciation": "sˈɜːvəl",
+      "pronunciation": "ˈsɝvəl",
       "senses": [
         {
           "definition": "a medium-sized wild cat species known for its distinctive long legs, large ears, and spotted coat, native to Africa",
@@ -480,12 +548,13 @@
       ]
     },
     {
+      "id": "7d299d47-f313-41cc-a02b-4b5a01e9a337",
       "word": "fossa",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9zc2E&hash=d64928e30f2a389701c586549e7a4a74956ac095&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɑ:.sə",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9zc2E&hash=d64928e30f2a389701c586549e7a4a74956ac095&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "faa.sē",
       "img": "https://cdn.langeek.co/photo/34189/original/?type=jpeg",
       "pronunciation": "fˈɑːsə",
       "senses": [
@@ -496,12 +565,13 @@
       ]
     },
     {
+      "id": "b218d7c3-d0d6-4cd4-bba5-1927ade45e9b",
       "word": "jungle cat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=anVuZ2xlIGNhdA&hash=7e700d8bae98a2fff1d37e5fc88f57a5998f73c8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤʌn.gəl kæt",
       "phonetic_am": "https://tts.langeek.co/read?text=anVuZ2xlIGNhdA&hash=7e700d8bae98a2fff1d37e5fc88f57a5998f73c8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "jan.gēl kāt",
       "img": "https://cdn.langeek.co/photo/34187/original/?type=jpeg",
       "pronunciation": "dʒˈʌŋɡəl kˈæt",
       "senses": [
@@ -512,12 +582,13 @@
       ]
     },
     {
+      "id": "3629ecf7-58df-4d86-9ba7-cc57af3a72ad",
       "word": "sand cat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FuZCBjYXQ&hash=3584aa5ae9eb88c86790939d173b192cb01ac639&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sænd kæt",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FuZCBjYXQ&hash=3584aa5ae9eb88c86790939d173b192cb01ac639&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sānd kāt",
       "img": "https://cdn.langeek.co/photo/34199/original/?type=jpeg",
       "pronunciation": "sˈænd kˈæt",
       "senses": [
@@ -528,10 +599,11 @@
       ]
     },
     {
+      "id": "249098cb-2d8e-439c-8ac7-84b3dbd16525",
       "word": "Asian golden cat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QXNpYW4gZ29sZGVuIGNhdA&hash=2f27beaf4f23f1b5b899dd1d969c440bc1fe069b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QXNpYW4gZ29sZGVuIGNhdA&hash=2f27beaf4f23f1b5b899dd1d969c440bc1fe069b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34191/original/?type=jpeg",
@@ -544,10 +616,11 @@
       ]
     },
     {
+      "id": "d19967f1-7be0-4f71-848c-62535b9e0230",
       "word": "pallas's cat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFsbGFzJ3MgY2F0&hash=a371b4ba1b51e640e9ed58d04e4d040b42b3eb88&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFsbGFzJ3MgY2F0&hash=a371b4ba1b51e640e9ed58d04e4d040b42b3eb88&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34195/original/?type=jpeg",
@@ -560,12 +633,13 @@
       ]
     },
     {
+      "id": "8cf56a40-044f-4236-8009-b03e6312c9cf",
       "word": "white tiger",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2hpdGUgdGlnZXI&hash=7f580fecb25f580d63214c31a560062c9589ba15&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "waɪt taɪ.gər",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hpdGUgdGlnZXI&hash=7f580fecb25f580d63214c31a560062c9589ba15&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vait tai.gēr",
       "img": "https://cdn.langeek.co/photo/39899/original/?type=jpeg",
       "pronunciation": "wˈaɪt tˈaɪɡɚ",
       "senses": [
@@ -576,10 +650,11 @@
       ]
     },
     {
+      "id": "1d029ad4-8c9a-4470-809b-c11c9551ede4",
       "word": "Bengal tiger",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QmVuZ2FsIHRpZ2Vy&hash=d69e4366ed024121669663ef936bc3ae072e977d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QmVuZ2FsIHRpZ2Vy&hash=d69e4366ed024121669663ef936bc3ae072e977d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/50273/original/tiger?type=jpeg",
@@ -592,12 +667,13 @@
       ]
     },
     {
+      "id": "56e4b3e8-7b20-4ed4-81dc-63acc48a3171",
       "word": "clouded leopard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xvdWRlZCBsZW9wYXJk&hash=c45b8583ecf6e3af59c5a786a2159f1887a7e4ec&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "klaʊ.dɪd lɛ.pɜrd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xvdWRlZCBsZW9wYXJk&hash=c45b8583ecf6e3af59c5a786a2159f1887a7e4ec&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "klaoo.did le.pērd",
       "img": "",
       "pronunciation": "klˈaʊdᵻd lˈɛpɚd",
       "senses": [
@@ -608,12 +684,13 @@
       ]
     },
     {
+      "id": "c0f65af5-16eb-4f3d-8db4-afcc23a95917",
       "word": "tiger cat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGlnZXIgY2F0&hash=8242de99acb56b07fe33ed7ea0a056c2c41431e5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "taɪ.gər kæt",
       "phonetic_am": "https://tts.langeek.co/read?text=dGlnZXIgY2F0&hash=8242de99acb56b07fe33ed7ea0a056c2c41431e5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tai.gēr kāt",
       "img": "",
       "pronunciation": "tˈaɪɡɚ kˈæt",
       "senses": [
@@ -624,10 +701,11 @@
       ]
     },
     {
+      "id": "ddd64fac-216f-4deb-b188-057e35924d12",
       "word": "Andean mountain cat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QW5kZWFuIG1vdW50YWluIGNhdA&hash=ea7fe0cad6e65a56e839965dbaab16ff0601d810&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QW5kZWFuIG1vdW50YWluIGNhdA&hash=ea7fe0cad6e65a56e839965dbaab16ff0601d810&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -640,12 +718,13 @@
       ]
     },
     {
+      "id": "02bc980e-1562-47ce-b3b8-00af6fac4711",
       "word": "black-footed cat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmxhY2stZm9vdGVkIGNhdA&hash=ddd741c2a79e4b31395d108e8cd61cf2fe560973&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "blæk-fʊ.tɪd kæt",
       "phonetic_am": "https://tts.langeek.co/read?text=YmxhY2stZm9vdGVkIGNhdA&hash=ddd741c2a79e4b31395d108e8cd61cf2fe560973&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "blāk-foo.tid kāt",
       "img": "",
       "pronunciation": "blˈækfˈʊɾᵻd kˈæt",
       "senses": [
@@ -656,12 +735,13 @@
       ]
     },
     {
+      "id": "346c3cf7-5de6-407c-b052-c772c086af19",
       "word": "rusty-spotted cat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cnVzdHktc3BvdHRlZCBjYXQ&hash=0f8b35e773f709658b0bd0da527d138ca64cf98f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rəs.ti-spɑ.tɪd kæt",
       "phonetic_am": "https://tts.langeek.co/read?text=cnVzdHktc3BvdHRlZCBjYXQ&hash=0f8b35e773f709658b0bd0da527d138ca64cf98f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rēs.ti-spaa.tid kāt",
       "img": "",
       "pronunciation": "ɹˈʌstispˈɑːɾᵻd kˈæt",
       "senses": [
@@ -672,10 +752,11 @@
       ]
     },
     {
+      "id": "6e53b197-feac-4536-b003-611fa7cd9786",
       "word": "Geoffroy's cat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=R2VvZmZyb3kncyBjYXQ&hash=3cbb023c96d2766e0f546a4a9c7b14aa2e60392c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=R2VvZmZyb3kncyBjYXQ&hash=3cbb023c96d2766e0f546a4a9c7b14aa2e60392c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -688,12 +769,13 @@
       ]
     },
     {
+      "id": "db161253-cc31-47d3-9a29-ad98c5e5ea90",
       "word": "black panther",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmxhY2sgcGFudGhlcg&hash=7e46ca1b692f75f6a82cff23eb26942e0ca8ebf6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "blæk pæn.θɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YmxhY2sgcGFudGhlcg&hash=7e46ca1b692f75f6a82cff23eb26942e0ca8ebf6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "blāk pān.thēr",
       "img": "https://cdn.langeek.co/photo/25673/original/?type=jpeg",
       "pronunciation": "blˈæk pˈænθɚ",
       "senses": [

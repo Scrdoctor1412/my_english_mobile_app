@@ -1,10 +1,12 @@
 {
+  "id": "9af58783-3880-4ce8-805c-939b94099413",
   "topic": "health_and_sickness",
   "title": "General Verbs Related to Injury",
   "lesson": "lesson_20",
   "word_list": [
     {
-      "word": "bang",
+      "id": "b6d86a7b-8609-4426-ab6a-59e587e1af5c",
+      "word": "to bang",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmFuZw&hash=33480434767dd29de2f20d1c341b0a8d2c6b54a7&lang=en&cache-only=0",
       "phonetic_text": "bæng",
@@ -41,14 +43,15 @@
       ]
     },
     {
-      "word": "bleed",
+      "id": "a296b760-9f2b-475b-b8eb-3efb683d23f2",
+      "word": "to bleed",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmxlZWQ&hash=b39f2df9ee0d107b14446f1168c5bbcdc9f98051&lang=en&cache-only=0",
       "phonetic_text": "bli:d",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmxlZWQ&hash=b39f2df9ee0d107b14446f1168c5bbcdc9f98051&lang=en&cache-only=0",
-      "phonetic_am_text": "bleed",
+      "phonetic_am_text": "blid",
       "img": "https://cdn.langeek.co/photo/18990/original/bleed?type=jpeg",
-      "pronunciation": "ˈbɫid",
+      "pronunciation": "bliːd",
       "senses": [
         {
           "definition": "to lose blood from an injury or wound",
@@ -78,12 +81,13 @@
       ]
     },
     {
-      "word": "sustain",
+      "id": "7aa0ef95-d743-48d8-acec-1d9d4d17c7b2",
+      "word": "to sustain",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3VzdGFpbg&hash=e338be6c0989b67d5ce9ff24f678d1ca9e40bcc6&lang=en&cache-only=0",
-      "phonetic_text": "səsteɪn",
+      "phonetic_text": "səs.teɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3VzdGFpbg&hash=e338be6c0989b67d5ce9ff24f678d1ca9e40bcc6&lang=en&cache-only=0",
-      "phonetic_am_text": "sēstein",
+      "phonetic_am_text": "sēs.tein",
       "img": "",
       "pronunciation": "səˈsteɪn",
       "senses": [
@@ -115,13 +119,14 @@
       ]
     },
     {
-      "word": "wound",
+      "id": "d438b7ca-181d-4146-9496-001b4ee223e8",
+      "word": "to wound",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd291bmQ&hash=44bdd5a1cbf67d09647fa6f0dede6ac683e3110f&lang=en&cache-only=0",
       "phonetic_text": "waʊnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd291bmQ&hash=44bdd5a1cbf67d09647fa6f0dede6ac683e3110f&lang=en&cache-only=0",
-      "phonetic_am_text": "wawnd",
-      "img": "https://cdn.langeek.co/photo/17649/original/cut?type=jpeg",
+      "phonetic_am_text": "vaoond",
+      "img": "https://cdn.langeek.co/photo/61740/original/cut?type=jpeg",
       "pronunciation": "ˈwaʊnd/, /ˈwund",
       "senses": [
         {
@@ -152,58 +157,125 @@
       ]
     },
     {
-      "word": "cut",
+      "id": "36a8e6c3-6ea2-4029-bf55-59c3acbf28fc",
+      "word": "to cut",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3V0&hash=5c0a06b7124a306811bf5557a68596a8cb917a5f&lang=en&cache-only=0",
       "phonetic_text": "kʌt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3V0&hash=5c0a06b7124a306811bf5557a68596a8cb917a5f&lang=en&cache-only=0",
       "phonetic_am_text": "kat",
-      "img": "https://cdn.langeek.co/photo/17649/original/cut?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/61740/original/cut?type=jpeg",
       "pronunciation": "kʌt",
       "senses": [
         {
           "definition": "to accidentally wound and hurt yourself or others, especially with a sharp object, causing the skin to break and bleed",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Be careful with that glass; it can cut your hand."
+            },
+            {
+              "cf": "",
+              "x": "He accidentally cut himself while shaving this morning."
+            },
+            {
+              "cf": "",
+              "x": "I accidentally cut my finger while I was chopping vegetables."
+            },
+            {
+              "cf": "",
+              "x": "The boy cut his knee when he fell on the rocks."
+            },
+            {
+              "cf": "",
+              "x": "She cut herself on the broken glass while cleaning."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "burn",
+      "id": "17643eb5-139e-4d29-9c40-e478e5b580ff",
+      "word": "to burn",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnVybg&hash=434850a6a7b3fd1fc5011847a60c4358da5eccd4&lang=en&cache-only=0",
       "phonetic_text": "bɜrn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnVybg&hash=434850a6a7b3fd1fc5011847a60c4358da5eccd4&lang=en&cache-only=0",
       "phonetic_am_text": "bērn",
       "img": "",
-      "pronunciation": "bɜːrn",
+      "pronunciation": "bɝn",
       "senses": [
         {
           "definition": "to cause a sensation of discomfort or pain similar to that of being burned by fire",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The wind chill burned his face, making it feel raw and painful."
+            },
+            {
+              "cf": "",
+              "x": "The hot soup burned my tongue when I tried to take a sip."
+            },
+            {
+              "cf": "",
+              "x": "The harsh shampoo burned her scalp, making her wince."
+            },
+            {
+              "cf": "",
+              "x": "The bright light from the flashbulb burned my eyes for a moment."
+            },
+            {
+              "cf": "",
+              "x": "The spicy food burned his mouth, making it feel like fire."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "break",
+      "id": "ea9504d3-d401-4cbf-ab97-4c378c5e96db",
+      "word": "to break",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJlYWs&hash=643894089f73d407d9134a9442b45bcf8c3ac753&lang=en&cache-only=0",
       "phonetic_text": "breɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJlYWs&hash=643894089f73d407d9134a9442b45bcf8c3ac753&lang=en&cache-only=0",
       "phonetic_am_text": "breik",
-      "img": "https://cdn.langeek.co/photo/17427/original/break?type=jpeg",
-      "pronunciation": "ˈbɹeɪk",
+      "img": "https://cdn.langeek.co/photo/61738/original/break?type=jpeg",
+      "pronunciation": "breɪk",
       "senses": [
         {
           "definition": "to cause a crack and a separation in one of the bones of the body",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The skier had a bad fall and broke several ribs."
+            },
+            {
+              "cf": "",
+              "x": "He had broken his arm at the elbow."
+            },
+            {
+              "cf": "",
+              "x": "The athlete broke his leg during the soccer match."
+            },
+            {
+              "cf": "",
+              "x": "He had a skateboarding accident and broke his wrist."
+            },
+            {
+              "cf": "",
+              "x": "She fell and broke her arm while skiing."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "bruise",
+      "id": "c7adcc3d-ba6a-4dea-9a33-388409d11857",
+      "word": "to bruise",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJ1aXNl&hash=ffffd42284b93a9f560fafac92c52eb9db002797&lang=en&cache-only=0",
-      "phonetic_text": "bru:z",
+      "phonetic_text": "bruz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJ1aXNl&hash=ffffd42284b93a9f560fafac92c52eb9db002797&lang=en&cache-only=0",
       "phonetic_am_text": "brooz",
       "img": "https://cdn.langeek.co/photo/47330/original/?type=jpeg",
@@ -211,12 +283,34 @@
       "senses": [
         {
           "definition": "to make injuries, particularly ones caused by a blow, appear on the skin and cause discoloration",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The collision with the doorframe caused her arm to bruise."
+            },
+            {
+              "cf": "",
+              "x": "A bump on the head may bruise and create a noticeable lump."
+            },
+            {
+              "cf": "",
+              "x": "The clumsy dancer accidentally bruised her partner's foot during the routine."
+            },
+            {
+              "cf": "",
+              "x": "The impact of the fall bruised her shoulder, causing temporary pain."
+            },
+            {
+              "cf": "",
+              "x": "The collision with the soccer ball bruised his thigh, but he continued playing."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "crick",
+      "id": "9db7e261-7293-4205-a27a-125670756c02",
+      "word": "to crick",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3JpY2s&hash=3e108aba13b7e731bc4d7c9734b0cfc95fa4c9c0&lang=en&cache-only=0",
       "phonetic_text": "krɪk",
@@ -227,49 +321,107 @@
       "senses": [
         {
           "definition": "to cause a sudden painful stiffness or spasm in a muscle, typically occurring due to an awkward movement or prolonged position",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She cricked her wrist when lifting a heavy box improperly."
+            },
+            {
+              "cf": "",
+              "x": "As he was gardening, he cricked his lower back, causing immediate discomfort."
+            },
+            {
+              "cf": "",
+              "x": "Yesterday, a sudden movement while exercising cricked her knee, resulting in pain."
+            },
+            {
+              "cf": "",
+              "x": "Over time, repeated muscle strain has cricked his shoulder, leading to chronic discomfort."
+            },
+            {
+              "cf": "",
+              "x": "The repetitive motion at work will be cricking her wrists if she doesn't take breaks."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "cripple",
+      "id": "8258bccc-6f25-434f-b4e3-b6abfe95ce48",
+      "word": "to cripple",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3JpcHBsZQ&hash=24a870e72b554f5fbeadfc97ef02426a29b2fa08&lang=en&cache-only=0",
-      "phonetic_text": "krɪpəl",
+      "phonetic_text": "krɪ.pəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3JpcHBsZQ&hash=24a870e72b554f5fbeadfc97ef02426a29b2fa08&lang=en&cache-only=0",
-      "phonetic_am_text": "kripēl",
+      "phonetic_am_text": "kri.pēl",
       "img": "https://cdn.langeek.co/photo/59248/original/?type=jpeg",
       "pronunciation": "ˈkɹɪpəɫ",
       "senses": [
         {
           "definition": "to inflict severe damage to someone's body so that they are unable to walk or move properly",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The car accident unfortunately crippled her, leaving her with a permanent disability."
+            },
+            {
+              "cf": "",
+              "x": "Diseases like polio used to cripple individuals, affecting their mobility."
+            },
+            {
+              "cf": "",
+              "x": "An untreated injury could escalate and cripple the person's range of motion."
+            },
+            {
+              "cf": "",
+              "x": "The construction worker took precautions to avoid accidents that could cripple him."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "crush",
+      "id": "f3700ba9-c18e-49c0-824d-4887904c03a4",
+      "word": "to crush",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3J1c2g&hash=f7c83555141b81cb5069b53a5d226f656d23d8f9&lang=en&cache-only=0",
-      "phonetic_text": "krʌʃ",
+      "phonetic_text": "krəʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3J1c2g&hash=f7c83555141b81cb5069b53a5d226f656d23d8f9&lang=en&cache-only=0",
-      "phonetic_am_text": "krash",
+      "phonetic_am_text": "krēsh",
       "img": "https://cdn.langeek.co/photo/54215/original/?type=jpeg",
-      "pronunciation": "ˈkɹəʃ",
+      "pronunciation": "krʌʃ",
       "senses": [
         {
           "definition": "to become damaged, broken, or deformed under pressure",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The fragile glass ornament crushed easily when it fell to the floor."
+            },
+            {
+              "cf": "",
+              "x": "The cardboard box crushed under the weight of the heavy objects stacked on top."
+            },
+            {
+              "cf": "",
+              "x": "The car's roof began to crush upon impact in the collision."
+            },
+            {
+              "cf": "",
+              "x": "The delicate cookies would crush if not handled with care."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "debilitate",
+      "id": "bfb3de6b-69ab-411e-90ee-1fd7cb9dffa0",
+      "word": "to debilitate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGViaWxpdGF0ZQ&hash=a567d72b86c3badd1d7eee048dbff283e5af8133&lang=en&cache-only=0",
-      "phonetic_text": "dəbɪləteɪt",
+      "phonetic_text": "də.bɪ.lə.teɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGViaWxpdGF0ZQ&hash=a567d72b86c3badd1d7eee048dbff283e5af8133&lang=en&cache-only=0",
-      "phonetic_am_text": "dēbilēteit",
+      "phonetic_am_text": "dē.bi.lē.teit",
       "img": "https://cdn.langeek.co/photo/40839/original/?type=jpeg",
       "pronunciation": "dəˈbɪɫəˌteɪt",
       "senses": [
@@ -293,12 +445,13 @@
       ]
     },
     {
-      "word": "dislocate",
+      "id": "a174b8c7-0433-4234-bb45-b95403b57593",
+      "word": "to dislocate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlzbG9jYXRl&hash=2be90e21bf99d6df13caefc2166b9e57ad965ab9&lang=en&cache-only=0",
-      "phonetic_text": "dɪsloʊkeɪt",
+      "phonetic_text": "dɪs.loʊ.keɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlzbG9jYXRl&hash=2be90e21bf99d6df13caefc2166b9e57ad965ab9&lang=en&cache-only=0",
-      "phonetic_am_text": "dislowkeit",
+      "phonetic_am_text": "dis.looo.keit",
       "img": "",
       "pronunciation": "ˈdɪsɫoʊkeɪt",
       "senses": [
@@ -330,7 +483,8 @@
       ]
     },
     {
-      "word": "graze",
+      "id": "b32a2351-bb82-4ec8-9de9-b2d8ab125a13",
+      "word": "to graze",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ3JhemU&hash=916f8eb8caf30b868a6bcd2a152f8c3d4bcb7035&lang=en&cache-only=0",
       "phonetic_text": "greɪz",
@@ -367,12 +521,13 @@
       ]
     },
     {
-      "word": "incapacitate",
+      "id": "10286f41-32e8-4d95-af84-0331afdaa81d",
+      "word": "to incapacitate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW5jYXBhY2l0YXRl&hash=4269fddc91a9f2c9ba2f0896f81694a50ab671bd&lang=en&cache-only=0",
-      "phonetic_text": "ɪnkəpæsɪteɪt",
+      "phonetic_text": "ɪn.kə.pæ.si.teɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW5jYXBhY2l0YXRl&hash=4269fddc91a9f2c9ba2f0896f81694a50ab671bd&lang=en&cache-only=0",
-      "phonetic_am_text": "inkēpāsiteit",
+      "phonetic_am_text": "in.kē.pā.si.teit",
       "img": "",
       "pronunciation": "ˌɪnkəˈpæsɪˌteɪt",
       "senses": [
@@ -396,7 +551,8 @@
       ]
     },
     {
-      "word": "jam",
+      "id": "f9dce52e-38a6-45f6-8967-fbae0ccac46e",
+      "word": "to jam",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gamFt&hash=1c50ec30f2aecd1d19387fd738131a84a4578c24&lang=en&cache-only=0",
       "phonetic_text": "ʤæm",
@@ -429,12 +585,13 @@
       ]
     },
     {
-      "word": "lacerate",
+      "id": "8603121c-8501-4cae-8fc8-c27c669b4eef",
+      "word": "to lacerate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGFjZXJhdGU&hash=5560061269d6762204a9837c98981fa71758bc4f&lang=en&cache-only=0",
-      "phonetic_text": "læsəreɪt",
+      "phonetic_text": "læ.sɜ.reɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGFjZXJhdGU&hash=5560061269d6762204a9837c98981fa71758bc4f&lang=en&cache-only=0",
-      "phonetic_am_text": "lāsēreit",
+      "phonetic_am_text": "lā.sē.reit",
       "img": "https://cdn.langeek.co/photo/58561/original/?type=jpeg",
       "pronunciation": "ˈɫæsɝˌeɪt",
       "senses": [
@@ -466,7 +623,8 @@
       ]
     },
     {
-      "word": "maim",
+      "id": "0afa68f8-975c-4d46-b8e1-413ea90ec2a1",
+      "word": "to maim",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFpbQ&hash=a5a4fbdb1b4fbc146dcc4373a14b5181d5224d8d&lang=en&cache-only=0",
       "phonetic_text": "meɪm",
@@ -503,87 +661,190 @@
       ]
     },
     {
-      "word": "mangle",
+      "id": "fa23a9ef-0560-4f42-bc60-e1023804a0cc",
+      "word": "to mangle",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFuZ2xl&hash=b12e0830fef5359de2a5f03e83992ea31fe55b30&lang=en&cache-only=0",
-      "phonetic_text": "mængəl",
+      "phonetic_text": "mæn.gəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFuZ2xl&hash=b12e0830fef5359de2a5f03e83992ea31fe55b30&lang=en&cache-only=0",
-      "phonetic_am_text": "māngēl",
+      "phonetic_am_text": "mān.gēl",
       "img": "https://cdn.langeek.co/photo/51945/original/?type=jpeg",
       "pronunciation": "ˈmæŋɡəɫ",
       "senses": [
         {
           "definition": "to severely damage or destroy something",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The machine malfunctioned and began to mangle the fabric."
+            },
+            {
+              "cf": "",
+              "x": "The car accident had the potential to mangle the metal structure."
+            },
+            {
+              "cf": "",
+              "x": "The explosion threatened to mangle anything within its blast radius."
+            },
+            {
+              "cf": "",
+              "x": "The lack of proper precautions mangled the fabric in the manufacturing process."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "mutilate",
+      "id": "50817e73-ad45-4737-b9b1-b4ce0f446fd1",
+      "word": "to mutilate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbXV0aWxhdGU&hash=070121c13ef6c030b794a340a7ea5d88f5902f32&lang=en&cache-only=0",
-      "phonetic_text": "mju:təleɪt",
+      "phonetic_text": "mju.tə.leɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbXV0aWxhdGU&hash=070121c13ef6c030b794a340a7ea5d88f5902f32&lang=en&cache-only=0",
-      "phonetic_am_text": "myootēleit",
+      "phonetic_am_text": "myoo.tē.leit",
       "img": "https://cdn.langeek.co/photo/47364/original/?type=jpeg",
       "pronunciation": "ˈmjutəˌɫeɪt",
       "senses": [
         {
           "definition": "to cause severe damage or harm",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The accident mutilated his arm, leaving lasting scars."
+            },
+            {
+              "cf": "",
+              "x": "In some cultures, individuals are mutilated as a form of punishment or ostracization."
+            },
+            {
+              "cf": "",
+              "x": "The criminal's intent was to mutilate the victim's face beyond recognition."
+            },
+            {
+              "cf": "",
+              "x": "The soldiers found animals mutilated in the deserted village."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "tear",
+      "id": "0d51ec86-79a7-4f5b-838b-2bc883f7dc80",
+      "word": "to tear",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGVhcg&hash=794f44ec67e47aa1d84eb171c1ea7b022ce9b74c&lang=en&cache-only=0",
-      "phonetic_text": "tɛr",
+      "phonetic_text": "tɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGVhcg&hash=794f44ec67e47aa1d84eb171c1ea7b022ce9b74c&lang=en&cache-only=0",
-      "phonetic_am_text": "ter",
+      "phonetic_am_text": "tir",
       "img": "",
-      "pronunciation": "ˈtɛɹ/, /ˈtɪɹ",
+      "pronunciation": "tɪr",
       "senses": [
         {
           "definition": "to injure a muscle, etc. by stretching it too much",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He tore his hamstring while sprinting in the race."
+            },
+            {
+              "cf": "",
+              "x": "She felt a sharp pain in her shoulder after tearing a ligament while lifting weights."
+            },
+            {
+              "cf": "",
+              "x": "The football player tore his Achilles tendon during a game, requiring surgery to repair."
+            },
+            {
+              "cf": "",
+              "x": "After years of intense training, he finally tore a muscle in his back while lifting heavy weights."
+            },
+            {
+              "cf": "",
+              "x": "She was sidelined for several weeks after tearing her calf muscle during a marathon."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "trample",
+      "id": "965b22f9-5842-41d1-8525-5b36d2513cf2",
+      "word": "to trample",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHJhbXBsZQ&hash=d3a6e9ce4045cea77774f93c642a153dccfc68f9&lang=en&cache-only=0",
-      "phonetic_text": "træmpəl",
+      "phonetic_text": "træm.pəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHJhbXBsZQ&hash=d3a6e9ce4045cea77774f93c642a153dccfc68f9&lang=en&cache-only=0",
-      "phonetic_am_text": "trāmpēl",
+      "phonetic_am_text": "trām.pēl",
       "img": "",
       "pronunciation": "ˈtɹæmpəɫ",
       "senses": [
         {
           "definition": "to step heavily or crush underfoot with force",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "In the chaos, people began to trample the fallen leaves during the outdoor concert."
+            },
+            {
+              "cf": "",
+              "x": "The children couldn't contain their excitement and accidentally trampled the delicate flowers in the garden."
+            },
+            {
+              "cf": "",
+              "x": "The wild elephants avoided trampling the small plants as they moved through the dense forest."
+            },
+            {
+              "cf": "",
+              "x": "It's essential to be cautious in crowded spaces to avoid accidentally trampling others' belongings."
+            },
+            {
+              "cf": "",
+              "x": "During the protest, the crowd threatened to trample the banners and signs scattered on the ground."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "twist",
+      "id": "567fb0cf-a709-4f09-9a36-03b1a4ee7511",
+      "word": "to twist",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHdpc3Q&hash=fe2508d8c0e01963034256f76d2a49e37419753c&lang=en&cache-only=0",
       "phonetic_text": "twɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHdpc3Q&hash=fe2508d8c0e01963034256f76d2a49e37419753c&lang=en&cache-only=0",
-      "phonetic_am_text": "twist",
+      "phonetic_am_text": "tvist",
       "img": "https://cdn.langeek.co/photo/37005/original/?type=jpeg",
-      "pronunciation": "ˈtwɪst",
+      "pronunciation": "twɪst",
       "senses": [
         {
           "definition": "to injure a joint, particularly one's ankle or wrist by turning it in an awkward way",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She twisted her ankle while hiking on the rocky terrain, making it difficult to continue the trail."
+            },
+            {
+              "cf": "",
+              "x": "Running down the stairs, she missed a step and twisted her ankle, wincing in pain."
+            },
+            {
+              "cf": "",
+              "x": "He twisted his wrist while trying to catch the falling bookshelf, sending a sharp pain shooting up his arm."
+            },
+            {
+              "cf": "",
+              "x": "The gymnast twisted her ankle during practice, forcing her to sit out of the competition."
+            },
+            {
+              "cf": "",
+              "x": "She slipped on the icy pavement and twisted her wrist as she tried to break her fall."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "wrench",
+      "id": "93994c5d-1f39-4f84-af7e-58c892fe8e67",
+      "word": "to wrench",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd3JlbmNo&hash=f0dcd9ac10abbe516be92cbbe800c7e185f1d655&lang=en&cache-only=0",
       "phonetic_text": "rɛnʧ",
@@ -599,7 +860,8 @@
       ]
     },
     {
-      "word": "bump",
+      "id": "6f3cdb03-776d-4702-9b5d-56e6b9e7f2fd",
+      "word": "to bump",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnVtcA&hash=fd39ac5323d4ff1f009ce97d16e9d1603a163562&lang=en&cache-only=0",
       "phonetic_text": "bʌmp",
@@ -615,12 +877,13 @@
       ]
     },
     {
-      "word": "concuss",
+      "id": "badf419b-3cf5-4bd7-9903-d682c43860de",
+      "word": "to concuss",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29uY3Vzcw&hash=eefee8d4b0fd4f5aa68462f5fc0f7700e4bc675b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kən.kʌs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29uY3Vzcw&hash=eefee8d4b0fd4f5aa68462f5fc0f7700e4bc675b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kēn.kas",
       "img": "https://cdn.langeek.co/photo/43476/original/hit?type=jpeg",
       "pronunciation": "kənkˈʌs",
       "senses": [
@@ -631,13 +894,14 @@
       ]
     },
     {
-      "word": "fracture",
+      "id": "77d15d8d-c4db-444c-9e38-6aea71ae5a8f",
+      "word": "to fracture",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZnJhY3R1cmU&hash=c9819b8c6ed11ede4ae4ff28242a455e748bebd0&lang=en&cache-only=0",
-      "phonetic_text": "frækʧər",
+      "phonetic_text": "fræk.ʃɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZnJhY3R1cmU&hash=c9819b8c6ed11ede4ae4ff28242a455e748bebd0&lang=en&cache-only=0",
-      "phonetic_am_text": "frākchēr",
-      "img": "https://cdn.langeek.co/photo/17427/original/break?type=jpeg",
+      "phonetic_am_text": "frāk.shēr",
+      "img": "https://cdn.langeek.co/photo/61738/original/break?type=jpeg",
       "pronunciation": "ˈfɹækʃɝ/, /ˈfɹæktʃɝ",
       "senses": [
         {
@@ -664,12 +928,13 @@
       ]
     },
     {
-      "word": "hobble",
+      "id": "d97f5c8c-5a40-45bc-92d7-36f425a944a1",
+      "word": "to hobble",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaG9iYmxl&hash=bb8811bd3fb6364a3f5fb4e759f9e36be40ce14d&lang=en&cache-only=0",
-      "phonetic_text": "hɑ:bəl",
+      "phonetic_text": "hɑ.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaG9iYmxl&hash=bb8811bd3fb6364a3f5fb4e759f9e36be40ce14d&lang=en&cache-only=0",
-      "phonetic_am_text": "haabēl",
+      "phonetic_am_text": "haa.bēl",
       "img": "",
       "pronunciation": "ˈhɑbəɫ",
       "senses": [
@@ -680,23 +945,38 @@
       ]
     },
     {
+      "id": "9dff08a7-fa23-43d5-bf79-00657ba5a7e8",
       "word": "rupture",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cnVwdHVyZQ&hash=c169b096731c3f712df46a4b47da8f5eef0aaec5&lang=en&cache-only=0",
-      "phonetic_text": "rʌpʧər",
+      "phonetic_text": "rəp.ʧɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cnVwdHVyZQ&hash=c169b096731c3f712df46a4b47da8f5eef0aaec5&lang=en&cache-only=0",
-      "phonetic_am_text": "rapchēr",
+      "phonetic_am_text": "rēp.chēr",
       "img": "",
       "pronunciation": "ˈɹəptʃɝ",
       "senses": [
         {
           "definition": "a severe injury that causes an internal organ or soft tissue to break or tear suddenly",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "A blood vessel rupture can lead to internal bleeding."
+            },
+            {
+              "cf": "",
+              "x": "She felt a sudden sharp pain in her abdomen, fearing it was a sign of an appendix rupture."
+            },
+            {
+              "cf": "",
+              "x": "Severe coughing fits can lead to a lung rupture, resulting in difficulty breathing."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "scab",
+      "id": "d82ac7d2-c323-44f3-9b2d-08e56f02a58e",
+      "word": "to scab",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NhYg&hash=a054bacfe885e81e913ce0cb1e7a114e7d4dff17&lang=en&cache-only=0",
       "phonetic_text": "skæb",
@@ -712,23 +992,46 @@
       ]
     },
     {
-      "word": "scald",
+      "id": "91736aa7-efa8-4f45-b8c3-89dfbd444732",
+      "word": "to scald",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NhbGQ&hash=334c3da75f6f9b10b74d7372f51b036bc2231081&lang=en&cache-only=0",
-      "phonetic_text": "skɔ:ld",
+      "phonetic_text": "skɔld",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NhbGQ&hash=334c3da75f6f9b10b74d7372f51b036bc2231081&lang=en&cache-only=0",
-      "phonetic_am_text": "skaawld",
+      "phonetic_am_text": "skawld",
       "img": "https://cdn.langeek.co/photo/37009/original/?type=jpeg",
       "pronunciation": "ˈskɔɫd",
       "senses": [
         {
           "definition": "to injure oneself with hot liquid or steam",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She scalded her hand while pouring boiling water into the cup."
+            },
+            {
+              "cf": "",
+              "x": "The steam from the pot scalded his face as he lifted the lid too quickly."
+            },
+            {
+              "cf": "",
+              "x": "The clumsy waiter accidentally scalded a customer with hot coffee."
+            },
+            {
+              "cf": "",
+              "x": "When boiling pasta, take care not to scald yourself with the steam."
+            },
+            {
+              "cf": "",
+              "x": "The pot of soup tipped over, scalding anyone in its path."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "scratch",
+      "id": "a3b81162-07d2-4ea6-a007-544cdd434d3f",
+      "word": "to scratch",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NyYXRjaA&hash=cf9a0f222a207947bdb1f077bced7e8bcd99302d&lang=en&cache-only=0",
       "phonetic_text": "skræʧ",
@@ -739,12 +1042,34 @@
       "senses": [
         {
           "definition": "to make small cuts or marks on a surface",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The sharp rock accidentally scratched the surface of the car's paint."
+            },
+            {
+              "cf": "",
+              "x": "The puppy scratched the floor trying to bury its bone."
+            },
+            {
+              "cf": "",
+              "x": "She accidentally scratched her phone screen with her keys."
+            },
+            {
+              "cf": "",
+              "x": "The cat scratched the upholstery of the sofa, leaving marks behind."
+            },
+            {
+              "cf": "",
+              "x": "Be careful not to scratch the glass when cleaning it with a rough cloth."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "sting",
+      "id": "35ce6a31-77a7-4fab-9bea-b63a81d26207",
+      "word": "to sting",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3Rpbmc&hash=fe1cdca3e4e3aa4a5a5c344c2e939d93a0537790&lang=en&cache-only=0",
       "phonetic_text": "stɪng",
@@ -777,10 +1102,11 @@
       ]
     },
     {
-      "word": "scar",
+      "id": "ec4c8af4-76cb-4a30-8cea-b865d86cf4f3",
+      "word": "to scar",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2Nhcg&hash=77ebbede2fba7802c95051cdeb0036e5f09ff850&lang=en&cache-only=0",
-      "phonetic_text": "skɑ:r",
+      "phonetic_text": "skɑr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2Nhcg&hash=77ebbede2fba7802c95051cdeb0036e5f09ff850&lang=en&cache-only=0",
       "phonetic_am_text": "skaar",
       "img": "https://cdn.langeek.co/photo/47340/original/?type=jpeg",
@@ -814,7 +1140,8 @@
       ]
     },
     {
-      "word": "scrape",
+      "id": "16beb10c-73b5-4310-a3c9-2eef8834ced1",
+      "word": "to scrape",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NyYXBl&hash=38dd7428d9256a588ba0f740a2374686fe0b945b&lang=en&cache-only=0",
       "phonetic_text": "skreɪp",
@@ -830,7 +1157,8 @@
       ]
     },
     {
-      "word": "sprain",
+      "id": "7eab2dc1-4de1-4a10-84ba-3b438f936cc2",
+      "word": "to sprain",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3ByYWlu&hash=1fe716edee9329116f3a67851cca094e55fd2648&lang=en&cache-only=0",
       "phonetic_text": "spreɪn",
@@ -867,34 +1195,78 @@
       ]
     },
     {
-      "word": "stab",
+      "id": "3c1414d2-7245-4874-9ad2-12dc840d4f79",
+      "word": "to stab",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RhYg&hash=ad2dc825e5e20c9009aba040216e1e26d5255ede&lang=en&cache-only=0",
       "phonetic_text": "stæb",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RhYg&hash=ad2dc825e5e20c9009aba040216e1e26d5255ede&lang=en&cache-only=0",
       "phonetic_am_text": "stāb",
       "img": "https://cdn.langeek.co/photo/46710/original/?type=jpeg",
-      "pronunciation": "ˈstæb",
+      "pronunciation": "stæb",
       "senses": [
         {
           "definition": "to push a knife or other sharp object into someone to injure or kill them",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The assailant attempted to stab the victim multiple times before fleeing the scene."
+            },
+            {
+              "cf": "",
+              "x": "She narrowly escaped being stabbed when she defended herself with a nearby object."
+            },
+            {
+              "cf": "",
+              "x": "The detective concluded that the victim was stabbed with a kitchen knife based on the wound pattern."
+            },
+            {
+              "cf": "",
+              "x": "She woke up screaming from a nightmare where someone was trying to stab her, leaving her shaken and anxious."
+            },
+            {
+              "cf": "",
+              "x": "The criminal stabbed his victim in the chest, causing him severe injuries."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "paralyze",
+      "id": "375589c1-af17-4002-b4cf-d85241c5b4aa",
+      "word": "to paralyze",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGFyYWx5emU&hash=51d2e2da608cf1654a3a07793c1dd0a4bee0b5dd&lang=en&cache-only=0",
-      "phonetic_text": "pɛrəlaɪz",
+      "phonetic_text": "pɛ.rə.laɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGFyYWx5emU&hash=51d2e2da608cf1654a3a07793c1dd0a4bee0b5dd&lang=en&cache-only=0",
-      "phonetic_am_text": "perēlaiz",
+      "phonetic_am_text": "pe.rē.laiz",
       "img": "https://cdn.langeek.co/photo/59248/original/?type=jpeg",
       "pronunciation": "ˈpɛɹəˌɫaɪz",
       "senses": [
         {
           "definition": "to cause a person, animal, or part of the body to lose the ability to move or function, usually due to injury or illness",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The accident unfortunately paralyzed his legs, leaving him unable to walk."
+            },
+            {
+              "cf": "",
+              "x": "A stroke can paralyze one side of the body, impacting motor functions."
+            },
+            {
+              "cf": "",
+              "x": "The venom from the snakebite had the potential to paralyze the victim."
+            },
+            {
+              "cf": "",
+              "x": "In severe cases, a spinal cord injury can paralyze both arms and legs."
+            },
+            {
+              "cf": "",
+              "x": "The disease progressed rapidly, threatening to paralyze the patient's respiratory system."
+            }
+          ]
         }
       ]
     }

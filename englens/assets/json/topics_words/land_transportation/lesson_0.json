@@ -1,40 +1,55 @@
 {
+  "id": "95baacb1-1662-46a4-802e-3580de71c824",
   "topic": "land_transportation",
   "title": "Vehicle Terms and Types",
   "lesson": "lesson_0",
   "word_list": [
     {
+      "id": "29f0ccf7-ea84-4628-923c-fce04bf8c239",
       "word": "vehicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmVoaWNsZQ&hash=a84236090493dede94eae263b2a181c9d42f917b&lang=en&cache-only=0",
-      "phonetic_text": "vi:hɪkəl",
+      "phonetic_text": "viɪ.əkl",
       "phonetic_am": "https://tts.langeek.co/read?text=dmVoaWNsZQ&hash=a84236090493dede94eae263b2a181c9d42f917b&lang=en&cache-only=0",
-      "phonetic_am_text": "veehikēl",
+      "phonetic_am_text": "vii.ēkl",
       "img": "https://cdn.langeek.co/photo/19044/original/vehicle?type=jpeg",
-      "pronunciation": "ˈvihɪkəɫ/, /ˈviɪkəɫ",
+      "pronunciation": "ˈviɪkəl",
       "senses": [
         {
-          "definition": "a large object with an engine, such as a car or truck, used for transporting people or goods",
+          "definition": "a means of transportation used to carry people or goods from one place to another, typically on roads or tracks",
           "examples": [
             {
               "cf": "",
-              "x": "She drove a sleek sports car, which was her dream vehicle since childhood."
+              "x": "Cars, buses, and trucks are all types of vehicles."
             },
             {
               "cf": "",
-              "x": "The delivery company uses electric vehicles to reduce carbon emissions."
+              "x": "Electric vehicles are becoming more popular."
+            },
+            {
+              "cf": "",
+              "x": "You need a license to drive a vehicle."
+            },
+            {
+              "cf": "",
+              "x": "That vehicle is parked in the wrong spot."
+            },
+            {
+              "cf": "",
+              "x": "The accident involved three vehicles."
             }
           ]
         }
       ]
     },
     {
+      "id": "f2744ea5-d15c-4541-99de-5827909ac21a",
       "word": "automobile",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXV0b21vYmlsZQ&hash=4cd08b09aba78d9a433e3be0794227ce2019c238&lang=en&cache-only=0",
-      "phonetic_text": "ɔ:təmoʊbil",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXV0b21vYmlsZQ&hash=4cd08b09aba78d9a433e3be0794227ce2019c238&lang=en&cache-only=0",
-      "phonetic_am_text": "aawtēmowbil",
+      "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/49365/original/car?type=jpeg",
       "pronunciation": "ˈɔtəmoʊˌbiɫ/, /ˌɔtəmoʊˈbiɫ",
       "senses": [
@@ -66,6 +81,7 @@
       ]
     },
     {
+      "id": "8c3e3fea-a151-4e89-9622-00d1ea7b85cf",
       "word": "car",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2Fy&hash=0c1027a2f9bc8e99b7a34b8784a4165e3b7ffbca&lang=en&cache-only=0",
@@ -103,12 +119,13 @@
       ]
     },
     {
+      "id": "745c9208-d112-4b66-8b78-abbaa9950947",
       "word": "motor vehicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW90b3IgdmVoaWNsZQ&hash=1530c6eef05d04a3b748515fb8d00f3dbad128f5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "moʊ.tɜr viɪ.əkl",
       "phonetic_am": "https://tts.langeek.co/read?text=bW90b3IgdmVoaWNsZQ&hash=1530c6eef05d04a3b748515fb8d00f3dbad128f5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mooo.tēr vii.ēkl",
       "img": "https://cdn.langeek.co/photo/19044/original/vehicle?type=jpeg",
       "pronunciation": "mˈoʊɾɚ vˈiəkəl",
       "senses": [
@@ -140,14 +157,15 @@
       ]
     },
     {
+      "id": "8ca83a60-c913-4b9a-bfea-e2167ed3c8cb",
       "word": "model",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9kZWw&hash=5abaea122502faa5fea42a9cbc791be8e81d5809&lang=en&cache-only=0",
-      "phonetic_text": "mɑ:dəl",
+      "phonetic_text": "mɑ.dəl",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9kZWw&hash=5abaea122502faa5fea42a9cbc791be8e81d5809&lang=en&cache-only=0",
-      "phonetic_am_text": "maadēl",
+      "phonetic_am_text": "maa.dēl",
       "img": "",
-      "pronunciation": "ˈmɑdəɫ",
+      "pronunciation": "ˈmɑdəl",
       "senses": [
         {
           "definition": "a particular type or version of a product, such as a car model",
@@ -156,12 +174,13 @@
       ]
     },
     {
+      "id": "45918d01-8d36-4aba-88e3-6aa656b97348",
       "word": "two-wheeler",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHdvLXdoZWVsZXI&hash=8e670b331284b0d7012b0d354a46b05eb24512d1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tu:-hwi.lɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dHdvLXdoZWVsZXI&hash=8e670b331284b0d7012b0d354a46b05eb24512d1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "too-hvi.lēr",
       "img": "",
       "pronunciation": "tˈuːwˈiːlɚ",
       "senses": [
@@ -193,12 +212,13 @@
       ]
     },
     {
+      "id": "c35e5d07-e8ca-45bb-90ae-40e0b02ea749",
       "word": "three-wheeler",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhyZWUtd2hlZWxlcg&hash=698d192d975fda4d6d0892e59e55d4159f820a3d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "θri:-hwi.lɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhyZWUtd2hlZWxlcg&hash=698d192d975fda4d6d0892e59e55d4159f820a3d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "thri-hvi.lēr",
       "img": "",
       "pronunciation": "θɹˈiːwˈiːlɚ",
       "senses": [
@@ -230,12 +250,13 @@
       ]
     },
     {
+      "id": "56d2bfd7-5f98-4925-90e3-7bd70a269053",
       "word": "four-wheeler",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm91ci13aGVlbGVy&hash=b565da519ca15c5c47e046894f6e63b84573e5cc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɔ:r-hwi.lɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm91ci13aGVlbGVy&hash=b565da519ca15c5c47e046894f6e63b84573e5cc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fawr-hvi.lēr",
       "img": "",
       "pronunciation": "fˈoːɹwˈiːlɚ",
       "senses": [
@@ -267,12 +288,13 @@
       ]
     },
     {
+      "id": "54cb6f05-72aa-4d00-a96c-c3524a38a94f",
       "word": "left-hand drive",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bGVmdC1oYW5kIGRyaXZl&hash=8cbe5e4c2d85f1f3b02dac6925aaecb3e1e53e96&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɛft-hænd draɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVmdC1oYW5kIGRyaXZl&hash=8cbe5e4c2d85f1f3b02dac6925aaecb3e1e53e96&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "left-hānd draiv",
       "img": "",
       "pronunciation": "lˈɛfthˈænd dɹˈaɪv",
       "senses": [
@@ -304,12 +326,13 @@
       ]
     },
     {
+      "id": "8176615f-8538-4ce3-8c0c-3b50ed06db63",
       "word": "right-hand drive",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cmlnaHQtaGFuZCBkcml2ZQ&hash=331e901abfcfcddcb2f2648f58f02316d0ecc591&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "raɪt-hænd draɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=cmlnaHQtaGFuZCBkcml2ZQ&hash=331e901abfcfcddcb2f2648f58f02316d0ecc591&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rait-hānd draiv",
       "img": "",
       "pronunciation": "ɹˈaɪthˈænd dɹˈaɪv",
       "senses": [
@@ -341,12 +364,13 @@
       ]
     },
     {
+      "id": "2c05f7ed-b2cc-4f28-97ac-e219e9ea161f",
       "word": "keyless",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=a2V5bGVzcw&hash=6c5c3b6abc4d4e29c81ab4d556b127478fca5bb4&lang=en&cache-only=0",
-      "phonetic_text": "ki:ləs",
+      "phonetic_text": "ki.ləs",
       "phonetic_am": "https://tts.langeek.co/read?text=a2V5bGVzcw&hash=6c5c3b6abc4d4e29c81ab4d556b127478fca5bb4&lang=en&cache-only=0",
-      "phonetic_am_text": "keelēs",
+      "phonetic_am_text": "ki.lēs",
       "img": "",
       "pronunciation": "ˈkiɫəs",
       "senses": [
@@ -378,12 +402,13 @@
       ]
     },
     {
+      "id": "ce1d4fa0-2b48-4552-895a-56738ad31117",
       "word": "stick shift",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RpY2sgc2hpZnQ&hash=b1cb458e20e7eb0b48a0e6d3e3e0e0e5edd7885e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stɪk ʃɪft",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RpY2sgc2hpZnQ&hash=b1cb458e20e7eb0b48a0e6d3e3e0e0e5edd7885e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "stik shift",
       "img": "",
       "pronunciation": "stˈɪk ʃˈɪft",
       "senses": [
@@ -415,12 +440,13 @@
       ]
     },
     {
+      "id": "336c9494-dea9-428d-b33f-f7f47e9fd661",
       "word": "manual",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFudWFs&hash=ba2ce205105bd38d083bb9f8140416138b326134&lang=en&cache-only=0",
-      "phonetic_text": "mænjuəl",
+      "phonetic_text": "mæ.njuəl",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFudWFs&hash=ba2ce205105bd38d083bb9f8140416138b326134&lang=en&cache-only=0",
-      "phonetic_am_text": "mānyuēl",
+      "phonetic_am_text": "mā.nyooēl",
       "img": "",
       "pronunciation": "ˈmænjuəɫ",
       "senses": [
@@ -452,14 +478,15 @@
       ]
     },
     {
+      "id": "f4d65b07-b780-496c-aa5f-d0bc75c70cac",
       "word": "automatic",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXV0b21hdGlj&hash=09a1efe1ad26c053c176554c06a1ab70da9b85d4&lang=en&cache-only=0",
-      "phonetic_text": "ɔtəmætɪk",
+      "phonetic_text": "ɔ.tə.mæ.tɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=YXV0b21hdGlj&hash=09a1efe1ad26c053c176554c06a1ab70da9b85d4&lang=en&cache-only=0",
-      "phonetic_am_text": "awtēmātik",
+      "phonetic_am_text": "aw.tē.mā.tik",
       "img": "",
-      "pronunciation": "ˌɔtəˈmætɪk/, /ˌɔtoʊˈmætɪk",
+      "pronunciation": "ˌɑtəˈmætɪk",
       "senses": [
         {
           "definition": "a vehicle that changes gears automatically without manual intervention",
@@ -468,12 +495,13 @@
       ]
     },
     {
+      "id": "9290c699-43e6-4c8f-9862-44db6b739fd9",
       "word": "self-driving car",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VsZi1kcml2aW5nIGNhcg&hash=5eb1132383b101a1f84ed6065e77920c58638621&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛlf-draɪ.vɪng kɑ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VsZi1kcml2aW5nIGNhcg&hash=5eb1132383b101a1f84ed6065e77920c58638621&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "self-drai.ving kaar",
       "img": "",
       "pronunciation": "sˈɛlfdɹˈaɪvɪŋ kˈɑːɹ",
       "senses": [
@@ -505,10 +533,11 @@
       ]
     },
     {
+      "id": "164d70fa-77e7-491d-825e-618a03107e68",
       "word": "driverless car",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJpdmVybGVzcyBjYXI&hash=0e4fda9b7b9aeb5ac3c3ca821829224d728b09e8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJpdmVybGVzcyBjYXI&hash=0e4fda9b7b9aeb5ac3c3ca821829224d728b09e8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -542,12 +571,13 @@
       ]
     },
     {
+      "id": "45703392-25c2-49b2-af36-9e0553c84fbc",
       "word": "automotive vehicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXV0b21vdGl2ZSB2ZWhpY2xl&hash=f34c66f176bdaaba9f917eef9ac0c2ff6e418121&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɔ.tə.moʊ.tɪv viɪ.əkl",
       "phonetic_am": "https://tts.langeek.co/read?text=YXV0b21vdGl2ZSB2ZWhpY2xl&hash=f34c66f176bdaaba9f917eef9ac0c2ff6e418121&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aw.tē.mooo.tiv vii.ēkl",
       "img": "https://cdn.langeek.co/photo/19044/original/vehicle?type=jpeg",
       "pronunciation": "ˌɔːɾoʊmˈoʊɾɪv vˈiəkəl",
       "senses": [
@@ -579,12 +609,13 @@
       ]
     },
     {
+      "id": "27f18874-d6e0-424e-b784-7d8aca199c9b",
       "word": "wheeled vehicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2hlZWxlZCB2ZWhpY2xl&hash=74b8cb4be6002002e3db748187ec4b24f2742ab8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hwild viɪ.əkl",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hlZWxlZCB2ZWhpY2xl&hash=74b8cb4be6002002e3db748187ec4b24f2742ab8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hvild vii.ēkl",
       "img": "",
       "pronunciation": "wˈiːld vˈiəkəl",
       "senses": [
@@ -616,12 +647,13 @@
       ]
     },
     {
+      "id": "487d5c19-8d67-4944-b668-8a684afcae09",
       "word": "tracked vehicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhY2tlZCB2ZWhpY2xl&hash=d1d627e954563067eecfd3913afe09b4d5a62090&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "trækt viɪ.əkl",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhY2tlZCB2ZWhpY2xl&hash=d1d627e954563067eecfd3913afe09b4d5a62090&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trākt vii.ēkl",
       "img": "",
       "pronunciation": "tɹˈækt vˈiəkəl",
       "senses": [
@@ -653,12 +685,13 @@
       ]
     },
     {
+      "id": "8cfbf7e4-6c66-498f-8bc9-0291ae0d380d",
       "word": "commercial vehicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29tbWVyY2lhbCB2ZWhpY2xl&hash=847e9a8829f8dc1de40981d05f5f988f422e6e1b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kə.mɜr.ʃəl viɪ.əkl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tbWVyY2lhbCB2ZWhpY2xl&hash=847e9a8829f8dc1de40981d05f5f988f422e6e1b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kē.mēr.shēl vii.ēkl",
       "img": "",
       "pronunciation": "kəmˈɜːʃəl vˈiəkəl",
       "senses": [
@@ -690,12 +723,13 @@
       ]
     },
     {
+      "id": "a92079d4-e1eb-4be4-be41-42a29129fb52",
       "word": "emergency vehicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZW1lcmdlbmN5IHZlaGljbGU&hash=f2aae0653156992256be90d9af8794914b6fb611&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "i.mɜr.ʤən.si viɪ.əkl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZW1lcmdlbmN5IHZlaGljbGU&hash=f2aae0653156992256be90d9af8794914b6fb611&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "i.mēr.jēn.si vii.ēkl",
       "img": "",
       "pronunciation": "ɪmˈɜːdʒənsi vˈiəkəl",
       "senses": [
@@ -727,12 +761,13 @@
       ]
     },
     {
+      "id": "5c006770-e1b1-4108-a22e-72b51d6d1863",
       "word": "off-road vehicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b2ZmLXJvYWQgdmVoaWNsZQ&hash=bb0050e7cb2175d7d1f9ef0762448a99155b0949&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑf-roʊd viɪ.əkl",
       "phonetic_am": "https://tts.langeek.co/read?text=b2ZmLXJvYWQgdmVoaWNsZQ&hash=bb0050e7cb2175d7d1f9ef0762448a99155b0949&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aaf-roood vii.ēkl",
       "img": "https://cdn.langeek.co/photo/29521/original/?type=jpeg",
       "pronunciation": "ˈɔfɹˈoʊd vˈiəkəl",
       "senses": [
@@ -760,49 +795,30 @@
       ]
     },
     {
+      "id": "2e2c666c-10a6-4d70-b648-af5f5b3c0003",
       "word": "utility vehicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dXRpbGl0eSB2ZWhpY2xl&hash=4a232e3b0f89bf4df601f0ab5e4dd9d7f55bb8a8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ju.tɪ.lə.ti viɪ.əkl",
       "phonetic_am": "https://tts.langeek.co/read?text=dXRpbGl0eSB2ZWhpY2xl&hash=4a232e3b0f89bf4df601f0ab5e4dd9d7f55bb8a8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "yoo.ti.lē.ti vii.ēkl",
       "img": "",
       "pronunciation": "juːtˈɪlɪɾi vˈiəkəl",
       "senses": [
         {
           "definition": "a vehicle designed for practical use, often for transporting goods or performing work tasks",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The utility vehicle was loaded with tools and equipment for the maintenance crew."
-            },
-            {
-              "cf": "",
-              "x": "Farmers rely on utility vehicles to traverse their fields and transport crops."
-            },
-            {
-              "cf": "",
-              "x": "The new electric utility vehicle is eco-friendly and cost-effective for campus maintenance."
-            },
-            {
-              "cf": "",
-              "x": "Utility vehicles are commonly used by construction workers to carry heavy materials across the site."
-            },
-            {
-              "cf": "",
-              "x": "The park ranger drove a utility vehicle to patrol the trails and assist visitors."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "4d70deda-828f-42a5-bcb0-75fe20435039",
       "word": "recreational vehicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVjcmVhdGlvbmFsIHZlaGljbGU&hash=1ae121f7abc6dc49e794a9502f511a7be4ead1b6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɛk.rieɪ.ʃə.nəl viɪ.əkl",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVjcmVhdGlvbmFsIHZlaGljbGU&hash=1ae121f7abc6dc49e794a9502f511a7be4ead1b6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rek.riei.shē.nēl vii.ēkl",
       "img": "https://cdn.langeek.co/photo/51626/original/?type=jpeg",
       "pronunciation": "ɹˌɛkɹiːˈeɪʃənəl vˈiəkəl",
       "senses": [
@@ -830,12 +846,13 @@
       ]
     },
     {
+      "id": "99c46ecc-048c-4b78-8254-9af90b14ab1c",
       "word": "street-legal vehicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RyZWV0LWxlZ2FsIHZlaGljbGU&hash=c58a2246129bc81bcafea242a74fe7044d0e1a08&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stri:t-li.gəl viɪ.əkl",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyZWV0LWxlZ2FsIHZlaGljbGU&hash=c58a2246129bc81bcafea242a74fe7044d0e1a08&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "strit-li.gēl vii.ēkl",
       "img": "",
       "pronunciation": "stɹˈiːtlˈiːɡəl vˈiəkəl",
       "senses": [
@@ -867,12 +884,13 @@
       ]
     },
     {
+      "id": "95d87124-8025-4be1-ae9a-47928beab1e7",
       "word": "horse-drawn vehicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG9yc2UtZHJhd24gdmVoaWNsZQ&hash=0617245dd2dc051c9aea0ab9df21c18e26e815ae&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɔ:rs-drɔn viɪ.əkl",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9yc2UtZHJhd24gdmVoaWNsZQ&hash=0617245dd2dc051c9aea0ab9df21c18e26e815ae&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hawrs-drawn vii.ēkl",
       "img": "",
       "pronunciation": "hˈɔːɹsdɹˈɔːn vˈiəkəl",
       "senses": [
@@ -904,10 +922,11 @@
       ]
     },
     {
+      "id": "b7cdfbfb-d821-4b7b-8232-93c46e77299b",
       "word": "self-propelled vehicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VsZi1wcm9wZWxsZWQgdmVoaWNsZQ&hash=c27fbff439558eb67ab96ff6c6582c748705363f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VsZi1wcm9wZWxsZWQgdmVoaWNsZQ&hash=c27fbff439558eb67ab96ff6c6582c748705363f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -941,12 +960,13 @@
       ]
     },
     {
+      "id": "cb134888-b602-4e1d-9d71-3cca67f1ba05",
       "word": "single-track vehicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2luZ2xlLXRyYWNrIHZlaGljbGU&hash=7fc1f28b09113eed9de400f9a05c30e870aedb5c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɪn.gəl-træk viɪ.əkl",
       "phonetic_am": "https://tts.langeek.co/read?text=c2luZ2xlLXRyYWNrIHZlaGljbGU&hash=7fc1f28b09113eed9de400f9a05c30e870aedb5c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sin.gēl-trāk vii.ēkl",
       "img": "",
       "pronunciation": "sˈɪŋɡəltɹˈæk vˈiəkəl",
       "senses": [
@@ -978,47 +998,28 @@
       ]
     },
     {
+      "id": "377066da-f853-4eb7-9117-cb858ef5b17c",
       "word": "narrow-track vehicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmFycm93LXRyYWNrIHZlaGljbGU&hash=f30185d22094b4b93f4828be908834e6756fec23&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nɛ.roʊ-træk viɪ.əkl",
       "phonetic_am": "https://tts.langeek.co/read?text=bmFycm93LXRyYWNrIHZlaGljbGU&hash=f30185d22094b4b93f4828be908834e6756fec23&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ne.rooo-trāk vii.ēkl",
       "img": "",
       "pronunciation": "nˈæɹoʊtɹˈæk vˈiəkəl",
       "senses": [
         {
           "definition": "a type of vehicle characterized by a reduced width compared to standard vehicles",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The city's sanitation department uses narrow-track vehicles to collect trash from narrow alleyways downtown."
-            },
-            {
-              "cf": "",
-              "x": "The farm employs narrow-track vehicles to maneuver between rows of crops without damaging plants."
-            },
-            {
-              "cf": "",
-              "x": "Urban delivery services rely on narrow-track vehicles to navigate congested city streets more efficiently."
-            },
-            {
-              "cf": "",
-              "x": "Tourists explored the ancient ruins aboard narrow-track vehicles designed to protect fragile archaeological sites."
-            },
-            {
-              "cf": "",
-              "x": "Construction crews utilized narrow-track vehicles to access construction sites with limited entry points."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "d16813cc-2f02-438c-9308-a68d993d317d",
       "word": "omni directional vehicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b21uaSBkaXJlY3Rpb25hbCB2ZWhpY2xl&hash=6e654bcf65db22c30916e6a78bf1a7691dad5c52&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b21uaSBkaXJlY3Rpb25hbCB2ZWhpY2xl&hash=6e654bcf65db22c30916e6a78bf1a7691dad5c52&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -1052,12 +1053,13 @@
       ]
     },
     {
+      "id": "b48b8a0b-2a02-4cfb-8ad7-e3a0b83605c0",
       "word": "amphibious vehicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW1waGliaW91cyB2ZWhpY2xl&hash=dfa610f706c70e332e3e44159cc1d5ff17baeb00&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æm.fɪ.biəs viɪ.əkl",
       "phonetic_am": "https://tts.langeek.co/read?text=YW1waGliaW91cyB2ZWhpY2xl&hash=dfa610f706c70e332e3e44159cc1d5ff17baeb00&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ām.fi.biēs vii.ēkl",
       "img": "",
       "pronunciation": "æmfˈɪbɪəs vˈiəkəl",
       "senses": [
@@ -1089,12 +1091,13 @@
       ]
     },
     {
+      "id": "bd352e9a-bcba-420a-8c69-659a33d60bbd",
       "word": "alternative fuel vehicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWx0ZXJuYXRpdmUgZnVlbCB2ZWhpY2xl&hash=ebfdaef384f8953a9b2ad574661fcb98932f6e94&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɔl.tɜr.neɪ.tɪv fju:əl viɪ.əkl",
       "phonetic_am": "https://tts.langeek.co/read?text=YWx0ZXJuYXRpdmUgZnVlbCB2ZWhpY2xl&hash=ebfdaef384f8953a9b2ad574661fcb98932f6e94&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "awl.tēr.nei.tiv fyooēl vii.ēkl",
       "img": "",
       "pronunciation": "ɔːltˈɜːnətˌɪv fjˈuːəl vˈiəkəl",
       "senses": [
@@ -1126,12 +1129,13 @@
       ]
     },
     {
+      "id": "c10c37f6-4ea9-48ff-8657-bc524469b6b6",
       "word": "green vehicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JlZW4gdmVoaWNsZQ&hash=eb7bb341bf2f51a6d59048dcd380ba6c1507347e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gri:n viɪ.əkl",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JlZW4gdmVoaWNsZQ&hash=eb7bb341bf2f51a6d59048dcd380ba6c1507347e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "grin vii.ēkl",
       "img": "",
       "pronunciation": "ɡɹˈiːn vˈiəkəl",
       "senses": [
@@ -1163,12 +1167,13 @@
       ]
     },
     {
+      "id": "28afa44b-1f0a-4d44-bf09-d36a38f10c0f",
       "word": "hybrid vehicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aHlicmlkIHZlaGljbGU&hash=8bc5be3dbbad3521a7fb00702b16054b06b8e28c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "haɪb.rəd viɪ.əkl",
       "phonetic_am": "https://tts.langeek.co/read?text=aHlicmlkIHZlaGljbGU&hash=8bc5be3dbbad3521a7fb00702b16054b06b8e28c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "haib.rēd vii.ēkl",
       "img": "",
       "pronunciation": "hˈaɪbɹɪd vˈiəkəl",
       "senses": [
@@ -1200,12 +1205,13 @@
       ]
     },
     {
+      "id": "323e5b18-c9c0-4f71-8ad0-e8f28a2983da",
       "word": "zero-emission",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=emVyby1lbWlzc2lvbg&hash=5b55f6c15bd92a83fb081cfd5f5d20844e209876&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "zi:.roʊ-ɪ.mɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=emVyby1lbWlzc2lvbg&hash=5b55f6c15bd92a83fb081cfd5f5d20844e209876&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "zi.rooo-i.mi.shēn",
       "img": "",
       "pronunciation": "zˈiəɹoʊɪmˈɪʃən",
       "senses": [
@@ -1233,12 +1239,13 @@
       ]
     },
     {
+      "id": "e37e714c-3dbf-4dfd-8936-dd413017d1e1",
       "word": "gas guzzler",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2FzIGd1enpsZXI&hash=c1e2cabfc1b818844cfc68cd63248e401a84450f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gæs gəz.lɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2FzIGd1enpsZXI&hash=c1e2cabfc1b818844cfc68cd63248e401a84450f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gās gēz.lēr",
       "img": "",
       "pronunciation": "ɡˈæs ɡˈʌzlɚ",
       "senses": [
@@ -1270,12 +1277,13 @@
       ]
     },
     {
+      "id": "798a0e95-0a17-4568-896f-c89e790b99c9",
       "word": "electric car",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWxlY3RyaWMgY2Fy&hash=813de33942cf3a9448d7ec76c7172855b7d2031a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪ.lɛkt.rɪk kɑ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWxlY3RyaWMgY2Fy&hash=813de33942cf3a9448d7ec76c7172855b7d2031a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "i.lekt.rik kaar",
       "img": "https://cdn.langeek.co/photo/36359/original/?type=jpeg",
       "pronunciation": "ɪlˈɛktɹɪk kˈɑːɹ",
       "senses": [
@@ -1307,12 +1315,13 @@
       ]
     },
     {
+      "id": "1a923497-4118-4077-b36c-a71c71ddbef7",
       "word": "solar car",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c29sYXIgY2Fy&hash=af7ca9aa028ca6eb17baff86548d34128c3b50c4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "soʊ.lɜr kɑ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=c29sYXIgY2Fy&hash=af7ca9aa028ca6eb17baff86548d34128c3b50c4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sooo.lēr kaar",
       "img": "",
       "pronunciation": "sˈoʊlɚ kˈɑːɹ",
       "senses": [
@@ -1344,12 +1353,13 @@
       ]
     },
     {
+      "id": "8b84c60f-a5cd-4cf3-a7a2-f748ba60c3c4",
       "word": "performance car",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVyZm9ybWFuY2UgY2Fy&hash=f7a353e2606436266c232ab1d2822dd019ec5bc2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pər.fɔ:r.məns kɑ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVyZm9ybWFuY2UgY2Fy&hash=f7a353e2606436266c232ab1d2822dd019ec5bc2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pēr.fawr.mēns kaar",
       "img": "",
       "pronunciation": "pɚfˈoːɹməns kˈɑːɹ",
       "senses": [
@@ -1381,12 +1391,13 @@
       ]
     },
     {
+      "id": "cb8a6db3-2c3c-401e-ba0b-f7b55082ac14",
       "word": "custom car",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3VzdG9tIGNhcg&hash=4adce40636f7a5dcce32a9d82382a8883280bd5f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kəs.təm kɑ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3VzdG9tIGNhcg&hash=4adce40636f7a5dcce32a9d82382a8883280bd5f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kēs.tēm kaar",
       "img": "",
       "pronunciation": "kˈʌstəm kˈɑːɹ",
       "senses": [
@@ -1418,12 +1429,13 @@
       ]
     },
     {
+      "id": "9bc8acd4-062e-4e00-9262-632ba790568b",
       "word": "company car",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29tcGFueSBjYXI&hash=696344bc32482ffba3582c6e7f276b247cfeba6d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kʌm.pə.ni kɑ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tcGFueSBjYXI&hash=696344bc32482ffba3582c6e7f276b247cfeba6d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kam.pē.ni kaar",
       "img": "",
       "pronunciation": "kˈʌmpəni kˈɑːɹ",
       "senses": [
@@ -1451,12 +1463,13 @@
       ]
     },
     {
+      "id": "c3826d5d-91b8-42f9-9e47-2ddad2ea8059",
       "word": "econobox",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWNvbm9ib3g&hash=448cb3af55e07b365adc38a14db25997493e2dcf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛ.kə.nɑ:.bɑ:ks",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWNvbm9ib3g&hash=448cb3af55e07b365adc38a14db25997493e2dcf&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "e.kē.naa.baaks",
       "img": "",
       "pronunciation": "ˈɛkənˌɑːbɑːks",
       "senses": [
@@ -1480,14 +1493,15 @@
       ]
     },
     {
+      "id": "b2f14a8d-9128-43e4-b489-1e8832978e58",
       "word": "sporty",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c3BvcnR5&hash=3ae4ce98b984d8ac1f9412189a483a15e74b2d34&lang=en&cache-only=0",
-      "phonetic_text": "spɔ:rti",
+      "phonetic_text": "spɔr.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BvcnR5&hash=3ae4ce98b984d8ac1f9412189a483a15e74b2d34&lang=en&cache-only=0",
-      "phonetic_am_text": "spaawrti",
+      "phonetic_am_text": "spawr.ti",
       "img": "",
-      "pronunciation": "ˈspɔɹti",
+      "pronunciation": "ˈspɔrti",
       "senses": [
         {
           "definition": "(of a car) having a design or characteristics that suggest speed or performance",
@@ -1517,12 +1531,13 @@
       ]
     },
     {
+      "id": "9766f1a3-aed4-4893-b372-7a74487a3091",
       "word": "articulated",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YXJ0aWN1bGF0ZWQ&hash=0f7ce813093f6d1b6d4ee16f79cfc71c3bde4f60&lang=en&cache-only=0",
-      "phonetic_text": "ɑrtɪkjəleɪtɪd",
+      "phonetic_text": "ɑr.tɪk.jə.leɪ.tɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJ0aWN1bGF0ZWQ&hash=0f7ce813093f6d1b6d4ee16f79cfc71c3bde4f60&lang=en&cache-only=0",
-      "phonetic_am_text": "ɑrtikyēleitid",
+      "phonetic_am_text": "aar.tik.yē.lei.tid",
       "img": "",
       "pronunciation": "ɑɹˈtɪkjəˌɫeɪtɪd",
       "senses": [
@@ -1546,12 +1561,13 @@
       ]
     },
     {
+      "id": "f4931d93-8ab1-438c-8862-2c30f74e27af",
       "word": "roadholding",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9hZGhvbGRpbmc&hash=a39fc3426cafc3c70c1a74e1cb86ee4c14672906&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "roʊd.hoʊl.dɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9hZGhvbGRpbmc&hash=a39fc3426cafc3c70c1a74e1cb86ee4c14672906&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "roood.hoool.ding",
       "img": "",
       "pronunciation": "ɹˈoʊdhoʊldɪŋ",
       "senses": [

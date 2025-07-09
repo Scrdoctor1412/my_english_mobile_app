@@ -1,33 +1,41 @@
 {
+  "id": "b048e799-b78d-4d8b-a0d0-00552015a0d6",
   "topic": "decision_suggestion_obligation",
   "title": "Suggesting Options",
   "lesson": "lesson_9",
   "word_list": [
     {
+      "id": "718ab065-6052-428e-8057-f7e6beb9ee1d",
       "word": "rather",
       "pos": "interjection",
       "phonetic": "https://tts.langeek.co/read?text=cmF0aGVy&hash=a44205338839708ffb2e0912af22fd1a99a75531&lang=en&cache-only=0",
-      "phonetic_text": "ræðər",
+      "phonetic_text": "ræ.ðər",
       "phonetic_am": "https://tts.langeek.co/read?text=cmF0aGVy&hash=a44205338839708ffb2e0912af22fd1a99a75531&lang=en&cache-only=0",
-      "phonetic_am_text": "rādhēr",
+      "phonetic_am_text": "rā.dhēr",
       "img": "",
-      "pronunciation": "ˈɹæðɝ/, /ˈɹəðɝ",
+      "pronunciation": "ˈræðɚ",
       "senses": [
         {
           "definition": "‌used as a positive response to a suggestion or question",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He's quite the clever one, isn't he? — Rather!"
+            }
+          ]
         }
       ]
     },
     {
+      "id": "97f94fec-bc10-4a08-aacd-9efa2d80b7df",
       "word": "receptive",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cmVjZXB0aXZl&hash=72eaf7ae6c4ba2a91d92e8140c4cdc84b2593223&lang=en&cache-only=0",
-      "phonetic_text": "rɪsɛptɪv",
+      "phonetic_text": "ri.sɛp.tɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVjZXB0aXZl&hash=72eaf7ae6c4ba2a91d92e8140c4cdc84b2593223&lang=en&cache-only=0",
-      "phonetic_am_text": "riseptiv",
-      "img": "",
-      "pronunciation": "ɹiˈsɛptɪv/, /ɹɪˈsɛptɪv",
+      "phonetic_am_text": "ri.sep.tiv",
+      "img": "https://cdn.langeek.co/photo/60256/original/?type=jpeg",
+      "pronunciation": "rɪˈsɛptɪv",
       "senses": [
         {
           "definition": "open to listening or considering suggestions and new ideas",
@@ -57,12 +65,13 @@
       ]
     },
     {
+      "id": "1e495ae5-c8ba-42a8-93c5-9e88606b9622",
       "word": "receptiveness",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVjZXB0aXZlbmVzcw&hash=07825610a29a8ba663ecd4d2a2cb9f8e8e6fee30&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɪ.sɛp.tɪv.nəs",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVjZXB0aXZlbmVzcw&hash=07825610a29a8ba663ecd4d2a2cb9f8e8e6fee30&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ri.sep.tiv.nēs",
       "img": "",
       "pronunciation": "ɹɪsˈɛptɪvnəs",
       "senses": [
@@ -73,12 +82,13 @@
       ]
     },
     {
+      "id": "8997c4ad-f84c-47b2-8846-b3e9816abcca",
       "word": "receptivity",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVjZXB0aXZpdHk&hash=38606174e32d967d8b47dd13b3128180af08b060&lang=en&cache-only=0",
-      "phonetic_text": "ri:sɛptɪvɪti",
+      "phonetic_text": "ri.sɛp.tɪ.vɪ.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVjZXB0aXZpdHk&hash=38606174e32d967d8b47dd13b3128180af08b060&lang=en&cache-only=0",
-      "phonetic_am_text": "reeseptiviti",
+      "phonetic_am_text": "ri.sep.ti.vi.ti",
       "img": "",
       "pronunciation": "ˈɹiˌsɛpˈtɪvɪti",
       "senses": [
@@ -89,12 +99,13 @@
       ]
     },
     {
+      "id": "e7ae06fb-71e9-46f2-bccb-60e5f5de6750",
       "word": "road map",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9hZCBtYXA&hash=9ef6e86b0eae9d88ea546061410f20b6ab88223a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "roʊd mæp",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9hZCBtYXA&hash=9ef6e86b0eae9d88ea546061410f20b6ab88223a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "roood māp",
       "img": "",
       "pronunciation": "ɹˈoʊd mˈæp",
       "senses": [
@@ -105,7 +116,8 @@
       ]
     },
     {
-      "word": "say",
+      "id": "56742d3f-5418-47ff-9a07-849854a18ac0",
+      "word": "to say",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2F5&hash=dfee09bdb4b2047a9f3d4f06ea21385736fea9e1&lang=en&cache-only=0",
       "phonetic_text": "seɪ",
@@ -142,6 +154,7 @@
       ]
     },
     {
+      "id": "e4d645b6-00d5-467f-9cd5-652d6c257c82",
       "word": "say",
       "pos": "interjection",
       "phonetic": "https://tts.langeek.co/read?text=c2F5&hash=8a868dea91a93f7c6a5a612f412fec6374343beb&lang=en&cache-only=0",
@@ -158,7 +171,8 @@
       ]
     },
     {
-      "word": "slate",
+      "id": "80f76c26-3d8f-4b6c-85e9-3f2e7ffcb745",
+      "word": "to slate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2xhdGU&hash=b760c456ee6eb0194ed004c67549891b03af840c&lang=en&cache-only=0",
       "phonetic_text": "sleɪt",
@@ -187,12 +201,13 @@
       ]
     },
     {
-      "word": "submit",
+      "id": "f013aaa6-1da2-4e42-9862-d58ae3711857",
+      "word": "to submit",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3VibWl0&hash=d4787e1dc2819e62856129e9fda5d4b3b6803934&lang=en&cache-only=0",
-      "phonetic_text": "səbmɪt",
+      "phonetic_text": "səb.mɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3VibWl0&hash=d4787e1dc2819e62856129e9fda5d4b3b6803934&lang=en&cache-only=0",
-      "phonetic_am_text": "sēbmit",
+      "phonetic_am_text": "sēb.mit",
       "img": "",
       "pronunciation": "səbˈmɪt",
       "senses": [
@@ -224,14 +239,15 @@
       ]
     },
     {
-      "word": "suggest",
+      "id": "2f4d0718-852f-408d-ae5e-7031b6930584",
+      "word": "to suggest",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3VnZ2VzdA&hash=783c43a6141989c390b9d972fa8befff18cf126c&lang=en&cache-only=0",
-      "phonetic_text": "səʤɛst",
+      "phonetic_text": "sə.ʤɛst",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3VnZ2VzdA&hash=783c43a6141989c390b9d972fa8befff18cf126c&lang=en&cache-only=0",
-      "phonetic_am_text": "sējest",
-      "img": "https://cdn.langeek.co/photo/27696/original/?type=jpeg",
-      "pronunciation": "səˈdʒɛst",
+      "phonetic_am_text": "sē.jest",
+      "img": "https://cdn.langeek.co/photo/61416/original/?type=jpeg",
+      "pronunciation": "səˈʤɛst",
       "senses": [
         {
           "definition": "to mention an idea, proposition, plan, etc. for further consideration or possible action",
@@ -261,14 +277,15 @@
       ]
     },
     {
+      "id": "896e2823-4844-4550-9f4f-9718529c1101",
       "word": "sure thing",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=c3VyZSB0aGluZw&hash=6741979b6bc9304452ddf53b300a988cbabcd684&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʃʊr θɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=c3VyZSB0aGluZw&hash=6741979b6bc9304452ddf53b300a988cbabcd684&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "shoor thing",
       "img": "",
-      "pronunciation": "ʃˈʊɹ θˈɪŋ",
+      "pronunciation": "ˈʃʊr ˈθɪŋ",
       "senses": [
         {
           "definition": "something that is guaranteed",
@@ -302,12 +319,13 @@
       ]
     },
     {
+      "id": "8e1551b9-ca8e-4c46-acc8-3886cd319dbd",
       "word": "tacit",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dGFjaXQ&hash=b02ff018c41fa8b1f58f86833d2652426d659401&lang=en&cache-only=0",
-      "phonetic_text": "tæsɪt",
+      "phonetic_text": "tæ.sɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFjaXQ&hash=b02ff018c41fa8b1f58f86833d2652426d659401&lang=en&cache-only=0",
-      "phonetic_am_text": "tāsit",
+      "phonetic_am_text": "tā.sit",
       "img": "https://cdn.langeek.co/photo/49578/original/?type=jpeg",
       "pronunciation": "ˈtæsɪt",
       "senses": [
@@ -335,12 +353,13 @@
       ]
     },
     {
+      "id": "e9fc89f9-44ea-496b-9411-442c5243375b",
       "word": "tacitly",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=dGFjaXRseQ&hash=f52cfbbfcc9431f3951dcb5ed32da2bc87d1063a&lang=en&cache-only=0",
-      "phonetic_text": "tæsɪtli",
+      "phonetic_text": "tæ.sɪt.li",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFjaXRseQ&hash=f52cfbbfcc9431f3951dcb5ed32da2bc87d1063a&lang=en&cache-only=0",
-      "phonetic_am_text": "tāsitli",
+      "phonetic_am_text": "tā.sit.li",
       "img": "https://cdn.langeek.co/photo/49578/original/?type=jpeg",
       "pronunciation": "ˈtæsɪtɫi",
       "senses": [
@@ -368,10 +387,11 @@
       ]
     },
     {
-      "word": "[take] {sth} on board",
+      "id": "1314fe90-11d9-422c-985d-8768a29d186b",
+      "word": "to [take] {sth} on board",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBzb21ldGhpbmcgb24gYm9hcmQ&hash=8d0f83f794fe5d99510a3b53cf8c1c498f3f5e9b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBzb21ldGhpbmcgb24gYm9hcmQ&hash=8d0f83f794fe5d99510a3b53cf8c1c498f3f5e9b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -384,10 +404,11 @@
       ]
     },
     {
+      "id": "081c69b5-e644-45a9-98e1-e40c6f4288f9",
       "word": "tell you what {~noun}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGVsbCB5b3Ugd2hhdCA&hash=e4b99288a941df7bf0c9be1c80a82c79a819138f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVsbCB5b3Ugd2hhdCA&hash=e4b99288a941df7bf0c9be1c80a82c79a819138f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -400,12 +421,13 @@
       ]
     },
     {
-      "word": "theorize",
+      "id": "6811839d-192a-4331-b555-4dcf9257a234",
+      "word": "to theorize",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGhlb3JpemU&hash=7f6bdae8fddd3363990561738090c8bcd25bf382&lang=en&cache-only=0",
-      "phonetic_text": "θi:əraɪz",
+      "phonetic_text": "θiɜ.raɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGhlb3JpemU&hash=7f6bdae8fddd3363990561738090c8bcd25bf382&lang=en&cache-only=0",
-      "phonetic_am_text": "theeēraiz",
+      "phonetic_am_text": "thiē.raiz",
       "img": "https://cdn.langeek.co/photo/59496/original/?type=jpeg",
       "pronunciation": "ˈθiɝˌaɪz",
       "senses": [
@@ -429,12 +451,13 @@
       ]
     },
     {
+      "id": "d494061b-e38e-4e34-823c-7e0be231a585",
       "word": "theorizing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhlb3JpemluZw&hash=5a5868a52f12daadd80823463a252474e1313549&lang=en&cache-only=0",
-      "phonetic_text": "θi:əraɪzɪng",
+      "phonetic_text": "θiɜ.raɪ.zɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlb3JpemluZw&hash=5a5868a52f12daadd80823463a252474e1313549&lang=en&cache-only=0",
-      "phonetic_am_text": "theeēraizing",
+      "phonetic_am_text": "thiē.rai.zing",
       "img": "",
       "pronunciation": "ˈθiɝˌaɪzɪŋ",
       "senses": [
@@ -445,12 +468,13 @@
       ]
     },
     {
-      "word": "volunteer",
+      "id": "d517ac23-85b7-4c45-b8a0-9b14aed818d8",
+      "word": "to volunteer",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdm9sdW50ZWVy&hash=2771107799713f176aa8dada779ec95f5b5eae73&lang=en&cache-only=0",
-      "phonetic_text": "vɑləntɪr",
+      "phonetic_text": "vɑ.lən.tɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdm9sdW50ZWVy&hash=2771107799713f176aa8dada779ec95f5b5eae73&lang=en&cache-only=0",
-      "phonetic_am_text": "vɑlēntir",
+      "phonetic_am_text": "vaa.lēn.tir",
       "img": "",
       "pronunciation": "ˌvɑɫənˈtɪɹ",
       "senses": [
@@ -482,12 +506,13 @@
       ]
     },
     {
+      "id": "a84b3fc0-35dd-4f9d-89fd-b5ab57278eca",
       "word": "what about",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=d2hhdCBhYm91dA&hash=487834fefd59e7a5bf5f3fa06eb92f55af1f507e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wʌt ə.baʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hhdCBhYm91dA&hash=487834fefd59e7a5bf5f3fa06eb92f55af1f507e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vat ē.baoot",
       "img": "",
       "pronunciation": "wˌʌt ɐbˈaʊt",
       "senses": [
@@ -519,10 +544,11 @@
       ]
     },
     {
+      "id": "59bc4058-ba0d-47c5-9bc6-7357b63a91db",
       "word": "what are we waiting for?",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=d2hhdCBhcmUgd2Ugd2FpdGluZyBmb3I_&hash=ca0319e2e41cda1adccdeca1b1683c28eac8a6fb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hhdCBhcmUgd2Ugd2FpdGluZyBmb3I_&hash=ca0319e2e41cda1adccdeca1b1683c28eac8a6fb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -535,12 +561,13 @@
       ]
     },
     {
+      "id": "e7ee25a1-e7d1-4eed-8faf-80a3fb81626a",
       "word": "why not",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=d2h5IG5vdA&hash=f1a2081d7e9add787213173c96348313f38daecf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "waɪ nɑt",
       "phonetic_am": "https://tts.langeek.co/read?text=d2h5IG5vdA&hash=f1a2081d7e9add787213173c96348313f38daecf&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vai naat",
       "img": "",
       "pronunciation": "wˌaɪ nˈɑːt",
       "senses": [
@@ -551,12 +578,13 @@
       ]
     },
     {
+      "id": "5e4b430e-af1d-4448-bfd1-09f32b96daae",
       "word": "you never know",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=eW91IG5ldmVyIGtub3c&hash=32b263f54a6ce67ef232d6ebb8c6f41011fbe58b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ju nɛ.vər noʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=eW91IG5ldmVyIGtub3c&hash=32b263f54a6ce67ef232d6ebb8c6f41011fbe58b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "yoo ne.vēr nooo",
       "img": "https://cdn.langeek.co/photo/46728/original/?type=jpeg",
       "pronunciation": "juː nˈɛvɚ nˈoʊ",
       "senses": [
@@ -588,12 +616,13 @@
       ]
     },
     {
+      "id": "8b30aed6-e02f-4e84-8ebb-65f3bf908a13",
       "word": "you said it",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=eW91IHNhaWQgaXQ&hash=af129596d7543348861aad2281b5519b79f5610a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ju sɛd ʌɪti:",
       "phonetic_am": "https://tts.langeek.co/read?text=eW91IHNhaWQgaXQ&hash=af129596d7543348861aad2281b5519b79f5610a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "yoo sed aiti",
       "img": "",
       "pronunciation": "juː sˈɛd ɪt",
       "senses": [

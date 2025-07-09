@@ -1,13 +1,15 @@
 {
+  "id": "31a2e8e5-9475-486d-96c3-238b777524e7",
   "topic": "opinion",
   "title": "Making a Point",
   "lesson": "lesson_7",
   "word_list": [
     {
+      "id": "e51bd42f-be10-4061-b108-151806ef75d0",
       "word": "so help me (God|)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=c28gaGVscCBtZSBHb2Q&hash=2ff54574091cf6ef30ec557db9a06eea1048ba08&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=c28gaGVscCBtZSBHb2Q&hash=2ff54574091cf6ef30ec557db9a06eea1048ba08&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -15,36 +17,16 @@
       "senses": [
         {
           "definition": "used to emphasize one's seriousness, determination, or truthfulness",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I promise to finish this project on time, so help me God."
-            },
-            {
-              "cf": "",
-              "x": "I will testify in court, and everything I say will be the truth, so help me."
-            },
-            {
-              "cf": "",
-              "x": "I'll repay the loan by the end of the month, so help me God."
-            },
-            {
-              "cf": "",
-              "x": "I'll be faithful to you in sickness and in health, so help me God, as we exchange our vows."
-            },
-            {
-              "cf": "",
-              "x": "Tell me where he is or so help me, I'll make you regret not opening your mouth when you had the chance!"
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[talk] the talk",
+      "id": "9b86fb6c-dfe9-4c63-851e-40ab7e7cde7f",
+      "word": "to [talk] the talk",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFsayB0aGUgdGFsaw&hash=c4a591275f5dc7ab98869773f95533a776c036de&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFsayB0aGUgdGFsaw&hash=c4a591275f5dc7ab98869773f95533a776c036de&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -52,38 +34,18 @@
       "senses": [
         {
           "definition": "to speak convincingly or authoritatively about a subject, especially in a way that suggests knowledge, expertise, or confidence",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She can talk the talk when it comes to marketing strategies, but can she execute them effectively?"
-            },
-            {
-              "cf": "",
-              "x": "In the business meeting, he was able to talk the talk about the project, but we'll see if he can deliver the results."
-            },
-            {
-              "cf": "",
-              "x": "It's not enough to just talk the talk; you need to demonstrate your commitment through actions."
-            },
-            {
-              "cf": "",
-              "x": "The coach can talk the talk when motivating the team, and the players respond well to his leadership."
-            },
-            {
-              "cf": "",
-              "x": "It's important for a politician to not only talk the talk but also implement policies that benefit the constituents."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "af7a3b37-ad71-47b5-8ffb-7b3e9d77fddd",
       "word": "nothing could be further from the truth",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bm90aGluZyBjb3VsZCBiZSBmdXJ0aGVyIGZyb20gdGhlIHRydXRo&hash=4a2a723928246db4e79ced852c024802831f808a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nə.θɪng kʊd bi: fɜr.ðɜr frʌm ðə truθ",
       "phonetic_am": "https://tts.langeek.co/read?text=bm90aGluZyBjb3VsZCBiZSBmdXJ0aGVyIGZyb20gdGhlIHRydXRo&hash=4a2a723928246db4e79ced852c024802831f808a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nē.thing kood bi fēr.dhēr fram dhē trooth",
       "img": "",
       "pronunciation": "nˈʌθɪŋ kʊd biː fˈɜːðɚ fɹʌmðə tɹˈuːθ",
       "senses": [
@@ -115,10 +77,11 @@
       ]
     },
     {
-      "word": "[press|hammer] {sth} home",
+      "id": "0a0bb7d3-8685-48b6-8f50-a4c670293e8d",
+      "word": "to [press|hammer] {sth} home",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJlc3Mgc29tZXRoaW5nIGhvbWU&hash=fc8d19f4f3f1ea685842be17b3117031b028fd5a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJlc3Mgc29tZXRoaW5nIGhvbWU&hash=fc8d19f4f3f1ea685842be17b3117031b028fd5a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -131,43 +94,28 @@
       ]
     },
     {
+      "id": "b483ffc8-8147-4fd7-82b8-7051dc3cdafd",
       "word": "at the end of the day",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXQgdGhlIGVuZCBvZiB0aGUgZGF5&hash=02be1c924d1813f4e699a85fd50da9f7bb8f4c25&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æt ðə ɛnd ʌv ðə deɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=YXQgdGhlIGVuZCBvZiB0aGUgZGF5&hash=02be1c924d1813f4e699a85fd50da9f7bb8f4c25&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "āt dhē end av dhē dei",
       "img": "",
       "pronunciation": "æt ðɪ ˈɛnd ʌvðə dˈeɪ",
       "senses": [
         {
           "definition": "used before stating the most important fact about a particular situation",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I know it's a lot of work, but at the end of the day, it'll be worth it."
-            },
-            {
-              "cf": "",
-              "x": "At the end of the day, all that matters is that you're happy."
-            },
-            {
-              "cf": "",
-              "x": "I don't care what other people think; at the end of the day, I'm the only one who has to live with my decisions."
-            },
-            {
-              "cf": "",
-              "x": "I know you're tempted to take the easy way out, but at the end of the day, you'll be glad you chose to do the right thing."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "a0b0d706-1bbd-4ee4-b03b-973d437e013f",
       "word": "in the (final|last) analysis",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aW4gdGhlIGZpbmFsIGFuYWx5c2lz&hash=2bac0007aac5eeba619a8183ca571f463eb04a19&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gdGhlIGZpbmFsIGFuYWx5c2lz&hash=2bac0007aac5eeba619a8183ca571f463eb04a19&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -175,38 +123,18 @@
       "senses": [
         {
           "definition": "used before summarizing or stating most important facts of a situation",
-          "examples": [
-            {
-              "cf": "",
-              "x": "And in the last analysis it's going to destroy our country."
-            },
-            {
-              "cf": "",
-              "x": "In the final analysis, the only people who will benefit are property owners."
-            },
-            {
-              "cf": "",
-              "x": "Violence in the last analysis produces more violence."
-            },
-            {
-              "cf": "",
-              "x": "In the final analysis, the company's success is due to its employees."
-            },
-            {
-              "cf": "",
-              "x": "In the final analysis, the most important thing is that everyone is happy."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "6bfd160a-d012-4a9f-8295-846849bb705b",
       "word": "bottom line",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym90dG9tIGxpbmU&hash=8e031e011d428891edae895f04e32a119bc8ec40&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɔt.tɑm laɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym90dG9tIGxpbmU&hash=8e031e011d428891edae895f04e32a119bc8ec40&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bawt.taam lain",
       "img": "",
       "pronunciation": "bˈɑːɾəm lˈaɪn",
       "senses": [
@@ -238,10 +166,11 @@
       ]
     },
     {
-      "word": "[call] a spade a spade",
+      "id": "60f7371e-a8d4-485f-84bd-d073ed16646f",
+      "word": "to [call] a spade a spade",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2FsbCBhIHNwYWRlIGEgc3BhZGU&hash=3a971957cd322717f1381961d3a1a2fef0172460&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2FsbCBhIHNwYWRlIGEgc3BhZGU&hash=3a971957cd322717f1381961d3a1a2fef0172460&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -275,10 +204,11 @@
       ]
     },
     {
-      "word": "[beat] around the bush",
+      "id": "1f73186f-8ab1-497a-a56a-11c71e70fe49",
+      "word": "to [beat] around the bush",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmVhdCBhcm91bmQgdGhlIGJ1c2g&hash=39693dc73f1e6de97ffaca214884fe3ecccc4369&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmVhdCBhcm91bmQgdGhlIGJ1c2g&hash=39693dc73f1e6de97ffaca214884fe3ecccc4369&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -304,10 +234,11 @@
       ]
     },
     {
-      "word": "[make] a long story short",
+      "id": "698cbff4-3976-45e2-9554-3c70a569223d",
+      "word": "to [make] a long story short",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZSBhIGxvbmcgc3Rvcnkgc2hvcnQ&hash=f3c1399989d4c94c9d40db76739724657b7f9ffb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFrZSBhIGxvbmcgc3Rvcnkgc2hvcnQ&hash=f3c1399989d4c94c9d40db76739724657b7f9ffb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -337,10 +268,11 @@
       ]
     },
     {
-      "word": "[cut] to the chase",
+      "id": "faa266c2-a555-45c4-a632-0cf2481124be",
+      "word": "to [cut] to the chase",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3V0IHRvIHRoZSBjaGFzZQ&hash=3b0917ebf5b68e33bf86a105c0bf0688215e19ab&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3V0IHRvIHRoZSBjaGFzZQ&hash=3b0917ebf5b68e33bf86a105c0bf0688215e19ab&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -348,73 +280,33 @@
       "senses": [
         {
           "definition": "to get straight to the point or the most important part of a matter without wasting time on irrelevant details or preamble",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Instead of dwelling on irrelevant details, let's cut to the chase and discuss the main issues."
-            },
-            {
-              "cf": "",
-              "x": "In business negotiations, it's best to cut to the chase and focus on the key points to save time."
-            },
-            {
-              "cf": "",
-              "x": "We don't have all day; let's cut to the chase and figure out a solution to the problem."
-            },
-            {
-              "cf": "",
-              "x": "The manager appreciated employees who could cut to the chase and present their ideas concisely."
-            },
-            {
-              "cf": "",
-              "x": "When giving a presentation, it's essential to cut to the chase to keep the audience engaged and interested."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "549823d1-47dd-4dcc-b46e-02d71c88c5ac",
       "word": "long story",
       "pos": "interjection",
       "phonetic": "https://tts.langeek.co/read?text=bG9uZyBzdG9yeQ&hash=59c858dc90382eea232cfdda1f5373700565778d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɑ:ng stɔ:.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9uZyBzdG9yeQ&hash=59c858dc90382eea232cfdda1f5373700565778d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "laang staw.ri",
       "img": "",
       "pronunciation": "lˈɑːŋ stˈoːɹi",
       "senses": [
         {
           "definition": "a thorough explanation of how something happened",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I got lost on my way here, but long story short, I finally made it."
-            },
-            {
-              "cf": "",
-              "x": "She borrowed my car and, long story, it ended up needing major repairs."
-            },
-            {
-              "cf": "",
-              "x": "Long story, but I ended up with two tickets to the concert instead of one."
-            },
-            {
-              "cf": "",
-              "x": "I accidentally deleted the important file, and, long story, I had to retrieve it from the backup."
-            },
-            {
-              "cf": "",
-              "x": "We had some complications during the project, and, long story, we had to extend the deadline."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "dbbade6b-7433-425b-907e-fdd5b35ee181",
       "word": "for all intents and purposes",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Zm9yIGFsbCBpbnRlbnRzIGFuZCBwdXJwb3Nlcw&hash=051c84a5de2f29372670e051508e771724995003&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9yIGFsbCBpbnRlbnRzIGFuZCBwdXJwb3Nlcw&hash=051c84a5de2f29372670e051508e771724995003&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -448,12 +340,13 @@
       ]
     },
     {
+      "id": "711ca4cb-9f9a-42d6-adbd-6db6f36a97d2",
       "word": "punch line",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHVuY2ggbGluZQ&hash=cd595a814626815d32d56d29250f4cdf3c3c92d0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pənʧ laɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=cHVuY2ggbGluZQ&hash=cd595a814626815d32d56d29250f4cdf3c3c92d0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pēnch lain",
       "img": "",
       "pronunciation": "pˈʌntʃ lˈaɪn",
       "senses": [
@@ -477,10 +370,11 @@
       ]
     },
     {
+      "id": "17734d25-d6d7-404b-b49a-0b5887794856",
       "word": "all told",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YWxsIHRvbGQ&hash=eb26a856e6c6384474e43795056da2d1c8347c13&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxsIHRvbGQ&hash=eb26a856e6c6384474e43795056da2d1c8347c13&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

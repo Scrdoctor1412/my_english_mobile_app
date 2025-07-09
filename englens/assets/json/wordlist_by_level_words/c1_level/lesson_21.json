@@ -1,17 +1,19 @@
 {
+  "id": "14798cdf-0f59-4d27-8430-86cc32a10314",
   "topic": "c1_level",
   "title": "Integral Verbs",
   "lesson": "lesson_21",
   "word_list": [
     {
-      "word": "applaud",
+      "id": "69195d19-9ac6-4661-9a2b-683b37a1b8d9",
+      "word": "to applaud",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYXBwbGF1ZA&hash=a6acbb2f3293012f87af07af973308a1f88a3c6d&lang=en&cache-only=0",
-      "phonetic_text": "əplɔ:d",
+      "phonetic_text": "əp.lɔd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYXBwbGF1ZA&hash=a6acbb2f3293012f87af07af973308a1f88a3c6d&lang=en&cache-only=0",
-      "phonetic_am_text": "ēplaawd",
+      "phonetic_am_text": "ēp.lawd",
       "img": "https://cdn.langeek.co/photo/27325/original/?type=jpeg",
-      "pronunciation": "əˈpɫɔd",
+      "pronunciation": "əˈplɑd",
       "senses": [
         {
           "definition": "to clap one's hands as a sign of approval",
@@ -37,14 +39,15 @@
       ]
     },
     {
-      "word": "bat",
+      "id": "63052857-d8f5-4226-840f-5c220dfe165d",
+      "word": "to bat",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmF0&hash=d9f6bde01b7ff0fe556b2c3d1dec3973851e7d1b&lang=en&cache-only=0",
       "phonetic_text": "bæt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmF0&hash=d9f6bde01b7ff0fe556b2c3d1dec3973851e7d1b&lang=en&cache-only=0",
       "phonetic_am_text": "bāt",
       "img": "",
-      "pronunciation": "ˈbæt",
+      "pronunciation": "bæt",
       "senses": [
         {
           "definition": "to quickly open and close one's eyes to attract attention",
@@ -74,14 +77,15 @@
       ]
     },
     {
-      "word": "glance",
+      "id": "3810c399-28ec-415c-ba8c-234777cd02a7",
+      "word": "to glance",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2xhbmNl&hash=ea503c2ee4c5284404ce26189d8712b7c3f06f06&lang=en&cache-only=0",
       "phonetic_text": "glæns",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2xhbmNl&hash=ea503c2ee4c5284404ce26189d8712b7c3f06f06&lang=en&cache-only=0",
       "phonetic_am_text": "glāns",
       "img": "https://cdn.langeek.co/photo/58621/original/?type=jpeg",
-      "pronunciation": "ˈɡɫæns",
+      "pronunciation": "ɡlæns",
       "senses": [
         {
           "definition": "to briefly look at someone or something",
@@ -103,14 +107,15 @@
       ]
     },
     {
-      "word": "spy",
+      "id": "5879eb1a-6f1d-4b29-8369-b1fce8ae343b",
+      "word": "to spy",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3B5&hash=2ba362cf5e1af71b1da99c51cb780629e14062b2&lang=en&cache-only=0",
       "phonetic_text": "spaɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3B5&hash=2ba362cf5e1af71b1da99c51cb780629e14062b2&lang=en&cache-only=0",
       "phonetic_am_text": "spai",
       "img": "https://cdn.langeek.co/photo/48099/original/?type=jpeg",
-      "pronunciation": "ˈspaɪ",
+      "pronunciation": "spaɪ",
       "senses": [
         {
           "definition": "to secretly observe someone",
@@ -119,14 +124,15 @@
       ]
     },
     {
-      "word": "articulate",
+      "id": "967eb0cc-58ed-4d86-81f7-3ee4d11a19a9",
+      "word": "to articulate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYXJ0aWN1bGF0ZQ&hash=79e13d5e5c5609b035ab101bfc61513aca32d1b2&lang=en&cache-only=0",
-      "phonetic_text": "ɑrtɪkjəleɪt",
+      "phonetic_text": "ɑr.tɪk.jə.leɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYXJ0aWN1bGF0ZQ&hash=79e13d5e5c5609b035ab101bfc61513aca32d1b2&lang=en&cache-only=0",
-      "phonetic_am_text": "ɑrtikyēleit",
+      "phonetic_am_text": "aar.tik.yē.leit",
       "img": "",
-      "pronunciation": "ɑɹˈtɪkjəˌɫeɪt/, /ɑɹˈtɪkjəɫət",
+      "pronunciation": "ɑrˈtɪkjəˌleɪt",
       "senses": [
         {
           "definition": "to clearly and verbally express what one thinks or feels",
@@ -152,43 +158,32 @@
       ]
     },
     {
-      "word": "bind",
+      "id": "58e9d0f7-0847-478c-b18e-68a5502a145f",
+      "word": "to bind",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmluZA&hash=e754d49def5ccd070526d34e68d8158fe8e0e789&lang=en&cache-only=0",
       "phonetic_text": "baɪnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmluZA&hash=e754d49def5ccd070526d34e68d8158fe8e0e789&lang=en&cache-only=0",
       "phonetic_am_text": "baind",
       "img": "",
-      "pronunciation": "ˈbaɪnd",
+      "pronunciation": "baɪnd",
       "senses": [
         {
           "definition": "to tie someone or something to not let them escape or move freely",
-          "examples": [
-            {
-              "cf": "",
-              "x": "In ancient times, they would bind criminals with chains to prevent them from fleeing."
-            },
-            {
-              "cf": "",
-              "x": "She used handcuffs to bind the suspect before placing him under arrest."
-            },
-            {
-              "cf": "",
-              "x": "In the old days, they would bind prisoners with heavy chains and lock them in dungeons."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "cling",
+      "id": "615ea60b-b9c1-4555-bb72-23d32f328694",
+      "word": "to cling",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2xpbmc&hash=978dec3855a5053692fb9e7598a7444d67902a0e&lang=en&cache-only=0",
       "phonetic_text": "klɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2xpbmc&hash=978dec3855a5053692fb9e7598a7444d67902a0e&lang=en&cache-only=0",
       "phonetic_am_text": "kling",
       "img": "https://cdn.langeek.co/photo/46778/original/?type=jpeg",
-      "pronunciation": "ˈkɫɪŋ",
+      "pronunciation": "klɪŋ",
       "senses": [
         {
           "definition": "to tightly hold on to someone or something",
@@ -197,14 +192,15 @@
       ]
     },
     {
-      "word": "craft",
+      "id": "b65ea220-3235-4aba-ab8f-0265c134591e",
+      "word": "to craft",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3JhZnQ&hash=e269e494e8e787ba52baed9d7d36db6e2f458ca4&lang=en&cache-only=0",
       "phonetic_text": "kræft",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3JhZnQ&hash=e269e494e8e787ba52baed9d7d36db6e2f458ca4&lang=en&cache-only=0",
       "phonetic_am_text": "krāft",
       "img": "https://cdn.langeek.co/photo/31972/original/?type=jpeg",
-      "pronunciation": "ˈkɹæft",
+      "pronunciation": "kræft",
       "senses": [
         {
           "definition": "to skillfully make something, particularly with the hands",
@@ -230,14 +226,15 @@
       ]
     },
     {
-      "word": "creep",
+      "id": "3af7ee07-f381-442d-81a2-bcae0b5cef63",
+      "word": "to creep",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3JlZXA&hash=14c5734668c63e52dd3ba78fb38b6b166c23a099&lang=en&cache-only=0",
-      "phonetic_text": "kri:p",
+      "phonetic_text": "krip",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3JlZXA&hash=14c5734668c63e52dd3ba78fb38b6b166c23a099&lang=en&cache-only=0",
-      "phonetic_am_text": "kreep",
+      "phonetic_am_text": "krip",
       "img": "",
-      "pronunciation": "ˈkɹip",
+      "pronunciation": "kriːp",
       "senses": [
         {
           "definition": "to move slowly and quietly, especially in order to avoid being noticed or to approach someone unnoticed",
@@ -259,14 +256,15 @@
       ]
     },
     {
-      "word": "circulate",
+      "id": "9ff777c9-abca-4d53-a43d-e31c60460574",
+      "word": "to circulate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2lyY3VsYXRl&hash=53f1ecbdc8bc8c311d40cf2c6606c7030419b9af&lang=en&cache-only=0",
-      "phonetic_text": "sɜrkjəleɪt",
+      "phonetic_text": "sɜrk.jə.leɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2lyY3VsYXRl&hash=53f1ecbdc8bc8c311d40cf2c6606c7030419b9af&lang=en&cache-only=0",
-      "phonetic_am_text": "sērkyēleit",
+      "phonetic_am_text": "sērk.yē.leit",
       "img": "",
-      "pronunciation": "ˈsɝkjəˌɫeɪt",
+      "pronunciation": "ˈsɝːkjəˌleɪt",
       "senses": [
         {
           "definition": "to constantly move around a gas, air, or liquid inside a closed area",
@@ -296,12 +294,13 @@
       ]
     },
     {
-      "word": "descend",
+      "id": "daa07166-a380-4fa7-8b3d-0b0cad905e8d",
+      "word": "to descend",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVzY2VuZA&hash=6cae9a982a1f9823af5550dd9e2a177facf4e17d&lang=en&cache-only=0",
-      "phonetic_text": "dɪsɛnd",
+      "phonetic_text": "dɪs.ɛnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVzY2VuZA&hash=6cae9a982a1f9823af5550dd9e2a177facf4e17d&lang=en&cache-only=0",
-      "phonetic_am_text": "disend",
+      "phonetic_am_text": "dis.end",
       "img": "https://cdn.langeek.co/photo/22335/original/?type=jpeg",
       "pronunciation": "dɪˈsɛnd",
       "senses": [
@@ -329,14 +328,15 @@
       ]
     },
     {
-      "word": "divert",
+      "id": "12099a2e-c0f1-4c18-9d47-d6234e158f28",
+      "word": "to divert",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGl2ZXJ0&hash=f227adf7e7c4429a457ac91064be1b079005de83&lang=en&cache-only=0",
-      "phonetic_text": "daɪvɜrt",
+      "phonetic_text": "daɪ.vɜrt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGl2ZXJ0&hash=f227adf7e7c4429a457ac91064be1b079005de83&lang=en&cache-only=0",
-      "phonetic_am_text": "daivērt",
+      "phonetic_am_text": "dai.vērt",
       "img": "",
-      "pronunciation": "daɪˈvɝt/, /dɪˈvɝt",
+      "pronunciation": "daɪˈvɝːt",
       "senses": [
         {
           "definition": "to cause someone or something to change direction",
@@ -366,14 +366,15 @@
       ]
     },
     {
-      "word": "exert",
+      "id": "eb7f20b8-9cb4-4125-95dd-93092a96ffcb",
+      "word": "to exert",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZXhlcnQ&hash=f1e607a7cb388e6fc35f3115cf95f5f82c8a4f0f&lang=en&cache-only=0",
-      "phonetic_text": "ɪgzɜrt",
+      "phonetic_text": "ɪ.gzɜrt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZXhlcnQ&hash=f1e607a7cb388e6fc35f3115cf95f5f82c8a4f0f&lang=en&cache-only=0",
-      "phonetic_am_text": "igzērt",
+      "phonetic_am_text": "i.gzērt",
       "img": "",
-      "pronunciation": "ɪɡˈzɝt",
+      "pronunciation": "ɪɡˈzɝːt",
       "senses": [
         {
           "definition": "to put force on something or to use power in order to influence someone or something",
@@ -399,14 +400,15 @@
       ]
     },
     {
-      "word": "filter",
+      "id": "9be00940-f080-448d-aa36-e4c08ea961f4",
+      "word": "to filter",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmlsdGVy&hash=6dfaefab66f90d96c666769bf6b02735fedc5446&lang=en&cache-only=0",
-      "phonetic_text": "fɪltər",
+      "phonetic_text": "fɪl.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmlsdGVy&hash=6dfaefab66f90d96c666769bf6b02735fedc5446&lang=en&cache-only=0",
-      "phonetic_am_text": "filtēr",
+      "phonetic_am_text": "fil.tēr",
       "img": "",
-      "pronunciation": "ˈfɪɫtɝ",
+      "pronunciation": "ˈfɪltɚ",
       "senses": [
         {
           "definition": "to pass gas, liquid, light, etc. through something in order to remove unwanted substances",
@@ -436,14 +438,15 @@
       ]
     },
     {
-      "word": "forge",
+      "id": "bca36bca-2a07-4858-9d9f-22845a7dd35c",
+      "word": "to forge",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZm9yZ2U&hash=8d3f2e010d823f309c99fb69694278f52b83b98b&lang=en&cache-only=0",
-      "phonetic_text": "fɔ:rʤ",
+      "phonetic_text": "fɔrʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZm9yZ2U&hash=8d3f2e010d823f309c99fb69694278f52b83b98b&lang=en&cache-only=0",
-      "phonetic_am_text": "faawrj",
+      "phonetic_am_text": "fawrj",
       "img": "https://cdn.langeek.co/photo/47158/original/?type=jpeg",
-      "pronunciation": "ˈfɔɹdʒ",
+      "pronunciation": "fɔrʤ",
       "senses": [
         {
           "definition": "to make something from a piece of metal object by heating it until it becomes soft and then beating it with a hammer",
@@ -465,14 +468,15 @@
       ]
     },
     {
-      "word": "grasp",
+      "id": "7c70ebfe-cf61-4587-80e2-696e71b3dfd7",
+      "word": "to grasp",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ3Jhc3A&hash=b7b73263b3724e9d1a2f0a2db12d5f22fb7e1b39&lang=en&cache-only=0",
       "phonetic_text": "græsp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ3Jhc3A&hash=b7b73263b3724e9d1a2f0a2db12d5f22fb7e1b39&lang=en&cache-only=0",
       "phonetic_am_text": "grāsp",
       "img": "https://cdn.langeek.co/photo/47050/original/?type=jpeg",
-      "pronunciation": "ˈɡɹæsp",
+      "pronunciation": "ɡræsp",
       "senses": [
         {
           "definition": "to take and tightly hold something",
@@ -502,14 +506,15 @@
       ]
     },
     {
-      "word": "grip",
+      "id": "0674fea3-710d-406e-b6a0-8729b861bf83",
+      "word": "to grip",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ3JpcA&hash=4334055fe4e527d4cfccda570047f5e32ee198a9&lang=en&cache-only=0",
       "phonetic_text": "grɪp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ3JpcA&hash=4334055fe4e527d4cfccda570047f5e32ee198a9&lang=en&cache-only=0",
       "phonetic_am_text": "grip",
       "img": "https://cdn.langeek.co/photo/47054/original/?type=jpeg",
-      "pronunciation": "ˈɡɹɪp",
+      "pronunciation": "ɡrɪp",
       "senses": [
         {
           "definition": "to firmly hold something",
@@ -539,14 +544,15 @@
       ]
     },
     {
-      "word": "preside",
+      "id": "e42e5b96-090a-453f-8cfb-08319590038a",
+      "word": "to preside",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJlc2lkZQ&hash=3d9e8654e7339250a37dc5094d7ea2de1e77c1ef&lang=en&cache-only=0",
-      "phonetic_text": "prɪzaɪd",
+      "phonetic_text": "pri.zaɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJlc2lkZQ&hash=3d9e8654e7339250a37dc5094d7ea2de1e77c1ef&lang=en&cache-only=0",
-      "phonetic_am_text": "prizaid",
+      "phonetic_am_text": "pri.zaid",
       "img": "",
-      "pronunciation": "pɹiˈzaɪd/, /pɹɪˈzaɪd",
+      "pronunciation": "prɪˈzaɪd",
       "senses": [
         {
           "definition": "to act in an authoritative role in a ceremony, meeting, etc.",
@@ -555,14 +561,15 @@
       ]
     },
     {
-      "word": "resemble",
+      "id": "c976386a-f197-4441-9f01-e796934bbd57",
+      "word": "to resemble",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVzZW1ibGU&hash=6c0675f86eb2c8fa7abcafe51f87759efcf0ef7f&lang=en&cache-only=0",
-      "phonetic_text": "rɪzɛmbəl",
+      "phonetic_text": "ri.zɛm.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVzZW1ibGU&hash=6c0675f86eb2c8fa7abcafe51f87759efcf0ef7f&lang=en&cache-only=0",
-      "phonetic_am_text": "rizembēl",
+      "phonetic_am_text": "ri.zem.bēl",
       "img": "https://cdn.langeek.co/photo/47997/original/?type=jpeg",
-      "pronunciation": "ɹiˈzɛmbəɫ/, /ɹɪˈzɛmbəɫ",
+      "pronunciation": "rɪˈzɛmbəl",
       "senses": [
         {
           "definition": "to have a similar appearance or characteristic to someone or something else",
@@ -592,14 +599,15 @@
       ]
     },
     {
-      "word": "simulate",
+      "id": "f64c2c05-b05a-451b-9e82-07a644af9d24",
+      "word": "to simulate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2ltdWxhdGU&hash=74ee4ea7d42651bfa189b70f6a2160303230ef7e&lang=en&cache-only=0",
-      "phonetic_text": "sɪmjələt",
+      "phonetic_text": "sɪm.jə.leɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2ltdWxhdGU&hash=74ee4ea7d42651bfa189b70f6a2160303230ef7e&lang=en&cache-only=0",
-      "phonetic_am_text": "simyēlēt",
+      "phonetic_am_text": "sim.yē.leit",
       "img": "https://cdn.langeek.co/photo/59266/original/?type=jpeg",
-      "pronunciation": "ˈsɪmjəˌɫeɪt/, /ˈsɪmjəɫət",
+      "pronunciation": "ˈsɪmjəˌleɪt",
       "senses": [
         {
           "definition": "to match the same qualities as someone or something",
@@ -625,14 +633,15 @@
       ]
     },
     {
-      "word": "slam",
+      "id": "08b5d4ca-2d00-4cf0-965b-e6d42147dc4f",
+      "word": "to slam",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2xhbQ&hash=f23fcf547a77405b8ddb0d55f3cb88f863896263&lang=en&cache-only=0",
       "phonetic_text": "slæm",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2xhbQ&hash=f23fcf547a77405b8ddb0d55f3cb88f863896263&lang=en&cache-only=0",
       "phonetic_am_text": "slām",
       "img": "",
-      "pronunciation": "ˈsɫæm",
+      "pronunciation": "slæm",
       "senses": [
         {
           "definition": "to forcefully or violently shut or close a door, lid, or other object",
@@ -662,14 +671,15 @@
       ]
     },
     {
-      "word": "stun",
+      "id": "d98bc47d-c76e-44e9-ae02-aea4f17da7a3",
+      "word": "to stun",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3R1bg&hash=77771c94c7e287b2bbdc464fa7161e3d3f34112b&lang=en&cache-only=0",
-      "phonetic_text": "stʌn",
+      "phonetic_text": "stən",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3R1bg&hash=77771c94c7e287b2bbdc464fa7161e3d3f34112b&lang=en&cache-only=0",
-      "phonetic_am_text": "stan",
+      "phonetic_am_text": "stēn",
       "img": "",
-      "pronunciation": "ˈstən",
+      "pronunciation": "stʌn",
       "senses": [
         {
           "definition": "to temporarily render an animal or person unconscious or immobile, often by hitting them on the head or using an electrical shock",
@@ -699,14 +709,15 @@
       ]
     },
     {
-      "word": "unify",
+      "id": "5e4ee2a1-fec0-444a-98f0-6868a5fea657",
+      "word": "to unify",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdW5pZnk&hash=8e51f403216dcc7503505e6c774cef32eb50c994&lang=en&cache-only=0",
-      "phonetic_text": "ju:nəfaɪ",
+      "phonetic_text": "ju.nə.faɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdW5pZnk&hash=8e51f403216dcc7503505e6c774cef32eb50c994&lang=en&cache-only=0",
-      "phonetic_am_text": "yoonēfai",
+      "phonetic_am_text": "yoo.nē.fai",
       "img": "",
-      "pronunciation": "ˈjunəˌfaɪ",
+      "pronunciation": "ˈjuːnəˌfaɪ",
       "senses": [
         {
           "definition": "to become whole or united",
@@ -728,14 +739,15 @@
       ]
     },
     {
-      "word": "utilize",
+      "id": "ab2ba7bb-03ce-4ce9-a62e-8227e6dc9972",
+      "word": "to utilize",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdXRpbGl6ZQ&hash=95bef0691369a564c4842d57cc3a599f9353d712&lang=en&cache-only=0",
-      "phonetic_text": "ju:təlaɪz",
+      "phonetic_text": "ju.tə.laɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdXRpbGl6ZQ&hash=95bef0691369a564c4842d57cc3a599f9353d712&lang=en&cache-only=0",
-      "phonetic_am_text": "yootēlaiz",
+      "phonetic_am_text": "yoo.tē.laiz",
       "img": "",
-      "pronunciation": "ˈjutəˌɫaɪz",
+      "pronunciation": "ˈjuːtəˌlaɪz",
       "senses": [
         {
           "definition": "to put to effective use",
@@ -765,14 +777,15 @@
       ]
     },
     {
-      "word": "tempt",
+      "id": "24496a50-0fbe-4c8a-8b29-dc3602976729",
+      "word": "to tempt",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGVtcHQ&hash=fc4ec563427bcbe15a586bcdc778676394033cf7&lang=en&cache-only=0",
       "phonetic_text": "tɛmpt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGVtcHQ&hash=fc4ec563427bcbe15a586bcdc778676394033cf7&lang=en&cache-only=0",
       "phonetic_am_text": "tempt",
       "img": "",
-      "pronunciation": "ˈtɛmpt",
+      "pronunciation": "tɛmpt",
       "senses": [
         {
           "definition": "to feel the desire to do something",
@@ -802,12 +815,13 @@
       ]
     },
     {
-      "word": "vanish",
+      "id": "23ac25e4-1267-49d8-a759-56a17752b5f6",
+      "word": "to vanish",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdmFuaXNo&hash=fe64695febf203becd6e50ca99841ec761dcce09&lang=en&cache-only=0",
-      "phonetic_text": "vænɪʃ",
+      "phonetic_text": "væ.nɪʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdmFuaXNo&hash=fe64695febf203becd6e50ca99841ec761dcce09&lang=en&cache-only=0",
-      "phonetic_am_text": "vānish",
+      "phonetic_am_text": "vā.nish",
       "img": "https://cdn.langeek.co/photo/27792/original/?type=jpeg",
       "pronunciation": "ˈvænɪʃ",
       "senses": [
@@ -835,14 +849,15 @@
       ]
     },
     {
-      "word": "weave",
+      "id": "ed9f01e9-d6e7-407d-a9bc-2d58b4cdc4f2",
+      "word": "to weave",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2VhdmU&hash=5b07787529cddfe06418f74a2b4148b1f095965d&lang=en&cache-only=0",
-      "phonetic_text": "wi:v",
+      "phonetic_text": "wiv",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2VhdmU&hash=5b07787529cddfe06418f74a2b4148b1f095965d&lang=en&cache-only=0",
-      "phonetic_am_text": "weev",
+      "phonetic_am_text": "viv",
       "img": "https://cdn.langeek.co/photo/46806/original/?type=jpeg",
-      "pronunciation": "ˈwiv",
+      "pronunciation": "wiːv",
       "senses": [
         {
           "definition": "to create fabric or material by interlacing threads, yarn, or other strands in a pattern using a loom or by hand",
@@ -864,14 +879,15 @@
       ]
     },
     {
-      "word": "yield",
+      "id": "da9aea46-438a-4648-b62d-c117d4d44d35",
+      "word": "to yield",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8geWllbGQ&hash=1eb805969185c715e720b1bc467d3df93422709c&lang=en&cache-only=0",
-      "phonetic_text": "ji:ld",
+      "phonetic_text": "jild",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8geWllbGQ&hash=1eb805969185c715e720b1bc467d3df93422709c&lang=en&cache-only=0",
-      "phonetic_am_text": "yeeld",
+      "phonetic_am_text": "yild",
       "img": "https://cdn.langeek.co/photo/47933/original/?type=jpeg",
-      "pronunciation": "ˈjiɫd",
+      "pronunciation": "jiːld",
       "senses": [
         {
           "definition": "(of a farm or an industry) to grow or produce a crop or product",
@@ -901,14 +917,15 @@
       ]
     },
     {
-      "word": "regain",
+      "id": "71d44d95-fb8b-4e92-b3a9-32162fa22c56",
+      "word": "to regain",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVnYWlu&hash=dd3feb811c54a3759f5ee195c2c701b3434c250c&lang=en&cache-only=0",
-      "phonetic_text": "rɪgeɪn",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVnYWlu&hash=dd3feb811c54a3759f5ee195c2c701b3434c250c&lang=en&cache-only=0",
-      "phonetic_am_text": "rigein",
+      "phonetic_am_text": null,
       "img": "",
-      "pronunciation": "ɹɪˈɡeɪn",
+      "pronunciation": "rɪˈɡeɪn",
       "senses": [
         {
           "definition": "to get something back, particularly a quality or ability, after losing it",
@@ -938,14 +955,15 @@
       ]
     },
     {
-      "word": "pioneer",
+      "id": "8d9290df-24f5-42b9-b958-00200e54b4f0",
+      "word": "to pioneer",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGlvbmVlcg&hash=cbefcc5e9a8990eac1708b4e781c916a211d5b1a&lang=en&cache-only=0",
-      "phonetic_text": "paɪənɪr",
+      "phonetic_text": "paɪə.nɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGlvbmVlcg&hash=cbefcc5e9a8990eac1708b4e781c916a211d5b1a&lang=en&cache-only=0",
-      "phonetic_am_text": "paiēnir",
+      "phonetic_am_text": "paiē.nir",
       "img": "https://cdn.langeek.co/photo/59386/original/?type=jpeg",
-      "pronunciation": "ˌpaɪəˈnɪɹ",
+      "pronunciation": "ˌpaɪəˈnɪr",
       "senses": [
         {
           "definition": "to be the first one to do, use, invent, or discover something",
@@ -975,14 +993,15 @@
       ]
     },
     {
-      "word": "enrich",
+      "id": "e5d0c0b0-4cdb-48b9-99a6-b3e27fead186",
+      "word": "to enrich",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZW5yaWNo&hash=1918ddd3948219355e4b049b7336261d9d7da0e6&lang=en&cache-only=0",
-      "phonetic_text": "ɛnrɪʧ",
+      "phonetic_text": "ɛn.rɪʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZW5yaWNo&hash=1918ddd3948219355e4b049b7336261d9d7da0e6&lang=en&cache-only=0",
-      "phonetic_am_text": "enrich",
+      "phonetic_am_text": "en.rich",
       "img": "https://cdn.langeek.co/photo/48921/original/?type=jpeg",
-      "pronunciation": "ɛnˈɹɪtʃ/, /ɪnˈɹɪtʃ",
+      "pronunciation": "ɪnˈrɪʧ",
       "senses": [
         {
           "definition": "to enhance the quality of something, particularly by adding something to it",
@@ -1012,12 +1031,13 @@
       ]
     },
     {
-      "word": "notify",
+      "id": "f2cc6717-f420-4581-8d38-59e3a57cfefe",
+      "word": "to notify",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbm90aWZ5&hash=c999882824d06c7d27c528409ad871b288ed3baa&lang=en&cache-only=0",
-      "phonetic_text": "noʊtəfaɪ",
+      "phonetic_text": "noʊ.tə.faɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbm90aWZ5&hash=c999882824d06c7d27c528409ad871b288ed3baa&lang=en&cache-only=0",
-      "phonetic_am_text": "nowtēfai",
+      "phonetic_am_text": "nooo.tē.fai",
       "img": "https://cdn.langeek.co/photo/58008/original/?type=jpeg",
       "pronunciation": "ˈnoʊtəˌfaɪ",
       "senses": [
@@ -1049,49 +1069,30 @@
       ]
     },
     {
-      "word": "maximize",
+      "id": "482c52a2-0fc3-419a-a038-eef6322e80a1",
+      "word": "to maximize",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWF4aW1pemU&hash=e36bbd46f791e7db808831bde4e8e86feb8d1c76&lang=en&cache-only=0",
-      "phonetic_text": "mæksəmaɪz",
+      "phonetic_text": "mæk.sə.maɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWF4aW1pemU&hash=e36bbd46f791e7db808831bde4e8e86feb8d1c76&lang=en&cache-only=0",
-      "phonetic_am_text": "māksēmaiz",
+      "phonetic_am_text": "māk.sē.maiz",
       "img": "https://cdn.langeek.co/photo/49309/original/?type=jpeg",
-      "pronunciation": "ˈmæksəˌmaɪz",
+      "pronunciation": "ˈmæksɪˌmaɪz",
       "senses": [
         {
           "definition": "to increase something to the highest possible level",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She always tries to maximize her productivity by planning her tasks efficiently."
-            },
-            {
-              "cf": "",
-              "x": "The team is currently working to maximize the efficiency of the manufacturing process."
-            },
-            {
-              "cf": "",
-              "x": "The changes implemented have maximized the software's performance."
-            },
-            {
-              "cf": "",
-              "x": "While renovating, they were maximizing the use of space in the small apartment."
-            },
-            {
-              "cf": "",
-              "x": "The company aims to maximize profits through strategic marketing."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "minimize",
+      "id": "efd999af-c62b-4332-bf38-e9ca40906e23",
+      "word": "to minimize",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWluaW1pemU&hash=08fff2b892f43c8456ec15099ec162d478504c8f&lang=en&cache-only=0",
-      "phonetic_text": "mɪnəmaɪz",
+      "phonetic_text": "mɪ.nə.maɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWluaW1pemU&hash=08fff2b892f43c8456ec15099ec162d478504c8f&lang=en&cache-only=0",
-      "phonetic_am_text": "minēmaiz",
+      "phonetic_am_text": "mi.nē.maiz",
       "img": "https://cdn.langeek.co/photo/53003/original/?type=jpeg",
       "pronunciation": "ˈmɪnəˌmaɪz",
       "senses": [
@@ -1123,14 +1124,15 @@
       ]
     },
     {
-      "word": "log",
+      "id": "5fa88f65-931d-499e-8a12-d1ee4ca22276",
+      "word": "to log",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbG9n&hash=56fab51e93b28d65e85bcaf2a4f956a7fd543902&lang=en&cache-only=0",
-      "phonetic_text": "lɔ:g",
+      "phonetic_text": "lɑ:g",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbG9n&hash=56fab51e93b28d65e85bcaf2a4f956a7fd543902&lang=en&cache-only=0",
-      "phonetic_am_text": "laawg",
+      "phonetic_am_text": "laag",
       "img": "https://cdn.langeek.co/photo/47468/original/?type=jpeg",
-      "pronunciation": "lɑːɡ",
+      "pronunciation": "lɑɡ",
       "senses": [
         {
           "definition": "to officially document all the information or events that have taken place, particularly on a plane or ship",
@@ -1160,14 +1162,15 @@
       ]
     },
     {
-      "word": "insult",
+      "id": "901ba6d0-7304-4035-bce5-63ce20f3c6e4",
+      "word": "to insult",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW5zdWx0&hash=f4f9ba53283083eb625bc96534344a46a82e5368&lang=en&cache-only=0",
-      "phonetic_text": "ɪnsʌlt",
+      "phonetic_text": "ɪn.səlt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW5zdWx0&hash=f4f9ba53283083eb625bc96534344a46a82e5368&lang=en&cache-only=0",
-      "phonetic_am_text": "insalt",
+      "phonetic_am_text": "in.sēlt",
       "img": "https://cdn.langeek.co/photo/55023/original/?type=jpeg",
-      "pronunciation": "ˈɪnˌsəɫt/, /ˌɪnˈsəɫt",
+      "pronunciation": "ˈɪnˌsʌlt",
       "senses": [
         {
           "definition": "to intentionally say or do something that disrespects or humiliates someone",
@@ -1193,12 +1196,13 @@
       ]
     },
     {
-      "word": "confine",
+      "id": "fc2c37ff-d24a-45bc-a81d-52411d5d78c8",
+      "word": "to confine",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29uZmluZQ&hash=90fe4f28eb52342e40d380cf1cc6a9fb13af9bbf&lang=en&cache-only=0",
-      "phonetic_text": "kənfaɪn",
+      "phonetic_text": "kən.faɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29uZmluZQ&hash=90fe4f28eb52342e40d380cf1cc6a9fb13af9bbf&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnfain",
+      "phonetic_am_text": "kēn.fain",
       "img": "https://cdn.langeek.co/photo/27800/original/?type=jpeg",
       "pronunciation": "kənˈfaɪn",
       "senses": [
@@ -1226,14 +1230,15 @@
       ]
     },
     {
-      "word": "imprison",
+      "id": "d659d11e-3203-487f-931f-09bbde73f475",
+      "word": "to imprison",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW1wcmlzb24&hash=a36e6610cc86885319e3b580171cc8f57b5e46a8&lang=en&cache-only=0",
-      "phonetic_text": "ɪmprɪzən",
+      "phonetic_text": "ɪmp.rɪ.zən",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW1wcmlzb24&hash=a36e6610cc86885319e3b580171cc8f57b5e46a8&lang=en&cache-only=0",
-      "phonetic_am_text": "imprizēn",
+      "phonetic_am_text": "imp.ri.zēn",
       "img": "https://cdn.langeek.co/photo/20682/original/jail?type=jpeg",
-      "pronunciation": "ˌɪmˈpɹɪzən",
+      "pronunciation": "ɪmˈprɪzən",
       "senses": [
         {
           "definition": "to put someone in prison or keep them somewhere and not let them go",
@@ -1263,14 +1268,15 @@
       ]
     },
     {
-      "word": "drown",
+      "id": "9e2cea3f-55ba-4383-9266-60bf7f009fce",
+      "word": "to drown",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJvd24&hash=1986b6c071746c46a0f68a93665c318c79faf8b0&lang=en&cache-only=0",
       "phonetic_text": "draʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZHJvd24&hash=1986b6c071746c46a0f68a93665c318c79faf8b0&lang=en&cache-only=0",
-      "phonetic_am_text": "drawn",
+      "phonetic_am_text": "draoon",
       "img": "",
-      "pronunciation": "ˈdɹaʊn",
+      "pronunciation": "draʊn",
       "senses": [
         {
           "definition": "to die from being under water too long",
@@ -1296,12 +1302,13 @@
       ]
     },
     {
-      "word": "dispose",
+      "id": "1822a8ce-cfa4-4374-bd8b-0e830e081100",
+      "word": "to dispose",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlzcG9zZQ&hash=f66b962eaa969807febca2f9aa88b59597ff1ff5&lang=en&cache-only=0",
-      "phonetic_text": "dɪspoʊz",
+      "phonetic_text": "dɪs.poʊz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlzcG9zZQ&hash=f66b962eaa969807febca2f9aa88b59597ff1ff5&lang=en&cache-only=0",
-      "phonetic_am_text": "dispowz",
+      "phonetic_am_text": "dis.poooz",
       "img": "",
       "pronunciation": "dɪˈspoʊz",
       "senses": [

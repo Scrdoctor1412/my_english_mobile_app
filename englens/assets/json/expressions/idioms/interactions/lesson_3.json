@@ -1,13 +1,15 @@
 {
+  "id": "51c67fd0-2ee7-4162-88a9-db22227b6d01",
   "topic": "interactions",
   "title": "Mistreatment & Misconduct",
   "lesson": "lesson_3",
   "word_list": [
     {
-      "word": "[play] fast and loose with {sb/sth}",
+      "id": "73c7773c-ebd8-4e4d-8260-2b69c1a752cc",
+      "word": "to [play] fast and loose with {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGxheSBmYXN0IGFuZCBsb29zZSB3aXRoIHNvbWVib2R5IG9yIHNvbWV0aGluZw&hash=fa366c80b89e4ee7c032027d0cc60958de76312a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGxheSBmYXN0IGFuZCBsb29zZSB3aXRoIHNvbWVib2R5IG9yIHNvbWV0aGluZw&hash=fa366c80b89e4ee7c032027d0cc60958de76312a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44542/original/?type=jpeg",
@@ -20,10 +22,11 @@
       ]
     },
     {
-      "word": "[play] Old Harry with {sth}",
+      "id": "9f378ec1-3bdf-4204-946a-be0bcf4b60f6",
+      "word": "to [play] Old Harry with {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGxheSBPbGQgSGFycnkgd2l0aCBzb21ldGhpbmc&hash=6587af5beae952e26ccf528857ccb04084105917&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGxheSBPbGQgSGFycnkgd2l0aCBzb21ldGhpbmc&hash=6587af5beae952e26ccf528857ccb04084105917&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44550/original/?type=jpeg",
@@ -31,32 +34,16 @@
       "senses": [
         {
           "definition": "to make problems for something or have a negative effect on it",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The careless team member played Old Harry with the project timeline, causing delays and confusion."
-            },
-            {
-              "cf": "",
-              "x": "His habit of playing Old Harry with his finances led to a mountain of debt and financial troubles."
-            },
-            {
-              "cf": "",
-              "x": "The reckless driver played Old Harry with the car's maintenance, leading to a breakdown on the highway."
-            },
-            {
-              "cf": "",
-              "x": "The chef's inexperience in the kitchen resulted in playing Old Harry with the delicate soufflé recipe, leaving it in ruins."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[sell] {sb/sth} short",
+      "id": "81d0640d-6be1-4cbf-9e4c-9fe3b0f085a7",
+      "word": "to [sell] {sb/sth} short",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2VsbCBzb21lYm9keSBvciBzb21ldGhpbmcgc2hvcnQ&hash=b9ed9a112e99e955d44095dff67b4b01ba7970f7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2VsbCBzb21lYm9keSBvciBzb21ldGhpbmcgc2hvcnQ&hash=b9ed9a112e99e955d44095dff67b4b01ba7970f7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44552/original/?type=jpeg",
@@ -82,10 +69,11 @@
       ]
     },
     {
-      "word": "[shoot|kill|blame] the messenger",
+      "id": "f7b5129e-c3fd-4168-9e88-59944543ef0b",
+      "word": "to [shoot|kill|blame] the messenger",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2hvb3QgdGhlIG1lc3Nlbmdlcg&hash=2d49a5b8067c1540edb8a2e6b5e4e5ae0fb147e0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2hvb3QgdGhlIG1lc3Nlbmdlcg&hash=2d49a5b8067c1540edb8a2e6b5e4e5ae0fb147e0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44554/original/?type=jpeg",
@@ -93,40 +81,16 @@
       "senses": [
         {
           "definition": "to put the blame on the person who brings bad news and assume they are responsible for it",
-          "examples": [
-            {
-              "cf": "",
-              "x": "When the employees learned about the company's layoffs, they unfairly tried to shoot the messenger, the HR manager who was simply delivering the news."
-            },
-            {
-              "cf": "",
-              "x": "Instead of addressing the issue, the politician chose to shoot the messenger, accusing the journalist of spreading false information."
-            },
-            {
-              "cf": "",
-              "x": "The teacher had to deliver the disappointing test scores to the students, and some of them wanted to kill the messenger by blaming her for the low grades."
-            },
-            {
-              "cf": "",
-              "x": "In the corporate world, executives often kill the messenger when they bring up concerns about unethical practices."
-            },
-            {
-              "cf": "",
-              "x": "The CEO refused to listen to the marketing team's warning about a failing product and decided to blame the messenger for their declining sales."
-            },
-            {
-              "cf": "",
-              "x": "John had to blame the messenger and tell his friend that the party was canceled due to unforeseen circumstances beyond their control."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[treat] {sb} like (a piece of|) (shit|dirt|trash)",
+      "id": "aba3c240-5b17-47fa-9627-9faf70db0c40",
+      "word": "to [treat] {sb} like (a piece of|) (dirt|trash)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHJlYXQgc29tZWJvZHkgbGlrZSBhIHBpZWNlIG9mIGRpcnQ&hash=5fb6ca9a4e0041fc279176453ece1dadef52f122&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHJlYXQgc29tZWJvZHkgbGlrZSBhIHBpZWNlIG9mIGRpcnQ&hash=5fb6ca9a4e0041fc279176453ece1dadef52f122&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44560/original/?type=jpeg",
@@ -134,24 +98,16 @@
       "senses": [
         {
           "definition": "to not care about someone at all or have absolutely no respect for them",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He felt hurt and degraded when his colleagues treated him like a piece of trash, ignoring his contributions to the project."
-            },
-            {
-              "cf": "",
-              "x": "Despite her dedication and hard work, her supervisor continued to treat her like dirt, constantly belittling her efforts."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[walk] all over {sb}",
+      "id": "88ed7593-f07e-4ed6-b38b-ad6e26ede1be",
+      "word": "to [walk] all over {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2FsayBhbGwgb3ZlciBzb21lYm9keQ&hash=b254b3eae57a8e6db8c534ebd4f0c8af98f2b901&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2FsayBhbGwgb3ZlciBzb21lYm9keQ&hash=b254b3eae57a8e6db8c534ebd4f0c8af98f2b901&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44544/original/?type=jpeg",
@@ -159,20 +115,16 @@
       "senses": [
         {
           "definition": "to treat a person poorly by taking advantage of them or ignoring their needs and feelings",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Sarah's so-called friends took advantage of her generosity and kindness, constantly walking all over her in their selfish pursuits."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[look] daggers at {sb}",
+      "id": "78eaab4d-747e-48a3-8075-70b178c58813",
+      "word": "to [look] daggers at {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbG9vayBkYWdnZXJzIGF0IHNvbWVib2R5&hash=53e007e93bb9867aea19105afdab8efa2f151872&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbG9vayBkYWdnZXJzIGF0IHNvbWVib2R5&hash=53e007e93bb9867aea19105afdab8efa2f151872&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44558/original/?type=jpeg",
@@ -198,26 +150,41 @@
       ]
     },
     {
+      "id": "b5872584-e97e-49c8-ae9d-a9a1c15864e5",
       "word": "backhanded compliment",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YmFja2hhbmRlZCBjb21wbGltZW50&hash=54c2efece359e0a3044bfb5199fb55c6d5c4faca&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæk.hæn.dəd kɑmp.lə.mɛnt",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFja2hhbmRlZCBjb21wbGltZW50&hash=54c2efece359e0a3044bfb5199fb55c6d5c4faca&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bāk.hān.dēd kaamp.lē.ment",
       "img": "https://cdn.langeek.co/photo/44546/original/?type=jpeg",
       "pronunciation": "bˈækhændᵻd lˈɛfthˈændᵻd kˈɑːmplɪmənt",
       "senses": [
         {
           "definition": "a comment that seemingly praises someone but is actually intended to insult them",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She gave him a backhanded compliment by saying his presentation was \"cute\" instead of acknowledging its quality."
+            },
+            {
+              "cf": "",
+              "x": "When Jane received a backhanded compliment about her appearance, she knew her coworker was subtly criticizing her outfit."
+            },
+            {
+              "cf": "",
+              "x": "Her backhanded compliment about his new hairstyle left him wondering whether she actually liked it or not."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[do] a number on {sb/sth}",
+      "id": "833e18d8-582e-4be2-a051-efbbaa8d8179",
+      "word": "to [do] a number on {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZG8gYSBudW1iZXIgb24gc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=a9d764f6397d6b3f86123daf64b4093e809b3d0b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZG8gYSBudW1iZXIgb24gc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=a9d764f6397d6b3f86123daf64b4093e809b3d0b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44548/original/?type=jpeg",
@@ -225,36 +192,16 @@
       "senses": [
         {
           "definition": "to seriously affect or harm someone or something, usually resulting in negative consequences",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The stressful job and constant overtime really did a number on her health and well-being."
-            },
-            {
-              "cf": "",
-              "x": "The hurricane did a number on the coastal town, leaving behind widespread destruction and flooding."
-            },
-            {
-              "cf": "",
-              "x": "After a series of personal setbacks, he admitted that life had done a number on his confidence and self-esteem."
-            },
-            {
-              "cf": "",
-              "x": "The relentless criticism from his supervisor really did a number on him."
-            },
-            {
-              "cf": "",
-              "x": "Years of neglect had done a number on the historic building, leaving it in a state of disrepair."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[do] {sb} (dirty|dirt)",
+      "id": "c38ec0e0-8286-435b-a644-0f0e38f042b5",
+      "word": "to [do] {sb} (dirty|dirt)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZG8gc29tZWJvZHkgZGlydHk&hash=68885e51d18f9d4bed1676f8eadd6f878cbdfd86&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZG8gc29tZWJvZHkgZGlydHk&hash=68885e51d18f9d4bed1676f8eadd6f878cbdfd86&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44598/original/?type=jpeg",
@@ -262,28 +209,16 @@
       "senses": [
         {
           "definition": "to betray someone or cause them harm on purpose, especially when they do not expect it",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After years of loyalty, his business partner did him dirty by embezzling funds from their company."
-            },
-            {
-              "cf": "",
-              "x": "She thought they were friends until they did her dirty by spreading false rumors about her."
-            },
-            {
-              "cf": "",
-              "x": "His deceitful actions towards his colleagues did him dirt, tarnishing his professional relationships."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[throw] it over the wall",
+      "id": "dd98a76f-4294-4c8a-a0bb-cb176a3905f6",
+      "word": "to [throw] it over the wall",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGhyb3cgaXQgb3ZlciB0aGUgd2FsbA&hash=e48b3f9296ff4a1b891f175489e2ebadb509641d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGhyb3cgaXQgb3ZlciB0aGUgd2FsbA&hash=e48b3f9296ff4a1b891f175489e2ebadb509641d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44574/original/?type=jpeg",
@@ -291,15 +226,25 @@
       "senses": [
         {
           "definition": "to pass a responsibility, task, or problem to someone else without addressing or resolving it oneself",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The marketing team had no idea how to handle the technical issue, so they just threw it over the wall to the IT department."
+            },
+            {
+              "cf": "",
+              "x": "Instead of discussing the project requirements, they decided to throw it over the wall and hope for the best."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[throw] {sb} a bone",
+      "id": "1af4fe97-3bee-4b53-9cdf-7bf605a65688",
+      "word": "to [throw] {sb} a bone",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGhyb3cgc29tZWJvZHkgYSBib25l&hash=3abc72ebda651ebf369b12f5ea9aa70eadcebc81&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGhyb3cgc29tZWJvZHkgYSBib25l&hash=3abc72ebda651ebf369b12f5ea9aa70eadcebc81&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41898/original/?type=jpeg",
@@ -312,10 +257,11 @@
       ]
     },
     {
-      "word": "[send] {sb} packing",
+      "id": "fc211b52-83c3-4029-bf3f-81f096dd22d4",
+      "word": "to [send] {sb} packing",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2VuZCBzb21lYm9keSBwYWNraW5n&hash=eb32fbbe4b62bc6a6878db27686245c3cc279844&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2VuZCBzb21lYm9keSBwYWNraW5n&hash=eb32fbbe4b62bc6a6878db27686245c3cc279844&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41608/original/?type=jpeg",
@@ -323,24 +269,16 @@
       "senses": [
         {
           "definition": "to tell a person to leave immediately in a forceful manner",
-          "examples": [
-            {
-              "cf": "",
-              "x": "When the unwanted salesperson refused to leave their doorstep, they had to threaten to call the police to send them packing."
-            },
-            {
-              "cf": "",
-              "x": "The homeowners were tired of the noisy neighbors and finally decided to send them packing by reporting their disruptive behavior to the authorities."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[be] out on {one's} ear",
+      "id": "6d701b2c-f2c3-4e69-b4ea-963d376e6d5b",
+      "word": "to [be] out on {one's} ear",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgb3V0IG9uIG9uZSdzIGVhcg&hash=b2910b840048848ef8c71986447b8a54e929e929&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgb3V0IG9uIG9uZSdzIGVhcg&hash=b2910b840048848ef8c71986447b8a54e929e929&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -348,15 +286,29 @@
       "senses": [
         {
           "definition": "to be dismissed or expelled from a place, job, or position",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "After the scandal was uncovered, he was out on his ear, fired from his prestigious job."
+            },
+            {
+              "cf": "",
+              "x": "When the company went bankrupt, everyone was out on their ear, left without a job or a paycheck."
+            },
+            {
+              "cf": "",
+              "x": "She never imagined that a simple misunderstanding would lead to her being out on her ear."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[leave] {sb} in the lurch",
+      "id": "5f771d24-406b-49c0-9421-37d878738178",
+      "word": "to [leave] {sb} in the lurch",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGVhdmUgc29tZWJvZHkgaW4gdGhlIGx1cmNo&hash=49e72a8308351f365ebd107a6d2d47fdbf69046f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGVhdmUgc29tZWJvZHkgaW4gdGhlIGx1cmNo&hash=49e72a8308351f365ebd107a6d2d47fdbf69046f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43196/original/?type=jpeg",
@@ -382,10 +334,11 @@
       ]
     },
     {
-      "word": "[leave] {sb} holding the bag",
+      "id": "2998e70b-70ef-4427-8e08-f3a6d561c48f",
+      "word": "to [leave] {sb} holding the bag",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGVhdmUgc29tZWJvZHkgaG9sZGluZyB0aGUgYmFn&hash=3ffd5c13bc95924d4d863cf9df801d64301b9b97&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGVhdmUgc29tZWJvZHkgaG9sZGluZyB0aGUgYmFn&hash=3ffd5c13bc95924d4d863cf9df801d64301b9b97&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44568/original/?type=jpeg",
@@ -393,20 +346,16 @@
       "senses": [
         {
           "definition": "to be left in a difficult or embarrassing situation, often without any support or assistance",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The politician tried to shift the blame onto his aides, leaving them holding the bag for the controversial decision."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[leave] {sb} out in the cold",
+      "id": "1804b86e-e46f-46c8-867e-1e3cb18c5a22",
+      "word": "to [leave] {sb} out in the cold",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGVhdmUgc29tZWJvZHkgb3V0IGluIHRoZSBjb2xk&hash=a5d1dc7f890c32d5012a068bb8ec93bb13340c46&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGVhdmUgc29tZWJvZHkgb3V0IGluIHRoZSBjb2xk&hash=a5d1dc7f890c32d5012a068bb8ec93bb13340c46&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43672/original/?type=jpeg",

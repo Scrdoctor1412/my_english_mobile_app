@@ -1,9 +1,11 @@
 {
+  "id": "124ad76b-5c81-4cc5-af41-f04ce9229123",
   "topic": "animals",
   "title": "Freshwater Fish",
   "lesson": "lesson_39",
   "word_list": [
     {
+      "id": "5a186f46-38ee-42cf-9d9e-112f40fa2426",
       "word": "bass",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFzcw&hash=7aaf456fa0622f7214724095f3b616a421e8a82f&lang=en&cache-only=0",
@@ -20,12 +22,13 @@
       ]
     },
     {
+      "id": "3a008080-d5de-4019-8c3b-94cef797a2db",
       "word": "bream",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJlYW0&hash=4829d49e8409fe6538f5edc57e0e3f9687302689&lang=en&cache-only=0",
-      "phonetic_text": "bri:m",
+      "phonetic_text": "brim",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJlYW0&hash=4829d49e8409fe6538f5edc57e0e3f9687302689&lang=en&cache-only=0",
-      "phonetic_am_text": "breem",
+      "phonetic_am_text": "brim",
       "img": "https://cdn.langeek.co/photo/24597/original/?type=jpeg",
       "pronunciation": "ˈbɹim",
       "senses": [
@@ -36,10 +39,11 @@
       ]
     },
     {
+      "id": "d0999279-cafd-490d-bf63-942cdcbf3dad",
       "word": "carp",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FycA&hash=aa030b0e6e998ceea3983893c9d61abcbf774b06&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:rp",
+      "phonetic_text": "kɑrp",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FycA&hash=aa030b0e6e998ceea3983893c9d61abcbf774b06&lang=en&cache-only=0",
       "phonetic_am_text": "kaarp",
       "img": "https://cdn.langeek.co/photo/50309/original/?type=jpeg",
@@ -52,12 +56,13 @@
       ]
     },
     {
+      "id": "adaddeb0-bb97-4f0f-83e0-dfd8eb743d4e",
       "word": "catfish",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2F0ZmlzaA&hash=ba9a6f6cd78997c4feb55a64ae776d7100d11471&lang=en&cache-only=0",
-      "phonetic_text": "kætfɪʃ",
+      "phonetic_text": "kæt.fɪʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2F0ZmlzaA&hash=ba9a6f6cd78997c4feb55a64ae776d7100d11471&lang=en&cache-only=0",
-      "phonetic_am_text": "kātfish",
+      "phonetic_am_text": "kāt.fish",
       "img": "https://cdn.langeek.co/photo/50311/original/?type=jpeg",
       "pronunciation": "ˈkætˌfɪʃ",
       "senses": [
@@ -68,12 +73,13 @@
       ]
     },
     {
-      "word": "chinook",
+      "id": "fafac20d-19ed-40d1-88bc-5cb813827660",
+      "word": "Chinook",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q2hpbm9vaw&hash=6326b1b046b414d162e37eb6a956ebe83ec27137&lang=en&cache-only=0",
-      "phonetic_text": "ʃɪnʊk",
+      "phonetic_text": "ʧɪ.nʊk",
       "phonetic_am": "https://tts.langeek.co/read?text=Q2hpbm9vaw&hash=6326b1b046b414d162e37eb6a956ebe83ec27137&lang=en&cache-only=0",
-      "phonetic_am_text": "shinuk",
+      "phonetic_am_text": "chi.nook",
       "img": "https://cdn.langeek.co/photo/24601/original/?type=jpeg",
       "pronunciation": "ˌtʃɪˈnʊk/, /ʃɪˈnʊk",
       "senses": [
@@ -84,12 +90,13 @@
       ]
     },
     {
+      "id": "c8b5ca08-5670-4987-9f6e-1e015df8435c",
       "word": "chub",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2h1Yg&hash=ad882f9467335193abb0f75d9e486270b26d3e52&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧʌb",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2h1Yg&hash=ad882f9467335193abb0f75d9e486270b26d3e52&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chab",
       "img": "https://cdn.langeek.co/photo/24603/original/?type=jpeg",
       "pronunciation": "tʃˈʌb",
       "senses": [
@@ -100,14 +107,15 @@
       ]
     },
     {
+      "id": "0dfe65c5-e826-470a-86da-75e6e1546f0c",
       "word": "goldfish",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29sZGZpc2g&hash=6f9739af29024d1bdeddd6e7eca2a37cf34a70aa&lang=en&cache-only=0",
-      "phonetic_text": "goʊldfɪʃ",
+      "phonetic_text": "goʊld.fɪʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=Z29sZGZpc2g&hash=6f9739af29024d1bdeddd6e7eca2a37cf34a70aa&lang=en&cache-only=0",
-      "phonetic_am_text": "gowldfish",
+      "phonetic_am_text": "gooold.fish",
       "img": "https://cdn.langeek.co/photo/17983/original/goldfish?type=jpeg",
-      "pronunciation": "ˈɡoʊɫdˌfɪʃ",
+      "pronunciation": "ˈɡoʊldˌfɪʃ",
       "senses": [
         {
           "definition": "a small red or orange fish often kept as a pet",
@@ -129,12 +137,13 @@
       ]
     },
     {
+      "id": "60b9e7b2-0e2b-45fc-a307-b64e12a754d8",
       "word": "guppy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3VwcHk&hash=8b646d53879eb2aefe7d12e8a7326b812fba9c53&lang=en&cache-only=0",
-      "phonetic_text": "gʌpi",
+      "phonetic_text": "gə.pi",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3VwcHk&hash=8b646d53879eb2aefe7d12e8a7326b812fba9c53&lang=en&cache-only=0",
-      "phonetic_am_text": "gapi",
+      "phonetic_am_text": "gē.pi",
       "img": "https://cdn.langeek.co/photo/24647/original/?type=jpeg",
       "pronunciation": "ˈɡəpi",
       "senses": [
@@ -145,12 +154,13 @@
       ]
     },
     {
+      "id": "172911ac-ed9e-4055-80c3-d30c313985c2",
       "word": "koi",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a29p&hash=cc74f3669b09f30e0372bbdd5f493463951bdb8f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɔɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=a29p&hash=cc74f3669b09f30e0372bbdd5f493463951bdb8f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kawi",
       "img": "https://cdn.langeek.co/photo/24701/original/?type=jpeg",
       "pronunciation": "kˈɔɪ",
       "senses": [
@@ -161,12 +171,13 @@
       ]
     },
     {
+      "id": "cce91d24-c87b-4ec1-8780-e53ce46be6c9",
       "word": "minnow",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWlubm93&hash=66a5c12ec3cf317b4d6db04079aeb3daaf8550c7&lang=en&cache-only=0",
-      "phonetic_text": "mɪnoʊ",
+      "phonetic_text": "mɪ.noʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=bWlubm93&hash=66a5c12ec3cf317b4d6db04079aeb3daaf8550c7&lang=en&cache-only=0",
-      "phonetic_am_text": "minow",
+      "phonetic_am_text": "mi.nooo",
       "img": "https://cdn.langeek.co/photo/24715/original/?type=jpeg",
       "pronunciation": "ˈmɪnoʊ",
       "senses": [
@@ -177,6 +188,7 @@
       ]
     },
     {
+      "id": "7d16b6aa-e906-4773-bb40-d0b060287e40",
       "word": "perch",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVyY2g&hash=c3b004c5789db0a8ea3a7f5a712814caea93a037&lang=en&cache-only=0",
@@ -193,12 +205,13 @@
       ]
     },
     {
+      "id": "7d08bc58-3118-4722-af52-4b0c3758016a",
       "word": "moray",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9yYXk&hash=2366bdac0d327f7c44f32125556fe811df664af6&lang=en&cache-only=0",
-      "phonetic_text": "məreɪ",
+      "phonetic_text": "mɔ.reɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9yYXk&hash=2366bdac0d327f7c44f32125556fe811df664af6&lang=en&cache-only=0",
-      "phonetic_am_text": "mērei",
+      "phonetic_am_text": "maw.rei",
       "img": "https://cdn.langeek.co/photo/24835/original/?type=jpeg",
       "pronunciation": "ˈmɔɹeɪ/, /mɝˈeɪ",
       "senses": [
@@ -209,12 +222,13 @@
       ]
     },
     {
+      "id": "a31f4717-8249-42ce-848f-7029df2df46e",
       "word": "stickleback",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RpY2tsZWJhY2s&hash=1a6f0e85a1267b1e96510a3a919b06f27c0c9cad&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stɪ.kəl.bæk",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RpY2tsZWJhY2s&hash=1a6f0e85a1267b1e96510a3a919b06f27c0c9cad&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sti.kēl.bāk",
       "img": "https://cdn.langeek.co/photo/24821/original/?type=jpeg",
       "pronunciation": "stˈɪklɪbˌæk",
       "senses": [
@@ -225,12 +239,13 @@
       ]
     },
     {
+      "id": "da43b28c-3f4f-4e46-995d-639fd3079818",
       "word": "tiddler",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGlkZGxlcg&hash=a1a18495b55d790510cf221cc56dcfd057ca36a1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɪd.lər",
       "phonetic_am": "https://tts.langeek.co/read?text=dGlkZGxlcg&hash=a1a18495b55d790510cf221cc56dcfd057ca36a1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tid.lēr",
       "img": "https://cdn.langeek.co/photo/24859/original/?type=jpeg",
       "pronunciation": "tˈɪdlɚ",
       "senses": [
@@ -241,12 +256,13 @@
       ]
     },
     {
+      "id": "2c651c54-4ba7-4a07-9f1f-9f18a1cac17b",
       "word": "plaice",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGxhaWNl&hash=44e1497173096d0281289b4fe362b57ad1c9578d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pleɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=cGxhaWNl&hash=44e1497173096d0281289b4fe362b57ad1c9578d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pleis",
       "img": "https://cdn.langeek.co/photo/24727/original/?type=jpeg",
       "pronunciation": "plˈeɪs",
       "senses": [
@@ -257,12 +273,13 @@
       ]
     },
     {
+      "id": "d072ae8d-9b87-4f45-b3b9-ba40d6751b66",
       "word": "mullet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXVsbGV0&hash=4fd17e3952105b16c3be4fff790a6a97115e8921&lang=en&cache-only=0",
-      "phonetic_text": "mʌlət",
+      "phonetic_text": "mə.lət",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVsbGV0&hash=4fd17e3952105b16c3be4fff790a6a97115e8921&lang=en&cache-only=0",
-      "phonetic_am_text": "malēt",
+      "phonetic_am_text": "mē.lēt",
       "img": "https://cdn.langeek.co/photo/24837/original/?type=jpeg",
       "pronunciation": "ˈməɫət",
       "senses": [
@@ -273,12 +290,13 @@
       ]
     },
     {
+      "id": "14540ad6-cfa4-4c1b-b6de-5db7c488ff2a",
       "word": "molly",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9sbHk&hash=409d64eb5670339b0554b35d66a4d718c283be91&lang=en&cache-only=0",
-      "phonetic_text": "mɑ:li",
+      "phonetic_text": "mɑ.li",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9sbHk&hash=409d64eb5670339b0554b35d66a4d718c283be91&lang=en&cache-only=0",
-      "phonetic_am_text": "maali",
+      "phonetic_am_text": "maa.li",
       "img": "https://cdn.langeek.co/photo/24833/original/?type=jpeg",
       "pronunciation": "ˈmɑɫi",
       "senses": [
@@ -289,12 +307,13 @@
       ]
     },
     {
+      "id": "ebdf102e-b0d3-461e-b9df-3b7b5a5f7565",
       "word": "sturgeon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3R1cmdlb24&hash=575e49e6cf672ecccec2a6968cfa81339f9f9369&lang=en&cache-only=0",
-      "phonetic_text": "stɜrʤən",
+      "phonetic_text": "stɜr.ʤən",
       "phonetic_am": "https://tts.langeek.co/read?text=c3R1cmdlb24&hash=575e49e6cf672ecccec2a6968cfa81339f9f9369&lang=en&cache-only=0",
-      "phonetic_am_text": "stērjēn",
+      "phonetic_am_text": "stēr.jēn",
       "img": "https://cdn.langeek.co/photo/24823/original/?type=jpeg",
       "pronunciation": "ˈstɝdʒən/, /ˈstɝdʒɪn",
       "senses": [
@@ -305,12 +324,13 @@
       ]
     },
     {
+      "id": "f08a15a2-623a-4e46-a5e5-ef9e04851e99",
       "word": "lungfish",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bHVuZ2Zpc2g&hash=82502a337bfed09e52d8c497ff50ed927335ab87&lang=en&cache-only=0",
-      "phonetic_text": "lʌngfɪʃ",
+      "phonetic_text": "lʌng.fɪʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=bHVuZ2Zpc2g&hash=82502a337bfed09e52d8c497ff50ed927335ab87&lang=en&cache-only=0",
-      "phonetic_am_text": "langfish",
+      "phonetic_am_text": "lang.fish",
       "img": "https://cdn.langeek.co/photo/50329/original/?type=jpeg",
       "pronunciation": "ˈɫəŋˌfɪʃ",
       "senses": [
@@ -321,12 +341,13 @@
       ]
     },
     {
+      "id": "0751d7e1-d8e7-43c1-9c5d-bbcf90c48ad6",
       "word": "electric eel",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWxlY3RyaWMgZWVs&hash=b735327cbf964e52fde3435b43d13295ca6c985d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪ.lɛkt.rɪk il",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWxlY3RyaWMgZWVs&hash=b735327cbf964e52fde3435b43d13295ca6c985d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "i.lekt.rik il",
       "img": "https://cdn.langeek.co/photo/50313/original/?type=jpeg",
       "pronunciation": "ɪlˈɛktɹɪk ˈiːl",
       "senses": [
@@ -337,12 +358,13 @@
       ]
     },
     {
+      "id": "c1e1c254-f905-45ea-95f8-33428868d9cd",
       "word": "lamprey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFtcHJleQ&hash=ba6354fce5e4157abd5eaaa2393e4f94771190a0&lang=en&cache-only=0",
-      "phonetic_text": "læmpri",
+      "phonetic_text": "læmp.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFtcHJleQ&hash=ba6354fce5e4157abd5eaaa2393e4f94771190a0&lang=en&cache-only=0",
-      "phonetic_am_text": "lāmpri",
+      "phonetic_am_text": "lāmp.ri",
       "img": "https://cdn.langeek.co/photo/24703/original/?type=jpeg",
       "pronunciation": "ˈɫæmpɹi",
       "senses": [
@@ -353,12 +375,13 @@
       ]
     },
     {
+      "id": "33b0312b-2339-423b-a704-84f235712c01",
       "word": "bowfin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym93Zmlu&hash=fc0a6cf90918f7202d3cde26522a2f141fc09d98&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "baʊ.fɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym93Zmlu&hash=fc0a6cf90918f7202d3cde26522a2f141fc09d98&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baoo.fin",
       "img": "https://cdn.langeek.co/photo/24595/original/?type=jpeg",
       "pronunciation": "bˈoʊfɪn",
       "senses": [
@@ -369,6 +392,7 @@
       ]
     },
     {
+      "id": "bee004bf-dccb-4ea3-9680-9f45b860e6ef",
       "word": "pike",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGlrZQ&hash=3a4f1c9388bbf96dff05fcd183078e4b63ac7cc2&lang=en&cache-only=0",
@@ -385,12 +409,13 @@
       ]
     },
     {
+      "id": "b3fa2290-5c8b-4549-8bcd-d2fbaef4643d",
       "word": "salmon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FsbW9u&hash=8eb4d4062dc8e892a69e86fdfed2f8cedced8679&lang=en&cache-only=0",
-      "phonetic_text": "sæmən",
+      "phonetic_text": "sæ.mən",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FsbW9u&hash=8eb4d4062dc8e892a69e86fdfed2f8cedced8679&lang=en&cache-only=0",
-      "phonetic_am_text": "sāmēn",
+      "phonetic_am_text": "sā.mēn",
       "img": "https://cdn.langeek.co/photo/50317/original/salmon?type=jpeg",
       "pronunciation": "ˈsæmən",
       "senses": [
@@ -414,12 +439,13 @@
       ]
     },
     {
+      "id": "6516eb8e-f438-4298-b4bf-5d445b64bb2c",
       "word": "piranha",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGlyYW5oYQ&hash=7b457f605a6b74b8cbb5743d7186a57c00af6cd1&lang=en&cache-only=0",
-      "phonetic_text": "pɪrænhə",
+      "phonetic_text": "pɪ.ræn.hə",
       "phonetic_am": "https://tts.langeek.co/read?text=cGlyYW5oYQ&hash=7b457f605a6b74b8cbb5743d7186a57c00af6cd1&lang=en&cache-only=0",
-      "phonetic_am_text": "pirānhē",
+      "phonetic_am_text": "pi.rān.hē",
       "img": "https://cdn.langeek.co/photo/50315/original/?type=jpeg",
       "pronunciation": "pɪˈɹænhə",
       "senses": [
@@ -430,6 +456,7 @@
       ]
     },
     {
+      "id": "494375ae-bf86-456f-ac2a-ca2a5f7bcad8",
       "word": "tench",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVuY2g&hash=b802266c6551f83e3bb407f802f09d1c0cd0588a&lang=en&cache-only=0",
@@ -446,10 +473,11 @@
       ]
     },
     {
+      "id": "52461e57-a673-4178-864b-1205c41d06c4",
       "word": "harlequin rasbora",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFybGVxdWluIHJhc2JvcmE&hash=033288a8a81f02e01b3d11cde181fd758ea2f82c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFybGVxdWluIHJhc2JvcmE&hash=033288a8a81f02e01b3d11cde181fd758ea2f82c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/24651/original/?type=jpeg",
@@ -462,12 +490,13 @@
       ]
     },
     {
+      "id": "f3fd0b21-66ba-46ca-b03e-5d76dccdb2d8",
       "word": "angelfish",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW5nZWxmaXNo&hash=100606187a6abba41435aaedd1dfb5efaa126ecf&lang=en&cache-only=0",
-      "phonetic_text": "eɪnʤəlfɪʃ",
+      "phonetic_text": "eɪn.ʤəl.fɪʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=YW5nZWxmaXNo&hash=100606187a6abba41435aaedd1dfb5efaa126ecf&lang=en&cache-only=0",
-      "phonetic_am_text": "einjēlfish",
+      "phonetic_am_text": "ein.jēl.fish",
       "img": "https://cdn.langeek.co/photo/24591/original/?type=jpeg",
       "pronunciation": "ˈeɪndʒəɫˌfɪʃ",
       "senses": [
@@ -478,12 +507,13 @@
       ]
     },
     {
+      "id": "4d023e74-0b91-410a-9f2b-58a53043cff9",
       "word": "sunfish",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3VuZmlzaA&hash=5c64b3c9d4576ce4eb0d4bd2418c6de130c39e71&lang=en&cache-only=0",
-      "phonetic_text": "sʌnfɪʃ",
+      "phonetic_text": "sʌn.fɪʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=c3VuZmlzaA&hash=5c64b3c9d4576ce4eb0d4bd2418c6de130c39e71&lang=en&cache-only=0",
-      "phonetic_am_text": "sanfish",
+      "phonetic_am_text": "san.fish",
       "img": "",
       "pronunciation": "ˈsənˌfɪʃ",
       "senses": [

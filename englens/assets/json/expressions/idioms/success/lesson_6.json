@@ -1,16 +1,18 @@
 {
+  "id": "9bfd1803-c292-4ee0-b18b-f99e9956db3b",
   "topic": "success",
   "title": "Boost & Enhancement",
   "lesson": "lesson_6",
   "word_list": [
     {
-      "word": "[come] up roses",
+      "id": "19afc50c-8083-472b-81d5-4fbdf6db2779",
+      "word": "to [come] up roses",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29tZSB1cCByb3Nlcw&hash=e0297a5fd82747835f0ad72fd10ec2e85ccd4ae3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29tZSB1cCByb3Nlcw&hash=e0297a5fd82747835f0ad72fd10ec2e85ccd4ae3&lang=en&cache-only=0",
       "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/17891/original/great?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/61780/original/great?type=jpeg",
       "pronunciation": "kˈʌm ˌʌp ɹˈoʊzᵻz",
       "senses": [
         {
@@ -29,10 +31,11 @@
       ]
     },
     {
-      "word": "[lick] {one's} wounds",
+      "id": "0aaaba12-b290-4ebf-8866-f3551e2d5297",
+      "word": "to [lick] {one's} wounds",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGljayBvbmUncyB3b3VuZHM&hash=aac554a48b3df4defc6dac3daca8d87982607780&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGljayBvbmUncyB3b3VuZHM&hash=aac554a48b3df4defc6dac3daca8d87982607780&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40369/original/?type=jpeg",
@@ -40,24 +43,16 @@
       "senses": [
         {
           "definition": "to take time to recover, heal, or regain strength after a difficult or painful experience",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After the breakup, she spent several weeks licking her wounds and reflecting on the relationship before moving on."
-            },
-            {
-              "cf": "",
-              "x": "If the proposal is rejected, we'll need to lick our wounds, gather feedback, and make improvements before submitting again."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "3e172d83-8e53-4b6b-8188-9d0bc1b7ca88",
       "word": "quantum (leap|jump)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=cXVhbnR1bSBsZWFw&hash=613ee7c4febb9f83b98d917faeb9737a778f0572&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cXVhbnR1bSBsZWFw&hash=613ee7c4febb9f83b98d917faeb9737a778f0572&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40419/original/?type=jpeg",
@@ -79,10 +74,11 @@
       ]
     },
     {
-      "word": "[work|iron] out the kinks",
+      "id": "65d01603-edb1-493b-b519-1af214b45768",
+      "word": "to [work|iron] out the kinks",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd29yayBvdXQgdGhlIGtpbmtz&hash=f904b40d0677c32fcac4bbb9932d9618fd301723&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd29yayBvdXQgdGhlIGtpbmtz&hash=f904b40d0677c32fcac4bbb9932d9618fd301723&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40407/original/?type=jpeg",
@@ -90,22 +86,18 @@
       "senses": [
         {
           "definition": "to make effort to fix all the small problems of something, such as an activity or project",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After some initial setbacks, we were able to iron out the kinks in the project and complete it on time."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "99196b6b-b11f-4a22-9a8a-64e7d34f9587",
       "word": "back on the rails",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YmFjayBvbiB0aGUgcmFpbHM&hash=39762ac48c3c12e0bdecf4a17455bf19616ea7d1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæk ɑ:n ðə reɪlz",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFjayBvbiB0aGUgcmFpbHM&hash=39762ac48c3c12e0bdecf4a17455bf19616ea7d1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bāk aan dhē reilz",
       "img": "https://cdn.langeek.co/photo/27409/original/?type=jpeg",
       "pronunciation": "bˈæk ɑːnðə ɹˈeɪlz",
       "senses": [
@@ -116,12 +108,13 @@
       ]
     },
     {
+      "id": "1fa4fc85-4b03-4e1c-ac2a-3c52d911c767",
       "word": "in the ascendant",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aW4gdGhlIGFzY2VuZGFudA&hash=de6cc197c8928954b530249ee95802a417224a77&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn ðə əs.ɛn.dənt",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gdGhlIGFzY2VuZGFudA&hash=de6cc197c8928954b530249ee95802a417224a77&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in dhē ēs.en.dēnt",
       "img": "https://cdn.langeek.co/photo/40441/original/?type=jpeg",
       "pronunciation": "ɪnðɪ ɐsˈɛndənt",
       "senses": [
@@ -141,46 +134,31 @@
       ]
     },
     {
+      "id": "39d1110d-9e30-443b-8d9e-8a95243369dd",
       "word": "in the fast lane",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aW4gdGhlIGZhc3QgbGFuZQ&hash=9a9472dcef1f016100ff0e7e391f7dda026d07fc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn ðə fæst leɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gdGhlIGZhc3QgbGFuZQ&hash=9a9472dcef1f016100ff0e7e391f7dda026d07fc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in dhē fāst lein",
       "img": "https://cdn.langeek.co/photo/40443/original/?type=jpeg",
       "pronunciation": "ɪnðə fˈæst lˈeɪn",
       "senses": [
         {
           "definition": "in a state of moving or progressing rapidly, particularly with regards to one's career, success, or lifestyle",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After her big promotion, she found herself in the fast lane of corporate success."
-            },
-            {
-              "cf": "",
-              "x": "Their startup is growing rapidly, putting them in the fast lane of the tech industry."
-            },
-            {
-              "cf": "",
-              "x": "Ever since winning the championship, his career has been in the fast lane."
-            },
-            {
-              "cf": "",
-              "x": "After her big promotion, she found herself in the fast lane of corporate success."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "e662b9ce-0004-4d0b-a897-c76779a5f6af",
       "word": "back on track",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YmFjayBvbiB0cmFjaw&hash=65b844d862325cc4984dc16e58e4028c4029865a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæk ɑ:n træk",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFjayBvbiB0cmFjaw&hash=65b844d862325cc4984dc16e58e4028c4029865a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/22686/original/?type=jpeg",
+      "phonetic_am_text": "bāk aan trāk",
+      "img": "https://cdn.langeek.co/photo/61278/original/?type=jpeg",
       "pronunciation": "bˈæk ˌɑːn tɹˈæk",
       "senses": [
         {
@@ -199,39 +177,28 @@
       ]
     },
     {
+      "id": "896ac572-0e9d-4199-ad86-3f78043d6b56",
       "word": "on the mend",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gdGhlIG1lbmQ&hash=9d3854d318ad3270a7000e364878c3cbebb08edf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n ðə mɛnd",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gdGhlIG1lbmQ&hash=9d3854d318ad3270a7000e364878c3cbebb08edf&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan dhē mend",
       "img": "",
       "pronunciation": "ɑːnðə mˈɛnd",
       "senses": [
         {
           "definition": "in a process of recovering or improving from a failure or setback",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After a series of setbacks and missteps, the team regrouped and found themselves on the mend, with a renewed sense of purpose and a clear plan for moving forward."
-            },
-            {
-              "cf": "",
-              "x": "Despite the recent financial setback, the company is on the mend and making significant progress towards regaining stability."
-            },
-            {
-              "cf": "",
-              "x": "With the help of a therapist, the couple is on the mend and is working through the challenges in their relationship."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "2422c719-fd77-49a0-bfb2-75463224cb38",
       "word": "finishing (touch|stroke)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZmluaXNoaW5nIHRvdWNo&hash=696c1b112a36e29ded44f4e36cba96f70b2bc3eb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmluaXNoaW5nIHRvdWNo&hash=696c1b112a36e29ded44f4e36cba96f70b2bc3eb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/20952/original/?type=jpeg",
@@ -253,10 +220,11 @@
       ]
     },
     {
+      "id": "9dc119b3-f35e-4a73-9499-52bd0ab72053",
       "word": "(icing|frosting) on the cake",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aWNpbmcgb24gdGhlIGNha2U&hash=5d620f4a60bc940a6487d4824c78b2019a3117b0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aWNpbmcgb24gdGhlIGNha2U&hash=5d620f4a60bc940a6487d4824c78b2019a3117b0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40485/original/?type=jpeg",
@@ -264,28 +232,16 @@
       "senses": [
         {
           "definition": "something extra that is added to something that is already good in order to make it perfect",
-          "examples": [
-            {
-              "cf": "",
-              "x": "My day was already going well, but when I found out I got the promotion, it was like icing on the cake."
-            },
-            {
-              "cf": "",
-              "x": "The dinner was delicious, but the icing on the cake was when the chef sent out a complimentary dessert."
-            },
-            {
-              "cf": "",
-              "x": "The party was fun, but when my favorite song came on, it was like the frosting on the cake."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "d1d68287-daea-44f8-ad30-5d466cb0f0af",
       "word": "the cherry on (top of|) the (cake|sundae)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIGNoZXJyeSBvbiB0b3Agb2YgdGhlIGNha2U&hash=1971a570248c55f20a332f4ce2ac79f9815823a6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIGNoZXJyeSBvbiB0b3Agb2YgdGhlIGNha2U&hash=1971a570248c55f20a332f4ce2ac79f9815823a6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40483/original/?type=jpeg",
@@ -293,24 +249,7 @@
       "senses": [
         {
           "definition": "the final adjustment to something already good or satisfactory just to make it perfect",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After a long day of work, coming home to a hot meal prepared by my spouse was great, and the fact that they had also picked up my favorite dessert was the cherry on top of the sundae."
-            },
-            {
-              "cf": "",
-              "x": "The book was already enjoyable, but the twist ending was like the cherry on the cake."
-            },
-            {
-              "cf": "",
-              "x": "The meal was delicious, but the complimentary dessert was the cherry on the sundae."
-            },
-            {
-              "cf": "",
-              "x": "The wedding was already beautiful, but the cherry on top of the cake was when the couple surprised everyone by arriving on horseback."
-            }
-          ]
+          "examples": []
         }
       ]
     }

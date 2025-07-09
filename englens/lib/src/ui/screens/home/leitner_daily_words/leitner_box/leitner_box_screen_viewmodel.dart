@@ -49,14 +49,22 @@ class LeitnerBoxScreenViewmodel extends GetViewModelBase {
   }
 
   void onTapDeleteWordFromLeitnerBox(int index) {
-    wordList.removeAt(index);
     var leitnerBoxes = LeitnerBoxService.getLeitnerBoxes();
     leitnerBoxes[boxIndex!].wordIds!.removeAt(index);
     LeitnerBoxService.saveLeitnerBoxes(leitnerBoxes);
     //xóa khỏi preferences
     var listPrefs = prefs.getStringList(AppConstants.leitnerBoxPrefsKey) ?? [];
-    listPrefs.removeWhere((element) => element == wordList[index].id);
+    if (listPrefs.isNotEmpty) {
+      var indexDuplicate =
+          listPrefs.indexWhere((element) => element == wordList[index].id);
+      // listPrefs.removeWhere((element) => element == wordList[index].id);
+      if (index != -1) {
+        listPrefs.removeAt(indexDuplicate);
+      }
+    }
+
     prefs.setStringList(AppConstants.leitnerBoxPrefsKey, listPrefs);
+    wordList.removeAt(index);
     update();
   }
 

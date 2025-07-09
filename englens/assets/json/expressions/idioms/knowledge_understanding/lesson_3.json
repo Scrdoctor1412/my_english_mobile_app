@@ -1,13 +1,15 @@
 {
+  "id": "0123b05d-23f1-4538-9ec3-03a8a00785c7",
   "topic": "knowledge_understanding",
   "title": "News & Information",
   "lesson": "lesson_3",
   "word_list": [
     {
+      "id": "e8f6bd09-7999-4aee-be22-dec2504d1d7e",
       "word": "(straight|) from the horse's mouth",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=c3RyYWlnaHQgZnJvbSB0aGUgaG9yc2UncyBtb3V0aA&hash=4233d436e1e22d293679492bc71b8db659dcfeed&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyYWlnaHQgZnJvbSB0aGUgaG9yc2UncyBtb3V0aA&hash=4233d436e1e22d293679492bc71b8db659dcfeed&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44778/original/?type=jpeg",
@@ -15,36 +17,16 @@
       "senses": [
         {
           "definition": "(of information) from an accurate or valid source",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I heard it from the horse's mouth that the company is planning a major expansion next year."
-            },
-            {
-              "cf": "",
-              "x": "You can trust this news; it came straight from the horse's mouth."
-            },
-            {
-              "cf": "",
-              "x": "I got the inside scoop from the CEO himself – it's from the horse's mouth."
-            },
-            {
-              "cf": "",
-              "x": "When it comes to family matters, I prefer to hear it from the horse's mouth, not through gossip."
-            },
-            {
-              "cf": "",
-              "x": "She learned about the promotion directly from her manager, so it's information from the horse's mouth."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[blow] the whistle on {sb/sth}",
+      "id": "83933589-a38b-4a91-ba05-72afa403ab65",
+      "word": "to [blow] the whistle on {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmxvdyB0aGUgd2hpc3RsZSBvbiBzb21lYm9keSBvciBzb21ldGhpbmc&hash=a4ca03fab61f2f9aad8bc14bb5c45e268c8eefbb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmxvdyB0aGUgd2hpc3RsZSBvbiBzb21lYm9keSBvciBzb21ldGhpbmc&hash=a4ca03fab61f2f9aad8bc14bb5c45e268c8eefbb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44638/original/?type=jpeg",
@@ -52,32 +34,16 @@
       "senses": [
         {
           "definition": "to inform the authorities about something secret or the breach of legalities, particularly because one is morally obliged to do so",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She decided to blow the whistle on the fraudulent accounting practices at the company."
-            },
-            {
-              "cf": "",
-              "x": "The brave whistleblower blew the whistle on the government's illegal surveillance program."
-            },
-            {
-              "cf": "",
-              "x": "Employees are encouraged to blow the whistle on any instances of harassment in the workplace."
-            },
-            {
-              "cf": "",
-              "x": "He blew the whistle on the corrupt officials who were embezzling public funds."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[hear] {sth} (through|on) the grapevine",
+      "id": "cd618ca6-2487-4465-8eaf-41db2d552db0",
+      "word": "to [hear] {sth} (through|on) the grapevine",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGVhciBzb21ldGhpbmcgdGhyb3VnaCB0aGUgZ3JhcGV2aW5l&hash=2568565e76cd792281d6d669ffcc60470afefaff&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGVhciBzb21ldGhpbmcgdGhyb3VnaCB0aGUgZ3JhcGV2aW5l&hash=2568565e76cd792281d6d669ffcc60470afefaff&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/29110/original/hear?type=jpeg",
@@ -85,53 +51,33 @@
       "senses": [
         {
           "definition": "to hear something that was passed from one person to another, like a rumor or gossip",
-          "examples": [
-            {
-              "cf": "",
-              "x": "We keep hearing it on the grapevine that the two co-stars of that movie are getting married, but they are not saying anything."
-            },
-            {
-              "cf": "",
-              "x": "Within professional football itself, other managers do get to hear things on the grapevine."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "540cfb44-aae5-45b6-b892-08660a6ee319",
       "word": "in the loop",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aW4gdGhlIGxvb3A&hash=772b2f09f12752240fbf14acf109389c71111fda&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn ðə lup",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gdGhlIGxvb3A&hash=772b2f09f12752240fbf14acf109389c71111fda&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in dhē loop",
       "img": "https://cdn.langeek.co/photo/44788/original/?type=jpeg",
       "pronunciation": "ɪnðə lˈuːp",
       "senses": [
         {
           "definition": "fully informed about or actively participating in something, such as a discussion or a process",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I'll make sure you're in the loop regarding any updates on the project."
-            },
-            {
-              "cf": "",
-              "x": "She's always in the loop when it comes to the latest technology developments."
-            },
-            {
-              "cf": "",
-              "x": "Being in the loop allows you to have a say in the decision-making process."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[keep] on top",
+      "id": "48a96f44-32e1-43af-8d40-388fa12acc11",
+      "word": "to [keep] on top",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCBvbiB0b3A&hash=45ac5623739f99ed17d4cc3e300c526ee2ba8341&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCBvbiB0b3A&hash=45ac5623739f99ed17d4cc3e300c526ee2ba8341&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42312/original/?type=jpeg",
@@ -144,10 +90,11 @@
       ]
     },
     {
-      "word": "[keep] {sb} posted",
+      "id": "5faae06b-f8dc-4778-a34c-a2c0bb85e25c",
+      "word": "to [keep] {sb} posted",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCBzb21lYm9keSBwb3N0ZWQ&hash=d71944fba069e30bdbadd0e9085881e486d56804&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCBzb21lYm9keSBwb3N0ZWQ&hash=d71944fba069e30bdbadd0e9085881e486d56804&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44786/original/?type=jpeg",
@@ -155,32 +102,16 @@
       "senses": [
         {
           "definition": "to provide someone with sufficient and relevant information regarding someone or something",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I'll keep you posted on the progress of the project."
-            },
-            {
-              "cf": "",
-              "x": "Please keep me posted if there are any changes to the schedule."
-            },
-            {
-              "cf": "",
-              "x": "Don't worry; I'll keep you posted on the latest news regarding the event."
-            },
-            {
-              "cf": "",
-              "x": "She asked her assistant to keep her posted on any emails that require immediate attention."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[put] {sb} in the picture",
+      "id": "fdd6c90d-7bd4-4439-bbd8-dd78516540a4",
+      "word": "to [put] {sb} in the picture",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IHNvbWVib2R5IGluIHRoZSBwaWN0dXJl&hash=d98593dec6048396f3d61707033251cb544c88ba&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IHNvbWVib2R5IGluIHRoZSBwaWN0dXJl&hash=d98593dec6048396f3d61707033251cb544c88ba&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41468/original/?type=jpeg",
@@ -188,28 +119,16 @@
       "senses": [
         {
           "definition": "to provide someone with information they require to handle or understand a situation",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Before we proceed with the project, let's put everyone in the picture about our goals and expectations."
-            },
-            {
-              "cf": "",
-              "x": "I need to put you in the picture regarding the changes in the company's policies."
-            },
-            {
-              "cf": "",
-              "x": "Could you please put me in the picture regarding the agenda for the upcoming meeting?"
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[spread] like wildfire",
+      "id": "2d75d50d-1450-451f-a3a4-0080b93b9526",
+      "word": "to [spread] like wildfire",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3ByZWFkIGxpa2Ugd2lsZGZpcmU&hash=613f171999540dd8c7224903b60e8f99fca6fdcb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3ByZWFkIGxpa2Ugd2lsZGZpcmU&hash=613f171999540dd8c7224903b60e8f99fca6fdcb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44800/original/?type=jpeg",
@@ -217,36 +136,16 @@
       "senses": [
         {
           "definition": "(of news, information, or rumors) to quickly become known by the majority",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The news of the scandal spread like wildfire throughout the company."
-            },
-            {
-              "cf": "",
-              "x": "Word of the upcoming sale spread like wildfire among bargain hunters."
-            },
-            {
-              "cf": "",
-              "x": "The rumor about their breakup spread like wildfire, causing quite a buzz."
-            },
-            {
-              "cf": "",
-              "x": "In the age of the internet, information can spread like wildfire, both true and false."
-            },
-            {
-              "cf": "",
-              "x": "The false reports were spreading like wildfire before they were debunked."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "a6a1c293-28a2-495b-9c37-531c40295950",
       "word": "up on {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dXAgb24gc29tZXRoaW5n&hash=33ee2656166a15236bd8333e4556e3237c3f756d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dXAgb24gc29tZXRoaW5n&hash=33ee2656166a15236bd8333e4556e3237c3f756d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44752/original/?type=jpeg",
@@ -276,12 +175,13 @@
       ]
     },
     {
+      "id": "cdfa0178-ac34-49d0-b514-a31e0a3f5795",
       "word": "first hand",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Zmlyc3QgaGFuZA&hash=61e089c3ba54f283a7149a1829d5eb1f247c23c7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɜrst hænd",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmlyc3QgaGFuZA&hash=61e089c3ba54f283a7149a1829d5eb1f247c23c7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fērst hānd",
       "img": "https://cdn.langeek.co/photo/44792/original/?type=jpeg",
       "pronunciation": "fˈɜːst hˈænd",
       "senses": [
@@ -301,10 +201,11 @@
       ]
     },
     {
+      "id": "6ea7883f-9233-4a17-9e42-086723179ac5",
       "word": "(by|through) (the|) word of mouth",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YnkgdGhlIHdvcmQgb2YgbW91dGg&hash=c5217c6d90535999a46003fe372115428ff6b357&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YnkgdGhlIHdvcmQgb2YgbW91dGg&hash=c5217c6d90535999a46003fe372115428ff6b357&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/27419/original/horrible?type=jpeg",
@@ -338,12 +239,13 @@
       ]
     },
     {
+      "id": "68d1f236-2b57-4bbd-bd8c-46ae92c72a3d",
       "word": "heads-up",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGVhZHMtdXA&hash=05983f881ab4f926e3de8d4d522133b428a44ef1&lang=en&cache-only=0",
-      "phonetic_text": "hɛdzʌp",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aGVhZHMtdXA&hash=05983f881ab4f926e3de8d4d522133b428a44ef1&lang=en&cache-only=0",
-      "phonetic_am_text": "hedzap",
+      "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44830/original/?type=jpeg",
       "pronunciation": "ˈhɛdˌzəp",
       "senses": [
@@ -354,12 +256,13 @@
       ]
     },
     {
+      "id": "b12f4cb8-4afa-4c12-9d04-b2a62bbe4831",
       "word": "a little bird",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YSBsaXR0bGUgYmlyZA&hash=059c409caf2b2e3c99e3c3c2ee48c12624ec8df0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ə lɪ.təl bɜrd",
       "phonetic_am": "https://tts.langeek.co/read?text=YSBsaXR0bGUgYmlyZA&hash=059c409caf2b2e3c99e3c3c2ee48c12624ec8df0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ē li.tēl bērd",
       "img": "https://cdn.langeek.co/photo/44822/original/?type=jpeg",
       "pronunciation": "ɐ lˈɪɾəl bˈɜːd",
       "senses": [
@@ -387,10 +290,11 @@
       ]
     },
     {
+      "id": "efe1dd05-a686-408f-8253-225e910ab0e0",
       "word": "{one's} ears [are] burning",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b25lJ3MgZWFycyBhcmUgYnVybmluZw&hash=7b26fc8af1b1cc36ecd45a70c330462e25e44121&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b25lJ3MgZWFycyBhcmUgYnVybmluZw&hash=7b26fc8af1b1cc36ecd45a70c330462e25e44121&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44658/original/?type=jpeg",
@@ -403,10 +307,11 @@
       ]
     },
     {
+      "id": "8a7a658b-707a-43d0-8800-7238acd3889b",
       "word": "Chinese whispers",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q2hpbmVzZSB3aGlzcGVycw&hash=d10c1397d02e8c1e1a4344cccf7add3ddd617c55&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Q2hpbmVzZSB3aGlzcGVycw&hash=d10c1397d02e8c1e1a4344cccf7add3ddd617c55&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44826/original/?type=jpeg",
@@ -419,78 +324,47 @@
       ]
     },
     {
+      "id": "29f0d990-5629-45e4-8de1-638c906525b8",
       "word": "hot off the press",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aG90IG9mZiB0aGUgcHJlc3M&hash=94a1583af50862e5bd56b3e01a56faf64432a8ca&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɑ:t ɑf ðə prɛs",
       "phonetic_am": "https://tts.langeek.co/read?text=aG90IG9mZiB0aGUgcHJlc3M&hash=94a1583af50862e5bd56b3e01a56faf64432a8ca&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "haat aaf dhē pres",
       "img": "https://cdn.langeek.co/photo/44832/original/?type=jpeg",
       "pronunciation": "hˈɑːt ˈɔf ðə pɹˈɛs",
       "senses": [
         {
           "definition": "(of a piece of information or news) recently received",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The breaking news is hot off the press, so we'll provide updates as we get more information."
-            },
-            {
-              "cf": "",
-              "x": "This report is hot off the press, so you're among the first to see the findings."
-            },
-            {
-              "cf": "",
-              "x": "The magazine features an interview with the celebrity that's hot off the press."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "e35f65e1-a729-4678-99c6-3c39576e45f6",
       "word": "out of touch",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b3V0IG9mIHRvdWNo&hash=b75bf3742f31df52875edc11e204b6ac86a95c39&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aʊt ʌv tʌʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=b3V0IG9mIHRvdWNo&hash=b75bf3742f31df52875edc11e204b6ac86a95c39&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aoot av tach",
       "img": "https://cdn.langeek.co/photo/44838/original/?type=jpeg",
       "pronunciation": "ˌaʊɾəv tˈʌtʃ",
       "senses": [
         {
           "definition": "not having recent information regarding a certain thing, particularly an event",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He's been out of touch with the music scene for years and doesn't know any of the current bands."
-            },
-            {
-              "cf": "",
-              "x": "Her views on technology are so outdated; she's completely out of touch with the latest innovations."
-            },
-            {
-              "cf": "",
-              "x": "\"The older generation sometimes feels out of touch with the interests and concerns of younger people."
-            },
-            {
-              "cf": "",
-              "x": "The professor's outdated lectures show that he is completely out of touch."
-            },
-            {
-              "cf": "",
-              "x": "The politician's remarks demonstrate that he is out of touch with the needs and struggles of everyday people."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "b5a4599f-e470-4244-8cb6-e5f2d3309519",
       "word": "paper trail",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFwZXIgdHJhaWw&hash=d20d8a8e34164e918b66d40fe9624d21084434af&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "peɪ.pɜr treɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFwZXIgdHJhaWw&hash=d20d8a8e34164e918b66d40fe9624d21084434af&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pei.pēr treil",
       "img": "https://cdn.langeek.co/photo/26246/original/?type=jpeg",
       "pronunciation": "pˈeɪpɚ tɹˈeɪl",
       "senses": [
@@ -522,12 +396,13 @@
       ]
     },
     {
+      "id": "edb1bde3-319e-4a42-9b59-09c6da7079d5",
       "word": "fishing expedition",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmlzaGluZyBleHBlZGl0aW9u&hash=19a92facd76da82a2238a69d476c1b9797fe6768&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɪ.ʃɪng ɛk.spə.dɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmlzaGluZyBleHBlZGl0aW9u&hash=19a92facd76da82a2238a69d476c1b9797fe6768&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fi.shing ek.spē.di.shēn",
       "img": "https://cdn.langeek.co/photo/26365/original/?type=jpeg",
       "pronunciation": "fˈɪʃɪŋ ˌɛkspədˈɪʃən",
       "senses": [

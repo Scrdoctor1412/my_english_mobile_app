@@ -1,17 +1,19 @@
 {
+  "id": "1351b727-d110-42b7-a617-32455c58a5a1",
   "topic": "b1_level",
   "title": "Transportation",
   "lesson": "lesson_15",
   "word_list": [
     {
+      "id": "bd3cfd16-f5ba-4aa1-852a-37e8cd4187d5",
       "word": "transportation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhbnNwb3J0YXRpb24&hash=3855442ae4a5eefb30e4a1bcfa84c929fddd277c&lang=en&cache-only=0",
-      "phonetic_text": "trænspərteɪʃən",
+      "phonetic_text": "træns.pər.teɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhbnNwb3J0YXRpb24&hash=3855442ae4a5eefb30e4a1bcfa84c929fddd277c&lang=en&cache-only=0",
-      "phonetic_am_text": "trānspērteishēn",
+      "phonetic_am_text": "trāns.pēr.tei.shēn",
       "img": "https://cdn.langeek.co/photo/18659/original/transportation?type=jpeg",
-      "pronunciation": "ˌtɹænspɝˈteɪʃən",
+      "pronunciation": "ˌtrænspɚˈteɪʃən",
       "senses": [
         {
           "definition": "a system or method for carrying people or goods from one place to another by cars, trains, etc.",
@@ -33,39 +35,53 @@
       ]
     },
     {
+      "id": "962fe393-3469-4b69-b6f9-d6cfae69822c",
       "word": "vehicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmVoaWNsZQ&hash=a84236090493dede94eae263b2a181c9d42f917b&lang=en&cache-only=0",
-      "phonetic_text": "vi:hɪkəl",
+      "phonetic_text": "viɪ.əkl",
       "phonetic_am": "https://tts.langeek.co/read?text=dmVoaWNsZQ&hash=a84236090493dede94eae263b2a181c9d42f917b&lang=en&cache-only=0",
-      "phonetic_am_text": "veehikēl",
+      "phonetic_am_text": "vii.ēkl",
       "img": "https://cdn.langeek.co/photo/19044/original/vehicle?type=jpeg",
-      "pronunciation": "ˈvihɪkəɫ/, /ˈviɪkəɫ",
+      "pronunciation": "ˈviɪkəl",
       "senses": [
         {
-          "definition": "a large object with an engine, such as a car or truck, used for transporting people or goods",
+          "definition": "a means of transportation used to carry people or goods from one place to another, typically on roads or tracks",
           "examples": [
             {
               "cf": "",
-              "x": "She drove a sleek sports car, which was her dream vehicle since childhood."
+              "x": "Cars, buses, and trucks are all types of vehicles."
             },
             {
               "cf": "",
-              "x": "The delivery company uses electric vehicles to reduce carbon emissions."
+              "x": "Electric vehicles are becoming more popular."
+            },
+            {
+              "cf": "",
+              "x": "You need a license to drive a vehicle."
+            },
+            {
+              "cf": "",
+              "x": "That vehicle is parked in the wrong spot."
+            },
+            {
+              "cf": "",
+              "x": "The accident involved three vehicles."
             }
           ]
         }
       ]
     },
     {
+      "id": "ea90bd10-33ec-43b2-ab38-2d2c6e5e96d2",
       "word": "yacht",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=eWFjaHQ&hash=eda9e6222774f29d8445f5220c993c7bcfdd2883&lang=en&cache-only=0",
-      "phonetic_text": "jɑ:t",
+      "phonetic_text": "jɑt",
       "phonetic_am": "https://tts.langeek.co/read?text=eWFjaHQ&hash=eda9e6222774f29d8445f5220c993c7bcfdd2883&lang=en&cache-only=0",
       "phonetic_am_text": "yaat",
       "img": "https://cdn.langeek.co/photo/51518/original/yacht?type=jpeg",
-      "pronunciation": "ˈjɑt",
+      "pronunciation": "jɑt",
       "senses": [
         {
           "definition": "a large boat with an engine used for pleasure trips",
@@ -74,14 +90,15 @@
       ]
     },
     {
+      "id": "b5bcc82b-208d-4786-a6a8-fd25f0780065",
       "word": "aircraft",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWlyY3JhZnQ&hash=5472c4c4fa8ab79f6cb1729074e9a59bc3136cd0&lang=en&cache-only=0",
-      "phonetic_text": "ɛrkræft",
+      "phonetic_text": "ɛr.kræft",
       "phonetic_am": "https://tts.langeek.co/read?text=YWlyY3JhZnQ&hash=5472c4c4fa8ab79f6cb1729074e9a59bc3136cd0&lang=en&cache-only=0",
-      "phonetic_am_text": "erkrāft",
+      "phonetic_am_text": "er.krāft",
       "img": "https://cdn.langeek.co/photo/19042/original/aircraft?type=jpeg",
-      "pronunciation": "ˈerˌkɹæft",
+      "pronunciation": "ˈɛrˌkræft",
       "senses": [
         {
           "definition": "any flying vehicle",
@@ -111,6 +128,7 @@
       ]
     },
     {
+      "id": "97b79e94-4428-463f-9f33-960d571b04f4",
       "word": "plane",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGxhbmU&hash=3a43bfa5a80f4c50a5aaa563f998d22eb9daade3&lang=en&cache-only=0",
@@ -118,7 +136,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=cGxhbmU&hash=3a43bfa5a80f4c50a5aaa563f998d22eb9daade3&lang=en&cache-only=0",
       "phonetic_am_text": "plein",
       "img": "https://cdn.langeek.co/photo/49478/original/airplane?type=jpeg",
-      "pronunciation": "ˈpɫeɪn",
+      "pronunciation": "pleɪn",
       "senses": [
         {
           "definition": "a winged flying vehicle driven by one or more engines",
@@ -148,14 +166,15 @@
       ]
     },
     {
+      "id": "b428e8e3-b7e4-467f-b6d7-6577da240c6e",
       "word": "jet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=amV0&hash=19f6179502451a5610689f2360c6272c42ece89d&lang=en&cache-only=0",
-      "phonetic_text": "ʤɛt",
+      "phonetic_text": "ʤet",
       "phonetic_am": "https://tts.langeek.co/read?text=amV0&hash=19f6179502451a5610689f2360c6272c42ece89d&lang=en&cache-only=0",
       "phonetic_am_text": "jet",
       "img": "https://cdn.langeek.co/photo/18555/original/jet?type=jpeg",
-      "pronunciation": "dʒet",
+      "pronunciation": "ʤɛt",
       "senses": [
         {
           "definition": "a very fast aircraft with jet engines",
@@ -164,6 +183,7 @@
       ]
     },
     {
+      "id": "cfd81ec7-29de-40a1-9353-9b635dda7b33",
       "word": "track",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhY2s&hash=3caf52dcf15a9f7eb708059bc9a4fb5db17b74c4&lang=en&cache-only=0",
@@ -171,7 +191,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhY2s&hash=3caf52dcf15a9f7eb708059bc9a4fb5db17b74c4&lang=en&cache-only=0",
       "phonetic_am_text": "trāk",
       "img": "https://cdn.langeek.co/photo/18565/original/track?type=jpeg",
-      "pronunciation": "ˈtɹæk",
+      "pronunciation": "træk",
       "senses": [
         {
           "definition": "a pair of metal bars that trains use to move",
@@ -197,14 +217,15 @@
       ]
     },
     {
+      "id": "dc2147b9-4a2e-46e0-bbce-e71a0004b5af",
       "word": "tunnel",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHVubmVs&hash=17611f6774f1056a17aeca8e722b05350d7617d7&lang=en&cache-only=0",
-      "phonetic_text": "tʌnəl",
+      "phonetic_text": "tʌ.nəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dHVubmVs&hash=17611f6774f1056a17aeca8e722b05350d7617d7&lang=en&cache-only=0",
-      "phonetic_am_text": "tanēl",
+      "phonetic_am_text": "ta.nēl",
       "img": "https://cdn.langeek.co/photo/43496/original/tunnel?type=jpeg",
-      "pronunciation": "ˈtənəɫ",
+      "pronunciation": "ˈtʌnəl",
       "senses": [
         {
           "definition": "a passage dug through or under a mountain or a structure, typically for cars, trains, people, etc.",
@@ -234,14 +255,15 @@
       ]
     },
     {
+      "id": "2e7aa316-d0cb-4c55-92b8-58865445d1ff",
       "word": "destination",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVzdGluYXRpb24&hash=1eb667366893fa9a10ec8fd21c091dc3c04a0b70&lang=en&cache-only=0",
-      "phonetic_text": "dɛstəneɪʃən",
+      "phonetic_text": "dɛs.tə.neɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVzdGluYXRpb24&hash=1eb667366893fa9a10ec8fd21c091dc3c04a0b70&lang=en&cache-only=0",
-      "phonetic_am_text": "destēneishēn",
+      "phonetic_am_text": "des.tē.nei.shēn",
       "img": "https://cdn.langeek.co/photo/18551/original/destination?type=jpeg",
-      "pronunciation": "ˌdɛstəˈneɪʃən/, /ˌdɛstɪˈneɪʃən",
+      "pronunciation": "ˌdɛstəˈneɪʃən",
       "senses": [
         {
           "definition": "the place where someone or something is headed",
@@ -271,14 +293,15 @@
       ]
     },
     {
+      "id": "fa90fc21-3246-478d-b3dd-cd06d75d4555",
       "word": "harbor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFyYm9y&hash=640a55479def527d3b0b3fa9eb5e7d3f2f72e4f0&lang=en&cache-only=0",
-      "phonetic_text": "hɑ:rbər",
+      "phonetic_text": "hɑr.bɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFyYm9y&hash=640a55479def527d3b0b3fa9eb5e7d3f2f72e4f0&lang=en&cache-only=0",
-      "phonetic_am_text": "haarbēr",
+      "phonetic_am_text": "haar.bēr",
       "img": "https://cdn.langeek.co/photo/19542/original/port?type=jpeg",
-      "pronunciation": "ˈhɑɹbɝ",
+      "pronunciation": "ˈhɑrbɚ",
       "senses": [
         {
           "definition": "a sheltered area of water along the coast where ships, boats, and other vessels can anchor safely, typically protected from rough seas by natural or artificial barriers",
@@ -312,14 +335,15 @@
       ]
     },
     {
+      "id": "a128a3b4-7541-4b5c-b7c8-962ad9d952e2",
       "word": "port",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9ydA&hash=102c34a158f1e8ceb7a0010a81869b78639838b2&lang=en&cache-only=0",
-      "phonetic_text": "pɔ:rt",
+      "phonetic_text": "pɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9ydA&hash=102c34a158f1e8ceb7a0010a81869b78639838b2&lang=en&cache-only=0",
-      "phonetic_am_text": "paawrt",
+      "phonetic_am_text": "pawrt",
       "img": "https://cdn.langeek.co/photo/19542/original/port?type=jpeg",
-      "pronunciation": "ˈpɔɹt",
+      "pronunciation": "pɔrt",
       "senses": [
         {
           "definition": "a city or town that has a harbor where ships can be loaded or unloaded",
@@ -345,14 +369,15 @@
       ]
     },
     {
+      "id": "6a2ef63a-93c8-4d22-9f18-5b5a48161308",
       "word": "airfare",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWlyZmFyZQ&hash=f83ff8c5d48c6e58937baca474d9ef2933b3dc54&lang=en&cache-only=0",
-      "phonetic_text": "ɛrfɛr",
+      "phonetic_text": "ɛr.fɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=YWlyZmFyZQ&hash=f83ff8c5d48c6e58937baca474d9ef2933b3dc54&lang=en&cache-only=0",
-      "phonetic_am_text": "erfer",
+      "phonetic_am_text": "er.fer",
       "img": "https://cdn.langeek.co/photo/49492/original/ticket?type=jpeg",
-      "pronunciation": "ˈerˌfɛɹ",
+      "pronunciation": "ˈɛrˌfɛr",
       "senses": [
         {
           "definition": "the price of a flight",
@@ -378,14 +403,15 @@
       ]
     },
     {
+      "id": "d4900f9a-55d7-4a69-b454-ffdbd19b63dd",
       "word": "seat belt",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VhdCBiZWx0&hash=74e951574968398b1cb8750944b9d63ee993c4a3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "si:t bɛlt",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VhdCBiZWx0&hash=74e951574968398b1cb8750944b9d63ee993c4a3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sit belt",
       "img": "https://cdn.langeek.co/photo/18563/original/seat-belt?type=jpeg",
-      "pronunciation": "sˈiːt bˈɛlt",
+      "pronunciation": "ˈsit ˌbɛlt",
       "senses": [
         {
           "definition": "a belt in cars, airplanes, or helicopters that a passenger fastens around themselves to prevent serious injury in case of an accident",
@@ -415,12 +441,13 @@
       ]
     },
     {
-      "word": "board",
+      "id": "0a0e9d91-da71-4983-b746-32b4b4e9bc2e",
+      "word": "to board",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYm9hcmQ&hash=03b143adfc984319dd7cf56ff92860de360e0b99&lang=en&cache-only=0",
       "phonetic_text": "bɔ:rd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYm9hcmQ&hash=03b143adfc984319dd7cf56ff92860de360e0b99&lang=en&cache-only=0",
-      "phonetic_am_text": "baawrd",
+      "phonetic_am_text": "bawrd",
       "img": "https://cdn.langeek.co/photo/18585/original/board?type=jpeg",
       "pronunciation": "bɔːrd",
       "senses": [
@@ -452,14 +479,15 @@
       ]
     },
     {
-      "word": "access",
+      "id": "8207a944-eba2-4b70-9045-0bcf893926fc",
+      "word": "to access",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWNjZXNz&hash=7b3795e33bbd1f68cc5b66b9425da8eddf4c4c99&lang=en&cache-only=0",
-      "phonetic_text": "æksɛs",
+      "phonetic_text": "æk.sɛs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWNjZXNz&hash=7b3795e33bbd1f68cc5b66b9425da8eddf4c4c99&lang=en&cache-only=0",
-      "phonetic_am_text": "ākses",
+      "phonetic_am_text": "āk.ses",
       "img": "https://cdn.langeek.co/photo/52757/original/?type=jpeg",
-      "pronunciation": "ˈækˌsɛs",
+      "pronunciation": "ˈæksɛs",
       "senses": [
         {
           "definition": "to reach or to be able to reach and enter a place",
@@ -489,12 +517,13 @@
       ]
     },
     {
-      "word": "get in",
+      "id": "ecbe29ca-ce43-4c32-ade2-74eece70c00b",
+      "word": "to get in",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IGlu&hash=41c715507397434f4526881f251ca4ee8510eb3f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gɛt ɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IGlu&hash=41c715507397434f4526881f251ca4ee8510eb3f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "get in",
       "img": "https://cdn.langeek.co/photo/19290/original/get-in?type=jpeg",
       "pronunciation": "ɡɛt ˈɪn",
       "senses": [
@@ -522,14 +551,15 @@
       ]
     },
     {
-      "word": "set out",
+      "id": "738a0712-40bc-464b-b40a-540143f50f55",
+      "word": "to set out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2V0IG91dA&hash=9c2598a52ccf4b119f4cf50eddae47534036b028&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛt aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2V0IG91dA&hash=9c2598a52ccf4b119f4cf50eddae47534036b028&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "set aoot",
       "img": "https://cdn.langeek.co/photo/18595/original/set-off?type=jpeg",
-      "pronunciation": "sˈɛt ˈaʊt",
+      "pronunciation": "sɛt ˈaʊt",
       "senses": [
         {
           "definition": "to start a journey",
@@ -559,50 +589,31 @@
       ]
     },
     {
-      "word": "set off",
+      "id": "53bc8053-1b89-4b5b-9ac1-05e6278caa7f",
+      "word": "to set off",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2V0IG9mZg&hash=45a415b6020ab221cf1cbe764503718f4ce8f89d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛt ɑf",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2V0IG9mZg&hash=45a415b6020ab221cf1cbe764503718f4ce8f89d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "set aaf",
       "img": "https://cdn.langeek.co/photo/18595/original/set-off?type=jpeg",
-      "pronunciation": "sˈɛt ˈɔf",
+      "pronunciation": "sɛt ˈɑf",
       "senses": [
         {
           "definition": "to start a journey",
-          "examples": [
-            {
-              "cf": "",
-              "x": "We'll set off on our cross-country journey early in the morning to avoid traffic."
-            },
-            {
-              "cf": "",
-              "x": "The family set off for their vacation in the mountains, filled with excitement."
-            },
-            {
-              "cf": "",
-              "x": "The explorers set off for the jungle, equipped with supplies and a sense of wonder."
-            },
-            {
-              "cf": "",
-              "x": "After breakfast, the hikers set off on the trail, ready for a day of exploration."
-            },
-            {
-              "cf": "",
-              "x": "The cyclists set off on their long ride through the countryside, enjoying the fresh air."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "land",
+      "id": "84306a1e-bcde-4738-a0ab-2ec9abe8ef38",
+      "word": "to land",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGFuZA&hash=d7132c394fb6f5470e91cc214b034afa05fb01dc&lang=en&cache-only=0",
       "phonetic_text": "lænd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGFuZA&hash=d7132c394fb6f5470e91cc214b034afa05fb01dc&lang=en&cache-only=0",
       "phonetic_am_text": "lānd",
-      "img": "https://cdn.langeek.co/photo/35888/original/land?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/61654/original/land?type=jpeg",
       "pronunciation": "lænd",
       "senses": [
         {
@@ -633,51 +644,45 @@
       ]
     },
     {
+      "id": "8d27f180-6af8-4879-a71a-7c81c592f18f",
       "word": "on board",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gYm9hcmQ&hash=829c8aa8d38a705696dd2f280a3304c5e5cc5526&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n bɔ:rd",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gYm9hcmQ&hash=829c8aa8d38a705696dd2f280a3304c5e5cc5526&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan bawrd",
       "img": "https://cdn.langeek.co/photo/48817/original/?type=jpeg",
-      "pronunciation": "ˌɑːn bˈoːɹd",
+      "pronunciation": "ɑn ˈbɑrd",
       "senses": [
         {
           "definition": "on a means of transportation such as an aircraft, train, or ship",
           "examples": [
             {
               "cf": "",
-              "x": "The captain welcomed the new crew members on board the ship."
+              "x": "All passengers were safely on board before the train departed."
             },
             {
               "cf": "",
-              "x": "All passengers should be on board the cruise ship at least an hour before departure."
+              "x": "Once on board, he found his assigned seat near the window."
             },
             {
               "cf": "",
-              "x": "Passengers are requested to remain on board until the train comes to a complete stop."
-            },
-            {
-              "cf": "",
-              "x": "The conductor checked the tickets to ensure all passengers were on board before the train departed."
-            },
-            {
-              "cf": "",
-              "x": "The tour guide confirmed that everyone was on board the bus before departing for the sightseeing tour."
+              "x": "She was already on board when the announcement was made."
             }
           ]
         }
       ]
     },
     {
+      "id": "3bd347c1-9a19-4319-ab4c-4f1b82116b29",
       "word": "first class",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zmlyc3QgY2xhc3M&hash=9477c4befa146f313df8b5f0a92c642f08edc37e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɜrst klæs",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmlyc3QgY2xhc3M&hash=9477c4befa146f313df8b5f0a92c642f08edc37e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fērst klās",
       "img": "https://cdn.langeek.co/photo/18655/original/first-class?type=jpeg",
-      "pronunciation": "fˈɜːst klˈæs",
+      "pronunciation": "ˈfɝst ˈklæs",
       "senses": [
         {
           "definition": "the most luxurious seats on a plane, ship, or train",
@@ -707,14 +712,15 @@
       ]
     },
     {
+      "id": "f950a8d2-5e66-45bc-bb29-70f5a27e0dc8",
       "word": "business class",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVzaW5lc3MgY2xhc3M&hash=a1f33ea6de01fed5224819b07c7a6699183705cc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɪz.nɪs klæs",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVzaW5lc3MgY2xhc3M&hash=a1f33ea6de01fed5224819b07c7a6699183705cc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "biz.nis klās",
       "img": "https://cdn.langeek.co/photo/18649/original/business-class?type=jpeg",
-      "pronunciation": "bˈɪznəs klˈæs",
+      "pronunciation": "ˈbɪznɪs ˈklæs",
       "senses": [
         {
           "definition": "a category of travel service offered by airlines, trains, etc., that is better than economy but not as luxurious as first class, particularly for those traveling on business",
@@ -744,14 +750,15 @@
       ]
     },
     {
+      "id": "80e2354b-27ba-4410-9b7f-bed04c30341a",
       "word": "economy class",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWNvbm9teSBjbGFzcw&hash=801fa7f4be4a9b07e1e6ace66bccd637f6888546&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "i.kɑ.nə.mi klæs",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWNvbm9teSBjbGFzcw&hash=801fa7f4be4a9b07e1e6ace66bccd637f6888546&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "i.kaa.nē.mi klās",
       "img": "https://cdn.langeek.co/photo/18653/original/economy-class?type=jpeg",
-      "pronunciation": "ɪkˈɑːnəmi klˈæs",
+      "pronunciation": "ɪˈkɑnəmi ˈklæs",
       "senses": [
         {
           "definition": "the cheapest accommodations on an airplane or train",
@@ -781,13 +788,14 @@
       ]
     },
     {
+      "id": "52370c2e-81ce-43af-8441-af564692b743",
       "word": "connection",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29ubmVjdGlvbg&hash=c363c03f00cddb696421cef85f2edf151f07dc75&lang=en&cache-only=0",
-      "phonetic_text": "kənɛkʃən",
+      "phonetic_text": "kə.nɛk.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29ubmVjdGlvbg&hash=c363c03f00cddb696421cef85f2edf151f07dc75&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnekshēn",
-      "img": "https://cdn.langeek.co/photo/17849/original/change?type=jpeg",
+      "phonetic_am_text": "kē.nek.shēn",
+      "img": "https://cdn.langeek.co/photo/61602/original/change?type=jpeg",
       "pronunciation": "kəˈnɛkʃən",
       "senses": [
         {
@@ -797,12 +805,13 @@
       ]
     },
     {
+      "id": "c8217e03-7867-4377-aad9-a91c7d5a2b89",
       "word": "domestic",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZG9tZXN0aWM&hash=4ffc842200a0ee20a7be3138c4d6618d2fa31852&lang=en&cache-only=0",
-      "phonetic_text": "dəmɛstɪk",
+      "phonetic_text": "də.mɛs.tɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG9tZXN0aWM&hash=4ffc842200a0ee20a7be3138c4d6618d2fa31852&lang=en&cache-only=0",
-      "phonetic_am_text": "dēmestik",
+      "phonetic_am_text": "dē.mes.tik",
       "img": "https://cdn.langeek.co/photo/19532/original/domestic?type=jpeg",
       "pronunciation": "dəˈmɛstɪk",
       "senses": [
@@ -822,14 +831,15 @@
       ]
     },
     {
+      "id": "89349635-ec02-484d-9a82-f40b394de9c3",
       "word": "public",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cHVibGlj&hash=c2c3f17fa1ee7b9f87dec26fe86e401fb7d56e5c&lang=en&cache-only=0",
-      "phonetic_text": "pʌblɪk",
+      "phonetic_text": "pəb.lɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=cHVibGlj&hash=c2c3f17fa1ee7b9f87dec26fe86e401fb7d56e5c&lang=en&cache-only=0",
-      "phonetic_am_text": "pablik",
+      "phonetic_am_text": "pēb.lik",
       "img": "https://cdn.langeek.co/photo/18657/original/public?type=jpeg",
-      "pronunciation": "ˈpəbɫɪk",
+      "pronunciation": "ˈpʌblɪk",
       "senses": [
         {
           "definition": "available to and shared by everyone, not only for a special group",
@@ -851,14 +861,15 @@
       ]
     },
     {
+      "id": "653f105d-bddd-444c-98fb-6a6894a3879d",
       "word": "window seat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2luZG93IHNlYXQ&hash=54a401c08fc8fd3d421c96953be6e3438a6d2af4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɪn.doʊ si:t",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luZG93IHNlYXQ&hash=54a401c08fc8fd3d421c96953be6e3438a6d2af4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vin.dooo sit",
       "img": "https://cdn.langeek.co/photo/18605/original/window-seat?type=jpeg",
-      "pronunciation": "wˈɪndoʊ sˈiːt",
+      "pronunciation": "ˈwɪndoʊ ˌsit",
       "senses": [
         {
           "definition": "a seat on a train, plane, bus, etc. that is placed next to a window",
@@ -888,14 +899,15 @@
       ]
     },
     {
-      "word": "commute",
+      "id": "9cbc0b85-e1ee-4f21-89ad-9fa732b3aa36",
+      "word": "to commute",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29tbXV0ZQ&hash=40f27d5368239c273302d7a6f43e76df1ebcfdff&lang=en&cache-only=0",
-      "phonetic_text": "kəmju:t",
+      "phonetic_text": "kə.mjut",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29tbXV0ZQ&hash=40f27d5368239c273302d7a6f43e76df1ebcfdff&lang=en&cache-only=0",
-      "phonetic_am_text": "kēmyoot",
+      "phonetic_am_text": "kē.myoot",
       "img": "https://cdn.langeek.co/photo/20471/original/commute?type=jpeg",
-      "pronunciation": "kəmˈjut",
+      "pronunciation": "kəˈmjut",
       "senses": [
         {
           "definition": "to regularly travel to one's place of work and home by different means",
@@ -925,12 +937,13 @@
       ]
     },
     {
+      "id": "a82a6395-660a-4af3-9576-87d1a20f7ca1",
       "word": "nonstop",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bm9uc3RvcA&hash=fb137e3b0d6e004f1c5fb77d127cd4c7a5b32bd4&lang=en&cache-only=0",
-      "phonetic_text": "nɑnstɑ:p",
+      "phonetic_text": "nɑns.tɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=bm9uc3RvcA&hash=fb137e3b0d6e004f1c5fb77d127cd4c7a5b32bd4&lang=en&cache-only=0",
-      "phonetic_am_text": "nɑnstaap",
+      "phonetic_am_text": "naans.taap",
       "img": "https://cdn.langeek.co/photo/31466/original/?type=jpeg",
       "pronunciation": "ˌnɑnˈstɑp",
       "senses": [
@@ -950,14 +963,15 @@
       ]
     },
     {
-      "word": "transport",
+      "id": "e4a25ae6-a576-47d3-ad0c-ccb999cf0036",
+      "word": "to transport",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHJhbnNwb3J0&hash=464b8d2ea8e80dd2fe1919b43587e392e553dead&lang=en&cache-only=0",
-      "phonetic_text": "trænspɔ:rt",
+      "phonetic_text": "træns.pɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHJhbnNwb3J0&hash=464b8d2ea8e80dd2fe1919b43587e392e553dead&lang=en&cache-only=0",
-      "phonetic_am_text": "trānspaawrt",
+      "phonetic_am_text": "trāns.pawrt",
       "img": "https://cdn.langeek.co/photo/18599/original/transport?type=jpeg",
-      "pronunciation": "ˈtɹænspɔɹt/, /tɹænˈspɔɹt",
+      "pronunciation": "trænˈspɔrt",
       "senses": [
         {
           "definition": "to take people, goods, etc. from one place to another using a vehicle, ship, or aircraft",
@@ -987,6 +1001,7 @@
       ]
     },
     {
+      "id": "eec28ed6-f204-4470-b85e-69260f51f3be",
       "word": "turn",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHVybg&hash=2da06d1927fb62690c21a37d2c6c3763ed514212&lang=en&cache-only=0",
@@ -994,7 +1009,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=dHVybg&hash=2da06d1927fb62690c21a37d2c6c3763ed514212&lang=en&cache-only=0",
       "phonetic_am_text": "tērn",
       "img": "https://cdn.langeek.co/photo/21426/original/?type=jpeg",
-      "pronunciation": "tɝːn",
+      "pronunciation": "tɝn",
       "senses": [
         {
           "definition": "a place in a road, river, etc. where it bends",
@@ -1024,14 +1039,15 @@
       ]
     },
     {
-      "word": "bike",
+      "id": "ae6360e8-5187-437f-8b4b-97148fcc293b",
+      "word": "to bike",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmlrZQ&hash=468083b4cee429f886bcf78dbd9948e78cfccdf5&lang=en&cache-only=0",
       "phonetic_text": "baɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmlrZQ&hash=468083b4cee429f886bcf78dbd9948e78cfccdf5&lang=en&cache-only=0",
       "phonetic_am_text": "baik",
       "img": "https://cdn.langeek.co/photo/51065/original/cycling?type=jpeg",
-      "pronunciation": "ˈbaɪk",
+      "pronunciation": "baɪk",
       "senses": [
         {
           "definition": "to use a bicycle to reach one's destination",

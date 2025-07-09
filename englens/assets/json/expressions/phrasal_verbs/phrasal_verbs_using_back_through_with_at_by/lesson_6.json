@@ -1,15 +1,17 @@
 {
+  "id": "6bb60205-7c2b-45e4-94fc-9098d721ece9",
   "topic": "phrasal_verbs_using_back_through_with_at_by",
   "title": "Others (Through)",
   "lesson": "lesson_6",
   "word_list": [
     {
-      "word": "come through with",
+      "id": "d867cf68-7ff4-41ba-904e-7ce9e5118674",
+      "word": "to come through with",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29tZSB0aHJvdWdoIHdpdGg&hash=49140e33202dd574fd569707d455637afa78c527&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kʌm θru: wɪð",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29tZSB0aHJvdWdoIHdpdGg&hash=49140e33202dd574fd569707d455637afa78c527&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kam throo vidh",
       "img": "https://cdn.langeek.co/photo/40685/original/?type=jpeg",
       "pronunciation": "kˈʌm θɹˈuː wɪð",
       "senses": [
@@ -20,60 +22,111 @@
       ]
     },
     {
-      "word": "pass through",
+      "id": "fc946a60-e4c0-4ed4-9390-05ea5492d985",
+      "word": "to pass through",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGFzcyB0aHJvdWdo&hash=164e017396897ca54b46d95d571941a0741542a0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pæs θru:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGFzcyB0aHJvdWdo&hash=164e017396897ca54b46d95d571941a0741542a0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pās throo",
       "img": "https://cdn.langeek.co/photo/53248/original/?type=jpeg",
       "pronunciation": "pˈæs θɹˈuː",
       "senses": [
         {
           "definition": "to go or move from one place to another, often without stopping or staying for long",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "On our road trip, we passed through several small towns."
+            },
+            {
+              "cf": "",
+              "x": "The river passes through the heart of the city."
+            },
+            {
+              "cf": "",
+              "x": "We passed through a tunnel on our way to the coast."
+            },
+            {
+              "cf": "",
+              "x": "Migratory birds pass through this region every spring."
+            },
+            {
+              "cf": "",
+              "x": "The parade will pass through the main street at noon."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "push through",
+      "id": "56786209-6e54-49e5-b753-b6df67ed071a",
+      "word": "to push through",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHVzaCB0aHJvdWdo&hash=c547128ce799f2285cffbc047b30fa1c84ab5d69&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pʊʃ θru:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHVzaCB0aHJvdWdo&hash=c547128ce799f2285cffbc047b30fa1c84ab5d69&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "poosh throo",
       "img": "https://cdn.langeek.co/photo/53250/original/?type=jpeg",
       "pronunciation": "pˈʊʃ θɹˈuː",
       "senses": [
         {
           "definition": "to forcefully make one's way out or through a physical barrier or a crowd",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The crowd was so dense that it took her a while to push through."
+            },
+            {
+              "cf": "",
+              "x": "The plant managed to push through the cracks in the pavement."
+            },
+            {
+              "cf": "",
+              "x": "She pushed through the throng of fans to reach the stage."
+            },
+            {
+              "cf": "",
+              "x": "He had to push through the heavy snowdrifts to get back to the main road."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "put through",
+      "id": "039d5bca-985f-4a68-a86c-82b3d51ca24b",
+      "word": "to put through",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IHRocm91Z2g&hash=ba661c0cb38e0a666ebf89d0da7166039ad84619&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pʊt θru:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IHRocm91Z2g&hash=ba661c0cb38e0a666ebf89d0da7166039ad84619&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "poot throo",
       "img": "https://cdn.langeek.co/photo/44506/original/?type=jpeg",
       "pronunciation": "pˌʊt θɹˈuː",
       "senses": [
         {
           "definition": "to cause someone to endure or undergo a challenging situation or experience",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She was put through a lot during the recovery process."
+            },
+            {
+              "cf": "",
+              "x": "After the accident, his family was put through immense emotional strain."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "see through",
+      "id": "98187bc7-6013-4953-8d1c-610a34a4e64f",
+      "word": "to see through",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2VlIHRocm91Z2g&hash=59e4126bfa0c97db2e6a877aaae7bfa5ee01a140&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "si: θru:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2VlIHRocm91Z2g&hash=59e4126bfa0c97db2e6a877aaae7bfa5ee01a140&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "si throo",
       "img": "https://cdn.langeek.co/photo/42958/original/?type=jpeg",
       "pronunciation": "sˈiː θɹˈuː",
       "senses": [
@@ -109,12 +162,13 @@
       ]
     },
     {
-      "word": "shine through",
+      "id": "8f306e87-c50b-4854-a94a-fad4d822e75b",
+      "word": "to shine through",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2hpbmUgdGhyb3VnaA&hash=d32728596fdae25242e16693bdbe194fb08ca04e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʃaɪn θru:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2hpbmUgdGhyb3VnaA&hash=d32728596fdae25242e16693bdbe194fb08ca04e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "shain throo",
       "img": "https://cdn.langeek.co/photo/45910/original/?type=jpeg",
       "pronunciation": "ʃˈaɪn θɹˈuː",
       "senses": [
@@ -138,12 +192,13 @@
       ]
     },
     {
-      "word": "shoot through",
+      "id": "68ecaa66-c61b-4c8d-8029-b316f1aee7e7",
+      "word": "to shoot through",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2hvb3QgdGhyb3VnaA&hash=84fa03b5179720e0ef3574b97f78b3e3dd7791f4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʃu:t θru:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2hvb3QgdGhyb3VnaA&hash=84fa03b5179720e0ef3574b97f78b3e3dd7791f4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "shoot throo",
       "img": "https://cdn.langeek.co/photo/44190/original/?type=jpeg",
       "pronunciation": "ʃˈuːt θɹˈuː",
       "senses": [
@@ -179,12 +234,13 @@
       ]
     },
     {
-      "word": "sleep through",
+      "id": "6f91a6f5-4417-4e6e-b756-a7c3fd8a8abb",
+      "word": "to sleep through",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2xlZXAgdGhyb3VnaA&hash=7a0e874a61dd386d0728b1a5b518266d93ce0baa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sli:p θru:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2xlZXAgdGhyb3VnaA&hash=7a0e874a61dd386d0728b1a5b518266d93ce0baa&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "slip throo",
       "img": "https://cdn.langeek.co/photo/35665/original/?type=jpeg",
       "pronunciation": "slˈiːp θɹˈuː",
       "senses": [
@@ -216,12 +272,13 @@
       ]
     },
     {
-      "word": "take through",
+      "id": "43b520bb-0a2e-4ce7-9e24-a1d49bf226bc",
+      "word": "to take through",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSB0aHJvdWdo&hash=aad7af83384ea9ce163a132206985b474b258fc2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "teɪk θru:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSB0aHJvdWdo&hash=aad7af83384ea9ce163a132206985b474b258fc2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "teik throo",
       "img": "https://cdn.langeek.co/photo/44876/original/?type=jpeg",
       "pronunciation": "tˈeɪk θɹˈuː",
       "senses": [
@@ -232,13 +289,14 @@
       ]
     },
     {
-      "word": "talk through",
+      "id": "1d43922b-02f0-43b5-8b59-0fac2ed9d149",
+      "word": "to talk through",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFsayB0aHJvdWdo&hash=0c5bda6b4a262feff3d5ef53c3b86c7cb644c029&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɑ:k θru:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFsayB0aHJvdWdo&hash=0c5bda6b4a262feff3d5ef53c3b86c7cb644c029&lang=en&cache-only=0",
-      "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/21206/original/?type=jpeg",
+      "phonetic_am_text": "taak throo",
+      "img": "https://cdn.langeek.co/photo/60752/original/?type=jpeg",
       "pronunciation": "tˈɔːk θɹˈuː",
       "senses": [
         {
@@ -265,12 +323,13 @@
       ]
     },
     {
-      "word": "warm through",
+      "id": "4bb3d7ec-4c22-4f5b-9b7b-fbd9a89117da",
+      "word": "to warm through",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2FybSB0aHJvdWdo&hash=b2891ab81d4bfe62992aabd4b42e11cd547e9a1b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɔrm θru:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2FybSB0aHJvdWdo&hash=b2891ab81d4bfe62992aabd4b42e11cd547e9a1b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vawrm throo",
       "img": "https://cdn.langeek.co/photo/20964/original/?type=jpeg",
       "pronunciation": "wɔːɹm θɹuː",
       "senses": [

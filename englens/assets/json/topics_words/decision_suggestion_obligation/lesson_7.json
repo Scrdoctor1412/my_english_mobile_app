@@ -1,15 +1,17 @@
 {
+  "id": "fca5bb8f-50d9-4764-ba87-5bc34bec59fe",
   "topic": "decision_suggestion_obligation",
   "title": "Offering Suggestions",
   "lesson": "lesson_7",
   "word_list": [
     {
-      "word": "advance",
+      "id": "74e9ddc6-7624-47ec-892e-e5d292a0dd1f",
+      "word": "to advance",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWR2YW5jZQ&hash=acf2ae31d5a8c7869813b2b1b3cf2d5011c22c3c&lang=en&cache-only=0",
-      "phonetic_text": "ədvæns",
+      "phonetic_text": "əd.væns",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWR2YW5jZQ&hash=acf2ae31d5a8c7869813b2b1b3cf2d5011c22c3c&lang=en&cache-only=0",
-      "phonetic_am_text": "ēdvāns",
+      "phonetic_am_text": "ēd.vāns",
       "img": "https://cdn.langeek.co/photo/55070/original/?type=jpeg",
       "pronunciation": "ədˈvæns",
       "senses": [
@@ -41,12 +43,13 @@
       ]
     },
     {
+      "id": "c8decbde-bc00-4fc2-a17d-eeb565226d02",
       "word": "alternatively",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YWx0ZXJuYXRpdmVseQ&hash=d809bf232ec3886fcc76194a31d50df43cf2b29b&lang=en&cache-only=0",
-      "phonetic_text": "ɔltɜrnətɪvli",
+      "phonetic_text": "ɔl.tɜr.nə.tɪv.li",
       "phonetic_am": "https://tts.langeek.co/read?text=YWx0ZXJuYXRpdmVseQ&hash=d809bf232ec3886fcc76194a31d50df43cf2b29b&lang=en&cache-only=0",
-      "phonetic_am_text": "awltērnētivli",
+      "phonetic_am_text": "awl.tēr.nē.tiv.li",
       "img": "",
       "pronunciation": "ɔɫˈtɝnətɪvɫi",
       "senses": [
@@ -78,12 +81,13 @@
       ]
     },
     {
+      "id": "8b4f0d86-777d-446d-8e83-366a78b61731",
       "word": "always",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YWx3YXlz&hash=e668e959332e6543339b59b4bed7d8b2fac04198&lang=en&cache-only=0",
-      "phonetic_text": "ɔ:lweɪz",
+      "phonetic_text": "ɔ:l.weɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=YWx3YXlz&hash=e668e959332e6543339b59b4bed7d8b2fac04198&lang=en&cache-only=0",
-      "phonetic_am_text": "aawlweiz",
+      "phonetic_am_text": "awl.veiz",
       "img": "",
       "pronunciation": "ˈɔːlweɪz/ , /ˈɑːlweɪz",
       "senses": [
@@ -111,14 +115,15 @@
       ]
     },
     {
+      "id": "b8369d77-3359-4d42-9b1b-c1c5984f88e0",
       "word": "(at|on) {one's} suggestion",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXQgb25lJ3Mgc3VnZ2VzdGlvbg&hash=786c02666244143341230c578c92df35727455de&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXQgb25lJ3Mgc3VnZ2VzdGlvbg&hash=786c02666244143341230c578c92df35727455de&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
-      "pronunciation": "æt sˈʌmwʌnz sədʒˈɛstʃən",
+      "pronunciation": "æt wʌnz səˈʤɛstʃən",
       "senses": [
         {
           "definition": "according to someone else's suggestion",
@@ -148,12 +153,13 @@
       ]
     },
     {
-      "word": "bespeak",
+      "id": "3df9f117-a013-4316-8fb7-04caa51f24d3",
+      "word": "to bespeak",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmVzcGVhaw&hash=5f82797a6cccc72911cc9619982d83ffc705abe6&lang=en&cache-only=0",
-      "phonetic_text": "bɪspi:k",
+      "phonetic_text": "bɪs.pik",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmVzcGVhaw&hash=5f82797a6cccc72911cc9619982d83ffc705abe6&lang=en&cache-only=0",
-      "phonetic_am_text": "bispeek",
+      "phonetic_am_text": "bis.pik",
       "img": "",
       "pronunciation": "bɪˈspik",
       "senses": [
@@ -164,49 +170,47 @@
       ]
     },
     {
+      "id": "64c8c6ab-951d-44fe-9150-4db02b66ffaa",
       "word": "better",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YmV0dGVy&hash=678d0fce7452d4e29a00735c403367c677debd7f&lang=en&cache-only=0",
-      "phonetic_text": "bɛtər",
+      "phonetic_text": "bɛ.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YmV0dGVy&hash=678d0fce7452d4e29a00735c403367c677debd7f&lang=en&cache-only=0",
-      "phonetic_am_text": "betēr",
+      "phonetic_am_text": "be.tēr",
       "img": "https://cdn.langeek.co/photo/48507/original/?type=jpeg",
-      "pronunciation": "ˈbɛtɝ",
+      "pronunciation": "ˈbɛtɚ",
       "senses": [
         {
           "definition": "more suitable or effective compared to other available options",
           "examples": [
             {
               "cf": "",
-              "x": "This software is better for managing large projects due to its advanced features."
+              "x": "It's better to get enough rest before the exam."
             },
             {
               "cf": "",
-              "x": "She found a better route to work that saves her 15 minutes each day."
+              "x": "It might be better to wait until the weather clears."
             },
             {
               "cf": "",
-              "x": "The new policy is better for the environment and will reduce waste significantly."
+              "x": "It's better not to argue when emotions are high."
             },
             {
               "cf": "",
-              "x": "He believes that a balanced diet is better than taking supplements for overall health."
-            },
-            {
-              "cf": "",
-              "x": "The upgraded model offers better performance and longer battery life."
+              "x": "He thought it was better to apologize than let the issue grow."
             }
           ]
         }
       ]
     },
     {
-      "word": "bring forward",
+      "id": "e9686969-6897-45e8-83bb-2b7f5117a775",
+      "word": "to bring forward",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJpbmcgZm9yd2FyZA&hash=17e45bf5f96770104d385a4827c7f0271aea33cc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "brɪng fɔr.wərd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJpbmcgZm9yd2FyZA&hash=17e45bf5f96770104d385a4827c7f0271aea33cc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bring fawr.vērd",
       "img": "https://cdn.langeek.co/photo/41468/original/?type=jpeg",
       "pronunciation": "bɹˈɪŋ fˈoːɹwɚd",
       "senses": [
@@ -230,6 +234,7 @@
       ]
     },
     {
+      "id": "7f4ea29d-cf5b-430e-8ee5-94b46d49172d",
       "word": "can",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=Y2Fu&hash=3cd76005b05f73b0b6f64626d6b97e602fa24b11&lang=en&cache-only=0",
@@ -237,7 +242,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Y2Fu&hash=3cd76005b05f73b0b6f64626d6b97e602fa24b11&lang=en&cache-only=0",
       "phonetic_am_text": "kān",
       "img": "",
-      "pronunciation": "ˈkæn/, /kən",
+      "pronunciation": "kæn",
       "senses": [
         {
           "definition": "used to present an offer or suggestion",
@@ -246,12 +251,13 @@
       ]
     },
     {
+      "id": "0b795615-deef-4efd-a1b6-bf1be4aa1dd6",
       "word": "challenge",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hhbGxlbmdl&hash=4595fb0cd6eaa4d46475c914390b30544ed5c68a&lang=en&cache-only=0",
-      "phonetic_text": "ʧælənʤ",
+      "phonetic_text": "ʧæ.lənʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hhbGxlbmdl&hash=4595fb0cd6eaa4d46475c914390b30544ed5c68a&lang=en&cache-only=0",
-      "phonetic_am_text": "chālēnj",
+      "phonetic_am_text": "chā.lēnj",
       "img": "",
       "pronunciation": "ˈtʃæɫəndʒ",
       "senses": [
@@ -262,12 +268,13 @@
       ]
     },
     {
-      "word": "challenge",
+      "id": "b8402e99-7349-4f06-9ee1-032b992f0ff0",
+      "word": "to challenge",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hhbGxlbmdl&hash=4df86b57d628f18a3e42324d706c25e26822d0e1&lang=en&cache-only=0",
-      "phonetic_text": "ʧælənʤ",
+      "phonetic_text": "ʧæ.lənʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2hhbGxlbmdl&hash=4df86b57d628f18a3e42324d706c25e26822d0e1&lang=en&cache-only=0",
-      "phonetic_am_text": "chālēnj",
+      "phonetic_am_text": "chā.lēnj",
       "img": "https://cdn.langeek.co/photo/59684/original/?type=jpeg",
       "pronunciation": "ˈtʃæɫəndʒ",
       "senses": [
@@ -299,12 +306,13 @@
       ]
     },
     {
+      "id": "c45e9427-a1d6-44c2-aaee-3e329d7da3fe",
       "word": "connotation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29ubm90YXRpb24&hash=aa5965e7cf911e13b45a4c19c09388b0594fab1d&lang=en&cache-only=0",
-      "phonetic_text": "kɑnəteɪʃən",
+      "phonetic_text": "kɑ.nə.teɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29ubm90YXRpb24&hash=aa5965e7cf911e13b45a4c19c09388b0594fab1d&lang=en&cache-only=0",
-      "phonetic_am_text": "kɑnēteishēn",
+      "phonetic_am_text": "kaa.nē.tei.shēn",
       "img": "",
       "pronunciation": "ˌkɑnəˈteɪʃən",
       "senses": [
@@ -336,12 +344,13 @@
       ]
     },
     {
-      "word": "connote",
+      "id": "5e5bc5d9-89e3-47b9-b539-f5dc94178735",
+      "word": "to connote",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29ubm90ZQ&hash=797a48990ba343e7659f9dc824e19569181b0b48&lang=en&cache-only=0",
-      "phonetic_text": "kənoʊt",
+      "phonetic_text": "kə.noʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29ubm90ZQ&hash=797a48990ba343e7659f9dc824e19569181b0b48&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnowt",
+      "phonetic_am_text": "kē.nooot",
       "img": "https://cdn.langeek.co/photo/58091/original/?type=jpeg",
       "pronunciation": "kəˈnoʊt",
       "senses": [
@@ -369,14 +378,15 @@
       ]
     },
     {
+      "id": "cdda8989-f762-412b-920b-34d6801f4241",
       "word": "could",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=Y291bGQ&hash=bd716ccbecc695b1cde56f86d30a5af0be8822fa&lang=en&cache-only=0",
       "phonetic_text": "kʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291bGQ&hash=bd716ccbecc695b1cde56f86d30a5af0be8822fa&lang=en&cache-only=0",
-      "phonetic_am_text": "kud",
+      "phonetic_am_text": "kood",
       "img": "",
-      "pronunciation": "ˈkʊd",
+      "pronunciation": "kʊd",
       "senses": [
         {
           "definition": "used to present an offer or recommendation",
@@ -385,12 +395,13 @@
       ]
     },
     {
+      "id": "8096654d-4dba-4596-931c-5dc22a06c0f9",
       "word": "failing",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=ZmFpbGluZw&hash=ff3cc5b76a504a6f613c35ab15332c5f18296af1&lang=en&cache-only=0",
-      "phonetic_text": "feɪlɪng",
+      "phonetic_text": "feɪ.lɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFpbGluZw&hash=ff3cc5b76a504a6f613c35ab15332c5f18296af1&lang=en&cache-only=0",
-      "phonetic_am_text": "feiling",
+      "phonetic_am_text": "fei.ling",
       "img": "",
       "pronunciation": "ˈfeɪɫɪŋ",
       "senses": [
@@ -414,12 +425,13 @@
       ]
     },
     {
-      "word": "float",
+      "id": "decca691-ee67-43b0-8043-ebb4302ffe9f",
+      "word": "to float",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmxvYXQ&hash=edd57982b109213ef3c682ebb679e040260d07ca&lang=en&cache-only=0",
       "phonetic_text": "floʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmxvYXQ&hash=edd57982b109213ef3c682ebb679e040260d07ca&lang=en&cache-only=0",
-      "phonetic_am_text": "flowt",
+      "phonetic_am_text": "flooot",
       "img": "",
       "pronunciation": "ˈfɫoʊt",
       "senses": [
@@ -451,10 +463,11 @@
       ]
     },
     {
+      "id": "ad048627-ca24-4fb9-8220-8866bf1e3c6e",
       "word": "for what it is worth",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Zm9yIHdoYXQgaXQgaXMgd29ydGg&hash=6f56f633a0ff719748ecc6d054a9f5eb6c11f077&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9yIHdoYXQgaXQgaXMgd29ydGg&hash=6f56f633a0ff719748ecc6d054a9f5eb6c11f077&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -488,12 +501,13 @@
       ]
     },
     {
-      "word": "hazard",
+      "id": "fa8d4a05-78d5-4258-9329-dbe2cb847667",
+      "word": "to hazard",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGF6YXJk&hash=016aa47095f72ea6952440205a99033cccc0031d&lang=en&cache-only=0",
-      "phonetic_text": "hæzərd",
+      "phonetic_text": "hæ.zɜrd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGF6YXJk&hash=016aa47095f72ea6952440205a99033cccc0031d&lang=en&cache-only=0",
-      "phonetic_am_text": "hāzērd",
+      "phonetic_am_text": "hā.zērd",
       "img": "",
       "pronunciation": "ˈhæzɝd",
       "senses": [
@@ -521,7 +535,8 @@
       ]
     },
     {
-      "word": "hint",
+      "id": "c1e08ad4-307a-4dcf-82a5-e2d79c520b44",
+      "word": "to hint",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGludA&hash=075b5ef84adad96e92ae5337d7e2f9387f402dec&lang=en&cache-only=0",
       "phonetic_text": "hɪnt",
@@ -550,6 +565,7 @@
       ]
     },
     {
+      "id": "def9d725-ce05-467f-88b7-425ee821cda7",
       "word": "hint",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGludA&hash=0b16ce93773c4c79f443ad3c7f957f25bd0ece65&lang=en&cache-only=0",
@@ -587,12 +603,13 @@
       ]
     },
     {
+      "id": "8ec15629-8e49-4a95-b468-86cdcaef5388",
       "word": "how about",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aG93IGFib3V0&hash=b00fc65338ec59f7bd3a91c23d7060712d5263a9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "haʊ ə.baʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=aG93IGFib3V0&hash=b00fc65338ec59f7bd3a91c23d7060712d5263a9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "haoo ē.baoot",
       "img": "",
       "pronunciation": "hˌaʊ ɐbˈaʊt",
       "senses": [
@@ -624,12 +641,13 @@
       ]
     },
     {
-      "word": "hypothesize",
+      "id": "c5430f9c-3bb4-4f01-8831-754d14d207cb",
+      "word": "to hypothesize",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaHlwb3RoZXNpemU&hash=8fa44a5996f87a66d29766dad558cb45034fcb97&lang=en&cache-only=0",
-      "phonetic_text": "haɪpɑ:θəsaɪz",
+      "phonetic_text": "haɪ.pɑ.θə.saɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaHlwb3RoZXNpemU&hash=8fa44a5996f87a66d29766dad558cb45034fcb97&lang=en&cache-only=0",
-      "phonetic_am_text": "haipaathēsaiz",
+      "phonetic_am_text": "hai.paa.thē.saiz",
       "img": "https://cdn.langeek.co/photo/59496/original/?type=jpeg",
       "pronunciation": "haɪˈpɑθəˌsaɪz",
       "senses": [
@@ -661,14 +679,15 @@
       ]
     },
     {
+      "id": "8fabcc23-6f2a-44a3-aa7e-c1cb771cfe70",
       "word": "idea",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aWRlYQ&hash=6e878579205a904374d07e871af8f006a102f6af&lang=en&cache-only=0",
-      "phonetic_text": "aɪdi:ə",
+      "phonetic_text": "aɪ.di:ə",
       "phonetic_am": "https://tts.langeek.co/read?text=aWRlYQ&hash=6e878579205a904374d07e871af8f006a102f6af&lang=en&cache-only=0",
-      "phonetic_am_text": "aideeē",
-      "img": "",
-      "pronunciation": "aɪˈdiə",
+      "phonetic_am_text": "ai.diē",
+      "img": "https://cdn.langeek.co/photo/61388/original/?type=jpeg",
+      "pronunciation": "aɪˈdiːə",
       "senses": [
         {
           "definition": "a suggestion or thought about something that we could do",
@@ -698,14 +717,15 @@
       ]
     },
     {
+      "id": "9c350289-2dd9-4e1a-be84-03696351dc17",
       "word": "implicit",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aW1wbGljaXQ&hash=62f611fa25a1f56a0b5edbd058007e6381e5608b&lang=en&cache-only=0",
-      "phonetic_text": "ɪmplɪsət",
+      "phonetic_text": "ɪmp.lɪ.sət",
       "phonetic_am": "https://tts.langeek.co/read?text=aW1wbGljaXQ&hash=62f611fa25a1f56a0b5edbd058007e6381e5608b&lang=en&cache-only=0",
-      "phonetic_am_text": "implisēt",
+      "phonetic_am_text": "imp.li.sēt",
       "img": "",
-      "pronunciation": "ˌɪmˈpɫɪsət",
+      "pronunciation": "ɪmˈplɪsɪt",
       "senses": [
         {
           "definition": "suggesting something without directly stating it",
@@ -735,12 +755,13 @@
       ]
     },
     {
+      "id": "7cc2f836-6a4e-483e-accb-063911cdc121",
       "word": "implicitly",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=aW1wbGljaXRseQ&hash=596a37baf246441be64bfd7714b8e544b77d6b2c&lang=en&cache-only=0",
-      "phonetic_text": "ɪmplɪsətli",
+      "phonetic_text": "ɪmp.lɪ.sət.li",
       "phonetic_am": "https://tts.langeek.co/read?text=aW1wbGljaXRseQ&hash=596a37baf246441be64bfd7714b8e544b77d6b2c&lang=en&cache-only=0",
-      "phonetic_am_text": "implisētli",
+      "phonetic_am_text": "imp.li.sēt.li",
       "img": "",
       "pronunciation": "ˌɪmˈpɫɪsətɫi",
       "senses": [

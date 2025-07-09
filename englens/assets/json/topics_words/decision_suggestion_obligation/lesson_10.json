@@ -1,17 +1,19 @@
 {
+  "id": "93352bb5-4b61-456d-8257-add0ac470cde",
   "topic": "decision_suggestion_obligation",
   "title": "Giving Advice",
   "lesson": "lesson_10",
   "word_list": [
     {
-      "word": "act on",
+      "id": "13f3d8c3-6289-42a6-9778-a0832f6402cf",
+      "word": "to act on",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWN0IG9u&hash=86d1bc3f1ccc0d9741d408b22be7203881ce8502&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ækt ɑ:n",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWN0IG9u&hash=86d1bc3f1ccc0d9741d408b22be7203881ce8502&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ākt aan",
       "img": "",
-      "pronunciation": "ˈækt ˈɑːn",
+      "pronunciation": "ækt ɑn",
       "senses": [
         {
           "definition": "to adjust one's actions or behavior based on specific information, ideas, or advice",
@@ -41,12 +43,13 @@
       ]
     },
     {
-      "word": "admonish",
+      "id": "e21ab700-ac31-47d6-98b4-802a4612b3f3",
+      "word": "to admonish",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWRtb25pc2g&hash=01cba7544e926a7102849f0342824ee2b5f1c9c1&lang=en&cache-only=0",
-      "phonetic_text": "ædmɑ:nɪʃ",
+      "phonetic_text": "æd.mɑ.nɪʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWRtb25pc2g&hash=01cba7544e926a7102849f0342824ee2b5f1c9c1&lang=en&cache-only=0",
-      "phonetic_am_text": "ādmaanish",
+      "phonetic_am_text": "ād.maa.nish",
       "img": "https://cdn.langeek.co/photo/53451/original/?type=jpeg",
       "pronunciation": "ædˈmɑnɪʃ",
       "senses": [
@@ -70,12 +73,13 @@
       ]
     },
     {
+      "id": "360bc934-1d93-4d77-928f-d2619aa04ba4",
       "word": "advice",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWR2aWNl&hash=49a1f0aa9630838079c7f5eedab0ee32114d91c3&lang=en&cache-only=0",
-      "phonetic_text": "ædvaɪs",
+      "phonetic_text": "æd.vaɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=YWR2aWNl&hash=49a1f0aa9630838079c7f5eedab0ee32114d91c3&lang=en&cache-only=0",
-      "phonetic_am_text": "ādvais",
+      "phonetic_am_text": "ād.vais",
       "img": "https://cdn.langeek.co/photo/27696/original/?type=jpeg",
       "pronunciation": "ædˈvaɪs/, /ədˈvaɪs",
       "senses": [
@@ -107,14 +111,15 @@
       ]
     },
     {
+      "id": "c57ab0b6-2295-414e-8fc0-e5341aa1d147",
       "word": "advice column",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWR2aWNlIGNvbHVtbg&hash=d2dec254df4330a7ecba58444fa668376c6c7927&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æd.vaɪs kɑ.ləm",
       "phonetic_am": "https://tts.langeek.co/read?text=YWR2aWNlIGNvbHVtbg&hash=d2dec254df4330a7ecba58444fa668376c6c7927&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ād.vais kaa.lēm",
       "img": "",
-      "pronunciation": "ɐdvˈaɪs kˈɑːlʌm",
+      "pronunciation": "ədˈvaɪs ˈkɑːləm",
       "senses": [
         {
           "definition": "a section or part in a newspaper in which people are given advice regarding their personal problems",
@@ -144,12 +149,13 @@
       ]
     },
     {
+      "id": "c912d2f2-4df2-4125-8aa8-779f5492c963",
       "word": "advice columnist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWR2aWNlIGNvbHVtbmlzdA&hash=07cd30f855af5c31d9934d9daa5edab1e942fd0b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æd.vaɪs kɑ.ləm.nəst",
       "phonetic_am": "https://tts.langeek.co/read?text=YWR2aWNlIGNvbHVtbmlzdA&hash=07cd30f855af5c31d9934d9daa5edab1e942fd0b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ād.vais kaa.lēm.nēst",
       "img": "",
       "pronunciation": "ɐdvˈaɪs kˈɑːləmnˌɪst",
       "senses": [
@@ -181,14 +187,15 @@
       ]
     },
     {
-      "word": "advise",
+      "id": "921363dc-5c64-4506-a387-7200d0fe942b",
+      "word": "to advise",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWR2aXNl&hash=4f6297fbd209f68f37e5ab8d1b1f3b3cd6f127b1&lang=en&cache-only=0",
-      "phonetic_text": "ædvaɪz",
+      "phonetic_text": "æd.vaɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWR2aXNl&hash=4f6297fbd209f68f37e5ab8d1b1f3b3cd6f127b1&lang=en&cache-only=0",
-      "phonetic_am_text": "ādvaiz",
+      "phonetic_am_text": "ād.vaiz",
       "img": "https://cdn.langeek.co/photo/51430/original/adviser?type=jpeg",
-      "pronunciation": "ædˈvaɪz/, /ədˈvaɪz",
+      "pronunciation": "ædˈvaɪz",
       "senses": [
         {
           "definition": "to provide someone with suggestion or guidance regarding a specific situation",
@@ -218,12 +225,13 @@
       ]
     },
     {
+      "id": "80e6f2cf-2909-4d1d-9524-ed38904687bc",
       "word": "advisement",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWR2aXNlbWVudA&hash=8f91fd4e2d891ed51859007fe2733b9b8a9de20c&lang=en&cache-only=0",
-      "phonetic_text": "ədvaɪzmənt",
+      "phonetic_text": "əd.vaɪz.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=YWR2aXNlbWVudA&hash=8f91fd4e2d891ed51859007fe2733b9b8a9de20c&lang=en&cache-only=0",
-      "phonetic_am_text": "ēdvaizmēnt",
+      "phonetic_am_text": "ēd.vaiz.mēnt",
       "img": "",
       "pronunciation": "ədˈvaɪzmənt",
       "senses": [
@@ -234,14 +242,15 @@
       ]
     },
     {
+      "id": "3dc349b5-fb02-4ef8-886c-44ef4f8b6981",
       "word": "adviser",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWR2aXNlcg&hash=8238cf55915c758a53a0f4159f4748d36cb04509&lang=en&cache-only=0",
-      "phonetic_text": "ædvaɪzər",
+      "phonetic_text": "əd.vaɪ.zər",
       "phonetic_am": "https://tts.langeek.co/read?text=YWR2aXNlcg&hash=8238cf55915c758a53a0f4159f4748d36cb04509&lang=en&cache-only=0",
-      "phonetic_am_text": "ādvaizēr",
+      "phonetic_am_text": "ēd.vai.zēr",
       "img": "https://cdn.langeek.co/photo/51430/original/adviser?type=jpeg",
-      "pronunciation": "ædˈvaɪzɝ",
+      "pronunciation": "ədˈvaɪzɚ",
       "senses": [
         {
           "definition": "someone whose job is to give advice professionally on a particular subject",
@@ -271,14 +280,15 @@
       ]
     },
     {
+      "id": "d13fed76-b848-4875-aff7-41c1993af341",
       "word": "advisory",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YWR2aXNvcnk&hash=f4bb0c769ec1454a0091a15880b8678d648855e3&lang=en&cache-only=0",
-      "phonetic_text": "ædvaɪzəri",
+      "phonetic_text": "æd.vaɪ.zɜ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=YWR2aXNvcnk&hash=f4bb0c769ec1454a0091a15880b8678d648855e3&lang=en&cache-only=0",
-      "phonetic_am_text": "ādvaizēri",
+      "phonetic_am_text": "ād.vai.zē.ri",
       "img": "https://cdn.langeek.co/photo/51430/original/adviser?type=jpeg",
-      "pronunciation": "ædˈvaɪzɝi",
+      "pronunciation": "ədˈvaɪzəri",
       "senses": [
         {
           "definition": "aiming to provide advice and suggestions",
@@ -308,12 +318,13 @@
       ]
     },
     {
+      "id": "dca4af27-09d2-493f-8ba5-8d75067b94cc",
       "word": "aftercare",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWZ0ZXJjYXJl&hash=1ca31230d679d7deabc835c0cd0d5a7e84e5d3e5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æf.tər.kɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=YWZ0ZXJjYXJl&hash=1ca31230d679d7deabc835c0cd0d5a7e84e5d3e5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "āf.tēr.ker",
       "img": "",
       "pronunciation": "ˈæftɚkˌɛɹ",
       "senses": [
@@ -324,12 +335,13 @@
       ]
     },
     {
+      "id": "0bd74466-d8d2-4375-b206-2426753398b2",
       "word": "assessor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXNzZXNzb3I&hash=c185c763ad93ad63555052a1784910d93efea2de&lang=en&cache-only=0",
-      "phonetic_text": "əsɛsər",
+      "phonetic_text": "ə.sɛ.sɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YXNzZXNzb3I&hash=c185c763ad93ad63555052a1784910d93efea2de&lang=en&cache-only=0",
-      "phonetic_am_text": "ēsesēr",
+      "phonetic_am_text": "ē.se.sēr",
       "img": "",
       "pronunciation": "əˈsɛsɝ",
       "senses": [
@@ -340,12 +352,13 @@
       ]
     },
     {
+      "id": "8701e8af-aa40-4b6c-aa75-87f8a5247546",
       "word": "careline",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FyZWxpbmU&hash=e90f44000b90175cc0a37325244f908aa0ec0745&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɛr.laɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FyZWxpbmU&hash=e90f44000b90175cc0a37325244f908aa0ec0745&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ker.lain",
       "img": "",
       "pronunciation": "kˈɛɹlaɪn",
       "senses": [
@@ -377,14 +390,15 @@
       ]
     },
     {
+      "id": "222738d1-ae07-47fd-922f-995d6bfc2f24",
       "word": "caution",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2F1dGlvbg&hash=d341ab4a362cf3eb33b5d2f3d191e1bd77c887f1&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:ʃən",
+      "phonetic_text": "kɑ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2F1dGlvbg&hash=d341ab4a362cf3eb33b5d2f3d191e1bd77c887f1&lang=en&cache-only=0",
-      "phonetic_am_text": "kaashēn",
+      "phonetic_am_text": "kaa.shēn",
       "img": "",
-      "pronunciation": "ˈkɑʃən/, /ˈkɔʃən",
+      "pronunciation": "ˈkɑʃən",
       "senses": [
         {
           "definition": "a piece of advice or a warning",
@@ -414,12 +428,13 @@
       ]
     },
     {
+      "id": "17092c2e-f8f3-4d42-90a3-957d23bffbd3",
       "word": "cautionary",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y2F1dGlvbmFyeQ&hash=2f0496cfc16cff4dced61efe8f870593f47d8c49&lang=en&cache-only=0",
-      "phonetic_text": "kɔ:ʃənɛri",
+      "phonetic_text": "kɔ.ʃə.nɛ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2F1dGlvbmFyeQ&hash=2f0496cfc16cff4dced61efe8f870593f47d8c49&lang=en&cache-only=0",
-      "phonetic_am_text": "kaawshēneri",
+      "phonetic_am_text": "kaw.shē.ne.ri",
       "img": "",
       "pronunciation": "ˈkɔʃəˌnɛɹi",
       "senses": [
@@ -430,12 +445,13 @@
       ]
     },
     {
-      "word": "commend",
+      "id": "dffc0571-0166-4737-ae4c-ffc114c0dc55",
+      "word": "to commend",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29tbWVuZA&hash=5447e47156bd68d13f805867419bb674646387b6&lang=en&cache-only=0",
-      "phonetic_text": "kəmɛnd",
+      "phonetic_text": "kə.mɛnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29tbWVuZA&hash=5447e47156bd68d13f805867419bb674646387b6&lang=en&cache-only=0",
-      "phonetic_am_text": "kēmend",
+      "phonetic_am_text": "kē.mend",
       "img": "https://cdn.langeek.co/photo/19374/original/admire?type=jpeg",
       "pronunciation": "kəˈmɛnd",
       "senses": [
@@ -463,12 +479,13 @@
       ]
     },
     {
-      "word": "consult",
+      "id": "7cc7baf5-766d-46c5-9746-a86753bd6733",
+      "word": "to consult",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29uc3VsdA&hash=fecc3c444f2a1331641101013f0fc2fc9151719b&lang=en&cache-only=0",
-      "phonetic_text": "kənsʌlt",
+      "phonetic_text": "kən.səlt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29uc3VsdA&hash=fecc3c444f2a1331641101013f0fc2fc9151719b&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnsalt",
+      "phonetic_am_text": "kēn.sēlt",
       "img": "https://cdn.langeek.co/photo/51430/original/adviser?type=jpeg",
       "pronunciation": "kənˈsəɫt",
       "senses": [
@@ -500,12 +517,13 @@
       ]
     },
     {
+      "id": "09f66404-896f-4e0d-b0b4-e8315a7b2790",
       "word": "consultancy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29uc3VsdGFuY3k&hash=e84f2e48f4936b45a0ec418af3dcd0805b12f15e&lang=en&cache-only=0",
-      "phonetic_text": "kənsʌltənsi",
+      "phonetic_text": "kən.səl.tən.si",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uc3VsdGFuY3k&hash=e84f2e48f4936b45a0ec418af3dcd0805b12f15e&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnsaltēnsi",
+      "phonetic_am_text": "kēn.sēl.tēn.si",
       "img": "",
       "pronunciation": "kənˈsəɫtənsi",
       "senses": [
@@ -516,14 +534,15 @@
       ]
     },
     {
+      "id": "dba09718-dcd0-46d7-b655-cc668a210917",
       "word": "consultant",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29uc3VsdGFudA&hash=82ab363f57ebb7961e9f75ce9e5737613ec2b045&lang=en&cache-only=0",
-      "phonetic_text": "kənsʌltənt",
+      "phonetic_text": "kən.səl.tənt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uc3VsdGFudA&hash=82ab363f57ebb7961e9f75ce9e5737613ec2b045&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnsaltēnt",
+      "phonetic_am_text": "kēn.sēl.tēnt",
       "img": "https://cdn.langeek.co/photo/51430/original/adviser?type=jpeg",
-      "pronunciation": "kənˈsəɫtənt",
+      "pronunciation": "kənˈsʌltənt",
       "senses": [
         {
           "definition": "someone who gives professional advice on a given subject",
@@ -553,12 +572,13 @@
       ]
     },
     {
-      "word": "counsel",
+      "id": "b54aa64a-d1ed-4701-a58c-5fbb42e7e065",
+      "word": "to counsel",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY291bnNlbA&hash=0cce579b73c6ab88a45b3ce3a80a08c9cadf8a1d&lang=en&cache-only=0",
-      "phonetic_text": "kaʊnsəl",
+      "phonetic_text": "kaʊn.səl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY291bnNlbA&hash=0cce579b73c6ab88a45b3ce3a80a08c9cadf8a1d&lang=en&cache-only=0",
-      "phonetic_am_text": "kawnsēl",
+      "phonetic_am_text": "kaoon.sēl",
       "img": "https://cdn.langeek.co/photo/51430/original/adviser?type=jpeg",
       "pronunciation": "ˈkaʊnsəɫ",
       "senses": [
@@ -590,12 +610,13 @@
       ]
     },
     {
+      "id": "e8e67bf2-192c-4d12-98ee-1844f25f3ac5",
       "word": "counsel",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291bnNlbA&hash=2a3374414e07a836b6b47ed8fc08f169fd78a191&lang=en&cache-only=0",
-      "phonetic_text": "kaʊnsəl",
+      "phonetic_text": "kaʊn.səl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291bnNlbA&hash=2a3374414e07a836b6b47ed8fc08f169fd78a191&lang=en&cache-only=0",
-      "phonetic_am_text": "kawnsēl",
+      "phonetic_am_text": "kaoon.sēl",
       "img": "",
       "pronunciation": "ˈkaʊnsəɫ",
       "senses": [
@@ -606,14 +627,15 @@
       ]
     },
     {
+      "id": "26b59c7c-3559-45fe-8ade-0cdf10c2e607",
       "word": "counseling",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291bnNlbGluZw&hash=59e09a10682ae45f4e5224c8ff10ca7cb0a3b52d&lang=en&cache-only=0",
-      "phonetic_text": "kaʊnsəlɪng",
+      "phonetic_text": "kaʊn.sə.lɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291bnNlbGluZw&hash=59e09a10682ae45f4e5224c8ff10ca7cb0a3b52d&lang=en&cache-only=0",
-      "phonetic_am_text": "kawnsēling",
-      "img": "https://cdn.langeek.co/photo/21206/original/?type=jpeg",
-      "pronunciation": "ˈkaʊnsəɫɪŋ/, /ˈkaʊnsɫɪŋ",
+      "phonetic_am_text": "kaoon.sē.ling",
+      "img": "https://cdn.langeek.co/photo/60752/original/?type=jpeg",
+      "pronunciation": "ˈkaʊnsəlɪŋ",
       "senses": [
         {
           "definition": "a process of providing guidance, support, and advice to someone facing personal, emotional, or psychological challenges",
@@ -639,14 +661,15 @@
       ]
     },
     {
+      "id": "91ea90cf-c5c9-4b61-9418-8ec684ac3d50",
       "word": "counselor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291bnNlbG9y&hash=1f471f2360b950b14538c05d8bf372527b76653e&lang=en&cache-only=0",
-      "phonetic_text": "kaʊnsələr",
+      "phonetic_text": "kaʊn.sə.lɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291bnNlbG9y&hash=1f471f2360b950b14538c05d8bf372527b76653e&lang=en&cache-only=0",
-      "phonetic_am_text": "kawnsēlēr",
+      "phonetic_am_text": "kaoon.sē.lēr",
       "img": "https://cdn.langeek.co/photo/21400/original/?type=jpeg",
-      "pronunciation": "ˈkaʊnsəɫɝ",
+      "pronunciation": "ˈkaʊnsəlɚ",
       "senses": [
         {
           "definition": "an expert who advises people on their problems",
@@ -676,12 +699,13 @@
       ]
     },
     {
+      "id": "a4d486d2-7e92-4807-9bbe-b2368f888972",
       "word": "counsel of despair",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Y291bnNlbCBvZiBkZXNwYWly&hash=5bf45b51787517039300db4f7e31686dbc8fa84d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kaʊn.səl ʌv dɪs.pɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291bnNlbCBvZiBkZXNwYWly&hash=5bf45b51787517039300db4f7e31686dbc8fa84d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaoon.sēl av dis.per",
       "img": "",
       "pronunciation": "kˈaʊnsəl ʌv dɪspˈɛɹ",
       "senses": [
@@ -692,12 +716,13 @@
       ]
     },
     {
+      "id": "b30d4f51-c4ad-4bca-b711-261ef429f8df",
       "word": "counsel of perfection",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Y291bnNlbCBvZiBwZXJmZWN0aW9u&hash=85c30932e22cda94531e72722d48e8f041aeb5f0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kaʊn.səl ʌv pɜr.fɛk.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291bnNlbCBvZiBwZXJmZWN0aW9u&hash=85c30932e22cda94531e72722d48e8f041aeb5f0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaoon.sēl av pēr.fek.shēn",
       "img": "",
       "pronunciation": "kˈaʊnsəl ʌv pɚfˈɛkʃən",
       "senses": [

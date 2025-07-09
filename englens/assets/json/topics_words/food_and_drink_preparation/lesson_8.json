@@ -1,17 +1,19 @@
 {
+  "id": "3138909c-bcfc-45aa-bcf4-25310aebd263",
   "topic": "food_and_drink_preparation",
   "title": "Dry Heat Cooking Methods",
   "lesson": "lesson_8",
   "word_list": [
     {
-      "word": "bake",
+      "id": "44e13113-9d28-44d6-b65d-d7704414f99b",
+      "word": "to bake",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmFrZQ&hash=0e27a6fdfef983ba8f4decd017aaeae7c3790976&lang=en&cache-only=0",
       "phonetic_text": "beɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmFrZQ&hash=0e27a6fdfef983ba8f4decd017aaeae7c3790976&lang=en&cache-only=0",
       "phonetic_am_text": "beik",
       "img": "https://cdn.langeek.co/photo/27973/original/?type=jpeg",
-      "pronunciation": "ˈbeɪk",
+      "pronunciation": "beɪk",
       "senses": [
         {
           "definition": "to cook food, usually in an oven, without any extra fat or liquid",
@@ -41,12 +43,13 @@
       ]
     },
     {
-      "word": "blind bake",
+      "id": "f782374a-c69f-4670-8199-ee6a6f42da3a",
+      "word": "to blind bake",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmxpbmQgYmFrZQ&hash=31661d147a993573a88413904e6606e6cb0546c0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "blaɪnd beɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmxpbmQgYmFrZQ&hash=31661d147a993573a88413904e6606e6cb0546c0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "blaind beik",
       "img": "https://cdn.langeek.co/photo/37678/original/?type=jpeg",
       "pronunciation": "blaɪnd beɪk",
       "senses": [
@@ -57,14 +60,15 @@
       ]
     },
     {
-      "word": "barbecue",
+      "id": "fe3fb6e1-22b3-4d2f-8870-143e4a3666e4",
+      "word": "to barbecue",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmFyYmVjdWU&hash=684091255d2b0c9ca9df88741cd89052b3aa1fb4&lang=en&cache-only=0",
-      "phonetic_text": "bɑ:rbɪkju",
+      "phonetic_text": "bɑ:r.bɪ.kju:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmFyYmVjdWU&hash=684091255d2b0c9ca9df88741cd89052b3aa1fb4&lang=en&cache-only=0",
-      "phonetic_am_text": "baarbikyu",
+      "phonetic_am_text": "baar.bi.kyoo",
       "img": "https://cdn.langeek.co/photo/20948/original/?type=jpeg",
-      "pronunciation": "ˈbɑɹbɪkˌju",
+      "pronunciation": "ˈbɑːrbɪˌkjuː",
       "senses": [
         {
           "definition": "to grill food over fire, adding flavor with marinades or spices",
@@ -90,7 +94,8 @@
       ]
     },
     {
-      "word": "grill",
+      "id": "1b994046-507f-49ca-b211-395ddf11f553",
+      "word": "to grill",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ3JpbGw&hash=7191c8a710da2cac5c35ffbf899d7967d4416d16&lang=en&cache-only=0",
       "phonetic_text": "grɪl",
@@ -119,10 +124,11 @@
       ]
     },
     {
+      "id": "2b8c6b72-bac0-46ca-aad0-b5046c720c09",
       "word": "Maillard reaction",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=TWFpbGxhcmQgcmVhY3Rpb24&hash=5aedfefb61464c1ca40e4cd5dbf7cdb28400609d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=TWFpbGxhcmQgcmVhY3Rpb24&hash=5aedfefb61464c1ca40e4cd5dbf7cdb28400609d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -135,12 +141,13 @@
       ]
     },
     {
-      "word": "roast",
+      "id": "802b2b91-65db-43fa-83fb-c2cace38a006",
+      "word": "to roast",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcm9hc3Q&hash=120b26cdde24131fe56dbd4ab17e1f7c5f290bf4&lang=en&cache-only=0",
       "phonetic_text": "roʊst",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcm9hc3Q&hash=120b26cdde24131fe56dbd4ab17e1f7c5f290bf4&lang=en&cache-only=0",
-      "phonetic_am_text": "rowst",
+      "phonetic_am_text": "rooost",
       "img": "https://cdn.langeek.co/photo/36323/original/barbecue?type=jpeg",
       "pronunciation": "ˈɹoʊst",
       "senses": [
@@ -172,7 +179,8 @@
       ]
     },
     {
-      "word": "sear",
+      "id": "a7f50a2e-a57e-4443-a7c6-675443d503e6",
+      "word": "to sear",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2Vhcg&hash=be3e130dd17b6ea7bc232fe085136999955088a3&lang=en&cache-only=0",
       "phonetic_text": "sɪr",
@@ -209,12 +217,13 @@
       ]
     },
     {
-      "word": "broil",
+      "id": "3111121b-a2de-4c87-b460-e9b406fb703d",
+      "word": "to broil",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJvaWw&hash=fa2cf73b3ac84dcb8568494ca4c849a70462cc3e&lang=en&cache-only=0",
       "phonetic_text": "brɔɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJvaWw&hash=fa2cf73b3ac84dcb8568494ca4c849a70462cc3e&lang=en&cache-only=0",
-      "phonetic_am_text": "broyl",
+      "phonetic_am_text": "brawil",
       "img": "https://cdn.langeek.co/photo/36323/original/barbecue?type=jpeg",
       "pronunciation": "ˈbɹɔɪɫ",
       "senses": [
@@ -242,12 +251,13 @@
       ]
     },
     {
-      "word": "broast",
+      "id": "bf58807e-df1b-4bef-b598-2d380fc02e3a",
+      "word": "to broast",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJvYXN0&hash=1602a7984fdd7e9a3e01e7e3ad4355656dc31cfc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "broʊst",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJvYXN0&hash=1602a7984fdd7e9a3e01e7e3ad4355656dc31cfc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "brooost",
       "img": "",
       "pronunciation": "bɹoʊst",
       "senses": [
@@ -258,12 +268,13 @@
       ]
     },
     {
-      "word": "brown",
+      "id": "ea38fe6d-bc60-4ec7-8712-a6bb57f5d8a0",
+      "word": "to brown",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJvd24&hash=1f1837fd875f41c9bdbfcb7ae477880dc2f40c58&lang=en&cache-only=0",
       "phonetic_text": "braʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJvd24&hash=1f1837fd875f41c9bdbfcb7ae477880dc2f40c58&lang=en&cache-only=0",
-      "phonetic_am_text": "brawn",
+      "phonetic_am_text": "braoon",
       "img": "https://cdn.langeek.co/photo/20942/original/?type=jpeg",
       "pronunciation": "braʊn",
       "senses": [
@@ -287,12 +298,13 @@
       ]
     },
     {
-      "word": "caramelize",
+      "id": "62eb88af-abb4-4b08-aef6-30e9ecc442eb",
+      "word": "to caramelize",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2FyYW1lbGl6ZQ&hash=0a731ce8225c745143162a721947795f491d3ffc&lang=en&cache-only=0",
-      "phonetic_text": "kɛrəməlaɪz",
+      "phonetic_text": "kɛ.rə.mə.laɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2FyYW1lbGl6ZQ&hash=0a731ce8225c745143162a721947795f491d3ffc&lang=en&cache-only=0",
-      "phonetic_am_text": "kerēmēlaiz",
+      "phonetic_am_text": "ke.rē.mē.laiz",
       "img": "https://cdn.langeek.co/photo/59810/original/?type=jpeg",
       "pronunciation": "ˈkɛɹəməˌɫaɪz",
       "senses": [
@@ -320,12 +332,13 @@
       ]
     },
     {
-      "word": "charbroil",
+      "id": "a9654e63-736f-4db4-9787-c4c512ad8d86",
+      "word": "to charbroil",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hhcmJyb2ls&hash=9bf0f3aeb0e424b5bf279fc7ab638447a0bc74da&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧɑr.brɔɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2hhcmJyb2ls&hash=9bf0f3aeb0e424b5bf279fc7ab638447a0bc74da&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chaar.brawil",
       "img": "",
       "pronunciation": "tʃɑːɹbɹɔɪl",
       "senses": [
@@ -336,12 +349,13 @@
       ]
     },
     {
-      "word": "dry-roast",
+      "id": "67f2fa67-5722-4c37-a95f-ea5573f5f457",
+      "word": "to dry-roast",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJ5LXJvYXN0&hash=19d5ea006c60e6419fdf6aae14d52336c0a58414&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "draɪ-roʊst",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZHJ5LXJvYXN0&hash=19d5ea006c60e6419fdf6aae14d52336c0a58414&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "drai-rooost",
       "img": "",
       "pronunciation": "dɹaɪɹoʊst",
       "senses": [
@@ -352,12 +366,13 @@
       ]
     },
     {
-      "word": "oven-cook",
+      "id": "156b56b8-c1bb-46a4-a863-c344c90e2a15",
+      "word": "to oven-cook",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gb3Zlbi1jb29r&hash=6cbfd0ddcac0c7c49ca386ec3b01d633ca7dd950&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʌ.vən-kʊk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gb3Zlbi1jb29r&hash=6cbfd0ddcac0c7c49ca386ec3b01d633ca7dd950&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "a.vēn-kook",
       "img": "",
       "pronunciation": "ˈʌvənkʊk",
       "senses": [
@@ -368,12 +383,13 @@
       ]
     },
     {
-      "word": "hibachi",
+      "id": "1012d90b-0109-464b-acc9-745b60cf42ab",
+      "word": "to hibachi",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGliYWNoaQ&hash=71254e6eae6cb412872f41190cc6172d73951287&lang=en&cache-only=0",
-      "phonetic_text": "həbɑ:ʧi",
+      "phonetic_text": "hə.bɑ.ʧi",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGliYWNoaQ&hash=71254e6eae6cb412872f41190cc6172d73951287&lang=en&cache-only=0",
-      "phonetic_am_text": "hēbaachi",
+      "phonetic_am_text": "hē.baa.chi",
       "img": "https://cdn.langeek.co/photo/37437/original/?type=jpeg",
       "pronunciation": "həˈbɑtʃi/, /hiˈbɑtʃi",
       "senses": [
@@ -397,14 +413,15 @@
       ]
     },
     {
-      "word": "microwave",
+      "id": "ca7ea61b-e4bc-447c-a7cd-8b768c791c59",
+      "word": "to microwave",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWljcm93YXZl&hash=5db06c846a82576d9bfbe1ed2a57b8e4a82cd881&lang=en&cache-only=0",
-      "phonetic_text": "maɪkrəweɪv",
+      "phonetic_text": "maɪk.roʊ.weɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWljcm93YXZl&hash=5db06c846a82576d9bfbe1ed2a57b8e4a82cd881&lang=en&cache-only=0",
-      "phonetic_am_text": "maikrēweiv",
+      "phonetic_am_text": "maik.rooo.veiv",
       "img": "https://cdn.langeek.co/photo/20964/original/?type=jpeg",
-      "pronunciation": "ˈmaɪkɹəˌweɪv",
+      "pronunciation": "ˈmaɪkroʊˌweɪv",
       "senses": [
         {
           "definition": "to heat or cook something, especially food, in a microwave",
@@ -434,12 +451,13 @@
       ]
     },
     {
-      "word": "charboil",
+      "id": "490e6658-80a7-4f18-950a-5b6950f73c37",
+      "word": "to charboil",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hhcmJvaWw&hash=236e3b598adb8e79249e1f15a27cf9214383f2dc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧɑr.bɔɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2hhcmJvaWw&hash=236e3b598adb8e79249e1f15a27cf9214383f2dc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chaar.bawil",
       "img": "https://cdn.langeek.co/photo/20954/original/?type=jpeg",
       "pronunciation": "tʃɑːɹbɔɪl",
       "senses": [
@@ -450,12 +468,13 @@
       ]
     },
     {
-      "word": "chargrill",
+      "id": "ba3b3118-238d-465c-ac1d-69e8d905be19",
+      "word": "to chargrill",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hhcmdyaWxs&hash=391561ef3879c6a1074a967bb92508bf1fa43145&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧɑr.grɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2hhcmdyaWxs&hash=391561ef3879c6a1074a967bb92508bf1fa43145&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chaar.gril",
       "img": "https://cdn.langeek.co/photo/20954/original/?type=jpeg",
       "pronunciation": "tʃˈɑːɹɡɹɪl",
       "senses": [
@@ -471,7 +490,8 @@
       ]
     },
     {
-      "word": "crisp",
+      "id": "f5c2b66a-6873-4bc0-9f9b-ad335ed2990d",
+      "word": "to crisp",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3Jpc3A&hash=e88f3afff6711cd601698af3a0f4f49e38ea0054&lang=en&cache-only=0",
       "phonetic_text": "krɪsp",
@@ -504,12 +524,13 @@
       ]
     },
     {
-      "word": "griddle",
+      "id": "275efdbf-d8b0-4e63-b55b-c25dd4e204e3",
+      "word": "to griddle",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ3JpZGRsZQ&hash=343c897ac09cfa36ca35ef0f986662b120c6a9a9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "grɪ.dəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ3JpZGRsZQ&hash=343c897ac09cfa36ca35ef0f986662b120c6a9a9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gri.dēl",
       "img": "https://cdn.langeek.co/photo/30870/original/?type=jpeg",
       "pronunciation": "ɡɹˈɪdəl",
       "senses": [
@@ -541,10 +562,11 @@
       ]
     },
     {
-      "word": "nuke",
+      "id": "52580fa6-0a90-4118-9516-b32c47157901",
+      "word": "to nuke",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbnVrZQ&hash=55383015e8d95a5cf083fb457f70a0cfaad63df7&lang=en&cache-only=0",
-      "phonetic_text": "nu:k",
+      "phonetic_text": "nuk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbnVrZQ&hash=55383015e8d95a5cf083fb457f70a0cfaad63df7&lang=en&cache-only=0",
       "phonetic_am_text": "nook",
       "img": "https://cdn.langeek.co/photo/20964/original/?type=jpeg",
@@ -574,14 +596,15 @@
       ]
     },
     {
-      "word": "pop",
+      "id": "ef2612b4-4a43-4cd0-b1a2-a21aee56d967",
+      "word": "to pop",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcG9w&hash=a5d694323f04569408aad0cb24a20044e49530d5&lang=en&cache-only=0",
-      "phonetic_text": "pɑ:p",
+      "phonetic_text": "pɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcG9w&hash=a5d694323f04569408aad0cb24a20044e49530d5&lang=en&cache-only=0",
       "phonetic_am_text": "paap",
       "img": "",
-      "pronunciation": "ˈpɑp",
+      "pronunciation": "pɑp",
       "senses": [
         {
           "definition": "to cook food in hot oil or fat until it bursts open or becomes crispy, such as popcorn",
@@ -611,12 +634,13 @@
       ]
     },
     {
-      "word": "put on",
+      "id": "9cbfa434-ab66-4dc6-8312-942bb7e0069c",
+      "word": "to put on",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IG9u&hash=c874e673b42aee1bd7924077f0aa9df584d74436&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pʊt ɑ:n",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IG9u&hash=c874e673b42aee1bd7924077f0aa9df584d74436&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "poot aan",
       "img": "",
       "pronunciation": "pʊt ɑːn",
       "senses": [
@@ -627,10 +651,11 @@
       ]
     },
     {
-      "word": "reheat",
+      "id": "7f10714d-50d8-4554-b38d-f18544a91b9f",
+      "word": "to reheat",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVoZWF0&hash=642f757e58f7adc663f5eab88408031a9c65dc0f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVoZWF0&hash=642f757e58f7adc663f5eab88408031a9c65dc0f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/20964/original/?type=jpeg",
@@ -664,12 +689,13 @@
       ]
     },
     {
-      "word": "spatchcock",
+      "id": "b1e8a7fd-da95-474c-ac66-e7f0006d8788",
+      "word": "to spatchcock",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3BhdGNoY29jaw&hash=5c30f9b7bd2c4fffe47fa9e4c5a17f6b1ff7408f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spæʧ.kɑ:k",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3BhdGNoY29jaw&hash=5c30f9b7bd2c4fffe47fa9e4c5a17f6b1ff7408f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "spāch.kaak",
       "img": "https://cdn.langeek.co/photo/37507/original/?type=jpeg",
       "pronunciation": "spˈætʃkɑːk",
       "senses": [
@@ -697,12 +723,13 @@
       ]
     },
     {
-      "word": "toast",
+      "id": "78927bdf-c3c3-4124-b4f6-531e2bf154a4",
+      "word": "to toast",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdG9hc3Q&hash=a5802a8aa2791baa15756df6c8ff09fa1fc2f19a&lang=en&cache-only=0",
       "phonetic_text": "toʊst",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdG9hc3Q&hash=a5802a8aa2791baa15756df6c8ff09fa1fc2f19a&lang=en&cache-only=0",
-      "phonetic_am_text": "towst",
+      "phonetic_am_text": "tooost",
       "img": "https://cdn.langeek.co/photo/21000/original/?type=jpeg",
       "pronunciation": "toʊst",
       "senses": [
@@ -730,7 +757,8 @@
       ]
     },
     {
-      "word": "zap",
+      "id": "f693ae45-b778-493b-97ec-4f00b9600b6c",
+      "word": "to zap",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gemFw&hash=7592ae9bfb5f597e5e2a8fa58935ce2b36271a40&lang=en&cache-only=0",
       "phonetic_text": "zæp",
@@ -767,10 +795,11 @@
       ]
     },
     {
-      "word": "preheat",
+      "id": "9800812c-a089-4dd2-9d08-248e2f88e64e",
+      "word": "to preheat",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJlaGVhdA&hash=5a4a3870a1c7524e03d8616087c6864f38d3914e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJlaGVhdA&hash=5a4a3870a1c7524e03d8616087c6864f38d3914e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/32836/original/?type=jpeg",
@@ -800,12 +829,13 @@
       ]
     },
     {
-      "word": "warm through",
+      "id": "dada48ee-ad11-484c-b81a-e49035fae6fa",
+      "word": "to warm through",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2FybSB0aHJvdWdo&hash=b2891ab81d4bfe62992aabd4b42e11cd547e9a1b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɔrm θru:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2FybSB0aHJvdWdo&hash=b2891ab81d4bfe62992aabd4b42e11cd547e9a1b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vawrm throo",
       "img": "https://cdn.langeek.co/photo/20964/original/?type=jpeg",
       "pronunciation": "wɔːɹm θɹuː",
       "senses": [

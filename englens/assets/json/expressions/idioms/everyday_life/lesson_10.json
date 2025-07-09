@@ -1,13 +1,15 @@
 {
+  "id": "8b8f3570-5a61-46d0-8e37-460637226e76",
   "topic": "everyday_life",
   "title": "Experiment & Exploration",
   "lesson": "lesson_10",
   "word_list": [
     {
-      "word": "[live] out of a suitcase",
+      "id": "a4cb3327-be65-4da2-afd4-52fc8fe91748",
+      "word": "to [live] out of a suitcase",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGl2ZSBvdXQgb2YgYSBzdWl0Y2FzZQ&hash=6ee28e572cd5a872fe831ea665dd780524ca4ad3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGl2ZSBvdXQgb2YgYSBzdWl0Y2FzZQ&hash=6ee28e572cd5a872fe831ea665dd780524ca4ad3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -15,32 +17,16 @@
       "senses": [
         {
           "definition": "to briefly live in one or several places, without ever unpacking one's luggage, often due to not having a permanent place to live or stay in",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Sarah's job involves so much travelling that she lives out of a suitcase."
-            },
-            {
-              "cf": "",
-              "x": "As a travel journalist, she lives out of a suitcase, exploring new destinations every week."
-            },
-            {
-              "cf": "",
-              "x": "His job requires him to live out of a suitcase, as he travels to different cities for business meetings."
-            },
-            {
-              "cf": "",
-              "x": "The musician's busy touring schedule means he has to live out of a suitcase for most of the year."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "78652e8e-9f9d-4c73-94ac-8eb299795879",
       "word": "itchy feet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aXRjaHkgZmVldA&hash=451f6564cb43668cb6adaf0de72f87ae679f910b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aXRjaHkgZmVldA&hash=451f6564cb43668cb6adaf0de72f87ae679f910b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -74,12 +60,13 @@
       ]
     },
     {
+      "id": "0f71983c-6e2e-464e-bbb6-138d5fb068a7",
       "word": "on the road",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gdGhlIHJvYWQ&hash=82746f9f8398c99b0572b4e1878721c6b9db6250&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n ðə roʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gdGhlIHJvYWQ&hash=82746f9f8398c99b0572b4e1878721c6b9db6250&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan dhē roood",
       "img": "",
       "pronunciation": "ɑːnðə ɹˈoʊd",
       "senses": [
@@ -111,47 +98,28 @@
       ]
     },
     {
+      "id": "a1296d64-32ba-4391-98ea-232293476e1e",
       "word": "the call of the wild",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIGNhbGwgb2YgdGhlIHdpbGQ&hash=c887522685bef10c7483c7c5a81439f9dfe8a6b0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ðə kɔ:l ʌv ðə waɪld",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIGNhbGwgb2YgdGhlIHdpbGQ&hash=c887522685bef10c7483c7c5a81439f9dfe8a6b0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dhē kawl av dhē vaild",
       "img": "https://cdn.langeek.co/photo/23493/original/?type=jpeg",
       "pronunciation": "ðə kˈɔːl ʌvðə wˈaɪld",
       "senses": [
         {
           "definition": "the instinctive desire to return to a more primitive, untamed way of life, often associated with the wilderness or natural world",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Growing up so close to the forest, the child found it hard to resist the call of the wild, preferring the company of the trees to that of her peers."
-            },
-            {
-              "cf": "",
-              "x": "Longing for adventure, she felt the call of the wild and decided to go on a hiking expedition deep into the wilderness."
-            },
-            {
-              "cf": "",
-              "x": "The call of the wild is a powerful force that can lead people to leave behind their urban lives and embrace a simpler existence in nature."
-            },
-            {
-              "cf": "",
-              "x": "The wanderer couldn't resist the call of the wild, leaving behind the comforts of home to explore the remote forests and mountains."
-            },
-            {
-              "cf": "",
-              "x": "In literature and film, characters often heed the call of the wild, embarking on journeys that lead them to discover their true selves in the wilderness."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[hit] the road",
+      "id": "78d003a9-8f98-4bc5-80f2-a672402cbbf6",
+      "word": "to [hit] the road",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGl0IHRoZSByb2Fk&hash=516189a62d2619c6a30fd567920231bf7e3d553b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGl0IHRoZSByb2Fk&hash=516189a62d2619c6a30fd567920231bf7e3d553b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -185,10 +153,11 @@
       ]
     },
     {
-      "word": "[test] the waters",
+      "id": "847be28c-0e80-4296-aff4-51b667c4ffd5",
+      "word": "to [test] the waters",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGVzdCB0aGUgd2F0ZXJz&hash=97aa0ba1b21a5a3c4bc3deb4c6473a86023437d8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGVzdCB0aGUgd2F0ZXJz&hash=97aa0ba1b21a5a3c4bc3deb4c6473a86023437d8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

@@ -1,10 +1,12 @@
 {
+  "id": "ea8ef56d-757e-4b19-b604-fb9ea5c436d9",
   "topic": "animals",
   "title": "Verbs Relating to Animals",
   "lesson": "lesson_29",
   "word_list": [
     {
-      "word": "graze",
+      "id": "eeef4e00-f5ab-4761-9e66-53682667d4a6",
+      "word": "to graze",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ3JhemU&hash=916f8eb8caf30b868a6bcd2a152f8c3d4bcb7035&lang=en&cache-only=0",
       "phonetic_text": "greɪz",
@@ -41,7 +43,8 @@
       ]
     },
     {
-      "word": "hunt",
+      "id": "878b148c-1f7b-4997-bcb1-ba27bf589c91",
+      "word": "to hunt",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaHVudA&hash=4077336efbeddb4d784c45b66ad526d6fc9a6010&lang=en&cache-only=0",
       "phonetic_text": "hʌnt",
@@ -66,14 +69,15 @@
       ]
     },
     {
-      "word": "dive",
+      "id": "f0fefc76-bc0b-46b8-af46-e92184c5d13e",
+      "word": "to dive",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGl2ZQ&hash=2d166fbebbc03fcc13847884ecb27c1e4b439822&lang=en&cache-only=0",
       "phonetic_text": "daɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGl2ZQ&hash=2d166fbebbc03fcc13847884ecb27c1e4b439822&lang=en&cache-only=0",
       "phonetic_am_text": "daiv",
       "img": "",
-      "pronunciation": "ˈdaɪv",
+      "pronunciation": "daɪv",
       "senses": [
         {
           "definition": "(of an aircraft or a bird) to descend steeply in the air",
@@ -91,12 +95,13 @@
       ]
     },
     {
-      "word": "molt",
+      "id": "88e9ae93-c27f-415d-aca7-344d6b8d395f",
+      "word": "to molt",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbW9sdA&hash=8047d3be25a6013d3810351d2312ae5f97d9760c&lang=en&cache-only=0",
       "phonetic_text": "moʊlt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbW9sdA&hash=8047d3be25a6013d3810351d2312ae5f97d9760c&lang=en&cache-only=0",
-      "phonetic_am_text": "mowlt",
+      "phonetic_am_text": "mooolt",
       "img": "https://cdn.langeek.co/photo/34357/original/?type=jpeg",
       "pronunciation": "ˈmoʊɫt",
       "senses": [
@@ -116,12 +121,13 @@
       ]
     },
     {
-      "word": "hibernate",
+      "id": "cd4150d0-c5f4-4ece-97cc-0886a93013ea",
+      "word": "to hibernate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGliZXJuYXRl&hash=afe985d1a07af919170ac9116831d54d86be9098&lang=en&cache-only=0",
-      "phonetic_text": "haɪbərneɪt",
+      "phonetic_text": "haɪ.bɜr.neɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGliZXJuYXRl&hash=afe985d1a07af919170ac9116831d54d86be9098&lang=en&cache-only=0",
-      "phonetic_am_text": "haibērneit",
+      "phonetic_am_text": "hai.bēr.neit",
       "img": "https://cdn.langeek.co/photo/32628/original/?type=jpeg",
       "pronunciation": "ˈhaɪbɝˌneɪt",
       "senses": [
@@ -141,12 +147,13 @@
       ]
     },
     {
-      "word": "migrate",
+      "id": "8dd0d269-d52b-4adc-8550-81f1ffaf8f59",
+      "word": "to migrate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWlncmF0ZQ&hash=a40795448a30611c84d5ea57816d700e08b0b355&lang=en&cache-only=0",
-      "phonetic_text": "maɪgreɪt",
+      "phonetic_text": "maɪg.reɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWlncmF0ZQ&hash=a40795448a30611c84d5ea57816d700e08b0b355&lang=en&cache-only=0",
-      "phonetic_am_text": "maigreit",
+      "phonetic_am_text": "maig.reit",
       "img": "https://cdn.langeek.co/photo/24468/original/?type=jpeg",
       "pronunciation": "ˈmaɪˌɡɹeɪt",
       "senses": [
@@ -178,13 +185,14 @@
       ]
     },
     {
-      "word": "swim",
+      "id": "a5b2e468-1bb1-46da-a14f-87606b13e0cc",
+      "word": "to swim",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3dpbQ&hash=312669efd4e5759dc69ca83bf551f12857d57703&lang=en&cache-only=0",
       "phonetic_text": "swɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3dpbQ&hash=312669efd4e5759dc69ca83bf551f12857d57703&lang=en&cache-only=0",
-      "phonetic_am_text": "swim",
-      "img": "https://cdn.langeek.co/photo/51552/original/swimming?type=jpeg",
+      "phonetic_am_text": "svim",
+      "img": "https://cdn.langeek.co/photo/60688/original/swimming?type=jpeg",
       "pronunciation": "swɪm",
       "senses": [
         {
@@ -207,7 +215,8 @@
       ]
     },
     {
-      "word": "perch",
+      "id": "fd4df217-4b6e-45d3-9059-9e56fa32f4c3",
+      "word": "to perch",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGVyY2g&hash=666be075d15cf3c78403733de1aa41ac58208a30&lang=en&cache-only=0",
       "phonetic_text": "pɜrʧ",
@@ -244,12 +253,13 @@
       ]
     },
     {
-      "word": "nuzzle",
+      "id": "97d85f9d-80e5-4871-ad61-702299a805ca",
+      "word": "to nuzzle",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbnV6emxl&hash=d8909f050ef66c0bc682310e8d93b526e20e34ee&lang=en&cache-only=0",
-      "phonetic_text": "nʌzəl",
+      "phonetic_text": "nə.zəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbnV6emxl&hash=d8909f050ef66c0bc682310e8d93b526e20e34ee&lang=en&cache-only=0",
-      "phonetic_am_text": "nazēl",
+      "phonetic_am_text": "nē.zēl",
       "img": "",
       "pronunciation": "ˈnəzəɫ",
       "senses": [
@@ -260,12 +270,13 @@
       ]
     },
     {
-      "word": "hover",
+      "id": "f2c7050c-bba3-4caf-833f-671c7b109ead",
+      "word": "to hover",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaG92ZXI&hash=f45f4fec60ef119c763ffbe6fa0cbd8d898eb7a4&lang=en&cache-only=0",
-      "phonetic_text": "hʌvər",
+      "phonetic_text": "hə.vɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaG92ZXI&hash=f45f4fec60ef119c763ffbe6fa0cbd8d898eb7a4&lang=en&cache-only=0",
-      "phonetic_am_text": "havēr",
+      "phonetic_am_text": "hē.vēr",
       "img": "https://cdn.langeek.co/photo/34355/original/?type=jpeg",
       "pronunciation": "ˈhəvɝ",
       "senses": [
@@ -276,12 +287,13 @@
       ]
     },
     {
-      "word": "domesticate",
+      "id": "b08d4ad2-d12b-4a7e-8799-a5d50dad14c3",
+      "word": "to domesticate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZG9tZXN0aWNhdGU&hash=737ddf5c3eb49f16d6d612eaad265abe55261335&lang=en&cache-only=0",
-      "phonetic_text": "dəmɛstəkeɪt",
+      "phonetic_text": "də.mɛs.tə.keɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZG9tZXN0aWNhdGU&hash=737ddf5c3eb49f16d6d612eaad265abe55261335&lang=en&cache-only=0",
-      "phonetic_am_text": "dēmestēkeit",
+      "phonetic_am_text": "dē.mes.tē.keit",
       "img": "https://cdn.langeek.co/photo/30768/original/?type=jpeg",
       "pronunciation": "dəˈmɛstəˌkeɪt",
       "senses": [
@@ -313,14 +325,15 @@
       ]
     },
     {
-      "word": "feed",
+      "id": "aefc0f95-0146-4e29-8999-445ae0c2125a",
+      "word": "to feed",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmVlZA&hash=ab7c52d0ac008724ab082bca25e7a02aeec9e7ff&lang=en&cache-only=0",
       "phonetic_text": "fi:d",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmVlZA&hash=ab7c52d0ac008724ab082bca25e7a02aeec9e7ff&lang=en&cache-only=0",
-      "phonetic_am_text": "feed",
+      "phonetic_am_text": "fid",
       "img": "https://cdn.langeek.co/photo/30553/original/?type=jpeg",
-      "pronunciation": "ˈfid",
+      "pronunciation": "fiːd",
       "senses": [
         {
           "definition": "(of an animal or baby) to take or eat food",
@@ -346,7 +359,8 @@
       ]
     },
     {
-      "word": "sing",
+      "id": "853cbb9b-f91b-4c92-9e2e-f960d7db5523",
+      "word": "to sing",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2luZw&hash=b38c9cdf5b85aa98d3c9f515f33052f710140b5f&lang=en&cache-only=0",
       "phonetic_text": "sɪng",
@@ -375,14 +389,15 @@
       ]
     },
     {
-      "word": "camouflage",
+      "id": "0ec55a06-b537-4a28-b818-6ce814616fcf",
+      "word": "to camouflage",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2Ftb3VmbGFnZQ&hash=dcdc121c58a93048a3fd42df05743e90528a4205&lang=en&cache-only=0",
-      "phonetic_text": "kæməflɑʒ",
+      "phonetic_text": "kæ.məf.lɑʒ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2Ftb3VmbGFnZQ&hash=dcdc121c58a93048a3fd42df05743e90528a4205&lang=en&cache-only=0",
-      "phonetic_am_text": "kāmēflɑzh",
+      "phonetic_am_text": "kā.mēf.laazh",
       "img": "https://cdn.langeek.co/photo/28960/original/?type=jpeg",
-      "pronunciation": "ˈkæməˌfɫɑʒ",
+      "pronunciation": "ˈkæməˌflɑʒ",
       "senses": [
         {
           "definition": "to make or become undetectable by resembling the color or shape of a surrounding",
@@ -408,12 +423,13 @@
       ]
     },
     {
-      "word": "stroke",
+      "id": "8ff0c201-3e2c-4f81-b78f-b5855fcf045e",
+      "word": "to stroke",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3Ryb2tl&hash=f22be274b41d20d277c04860bee6bdd57dd2f625&lang=en&cache-only=0",
       "phonetic_text": "stroʊk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3Ryb2tl&hash=f22be274b41d20d277c04860bee6bdd57dd2f625&lang=en&cache-only=0",
-      "phonetic_am_text": "strowk",
+      "phonetic_am_text": "stroook",
       "img": "https://cdn.langeek.co/photo/30557/original/?type=jpeg",
       "pronunciation": "ˈstɹoʊk",
       "senses": [
@@ -441,7 +457,8 @@
       ]
     },
     {
-      "word": "peck",
+      "id": "d7d338de-d28f-4046-ad18-a2ea0c1917d8",
+      "word": "to peck",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGVjaw&hash=34903adf2f4c473b89d674cf1e0bc89d1d813779&lang=en&cache-only=0",
       "phonetic_text": "pɛk",
@@ -466,12 +483,13 @@
       ]
     },
     {
-      "word": "stalk",
+      "id": "61b0185a-7b9d-4aa9-bc5b-3d707c1a0862",
+      "word": "to stalk",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RhbGs&hash=b66370f32a218584892e8a5c9c6e4be3b523478c&lang=en&cache-only=0",
-      "phonetic_text": "stɔ:k",
+      "phonetic_text": "stɔk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RhbGs&hash=b66370f32a218584892e8a5c9c6e4be3b523478c&lang=en&cache-only=0",
-      "phonetic_am_text": "staawk",
+      "phonetic_am_text": "stawk",
       "img": "https://cdn.langeek.co/photo/47102/original/?type=jpeg",
       "pronunciation": "ˈstɔk",
       "senses": [
@@ -499,7 +517,8 @@
       ]
     },
     {
-      "word": "sting",
+      "id": "ceeb61ad-27ac-43f7-8374-899a51ded3c8",
+      "word": "to sting",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3Rpbmc&hash=fe1cdca3e4e3aa4a5a5c344c2e939d93a0537790&lang=en&cache-only=0",
       "phonetic_text": "stɪng",
@@ -532,14 +551,15 @@
       ]
     },
     {
-      "word": "bite",
+      "id": "4079eca6-0a0f-4381-b7f9-1bee0431eef3",
+      "word": "to bite",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYml0ZQ&hash=ee9210b097ea1df8f23f7ae644c185769cba91a6&lang=en&cache-only=0",
       "phonetic_text": "baɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYml0ZQ&hash=ee9210b097ea1df8f23f7ae644c185769cba91a6&lang=en&cache-only=0",
       "phonetic_am_text": "bait",
       "img": "https://cdn.langeek.co/photo/18089/original/bite?type=jpeg",
-      "pronunciation": "ˈbaɪt",
+      "pronunciation": "baɪt",
       "senses": [
         {
           "definition": "to cut into flesh, food, etc. using the teeth",
@@ -569,14 +589,15 @@
       ]
     },
     {
-      "word": "soar",
+      "id": "8dfa6f8f-b8f1-46c2-bcdd-4b60139669dc",
+      "word": "to soar",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc29hcg&hash=0c329aff2b0c9db6aabc46574cdc706ed6d38049&lang=en&cache-only=0",
-      "phonetic_text": "sɔ:r",
+      "phonetic_text": "sɔr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc29hcg&hash=0c329aff2b0c9db6aabc46574cdc706ed6d38049&lang=en&cache-only=0",
-      "phonetic_am_text": "saawr",
+      "phonetic_am_text": "sawr",
       "img": "https://cdn.langeek.co/photo/49826/original/fly?type=jpeg",
-      "pronunciation": "ˈsɔɹ",
+      "pronunciation": "sɔr",
       "senses": [
         {
           "definition": "to go higher while flying",
@@ -606,12 +627,13 @@
       ]
     },
     {
-      "word": "slither",
+      "id": "8273bde8-dc68-44b5-a210-226900fc7d62",
+      "word": "to slither",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2xpdGhlcg&hash=fd4638a968d9f0df84060daad1c39f9383269a6b&lang=en&cache-only=0",
-      "phonetic_text": "slɪðər",
+      "phonetic_text": "slɪ.ðɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2xpdGhlcg&hash=fd4638a968d9f0df84060daad1c39f9383269a6b&lang=en&cache-only=0",
-      "phonetic_am_text": "slidhēr",
+      "phonetic_am_text": "sli.dhēr",
       "img": "https://cdn.langeek.co/photo/48311/original/snake?type=jpeg",
       "pronunciation": "ˈsɫɪðɝ",
       "senses": [
@@ -639,7 +661,8 @@
       ]
     },
     {
-      "word": "chase",
+      "id": "c6d0fc3b-0bd7-43c0-977c-cf2b8cb9455a",
+      "word": "to chase",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hhc2U&hash=8e4a873d98aee5afe1e0cb1c95f3250ab5825d3a&lang=en&cache-only=0",
       "phonetic_text": "ʧeɪs",
@@ -676,10 +699,11 @@
       ]
     },
     {
-      "word": "hop",
+      "id": "65e84f10-4c91-4277-a8c6-b976379bf739",
+      "word": "to hop",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaG9w&hash=f0b1fa0f7b971d49eacc7530bbbb1586e0dbfe61&lang=en&cache-only=0",
-      "phonetic_text": "hɑ:p",
+      "phonetic_text": "hɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaG9w&hash=f0b1fa0f7b971d49eacc7530bbbb1586e0dbfe61&lang=en&cache-only=0",
       "phonetic_am_text": "haap",
       "img": "https://cdn.langeek.co/photo/34353/original/?type=jpeg",
@@ -701,12 +725,13 @@
       ]
     },
     {
-      "word": "bristle",
+      "id": "1e9c1073-6717-4df4-94f1-dd06536fbb2c",
+      "word": "to bristle",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJpc3RsZQ&hash=8aed08b543642e9cc40e3289b0ada9bf0de74c62&lang=en&cache-only=0",
-      "phonetic_text": "brɪsəl",
+      "phonetic_text": "brɪ.səl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJpc3RsZQ&hash=8aed08b543642e9cc40e3289b0ada9bf0de74c62&lang=en&cache-only=0",
-      "phonetic_am_text": "brisēl",
+      "phonetic_am_text": "bri.sēl",
       "img": "",
       "pronunciation": "ˈbɹɪsəɫ",
       "senses": [
@@ -717,7 +742,8 @@
       ]
     },
     {
-      "word": "buck",
+      "id": "075f5d16-8444-4ec2-87b8-0606304133f1",
+      "word": "to buck",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnVjaw&hash=4e878b609db8af7d5a37e42ff577a921f96a90aa&lang=en&cache-only=0",
       "phonetic_text": "bʌk",
@@ -754,14 +780,15 @@
       ]
     },
     {
-      "word": "spin",
+      "id": "84e431e5-61bc-4208-b776-8a6f4c36777c",
+      "word": "to spin",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3Bpbg&hash=1f9be559d90cdb9d9b2bfc1e6b9f684102abb96c&lang=en&cache-only=0",
       "phonetic_text": "spɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3Bpbg&hash=1f9be559d90cdb9d9b2bfc1e6b9f684102abb96c&lang=en&cache-only=0",
       "phonetic_am_text": "spin",
       "img": "",
-      "pronunciation": "ˈspɪn",
+      "pronunciation": "spɪn",
       "senses": [
         {
           "definition": "to twist or pull fibers together to form a continuous thread or yarn",
@@ -783,12 +810,13 @@
       ]
     },
     {
-      "word": "swarm",
+      "id": "7c5ed566-cf75-47a3-81a1-93fb163242c2",
+      "word": "to swarm",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3dhcm0&hash=52c2b8c56838ecd54110fbef8f101163a62f92b7&lang=en&cache-only=0",
-      "phonetic_text": "swɔ:rm",
+      "phonetic_text": "swɔrm",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3dhcm0&hash=52c2b8c56838ecd54110fbef8f101163a62f92b7&lang=en&cache-only=0",
-      "phonetic_am_text": "swaawrm",
+      "phonetic_am_text": "svawrm",
       "img": "https://cdn.langeek.co/photo/59090/original/?type=jpeg",
       "pronunciation": "ˈswɔɹm",
       "senses": [
@@ -820,12 +848,13 @@
       ]
     },
     {
-      "word": "pollinate",
+      "id": "76627139-6c49-462f-85b1-e8f60320775c",
+      "word": "to pollinate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcG9sbGluYXRl&hash=e1c7bccbff1ae195f3d7e2fe675dfc23bf8db56a&lang=en&cache-only=0",
-      "phonetic_text": "pɑ:ləneɪt",
+      "phonetic_text": "pɑ.lə.neɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcG9sbGluYXRl&hash=e1c7bccbff1ae195f3d7e2fe675dfc23bf8db56a&lang=en&cache-only=0",
-      "phonetic_am_text": "paalēneit",
+      "phonetic_am_text": "paa.lē.neit",
       "img": "https://cdn.langeek.co/photo/51278/original/?type=jpeg",
       "pronunciation": "ˈpɑɫəˌneɪt",
       "senses": [
@@ -857,12 +886,13 @@
       ]
     },
     {
-      "word": "warble",
+      "id": "2aee9231-bc6f-418f-9d1f-35336da27031",
+      "word": "to warble",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2FyYmxl&hash=e2ff9ddafe9e988730b2658cc4e6f88b83a0e96c&lang=en&cache-only=0",
-      "phonetic_text": "wɔ:rbəl",
+      "phonetic_text": "wɔr.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2FyYmxl&hash=e2ff9ddafe9e988730b2658cc4e6f88b83a0e96c&lang=en&cache-only=0",
-      "phonetic_am_text": "waawrbēl",
+      "phonetic_am_text": "vawr.bēl",
       "img": "",
       "pronunciation": "ˈwɔɹbəɫ",
       "senses": [
@@ -873,12 +903,13 @@
       ]
     },
     {
-      "word": "preen",
+      "id": "200c5bcc-a0d7-4680-89e1-13b9beb98e66",
+      "word": "to preen",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJlZW4&hash=06bbe15ee30fd9734128fdb0d4059ea82ea2fc5c&lang=en&cache-only=0",
-      "phonetic_text": "pri:n",
+      "phonetic_text": "prin",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJlZW4&hash=06bbe15ee30fd9734128fdb0d4059ea82ea2fc5c&lang=en&cache-only=0",
-      "phonetic_am_text": "preen",
+      "phonetic_am_text": "prin",
       "img": "https://cdn.langeek.co/photo/34361/original/?type=jpeg",
       "pronunciation": "ˈpɹin",
       "senses": [
@@ -889,10 +920,11 @@
       ]
     },
     {
-      "word": "nest",
+      "id": "4e0ec8db-bc77-40ba-8df4-c8b2863a6d3e",
+      "word": "to nest",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbmVzdA&hash=f7c776902296fc55ebb3f82e6807403015ae9e26&lang=en&cache-only=0",
-      "phonetic_text": "nɛst",
+      "phonetic_text": "nest",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbmVzdA&hash=f7c776902296fc55ebb3f82e6807403015ae9e26&lang=en&cache-only=0",
       "phonetic_am_text": "nest",
       "img": "",
@@ -918,12 +950,13 @@
       ]
     },
     {
-      "word": "slough",
+      "id": "edbb17bc-2beb-4498-861a-750aa91b51a4",
+      "word": "to slough",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2xvdWdo&hash=f186c128087bb333eb00ab6ccdf63dcb34b3b751&lang=en&cache-only=0",
-      "phonetic_text": "slʌf",
+      "phonetic_text": "sləf",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2xvdWdo&hash=f186c128087bb333eb00ab6ccdf63dcb34b3b751&lang=en&cache-only=0",
-      "phonetic_am_text": "slaf",
+      "phonetic_am_text": "slēf",
       "img": "https://cdn.langeek.co/photo/34357/original/?type=jpeg",
       "pronunciation": "ˈsɫəf",
       "senses": [
@@ -934,7 +967,8 @@
       ]
     },
     {
-      "word": "scent",
+      "id": "1eb66086-a69d-42d6-a324-ca1658331f02",
+      "word": "to scent",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NlbnQ&hash=4f22b709480f7976e8595b396b4ab7471b016c6e&lang=en&cache-only=0",
       "phonetic_text": "sɛnt",
@@ -971,12 +1005,13 @@
       ]
     },
     {
-      "word": "scavenge",
+      "id": "156e480d-0898-4ca5-be2b-cb76cdc8e1a8",
+      "word": "to scavenge",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NhdmVuZ2U&hash=326bcf808ceb6c532b1e2ed16a113c927a497f71&lang=en&cache-only=0",
-      "phonetic_text": "skævənʤ",
+      "phonetic_text": "skæ.vənʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NhdmVuZ2U&hash=326bcf808ceb6c532b1e2ed16a113c927a497f71&lang=en&cache-only=0",
-      "phonetic_am_text": "skāvēnj",
+      "phonetic_am_text": "skā.vēnj",
       "img": "",
       "pronunciation": "ˈskævəndʒ",
       "senses": [
@@ -987,12 +1022,13 @@
       ]
     },
     {
-      "word": "prey on",
+      "id": "d4a97dca-e53b-4f8d-85b3-04f5ed35b7f4",
+      "word": "to prey on",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJleSBvbg&hash=cd4287a5b97e14035a0db4258bbab3321370f1ad&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "preɪ ɑ:n",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJleSBvbg&hash=cd4287a5b97e14035a0db4258bbab3321370f1ad&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "prei aan",
       "img": "https://cdn.langeek.co/photo/34363/original/?type=jpeg",
       "pronunciation": "pɹˈeɪ ˈɑːn",
       "senses": [
@@ -1016,14 +1052,15 @@
       ]
     },
     {
-      "word": "rear",
+      "id": "2269ff4e-d96b-4b03-9313-11a6c4460357",
+      "word": "to rear",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVhcg&hash=a6fef089c95110bce736e1883df1dd9b5f854846&lang=en&cache-only=0",
       "phonetic_text": "rɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVhcg&hash=a6fef089c95110bce736e1883df1dd9b5f854846&lang=en&cache-only=0",
       "phonetic_am_text": "rir",
       "img": "",
-      "pronunciation": "ˈɹɪɹ",
+      "pronunciation": "rɪr",
       "senses": [
         {
           "definition": "to stand or rise onto the back legs, usually referring to animals",
@@ -1053,14 +1090,15 @@
       ]
     },
     {
-      "word": "paw",
+      "id": "a764f01d-28db-42b2-ab77-c679b4917112",
+      "word": "to paw",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGF3&hash=6188c9bc9b5f3ccff23cce056f7e6e2cd0011e25&lang=en&cache-only=0",
-      "phonetic_text": "pɔ:",
+      "phonetic_text": "pɔ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGF3&hash=6188c9bc9b5f3ccff23cce056f7e6e2cd0011e25&lang=en&cache-only=0",
-      "phonetic_am_text": "paaw",
+      "phonetic_am_text": "paw",
       "img": "",
-      "pronunciation": "ˈpɔ",
+      "pronunciation": "pɑ",
       "senses": [
         {
           "definition": "to use the front feet in a repetitive and scratching motion, often done by animals to express eagerness, curiosity, or frustration",
@@ -1069,12 +1107,13 @@
       ]
     },
     {
-      "word": "overwinter",
+      "id": "3fa2f4d0-8f03-4b2c-ab69-5c89270ff70f",
+      "word": "to overwinter",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gb3ZlcndpbnRlcg&hash=b7ff1be802f74f2655b9d8db84f050d4e0de49ed&lang=en&cache-only=0",
-      "phonetic_text": "oʊvərwɪntər",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gb3ZlcndpbnRlcg&hash=b7ff1be802f74f2655b9d8db84f050d4e0de49ed&lang=en&cache-only=0",
-      "phonetic_am_text": "owvērwintēr",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˌoʊvɝˈwɪntɝ",
       "senses": [
@@ -1085,12 +1124,13 @@
       ]
     },
     {
-      "word": "feed on",
+      "id": "a0728fd7-c4c5-4b63-b4c0-3af02c4afd4e",
+      "word": "to feed on",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmVlZCBvbg&hash=3909f0b5ac69d76dc5b743820d575be0d0dc0027&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fi:d ɑ:n",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmVlZCBvbg&hash=3909f0b5ac69d76dc5b743820d575be0d0dc0027&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fid aan",
       "img": "https://cdn.langeek.co/photo/52793/original/?type=jpeg",
       "pronunciation": "fˈiːd ˈɑːn",
       "senses": [
@@ -1114,12 +1154,13 @@
       ]
     },
     {
-      "word": "beach",
+      "id": "f892037d-ab47-4ff8-91b2-1d6d8b0ba02a",
+      "word": "to beach",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmVhY2g&hash=72e9ae7aa26166921d38316fd08845d43f007bc5&lang=en&cache-only=0",
       "phonetic_text": "bi:ʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmVhY2g&hash=72e9ae7aa26166921d38316fd08845d43f007bc5&lang=en&cache-only=0",
-      "phonetic_am_text": "beech",
+      "phonetic_am_text": "bich",
       "img": "",
       "pronunciation": "biːtʃ",
       "senses": [
@@ -1130,7 +1171,8 @@
       ]
     },
     {
-      "word": "frisk",
+      "id": "81f8c2fe-cc71-4f3c-97de-083fb2f4fe17",
+      "word": "to frisk",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZnJpc2s&hash=4349975db761cb0b30634fde0d37b1dec4dd05b3&lang=en&cache-only=0",
       "phonetic_text": "frɪsk",
@@ -1167,12 +1209,13 @@
       ]
     },
     {
-      "word": "frolic",
+      "id": "bf3346b5-f5e4-4ffd-9060-bfe41312ab4f",
+      "word": "to frolic",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZnJvbGlj&hash=4c13d1eb893fa494cb57e132d9473129a9c8d82d&lang=en&cache-only=0",
-      "phonetic_text": "frɑ:lɪk",
+      "phonetic_text": "frɑ.lɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZnJvbGlj&hash=4c13d1eb893fa494cb57e132d9473129a9c8d82d&lang=en&cache-only=0",
-      "phonetic_am_text": "fraalik",
+      "phonetic_am_text": "fraa.lik",
       "img": "",
       "pronunciation": "ˈfɹɑɫɪk",
       "senses": [
@@ -1183,12 +1226,13 @@
       ]
     },
     {
-      "word": "ruffle",
+      "id": "d4da06ec-9537-4a1b-9d12-d1580e144b91",
+      "word": "to ruffle",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcnVmZmxl&hash=2f84cb51aceb959b893f7b9b72522bfb4f6ccbfd&lang=en&cache-only=0",
-      "phonetic_text": "rʌfəl",
+      "phonetic_text": "rə.fəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcnVmZmxl&hash=2f84cb51aceb959b893f7b9b72522bfb4f6ccbfd&lang=en&cache-only=0",
-      "phonetic_am_text": "rafēl",
+      "phonetic_am_text": "rē.fēl",
       "img": "",
       "pronunciation": "ˈɹəfəɫ",
       "senses": [
@@ -1199,7 +1243,8 @@
       ]
     },
     {
-      "word": "spray",
+      "id": "cf7a1c99-2d1e-4556-a166-8a972b70ffed",
+      "word": "to spray",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3ByYXk&hash=217634f4bb15fea567d5b8b8ff350804ca7c24c9&lang=en&cache-only=0",
       "phonetic_text": "spreɪ",
@@ -1210,40 +1255,20 @@
       "senses": [
         {
           "definition": "to expel a fine mist or stream of liquid or other substance from the body, often as a defense mechanism or as a way to mark territory or communicate with other animals",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The skunk sprayed a foul-smelling liquid when it felt threatened by the approaching predator."
-            },
-            {
-              "cf": "",
-              "x": "The cat sprayed a small amount of urine to mark its territory around the perimeter of the house."
-            },
-            {
-              "cf": "",
-              "x": "The rattlesnake sprayed venom from its fangs as a warning to the intruding hiker."
-            },
-            {
-              "cf": "",
-              "x": "The male tomcat sprayed the fence posts with pheromones to attract potential mates."
-            },
-            {
-              "cf": "",
-              "x": "The octopus sprayed a cloud of ink to camouflage itself and evade capture by the predator."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "shy",
+      "id": "b4e045df-5d40-4a52-a323-a4403c61e50c",
+      "word": "to shy",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2h5&hash=c0ea83b6b966f35910b5d59bb414d135d9ff209e&lang=en&cache-only=0",
       "phonetic_text": "ʃaɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2h5&hash=c0ea83b6b966f35910b5d59bb414d135d9ff209e&lang=en&cache-only=0",
       "phonetic_am_text": "shai",
       "img": "",
-      "pronunciation": "ˈʃaɪ",
+      "pronunciation": "ʃaɪ",
       "senses": [
         {
           "definition": "to startle or suddenly move away from something or someone, often due to fear, timidity, or a desire to avoid contact or attention",
@@ -1265,12 +1290,13 @@
       ]
     },
     {
-      "word": "scrabble",
+      "id": "9727100e-fe1e-420d-b608-da4eed1f0a22",
+      "word": "to scrabble",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NyYWJibGU&hash=d644eddf091a0ea615aae397c8d2c381ddec6d0c&lang=en&cache-only=0",
-      "phonetic_text": "skræbəl",
+      "phonetic_text": "skræ.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NyYWJibGU&hash=d644eddf091a0ea615aae397c8d2c381ddec6d0c&lang=en&cache-only=0",
-      "phonetic_am_text": "skrābēl",
+      "phonetic_am_text": "skrā.bēl",
       "img": "",
       "pronunciation": "ˈskɹæbəɫ",
       "senses": [
@@ -1281,10 +1307,11 @@
       ]
     },
     {
-      "word": "root",
+      "id": "471d0139-d490-4a79-8f93-39c8d26ec224",
+      "word": "to root",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcm9vdA&hash=f40175e92b779f52543e4424ca1bcb138aa0b040&lang=en&cache-only=0",
-      "phonetic_text": "ru:t",
+      "phonetic_text": "rut",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcm9vdA&hash=f40175e92b779f52543e4424ca1bcb138aa0b040&lang=en&cache-only=0",
       "phonetic_am_text": "root",
       "img": "",
@@ -1314,12 +1341,13 @@
       ]
     },
     {
-      "word": "burrow",
+      "id": "1838da49-fdbd-4288-9532-fd1ee11064af",
+      "word": "to burrow",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnVycm93&hash=e61b4554e9d20433423219561b8aa71128f6e2ca&lang=en&cache-only=0",
-      "phonetic_text": "bɜroʊ",
+      "phonetic_text": "bɜ:.roʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnVycm93&hash=e61b4554e9d20433423219561b8aa71128f6e2ca&lang=en&cache-only=0",
-      "phonetic_am_text": "bērow",
+      "phonetic_am_text": "bē.rooo",
       "img": "https://cdn.langeek.co/photo/59062/original/?type=jpeg",
       "pronunciation": "ˈbɜːroʊ",
       "senses": [
@@ -1339,12 +1367,13 @@
       ]
     },
     {
-      "word": "ruminate",
+      "id": "1ec0902a-5c0f-483c-b6d8-f4ad077aef70",
+      "word": "to ruminate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcnVtaW5hdGU&hash=a2897ace427255375e2c9e0f25ad445a291497d7&lang=en&cache-only=0",
-      "phonetic_text": "ru:mɪneɪt",
+      "phonetic_text": "ru.mɪ.neɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcnVtaW5hdGU&hash=a2897ace427255375e2c9e0f25ad445a291497d7&lang=en&cache-only=0",
-      "phonetic_am_text": "roomineit",
+      "phonetic_am_text": "roo.mi.neit",
       "img": "",
       "pronunciation": "ˈɹumɪˌneɪt",
       "senses": [
@@ -1364,12 +1393,13 @@
       ]
     },
     {
-      "word": "gallop",
+      "id": "17498163-39b4-4d7a-9648-9f9b53a7bf12",
+      "word": "to gallop",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2FsbG9w&hash=1805773335723d2110f17a34f5b397a0475848f1&lang=en&cache-only=0",
-      "phonetic_text": "gæləp",
+      "phonetic_text": "gæ.ləp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2FsbG9w&hash=1805773335723d2110f17a34f5b397a0475848f1&lang=en&cache-only=0",
-      "phonetic_am_text": "gālēp",
+      "phonetic_am_text": "gā.lēp",
       "img": "",
       "pronunciation": "ˈɡæɫəp",
       "senses": [
@@ -1380,10 +1410,11 @@
       ]
     },
     {
-      "word": "trot",
+      "id": "c9e1460d-dfff-40da-a284-8fb6d074d0a7",
+      "word": "to trot",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHJvdA&hash=1f1a1db516072f63976472514f7bbbe8bbdfd91e&lang=en&cache-only=0",
-      "phonetic_text": "trɑ:t",
+      "phonetic_text": "trɑt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHJvdA&hash=1f1a1db516072f63976472514f7bbbe8bbdfd91e&lang=en&cache-only=0",
       "phonetic_am_text": "traat",
       "img": "",
@@ -1417,14 +1448,15 @@
       ]
     },
     {
-      "word": "browse",
+      "id": "88e941ce-b5fe-44b1-bd9c-2ec55b4b70ba",
+      "word": "to browse",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJvd3Nl&hash=4b3ccb981e009e10a7854a8563b6cfeadac2480f&lang=en&cache-only=0",
       "phonetic_text": "braʊz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJvd3Nl&hash=4b3ccb981e009e10a7854a8563b6cfeadac2480f&lang=en&cache-only=0",
-      "phonetic_am_text": "brawz",
+      "phonetic_am_text": "braooz",
       "img": "https://cdn.langeek.co/photo/19697/original/graze?type=jpeg",
-      "pronunciation": "ˈbɹaʊz",
+      "pronunciation": "braʊz",
       "senses": [
         {
           "definition": "to feed on leaves, twigs, or other plant materials by nibbling or grazing, commonly done by animals such as deer or goats",
@@ -1433,12 +1465,13 @@
       ]
     },
     {
-      "word": "lope",
+      "id": "3e6383aa-d550-41ed-8489-f7fad702e7e2",
+      "word": "to lope",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbG9wZQ&hash=8cab0f2f5e72476171e34d0d140ebbf1af1fa4d3&lang=en&cache-only=0",
       "phonetic_text": "loʊp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbG9wZQ&hash=8cab0f2f5e72476171e34d0d140ebbf1af1fa4d3&lang=en&cache-only=0",
-      "phonetic_am_text": "lowp",
+      "phonetic_am_text": "looop",
       "img": "",
       "pronunciation": "ˈɫoʊp",
       "senses": [
@@ -1449,12 +1482,13 @@
       ]
     },
     {
-      "word": "strut",
+      "id": "df1ba37f-a3f8-4203-b21c-9edefbbe9ea4",
+      "word": "to strut",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RydXQ&hash=08f62fc6fa1ccb8093770e31e35e5e5d70f1a5ac&lang=en&cache-only=0",
-      "phonetic_text": "strʌt",
+      "phonetic_text": "strət",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RydXQ&hash=08f62fc6fa1ccb8093770e31e35e5e5d70f1a5ac&lang=en&cache-only=0",
-      "phonetic_am_text": "strat",
+      "phonetic_am_text": "strēt",
       "img": "",
       "pronunciation": "ˈstɹət",
       "senses": [
@@ -1465,12 +1499,13 @@
       ]
     },
     {
-      "word": "leap",
+      "id": "bd6b83f7-e1a2-4dd1-aff5-19d3f112cde7",
+      "word": "to leap",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGVhcA&hash=5444973560829005b7417a55d98ca237ab10bf3d&lang=en&cache-only=0",
-      "phonetic_text": "li:p",
+      "phonetic_text": "lip",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGVhcA&hash=5444973560829005b7417a55d98ca237ab10bf3d&lang=en&cache-only=0",
-      "phonetic_am_text": "leep",
+      "phonetic_am_text": "lip",
       "img": "https://cdn.langeek.co/photo/43316/original/?type=jpeg",
       "pronunciation": "ˈɫip",
       "senses": [
@@ -1502,7 +1537,8 @@
       ]
     },
     {
-      "word": "flit",
+      "id": "c0d609c1-ab6a-45ff-b2dc-b68147ad2eac",
+      "word": "to flit",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmxpdA&hash=f94c22d7ab937cd46e527ae15be6eda5252161f8&lang=en&cache-only=0",
       "phonetic_text": "flɪt",
@@ -1527,7 +1563,8 @@
       ]
     },
     {
-      "word": "glide",
+      "id": "73a71279-d561-4851-9693-347e6fad4f0b",
+      "word": "to glide",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2xpZGU&hash=832cc212158fdc206457cbbf9d9e1ad73bbe0411&lang=en&cache-only=0",
       "phonetic_text": "glaɪd",
@@ -1564,12 +1601,13 @@
       ]
     },
     {
-      "word": "flutter",
+      "id": "709414fc-2436-4cc6-b544-cea3ed22986b",
+      "word": "to flutter",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmx1dHRlcg&hash=1d1976c493a0aa7e15e32271d9680775177a6c0b&lang=en&cache-only=0",
-      "phonetic_text": "flʌtər",
+      "phonetic_text": "flə.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmx1dHRlcg&hash=1d1976c493a0aa7e15e32271d9680775177a6c0b&lang=en&cache-only=0",
-      "phonetic_am_text": "flatēr",
+      "phonetic_am_text": "flē.tēr",
       "img": "",
       "pronunciation": "ˈfɫətɝ",
       "senses": [
@@ -1601,12 +1639,13 @@
       ]
     },
     {
-      "word": "scamper",
+      "id": "8d4856c2-972a-4343-be6a-cb3db5502dc7",
+      "word": "to scamper",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NhbXBlcg&hash=5c1a3d3c5aa361474664c083772f2840b0545cf5&lang=en&cache-only=0",
-      "phonetic_text": "skæmpər",
+      "phonetic_text": "skæm.pɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NhbXBlcg&hash=5c1a3d3c5aa361474664c083772f2840b0545cf5&lang=en&cache-only=0",
-      "phonetic_am_text": "skāmpēr",
+      "phonetic_am_text": "skām.pēr",
       "img": "https://cdn.langeek.co/photo/46984/original/?type=jpeg",
       "pronunciation": "ˈskæmpɝ",
       "senses": [
@@ -1638,12 +1677,13 @@
       ]
     },
     {
-      "word": "prowl",
+      "id": "0a86a0ca-8da9-40d7-9040-7dfc210f2eef",
+      "word": "to prowl",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJvd2w&hash=6a41936490726215e9e9e44351a5d6d8a6ff040a&lang=en&cache-only=0",
       "phonetic_text": "praʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJvd2w&hash=6a41936490726215e9e9e44351a5d6d8a6ff040a&lang=en&cache-only=0",
-      "phonetic_am_text": "prawl",
+      "phonetic_am_text": "praool",
       "img": "",
       "pronunciation": "ˈpɹaʊɫ",
       "senses": [
@@ -1654,12 +1694,13 @@
       ]
     },
     {
-      "word": "bound",
+      "id": "b9902886-64de-4149-a3c4-472a557a6f64",
+      "word": "to bound",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYm91bmQ&hash=9c0b13718a0d6f3107ed2f16d19c29e475400fe7&lang=en&cache-only=0",
       "phonetic_text": "baʊnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYm91bmQ&hash=9c0b13718a0d6f3107ed2f16d19c29e475400fe7&lang=en&cache-only=0",
-      "phonetic_am_text": "bawnd",
+      "phonetic_am_text": "baoond",
       "img": "https://cdn.langeek.co/photo/43316/original/?type=jpeg",
       "pronunciation": "ˈbaʊnd",
       "senses": [
@@ -1687,13 +1728,14 @@
       ]
     },
     {
-      "word": "amble",
+      "id": "3a09c3dd-0c68-49a1-871b-c309dad4e656",
+      "word": "to amble",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYW1ibGU&hash=c2886490f19b4de440b87bc9fde5f63939671d57&lang=en&cache-only=0",
-      "phonetic_text": "æmbəl",
+      "phonetic_text": "æm.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYW1ibGU&hash=c2886490f19b4de440b87bc9fde5f63939671d57&lang=en&cache-only=0",
-      "phonetic_am_text": "āmbēl",
-      "img": "https://cdn.langeek.co/photo/17811/original/wander?type=jpeg",
+      "phonetic_am_text": "ām.bēl",
+      "img": "https://cdn.langeek.co/photo/61658/original/wander?type=jpeg",
       "pronunciation": "ˈæmbəɫ",
       "senses": [
         {
@@ -1720,12 +1762,13 @@
       ]
     },
     {
-      "word": "swoop",
+      "id": "7be6f665-0908-4164-9e44-f14472bb86b8",
+      "word": "to swoop",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3dvb3A&hash=a132239e467457332cc08af773278ce76aa045ee&lang=en&cache-only=0",
-      "phonetic_text": "swu:p",
+      "phonetic_text": "swup",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3dvb3A&hash=a132239e467457332cc08af773278ce76aa045ee&lang=en&cache-only=0",
-      "phonetic_am_text": "swoop",
+      "phonetic_am_text": "svoop",
       "img": "",
       "pronunciation": "ˈswup",
       "senses": [
@@ -1753,12 +1796,13 @@
       ]
     },
     {
-      "word": "waddle",
+      "id": "4e36af3f-8448-43c7-8f63-613f6f62ae6a",
+      "word": "to waddle",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2FkZGxl&hash=45d9784a2b70d25b079d4e9cf30635e7207eaa94&lang=en&cache-only=0",
-      "phonetic_text": "wɑ:dəl",
+      "phonetic_text": "wɑ.dəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2FkZGxl&hash=45d9784a2b70d25b079d4e9cf30635e7207eaa94&lang=en&cache-only=0",
-      "phonetic_am_text": "waadēl",
+      "phonetic_am_text": "vaa.dēl",
       "img": "",
       "pronunciation": "ˈwɑdəɫ",
       "senses": [
@@ -1790,14 +1834,15 @@
       ]
     },
     {
-      "word": "charge",
+      "id": "03931536-6d3e-43f2-9ff9-08ce221eeb0f",
+      "word": "to charge",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hhcmdl&hash=f76dbc268e49a0827cfa45372afc9d96fd4d46d4&lang=en&cache-only=0",
-      "phonetic_text": "ʧɑ:rʤ",
+      "phonetic_text": "ʧɑrʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2hhcmdl&hash=f76dbc268e49a0827cfa45372afc9d96fd4d46d4&lang=en&cache-only=0",
       "phonetic_am_text": "chaarj",
       "img": "https://cdn.langeek.co/photo/19522/original/attack?type=jpeg",
-      "pronunciation": "ˈtʃɑɹdʒ",
+      "pronunciation": "ʧɑrdʒ",
       "senses": [
         {
           "definition": "to attack violently and suddenly in a battle",
@@ -1823,7 +1868,8 @@
       ]
     },
     {
-      "word": "fly",
+      "id": "4e9f51c3-c912-4ee5-87af-fef8a28b81c5",
+      "word": "to fly",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmx5&hash=572e2387383ac2d52a5cea0931a2251903006648&lang=en&cache-only=0",
       "phonetic_text": "flaɪ",
@@ -1860,12 +1906,13 @@
       ]
     },
     {
-      "word": "crawl",
+      "id": "212b4e7f-c7a0-499a-a792-365810de6024",
+      "word": "to crawl",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3Jhd2w&hash=7ee4d3aa955e25dee9cd48a0c9a6dc8f3813a237&lang=en&cache-only=0",
-      "phonetic_text": "krɔ:l",
+      "phonetic_text": "krɔl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3Jhd2w&hash=7ee4d3aa955e25dee9cd48a0c9a6dc8f3813a237&lang=en&cache-only=0",
-      "phonetic_am_text": "kraawl",
+      "phonetic_am_text": "krawl",
       "img": "https://cdn.langeek.co/photo/22953/original/?type=jpeg",
       "pronunciation": "ˈkɹɔɫ",
       "senses": [
@@ -1897,12 +1944,13 @@
       ]
     },
     {
-      "word": "lumber",
+      "id": "d6e7f9b1-ccff-4397-b2ad-7e12d5b6c6a4",
+      "word": "to lumber",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbHVtYmVy&hash=a738795d214b0365be324b4c8aa002cea9b75bd8&lang=en&cache-only=0",
-      "phonetic_text": "lʌmbər",
+      "phonetic_text": "ləm.bɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbHVtYmVy&hash=a738795d214b0365be324b4c8aa002cea9b75bd8&lang=en&cache-only=0",
-      "phonetic_am_text": "lambēr",
+      "phonetic_am_text": "lēm.bēr",
       "img": "",
       "pronunciation": "ˈɫəmbɝ",
       "senses": [
@@ -1913,14 +1961,15 @@
       ]
     },
     {
-      "word": "swing",
+      "id": "2e9d4880-f227-4851-b0a7-24353a945d8f",
+      "word": "to swing",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3dpbmc&hash=e8a8aa5fed929bc0414f6fcc73e09053686e2123&lang=en&cache-only=0",
       "phonetic_text": "swɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3dpbmc&hash=e8a8aa5fed929bc0414f6fcc73e09053686e2123&lang=en&cache-only=0",
-      "phonetic_am_text": "swing",
+      "phonetic_am_text": "sving",
       "img": "https://cdn.langeek.co/photo/32525/original/?type=jpeg",
-      "pronunciation": "ˈswɪŋ",
+      "pronunciation": "swɪŋ",
       "senses": [
         {
           "definition": "to move or make something move from one side to another while suspended",

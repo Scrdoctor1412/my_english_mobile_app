@@ -1,47 +1,93 @@
 {
+  "id": "f28c34f4-919a-4597-8c76-eb576d712bb2",
   "topic": "literature",
   "title": "Book Production",
   "lesson": "lesson_2",
   "word_list": [
     {
+      "id": "1532d53b-0cff-4984-af73-31ec86aa7fd2",
       "word": "author",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXV0aG9y&hash=2a2f06eaa38a6ea726d77465108ad4402776375a&lang=en&cache-only=0",
-      "phonetic_text": "ɔ:θər",
+      "phonetic_text": "ɔ.θɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YXV0aG9y&hash=2a2f06eaa38a6ea726d77465108ad4402776375a&lang=en&cache-only=0",
-      "phonetic_am_text": "aawthēr",
+      "phonetic_am_text": "aw.thēr",
       "img": "https://cdn.langeek.co/photo/39197/original/writer?type=jpeg",
-      "pronunciation": "ˈɔθɝ",
+      "pronunciation": "ˈɑːθɚ",
       "senses": [
         {
           "definition": "a person who writes books, articles, etc., often as a job",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The author's latest novel topped the bestseller list, captivating readers with its gripping plot and memorable characters."
+            },
+            {
+              "cf": "",
+              "x": "As an accomplished author, she penned numerous articles and essays on topics ranging from politics to culture."
+            },
+            {
+              "cf": "",
+              "x": "The aspiring author diligently worked on their manuscript, hoping to one day see their book in print."
+            },
+            {
+              "cf": "",
+              "x": "During the book signing event, fans eagerly lined up to meet their favorite author and get their copies autographed."
+            },
+            {
+              "cf": "",
+              "x": "The literary critic praised the author's prose style, noting its elegance and sophistication."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "8623d5a2-b67b-44b7-8a05-5ffd33cde25e",
       "word": "novelist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bm92ZWxpc3Q&hash=fa4f498c056f17e27aec85e7b861133e00f47e5e&lang=en&cache-only=0",
-      "phonetic_text": "nɑ:vələst",
+      "phonetic_text": "nɑ.və.ləst",
       "phonetic_am": "https://tts.langeek.co/read?text=bm92ZWxpc3Q&hash=fa4f498c056f17e27aec85e7b861133e00f47e5e&lang=en&cache-only=0",
-      "phonetic_am_text": "naavēlēst",
+      "phonetic_am_text": "naa.vē.lēst",
       "img": "https://cdn.langeek.co/photo/39197/original/writer?type=jpeg",
       "pronunciation": "ˈnɑvəɫəst",
       "senses": [
         {
           "definition": "a writer who explores characters, events, and themes in depth through long narrative stories, particularly novels",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The novelist spent years researching for her historical fiction book to ensure accuracy in the portrayal of events."
+            },
+            {
+              "cf": "",
+              "x": "He became a bestselling novelist after his debut novel captured the hearts of readers worldwide."
+            },
+            {
+              "cf": "",
+              "x": "Many aspiring novelists attend writing workshops to refine their craft and gain feedback on their work."
+            },
+            {
+              "cf": "",
+              "x": "The award-winning novelist was invited to speak at the literary festival about the importance of storytelling."
+            },
+            {
+              "cf": "",
+              "x": "She often draws inspiration from her own life experiences to create compelling characters as a novelist."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "8ed4ba8f-5f2c-4d5b-9da9-d23ccf095857",
       "word": "copy editor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29weSBlZGl0b3I&hash=fb0c07c2915dda0d977c5aacb83e372e71059290&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑ:.pi ɛ.dɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29weSBlZGl0b3I&hash=fb0c07c2915dda0d977c5aacb83e372e71059290&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaa.pi e.di.tēr",
       "img": "",
       "pronunciation": "kˈɑːpi ˈɛdɪɾɚ",
       "senses": [
@@ -52,12 +98,13 @@
       ]
     },
     {
+      "id": "842ecc30-57bc-4dca-bae1-4c0150389a71",
       "word": "structural editor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RydWN0dXJhbCBlZGl0b3I&hash=b8d23b64dc6c7d5a4e0c51f478be06830b3dffca&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "strək.ʧɜ.rəl ɛ.dɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RydWN0dXJhbCBlZGl0b3I&hash=b8d23b64dc6c7d5a4e0c51f478be06830b3dffca&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "strēk.chē.rēl e.di.tēr",
       "img": "",
       "pronunciation": "stɹˈʌktʃɚɹəl ˈɛdɪɾɚ",
       "senses": [
@@ -68,12 +115,13 @@
       ]
     },
     {
+      "id": "5f739d1b-2e96-465a-a6db-bd0526253c7f",
       "word": "commissioning editor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29tbWlzc2lvbmluZyBlZGl0b3I&hash=5f47d783553aabc0db9cff2db9a218bef8bc604f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kə.mɪ.ʃə.nɪng ɛ.dɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tbWlzc2lvbmluZyBlZGl0b3I&hash=5f47d783553aabc0db9cff2db9a218bef8bc604f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kē.mi.shē.ning e.di.tēr",
       "img": "",
       "pronunciation": "kəmˈɪʃənɪŋ ˈɛdɪɾɚ",
       "senses": [
@@ -84,10 +132,11 @@
       ]
     },
     {
+      "id": "36beec55-e7ea-45fb-9048-24d6d427262d",
       "word": "permissions editor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVybWlzc2lvbnMgZWRpdG9y&hash=fea99e6ec909228834bef624ef71792212fe03e8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVybWlzc2lvbnMgZWRpdG9y&hash=fea99e6ec909228834bef624ef71792212fe03e8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -100,12 +149,13 @@
       ]
     },
     {
+      "id": "f2b7da3b-ae88-49ba-9378-c8c623f7d3de",
       "word": "content editor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29udGVudCBlZGl0b3I&hash=f7b71e023336099b95cfe828358fb6cfd895dbc5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑn.tɛnt ɛ.dɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29udGVudCBlZGl0b3I&hash=f7b71e023336099b95cfe828358fb6cfd895dbc5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaan.tent e.di.tēr",
       "img": "",
       "pronunciation": "kˈɑːntɛnt ˈɛdɪɾɚ",
       "senses": [
@@ -116,12 +166,13 @@
       ]
     },
     {
+      "id": "8b567132-9904-44d0-8fea-23dbded91b5a",
       "word": "sensitivity editor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Vuc2l0aXZpdHkgZWRpdG9y&hash=cac00b5be02c57d3e382a73233a35c59edae4827&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛn.sɪ.tɪ.vɪ.ti ɛ.dɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Vuc2l0aXZpdHkgZWRpdG9y&hash=cac00b5be02c57d3e382a73233a35c59edae4827&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sen.si.ti.vi.ti e.di.tēr",
       "img": "",
       "pronunciation": "sˌɛnsɪtˈɪvɪɾi ˈɛdɪɾɚ",
       "senses": [
@@ -132,12 +183,13 @@
       ]
     },
     {
+      "id": "db85a909-ec68-405d-8619-6598f26e03c5",
       "word": "line editor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGluZSBlZGl0b3I&hash=7b893979f95b38692abaa468431d533c6e71ce3a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "laɪn ɛ.dɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=bGluZSBlZGl0b3I&hash=7b893979f95b38692abaa468431d533c6e71ce3a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lain e.di.tēr",
       "img": "",
       "pronunciation": "lˈaɪn ˈɛdɪɾɚ",
       "senses": [
@@ -148,12 +200,13 @@
       ]
     },
     {
+      "id": "6ebe7130-3c1d-46c7-b7dd-73f7c3e58eb2",
       "word": "bookseller",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9va3NlbGxlcg&hash=bee0fb4e33eaf489e98105321df9e75a160d3fb3&lang=en&cache-only=0",
-      "phonetic_text": "bʊksɛlər",
+      "phonetic_text": "bʊk.sɛ.lər",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9va3NlbGxlcg&hash=bee0fb4e33eaf489e98105321df9e75a160d3fb3&lang=en&cache-only=0",
-      "phonetic_am_text": "bukselēr",
+      "phonetic_am_text": "book.se.lēr",
       "img": "",
       "pronunciation": "ˈbʊkˌselər",
       "senses": [
@@ -164,12 +217,13 @@
       ]
     },
     {
+      "id": "183f3403-54cd-4b9c-9237-55d5f03ac611",
       "word": "copywriter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29weXdyaXRlcg&hash=4d97cadbe25a0e8cfc515c6263f93e623fb92ed1&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:piraɪtər",
+      "phonetic_text": "kɑ:.pi.raɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29weXdyaXRlcg&hash=4d97cadbe25a0e8cfc515c6263f93e623fb92ed1&lang=en&cache-only=0",
-      "phonetic_am_text": "kaapiraitēr",
+      "phonetic_am_text": "kaa.pi.rai.tēr",
       "img": "",
       "pronunciation": "ˈkɑpiˌɹaɪtɝ",
       "senses": [
@@ -180,12 +234,13 @@
       ]
     },
     {
+      "id": "4f831862-525f-4e3e-881c-c5adfe296ed0",
       "word": "cover artist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y292ZXIgYXJ0aXN0&hash=88b655bb1db94dc3c614b22f73449ddc2260a68a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kʌ.vər ɑ:r.tɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=Y292ZXIgYXJ0aXN0&hash=88b655bb1db94dc3c614b22f73449ddc2260a68a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ka.vēr aar.tist",
       "img": "",
       "pronunciation": "kˈʌvɚɹ ˈɑːɹɾɪst",
       "senses": [
@@ -196,10 +251,11 @@
       ]
     },
     {
+      "id": "cda99d52-d95b-4a4a-9995-29b5a7cc6003",
       "word": "cover blurber",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y292ZXIgYmx1cmJlcg&hash=3d978b1734fcb33212f9e6f657b0743e7700be2f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y292ZXIgYmx1cmJlcg&hash=3d978b1734fcb33212f9e6f657b0743e7700be2f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -212,12 +268,13 @@
       ]
     },
     {
+      "id": "0949ce76-70ab-40ec-801c-a1c9a59f5cbe",
       "word": "fact-checker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFjdC1jaGVja2Vy&hash=5706375fe73be802a1913a47dda3c553e56be69d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fækt-ʧɛ.kɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFjdC1jaGVja2Vy&hash=5706375fe73be802a1913a47dda3c553e56be69d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fākt-che.kēr",
       "img": "",
       "pronunciation": "fˈækttʃˈɛkɚ",
       "senses": [
@@ -228,12 +285,13 @@
       ]
     },
     {
+      "id": "fb775990-ab23-452c-8170-eb7ab7f624fb",
       "word": "ghostwriter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2hvc3R3cml0ZXI&hash=b813ee4602c16b858b24a3a17c990efa1a3a0ec0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "goʊst.raɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2hvc3R3cml0ZXI&hash=b813ee4602c16b858b24a3a17c990efa1a3a0ec0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gooost.rai.tēr",
       "img": "",
       "pronunciation": "ɡˈoʊstɹaɪɾɚ",
       "senses": [
@@ -265,12 +323,13 @@
       ]
     },
     {
+      "id": "053deb1c-8eec-4764-8bd6-58e7ef18ffcd",
       "word": "indexer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5kZXhlcg&hash=0646dc724c1cbf3fa1a7e41200945d9e5f6a1efe&lang=en&cache-only=0",
-      "phonetic_text": "ɪndɛksər",
+      "phonetic_text": "ɪn.dɛk.sɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5kZXhlcg&hash=0646dc724c1cbf3fa1a7e41200945d9e5f6a1efe&lang=en&cache-only=0",
-      "phonetic_am_text": "indeksēr",
+      "phonetic_am_text": "in.dek.sēr",
       "img": "",
       "pronunciation": "ˈɪnˌdɛksɝ",
       "senses": [
@@ -281,12 +340,13 @@
       ]
     },
     {
+      "id": "83bcdb2f-d829-4653-ab23-801972ef6e0c",
       "word": "literary agent",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGl0ZXJhcnkgYWdlbnQ&hash=a7101873e48c6bfdea54948c900064b40719e7cd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɪ.tɜ.rɛ.ri eɪ.ʤənt",
       "phonetic_am": "https://tts.langeek.co/read?text=bGl0ZXJhcnkgYWdlbnQ&hash=a7101873e48c6bfdea54948c900064b40719e7cd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "li.tē.re.ri ei.jēnt",
       "img": "",
       "pronunciation": "lˈɪɾɚɹˌɛɹi ˈeɪdʒənt",
       "senses": [
@@ -297,12 +357,13 @@
       ]
     },
     {
+      "id": "fad64a4a-73d6-498b-a3c7-b009672ed975",
       "word": "audio engineer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXVkaW8gZW5naW5lZXI&hash=a022d0b3990ed8f777bf845b38b82e2178876c69&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ.dioʊ ɛn.ʤɪ.nɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=YXVkaW8gZW5naW5lZXI&hash=a022d0b3990ed8f777bf845b38b82e2178876c69&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aa.diooo en.ji.nir",
       "img": "",
       "pronunciation": "ˈɔːdɪˌoʊ ˌɛndʒɪnˈɪɹ",
       "senses": [
@@ -334,12 +395,13 @@
       ]
     },
     {
+      "id": "a259228c-6962-4103-bc07-fa3400e8401d",
       "word": "poet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9ldA&hash=1317278901ec231da25d57fb20b7f0af943f73b1&lang=en&cache-only=0",
-      "phonetic_text": "poʊət",
+      "phonetic_text": "poʊɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9ldA&hash=1317278901ec231da25d57fb20b7f0af943f73b1&lang=en&cache-only=0",
-      "phonetic_am_text": "powēt",
+      "phonetic_am_text": "poooit",
       "img": "https://cdn.langeek.co/photo/44996/original/poet?type=jpeg",
       "pronunciation": "ˈpoʊɪt",
       "senses": [
@@ -371,12 +433,13 @@
       ]
     },
     {
+      "id": "08a87579-4fdc-4c77-ac1e-27dc97e3d174",
       "word": "printer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJpbnRlcg&hash=98df52539da9060c62ce7d9660403b710f9cd354&lang=en&cache-only=0",
-      "phonetic_text": "prɪntər",
+      "phonetic_text": "prɪn.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJpbnRlcg&hash=98df52539da9060c62ce7d9660403b710f9cd354&lang=en&cache-only=0",
-      "phonetic_am_text": "printēr",
+      "phonetic_am_text": "prin.tēr",
       "img": "https://cdn.langeek.co/photo/33685/original/?type=jpeg",
       "pronunciation": "ˈprɪntɚ",
       "senses": [
@@ -387,12 +450,13 @@
       ]
     },
     {
+      "id": "6aec8324-6c26-4c4c-9416-1ca5fdbed4f1",
       "word": "production manager",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvZHVjdGlvbiBtYW5hZ2Vy&hash=9b1de9e49ae1a4e5ab83460d7467ef8e6b23151a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɜr.dək.ʃən mæ.nɪ.ʤər",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvZHVjdGlvbiBtYW5hZ2Vy&hash=9b1de9e49ae1a4e5ab83460d7467ef8e6b23151a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pēr.dēk.shēn mā.ni.jēr",
       "img": "",
       "pronunciation": "pɹədˈʌkʃən mˈænɪdʒɚ",
       "senses": [
@@ -403,12 +467,13 @@
       ]
     },
     {
+      "id": "15a2601f-d14a-470d-aa95-3af96a605f7e",
       "word": "proofreader",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvb2ZyZWFkZXI&hash=48d38d08e13ed45430a91b596de3f2e5aa3e1bb2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pruf.ri:.dər",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvb2ZyZWFkZXI&hash=48d38d08e13ed45430a91b596de3f2e5aa3e1bb2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "proof.ri.dēr",
       "img": "",
       "pronunciation": "pɹˈuːfɹiːdɚ",
       "senses": [
@@ -419,12 +484,13 @@
       ]
     },
     {
+      "id": "4bbd36f4-f0cc-454a-a2ed-6d485fb4c67e",
       "word": "publicist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHVibGljaXN0&hash=50afb488771f8f2ad146b50f5e07f02851bf9c9a&lang=en&cache-only=0",
-      "phonetic_text": "pʌblɪsɪst",
+      "phonetic_text": "pəb.lɪ.sɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=cHVibGljaXN0&hash=50afb488771f8f2ad146b50f5e07f02851bf9c9a&lang=en&cache-only=0",
-      "phonetic_am_text": "pablisist",
+      "phonetic_am_text": "pēb.li.sist",
       "img": "",
       "pronunciation": "ˈpəbɫɪsɪst",
       "senses": [
@@ -435,12 +501,13 @@
       ]
     },
     {
+      "id": "869ff4d6-64f7-42cd-8953-3ef84120fa38",
       "word": "publisher",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHVibGlzaGVy&hash=fd0ca65fa41b1412c38eab053842933d0e9098e4&lang=en&cache-only=0",
-      "phonetic_text": "pʌblɪʃər",
+      "phonetic_text": "pəb.lɪ.ʃɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cHVibGlzaGVy&hash=fd0ca65fa41b1412c38eab053842933d0e9098e4&lang=en&cache-only=0",
-      "phonetic_am_text": "pablishēr",
+      "phonetic_am_text": "pēb.li.shēr",
       "img": "",
       "pronunciation": "ˈpəbɫɪʃɝ",
       "senses": [
@@ -468,10 +535,11 @@
       ]
     },
     {
+      "id": "229036d2-d22d-46ec-8852-d05de0533971",
       "word": "rights manager",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmlnaHRzIG1hbmFnZXI&hash=a0f587596a7b2f041ed701b01f492b53d44d8ace&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cmlnaHRzIG1hbmFnZXI&hash=a0f587596a7b2f041ed701b01f492b53d44d8ace&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -484,12 +552,13 @@
       ]
     },
     {
+      "id": "2217588b-cc8e-4de5-a0f1-44c288eb91b5",
       "word": "transcriptionist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhbnNjcmlwdGlvbmlzdA&hash=7988b3b5211833e38165328ef3eb2cdedfab0f1b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "træns.krɪp.ʃə.nɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhbnNjcmlwdGlvbmlzdA&hash=7988b3b5211833e38165328ef3eb2cdedfab0f1b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trāns.krip.shē.nist",
       "img": "",
       "pronunciation": "tɹænskɹˈɪpʃənˌɪst",
       "senses": [
@@ -500,14 +569,15 @@
       ]
     },
     {
+      "id": "9d95b8be-bef2-4d64-bc15-8c46f8643b4d",
       "word": "translator",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhbnNsYXRvcg&hash=9ebb14c1081c5da187f99e2ce232a2708ad7b844&lang=en&cache-only=0",
-      "phonetic_text": "trænsleɪtər",
+      "phonetic_text": "træns.leɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhbnNsYXRvcg&hash=9ebb14c1081c5da187f99e2ce232a2708ad7b844&lang=en&cache-only=0",
-      "phonetic_am_text": "trānsleitēr",
+      "phonetic_am_text": "trāns.lei.tēr",
       "img": "https://cdn.langeek.co/photo/50665/original/translator?type=jpeg",
-      "pronunciation": "tɹænˈsɫeɪtɝ/, /tɹænzˈɫeɪtɝ",
+      "pronunciation": "ˈtrænsˌleɪtɚ",
       "senses": [
         {
           "definition": "someone whose job is to change written or spoken words from one language to another",
@@ -537,12 +607,13 @@
       ]
     },
     {
+      "id": "f7109c20-be27-413a-b99c-f557c23fe62e",
       "word": "typesetter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHlwZXNldHRlcg&hash=28ed902b5bc68c306b519fc71aeca8391fbe43fe&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "taɪp.sɛ.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dHlwZXNldHRlcg&hash=28ed902b5bc68c306b519fc71aeca8391fbe43fe&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "taip.se.tēr",
       "img": "",
       "pronunciation": "tˈaɪpsɛɾɚ",
       "senses": [
@@ -553,12 +624,13 @@
       ]
     },
     {
+      "id": "67709f7c-779b-481c-9692-df2483a54495",
       "word": "typist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHlwaXN0&hash=f0be8ca055acbf466e5d47f7b869d5f864d6b070&lang=en&cache-only=0",
-      "phonetic_text": "taɪpɪst",
+      "phonetic_text": "taɪ.pɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=dHlwaXN0&hash=f0be8ca055acbf466e5d47f7b869d5f864d6b070&lang=en&cache-only=0",
-      "phonetic_am_text": "taipist",
+      "phonetic_am_text": "tai.pist",
       "img": "",
       "pronunciation": "ˈtaɪpɪst",
       "senses": [
@@ -569,14 +641,15 @@
       ]
     },
     {
+      "id": "d6b14278-2a19-4846-82f7-92a2b6b56c91",
       "word": "writer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d3JpdGVy&hash=6482a2bfbd4cbd6b1327c6e7779f824265ff7acc&lang=en&cache-only=0",
-      "phonetic_text": "raɪtər",
+      "phonetic_text": "raɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=d3JpdGVy&hash=6482a2bfbd4cbd6b1327c6e7779f824265ff7acc&lang=en&cache-only=0",
-      "phonetic_am_text": "raitēr",
+      "phonetic_am_text": "rai.tēr",
       "img": "https://cdn.langeek.co/photo/39197/original/writer?type=jpeg",
-      "pronunciation": "ˈɹaɪtɝ",
+      "pronunciation": "ˈraɪtɚ",
       "senses": [
         {
           "definition": "someone whose job involves writing articles, books, stories, etc.",
@@ -606,12 +679,13 @@
       ]
     },
     {
+      "id": "5e2124ea-905d-4845-8d6c-559795624d53",
       "word": "distributor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzdHJpYnV0b3I&hash=bdcfa92f572b365ad1f0194f6d0833289be7ff6c&lang=en&cache-only=0",
-      "phonetic_text": "dɪstrɪbjətər",
+      "phonetic_text": "dɪst.rɪb.jə.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzdHJpYnV0b3I&hash=bdcfa92f572b365ad1f0194f6d0833289be7ff6c&lang=en&cache-only=0",
-      "phonetic_am_text": "distribyētēr",
+      "phonetic_am_text": "dist.rib.yē.tēr",
       "img": "",
       "pronunciation": "dɪˈstɹɪbjətɝ",
       "senses": [
@@ -643,10 +717,11 @@
       ]
     },
     {
+      "id": "3d7aa052-ce6e-4a8b-8a8f-dbb99f2db2dd",
       "word": "bard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFyZA&hash=89b26a9a74e701d13baac680841a6b24b5a14ad5&lang=en&cache-only=0",
-      "phonetic_text": "bɑ:rd",
+      "phonetic_text": "bɑrd",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFyZA&hash=89b26a9a74e701d13baac680841a6b24b5a14ad5&lang=en&cache-only=0",
       "phonetic_am_text": "baard",
       "img": "",
@@ -676,12 +751,13 @@
       ]
     },
     {
+      "id": "63dd4cd2-fdb2-41ee-82c3-0d443d3e66f6",
       "word": "biographer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmlvZ3JhcGhlcg&hash=c0a2fb443149b46032c53be76188d6c022643d1f&lang=en&cache-only=0",
-      "phonetic_text": "baɪɑ:grəfər",
+      "phonetic_text": "baɪɑg.rə.fɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YmlvZ3JhcGhlcg&hash=c0a2fb443149b46032c53be76188d6c022643d1f&lang=en&cache-only=0",
-      "phonetic_am_text": "baiaagrēfēr",
+      "phonetic_am_text": "baiaag.rē.fēr",
       "img": "",
       "pronunciation": "baɪˈɑɡɹəfɝ",
       "senses": [
@@ -692,14 +768,15 @@
       ]
     },
     {
+      "id": "f1b6ca24-0bb8-473d-a6b8-523d373b330b",
       "word": "co-author",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y28tYXV0aG9y&hash=4403f98a1f6dd7142d1abce848c3cc050ddcd0ef&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "koʊ-ɔ.θɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y28tYXV0aG9y&hash=4403f98a1f6dd7142d1abce848c3cc050ddcd0ef&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kooo-aw.thēr",
       "img": "",
-      "pronunciation": "kˈoʊˈɔːθɚ",
+      "pronunciation": "ˈkoʊˌɑθɚ",
       "senses": [
         {
           "definition": "someone who writes a book, article, etc. with another author",
@@ -708,12 +785,13 @@
       ]
     },
     {
+      "id": "3d5658a2-c9a6-46ad-a230-b59cd1c559c8",
       "word": "collaborator",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29sbGFib3JhdG9y&hash=ff5f6e0a33e67c9d85c35bdfcb0f89a30627c5a6&lang=en&cache-only=0",
-      "phonetic_text": "kəlæbəreɪtər",
+      "phonetic_text": "kə.læ.bɜ.reɪ.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29sbGFib3JhdG9y&hash=ff5f6e0a33e67c9d85c35bdfcb0f89a30627c5a6&lang=en&cache-only=0",
-      "phonetic_am_text": "kēlābēreitēr",
+      "phonetic_am_text": "kē.lā.bē.rei.tēr",
       "img": "",
       "pronunciation": "kəˈɫæbɝˌeɪtɝ",
       "senses": [
@@ -724,12 +802,13 @@
       ]
     },
     {
+      "id": "7d856af9-f8d3-43b4-96b6-98b6f4292b93",
       "word": "diarist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlhcmlzdA&hash=74eb2b8d24f957361e67796e36543a416c6730d5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "daɪə.rɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlhcmlzdA&hash=74eb2b8d24f957361e67796e36543a416c6730d5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "daiē.rist",
       "img": "",
       "pronunciation": "dˈaɪɚɹˌɪst",
       "senses": [
@@ -740,12 +819,13 @@
       ]
     },
     {
+      "id": "9efc8430-1c71-4c02-9f2a-3cbe329d8825",
       "word": "essayist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXNzYXlpc3Q&hash=978da095f89b234d82dda5606eb54951194513b3&lang=en&cache-only=0",
-      "phonetic_text": "ɛseɪɪst",
+      "phonetic_text": "ɛ.seɪɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXNzYXlpc3Q&hash=978da095f89b234d82dda5606eb54951194513b3&lang=en&cache-only=0",
-      "phonetic_am_text": "eseiist",
+      "phonetic_am_text": "e.seiist",
       "img": "",
       "pronunciation": "ˈɛˌseɪɪst",
       "senses": [
@@ -756,6 +836,7 @@
       ]
     },
     {
+      "id": "0219d151-54bb-40a0-b2e0-0735055ee3d2",
       "word": "hack",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFjaw&hash=b1b89bb444f46fb6f9761049875a7a6b59e26eaf&lang=en&cache-only=0",
@@ -772,12 +853,13 @@
       ]
     },
     {
+      "id": "c62e2f33-2305-4947-9ef4-872a33057b45",
       "word": "hagiographer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFnaW9ncmFwaGVy&hash=c831582591c3d06ac4d33ade2c05ce3ba0b9ba75&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hæ.ʤɪɑ:g.rə.fər",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFnaW9ncmFwaGVy&hash=c831582591c3d06ac4d33ade2c05ce3ba0b9ba75&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hā.jiaag.rē.fēr",
       "img": "",
       "pronunciation": "hˌædʒɪˈɑːɡɹəfɚ",
       "senses": [
@@ -788,12 +870,13 @@
       ]
     },
     {
+      "id": "15a66d3b-1b46-41d3-9aaf-4eba016cdb95",
       "word": "historian",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGlzdG9yaWFu&hash=f1c70c1ae98bf3cad62cc683da313a83f5437afb&lang=en&cache-only=0",
-      "phonetic_text": "hɪstɔ:riən",
+      "phonetic_text": "hɪs.tɔ.riən",
       "phonetic_am": "https://tts.langeek.co/read?text=aGlzdG9yaWFu&hash=f1c70c1ae98bf3cad62cc683da313a83f5437afb&lang=en&cache-only=0",
-      "phonetic_am_text": "histaawriēn",
+      "phonetic_am_text": "his.taw.riēn",
       "img": "",
       "pronunciation": "hɪˈstɔɹiən",
       "senses": [
@@ -804,12 +887,13 @@
       ]
     },
     {
+      "id": "efa6b385-51c7-4742-8a8e-7c25a60f2b45",
       "word": "lexicographer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGV4aWNvZ3JhcGhlcg&hash=f52eac97dcafc94822111677eb163abbb273f361&lang=en&cache-only=0",
-      "phonetic_text": "lɛksɪkɑ:grəfər",
+      "phonetic_text": "lɛk.sɪ.kɑg.rə.fɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bGV4aWNvZ3JhcGhlcg&hash=f52eac97dcafc94822111677eb163abbb273f361&lang=en&cache-only=0",
-      "phonetic_am_text": "leksikaagrēfēr",
+      "phonetic_am_text": "lek.si.kaag.rē.fēr",
       "img": "",
       "pronunciation": "ˌɫɛksɪˈkɑɡɹəfɝ",
       "senses": [
@@ -841,12 +925,13 @@
       ]
     },
     {
+      "id": "94552d7f-a974-441a-851d-958b9df57501",
       "word": "literati",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGl0ZXJhdGk&hash=80580613b0aa3c61c502acc470ebe192d2450531&lang=en&cache-only=0",
-      "phonetic_text": "lɪtərɑ:ti",
+      "phonetic_text": "lɪ.tɜ.rɑ.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=bGl0ZXJhdGk&hash=80580613b0aa3c61c502acc470ebe192d2450531&lang=en&cache-only=0",
-      "phonetic_am_text": "litēraati",
+      "phonetic_am_text": "li.tē.raa.ti",
       "img": "",
       "pronunciation": "ˌɫɪtɝˈɑti",
       "senses": [
@@ -866,12 +951,13 @@
       ]
     },
     {
+      "id": "3142658f-ebcd-4d09-b458-8fe5c9afbf76",
       "word": "man of letters",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFuIG9mIGxldHRlcnM&hash=e91110a2cb8a45805499a8161345d589f3cece30&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mæn ʌv lɛ.tɜrz",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFuIG9mIGxldHRlcnM&hash=e91110a2cb8a45805499a8161345d589f3cece30&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mān av le.tērz",
       "img": "https://cdn.langeek.co/photo/39197/original/writer?type=jpeg",
       "pronunciation": "mˈæn ʌv lˈɛɾɚz",
       "senses": [
@@ -903,12 +989,13 @@
       ]
     },
     {
+      "id": "b30aed32-d5d9-43b5-bc06-651645274790",
       "word": "pamphleteer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFtcGhsZXRlZXI&hash=4e86d89521cf41f33d49beb7cc2bc1309c56c5f5&lang=en&cache-only=0",
-      "phonetic_text": "pæmflətɪr",
+      "phonetic_text": "pæmf.lə.tɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFtcGhsZXRlZXI&hash=4e86d89521cf41f33d49beb7cc2bc1309c56c5f5&lang=en&cache-only=0",
-      "phonetic_am_text": "pāmflētir",
+      "phonetic_am_text": "pāmf.lē.tir",
       "img": "",
       "pronunciation": "ˌpæmfɫəˈtɪɹ",
       "senses": [
@@ -940,12 +1027,13 @@
       ]
     },
     {
+      "id": "8360418d-399c-4fb3-8885-79b1880f8ec4",
       "word": "pen name",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVuIG5hbWU&hash=ca56b095975a510b50ef4bc9d63ef1511c5d2281&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pen neɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVuIG5hbWU&hash=ca56b095975a510b50ef4bc9d63ef1511c5d2281&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pen neim",
       "img": "",
       "pronunciation": "pˈɛn nˈeɪm",
       "senses": [
@@ -977,12 +1065,13 @@
       ]
     },
     {
+      "id": "c08c0da0-4716-4315-b1d4-eaab79e0d5ad",
       "word": "satirist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2F0aXJpc3Q&hash=854c0579acb72ad03b54737dee19ef15c3303f15&lang=en&cache-only=0",
-      "phonetic_text": "sætərəst",
+      "phonetic_text": "sæ.tɜ.rəst",
       "phonetic_am": "https://tts.langeek.co/read?text=c2F0aXJpc3Q&hash=854c0579acb72ad03b54737dee19ef15c3303f15&lang=en&cache-only=0",
-      "phonetic_am_text": "sātērēst",
+      "phonetic_am_text": "sā.tē.rēst",
       "img": "",
       "pronunciation": "ˈsætɝəst",
       "senses": [
@@ -1014,14 +1103,15 @@
       ]
     },
     {
+      "id": "9d6343a2-7c96-4cb8-972c-b3cd20675e6d",
       "word": "storyteller",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3Rvcnl0ZWxsZXI&hash=97e4392aff3e169e6035f995a09a6b66acae1bd1&lang=en&cache-only=0",
-      "phonetic_text": "stɔ:ritɛlər",
+      "phonetic_text": "stɔ:.ri.tɛ.lɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3Rvcnl0ZWxsZXI&hash=97e4392aff3e169e6035f995a09a6b66acae1bd1&lang=en&cache-only=0",
-      "phonetic_am_text": "staawritelēr",
+      "phonetic_am_text": "staw.ri.te.lēr",
       "img": "",
-      "pronunciation": "ˈstɔɹiˌtɛɫɝ",
+      "pronunciation": "ˈstɔriˌtɛlɚ",
       "senses": [
         {
           "definition": "someone who creates and shares stories",
@@ -1030,12 +1120,13 @@
       ]
     },
     {
+      "id": "bf08bfdc-ea71-4625-887b-fe18ba42d5e8",
       "word": "wordsmith",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d29yZHNtaXRo&hash=780f01a4ddab331c01f78ac9978466155842507d&lang=en&cache-only=0",
-      "phonetic_text": "wɜrdsmɪθ",
+      "phonetic_text": "wɜrd.smɪθ",
       "phonetic_am": "https://tts.langeek.co/read?text=d29yZHNtaXRo&hash=780f01a4ddab331c01f78ac9978466155842507d&lang=en&cache-only=0",
-      "phonetic_am_text": "wērdsmith",
+      "phonetic_am_text": "vērd.smith",
       "img": "",
       "pronunciation": "ˈwɝdsˌmɪθ",
       "senses": [
@@ -1046,12 +1137,13 @@
       ]
     },
     {
+      "id": "0c7342b7-9392-49d6-8b08-89de43bc4cd1",
       "word": "book design",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9vayBkZXNpZ24&hash=0b366f24b0833295ef7aef9064ac15225d35a1dd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bʊk dɪ.zaɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9vayBkZXNpZ24&hash=0b366f24b0833295ef7aef9064ac15225d35a1dd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "book di.zain",
       "img": "",
       "pronunciation": "bˈʊk dɪzˈaɪn",
       "senses": [

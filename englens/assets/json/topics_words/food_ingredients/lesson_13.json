@@ -1,63 +1,107 @@
 {
+  "id": "b10deb1e-7f2c-454f-8c8e-74313e8f7c30",
   "topic": "food_ingredients",
   "title": "Parts and Types of Fruits and Vegetables",
   "lesson": "lesson_13",
   "word_list": [
     {
+      "id": "11336ea9-6904-441a-b97d-550cadd94fb3",
       "word": "edible",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZWRpYmxl&hash=6104655f3cd42b91bb629f335917f2fb78d1579c&lang=en&cache-only=0",
-      "phonetic_text": "ɛdəbəl",
+      "phonetic_text": "ɛ.də.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWRpYmxl&hash=6104655f3cd42b91bb629f335917f2fb78d1579c&lang=en&cache-only=0",
-      "phonetic_am_text": "edēbēl",
+      "phonetic_am_text": "e.dē.bēl",
       "img": "https://cdn.langeek.co/photo/22778/original/?type=jpeg",
       "pronunciation": "ˈɛdəbəɫ",
       "senses": [
         {
           "definition": "safe or suitable for eating",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He found an edible mushroom in the forest."
+            },
+            {
+              "cf": "",
+              "x": "He gifted his friend a bouquet of edible flowers, perfect for garnishing salads and drinks."
+            },
+            {
+              "cf": "",
+              "x": "She decorated her cake with edible glitter for a touch of sparkle."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b41cabab-a592-49fd-a365-d65ff54ed21c",
       "word": "inedible",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aW5lZGlibGU&hash=e9a4f3f794003ba1fb3ec04d9538ff3ab464dc00&lang=en&cache-only=0",
-      "phonetic_text": "ɪnɛdəbəl",
+      "phonetic_text": "ɪn.ɛ.də.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5lZGlibGU&hash=e9a4f3f794003ba1fb3ec04d9538ff3ab464dc00&lang=en&cache-only=0",
-      "phonetic_am_text": "inedēbēl",
+      "phonetic_am_text": "in.e.dē.bēl",
       "img": "",
       "pronunciation": "ˌɪˈnɛdəbəɫ",
       "senses": [
         {
           "definition": "not capable of being eaten or is not safe for consumption",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He accidentally took a bite of the inedible fruit and quickly spat it out."
+            },
+            {
+              "cf": "",
+              "x": "He received a beautifully decorated cake, but the fondant decorations were inedible."
+            },
+            {
+              "cf": "",
+              "x": "We found an inedible plant in the garden and decided to remove it for safety reasons."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "91dad5c1-22eb-4acf-aa12-2d3171284ce4",
       "word": "achene",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWNoZW5l&hash=97e2eecba1085f3043454b25f28139fb3c4f5688&lang=en&cache-only=0",
-      "phonetic_text": "əki:n",
+      "phonetic_text": "ə.kin",
       "phonetic_am": "https://tts.langeek.co/read?text=YWNoZW5l&hash=97e2eecba1085f3043454b25f28139fb3c4f5688&lang=en&cache-only=0",
-      "phonetic_am_text": "ēkeen",
+      "phonetic_am_text": "ē.kin",
       "img": "https://cdn.langeek.co/photo/36028/original/?type=jpeg",
       "pronunciation": "əˈkin",
       "senses": [
         {
           "definition": "a small, dry fruit that typically contains a single seed and is often surrounded by a hardened outer layer",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "As the wind blew, the achene detached from the plant and floated away, carried by the breeze."
+            },
+            {
+              "cf": "",
+              "x": "The squirrel buried the achene in the ground, unknowingly aiding in the plant's reproduction."
+            },
+            {
+              "cf": "",
+              "x": "They planted the achene in the soil, hoping it would grow into a beautiful flower."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "6ff0e5eb-7a09-4f82-966d-8d683b996ca5",
       "word": "legume",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGVndW1l&hash=36bbf29a154a0e9177fe063349da4a472585745f&lang=en&cache-only=0",
-      "phonetic_text": "lɛgjum",
+      "phonetic_text": "lɛ.gjum",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVndW1l&hash=36bbf29a154a0e9177fe063349da4a472585745f&lang=en&cache-only=0",
-      "phonetic_am_text": "legyum",
+      "phonetic_am_text": "le.gyoom",
       "img": "https://cdn.langeek.co/photo/36056/original/?type=jpeg",
       "pronunciation": "ˈɫɛɡˌjum",
       "senses": [
@@ -77,6 +121,7 @@
       ]
     },
     {
+      "id": "a0724d7f-b46e-4243-ace4-c68305cb0cab",
       "word": "nut",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bnV0&hash=a83d2898669f2afef7bfd7b3bfdbf561e11d8e50&lang=en&cache-only=0",
@@ -110,26 +155,41 @@
       ]
     },
     {
+      "id": "4c236ed0-faea-498e-84a1-abe900db1c43",
       "word": "caryopsis",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FyeW9wc2lz&hash=93ecaee605cf63c61b4bab0846e596c43d93000e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑ:.rɪɑ:p.sɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FyeW9wc2lz&hash=93ecaee605cf63c61b4bab0846e596c43d93000e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaa.riaap.sis",
       "img": "https://cdn.langeek.co/photo/37375/original/?type=jpeg",
       "pronunciation": "kˌɑːɹɪˈɑːpsɪs",
       "senses": [
         {
           "definition": "a one-seeded fruit where the seed is fused with the fruit wall, commonly found in grasses and grains",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "As the harvest season arrived, the farmer gathered caryopses of various legumes."
+            },
+            {
+              "cf": "",
+              "x": "The child carefully planted caryopses of wildflowers in the garden."
+            },
+            {
+              "cf": "",
+              "x": "We examined the caryopsis of the rice grain under the microscope, observing its unique structure."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "4cd65985-5fe2-4709-8cf3-83f56819930c",
       "word": "drupe",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJ1cGU&hash=70127d60d461c6fd88000c02fc513e8b05bbe6b1&lang=en&cache-only=0",
-      "phonetic_text": "dru:p",
+      "phonetic_text": "drup",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJ1cGU&hash=70127d60d461c6fd88000c02fc513e8b05bbe6b1&lang=en&cache-only=0",
       "phonetic_am_text": "droop",
       "img": "https://cdn.langeek.co/photo/36042/original/?type=jpeg",
@@ -137,19 +197,29 @@
       "senses": [
         {
           "definition": "a type of fruit that consists of an outer fleshy layer, a hard inner shell, and a single seed",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Birds and animals are attracted to drupes."
+            },
+            {
+              "cf": "",
+              "x": "The market was filled with an assortment of drupes, each displaying its unique shape, size, and color."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1a9c3e43-d0eb-4609-9b3c-2201542889a8",
       "word": "capsule",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2Fwc3VsZQ&hash=fa961acf2f8a7b8eeec2980a262f55d456b98340&lang=en&cache-only=0",
-      "phonetic_text": "kæpsəl",
+      "phonetic_text": "kæp.səl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2Fwc3VsZQ&hash=fa961acf2f8a7b8eeec2980a262f55d456b98340&lang=en&cache-only=0",
-      "phonetic_am_text": "kāpsēl",
+      "phonetic_am_text": "kāp.sēl",
       "img": "",
-      "pronunciation": "ˈkæpsəɫ",
+      "pronunciation": "ˈkæpsəl/ , /ˈkæpsjuːl",
       "senses": [
         {
           "definition": "a dry, hard covering type of fruit that splits open to release seeds, such as in poppy seeds or okra",
@@ -171,12 +241,13 @@
       ]
     },
     {
+      "id": "379e3cd5-721b-43d8-98ca-73036d392eef",
       "word": "stone fruit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RvbmUgZnJ1aXQ&hash=531fc12c8e14e39a93a0b1b4f252edc6e0e2eb36&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stoʊn fru:t",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RvbmUgZnJ1aXQ&hash=531fc12c8e14e39a93a0b1b4f252edc6e0e2eb36&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "stooon froot",
       "img": "https://cdn.langeek.co/photo/36042/original/?type=jpeg",
       "pronunciation": "stˈoʊn fɹˈuːt",
       "senses": [
@@ -196,12 +267,13 @@
       ]
     },
     {
+      "id": "5331435d-8d3a-4a65-b4c0-30d7c3869670",
       "word": "pome",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9tZQ&hash=467651f61df1768d391f6005c0b2be2394a26dc6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɑ:m",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9tZQ&hash=467651f61df1768d391f6005c0b2be2394a26dc6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "paam",
       "img": "",
       "pronunciation": "pˈɑːm",
       "senses": [
@@ -221,28 +293,35 @@
       ]
     },
     {
+      "id": "fe1f74bb-0be3-46e1-b83f-3aa50df8e094",
       "word": "citrus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2l0cnVz&hash=ddf72da1c1565275908107af14d0ccdd6651a111&lang=en&cache-only=0",
-      "phonetic_text": "sɪtrəs",
+      "phonetic_text": "sɪt.rəs",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2l0cnVz&hash=ddf72da1c1565275908107af14d0ccdd6651a111&lang=en&cache-only=0",
-      "phonetic_am_text": "sitrēs",
+      "phonetic_am_text": "sit.rēs",
       "img": "https://cdn.langeek.co/photo/18181/original/citrus?type=jpeg",
-      "pronunciation": "ˈsɪtɹəs",
+      "pronunciation": "ˈsɪtrəs",
       "senses": [
         {
           "definition": "any fruit with a sour taste, such as oranges, limes, and tangerines",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He squeezed fresh lemon juice into his water, enjoying the tangy taste of the citrus."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "023085bc-2cdd-4b34-9c15-09eab8fb716f",
       "word": "aggregate fruit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWdncmVnYXRlIGZydWl0&hash=bef166111541bc24f719ab067f3dc5b00cee622e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æg.rə.geɪt fru:t",
       "phonetic_am": "https://tts.langeek.co/read?text=YWdncmVnYXRlIGZydWl0&hash=bef166111541bc24f719ab067f3dc5b00cee622e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "āg.rē.geit froot",
       "img": "https://cdn.langeek.co/photo/36030/original/?type=jpeg",
       "pronunciation": "ˈæɡɹɪɡˌeɪt fɹˈuːt",
       "senses": [
@@ -262,12 +341,13 @@
       ]
     },
     {
+      "id": "fc7866bc-6dd5-4aa4-9001-e0df031fa7be",
       "word": "multiple fruit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXVsdGlwbGUgZnJ1aXQ&hash=d52bae2d8c6311be74d0516d62abd7dcbad32211&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "məl.tə.pəl fru:t",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVsdGlwbGUgZnJ1aXQ&hash=d52bae2d8c6311be74d0516d62abd7dcbad32211&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mēl.tē.pēl froot",
       "img": "https://cdn.langeek.co/photo/36030/original/?type=jpeg",
       "pronunciation": "mˈʌltɪpəl fɹˈuːt",
       "senses": [
@@ -287,60 +367,91 @@
       ]
     },
     {
+      "id": "2ca7e9d7-1579-4377-8638-78635110bb50",
       "word": "accessory fruit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWNjZXNzb3J5IGZydWl0&hash=dbf366755d9ff85aebd2424980b53f12678000c4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æk.sɛ.sə.ri fru:t",
       "phonetic_am": "https://tts.langeek.co/read?text=YWNjZXNzb3J5IGZydWl0&hash=dbf366755d9ff85aebd2424980b53f12678000c4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "āk.se.sē.ri froot",
       "img": "https://cdn.langeek.co/photo/36024/original/?type=jpeg",
       "pronunciation": "ɐksˈɛsɚɹi fɹˈuːt",
       "senses": [
         {
           "definition": "a type of fruit where the flesh comes from tissues other than the ovary",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The children were excited to try the unusual-looking dragon fruit, an exotic accessory fruit."
+            },
+            {
+              "cf": "",
+              "x": "The farmers grew a diverse range of accessory fruits on their orchard, including grapes and blueberries."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1adb3302-ddbe-409e-95e8-6e390efcc529",
       "word": "seedless",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c2VlZGxlc3M&hash=e7a76fbc7d797edb984eda8c3f52ff68bd625373&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "si:d.ləs",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VlZGxlc3M&hash=e7a76fbc7d797edb984eda8c3f52ff68bd625373&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sid.lēs",
       "img": "",
       "pronunciation": "sˈiːdləs",
       "senses": [
         {
           "definition": "not containing any seeds",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I couldn't resist the temptation of buying a bag of seedless tangerines."
+            },
+            {
+              "cf": "",
+              "x": "My son prefers the seedless grapes because they are easy to eat."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f72db26e-3eb2-4eee-8a55-491e681470d6",
       "word": "leafy",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bGVhZnk&hash=3c73434532339f4c2c09ea9f3ee0d3c9af3dc34a&lang=en&cache-only=0",
-      "phonetic_text": "li:fi",
+      "phonetic_text": "li.fi",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVhZnk&hash=3c73434532339f4c2c09ea9f3ee0d3c9af3dc34a&lang=en&cache-only=0",
-      "phonetic_am_text": "leefi",
+      "phonetic_am_text": "li.fi",
       "img": "",
       "pronunciation": "ˈɫifi",
       "senses": [
         {
           "definition": "having an abundance of leaves or characterized by the presence of leaves",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He admired the vibrant colors of the leafy plants in his garden."
+            },
+            {
+              "cf": "",
+              "x": "The restaurant offered a refreshing salad with a mix of leafy greens and crunchy vegetables."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "bddea7c7-ef85-4879-a483-521668586062",
       "word": "salad greens",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FsYWQgZ3JlZW5z&hash=020ca1fd13d81f2c015c3e7fb03a4b51d77b872b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sæ.ləd grinz",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FsYWQgZ3JlZW5z&hash=020ca1fd13d81f2c015c3e7fb03a4b51d77b872b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sā.lēd grinz",
       "img": "https://cdn.langeek.co/photo/48675/original/salad?type=jpeg",
       "pronunciation": "sˈæləd ɡɹˈiːnz",
       "senses": [
@@ -360,12 +471,13 @@
       ]
     },
     {
+      "id": "201a1f23-bef8-4abf-9a5e-cb459de3620a",
       "word": "bulb",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVsYg&hash=a9a112dcd2433ad7d028c5c6a2770be410fbd45f&lang=en&cache-only=0",
-      "phonetic_text": "bʌlb",
+      "phonetic_text": "bəlb",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVsYg&hash=a9a112dcd2433ad7d028c5c6a2770be410fbd45f&lang=en&cache-only=0",
-      "phonetic_am_text": "balb",
+      "phonetic_am_text": "bēlb",
       "img": "https://cdn.langeek.co/photo/29896/original/?type=jpeg",
       "pronunciation": "ˈbəɫb",
       "senses": [
@@ -397,10 +509,11 @@
       ]
     },
     {
+      "id": "93ba70b0-0ba5-4816-aab6-ecb8df06d791",
       "word": "stem",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RlbQ&hash=e79e90ae543fee54acc6a891bc555e35f4884d87&lang=en&cache-only=0",
-      "phonetic_text": "stɛm",
+      "phonetic_text": "stem",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RlbQ&hash=e79e90ae543fee54acc6a891bc555e35f4884d87&lang=en&cache-only=0",
       "phonetic_am_text": "stem",
       "img": "https://cdn.langeek.co/photo/21927/original/?type=jpeg",
@@ -430,10 +543,11 @@
       ]
     },
     {
+      "id": "ece0cd03-9c6a-4c74-9267-77bc0214957c",
       "word": "root",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9vdA&hash=56abf0681805fefc5383f82410e1a3d71eca084b&lang=en&cache-only=0",
-      "phonetic_text": "ru:t",
+      "phonetic_text": "rut",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9vdA&hash=56abf0681805fefc5383f82410e1a3d71eca084b&lang=en&cache-only=0",
       "phonetic_am_text": "root",
       "img": "https://cdn.langeek.co/photo/21837/original/?type=jpeg",
@@ -455,12 +569,13 @@
       ]
     },
     {
+      "id": "df2866e4-f935-43dc-86ae-4dd137d983c5",
       "word": "tuber",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHViZXI&hash=baccfeac84bfc53c65940c6f5da584cc779a32c8&lang=en&cache-only=0",
-      "phonetic_text": "tu:bər",
+      "phonetic_text": "tu.bɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dHViZXI&hash=baccfeac84bfc53c65940c6f5da584cc779a32c8&lang=en&cache-only=0",
-      "phonetic_am_text": "toobēr",
+      "phonetic_am_text": "too.bēr",
       "img": "",
       "pronunciation": "ˈtubɝ",
       "senses": [
@@ -484,12 +599,13 @@
       ]
     },
     {
+      "id": "ed1123ae-82fe-4c72-9dc5-de5c4be42ea0",
       "word": "tuberous",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dHViZXJvdXM&hash=177f7e14bb8abe576e75ecd2277870bc026a1ec7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tu:.bə.rəs",
       "phonetic_am": "https://tts.langeek.co/read?text=dHViZXJvdXM&hash=177f7e14bb8abe576e75ecd2277870bc026a1ec7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "too.bē.rēs",
       "img": "",
       "pronunciation": "tˈuːbɚɹəs",
       "senses": [
@@ -509,12 +625,13 @@
       ]
     },
     {
+      "id": "bf517655-160e-4c86-bf16-3edeca7a5f58",
       "word": "marrow",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFycm93&hash=d768bba31ae54f154533a65839f407cb0e3b390b&lang=en&cache-only=0",
-      "phonetic_text": "mɛroʊ",
+      "phonetic_text": "mɛ.roʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFycm93&hash=d768bba31ae54f154533a65839f407cb0e3b390b&lang=en&cache-only=0",
-      "phonetic_am_text": "merow",
+      "phonetic_am_text": "me.rooo",
       "img": "https://cdn.langeek.co/photo/21300/original/?type=jpeg",
       "pronunciation": "ˈmɛɹoʊ",
       "senses": [
@@ -534,12 +651,13 @@
       ]
     },
     {
+      "id": "47925e30-f88e-4dae-be83-ed6b2705ac0d",
       "word": "core",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29yZQ&hash=fcc286d0a70be42b73566246a1b9fc6705849e3e&lang=en&cache-only=0",
-      "phonetic_text": "kɔ:r",
+      "phonetic_text": "kɔr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29yZQ&hash=fcc286d0a70be42b73566246a1b9fc6705849e3e&lang=en&cache-only=0",
-      "phonetic_am_text": "kaawr",
+      "phonetic_am_text": "kawr",
       "img": "https://cdn.langeek.co/photo/36034/original/?type=jpeg",
       "pronunciation": "ˈkɔɹ",
       "senses": [
@@ -571,12 +689,13 @@
       ]
     },
     {
+      "id": "1adef56d-52bc-405a-90c0-81a1ddd7a95d",
       "word": "dextrose",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGV4dHJvc2U&hash=968a24ea40ffadf5a2b6c7ad32e681c0b333d48e&lang=en&cache-only=0",
-      "phonetic_text": "dɛkstroʊs",
+      "phonetic_text": "dɛkst.roʊs",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGV4dHJvc2U&hash=968a24ea40ffadf5a2b6c7ad32e681c0b333d48e&lang=en&cache-only=0",
-      "phonetic_am_text": "dekstrows",
+      "phonetic_am_text": "dekst.rooos",
       "img": "",
       "pronunciation": "ˈdɛkstɹoʊs",
       "senses": [
@@ -592,6 +711,7 @@
       ]
     },
     {
+      "id": "c9e015c4-92f3-455f-bef6-8f3b90005a11",
       "word": "flesh",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zmxlc2g&hash=2446754f10e3ed46de60c8a10391b288ad5aaf96&lang=en&cache-only=0",
@@ -599,7 +719,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Zmxlc2g&hash=2446754f10e3ed46de60c8a10391b288ad5aaf96&lang=en&cache-only=0",
       "phonetic_am_text": "flesh",
       "img": "",
-      "pronunciation": "ˈfɫɛʃ",
+      "pronunciation": "flɛʃ",
       "senses": [
         {
           "definition": "the soft, edible part of a fruit, typically rich in flavor and texture",
@@ -617,12 +737,13 @@
       ]
     },
     {
+      "id": "bf8bfff9-bce8-4f6b-ad76-0e2afa0a3020",
       "word": "hull",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aHVsbA&hash=088a33897856a721ad4996f24cf0d1f317aeba1c&lang=en&cache-only=0",
-      "phonetic_text": "hʌl",
+      "phonetic_text": "həl",
       "phonetic_am": "https://tts.langeek.co/read?text=aHVsbA&hash=088a33897856a721ad4996f24cf0d1f317aeba1c&lang=en&cache-only=0",
-      "phonetic_am_text": "hal",
+      "phonetic_am_text": "hēl",
       "img": "https://cdn.langeek.co/photo/37822/original/?type=jpeg",
       "pronunciation": "ˈhəɫ",
       "senses": [
@@ -642,6 +763,7 @@
       ]
     },
     {
+      "id": "ac2cc7c2-0e44-4cec-9165-5ac57aa62944",
       "word": "juice",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=anVpY2U&hash=8516857d091968689303dc9041da0169ab014da3&lang=en&cache-only=0",
@@ -663,12 +785,13 @@
       ]
     },
     {
+      "id": "5869d874-2c08-43c7-8d75-17628bc9185c",
       "word": "nectar",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmVjdGFy&hash=c12fc76fa9a8e51c11b0d0b2e9ef206952d86364&lang=en&cache-only=0",
-      "phonetic_text": "nɛktər",
+      "phonetic_text": "nɛk.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bmVjdGFy&hash=c12fc76fa9a8e51c11b0d0b2e9ef206952d86364&lang=en&cache-only=0",
-      "phonetic_am_text": "nektēr",
+      "phonetic_am_text": "nek.tēr",
       "img": "",
       "pronunciation": "ˈnɛktɝ",
       "senses": [
@@ -688,12 +811,13 @@
       ]
     },
     {
+      "id": "8f1d8fd9-f0cf-4d6a-96cf-3fcc8168ae86",
       "word": "pectin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVjdGlu&hash=72b9c56efa52267e3b7d0fa44ea18ee696b90032&lang=en&cache-only=0",
-      "phonetic_text": "pɛktən",
+      "phonetic_text": "pɛk.tən",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVjdGlu&hash=72b9c56efa52267e3b7d0fa44ea18ee696b90032&lang=en&cache-only=0",
-      "phonetic_am_text": "pektēn",
+      "phonetic_am_text": "pek.tēn",
       "img": "",
       "pronunciation": "ˈpɛktən/, /ˈpɛktɪn",
       "senses": [
@@ -713,12 +837,13 @@
       ]
     },
     {
+      "id": "7a6705c4-8d6c-429a-81d4-b1c2dcd69c61",
       "word": "peel",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVlbA&hash=15091bee70dffdfc8e679e9eb18e7ebe86d81fa4&lang=en&cache-only=0",
-      "phonetic_text": "pi:l",
+      "phonetic_text": "pil",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVlbA&hash=15091bee70dffdfc8e679e9eb18e7ebe86d81fa4&lang=en&cache-only=0",
-      "phonetic_am_text": "peel",
+      "phonetic_am_text": "pil",
       "img": "https://cdn.langeek.co/photo/36060/original/?type=jpeg",
       "pronunciation": "ˈpiɫ",
       "senses": [
@@ -734,6 +859,7 @@
       ]
     },
     {
+      "id": "ceef4969-c5d7-4e82-8f8f-e02e903a08d5",
       "word": "pip",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGlw&hash=4411139cd0763edd6974a11209e95fb063132cc6&lang=en&cache-only=0",
@@ -745,11 +871,21 @@
       "senses": [
         {
           "definition": "a tiny hard seed that is found in some fruits such as an apple, peach, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He accidentally swallowed a pip while eating the juicy watermelon."
+            },
+            {
+              "cf": "",
+              "x": "The squirrel buried the hazelnut pip in the ground for safekeeping."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "6f179f91-22da-4737-b199-f6007cfc50c4",
       "word": "pit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGl0&hash=035687216e26765064e9989a72552278f6fdb505&lang=en&cache-only=0",
@@ -775,6 +911,7 @@
       ]
     },
     {
+      "id": "46f318b5-9f21-413b-83dc-fee02314b7eb",
       "word": "pith",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGl0aA&hash=ee968cf9c864375a9812ad3250d45c62a2e251d1&lang=en&cache-only=0",
@@ -804,12 +941,13 @@
       ]
     },
     {
+      "id": "cb153ee4-b551-4d9b-8e10-0bdd6c1e3755",
       "word": "pulp",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHVscA&hash=d0a6a74676890d6c9f112561b845d987913abaa3&lang=en&cache-only=0",
-      "phonetic_text": "pʌlp",
+      "phonetic_text": "pəlp",
       "phonetic_am": "https://tts.langeek.co/read?text=cHVscA&hash=d0a6a74676890d6c9f112561b845d987913abaa3&lang=en&cache-only=0",
-      "phonetic_am_text": "palp",
+      "phonetic_am_text": "pēlp",
       "img": "",
       "pronunciation": "ˈpəɫp",
       "senses": [
@@ -829,6 +967,7 @@
       ]
     },
     {
+      "id": "711240c1-ff1b-4876-b380-084f17206ce9",
       "word": "rind",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmluZA&hash=38416eb7cf6b4dc2b6effbe9b6960b29acddec84&lang=en&cache-only=0",
@@ -854,28 +993,51 @@
       ]
     },
     {
+      "id": "dc5f729c-a45d-478c-82d0-cd0f4fd40504",
       "word": "seed",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VlZA&hash=13146a5c87b9ce772f7438e499a910cecbe7d397&lang=en&cache-only=0",
       "phonetic_text": "si:d",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VlZA&hash=13146a5c87b9ce772f7438e499a910cecbe7d397&lang=en&cache-only=0",
-      "phonetic_am_text": "seed",
+      "phonetic_am_text": "sid",
       "img": "https://cdn.langeek.co/photo/26860/original/?type=jpeg",
-      "pronunciation": "ˈsid",
+      "pronunciation": "siːd",
       "senses": [
         {
           "definition": "a small, hard object produced by a fruit or vegetable that can grow into a new one",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The gardener planted the seeds in rows to ensure they have enough space to grow."
+            },
+            {
+              "cf": "",
+              "x": "After the fruit was sliced, she carefully removed the seeds before serving it in a salad."
+            },
+            {
+              "cf": "",
+              "x": "He decided to start his own vegetable garden by ordering organic seeds online."
+            },
+            {
+              "cf": "",
+              "x": "Each seed contains the potential to grow into a new plant, making gardening a rewarding experience."
+            },
+            {
+              "cf": "",
+              "x": "The farmer saved the best seeds from his harvest to use for planting in the next season."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "bf070461-c70f-4f21-b62b-27f144801526",
       "word": "segment",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VnbWVudA&hash=18a784c03898a701f037e5d1dfc9b9734359525e&lang=en&cache-only=0",
-      "phonetic_text": "sɛgmənt",
+      "phonetic_text": "sɛg.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VnbWVudA&hash=18a784c03898a701f037e5d1dfc9b9734359525e&lang=en&cache-only=0",
-      "phonetic_am_text": "segmēnt",
+      "phonetic_am_text": "seg.mēnt",
       "img": "https://cdn.langeek.co/photo/27067/original/?type=jpeg",
       "pronunciation": "ˈsɛɡmənt/, /ˌsɛɡˈmɛnt",
       "senses": [
@@ -895,6 +1057,7 @@
       ]
     },
     {
+      "id": "5a75232b-5189-4ddb-856e-dd512bf41ce7",
       "word": "skin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2tpbg&hash=cfb45af02c6e3224e5221f6757b1937825a91e71&lang=en&cache-only=0",
@@ -906,56 +1069,64 @@
       "senses": [
         {
           "definition": "the outer layer that covers a fruit, seed, or vegetable",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "id": "56fbc2f3-701d-4457-994c-56358f2ded44",
+      "word": "stalk",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=c3RhbGs&hash=691897fe541e21c89ea8bec56eb9e33181c26534&lang=en&cache-only=0",
+      "phonetic_text": "stɔk",
+      "phonetic_am": "https://tts.langeek.co/read?text=c3RhbGs&hash=691897fe541e21c89ea8bec56eb9e33181c26534&lang=en&cache-only=0",
+      "phonetic_am_text": "stawk",
+      "img": "https://cdn.langeek.co/photo/21927/original/?type=jpeg",
+      "pronunciation": "ˈstɔk",
+      "senses": [
+        {
+          "definition": "the slender, elongated part of a plant that supports leaves, flowers, or fruits",
           "examples": [
             {
               "cf": "",
-              "x": "She peeled the skin off the orange and savored the juicy segments."
+              "x": "As she prepared the celery for a salad, she trimmed the leafy stalks and discarded the tougher parts."
             },
             {
               "cf": "",
-              "x": "The strawberry's bright red skin was dotted with tiny seeds, adding texture to its sweet taste."
-            },
-            {
-              "cf": "",
-              "x": "The thick and tough skin of the pineapple protected its sweet and tangy flesh."
+              "x": "They picked the juicy tomatoes, gently twisting the stalks to separate them from the vine."
             }
           ]
         }
       ]
     },
     {
-      "word": "stalk",
-      "pos": "noun",
-      "phonetic": "https://tts.langeek.co/read?text=c3RhbGs&hash=691897fe541e21c89ea8bec56eb9e33181c26534&lang=en&cache-only=0",
-      "phonetic_text": "stɔ:k",
-      "phonetic_am": "https://tts.langeek.co/read?text=c3RhbGs&hash=691897fe541e21c89ea8bec56eb9e33181c26534&lang=en&cache-only=0",
-      "phonetic_am_text": "staawk",
-      "img": "https://cdn.langeek.co/photo/21927/original/?type=jpeg",
-      "pronunciation": "ˈstɔk",
-      "senses": [
-        {
-          "definition": "the slender, elongated part of a plant that supports leaves, flowers, or fruits",
-          "examples": []
-        }
-      ]
-    },
-    {
+      "id": "9a5cd682-fc71-4494-9dfa-950e6536ee78",
       "word": "stone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RvbmU&hash=569d1c769e275e96e2056e2cc0e6ef1c6d582159&lang=en&cache-only=0",
       "phonetic_text": "stoʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RvbmU&hash=569d1c769e275e96e2056e2cc0e6ef1c6d582159&lang=en&cache-only=0",
-      "phonetic_am_text": "stown",
+      "phonetic_am_text": "stooon",
       "img": "",
-      "pronunciation": "ˈstoʊn",
+      "pronunciation": "stoʊn",
       "senses": [
         {
           "definition": "the hard seed or pit found inside certain fruits like peaches and cherries",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The baker skillfully removed the stone from the apricot, preparing it for a delicious pie."
+            },
+            {
+              "cf": "",
+              "x": "They carefully extracted the stone from the nectarine, savoring the velvety flesh around it."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "09a73e59-0b14-4f90-8e11-70a3149e1b84",
       "word": "zest",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=emVzdA&hash=648c32a8d69a99bfb0e00052d40ca7a9e17f8755&lang=en&cache-only=0",
@@ -972,10 +1143,11 @@
       ]
     },
     {
+      "id": "2cf9065a-8a45-430f-9e80-eb0934b6f9da",
       "word": "cob",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29i&hash=aa6386fcb84075da39b198e5ab43b667264e2c5d&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:b",
+      "phonetic_text": "kɑb",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29i&hash=aa6386fcb84075da39b198e5ab43b667264e2c5d&lang=en&cache-only=0",
       "phonetic_am_text": "kaab",
       "img": "https://cdn.langeek.co/photo/14645/original/hazelnut?type=jpeg",
@@ -993,22 +1165,33 @@
       ]
     },
     {
+      "id": "6e929633-8e71-4add-b3db-cbaff45ca8a0",
       "word": "corncob",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29ybmNvYg&hash=ffc5772a9ab7205ebfb6c400752e9aa1f2f4f136&lang=en&cache-only=0",
-      "phonetic_text": "kɔ:rnkɑb",
+      "phonetic_text": "kɔrn.kɑb",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29ybmNvYg&hash=ffc5772a9ab7205ebfb6c400752e9aa1f2f4f136&lang=en&cache-only=0",
-      "phonetic_am_text": "kaawrnkɑb",
+      "phonetic_am_text": "kawrn.kaab",
       "img": "https://cdn.langeek.co/photo/36036/original/?type=jpeg",
       "pronunciation": "ˈkɔɹnˌkɑb",
       "senses": [
         {
           "definition": "the central cylindrical part of the corn ear that is covered in tightly packed kernelsn",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The chickens pecked at the corncob, eagerly devouring the remaining bits of corn."
+            },
+            {
+              "cf": "",
+              "x": "We roasted the corncobs on the campfire, savoring the smoky flavor."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "abc145dd-9346-4c60-8575-067b7d1f8d16",
       "word": "eye",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXll&hash=f6db2d27d3e734403e211643841eb4f89c653156&lang=en&cache-only=0",
@@ -1030,30 +1213,41 @@
       ]
     },
     {
+      "id": "36d85203-eeb6-4d1f-8cd4-bc4490391206",
       "word": "floret",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmxvcmV0&hash=745ee9aa5eb3b489b054dee3c38b95f3ac6e1deb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "flɔ:.rət",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmxvcmV0&hash=745ee9aa5eb3b489b054dee3c38b95f3ac6e1deb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "flaw.rēt",
       "img": "",
       "pronunciation": "flˈɔːɹət",
       "senses": [
         {
           "definition": "a small flower or cluster of flowers that form the flowering head of vegetables like broccoli, cauliflower, and Brussels sprouts, commonly used in culinary applications",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He picked off the tiny florets from the cauliflower head to use in his salad."
+            },
+            {
+              "cf": "",
+              "x": "The farmer harvested the fresh broccoli florets from the garden for market."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "73522a81-d7dd-40bc-a8bd-75cad5869032",
       "word": "top",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dG9w&hash=c9ff900024933090da10f2cab4fb194f4287759e&lang=en&cache-only=0",
-      "phonetic_text": "tɑ:p",
+      "phonetic_text": "tɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG9w&hash=c9ff900024933090da10f2cab4fb194f4287759e&lang=en&cache-only=0",
       "phonetic_am_text": "taap",
       "img": "https://cdn.langeek.co/photo/36070/original/?type=jpeg",
-      "pronunciation": "ˈtɑp/, /ˈtɔp",
+      "pronunciation": "tɑp",
       "senses": [
         {
           "definition": "the edible leafy greens or uppermost part of certain plants, used in culinary applications",
@@ -1079,12 +1273,13 @@
       ]
     },
     {
+      "id": "06db98a7-67e2-4ece-969c-944944645956",
       "word": "endosperm",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZW5kb3NwZXJt&hash=8ae6f1f5d12b2b87080965266cd9294b4952e1e2&lang=en&cache-only=0",
-      "phonetic_text": "ɛndəspɜrm",
+      "phonetic_text": "ɛn.dəs.pɜrm",
       "phonetic_am": "https://tts.langeek.co/read?text=ZW5kb3NwZXJt&hash=8ae6f1f5d12b2b87080965266cd9294b4952e1e2&lang=en&cache-only=0",
-      "phonetic_am_text": "endēspērm",
+      "phonetic_am_text": "en.dēs.pērm",
       "img": "https://cdn.langeek.co/photo/36044/original/?type=jpeg",
       "pronunciation": "ˈɛndəˌspɝm",
       "senses": [
@@ -1104,12 +1299,13 @@
       ]
     },
     {
+      "id": "0bbb488d-c1e0-405b-a816-f2f128ce7324",
       "word": "mesocarp",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWVzb2NhcnA&hash=d002da162e181db3424ff7d7c23308508e8edd8b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mɛ.sə.kɑ:rp",
       "phonetic_am": "https://tts.langeek.co/read?text=bWVzb2NhcnA&hash=d002da162e181db3424ff7d7c23308508e8edd8b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "me.sē.kaarp",
       "img": "",
       "pronunciation": "mˈɛsəkˌɑːɹp",
       "senses": [
@@ -1125,28 +1321,39 @@
       ]
     },
     {
+      "id": "fe286b27-e7df-4d25-8dff-ecda0bef7959",
       "word": "seed coat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VlZCBjb2F0&hash=692e77c1b50d31bef961dc388316e32d4ccf5926&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "si:d koʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VlZCBjb2F0&hash=692e77c1b50d31bef961dc388316e32d4ccf5926&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sid kooot",
       "img": "",
       "pronunciation": "sˈiːd kˈoʊt",
       "senses": [
         {
           "definition": "the protective outer covering of a seed",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I carefully removed the seed coat of the pumpkin seed before roasting it for a tasty snack."
+            },
+            {
+              "cf": "",
+              "x": "They observed how the seed coat of the coconut was tough and fibrous, helping to shield the inner seed."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "92976581-bff3-4cd8-896d-de312a8cf0e0",
       "word": "exocarp",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXhvY2FycA&hash=2629128ec1103e34453c0c7856db1b67382bdfc6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛ.gzɑ:.kɑ:rp",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXhvY2FycA&hash=2629128ec1103e34453c0c7856db1b67382bdfc6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "e.gzaa.kaarp",
       "img": "https://cdn.langeek.co/photo/36048/original/?type=jpeg",
       "pronunciation": "ɛɡzˈɑːkɑːɹp",
       "senses": [
@@ -1166,12 +1373,13 @@
       ]
     },
     {
+      "id": "cf51433d-5921-44b7-8ffb-a65ac7c53185",
       "word": "pericarp",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVyaWNhcnA&hash=4fe05fa5fedb289b251000954181cca662ef6c47&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɛ.rɪ.kɑ:rp",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVyaWNhcnA&hash=4fe05fa5fedb289b251000954181cca662ef6c47&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pe.ri.kaarp",
       "img": "",
       "pronunciation": "pˈɛɹɪkˌɑːɹp",
       "senses": [
@@ -1191,12 +1399,13 @@
       ]
     },
     {
+      "id": "3760b6cc-7afd-4e7c-954c-843eac03a3e5",
       "word": "fleshy",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Zmxlc2h5&hash=3807bec8ad72ca711c664f76e22c303acf83a48f&lang=en&cache-only=0",
-      "phonetic_text": "flɛʃi",
+      "phonetic_text": "flɛ.ʃi",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmxlc2h5&hash=3807bec8ad72ca711c664f76e22c303acf83a48f&lang=en&cache-only=0",
-      "phonetic_am_text": "fleshi",
+      "phonetic_am_text": "fle.shi",
       "img": "",
       "pronunciation": "ˈfɫɛʃi",
       "senses": [
@@ -1220,6 +1429,7 @@
       ]
     },
     {
+      "id": "ebefb603-fd43-45c1-9f8a-fc8e5a73ce78",
       "word": "glace",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Z2xhY2U&hash=2a93638f020f0b5edcde479f565cb747c8b954fd&lang=en&cache-only=0",
@@ -1236,12 +1446,13 @@
       ]
     },
     {
+      "id": "46eae58c-3d62-492f-a966-0dd6d6596ad7",
       "word": "overripe",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=b3ZlcnJpcGU&hash=af5408351f5b19f4ee460a3ac55f355a0d87fb0b&lang=en&cache-only=0",
-      "phonetic_text": "oʊvəraɪp",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b3ZlcnJpcGU&hash=af5408351f5b19f4ee460a3ac55f355a0d87fb0b&lang=en&cache-only=0",
-      "phonetic_am_text": "owvēraip",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˈoʊvɝˈɹaɪp",
       "senses": [
@@ -1252,12 +1463,13 @@
       ]
     },
     {
+      "id": "7b67c24f-765c-446f-93fe-ff37d181c7f8",
       "word": "pitted",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cGl0dGVk&hash=5e269f8fea6750606f3fa4b01ec1f541d547cede&lang=en&cache-only=0",
-      "phonetic_text": "pɪtɪd",
+      "phonetic_text": "pɪ.tɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=cGl0dGVk&hash=5e269f8fea6750606f3fa4b01ec1f541d547cede&lang=en&cache-only=0",
-      "phonetic_am_text": "pitid",
+      "phonetic_am_text": "pi.tid",
       "img": "",
       "pronunciation": "ˈpɪtɪd",
       "senses": [
@@ -1273,6 +1485,7 @@
       ]
     },
     {
+      "id": "a6f7ddf4-01ef-41d1-af64-97aec23c61bb",
       "word": "ripe",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cmlwZQ&hash=66ee4aba52a2ec6956b24382ff839674567f5d31&lang=en&cache-only=0",
@@ -1280,7 +1493,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=cmlwZQ&hash=66ee4aba52a2ec6956b24382ff839674567f5d31&lang=en&cache-only=0",
       "phonetic_am_text": "raip",
       "img": "https://cdn.langeek.co/photo/19140/original/ripe?type=jpeg",
-      "pronunciation": "ˈɹaɪp",
+      "pronunciation": "raɪp",
       "senses": [
         {
           "definition": "(of fruit or crop) fully developed and ready for consumption",
@@ -1310,12 +1523,13 @@
       ]
     },
     {
+      "id": "3c3edb77-c2e7-455a-aee1-45761870ead6",
       "word": "seasonal",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c2Vhc29uYWw&hash=936e80860d1788ca3be2cfc3e07ea4ae8de4d809&lang=en&cache-only=0",
-      "phonetic_text": "si:zənəl",
+      "phonetic_text": "si.zə.nəl",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Vhc29uYWw&hash=936e80860d1788ca3be2cfc3e07ea4ae8de4d809&lang=en&cache-only=0",
-      "phonetic_am_text": "seezēnēl",
+      "phonetic_am_text": "si.zē.nēl",
       "img": "https://cdn.langeek.co/photo/22556/original/?type=jpeg",
       "pronunciation": "ˈsizənəɫ",
       "senses": [
@@ -1363,12 +1577,13 @@
       ]
     },
     {
+      "id": "a8293af2-7882-437d-8b50-8af4db97aa2a",
       "word": "sun-dried",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c3VuLWRyaWVk&hash=6c4b16f394b655da09dfe78120140ab7191b99e4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sʌn-draɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=c3VuLWRyaWVk&hash=6c4b16f394b655da09dfe78120140ab7191b99e4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "san-draid",
       "img": "https://cdn.langeek.co/photo/37477/original/?type=jpeg",
       "pronunciation": "sˈʌndɹˈaɪd",
       "senses": [

@@ -1,13 +1,15 @@
 {
+  "id": "2415530a-6913-43a6-ae67-ff8f326dd7e3",
   "topic": "food_ingredients",
   "title": "Cheese",
   "lesson": "lesson_2",
   "word_list": [
     {
+      "id": "b71b35e1-a0e9-4baa-b4ec-bd8ed4341262",
       "word": "American cheese",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QW1lcmljYW4gY2hlZXNl&hash=7414a50afdfdeeb842b22702ac9d6101e5a15bc8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QW1lcmljYW4gY2hlZXNl&hash=7414a50afdfdeeb842b22702ac9d6101e5a15bc8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/26880/original/?type=jpeg",
@@ -20,14 +22,15 @@
       ]
     },
     {
+      "id": "e5413b8e-3086-4e12-a2f1-9b663c54c926",
       "word": "blue cheese",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ymx1ZSBjaGVlc2U&hash=a49dfafc9d299b445d88b28a402dbd7604d3f393&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "blu: ʧi:z",
       "phonetic_am": "https://tts.langeek.co/read?text=Ymx1ZSBjaGVlc2U&hash=a49dfafc9d299b445d88b28a402dbd7604d3f393&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bloo chiz",
       "img": "https://cdn.langeek.co/photo/27018/original/blue-cheese?type=jpeg",
-      "pronunciation": "blˈuː tʃˈiːz",
+      "pronunciation": "ˈbluː ˈʧiːz",
       "senses": [
         {
           "definition": "any type of cheese containing blue lines or mold",
@@ -49,12 +52,13 @@
       ]
     },
     {
+      "id": "5a826ba9-8685-420c-9cc0-8f99ec885df1",
       "word": "camembert",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FtZW1iZXJ0&hash=3429b89d74999b66df1f008d3c3c49a03e786b2f&lang=en&cache-only=0",
-      "phonetic_text": "kæməmbɛr",
+      "phonetic_text": "keɪ.mɛm.bərt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FtZW1iZXJ0&hash=3429b89d74999b66df1f008d3c3c49a03e786b2f&lang=en&cache-only=0",
-      "phonetic_am_text": "kāmēmber",
+      "phonetic_am_text": "kei.mem.bērt",
       "img": "https://cdn.langeek.co/photo/26884/original/?type=jpeg",
       "pronunciation": "keɪmˈɛmbɚt",
       "senses": [
@@ -70,14 +74,15 @@
       ]
     },
     {
+      "id": "b9f10825-6f89-4a2b-be02-494e63b05ac3",
       "word": "Cheddar",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q2hlZGRhcg&hash=8b6bdd0344ac0524648d8fd1787c750c6de68478&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Q2hlZGRhcg&hash=8b6bdd0344ac0524648d8fd1787c750c6de68478&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/18311/original/cheddar?type=jpeg",
-      "pronunciation": "ˈtʃɛdɝ",
+      "pronunciation": "ˈʧɛdɚ",
       "senses": [
         {
           "definition": "a type of hard yellow cheese from Cheddar, England",
@@ -99,12 +104,13 @@
       ]
     },
     {
+      "id": "36280a6b-0f81-488b-9412-72a71fce900f",
       "word": "cheese rind",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hlZXNlIHJpbmQ&hash=dc4b249dec43b7c43398848626c364062c949a38&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧi:z raɪnd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hlZXNlIHJpbmQ&hash=dc4b249dec43b7c43398848626c364062c949a38&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chiz raind",
       "img": "https://cdn.langeek.co/photo/18197/original/gouda?type=jpeg",
       "pronunciation": "tʃˈiːz ɹˈaɪnd",
       "senses": [
@@ -124,10 +130,11 @@
       ]
     },
     {
+      "id": "24195608-7133-43ba-ad06-4fdd306ca988",
       "word": "Cheshire cheese",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q2hlc2hpcmUgY2hlZXNl&hash=21b7f4e5ecb86ddd38425a91dfa5b78521e0db55&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Q2hlc2hpcmUgY2hlZXNl&hash=21b7f4e5ecb86ddd38425a91dfa5b78521e0db55&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34694/original/?type=jpeg",
@@ -149,12 +156,13 @@
       ]
     },
     {
+      "id": "a63dbfa2-38a2-4d6b-a603-b5860558626b",
       "word": "cottage cheese",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y290dGFnZSBjaGVlc2U&hash=558b786d1f4d4eb4c30e3d983e65425ec8fc8951&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑ.təʤ ʧi:z",
       "phonetic_am": "https://tts.langeek.co/read?text=Y290dGFnZSBjaGVlc2U&hash=558b786d1f4d4eb4c30e3d983e65425ec8fc8951&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaa.tēj chiz",
       "img": "https://cdn.langeek.co/photo/26888/original/?type=jpeg",
       "pronunciation": "kˈɑːɾɪdʒ tʃˈiːz",
       "senses": [
@@ -174,14 +182,15 @@
       ]
     },
     {
+      "id": "e33aa2f7-1020-4382-946e-d6c2d1a7605a",
       "word": "cream cheese",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3JlYW0gY2hlZXNl&hash=50288c74707356341979a1099da5a41cb4e82a61&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kri:m ʧi:z",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3JlYW0gY2hlZXNl&hash=50288c74707356341979a1099da5a41cb4e82a61&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "krim chiz",
       "img": "https://cdn.langeek.co/photo/18195/original/cream-cheese?type=jpeg",
-      "pronunciation": "kɹˈiːm tʃˈiːz",
+      "pronunciation": "ˈkriːm ˈʧiːz",
       "senses": [
         {
           "definition": "a type of smooth soft cheese that is made from whole milk and cream",
@@ -211,12 +220,13 @@
       ]
     },
     {
+      "id": "03e60cfa-61d0-4733-ac61-22599fdd45c0",
       "word": "curd cheese",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3VyZCBjaGVlc2U&hash=98ed7d4b0b591aeb14cc978bad5962620ea17404&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɜrd ʧi:z",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3VyZCBjaGVlc2U&hash=98ed7d4b0b591aeb14cc978bad5962620ea17404&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kērd chiz",
       "img": "https://cdn.langeek.co/photo/27369/original/?type=jpeg",
       "pronunciation": "kˈɜːd tʃˈiːz",
       "senses": [
@@ -240,10 +250,11 @@
       ]
     },
     {
+      "id": "198ba42e-d7f2-4a08-ba10-cb464feba960",
       "word": "Edam",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RWRhbQ&hash=34e194984c1637c29efc05cc5fe9e3ad0e442620&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RWRhbQ&hash=34e194984c1637c29efc05cc5fe9e3ad0e442620&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/27371/original/?type=jpeg",
@@ -265,10 +276,11 @@
       ]
     },
     {
+      "id": "0f998e34-7db8-4f2d-a722-25735c81734c",
       "word": "farmer's cheese",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFybWVyJ3MgY2hlZXNl&hash=81d18ada02db660a8acb788e671add1ec4c3c177&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFybWVyJ3MgY2hlZXNl&hash=81d18ada02db660a8acb788e671add1ec4c3c177&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/26888/original/?type=jpeg",
@@ -281,10 +293,11 @@
       ]
     },
     {
+      "id": "4e3dbc95-1a84-4dcb-8017-9b35f58d83e7",
       "word": "feta cheese",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmV0YSBjaGVlc2U&hash=7c82c6b44a13b67c7fb08cd05b85233302695a58&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmV0YSBjaGVlc2U&hash=7c82c6b44a13b67c7fb08cd05b85233302695a58&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/26894/original/?type=jpeg",
@@ -306,10 +319,11 @@
       ]
     },
     {
+      "id": "11352eba-e6e3-48fe-89e0-1943560899d4",
       "word": "fromage frais",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnJvbWFnZSBmcmFpcw&hash=690a28d1489935aed59b2074ac029fb776e97d95&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJvbWFnZSBmcmFpcw&hash=690a28d1489935aed59b2074ac029fb776e97d95&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/27373/original/?type=jpeg",
@@ -331,12 +345,13 @@
       ]
     },
     {
+      "id": "fc544322-640c-4994-8f7f-4b68e5d8d866",
       "word": "goat cheese",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29hdCBjaGVlc2U&hash=452edbfd0554e57552650179e01bb20f30639dbd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "goʊt ʧi:z",
       "phonetic_am": "https://tts.langeek.co/read?text=Z29hdCBjaGVlc2U&hash=452edbfd0554e57552650179e01bb20f30639dbd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gooot chiz",
       "img": "https://cdn.langeek.co/photo/21412/original/?type=jpeg",
       "pronunciation": "ɡˈoʊt tʃˈiːz",
       "senses": [
@@ -368,12 +383,13 @@
       ]
     },
     {
+      "id": "12e92a68-20d7-4133-9db5-9d0992212cc7",
       "word": "gorgonzola",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29yZ29uem9sYQ&hash=23d2339e4a71400909945429ec8ed6bcdfd0d46c&lang=en&cache-only=0",
-      "phonetic_text": "gɔrgənzoʊlə",
+      "phonetic_text": "go:r.gən.zoʊ.lə",
       "phonetic_am": "https://tts.langeek.co/read?text=Z29yZ29uem9sYQ&hash=23d2339e4a71400909945429ec8ed6bcdfd0d46c&lang=en&cache-only=0",
-      "phonetic_am_text": "gawrgēnzowlē",
+      "phonetic_am_text": "gor.gēn.zooo.lē",
       "img": "https://cdn.langeek.co/photo/27375/original/?type=jpeg",
       "pronunciation": "ɡˌoːɹɡənzˈoʊlə",
       "senses": [
@@ -384,14 +400,15 @@
       ]
     },
     {
+      "id": "457ae7e3-42d1-47f3-b1f8-e94cb6c654d5",
       "word": "Gouda",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=R291ZGE&hash=0b815a1b0e39f90e83208e9c64484f0056f9258b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=R291ZGE&hash=0b815a1b0e39f90e83208e9c64484f0056f9258b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/18197/original/gouda?type=jpeg",
-      "pronunciation": "ɡˈaʊdə",
+      "pronunciation": "ˈɡaʊdə/ , /ˈɡuːdə",
       "senses": [
         {
           "definition": "a yellow, round cheese from the Netherlands",
@@ -421,12 +438,13 @@
       ]
     },
     {
+      "id": "fe69d1a3-613a-456b-ac20-c6a4a923c201",
       "word": "process cheese",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvY2VzcyBjaGVlc2U&hash=cb9ea36161d4f0688198edd175ba29edde74f83c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "prɑ.sɛs ʧi:z",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvY2VzcyBjaGVlc2U&hash=cb9ea36161d4f0688198edd175ba29edde74f83c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "praa.ses chiz",
       "img": "https://cdn.langeek.co/photo/26880/original/?type=jpeg",
       "pronunciation": "pɹˈɑːsɛs tʃˈiːz",
       "senses": [
@@ -446,12 +464,13 @@
       ]
     },
     {
+      "id": "4a6a2649-e6db-4f37-958f-c83cb14e8a58",
       "word": "ricotta",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmljb3R0YQ&hash=aed31b1c66442566173736d5e72b1a236958b581&lang=en&cache-only=0",
-      "phonetic_text": "rikɑ:tə",
+      "phonetic_text": "ri.kɑ.tə",
       "phonetic_am": "https://tts.langeek.co/read?text=cmljb3R0YQ&hash=aed31b1c66442566173736d5e72b1a236958b581&lang=en&cache-only=0",
-      "phonetic_am_text": "rikaatē",
+      "phonetic_am_text": "ri.kaa.tē",
       "img": "https://cdn.langeek.co/photo/27383/original/?type=jpeg",
       "pronunciation": "ɹiˈkɑtə",
       "senses": [
@@ -471,12 +490,13 @@
       ]
     },
     {
+      "id": "2d96ff29-ac9f-4430-b7e6-9bd6f6fc3e41",
       "word": "stilton",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RpbHRvbg&hash=f34fc29870463966bc09396a4ad26d89c0cd0a18&lang=en&cache-only=0",
-      "phonetic_text": "stɪltən",
+      "phonetic_text": "stɪl.tən",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RpbHRvbg&hash=f34fc29870463966bc09396a4ad26d89c0cd0a18&lang=en&cache-only=0",
-      "phonetic_am_text": "stiltēn",
+      "phonetic_am_text": "stil.tēn",
       "img": "https://cdn.langeek.co/photo/26998/original/?type=jpeg",
       "pronunciation": "stˈɪltən",
       "senses": [
@@ -487,12 +507,13 @@
       ]
     },
     {
+      "id": "5c311eb0-281b-4154-9263-729e1e4eef9f",
       "word": "string cheese",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RyaW5nIGNoZWVzZQ&hash=28d8367529bf9c3c1adfa6e48b25dbc886e4c390&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "strɪng ʧi:z",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyaW5nIGNoZWVzZQ&hash=28d8367529bf9c3c1adfa6e48b25dbc886e4c390&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "string chiz",
       "img": "https://cdn.langeek.co/photo/27000/original/?type=jpeg",
       "pronunciation": "stɹˈɪŋ tʃˈiːz",
       "senses": [
@@ -512,14 +533,15 @@
       ]
     },
     {
+      "id": "ee69d6dc-50be-4a64-858e-b966d75b1279",
       "word": "Swiss cheese",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=U3dpc3MgY2hlZXNl&hash=18cea867c2f4702dceb8c868a1a02e4cb143d391&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=U3dpc3MgY2hlZXNl&hash=18cea867c2f4702dceb8c868a1a02e4cb143d391&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/26892/original/?type=jpeg",
-      "pronunciation": "swˈɪs tʃˈiːz",
+      "pronunciation": "ˈswɪs ˈʧiːz",
       "senses": [
         {
           "definition": "a type of hard cheese with many holes",
@@ -528,10 +550,11 @@
       ]
     },
     {
+      "id": "788f3160-a5ab-4b86-b709-f629e3b1faac",
       "word": "Danish blue",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RGFuaXNoIGJsdWU&hash=8c56cb3c1c97345f93431b30e796df3efd608ecd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RGFuaXNoIGJsdWU&hash=8c56cb3c1c97345f93431b30e796df3efd608ecd&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/26890/original/?type=jpeg",
@@ -544,10 +567,11 @@
       ]
     },
     {
+      "id": "8e5b0045-98e7-45a6-a69e-ebd46446c78e",
       "word": "Emmental",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RW1tZW50YWw&hash=f854827665928ada063f98a31c1280725401e9b2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RW1tZW50YWw&hash=f854827665928ada063f98a31c1280725401e9b2&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/26892/original/?type=jpeg",
@@ -569,12 +593,13 @@
       ]
     },
     {
+      "id": "02965a93-6efe-48cd-904f-fb0b6ac43b09",
       "word": "brie",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJpZQ&hash=95b35264a288d69699ec22c859049d86918dcd70&lang=en&cache-only=0",
-      "phonetic_text": "bri:",
+      "phonetic_text": "bri",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJpZQ&hash=95b35264a288d69699ec22c859049d86918dcd70&lang=en&cache-only=0",
-      "phonetic_am_text": "bree",
+      "phonetic_am_text": "bri",
       "img": "https://cdn.langeek.co/photo/26882/original/?type=jpeg",
       "pronunciation": "ˈbɹi",
       "senses": [
@@ -594,12 +619,13 @@
       ]
     },
     {
+      "id": "3fe488dc-788b-4043-9ad9-d6193a0572a8",
       "word": "crowdie",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3Jvd2RpZQ&hash=fba8fe23f286db6f67392283d186be90a1adc1b7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kraʊ.di",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3Jvd2RpZQ&hash=fba8fe23f286db6f67392283d186be90a1adc1b7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kraoo.di",
       "img": "https://cdn.langeek.co/photo/27369/original/?type=jpeg",
       "pronunciation": "kɹˈaʊdi",
       "senses": [
@@ -615,12 +641,13 @@
       ]
     },
     {
+      "id": "aa2a475e-984e-4a4d-99ba-358f92a5d119",
       "word": "halloumi",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFsbG91bWk&hash=faa1b534bca7a88cac9c29b933ebe51f73510e94&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hæ.laʊ.mi",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFsbG91bWk&hash=faa1b534bca7a88cac9c29b933ebe51f73510e94&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hā.laoo.mi",
       "img": "https://cdn.langeek.co/photo/26946/original/?type=jpeg",
       "pronunciation": "hˈælaʊmi",
       "senses": [
@@ -640,12 +667,13 @@
       ]
     },
     {
+      "id": "c8012b1f-901c-4df6-a611-2f96b0a64b15",
       "word": "mascarpone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFzY2FycG9uZQ&hash=97c88d9f3165ce619cdeb6c5523b0e0b0a88902c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mæs.kɑ:r.poʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFzY2FycG9uZQ&hash=97c88d9f3165ce619cdeb6c5523b0e0b0a88902c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mās.kaar.pooon",
       "img": "https://cdn.langeek.co/photo/27379/original/?type=jpeg",
       "pronunciation": "mˈæskɑːɹpˌoʊn",
       "senses": [
@@ -665,12 +693,13 @@
       ]
     },
     {
+      "id": "9f68a50b-3203-43de-9e08-61187e51b8f6",
       "word": "muenster",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXVlbnN0ZXI&hash=dbfb1c94cb658012abb7e53053a4aeca88a98630&lang=en&cache-only=0",
-      "phonetic_text": "mju:nstər",
+      "phonetic_text": "mjuns.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVlbnN0ZXI&hash=dbfb1c94cb658012abb7e53053a4aeca88a98630&lang=en&cache-only=0",
-      "phonetic_am_text": "myoonstēr",
+      "phonetic_am_text": "myoons.tēr",
       "img": "https://cdn.langeek.co/photo/26954/original/?type=jpeg",
       "pronunciation": "ˈmjunstɝ",
       "senses": [
@@ -690,12 +719,13 @@
       ]
     },
     {
+      "id": "4899452a-b4fd-458a-8567-056ad1ebe293",
       "word": "paneer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFuZWVy&hash=b6778338c718499f784fcf432b38248cbf96a1d0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pæ.nɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFuZWVy&hash=b6778338c718499f784fcf432b38248cbf96a1d0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pā.nir",
       "img": "https://cdn.langeek.co/photo/26958/original/?type=jpeg",
       "pronunciation": "pænˈɪɹ",
       "senses": [
@@ -719,12 +749,13 @@
       ]
     },
     {
+      "id": "43a525bc-f331-4d30-a882-ca0839cb3ab3",
       "word": "quark",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cXVhcms&hash=4985d9922ca4b8f7d7615a4270dc708727a10dc0&lang=en&cache-only=0",
-      "phonetic_text": "kwɑ:rk",
+      "phonetic_text": "kwɑrk",
       "phonetic_am": "https://tts.langeek.co/read?text=cXVhcms&hash=4985d9922ca4b8f7d7615a4270dc708727a10dc0&lang=en&cache-only=0",
-      "phonetic_am_text": "kwaark",
+      "phonetic_am_text": "kvaark",
       "img": "https://cdn.langeek.co/photo/27381/original/?type=jpeg",
       "pronunciation": "ˈkwɑɹk",
       "senses": [
@@ -744,10 +775,11 @@
       ]
     },
     {
+      "id": "53b8c886-f99a-4e99-a66a-97e9cc9e9490",
       "word": "Roquefort",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Um9xdWVmb3J0&hash=779f72122da1803f4dd5f3dc88f05a450c2b5867&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Um9xdWVmb3J0&hash=779f72122da1803f4dd5f3dc88f05a450c2b5867&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/27385/original/?type=jpeg",
@@ -769,12 +801,13 @@
       ]
     },
     {
+      "id": "bf1646bf-e368-4336-b688-30eaf6b81a1f",
       "word": "grated cheese",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JhdGVkIGNoZWVzZQ&hash=f054e75841bfc2295159d53b8299ef054149f1a4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "greɪ.tɪd ʧi:z",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JhdGVkIGNoZWVzZQ&hash=f054e75841bfc2295159d53b8299ef054149f1a4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "grei.tid chiz",
       "img": "https://cdn.langeek.co/photo/34696/original/?type=jpeg",
       "pronunciation": "ɡɹˈeɪɾᵻd tʃˈiːz",
       "senses": [
@@ -806,12 +839,13 @@
       ]
     },
     {
+      "id": "c3ff2179-8b1e-4126-9210-e544a50e8894",
       "word": "gruyere",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3J1eWVyZQ&hash=18465b4d4873521d5d86a52ed3d9466308842a61&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "graɪər",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3J1eWVyZQ&hash=18465b4d4873521d5d86a52ed3d9466308842a61&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "graiēr",
       "img": "https://cdn.langeek.co/photo/26892/original/?type=jpeg",
       "pronunciation": "ɡɹˈaɪɚ",
       "senses": [
@@ -822,10 +856,11 @@
       ]
     },
     {
+      "id": "3170ecbc-4ca2-4291-867f-e88b7ecc6199",
       "word": "Jack cheese",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=SmFjayBjaGVlc2U&hash=666822ebc9a4ccd479de657fd50acd808ffdfb23&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=SmFjayBjaGVlc2U&hash=666822ebc9a4ccd479de657fd50acd808ffdfb23&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/26882/original/?type=jpeg",
@@ -847,14 +882,15 @@
       ]
     },
     {
+      "id": "a62946bf-f522-4398-88a5-e6b58cf516b2",
       "word": "limburger",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGltYnVyZ2Vy&hash=7d2054006f749d10133e34261aced29ec7af6c39&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɪm.bɜr.gər",
       "phonetic_am": "https://tts.langeek.co/read?text=bGltYnVyZ2Vy&hash=7d2054006f749d10133e34261aced29ec7af6c39&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lim.bēr.gēr",
       "img": "https://cdn.langeek.co/photo/34698/original/?type=jpeg",
-      "pronunciation": "lˈɪmbɜːɡɚ",
+      "pronunciation": "ˈlɪmbɝɡɚ",
       "senses": [
         {
           "definition": "a pungent and creamy cheese made from cow's milk, known for its strong aroma",
@@ -868,12 +904,13 @@
       ]
     },
     {
+      "id": "5813ce42-7777-4c99-bf9a-b04fbf4aaf6e",
       "word": "mozzarella",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW96emFyZWxsYQ&hash=84f1ce067ec4361021a622824d5401504ed24352&lang=en&cache-only=0",
-      "phonetic_text": "mɑtsərɛlə",
+      "phonetic_text": "mɑ:.zə.rɛ.lə",
       "phonetic_am": "https://tts.langeek.co/read?text=bW96emFyZWxsYQ&hash=84f1ce067ec4361021a622824d5401504ed24352&lang=en&cache-only=0",
-      "phonetic_am_text": "mɑtsērelē",
+      "phonetic_am_text": "maa.zē.re.lē",
       "img": "https://cdn.langeek.co/photo/26952/original/?type=jpeg",
       "pronunciation": "mˌɑːzɚɹˈɛlə",
       "senses": [
@@ -893,12 +930,13 @@
       ]
     },
     {
+      "id": "7205d803-3830-4446-87be-63a6c15ee405",
       "word": "parmesan",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFybWVzYW4&hash=6e1568864c316e7ef6c7cece7b6b27065048bc05&lang=en&cache-only=0",
-      "phonetic_text": "pɑ:rməzɑn",
+      "phonetic_text": "pɑr.mə.zɑn",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFybWVzYW4&hash=6e1568864c316e7ef6c7cece7b6b27065048bc05&lang=en&cache-only=0",
-      "phonetic_am_text": "paarmēzɑn",
+      "phonetic_am_text": "paar.mē.zaan",
       "img": "https://cdn.langeek.co/photo/26960/original/?type=jpeg",
       "pronunciation": "ˈpɑɹməˌzɑn",
       "senses": [
@@ -909,12 +947,13 @@
       ]
     },
     {
+      "id": "69bb92c6-c5eb-425e-b92a-61801593736b",
       "word": "pot cheese",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG90IGNoZWVzZQ&hash=8bedf0c97273bab81606d41c92559777fdd0d8ee&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɑt ʧi:z",
       "phonetic_am": "https://tts.langeek.co/read?text=cG90IGNoZWVzZQ&hash=8bedf0c97273bab81606d41c92559777fdd0d8ee&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "paat chiz",
       "img": "https://cdn.langeek.co/photo/26888/original/?type=jpeg",
       "pronunciation": "pˈɑːt tʃˈiːz",
       "senses": [
@@ -934,12 +973,13 @@
       ]
     },
     {
+      "id": "49ea254f-fa58-4018-ba8a-9b9b0632bb03",
       "word": "brick cheese",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJpY2sgY2hlZXNl&hash=ec457b6d3d7166ef04ad8153d22a0367460abae4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "brɪk ʧi:z",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJpY2sgY2hlZXNl&hash=ec457b6d3d7166ef04ad8153d22a0367460abae4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "brik chiz",
       "img": "https://cdn.langeek.co/photo/34692/original/?type=jpeg",
       "pronunciation": "bɹˈɪk tʃˈiːz",
       "senses": [

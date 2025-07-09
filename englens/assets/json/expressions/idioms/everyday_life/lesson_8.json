@@ -1,13 +1,15 @@
 {
+  "id": "d3320145-e945-4ba3-aebb-8ebc17a3c30c",
   "topic": "everyday_life",
   "title": "Communication",
   "lesson": "lesson_8",
   "word_list": [
     {
-      "word": "[be|get|stay] in touch",
+      "id": "dbca07cf-a161-4588-9a42-318e2bced3fb",
+      "word": "to [be|get|stay] in touch",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgaW4gdG91Y2g&hash=e8ad01fe56081b8c65a67277676aab3de8b059a5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgaW4gdG91Y2g&hash=e8ad01fe56081b8c65a67277676aab3de8b059a5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -15,28 +17,16 @@
       "senses": [
         {
           "definition": "to be in contact with someone, particularly by seeing or writing to them regularly",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I will get in touch with solicitors about this."
-            },
-            {
-              "cf": "",
-              "x": "Stay in touch with your customers via Internet."
-            },
-            {
-              "cf": "",
-              "x": "I hope we can stay in touch after you move to another city."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[get] hold of {sb}",
+      "id": "3d443514-f13f-4465-bec4-967fd94c9fdc",
+      "word": "to [get] hold of {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IGhvbGQgb2Ygc29tZWJvZHk&hash=c57cd163a9883a763da280ca9df7f41ecb7400e8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IGhvbGQgb2Ygc29tZWJvZHk&hash=c57cd163a9883a763da280ca9df7f41ecb7400e8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -58,10 +48,11 @@
       ]
     },
     {
-      "word": "[drop] {sb} a line",
+      "id": "3224d2a8-3029-4d8e-9169-74861028d3c3",
+      "word": "to [drop] {sb} a line",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJvcCBzb21lYm9keSBhIGxpbmU&hash=9cc55055e7afa5057501eded96f58fe09991f54f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZHJvcCBzb21lYm9keSBhIGxpbmU&hash=9cc55055e7afa5057501eded96f58fe09991f54f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -69,63 +60,35 @@
       "senses": [
         {
           "definition": "to contact a person with a brief message, phone call, or letter",
-          "examples": [
-            {
-              "cf": "",
-              "x": "When you have time, please drop me a line with your thoughts on the project proposal."
-            },
-            {
-              "cf": "",
-              "x": "If you need any help or have questions, feel free to drop us a line, and we'll assist you as soon as possible."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "add682a3-0ec0-4251-8e3d-7f8c6197b7ff",
       "word": "on the line",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gdGhlIGxpbmU&hash=566dfde829ab3b2ff78db9145b26f4f403377c33&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n ðə laɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gdGhlIGxpbmU&hash=566dfde829ab3b2ff78db9145b26f4f403377c33&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan dhē lain",
       "img": "",
       "pronunciation": "ɑːnðə lˈaɪn",
       "senses": [
         {
           "definition": "used for saying that someone is waiting or talking on a telephone",
-          "examples": [
-            {
-              "cf": "",
-              "x": "While I was on the line with the customer service representative, I explained my issue and asked for assistance."
-            },
-            {
-              "cf": "",
-              "x": "The conference call is scheduled for 2 PM, so make sure to be on the line promptly to participate in the meeting."
-            },
-            {
-              "cf": "",
-              "x": "I've been on the line with my friend for an hour, catching up on all the latest news."
-            },
-            {
-              "cf": "",
-              "x": "When the important call came in, I was already on the line and ready to discuss the project with the client."
-            },
-            {
-              "cf": "",
-              "x": "I'll put you on the line with our technical support team, and they can help you troubleshoot the issue you're experiencing."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "d71fb779-8d49-44bc-af02-ac5c3cd62eae",
       "word": "on hold",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gaG9sZA&hash=9bf12032ef5f5073174d6673fb31e8d942575b4f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n hoʊld",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gaG9sZA&hash=9bf12032ef5f5073174d6673fb31e8d942575b4f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan hooold",
       "img": "",
       "pronunciation": "ˌɑːn hˈoʊld",
       "senses": [
@@ -157,10 +120,11 @@
       ]
     },
     {
+      "id": "9ff3e9d7-a25c-4b68-9e4b-7acd61e3bcfa",
       "word": "over and out",
       "pos": "interjection",
       "phonetic": "https://tts.langeek.co/read?text=b3ZlciBhbmQgb3V0&hash=1d985063c5d26ce98c42a221a73d2bc5054d9deb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b3ZlciBhbmQgb3V0&hash=1d985063c5d26ce98c42a221a73d2bc5054d9deb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -168,36 +132,16 @@
       "senses": [
         {
           "definition": "said in a radio communication to indicate that the conversation is over",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After delivering the status report, the pilot radioed, \"Mission accomplished, over and out.\""
-            },
-            {
-              "cf": "",
-              "x": "The soldier reported their location to the base camp and then said, \"All clear here, over and out.\""
-            },
-            {
-              "cf": "",
-              "x": "The police officer radioed for backup and added, \"I'll be waiting at the scene, over and out.\""
-            },
-            {
-              "cf": "",
-              "x": "The astronaut aboard the spacecraft informed mission control of their successful docking and signed off with \"Over and out.\""
-            },
-            {
-              "cf": "",
-              "x": "The truck driver communicated with the dispatch center, saying, \"I've reached the delivery location, over and out.\""
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[cross] {one's} [path]",
+      "id": "7fd35ab8-1914-4cb4-9643-d9393200d98e",
+      "word": "to [cross] {one's} [path]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3Jvc3Mgb25lJ3MgcGF0aA&hash=aa33aa2b8b32a1d713bac869ba50edb6e4fa7a76&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3Jvc3Mgb25lJ3MgcGF0aA&hash=aa33aa2b8b32a1d713bac869ba50edb6e4fa7a76&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -205,28 +149,16 @@
       "senses": [
         {
           "definition": "to unexpectedly encounter or meet someone or something, often with significant consequences",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Be cautious when making decisions; you never know when danger might cross your path."
-            },
-            {
-              "cf": "",
-              "x": "The opportunity of a lifetime may cross your path when you least expect it, so stay vigilant."
-            },
-            {
-              "cf": "",
-              "x": "It's a small world, and you never know when a past mistake might cross your path and come back to haunt you."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[put] {sb} in touch with {sb}",
+      "id": "5c127923-f464-4534-987d-6b5d78010009",
+      "word": "to [put] {sb} in touch with {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IHNvbWVib2R5IGluIHRvdWNoIHdpdGggc29tZWJvZHk&hash=d26ce22951f023ffedd76a596234a9228ea8b6af&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IHNvbWVib2R5IGluIHRvdWNoIHdpdGggc29tZWJvZHk&hash=d26ce22951f023ffedd76a596234a9228ea8b6af&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -239,10 +171,11 @@
       ]
     },
     {
-      "word": "{not} [see|find] hide nor hair of {sb/sth}",
+      "id": "d01e1496-88d9-4083-ab40-2159d2176001",
+      "word": "to {not} [see|find] hide nor hair of {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbm90IHNlZSBoaWRlIG5vciBoYWlyIG9mIHNvbWVib2R5IG9yIHNvbWV0aGluZw&hash=693d72e13e6663e2daf81e1e931deea2242575a9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbm90IHNlZSBoaWRlIG5vciBoYWlyIG9mIHNvbWVib2R5IG9yIHNvbWV0aGluZw&hash=693d72e13e6663e2daf81e1e931deea2242575a9&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -272,10 +205,11 @@
       ]
     },
     {
-      "word": "[lose] touch",
+      "id": "7075c258-1437-4468-92cd-df4b13546c62",
+      "word": "to [lose] touch",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbG9zZSB0b3VjaA&hash=ac1c654a6c2c56d33cd7daff8a3e3663e0a1df57&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbG9zZSB0b3VjaA&hash=ac1c654a6c2c56d33cd7daff8a3e3663e0a1df57&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -283,36 +217,16 @@
       "senses": [
         {
           "definition": "to be no longer in contact with a friend or acquaintance",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I used to be close friends with her, but we've gradually lost touch over the years."
-            },
-            {
-              "cf": "",
-              "x": "After changing jobs, I lost touch with many of my former colleagues."
-            },
-            {
-              "cf": "",
-              "x": "He moved to a different country, and it's been challenging not to lose touch with his cultural roots."
-            },
-            {
-              "cf": "",
-              "x": "It's essential to stay in touch with old friends to avoid losing touch with your past."
-            },
-            {
-              "cf": "",
-              "x": "The rapid pace of technology can make it easy to lose touch with the latest developments in your field if you're not careful."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[keep|hold] {sb/sth} at arm's (length|distance)",
+      "id": "c38901fa-b778-4a46-8387-c4f2fa7daacc",
+      "word": "to [keep|hold] {sb/sth} at arm's (length|distance)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCBzb21lYm9keSBvciBzb21ldGhpbmcgYXQgYXJtJ3MgbGVuZ3Ro&hash=f2797d4b7b96cff5060dc7d9456c31401232e756&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCBzb21lYm9keSBvciBzb21ldGhpbmcgYXQgYXJtJ3MgbGVuZ3Ro&hash=f2797d4b7b96cff5060dc7d9456c31401232e756&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -342,10 +256,11 @@
       ]
     },
     {
-      "word": "{not} [know|recognize] {sb} from Adam",
+      "id": "3af63887-ec03-4759-b0b0-0deec7189efc",
+      "word": "to {not} [know|recognize] {sb} from Adam",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbm90IGtub3cgc29tZWJvZHkgZnJvbSBBZGFt&hash=ad07ed76a5e98ae5efe512c38569c5ea03466916&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbm90IGtub3cgc29tZWJvZHkgZnJvbSBBZGFt&hash=ad07ed76a5e98ae5efe512c38569c5ea03466916&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -353,28 +268,16 @@
       "senses": [
         {
           "definition": "to fail to recognize someone as one has never met them or knows nothing about them",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She claims to be a distant relative, but I don't know her from Adam."
-            },
-            {
-              "cf": "",
-              "x": "If you showed me a picture of that actor without context, I wouldn't know him from Adam."
-            },
-            {
-              "cf": "",
-              "x": "In a big city like this, you pass by countless people daily, and you don't know them from Adam."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[touch] base (with|)",
+      "id": "93e532f1-28cf-4bac-97f3-27b31c8d324e",
+      "word": "to [touch] base (with|)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdG91Y2ggYmFzZSB3aXRo&hash=ecee4ef9d077b21cdc0aa60a9d6e0ca81260fbf0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdG91Y2ggYmFzZSB3aXRo&hash=ecee4ef9d077b21cdc0aa60a9d6e0ca81260fbf0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -408,10 +311,11 @@
       ]
     },
     {
+      "id": "1bd3a708-f41c-456a-ae6f-e5af443a34c6",
       "word": "ships (that|) [pass] in the night",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=c2hpcHMgdGhhdCBwYXNzIGluIHRoZSBuaWdodA&hash=2ad6581c40b45058b224d36c4eaf46d134d17190&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hpcHMgdGhhdCBwYXNzIGluIHRoZSBuaWdodA&hash=2ad6581c40b45058b224d36c4eaf46d134d17190&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -441,12 +345,13 @@
       ]
     },
     {
+      "id": "b4570879-9b87-48b3-9f9f-734b9b16f33e",
       "word": "out of touch",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b3V0IG9mIHRvdWNo&hash=b75bf3742f31df52875edc11e204b6ac86a95c39&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aʊt ʌv tʌʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=b3V0IG9mIHRvdWNo&hash=b75bf3742f31df52875edc11e204b6ac86a95c39&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aoot av tach",
       "img": "",
       "pronunciation": "ˌaʊɾəv tˈʌtʃ",
       "senses": [

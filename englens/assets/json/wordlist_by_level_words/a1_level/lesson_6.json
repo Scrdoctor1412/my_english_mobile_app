@@ -1,13 +1,15 @@
 {
+  "id": "30b38451-883c-4758-9757-68fcc6d67c53",
   "topic": "a1_level",
   "title": "Time and Date",
   "lesson": "lesson_6",
   "word_list": [
     {
+      "id": "2103a70a-79e2-456f-b200-d3d3859c9e66",
       "word": "clock",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xvY2s&hash=234ff62ab0b9054df9e8437796ad26d2d0abe5a5&lang=en&cache-only=0",
-      "phonetic_text": "klɑ:k",
+      "phonetic_text": "klɑk",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xvY2s&hash=234ff62ab0b9054df9e8437796ad26d2d0abe5a5&lang=en&cache-only=0",
       "phonetic_am_text": "klaak",
       "img": "https://cdn.langeek.co/photo/47903/original/clock?type=jpeg",
@@ -37,6 +39,7 @@
       ]
     },
     {
+      "id": "f6b2c6b5-8f14-44c4-a371-51753bd647ff",
       "word": "year",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=eWVhcg&hash=c7f5bc784d4065de9e1c42a0aaa884cdeb8b8c5e&lang=en&cache-only=0",
@@ -66,6 +69,7 @@
       ]
     },
     {
+      "id": "819aa24d-9e2b-43f4-b8b8-f3cbf14929ed",
       "word": "time",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGltZQ&hash=f20143b5dc983543f7239d4f4e7041e3ddbdfb75&lang=en&cache-only=0",
@@ -99,6 +103,7 @@
       ]
     },
     {
+      "id": "ab60e6bb-2674-407f-91a6-605eed63e1e2",
       "word": "date",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGF0ZQ&hash=306047f81731865f50d6a6e0e1a4a95c77e68b53&lang=en&cache-only=0",
@@ -136,6 +141,7 @@
       ]
     },
     {
+      "id": "c1f6ac64-00b9-4532-8358-79b5149c0689",
       "word": "day",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGF5&hash=081dfd40ed545b12c83b9fac1716aa0fe492caee&lang=en&cache-only=0",
@@ -169,12 +175,13 @@
       ]
     },
     {
+      "id": "f472ae18-983d-49df-931a-32897fbc2520",
       "word": "hour",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG91cg&hash=2c87f48c83511bbcd52c567d5fb3bcee71e40ef0&lang=en&cache-only=0",
-      "phonetic_text": "aʊər",
+      "phonetic_text": "aʊr",
       "phonetic_am": "https://tts.langeek.co/read?text=aG91cg&hash=2c87f48c83511bbcd52c567d5fb3bcee71e40ef0&lang=en&cache-only=0",
-      "phonetic_am_text": "awēr",
+      "phonetic_am_text": "aoor",
       "img": "https://cdn.langeek.co/photo/51536/original/hour?type=jpeg",
       "pronunciation": "aʊɚ",
       "senses": [
@@ -194,13 +201,14 @@
       ]
     },
     {
+      "id": "83eda287-05a4-4340-ad87-8b37e1eeb605",
       "word": "o'clock",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=bydjbG9jaw&hash=2ea41a68cc92a2fd2b9ba1fcbcea1606826e7d7d&lang=en&cache-only=0",
-      "phonetic_text": "əklɑ:k",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bydjbG9jaw&hash=2ea41a68cc92a2fd2b9ba1fcbcea1606826e7d7d&lang=en&cache-only=0",
-      "phonetic_am_text": "ēklaak",
-      "img": "https://cdn.langeek.co/photo/51536/original/hour?type=jpeg",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/60881/original/?type=jpeg",
       "pronunciation": "əˈklɑk",
       "senses": [
         {
@@ -210,12 +218,13 @@
       ]
     },
     {
+      "id": "2163f385-94db-4467-aa11-c72480b02f54",
       "word": "minute",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWludXRl&hash=d5ed2bc9ee9bf84446d993eb0972316a6ab7af04&lang=en&cache-only=0",
-      "phonetic_text": "mɪnət",
+      "phonetic_text": "mɪ.nɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=bWludXRl&hash=d5ed2bc9ee9bf84446d993eb0972316a6ab7af04&lang=en&cache-only=0",
-      "phonetic_am_text": "minēt",
+      "phonetic_am_text": "mi.nit",
       "img": "https://cdn.langeek.co/photo/51538/original/minute?type=jpeg",
       "pronunciation": "ˈmɪnɪt",
       "senses": [
@@ -235,12 +244,13 @@
       ]
     },
     {
+      "id": "9015890d-8179-41dc-89c4-36d51321332a",
       "word": "second",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Vjb25k&hash=7b2e8b13baeeb25d23301f168d9ffe86b6edb04a&lang=en&cache-only=0",
-      "phonetic_text": "sɛkənd",
+      "phonetic_text": "sɛ.kənd",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Vjb25k&hash=7b2e8b13baeeb25d23301f168d9ffe86b6edb04a&lang=en&cache-only=0",
-      "phonetic_am_text": "sekēnd",
+      "phonetic_am_text": "se.kēnd",
       "img": "https://cdn.langeek.co/photo/48581/original/second?type=jpeg",
       "pronunciation": "ˈsɛkənd",
       "senses": [
@@ -272,12 +282,13 @@
       ]
     },
     {
+      "id": "3e45b5d4-d8fe-4caf-8743-1041d470bb05",
       "word": "morning",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9ybmluZw&hash=04e3d74ffbed51d65ab16e4aa392d1b09923c98b&lang=en&cache-only=0",
-      "phonetic_text": "mɔ:rnɪng",
+      "phonetic_text": "mɔr.nɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9ybmluZw&hash=04e3d74ffbed51d65ab16e4aa392d1b09923c98b&lang=en&cache-only=0",
-      "phonetic_am_text": "maawrning",
+      "phonetic_am_text": "mawr.ning",
       "img": "https://cdn.langeek.co/photo/48569/original/morning?type=jpeg",
       "pronunciation": "ˈmɔrnɪŋ",
       "senses": [
@@ -309,12 +320,13 @@
       ]
     },
     {
+      "id": "4b869285-e674-4419-bbc7-c0b993abd8e4",
       "word": "afternoon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWZ0ZXJub29u&hash=dc57f7e1e60e097b95ff326d760f528a03145b20&lang=en&cache-only=0",
-      "phonetic_text": "æftərnu:n",
+      "phonetic_text": "æf.tər.nun",
       "phonetic_am": "https://tts.langeek.co/read?text=YWZ0ZXJub29u&hash=dc57f7e1e60e097b95ff326d760f528a03145b20&lang=en&cache-only=0",
-      "phonetic_am_text": "āftērnoon",
+      "phonetic_am_text": "āf.tēr.noon",
       "img": "https://cdn.langeek.co/photo/50255/original/afternoon?type=jpeg",
       "pronunciation": "ˌæftɚˈnuːn",
       "senses": [
@@ -346,12 +358,13 @@
       ]
     },
     {
+      "id": "1b169425-d7c1-4e98-91ad-aeb9b8311767",
       "word": "evening",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXZlbmluZw&hash=775dfd52dd29aa278716df6dcc7d102c45e105bf&lang=en&cache-only=0",
-      "phonetic_text": "i:vnɪng",
+      "phonetic_text": "iv.nɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXZlbmluZw&hash=775dfd52dd29aa278716df6dcc7d102c45e105bf&lang=en&cache-only=0",
-      "phonetic_am_text": "eevning",
+      "phonetic_am_text": "iv.ning",
       "img": "https://cdn.langeek.co/photo/48437/original/evening?type=jpeg",
       "pronunciation": "ˈivnɪŋ",
       "senses": [
@@ -383,6 +396,7 @@
       ]
     },
     {
+      "id": "f22ef0ed-b8d6-4f29-bea3-303eff900850",
       "word": "night",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmlnaHQ&hash=a2bd3f4eb80e97c61d7de799e6f43d5b31df0294&lang=en&cache-only=0",
@@ -420,13 +434,14 @@
       ]
     },
     {
+      "id": "7dfac308-f4e8-4057-bea8-c299da02e5df",
       "word": "week",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2Vlaw&hash=657ab718293c5975cc972cd3aa91614584b29b8e&lang=en&cache-only=0",
       "phonetic_text": "wi:k",
       "phonetic_am": "https://tts.langeek.co/read?text=d2Vlaw&hash=657ab718293c5975cc972cd3aa91614584b29b8e&lang=en&cache-only=0",
-      "phonetic_am_text": "week",
-      "img": "https://cdn.langeek.co/photo/48513/original/week?type=jpeg",
+      "phonetic_am_text": "vik",
+      "img": "https://cdn.langeek.co/photo/60909/original/week?type=jpeg",
       "pronunciation": "wiːk",
       "senses": [
         {
@@ -453,13 +468,14 @@
       ]
     },
     {
+      "id": "4e52a07c-c944-4c1c-8435-19f4c65163b5",
       "word": "Sunday",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=U3VuZGF5&hash=a6d1fb8b3bed11e67bdafbdd7fe3e71919c6473a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=U3VuZGF5&hash=a6d1fb8b3bed11e67bdafbdd7fe3e71919c6473a&lang=en&cache-only=0",
       "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/28672/original/?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60895/original/?type=jpeg",
       "pronunciation": "ˈsʌnˌdeɪ",
       "senses": [
         {
@@ -474,13 +490,14 @@
       ]
     },
     {
+      "id": "6b047d25-af75-4622-ae5f-249d868fc914",
       "word": "Monday",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=TW9uZGF5&hash=6215a2bef4336fd1300391af4c4c3a61683b3f70&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=TW9uZGF5&hash=6215a2bef4336fd1300391af4c4c3a61683b3f70&lang=en&cache-only=0",
       "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/28674/original/monday?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60865/original/monday?type=jpeg",
       "pronunciation": "ˈmʌnˌdeɪ",
       "senses": [
         {
@@ -503,13 +520,14 @@
       ]
     },
     {
+      "id": "d259fbdb-0427-4052-b0af-ba0dc22bdec1",
       "word": "Tuesday",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VHVlc2RheQ&hash=3210c0cd05faf5c5d924519532c2f5dd4d020f05&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=VHVlc2RheQ&hash=3210c0cd05faf5c5d924519532c2f5dd4d020f05&lang=en&cache-only=0",
       "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/28716/original/tuesday?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60899/original/tuesday?type=jpeg",
       "pronunciation": "ˈtuːzˌdeɪ",
       "senses": [
         {
@@ -524,13 +542,14 @@
       ]
     },
     {
+      "id": "5b09f9b3-4e20-4ae5-9450-7294ab2bdab3",
       "word": "Wednesday",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=V2VkbmVzZGF5&hash=5e60619afbbd6dc9b20b5f3c781ac28f90d44ad4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=V2VkbmVzZGF5&hash=5e60619afbbd6dc9b20b5f3c781ac28f90d44ad4&lang=en&cache-only=0",
       "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/28678/original/wednesday?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60905/original/wednesday?type=jpeg",
       "pronunciation": "ˈwɛnzˌdeɪ",
       "senses": [
         {
@@ -553,13 +572,14 @@
       ]
     },
     {
+      "id": "96003a7e-09fd-44e5-b5e0-0410c5847e94",
       "word": "Thursday",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VGh1cnNkYXk&hash=20980ecb215b48d3caab03bcc3e5d0ab4e4669f8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=VGh1cnNkYXk&hash=20980ecb215b48d3caab03bcc3e5d0ab4e4669f8&lang=en&cache-only=0",
       "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/28680/original/thursday?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60897/original/thursday?type=jpeg",
       "pronunciation": "ˈθɝzˌdeɪ",
       "senses": [
         {
@@ -590,13 +610,14 @@
       ]
     },
     {
+      "id": "c6ef1e34-a9ca-4731-8f1e-76390a77c360",
       "word": "Friday",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RnJpZGF5&hash=a82f53c6efa662509a6bdf644a3de0d169c1d82e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RnJpZGF5&hash=a82f53c6efa662509a6bdf644a3de0d169c1d82e&lang=en&cache-only=0",
       "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/28668/original/friday?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60851/original/friday?type=jpeg",
       "pronunciation": "ˈfraɪˌdeɪ",
       "senses": [
         {
@@ -623,13 +644,14 @@
       ]
     },
     {
+      "id": "aa177401-36c0-4105-b594-3223f3b1c3c0",
       "word": "Saturday",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=U2F0dXJkYXk&hash=50fb0539a87184fd5d10e40a8f987b349c02f5ab&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=U2F0dXJkYXk&hash=50fb0539a87184fd5d10e40a8f987b349c02f5ab&lang=en&cache-only=0",
       "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/28670/original/saturday?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60887/original/saturday?type=jpeg",
       "pronunciation": "ˈsæˌtɝˌdeɪ",
       "senses": [
         {
@@ -648,13 +670,14 @@
       ]
     },
     {
+      "id": "fff84fbc-afc9-457f-bab3-81f0f59269c1",
       "word": "weekend",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2Vla2VuZA&hash=4bdbfbdd820e67b9901cad6ef119beec324e2129&lang=en&cache-only=0",
-      "phonetic_text": "wi:kɛnd",
+      "phonetic_text": "wi:k.ɛnd",
       "phonetic_am": "https://tts.langeek.co/read?text=d2Vla2VuZA&hash=4bdbfbdd820e67b9901cad6ef119beec324e2129&lang=en&cache-only=0",
-      "phonetic_am_text": "weekend",
-      "img": "https://cdn.langeek.co/photo/48517/original/weekend?type=jpeg",
+      "phonetic_am_text": "vik.end",
+      "img": "https://cdn.langeek.co/photo/60911/original/weekend?type=jpeg",
       "pronunciation": "ˈwiːkˌɛnd",
       "senses": [
         {
@@ -685,13 +708,14 @@
       ]
     },
     {
+      "id": "2b61c399-02ff-47d0-b4ce-7999c2017538",
       "word": "next",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bmV4dA&hash=74149fdf59892db000d0e51a8dd1792ba107c8c3&lang=en&cache-only=0",
       "phonetic_text": "nɛkst",
       "phonetic_am": "https://tts.langeek.co/read?text=bmV4dA&hash=74149fdf59892db000d0e51a8dd1792ba107c8c3&lang=en&cache-only=0",
       "phonetic_am_text": "nekst",
-      "img": "https://cdn.langeek.co/photo/48071/original/?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60873/original/?type=jpeg",
       "pronunciation": "nɛkst",
       "senses": [
         {
@@ -726,6 +750,7 @@
       ]
     },
     {
+      "id": "e5ce5a04-2194-4956-baed-6aa56a49b80d",
       "word": "half",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFsZg&hash=1dce9609a3b70917d74a05c55e23203c6f570666&lang=en&cache-only=0",
@@ -744,7 +769,19 @@
             },
             {
               "cf": "",
-              "x": "She has a lunch break of an hour and a half."
+              "x": "I cut the cake into halves and gave her one half."
+            },
+            {
+              "cf": "",
+              "x": "The donation was split into equal halves for both charities."
+            },
+            {
+              "cf": "",
+              "x": "We spent one half of the day hiking and the other half swimming."
+            },
+            {
+              "cf": "",
+              "x": "Please take this half and give the other to your brother."
             }
           ]
         }

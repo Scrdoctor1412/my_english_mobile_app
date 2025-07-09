@@ -1,57 +1,81 @@
 {
+  "id": "5eff46b0-031a-4691-9082-99c268ab0a75",
   "topic": "food_ingredients",
   "title": "Mushrooms, Fungi, and Seaweed",
   "lesson": "lesson_26",
   "word_list": [
     {
+      "id": "c1b425ed-dce3-4b03-80ee-e9ad2a8fb989",
       "word": "red algae",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVkIGFsZ2Fl&hash=60db30a7b697b016c96b9fe83b43f8b6b706858e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɛd æl.ʤi",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVkIGFsZ2Fl&hash=60db30a7b697b016c96b9fe83b43f8b6b706858e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "red āl.ji",
       "img": "https://cdn.langeek.co/photo/36339/original/?type=jpeg",
       "pronunciation": "ɹˈɛd ˈælɡiː",
       "senses": [
         {
           "definition": "a group of marine plants with reddish pigmentation, known for their role in providing habitat and food in aquatic ecosystems",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Enhance the flavor and nutritional value of your smoothies by adding powdered red algae as a nutrient-rich ingredient."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e3381e6e-c7bd-4856-be90-7d5b2d1d48d5",
       "word": "green algae",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JlZW4gYWxnYWU&hash=4493b3729fa8e59b4c1397eaf97492318712d30c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gri:n æl.ʤi",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JlZW4gYWxnYWU&hash=4493b3729fa8e59b4c1397eaf97492318712d30c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "grin āl.ji",
       "img": "https://cdn.langeek.co/photo/36275/original/?type=jpeg",
       "pronunciation": "ɡɹˈiːn ˈælɡiː",
       "senses": [
         {
           "definition": "a diverse group of photosynthetic organisms, characterized by their green pigmentation",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The presence of green algae in water bodies can indicate the health and balance of the ecosystem."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a46ec310-f77a-486a-88d0-a5cae5c230bb",
       "word": "brown algae",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJvd24gYWxnYWU&hash=bb32892ad35819fc09e2568da92f8489a17e4eb6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "braʊn æl.ʤi",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJvd24gYWxnYWU&hash=bb32892ad35819fc09e2568da92f8489a17e4eb6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "braoon āl.ji",
       "img": "",
       "pronunciation": "bɹˈaʊn ˈælɡiː",
       "senses": [
         {
           "definition": "a diverse group of photosynthetic marine organisms, often found in seawater, characterized by their brown pigmentation",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Brown algae create habitats and provide food for marine species."
+            },
+            {
+              "cf": "",
+              "x": "Brown algae have complex life cycles with genetic diversity."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "14ec0f9c-915f-43b7-9808-88a5d0355dca",
       "word": "kelp",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2VscA&hash=70b35dfb6d7925b48229ab605905a772bf2c0b05&lang=en&cache-only=0",
@@ -63,17 +87,27 @@
       "senses": [
         {
           "definition": "large, brown seaweeds that grow in underwater forests, characterized by their long, leaf-like structures",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Its long, ribbon-like structures and firm texture make kelp easily recognizable in the ocean."
+            },
+            {
+              "cf": "",
+              "x": "The distinct taste and texture of kelp are appreciated in certain cuisines around the world."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "18d06c17-671a-4f10-a5e6-5e3f583fa0db",
       "word": "nori",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bm9yaQ&hash=3bdd6e4def943a0db4582af92ee90155ebe6e45b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nɔ:.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=bm9yaQ&hash=3bdd6e4def943a0db4582af92ee90155ebe6e45b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "naw.ri",
       "img": "https://cdn.langeek.co/photo/36273/original/?type=jpeg",
       "pronunciation": "nɔːɹi",
       "senses": [
@@ -84,28 +118,39 @@
       ]
     },
     {
+      "id": "9fb0fd51-402a-4bda-aa0b-916f830df7c4",
       "word": "porphyra",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9ycGh5cmE&hash=47c21aa91c9f1469fe3d04457dc23b459740c86b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "po:r.faɪ.rə",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9ycGh5cmE&hash=47c21aa91c9f1469fe3d04457dc23b459740c86b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "por.fai.rē",
       "img": "",
       "pronunciation": "poːɹfˈaɪɹə",
       "senses": [
         {
           "definition": "a subdivision of red algae characterized by its thin, edible sheets",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Add chopped porphyra to your stir-fries for a nutritious boost."
+            },
+            {
+              "cf": "",
+              "x": "Prepare a refreshing and nutritious porphyra smoothie by blending rehydrated sheets with banana and coconut water."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "4b313c40-20bf-40ba-a07e-d8cc1b1ff4a7",
       "word": "gim",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2lt&hash=68b6d788439dc8324754d4d28c31629eb4005385&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2lt&hash=68b6d788439dc8324754d4d28c31629eb4005385&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gim",
       "img": "https://cdn.langeek.co/photo/36273/original/?type=jpeg",
       "pronunciation": "ɡɪm",
       "senses": [
@@ -116,28 +161,35 @@
       ]
     },
     {
+      "id": "e5eb5a5a-cccf-48cf-a7a2-8dab7b83bb9e",
       "word": "truffle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJ1ZmZsZQ&hash=e20ae58911cd3504d7d99b9e83a4774aa9e3868e&lang=en&cache-only=0",
-      "phonetic_text": "trʌfəl",
+      "phonetic_text": "trə.fəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJ1ZmZsZQ&hash=e20ae58911cd3504d7d99b9e83a4774aa9e3868e&lang=en&cache-only=0",
-      "phonetic_am_text": "trafēl",
+      "phonetic_am_text": "trē.fēl",
       "img": "https://cdn.langeek.co/photo/36349/original/?type=jpeg",
       "pronunciation": "ˈtɹəfəɫ",
       "senses": [
         {
           "definition": "a highly prized fungus that grows underground, known for its distinctive aroma and flavor",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The distinctive taste of truffles adds an earthy and musky note to dishes like pasta and risotto."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1a704ad5-2380-455d-9b2e-dd2e3d1dc7fa",
       "word": "button mushroom",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnV0dG9uIG11c2hyb29t&hash=0b47a55be99ae14d44f266bfa09bb5d7ae5b38c8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bʌ.tən məʃ.ru:m",
       "phonetic_am": "https://tts.langeek.co/read?text=YnV0dG9uIG11c2hyb29t&hash=0b47a55be99ae14d44f266bfa09bb5d7ae5b38c8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ba.tēn mēsh.room",
       "img": "https://cdn.langeek.co/photo/50473/original/mushroom?type=jpeg",
       "pronunciation": "bʌʔn̩ mʌʃɹuːm",
       "senses": [
@@ -148,12 +200,13 @@
       ]
     },
     {
+      "id": "695124ae-867f-413c-8bb6-f86c9c2871ab",
       "word": "oyster mushroom",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3lzdGVyIG11c2hyb29t&hash=e1140e6aee972810d4312ca0440e415c5090650c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɔɪs.tər məʃ.ru:m",
       "phonetic_am": "https://tts.langeek.co/read?text=b3lzdGVyIG11c2hyb29t&hash=e1140e6aee972810d4312ca0440e415c5090650c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "awis.tēr mēsh.room",
       "img": "https://cdn.langeek.co/photo/36337/original/?type=jpeg",
       "pronunciation": "ˈɔɪstɚ mˈʌʃɹuːm",
       "senses": [
@@ -173,12 +226,13 @@
       ]
     },
     {
+      "id": "b8c92795-f360-4cc8-83ae-43a5fc703bb9",
       "word": "shiitake",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2hpaXRha2U&hash=ea6e7c1776896f49d653c71119d4b06765b63a5b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʃi:.tɑ:.ke:",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hpaXRha2U&hash=ea6e7c1776896f49d653c71119d4b06765b63a5b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "shi.taa.ke",
       "img": "https://cdn.langeek.co/photo/36343/original/?type=jpeg",
       "pronunciation": "ʃiːtˈɑːkeː",
       "senses": [
@@ -189,12 +243,13 @@
       ]
     },
     {
+      "id": "134064dd-944b-43f2-b158-5a113978f45a",
       "word": "morel",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9yZWw&hash=cc68d482bb4612714a308f54a271a95c76fd06fe&lang=en&cache-only=0",
-      "phonetic_text": "mərɛl",
+      "phonetic_text": "mɜ.rɛl",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9yZWw&hash=cc68d482bb4612714a308f54a271a95c76fd06fe&lang=en&cache-only=0",
-      "phonetic_am_text": "mērel",
+      "phonetic_am_text": "mē.rel",
       "img": "https://cdn.langeek.co/photo/36279/original/?type=jpeg",
       "pronunciation": "mɝˈɛɫ",
       "senses": [
@@ -214,12 +269,13 @@
       ]
     },
     {
+      "id": "9a328787-e4b9-4a39-9b12-d0a45bc27f6e",
       "word": "chanterelle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hhbnRlcmVsbGU&hash=eaf772d6d931f6268b26c55b12ad3bd6e7a9bb92&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧæn.tə.rɛl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hhbnRlcmVsbGU&hash=eaf772d6d931f6268b26c55b12ad3bd6e7a9bb92&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chān.tē.rel",
       "img": "https://cdn.langeek.co/photo/36269/original/?type=jpeg",
       "pronunciation": "tʃˈæntɚɹˌɛl",
       "senses": [
@@ -239,12 +295,13 @@
       ]
     },
     {
+      "id": "a99342c9-6c84-4686-a5d2-6377f34a5ad4",
       "word": "mushroom",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXVzaHJvb20&hash=ec5e9abf0c324e588d1e91c3e5af3ff189fe5c8c&lang=en&cache-only=0",
-      "phonetic_text": "mʌʃrum",
+      "phonetic_text": "məʃ.ru:m",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVzaHJvb20&hash=ec5e9abf0c324e588d1e91c3e5af3ff189fe5c8c&lang=en&cache-only=0",
-      "phonetic_am_text": "mashrum",
+      "phonetic_am_text": "mēsh.room",
       "img": "https://cdn.langeek.co/photo/50473/original/mushroom?type=jpeg",
       "pronunciation": "ˈmʌʃˌruːm/ , /ˈmʌʃˌrʊm",
       "senses": [
@@ -276,14 +333,15 @@
       ]
     },
     {
+      "id": "e10e8234-f166-488f-95f6-25fad9f760b2",
       "word": "bladderwrack",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmxhZGRlcndyYWNr&hash=ed60d25fd27bc6a8bf31ef468ec3c354a66a1274&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "blæ.dər.ræk",
       "phonetic_am": "https://tts.langeek.co/read?text=YmxhZGRlcndyYWNr&hash=ed60d25fd27bc6a8bf31ef468ec3c354a66a1274&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "blā.dēr.rāk",
       "img": "",
-      "pronunciation": "blˈædɚɹˌæk",
+      "pronunciation": "ˈblædərˌræk",
       "senses": [
         {
           "definition": "a type of brown seaweed known for its air bladder-like structures and potential health benefits",
@@ -301,12 +359,13 @@
       ]
     },
     {
+      "id": "15ef698c-6b86-4c61-abb3-ea497b7ec3e8",
       "word": "carrageen",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FycmFnZWVu&hash=b8e1c23cca9cfc7f7a93a062dbc97cc0c0ab1b7b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kæ.ra.ʤi:n",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FycmFnZWVu&hash=b8e1c23cca9cfc7f7a93a062dbc97cc0c0ab1b7b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kā.ra.jin",
       "img": "",
       "pronunciation": "kˈæɹɐdʒˌiːn",
       "senses": [
@@ -326,12 +385,13 @@
       ]
     },
     {
+      "id": "ee65f924-d50a-4b7f-aa0c-6adc3242a5b2",
       "word": "dulse",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHVsc2U&hash=23bdc571a3e811796f8f689915d02a583e4d0e28&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dʌls",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHVsc2U&hash=23bdc571a3e811796f8f689915d02a583e4d0e28&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dals",
       "img": "",
       "pronunciation": "dˈʌls",
       "senses": [
@@ -342,12 +402,13 @@
       ]
     },
     {
+      "id": "223f6b12-8eba-4a66-a308-dd770c27d140",
       "word": "fucoid algae",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnVjb2lkIGFsZ2Fl&hash=b5a50c86c9752478cfcc48feb7cb29a79562233c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fju:.kɔɪd æl.ʤi",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnVjb2lkIGFsZ2Fl&hash=b5a50c86c9752478cfcc48feb7cb29a79562233c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fyoo.kawid āl.ji",
       "img": "",
       "pronunciation": "fjˈuːkɔɪd ˈælɡiː",
       "senses": [
@@ -367,10 +428,11 @@
       ]
     },
     {
+      "id": "86fe2b0b-57e0-4913-8a1c-e4e3cdbfe84e",
       "word": "Iceland moss",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=SWNlbGFuZCBtb3Nz&hash=9f143f2fc7e615962e2cffc86893865a7fa3b42b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=SWNlbGFuZCBtb3Nz&hash=9f143f2fc7e615962e2cffc86893865a7fa3b42b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -383,10 +445,11 @@
       ]
     },
     {
+      "id": "8caaa96b-1827-433f-b64c-c7207dcd7603",
       "word": "Irish moss",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=SXJpc2ggbW9zcw&hash=bbf4a085a440018e7d4d535685218497a4da69bb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=SXJpc2ggbW9zcw&hash=bbf4a085a440018e7d4d535685218497a4da69bb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -399,12 +462,13 @@
       ]
     },
     {
+      "id": "5c02b284-259a-4df9-a5ac-fbbc593de562",
       "word": "laver",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGF2ZXI&hash=f4beaf7b1b98afa4cc7dd9ec82b1af810cf7bed3&lang=en&cache-only=0",
-      "phonetic_text": "leɪvər",
+      "phonetic_text": "leɪ.vɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bGF2ZXI&hash=f4beaf7b1b98afa4cc7dd9ec82b1af810cf7bed3&lang=en&cache-only=0",
-      "phonetic_am_text": "leivēr",
+      "phonetic_am_text": "lei.vēr",
       "img": "",
       "pronunciation": "ˈɫeɪvɝ",
       "senses": [
@@ -415,12 +479,13 @@
       ]
     },
     {
+      "id": "256306a2-a735-4ba5-a600-2ac257907060",
       "word": "rockweed",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9ja3dlZWQ&hash=e16b01de9c0ca0db0fff82b73bfe81a2a5602fad&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɑk.wid",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9ja3dlZWQ&hash=e16b01de9c0ca0db0fff82b73bfe81a2a5602fad&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "raak.vid",
       "img": "",
       "pronunciation": "ɹˈɑːkwiːd",
       "senses": [
@@ -436,12 +501,13 @@
       ]
     },
     {
+      "id": "e205726d-7451-4525-a1f3-45fb858dbfb6",
       "word": "sea lettuce",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VhIGxldHR1Y2U&hash=c39133ce57b712f22455ba76444fb8e1454b36dc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "si: lɛ.təs",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VhIGxldHR1Y2U&hash=c39133ce57b712f22455ba76444fb8e1454b36dc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "si le.tēs",
       "img": "",
       "pronunciation": "sˈiː lˈɛɾɪs",
       "senses": [
@@ -461,34 +527,54 @@
       ]
     },
     {
+      "id": "760afd8d-5a02-418d-86f5-6ec0d9d6f175",
       "word": "sea tangle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VhIHRhbmdsZQ&hash=b768d4c85202e565a6bd85f28c75d196732ce3da&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "si: tæn.gəl",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VhIHRhbmdsZQ&hash=b768d4c85202e565a6bd85f28c75d196732ce3da&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "si tān.gēl",
       "img": "",
       "pronunciation": "sˈiː tˈæŋɡəl",
       "senses": [
         {
           "definition": "a type of brown seaweed with long, ribbon-like fronds, commonly found in cold coastal waters",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "For a nutritious wrap, fill blanched sea tangle with seasoned rice and fresh vegetables."
+            },
+            {
+              "cf": "",
+              "x": "I like to add sliced sea tangle to my miso soup for an extra burst of flavor and texture."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f4f30a7d-4ddb-4668-9ae1-88fcc788efe5",
       "word": "seaweed",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Vhd2VlZA&hash=628a7402ccb307909df67d07c5829f21ca52212f&lang=en&cache-only=0",
-      "phonetic_text": "si:wid",
+      "phonetic_text": "si:.wid",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Vhd2VlZA&hash=628a7402ccb307909df67d07c5829f21ca52212f&lang=en&cache-only=0",
-      "phonetic_am_text": "seewid",
+      "phonetic_am_text": "si.vid",
       "img": "https://cdn.langeek.co/photo/30032/original/?type=jpeg",
       "pronunciation": "ˈsiˌwid",
       "senses": [
         {
           "definition": "a type of plant that grows in or near the sea",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I enjoy the refreshing taste of seaweed salad."
+            },
+            {
+              "cf": "",
+              "x": "The beach was littered with seaweed after the storm, creating a natural carpet of green and brown."
+            }
+          ]
         }
       ]
     }

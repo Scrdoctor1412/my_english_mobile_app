@@ -1,16 +1,18 @@
 {
+  "id": "8c00ca11-2cf8-44de-9c92-3e3a6ec1c969",
   "topic": "a2_level",
   "title": "Essential Adverbs",
   "lesson": "lesson_40",
   "word_list": [
     {
+      "id": "5a81bc75-1a80-459c-b223-82ef12a27547",
       "word": "maybe",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=bWF5YmU&hash=da457ba76c86442c101d7bc84a9a1c22de531a45&lang=en&cache-only=0",
-      "phonetic_text": "meɪbi",
+      "phonetic_text": "meɪ.bi",
       "phonetic_am": "https://tts.langeek.co/read?text=bWF5YmU&hash=da457ba76c86442c101d7bc84a9a1c22de531a45&lang=en&cache-only=0",
-      "phonetic_am_text": "meibi",
-      "img": "https://cdn.langeek.co/photo/43340/original/?type=jpeg",
+      "phonetic_am_text": "mei.bi",
+      "img": "https://cdn.langeek.co/photo/61432/original/?type=jpeg",
       "pronunciation": "ˈmeɪbi",
       "senses": [
         {
@@ -41,14 +43,15 @@
       ]
     },
     {
+      "id": "780db52e-5b1a-43d7-b042-2cc3f316cf0f",
       "word": "probably",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=cHJvYmFibHk&hash=4907f344d4371db4d5ec37501c3311e1b61a1e0c&lang=en&cache-only=0",
-      "phonetic_text": "prɑ:bəbli",
+      "phonetic_text": "prɑ.bəb.li",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvYmFibHk&hash=4907f344d4371db4d5ec37501c3311e1b61a1e0c&lang=en&cache-only=0",
-      "phonetic_am_text": "praabēbli",
-      "img": "https://cdn.langeek.co/photo/43340/original/?type=jpeg",
-      "pronunciation": "ˈpɹɑbəˌbɫi/, /ˈpɹɑbɫi",
+      "phonetic_am_text": "praa.bēb.li",
+      "img": "https://cdn.langeek.co/photo/61394/original/?type=jpeg",
+      "pronunciation": "ˈprɑbəbli",
       "senses": [
         {
           "definition": "used to show likelihood or possibility without absolute certainty",
@@ -78,12 +81,13 @@
       ]
     },
     {
+      "id": "b22c9cb5-739d-4bda-a64a-4035b0298cdd",
       "word": "around",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YXJvdW5k&hash=21b819e0456b4561d0c13d9930f3bb983a9dc149&lang=en&cache-only=0",
-      "phonetic_text": "əraʊnd",
+      "phonetic_text": "ə.raʊnd",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJvdW5k&hash=21b819e0456b4561d0c13d9930f3bb983a9dc149&lang=en&cache-only=0",
-      "phonetic_am_text": "ērawnd",
+      "phonetic_am_text": "ē.raoond",
       "img": "https://cdn.langeek.co/photo/43320/original/?type=jpeg",
       "pronunciation": "əˈraʊnd",
       "senses": [
@@ -103,22 +107,37 @@
       ]
     },
     {
+      "id": "3e4461d6-1155-4eb0-a0e0-12b05c82eb61",
       "word": "out",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=b3V0&hash=961e55fea524daaf4acac2da412834085cbbfd42&lang=en&cache-only=0",
       "phonetic_text": "aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=b3V0&hash=961e55fea524daaf4acac2da412834085cbbfd42&lang=en&cache-only=0",
-      "phonetic_am_text": "awt",
-      "img": "https://cdn.langeek.co/photo/43348/original/?type=jpeg",
-      "pronunciation": "ˈaʊt",
+      "phonetic_am_text": "aoot",
+      "img": "https://cdn.langeek.co/photo/61402/original/?type=jpeg",
+      "pronunciation": "aʊt",
       "senses": [
         {
-          "definition": "outside a room, building, etc.",
-          "examples": []
+          "definition": "away from one's home",
+          "examples": [
+            {
+              "cf": "",
+              "x": "He's still out at the moment."
+            },
+            {
+              "cf": "",
+              "x": "We were out all afternoon."
+            },
+            {
+              "cf": "",
+              "x": "I left the package while they were out."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "d275c4f7-fcbd-4c56-8509-81dd3e5fc238",
       "word": "in",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=aW4&hash=d9f99e59087477e0ce749c9005cc1d3a28dfe1d6&lang=en&cache-only=0",
@@ -135,14 +154,15 @@
       ]
     },
     {
+      "id": "b869bfbd-13f3-4588-810b-a90fe18a8dfb",
       "word": "also",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YWxzbw&hash=6aab8174862ad3f38005b82c0a0def176c5f5127&lang=en&cache-only=0",
-      "phonetic_text": "ɔ:lsoʊ",
+      "phonetic_text": "ɔl.soʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxzbw&hash=6aab8174862ad3f38005b82c0a0def176c5f5127&lang=en&cache-only=0",
-      "phonetic_am_text": "aawlsow",
-      "img": "https://cdn.langeek.co/photo/43398/original/?type=jpeg",
-      "pronunciation": "ˈɔɫsoʊ",
+      "phonetic_am_text": "awl.sooo",
+      "img": "https://cdn.langeek.co/photo/61366/original/?type=jpeg",
+      "pronunciation": "ˈɔlsoʊ",
       "senses": [
         {
           "definition": "used to introduce another fact or idea in addition to something already mentioned",
@@ -168,14 +188,15 @@
       ]
     },
     {
+      "id": "11806faa-44fd-47c6-8105-59be4c0dc07f",
       "word": "actually",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YWN0dWFsbHk&hash=68ee65fcdfac7248f823ba1cfa5359e163fc3c8c&lang=en&cache-only=0",
-      "phonetic_text": "ækʧuəli",
+      "phonetic_text": "æk.ʧuə.li",
       "phonetic_am": "https://tts.langeek.co/read?text=YWN0dWFsbHk&hash=68ee65fcdfac7248f823ba1cfa5359e163fc3c8c&lang=en&cache-only=0",
-      "phonetic_am_text": "ākchuēli",
+      "phonetic_am_text": "āk.chooē.li",
       "img": "",
-      "pronunciation": "ˈækˌtʃuəɫi/, /ˈækʃəɫi/, /ˈæktʃɫi",
+      "pronunciation": "ˈækʧuəli/ , /ˈækʃəli",
       "senses": [
         {
           "definition": "used to show surprise when someone says something that is not true",
@@ -205,14 +226,15 @@
       ]
     },
     {
+      "id": "c77b4b19-bc3a-416f-8bb0-40788854257a",
       "word": "exactly",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=ZXhhY3RseQ&hash=361ec3b6f3885cf4a14439643d7be105923db629&lang=en&cache-only=0",
-      "phonetic_text": "ɪgzæktli",
+      "phonetic_text": "ɪ.gzækt.li",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXhhY3RseQ&hash=361ec3b6f3885cf4a14439643d7be105923db629&lang=en&cache-only=0",
-      "phonetic_am_text": "igzāktli",
+      "phonetic_am_text": "i.gzākt.li",
       "img": "https://cdn.langeek.co/photo/47935/original/?type=jpeg",
-      "pronunciation": "ɪɡˈzæktɫi",
+      "pronunciation": "ɪɡˈzæktli",
       "senses": [
         {
           "definition": "used to indicate that something is completely accurate or correct",
@@ -242,14 +264,15 @@
       ]
     },
     {
+      "id": "2c6e163d-be08-4169-a06b-3fbd1b76ed41",
       "word": "almost",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YWxtb3N0&hash=40c559ccf4b1807d4b8cea659bd1f013236df681&lang=en&cache-only=0",
-      "phonetic_text": "ɔ:lmoʊst",
+      "phonetic_text": "ɔl.moʊst",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxtb3N0&hash=40c559ccf4b1807d4b8cea659bd1f013236df681&lang=en&cache-only=0",
-      "phonetic_am_text": "aawlmowst",
+      "phonetic_am_text": "awl.mooost",
       "img": "https://cdn.langeek.co/photo/48421/original/?type=jpeg",
-      "pronunciation": "ˈɔɫˌmoʊst",
+      "pronunciation": "ˈɔlˌmoʊst",
       "senses": [
         {
           "definition": "used to say that something is nearly the case but not completely",
@@ -279,14 +302,15 @@
       ]
     },
     {
+      "id": "d4bfc376-06c2-48bd-9795-5ac38fd7e510",
       "word": "greatly",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=Z3JlYXRseQ&hash=b5e4f46bde437af637150e6ecacafe72d9208de7&lang=en&cache-only=0",
-      "phonetic_text": "greɪtli",
+      "phonetic_text": "greɪt.li",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JlYXRseQ&hash=b5e4f46bde437af637150e6ecacafe72d9208de7&lang=en&cache-only=0",
-      "phonetic_am_text": "greitli",
-      "img": "https://cdn.langeek.co/photo/43462/original/?type=jpeg",
-      "pronunciation": "ˈɡɹeɪtɫi",
+      "phonetic_am_text": "greit.li",
+      "img": "https://cdn.langeek.co/photo/61382/original/?type=jpeg",
+      "pronunciation": "ˈɡreɪtli",
       "senses": [
         {
           "definition": "to a great amount or degree",
@@ -316,14 +340,15 @@
       ]
     },
     {
+      "id": "21d51850-78e0-4457-8cb8-194ede096885",
       "word": "especially",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=ZXNwZWNpYWxseQ&hash=b6330ad148a7b7ef28091ab5d96f3b1cf807f973&lang=en&cache-only=0",
-      "phonetic_text": "əspɛʃli",
+      "phonetic_text": "ɪs.pɛ.ʃə.li",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXNwZWNpYWxseQ&hash=b6330ad148a7b7ef28091ab5d96f3b1cf807f973&lang=en&cache-only=0",
-      "phonetic_am_text": "ēspeshli",
-      "img": "https://cdn.langeek.co/photo/43384/original/?type=jpeg",
-      "pronunciation": "əˈspɛʃəɫi/, /əˈspɛʃɫi",
+      "phonetic_am_text": "is.pe.shē.li",
+      "img": "https://cdn.langeek.co/photo/61378/original/?type=jpeg",
+      "pronunciation": "ɪˈspɛʃəli",
       "senses": [
         {
           "definition": "used for showing that what you are saying is more closely related to a specific thing or person than others",
@@ -353,14 +378,15 @@
       ]
     },
     {
+      "id": "160e1d80-38e0-4da7-894f-60f11107a39b",
       "word": "generally",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=Z2VuZXJhbGx5&hash=583d2d2a48e4ab047de558371c981afe50a59ea9&lang=en&cache-only=0",
-      "phonetic_text": "ʤɛnərəli",
+      "phonetic_text": "ʤɛ.nɜ.rə.li",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2VuZXJhbGx5&hash=583d2d2a48e4ab047de558371c981afe50a59ea9&lang=en&cache-only=0",
-      "phonetic_am_text": "jenērēli",
+      "phonetic_am_text": "je.nē.rē.li",
       "img": "",
-      "pronunciation": "ˈdʒɛnɝəɫi/, /ˈdʒɛnɹəɫi",
+      "pronunciation": "ˈʤɛnɚəli",
       "senses": [
         {
           "definition": "in a way that is true in most cases",
@@ -390,14 +416,15 @@
       ]
     },
     {
+      "id": "0581031f-1b19-4cf6-b70f-383d94078664",
       "word": "finally",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=ZmluYWxseQ&hash=dc71d695481462d101a5e71c48296ff789d2c947&lang=en&cache-only=0",
-      "phonetic_text": "faɪnəli",
+      "phonetic_text": "faɪ.nə.li",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmluYWxseQ&hash=dc71d695481462d101a5e71c48296ff789d2c947&lang=en&cache-only=0",
-      "phonetic_am_text": "fainēli",
+      "phonetic_am_text": "fai.nē.li",
       "img": "",
-      "pronunciation": "ˈfaɪnəɫi",
+      "pronunciation": "ˈfaɪnəli",
       "senses": [
         {
           "definition": "after a long time, usually when there has been some difficulty",
@@ -427,14 +454,15 @@
       ]
     },
     {
+      "id": "7b219559-8781-4e8d-b2c5-097012482587",
       "word": "only",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=b25seQ&hash=88ec011f8bf93b90d1638990564f2a9f2a223c0f&lang=en&cache-only=0",
-      "phonetic_text": "oʊnli",
+      "phonetic_text": "oʊn.li",
       "phonetic_am": "https://tts.langeek.co/read?text=b25seQ&hash=88ec011f8bf93b90d1638990564f2a9f2a223c0f&lang=en&cache-only=0",
-      "phonetic_am_text": "ownli",
-      "img": "https://cdn.langeek.co/photo/44920/original/?type=jpeg",
-      "pronunciation": "ˈoʊnɫi",
+      "phonetic_am_text": "ooon.li",
+      "img": "https://cdn.langeek.co/photo/61384/original/?type=jpeg",
+      "pronunciation": "ˈoʊnli",
       "senses": [
         {
           "definition": "with anyone or anything else excluded",
@@ -460,6 +488,7 @@
       ]
     },
     {
+      "id": "b5bb1bf1-a1f5-41f8-b83f-98bb1e1cb523",
       "word": "just",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=anVzdA&hash=93ede64f32e2bcd8c70571ca4151cd17227e486c&lang=en&cache-only=0",
@@ -467,7 +496,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=anVzdA&hash=93ede64f32e2bcd8c70571ca4151cd17227e486c&lang=en&cache-only=0",
       "phonetic_am_text": "jast",
       "img": "https://cdn.langeek.co/photo/50076/original/?type=jpeg",
-      "pronunciation": "ˈdʒəst/, /dʒɪst",
+      "pronunciation": "ʤʌst",
       "senses": [
         {
           "definition": "in a way that does not involve anything additional or beyond what is mentioned",
@@ -497,30 +526,37 @@
       ]
     },
     {
+      "id": "d6085669-4ea6-4c2a-82d5-daaf4e8c98b7",
       "word": "over",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=b3Zlcg&hash=b1095898af664e8de6882db3d391011134b31068&lang=en&cache-only=0",
-      "phonetic_text": "oʊvər",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b3Zlcg&hash=b1095898af664e8de6882db3d391011134b31068&lang=en&cache-only=0",
-      "phonetic_am_text": "owvēr",
+      "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43350/original/?type=jpeg",
       "pronunciation": "ˈoʊvɚ",
       "senses": [
         {
           "definition": "across from one side to the other",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The car drove over and parked in front of the house."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "56aa724c-8f62-457f-a0f5-2124df27a4bd",
       "word": "at least",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YXQgbGVhc3Q&hash=98cd17c41f7c465049be30abbbd10b35b50937eb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æt li:st",
       "phonetic_am": "https://tts.langeek.co/read?text=YXQgbGVhc3Q&hash=98cd17c41f7c465049be30abbbd10b35b50937eb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "āt list",
       "img": "",
-      "pronunciation": "æt lˈiːst",
+      "pronunciation": "ət ˈliːst",
       "senses": [
         {
           "definition": "even if nothing else is done or true",
@@ -550,14 +586,15 @@
       ]
     },
     {
+      "id": "6efe875a-404c-44c7-b67f-fa400e34e66b",
       "word": "at last",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YXQgbGFzdA&hash=af40cb76b6221763ac1a87894aaf18575c44036b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æt læst",
       "phonetic_am": "https://tts.langeek.co/read?text=YXQgbGFzdA&hash=af40cb76b6221763ac1a87894aaf18575c44036b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/44142/original/?type=jpeg",
-      "pronunciation": "æt lˈæst",
+      "phonetic_am_text": "āt lāst",
+      "img": "https://cdn.langeek.co/photo/61368/original/?type=jpeg",
+      "pronunciation": "ət ˈlæst",
       "senses": [
         {
           "definition": "in the end or after a lot of waiting",
@@ -583,13 +620,14 @@
       ]
     },
     {
+      "id": "14d2198d-4dda-41a9-9ef2-dadfb7417997",
       "word": "ahead",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YWhlYWQ&hash=bd3ebf17e936959036821e81c252763e7cd37e7d&lang=en&cache-only=0",
-      "phonetic_text": "əhɛd",
+      "phonetic_text": "ə.hɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=YWhlYWQ&hash=bd3ebf17e936959036821e81c252763e7cd37e7d&lang=en&cache-only=0",
-      "phonetic_am_text": "ēhed",
-      "img": "https://cdn.langeek.co/photo/16698/original/forward?type=jpeg",
+      "phonetic_am_text": "ē.hed",
+      "img": "https://cdn.langeek.co/photo/61424/original/forward?type=jpeg",
       "pronunciation": "əˈhɛd",
       "senses": [
         {
@@ -601,7 +639,7 @@
             },
             {
               "cf": "",
-              "x": "The path ahead was illuminated by the headlights of the car."
+              "x": "A large truck was parked just ahead, blocking the view."
             },
             {
               "cf": "",
@@ -620,14 +658,15 @@
       ]
     },
     {
+      "id": "43f29b5b-0658-47a2-9f6f-c57f5df370e1",
       "word": "past",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=cGFzdA&hash=3bbaafa387b9304b06463e226a74844ae77e40bc&lang=en&cache-only=0",
       "phonetic_text": "pæst",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFzdA&hash=3bbaafa387b9304b06463e226a74844ae77e40bc&lang=en&cache-only=0",
       "phonetic_am_text": "pāst",
-      "img": "https://cdn.langeek.co/photo/48439/original/?type=jpeg",
-      "pronunciation": "ˈpæst",
+      "img": "https://cdn.langeek.co/photo/61446/original/?type=jpeg",
+      "pronunciation": "pæst",
       "senses": [
         {
           "definition": "from one side of something to the other",
@@ -636,14 +675,15 @@
       ]
     },
     {
+      "id": "87d8ef3f-a459-4b90-9233-65458f068a4c",
       "word": "easily",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=ZWFzaWx5&hash=0c4eb6640bee09881c4b85aa8469e2e45ed64588&lang=en&cache-only=0",
-      "phonetic_text": "i:zəli",
+      "phonetic_text": "i.zə.li",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWFzaWx5&hash=0c4eb6640bee09881c4b85aa8469e2e45ed64588&lang=en&cache-only=0",
-      "phonetic_am_text": "eezēli",
-      "img": "https://cdn.langeek.co/photo/43330/original/?type=jpeg",
-      "pronunciation": "ˈizəɫi",
+      "phonetic_am_text": "i.zē.li",
+      "img": "https://cdn.langeek.co/photo/61428/original/?type=jpeg",
+      "pronunciation": "ˈiːzəli",
       "senses": [
         {
           "definition": "with no problem or difficulty",
@@ -673,14 +713,15 @@
       ]
     },
     {
+      "id": "225dadb9-04a8-4142-8684-5811d735000c",
       "word": "carefully",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=Y2FyZWZ1bGx5&hash=9ed07ea37605f785524e37604f3204b61c148cbd&lang=en&cache-only=0",
-      "phonetic_text": "kɛrfəli",
+      "phonetic_text": "kɛr.fə.li",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FyZWZ1bGx5&hash=9ed07ea37605f785524e37604f3204b61c148cbd&lang=en&cache-only=0",
-      "phonetic_am_text": "kerfēli",
-      "img": "https://cdn.langeek.co/photo/51270/original/?type=jpeg",
-      "pronunciation": "ˈkɛɹfəɫi",
+      "phonetic_am_text": "ker.fē.li",
+      "img": "https://cdn.langeek.co/photo/61426/original/?type=jpeg",
+      "pronunciation": "ˈkɛrfəli",
       "senses": [
         {
           "definition": "with a lot of care or attention",
@@ -710,17 +751,18 @@
       ]
     },
     {
+      "id": "c9e60cae-ed05-4f38-841d-cb07cbeb0893",
       "word": "well",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=d2VsbA&hash=7c830721e5742830d36965202509f37032ce4be9&lang=en&cache-only=0",
       "phonetic_text": "wɛl",
       "phonetic_am": "https://tts.langeek.co/read?text=d2VsbA&hash=7c830721e5742830d36965202509f37032ce4be9&lang=en&cache-only=0",
-      "phonetic_am_text": "wel",
+      "phonetic_am_text": "vel",
       "img": "https://cdn.langeek.co/photo/35694/original/ok?type=jpeg",
-      "pronunciation": "wel",
+      "pronunciation": "wɛl",
       "senses": [
         {
-          "definition": "in a way that is right, good, or satisfactory",
+          "definition": "in a way that is right or satisfactory",
           "examples": [
             {
               "cf": "",
@@ -747,14 +789,15 @@
       ]
     },
     {
+      "id": "d5acc210-e35a-4dfd-b987-722a0a44bd3b",
       "word": "still",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=c3RpbGw&hash=0d544a84282b142edd0f916056c873f1b158c96b&lang=en&cache-only=0",
       "phonetic_text": "stɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RpbGw&hash=0d544a84282b142edd0f916056c873f1b158c96b&lang=en&cache-only=0",
       "phonetic_am_text": "stil",
-      "img": "https://cdn.langeek.co/photo/43544/original/?type=jpeg",
-      "pronunciation": "ˈstɪɫ",
+      "img": "https://cdn.langeek.co/photo/61448/original/?type=jpeg",
+      "pronunciation": "stɪl",
       "senses": [
         {
           "definition": "up to now or the time stated",
@@ -784,14 +827,15 @@
       ]
     },
     {
+      "id": "e4bce6ec-63df-47f5-b410-65d5a7fa807c",
       "word": "then",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=dGhlbg&hash=dbf786554734025a1670f7671ae31d6116eb600d&lang=en&cache-only=0",
       "phonetic_text": "ðɛn",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlbg&hash=dbf786554734025a1670f7671ae31d6116eb600d&lang=en&cache-only=0",
       "phonetic_am_text": "dhen",
-      "img": "https://cdn.langeek.co/photo/43392/original/?type=jpeg",
-      "pronunciation": "ðen",
+      "img": "https://cdn.langeek.co/photo/61454/original/?type=jpeg",
+      "pronunciation": "ðɛn",
       "senses": [
         {
           "definition": "after the thing mentioned",
@@ -821,14 +865,15 @@
       ]
     },
     {
+      "id": "cfb4b139-ee30-4fea-b20c-7cfa8342da65",
       "word": "sadly",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=c2FkbHk&hash=a7ffd1e7df8e94f6535557d25629978e7d93ed0c&lang=en&cache-only=0",
-      "phonetic_text": "sædli",
+      "phonetic_text": "sæd.li",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FkbHk&hash=a7ffd1e7df8e94f6535557d25629978e7d93ed0c&lang=en&cache-only=0",
-      "phonetic_am_text": "sādli",
-      "img": "https://cdn.langeek.co/photo/44596/original/?type=jpeg",
-      "pronunciation": "ˈsædɫi",
+      "phonetic_am_text": "sād.li",
+      "img": "https://cdn.langeek.co/photo/61442/original/?type=jpeg",
+      "pronunciation": "ˈsædli",
       "senses": [
         {
           "definition": "in a sorrowful or regretful manner",
@@ -858,14 +903,15 @@
       ]
     },
     {
+      "id": "a75ee709-9039-41fe-924a-2213cb213346",
       "word": "slowly",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=c2xvd2x5&hash=eff4c9fb23293877adf393e71530211e37f942eb&lang=en&cache-only=0",
-      "phonetic_text": "sloʊli",
+      "phonetic_text": "sloʊ.li",
       "phonetic_am": "https://tts.langeek.co/read?text=c2xvd2x5&hash=eff4c9fb23293877adf393e71530211e37f942eb&lang=en&cache-only=0",
-      "phonetic_am_text": "slowli",
+      "phonetic_am_text": "slooo.li",
       "img": "https://cdn.langeek.co/photo/48411/original/slow?type=jpeg",
-      "pronunciation": "ˈsɫoʊɫi",
+      "pronunciation": "ˈsloʊli",
       "senses": [
         {
           "definition": "at a pace that is not fast",
@@ -895,12 +941,13 @@
       ]
     },
     {
+      "id": "5533ed45-4801-41a7-bcec-f0a2e2aac056",
       "word": "once",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=b25jZQ&hash=2a792c00e74e641d82e9c50bd142192a8ce42a80&lang=en&cache-only=0",
-      "phonetic_text": "wʌns",
+      "phonetic_text": "ns",
       "phonetic_am": "https://tts.langeek.co/read?text=b25jZQ&hash=2a792c00e74e641d82e9c50bd142192a8ce42a80&lang=en&cache-only=0",
-      "phonetic_am_text": "wans",
+      "phonetic_am_text": "ns",
       "img": "https://cdn.langeek.co/photo/43372/original/?type=jpeg",
       "pronunciation": "wʌns",
       "senses": [
@@ -932,14 +979,15 @@
       ]
     },
     {
+      "id": "e475e6c2-0f6c-40f5-aae7-7c07da24a486",
       "word": "twice",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=dHdpY2U&hash=8cff1f57cac929812ead5880a41df9e12cd800f5&lang=en&cache-only=0",
       "phonetic_text": "twaɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=dHdpY2U&hash=8cff1f57cac929812ead5880a41df9e12cd800f5&lang=en&cache-only=0",
-      "phonetic_am_text": "twais",
+      "phonetic_am_text": "tvais",
       "img": "https://cdn.langeek.co/photo/48947/original/?type=jpeg",
-      "pronunciation": "ˈtwaɪs",
+      "pronunciation": "twaɪs",
       "senses": [
         {
           "definition": "for two instances",
@@ -969,12 +1017,13 @@
       ]
     },
     {
+      "id": "59d6f3c0-7dd8-4132-a42d-242c3e7e6111",
       "word": "anytime",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YW55dGltZQ&hash=8806ec4a607b78bac2d5bcc0b8c9ff46fb6e2f1a&lang=en&cache-only=0",
-      "phonetic_text": "ɛnitaɪm",
+      "phonetic_text": "ɛ.ni.taɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=YW55dGltZQ&hash=8806ec4a607b78bac2d5bcc0b8c9ff46fb6e2f1a&lang=en&cache-only=0",
-      "phonetic_am_text": "enitaim",
+      "phonetic_am_text": "e.ni.taim",
       "img": "",
       "pronunciation": "ˈɛniˌtaɪm",
       "senses": [
@@ -1006,6 +1055,7 @@
       ]
     },
     {
+      "id": "a3269085-8507-424b-8283-4a61e6dcd760",
       "word": "fast",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=ZmFzdA&hash=1073443ff3b1f337934c21034bd28a5c6a1c128e&lang=en&cache-only=0",

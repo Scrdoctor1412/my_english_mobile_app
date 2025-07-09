@@ -1,13 +1,15 @@
 {
+  "id": "4ba7677e-5908-4f92-b87e-9e727487e3e5",
   "topic": "perseverance",
   "title": "Process & Completion",
   "lesson": "lesson_8",
   "word_list": [
     {
-      "word": "[go] (the|) whole hog",
+      "id": "5d25e3f2-42de-4d33-8cef-0a62c693a1b1",
+      "word": "to [go] (the|) whole hog",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ28gdGhlIHdob2xlIGhvZw&hash=f6159f80767ad71ffaf33143b2241e2a04723e5b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ28gdGhlIHdob2xlIGhvZw&hash=f6159f80767ad71ffaf33143b2241e2a04723e5b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/22463/original/?type=jpeg",
@@ -15,24 +17,16 @@
       "senses": [
         {
           "definition": "to do a task in the most complete way",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The Siemens display goes the whole hog."
-            },
-            {
-              "cf": "",
-              "x": "We only planned to order appetizers, but we went whole hog and ended up getting a seven-course meal."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "c9e56e56-1bd4-45a9-9474-1afc67f3bc63",
       "word": "done and dusted",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZG9uZSBhbmQgZHVzdGVk&hash=be6809d84b796a5fa7b51b8344ea59b21fcd75b3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG9uZSBhbmQgZHVzdGVk&hash=be6809d84b796a5fa7b51b8344ea59b21fcd75b3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43198/original/?type=jpeg",
@@ -78,31 +72,28 @@
       ]
     },
     {
+      "id": "b31d3c70-3be9-42e3-9f97-abff2c1aae06",
       "word": "signed and sealed",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=c2lnbmVkIGFuZCBzZWFsZWQ&hash=8a6c60c574507e653cf5837425d70f4153cf4929&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "saɪnd ænd sild",
       "phonetic_am": "https://tts.langeek.co/read?text=c2lnbmVkIGFuZCBzZWFsZWQ&hash=8a6c60c574507e653cf5837425d70f4153cf4929&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "saind ānd sild",
       "img": "https://cdn.langeek.co/photo/43220/original/?type=jpeg",
       "pronunciation": "sˈaɪnd ænd sˈiːld",
       "senses": [
         {
           "definition": "having been formally authenticated by using signatures and official seals or stamps",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Well, the agreement is signed and sealed, and there's nothing you can do or say about it."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "df733bf5-01a1-4545-aff6-10b4f45c2f31",
       "word": "(from|) soup to nuts",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZnJvbSBzb3VwIHRvIG51dHM&hash=bbbe3f0ef6046014e4777b60136496e793a10ba2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJvbSBzb3VwIHRvIG51dHM&hash=bbbe3f0ef6046014e4777b60136496e793a10ba2&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43222/original/?type=jpeg",
@@ -124,12 +115,13 @@
       ]
     },
     {
+      "id": "c82d058a-83fd-4a0b-98ca-43dfbe5521ff",
       "word": "the home stretch",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIGhvbWUgc3RyZXRjaA&hash=0af83bc729f2ae53aae142f392ec5f2833cc8102&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ðə hoʊm strɛʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIGhvbWUgc3RyZXRjaA&hash=0af83bc729f2ae53aae142f392ec5f2833cc8102&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dhē hooom strech",
       "img": "https://cdn.langeek.co/photo/43204/original/?type=jpeg",
       "pronunciation": "ðə hˈoʊm stɹˈɛtʃ",
       "senses": [
@@ -149,12 +141,13 @@
       ]
     },
     {
+      "id": "28ed9a04-3e2b-4723-83f9-873c884e741b",
       "word": "in hand",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aW4gaGFuZA&hash=4a79d10585b330bb8d68baffcbcd2433ad4b0535&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn hænd",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gaGFuZA&hash=4a79d10585b330bb8d68baffcbcd2433ad4b0535&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in hānd",
       "img": "https://cdn.langeek.co/photo/43206/original/?type=jpeg",
       "pronunciation": "ɪn hˈænd",
       "senses": [

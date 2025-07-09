@@ -1,47 +1,93 @@
 {
+  "id": "2b5c54a6-253a-413c-9919-8faebe48563e",
   "topic": "sports",
   "title": "Special Equipment",
   "lesson": "lesson_59",
   "word_list": [
     {
+      "id": "946b74a1-a89c-4b62-8a34-353a19c656f0",
       "word": "putter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHV0dGVy&hash=0ffc23d1f6d31f3c6a6c9cf61e6bab23c346672a&lang=en&cache-only=0",
-      "phonetic_text": "pʌtər",
+      "phonetic_text": "pə.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cHV0dGVy&hash=0ffc23d1f6d31f3c6a6c9cf61e6bab23c346672a&lang=en&cache-only=0",
-      "phonetic_am_text": "patēr",
+      "phonetic_am_text": "pē.tēr",
       "img": "",
       "pronunciation": "ˈpətɝ",
       "senses": [
         {
           "definition": "a type of golf club designed specifically for use on the putting green to make short and precise strokes aimed at getting the ball into the hole",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The golfer used a putter to sink the ball into the hole from the edge of the green."
+            },
+            {
+              "cf": "",
+              "x": "During the tournament, he relied on his trusty putter to navigate the tricky greens."
+            },
+            {
+              "cf": "",
+              "x": "The putter's flat face is designed to provide a smooth and accurate roll on the green."
+            },
+            {
+              "cf": "",
+              "x": "The coach gave tips on how to grip the putter for better control and precision."
+            },
+            {
+              "cf": "",
+              "x": "Every golfer carries a putter in their bag for those crucial short-distance shots."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "3217c37b-7aa6-49ee-a0c1-71e21456f388",
       "word": "pole",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9sZQ&hash=5ef368b855abcd33a1240613f952409145188e5e&lang=en&cache-only=0",
       "phonetic_text": "poʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9sZQ&hash=5ef368b855abcd33a1240613f952409145188e5e&lang=en&cache-only=0",
-      "phonetic_am_text": "powl",
+      "phonetic_am_text": "poool",
       "img": "https://cdn.langeek.co/photo/36910/original/?type=jpeg",
       "pronunciation": "ˈpoʊɫ",
       "senses": [
         {
           "definition": "a sports equipment made of fiberglass, used for vaulting over a high bar",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The pole snapped during the competition, but the athlete was unharmed."
+            },
+            {
+              "cf": "",
+              "x": "He soared over the bar with the help of his fiberglass pole."
+            },
+            {
+              "cf": "",
+              "x": "The athlete gripped the pole tightly before launching into the air."
+            },
+            {
+              "cf": "",
+              "x": "After practicing with different poles, he finally found the right one for his height."
+            },
+            {
+              "cf": "",
+              "x": "The coach emphasized the importance of the pole’s flexibility in pole vaulting."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e95b7161-8bc5-4bf9-aff0-4d73f33cf62c",
       "word": "parachute",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFyYWNodXRl&hash=0e88ce3f11a33d9845801ac344feba070f8052e9&lang=en&cache-only=0",
-      "phonetic_text": "pɛrəʃut",
+      "phonetic_text": "pɛ.rə.ʃut",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFyYWNodXRl&hash=0e88ce3f11a33d9845801ac344feba070f8052e9&lang=en&cache-only=0",
-      "phonetic_am_text": "perēshut",
+      "phonetic_am_text": "pe.rē.shoot",
       "img": "https://cdn.langeek.co/photo/18916/original/parachuting?type=jpeg",
       "pronunciation": "ˈpɛɹəˌʃut",
       "senses": [
@@ -52,124 +98,279 @@
       ]
     },
     {
+      "id": "9c1db646-7eb5-4de2-9252-73accad458c0",
       "word": "canopy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2Fub3B5&hash=d343d01770a3083041c12dd40958f153a4a62949&lang=en&cache-only=0",
-      "phonetic_text": "kænəpi",
+      "phonetic_text": "kæ.nə.pi",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2Fub3B5&hash=d343d01770a3083041c12dd40958f153a4a62949&lang=en&cache-only=0",
-      "phonetic_am_text": "kānēpi",
+      "phonetic_am_text": "kā.nē.pi",
       "img": "",
       "pronunciation": "ˈkænəpi",
       "senses": [
         {
           "definition": "the main fabric portion of the parachute that inflates and slows the descent of the skydiver",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "His canopy had colorful panels that fluttered in the wind."
+            },
+            {
+              "cf": "",
+              "x": "The canopy filled with air quickly, slowing their descent."
+            },
+            {
+              "cf": "",
+              "x": "The canopy deployed smoothly after he pulled the ripcord."
+            },
+            {
+              "cf": "",
+              "x": "They practiced emergency procedures for canopy failures during training."
+            },
+            {
+              "cf": "",
+              "x": "She landed softly on the ground under the canopy after a successful jump."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "bc32159a-6fd4-4c62-9281-bdf1c300743c",
       "word": "paraglider",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFyYWdsaWRlcg&hash=f713fb1a2307e558e2436ba54c8823cd4065e366&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pæ.rəg.laɪ.dər",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFyYWdsaWRlcg&hash=f713fb1a2307e558e2436ba54c8823cd4065e366&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pā.rēg.lai.dēr",
       "img": "https://cdn.langeek.co/photo/45004/original/?type=jpeg",
       "pronunciation": "pˈæɹəɡlˌaɪdɚ",
       "senses": [
         {
           "definition": "a big, colorful, and light kite that people use to fly in the sky",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The paraglider was packed carefully into the van after the flight."
+            },
+            {
+              "cf": "",
+              "x": "They stored the paraglider in the garage when it wasn't in use."
+            },
+            {
+              "cf": "",
+              "x": "The paraglider's wing inflated smoothly as the wind picked up."
+            },
+            {
+              "cf": "",
+              "x": "After landing, she folded the paraglider and stored it in its bag."
+            },
+            {
+              "cf": "",
+              "x": "The paraglider's design made it easy to control and steer during the flight."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b5079565-c1f0-496c-bd5e-5b67a1b9014a",
       "word": "hang glider",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFuZyBnbGlkZXI&hash=491dc09631552b684c782552f0c0b7206c1afd95&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hæng glaɪ.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFuZyBnbGlkZXI&hash=491dc09631552b684c782552f0c0b7206c1afd95&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hāng glai.dēr",
       "img": "https://cdn.langeek.co/photo/36828/original/?type=jpeg",
       "pronunciation": "hˈæŋ ɡlˈaɪdɚ",
       "senses": [
         {
           "definition": "a light, non-motorized glider aircraft designed for foot-launched flight",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The adventurer launched his hang glider from the cliff, soaring high above the valley."
+            },
+            {
+              "cf": "",
+              "x": "During the summer, she took lessons to learn how to fly a hang glider safely."
+            },
+            {
+              "cf": "",
+              "x": "The hang glider's fabric wings caught the air, allowing the pilot to glide gracefully."
+            },
+            {
+              "cf": "",
+              "x": "The hang glider's lightweight frame made it easy to carry to the top of the launch site."
+            },
+            {
+              "cf": "",
+              "x": "The instructor emphasized safety procedures before the group took off with their hang gliders."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7aa33d8e-35d6-4544-90a5-3101fd1a285c",
       "word": "power kite",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG93ZXIga2l0ZQ&hash=b70ea76a44532cca14bcd8d15b04bdc487d798bb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "paʊər kaɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=cG93ZXIga2l0ZQ&hash=b70ea76a44532cca14bcd8d15b04bdc487d798bb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "paooēr kait",
       "img": "",
       "pronunciation": "pˈaʊɚ kˈaɪt",
       "senses": [
         {
           "definition": "a type of sports equipment used in kiteboarding and kite landboarding, designed to generate significant pull from the wind",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The power kite soared gracefully in the sky."
+            },
+            {
+              "cf": "",
+              "x": "He flew his power kite high above the beach."
+            },
+            {
+              "cf": "",
+              "x": "She controlled the power kite with skill and precision."
+            },
+            {
+              "cf": "",
+              "x": "We used a power kite to practice kite surfing."
+            },
+            {
+              "cf": "",
+              "x": "Learning to launch a power kite can be challenging for beginners."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "19fbffaa-4744-4c35-9498-76a25579cd0c",
       "word": "sport kite",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BvcnQga2l0ZQ&hash=75e79d6b2c0ac3a452d5854470eddd283059cd56&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spɔ:rt kaɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BvcnQga2l0ZQ&hash=75e79d6b2c0ac3a452d5854470eddd283059cd56&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "spawrt kait",
       "img": "",
       "pronunciation": "spˈoːɹt kˈaɪt",
       "senses": [
         {
           "definition": "a type of kite designed for precision flying and performing tricks, often controlled by multiple lines for enhanced control",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The enthusiast flew his sport kite on the beach, executing intricate tricks and loops."
+            },
+            {
+              "cf": "",
+              "x": "During the festival, spectators marveled at the synchronized performance of multiple sport kites."
+            },
+            {
+              "cf": "",
+              "x": "The sport kite's lightweight frame and durable fabric allowed for high-speed stunts."
+            },
+            {
+              "cf": "",
+              "x": "Every flyer needs to master basic skills before attempting advanced maneuvers with a sport kite."
+            },
+            {
+              "cf": "",
+              "x": "At the kite shop, customers can find a variety of sport kites suited for different skill levels."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "03504ab5-930a-4d4b-8cf4-f23d046db14b",
       "word": "paramotor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFyYW1vdG9y&hash=9a259f08cc6ecbad252f7ad4a898948ca9cc7ac3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pæ.rə.moʊ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFyYW1vdG9y&hash=9a259f08cc6ecbad252f7ad4a898948ca9cc7ac3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pā.rē.mooo.tēr",
       "img": "",
       "pronunciation": "pˈæɹəmˌoʊɾɚ",
       "senses": [
         {
           "definition": "a type of powered paraglider used in adventure sports like paramotoring and powered paragliding",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He strapped on his paramotor and soared into the sky with a gentle hum of the engine."
+            },
+            {
+              "cf": "",
+              "x": "Paramotors allow enthusiasts to take off and land from almost anywhere with ease."
+            },
+            {
+              "cf": "",
+              "x": "The paramotor's lightweight frame makes it portable and convenient for travel."
+            },
+            {
+              "cf": "",
+              "x": "He competed in paramotor races, navigating through challenging courses at high speeds."
+            },
+            {
+              "cf": "",
+              "x": "During the summer, paramotors dot the skies as enthusiasts take advantage of ideal flying conditions."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a3215977-f2c0-4c32-80cc-3d6f40fdf801",
       "word": "climbing rope",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xpbWJpbmcgcm9wZQ&hash=0528a20e31ea3be5228fe21846ff158acdd86a8f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "klaɪm.ɪng roʊp",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xpbWJpbmcgcm9wZQ&hash=0528a20e31ea3be5228fe21846ff158acdd86a8f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "klaim.ing rooop",
       "img": "",
       "pronunciation": "klˈaɪmɪŋ ɹˈoʊp",
       "senses": [
         {
           "definition": "a strong, flexible cord used in sports like rock climbing and mountaineering to secure climbers",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The climber tied the climbing rope securely to her harness."
+            },
+            {
+              "cf": "",
+              "x": "Make sure to check the climbing rope for any signs of wear before each use."
+            },
+            {
+              "cf": "",
+              "x": "He rappelled down the cliff using a thick climbing rope."
+            },
+            {
+              "cf": "",
+              "x": "Climbing ropes come in various lengths and thicknesses for different purposes."
+            },
+            {
+              "cf": "",
+              "x": "Always double-check your knots when using a climbing rope."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a993fb0b-b5c6-4463-bf5f-f53af97b0994",
       "word": "ice screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aWNlIHNjcmV3&hash=7b5e790b840562003e42dbaf4e8b4b46a9d4811b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aɪs skru",
       "phonetic_am": "https://tts.langeek.co/read?text=aWNlIHNjcmV3&hash=7b5e790b840562003e42dbaf4e8b4b46a9d4811b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ais skroo",
       "img": "",
       "pronunciation": "ˈaɪs skɹˈuː",
       "senses": [
@@ -201,12 +402,13 @@
       ]
     },
     {
+      "id": "85c8206b-240e-4212-b3ea-793f124bd21f",
       "word": "crampon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3JhbXBvbg&hash=3cb0b8f0c393fd2f92411060783d3f164fcebafb&lang=en&cache-only=0",
-      "phonetic_text": "kræmpɔn",
+      "phonetic_text": "kræm.pɔn",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3JhbXBvbg&hash=3cb0b8f0c393fd2f92411060783d3f164fcebafb&lang=en&cache-only=0",
-      "phonetic_am_text": "krāmpawn",
+      "phonetic_am_text": "krām.pawn",
       "img": "",
       "pronunciation": "ˈkɹæmpɔn",
       "senses": [
@@ -238,12 +440,13 @@
       ]
     },
     {
+      "id": "3e692284-ef86-47dc-b2fc-867a59226b87",
       "word": "carabiner",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FyYWJpbmVy&hash=6a8beb13cc7fbc5bdcf5e4d231a5f42332bb699e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kæ.ra.baɪ.nər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FyYWJpbmVy&hash=6a8beb13cc7fbc5bdcf5e4d231a5f42332bb699e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kā.ra.bai.nēr",
       "img": "",
       "pronunciation": "kˈæɹɐbˌaɪnɚ",
       "senses": [
@@ -275,12 +478,13 @@
       ]
     },
     {
+      "id": "741a8750-c5de-4dbe-9b89-a277d96abff7",
       "word": "skeleton sled",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2tlbGV0b24gc2xlZA&hash=c424f7e85ed233f87584effa7aabdfbf647c0c71&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skɛ.lə.tən sled",
       "phonetic_am": "https://tts.langeek.co/read?text=c2tlbGV0b24gc2xlZA&hash=c424f7e85ed233f87584effa7aabdfbf647c0c71&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ske.lē.tēn sled",
       "img": "",
       "pronunciation": "skˈɛlᵻtən slˈɛd",
       "senses": [
@@ -312,12 +516,13 @@
       ]
     },
     {
+      "id": "4b648f24-612c-46ec-9132-dc7d74e038b8",
       "word": "wakeboard binding",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2FrZWJvYXJkIGJpbmRpbmc&hash=d7af1c63a6bf9156223f3fdf1e76c1d0b5ce883f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "weɪk.bɔ:rd baɪn.dɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=d2FrZWJvYXJkIGJpbmRpbmc&hash=d7af1c63a6bf9156223f3fdf1e76c1d0b5ce883f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "veik.bawrd bain.ding",
       "img": "",
       "pronunciation": "wˈeɪkboːɹd bˈaɪndɪŋ",
       "senses": [
@@ -349,12 +554,13 @@
       ]
     },
     {
+      "id": "f0a9abc7-48e5-45f5-b9dd-01044dd4efa2",
       "word": "trampoline",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhbXBvbGluZQ&hash=9bffb9c49771d8159410f85024358e7ca733de3d&lang=en&cache-only=0",
-      "phonetic_text": "træmpəli:n",
+      "phonetic_text": "træm.pə.lin",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhbXBvbGluZQ&hash=9bffb9c49771d8159410f85024358e7ca733de3d&lang=en&cache-only=0",
-      "phonetic_am_text": "trāmpēleen",
+      "phonetic_am_text": "trām.pē.lin",
       "img": "https://cdn.langeek.co/photo/21877/original/?type=jpeg",
       "pronunciation": "ˌtɹæmpəˈɫin",
       "senses": [
@@ -386,12 +592,13 @@
       ]
     },
     {
+      "id": "12712328-2f4e-4295-a942-df2a45c153f3",
       "word": "release aid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVsZWFzZSBhaWQ&hash=a60bb07f927309489cab1c89948c70dacbdea6be&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ri.lis eɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVsZWFzZSBhaWQ&hash=a60bb07f927309489cab1c89948c70dacbdea6be&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ri.lis eid",
       "img": "",
       "pronunciation": "ɹɪlˈiːs ˈeɪd",
       "senses": [
@@ -423,12 +630,13 @@
       ]
     },
     {
+      "id": "192db075-ea74-45f4-8d23-02ef0c08ba57",
       "word": "chalk bag",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hhbGsgYmFn&hash=e9140b0a7b9fea0aa9911486e0c8d89195557f69&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧɑk bæg",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hhbGsgYmFn&hash=e9140b0a7b9fea0aa9911486e0c8d89195557f69&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chaak bāg",
       "img": "",
       "pronunciation": "tʃˈɔːk bˈæɡ",
       "senses": [
@@ -460,12 +668,13 @@
       ]
     },
     {
+      "id": "7a7e219c-53fa-462b-b310-a957b03a63a2",
       "word": "body cord",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9keSBjb3Jk&hash=4de22ddd41f014a85775a709564f47fbd5c39142&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɑ:.di kɔrd",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9keSBjb3Jk&hash=4de22ddd41f014a85775a709564f47fbd5c39142&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baa.di kawrd",
       "img": "",
       "pronunciation": "bˈɑːdi kˈoːɹd",
       "senses": [
@@ -497,12 +706,13 @@
       ]
     },
     {
+      "id": "c9b61732-c88a-41e1-8708-cd5a2f7789f8",
       "word": "hammer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFtbWVy&hash=448756a00b30c0451298eacb4bbec9abf275929c&lang=en&cache-only=0",
-      "phonetic_text": "hæmər",
+      "phonetic_text": "hæ.mɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFtbWVy&hash=448756a00b30c0451298eacb4bbec9abf275929c&lang=en&cache-only=0",
-      "phonetic_am_text": "hāmēr",
+      "phonetic_am_text": "hā.mēr",
       "img": "",
       "pronunciation": "ˈhæmɝ",
       "senses": [
@@ -534,12 +744,13 @@
       ]
     },
     {
+      "id": "fc29df02-65c8-4183-985e-18622284da27",
       "word": "saddle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FkZGxl&hash=a5970dd2e851b80163409cfcac70cf823dc3e373&lang=en&cache-only=0",
-      "phonetic_text": "sædəl",
+      "phonetic_text": "sæ.dəl",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FkZGxl&hash=a5970dd2e851b80163409cfcac70cf823dc3e373&lang=en&cache-only=0",
-      "phonetic_am_text": "sādēl",
+      "phonetic_am_text": "sā.dēl",
       "img": "https://cdn.langeek.co/photo/34584/original/?type=jpeg",
       "pronunciation": "ˈsædəɫ",
       "senses": [
@@ -571,12 +782,13 @@
       ]
     },
     {
+      "id": "9b10a25b-bad9-4886-abcf-534fe2234c74",
       "word": "cockpit cover",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29ja3BpdCBjb3Zlcg&hash=1610b2c9dd03d826bfd778796c2a56b890688003&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑk.pɪt kʌ.vər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29ja3BpdCBjb3Zlcg&hash=1610b2c9dd03d826bfd778796c2a56b890688003&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaak.pit ka.vēr",
       "img": "",
       "pronunciation": "kˈɑːkpɪt kˈʌvɚ",
       "senses": [
@@ -608,49 +820,30 @@
       ]
     },
     {
+      "id": "b2d8674a-7675-43a1-82c6-a90b8e8b76ac",
       "word": "net",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmV0&hash=d4d8ef166961a7121c97d8f17d8c81029fde7d0b&lang=en&cache-only=0",
-      "phonetic_text": "nɛt",
+      "phonetic_text": "net",
       "phonetic_am": "https://tts.langeek.co/read?text=bmV0&hash=d4d8ef166961a7121c97d8f17d8c81029fde7d0b&lang=en&cache-only=0",
       "phonetic_am_text": "net",
-      "img": "https://cdn.langeek.co/photo/17206/original/net?type=jpeg",
-      "pronunciation": "net",
+      "img": "https://cdn.langeek.co/photo/61712/original/net?type=jpeg",
+      "pronunciation": "nɛt",
       "senses": [
         {
           "definition": "the barrier in the middle of a court over which players hit the ball, used in sports such as tennis",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The tennis player's powerful serve sent the ball over the net and into the opponent's court."
-            },
-            {
-              "cf": "",
-              "x": "She reached the net quickly to volley the ball back to her opponent's side."
-            },
-            {
-              "cf": "",
-              "x": "The net divides the tennis court into two halves and determines where the ball can land during a rally."
-            },
-            {
-              "cf": "",
-              "x": "The ball hit the top of the net and bounced over, earning the player a point."
-            },
-            {
-              "cf": "",
-              "x": "They adjusted the tension of the net to ensure it was set at the proper height for the match."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "c7863e9a-307a-4d60-9ee6-0e8aa93e77c1",
       "word": "post",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9zdA&hash=a12053c42656d943ff66c3e48f61fb2f60b5b318&lang=en&cache-only=0",
       "phonetic_text": "poʊst",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9zdA&hash=a12053c42656d943ff66c3e48f61fb2f60b5b318&lang=en&cache-only=0",
-      "phonetic_am_text": "powst",
+      "phonetic_am_text": "pooost",
       "img": "",
       "pronunciation": "poʊst",
       "senses": [
@@ -661,12 +854,13 @@
       ]
     },
     {
+      "id": "c6646a85-8ebe-45c5-87bc-b1c94d054ab8",
       "word": "goalpost",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29hbHBvc3Q&hash=1b41eb592420ee535c888275a5663bf13662082e&lang=en&cache-only=0",
-      "phonetic_text": "goʊlpoʊst",
+      "phonetic_text": "goʊl.poʊst",
       "phonetic_am": "https://tts.langeek.co/read?text=Z29hbHBvc3Q&hash=1b41eb592420ee535c888275a5663bf13662082e&lang=en&cache-only=0",
-      "phonetic_am_text": "gowlpowst",
+      "phonetic_am_text": "goool.pooost",
       "img": "",
       "pronunciation": "ˈɡoʊɫˌpoʊst",
       "senses": [
@@ -698,12 +892,13 @@
       ]
     },
     {
+      "id": "c46a30c5-2f05-4f14-80d7-caba29e1242d",
       "word": "saddle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FkZGxl&hash=a5970dd2e851b80163409cfcac70cf823dc3e373&lang=en&cache-only=0",
-      "phonetic_text": "sædəl",
+      "phonetic_text": "sæ.dəl",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FkZGxl&hash=a5970dd2e851b80163409cfcac70cf823dc3e373&lang=en&cache-only=0",
-      "phonetic_am_text": "sādēl",
+      "phonetic_am_text": "sā.dēl",
       "img": "",
       "pronunciation": "ˈsædəɫ",
       "senses": [
@@ -735,6 +930,7 @@
       ]
     },
     {
+      "id": "8edfd32a-3d37-40d1-9afe-98e76563181e",
       "word": "bit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Yml0&hash=2c832637256b043495dcf6922a37c6cbb44dedd3&lang=en&cache-only=0",
@@ -742,7 +938,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Yml0&hash=2c832637256b043495dcf6922a37c6cbb44dedd3&lang=en&cache-only=0",
       "phonetic_am_text": "bit",
       "img": "",
-      "pronunciation": "ˈbɪt",
+      "pronunciation": "bɪt",
       "senses": [
         {
           "definition": "a metal mouthpiece and its attached components used in a bridle to control a horse",
@@ -764,12 +960,13 @@
       ]
     },
     {
+      "id": "a3f294a9-4024-45ef-ac96-04f92d9df3fc",
       "word": "bridle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJpZGxl&hash=d94937519d152e606a1ab518b3f880880036ad25&lang=en&cache-only=0",
-      "phonetic_text": "braɪdəl",
+      "phonetic_text": "braɪ.dəl",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJpZGxl&hash=d94937519d152e606a1ab518b3f880880036ad25&lang=en&cache-only=0",
-      "phonetic_am_text": "braidēl",
+      "phonetic_am_text": "brai.dēl",
       "img": "",
       "pronunciation": "ˈbɹaɪdəɫ",
       "senses": [
@@ -801,6 +998,7 @@
       ]
     },
     {
+      "id": "f38adbfc-f879-4963-9fcd-fcb9d38e6a1c",
       "word": "girth",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2lydGg&hash=8359e09972455ec32c5675c717597cf32a98fde8&lang=en&cache-only=0",
@@ -838,12 +1036,13 @@
       ]
     },
     {
+      "id": "6989dff4-d844-48ab-b468-c2e143412c50",
       "word": "martingale",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFydGluZ2FsZQ&hash=6d8066cf237170ccc3d2441af37a076df83bcaeb&lang=en&cache-only=0",
-      "phonetic_text": "mɑ:rtɪngeɪl",
+      "phonetic_text": "mɑr.tɪn.geɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFydGluZ2FsZQ&hash=6d8066cf237170ccc3d2441af37a076df83bcaeb&lang=en&cache-only=0",
-      "phonetic_am_text": "maartingeil",
+      "phonetic_am_text": "maar.tin.geil",
       "img": "",
       "pronunciation": "ˈmɑɹtɪˌŋeɪɫ",
       "senses": [
@@ -875,12 +1074,13 @@
       ]
     },
     {
+      "id": "6c2be896-ac25-48d4-a7cc-115da21c00c9",
       "word": "martingale",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFydGluZ2FsZQ&hash=6d8066cf237170ccc3d2441af37a076df83bcaeb&lang=en&cache-only=0",
-      "phonetic_text": "mɑ:rtɪngeɪl",
+      "phonetic_text": "mɑr.tɪn.geɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFydGluZ2FsZQ&hash=6d8066cf237170ccc3d2441af37a076df83bcaeb&lang=en&cache-only=0",
-      "phonetic_am_text": "maartingeil",
+      "phonetic_am_text": "maar.tin.geil",
       "img": "",
       "pronunciation": "ˈmɑɹtɪˌŋeɪɫ",
       "senses": [
@@ -912,6 +1112,7 @@
       ]
     },
     {
+      "id": "3e9046bb-023e-4059-9031-131cd8329a44",
       "word": "rein",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVpbg&hash=47667b83776ef62e90330d93e1a4f27f3e624c64&lang=en&cache-only=0",
@@ -949,12 +1150,13 @@
       ]
     },
     {
+      "id": "7cadeb8c-29c8-4a26-9fb6-e57cd9772666",
       "word": "breastplate",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJlYXN0cGxhdGU&hash=edf58aada8c7b8c9a05af0fda192243d6a6507f2&lang=en&cache-only=0",
-      "phonetic_text": "brɛstpleɪt",
+      "phonetic_text": "brest.pleɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJlYXN0cGxhdGU&hash=edf58aada8c7b8c9a05af0fda192243d6a6507f2&lang=en&cache-only=0",
-      "phonetic_am_text": "brestpleit",
+      "phonetic_am_text": "brest.pleit",
       "img": "",
       "pronunciation": "ˈbrestˌpleɪt",
       "senses": [
@@ -986,12 +1188,13 @@
       ]
     },
     {
+      "id": "a7149e5c-7991-4e42-bffb-5c066331a184",
       "word": "riding crop",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmlkaW5nIGNyb3A&hash=a0d16ed32b39d8aea545352b0f63e860e8f7665a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "raɪ.dɪng krɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=cmlkaW5nIGNyb3A&hash=a0d16ed32b39d8aea545352b0f63e860e8f7665a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rai.ding kraap",
       "img": "",
       "pronunciation": "ɹˈaɪdɪŋ kɹˈɑːp",
       "senses": [
@@ -1023,6 +1226,7 @@
       ]
     },
     {
+      "id": "a54cd632-893a-4f57-853f-a8ce3c02c498",
       "word": "spur",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3B1cg&hash=9742e4aab49b6a80f39281471cb9960becf9e37d&lang=en&cache-only=0",
@@ -1060,10 +1264,11 @@
       ]
     },
     {
+      "id": "318aec11-2801-4687-94dd-858ac5aa920d",
       "word": "belaying pin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVsYXlpbmcgcGlu&hash=e152fc468938db15f088acb75ad237737eda1ad1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVsYXlpbmcgcGlu&hash=e152fc468938db15f088acb75ad237737eda1ad1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -1071,71 +1276,168 @@
       "senses": [
         {
           "definition": "a solid wooden or metal rod, used on sailing ships to secure ropes or lines",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The sailor secured the main sail using a belaying pin on the ship's deck."
+            },
+            {
+              "cf": "",
+              "x": "The belaying pin's sturdy construction ensured the ropes stayed in place during maneuvers."
+            },
+            {
+              "cf": "",
+              "x": "On the sailing vessel, sailors are trained to quickly belay lines using various sizes of belaying pins."
+            },
+            {
+              "cf": "",
+              "x": "The captain inspected the belaying pins regularly to ensure they were in good condition."
+            },
+            {
+              "cf": "",
+              "x": "During the storm, she relied on the belaying pins to manage the rigging in the turbulent seas."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "078d8dca-1edd-4384-8bea-d9a340d78b28",
       "word": "saddle pad",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FkZGxlIHBhZA&hash=983589b627e6e5612efecc6b2875e60380a68af2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sæ.dəl pæd",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FkZGxlIHBhZA&hash=983589b627e6e5612efecc6b2875e60380a68af2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sā.dēl pād",
       "img": "",
       "pronunciation": "sˈædəl pˈæd",
       "senses": [
         {
           "definition": "a piece of sports equipment used in equestrian sports to provide cushioning and protect the horse's back",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The saddle pad was embroidered with intricate designs, adding flair to the riding gear."
+            },
+            {
+              "cf": "",
+              "x": "He adjusted the saddle pad to ensure it sat comfortably beneath the saddle."
+            },
+            {
+              "cf": "",
+              "x": "The saddle pad was made of breathable material to keep the horse cool during the ride."
+            },
+            {
+              "cf": "",
+              "x": "Before the competition, riders inspected their horses' saddle pads for any signs of wear."
+            },
+            {
+              "cf": "",
+              "x": "The saddle pad absorbed sweat, preventing it from irritating the horse's skin."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "3fe8fb75-945d-41ca-9e9c-bd98648cef59",
       "word": "binoculars",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ymlub2N1bGFycw&hash=ec0c38162150dc3360b9274c608781884b3d9c28&lang=en&cache-only=0",
-      "phonetic_text": "bənɑ:kjələrz",
+      "phonetic_text": "bə.nɑk.jə.lɜrz",
       "phonetic_am": "https://tts.langeek.co/read?text=Ymlub2N1bGFycw&hash=ec0c38162150dc3360b9274c608781884b3d9c28&lang=en&cache-only=0",
-      "phonetic_am_text": "bēnaakyēlērz",
+      "phonetic_am_text": "bē.naak.yē.lērz",
       "img": "",
       "pronunciation": "bəˈnɑkjəɫɝz",
       "senses": [
         {
           "definition": "the devices used to see distant objects more clearly by looking through two small telescopes mounted together",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The birdwatcher used binoculars to observe rare species in the treetops."
+            },
+            {
+              "cf": "",
+              "x": "During the hike, she used binoculars to get a closer look at wildlife in the distance."
+            },
+            {
+              "cf": "",
+              "x": "At the nature reserve, visitors can rent binoculars for guided birdwatching tours."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7403abe9-efbc-45ca-82b7-767ee5a81e0b",
       "word": "ice ax",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aWNlIGF4&hash=14aa8ed9fe5dda2f413f87ea9d70fa6cce75ee1a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aɪs æks",
       "phonetic_am": "https://tts.langeek.co/read?text=aWNlIGF4&hash=14aa8ed9fe5dda2f413f87ea9d70fa6cce75ee1a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ais āks",
       "img": "",
       "pronunciation": "ˈaɪs ˈæks",
       "senses": [
         {
           "definition": "a versatile tool used in mountaineering and ice climbing, featuring a pointed pick for anchoring in ice and a spike for stability on snow",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The climber used his ice ax to secure a hold on the steep, icy slope."
+            },
+            {
+              "cf": "",
+              "x": "During the ascent, the mountaineer relied on the ice ax to navigate through the glacier."
+            },
+            {
+              "cf": "",
+              "x": "Every mountaineer carries an ice ax for safety and support in icy and snowy conditions."
+            },
+            {
+              "cf": "",
+              "x": "The ice ax's pick helped the climber anchor himself while ascending the frozen waterfall."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b0750a98-233e-45b5-a378-b5d74b1cf9b9",
       "word": "bowsprit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym93c3ByaXQ&hash=e849897755ba9d87f643c8729a0785db7200b3ac&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "baʊ.sprɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym93c3ByaXQ&hash=e849897755ba9d87f643c8729a0785db7200b3ac&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baoo.sprit",
       "img": "",
       "pronunciation": "bˈaʊspɹɪt",
       "senses": [
         {
           "definition": "a pole that sticks out from the front of a sailboat, used to support the front sails",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "During the race, the crew used the bowsprit to hold larger sails."
+            },
+            {
+              "cf": "",
+              "x": "At the dock, the captain checked the bowsprit for any damage."
+            },
+            {
+              "cf": "",
+              "x": "The sailor adjusted the sail attached to the bowsprit."
+            },
+            {
+              "cf": "",
+              "x": "The bowsprit helped balance and steer the sailboat better."
+            },
+            {
+              "cf": "",
+              "x": "The crew tightened the ropes connected to the bowsprit."
+            }
+          ]
         }
       ]
     }

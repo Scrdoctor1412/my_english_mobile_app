@@ -1,17 +1,19 @@
 {
+  "id": "24799455-ca57-419e-bc83-b8d158e4bcb5",
   "topic": "b1_level",
   "title": "Romance",
   "lesson": "lesson_30",
   "word_list": [
     {
-      "word": "admire",
+      "id": "957e7782-b80b-4511-bbf0-6effe1b0209f",
+      "word": "to admire",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWRtaXJl&hash=b617705a12dbddffc6a4f8d099e6d9a717195036&lang=en&cache-only=0",
-      "phonetic_text": "ædmaɪr",
+      "phonetic_text": "æd.maɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWRtaXJl&hash=b617705a12dbddffc6a4f8d099e6d9a717195036&lang=en&cache-only=0",
-      "phonetic_am_text": "ādmair",
+      "phonetic_am_text": "ād.mair",
       "img": "https://cdn.langeek.co/photo/19374/original/admire?type=jpeg",
-      "pronunciation": "ædˈmaɪɹ",
+      "pronunciation": "ədˈmaɪɚ",
       "senses": [
         {
           "definition": "to express respect toward someone or something often due to qualities, achievements, etc.",
@@ -41,14 +43,15 @@
       ]
     },
     {
-      "word": "desire",
+      "id": "d32ac09f-1abd-4e7c-8367-3cc3a095b52d",
+      "word": "to desire",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVzaXJl&hash=16cb039acdc75440ed1fa2166a94292117015143&lang=en&cache-only=0",
-      "phonetic_text": "dɪzaɪər",
+      "phonetic_text": "dɪ.zaɪər",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVzaXJl&hash=16cb039acdc75440ed1fa2166a94292117015143&lang=en&cache-only=0",
-      "phonetic_am_text": "dizaiēr",
+      "phonetic_am_text": "di.zaiēr",
       "img": "https://cdn.langeek.co/photo/19376/original/be-attracted-to?type=jpeg",
-      "pronunciation": "dɪˈzaɪɝ",
+      "pronunciation": "dɪˈzaɪɚ",
       "senses": [
         {
           "definition": "to be sexually attracted to someone",
@@ -78,51 +81,32 @@
       ]
     },
     {
-      "word": "embrace",
+      "id": "9d72390a-cb1b-48a8-bf4a-aeaee0ca21a4",
+      "word": "to embrace",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZW1icmFjZQ&hash=9d93c2135bb780cbadd64cb2bd8fd45c1d5167f6&lang=en&cache-only=0",
-      "phonetic_text": "ɛmbreɪs",
+      "phonetic_text": "ɛmb.reɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZW1icmFjZQ&hash=9d93c2135bb780cbadd64cb2bd8fd45c1d5167f6&lang=en&cache-only=0",
-      "phonetic_am_text": "embreis",
+      "phonetic_am_text": "emb.reis",
       "img": "https://cdn.langeek.co/photo/19366/original/hug?type=jpeg",
-      "pronunciation": "ɛmˈbɹeɪs/, /ɪmˈbɹeɪs",
+      "pronunciation": "ɪmˈbreɪs",
       "senses": [
         {
           "definition": "to hold someone tightly in one's arms, especially to show affection",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She was thrilled to see her long-lost friend and rushed to embrace her with a warm hug."
-            },
-            {
-              "cf": "",
-              "x": "The mother embraced her child tightly after they returned from a long trip."
-            },
-            {
-              "cf": "",
-              "x": "At their wedding, the couple paused to embrace each other, sealing their commitment with a loving hug."
-            },
-            {
-              "cf": "",
-              "x": "He couldn't help but embrace his pet dog with affection when he returned home from work."
-            },
-            {
-              "cf": "",
-              "x": "After a heartfelt apology, they reconciled and chose to embrace each other, putting their differences behind them."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "flirt",
+      "id": "85568898-1919-4df4-b705-e16220377f8b",
+      "word": "to flirt",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmxpcnQ&hash=0573928452329ff69cb7c6148598a214707f42bd&lang=en&cache-only=0",
       "phonetic_text": "flɜrt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmxpcnQ&hash=0573928452329ff69cb7c6148598a214707f42bd&lang=en&cache-only=0",
       "phonetic_am_text": "flērt",
       "img": "https://cdn.langeek.co/photo/19600/original/flirt?type=jpeg",
-      "pronunciation": "ˈfɫɝt",
+      "pronunciation": "flɝt",
       "senses": [
         {
           "definition": "to behave in a way that shows a person is only sexually drawn to someone, with no serious intention of starting a relationship",
@@ -140,12 +124,13 @@
       ]
     },
     {
-      "word": "want",
+      "id": "0179dde3-4574-4443-9936-32da5b17f047",
+      "word": "to want",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2FudA&hash=366540d58b07fa0f253062b5d5df89e3f8e9f121&lang=en&cache-only=0",
       "phonetic_text": "wɑ:nt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2FudA&hash=366540d58b07fa0f253062b5d5df89e3f8e9f121&lang=en&cache-only=0",
-      "phonetic_am_text": "waant",
+      "phonetic_am_text": "vaant",
       "img": "",
       "pronunciation": "wɑːnt",
       "senses": [
@@ -169,14 +154,15 @@
       ]
     },
     {
-      "word": "kiss",
+      "id": "13e249f3-d840-4cc9-93a6-aa03cc8b59a5",
+      "word": "to kiss",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2lzcw&hash=40964c0d760140c1228a436ce30933d74098107a&lang=en&cache-only=0",
       "phonetic_text": "kɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2lzcw&hash=40964c0d760140c1228a436ce30933d74098107a&lang=en&cache-only=0",
       "phonetic_am_text": "kis",
       "img": "https://cdn.langeek.co/photo/19368/original/kiss?type=jpeg",
-      "pronunciation": "ˈkɪs",
+      "pronunciation": "kɪs",
       "senses": [
         {
           "definition": "to touch someone else's lips or other body parts with one's lips to show love, sexual desire, respect, etc.",
@@ -206,6 +192,7 @@
       ]
     },
     {
+      "id": "160faf5f-8f62-481f-b3ba-1c0b3431480b",
       "word": "kiss",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2lzcw&hash=af3c55831724347e6f588ff3b39d7358e0776eff&lang=en&cache-only=0",
@@ -213,7 +200,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=a2lzcw&hash=af3c55831724347e6f588ff3b39d7358e0776eff&lang=en&cache-only=0",
       "phonetic_am_text": "kis",
       "img": "https://cdn.langeek.co/photo/19368/original/kiss?type=jpeg",
-      "pronunciation": "ˈkɪs",
+      "pronunciation": "kɪs",
       "senses": [
         {
           "definition": "a gentle touch with the lips, especially to show respect or liking",
@@ -243,12 +230,13 @@
       ]
     },
     {
+      "id": "afe47973-391b-403c-ba86-dff1ab4fa40e",
       "word": "lover",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG92ZXI&hash=e6f8a55e48b8cd96c034fd135766d749eb6d5511&lang=en&cache-only=0",
-      "phonetic_text": "lʌvər",
+      "phonetic_text": "lʌ.vər",
       "phonetic_am": "https://tts.langeek.co/read?text=bG92ZXI&hash=e6f8a55e48b8cd96c034fd135766d749eb6d5511&lang=en&cache-only=0",
-      "phonetic_am_text": "lavēr",
+      "phonetic_am_text": "la.vēr",
       "img": "",
       "pronunciation": "ˈlʌvər",
       "senses": [
@@ -276,6 +264,7 @@
       ]
     },
     {
+      "id": "ab78829d-840e-43f2-b3a0-4475b36d8483",
       "word": "date",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGF0ZQ&hash=306047f81731865f50d6a6e0e1a4a95c77e68b53&lang=en&cache-only=0",
@@ -313,14 +302,15 @@
       ]
     },
     {
+      "id": "6f63b293-3aa9-475b-bed6-f1aca5161116",
       "word": "love letter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG92ZSBsZXR0ZXI&hash=fee654d27e8c8db75e3cb71a663f03060f89d504&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lʌv lɛ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=bG92ZSBsZXR0ZXI&hash=fee654d27e8c8db75e3cb71a663f03060f89d504&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lav le.tēr",
       "img": "https://cdn.langeek.co/photo/19370/original/love-letter?type=jpeg",
-      "pronunciation": "lˈʌv lˈɛɾɚ",
+      "pronunciation": "ˈlʌv ˈlɛtɚ",
       "senses": [
         {
           "definition": "a letter to show one's affections toward the person who receives it",
@@ -329,14 +319,15 @@
       ]
     },
     {
+      "id": "db4e3196-e1c7-4a99-9b64-2bcaa5fb99a5",
       "word": "love life",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG92ZSBsaWZl&hash=fa9f917f878024224925b91cb6a9f8517fa342b7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lʌv laɪf",
       "phonetic_am": "https://tts.langeek.co/read?text=bG92ZSBsaWZl&hash=fa9f917f878024224925b91cb6a9f8517fa342b7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lav laif",
       "img": "",
-      "pronunciation": "lˈʌv lˈaɪf",
+      "pronunciation": "ˈlʌv laɪf",
       "senses": [
         {
           "definition": "a part of one's life involving relationships or sexual activities",
@@ -345,14 +336,15 @@
       ]
     },
     {
+      "id": "e1dd2e9d-017a-4ffc-b170-7da06fe9934c",
       "word": "hug",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aHVn&hash=28ec64c0496335099e881dce48f274f5e3f35ac0&lang=en&cache-only=0",
-      "phonetic_text": "hʌg",
+      "phonetic_text": "həg",
       "phonetic_am": "https://tts.langeek.co/read?text=aHVn&hash=28ec64c0496335099e881dce48f274f5e3f35ac0&lang=en&cache-only=0",
-      "phonetic_am_text": "hag",
+      "phonetic_am_text": "hēg",
       "img": "https://cdn.langeek.co/photo/19366/original/hug?type=jpeg",
-      "pronunciation": "ˈhəɡ",
+      "pronunciation": "hʌɡ",
       "senses": [
         {
           "definition": "the act of closely holding someone in one's arms, usually as a sign of affection",
@@ -361,12 +353,13 @@
       ]
     },
     {
+      "id": "4a92b0a1-e22d-4159-bcd2-662b0ebf67a7",
       "word": "passion",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFzc2lvbg&hash=81b013d24ffd13f3c2dbbe5aa60677bc468f832e&lang=en&cache-only=0",
-      "phonetic_text": "pæʃən",
+      "phonetic_text": "pæ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFzc2lvbg&hash=81b013d24ffd13f3c2dbbe5aa60677bc468f832e&lang=en&cache-only=0",
-      "phonetic_am_text": "pāshēn",
+      "phonetic_am_text": "pā.shēn",
       "img": "",
       "pronunciation": "ˈpæʃən",
       "senses": [
@@ -390,14 +383,15 @@
       ]
     },
     {
+      "id": "ac710918-3b3c-4328-b33c-9c19f37b16b3",
       "word": "crush",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3J1c2g&hash=5d4bf3b66fed9ee16fbc9409c9023b1f0c5d13ca&lang=en&cache-only=0",
-      "phonetic_text": "krʌʃ",
+      "phonetic_text": "krəʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3J1c2g&hash=5d4bf3b66fed9ee16fbc9409c9023b1f0c5d13ca&lang=en&cache-only=0",
-      "phonetic_am_text": "krash",
+      "phonetic_am_text": "krēsh",
       "img": "",
-      "pronunciation": "ˈkɹəʃ",
+      "pronunciation": "krʌʃ",
       "senses": [
         {
           "definition": "a strong, temporary feeling of love toward a person",
@@ -406,12 +400,13 @@
       ]
     },
     {
+      "id": "79701ba0-33ba-47cb-afcd-a41470404233",
       "word": "baby",
       "pos": "interjection",
       "phonetic": "https://tts.langeek.co/read?text=YmFieQ&hash=2b55d6a775fba83df38e1d8aeeb3fd98f723ab6f&lang=en&cache-only=0",
-      "phonetic_text": "beɪbi",
+      "phonetic_text": "beɪ.bi",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFieQ&hash=2b55d6a775fba83df38e1d8aeeb3fd98f723ab6f&lang=en&cache-only=0",
-      "phonetic_am_text": "beibi",
+      "phonetic_am_text": "bei.bi",
       "img": "",
       "pronunciation": "ˈbeɪbi",
       "senses": [
@@ -422,14 +417,15 @@
       ]
     },
     {
+      "id": "f0feca8e-6b79-4910-bac0-439b7535ad3e",
       "word": "darling",
       "pos": "interjection",
       "phonetic": "https://tts.langeek.co/read?text=ZGFybGluZw&hash=90ef63c7dc085ea4728289f4e8c59855d600daa0&lang=en&cache-only=0",
-      "phonetic_text": "dɑ:rlɪng",
+      "phonetic_text": "dɑr.lɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGFybGluZw&hash=90ef63c7dc085ea4728289f4e8c59855d600daa0&lang=en&cache-only=0",
-      "phonetic_am_text": "daarling",
+      "phonetic_am_text": "daar.ling",
       "img": "",
-      "pronunciation": "ˈdɑɹɫɪŋ",
+      "pronunciation": "ˈdɑrlɪŋ",
       "senses": [
         {
           "definition": "used to address an individual one loves, particularly one's romantic partner, wife, husband, etc.",
@@ -438,12 +434,13 @@
       ]
     },
     {
+      "id": "9f6b0bd1-d945-4324-81bc-eaf81f3445bc",
       "word": "honey",
       "pos": "interjection",
       "phonetic": "https://tts.langeek.co/read?text=aG9uZXk&hash=d63d6aa9d44215682b5a048d5cebc9dd38248d34&lang=en&cache-only=0",
-      "phonetic_text": "hʌni",
+      "phonetic_text": "hʌ.ni",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9uZXk&hash=d63d6aa9d44215682b5a048d5cebc9dd38248d34&lang=en&cache-only=0",
-      "phonetic_am_text": "hani",
+      "phonetic_am_text": "ha.ni",
       "img": "",
       "pronunciation": "ˈhʌni",
       "senses": [
@@ -475,14 +472,15 @@
       ]
     },
     {
+      "id": "8c2aa6d1-c4ae-480f-a0a2-1ae0a382e39f",
       "word": "sweetheart",
       "pos": "interjection",
       "phonetic": "https://tts.langeek.co/read?text=c3dlZXRoZWFydA&hash=37bb8648343ca7ed2a2d73f676e51dd967b2b674&lang=en&cache-only=0",
-      "phonetic_text": "swi:thɑrt",
+      "phonetic_text": "swi:t.hɑ:rt",
       "phonetic_am": "https://tts.langeek.co/read?text=c3dlZXRoZWFydA&hash=37bb8648343ca7ed2a2d73f676e51dd967b2b674&lang=en&cache-only=0",
-      "phonetic_am_text": "sweethɑrt",
+      "phonetic_am_text": "svit.haart",
       "img": "https://cdn.langeek.co/photo/23061/original/?type=jpeg",
-      "pronunciation": "ˈswitˌhɑɹt",
+      "pronunciation": "ˈswiːtˌhɑrt",
       "senses": [
         {
           "definition": "used to address a loved one in an affectionate manner",
@@ -491,14 +489,15 @@
       ]
     },
     {
+      "id": "23c31408-19f6-46fd-80f1-226573e33217",
       "word": "blind date",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmxpbmQgZGF0ZQ&hash=17880260cc698b2e177ac74e0b76274b276d8a24&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "blaɪnd deɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=YmxpbmQgZGF0ZQ&hash=17880260cc698b2e177ac74e0b76274b276d8a24&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "blaind deit",
       "img": "https://cdn.langeek.co/photo/21501/original/blind-date?type=jpeg",
-      "pronunciation": "blˈaɪnd dˈeɪt",
+      "pronunciation": "blaɪnd deɪt",
       "senses": [
         {
           "definition": "a romantic date with a person one has not met before",
@@ -528,14 +527,15 @@
       ]
     },
     {
+      "id": "d568aa29-9a48-4b41-ab2a-bf69a2e6e1d6",
       "word": "double date",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZG91YmxlIGRhdGU&hash=8cc492503cfbddca92f9b07f0b2397c46be5ea77&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "də.bəl deɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG91YmxlIGRhdGU&hash=8cc492503cfbddca92f9b07f0b2397c46be5ea77&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dē.bēl deit",
       "img": "https://cdn.langeek.co/photo/19364/original/double-date?type=jpeg",
-      "pronunciation": "dˈʌbəl dˈeɪt",
+      "pronunciation": "ˈdʌbəl deɪt",
       "senses": [
         {
           "definition": "the occasion on which two couples go on a date together",
@@ -549,14 +549,15 @@
       ]
     },
     {
+      "id": "ec152a72-4fc9-4a73-8e02-5146db7928e0",
       "word": "fond",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Zm9uZA&hash=01b83e32f7b816b2f758d579ec37874a7c3e452c&lang=en&cache-only=0",
-      "phonetic_text": "fɑ:nd",
+      "phonetic_text": "fɑnd",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9uZA&hash=01b83e32f7b816b2f758d579ec37874a7c3e452c&lang=en&cache-only=0",
       "phonetic_am_text": "faand",
       "img": "",
-      "pronunciation": "ˈfɑnd",
+      "pronunciation": "fɑnd",
       "senses": [
         {
           "definition": "having a strong liking, preference, or affection for something or someon",
@@ -586,14 +587,15 @@
       ]
     },
     {
+      "id": "eaeb299d-50cc-4250-aa1c-17e5e08f8968",
       "word": "soulmate",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c291bG1hdGU&hash=4b25f266e875d63075a943215b3c53bf161bd3dc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "soʊl.meɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=c291bG1hdGU&hash=4b25f266e875d63075a943215b3c53bf161bd3dc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "soool.meit",
       "img": "https://cdn.langeek.co/photo/51933/original/love?type=jpeg",
-      "pronunciation": "sˈoʊlmeɪt",
+      "pronunciation": "ˈsoʊlˌmeɪt",
       "senses": [
         {
           "definition": "the perfect romantic partner for a person",
@@ -602,14 +604,15 @@
       ]
     },
     {
+      "id": "05a36430-fb80-4351-b6af-fd34f718d534",
       "word": "Valentine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VmFsZW50aW5l&hash=a9ec1e4d7d64250737223519eed7999080fcea1a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=VmFsZW50aW5l&hash=a9ec1e4d7d64250737223519eed7999080fcea1a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/18746/original/valentine-s-day?type=jpeg",
-      "pronunciation": "ˈvæɫənˌtaɪn",
+      "pronunciation": "ˈvælənˌtaɪn",
       "senses": [
         {
           "definition": "a person that one loves or is attracted to and sends a love letter to, often without signing it, on Valentine's Day",
@@ -631,14 +634,15 @@
       ]
     },
     {
+      "id": "7a12e3ee-65fc-4473-a8e0-c9b1d271e127",
       "word": "romance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9tYW5jZQ&hash=0a59801e258a3f81d76e89d50bcff8e1bab0d765&lang=en&cache-only=0",
-      "phonetic_text": "roʊmæns",
+      "phonetic_text": "roʊ.mæns",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9tYW5jZQ&hash=0a59801e258a3f81d76e89d50bcff8e1bab0d765&lang=en&cache-only=0",
-      "phonetic_am_text": "rowmāns",
+      "phonetic_am_text": "rooo.māns",
       "img": "https://cdn.langeek.co/photo/51933/original/love?type=jpeg",
-      "pronunciation": "ˈɹoʊmæns/, /ɹoʊˈmæns",
+      "pronunciation": "roʊˈmæns",
       "senses": [
         {
           "definition": "the affectionate relationship between two partners",
@@ -664,14 +668,15 @@
       ]
     },
     {
+      "id": "91c7f480-62f5-4634-b915-e3fbc0dd5b9f",
       "word": "romantic",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cm9tYW50aWM&hash=1cc8fe76fb2ba9100725ebb1d78bae4d1287bff5&lang=en&cache-only=0",
-      "phonetic_text": "roʊmæntɪk",
+      "phonetic_text": "roʊ.mæn.tɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9tYW50aWM&hash=1cc8fe76fb2ba9100725ebb1d78bae4d1287bff5&lang=en&cache-only=0",
-      "phonetic_am_text": "rowmāntik",
+      "phonetic_am_text": "rooo.mān.tik",
       "img": "",
-      "pronunciation": "ɹoʊˈmæntɪk",
+      "pronunciation": "roʊˈmæntɪk",
       "senses": [
         {
           "definition": "describing affections connected with love or relationships",
@@ -701,14 +706,15 @@
       ]
     },
     {
-      "word": "[be|feel] attracted to {sb}",
+      "id": "b6f60c28-7860-45a9-af0d-a388ec747cfe",
+      "word": "to [be|feel] attracted to {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgYXR0cmFjdGVkIHRvIHNvbWVib2R5&hash=892b70cf71b385374c26f11a17b56e9b8a911d3f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgYXR0cmFjdGVkIHRvIHNvbWVib2R5&hash=892b70cf71b385374c26f11a17b56e9b8a911d3f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/19376/original/be-attracted-to?type=jpeg",
-      "pronunciation": "biː ɔːɹ fˈiːl ɐtɹˈæktᵻd tʊ ˌɛsbˈiː",
+      "pronunciation": "bi əˈtræktɪd tə ˈsʌmbədi",
       "senses": [
         {
           "definition": "to feel a romantic or sexual interest toward a person",
@@ -722,14 +728,15 @@
       ]
     },
     {
+      "id": "6cae6026-0f2b-4ca8-a6c0-350198354a91",
       "word": "attraction",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXR0cmFjdGlvbg&hash=45f1628caf460e6b2f380bd2ffb1d8d9cfe5429e&lang=en&cache-only=0",
-      "phonetic_text": "ətrækʃən",
+      "phonetic_text": "ət.ræk.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=YXR0cmFjdGlvbg&hash=45f1628caf460e6b2f380bd2ffb1d8d9cfe5429e&lang=en&cache-only=0",
-      "phonetic_am_text": "ētrākshēn",
+      "phonetic_am_text": "ēt.rāk.shēn",
       "img": "",
-      "pronunciation": "əˈtɹækʃən",
+      "pronunciation": "əˈtrækʃən",
       "senses": [
         {
           "definition": "a feeling of liking a person, particularly in a sexual way",

@@ -1,9 +1,11 @@
 {
+  "id": "6fac545b-7559-4731-8f88-3ffc03dfe217",
   "topic": "land_transportation",
   "title": "Passenger Accomadations",
   "lesson": "lesson_33",
   "word_list": [
     {
+      "id": "cdc56479-8412-4087-9673-acda9c430bca",
       "word": "class",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xhc3M&hash=013287836b2b951edfa84747856b479a5b59a8ff&lang=en&cache-only=0",
@@ -20,14 +22,15 @@
       ]
     },
     {
+      "id": "ecc17dfa-d03c-40f3-8b65-3a2d94853a0c",
       "word": "first class",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zmlyc3QgY2xhc3M&hash=9477c4befa146f313df8b5f0a92c642f08edc37e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɜrst klæs",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmlyc3QgY2xhc3M&hash=9477c4befa146f313df8b5f0a92c642f08edc37e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fērst klās",
       "img": "https://cdn.langeek.co/photo/18655/original/first-class?type=jpeg",
-      "pronunciation": "fˈɜːst klˈæs",
+      "pronunciation": "ˈfɝst ˈklæs",
       "senses": [
         {
           "definition": "the most luxurious seats on a plane, ship, or train",
@@ -57,49 +60,30 @@
       ]
     },
     {
+      "id": "e4ee0689-7bf5-4c28-a5fd-f6313eabeeaa",
       "word": "second class",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Vjb25kIGNsYXNz&hash=064adca4eed9c8e28a391206c8d8ab283c6b74d4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛ.kənd klæs",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Vjb25kIGNsYXNz&hash=064adca4eed9c8e28a391206c8d8ab283c6b74d4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "se.kēnd klās",
       "img": "https://cdn.langeek.co/photo/18653/original/economy-class?type=jpeg",
       "pronunciation": "sˈɛkənd klˈæs",
       "senses": [
         {
           "definition": "a ategory of seating or accommodations in transportation, typically offering a standard level of comfort and service",
-          "examples": [
-            {
-              "cf": "",
-              "x": "They traveled in second class to save on ticket costs."
-            },
-            {
-              "cf": "",
-              "x": "She booked a second class ticket for the short journey."
-            },
-            {
-              "cf": "",
-              "x": "Second class seats were comfortable but lacked extra legroom."
-            },
-            {
-              "cf": "",
-              "x": "The second class cabin was less crowded than first class."
-            },
-            {
-              "cf": "",
-              "x": "They upgraded to second class for a more comfortable trip."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "0044e23f-7b53-41d6-a955-70180f24cb17",
       "word": "third class",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhpcmQgY2xhc3M&hash=e026fba1d283dc81485f450fd29d8680a9693b0f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "θɜrd klæs",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhpcmQgY2xhc3M&hash=e026fba1d283dc81485f450fd29d8680a9693b0f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "thērd klās",
       "img": "",
       "pronunciation": "θˈɜːd klˈæs",
       "senses": [
@@ -131,14 +115,15 @@
       ]
     },
     {
+      "id": "9c816769-ab64-40c5-9e13-7b80617e2b05",
       "word": "window seat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2luZG93IHNlYXQ&hash=54a401c08fc8fd3d421c96953be6e3438a6d2af4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɪn.doʊ si:t",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luZG93IHNlYXQ&hash=54a401c08fc8fd3d421c96953be6e3438a6d2af4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vin.dooo sit",
       "img": "https://cdn.langeek.co/photo/18605/original/window-seat?type=jpeg",
-      "pronunciation": "wˈɪndoʊ sˈiːt",
+      "pronunciation": "ˈwɪndoʊ ˌsit",
       "senses": [
         {
           "definition": "a seat on a train, plane, bus, etc. that is placed next to a window",
@@ -168,49 +153,30 @@
       ]
     },
     {
+      "id": "42438e3a-e8cf-4859-bae1-58c3ab7327ff",
       "word": "aisle seat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWlzbGUgc2VhdA&hash=e7538334676c79bff1180523c59b66a0f4cd816b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aɪəl si:t",
       "phonetic_am": "https://tts.langeek.co/read?text=YWlzbGUgc2VhdA&hash=e7538334676c79bff1180523c59b66a0f4cd816b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aiēl sit",
       "img": "",
       "pronunciation": "ˈaɪəl sˈiːt",
       "senses": [
         {
           "definition": "a seat located beside the passage in a vehicle or theater",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I prefer the aisle seat on airplanes because it allows me to stretch my legs during long flights."
-            },
-            {
-              "cf": "",
-              "x": "When going to the cinema, I always request an aisle seat for easy access in case I need to leave the room."
-            },
-            {
-              "cf": "",
-              "x": "She chose an aisle seat in the bus so she could quickly get off at her stop without disturbing others."
-            },
-            {
-              "cf": "",
-              "x": "He found it easier to get to the restroom during the conference because he had an aisle seat."
-            },
-            {
-              "cf": "",
-              "x": "The elderly couple requested aisle seats at the concert to avoid being cramped in a crowded row."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "935006b9-96b2-43ab-9dcb-601a48ecef7c",
       "word": "couchette",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291Y2hldHRl&hash=50ce64a16f5f937d0b6407db61521439fe36ec99&lang=en&cache-only=0",
-      "phonetic_text": "kuʃɛt",
+      "phonetic_text": "ku.ʃɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291Y2hldHRl&hash=50ce64a16f5f937d0b6407db61521439fe36ec99&lang=en&cache-only=0",
-      "phonetic_am_text": "kushet",
+      "phonetic_am_text": "koo.shet",
       "img": "",
       "pronunciation": "ˌkuˈʃɛt",
       "senses": [
@@ -242,10 +208,11 @@
       ]
     },
     {
+      "id": "a617338f-181c-486b-80ed-3f7f1e121683",
       "word": "Pullman",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=UHVsbG1hbg&hash=d40f50a350b01c637113215e4ade1ff2b4ea9d09&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=UHVsbG1hbg&hash=d40f50a350b01c637113215e4ade1ff2b4ea9d09&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -271,12 +238,13 @@
       ]
     },
     {
+      "id": "7801c270-85ea-44d6-becb-c55a58e88951",
       "word": "sleeping car",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2xlZXBpbmcgY2Fy&hash=4c0f14c848a2e95b3d9611691eb87b85d74958e8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sli.pɪng kɑ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=c2xlZXBpbmcgY2Fy&hash=4c0f14c848a2e95b3d9611691eb87b85d74958e8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sli.ping kaar",
       "img": "https://cdn.langeek.co/photo/37115/original/?type=jpeg",
       "pronunciation": "slˈiːpɪŋ kˈɑːɹ",
       "senses": [
@@ -308,12 +276,13 @@
       ]
     },
     {
+      "id": "692a7fd8-aa06-465e-a322-dc8f5596f262",
       "word": "sleeper",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2xlZXBlcg&hash=89944b3cc55f66bc4647c2c9ec4d0545fa65d3f6&lang=en&cache-only=0",
-      "phonetic_text": "sli:pər",
+      "phonetic_text": "sli.pɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c2xlZXBlcg&hash=89944b3cc55f66bc4647c2c9ec4d0545fa65d3f6&lang=en&cache-only=0",
-      "phonetic_am_text": "sleepēr",
+      "phonetic_am_text": "sli.pēr",
       "img": "https://cdn.langeek.co/photo/37115/original/?type=jpeg",
       "pronunciation": "ˈsɫipɝ",
       "senses": [
@@ -337,6 +306,7 @@
       ]
     },
     {
+      "id": "ef22f980-7ae5-4cd6-b6a6-7a83e80e8fb5",
       "word": "berth",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVydGg&hash=3ec783634e9cb3cda22000aa47fd92866ca7fd23&lang=en&cache-only=0",
@@ -366,6 +336,7 @@
       ]
     },
     {
+      "id": "13d48a9e-bc55-44a8-8db9-5340805ca3fa",
       "word": "bunk",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVuaw&hash=980e1a65921b7998a348633be948f23af672a957&lang=en&cache-only=0",
@@ -395,14 +366,15 @@
       ]
     },
     {
+      "id": "d45eb226-a61f-4bbd-a7ac-fcf854b619f6",
       "word": "container",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29udGFpbmVy&hash=41f6f039091341cd32639dfe3815a7ffdbfb2d1d&lang=en&cache-only=0",
-      "phonetic_text": "kənteɪnər",
+      "phonetic_text": "kən.teɪ.nər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29udGFpbmVy&hash=41f6f039091341cd32639dfe3815a7ffdbfb2d1d&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnteinēr",
+      "phonetic_am_text": "kēn.tei.nēr",
       "img": "",
-      "pronunciation": "kənˈteɪnɝ",
+      "pronunciation": "kənˈteɪnɚ",
       "senses": [
         {
           "definition": "a large metal box that is used for transporting goods on ships, trains, etc.",
@@ -432,12 +404,13 @@
       ]
     },
     {
+      "id": "e73d623b-5317-4743-9acf-e0cab63e2f26",
       "word": "luggage rack",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bHVnZ2FnZSByYWNr&hash=6553b214ef6a7b456525d1894037dcbd2128669a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ləg.geɪʤ ræk",
       "phonetic_am": "https://tts.langeek.co/read?text=bHVnZ2FnZSByYWNr&hash=6553b214ef6a7b456525d1894037dcbd2128669a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lēg.geij rāk",
       "img": "",
       "pronunciation": "lˈʌɡɪdʒ ɹˈæk",
       "senses": [
@@ -469,12 +442,13 @@
       ]
     },
     {
+      "id": "4b453ad7-f013-4367-a7e2-e70a0507b5b3",
       "word": "observation car",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b2JzZXJ2YXRpb24gY2Fy&hash=cdc4d4868a893f6c79c8d243e9c8dcc3f9803784&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑb.zɜr.veɪ.ʃən kɑ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=b2JzZXJ2YXRpb24gY2Fy&hash=cdc4d4868a893f6c79c8d243e9c8dcc3f9803784&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aab.zēr.vei.shēn kaar",
       "img": "",
       "pronunciation": "ɑːbzɚvˈeɪʃən kˈɑːɹ",
       "senses": [
@@ -506,12 +480,13 @@
       ]
     },
     {
+      "id": "51776b9a-f42a-4687-a484-0d8607f5ff65",
       "word": "club car",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2x1YiBjYXI&hash=b634538f899da1e253f1df1fed8fba700ed2d0a1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "klʌb kɑ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2x1YiBjYXI&hash=b634538f899da1e253f1df1fed8fba700ed2d0a1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "klab kaar",
       "img": "",
       "pronunciation": "klˈʌb kˈɑːɹ",
       "senses": [
@@ -543,12 +518,13 @@
       ]
     },
     {
+      "id": "89ce46b8-01b5-4fb5-be1c-7d4ff2323045",
       "word": "dining car",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGluaW5nIGNhcg&hash=2a749fa48c48efd0395fea0dc72f016bfd62dec8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "daɪ.nɪng kɑ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGluaW5nIGNhcg&hash=2a749fa48c48efd0395fea0dc72f016bfd62dec8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dai.ning kaar",
       "img": "https://cdn.langeek.co/photo/37111/original/?type=jpeg",
       "pronunciation": "dˈaɪnɪŋ kˈɑːɹ",
       "senses": [
@@ -580,12 +556,13 @@
       ]
     },
     {
+      "id": "f6f06264-cd2c-48e0-aa7a-c88c6ffde3b6",
       "word": "buffet car",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVmZmV0IGNhcg&hash=6a48f79b987e466985027d6bbe53c551bbcc1927&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bə.fət kɑ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVmZmV0IGNhcg&hash=6a48f79b987e466985027d6bbe53c551bbcc1927&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bē.fēt kaar",
       "img": "https://cdn.langeek.co/photo/37111/original/?type=jpeg",
       "pronunciation": "bˈʌfɪt kˈɑːɹ",
       "senses": [
@@ -617,12 +594,13 @@
       ]
     },
     {
+      "id": "09cea4fd-0fe1-42fb-a87b-2e1578b1ede3",
       "word": "baggage car",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFnZ2FnZSBjYXI&hash=00c25cc9f1e0eaae8231ea1665cf99587f1076f1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæg.geɪʤ kɑ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFnZ2FnZSBjYXI&hash=00c25cc9f1e0eaae8231ea1665cf99587f1076f1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bāg.geij kaar",
       "img": "",
       "pronunciation": "bˈæɡɪdʒ kˈɑːɹ",
       "senses": [
@@ -654,10 +632,11 @@
       ]
     },
     {
+      "id": "212a91d5-e467-4b56-9093-2662505bf963",
       "word": "bilevel car",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmlsZXZlbCBjYXI&hash=c50b4d8afd380945acd9ca3f1bd0312c11c92383&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YmlsZXZlbCBjYXI&hash=c50b4d8afd380945acd9ca3f1bd0312c11c92383&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -665,28 +644,7 @@
       "senses": [
         {
           "definition": "a type of railcar designed with two levels of seating, typically used in commuter and regional train services",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Bilevel cars are preferred for their capacity to accommodate more passengers without increasing the length of the train."
-            },
-            {
-              "cf": "",
-              "x": "In some regions, bilevel cars are equipped with amenities such as restrooms and designated seating for passengers with disabilities."
-            },
-            {
-              "cf": "",
-              "x": "Commuters appreciate bilevel cars for their efficient boarding and disembarking processes during peak travel times."
-            },
-            {
-              "cf": "",
-              "x": "The design of bilevel cars varies across different rail systems, with adaptations made to suit specific operational and passenger needs."
-            },
-            {
-              "cf": "",
-              "x": "Bilevel cars often have wider doors and staircases to facilitate smooth passenger flow, especially during busy periods."
-            }
-          ]
+          "examples": []
         }
       ]
     }

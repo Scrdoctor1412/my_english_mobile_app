@@ -1,17 +1,19 @@
 {
+  "id": "f8708250-6b0b-48e6-8e2c-41fb868ba66e",
   "topic": "decision_suggestion_obligation",
   "title": "Rules and Requirements",
   "lesson": "lesson_17",
   "word_list": [
     {
+      "id": "f46d5805-af6c-46b7-ae7b-e00a3b536fb6",
       "word": "law",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGF3&hash=59dfb1a7c5762a5ef6715570a7b193c30cde7ac6&lang=en&cache-only=0",
-      "phonetic_text": "lɔ:",
+      "phonetic_text": "lɑ",
       "phonetic_am": "https://tts.langeek.co/read?text=bGF3&hash=59dfb1a7c5762a5ef6715570a7b193c30cde7ac6&lang=en&cache-only=0",
-      "phonetic_am_text": "laaw",
+      "phonetic_am_text": "laa",
       "img": "https://cdn.langeek.co/photo/26098/original/?type=jpeg",
-      "pronunciation": "ˈɫɑ/, /ˈɫɔ",
+      "pronunciation": "lɑ",
       "senses": [
         {
           "definition": "a country's rules that all of its citizens are required to obey",
@@ -22,7 +24,15 @@
             },
             {
               "cf": "",
+              "x": "The police officer explained the traffic laws to the new driver."
+            },
+            {
+              "cf": "",
               "x": "They studied constitutional law in law school."
+            },
+            {
+              "cf": "",
+              "x": "The company must comply with employment laws when hiring new employees."
             },
             {
               "cf": "",
@@ -33,12 +43,13 @@
       ]
     },
     {
-      "word": "lay down",
+      "id": "e0128d00-05e2-4373-a8b4-416d052a4417",
+      "word": "to lay down",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGF5IGRvd24&hash=728fbb6d8a4d228ae25b54003d950934ccd78a7e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "leɪ daʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGF5IGRvd24&hash=728fbb6d8a4d228ae25b54003d950934ccd78a7e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lei daoon",
       "img": "https://cdn.langeek.co/photo/32533/original/?type=jpeg",
       "pronunciation": "lˈeɪ dˈaʊn",
       "senses": [
@@ -62,12 +73,13 @@
       ]
     },
     {
+      "id": "3c70dc15-aded-446a-8ee1-0eb3a9dccba0",
       "word": "legit",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bGVnaXQ&hash=418d38baf5068aff7472ff468412d4556c347c12&lang=en&cache-only=0",
-      "phonetic_text": "lɛʤɪt",
+      "phonetic_text": "lɛ.ʤɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVnaXQ&hash=418d38baf5068aff7472ff468412d4556c347c12&lang=en&cache-only=0",
-      "phonetic_am_text": "lejit",
+      "phonetic_am_text": "le.jit",
       "img": "",
       "pronunciation": "ˈɫɛdʒɪt/, /ɫəˈdʒɪt",
       "senses": [
@@ -78,12 +90,13 @@
       ]
     },
     {
+      "id": "c3b0ac3d-f326-4ef7-b69f-795027304a19",
       "word": "leniency",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGVuaWVuY3k&hash=1b91b2c6d1894d66cf4aab6dda3d08858c456c4d&lang=en&cache-only=0",
-      "phonetic_text": "li:njənsi",
+      "phonetic_text": "lin.jən.si",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVuaWVuY3k&hash=1b91b2c6d1894d66cf4aab6dda3d08858c456c4d&lang=en&cache-only=0",
-      "phonetic_am_text": "leenyēnsi",
+      "phonetic_am_text": "lin.yēn.si",
       "img": "",
       "pronunciation": "ˈɫinjənsi",
       "senses": [
@@ -94,17 +107,18 @@
       ]
     },
     {
+      "id": "2ec458fd-6f5f-43db-ace7-d5c4a9598f6d",
       "word": "lenient",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bGVuaWVudA&hash=7b30fa9fe51c8c35441617ac24a9655cdb0fa010&lang=en&cache-only=0",
-      "phonetic_text": "li:niənt",
+      "phonetic_text": "li.niənt",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVuaWVudA&hash=7b30fa9fe51c8c35441617ac24a9655cdb0fa010&lang=en&cache-only=0",
-      "phonetic_am_text": "leeniēnt",
-      "img": "",
+      "phonetic_am_text": "li.niēnt",
+      "img": "https://cdn.langeek.co/photo/60464/original/?type=jpeg",
       "pronunciation": "ˈɫiniənt/, /ˈɫinjənt",
       "senses": [
         {
-          "definition": "(of a person)  tolerant, flexible, or relaxed in enforcing rules or standards, often forgiving and understanding toward others",
+          "definition": "(of a person) tolerant, flexible, or relaxed in enforcing rules or standards, often forgiving and understanding toward others",
           "examples": [
             {
               "cf": "",
@@ -131,12 +145,13 @@
       ]
     },
     {
+      "id": "f7544592-8890-419a-a016-ede7ea9c952c",
       "word": "leniently",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=bGVuaWVudGx5&hash=3d352572daea074487c369372cca6215392857ad&lang=en&cache-only=0",
-      "phonetic_text": "li:njəntli",
+      "phonetic_text": "lin.jənt.li",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVuaWVudGx5&hash=3d352572daea074487c369372cca6215392857ad&lang=en&cache-only=0",
-      "phonetic_am_text": "leenyēntli",
+      "phonetic_am_text": "lin.yēnt.li",
       "img": "",
       "pronunciation": "ˈɫinjəntɫi",
       "senses": [
@@ -168,10 +183,11 @@
       ]
     },
     {
-      "word": "[make] an exception",
+      "id": "ac669730-0e49-419b-afbd-aeef43f53f72",
+      "word": "to [make] an exception",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZSBhbiBleGNlcHRpb24&hash=aee5c26a4d5307d9b6aff7e99ace2d88b954cc5f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFrZSBhbiBleGNlcHRpb24&hash=aee5c26a4d5307d9b6aff7e99ace2d88b954cc5f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -205,51 +221,32 @@
       ]
     },
     {
+      "id": "074d1207-e1c3-4e26-a77a-9c8c4aa16f2d",
       "word": "must",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=bXVzdA&hash=8ecb7de338831b2b4199a5c636e91a4bc0489525&lang=en&cache-only=0",
       "phonetic_text": "mʌst",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVzdA&hash=8ecb7de338831b2b4199a5c636e91a4bc0489525&lang=en&cache-only=0",
       "phonetic_am_text": "mast",
-      "img": "https://cdn.langeek.co/photo/43622/original/?type=jpeg",
-      "pronunciation": "ˈməst",
+      "img": "https://cdn.langeek.co/photo/61256/original/?type=jpeg",
+      "pronunciation": "mʌst",
       "senses": [
         {
           "definition": "used to show that something is very important and needs to happen",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Students must submit their applications before the deadline."
-            },
-            {
-              "cf": "",
-              "x": "Employees must attend the mandatory training session next week."
-            },
-            {
-              "cf": "",
-              "x": "Drivers must obey traffic laws to ensure road safety."
-            },
-            {
-              "cf": "",
-              "x": "Guests must follow the established dress code for the formal event."
-            },
-            {
-              "cf": "",
-              "x": "Participants must complete the survey to provide valuable feedback."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "84cdd737-0288-44c9-b8dc-7eb1fae895a1",
       "word": "necessary",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bmVjZXNzYXJ5&hash=bb99703055e0d8fb43e7027d17ff47c183132669&lang=en&cache-only=0",
-      "phonetic_text": "nɛsəsɛri",
+      "phonetic_text": "nɛ.sə.sɛ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=bmVjZXNzYXJ5&hash=bb99703055e0d8fb43e7027d17ff47c183132669&lang=en&cache-only=0",
-      "phonetic_am_text": "nesēseri",
+      "phonetic_am_text": "ne.sē.se.ri",
       "img": "https://cdn.langeek.co/photo/45850/original/?type=jpeg",
-      "pronunciation": "ˈnɛsəˌsɛɹi",
+      "pronunciation": "ˈnɛsəˌsɛri",
       "senses": [
         {
           "definition": "unable to be changed or avoided",
@@ -279,12 +276,13 @@
       ]
     },
     {
+      "id": "f17d7f62-890c-4bfc-ad06-621050fa5cd6",
       "word": "necessity",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmVjZXNzaXR5&hash=1a9fd1f314af64618e1c8e6c0994e54014e301e4&lang=en&cache-only=0",
-      "phonetic_text": "nəsɛsəti",
+      "phonetic_text": "nə.sɛ.sə.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=bmVjZXNzaXR5&hash=1a9fd1f314af64618e1c8e6c0994e54014e301e4&lang=en&cache-only=0",
-      "phonetic_am_text": "nēsesēti",
+      "phonetic_am_text": "nē.se.sē.ti",
       "img": "",
       "pronunciation": "nəˈsɛsəti/, /nəˈsɛsɪti",
       "senses": [
@@ -316,12 +314,13 @@
       ]
     },
     {
+      "id": "4cbc8e6e-d8a1-448b-9f5a-52b431c1907c",
       "word": "need",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmVlZA&hash=b60ac631a082249747fd536922211850baafcce2&lang=en&cache-only=0",
       "phonetic_text": "ni:d",
       "phonetic_am": "https://tts.langeek.co/read?text=bmVlZA&hash=b60ac631a082249747fd536922211850baafcce2&lang=en&cache-only=0",
-      "phonetic_am_text": "need",
+      "phonetic_am_text": "nid",
       "img": "",
       "pronunciation": "niːd",
       "senses": [
@@ -353,12 +352,13 @@
       ]
     },
     {
+      "id": "5fd5214f-7564-4f1d-8493-036d4557fc51",
       "word": "non-compliance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bm9uLWNvbXBsaWFuY2U&hash=68faf2b5c9c6be38ba7e85bcb64db18b01dcb24e&lang=en&cache-only=0",
-      "phonetic_text": "nɑnkəmplaɪəns",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bm9uLWNvbXBsaWFuY2U&hash=68faf2b5c9c6be38ba7e85bcb64db18b01dcb24e&lang=en&cache-only=0",
-      "phonetic_am_text": "nɑnkēmplaiēns",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˌnɑnkəmˈpɫaɪəns",
       "senses": [
@@ -369,10 +369,11 @@
       ]
     },
     {
+      "id": "c43cbf39-fd67-49be-a8f4-6601959a5d16",
       "word": "non-compliant",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bm9uLWNvbXBsaWFudA&hash=1683e4eaa327b8356173db283ac265ddf7e49eec&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bm9uLWNvbXBsaWFudA&hash=1683e4eaa327b8356173db283ac265ddf7e49eec&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -394,10 +395,11 @@
       ]
     },
     {
+      "id": "6f90ab42-d761-4fca-8133-c6325767a44e",
       "word": "non-observance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bm9uLW9ic2VydmFuY2U&hash=4828ec4303a7d3833c7aa0b48e12def8f6f321bf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bm9uLW9ic2VydmFuY2U&hash=4828ec4303a7d3833c7aa0b48e12def8f6f321bf&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -410,12 +412,13 @@
       ]
     },
     {
+      "id": "2cdc0e6e-df15-45f4-b271-db5b786441c4",
       "word": "obligation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b2JsaWdhdGlvbg&hash=d52800cb3e50b52599be304321d7dc2e7757be33&lang=en&cache-only=0",
-      "phonetic_text": "ɑbləgeɪʃən",
+      "phonetic_text": "ɑb.lə.geɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=b2JsaWdhdGlvbg&hash=d52800cb3e50b52599be304321d7dc2e7757be33&lang=en&cache-only=0",
-      "phonetic_am_text": "ɑblēgeishēn",
+      "phonetic_am_text": "aab.lē.gei.shēn",
       "img": "",
       "pronunciation": "ˌɑbɫəˈɡeɪʃən",
       "senses": [
@@ -426,12 +429,13 @@
       ]
     },
     {
+      "id": "c93dd57b-f7f5-40fd-825c-d5bf5c91589b",
       "word": "obligatory",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=b2JsaWdhdG9yeQ&hash=bafb8f10dec61cd7a58ebd3de7170d2a7c71f8f0&lang=en&cache-only=0",
-      "phonetic_text": "əblɪgətɔri",
+      "phonetic_text": "əb.lɪ.gə.tɔ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=b2JsaWdhdG9yeQ&hash=bafb8f10dec61cd7a58ebd3de7170d2a7c71f8f0&lang=en&cache-only=0",
-      "phonetic_am_text": "ēbligētawri",
+      "phonetic_am_text": "ēb.li.gē.taw.ri",
       "img": "https://cdn.langeek.co/photo/45732/original/?type=jpeg",
       "pronunciation": "əˈbɫɪɡəˌtɔɹi",
       "senses": [
@@ -463,12 +467,13 @@
       ]
     },
     {
-      "word": "observe",
+      "id": "eb72c170-4f95-4581-ba00-c1f81844a397",
+      "word": "to observe",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gb2JzZXJ2ZQ&hash=277023850aceccf0eb43506f23b869d15fac760f&lang=en&cache-only=0",
-      "phonetic_text": "əbzɜrv",
+      "phonetic_text": "əb.zɜrv",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gb2JzZXJ2ZQ&hash=277023850aceccf0eb43506f23b869d15fac760f&lang=en&cache-only=0",
-      "phonetic_am_text": "ēbzērv",
+      "phonetic_am_text": "ēb.zērv",
       "img": "",
       "pronunciation": "əbˈzɝv",
       "senses": [
@@ -500,12 +505,13 @@
       ]
     },
     {
+      "id": "865ebf16-5492-4548-81d8-ae8fe3d380bb",
       "word": "on the understanding that",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gdGhlIHVuZGVyc3RhbmRpbmcgdGhhdA&hash=4d94b84d273d68123fd50a2a0debd12f6697c98a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n ðə ʌn.dərs.tæn.dɪng ðæt",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gdGhlIHVuZGVyc3RhbmRpbmcgdGhhdA&hash=4d94b84d273d68123fd50a2a0debd12f6697c98a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan dhē an.dērs.tān.ding dhāt",
       "img": "",
       "pronunciation": "ɑːnðɪ ˌʌndɚstˈændɪŋ ðˈæt",
       "senses": [
@@ -516,14 +522,15 @@
       ]
     },
     {
-      "word": "order",
+      "id": "3718eecd-bbf4-4d36-bdb8-706a5a92cea7",
+      "word": "to order",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gb3JkZXI&hash=5a65cdc475df8ca6b86449c09bd01d556754013a&lang=en&cache-only=0",
-      "phonetic_text": "ɔ:rdər",
+      "phonetic_text": "ɔ:r.dər",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gb3JkZXI&hash=5a65cdc475df8ca6b86449c09bd01d556754013a&lang=en&cache-only=0",
-      "phonetic_am_text": "aawrdēr",
+      "phonetic_am_text": "awr.dēr",
       "img": "https://cdn.langeek.co/photo/19514/original/command?type=jpeg",
-      "pronunciation": "ˈɔːrdɚ",
+      "pronunciation": "ˈɔrdɚ",
       "senses": [
         {
           "definition": "to give an instruction to someone to do something through one's authority",
@@ -553,12 +560,13 @@
       ]
     },
     {
+      "id": "944c5af1-8e81-4186-833f-3cde1d34c053",
       "word": "ordinance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3JkaW5hbmNl&hash=9971fee5765538c9606d8d87ce946641a430c538&lang=en&cache-only=0",
-      "phonetic_text": "ɔ:rdənəns",
+      "phonetic_text": "ɔr.də.nəns",
       "phonetic_am": "https://tts.langeek.co/read?text=b3JkaW5hbmNl&hash=9971fee5765538c9606d8d87ce946641a430c538&lang=en&cache-only=0",
-      "phonetic_am_text": "aawrdēnēns",
+      "phonetic_am_text": "awr.dē.nēns",
       "img": "",
       "pronunciation": "ˈɔɹdənəns",
       "senses": [
@@ -590,10 +598,11 @@
       ]
     },
     {
-      "word": "[play] by {one's} own rules",
+      "id": "df855f5c-ea23-4b2c-9cbd-7d5cb615f549",
+      "word": "to [play] by {one's} own rules",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGxheSBieSBvbmUncyBvd24gcnVsZXM&hash=f93ebe6afac69271dad1025761859e0c684a39ad&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGxheSBieSBvbmUncyBvd24gcnVsZXM&hash=f93ebe6afac69271dad1025761859e0c684a39ad&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -627,12 +636,13 @@
       ]
     },
     {
-      "word": "police",
+      "id": "413a7e4d-289b-4ae9-a333-941b2db92273",
+      "word": "to police",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcG9saWNl&hash=c942545d6bd67c4d8abab665e77ebebf26644855&lang=en&cache-only=0",
-      "phonetic_text": "pəli:s",
+      "phonetic_text": "pə.li:s",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcG9saWNl&hash=c942545d6bd67c4d8abab665e77ebebf26644855&lang=en&cache-only=0",
-      "phonetic_am_text": "pēlees",
+      "phonetic_am_text": "pē.lis",
       "img": "https://cdn.langeek.co/photo/18822/original/guard?type=jpeg",
       "pronunciation": "pəˈliːs",
       "senses": [
@@ -664,12 +674,13 @@
       ]
     },
     {
+      "id": "5bc466be-03e0-479e-8559-d4ecf803535a",
       "word": "policing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9saWNpbmc&hash=bd2dcd4b81bbffd89c2a48e9e7b0cec2801cf5d7&lang=en&cache-only=0",
-      "phonetic_text": "pəli:sɪng",
+      "phonetic_text": "pə.li.sɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9saWNpbmc&hash=bd2dcd4b81bbffd89c2a48e9e7b0cec2801cf5d7&lang=en&cache-only=0",
-      "phonetic_am_text": "pēleesing",
+      "phonetic_am_text": "pē.li.sing",
       "img": "",
       "pronunciation": "pəˈɫisɪŋ",
       "senses": [
@@ -680,12 +691,13 @@
       ]
     },
     {
+      "id": "734b1e15-6f83-402a-b156-b39dbd4915be",
       "word": "precondition",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJlY29uZGl0aW9u&hash=0d4d3679f6a67bcadf135cc6c64860379e39f091&lang=en&cache-only=0",
-      "phonetic_text": "prikəndɪʃən",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJlY29uZGl0aW9u&hash=0d4d3679f6a67bcadf135cc6c64860379e39f091&lang=en&cache-only=0",
-      "phonetic_am_text": "prikēndishēn",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˌpɹikənˈdɪʃən",
       "senses": [
@@ -696,12 +708,13 @@
       ]
     },
     {
+      "id": "a89d671b-9db9-4329-95ae-e3df1c1b17bb",
       "word": "prerequisite",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJlcmVxdWlzaXRl&hash=1f78f93074c7af8b5c072d61058e9885caa3e3d8&lang=en&cache-only=0",
-      "phonetic_text": "prirɛkwəzət",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJlcmVxdWlzaXRl&hash=1f78f93074c7af8b5c072d61058e9885caa3e3d8&lang=en&cache-only=0",
-      "phonetic_am_text": "prirekwēzēt",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "pɹiˈɹɛkwəzət",
       "senses": [
@@ -733,12 +746,13 @@
       ]
     },
     {
+      "id": "ab802919-8901-4299-8646-434d67ba3f5c",
       "word": "prerequisite",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cHJlcmVxdWlzaXRl&hash=1f78f93074c7af8b5c072d61058e9885caa3e3d8&lang=en&cache-only=0",
-      "phonetic_text": "prirɛkwəzət",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJlcmVxdWlzaXRl&hash=1f78f93074c7af8b5c072d61058e9885caa3e3d8&lang=en&cache-only=0",
-      "phonetic_am_text": "prirekwēzēt",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "pɹiˈɹɛkwəzət",
       "senses": [
@@ -749,14 +763,15 @@
       ]
     },
     {
-      "word": "provide",
+      "id": "98f7b0fd-63e4-4707-84b4-cbc31134991b",
+      "word": "to provide",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJvdmlkZQ&hash=b62bb8b0785739dac343e4a601c890decd162686&lang=en&cache-only=0",
-      "phonetic_text": "prəvaɪd",
+      "phonetic_text": "prə.vaɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJvdmlkZQ&hash=b62bb8b0785739dac343e4a601c890decd162686&lang=en&cache-only=0",
-      "phonetic_am_text": "prēvaid",
+      "phonetic_am_text": "prē.vaid",
       "img": "",
-      "pronunciation": "pɹəˈvaɪd",
+      "pronunciation": "prəˈvaɪd",
       "senses": [
         {
           "definition": "(of a law or a rule) to specify that it is obligatory for something to be done",
@@ -786,41 +801,30 @@
       ]
     },
     {
-      "word": "provided",
+      "id": "b5d567c1-1a60-4b6e-a74a-e37a35727149",
+      "word": "provided (that|)",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=cHJvdmlkZWQgdGhhdA&hash=aafa5b811d3e7136c964632f8d8312c4efb144e7&lang=en&cache-only=0",
-      "phonetic_text": "prəvaɪdɪd",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvdmlkZWQgdGhhdA&hash=aafa5b811d3e7136c964632f8d8312c4efb144e7&lang=en&cache-only=0",
-      "phonetic_am_text": "prēvaidid",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "pɹəvˈaɪdᵻd ðˈæt ɔːɹ",
       "senses": [
         {
           "definition": "used for stating conditions necessary for something to happen or be available",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The event will proceed outdoors, provided the weather cooperates."
-            },
-            {
-              "cf": "",
-              "x": "He was allowed to leave early, provided he finished his work by the end of the day."
-            },
-            {
-              "cf": "",
-              "x": "We will support the proposal, provided there are no major objections from the committee."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "providing",
+      "id": "3b1d62ab-dcef-4d6c-9639-41c9209629c9",
+      "word": "providing (that|)",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=cHJvdmlkaW5nIHRoYXQ&hash=dd298b97127d3b954ecce3e4d50bfd0c6db06c53&lang=en&cache-only=0",
-      "phonetic_text": "prəvaɪdɪng",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvdmlkaW5nIHRoYXQ&hash=dd298b97127d3b954ecce3e4d50bfd0c6db06c53&lang=en&cache-only=0",
-      "phonetic_am_text": "prēvaiding",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "pɹəvˈaɪdɪŋ ðˈæt ɔːɹ",
       "senses": [
@@ -852,12 +856,13 @@
       ]
     },
     {
+      "id": "8d436497-fd8f-4fa7-ba9e-b71bd4072214",
       "word": "proviso",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvdmlzbw&hash=92155b2b88124b50c4cb3a5fe46e332240a821b6&lang=en&cache-only=0",
-      "phonetic_text": "prəvaɪzoʊ",
+      "phonetic_text": "prə.vaɪ.zoʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvdmlzbw&hash=92155b2b88124b50c4cb3a5fe46e332240a821b6&lang=en&cache-only=0",
-      "phonetic_am_text": "prēvaizow",
+      "phonetic_am_text": "prē.vai.zooo",
       "img": "",
       "pronunciation": "pɹəˈvaɪzoʊ",
       "senses": [

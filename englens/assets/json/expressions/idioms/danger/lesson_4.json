@@ -1,13 +1,15 @@
 {
+  "id": "24dda004-06b3-45b3-8c52-81fdad1da575",
   "topic": "danger",
   "title": "Danger & Threat",
   "lesson": "lesson_4",
   "word_list": [
     {
-      "word": "[set|sound|ring] (the|) alarm bells",
+      "id": "e37af212-9770-4586-a212-6e91e6c770ba",
+      "word": "to [set|sound|ring] (the|) alarm bells",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2V0IHRoZSBhbGFybSBiZWxscw&hash=0e2c227bda977dbc5a3f8686acddc4037ac56db7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2V0IHRoZSBhbGFybSBiZWxscw&hash=0e2c227bda977dbc5a3f8686acddc4037ac56db7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -15,36 +17,16 @@
       "senses": [
         {
           "definition": "to cause fear or concern by showing a warning sign",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Her statement should have rung alarm bells but nobody took the precaution of checking the facts."
-            },
-            {
-              "cf": "",
-              "x": "The assassination set alarm bells ringing in Washington and European capitals."
-            },
-            {
-              "cf": "",
-              "x": "The claim that soldiers killed an outspoken young ethnic activist in self-defense sets the alarm bells ringing,"
-            },
-            {
-              "cf": "",
-              "x": "This should ring alarm bells in all European countries and the United States."
-            },
-            {
-              "cf": "",
-              "x": "This takeover bid is bound to sound alarm bells at other tech companies."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "93707910-0a22-4638-9212-dfaf449cb1bb",
       "word": "all hell [break] (loose|out)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YWxsIGhlbGwgYnJlYWsgbG9vc2U&hash=ee96e8612b1d42040a4bff14b3d29c56a11bca85&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxsIGhlbGwgYnJlYWsgbG9vc2U&hash=ee96e8612b1d42040a4bff14b3d29c56a11bca85&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -66,10 +48,11 @@
       ]
     },
     {
-      "word": "[bring] {sth} to a head",
+      "id": "7372cd8f-2dd4-4b5b-9945-b77ffbd44380",
+      "word": "to [bring] {sth} to a head",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJpbmcgc29tZXRoaW5nIHRvIGEgaGVhZA&hash=8d65d883cef95e462864a3fcc4fcda5a95d313fa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJpbmcgc29tZXRoaW5nIHRvIGEgaGVhZA&hash=8d65d883cef95e462864a3fcc4fcda5a95d313fa&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -77,32 +60,16 @@
       "senses": [
         {
           "definition": "to worsen a situation to a point that it requires immediate action",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After years of tension in the workplace, the CEO decided to bring the ongoing conflicts to a head by holding a company-wide meeting to address the issues."
-            },
-            {
-              "cf": "",
-              "x": "The couple's relationship had been deteriorating for some time, and their recent argument finally brought their problems to a head, leading to a breakup."
-            },
-            {
-              "cf": "",
-              "x": "The political unrest in the region reached a breaking point, and the government's actions further brought the situation to a head, resulting in widespread protests."
-            },
-            {
-              "cf": "",
-              "x": "The negotiations had stalled, but the impending deadline for the trade agreement forced both parties to bring the matter to a head and come to a resolution."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[come] to a head",
+      "id": "3936278c-64b8-464c-8403-85831852af81",
+      "word": "to [come] to a head",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29tZSB0byBhIGhlYWQ&hash=8ec082e23c4ff095cdf406723fe0c30195b8534a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29tZSB0byBhIGhlYWQ&hash=8ec082e23c4ff095cdf406723fe0c30195b8534a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -136,43 +103,28 @@
       ]
     },
     {
+      "id": "1121aa72-b7a3-457b-8842-f443c34b25ab",
       "word": "on the line",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gdGhlIGxpbmU&hash=566dfde829ab3b2ff78db9145b26f4f403377c33&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n ðə laɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gdGhlIGxpbmU&hash=566dfde829ab3b2ff78db9145b26f4f403377c33&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan dhē lain",
       "img": "",
       "pronunciation": "ɑːnðə lˈaɪn",
       "senses": [
         {
           "definition": "used when someone or something is subjected to a serious threat or danger",
-          "examples": [
-            {
-              "cf": "",
-              "x": "With the championship match tied, everything is on the line for the tennis player in the final set."
-            },
-            {
-              "cf": "",
-              "x": "The success of the project is on the line, and we need to make the right choices now."
-            },
-            {
-              "cf": "",
-              "x": "She put her reputation on the line by making that bold statement during the press conference."
-            },
-            {
-              "cf": "",
-              "x": "When you gamble, your money is on the line, and the outcome is uncertain."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "ec77841e-8a33-47e8-b255-6f90cb744788",
       "word": "on the rocks",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gdGhlIHJvY2tz&hash=7b64e74572c25bf62d4627b8d1f98d2059bc2dda&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gdGhlIHJvY2tz&hash=7b64e74572c25bf62d4627b8d1f98d2059bc2dda&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40929/original/?type=jpeg",
@@ -206,12 +158,13 @@
       ]
     },
     {
+      "id": "da345bc5-fbe5-4949-88da-af0d90c23df2",
       "word": "on the hook",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gdGhlIGhvb2s&hash=5c383b2c76aa314722469440b50a853d747d0932&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n ðə hʊk",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gdGhlIGhvb2s&hash=5c383b2c76aa314722469440b50a853d747d0932&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan dhē hook",
       "img": "",
       "pronunciation": "ɑːnðə hˈʊk",
       "senses": [
@@ -243,10 +196,11 @@
       ]
     },
     {
-      "word": "[sleep] with the fishes",
+      "id": "4f42f974-0334-479b-830c-26d90eebbd33",
+      "word": "to [sleep] with the fishes",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2xlZXAgd2l0aCB0aGUgZmlzaGVz&hash=dc6330b65cb0fa2979dd0ace153365f8fa37d0e7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2xlZXAgd2l0aCB0aGUgZmlzaGVz&hash=dc6330b65cb0fa2979dd0ace153365f8fa37d0e7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -280,10 +234,11 @@
       ]
     },
     {
-      "word": "[burn] {sth} to a (crisp|cinder)",
+      "id": "937c93be-c4eb-46a0-8aaa-1be4d6488166",
+      "word": "to [burn] {sth} to a (crisp|cinder)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnVybiBzb21ldGhpbmcgdG8gYSBjcmlzcA&hash=302f3e2d2552d3717a97038c1835328c13166de0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnVybiBzb21ldGhpbmcgdG8gYSBjcmlzcA&hash=302f3e2d2552d3717a97038c1835328c13166de0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -301,39 +256,28 @@
       ]
     },
     {
+      "id": "3c875832-90cc-4c45-8dcd-17af5ca08736",
       "word": "or else",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b3IgZWxzZQ&hash=7f115bf0379be10911de10917fc319862cfe5f7f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɔ:r ɛls",
       "phonetic_am": "https://tts.langeek.co/read?text=b3IgZWxzZQ&hash=7f115bf0379be10911de10917fc319862cfe5f7f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "awr els",
       "img": "",
       "pronunciation": "ɔːɹ ˈɛls",
       "senses": [
         {
           "definition": "used to threaten someone or seriously warn them",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Hand over the money, or else!"
-            },
-            {
-              "cf": "",
-              "x": "Confess to what you did, or else!"
-            },
-            {
-              "cf": "",
-              "x": "Tell me the truth, or else!"
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "2597dc93-b92a-4fc3-b03c-531cc905a11b",
       "word": "in {one's} crosshairs",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aW4gb25lJ3MgY3Jvc3NoYWlycw&hash=7fc85af590e8a74cb90667cb8aeba74f92b805d6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gb25lJ3MgY3Jvc3NoYWlycw&hash=7fc85af590e8a74cb90667cb8aeba74f92b805d6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

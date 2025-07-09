@@ -1,15 +1,17 @@
 {
+  "id": "7eb7d4e3-52e5-4292-bafa-82536c1bcdc0",
   "topic": "hobbies_games",
   "title": "Types of Trick-Taking Games",
   "lesson": "lesson_2",
   "word_list": [
     {
+      "id": "55c7bf75-6cc5-4d39-9a25-cf3709cf3761",
       "word": "piquet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGlxdWV0&hash=e00ff883cb18677503dc2536593b9909f16de3c7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɪ.keɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=cGlxdWV0&hash=e00ff883cb18677503dc2536593b9909f16de3c7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pi.kei",
       "img": "",
       "pronunciation": "pˈɪkeɪ",
       "senses": [
@@ -20,47 +22,28 @@
       ]
     },
     {
+      "id": "5bc85c54-bd12-41c6-ad62-098d4ae5a8c1",
       "word": "Briscola",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QnJpc2NvbGE&hash=ede2075c979e93094e23b5c74d02dc223b0650dd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QnJpc2NvbGE&hash=ede2075c979e93094e23b5c74d02dc223b0650dd&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
       "pronunciation": "bɹɪskˈoʊlə",
       "senses": [
         {
-          "definition": "a traditional Italian trick-taking card game played with a standard deck of cards, where players aim to win specific tricks and earn points by capturing high-value cards, with the trump suit changing in each round based on the card revealed at the beginning of the game",
-          "examples": [
-            {
-              "cf": "",
-              "x": "We played Briscola all afternoon and had so much fun."
-            },
-            {
-              "cf": "",
-              "x": "I learned how to play Briscola from my grandparents when I was young."
-            },
-            {
-              "cf": "",
-              "x": "The game of Briscola is often played in teams, which makes it more competitive."
-            },
-            {
-              "cf": "",
-              "x": "To win at Briscola, you need to carefully choose when to use your trump cards."
-            },
-            {
-              "cf": "",
-              "x": "He scored the most points in Briscola, mainly because of his strategic use of the trump suit."
-            }
-          ]
+          "definition": "a traditional Italian trick-taking card game where players win tricks and capture high-value cards, with a changing trump suit",
+          "examples": []
         }
       ]
     },
     {
+      "id": "9f3d88fc-05fb-4ee7-a523-8b868c42bb68",
       "word": "Five Hundred",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Rml2ZSBIdW5kcmVk&hash=a0efcafc0da1b7a217ad5494ac56f295f3fabda1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Rml2ZSBIdW5kcmVk&hash=a0efcafc0da1b7a217ad5494ac56f295f3fabda1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -86,6 +69,7 @@
       ]
     },
     {
+      "id": "9da47398-167b-4a6e-a00b-89ac2ebe70fb",
       "word": "bridge",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJpZGdl&hash=aa3a1de665607f96791a2091b80ffdef472aa568&lang=en&cache-only=0",
@@ -93,7 +77,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=YnJpZGdl&hash=aa3a1de665607f96791a2091b80ffdef472aa568&lang=en&cache-only=0",
       "phonetic_am_text": "brij",
       "img": "",
-      "pronunciation": "ˈbɹɪdʒ",
+      "pronunciation": "brɪʤ",
       "senses": [
         {
           "definition": "a card game consisting of four players playing in two pairs who must guess how many cards they will win, they score points if their guess is right or else they lose points",
@@ -102,28 +86,51 @@
       ]
     },
     {
-      "word": "euchre",
+      "id": "c08fbc73-6fec-4476-80ac-69966d7bda67",
+      "word": "Euchre",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RXVjaHJl&hash=fec482a39221b078c5cca68fda3c2fd7d305eab0&lang=en&cache-only=0",
-      "phonetic_text": "ju:kər",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RXVjaHJl&hash=fec482a39221b078c5cca68fda3c2fd7d305eab0&lang=en&cache-only=0",
-      "phonetic_am_text": "yookēr",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˈjukɝ",
       "senses": [
         {
           "definition": "a trick-taking card game that is typically played by four players in two partnerships with a deck of 24 or 32 cards, depending on the variation of the game",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "We decided to play Euchre after dinner to pass the time."
+            },
+            {
+              "cf": "",
+              "x": "My grandparents love to play Euchre every Sunday afternoon."
+            },
+            {
+              "cf": "",
+              "x": "Euchre is a popular card game in the Midwest, especially in Michigan."
+            },
+            {
+              "cf": "",
+              "x": "They played Euchre all night long during their family reunion."
+            },
+            {
+              "cf": "",
+              "x": "I learned how to play Euchre from my uncle when I was a kid."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "fc21fd10-a18b-49c7-8071-86a8c4d856e9",
       "word": "bezique",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmV6aXF1ZQ&hash=1a5be0f497917b740fb16f5b27e29dab9a3100e4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɛ.zi:k",
       "phonetic_am": "https://tts.langeek.co/read?text=YmV6aXF1ZQ&hash=1a5be0f497917b740fb16f5b27e29dab9a3100e4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "be.zik",
       "img": "",
       "pronunciation": "bɛzˈiːk",
       "senses": [
@@ -134,12 +141,13 @@
       ]
     },
     {
+      "id": "15d63113-907b-4609-93bc-0e6488433ad2",
       "word": "ecarte",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWNhcnRl&hash=58a40b9c6056ed77b446759cab2e6f41727ed665&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛ.kɑ:rt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWNhcnRl&hash=58a40b9c6056ed77b446759cab2e6f41727ed665&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "e.kaart",
       "img": "",
       "pronunciation": "ˈɛkɑːɹt",
       "senses": [
@@ -150,10 +158,11 @@
       ]
     },
     {
+      "id": "d0e30b20-dcff-4509-b880-66775428865d",
       "word": "Hearts",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=SGVhcnRz&hash=1a574d66111019b5efea80637b0fac00855a524f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=SGVhcnRz&hash=1a574d66111019b5efea80637b0fac00855a524f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -183,10 +192,11 @@
       ]
     },
     {
+      "id": "675b1812-c65d-4240-a097-b222cf2451b5",
       "word": "Jass",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=SmFzcw&hash=93ea99c627e353be4e9cd6b9f4dddfcb5de18b66&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=SmFzcw&hash=93ea99c627e353be4e9cd6b9f4dddfcb5de18b66&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -220,10 +230,11 @@
       ]
     },
     {
+      "id": "11fa5f1d-617c-4e28-853c-f1c8c0ead081",
       "word": "Truc",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VHJ1Yw&hash=6844ba642e33e208953e020be4957beb95796758&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=VHJ1Yw&hash=6844ba642e33e208953e020be4957beb95796758&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -231,36 +242,16 @@
       "senses": [
         {
           "definition": "a trick-taking card game played in France where players bid on the number of tricks they will win and aim to fulfill their bids while avoiding specific cards that deduct points",
-          "examples": [
-            {
-              "cf": "",
-              "x": "They spent the afternoon learning how to play Truc and quickly became competitive."
-            },
-            {
-              "cf": "",
-              "x": "The team with the highest number of points after several rounds of Truc wins."
-            },
-            {
-              "cf": "",
-              "x": "She was able to win the last trick in Truc with a well-timed play of the trump card."
-            },
-            {
-              "cf": "",
-              "x": "They enjoy playing Truc during family gatherings, as it brings everyone together."
-            },
-            {
-              "cf": "",
-              "x": "To succeed in Truc, you need both strategy and good communication with your teammate."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "93b2eea6-b3a0-48f7-96e5-de2e3a340441",
       "word": "Ninety-nine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=TmluZXR5LW5pbmU&hash=ca1bbb394bdd5e3f4eff3b4d3d25b7f82af96ba0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=TmluZXR5LW5pbmU&hash=ca1bbb394bdd5e3f4eff3b4d3d25b7f82af96ba0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -290,10 +281,11 @@
       ]
     },
     {
+      "id": "a569e64e-c1a9-407a-80ea-d7167b0d2bf4",
       "word": "Oh Hell",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=T2ggSGVsbA&hash=63f6424eed865c871689bc733ad7af90abe3d5b0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=T2ggSGVsbA&hash=63f6424eed865c871689bc733ad7af90abe3d5b0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -315,12 +307,13 @@
       ]
     },
     {
+      "id": "1d66a871-5f96-4b43-9dc9-b0f5b19ea284",
       "word": "pinochle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGlub2NobGU&hash=276db246c5aba1f3c9b483bf549ef22df32747cf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɪ.nɑ:.ʧəl",
       "phonetic_am": "https://tts.langeek.co/read?text=cGlub2NobGU&hash=276db246c5aba1f3c9b483bf549ef22df32747cf&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pi.naa.chēl",
       "img": "",
       "pronunciation": "pˈɪnɑːtʃəl",
       "senses": [
@@ -331,10 +324,11 @@
       ]
     },
     {
+      "id": "bc6920aa-7f8a-441e-9e97-6e5ed8738bff",
       "word": "Pitch",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=UGl0Y2g&hash=4e4c39ad4ff1a41e820072396199cba890a83ef1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=UGl0Y2g&hash=4e4c39ad4ff1a41e820072396199cba890a83ef1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -342,28 +336,16 @@
       "senses": [
         {
           "definition": "a trick-taking card game played with a standard deck of cards, where players bid on the number of tricks they will win and aim to achieve their bids by capturing high-value cards and specific combinations of cards during each round",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Let's play a round of Pitch after dinner."
-            },
-            {
-              "cf": "",
-              "x": "In Pitch, the goal is to score as many points as possible by winning tricks."
-            },
-            {
-              "cf": "",
-              "x": "After the first few rounds, they realized their strategy wasn't working in Pitch."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "1910e44e-6d39-4adf-a49b-61b13859931a",
       "word": "Skat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=U2thdA&hash=3dede9baa7e9100bdcacd10063a8ba7f81a99acc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=U2thdA&hash=3dede9baa7e9100bdcacd10063a8ba7f81a99acc&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -393,10 +375,11 @@
       ]
     },
     {
+      "id": "97c4b462-9289-4cf2-a4bd-39522585f92b",
       "word": "Schnapsen",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=U2NobmFwc2Vu&hash=dcdd5f95907b3f05e45be0d50f0672096da43508&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=U2NobmFwc2Vu&hash=dcdd5f95907b3f05e45be0d50f0672096da43508&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -426,6 +409,7 @@
       ]
     },
     {
+      "id": "a5950ec4-318d-4d3c-80ac-df8169b34709",
       "word": "spades",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BhZGVz&hash=57d738d4d340fb37c2f92278064bd8a9d47ef34b&lang=en&cache-only=0",
@@ -463,12 +447,13 @@
       ]
     },
     {
+      "id": "4962b66d-0aab-4cee-ba1b-0129571e38ce",
       "word": "whist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2hpc3Q&hash=a3a45bef938be9e3a9dd53cb3120ba7e11ae7b87&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hpc3Q&hash=a3a45bef938be9e3a9dd53cb3120ba7e11ae7b87&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vist",
       "img": "",
       "pronunciation": "wˈɪst",
       "senses": [
@@ -500,10 +485,11 @@
       ]
     },
     {
+      "id": "d67013a3-972d-4553-a696-c4418de6f195",
       "word": "Tarocchini",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VGFyb2NjaGluaQ&hash=f6447cff0d1f592694cf6fcf0bfa00c139775167&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=VGFyb2NjaGluaQ&hash=f6447cff0d1f592694cf6fcf0bfa00c139775167&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -511,34 +497,18 @@
       "senses": [
         {
           "definition": "an Italian trick-taking card game played with a specialized deck of 62 or 63 cards, where players bid on the number of tricks they will win and aim to capture high-value cards, especially the Tarocchi cards, to earn points and win the game",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Tarocchini is a card game that requires a tarot deck, making it unique compared to other trick-taking games."
-            },
-            {
-              "cf": "",
-              "x": "A well-timed use of a trump card can turn the tide in a Tarocchini match."
-            },
-            {
-              "cf": "",
-              "x": "Players in Tarocchini carefully choose when to play their highest cards to win important tricks."
-            },
-            {
-              "cf": "",
-              "x": "The rich history of Tarocchini makes it a fascinating game for both players and historians alike."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "deb22ade-fbc1-4b53-afc8-8829135ce9f9",
       "word": "bid whist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmlkIHdoaXN0&hash=d1d0b3a1f3168d2f3fc1de6f68dc0437cef371df&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɪd wɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=YmlkIHdoaXN0&hash=d1d0b3a1f3168d2f3fc1de6f68dc0437cef371df&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bid vist",
       "img": "",
       "pronunciation": "bˈɪd wˈɪst",
       "senses": [
@@ -570,12 +540,13 @@
       ]
     },
     {
-      "word": "rook",
+      "id": "ef116747-c999-4dbc-9bea-790fced19402",
+      "word": "Rook",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Um9vaw&hash=444ff75e3b7b5786468fa172ed4662bf91a4cfe7&lang=en&cache-only=0",
       "phonetic_text": "rʊk",
       "phonetic_am": "https://tts.langeek.co/read?text=Um9vaw&hash=444ff75e3b7b5786468fa172ed4662bf91a4cfe7&lang=en&cache-only=0",
-      "phonetic_am_text": "ruk",
+      "phonetic_am_text": "rook",
       "img": "",
       "pronunciation": "ˈɹʊk",
       "senses": [
@@ -586,12 +557,13 @@
       ]
     },
     {
-      "word": "barbu",
+      "id": "a82f7d31-a4b1-40f8-87f9-4350856f2b03",
+      "word": "Barbu",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QmFyYnU&hash=ef670945dab56849629337b11eaf7e1a7573ec97&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɑ:r.bu:",
       "phonetic_am": "https://tts.langeek.co/read?text=QmFyYnU&hash=ef670945dab56849629337b11eaf7e1a7573ec97&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baar.boo",
       "img": "",
       "pronunciation": "bˈɑːɹbuː",
       "senses": [
@@ -602,10 +574,11 @@
       ]
     },
     {
+      "id": "3d73d9da-9cfe-4e31-b673-1104dbfb7aaf",
       "word": "All Fours",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QWxsIEZvdXJz&hash=3bdf5cf96f254ed4ac4ad29f126f4f9d566f57e9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QWxsIEZvdXJz&hash=3bdf5cf96f254ed4ac4ad29f126f4f9d566f57e9&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -623,10 +596,11 @@
       ]
     },
     {
+      "id": "d1ab5d4e-1a54-4fa1-be38-bfdf95e817af",
       "word": "German whist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=R2VybWFuIHdoaXN0&hash=bd647a4d29f5e5916f25207b500e69a6fc65ae57&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=R2VybWFuIHdoaXN0&hash=bd647a4d29f5e5916f25207b500e69a6fc65ae57&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -639,14 +613,15 @@
       ]
     },
     {
-      "word": "president",
+      "id": "61020461-6048-4d3e-804c-3c59d2107217",
+      "word": "President",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=UHJlc2lkZW50&hash=8b01d720e888bd2fce05c65b10a97b73421ef2f5&lang=en&cache-only=0",
-      "phonetic_text": "prɛzədɛnt",
+      "phonetic_text": "prɛ.zɪ.dənt",
       "phonetic_am": "https://tts.langeek.co/read?text=UHJlc2lkZW50&hash=8b01d720e888bd2fce05c65b10a97b73421ef2f5&lang=en&cache-only=0",
-      "phonetic_am_text": "prezēdent",
+      "phonetic_am_text": "pre.zi.dēnt",
       "img": "",
-      "pronunciation": "ˈpɹɛzəˌdɛnt/, /ˈpɹɛzɪdənt",
+      "pronunciation": "ˈprɛzɪdənt",
       "senses": [
         {
           "definition": "a shedding-type card game where players aim to get rid of their cards to become the President or avoid becoming the Scum in the next round",
@@ -655,12 +630,13 @@
       ]
     },
     {
+      "id": "098010dd-ebb9-41d7-9787-4d84cc141c13",
       "word": "ombre",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b21icmU&hash=45d16e490716e48fe918fe43bb45252ab6661c09&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:m.bər",
       "phonetic_am": "https://tts.langeek.co/read?text=b21icmU&hash=45d16e490716e48fe918fe43bb45252ab6661c09&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aam.bēr",
       "img": "",
       "pronunciation": "ˈɑːmbɚ",
       "senses": [
@@ -688,12 +664,13 @@
       ]
     },
     {
+      "id": "023e4fb3-49e6-4107-b4a4-7f366d528f3a",
       "word": "knock out whist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a25vY2sgb3V0IHdoaXN0&hash=78b498b1ebf340baae90e04e0e1aad660fdf9831&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nɑk aʊt wɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=a25vY2sgb3V0IHdoaXN0&hash=78b498b1ebf340baae90e04e0e1aad660fdf9831&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "naak aoot vist",
       "img": "",
       "pronunciation": "nˈɑːk ˈaʊt wˈɪst",
       "senses": [
@@ -725,10 +702,11 @@
       ]
     },
     {
+      "id": "25ea56d8-d9fa-4620-9169-0ae462c7c734",
       "word": "Black Lady",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QmxhY2sgTGFkeQ&hash=00b03dc36d7ac5529c2dc4962280b60b5f035cbe&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QmxhY2sgTGFkeQ&hash=00b03dc36d7ac5529c2dc4962280b60b5f035cbe&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -762,12 +740,13 @@
       ]
     },
     {
+      "id": "db9b6bcc-f33f-4013-a7ec-b47b548687dc",
       "word": "court piece",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291cnQgcGllY2U&hash=ca5588ee7a414674a7f67b94e1ca55f093223311&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɔrt pis",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291cnQgcGllY2U&hash=ca5588ee7a414674a7f67b94e1ca55f093223311&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kawrt pis",
       "img": "",
       "pronunciation": "kˈoːɹt pˈiːs",
       "senses": [
@@ -795,14 +774,15 @@
       ]
     },
     {
+      "id": "99f10f88-c9da-48ab-9179-03c4fd4b0659",
       "word": "pasur",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFzdXI&hash=a6fcfcd44fc121314a80596fecefe10e2540efec&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɑ.sər",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFzdXI&hash=a6fcfcd44fc121314a80596fecefe10e2540efec&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "paa.sēr",
       "img": "",
-      "pronunciation": "pˈæsɜː",
+      "pronunciation": "ˈpɑsɚ",
       "senses": [
         {
           "definition": "a popular trick-taking card game in South Asia, involves bidding, trump selection, and special rules for scoring and is typically played with a deck of 32 or 52 cards by four players in two teams of two",
@@ -832,12 +812,13 @@
       ]
     },
     {
+      "id": "dbcf32a2-e767-4abc-b610-e1bb0bb21959",
       "word": "shelem",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2hlbGVt&hash=9d4d4a6089252b69b9e6cdc8cfeb0b72d11fb972&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʃɛ.ləm",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hlbGVt&hash=9d4d4a6089252b69b9e6cdc8cfeb0b72d11fb972&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "she.lēm",
       "img": "",
       "pronunciation": "ʃˈɛləm",
       "senses": [
@@ -865,10 +846,11 @@
       ]
     },
     {
+      "id": "96a16185-9cfd-48d7-a700-348c1d6c9236",
       "word": "Elfern",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RWxmZXJu&hash=6ed4639ade5d62cc9dd304f22362561796c44a92&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RWxmZXJu&hash=6ed4639ade5d62cc9dd304f22362561796c44a92&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -898,10 +880,11 @@
       ]
     },
     {
+      "id": "f462a543-43ba-4872-9dea-dd170f2a1001",
       "word": "Schafkopf",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=U2NoYWZrb3Bm&hash=a83bf0e5230945ffa1ce7defe7257a1ca0b5a9fe&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=U2NoYWZrb3Bm&hash=a83bf0e5230945ffa1ce7defe7257a1ca0b5a9fe&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -935,12 +918,13 @@
       ]
     },
     {
-      "word": "mus",
+      "id": "cf51b841-7f22-4d0c-a062-a27a4c6f1fd2",
+      "word": "Mus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=TXVz&hash=0db3ff20dcde05e823aeb21aa46051ef1ae4e8eb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mʌs",
       "phonetic_am": "https://tts.langeek.co/read?text=TXVz&hash=0db3ff20dcde05e823aeb21aa46051ef1ae4e8eb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mas",
       "img": "",
       "pronunciation": "mˈʌs",
       "senses": [
@@ -951,10 +935,11 @@
       ]
     },
     {
+      "id": "5a646e3f-b698-4e45-94c2-03039e8753f3",
       "word": "Toepen",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VG9lcGVu&hash=e99d7bd70351ae6dc06c54bee5f8b2bbd45f8011&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=VG9lcGVu&hash=e99d7bd70351ae6dc06c54bee5f8b2bbd45f8011&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -984,12 +969,13 @@
       ]
     },
     {
-      "word": "quodlibet",
+      "id": "502ace75-12fb-44b7-bc00-713a60e7c741",
+      "word": "Quodlibet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=UXVvZGxpYmV0&hash=7e1997b582a842d65bda4c970fc712a7c5a51c8b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kwɑ:d.lɪ.bɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=UXVvZGxpYmV0&hash=7e1997b582a842d65bda4c970fc712a7c5a51c8b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kvaad.li.bit",
       "img": "",
       "pronunciation": "kwˈɑːdlɪbɪt",
       "senses": [
@@ -1000,10 +986,11 @@
       ]
     },
     {
+      "id": "f4bc33be-3a7d-420c-afd8-831a75acc0dd",
       "word": "Sixty-Six",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=U2l4dHktU2l4&hash=f6a7d6fe29e14b99853db22d6429e5b9272dfcd0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=U2l4dHktU2l4&hash=f6a7d6fe29e14b99853db22d6429e5b9272dfcd0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -1025,10 +1012,11 @@
       ]
     },
     {
+      "id": "61368c8f-8738-4acf-8d4a-4b9fae240024",
       "word": "Klaberjass",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=S2xhYmVyamFzcw&hash=97229bbc3d870dd7010839e0bddb27e7c3644977&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=S2xhYmVyamFzcw&hash=97229bbc3d870dd7010839e0bddb27e7c3644977&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -1062,10 +1050,11 @@
       ]
     },
     {
-      "word": "bete",
+      "id": "0bbab786-e4fe-48f4-ac7a-23cc66b98c42",
+      "word": "Bete",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QmV0ZQ&hash=d30c28975cdc124dd5b51a26330629b2284e03b8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QmV0ZQ&hash=d30c28975cdc124dd5b51a26330629b2284e03b8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -1078,12 +1067,13 @@
       ]
     },
     {
+      "id": "98bf753b-14c0-4ebd-b788-55f3fec79790",
       "word": "six-bid solo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2l4LWJpZCBzb2xv&hash=0e49890dfb3a751ecce113add7b6b0a56ee69fd3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɪks-bɪd soʊ.loʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=c2l4LWJpZCBzb2xv&hash=0e49890dfb3a751ecce113add7b6b0a56ee69fd3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "siks-bid sooo.looo",
       "img": "",
       "pronunciation": "sˈɪksbˈɪd sˈoʊloʊ",
       "senses": [
@@ -1115,12 +1105,13 @@
       ]
     },
     {
+      "id": "dc177290-f362-44ea-be07-f0da17bf1259",
       "word": "duplicate bridge",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHVwbGljYXRlIGJyaWRnZQ&hash=bcc9aea8238e9583aa1aad7947a492a737a31445&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dup.lə.keɪt brɪʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHVwbGljYXRlIGJyaWRnZQ&hash=bcc9aea8238e9583aa1aad7947a492a737a31445&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "doop.lē.keit brij",
       "img": "",
       "pronunciation": "dˈuːplᵻkˌeɪt bɹˈɪdʒ",
       "senses": [
@@ -1152,10 +1143,11 @@
       ]
     },
     {
-      "word": "preferans",
+      "id": "be645ae4-fe55-4a57-af2a-6a800f4c8843",
+      "word": "Preferans",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=UHJlZmVyYW5z&hash=7de2488218e011b247e0dc859a495a3de9ad3647&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=UHJlZmVyYW5z&hash=7de2488218e011b247e0dc859a495a3de9ad3647&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -1168,10 +1160,11 @@
       ]
     },
     {
+      "id": "1adebcfb-32a2-4835-9ce0-f21957c2de4a",
       "word": "Karnoffel",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=S2Fybm9mZmVs&hash=082e1337430b54b1203a024224cb3297abfd6fe3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=S2Fybm9mZmVs&hash=082e1337430b54b1203a024224cb3297abfd6fe3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -1184,12 +1177,13 @@
       ]
     },
     {
+      "id": "095722f9-4265-4c8a-b067-a7716bd7fabd",
       "word": "tarot",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFyb3Q&hash=b4aadecddca2afde0e2752a0a3f04b83fd38e649&lang=en&cache-only=0",
-      "phonetic_text": "tæroʊ",
+      "phonetic_text": "tæ.roʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFyb3Q&hash=b4aadecddca2afde0e2752a0a3f04b83fd38e649&lang=en&cache-only=0",
-      "phonetic_am_text": "tārow",
+      "phonetic_am_text": "tā.rooo",
       "img": "",
       "pronunciation": "ˌtæˈɹoʊ",
       "senses": [
@@ -1200,10 +1194,11 @@
       ]
     },
     {
+      "id": "9e0463a3-0c6b-4a02-a7f0-1ba815dc963b",
       "word": "French tarot",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RnJlbmNoIHRhcm90&hash=5e7467150ee15878fa4e9202a7210df17168d3ba&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RnJlbmNoIHRhcm90&hash=5e7467150ee15878fa4e9202a7210df17168d3ba&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

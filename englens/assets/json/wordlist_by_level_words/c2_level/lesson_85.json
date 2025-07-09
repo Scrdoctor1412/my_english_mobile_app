@@ -1,15 +1,17 @@
 {
+  "id": "39da15a7-b498-4a28-a931-26edf14eb7d1",
   "topic": "c2_level",
   "title": "Mathematics",
   "lesson": "lesson_85",
   "word_list": [
     {
+      "id": "e088413d-8ea8-4ef8-b1e3-b5113218675a",
       "word": "algorithm",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWxnb3JpdGht&hash=35aceb6d5333a13c322bd523cbe893bd9f445fc5&lang=en&cache-only=0",
-      "phonetic_text": "ælgərɪðəm",
+      "phonetic_text": "æl.gɜ.rɪ.ðəm",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxnb3JpdGht&hash=35aceb6d5333a13c322bd523cbe893bd9f445fc5&lang=en&cache-only=0",
-      "phonetic_am_text": "ālgēridhēm",
+      "phonetic_am_text": "āl.gē.ri.dhēm",
       "img": "",
       "pronunciation": "ˈæɫɡɝˌɪðəm",
       "senses": [
@@ -33,12 +35,13 @@
       ]
     },
     {
+      "id": "2e11304e-ff9d-4fe2-ac13-60c8d8d17af4",
       "word": "variance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmFyaWFuY2U&hash=f29b6287b6ad107a401908c34dc66a1913e82bf9&lang=en&cache-only=0",
-      "phonetic_text": "vɛriəns",
+      "phonetic_text": "vɛ.riəns",
       "phonetic_am": "https://tts.langeek.co/read?text=dmFyaWFuY2U&hash=f29b6287b6ad107a401908c34dc66a1913e82bf9&lang=en&cache-only=0",
-      "phonetic_am_text": "veriēns",
+      "phonetic_am_text": "ve.riēns",
       "img": "",
       "pronunciation": "ˈvɛɹiəns",
       "senses": [
@@ -66,45 +69,30 @@
       ]
     },
     {
+      "id": "3051f0e7-96b3-4739-a958-b6fa6f5f9b9f",
       "word": "derivative",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVyaXZhdGl2ZQ&hash=4cd07357bbd80384d088e9900a3c9056dd6b54b2&lang=en&cache-only=0",
-      "phonetic_text": "dərɪvətɪv",
+      "phonetic_text": "dɜ.rɪ.və.tɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVyaXZhdGl2ZQ&hash=4cd07357bbd80384d088e9900a3c9056dd6b54b2&lang=en&cache-only=0",
-      "phonetic_am_text": "dērivētiv",
+      "phonetic_am_text": "dē.ri.vē.tiv",
       "img": "",
       "pronunciation": "dɝˈɪvətɪv/, /dɝˈɪvɪtɪv",
       "senses": [
         {
           "definition": "the rate at which a function changes with respect to its independent variable",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Calculating the derivative of a position function yields the velocity function, describing the rate of change of position with respect to time."
-            },
-            {
-              "cf": "",
-              "x": "The derivative of a revenue function provides the marginal revenue, indicating the additional revenue gained from selling one more unit."
-            },
-            {
-              "cf": "",
-              "x": "Finding the derivative of a distance function results in the instantaneous speed function, representing the speed of an object at a specific moment."
-            },
-            {
-              "cf": "",
-              "x": "In economics, the elasticity of a demand function is determined by finding the derivative with respect to price."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "0dbebce9-9aed-4913-8bd1-81d515361858",
       "word": "integral",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW50ZWdyYWw&hash=ed4c1ae53eea9127f2faccc8321d19f24665303f&lang=en&cache-only=0",
-      "phonetic_text": "ɪntəgrəl",
+      "phonetic_text": "ɪn.əg.rəl",
       "phonetic_am": "https://tts.langeek.co/read?text=aW50ZWdyYWw&hash=ed4c1ae53eea9127f2faccc8321d19f24665303f&lang=en&cache-only=0",
-      "phonetic_am_text": "intēgrēl",
+      "phonetic_am_text": "in.ēg.rēl",
       "img": "",
       "pronunciation": "ˈɪnəɡɹəɫ/, /ˈɪntəɡɹəɫ",
       "senses": [
@@ -120,14 +108,15 @@
       ]
     },
     {
+      "id": "2358ae97-d571-4f34-8d6c-27586ce4da74",
       "word": "limit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGltaXQ&hash=8e89ea926ba63589a92ba975e9de2aacb9193f43&lang=en&cache-only=0",
-      "phonetic_text": "lɪmət",
+      "phonetic_text": "lɪ.mət",
       "phonetic_am": "https://tts.langeek.co/read?text=bGltaXQ&hash=8e89ea926ba63589a92ba975e9de2aacb9193f43&lang=en&cache-only=0",
-      "phonetic_am_text": "limēt",
+      "phonetic_am_text": "li.mēt",
       "img": "",
-      "pronunciation": "ˈɫɪmət",
+      "pronunciation": "ˈlɪmɪt",
       "senses": [
         {
           "definition": "the value that a function or sequence approaches as its input or index gets close to a particular value",
@@ -157,12 +146,13 @@
       ]
     },
     {
+      "id": "a6005508-72e6-4a0d-bdf0-5b073261ba2d",
       "word": "catastrophe theory",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2F0YXN0cm9waGUgdGhlb3J5&hash=6e77ed35e162e9a0b329ccf3f3e77ae9185503f1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kə.tæst.rə.fi θiɜ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2F0YXN0cm9waGUgdGhlb3J5&hash=6e77ed35e162e9a0b329ccf3f3e77ae9185503f1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kē.tāst.rē.fi thiē.ri",
       "img": "",
       "pronunciation": "kɐtˈæstɹəfi θˈiəɹi",
       "senses": [
@@ -194,12 +184,13 @@
       ]
     },
     {
+      "id": "6e59537e-0619-49ff-a0a3-667a294ce8bc",
       "word": "differential",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlmZmVyZW50aWFs&hash=8e47bb35292a9fae6d6e69b47b2092a8c4f04b82&lang=en&cache-only=0",
-      "phonetic_text": "dɪfərɛnʃəl",
+      "phonetic_text": "dɪ.fɜ.rɛn.ʃəl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlmZmVyZW50aWFs&hash=8e47bb35292a9fae6d6e69b47b2092a8c4f04b82&lang=en&cache-only=0",
-      "phonetic_am_text": "difērenshēl",
+      "phonetic_am_text": "di.fē.ren.shēl",
       "img": "",
       "pronunciation": "ˌdɪfɝˈɛnʃəɫ",
       "senses": [
@@ -215,39 +206,24 @@
       ]
     },
     {
+      "id": "f72fed38-42f6-426e-9241-27e942a5e67c",
       "word": "logarithm",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9nYXJpdGht&hash=b4a7a1ab26d48ac73471ae5320639ce9640b8c07&lang=en&cache-only=0",
-      "phonetic_text": "lɑ:gərɪðəm",
+      "phonetic_text": "lɑ.gɜ.rɪ.ðəm",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9nYXJpdGht&hash=b4a7a1ab26d48ac73471ae5320639ce9640b8c07&lang=en&cache-only=0",
-      "phonetic_am_text": "laagēridhēm",
+      "phonetic_am_text": "laa.gē.ri.dhēm",
       "img": "",
       "pronunciation": "ˈɫɑɡɝˌɪðəm",
       "senses": [
         {
           "definition": "a mathematical function that represents the exponent to which a fixed number, called the base, must be raised to produce a given number",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She used the logarithm to solve complex exponential equations in her mathematics class."
-            },
-            {
-              "cf": "",
-              "x": "Engineers often apply logarithms in signal processing for efficient data representation."
-            },
-            {
-              "cf": "",
-              "x": "Calculating the logarithm is an essential step in determining the pH level in chemistry."
-            },
-            {
-              "cf": "",
-              "x": "Astronomers apply logarithms to express stellar magnitudes and measure the brightness of celestial objects."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "98ea585f-3dde-443f-ab0f-27f259820ed2",
       "word": "prime",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJpbWU&hash=6f4962c74000482f6505b0d6cde431b6526cffd3&lang=en&cache-only=0",
@@ -281,12 +257,13 @@
       ]
     },
     {
+      "id": "c3e1fbb7-b1ff-43b9-9c77-8b1aea89cc17",
       "word": "vector",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmVjdG9y&hash=ccd110dddfb02d4358ef507e64e26eb62234f5ca&lang=en&cache-only=0",
-      "phonetic_text": "vɛktər",
+      "phonetic_text": "vɛk.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dmVjdG9y&hash=ccd110dddfb02d4358ef507e64e26eb62234f5ca&lang=en&cache-only=0",
-      "phonetic_am_text": "vektēr",
+      "phonetic_am_text": "vek.tēr",
       "img": "",
       "pronunciation": "ˈvɛktɝ",
       "senses": [
@@ -318,12 +295,13 @@
       ]
     },
     {
+      "id": "87f7ddf5-2d3a-4bb6-a2f2-103712af3f82",
       "word": "theorem",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhlb3JlbQ&hash=b6b89e38f126e67ff23aeaa2bd2b03e3c153b2fd&lang=en&cache-only=0",
-      "phonetic_text": "θɪrəm",
+      "phonetic_text": "θɪ.rəm",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlb3JlbQ&hash=b6b89e38f126e67ff23aeaa2bd2b03e3c153b2fd&lang=en&cache-only=0",
-      "phonetic_am_text": "thirēm",
+      "phonetic_am_text": "thi.rēm",
       "img": "",
       "pronunciation": "ˈθɪɹəm",
       "senses": [
@@ -355,12 +333,13 @@
       ]
     },
     {
+      "id": "3322b2b3-3329-4b29-b7d2-d23029d57a29",
       "word": "permutation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVybXV0YXRpb24&hash=0c2a2f826bef1e2d56ef8a792a43759fe285fc97&lang=en&cache-only=0",
-      "phonetic_text": "pɜrmjuteɪʃən",
+      "phonetic_text": "pɜr.mju.teɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVybXV0YXRpb24&hash=0c2a2f826bef1e2d56ef8a792a43759fe285fc97&lang=en&cache-only=0",
-      "phonetic_am_text": "pērmyuteishēn",
+      "phonetic_am_text": "pēr.myoo.tei.shēn",
       "img": "",
       "pronunciation": "ˌpɝmjuˈteɪʃən",
       "senses": [
@@ -392,12 +371,13 @@
       ]
     },
     {
+      "id": "43a89d9b-f424-41f3-a8b0-96653f0627ca",
       "word": "eigenvalue",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWlnZW52YWx1ZQ&hash=673246c9525d30d637f96a3b2a52c6e43638013a&lang=en&cache-only=0",
-      "phonetic_text": "aɪgənvælju",
+      "phonetic_text": "aɪ.gən.væ.lju",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWlnZW52YWx1ZQ&hash=673246c9525d30d637f96a3b2a52c6e43638013a&lang=en&cache-only=0",
-      "phonetic_am_text": "aigēnvālyu",
+      "phonetic_am_text": "ai.gēn.vā.lyoo",
       "img": "",
       "pronunciation": "ˈaɪɡənˌvæɫju",
       "senses": [
@@ -425,49 +405,30 @@
       ]
     },
     {
+      "id": "1848253d-0ef5-4533-bb8a-71603d36bd5f",
       "word": "set theory",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2V0IHRoZW9yeQ&hash=c475ba051d5d0fa27d2a86780a0d4019f48bf177&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛt θiɜ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=c2V0IHRoZW9yeQ&hash=c475ba051d5d0fa27d2a86780a0d4019f48bf177&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "set thiē.ri",
       "img": "",
       "pronunciation": "sˈɛt θˈiəɹi",
       "senses": [
         {
           "definition": "a branch of mathematics that deals with the study of sets, which are collections of distinct objects, and their properties, relationships, and operations",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Set theory helps define relationships between different groups of numbers."
-            },
-            {
-              "cf": "",
-              "x": "In set theory, a set is a collection of distinct elements."
-            },
-            {
-              "cf": "",
-              "x": "Mathematicians use set theory to study the properties and operations of sets."
-            },
-            {
-              "cf": "",
-              "x": "The empty set, denoted by {}, is a fundamental concept in set theory."
-            },
-            {
-              "cf": "",
-              "x": "Set theory forms the basis for defining functions and relations."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "f8c5ceda-bd65-42f9-98a6-7ac54ace5954",
       "word": "polynomial",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9seW5vbWlhbA&hash=93ae869588c5112a004219c4e253704442c0bab6&lang=en&cache-only=0",
-      "phonetic_text": "pɑlinoʊmiəl",
+      "phonetic_text": "pɑ.li.noʊ.miəl",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9seW5vbWlhbA&hash=93ae869588c5112a004219c4e253704442c0bab6&lang=en&cache-only=0",
-      "phonetic_am_text": "pɑlinowmiēl",
+      "phonetic_am_text": "paa.li.nooo.miēl",
       "img": "",
       "pronunciation": "ˌpɑˌɫiˈnoʊmiəɫ",
       "senses": [
@@ -495,12 +456,13 @@
       ]
     },
     {
+      "id": "853b65c0-82ff-4d49-a5dc-36aae81ccc9b",
       "word": "integration",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW50ZWdyYXRpb24&hash=1a7de320083504983d5d1955ac3daebd675be885&lang=en&cache-only=0",
-      "phonetic_text": "ɪntəgreɪʃən",
+      "phonetic_text": "ɪn.əg.reɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=aW50ZWdyYXRpb24&hash=1a7de320083504983d5d1955ac3daebd675be885&lang=en&cache-only=0",
-      "phonetic_am_text": "intēgreishēn",
+      "phonetic_am_text": "in.ēg.rei.shēn",
       "img": "",
       "pronunciation": "ˌɪnəˈɡɹeɪʃən/, /ˌɪntəˈɡɹeɪʃən",
       "senses": [
@@ -532,12 +494,13 @@
       ]
     },
     {
+      "id": "4ed2a45d-7e23-4118-9506-fe02dd9e8f5e",
       "word": "matrix multiplication",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWF0cml4IG11bHRpcGxpY2F0aW9u&hash=73d58661f6ecd7a3b660397b2ef2dad7350255e1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "meɪt.rɪks məl.təp.lə.keɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=bWF0cml4IG11bHRpcGxpY2F0aW9u&hash=73d58661f6ecd7a3b660397b2ef2dad7350255e1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "meit.riks mēl.tēp.lē.kei.shēn",
       "img": "",
       "pronunciation": "mˈeɪtɹɪks mˌʌltɪplɪkˈeɪʃən",
       "senses": [
@@ -569,12 +532,13 @@
       ]
     },
     {
+      "id": "52a15c62-13fe-4d53-9c4c-8116a98f2584",
       "word": "quadratic equation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cXVhZHJhdGljIGVxdWF0aW9u&hash=6795c119fbf003c6270859f090ae81d6170ed874&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kwɑd.rɑ.tɪk ɪkwn",
       "phonetic_am": "https://tts.langeek.co/read?text=cXVhZHJhdGljIGVxdWF0aW9u&hash=6795c119fbf003c6270859f090ae81d6170ed874&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kvaad.raa.tik ikvn",
       "img": "",
       "pronunciation": "kwɑːdɹˈæɾɪk ɪkwˈeɪʒən",
       "senses": [

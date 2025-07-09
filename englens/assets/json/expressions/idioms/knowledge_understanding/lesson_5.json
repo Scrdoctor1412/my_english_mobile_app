@@ -1,13 +1,15 @@
 {
+  "id": "d1a93ded-a3e4-4295-b7ad-28cb6099525a",
   "topic": "knowledge_understanding",
   "title": "Understanding",
   "lesson": "lesson_5",
   "word_list": [
     {
-      "word": "[know] a hawk from a handsaw",
+      "id": "aeb29cc6-3290-4a34-a70f-18198eaca217",
+      "word": "to [know] a hawk from a handsaw",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga25vdyBhIGhhd2sgZnJvbSBhIGhhbmRzYXc&hash=babbef2c5aa5a5e552ca5a71d498f1df34443fd3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga25vdyBhIGhhd2sgZnJvbSBhIGhhbmRzYXc&hash=babbef2c5aa5a5e552ca5a71d498f1df34443fd3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44844/original/?type=jpeg",
@@ -33,47 +35,28 @@
       ]
     },
     {
+      "id": "f8bd62e4-5214-4ded-8923-499949e4d66a",
       "word": "open book",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3BlbiBib29r&hash=cbefcb422389a1bdd36a61daf34b55d314d21089&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "oʊ.pən bʊk",
       "phonetic_am": "https://tts.langeek.co/read?text=b3BlbiBib29r&hash=cbefcb422389a1bdd36a61daf34b55d314d21089&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ooo.pēn book",
       "img": "https://cdn.langeek.co/photo/44846/original/?type=jpeg",
       "pronunciation": "ˈoʊpən bˈʊk",
       "senses": [
         {
           "definition": "a person or a thing that is easy to understand or predict",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I appreciate how she's always straightforward and honest; she's like an open book."
-            },
-            {
-              "cf": "",
-              "x": "His emotions are like an open book; you can tell how he feels just by looking at his face."
-            },
-            {
-              "cf": "",
-              "x": "The company's financial records are an open book, available for anyone to review."
-            },
-            {
-              "cf": "",
-              "x": "Unlike some politicians, she is like an open book; you always know where she stands on the issues."
-            },
-            {
-              "cf": "",
-              "x": "I like working with him because he communicates clearly and is an open book about his goals and plans."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[read] {sb} like a book",
+      "id": "40340990-130f-458e-bb3c-bb01a2715a44",
+      "word": "to [read] {sb} like a book",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVhZCBzb21lYm9keSBsaWtlIGEgYm9vaw&hash=28391af4cc20696bb118066f515d87d7f53c0d27&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVhZCBzb21lYm9keSBsaWtlIGEgYm9vaw&hash=28391af4cc20696bb118066f515d87d7f53c0d27&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44850/original/?type=jpeg",
@@ -99,10 +82,11 @@
       ]
     },
     {
-      "word": "[get] to the (heart|bottom) of {sth}",
+      "id": "9fb54b1b-c5d3-4e9a-99d4-f8857bf023c5",
+      "word": "to [get] to the (heart|bottom) of {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IHRvIHRoZSBoZWFydCBvZiBzb21ldGhpbmc&hash=8cb25ed7902258d69fc89a569c46ce83b492b31a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IHRvIHRoZSBoZWFydCBvZiBzb21ldGhpbmc&hash=8cb25ed7902258d69fc89a569c46ce83b492b31a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44842/original/?type=jpeg",
@@ -110,36 +94,16 @@
       "senses": [
         {
           "definition": "to discover or determine the underlying cause of something, particularly an issue",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Our investigative team is determined to get to the heart of the corruption scandal and expose the key players involved."
-            },
-            {
-              "cf": "",
-              "x": "She spent hours analyzing the data to get to the bottom of the issue and identify the root cause of the problem."
-            },
-            {
-              "cf": "",
-              "x": "The therapist helped him explore his childhood traumas to get to the heart of his anxiety and understand its origin."
-            },
-            {
-              "cf": "",
-              "x": "The journalist conducted in-depth interviews to get to the bottom of the story and reveal the truth behind the controversial event."
-            },
-            {
-              "cf": "",
-              "x": "By studying historical documents and conducting extensive research, the historian aimed to get to the heart of the mystery surrounding the ancient artifact."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[read] between the lines",
+      "id": "a1db86fe-fd1a-4ab1-af8e-37583adaba3f",
+      "word": "to [read] between the lines",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVhZCBiZXR3ZWVuIHRoZSBsaW5lcw&hash=3c57acef8857dcb163ae20417d39194d1894758a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVhZCBiZXR3ZWVuIHRoZSBsaW5lcw&hash=3c57acef8857dcb163ae20417d39194d1894758a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43202/original/?type=jpeg",
@@ -173,12 +137,13 @@
       ]
     },
     {
+      "id": "d0017fc2-ef79-45f7-b22b-36a1665e8ec2",
       "word": "head trip",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGVhZCB0cmlw&hash=208f3b4e53ab1c62e263d1db3e93ecf83343e12a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɛd trɪp",
       "phonetic_am": "https://tts.langeek.co/read?text=aGVhZCB0cmlw&hash=208f3b4e53ab1c62e263d1db3e93ecf83343e12a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hed trip",
       "img": "https://cdn.langeek.co/photo/43996/original/?type=jpeg",
       "pronunciation": "hˈɛd tɹˈɪp",
       "senses": [
@@ -210,10 +175,11 @@
       ]
     },
     {
-      "word": "[drum] {sth} into {one's} [head]",
+      "id": "4493c89a-54cb-485a-bccf-e339f611f9ed",
+      "word": "to [drum] {sth} into {one's} [head]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJ1bSBzb21ldGhpbmcgaW50byBvbmUncyBoZWFk&hash=07f6cd6aa312fa3dcad6d52e6e3fb1b0c823f8f2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZHJ1bSBzb21ldGhpbmcgaW50byBvbmUncyBoZWFk&hash=07f6cd6aa312fa3dcad6d52e6e3fb1b0c823f8f2&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44776/original/?type=jpeg",
@@ -226,12 +192,13 @@
       ]
     },
     {
+      "id": "72fe5437-e87a-4359-a197-7494462a6115",
       "word": "quick off the mark",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=cXVpY2sgb2ZmIHRoZSBtYXJr&hash=8881b71227fd288261c831dca4fb98f92feb165f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kwɪk ɑf ðə mɑrk",
       "phonetic_am": "https://tts.langeek.co/read?text=cXVpY2sgb2ZmIHRoZSBtYXJr&hash=8881b71227fd288261c831dca4fb98f92feb165f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kvik aaf dhē maark",
       "img": "https://cdn.langeek.co/photo/42304/original/?type=jpeg",
       "pronunciation": "kwˈɪk ˈɔf ðə mˈɑːɹk",
       "senses": [
@@ -259,22 +226,19 @@
       ]
     },
     {
+      "id": "304571d8-a4de-4804-a283-2f9a4b448b29",
       "word": "in words of one syllable",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aW4gd29yZHMgb2Ygb25lIHN5bGxhYmxl&hash=e83ea8ddb052a3bb976a09940524c2b31c9cb0f7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn wɜrdz ʌv n sɪ.lə.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gd29yZHMgb2Ygb25lIHN5bGxhYmxl&hash=e83ea8ddb052a3bb976a09940524c2b31c9cb0f7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in vērdz av n si.lē.bēl",
       "img": "https://cdn.langeek.co/photo/44876/original/?type=jpeg",
       "pronunciation": "ɪn wˈɜːdz ʌv wˈʌn sˈɪləbəl",
       "senses": [
         {
           "definition": "in a tone or manner that can be understood by many",
           "examples": [
-            {
-              "cf": "",
-              "x": "Can you explain how the engine works in words of one syllable?"
-            },
             {
               "cf": "",
               "x": "I need you to break down the financial report in words of one syllable so I can understand it."
@@ -292,10 +256,11 @@
       ]
     },
     {
+      "id": "608445c4-6f5d-446c-a0cb-2dda3be5bea3",
       "word": "the scales [fall] from {one's} eyes",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIHNjYWxlcyBmYWxsIGZyb20gb25lJ3MgZXllcw&hash=b2578e2b32f1bc8dbb638e25111821f7314917e7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIHNjYWxlcyBmYWxsIGZyb20gb25lJ3MgZXllcw&hash=b2578e2b32f1bc8dbb638e25111821f7314917e7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44770/original/?type=jpeg",
@@ -303,30 +268,18 @@
       "senses": [
         {
           "definition": "to suddenly realize the truth about a situation",
-          "examples": [
-            {
-              "cf": "",
-              "x": "It wasn't until I traveled and saw different cultures that the scales fell from my eyes, and I realized how diverse and beautiful the world is."
-            },
-            {
-              "cf": "",
-              "x": "Her research and discussions with experts helped the scales fall from her eyes, and she grasped the significance of climate change."
-            },
-            {
-              "cf": "",
-              "x": "Sometimes, it takes a shocking event to make the scales fall from our eyes and see the reality of a situation."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "2fcf4159-e19d-4ea9-b5ab-b0c3bdfaa628",
       "word": "light bulb moment",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bGlnaHQgYnVsYiBtb21lbnQ&hash=3c8962eaab3b3b7fe9aeca2bd861d951e55e4d05&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "laɪt bəlb moʊ.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlnaHQgYnVsYiBtb21lbnQ&hash=3c8962eaab3b3b7fe9aeca2bd861d951e55e4d05&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lait bēlb mooo.mēnt",
       "img": "https://cdn.langeek.co/photo/23641/original/?type=jpeg",
       "pronunciation": "lˈaɪt bˈʌlb mˈoʊmənt",
       "senses": [
@@ -358,10 +311,11 @@
       ]
     },
     {
-      "word": "[shed] light on {sth}",
+      "id": "bf2518dc-3379-4af0-92ca-477bf086c390",
+      "word": "to [shed] light on {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2hlZCBsaWdodCBvbiBzb21ldGhpbmc&hash=a35f4aae8cd514f770c11d4d7e2a11dbd71e84c8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2hlZCBsaWdodCBvbiBzb21ldGhpbmc&hash=a35f4aae8cd514f770c11d4d7e2a11dbd71e84c8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

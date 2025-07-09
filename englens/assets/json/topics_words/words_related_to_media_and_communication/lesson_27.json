@@ -1,17 +1,19 @@
 {
+  "id": "adab9269-1c18-42cb-84bc-04dd3691743e",
   "topic": "words_related_to_media_and_communication",
   "title": "Media and Communication Descriptors",
   "lesson": "lesson_27",
   "word_list": [
     {
+      "id": "b2028f30-d6ab-4cea-9486-3b86393ab08c",
       "word": "broadband",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YnJvYWRiYW5k&hash=1971990c4e0caed920f6a3274c4ac0755f56b4ad&lang=en&cache-only=0",
-      "phonetic_text": "brɔ:dbænd",
+      "phonetic_text": "brɔd.bænd",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJvYWRiYW5k&hash=1971990c4e0caed920f6a3274c4ac0755f56b4ad&lang=en&cache-only=0",
-      "phonetic_am_text": "braawdbānd",
+      "phonetic_am_text": "brawd.bānd",
       "img": "https://cdn.langeek.co/photo/29370/original/?type=jpeg",
-      "pronunciation": "ˈbɹɔdˌbænd",
+      "pronunciation": "ˈbrɑdˌbænd",
       "senses": [
         {
           "definition": "relating to or of a high-speed Internet connection that allows simultaneous exchange of different forms of data through dividing the frequency range into multiple channels",
@@ -20,55 +22,32 @@
       ]
     },
     {
+      "id": "3225ef43-e270-4ce8-912f-92ba0b638d02",
       "word": "live",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bGl2ZQ&hash=406867a04825bf06b5e64b1a275e214872c8b293&lang=en&cache-only=0",
-      "phonetic_text": "laɪv",
+      "phonetic_text": "lɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=bGl2ZQ&hash=406867a04825bf06b5e64b1a275e214872c8b293&lang=en&cache-only=0",
-      "phonetic_am_text": "laiv",
+      "phonetic_am_text": "liv",
       "img": "https://cdn.langeek.co/photo/28365/original/?type=jpeg",
       "pronunciation": "lʌɪv",
       "senses": [
         {
           "definition": "(of TV or radio broadcasts) aired at the exact moment the events are taking place, without any earlier recording or editing",
-          "examples": [
-            {
-              "cf": "",
-              "x": "We watched the live broadcast of the soccer match on TV."
-            },
-            {
-              "cf": "",
-              "x": "The live feed from the International Space Station showed a breathtaking view of Earth."
-            },
-            {
-              "cf": "",
-              "x": "The weather reporter gave a live update as the storm approached the coast."
-            },
-            {
-              "cf": "",
-              "x": "They aired a live interview with the famous actor on the morning show."
-            },
-            {
-              "cf": "",
-              "x": "The reporters gave live updates from the scene of the accident."
-            },
-            {
-              "cf": "",
-              "x": "The news channel provided live coverage of the presidential debate."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "99248b97-9603-473f-8ef5-0ba4086f3f85",
       "word": "offline",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=b2ZmbGluZQ&hash=e0db5243a5c13a1786118028af10f7fcf1200071&lang=en&cache-only=0",
-      "phonetic_text": "ɔ:flaɪn",
+      "phonetic_text": "ɑf.laɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=b2ZmbGluZQ&hash=e0db5243a5c13a1786118028af10f7fcf1200071&lang=en&cache-only=0",
-      "phonetic_am_text": "aawflain",
+      "phonetic_am_text": "aaf.lain",
       "img": "https://cdn.langeek.co/photo/19494/original/offline?type=jpeg",
-      "pronunciation": "ˈɔˌfɫaɪn",
+      "pronunciation": "ˈɑfˌlaɪn",
       "senses": [
         {
           "definition": "not connected to the Internet",
@@ -77,12 +56,13 @@
       ]
     },
     {
+      "id": "d2e6aa8e-3e16-4c49-bf85-4be8ba76fb9b",
       "word": "online",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=b25saW5l&hash=dc8a1e891adcf50c16215d83c860203369c9f4a1&lang=en&cache-only=0",
-      "phonetic_text": "ɔ:nlaɪn",
+      "phonetic_text": "ɑ:n.laɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=b25saW5l&hash=dc8a1e891adcf50c16215d83c860203369c9f4a1&lang=en&cache-only=0",
-      "phonetic_am_text": "aawnlain",
+      "phonetic_am_text": "aan.lain",
       "img": "https://cdn.langeek.co/photo/15789/original/online?type=jpeg",
       "pronunciation": "ˌɑːnˈlaɪn",
       "senses": [
@@ -106,12 +86,13 @@
       ]
     },
     {
+      "id": "494d1c02-295e-46cf-af2a-19cc58a84cf4",
       "word": "fixed-line",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Zml4ZWQtbGluZQ&hash=c613e120ab8f0124d8634b457016dbf03a100244&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɪkst-laɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=Zml4ZWQtbGluZQ&hash=c613e120ab8f0124d8634b457016dbf03a100244&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fikst-lain",
       "img": "",
       "pronunciation": "fˈɪkstlˈaɪn",
       "senses": [
@@ -122,12 +103,13 @@
       ]
     },
     {
+      "id": "4a941654-aa61-408b-979b-5ff99a79e6ab",
       "word": "on-air",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=b24tYWly&hash=119dc1cff6f6e36332903e4410ed254a8a868a12&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n-ɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=b24tYWly&hash=119dc1cff6f6e36332903e4410ed254a8a868a12&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan-er",
       "img": "",
       "pronunciation": "ˌɑːnˈɛɹ",
       "senses": [
@@ -138,12 +120,13 @@
       ]
     },
     {
+      "id": "32fab164-acd5-40ff-ad80-dc3b528702bc",
       "word": "on camera",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=b24gY2FtZXJh&hash=de7d630c7b34df008798e9a2833708d954628be2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n kæm.rə",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gY2FtZXJh&hash=de7d630c7b34df008798e9a2833708d954628be2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan kām.rē",
       "img": "",
       "pronunciation": "ˌɑːn kˈæmɹə",
       "senses": [
@@ -154,12 +137,13 @@
       ]
     },
     {
+      "id": "3bb192f3-8834-4b93-bcaf-26f8f5aaba9d",
       "word": "multichannel",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bXVsdGljaGFubmVs&hash=a979138aada5f4045e899ef70efb0cef3475d351&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mʌl.tɪ.ʧæ.nəl",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVsdGljaGFubmVs&hash=a979138aada5f4045e899ef70efb0cef3475d351&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mal.ti.chā.nēl",
       "img": "",
       "pronunciation": "mˌʌltɪtʃˈænəl",
       "senses": [
@@ -170,12 +154,13 @@
       ]
     },
     {
+      "id": "57361342-83d7-40be-bd6e-98143b1b039e",
       "word": "terrestrial",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dGVycmVzdHJpYWw&hash=97254281e116ae55f59287d2d130218243e53e94&lang=en&cache-only=0",
-      "phonetic_text": "tərɛstriəl",
+      "phonetic_text": "tɜ.rɛst.riəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVycmVzdHJpYWw&hash=97254281e116ae55f59287d2d130218243e53e94&lang=en&cache-only=0",
-      "phonetic_am_text": "tērestriēl",
+      "phonetic_am_text": "tē.rest.riēl",
       "img": "",
       "pronunciation": "tɝˈɛstɹiəɫ",
       "senses": [
@@ -186,12 +171,13 @@
       ]
     },
     {
+      "id": "4999fd07-70e4-48af-a7bd-b0269a2e36ea",
       "word": "editorial",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZWRpdG9yaWFs&hash=861aa9e3f665acc05f601614323ec549797075bc&lang=en&cache-only=0",
-      "phonetic_text": "ɛdətɔ:riəl",
+      "phonetic_text": "ɛ.də.tɔ.riəl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWRpdG9yaWFs&hash=861aa9e3f665acc05f601614323ec549797075bc&lang=en&cache-only=0",
-      "phonetic_am_text": "edētaawriēl",
+      "phonetic_am_text": "e.dē.taw.riēl",
       "img": "",
       "pronunciation": "ˌɛdəˈtɔɹiəɫ",
       "senses": [
@@ -202,12 +188,13 @@
       ]
     },
     {
+      "id": "e7c7103f-6355-41db-8f71-7c362e11dd40",
       "word": "newsworthy",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bmV3c3dvcnRoeQ&hash=b52690a49d51c472bb51617b9616c3291d3c2a81&lang=en&cache-only=0",
-      "phonetic_text": "nu:zwɜrði",
+      "phonetic_text": "nu:z.wɜr.ði",
       "phonetic_am": "https://tts.langeek.co/read?text=bmV3c3dvcnRoeQ&hash=b52690a49d51c472bb51617b9616c3291d3c2a81&lang=en&cache-only=0",
-      "phonetic_am_text": "noozwērdhi",
+      "phonetic_am_text": "nooz.vēr.dhi",
       "img": "",
       "pronunciation": "ˈnuzˌwɝði",
       "senses": [
@@ -218,12 +205,13 @@
       ]
     },
     {
+      "id": "0bb9e43f-2747-4a24-ae4f-23aa4967311e",
       "word": "above-the-fold",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YWJvdmUtdGhlLWZvbGQ&hash=75934c555a353c8c2b8481ab5e830c4f2637bf4c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ə.bʌv-ðə-foʊld",
       "phonetic_am": "https://tts.langeek.co/read?text=YWJvdmUtdGhlLWZvbGQ&hash=75934c555a353c8c2b8481ab5e830c4f2637bf4c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ē.bav-dhē-fooold",
       "img": "",
       "pronunciation": "əbˌʌvðəfˈoʊld",
       "senses": [
@@ -234,12 +222,13 @@
       ]
     },
     {
+      "id": "4447f936-51af-427e-8125-3718b6b81a29",
       "word": "below-the-fold",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YmVsb3ctdGhlLWZvbGQ&hash=e68c83b447b607a38611cc0766c94799b68f3f47&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɪ.loʊ-ðə-foʊld",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVsb3ctdGhlLWZvbGQ&hash=e68c83b447b607a38611cc0766c94799b68f3f47&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bi.looo-dhē-fooold",
       "img": "",
       "pronunciation": "bɪlˌoʊðəfˈoʊld",
       "senses": [
@@ -250,12 +239,13 @@
       ]
     },
     {
+      "id": "a17402e9-38fa-4e98-bafe-3bcd32abda5b",
       "word": "front-page",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZnJvbnQtcGFnZQ&hash=a8e5c72375d3226258133790d6c5d47f0272afb7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "frʌnt-peɪʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJvbnQtcGFnZQ&hash=a8e5c72375d3226258133790d6c5d47f0272afb7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "frant-peij",
       "img": "",
       "pronunciation": "fɹˈʌntpˈeɪdʒ",
       "senses": [
@@ -266,49 +256,30 @@
       ]
     },
     {
+      "id": "b252a1e0-0b57-45cf-87c6-10b0e00b78bd",
       "word": "viral",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dmlyYWw&hash=49aa2146ced8848201a3308263d20b10eaf1b567&lang=en&cache-only=0",
-      "phonetic_text": "vaɪrəl",
+      "phonetic_text": "vaɪ.rəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dmlyYWw&hash=49aa2146ced8848201a3308263d20b10eaf1b567&lang=en&cache-only=0",
-      "phonetic_am_text": "vairēl",
+      "phonetic_am_text": "vai.rēl",
       "img": "",
       "pronunciation": "ˈvaɪɹəɫ",
       "senses": [
         {
           "definition": "(of a video, picture, piece of news, etc.) shared quickly on social media among a lot of Internet users",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The video of the baby laughing went viral, accumulating millions of views within hours of being posted."
-            },
-            {
-              "cf": "",
-              "x": "The viral video featuring a funny cat quickly gained millions of views on YouTube."
-            },
-            {
-              "cf": "",
-              "x": "The viral photo of the sunset over the city skyline was shared by countless Instagram users."
-            },
-            {
-              "cf": "",
-              "x": "The dance challenge video posted by the celebrity went viral, inspiring fans to create their own versions and share them online."
-            },
-            {
-              "cf": "",
-              "x": "His tweet about the new tech product went viral, sparking debates and discussions online."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "e766968a-9683-428b-8098-f39ad6dbcdea",
       "word": "real-time",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cmVhbC10aW1l&hash=912306faeaded4cd8a5cd5496e6ae22a1d12959f&lang=en&cache-only=0",
-      "phonetic_text": "ri:ltaɪm",
+      "phonetic_text": "riəl-taɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVhbC10aW1l&hash=912306faeaded4cd8a5cd5496e6ae22a1d12959f&lang=en&cache-only=0",
-      "phonetic_am_text": "reeltaim",
+      "phonetic_am_text": "riēl-taim",
       "img": "",
       "pronunciation": "ˈɹiɫˌtaɪm",
       "senses": [
@@ -340,12 +311,13 @@
       ]
     },
     {
+      "id": "cffde684-69f1-40bb-b2d1-da7cf188c9a0",
       "word": "free-to-air",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZnJlZS10by1haXI&hash=26334f402dcb9bd16fe386ea04727593ffd0de2a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fri:-tu:-ɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJlZS10by1haXI&hash=26334f402dcb9bd16fe386ea04727593ffd0de2a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fri-too-er",
       "img": "",
       "pronunciation": "fɹˈiːɾʊˈɛɹ",
       "senses": [
@@ -356,14 +328,15 @@
       ]
     },
     {
+      "id": "0ceec276-6eae-40a2-acca-991b8dad13c6",
       "word": "commercial",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y29tbWVyY2lhbA&hash=5adbca0bdab83703ff258e0b9f5fc7904ab65798&lang=en&cache-only=0",
-      "phonetic_text": "kəmɜrʃəl",
+      "phonetic_text": "kə.mɜr.ʃəl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tbWVyY2lhbA&hash=5adbca0bdab83703ff258e0b9f5fc7904ab65798&lang=en&cache-only=0",
-      "phonetic_am_text": "kēmērshēl",
+      "phonetic_am_text": "kē.mēr.shēl",
       "img": "",
-      "pronunciation": "kəˈmɝʃəɫ",
+      "pronunciation": "kəˈmɝːʃəl",
       "senses": [
         {
           "definition": "related to the purchasing and selling of different goods and services",
@@ -393,12 +366,13 @@
       ]
     },
     {
+      "id": "c458f432-c4e2-43b7-ab21-52d86f34273a",
       "word": "spammy",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c3BhbW15&hash=617d503979e0c6fcb0f2d561c6285f330bbc18c7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spæ.mi",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BhbW15&hash=617d503979e0c6fcb0f2d561c6285f330bbc18c7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "spā.mi",
       "img": "",
       "pronunciation": "spˈæmi",
       "senses": [
@@ -409,12 +383,13 @@
       ]
     },
     {
+      "id": "2a301e2c-6f62-4097-b523-f041e0979124",
       "word": "busy",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YnVzeQ&hash=504405ccb9bf64237d936ea19742d2316c5a08d8&lang=en&cache-only=0",
-      "phonetic_text": "bɪzi",
+      "phonetic_text": "bɪ.zi",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVzeQ&hash=504405ccb9bf64237d936ea19742d2316c5a08d8&lang=en&cache-only=0",
-      "phonetic_am_text": "bizi",
+      "phonetic_am_text": "bi.zi",
       "img": "",
       "pronunciation": "ˈbɪzi",
       "senses": [
@@ -446,14 +421,15 @@
       ]
     },
     {
+      "id": "86d530f3-aa21-4a9b-a780-c52039df4c02",
       "word": "cellular",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y2VsbHVsYXI&hash=30889cd67717e5963fa952aad598f5d817e109b4&lang=en&cache-only=0",
-      "phonetic_text": "sɛljələr",
+      "phonetic_text": "sɛl.jə.lɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2VsbHVsYXI&hash=30889cd67717e5963fa952aad598f5d817e109b4&lang=en&cache-only=0",
-      "phonetic_am_text": "selyēlēr",
+      "phonetic_am_text": "sel.yē.lēr",
       "img": "",
-      "pronunciation": "ˈsɛɫjəɫɝ",
+      "pronunciation": "ˈsɛljələr",
       "senses": [
         {
           "definition": "related to a telephone system that uses radio stations for communication",
@@ -479,12 +455,13 @@
       ]
     },
     {
+      "id": "9420adc9-913a-4ea9-bc2d-443f743dc660",
       "word": "dial-up",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZGlhbC11cA&hash=387e2fa9c9837609bb06df14c7b42108f386ad90&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "daɪəl-ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlhbC11cA&hash=387e2fa9c9837609bb06df14c7b42108f386ad90&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "daiēl-ap",
       "img": "",
       "pronunciation": "dˈaɪəlˈʌp",
       "senses": [

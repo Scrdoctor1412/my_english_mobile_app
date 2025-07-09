@@ -1,73 +1,163 @@
 {
+  "id": "b107a6b1-029b-4620-9e5e-2e92ed46b690",
   "topic": "c1_level",
   "title": "Shopping",
   "lesson": "lesson_19",
   "word_list": [
     {
+      "id": "349516bd-7e4c-4cb6-875b-cc24bb9491ec",
       "word": "barcode",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFyY29kZQ&hash=0cda48673b85469fce2b1e66f25286430cb1697e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɑr.koʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFyY29kZQ&hash=0cda48673b85469fce2b1e66f25286430cb1697e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baar.koood",
       "img": "https://cdn.langeek.co/photo/28858/original/?type=jpeg",
-      "pronunciation": "bˈɑːɹkoʊd",
+      "pronunciation": "ˈbɑrˌkoʊd",
       "senses": [
         {
           "definition": "a row of black and white lines printed on a product that contain information such as its price, readable only by a computer",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The cashier scanned the barcode on each item to ring up the customer's purchases."
+            },
+            {
+              "cf": "",
+              "x": "The barcode on the book allowed the librarian to easily check it out to the borrower."
+            },
+            {
+              "cf": "",
+              "x": "The warehouse manager used a handheld scanner to read the barcode on each box as it was received."
+            },
+            {
+              "cf": "",
+              "x": "The barcode system helps retailers track inventory and manage stock levels more efficiently."
+            },
+            {
+              "cf": "",
+              "x": "The manufacturer printed a unique barcode on each product for easy identification and tracking throughout the supply chain."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "5285146d-8b38-44ae-850e-841368660184",
       "word": "price tag",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJpY2UgdGFn&hash=c29ae7fa3514925c7343c6cfe197ee649a6e8619&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "praɪs tæg",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJpY2UgdGFn&hash=c29ae7fa3514925c7343c6cfe197ee649a6e8619&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "prais tāg",
       "img": "https://cdn.langeek.co/photo/17487/original/price?type=jpeg",
-      "pronunciation": "pɹˈaɪs tˈæɡ",
+      "pronunciation": "ˈpraɪs ˌtæɡ",
       "senses": [
         {
           "definition": "a label on an item that shows how much it costs",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She glanced at the price tag and was surprised by how expensive the dress was."
+            },
+            {
+              "cf": "",
+              "x": "The price tag on the new television showed a significant discount, making it a good deal."
+            },
+            {
+              "cf": "",
+              "x": "He carefully removed the price tags from the gifts before wrapping them for Christmas."
+            },
+            {
+              "cf": "",
+              "x": "The price tag on the vintage collectible indicated its value had increased over the years."
+            },
+            {
+              "cf": "",
+              "x": "She hesitated to buy the item when she saw the high price tag attached to it."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "904968e9-783d-42de-9f4e-15fcb820a507",
       "word": "boutique",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym91dGlxdWU&hash=5f16716bcf5810ddb882fce215636ec90ff6f9ee&lang=en&cache-only=0",
-      "phonetic_text": "buti:k",
+      "phonetic_text": "bu.tik",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym91dGlxdWU&hash=5f16716bcf5810ddb882fce215636ec90ff6f9ee&lang=en&cache-only=0",
-      "phonetic_am_text": "buteek",
+      "phonetic_am_text": "boo.tik",
       "img": "https://cdn.langeek.co/photo/29108/original/?type=jpeg",
       "pronunciation": "buˈtik",
       "senses": [
         {
           "definition": "a small store in which fashionable clothes or accessories are sold",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She found a beautiful dress at a boutique downtown and decided to splurge on it."
+            },
+            {
+              "cf": "",
+              "x": "The boutique specializes in handmade jewelry crafted by local artisans."
+            },
+            {
+              "cf": "",
+              "x": "They opened a boutique bakery that sells artisanal bread and pastries."
+            },
+            {
+              "cf": "",
+              "x": "The boutique hotel offers personalized service and stylish accommodations."
+            },
+            {
+              "cf": "",
+              "x": "The boutique carries a curated selection of high-end fashion brands that you can't find elsewhere."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "cc1d75bb-5ec4-4cbd-8db0-47a52074e693",
       "word": "dressing room",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJlc3Npbmcgcm9vbQ&hash=cbf2ff8006a83a078e161ea7cf7e60ea2e077950&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "drɛ.sɪng ru:m",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJlc3Npbmcgcm9vbQ&hash=cbf2ff8006a83a078e161ea7cf7e60ea2e077950&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dre.sing room",
       "img": "https://cdn.langeek.co/photo/29513/original/?type=jpeg",
-      "pronunciation": "dɹˈɛsɪŋ ɹˈuːm",
+      "pronunciation": "ˈdrɛsɪŋ ˌrum",
       "senses": [
         {
           "definition": "a room in a clothing store where people can try on items of clothing before buying them",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She tried on several outfits in the dressing room before finding the perfect one for the party."
+            },
+            {
+              "cf": "",
+              "x": "The dressing room was equipped with full-length mirrors and comfortable seating."
+            },
+            {
+              "cf": "",
+              "x": "The actress retreated to her dressing room to prepare for her stage performance."
+            },
+            {
+              "cf": "",
+              "x": "The store attendant unlocked the dressing room for the customer to try on clothes."
+            },
+            {
+              "cf": "",
+              "x": "The dressing room was bustling with activity as models prepared for the fashion show."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "4358a214-7bdb-4d05-a6f7-40f8fd4b1571",
       "word": "rack",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFjaw&hash=9ad9f73e052afce14c0acbe99231555ab0b4b1c7&lang=en&cache-only=0",
@@ -75,47 +165,97 @@
       "phonetic_am": "https://tts.langeek.co/read?text=cmFjaw&hash=9ad9f73e052afce14c0acbe99231555ab0b4b1c7&lang=en&cache-only=0",
       "phonetic_am_text": "rāk",
       "img": "https://cdn.langeek.co/photo/50731/original/?type=jpeg",
-      "pronunciation": "ˈɹæk",
+      "pronunciation": "ræk",
       "senses": [
         {
           "definition": "a shelf or frame with hooks or bars, etc. on which things can be put or hung",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The mechanic used a rack to lift the car off the ground so he could work underneath it."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "4c242198-fd3a-4dd2-b47a-a6706ae9550e",
       "word": "cash-back",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FzaC1iYWNr&hash=e9b1896f374396dbdcbb6a9ac11bcf3bd9e6a89a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kæʃ-bæk",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FzaC1iYWNr&hash=e9b1896f374396dbdcbb6a9ac11bcf3bd9e6a89a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kāsh-bāk",
       "img": "",
-      "pronunciation": "kˈæʃbˈæk",
+      "pronunciation": "ˈkæʃˌbæk",
       "senses": [
         {
           "definition": "money that a person can get in cash when buying something from a store with their debit card, which is then added to the bill they are paying",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The credit card offers cash-back rewards for every purchase made, providing a percentage of the total amount spent back to the cardholder."
+            },
+            {
+              "cf": "",
+              "x": "The store advertised a cash-back promotion for customers who spent a certain amount during the holiday season."
+            },
+            {
+              "cf": "",
+              "x": "I opted for cash-back at the checkout counter instead of using my debit card to withdraw money from the ATM."
+            },
+            {
+              "cf": "",
+              "x": "The online retailer offers cash-back incentives for referring friends to their website."
+            },
+            {
+              "cf": "",
+              "x": "Many banks offer cash-back bonuses for opening a new account or meeting certain requirements."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "984c4f6e-3fbc-4daf-9314-c9698dc8b70a",
       "word": "register",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVnaXN0ZXI&hash=38e0d6c0186ca801aa596c437d1582785f864bd6&lang=en&cache-only=0",
-      "phonetic_text": "rɛʤɪstər",
+      "phonetic_text": "rɛ.ʤɪs.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVnaXN0ZXI&hash=38e0d6c0186ca801aa596c437d1582785f864bd6&lang=en&cache-only=0",
-      "phonetic_am_text": "rejistēr",
+      "phonetic_am_text": "re.jis.tēr",
       "img": "https://cdn.langeek.co/photo/29585/original/?type=jpeg",
-      "pronunciation": "ˈɹɛdʒɪstɝ",
+      "pronunciation": "ˈrɛʤɪstɚ",
       "senses": [
         {
           "definition": "a machine used in restaurants, stores, etc. in which the received money is kept and each transaction is recorded",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The cashier entered the sale amount into the register and gave the customer their receipt."
+            },
+            {
+              "cf": "",
+              "x": "The store manager balanced the register at the end of the day to ensure all transactions were accounted for."
+            },
+            {
+              "cf": "",
+              "x": "The new register system allowed for faster checkout times and more accurate inventory tracking."
+            },
+            {
+              "cf": "",
+              "x": "The register drawer was locked after each shift to secure the money inside."
+            },
+            {
+              "cf": "",
+              "x": "The clerk had to call for assistance when the register froze and wouldn't process transactions."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "97a6a0eb-4b0f-4a61-be93-7fe25858e3c6",
       "word": "safe",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FmZQ&hash=3e67fa5139504d250baa4657c76f6c74576e8ba8&lang=en&cache-only=0",
@@ -127,83 +267,165 @@
       "senses": [
         {
           "definition": "a strong durable box that has a complex lock, in which people keep their valuable items",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The bank vault contained rows of safes, each belonging to a different account holder."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "96567d91-8623-43c7-b1be-8b26e356e0b6",
       "word": "closed-circuit television",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xvc2VkLWNpcmN1aXQgdGVsZXZpc2lvbg&hash=231d98f959fec917d915e2fdc82b4a6aa5109c0e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kloʊzd-sɜr.kət tɛ.lə.vɪ.ʒən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xvc2VkLWNpcmN1aXQgdGVsZXZpc2lvbg&hash=231d98f959fec917d915e2fdc82b4a6aa5109c0e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "klooozd-sēr.kēt te.lē.vi.zhēn",
       "img": "https://cdn.langeek.co/photo/28852/original/?type=jpeg",
-      "pronunciation": "klˈoʊzdsˈɜːkɪt tˈɛlɪvˌɪʒən",
+      "pronunciation": "ˈkloʊzd ˈsɝːkɪt ˈtɛləˌvɪʒən",
       "senses": [
         {
           "definition": "a system in which a number of cameras send their feed to television sets to protect a place and its occupants from crime",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The bank installed closed-circuit television cameras to monitor all transactions and enhance security."
+            },
+            {
+              "cf": "",
+              "x": "The closed-circuit television system captured clear footage of the intruder breaking into the store."
+            },
+            {
+              "cf": "",
+              "x": "Hospitals use closed-circuit television to keep an eye on critical areas and ensure patient safety."
+            },
+            {
+              "cf": "",
+              "x": "The office building upgraded its closed-circuit television network to cover all entrances and hallways."
+            },
+            {
+              "cf": "",
+              "x": "During the event, security personnel monitored the crowd using closed-circuit television feeds."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "bargain",
+      "id": "8ef200c1-ec51-4469-acc0-8ae5888b41c9",
+      "word": "to bargain",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmFyZ2Fpbg&hash=dc16c6ec768448e1ba10493262eab1af2c376a98&lang=en&cache-only=0",
-      "phonetic_text": "bɑ:rgən",
+      "phonetic_text": "bɑr.geɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmFyZ2Fpbg&hash=dc16c6ec768448e1ba10493262eab1af2c376a98&lang=en&cache-only=0",
-      "phonetic_am_text": "baargēn",
+      "phonetic_am_text": "baar.gein",
       "img": "https://cdn.langeek.co/photo/46426/original/?type=jpeg",
-      "pronunciation": "ˈbɑrɡɪn/, /ˈbɑrɡən",
+      "pronunciation": "ˈbɑrɡɪn",
       "senses": [
         {
           "definition": "to negotiate the terms of a contract, sale, or similar arrangement for a better agreement, price, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The customers decided to bargain with the vendor to get a better price for the antique furniture."
+            },
+            {
+              "cf": "",
+              "x": "In a business deal, both parties bargained to find a compromise on payment terms that suited their needs."
+            },
+            {
+              "cf": "",
+              "x": "The union bargained with the company management for improved working conditions and better wages for its members."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "barter",
+      "id": "8b0e948b-1b9d-4062-b7fc-bd0afbdab79b",
+      "word": "to barter",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmFydGVy&hash=7348d334c4def21e3087641f4c79e7896645af79&lang=en&cache-only=0",
-      "phonetic_text": "bɑ:rtər",
+      "phonetic_text": "bɑr.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmFydGVy&hash=7348d334c4def21e3087641f4c79e7896645af79&lang=en&cache-only=0",
-      "phonetic_am_text": "baartēr",
+      "phonetic_am_text": "baar.tēr",
       "img": "https://cdn.langeek.co/photo/51496/original/?type=jpeg",
-      "pronunciation": "ˈbɑɹtɝ",
+      "pronunciation": "ˈbɑrtɚ",
       "senses": [
         {
           "definition": "to exchange goods or services without using money",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "In the early days, people would barter livestock for essential goods."
+            },
+            {
+              "cf": "",
+              "x": "The farmers decided to barter their surplus vegetables for tools from the blacksmith."
+            },
+            {
+              "cf": "",
+              "x": "The nomadic tribes engaged in bartering furs and hides for grains and textiles."
+            },
+            {
+              "cf": "",
+              "x": "Communities near rivers often bartered fish and other aquatic resources for agricultural produce."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "browse",
+      "id": "8dea36a7-5780-4858-9861-a185c47691fb",
+      "word": "to browse",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJvd3Nl&hash=4b3ccb981e009e10a7854a8563b6cfeadac2480f&lang=en&cache-only=0",
       "phonetic_text": "braʊz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJvd3Nl&hash=4b3ccb981e009e10a7854a8563b6cfeadac2480f&lang=en&cache-only=0",
-      "phonetic_am_text": "brawz",
+      "phonetic_am_text": "braooz",
       "img": "https://cdn.langeek.co/photo/18419/original/shopper?type=jpeg",
-      "pronunciation": "ˈbɹaʊz",
+      "pronunciation": "braʊz",
       "senses": [
         {
           "definition": "to casually look at different products in a store with no intention of making a purchase",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "On Saturday afternoons, she loves to browse through the local shops, admiring the latest fashion trends without feeling the need to make a purchase."
+            },
+            {
+              "cf": "",
+              "x": "While waiting for his friend, he decided to browse the bookstore, flipping through new releases and enjoying the quiet atmosphere."
+            },
+            {
+              "cf": "",
+              "x": "They often browse the mall after lunch, enjoying the window displays and catching up on the latest gadgets and styles."
+            },
+            {
+              "cf": "",
+              "x": "Despite having no intention of buying anything, she could spend hours browsing the antique market, appreciating the history and craftsmanship of the items."
+            },
+            {
+              "cf": "",
+              "x": "He likes to browse the electronics store to stay updated on the latest technology, even though he rarely buys anything."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "comparison-shop",
+      "id": "a2e21f39-b5c3-4db0-a187-99873adf4baa",
+      "word": "to comparison-shop",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29tcGFyaXNvbi1zaG9w&hash=3e4b0a39197dd150ea63f469de686ac65ddebf0a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kəm.pɛ.rə.sən-ʃɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29tcGFyaXNvbi1zaG9w&hash=3e4b0a39197dd150ea63f469de686ac65ddebf0a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kēm.pe.rē.sēn-shaap",
       "img": "",
-      "pronunciation": "kəmpˈæɹɪsənʃˈɑːp",
+      "pronunciation": "kəmˈpɛrəsən ˈʃɑp",
       "senses": [
         {
           "definition": "to visit different stores to compare the price of a particular product or products before buying",
@@ -212,62 +434,121 @@
       ]
     },
     {
-      "word": "retail",
+      "id": "970df207-a197-4eab-9d52-7d4afb8792f8",
+      "word": "to retail",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmV0YWls&hash=6e96acb81f2b968292146e3db15462473ad122a9&lang=en&cache-only=0",
-      "phonetic_text": "ri:teɪl",
+      "phonetic_text": "ri.teɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmV0YWls&hash=6e96acb81f2b968292146e3db15462473ad122a9&lang=en&cache-only=0",
-      "phonetic_am_text": "reeteil",
+      "phonetic_am_text": "ri.teil",
       "img": "https://cdn.langeek.co/photo/50629/original/salesman?type=jpeg",
-      "pronunciation": "ˈɹiˌteɪɫ",
+      "pronunciation": "ˈriːˌteɪl",
       "senses": [
         {
           "definition": "to sell small quantities of goods directly to customers",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Local businesses often retail fresh produce to community members."
+            },
+            {
+              "cf": "",
+              "x": "Small shops may retail handmade crafts to customers looking for unique items."
+            },
+            {
+              "cf": "",
+              "x": "The company is currently retailing a new line of products to test customer interest."
+            },
+            {
+              "cf": "",
+              "x": "Over the years, these shops have successfully retailed unique products to loyal customers."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "wholesale",
+      "id": "bcc92a5c-b4c1-492a-b2b2-d2dee3413d76",
+      "word": "to wholesale",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2hvbGVzYWxl&hash=3c8f4ee8d2693ea6f4f3bc473609c1e62f3cead3&lang=en&cache-only=0",
-      "phonetic_text": "hoʊlseɪl",
+      "phonetic_text": "hoʊl.seɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2hvbGVzYWxl&hash=3c8f4ee8d2693ea6f4f3bc473609c1e62f3cead3&lang=en&cache-only=0",
-      "phonetic_am_text": "howlseil",
+      "phonetic_am_text": "hoool.seil",
       "img": "",
-      "pronunciation": "ˈhoʊɫˌseɪɫ",
+      "pronunciation": "ˈhoʊlˌseɪl",
       "senses": [
         {
           "definition": "to sell products in large quantities at lower prices to other stores, rather than to the public directly",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The manufacturer decided to wholesale their products to retail chains to expand their market reach."
+            },
+            {
+              "cf": "",
+              "x": "They chose to wholesale their handmade crafts to boutiques and gift shops instead of selling directly to consumers."
+            },
+            {
+              "cf": "",
+              "x": "The company wholesales electronics to various online retailers, who then sell them to individual customers."
+            },
+            {
+              "cf": "",
+              "x": "By wholesaling their goods, the small business was able to reduce inventory quickly and generate consistent cash flow."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "sell out",
+      "id": "790dc0eb-6c3a-4169-9917-21f56cb7f3e0",
+      "word": "to sell out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2VsbCBvdXQ&hash=af75e7a9b21051168e1440832eebb447d971e8f6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛl aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2VsbCBvdXQ&hash=af75e7a9b21051168e1440832eebb447d971e8f6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
-      "img": "",
-      "pronunciation": "sˈɛl ˈaʊt",
+      "phonetic_am_text": "sel aoot",
+      "img": "https://cdn.langeek.co/photo/60011/original/?type=jpeg",
+      "pronunciation": "sɛl aʊt",
       "senses": [
         {
           "definition": "(of an event) to completely sell all available tickets, seats, leaving none remaining for further purchase",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The theater production sold out within minutes of the tickets going on sale."
+            },
+            {
+              "cf": "",
+              "x": "The art exhibition sold out, and many were left disappointed without tickets."
+            },
+            {
+              "cf": "",
+              "x": "Despite the rain, the outdoor festival sold out, attracting a large crowd."
+            },
+            {
+              "cf": "",
+              "x": "The popular band's concert sold out within minutes of ticket sales opening."
+            },
+            {
+              "cf": "",
+              "x": "The underground music festival sold out, transforming an abandoned warehouse into a vibrant celebration."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "4bac670c-35dc-4437-8cb6-a27f20560cc2",
       "word": "chain store",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hhaW4gc3RvcmU&hash=bb4e2fe4467620f8e8329dc0f06da1ad9dba5c25&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧeɪn stɔr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hhaW4gc3RvcmU&hash=bb4e2fe4467620f8e8329dc0f06da1ad9dba5c25&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chein stawr",
       "img": "https://cdn.langeek.co/photo/27045/original/department-store?type=jpeg",
-      "pronunciation": "tʃˈeɪn stˈoːɹ",
+      "pronunciation": "ʧeɪn stɔr",
       "senses": [
         {
           "definition": "one of a series of stores that are all owned by the same company or person",
@@ -297,14 +578,15 @@
       ]
     },
     {
+      "id": "fa26eb3d-14e9-498a-b5f4-6f0c85ef6848",
       "word": "convenience store",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29udmVuaWVuY2Ugc3RvcmU&hash=b1bc2cf5b89b6b72bc9016b497a78b07c9e99b2b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kən.vin.jəns stɔr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29udmVuaWVuY2Ugc3RvcmU&hash=b1bc2cf5b89b6b72bc9016b497a78b07c9e99b2b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kēn.vin.yēns stawr",
       "img": "https://cdn.langeek.co/photo/49177/original/supermarket?type=jpeg",
-      "pronunciation": "kənvˈiːnɪəns stˈoːɹ",
+      "pronunciation": "kənˈvinjəns ˌstɔr",
       "senses": [
         {
           "definition": "a store that sells food, publications, alcohol, etc., often open 24 hours every day",
@@ -334,14 +616,15 @@
       ]
     },
     {
+      "id": "8842b21a-f9ef-48ba-b366-650ee651a3ab",
       "word": "deli",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVsaQ&hash=b4a34476437c2780cc290880c82d78187a43d4ea&lang=en&cache-only=0",
-      "phonetic_text": "dɛli",
+      "phonetic_text": "dɛ.li",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVsaQ&hash=b4a34476437c2780cc290880c82d78187a43d4ea&lang=en&cache-only=0",
-      "phonetic_am_text": "deli",
+      "phonetic_am_text": "de.li",
       "img": "https://cdn.langeek.co/photo/29465/original/?type=jpeg",
-      "pronunciation": "ˈdɛɫi",
+      "pronunciation": "ˈdɛli",
       "senses": [
         {
           "definition": "a store that sells cheese, cooked meat, and foreign food",
@@ -371,14 +654,15 @@
       ]
     },
     {
+      "id": "fa779bc8-a998-4773-b2c2-5aa3a1e4ebc7",
       "word": "kiosk",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2lvc2s&hash=c3175a90ee61582a8e7de553640f3a38366dc5da&lang=en&cache-only=0",
-      "phonetic_text": "ki:ɔsk",
+      "phonetic_text": "kiɔsk",
       "phonetic_am": "https://tts.langeek.co/read?text=a2lvc2s&hash=c3175a90ee61582a8e7de553640f3a38366dc5da&lang=en&cache-only=0",
-      "phonetic_am_text": "keeawsk",
+      "phonetic_am_text": "kiawsk",
       "img": "https://cdn.langeek.co/photo/22189/original/newsstand?type=jpeg",
-      "pronunciation": "ˈkiˌɔsk",
+      "pronunciation": "ˈkiːˌɑsk",
       "senses": [
         {
           "definition": "a small store with an open front selling newspapers, etc.",
@@ -408,12 +692,13 @@
       ]
     },
     {
+      "id": "65d4bc7a-a03a-40ac-b7de-6d75c7ee7a8a",
       "word": "outlet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3V0bGV0&hash=3c994e5391e0830c29ee5401c2957ebfbeaaa820&lang=en&cache-only=0",
-      "phonetic_text": "aʊtlɛt",
+      "phonetic_text": "aʊt.lɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=b3V0bGV0&hash=3c994e5391e0830c29ee5401c2957ebfbeaaa820&lang=en&cache-only=0",
-      "phonetic_am_text": "awtlet",
+      "phonetic_am_text": "aoot.let",
       "img": "",
       "pronunciation": "ˈaʊtˌlɛt",
       "senses": [
@@ -445,14 +730,15 @@
       ]
     },
     {
+      "id": "1e542d26-2fdb-4c2d-ada2-13b94c6301cb",
       "word": "florist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmxvcmlzdA&hash=1d48068002de9476ea6ac96fbfb8b564479dcf39&lang=en&cache-only=0",
-      "phonetic_text": "flɑ:rɪst",
+      "phonetic_text": "flɑ.rɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmxvcmlzdA&hash=1d48068002de9476ea6ac96fbfb8b564479dcf39&lang=en&cache-only=0",
-      "phonetic_am_text": "flaarist",
+      "phonetic_am_text": "flaa.rist",
       "img": "",
-      "pronunciation": "ˈfɫɑɹɪst/, /ˈfɫɔɹɪst",
+      "pronunciation": "ˈflɔrɪst",
       "senses": [
         {
           "definition": "a store that sells flowers and plants",
@@ -482,14 +768,15 @@
       ]
     },
     {
+      "id": "374389d8-bf1c-4c69-bdd8-116fdef1fd8a",
       "word": "grocer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JvY2Vy&hash=65a34b50c6555cfcb70d324e4467f6858757ccec&lang=en&cache-only=0",
-      "phonetic_text": "groʊsər",
+      "phonetic_text": "groʊ.sɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JvY2Vy&hash=65a34b50c6555cfcb70d324e4467f6858757ccec&lang=en&cache-only=0",
-      "phonetic_am_text": "growsēr",
+      "phonetic_am_text": "grooo.sēr",
       "img": "https://cdn.langeek.co/photo/29004/original/?type=jpeg",
-      "pronunciation": "ˈɡɹoʊsɝ",
+      "pronunciation": "ˈɡroʊsɚ",
       "senses": [
         {
           "definition": "someone who sells food and other everyday products",
@@ -519,14 +806,15 @@
       ]
     },
     {
+      "id": "e05f66a1-1f79-4b27-95b6-5b9a0620f523",
       "word": "stationer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RhdGlvbmVy&hash=8af6270ce6ab26746ae59df81917468dca5f8407&lang=en&cache-only=0",
-      "phonetic_text": "steɪʃənər",
+      "phonetic_text": "steɪ.ʃə.nɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RhdGlvbmVy&hash=8af6270ce6ab26746ae59df81917468dca5f8407&lang=en&cache-only=0",
-      "phonetic_am_text": "steishēnēr",
+      "phonetic_am_text": "stei.shē.nēr",
       "img": "https://cdn.langeek.co/photo/29054/original/?type=jpeg",
-      "pronunciation": "ˈsteɪʃənɝ",
+      "pronunciation": "ˈsteɪʃənɚ",
       "senses": [
         {
           "definition": "someone who sells writing materials, such as pens, pencils, paper, etc.",
@@ -556,14 +844,15 @@
       ]
     },
     {
+      "id": "f878eb24-47fc-41fe-8120-eb3c0a8aa904",
       "word": "consumerism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29uc3VtZXJpc20&hash=28cbcbe06eeedd887e1f71746b38579c0485ff63&lang=en&cache-only=0",
-      "phonetic_text": "kənsu:mərɪzəm",
+      "phonetic_text": "kən.su.mɜ.rɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uc3VtZXJpc20&hash=28cbcbe06eeedd887e1f71746b38579c0485ff63&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnsoomērizēm",
+      "phonetic_am_text": "kēn.soo.mē.ri.zēm",
       "img": "",
-      "pronunciation": "kənˈsumɝˌɪzəm",
+      "pronunciation": "kənˈsuːmɚˌɪzəm",
       "senses": [
         {
           "definition": "the idea or belief that personal well-being and happiness depend on the purchase of material goods",
@@ -593,14 +882,15 @@
       ]
     },
     {
+      "id": "41922e1a-b680-44e7-9896-b699de948f86",
       "word": "shopaholic",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2hvcGFob2xpYw&hash=eb3fc473c5cb3710322937fff87a5d6a765aa894&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʃɑ:.pa.hɑ:.lɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hvcGFob2xpYw&hash=eb3fc473c5cb3710322937fff87a5d6a765aa894&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "shaa.pa.haa.lik",
       "img": "https://cdn.langeek.co/photo/31767/original/?type=jpeg",
-      "pronunciation": "ʃˌɑːpɐhˈɑːlɪk",
+      "pronunciation": "ˌʃɑpəˈhɑlɪk",
       "senses": [
         {
           "definition": "someone who spends a lot of time shopping, often buying unnecessary things",
@@ -622,14 +912,15 @@
       ]
     },
     {
+      "id": "525760e1-f6cf-49ec-a5bc-de9b9955ac8e",
       "word": "duty-free",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZHV0eS1mcmVl&hash=7227bbb6930a6cbb586c7c3699f41aaae4d5320e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dju.ti-fri:",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHV0eS1mcmVl&hash=7227bbb6930a6cbb586c7c3699f41aaae4d5320e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dyoo.ti-fri",
       "img": "",
-      "pronunciation": "dˈuːɾifɹˈiː",
+      "pronunciation": "ˈduːti ˈfriː",
       "senses": [
         {
           "definition": "(of goods) able to be imported without paying tax on them",
@@ -659,14 +950,15 @@
       ]
     },
     {
+      "id": "7d8ed416-30a5-42e4-9d11-a485fb9b12c9",
       "word": "transaction",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhbnNhY3Rpb24&hash=b6ec810a9c825b25719e6481ccb8631ca906f06b&lang=en&cache-only=0",
-      "phonetic_text": "trænzækʃən",
+      "phonetic_text": "træn.zæk.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhbnNhY3Rpb24&hash=b6ec810a9c825b25719e6481ccb8631ca906f06b&lang=en&cache-only=0",
-      "phonetic_am_text": "trānzākshēn",
+      "phonetic_am_text": "trān.zāk.shēn",
       "img": "https://cdn.langeek.co/photo/48543/original/buy?type=jpeg",
-      "pronunciation": "tɹænˈzækʃən",
+      "pronunciation": "trænˈzækʃən",
       "senses": [
         {
           "definition": "the general process of purchasing or selling something",
@@ -696,14 +988,15 @@
       ]
     },
     {
+      "id": "c136561c-e481-4e87-aeb2-e4b04abdf1c9",
       "word": "on sale",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gc2FsZQ&hash=515a5221f8558167e9cfb64f332b9a7f412310b4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n seɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gc2FsZQ&hash=515a5221f8558167e9cfb64f332b9a7f412310b4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan seil",
       "img": "",
-      "pronunciation": "ˌɑːn sˈeɪl",
+      "pronunciation": "ɑn seɪl",
       "senses": [
         {
           "definition": "available for purchase",
@@ -729,14 +1022,15 @@
       ]
     },
     {
+      "id": "77ad0b4d-5d33-4afc-80ad-e5c5bea5d620",
       "word": "pre-order",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJlLW9yZGVy&hash=b6ee5414a84ab65a4b8a38824b10b6af64bd52c3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJlLW9yZGVy&hash=b6ee5414a84ab65a4b8a38824b10b6af64bd52c3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
-      "pronunciation": "pɹˈiːˈɔːɹdɚ",
+      "pronunciation": "ˈpriːˌɔrdɚ",
       "senses": [
         {
           "definition": "an order placed before the product is available for sale",
@@ -766,14 +1060,15 @@
       ]
     },
     {
+      "id": "068981b9-0ef4-401d-8c4c-1a5271dc5fd3",
       "word": "promotion",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvbW90aW9u&hash=8df2f3d7f4861cb77cfa22bc517086b3e847d0b0&lang=en&cache-only=0",
-      "phonetic_text": "prəmoʊʃən",
+      "phonetic_text": "proʊ.moʊ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvbW90aW9u&hash=8df2f3d7f4861cb77cfa22bc517086b3e847d0b0&lang=en&cache-only=0",
-      "phonetic_am_text": "prēmowshēn",
+      "phonetic_am_text": "prooo.mooo.shēn",
       "img": "",
-      "pronunciation": "pɝˈmoʊʃən/, /pɹəˈmoʊʃən",
+      "pronunciation": "prəˈmoʊʃən",
       "senses": [
         {
           "definition": "the activity of drawing public attention to a service or product in order to help it sell more",
@@ -803,14 +1098,15 @@
       ]
     },
     {
+      "id": "e2062661-ca03-4fb0-908c-3db6a8efb629",
       "word": "voucher",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dm91Y2hlcg&hash=9d0a1785ea5a9d936443013bc018e3ac2599a81e&lang=en&cache-only=0",
-      "phonetic_text": "vaʊʧər",
+      "phonetic_text": "vaʊ.ʧɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dm91Y2hlcg&hash=9d0a1785ea5a9d936443013bc018e3ac2599a81e&lang=en&cache-only=0",
-      "phonetic_am_text": "vawchēr",
+      "phonetic_am_text": "vaoo.chēr",
       "img": "https://cdn.langeek.co/photo/37146/original/?type=jpeg",
-      "pronunciation": "ˈvaʊtʃɝ",
+      "pronunciation": "ˈvaʊʧɚ",
       "senses": [
         {
           "definition": "a digital code or a printed piece of paper that can be used instead of money when making a purchase or used to receive a discount",
@@ -832,76 +1128,36 @@
       ]
     },
     {
+      "id": "f139cf98-c5ad-43a8-bf39-7591293758a3",
       "word": "half-price",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aGFsZi1wcmljZQ&hash=df2417fd9362bf970d194460afb129af9ae6df63&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hæf-praɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFsZi1wcmljZQ&hash=df2417fd9362bf970d194460afb129af9ae6df63&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hāf-prais",
       "img": "https://cdn.langeek.co/photo/29763/original/?type=jpeg",
-      "pronunciation": "hˈæfpɹˈaɪs",
+      "pronunciation": "ˈhæfˌpraɪs",
       "senses": [
         {
           "definition": "reduced to half the previous price of something",
-          "examples": [
-            {
-              "cf": "",
-              "x": "All winter coats are half-price today."
-            },
-            {
-              "cf": "",
-              "x": "They decided to go to the movie theater on discount night when tickets were half-price."
-            },
-            {
-              "cf": "",
-              "x": "She found a half-price sweater at the thrift store, making it an affordable addition to her wardrobe."
-            },
-            {
-              "cf": "",
-              "x": "The half-price tickets for the concert sold out quickly, attracting a large crowd of music enthusiasts."
-            },
-            {
-              "cf": "",
-              "x": "He took advantage of the half-price offer on gym memberships to kickstart his fitness journey."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "abd6fd09-dcb9-4f83-8223-b821915d5e64",
       "word": "foot traffic",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9vdCB0cmFmZmlj&hash=e8d52810a6211d2d4a2b5bb82ee620bd397d5ae6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fʊt træ.fɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9vdCB0cmFmZmlj&hash=e8d52810a6211d2d4a2b5bb82ee620bd397d5ae6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "foot trā.fik",
       "img": "",
-      "pronunciation": "fˈʊt tɹˈæfɪk",
+      "pronunciation": "ˈfʊt ˌtræfɪk",
       "senses": [
         {
           "definition": "the number of visitors or tourists to a shop or place during a specific period",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The coffee shop relies on foot traffic from nearby offices for its morning rush."
-            },
-            {
-              "cf": "",
-              "x": "The shopping mall installed interactive displays to increase foot traffic and engage shoppers."
-            },
-            {
-              "cf": "",
-              "x": "The downtown area sees a surge in foot traffic during lunchtime as people visit restaurants and cafes."
-            },
-            {
-              "cf": "",
-              "x": "The store strategically placed its displays near the entrance to capture the attention of foot traffic passing by."
-            },
-            {
-              "cf": "",
-              "x": "The street vendors set up their stalls along the busy sidewalk to attract foot traffic and potential customers."
-            }
-          ]
+          "examples": []
         }
       ]
     }

@@ -1,13 +1,15 @@
 {
+  "id": "8700ebd8-c491-4bc1-968c-21da022df895",
   "topic": "difficulty",
   "title": "Adding Complexity",
   "lesson": "lesson_4",
   "word_list": [
     {
-      "word": "[cook] {one's} goose",
+      "id": "c527bc1d-418b-4f7e-ac8d-0d286ebc9524",
+      "word": "to [cook] {one's} goose",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29vayBvbmUncyBnb29zZQ&hash=f2dc6695a329877ea57986a793f7e2484039fccb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29vayBvbmUncyBnb29zZQ&hash=f2dc6695a329877ea57986a793f7e2484039fccb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46525/original/?type=jpeg",
@@ -15,15 +17,37 @@
       "senses": [
         {
           "definition": "to prevent someone from achieving success by destroying their plans",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "John thought he could get away with cheating on the exam, but when he got caught, it cooked his goose, and he was expelled from school."
+            },
+            {
+              "cf": "",
+              "x": "The company's reckless financial decisions and mismanagement of funds ultimately cooked their goose, leading to bankruptcy."
+            },
+            {
+              "cf": "",
+              "x": "Mary's constant tardiness and poor work ethic cooked her goose, and she was eventually fired from her job."
+            },
+            {
+              "cf": "",
+              "x": "The politician's scandalous revelation during the campaign effectively cooked his goose, causing a significant drop in public support."
+            },
+            {
+              "cf": "",
+              "x": "Tom's decision to skip important meetings and neglect his responsibilities eventually cooked his goose, and he lost the promotion he had been eyeing."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[give] {sb} enough rope to hang {oneself}",
+      "id": "abce64a7-2c4b-45a2-9dea-d378c86b53fa",
+      "word": "to [give] {sb} enough rope to hang {oneself}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21lYm9keSBlbm91Z2ggcm9wZSB0byBoYW5nIG9uZXNlbGY&hash=66b12fb60eb901a110c3daab1ec1dea3527b5e38&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21lYm9keSBlbm91Z2ggcm9wZSB0byBoYW5nIG9uZXNlbGY&hash=66b12fb60eb901a110c3daab1ec1dea3527b5e38&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46473/original/?type=jpeg",
@@ -36,10 +60,11 @@
       ]
     },
     {
-      "word": "[play] hard to get",
+      "id": "0298f573-508f-4317-8ebc-b290da82151c",
+      "word": "to [play] hard to get",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGxheSBoYXJkIHRvIGdldA&hash=15c29ac218ae40cd4bbd1d904dc4eaabc92129bc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGxheSBoYXJkIHRvIGdldA&hash=15c29ac218ae40cd4bbd1d904dc4eaabc92129bc&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46527/original/?type=jpeg",
@@ -47,15 +72,33 @@
       "senses": [
         {
           "definition": "to not easily give a person something that they need or want from one",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Developers queued up to buy the property in 1995 but Turner played hard to get, waiting for better offers."
+            },
+            {
+              "cf": "",
+              "x": "Only a few days ago, the Social Democrats were playing hard to get as the CDU tried to get them into coalition talks."
+            },
+            {
+              "cf": "",
+              "x": "The candidate played hard to get during the job interview, not immediately accepting the offer, which made the employer appreciate their qualifications even more."
+            },
+            {
+              "cf": "",
+              "x": "When Mark asked John for a favor, John played hard to get, wanting to see how important the favor was to Mark before agreeing to help."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[queer] {one's} pitch",
+      "id": "e7695a0b-f642-45bc-aac8-9f7eec0175d5",
+      "word": "to [queer] {one's} pitch",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcXVlZXIgb25lJ3MgcGl0Y2g&hash=ef6dc9099d47805b1c10eab31e69f18a1c705c7a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcXVlZXIgb25lJ3MgcGl0Y2g&hash=ef6dc9099d47805b1c10eab31e69f18a1c705c7a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46529/original/?type=jpeg",
@@ -68,10 +111,11 @@
       ]
     },
     {
-      "word": "[rain] on {one's} parade",
+      "id": "d5d51c10-90a6-4764-98e3-48d3a3d579c3",
+      "word": "to [rain] on {one's} parade",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmFpbiBvbiBvbmUncyBwYXJhZGU&hash=93c56a5645b44298977cb796cc43a0f951946609&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmFpbiBvbiBvbmUncyBwYXJhZGU&hash=93c56a5645b44298977cb796cc43a0f951946609&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42128/original/?type=jpeg",
@@ -84,10 +128,11 @@
       ]
     },
     {
-      "word": "[throw] a (monkey|) wrench (into|in) the works",
+      "id": "34394622-3478-4c9b-8067-7ca1b60d7aad",
+      "word": "to [throw] a (monkey|) wrench (into|in) the works",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGhyb3cgYSBtb25rZXkgd3JlbmNoIGludG8gdGhlIHdvcmtz&hash=0b9f4e43fa7c90e2974731010a55faefa96c4ef7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGhyb3cgYSBtb25rZXkgd3JlbmNoIGludG8gdGhlIHdvcmtz&hash=0b9f4e43fa7c90e2974731010a55faefa96c4ef7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46477/original/?type=jpeg",
@@ -95,15 +140,37 @@
       "senses": [
         {
           "definition": "to slow down a plan or activity or prevent it from going on",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I hate it when someone throws a monkey wrench in the works."
+            },
+            {
+              "cf": "",
+              "x": "The funding for the project was withdrawn so that really threw a wrench into the works."
+            },
+            {
+              "cf": "",
+              "x": "The sudden change in regulations right before the product launch threw a wrench into the works for the marketing team."
+            },
+            {
+              "cf": "",
+              "x": "The unexpected resignation of the project manager really threw a wrench into the works of our carefully planned timeline."
+            },
+            {
+              "cf": "",
+              "x": "The economic downturn threw a wrench into the works of the company's expansion plans."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[tie] {oneself} (up|) (in|into) knots",
+      "id": "dd38320a-96f5-4363-bd78-ff1bde6064fe",
+      "word": "to [tie] {oneself} (up|) (in|into) knots",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGllIG9uZXNlbGYgdXAgaW4ga25vdHM&hash=90d6a32878dca91c7d75990eb1ef56665880240d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGllIG9uZXNlbGYgdXAgaW4ga25vdHM&hash=90d6a32878dca91c7d75990eb1ef56665880240d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45623/original/?type=jpeg",
@@ -116,10 +183,11 @@
       ]
     },
     {
-      "word": "[upset|overturn] the apple cart",
+      "id": "6a354313-af75-467a-9ffa-9cd387ef2f94",
+      "word": "to [upset|overturn] the apple cart",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdXBzZXQgdGhlIGFwcGxlIGNhcnQ&hash=f99cc2df0ead8260000eaa5c3463d44b6589470d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdXBzZXQgdGhlIGFwcGxlIGNhcnQ&hash=f99cc2df0ead8260000eaa5c3463d44b6589470d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46479/original/?type=jpeg",
@@ -127,36 +195,16 @@
       "senses": [
         {
           "definition": "to cause problems, often by ruining or interrupting something that was planned",
-          "examples": [
-            {
-              "cf": "",
-              "x": "An industry-backed initiative petition with a large marketing budget overturned the apple cart."
-            },
-            {
-              "cf": "",
-              "x": "I don't like upsetting the apple cart, but with all the snow outside I think we should change our plans and not go to the concert this evening."
-            },
-            {
-              "cf": "",
-              "x": "Sarah's decision to quit her job and travel the world upset the apple cart for her family, who were relying on her income."
-            },
-            {
-              "cf": "",
-              "x": "The sudden budget cuts in the middle of the project overturned the apple cart, leading to delays and confusion."
-            },
-            {
-              "cf": "",
-              "x": "By revealing the company's financial troubles to the public, the whistleblower really upset the apple cart."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[muddy] the (waters|issue)",
+      "id": "0138f813-971c-4d81-ab35-a0253c00f02c",
+      "word": "to [muddy] the (waters|issue)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbXVkZHkgdGhlIHdhdGVycw&hash=2659ca174ed2ea171620074b5d901d2ca2683701&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbXVkZHkgdGhlIHdhdGVycw&hash=2659ca174ed2ea171620074b5d901d2ca2683701&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45345/original/?type=jpeg",
@@ -169,10 +217,11 @@
       ]
     },
     {
-      "word": "[put] the kibosh on {sth}",
+      "id": "7645a8bf-bae0-40df-928c-806f6508c055",
+      "word": "to [put] the kibosh on {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IHRoZSBraWJvc2ggb24gc29tZXRoaW5n&hash=d5587a8545f5591ae8dd6d7bdd11e59f4e90d822&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IHRoZSBraWJvc2ggb24gc29tZXRoaW5n&hash=d5587a8545f5591ae8dd6d7bdd11e59f4e90d822&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/21278/original/?type=jpeg",
@@ -206,10 +255,11 @@
       ]
     },
     {
-      "word": "[knock] the (wind|breath|stuffing) out of {sb}",
+      "id": "6ab697ae-3432-4267-bf6c-8191ca9ef2bb",
+      "word": "to [knock] the (wind|breath|stuffing) out of {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga25vY2sgdGhlIHdpbmQgb3V0IG9mIHNvbWVib2R5&hash=3fa64d19a833e5726c08b96b8e987863f8419169&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga25vY2sgdGhlIHdpbmQgb3V0IG9mIHNvbWVib2R5&hash=3fa64d19a833e5726c08b96b8e987863f8419169&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42676/original/?type=jpeg",
@@ -217,20 +267,16 @@
       "senses": [
         {
           "definition": "to do something, particularly something others do not expect, in order to make them feel less confident or important",
-          "examples": [
-            {
-              "cf": "",
-              "x": "When he found out that he didn't get the job, it really knocked the stuffing out of him."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[cast] a (shadow|cloud) (over|on) {sth}",
+      "id": "0f8d19ea-3115-49e1-bd50-57c1e4c2f5ae",
+      "word": "to [cast] a (shadow|cloud) (over|on) {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2FzdCBhIHNoYWRvdyBvdmVyIHNvbWV0aGluZw&hash=189acb07419e00562898eefc029ebc06f8183caa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2FzdCBhIHNoYWRvdyBvdmVyIHNvbWV0aGluZw&hash=189acb07419e00562898eefc029ebc06f8183caa&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46469/original/?type=jpeg",
@@ -238,42 +284,18 @@
       "senses": [
         {
           "definition": "to create a sense of negativity and hopelessness regarding a particular thing or situation",
-          "examples": [
-            {
-              "cf": "",
-              "x": "My brother's heartbreak is casting a cloud over my wedding."
-            },
-            {
-              "cf": "",
-              "x": "Personal failures, disconnect from friends, and academic disappointments casted a cloud on my sense of purpose."
-            },
-            {
-              "cf": "",
-              "x": "The scandal cast a shadow over the politician's career, leading to a loss of public trust."
-            },
-            {
-              "cf": "",
-              "x": "he sudden economic downturn cast a cloud over the prospects of the company's expansion plans."
-            },
-            {
-              "cf": "",
-              "x": "The unresolved dispute between the neighbors cast a shadow on the usually peaceful neighborhood."
-            },
-            {
-              "cf": "",
-              "x": "The unexpected injury to the star player cast a cloud on the team's chances of winning the championship."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "490a67a7-6429-4a0a-8b5e-3c8bb9373ad6",
       "word": "fly in the ointment",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Zmx5IGluIHRoZSBvaW50bWVudA&hash=7d12b313f50788a36b7af72ea2163a11593e6a85&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "flaɪ ɪn ðə ɔɪnt.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmx5IGluIHRoZSBvaW50bWVudA&hash=7d12b313f50788a36b7af72ea2163a11593e6a85&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "flai in dhē awint.mēnt",
       "img": "https://cdn.langeek.co/photo/46587/original/?type=jpeg",
       "pronunciation": "flˈaɪ ɪnðɪ ˈɔɪntmənt",
       "senses": [
@@ -305,10 +327,11 @@
       ]
     },
     {
-      "word": "[put] a damper on {sth}",
+      "id": "6d3a72e4-f9f2-465b-b0fa-738b4edda1df",
+      "word": "to [put] a damper on {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IGEgZGFtcGVyIG9uIHNvbWV0aGluZw&hash=114ab517844eb2ba50c76d38ca0332beaba2314f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IGEgZGFtcGVyIG9uIHNvbWV0aGluZw&hash=114ab517844eb2ba50c76d38ca0332beaba2314f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/22461/original/?type=jpeg",
@@ -316,36 +339,16 @@
       "senses": [
         {
           "definition": "to lessen or decrease the enjoyment, strength, or activity of something",
-          "examples": [
-            {
-              "cf": "",
-              "x": "With the pandemic putting a damper on public transit, the automotive industry continued to fare well while other verticals may have seen larger sales dips."
-            },
-            {
-              "cf": "",
-              "x": "The unexpected rain put a damper on our outdoor picnic plans."
-            },
-            {
-              "cf": "",
-              "x": "Jane's criticism during the meeting really put a damper on the team's enthusiasm for the project."
-            },
-            {
-              "cf": "",
-              "x": "The budget cuts put a damper on the company's expansion plans."
-            },
-            {
-              "cf": "",
-              "x": "The news of the cancellation of the concert put a damper on the fans' excitement."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[take] the gilt off the gingerbread",
+      "id": "a7687d73-c906-4385-8f50-e0a506bd9c24",
+      "word": "to [take] the gilt off the gingerbread",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSB0aGUgZ2lsdCBvZmYgdGhlIGdpbmdlcmJyZWFk&hash=d729eddba42b217dc51780905538d00fdbd5af13&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSB0aGUgZ2lsdCBvZmYgdGhlIGdpbmdlcmJyZWFk&hash=d729eddba42b217dc51780905538d00fdbd5af13&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42114/original/?type=jpeg",
@@ -353,28 +356,7 @@
       "senses": [
         {
           "definition": "to cause something to be less enjoyable as it could be",
-          "examples": [
-            {
-              "cf": "",
-              "x": "We had a great trip, but our flight home was badly delayed, which took the gilt off the gingerbread."
-            },
-            {
-              "cf": "",
-              "x": "The unexpected repair costs took the gilt off the gingerbread of their new home purchase."
-            },
-            {
-              "cf": "",
-              "x": "The excessive work hours and stress took the gilt off the gingerbread of the high-paying job."
-            },
-            {
-              "cf": "",
-              "x": "The negative feedback from critics took the gilt off the gingerbread of the director's highly anticipated film."
-            },
-            {
-              "cf": "",
-              "x": "The constant arguing and conflicts have taken the gilt off the gingerbread of their once-happy relationship."
-            }
-          ]
+          "examples": []
         }
       ]
     }

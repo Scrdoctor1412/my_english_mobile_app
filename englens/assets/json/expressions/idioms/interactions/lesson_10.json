@@ -1,13 +1,15 @@
 {
+  "id": "79e0fab2-338a-4930-9423-3b42bca515a7",
   "topic": "interactions",
   "title": "Abuse & Manipulation",
   "lesson": "lesson_10",
   "word_list": [
     {
-      "word": "[feather] {one's} (own|) nest",
+      "id": "3cb54b5d-edc1-4579-a48f-3dac46a4ca94",
+      "word": "to [feather] {one's} (own|) nest",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmVhdGhlciBvbmUncyBvd24gbmVzdA&hash=313af5b0904e839933e240ed6675519d996756d5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmVhdGhlciBvbmUncyBvd24gbmVzdA&hash=313af5b0904e839933e240ed6675519d996756d5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44696/original/?type=jpeg",
@@ -41,10 +43,11 @@
       ]
     },
     {
-      "word": "[hold] (a|the) candle to the Devil",
+      "id": "d3ac50d6-d8cd-4206-b96d-ca0cc66cd51b",
+      "word": "to [hold] (a|the) candle to the Devil",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaG9sZCBhIGNhbmRsZSB0byB0aGUgRGV2aWw&hash=95a0d6b18fa94a12c3dc7fce3104fd5d081e0fca&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaG9sZCBhIGNhbmRsZSB0byB0aGUgRGV2aWw&hash=95a0d6b18fa94a12c3dc7fce3104fd5d081e0fca&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42016/original/?type=jpeg",
@@ -57,10 +60,11 @@
       ]
     },
     {
-      "word": "[pull] (some|) strings",
+      "id": "290d40aa-ea66-4959-8ce9-0ba0cb86e944",
+      "word": "to [pull] (some|) strings",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHVsbCBzb21lIHN0cmluZ3M&hash=78d9a8ca61d2a77ade59db7854ec745030628ec9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHVsbCBzb21lIHN0cmluZ3M&hash=78d9a8ca61d2a77ade59db7854ec745030628ec9&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40695/original/?type=jpeg",
@@ -90,10 +94,11 @@
       ]
     },
     {
+      "id": "53e3775e-1512-46e4-9e2d-42651e8c781c",
       "word": "{not} [do] (any|) evil that good (may|might|) come (out|) of it",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bm90IGRvIGFueSBldmlsIHRoYXQgZ29vZCBtYXkgY29tZSBvdXQgb2YgaXQ&hash=f1fcd673947b3b1cdbf25782b14a16a23669492d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bm90IGRvIGFueSBldmlsIHRoYXQgZ29vZCBtYXkgY29tZSBvdXQgb2YgaXQ&hash=f1fcd673947b3b1cdbf25782b14a16a23669492d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44700/original/?type=jpeg",
@@ -101,57 +106,33 @@
       "senses": [
         {
           "definition": "to avoid doing something bad or unethical for the sake of achieving something good",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Ethical leaders understand the importance of not compromising their values, even when pressured to do so, as they believe in not doing evil that good may come out of it."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "957ad038-75c1-461a-990c-150386f33619",
       "word": "up to no good",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dXAgdG8gbm8gZ29vZA&hash=f53dd28d2dd6fcb6b7d6159a69165426e12e5d92&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʌp tu: noʊ gʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=dXAgdG8gbm8gZ29vZA&hash=f53dd28d2dd6fcb6b7d6159a69165426e12e5d92&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ap too nooo good",
       "img": "https://cdn.langeek.co/photo/29705/original/?type=jpeg",
       "pronunciation": "biː ˌʌp tə nˈoʊ ɡˈʊd",
       "senses": [
         {
           "definition": "about to do something bad or evil",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I saw those kids hanging out near the abandoned building again; they must be up to no good."
-            },
-            {
-              "cf": "",
-              "x": "Whenever he gets that secretive look on his face, you know he's up to no good."
-            },
-            {
-              "cf": "",
-              "x": "The security guard noticed a group of people loitering around the parking lot late at night and suspected they were up to no good."
-            },
-            {
-              "cf": "",
-              "x": "The teacher caught the students passing notes during the exam and knew they were up to no good."
-            },
-            {
-              "cf": "",
-              "x": "She had a feeling that her coworker's sudden interest in the company's financial records meant he was up to no good."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[curry] favor with {sb}",
+      "id": "6fbd3c6b-ca31-4e14-b7a4-233cab3024a8",
+      "word": "to [curry] favor with {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3VycnkgZmF2b3Igd2l0aCBzb21lYm9keQ&hash=5f09d2f1afbce56bf42b2b3c7fe3057094d05e0c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3VycnkgZmF2b3Igd2l0aCBzb21lYm9keQ&hash=5f09d2f1afbce56bf42b2b3c7fe3057094d05e0c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42214/original/?type=jpeg",
@@ -169,10 +150,11 @@
       ]
     },
     {
-      "word": "[wheel] and [deal]",
+      "id": "5118e017-3a6d-4d80-8393-7d8a0fa778fe",
+      "word": "to [wheel] and [deal]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2hlZWwgYW5kIGRlYWw&hash=d3332382f64016d30b5dc3356db8f00c23149c85&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2hlZWwgYW5kIGRlYWw&hash=d3332382f64016d30b5dc3356db8f00c23149c85&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41013/original/?type=jpeg",
@@ -180,20 +162,16 @@
       "senses": [
         {
           "definition": "to use various dishonest or complicated methods in order to gain things, particularly in politics or business",
-          "examples": [
-            {
-              "cf": "",
-              "x": "To succeed in the stock market, you need to know how to wheel and deal effectively."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[fall] into a trap",
+      "id": "9da6578c-084c-43db-a2c4-9b3b40fda57b",
+      "word": "to [fall] into a trap",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmFsbCBpbnRvIGEgdHJhcA&hash=779acea48a0da24b43f6769c1d2f61c2b8d0b5ac&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmFsbCBpbnRvIGEgdHJhcA&hash=779acea48a0da24b43f6769c1d2f61c2b8d0b5ac&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44694/original/?type=jpeg",
@@ -201,32 +179,20 @@
       "senses": [
         {
           "definition": "to be placed in a difficult position by believing something that is not true or trusting someone who lies",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She fell into a trap set by online scammers who promised easy money."
-            },
-            {
-              "cf": "",
-              "x": "The company fell into a trap when they trusted the competitor's false information."
-            },
-            {
-              "cf": "",
-              "x": "He realized too late that he had fallen into a trap of his own making when he borrowed money from a loan shark."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "ee679979-055b-4d95-9628-cf89fa5098fc",
       "word": "guinea pig",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3VpbmVhIHBpZw&hash=0fab9975f7e1edb07fc6685d14b6ea6a1b252961&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gɪ.ni pɪg",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3VpbmVhIHBpZw&hash=0fab9975f7e1edb07fc6685d14b6ea6a1b252961&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gi.ni pig",
       "img": "https://cdn.langeek.co/photo/44722/original/?type=jpeg",
-      "pronunciation": "ɡˈɪni pˈɪɡ",
+      "pronunciation": "ˈɡɪni ˌpɪɡ",
       "senses": [
         {
           "definition": "someone on whom scientific experiments are tested",
@@ -256,10 +222,11 @@
       ]
     },
     {
-      "word": "[grease] {one's} [hand|palm]",
+      "id": "bf6b6a96-4f5d-4a37-b3d1-bff0fd0d3943",
+      "word": "to [grease] {one's} [hand|palm]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ3JlYXNlIG9uZSdzIGhhbmQ&hash=77c5befbc87d4032ef69fd1d9723e20415b55d13&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ3JlYXNlIG9uZSdzIGhhbmQ&hash=77c5befbc87d4032ef69fd1d9723e20415b55d13&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/27245/original/?type=jpeg",
@@ -277,12 +244,13 @@
       ]
     },
     {
+      "id": "7c795a8a-f461-4725-ab4c-17d04365d63c",
       "word": "ambulance chaser",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW1idWxhbmNlIGNoYXNlcg&hash=10a98dd159a5ccec75c7b48ead588515cd793a9f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æmb.jə.ləns ʧeɪ.sɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YW1idWxhbmNlIGNoYXNlcg&hash=10a98dd159a5ccec75c7b48ead588515cd793a9f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "āmb.yē.lēns chei.sēr",
       "img": "https://cdn.langeek.co/photo/44720/original/?type=jpeg",
       "pronunciation": "ˈæmbjʊləns tʃˈeɪsɚ",
       "senses": [
@@ -310,10 +278,11 @@
       ]
     },
     {
-      "word": "[load] the dice",
+      "id": "921e972e-d603-4af0-aab1-0e9fe83a2bae",
+      "word": "to [load] the dice",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbG9hZCB0aGUgZGljZQ&hash=7ccad70e247b010f1844b2fe0625ec33c03501c2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbG9hZCB0aGUgZGljZQ&hash=7ccad70e247b010f1844b2fe0625ec33c03501c2&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44724/original/?type=jpeg",
@@ -321,36 +290,16 @@
       "senses": [
         {
           "definition": "to do something unfair in order to make a particular outcome more probable",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He tried to load the dice by giving the exam questions to his friends in advance, but they got caught cheating."
-            },
-            {
-              "cf": "",
-              "x": "The company's executives were accused of loading the dice by fixing the bidding process to favor a particular supplier."
-            },
-            {
-              "cf": "",
-              "x": "It's not fair to load the dice in a competition; everyone should have an equal chance to win."
-            },
-            {
-              "cf": "",
-              "x": "The coach was criticized for trying to load the dice by selecting the easiest opponents for the team."
-            },
-            {
-              "cf": "",
-              "x": "In a fair negotiation, neither party should attempt to load the dice by withholding important information."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[set] a thief to catch a thief",
+      "id": "3df49b8b-06a1-422a-8990-96124c875461",
+      "word": "to [set] a thief to catch a thief",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2V0IGEgdGhpZWYgdG8gY2F0Y2ggYSB0aGllZg&hash=2a561d96944f1a347744fe9657bcb41d684115f9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2V0IGEgdGhpZWYgdG8gY2F0Y2ggYSB0aGllZg&hash=2a561d96944f1a347744fe9657bcb41d684115f9&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44726/original/?type=jpeg",
@@ -358,32 +307,16 @@
       "senses": [
         {
           "definition": "to make use of a thief or criminal just to be able to anticipate, understand, or capture other criminals or thieves",
-          "examples": [
-            {
-              "cf": "",
-              "x": "To catch the art forger, the museum hired an expert art authenticator, believing that 'setting a thief to catch a thief' would be the best approach."
-            },
-            {
-              "cf": "",
-              "x": "The detective sets a thief to catch a thief by recruiting an ex-convict to gather information on a notorious gang."
-            },
-            {
-              "cf": "",
-              "x": "The police department set a thief to catch a thief when they enlisted a reformed burglar to help solve a string of unsolved robberies."
-            },
-            {
-              "cf": "",
-              "x": "In their efforts to combat art forgery, the museum is considering setting a thief to catch a thief by consulting a skilled art forger for insights into detecting counterfeit artworks."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[stack] the (cards|deck)",
+      "id": "19b0b749-ae51-4c4f-b60a-593002672b0f",
+      "word": "to [stack] the (cards|deck)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RhY2sgdGhlIGNhcmRz&hash=b192985a9cbd5b5461062b2a7c8597970d62d165&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RhY2sgdGhlIGNhcmRz&hash=b192985a9cbd5b5461062b2a7c8597970d62d165&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44728/original/?type=jpeg",
@@ -391,36 +324,16 @@
       "senses": [
         {
           "definition": "to arrange situations or conditions to achieve a preferred result by giving oneself an unfair advantage",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The manager stacked the deck by giving all the best assignments to his favorite employees."
-            },
-            {
-              "cf": "",
-              "x": "It's clear that they've stacked the cards against the smaller businesses, making it impossible for them to compete."
-            },
-            {
-              "cf": "",
-              "x": "In the political race, the incumbent candidate seemed to have stacked the deck in his favor with extensive campaign funding."
-            },
-            {
-              "cf": "",
-              "x": "To ensure their team's victory, the coach was accused of stacking the cards by recruiting the best players from other schools."
-            },
-            {
-              "cf": "",
-              "x": "The company's management had stacked the deck by making it nearly impossible for employees to unionize."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[lead] {sb} (around|) by the nose",
+      "id": "61d822b3-8fea-42c6-8116-2d6656d411e1",
+      "word": "to [lead] {sb} (around|) by the nose",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGVhZCBzb21lYm9keSBhcm91bmQgYnkgdGhlIG5vc2U&hash=7b0174f4e5376ceb1fe2a6e28ac9f13bd8229e56&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGVhZCBzb21lYm9keSBhcm91bmQgYnkgdGhlIG5vc2U&hash=7b0174f4e5376ceb1fe2a6e28ac9f13bd8229e56&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44350/original/?type=jpeg",
@@ -442,10 +355,11 @@
       ]
     },
     {
-      "word": "[steal] {one's} thunder",
+      "id": "e39e66ae-4ea5-491a-9b1f-c26e4a8b2e2b",
+      "word": "to [steal] {one's} thunder",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RlYWwgb25lJ3MgdGh1bmRlcg&hash=1fe8399e615e6dc675b181455b0973bd68d5b4d3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RlYWwgb25lJ3MgdGh1bmRlcg&hash=1fe8399e615e6dc675b181455b0973bd68d5b4d3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44730/original/?type=jpeg",
@@ -475,10 +389,11 @@
       ]
     },
     {
-      "word": "[play] games",
+      "id": "dd973bf8-b369-4795-8797-34047a968860",
+      "word": "to [play] games",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGxheSBnYW1lcw&hash=4fe7bf66e29a0c7077c747eb2c21e620253de390&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGxheSBnYW1lcw&hash=4fe7bf66e29a0c7077c747eb2c21e620253de390&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43714/original/?type=jpeg",
@@ -486,28 +401,16 @@
       "senses": [
         {
           "definition": "to engage in activities or behaviors that involve deception, manipulation, or deceit in order to achieve a particular outcome, often at the expense of others",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I can't trust him because he always plays games with people's feelings."
-            },
-            {
-              "cf": "",
-              "x": "She's not interested in a serious relationship; she just wants to play games."
-            },
-            {
-              "cf": "",
-              "x": "In negotiations, it's important not to play games and be transparent about your intentions."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[sell] ice to Eskimos",
+      "id": "8da81cdb-1b7d-4489-9a50-cfaeb1d52959",
+      "word": "to [sell] ice to Eskimos",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2VsbCBpY2UgdG8gRXNraW1vcw&hash=3df389f98377fe7d47a591d2b52302ec6e398d53&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2VsbCBpY2UgdG8gRXNraW1vcw&hash=3df389f98377fe7d47a591d2b52302ec6e398d53&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41200/original/?type=jpeg",
@@ -515,28 +418,7 @@
       "senses": [
         {
           "definition": "to convince someone to do something that seems unnecessary or redundant, especially to buy something they do not need",
-          "examples": [
-            {
-              "cf": "",
-              "x": "John could sell ice to Eskimos; he's an incredibly persuasive salesperson."
-            },
-            {
-              "cf": "",
-              "x": "She tried to sell me a new phone even though I already have the latest model—it's like selling ice to Eskimos."
-            },
-            {
-              "cf": "",
-              "x": "His charm and charisma are so convincing that he could sell ice to Eskimos if he wanted to."
-            },
-            {
-              "cf": "",
-              "x": "Don't waste your time trying to sell that product here; it's like selling ice to Eskimos."
-            },
-            {
-              "cf": "",
-              "x": "The marketing team managed to sell the idea to the CEO, but convincing the customers will be like selling ice to Eskimos."
-            }
-          ]
+          "examples": []
         }
       ]
     }

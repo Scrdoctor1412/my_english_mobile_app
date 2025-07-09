@@ -1,15 +1,17 @@
 {
+  "id": "feae3d0c-fe84-4f15-bf15-a3c083fb3b78",
   "topic": "c2_level",
   "title": "Technology and Internet",
   "lesson": "lesson_70",
   "word_list": [
     {
+      "id": "48d50d59-a48a-4536-8a45-dabacaa47bf7",
       "word": "text to speech",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGV4dCB0byBzcGVlY2g&hash=05a6bd5fc32ebc4d8c854e0689207a2bdb2c184d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɛkst tu: spiʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=dGV4dCB0byBzcGVlY2g&hash=05a6bd5fc32ebc4d8c854e0689207a2bdb2c184d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tekst too spich",
       "img": "",
       "pronunciation": "tˈiː tˈiː ˈɛs",
       "senses": [
@@ -41,49 +43,30 @@
       ]
     },
     {
+      "id": "2c743751-9832-491c-85b6-70360ec3a5af",
       "word": "plug and play",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGx1ZyBhbmQgcGxheQ&hash=53adec827f0abd16b52f293ce378aefd7f466f14&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pləg ænd pleɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=cGx1ZyBhbmQgcGxheQ&hash=53adec827f0abd16b52f293ce378aefd7f466f14&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "plēg ānd plei",
       "img": "",
       "pronunciation": "plˈʌɡ ænd plˈeɪ",
       "senses": [
         {
           "definition": "a technology that allows devices to be connected to a computer system and used without requiring extensive installation or configuration",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The new printer is plug and play, so you can set it up in minutes without needing any additional software."
-            },
-            {
-              "cf": "",
-              "x": "The gaming console features plug and play functionality, allowing you to connect it to your TV and start playing immediately."
-            },
-            {
-              "cf": "",
-              "x": "The USB microphone is plug and play, making it easy to use with your computer for recording audio."
-            },
-            {
-              "cf": "",
-              "x": "The smart home devices are plug and play, allowing you to easily add them to your network and control them with a smartphone app."
-            },
-            {
-              "cf": "",
-              "x": "The external hard drive is plug and play, so you can quickly transfer files between computers without any hassle."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "bd5cb9bc-bc73-480e-9593-50a5159b1b7a",
       "word": "dongle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZG9uZ2xl&hash=b421649449f06c22ff5b900b6ce66957d9d392ac&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɑ:n.gəl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG9uZ2xl&hash=b421649449f06c22ff5b900b6ce66957d9d392ac&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "daan.gēl",
       "img": "",
       "pronunciation": "dˈɑːŋɡəl",
       "senses": [
@@ -111,12 +94,13 @@
       ]
     },
     {
+      "id": "9fe23ba6-5ff8-4f78-80ba-cf37134e4abf",
       "word": "palmtop",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFsbXRvcA&hash=68a8e649a55ec1bb6e05d21f3a3c495c988ef307&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɑ:m.tɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFsbXRvcA&hash=68a8e649a55ec1bb6e05d21f3a3c495c988ef307&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "paam.taap",
       "img": "",
       "pronunciation": "pˈɑːmtɑːp",
       "senses": [
@@ -127,12 +111,13 @@
       ]
     },
     {
+      "id": "5d065b7a-923a-4e1c-a3e8-b0e324ccc445",
       "word": "encryption",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZW5jcnlwdGlvbg&hash=4fb978d590ea685cf8188d2abe532413caaba84b&lang=en&cache-only=0",
-      "phonetic_text": "ɛnkrɪpʃən",
+      "phonetic_text": "ɛnk.rɪp.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZW5jcnlwdGlvbg&hash=4fb978d590ea685cf8188d2abe532413caaba84b&lang=en&cache-only=0",
-      "phonetic_am_text": "enkripshēn",
+      "phonetic_am_text": "enk.rip.shēn",
       "img": "",
       "pronunciation": "ɛnˈkɹɪpʃən",
       "senses": [
@@ -164,12 +149,13 @@
       ]
     },
     {
+      "id": "45e1f7a7-0629-4df2-b99f-4c83603b0228",
       "word": "algorithm",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWxnb3JpdGht&hash=35aceb6d5333a13c322bd523cbe893bd9f445fc5&lang=en&cache-only=0",
-      "phonetic_text": "ælgərɪðəm",
+      "phonetic_text": "æl.gɜ.rɪ.ðəm",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxnb3JpdGht&hash=35aceb6d5333a13c322bd523cbe893bd9f445fc5&lang=en&cache-only=0",
-      "phonetic_am_text": "ālgēridhēm",
+      "phonetic_am_text": "āl.gē.ri.dhēm",
       "img": "",
       "pronunciation": "ˈæɫɡɝˌɪðəm",
       "senses": [
@@ -201,12 +187,13 @@
       ]
     },
     {
+      "id": "ffd77c5c-db12-42af-9c30-2975470d35ad",
       "word": "toggle button",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dG9nZ2xlIGJ1dHRvbg&hash=1fa8d7c9fa3c26c7acfef1be471ac2b28013aa18&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɑ.gəl bʌ.tən",
       "phonetic_am": "https://tts.langeek.co/read?text=dG9nZ2xlIGJ1dHRvbg&hash=1fa8d7c9fa3c26c7acfef1be471ac2b28013aa18&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "taa.gēl ba.tēn",
       "img": "",
       "pronunciation": "tˈɑːɡəl bˈʌʔn̩",
       "senses": [
@@ -238,12 +225,13 @@
       ]
     },
     {
+      "id": "2357ae84-0287-4aeb-8e80-07593014c01f",
       "word": "bootstrap",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9vdHN0cmFw&hash=de35020d9a21b2324cef9d715c79d6b899bad6bf&lang=en&cache-only=0",
-      "phonetic_text": "bu:tstræp",
+      "phonetic_text": "bu:t.stræp",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9vdHN0cmFw&hash=de35020d9a21b2324cef9d715c79d6b899bad6bf&lang=en&cache-only=0",
-      "phonetic_am_text": "bootstrāp",
+      "phonetic_am_text": "boot.strāp",
       "img": "",
       "pronunciation": "ˈbutˌstɹæp",
       "senses": [
@@ -275,12 +263,13 @@
       ]
     },
     {
+      "id": "3d351967-f7e1-4c4a-8534-e00b5d86c9f2",
       "word": "latency",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGF0ZW5jeQ&hash=b443ba30212459ca6e26d3bc29bf0c23c015308f&lang=en&cache-only=0",
-      "phonetic_text": "leɪtənsi",
+      "phonetic_text": "leɪ.tən.si",
       "phonetic_am": "https://tts.langeek.co/read?text=bGF0ZW5jeQ&hash=b443ba30212459ca6e26d3bc29bf0c23c015308f&lang=en&cache-only=0",
-      "phonetic_am_text": "leitēnsi",
+      "phonetic_am_text": "lei.tēn.si",
       "img": "",
       "pronunciation": "ˈɫeɪtənsi",
       "senses": [
@@ -304,12 +293,13 @@
       ]
     },
     {
+      "id": "57052e51-a05a-455b-a956-dc61a7d38ed4",
       "word": "interoperability",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW50ZXJvcGVyYWJpbGl0eQ&hash=fd57dd118a354464e885e85ac42986c83eabc877&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn.tə.rɑ:.pə.rə.bɪ.lɪ.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=aW50ZXJvcGVyYWJpbGl0eQ&hash=fd57dd118a354464e885e85ac42986c83eabc877&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in.tē.raa.pē.rē.bi.li.ti",
       "img": "",
       "pronunciation": "ˌɪntɚɹˌɑːpɚɹəbˈɪlɪɾi",
       "senses": [
@@ -341,12 +331,13 @@
       ]
     },
     {
+      "id": "2d44c051-5355-445e-a827-16042d44a52e",
       "word": "application programming interface",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXBwbGljYXRpb24gcHJvZ3JhbW1pbmcgaW50ZXJmYWNl&hash=d85252ff0b9daf21d633ba2e2352950eb1c2bde0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æp.lə.keɪ.ʃən proʊg.ræ.mɪng ɪn.ɜr.feɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=YXBwbGljYXRpb24gcHJvZ3JhbW1pbmcgaW50ZXJmYWNl&hash=d85252ff0b9daf21d633ba2e2352950eb1c2bde0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "āp.lē.kei.shēn prooog.rā.ming in.ēr.feis",
       "img": "",
       "pronunciation": "ɐ pˈiː ˈaɪ",
       "senses": [
@@ -357,12 +348,13 @@
       ]
     },
     {
+      "id": "15d17771-09fa-4aa5-9ab6-cccd6414a431",
       "word": "bandwidth",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFuZHdpZHRo&hash=77d63ad062f64aea5ddb8e93a65e53420dc583f1&lang=en&cache-only=0",
-      "phonetic_text": "bændwɪdθ",
+      "phonetic_text": "bænd.wɪdθ",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFuZHdpZHRo&hash=77d63ad062f64aea5ddb8e93a65e53420dc583f1&lang=en&cache-only=0",
-      "phonetic_am_text": "bāndwidth",
+      "phonetic_am_text": "bānd.vidth",
       "img": "",
       "pronunciation": "ˈbændwɪdθ",
       "senses": [
@@ -373,12 +365,13 @@
       ]
     },
     {
+      "id": "635cdb0a-4e25-4364-a9b6-d098d7e509e2",
       "word": "local area network",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bG9jYWwgYXJlYSBuZXR3b3Jr&hash=b243422b5cde9de3cd444388556448ee4c0adaf4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "loʊ.kəl ɛ.riə net.wɜrk",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9jYWwgYXJlYSBuZXR3b3Jr&hash=b243422b5cde9de3cd444388556448ee4c0adaf4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "looo.kēl e.riē net.vērk",
       "img": "",
       "pronunciation": "lˈoʊkəl ˈɛɹiə nˈɛtwɜːk",
       "senses": [
@@ -398,14 +391,15 @@
       ]
     },
     {
+      "id": "0e0e2000-0e11-402c-a506-327db1bc3ef5",
       "word": "host",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG9zdA&hash=af5d902e3be489bc26672232da7dff27a3d276a6&lang=en&cache-only=0",
       "phonetic_text": "hoʊst",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9zdA&hash=af5d902e3be489bc26672232da7dff27a3d276a6&lang=en&cache-only=0",
-      "phonetic_am_text": "howst",
+      "phonetic_am_text": "hooost",
       "img": "https://cdn.langeek.co/photo/19500/original/server?type=jpeg",
-      "pronunciation": "ˈhoʊst",
+      "pronunciation": "hoʊst",
       "senses": [
         {
           "definition": "a computer or device on a network that provides services, resources, or data to other computers or devices, known as clients",
@@ -435,12 +429,13 @@
       ]
     },
     {
+      "id": "acdb3145-19a0-48cd-9378-f5863bb52d45",
       "word": "courseware",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291cnNld2FyZQ&hash=4bc03737299d1d720ed7dba0c28951bbf4a57be7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɔ:rs.wɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291cnNld2FyZQ&hash=4bc03737299d1d720ed7dba0c28951bbf4a57be7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kawrs.ver",
       "img": "",
       "pronunciation": "kˈoːɹsjuːˌɛɹ",
       "senses": [
@@ -472,12 +467,13 @@
       ]
     },
     {
+      "id": "e0d97017-6e54-4240-b939-c6965ffad3ee",
       "word": "trojan horse",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJvamFuIGhvcnNl&hash=a42833df43163088b3ee8d22b89edddfc31e2795&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "troʊ.ʤən hɔ:rs",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJvamFuIGhvcnNl&hash=a42833df43163088b3ee8d22b89edddfc31e2795&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trooo.jēn hawrs",
       "img": "",
       "pronunciation": "tɹˈoʊdʒən hˈɔːɹs",
       "senses": [
@@ -509,12 +505,13 @@
       ]
     },
     {
-      "word": "configure",
+      "id": "d5295368-9929-490b-8908-f8bc0fc6266a",
+      "word": "to configure",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29uZmlndXJl&hash=45c4594efac3aa285af9963e7cebbb852eb24b30&lang=en&cache-only=0",
-      "phonetic_text": "kənfɪgjər",
+      "phonetic_text": "kən.fɪ.gjɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29uZmlndXJl&hash=45c4594efac3aa285af9963e7cebbb852eb24b30&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnfigyēr",
+      "phonetic_am_text": "kēn.fi.gyēr",
       "img": "",
       "pronunciation": "kənˈfɪɡjɝ",
       "senses": [
@@ -546,7 +543,8 @@
       ]
     },
     {
-      "word": "ping",
+      "id": "8b1f87ec-b161-41f7-adea-8b2a174fc2a0",
+      "word": "to ping",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGluZw&hash=7d7aa2a891b82c0721dff34412c3c6bca40dc357&lang=en&cache-only=0",
       "phonetic_text": "pɪng",
@@ -583,12 +581,13 @@
       ]
     },
     {
+      "id": "239a31c5-92e1-4004-affb-e7d9aaccc749",
       "word": "augmented reality",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXVnbWVudGVkIHJlYWxpdHk&hash=50db03579db96528a10a9f58b98b46e27341fb82&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑg.mɛn.tɪd riæ.lə.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=YXVnbWVudGVkIHJlYWxpdHk&hash=50db03579db96528a10a9f58b98b46e27341fb82&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aag.men.tid riā.lē.ti",
       "img": "",
       "pronunciation": "ɔːɡmˈɛntᵻd ɹɪˈælɪɾi",
       "senses": [
@@ -620,12 +619,13 @@
       ]
     },
     {
-      "word": "automate",
+      "id": "cbe26851-cb6f-4a47-a57f-d16430634974",
+      "word": "to automate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYXV0b21hdGU&hash=43173d8633593d676e2f91c0e63ed39ee6e3a96d&lang=en&cache-only=0",
-      "phonetic_text": "ɔ:təmeɪt",
+      "phonetic_text": "ɔ.tə.meɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYXV0b21hdGU&hash=43173d8633593d676e2f91c0e63ed39ee6e3a96d&lang=en&cache-only=0",
-      "phonetic_am_text": "aawtēmeit",
+      "phonetic_am_text": "aw.tē.meit",
       "img": "",
       "pronunciation": "ˈɔtəˌmeɪt",
       "senses": [
@@ -657,12 +657,13 @@
       ]
     },
     {
+      "id": "ded6d53f-10c3-4bac-a77c-8b9f9b449b23",
       "word": "back end",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFjayBlbmQ&hash=55061fbbda9bf52ab41fec7c6d167e7792dd0470&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæk ɛnd",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFjayBlbmQ&hash=55061fbbda9bf52ab41fec7c6d167e7792dd0470&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bāk end",
       "img": "",
       "pronunciation": "bˈæk ˈɛnd",
       "senses": [
@@ -686,12 +687,13 @@
       ]
     },
     {
+      "id": "8f9583c7-a996-459a-8e35-6c5a7495c997",
       "word": "front end",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnJvbnQgZW5k&hash=4c3e8a342fac4a3208b2a6c04730916381099542&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "frʌnt ɛnd",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJvbnQgZW5k&hash=4c3e8a342fac4a3208b2a6c04730916381099542&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "frant end",
       "img": "",
       "pronunciation": "fɹˈʌnt ˈɛnd",
       "senses": [
@@ -715,12 +717,13 @@
       ]
     },
     {
+      "id": "38637438-40fb-40bb-9147-7a0a77e095ad",
       "word": "cracker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3JhY2tlcg&hash=a469eb75e950dacb33905e1d642134ca64337ef6&lang=en&cache-only=0",
-      "phonetic_text": "krækər",
+      "phonetic_text": "kræ.kɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3JhY2tlcg&hash=a469eb75e950dacb33905e1d642134ca64337ef6&lang=en&cache-only=0",
-      "phonetic_am_text": "krākēr",
+      "phonetic_am_text": "krā.kēr",
       "img": "",
       "pronunciation": "ˈkɹækɝ",
       "senses": [

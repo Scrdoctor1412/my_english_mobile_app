@@ -1,13 +1,15 @@
 {
+  "id": "e775e705-2148-4182-9417-075b37f01084",
   "topic": "danger",
   "title": "Conflict & War",
   "lesson": "lesson_6",
   "word_list": [
     {
-      "word": "[hit] the dirt",
+      "id": "f0e89e14-bccd-4188-93a0-2923feb13652",
+      "word": "to [hit] the dirt",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGl0IHRoZSBkaXJ0&hash=58bf82c011f39e5b3b6215dd3c75c2feb4406555&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGl0IHRoZSBkaXJ0&hash=58bf82c011f39e5b3b6215dd3c75c2feb4406555&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -15,38 +17,18 @@
       "senses": [
         {
           "definition": "to suddenly fall on the ground, often as a way of avoiding danger",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Suddenly another soldier hits the dirt beside me."
-            },
-            {
-              "cf": "",
-              "x": "When they heard the tornado sirens, the residents hit the dirt in their basements to stay safe."
-            },
-            {
-              "cf": "",
-              "x": "The car suddenly swerved into their lane, and they had to hit the dirt to avoid a collision."
-            },
-            {
-              "cf": "",
-              "x": "As the shooting started, the soldiers immediately began hitting the dirt for cover."
-            },
-            {
-              "cf": "",
-              "x": "When the thunderstorm hits, my dog gets scared and hits the dirt, seeking refuge under the bed."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "243c69aa-67ee-4059-8250-7c3efaca706b",
       "word": "red zone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVkIHpvbmU&hash=04f578fd7a3cef4af2edefb877fd0225de404db9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɛd zoʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVkIHpvbmU&hash=04f578fd7a3cef4af2edefb877fd0225de404db9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "red zooon",
       "img": "",
       "pronunciation": "ɹˈɛd zˈoʊn",
       "senses": [
@@ -57,12 +39,13 @@
       ]
     },
     {
+      "id": "d90a6771-6904-46e0-99a5-b55edff0b821",
       "word": "armed to the teeth",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXJtZWQgdG8gdGhlIHRlZXRo&hash=cac2d3fdaa16533b3e55b878a7d0ad0d9a90bedb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑrmd tu: ðə tiθ",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJtZWQgdG8gdGhlIHRlZXRo&hash=cac2d3fdaa16533b3e55b878a7d0ad0d9a90bedb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aarmd too dhē tith",
       "img": "",
       "pronunciation": "ˈɑːɹmd tə ðə tˈiːθ",
       "senses": [
@@ -94,10 +77,11 @@
       ]
     },
     {
-      "word": "[bust] a cap",
+      "id": "de947128-a42f-446d-b228-6f651cb67a63",
+      "word": "to [bust] a cap",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnVzdCBhIGNhcA&hash=0302dd2d3634ddd486463643b2a141bbb31cbe58&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnVzdCBhIGNhcA&hash=0302dd2d3634ddd486463643b2a141bbb31cbe58&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -105,36 +89,16 @@
       "senses": [
         {
           "definition": "to shoot bullets from a gun",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He threatened to bust a cap if anyone came near his property without permission."
-            },
-            {
-              "cf": "",
-              "x": "He once busted a cap to protect his family from a potential threat."
-            },
-            {
-              "cf": "",
-              "x": "Last year, the gang members busted a cap to assert their dominance in the neighborhood."
-            },
-            {
-              "cf": "",
-              "x": "If the intruders don't leave, he will likely threaten to bust a cap to protect his property."
-            },
-            {
-              "cf": "",
-              "x": "In the intense negotiation, they are willing to bust a cap and walk away from the deal if their demands aren't met."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "27d71a0c-dec0-4f98-bbf1-c90d9a8c271a",
       "word": "eat (hot|my|) lead",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZWF0IGhvdCBsZWFk&hash=db8ea0d88f16add6d8edb2bf43f21a315aa309c3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWF0IGhvdCBsZWFk&hash=db8ea0d88f16add6d8edb2bf43f21a315aa309c3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -142,34 +106,18 @@
       "senses": [
         {
           "definition": "said to an enemy before shooting them dead with a gun",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The gangster threatened to make his enemies \"eat lead\" if they didn't comply with his demands."
-            },
-            {
-              "cf": "",
-              "x": "During the heated argument, he yelled at his opponent to \"shut up or eat lead.\""
-            },
-            {
-              "cf": "",
-              "x": "The detective in the film warned the criminal, \"Surrender now, or you're going to eat hot lead."
-            },
-            {
-              "cf": "",
-              "x": "The sharpshooter taunted his opponent, saying, \"Come on out, and you'll eat my lead!\""
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "e32f65b6-163f-43fc-bbe1-46612107a30c",
       "word": "sitting duck",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2l0dGluZyBkdWNr&hash=e655db241119c26899eb652219ae2d70b6f30dc3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɪ.tɪng dʌk",
       "phonetic_am": "https://tts.langeek.co/read?text=c2l0dGluZyBkdWNr&hash=e655db241119c26899eb652219ae2d70b6f30dc3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "si.ting dak",
       "img": "",
       "pronunciation": "sˈɪɾɪŋ dˈʌk",
       "senses": [
@@ -201,76 +149,45 @@
       ]
     },
     {
+      "id": "7cfe637d-e3b6-491a-b1b1-a7b7bfcb467e",
       "word": "on the offensive",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gdGhlIG9mZmVuc2l2ZQ&hash=b91bc1bb1e75744a3f010410aa1015bfaf99f982&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n ðə ə.fɛn.sɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gdGhlIG9mZmVuc2l2ZQ&hash=b91bc1bb1e75744a3f010410aa1015bfaf99f982&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan dhē ē.fen.siv",
       "img": "",
       "pronunciation": "ɑːnðɪ əfˈɛnsɪv",
       "senses": [
         {
           "definition": "in the position or state of readiness for answering any attack or criticism",
-          "examples": [
-            {
-              "cf": "",
-              "x": "During the battle, the infantry was on the offensive, launching a series of coordinated attacks against enemy positions."
-            },
-            {
-              "cf": "",
-              "x": "The air force was on the offensive, conducting a series of bombing runs to disrupt the enemy's supply lines."
-            },
-            {
-              "cf": "",
-              "x": "In response to the enemy's incursion, the military shifted from a defensive stance to being on the offensive, launching a counteroffensive to reclaim lost territory."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "f7565688-bee2-4d4f-a8fe-c52d0e359d7b",
       "word": "late unpleasantness",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGF0ZSB1bnBsZWFzYW50bmVzcw&hash=95577cfbfccff7c01be0a2f0a064f1aafec5de8d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "leɪt ənp.lɛ.zənt.nəs",
       "phonetic_am": "https://tts.langeek.co/read?text=bGF0ZSB1bnBsZWFzYW50bmVzcw&hash=95577cfbfccff7c01be0a2f0a064f1aafec5de8d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "leit ēnp.le.zēnt.nēs",
       "img": "",
       "pronunciation": "lˈeɪt ʌnplˈɛzəntnəs",
       "senses": [
         {
           "definition": "used for referring to a recent war or conflict",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The book goes over the late unpleasantness of the last election, and the ructions it has caused across the country."
-            },
-            {
-              "cf": "",
-              "x": "In their family history, they often hear stories about their ancestors' experiences during the late unpleasantness."
-            },
-            {
-              "cf": "",
-              "x": "The local museum has an exhibit dedicated to the artifacts and memorabilia from the late unpleasantness."
-            },
-            {
-              "cf": "",
-              "x": "He wrote a book about the late unpleasantness, exploring the personal stories of individuals caught up in the conflict."
-            },
-            {
-              "cf": "",
-              "x": "The old veterans' club frequently gathers to reminisce about the late unpleasantness, sharing their wartime anecdotes."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[put] {sb} to the sword",
+      "id": "2b504dd9-027a-4af1-bac7-811cf1e97c3d",
+      "word": "to [put] {sb} to the sword",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IHNvbWVib2R5IHRvIHRoZSBzd29yZA&hash=c8f465b86d17923efc22766dc9e273032bf8e9a9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IHNvbWVib2R5IHRvIHRoZSBzd29yZA&hash=c8f465b86d17923efc22766dc9e273032bf8e9a9&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -283,10 +200,11 @@
       ]
     },
     {
-      "word": "[die] with {one's} boots on",
+      "id": "cdb5c933-ba16-410f-95a1-2497f5dbfe8d",
+      "word": "to [die] with {one's} boots on",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGllIHdpdGggb25lJ3MgYm9vdHMgb24&hash=ead9f0a53884140aaa4e867e7bf4d214545a3aae&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGllIHdpdGggb25lJ3MgYm9vdHMgb24&hash=ead9f0a53884140aaa4e867e7bf4d214545a3aae&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -294,36 +212,16 @@
       "senses": [
         {
           "definition": "to die while actively engaged in one's work, often in a heroic or dedicated manner",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Bill died with his boots on, caught by suction in a waste pipe."
-            },
-            {
-              "cf": "",
-              "x": "When the fearless cowboy met his end in a showdown with outlaws, he died with his boots on, just as he had always hoped."
-            },
-            {
-              "cf": "",
-              "x": "The dedicated detective solved crimes until his very last day on the force, fulfilling his desire to die with his boots on."
-            },
-            {
-              "cf": "",
-              "x": "The adventurous pilot, who loved to fly, tragically died in a plane crash, living up to his aspiration to die with his boots on."
-            },
-            {
-              "cf": "",
-              "x": "Despite his old age, the hardworking farmer continued tending to his fields and passed away doing what he loved, truly dying with his boots on."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[blow] {one's} brains out",
+      "id": "c1fcbe6f-d161-46cc-a9c9-f9e3f2c2cd37",
+      "word": "to [blow] {one's} brains out",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmxvdyBvbmUncyBicmFpbnMgb3V0&hash=3fac057d65b7a74d48cd93ba5144d93feebd6d57&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmxvdyBvbmUncyBicmFpbnMgb3V0&hash=3fac057d65b7a74d48cd93ba5144d93feebd6d57&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -336,10 +234,11 @@
       ]
     },
     {
-      "word": "[let] loose {sth}",
+      "id": "b61c00fa-c71a-42a6-9d60-408c7f551fef",
+      "word": "to [let] loose {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGV0IGxvb3NlIHNvbWV0aGluZw&hash=bd2533574cb41e5f549fdcf6585e3d067412e3ce&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGV0IGxvb3NlIHNvbWV0aGluZw&hash=bd2533574cb41e5f549fdcf6585e3d067412e3ce&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -347,36 +246,16 @@
       "senses": [
         {
           "definition": "to discharge a large number of bullets or explosives",
-          "examples": [
-            {
-              "cf": "",
-              "x": "During the battle, the soldiers were ordered to let loose a hail of bullets upon the enemy positions."
-            },
-            {
-              "cf": "",
-              "x": "The artillery unit prepared to let loose a relentless barrage of cannon fire on the opposing forces."
-            },
-            {
-              "cf": "",
-              "x": "As night fell, the archers let loose a volley of arrows into the darkness, hoping to hit their unseen foes."
-            },
-            {
-              "cf": "",
-              "x": "The warships at sea readied their cannons to let loose a devastating broadside on the enemy fleet."
-            },
-            {
-              "cf": "",
-              "x": "The commander decided to let loose the cavalry in a swift charge to break through the enemy's defenses."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[stand] at bay",
+      "id": "eb7973fa-63c9-4a48-87aa-03d929a6819e",
+      "word": "to [stand] at bay",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RhbmQgYXQgYmF5&hash=41a3249d16a313760d282e455fb1b70863e60a90&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RhbmQgYXQgYmF5&hash=41a3249d16a313760d282e455fb1b70863e60a90&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -384,24 +263,16 @@
       "senses": [
         {
           "definition": "to fight one's enemies or attackers that pursue one",
-          "examples": [
-            {
-              "cf": "",
-              "x": "A dog barks and stands at bay if he sees any one assault his master."
-            },
-            {
-              "cf": "",
-              "x": "The small group of soldiers had to stand at bay, defending their position against a much larger enemy force."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[duke] it out",
+      "id": "a0d2bc10-067a-4e5c-a371-dda8219e3b32",
+      "word": "to [duke] it out",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHVrZSBpdCBvdXQ&hash=842d5b682d2401c14638effd2538cbbffb81fc0f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZHVrZSBpdCBvdXQ&hash=842d5b682d2401c14638effd2538cbbffb81fc0f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

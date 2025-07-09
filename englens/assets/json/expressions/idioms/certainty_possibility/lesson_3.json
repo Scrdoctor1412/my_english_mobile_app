@@ -1,13 +1,15 @@
 {
+  "id": "c4baadfe-0a56-499d-9638-c02fb4686a01",
   "topic": "certainty_possibility",
   "title": "Impossibility",
   "lesson": "lesson_3",
   "word_list": [
     {
-      "word": "{not} in a (million|thousand|billion) years",
+      "id": "7c318a9d-41e7-4d31-9245-4d9de0d956b5",
+      "word": "{not|never} in a (thousand|million|billion) years",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bm90IGluIGEgdGhvdXNhbmQgeWVhcnM&hash=72d92928d9c26db273a2974079b156503ebc9e41&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bm90IGluIGEgdGhvdXNhbmQgeWVhcnM&hash=72d92928d9c26db273a2974079b156503ebc9e41&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/49846/original/never?type=jpeg",
@@ -15,24 +17,16 @@
       "senses": [
         {
           "definition": "used to say that the chances of something happening or being true are very slim",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Not in a thousand years did I expect him to actually show up on time."
-            },
-            {
-              "cf": "",
-              "x": "That cat is never in a million years going to accept the new puppy."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "59d0338d-5bca-4d01-a8d2-c448960cfe31",
       "word": "a snowball's chance in hell",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YSBzbm93YmFsbCdzIGNoYW5jZSBpbiBoZWxs&hash=266accea8422c2eb3a719706689875d3d952c125&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YSBzbm93YmFsbCdzIGNoYW5jZSBpbiBoZWxs&hash=266accea8422c2eb3a719706689875d3d952c125&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46243/original/?type=jpeg",
@@ -66,12 +60,13 @@
       ]
     },
     {
+      "id": "500753b9-5ac7-4072-b0ed-4f52cd3b7872",
       "word": "a trip to the sun",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YSB0cmlwIHRvIHRoZSBzdW4&hash=22da61df60b8bf3560b2bc4ab9d9604d8ae0be9c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ə trɪp tu: ðə sʌn",
       "phonetic_am": "https://tts.langeek.co/read?text=YSB0cmlwIHRvIHRoZSBzdW4&hash=22da61df60b8bf3560b2bc4ab9d9604d8ae0be9c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ē trip too dhē san",
       "img": "https://cdn.langeek.co/photo/17455/original/impossible?type=jpeg",
       "pronunciation": "ɐ tɹˈɪp tə ðə sˈʌn",
       "senses": [
@@ -103,10 +98,11 @@
       ]
     },
     {
+      "id": "7af8e6f8-8795-466c-92c2-ad86b853b8fc",
       "word": "for love (or|nor) money",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Zm9yIGxvdmUgb3IgbW9uZXk&hash=b2809260f888d8f1850d8f18383fb6d1f95e0f0e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9yIGxvdmUgb3IgbW9uZXk&hash=b2809260f888d8f1850d8f18383fb6d1f95e0f0e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/47224/original/?type=jpeg",
@@ -128,43 +124,28 @@
       ]
     },
     {
+      "id": "712a3e63-87d0-4dbb-ad4c-f6cfc0c20bb4",
       "word": "pie in the sky",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=cGllIGluIHRoZSBza3k&hash=bcd66fd03f38e400a5e0eb98a7a0a8c87babfc66&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "paɪ ɪn ðə skaɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=cGllIGluIHRoZSBza3k&hash=bcd66fd03f38e400a5e0eb98a7a0a8c87babfc66&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pai in dhē skai",
       "img": "https://cdn.langeek.co/photo/46661/original/?type=jpeg",
       "pronunciation": "pˈaɪ ɪnðə skˈaɪ",
       "senses": [
         {
           "definition": "something that is very good or desirable but highly unlikely to happen or be real",
-          "examples": [
-            {
-              "cf": "",
-              "x": "This talk of moving to Australia is all just pie in the sky."
-            },
-            {
-              "cf": "",
-              "x": "The politician's pledge to solve all the nation's problems overnight was dismissed as mere pie in the sky."
-            },
-            {
-              "cf": "",
-              "x": "is dreams of becoming a rock star and touring the world appeared to be just pie in the sky until he got a record deal."
-            },
-            {
-              "cf": "",
-              "x": "Promising an effortless path to success is often likened to offering pie in the sky, as it rarely delivers real results."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "64e1b061-62f9-4815-a3b2-462746a9651e",
       "word": "by (any|no) stretch (of the imagination|)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YnkgYW55IHN0cmV0Y2ggb2YgdGhlIGltYWdpbmF0aW9u&hash=266f0fd05601bc28e505e5b374297cc1f17feb8e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YnkgYW55IHN0cmV0Y2ggb2YgdGhlIGltYWdpbmF0aW9u&hash=266f0fd05601bc28e505e5b374297cc1f17feb8e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/47220/original/?type=jpeg",
@@ -172,40 +153,20 @@
       "senses": [
         {
           "definition": "used to refer to something that is impossible or is extremely hard to imagine or obtain",
-          "examples": [
-            {
-              "cf": "",
-              "x": "By no stretch of the imagination does the factory operate efficiently."
-            },
-            {
-              "cf": "",
-              "x": "This could not by any stretch be seen as a victory."
-            },
-            {
-              "cf": "",
-              "x": "By no stretch of the imagination can we consider this project a success; it was a complete failure."
-            },
-            {
-              "cf": "",
-              "x": "By any stretch of the imagination, it's impossible to see how this proposal benefits the environment."
-            },
-            {
-              "cf": "",
-              "x": "Her artistic abilities are exceptional, and by any stretch of the imagination, she's a talented painter."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "276964e8-b41e-4fa2-a051-1dbe78b803db",
       "word": "no way",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bm8gd2F5&hash=f781b7e21f6a30ca92612c24926a89e34a1c3255&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "noʊ weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=bm8gd2F5&hash=f781b7e21f6a30ca92612c24926a89e34a1c3255&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nooo vei",
       "img": "https://cdn.langeek.co/photo/47276/original/?type=jpeg",
-      "pronunciation": "nˈoʊ wˈeɪ",
+      "pronunciation": "noʊ weɪ",
       "senses": [
         {
           "definition": "used to indicate that something is impossible, unacceptable, or absolutely will not happen under any conditions",
@@ -235,10 +196,11 @@
       ]
     },
     {
+      "id": "6c23c050-9271-49c5-91ba-da8316385595",
       "word": "(the|that) ship has (long|) sailed",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIHNoaXAgaGFzIGxvbmcgc2FpbGVk&hash=1b9e6b8614cfcb893ce72403d44d797ef33e9414&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIHNoaXAgaGFzIGxvbmcgc2FpbGVk&hash=1b9e6b8614cfcb893ce72403d44d797ef33e9414&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46428/original/?type=jpeg",
@@ -246,32 +208,16 @@
       "senses": [
         {
           "definition": "used to say that an offer or possibility is not renewable or available any more",
-          "examples": [
-            {
-              "cf": "",
-              "x": "If you were hoping to ask Mollie out, that ship has long sailed—she's going to the dance with Peter."
-            },
-            {
-              "cf": "",
-              "x": "He wanted to invest in that company years ago, but the ship has long sailed, and the stock price has skyrocketed."
-            },
-            {
-              "cf": "",
-              "x": "They had considered buying the beachfront property, but they delayed the decision, and now it's too expensive; the ship has sailed."
-            },
-            {
-              "cf": "",
-              "x": "He thought about confessing his feelings, but now she's in a committed relationship with someone else; the ship has sailed on that romance."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "ill afford {sth}",
+      "id": "bfaeba50-e8c7-462e-891a-ce99c7b3a391",
+      "word": "to ill afford {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaWxsIGFmZm9yZCBzb21ldGhpbmc&hash=294bb995eabf8dd1dfe02a657ce518d524dc2eb1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaWxsIGFmZm9yZCBzb21ldGhpbmc&hash=294bb995eabf8dd1dfe02a657ce518d524dc2eb1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46543/original/?type=jpeg",
@@ -279,30 +225,18 @@
       "senses": [
         {
           "definition": "to be unable to do or finish something without being harmed or suffering its consequences",
-          "examples": [
-            {
-              "cf": "",
-              "x": "We're already over budget on this project, and we can ill afford any additional expenses."
-            },
-            {
-              "cf": "",
-              "x": "She's working two part-time jobs to make ends meet, so she can ill afford any unexpected bills right now."
-            },
-            {
-              "cf": "",
-              "x": "He had a tight schedule and could ill afford any distractions if he wanted to meet his deadlines."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "8372c2f5-e7a1-4901-8684-2ac885321bef",
       "word": "point of no return",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=cG9pbnQgb2Ygbm8gcmV0dXJu&hash=b15bf1dc0b2563de421f8aa97017dd031cc3db02&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɔɪnt ʌv noʊ ri.tɜrn",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9pbnQgb2Ygbm8gcmV0dXJu&hash=b15bf1dc0b2563de421f8aa97017dd031cc3db02&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pawint av nooo ri.tērn",
       "img": "https://cdn.langeek.co/photo/47282/original/?type=jpeg",
       "pronunciation": "pˈɔɪnt ʌv nˈoʊ ɹɪtˈɜːn",
       "senses": [
@@ -334,12 +268,13 @@
       ]
     },
     {
+      "id": "b596bb96-8a52-433b-a30a-34444a03fd2b",
       "word": "out of the question",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b3V0IG9mIHRoZSBxdWVzdGlvbg&hash=8d2a82c1513b52c03a6b5503be73382a5f234d19&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aʊt ʌv ðə kwɛs.ʧən",
       "phonetic_am": "https://tts.langeek.co/read?text=b3V0IG9mIHRoZSBxdWVzdGlvbg&hash=8d2a82c1513b52c03a6b5503be73382a5f234d19&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aoot av dhē kves.chēn",
       "img": "https://cdn.langeek.co/photo/42266/original/?type=jpeg",
       "pronunciation": "ˌaʊɾəv ðə kwˈɛstʃən",
       "senses": [
@@ -371,10 +306,11 @@
       ]
     },
     {
+      "id": "6cf00f47-60ef-423e-a334-7260077041ec",
       "word": "when chickens have teeth",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=d2hlbiBjaGlja2VucyBoYXZlIHRlZXRo&hash=28fb0ac1db11c03b2d1849b71e5aa36bc4786ad3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hlbiBjaGlja2VucyBoYXZlIHRlZXRo&hash=28fb0ac1db11c03b2d1849b71e5aa36bc4786ad3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/47284/original/?type=jpeg",
@@ -382,20 +318,16 @@
       "senses": [
         {
           "definition": "said to mean that it is impossible for something to ever happen",
-          "examples": [
-            {
-              "cf": "",
-              "x": "\"I'll lend you my vintage car when chickens have teeth,\" he said, doubting he would ever let anyone borrow it."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "05b360d6-9b9e-4b15-b8ee-c2b0f1d87082",
       "word": "when hell freezes over",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=d2hlbiBoZWxsIGZyZWV6ZXMgb3Zlcg&hash=bda8a112faefd93f4ecfc5e4b953ffd7c421de8d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hlbiBoZWxsIGZyZWV6ZXMgb3Zlcg&hash=bda8a112faefd93f4ecfc5e4b953ffd7c421de8d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/47286/original/?type=jpeg",
@@ -403,61 +335,33 @@
       "senses": [
         {
           "definition": "used to express disbelief in something happening",
-          "examples": [
-            {
-              "cf": "",
-              "x": "\"I'll lend you my vintage sports car when hell freezes over,\" he replied when asked for a loan."
-            },
-            {
-              "cf": "",
-              "x": "She promised to give up her favorite dessert, but that will happen when hell freezes over."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "38097555-7a91-4263-abb7-4557a668ea39",
       "word": "cold day in hell",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Y29sZCBkYXkgaW4gaGVsbA&hash=8bf5bac6b85cf4fc35d0a3909599a020cbe7ddc4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "koʊld deɪ ɪn hɛl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29sZCBkYXkgaW4gaGVsbA&hash=8bf5bac6b85cf4fc35d0a3909599a020cbe7ddc4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kooold dei in hel",
       "img": "https://cdn.langeek.co/photo/47272/original/?type=jpeg",
       "pronunciation": "kˈoʊld dˈeɪ ɪn hˈɛl",
       "senses": [
         {
           "definition": "used for saying that it is completely unlikely that something ever happens",
-          "examples": [
-            {
-              "cf": "",
-              "x": "\"He'll admit he was wrong when it's a cold day in hell,\" his friends said, acknowledging his stubbornness."
-            },
-            {
-              "cf": "",
-              "x": "The chances of her quitting her favorite job are as likely as a cold day in hell; she loves it too much."
-            },
-            {
-              "cf": "",
-              "x": "Getting him to apologize is about as probable as a cold day in hell; he rarely admits fault."
-            },
-            {
-              "cf": "",
-              "x": "Convincing the strict professor to cancel the exam is impossible; it's like waiting for a cold day in hell."
-            },
-            {
-              "cf": "",
-              "x": "The likelihood of her adopting a cat, despite being allergic to them, is as remote as a cold day in hell."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "d308ad4b-3fa6-470e-80d3-c3dfbcb2f7bd",
       "word": "when two Sundays meet",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=d2hlbiB0d28gU3VuZGF5cyBtZWV0&hash=968cc00bdcfff5b2b1c3a3f85bdb99e1f3875393&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hlbiB0d28gU3VuZGF5cyBtZWV0&hash=968cc00bdcfff5b2b1c3a3f85bdb99e1f3875393&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/47288/original/?type=jpeg",
@@ -470,10 +374,11 @@
       ]
     },
     {
+      "id": "1b7bcda9-28c4-42df-be7e-2a62c3ff05c8",
       "word": "over {one's} dead (body|corpse)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b3ZlciBvbmUncyBkZWFkIGJvZHk&hash=3d4bc7595838176676e2787ba9d9d840598e5bc8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b3ZlciBvbmUncyBkZWFkIGJvZHk&hash=3d4bc7595838176676e2787ba9d9d840598e5bc8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/47280/original/?type=jpeg",
@@ -507,10 +412,11 @@
       ]
     },
     {
-      "word": "[cry] for the moon",
+      "id": "bc843980-14c7-4313-add5-7a0409d29a87",
+      "word": "to [cry] for the moon",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3J5IGZvciB0aGUgbW9vbg&hash=e9d0a5904bda94bfae84ccfe405026e2bcd0263a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3J5IGZvciB0aGUgbW9vbg&hash=e9d0a5904bda94bfae84ccfe405026e2bcd0263a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/47274/original/?type=jpeg",
@@ -518,38 +424,18 @@
       "senses": [
         {
           "definition": "to desire what cannot be achieved",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Asking for a raise right after starting a new job is like crying for the moon; you need to prove your worth first."
-            },
-            {
-              "cf": "",
-              "x": "His wish for a private jet for his birthday is nothing more than crying for the moon; it's far beyond their budget."
-            },
-            {
-              "cf": "",
-              "x": "Wanting a perfect relationship without any disagreements is like crying for the moon; conflicts are a part of every relationship."
-            },
-            {
-              "cf": "",
-              "x": "The customer's demand for a custom-made item within an hour is crying for the moon; it's impossible to produce in such a short time."
-            },
-            {
-              "cf": "",
-              "x": "Hoping for a complete overhaul of the healthcare system without any financial consequences is like crying for the moon; it's a complex issue with no easy solution."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "be935d76-2a25-44a4-8ac5-9a2e61d65678",
       "word": "off the table",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b2ZmIHRoZSB0YWJsZQ&hash=6600f4b9768cf4c28594628cc44da26418800e73&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑf ðə teɪ.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=b2ZmIHRoZSB0YWJsZQ&hash=6600f4b9768cf4c28594628cc44da26418800e73&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aaf dhē tei.bēl",
       "img": "https://cdn.langeek.co/photo/46336/original/?type=jpeg",
       "pronunciation": "impractical",
       "senses": [
@@ -558,21 +444,34 @@
           "examples": [
             {
               "cf": "",
-              "x": "After hours of negotiation, the idea of a pay raise was off the table for the foreseeable future."
+              "x": "After the argument, the idea of a raise was off the table."
             },
             {
               "cf": "",
-              "x": "Discussing the controversial policy was off the table, as it was clear that it wouldn't gain the necessary support."
+              "x": "The proposal is off the table now that we have a better option."
+            },
+            {
+              "cf": "",
+              "x": "Due to budget cuts, any additional spending is off the table for this year."
+            },
+            {
+              "cf": "",
+              "x": "The offer was off the table once they found a more suitable candidate."
+            },
+            {
+              "cf": "",
+              "x": "After the latest developments, the deal is officially off the table."
             }
           ]
         }
       ]
     },
     {
+      "id": "53fbd7f6-6cdf-41cb-8ffe-693b19017e69",
       "word": "castle in the (air|sky)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Y2FzdGxlIGluIHRoZSBhaXI&hash=f762f1fdb5195f6e571c513cbf6fe9a1b4599ef6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FzdGxlIGluIHRoZSBhaXI&hash=f762f1fdb5195f6e571c513cbf6fe9a1b4599ef6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/47270/original/?type=jpeg",
@@ -606,12 +505,13 @@
       ]
     },
     {
+      "id": "1e55139e-71b4-4010-b668-eb0333b4bc61",
       "word": "no-go",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bm8tZ28&hash=b10a480544a5747e092537216547799a64c94e07&lang=en&cache-only=0",
-      "phonetic_text": "noʊgoʊ",
+      "phonetic_text": "noʊ-goʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=bm8tZ28&hash=b10a480544a5747e092537216547799a64c94e07&lang=en&cache-only=0",
-      "phonetic_am_text": "nowgow",
+      "phonetic_am_text": "nooo-gooo",
       "img": "https://cdn.langeek.co/photo/47278/original/?type=jpeg",
       "pronunciation": "ˈnoʊˌɡoʊ",
       "senses": [

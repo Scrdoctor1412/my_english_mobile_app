@@ -1,17 +1,19 @@
 {
+  "id": "65a2c462-c00f-46f2-b268-30a5780024ff",
   "topic": "decision_suggestion_obligation",
   "title": "Denying Permission",
   "lesson": "lesson_14",
   "word_list": [
     {
-      "word": "ban",
+      "id": "cf8e7659-b24d-4438-8c92-93a961debf8a",
+      "word": "to ban",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmFu&hash=8b50cae76eb84d1951920e99bedd1c3196dab21d&lang=en&cache-only=0",
       "phonetic_text": "bæn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmFu&hash=8b50cae76eb84d1951920e99bedd1c3196dab21d&lang=en&cache-only=0",
       "phonetic_am_text": "bān",
       "img": "https://cdn.langeek.co/photo/58585/original/?type=jpeg",
-      "pronunciation": "ˈbæn",
+      "pronunciation": "bæn",
       "senses": [
         {
           "definition": "to officially forbid a particular action, item, or practice",
@@ -41,6 +43,7 @@
       ]
     },
     {
+      "id": "044ada6e-1a82-4ecc-b26d-85e54dbfcf55",
       "word": "ban",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFu&hash=bbbe889ca450415fa8bc04980673846b782085c1&lang=en&cache-only=0",
@@ -48,7 +51,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=YmFu&hash=bbbe889ca450415fa8bc04980673846b782085c1&lang=en&cache-only=0",
       "phonetic_am_text": "bān",
       "img": "",
-      "pronunciation": "ˈbæn",
+      "pronunciation": "bæn",
       "senses": [
         {
           "definition": "an official rule that prohibits someone from certain activities, behaviors, or goods",
@@ -78,14 +81,15 @@
       ]
     },
     {
-      "word": "bar",
+      "id": "e0c669e5-9b07-4120-8136-81f000a03358",
+      "word": "to bar",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmFy&hash=6509c410090f4b3d099c51ac437e477fe7c69d4d&lang=en&cache-only=0",
-      "phonetic_text": "bɑ:r",
+      "phonetic_text": "bɑr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmFy&hash=6509c410090f4b3d099c51ac437e477fe7c69d4d&lang=en&cache-only=0",
       "phonetic_am_text": "baar",
       "img": "https://cdn.langeek.co/photo/52211/original/?type=jpeg",
-      "pronunciation": "ˈbɑɹ",
+      "pronunciation": "bɑr",
       "senses": [
         {
           "definition": "to not allow someone to do something or go somewhere",
@@ -115,12 +119,13 @@
       ]
     },
     {
-      "word": "forbid",
+      "id": "17ec7f6c-8b2c-4b38-b9fd-41151ebbf0fa",
+      "word": "to forbid",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZm9yYmlk&hash=c6cb99016c0f3a7d158b839926de5102f2353ed7&lang=en&cache-only=0",
-      "phonetic_text": "fərbɪd",
+      "phonetic_text": "fɜr.bɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZm9yYmlk&hash=c6cb99016c0f3a7d158b839926de5102f2353ed7&lang=en&cache-only=0",
-      "phonetic_am_text": "fērbid",
+      "phonetic_am_text": "fēr.bid",
       "img": "https://cdn.langeek.co/photo/47278/original/?type=jpeg",
       "pronunciation": "fɝˈbɪd/, /fɔˈbɪd",
       "senses": [
@@ -148,12 +153,13 @@
       ]
     },
     {
+      "id": "056eeffc-59fa-462d-82fc-5c62b1a8ba5f",
       "word": "forbidden",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Zm9yYmlkZGVu&hash=b3a49c67885915ca776da340a11bbaf6dd78fa67&lang=en&cache-only=0",
-      "phonetic_text": "fɔ:rbɪdən",
+      "phonetic_text": "fɔr.bɪ.dən",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9yYmlkZGVu&hash=b3a49c67885915ca776da340a11bbaf6dd78fa67&lang=en&cache-only=0",
-      "phonetic_am_text": "faawrbidēn",
+      "phonetic_am_text": "fawr.bi.dēn",
       "img": "https://cdn.langeek.co/photo/45393/original/?type=jpeg",
       "pronunciation": "ˈfɔɹbɪdən/, /fɝɹˈbɪdən",
       "senses": [
@@ -173,12 +179,13 @@
       ]
     },
     {
+      "id": "154d91c8-15b9-41e8-a116-5616d9a3ca73",
       "word": "forbidden fruit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9yYmlkZGVuIGZydWl0&hash=91645fe45137a493d26a30e84d4bb1ab36c11ab1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɔr.bɪ.dən fru:t",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9yYmlkZGVuIGZydWl0&hash=91645fe45137a493d26a30e84d4bb1ab36c11ab1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fawr.bi.dēn froot",
       "img": "",
       "pronunciation": "fəbˈɪdən fɹˈuːt",
       "senses": [
@@ -189,12 +196,13 @@
       ]
     },
     {
+      "id": "e351721d-a09b-49eb-90db-0b1e5636eb22",
       "word": "illegal",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aWxsZWdhbA&hash=322555592d497d3e70a0316a3a9fb6095ed5e39b&lang=en&cache-only=0",
-      "phonetic_text": "ɪli:gəl",
+      "phonetic_text": "ɪl.li.gəl",
       "phonetic_am": "https://tts.langeek.co/read?text=aWxsZWdhbA&hash=322555592d497d3e70a0316a3a9fb6095ed5e39b&lang=en&cache-only=0",
-      "phonetic_am_text": "ileegēl",
+      "phonetic_am_text": "il.li.gēl",
       "img": "https://cdn.langeek.co/photo/23515/original/?type=jpeg",
       "pronunciation": "ˌɪˈɫiɡəɫ",
       "senses": [
@@ -226,12 +234,13 @@
       ]
     },
     {
+      "id": "8d477908-3316-4093-a037-21f6c0cd046b",
       "word": "illegally",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=aWxsZWdhbGx5&hash=15017d9eb814e7f3aa3fa2093b78be6da70761dc&lang=en&cache-only=0",
-      "phonetic_text": "ɪli:gəli",
+      "phonetic_text": "ɪl.li.gə.li",
       "phonetic_am": "https://tts.langeek.co/read?text=aWxsZWdhbGx5&hash=15017d9eb814e7f3aa3fa2093b78be6da70761dc&lang=en&cache-only=0",
-      "phonetic_am_text": "ileegēli",
+      "phonetic_am_text": "il.li.gē.li",
       "img": "https://cdn.langeek.co/photo/50007/original/?type=jpeg",
       "pronunciation": "ˌɪˈɫiɡəɫi",
       "senses": [
@@ -263,12 +272,13 @@
       ]
     },
     {
+      "id": "f2b37b31-a69b-4b6a-a24f-3e29ca5aa554",
       "word": "illicit",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aWxsaWNpdA&hash=0c75e830570e91ee3ec0d5a98c7e58ecf538816c&lang=en&cache-only=0",
-      "phonetic_text": "ɪlɪsət",
+      "phonetic_text": "ɪl.lɪ.sɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=aWxsaWNpdA&hash=0c75e830570e91ee3ec0d5a98c7e58ecf538816c&lang=en&cache-only=0",
-      "phonetic_am_text": "ilisēt",
+      "phonetic_am_text": "il.li.sit",
       "img": "",
       "pronunciation": "ˌɪˈɫɪsət",
       "senses": [
@@ -292,12 +302,13 @@
       ]
     },
     {
+      "id": "2618f984-c7b0-4dc0-a9dd-6391721658f3",
       "word": "illicitly",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=aWxsaWNpdGx5&hash=04c67a31a2233db09e76ee340acc9d109ed7a88c&lang=en&cache-only=0",
-      "phonetic_text": "ɪlɪsɪtli",
+      "phonetic_text": "ɪl.lɪ.sɪt.li",
       "phonetic_am": "https://tts.langeek.co/read?text=aWxsaWNpdGx5&hash=04c67a31a2233db09e76ee340acc9d109ed7a88c&lang=en&cache-only=0",
-      "phonetic_am_text": "ilisitli",
+      "phonetic_am_text": "il.li.sit.li",
       "img": "",
       "pronunciation": "ˈɪɫɪsɪtɫi",
       "senses": [
@@ -308,12 +319,13 @@
       ]
     },
     {
+      "id": "6b1f147a-8cbc-4691-bf1a-27d734eaa9b8",
       "word": "impermissible",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aW1wZXJtaXNzaWJsZQ&hash=5a087c26eedd461fea325e52f7fe1647a584a737&lang=en&cache-only=0",
-      "phonetic_text": "ɪmpərmɪsɪbəl",
+      "phonetic_text": "ɪm.pɜr.mɪ.sə.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=aW1wZXJtaXNzaWJsZQ&hash=5a087c26eedd461fea325e52f7fe1647a584a737&lang=en&cache-only=0",
-      "phonetic_am_text": "impērmisibēl",
+      "phonetic_am_text": "im.pēr.mi.sē.bēl",
       "img": "",
       "pronunciation": "ˌɪmpɝˈmɪsɪbəɫ",
       "senses": [
@@ -324,12 +336,13 @@
       ]
     },
     {
+      "id": "7719e926-0b2b-42e2-a499-2ad09aa942fa",
       "word": "inadmissible",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aW5hZG1pc3NpYmxl&hash=148450a12cc83ae48efd070bde13456e96dfb059&lang=en&cache-only=0",
-      "phonetic_text": "ɪnədmɪsəbəl",
+      "phonetic_text": "ɪn.əd.mɪ.sə.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5hZG1pc3NpYmxl&hash=148450a12cc83ae48efd070bde13456e96dfb059&lang=en&cache-only=0",
-      "phonetic_am_text": "inēdmisēbēl",
+      "phonetic_am_text": "in.ēd.mi.sē.bēl",
       "img": "",
       "pronunciation": "ˌɪnædˈmɪsəbəɫ/, /ˌɪnədˈmɪsəbəɫ",
       "senses": [
@@ -353,28 +366,51 @@
       ]
     },
     {
+      "id": "a42d7576-74e0-4832-9c5e-49a96552868b",
       "word": "no",
       "pos": "determiner",
       "phonetic": "https://tts.langeek.co/read?text=bm8&hash=011b913322f69b8d22e48a8dbfbfd5004286021d&lang=en&cache-only=0",
       "phonetic_text": "noʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=bm8&hash=011b913322f69b8d22e48a8dbfbfd5004286021d&lang=en&cache-only=0",
-      "phonetic_am_text": "now",
+      "phonetic_am_text": "nooo",
       "img": "",
       "pronunciation": "noʊ",
       "senses": [
         {
-          "definition": "used state that something is forbidden by the law",
-          "examples": []
+          "definition": "used in warnings, rules, or slogans to forbid or reject something",
+          "examples": [
+            {
+              "cf": "",
+              "x": "No parking beyond this point."
+            },
+            {
+              "cf": "",
+              "x": "No entry without authorization."
+            },
+            {
+              "cf": "",
+              "x": "No smoking in the building."
+            },
+            {
+              "cf": "",
+              "x": "No pets allowed."
+            },
+            {
+              "cf": "",
+              "x": "No food or drink past this area."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "42059b05-db0b-4a8b-9ebb-e093594b7ca0",
       "word": "non-smoking",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bm9uLXNtb2tpbmc&hash=d011f0de998e552f3545c2b68b7071f86cba64bc&lang=en&cache-only=0",
-      "phonetic_text": "nɑnsmoʊkɪng",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bm9uLXNtb2tpbmc&hash=d011f0de998e552f3545c2b68b7071f86cba64bc&lang=en&cache-only=0",
-      "phonetic_am_text": "nɑnsmowking",
+      "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/35677/original/?type=jpeg",
       "pronunciation": "nɑnsˈmoʊkɪŋ",
       "senses": [
@@ -406,12 +442,13 @@
       ]
     },
     {
+      "id": "268baa1b-ba69-48bf-889f-961392a41bb0",
       "word": "off-limits",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=b2ZmLWxpbWl0cw&hash=145a2f20b8fd4be97daa5f478c553563d2608563&lang=en&cache-only=0",
-      "phonetic_text": "ɔflɪmɪts",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b2ZmLWxpbWl0cw&hash=145a2f20b8fd4be97daa5f478c553563d2608563&lang=en&cache-only=0",
-      "phonetic_am_text": "awflimits",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˌɔˈfɫɪmɪts",
       "senses": [
@@ -422,12 +459,13 @@
       ]
     },
     {
+      "id": "8efbeee2-47c4-4e35-934c-529852e36cee",
       "word": "out of order",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b3V0IG9mIG9yZGVy&hash=c125057791eff5a6097b055eeb160f1c26fa30b4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aʊt ʌv ɔ:r.dər",
       "phonetic_am": "https://tts.langeek.co/read?text=b3V0IG9mIG9yZGVy&hash=c125057791eff5a6097b055eeb160f1c26fa30b4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aoot av awr.dēr",
       "img": "",
       "pronunciation": "ˌaʊɾəv ˈɔːɹdɚ",
       "senses": [
@@ -438,14 +476,15 @@
       ]
     },
     {
+      "id": "43060180-53b2-4e04-b7b9-d84c7025d4ff",
       "word": "out",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=b3V0&hash=961e55fea524daaf4acac2da412834085cbbfd42&lang=en&cache-only=0",
       "phonetic_text": "aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=b3V0&hash=961e55fea524daaf4acac2da412834085cbbfd42&lang=en&cache-only=0",
-      "phonetic_am_text": "awt",
+      "phonetic_am_text": "aoot",
       "img": "",
-      "pronunciation": "ˈaʊt",
+      "pronunciation": "aʊt",
       "senses": [
         {
           "definition": "‌not possible or not allowed",
@@ -454,12 +493,13 @@
       ]
     },
     {
+      "id": "91c32eea-9210-4ae4-b64e-af010f0f1182",
       "word": "out of bounds",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b3V0IG9mIGJvdW5kcw&hash=bf5e544ab82faf731b5163aa0a5a161f6ad74a03&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aʊt ʌv baʊndz",
       "phonetic_am": "https://tts.langeek.co/read?text=b3V0IG9mIGJvdW5kcw&hash=bf5e544ab82faf731b5163aa0a5a161f6ad74a03&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aoot av baoondz",
       "img": "",
       "pronunciation": "ˌaʊɾəv bˈaʊndz",
       "senses": [
@@ -470,12 +510,13 @@
       ]
     },
     {
+      "id": "a5aac176-e608-47f5-8767-6a61bbbfc201",
       "word": "out of the question",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b3V0IG9mIHRoZSBxdWVzdGlvbg&hash=8d2a82c1513b52c03a6b5503be73382a5f234d19&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aʊt ʌv ðə kwɛs.ʧən",
       "phonetic_am": "https://tts.langeek.co/read?text=b3V0IG9mIHRoZSBxdWVzdGlvbg&hash=8d2a82c1513b52c03a6b5503be73382a5f234d19&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aoot av dhē kves.chēn",
       "img": "https://cdn.langeek.co/photo/42266/original/?type=jpeg",
       "pronunciation": "ˌaʊɾəv ðə kwˈɛstʃən",
       "senses": [
@@ -507,12 +548,13 @@
       ]
     },
     {
-      "word": "prohibit",
+      "id": "cc437c54-7723-4ff9-bcda-21be4349f79c",
+      "word": "to prohibit",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJvaGliaXQ&hash=244e4e82773107b54fffe2b37ce7c6224b567fe2&lang=en&cache-only=0",
-      "phonetic_text": "proʊhɪbət",
+      "phonetic_text": "proʊ.hɪ.bət",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJvaGliaXQ&hash=244e4e82773107b54fffe2b37ce7c6224b567fe2&lang=en&cache-only=0",
-      "phonetic_am_text": "prowhibēt",
+      "phonetic_am_text": "prooo.hi.bēt",
       "img": "https://cdn.langeek.co/photo/47278/original/?type=jpeg",
       "pronunciation": "pɹoʊˈhɪbət",
       "senses": [
@@ -536,12 +578,13 @@
       ]
     },
     {
+      "id": "5de9a58c-4ed0-4a27-96b1-4d3fb8927e4c",
       "word": "prohibition",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvaGliaXRpb24&hash=185db3813aff4d8a170fa1ee1e5628ca0c904352&lang=en&cache-only=0",
-      "phonetic_text": "proʊəbɪʃən",
+      "phonetic_text": "proʊə.bɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvaGliaXRpb24&hash=185db3813aff4d8a170fa1ee1e5628ca0c904352&lang=en&cache-only=0",
-      "phonetic_am_text": "prowēbishēn",
+      "phonetic_am_text": "proooē.bi.shēn",
       "img": "",
       "pronunciation": "ˌpɹoʊəˈbɪʃən",
       "senses": [
@@ -552,12 +595,13 @@
       ]
     },
     {
-      "word": "run afoul of",
+      "id": "f0a0ea79-fbef-4fac-b73e-03923be4ba5e",
+      "word": "to run afoul of",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcnVuIGFmb3VsIG9m&hash=42c927f2780a4e3cece570c5bee345d708369df2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rʌn ə.faʊl ʌv",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcnVuIGFmb3VsIG9m&hash=42c927f2780a4e3cece570c5bee345d708369df2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ran ē.faool av",
       "img": "",
       "pronunciation": "ɹˈʌn ɐfˈaʊl ʌv",
       "senses": [
@@ -568,12 +612,13 @@
       ]
     },
     {
+      "id": "77beb1f7-fb4d-49d0-946a-b1fc9c639139",
       "word": "unlawful",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dW5sYXdmdWw&hash=a11db00f0db51bfb500b90ae4e560d57ba71d22e&lang=en&cache-only=0",
-      "phonetic_text": "ənlɔ:fəl",
+      "phonetic_text": "ʌn.lɔ.fəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5sYXdmdWw&hash=a11db00f0db51bfb500b90ae4e560d57ba71d22e&lang=en&cache-only=0",
-      "phonetic_am_text": "ēnlaawfēl",
+      "phonetic_am_text": "an.law.fēl",
       "img": "https://cdn.langeek.co/photo/23515/original/?type=jpeg",
       "pronunciation": "ənˈɫɔfəɫ",
       "senses": [
@@ -605,12 +650,13 @@
       ]
     },
     {
+      "id": "4ff3f83b-bebc-494f-afa5-f4e8234cecb2",
       "word": "unlawfully",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=dW5sYXdmdWxseQ&hash=57494755d01792140e794ce5164265152ad2c626&lang=en&cache-only=0",
-      "phonetic_text": "ənlɔ:fəli",
+      "phonetic_text": "ʌn.lɔ.fə.li",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5sYXdmdWxseQ&hash=57494755d01792140e794ce5164265152ad2c626&lang=en&cache-only=0",
-      "phonetic_am_text": "ēnlaawfēli",
+      "phonetic_am_text": "an.law.fē.li",
       "img": "https://cdn.langeek.co/photo/49718/original/?type=jpeg",
       "pronunciation": "ənˈɫɔfəɫi",
       "senses": [
@@ -642,14 +688,15 @@
       ]
     },
     {
-      "word": "disqualify",
+      "id": "a6d7d3d3-a8e1-4ef2-bd39-89c15e6e8ea1",
+      "word": "to disqualify",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlzcXVhbGlmeQ&hash=cd654136ac39e8edcb0b906aec347b677746bd2e&lang=en&cache-only=0",
-      "phonetic_text": "dɪskwɑ:ləfaɪ",
+      "phonetic_text": "dɪs.kwɑ.lə.faɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlzcXVhbGlmeQ&hash=cd654136ac39e8edcb0b906aec347b677746bd2e&lang=en&cache-only=0",
-      "phonetic_am_text": "diskwaalēfai",
+      "phonetic_am_text": "dis.kvaa.lē.fai",
       "img": "",
-      "pronunciation": "dɪsˈkwɑɫəˌfaɪ",
+      "pronunciation": "dɪˈskwɑləˌfaɪ",
       "senses": [
         {
           "definition": "to officially take away someone's right to do something for violating a rule",
@@ -671,45 +718,30 @@
       ]
     },
     {
+      "id": "faf985cf-1eb1-43e1-bdd9-661026b5f4fb",
       "word": "sanction",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FuY3Rpb24&hash=a4a14ad9b0e8c33d44914f2ff637d0f97edcb3a7&lang=en&cache-only=0",
-      "phonetic_text": "sænkʃən",
+      "phonetic_text": "sænk.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FuY3Rpb24&hash=a4a14ad9b0e8c33d44914f2ff637d0f97edcb3a7&lang=en&cache-only=0",
-      "phonetic_am_text": "sānkshēn",
+      "phonetic_am_text": "sānk.shēn",
       "img": "",
       "pronunciation": "ˈsæŋkʃən",
       "senses": [
         {
           "definition": "an order officially put to limit contact or trade with a particular country that has not obeyed international law",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The government imposed economic sanctions on the country for violating international agreements."
-            },
-            {
-              "cf": "",
-              "x": "The United Nations imposed sanctions on the dictator's regime to pressure them into compliance with human rights standards."
-            },
-            {
-              "cf": "",
-              "x": "International sanctions were lifted after the country demonstrated significant progress in nuclear disarmament."
-            },
-            {
-              "cf": "",
-              "x": "The United Nations Security Council debated the imposition of sanctions to address the humanitarian crisis in the region."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "f78ec122-1f17-41c1-84b3-03792006638c",
       "word": "no-go",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bm8tZ28&hash=b10a480544a5747e092537216547799a64c94e07&lang=en&cache-only=0",
-      "phonetic_text": "noʊgoʊ",
+      "phonetic_text": "noʊ-goʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=bm8tZ28&hash=b10a480544a5747e092537216547799a64c94e07&lang=en&cache-only=0",
-      "phonetic_am_text": "nowgow",
+      "phonetic_am_text": "nooo-gooo",
       "img": "https://cdn.langeek.co/photo/47278/original/?type=jpeg",
       "pronunciation": "ˈnoʊˌɡoʊ",
       "senses": [

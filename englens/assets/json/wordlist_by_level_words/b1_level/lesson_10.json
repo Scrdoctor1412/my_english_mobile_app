@@ -1,25 +1,45 @@
 {
+  "id": "d3410fc8-93f4-4915-817a-eae9e9277f5b",
   "topic": "b1_level",
   "title": "Adverbs and Prepositions",
   "lesson": "lesson_10",
   "word_list": [
     {
+      "id": "4374ad63-4de1-416f-b572-80692ec462aa",
       "word": "according to",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=YWNjb3JkaW5nIHRv&hash=91097745c6b8f391fb135db1c07c90d162c5a4f1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YWNjb3JkaW5nIHRv&hash=91097745c6b8f391fb135db1c07c90d162c5a4f1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
-      "pronunciation": "ɐkˈoːɹdɪŋ tuː",
+      "pronunciation": "əˈkɔrdɪŋ tu",
       "senses": [
         {
           "definition": "in regard to what someone has said or written",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "According to the weather forecast, it will rain tomorrow."
+            },
+            {
+              "cf": "",
+              "x": "According to John's email, the meeting has been rescheduled to Friday."
+            },
+            {
+              "cf": "",
+              "x": "The book, according to the author, offers a unique perspective on the subject."
+            },
+            {
+              "cf": "",
+              "x": "According to historical records, the building was constructed in the early 1900s."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "661fd081-b6af-41e1-a13b-4e0d8202aa14",
       "word": "as",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=YXM&hash=92726ad3d3ef13250922674bba77eb0e78ac3e58&lang=en&cache-only=0",
@@ -31,11 +51,33 @@
       "senses": [
         {
           "definition": "used to show that a person or thing looks like someone or something else",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She danced with elegance, graceful as a swan."
+            },
+            {
+              "cf": "",
+              "x": "The child's eyes shone, bright as stars."
+            },
+            {
+              "cf": "",
+              "x": "His voice flowed smoothly, soft as velvet."
+            },
+            {
+              "cf": "",
+              "x": "The mountain range towered, grand as a fortress."
+            },
+            {
+              "cf": "",
+              "x": "The athlete sprinted, fast as a cheetah."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "ceac193a-0e41-4dfc-b9e3-41676a193cf3",
       "word": "like",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=bGlrZQ&hash=8ebd96a821ea318ea0d4b905a330a1822df2581f&lang=en&cache-only=0",
@@ -47,59 +89,74 @@
       "senses": [
         {
           "definition": "used to provide an example",
-          "examples": []
-        }
-      ]
-    },
-    {
-      "word": "within",
-      "pos": "preposition",
-      "phonetic": "https://tts.langeek.co/read?text=d2l0aGlu&hash=f2756cfbd299b5f4811e9bcfaf6005f8c47d35fd&lang=en&cache-only=0",
-      "phonetic_text": "wɪðɪn",
-      "phonetic_am": "https://tts.langeek.co/read?text=d2l0aGlu&hash=f2756cfbd299b5f4811e9bcfaf6005f8c47d35fd&lang=en&cache-only=0",
-      "phonetic_am_text": "widhin",
-      "img": "",
-      "pronunciation": "wɪˈðɪn/, /wɪˈθɪn",
-      "senses": [
-        {
-          "definition": "before a specific period of time passes",
           "examples": [
             {
               "cf": "",
-              "x": "Please complete the assignment within the next hour."
+              "x": "She studies subjects like math, science, and history."
             },
             {
               "cf": "",
-              "x": "The package is expected to arrive within three business days."
+              "x": "They have hobbies like painting, gardening, and knitting."
             },
             {
               "cf": "",
-              "x": "The project must be completed within the allocated timeframe."
-            },
-            {
-              "cf": "",
-              "x": "She promised to respond to the email within 24 hours."
-            },
-            {
-              "cf": "",
-              "x": "The repair should be finished within the week."
+              "x": "He likes fruits like apples, oranges, and bananas."
             }
           ]
         }
       ]
     },
     {
+      "id": "5411d0ec-63b9-4c37-a5cf-b99d9ddb2579",
+      "word": "within",
+      "pos": "preposition",
+      "phonetic": "https://tts.langeek.co/read?text=d2l0aGlu&hash=f2756cfbd299b5f4811e9bcfaf6005f8c47d35fd&lang=en&cache-only=0",
+      "phonetic_text": "wɪ.ðɪn",
+      "phonetic_am": "https://tts.langeek.co/read?text=d2l0aGlu&hash=f2756cfbd299b5f4811e9bcfaf6005f8c47d35fd&lang=en&cache-only=0",
+      "phonetic_am_text": "vi.dhin",
+      "img": "",
+      "pronunciation": "wɪˈðɪn",
+      "senses": [
+        {
+          "definition": "before a specific period of time passes",
+          "examples": [
+            {
+              "cf": "",
+              "x": "They sold out within minutes of opening."
+            },
+            {
+              "cf": "",
+              "x": "Results should be available within 24 hours."
+            },
+            {
+              "cf": "",
+              "x": "The issue was resolved within a week."
+            },
+            {
+              "cf": "",
+              "x": "Repairs must be completed within five days."
+            },
+            {
+              "cf": "",
+              "x": "The plant will bloom within two months."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d97865c5-1d32-4b17-9994-34577e4c0866",
       "word": "below",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YmVsb3c&hash=23e0c74811ea484da43b1763eaaea8298278190f&lang=en&cache-only=0",
-      "phonetic_text": "bɪloʊ",
+      "phonetic_text": "bɪ.loʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVsb3c&hash=23e0c74811ea484da43b1763eaaea8298278190f&lang=en&cache-only=0",
-      "phonetic_am_text": "bilow",
+      "phonetic_am_text": "bi.looo",
       "img": "https://cdn.langeek.co/photo/49724/original/below?type=jpeg",
       "pronunciation": "bɪˈloʊ",
       "senses": [
         {
-          "definition": "in a lower level, position, or place",
+          "definition": "in a position or location situated beneath or lower than something else",
           "examples": [
             {
               "cf": "",
@@ -114,80 +171,53 @@
       ]
     },
     {
+      "id": "04e0ea57-a799-4dc3-9b4b-37809bec743c",
       "word": "underneath",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=dW5kZXJuZWF0aA&hash=2649b5ded566b2ce91172871d42a70dc561b7374&lang=en&cache-only=0",
-      "phonetic_text": "ʌndərni:θ",
+      "phonetic_text": "ʌn.dər.niθ",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5kZXJuZWF0aA&hash=2649b5ded566b2ce91172871d42a70dc561b7374&lang=en&cache-only=0",
-      "phonetic_am_text": "andērneeth",
+      "phonetic_am_text": "an.dēr.nith",
       "img": "https://cdn.langeek.co/photo/49724/original/below?type=jpeg",
-      "pronunciation": "ˌəndɝˈniθ",
+      "pronunciation": "ˌʌndɚˈniθ",
       "senses": [
         {
           "definition": "used to show that something or someone is directly below or under something",
           "examples": [
             {
               "cf": "",
-              "x": "The cat found a cozy spot underneath the blanket to nap."
+              "x": "The cat hid underneath the porch during the storm."
             },
             {
               "cf": "",
-              "x": "She discovered a hidden compartment underneath the floorboards of the old house."
+              "x": "We placed the heater underneath the table to stay warm."
             },
             {
               "cf": "",
-              "x": "He placed his umbrella underneath the table to keep it out of the rain."
+              "x": "His keys were found underneath the sofa cushion."
+            },
+            {
+              "cf": "",
+              "x": "The workers set up scaffolding underneath the bridge."
+            },
+            {
+              "cf": "",
+              "x": "A secret tunnel ran underneath the old church."
             }
           ]
         }
       ]
     },
     {
-      "word": "backwards",
-      "pos": "adverb",
-      "phonetic": "https://tts.langeek.co/read?text=YmFja3dhcmRz&hash=8d99fd7f602b517fc15766ef72ecb1a5db07c36c&lang=en&cache-only=0",
-      "phonetic_text": "bækwərdz",
-      "phonetic_am": "https://tts.langeek.co/read?text=YmFja3dhcmRz&hash=8d99fd7f602b517fc15766ef72ecb1a5db07c36c&lang=en&cache-only=0",
-      "phonetic_am_text": "bākwērdz",
-      "img": "",
-      "pronunciation": "ˈbækwɝdz",
-      "senses": [
-        {
-          "definition": "in or toward the direction of a position or place that is behind",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She stepped backwards to get a better view of the entire painting."
-            },
-            {
-              "cf": "",
-              "x": "The car rolled backwards down the hill when the brakes failed."
-            },
-            {
-              "cf": "",
-              "x": "He read the note backwards, trying to decipher the hidden message."
-            },
-            {
-              "cf": "",
-              "x": "The child stumbled and fell backwards onto the soft grass."
-            },
-            {
-              "cf": "",
-              "x": "The dancer moved gracefully, spinning backwards across the stage."
-            }
-          ]
-        }
-      ]
-    },
-    {
+      "id": "38462eec-ebfd-4254-be58-c8f6d0092549",
       "word": "downward",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=ZG93bndhcmQ&hash=2f15e5fdd8a20ed9949e273906ad2696f75dde6c&lang=en&cache-only=0",
-      "phonetic_text": "daʊnwərd",
+      "phonetic_text": "daʊn.wɔrd",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG93bndhcmQ&hash=2f15e5fdd8a20ed9949e273906ad2696f75dde6c&lang=en&cache-only=0",
-      "phonetic_am_text": "dawnwērd",
+      "phonetic_am_text": "daoon.vawrd",
       "img": "https://cdn.langeek.co/photo/23699/original/?type=jpeg",
-      "pronunciation": "ˈdaʊnwɝd",
+      "pronunciation": "ˈdaʊnwɚd",
       "senses": [
         {
           "definition": "toward a lower level or position",
@@ -217,38 +247,83 @@
       ]
     },
     {
+      "id": "55fa95b4-d4f7-4c71-9652-abbaec4b8fe3",
       "word": "nearby",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=bmVhcmJ5&hash=1bffcfffa69a432fb450083f100e718a0493b6d3&lang=en&cache-only=0",
-      "phonetic_text": "nɪrbaɪ",
+      "phonetic_text": "nɪr.baɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=bmVhcmJ5&hash=1bffcfffa69a432fb450083f100e718a0493b6d3&lang=en&cache-only=0",
-      "phonetic_am_text": "nirbai",
+      "phonetic_am_text": "nir.bai",
       "img": "https://cdn.langeek.co/photo/48409/original/?type=jpeg",
-      "pronunciation": "ˈnɪɹˈbaɪ",
+      "pronunciation": "ˈnɪrˌbaɪ",
       "senses": [
         {
           "definition": "not in the distance",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "There's a cafe nearby, perfect for a quick coffee break."
+            },
+            {
+              "cf": "",
+              "x": "My best friends live nearby, so we can hang out often."
+            },
+            {
+              "cf": "",
+              "x": "She found a job nearby, eliminating the need for a lengthy daily commute."
+            },
+            {
+              "cf": "",
+              "x": "The kids were playing nearby, within earshot of their parents."
+            },
+            {
+              "cf": "",
+              "x": "Emergency services were stationed nearby to handle any incidents."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "270270e1-7f8a-4c5e-b068-43d72b469d13",
       "word": "upward",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=dXB3YXJk&hash=114b86ac8683125ca917c8d49e0fcea481ff755e&lang=en&cache-only=0",
-      "phonetic_text": "ʌpwərd",
+      "phonetic_text": "ʌp.wərd",
       "phonetic_am": "https://tts.langeek.co/read?text=dXB3YXJk&hash=114b86ac8683125ca917c8d49e0fcea481ff755e&lang=en&cache-only=0",
-      "phonetic_am_text": "apwērd",
+      "phonetic_am_text": "ap.vērd",
       "img": "https://cdn.langeek.co/photo/43356/original/?type=jpeg",
-      "pronunciation": "ˈəpwɝd",
+      "pronunciation": "ˈʌpwɚd",
       "senses": [
         {
           "definition": "toward a higher level",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The elevator smoothly ascended, moving upward to the top floor."
+            },
+            {
+              "cf": "",
+              "x": "The mountain climbers steadily progressed, trekking upward to the summit."
+            },
+            {
+              "cf": "",
+              "x": "The climber scaled the cliff, inching upward with each foothold."
+            },
+            {
+              "cf": "",
+              "x": "The staircase led upward to the rooftop with a panoramic view."
+            },
+            {
+              "cf": "",
+              "x": "The hot air balloon rose upward into the sky."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "cc33e839-7355-4355-b75e-7118b0fc204d",
       "word": "high",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=aGlnaA&hash=3cc614658c9a918812534f458ebda7ad9da1df22&lang=en&cache-only=0",
@@ -260,68 +335,113 @@
       "senses": [
         {
           "definition": "at a great distance or elevation from the ground or a reference point",
-          "examples": []
-        }
-      ]
-    },
-    {
-      "word": "along",
-      "pos": "adverb",
-      "phonetic": "https://tts.langeek.co/read?text=YWxvbmc&hash=08a59b1a6579b1e5fbac9a419fe48efc43d02f5c&lang=en&cache-only=0",
-      "phonetic_text": "əlɔ:ng",
-      "phonetic_am": "https://tts.langeek.co/read?text=YWxvbmc&hash=08a59b1a6579b1e5fbac9a419fe48efc43d02f5c&lang=en&cache-only=0",
-      "phonetic_am_text": "ēlaawng",
-      "img": "",
-      "pronunciation": "əˈɫɔŋ",
-      "senses": [
-        {
-          "definition": "in the direction of a road, path, etc., indicating a forward movement",
-          "examples": []
-        }
-      ]
-    },
-    {
-      "word": "anywhere",
-      "pos": "adverb",
-      "phonetic": "https://tts.langeek.co/read?text=YW55d2hlcmU&hash=c3f99ca0806249bd5fc4d319cfadbd54a4e05217&lang=en&cache-only=0",
-      "phonetic_text": "ɛniwɛr",
-      "phonetic_am": "https://tts.langeek.co/read?text=YW55d2hlcmU&hash=c3f99ca0806249bd5fc4d319cfadbd54a4e05217&lang=en&cache-only=0",
-      "phonetic_am_text": "eniwer",
-      "img": "https://cdn.langeek.co/photo/43522/original/?type=jpeg",
-      "pronunciation": "ˈɛniˌwɛɹ/, /ˈɛnihˌwɛɹ",
-      "senses": [
-        {
-          "definition": "to, in, or at any place",
           "examples": [
             {
               "cf": "",
-              "x": "I'm willing to go anywhere for a vacation."
+              "x": "The birds circled high in the air before landing on the roof."
             },
             {
               "cf": "",
-              "x": "You can park your car anywhere in the designated area."
+              "x": "The basketball player jumped high to make a slam dunk."
             },
             {
               "cf": "",
-              "x": "Feel free to sit anywhere in the waiting room."
+              "x": "Her bookshelf was stacked high with novels of various genres."
             },
             {
               "cf": "",
-              "x": "Let's go anywhere you want for dinner."
+              "x": "The kite soared high in the sky, dancing with the wind."
+            },
+            {
+              "cf": "",
+              "x": "The helicopter hovered high above the city, giving passengers a stunning view."
             }
           ]
         }
       ]
     },
     {
+      "id": "6859c998-8cb4-42c2-8ede-0c3ceb4310d3",
+      "word": "along",
+      "pos": "adverb",
+      "phonetic": "https://tts.langeek.co/read?text=YWxvbmc&hash=08a59b1a6579b1e5fbac9a419fe48efc43d02f5c&lang=en&cache-only=0",
+      "phonetic_text": "ə.lɔng",
+      "phonetic_am": "https://tts.langeek.co/read?text=YWxvbmc&hash=08a59b1a6579b1e5fbac9a419fe48efc43d02f5c&lang=en&cache-only=0",
+      "phonetic_am_text": "ē.lawng",
+      "img": "https://cdn.langeek.co/photo/49516/original/?type=jpeg",
+      "pronunciation": "əˈlɑŋ",
+      "senses": [
+        {
+          "definition": "in the direction of a road, path, etc., indicating a forward movement",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She walked along, lost in thought."
+            },
+            {
+              "cf": "",
+              "x": "The car moved slowly along."
+            },
+            {
+              "cf": "",
+              "x": "The hikers pressed on, walking along despite the rain."
+            },
+            {
+              "cf": "",
+              "x": "She continued walking along after the others."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0af94d1d-2167-442c-a043-30d693a15ba7",
+      "word": "anywhere",
+      "pos": "adverb",
+      "phonetic": "https://tts.langeek.co/read?text=YW55d2hlcmU&hash=c3f99ca0806249bd5fc4d319cfadbd54a4e05217&lang=en&cache-only=0",
+      "phonetic_text": "ɛ.ni.wɛr",
+      "phonetic_am": "https://tts.langeek.co/read?text=YW55d2hlcmU&hash=c3f99ca0806249bd5fc4d319cfadbd54a4e05217&lang=en&cache-only=0",
+      "phonetic_am_text": "e.ni.ver",
+      "img": "https://cdn.langeek.co/photo/43522/original/?type=jpeg",
+      "pronunciation": "ˈɛniˌwɛr",
+      "senses": [
+        {
+          "definition": "to, in, or at any place",
+          "examples": [
+            {
+              "cf": "",
+              "x": "We looked anywhere we thought he might have gone."
+            },
+            {
+              "cf": "",
+              "x": "You can sit anywhere you like in the theater."
+            },
+            {
+              "cf": "",
+              "x": "She would happily move anywhere for a new adventure."
+            },
+            {
+              "cf": "",
+              "x": "You're free to go anywhere you like after class."
+            },
+            {
+              "cf": "",
+              "x": "She could live anywhere and still feel at home."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b63b0523-d7ff-4e73-a6b1-2e7f9432a8df",
       "word": "everywhere",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=ZXZlcnl3aGVyZQ&hash=2cdfb45a90cb8abad700da05ad731c7bd97c73fa&lang=en&cache-only=0",
-      "phonetic_text": "ɛvriwɛr",
+      "phonetic_text": "ɛ.vɜ.ri.wɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXZlcnl3aGVyZQ&hash=2cdfb45a90cb8abad700da05ad731c7bd97c73fa&lang=en&cache-only=0",
-      "phonetic_am_text": "evriwer",
+      "phonetic_am_text": "e.vē.ri.ver",
       "img": "https://cdn.langeek.co/photo/43500/original/?type=jpeg",
-      "pronunciation": "ˈɛvɹiˌwɛɹ/, /ˈɛvɹihˌwɛɹ",
+      "pronunciation": "ˈɛvriˌwɛr",
       "senses": [
         {
           "definition": "to or in all places",
@@ -351,65 +471,116 @@
       ]
     },
     {
+      "id": "53b349b7-0dc5-4e85-94c4-c318f9daf1ac",
       "word": "nowhere",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=bm93aGVyZQ&hash=0d289cffe18a13272447573eff6d6e1c35bfa79a&lang=en&cache-only=0",
-      "phonetic_text": "noʊwɛr",
+      "phonetic_text": "noʊ.wɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=bm93aGVyZQ&hash=0d289cffe18a13272447573eff6d6e1c35bfa79a&lang=en&cache-only=0",
-      "phonetic_am_text": "nowwer",
+      "phonetic_am_text": "nooo.ver",
       "img": "https://cdn.langeek.co/photo/43538/original/?type=jpeg",
-      "pronunciation": "ˈnoʊˌwɛɹ/, /ˈnoʊhˌwɛɹ",
+      "pronunciation": "ˈnoʊˌwɛr",
       "senses": [
         {
           "definition": "not in or to any place",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "That rare bird is found nowhere else in the world."
+            },
+            {
+              "cf": "",
+              "x": "We searched for hours but the missing file was nowhere."
+            },
+            {
+              "cf": "",
+              "x": "They looked everywhere, but the cat was nowhere to be seen."
+            },
+            {
+              "cf": "",
+              "x": "The treasure hunters searched nowhere on the island, they were sure it wasn't there."
+            },
+            {
+              "cf": "",
+              "x": "I checked all the rooms, but the key was nowhere to be found."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f8a29942-8344-49fb-b02d-4d6c21c82586",
       "word": "somewhere",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=c29tZXdoZXJl&hash=a14fa42f53614bb951c94556d65d0a6637d29ff8&lang=en&cache-only=0",
-      "phonetic_text": "sʌmwɛr",
+      "phonetic_text": "sʌm.wɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=c29tZXdoZXJl&hash=a14fa42f53614bb951c94556d65d0a6637d29ff8&lang=en&cache-only=0",
-      "phonetic_am_text": "samwer",
+      "phonetic_am_text": "sam.ver",
       "img": "https://cdn.langeek.co/photo/43506/original/?type=jpeg",
-      "pronunciation": "ˈsəmˌwɛɹ",
+      "pronunciation": "ˈsʌmˌwɛr",
       "senses": [
         {
           "definition": "in, at, or to some unspecified place",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I left the keys somewhere on the kitchen counter."
+            },
+            {
+              "cf": "",
+              "x": "She placed the package somewhere near the front door."
+            },
+            {
+              "cf": "",
+              "x": "Let's go somewhere quiet to have a conversation."
+            },
+            {
+              "cf": "",
+              "x": "I remember seeing that movie somewhere, but I can't recall where."
+            },
+            {
+              "cf": "",
+              "x": "She disappeared somewhere in the crowd."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "efb36594-9a73-425b-ba75-a7b6bd1c4add",
       "word": "away",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YXdheQ&hash=a22fe1c16e551712d8af84a68ef7dcd6a26cb6a1&lang=en&cache-only=0",
-      "phonetic_text": "əweɪ",
+      "phonetic_text": "ə.weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=YXdheQ&hash=a22fe1c16e551712d8af84a68ef7dcd6a26cb6a1&lang=en&cache-only=0",
-      "phonetic_am_text": "ēwei",
+      "phonetic_am_text": "ē.vei",
       "img": "https://cdn.langeek.co/photo/45918/original/?type=jpeg",
       "pronunciation": "əˈweɪ",
       "senses": [
         {
           "definition": "at a distance from someone, somewhere, or something",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She turned and walked quietly away from the noise."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c3f55ee8-ebde-4001-9e20-da7cf5d14018",
       "word": "behind",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YmVoaW5k&hash=e24c2fa02ff99297d3225b65edfd2dd3b4b53deb&lang=en&cache-only=0",
-      "phonetic_text": "bɪhaɪnd",
+      "phonetic_text": "bɪ.haɪnd",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVoaW5k&hash=e24c2fa02ff99297d3225b65edfd2dd3b4b53deb&lang=en&cache-only=0",
-      "phonetic_am_text": "bihaind",
+      "phonetic_am_text": "bi.haind",
       "img": "https://cdn.langeek.co/photo/20946/original/behind?type=jpeg",
       "pronunciation": "bɪˈhaɪnd",
       "senses": [
         {
-          "definition": "toward or at the back of something or someone",
+          "definition": "at the rear, far side, or back side of something",
           "examples": [
             {
               "cf": "",
@@ -432,13 +603,14 @@
       ]
     },
     {
+      "id": "648e77e2-dfa6-49dc-a1ba-92a0fa349f2a",
       "word": "by",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=Ynk&hash=2cc60022c3035ca401091b765d1aed76b3e4a7e9&lang=en&cache-only=0",
       "phonetic_text": "baɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=Ynk&hash=2cc60022c3035ca401091b765d1aed76b3e4a7e9&lang=en&cache-only=0",
       "phonetic_am_text": "bai",
-      "img": "https://cdn.langeek.co/photo/48439/original/?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/61446/original/?type=jpeg",
       "pronunciation": "baɪ",
       "senses": [
         {
@@ -457,14 +629,15 @@
       ]
     },
     {
+      "id": "1995c9af-2074-4fb9-a5df-6d165eef363e",
       "word": "directly",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=ZGlyZWN0bHk&hash=fb90269a73ec10bc11fa989377356dad5863af7d&lang=en&cache-only=0",
-      "phonetic_text": "dərɛktli",
+      "phonetic_text": "daɪ.rɛk.li",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlyZWN0bHk&hash=fb90269a73ec10bc11fa989377356dad5863af7d&lang=en&cache-only=0",
-      "phonetic_am_text": "dērektli",
+      "phonetic_am_text": "dai.rek.li",
       "img": "https://cdn.langeek.co/photo/14434/original/straight?type=jpeg",
-      "pronunciation": "daɪˈɹɛkɫi/, /dɝˈɛktɫi/, /diˈɹɛkɫi/, /dɪˈɹɛkɫi",
+      "pronunciation": "dɪˈrɛktli/ , /daɪˈrɛktli",
       "senses": [
         {
           "definition": "in a straight line from one point to another without turning or pausing",
@@ -494,14 +667,15 @@
       ]
     },
     {
+      "id": "61d85494-d442-4b6a-8c3a-087a41583a8c",
       "word": "down",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=ZG93bg&hash=2d12df48405febe70f17b9b0afff95955d789097&lang=en&cache-only=0",
       "phonetic_text": "daʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG93bg&hash=2d12df48405febe70f17b9b0afff95955d789097&lang=en&cache-only=0",
-      "phonetic_am_text": "dawn",
+      "phonetic_am_text": "daoon",
       "img": "https://cdn.langeek.co/photo/22335/original/?type=jpeg",
-      "pronunciation": "ˈdaʊn",
+      "pronunciation": "daʊn",
       "senses": [
         {
           "definition": "at or toward a lower level or position",
@@ -510,6 +684,7 @@
       ]
     },
     {
+      "id": "fad08491-a61f-4bc3-b2ed-5ba13599c651",
       "word": "up",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=dXA&hash=fd293632daf57efaf95fd46291521440f7e7abc2&lang=en&cache-only=0",
@@ -517,7 +692,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=dXA&hash=fd293632daf57efaf95fd46291521440f7e7abc2&lang=en&cache-only=0",
       "phonetic_am_text": "ap",
       "img": "https://cdn.langeek.co/photo/43356/original/?type=jpeg",
-      "pronunciation": "ˈəp",
+      "pronunciation": "ʌp",
       "senses": [
         {
           "definition": "at or toward a higher level or position",
@@ -526,14 +701,15 @@
       ]
     },
     {
+      "id": "82a9e29a-d781-4ae5-9cb8-4630905277a7",
       "word": "underground",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=dW5kZXJncm91bmQ&hash=ea417f7ee57e7de8c15f448920bc12896a01b064&lang=en&cache-only=0",
-      "phonetic_text": "ʌndərgraʊnd",
+      "phonetic_text": "ʌn.dərg.raʊnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5kZXJncm91bmQ&hash=ea417f7ee57e7de8c15f448920bc12896a01b064&lang=en&cache-only=0",
-      "phonetic_am_text": "andērgrawnd",
+      "phonetic_am_text": "an.dērg.raoond",
       "img": "https://cdn.langeek.co/photo/48907/original/?type=jpeg",
-      "pronunciation": "ˈəndɝˌɡɹaʊnd",
+      "pronunciation": "ˈʌndɚˌɡraʊnd",
       "senses": [
         {
           "definition": "under the surface of the earth",
@@ -563,14 +739,15 @@
       ]
     },
     {
+      "id": "e8633217-a8f4-4521-8fea-b47221fe8eda",
       "word": "among",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=YW1vbmc&hash=5984c36e1a25be6aaa35bc6b5b66f1a9736766b2&lang=en&cache-only=0",
-      "phonetic_text": "əmʌng",
+      "phonetic_text": "ə.mʌng",
       "phonetic_am": "https://tts.langeek.co/read?text=YW1vbmc&hash=5984c36e1a25be6aaa35bc6b5b66f1a9736766b2&lang=en&cache-only=0",
-      "phonetic_am_text": "ēmang",
+      "phonetic_am_text": "ē.mang",
       "img": "",
-      "pronunciation": "əˈməŋ",
+      "pronunciation": "əˈmʌŋ",
       "senses": [
         {
           "definition": "in the center of or surrounded by a group of things or people",
@@ -600,30 +777,41 @@
       ]
     },
     {
+      "id": "f4011538-7456-454a-8eb6-89a59b42f176",
       "word": "into",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=aW50bw&hash=2264f0d70ef988018c7718b0473fbb9653f9f155&lang=en&cache-only=0",
-      "phonetic_text": "ɪntu",
+      "phonetic_text": "ɪn.tu",
       "phonetic_am": "https://tts.langeek.co/read?text=aW50bw&hash=2264f0d70ef988018c7718b0473fbb9653f9f155&lang=en&cache-only=0",
-      "phonetic_am_text": "intu",
+      "phonetic_am_text": "in.too",
       "img": "",
-      "pronunciation": "ˈɪntu/, /ɪnˈtu/, /ɪntə",
+      "pronunciation": "ˈɪnˌtu",
       "senses": [
         {
           "definition": "to the inner part or a position inside a place",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "They stepped into the elevator and pressed the button for the top floor."
+            },
+            {
+              "cf": "",
+              "x": "The detective followed the suspect into the dark alley, keeping a safe distance."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7b47fc90-5601-4e3c-ba5b-420f2d867f6a",
       "word": "onto",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=b250bw&hash=f09877c02c9e14c7a51dabe6175cb7ce199bbc5d&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:ntu",
+      "phonetic_text": "ɑn.tu",
       "phonetic_am": "https://tts.langeek.co/read?text=b250bw&hash=f09877c02c9e14c7a51dabe6175cb7ce199bbc5d&lang=en&cache-only=0",
-      "phonetic_am_text": "aantu",
+      "phonetic_am_text": "aan.too",
       "img": "",
-      "pronunciation": "ˈɑntu/, /ˈɔntu",
+      "pronunciation": "ˈɑnˌtu",
       "senses": [
         {
           "definition": "used to show movement to a position or on a place or object",
@@ -653,30 +841,49 @@
       ]
     },
     {
+      "id": "fb7513c9-a01e-41c0-b1f8-37ce71c898af",
       "word": "off",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=b2Zm&hash=81894569784e1d965a50d3795b8a43fd17adf3e6&lang=en&cache-only=0",
-      "phonetic_text": "ɔ:f",
+      "phonetic_text": "ɑf",
       "phonetic_am": "https://tts.langeek.co/read?text=b2Zm&hash=81894569784e1d965a50d3795b8a43fd17adf3e6&lang=en&cache-only=0",
-      "phonetic_am_text": "aawf",
+      "phonetic_am_text": "aaf",
       "img": "",
-      "pronunciation": "ˈɔf",
+      "pronunciation": "ɑf",
       "senses": [
         {
-          "definition": "away from a location or position in time or space",
-          "examples": []
+          "definition": "at or to a certain distance away in physical space",
+          "examples": [
+            {
+              "cf": "",
+              "x": "He watched silently from ten feet off."
+            },
+            {
+              "cf": "",
+              "x": "Their cottage is just a short walk off from the lake."
+            },
+            {
+              "cf": "",
+              "x": "The enemy camp was positioned a few hundred yards off."
+            },
+            {
+              "cf": "",
+              "x": "You can see the island just a mile off."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "d8cf7657-cfce-466a-b072-1acca830c7b9",
       "word": "close",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=Y2xvc2U&hash=e5197fac175abb744152b03db38e3c83c7d8c051&lang=en&cache-only=0",
       "phonetic_text": "kloʊs",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xvc2U&hash=e5197fac175abb744152b03db38e3c83c7d8c051&lang=en&cache-only=0",
-      "phonetic_am_text": "klows",
-      "img": "https://cdn.langeek.co/photo/48289/original/?type=jpeg",
-      "pronunciation": "kloʊz/ , /kloʊs",
+      "phonetic_am_text": "klooos",
+      "img": "https://cdn.langeek.co/photo/61544/original/?type=jpeg",
+      "pronunciation": "kloʊs",
       "senses": [
         {
           "definition": "without much space between",
@@ -698,14 +905,15 @@
       ]
     },
     {
+      "id": "a7013519-8680-4899-a3ad-5a160c190b89",
       "word": "including",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=aW5jbHVkaW5n&hash=a18bce339f723917ede3c4619695504bbc57c7cb&lang=en&cache-only=0",
-      "phonetic_text": "ɪnklu:dɪng",
+      "phonetic_text": "ɪnk.lu:.dɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5jbHVkaW5n&hash=a18bce339f723917ede3c4619695504bbc57c7cb&lang=en&cache-only=0",
-      "phonetic_am_text": "inklooding",
+      "phonetic_am_text": "ink.loo.ding",
       "img": "",
-      "pronunciation": "ˌɪnˈkɫudɪŋ",
+      "pronunciation": "ɪnˈkluːdɪŋ",
       "senses": [
         {
           "definition": "used to point out that something or someone is part of a set or group",
@@ -714,6 +922,7 @@
       ]
     },
     {
+      "id": "e3611a36-bd1a-4fdc-8fe3-c6f9414efd93",
       "word": "per",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=cGVy&hash=c9f7d158ad598340de54be67a32847efc4bb5574&lang=en&cache-only=0",
@@ -721,7 +930,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=cGVy&hash=c9f7d158ad598340de54be67a32847efc4bb5574&lang=en&cache-only=0",
       "phonetic_am_text": "pēr",
       "img": "",
-      "pronunciation": "ˈpɝ",
+      "pronunciation": "pɝ",
       "senses": [
         {
           "definition": "for one person or thing",
@@ -739,6 +948,7 @@
       ]
     },
     {
+      "id": "92bd1584-1201-42d6-bf43-035e8bc94510",
       "word": "plus",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=cGx1cw&hash=88bf1f06b4d470d79eed7adce3dfdda4b1b6532d&lang=en&cache-only=0",
@@ -746,7 +956,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=cGx1cw&hash=88bf1f06b4d470d79eed7adce3dfdda4b1b6532d&lang=en&cache-only=0",
       "phonetic_am_text": "plas",
       "img": "",
-      "pronunciation": "ˈpɫəs",
+      "pronunciation": "plʌs",
       "senses": [
         {
           "definition": "used to add more information or refer to unexpected facts",
@@ -755,6 +965,7 @@
       ]
     },
     {
+      "id": "fa43b918-062d-43df-a75d-98b156c6605e",
       "word": "till",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=dGlsbA&hash=e8d159217281a531bd6d9188bdf9517d852094cf&lang=en&cache-only=0",
@@ -762,7 +973,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=dGlsbA&hash=e8d159217281a531bd6d9188bdf9517d852094cf&lang=en&cache-only=0",
       "phonetic_am_text": "til",
       "img": "",
-      "pronunciation": "ˈtɪɫ",
+      "pronunciation": "tɪl",
       "senses": [
         {
           "definition": "up to a particular event or point in time",
@@ -796,30 +1007,53 @@
       ]
     },
     {
+      "id": "ac4e43c7-90d9-4fa6-8fd1-5558b24706ab",
       "word": "toward",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=dG93YXJk&hash=c94c0c8cb60c2f964f3903ad7e2802275fa4021e&lang=en&cache-only=0",
-      "phonetic_text": "təwɔ:rd",
+      "phonetic_text": "tʊ.wɔrd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG93YXJk&hash=c94c0c8cb60c2f964f3903ad7e2802275fa4021e&lang=en&cache-only=0",
-      "phonetic_am_text": "tēwaawrd",
+      "phonetic_am_text": "too.vawrd",
       "img": "",
-      "pronunciation": "ˈtɔɹd/, /təˈwɔɹd",
+      "pronunciation": "tʊˈwɔrd/ , /təˈwɔrd",
       "senses": [
         {
           "definition": "in the direction of a particular person or thing",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The hikers headed toward the summit of the mountain."
+            },
+            {
+              "cf": "",
+              "x": "She gestured toward the empty seat next to her."
+            },
+            {
+              "cf": "",
+              "x": "The airplane is flying toward the east."
+            },
+            {
+              "cf": "",
+              "x": "The dog ran toward its owner when she called its name."
+            },
+            {
+              "cf": "",
+              "x": "He walked toward the library to return his books."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "03721d5d-3020-4bb4-8cad-56c84655c652",
       "word": "unlike",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=dW5saWtl&hash=b26a1b2eaf40df538948c2a49ef7787c41036587&lang=en&cache-only=0",
-      "phonetic_text": "ənlaɪk",
+      "phonetic_text": "ʌn.laɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5saWtl&hash=b26a1b2eaf40df538948c2a49ef7787c41036587&lang=en&cache-only=0",
-      "phonetic_am_text": "ēnlaik",
+      "phonetic_am_text": "an.laik",
       "img": "",
-      "pronunciation": "ənˈɫaɪk",
+      "pronunciation": "ʌnˈlaɪk",
       "senses": [
         {
           "definition": "used to introduce differences between two things or people",
@@ -849,6 +1083,7 @@
       ]
     },
     {
+      "id": "d72e77c9-f4a5-4132-8cd9-30508452d742",
       "word": "via",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=dmlh&hash=da97c14380d3c84ad7f9af6189e0ea282138ba16&lang=en&cache-only=0",
@@ -856,64 +1091,143 @@
       "phonetic_am": "https://tts.langeek.co/read?text=dmlh&hash=da97c14380d3c84ad7f9af6189e0ea282138ba16&lang=en&cache-only=0",
       "phonetic_am_text": "vaiē",
       "img": "",
-      "pronunciation": "ˈvaɪə/, /ˈviə",
+      "pronunciation": "ˈvaɪə/ , /ˈviə",
       "senses": [
         {
           "definition": "used to indicate that something or someone moves or travels by passing through a place on the way to another",
-          "examples": []
-        }
-      ]
-    },
-    {
-      "word": "badly",
-      "pos": "adverb",
-      "phonetic": "https://tts.langeek.co/read?text=YmFkbHk&hash=c0c80db0643af6e8339c6ba90a5fa4101c99476c&lang=en&cache-only=0",
-      "phonetic_text": "bædli",
-      "phonetic_am": "https://tts.langeek.co/read?text=YmFkbHk&hash=c0c80db0643af6e8339c6ba90a5fa4101c99476c&lang=en&cache-only=0",
-      "phonetic_am_text": "bādli",
-      "img": "",
-      "pronunciation": "ˈbædɫi",
-      "senses": [
-        {
-          "definition": "to a great or serious degree or extent",
           "examples": [
             {
               "cf": "",
-              "x": "The car was badly damaged in the accident."
+              "x": "You can reach the museum via this bridge."
             },
             {
               "cf": "",
-              "x": "He needed help badly with his homework."
+              "x": "They traveled to China via the Silk Road."
             },
             {
               "cf": "",
-              "x": "The plant was badly in need of water."
-            },
-            {
-              "cf": "",
-              "x": "She badly wanted to win the competition."
+              "x": "She flew to Paris via London."
             }
           ]
         }
       ]
     },
     {
-      "word": "without",
-      "pos": "preposition",
-      "phonetic": "https://tts.langeek.co/read?text=d2l0aG91dA&hash=99f9d3b2e3bfc1ffc36cae9d87bff7c883d46eed&lang=en&cache-only=0",
-      "phonetic_text": "wɪθaʊt",
-      "phonetic_am": "https://tts.langeek.co/read?text=d2l0aG91dA&hash=99f9d3b2e3bfc1ffc36cae9d87bff7c883d46eed&lang=en&cache-only=0",
-      "phonetic_am_text": "withawt",
+      "id": "f6982e11-b749-49c4-833d-6a0ebeab5a7e",
+      "word": "badly",
+      "pos": "adverb",
+      "phonetic": "https://tts.langeek.co/read?text=YmFkbHk&hash=c0c80db0643af6e8339c6ba90a5fa4101c99476c&lang=en&cache-only=0",
+      "phonetic_text": "bæd.li",
+      "phonetic_am": "https://tts.langeek.co/read?text=YmFkbHk&hash=c0c80db0643af6e8339c6ba90a5fa4101c99476c&lang=en&cache-only=0",
+      "phonetic_am_text": "bād.li",
       "img": "",
-      "pronunciation": "wɪˈðaʊt/, /wɪˈθaʊt",
+      "pronunciation": "ˈbædli",
       "senses": [
         {
-          "definition": "used to indicate that a person or thing does not have something or someone",
-          "examples": []
+          "definition": "in a way that involves significant harm, damage, or danger",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The house was badly damaged by the storm."
+            },
+            {
+              "cf": "",
+              "x": "She was badly shaken after receiving the news."
+            },
+            {
+              "cf": "",
+              "x": "His leg was badly broken in the accident."
+            },
+            {
+              "cf": "",
+              "x": "The team played badly and lost by a huge margin."
+            },
+            {
+              "cf": "",
+              "x": "He was badly burned while trying to put out the fire."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "08201d05-e27f-40e8-b312-2e33e93ef28c",
+      "word": "without",
+      "pos": "preposition",
+      "phonetic": "https://tts.langeek.co/read?text=d2l0aG91dA&hash=99f9d3b2e3bfc1ffc36cae9d87bff7c883d46eed&lang=en&cache-only=0",
+      "phonetic_text": "wɪð.aʊt",
+      "phonetic_am": "https://tts.langeek.co/read?text=d2l0aG91dA&hash=99f9d3b2e3bfc1ffc36cae9d87bff7c883d46eed&lang=en&cache-only=0",
+      "phonetic_am_text": "vidh.aoot",
+      "img": "",
+      "pronunciation": "wɪˈðaʊt",
+      "senses": [
+        {
+          "definition": "used to indicate that a person or thing does not have something or someone",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She can’t live without her phone."
+            },
+            {
+              "cf": "",
+              "x": "They went camping without a tent."
+            },
+            {
+              "cf": "",
+              "x": "I can't believe you left without me."
+            },
+            {
+              "cf": "",
+              "x": "She sang without music."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fff243a2-38a8-426e-ad74-48f00f43ab03",
+      "word": "backward",
+      "pos": "adverb",
+      "phonetic": "https://tts.langeek.co/read?text=YmFja3dhcmQ&hash=d75b50550c1e93bee70eb403d15823678dda2234&lang=en&cache-only=0",
+      "phonetic_text": "bæk.wɔrd",
+      "phonetic_am": "https://tts.langeek.co/read?text=YmFja3dhcmQ&hash=d75b50550c1e93bee70eb403d15823678dda2234&lang=en&cache-only=0",
+      "phonetic_am_text": "bāk.vawrd",
+      "img": "https://cdn.langeek.co/photo/60666/original/back?type=jpeg",
+      "pronunciation": "ˈbækwərd",
+      "senses": [
+        {
+          "definition": "in or to the direction opposite to the front",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She took a step backward to create some space."
+            },
+            {
+              "cf": "",
+              "x": "The car suddenly moved backward, causing a minor collision."
+            },
+            {
+              "cf": "",
+              "x": "The chair tilted backward when he leaned too far."
+            },
+            {
+              "cf": "",
+              "x": "He walked backward to get a better view of the artwork."
+            },
+            {
+              "cf": "",
+              "x": "She stumbled backward, almost tripping over the curb."
+            },
+            {
+              "cf": "",
+              "x": "He glanced backward to see if anyone was following him."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1dc54ce8-1d1e-4159-a2e0-7a9542c80c8d",
       "word": "but",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=YnV0&hash=70c4ab5dab87c0da7d0e8d26d269e59ddf4367e7&lang=en&cache-only=0",

@@ -1,15 +1,17 @@
 {
+  "id": "dea3acc9-4015-47bc-99e6-4dc45a93329d",
   "topic": "cinema_and_theater",
   "title": "Film Distribution",
   "lesson": "lesson_10",
   "word_list": [
     {
+      "id": "afcabe7d-5027-4523-a055-bd84fbf689d9",
       "word": "simultaneous release",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2ltdWx0YW5lb3VzIHJlbGVhc2U&hash=89ce69904e7ebf109108f7f14c756aef259e4506&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "saɪ.məl.teɪ.niəs ri.lis",
       "phonetic_am": "https://tts.langeek.co/read?text=c2ltdWx0YW5lb3VzIHJlbGVhc2U&hash=89ce69904e7ebf109108f7f14c756aef259e4506&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sai.mēl.tei.niēs ri.lis",
       "img": "",
       "pronunciation": "sˌaɪməltˈeɪniəs ɹɪlˈiːs",
       "senses": [
@@ -20,10 +22,11 @@
       ]
     },
     {
+      "id": "1d054a5a-da79-474f-a752-e395a726158c",
       "word": "Blu-ray Disc",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Qmx1LXJheSBEaXNj&hash=0f7806b910439f1e9f512fba95f7550ee4547f55&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Qmx1LXJheSBEaXNj&hash=0f7806b910439f1e9f512fba95f7550ee4547f55&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -36,12 +39,13 @@
       ]
     },
     {
+      "id": "6e803847-a3ca-4e1e-8460-e39053fd3e27",
       "word": "digital distribution",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlnaXRhbCBkaXN0cmlidXRpb24&hash=61d81c9f5574e29e673f187d195ce52b6e68d433&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɪ.ʤɪtl dɪst.rə.bju.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlnaXRhbCBkaXN0cmlidXRpb24&hash=61d81c9f5574e29e673f187d195ce52b6e68d433&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "di.jitl dist.rē.byoo.shēn",
       "img": "",
       "pronunciation": "dˈɪdʒɪɾəl dˌɪstɹɪbjˈuːʃən",
       "senses": [
@@ -52,10 +56,11 @@
       ]
     },
     {
+      "id": "df2b8f91-db03-4706-a803-1fae6bbd5a27",
       "word": "DVD",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RFZE&hash=bb6ed3f0da9328bd11d311cbe9ebbd6572eec5dc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RFZE&hash=bb6ed3f0da9328bd11d311cbe9ebbd6572eec5dc&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/15547/original/dvd?type=jpeg",
@@ -63,17 +68,39 @@
       "senses": [
         {
           "definition": "a type of disc used to store a lot of files, games, music, videos, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He collects classic movies on DVD to build his film library."
+            },
+            {
+              "cf": "",
+              "x": "She borrowed a DVD from the library to watch during the weekend."
+            },
+            {
+              "cf": "",
+              "x": "The DVD disc is round and shiny, like a small mirror."
+            },
+            {
+              "cf": "",
+              "x": "The DVD includes bonus features like behind-the-scenes footage."
+            },
+            {
+              "cf": "",
+              "x": "The movie is not available for streaming, but you can buy the DVD."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b5e610c9-236d-4027-832f-f4c55f2e8fa9",
       "word": "late release",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGF0ZSByZWxlYXNl&hash=3cac0e03d8c16e2fb93ea464abf860f4df8812db&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "leɪt ri.lis",
       "phonetic_am": "https://tts.langeek.co/read?text=bGF0ZSByZWxlYXNl&hash=3cac0e03d8c16e2fb93ea464abf860f4df8812db&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "leit ri.lis",
       "img": "",
       "pronunciation": "lˈeɪt ɹɪlˈiːs",
       "senses": [
@@ -84,14 +111,15 @@
       ]
     },
     {
+      "id": "9ffda3a2-7831-451a-b010-c7e60e69310f",
       "word": "trailer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhaWxlcg&hash=59828174b9d7c8a4717350575969b68984498432&lang=en&cache-only=0",
-      "phonetic_text": "treɪlər",
+      "phonetic_text": "treɪ.lɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhaWxlcg&hash=59828174b9d7c8a4717350575969b68984498432&lang=en&cache-only=0",
-      "phonetic_am_text": "treilēr",
+      "phonetic_am_text": "trei.lēr",
       "img": "",
-      "pronunciation": "ˈtɹeɪɫɝ",
+      "pronunciation": "ˈtreɪlɚ",
       "senses": [
         {
           "definition": "a selection from different parts of a movie, TV series, games, etc. shown before they become available to the public",
@@ -121,12 +149,13 @@
       ]
     },
     {
+      "id": "3cfba7d9-151d-405e-94bb-ee3de4c0b10d",
       "word": "limited release",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGltaXRlZCByZWxlYXNl&hash=0a4a0ff8491a671af1d0cec9375567bcdf9c1e82&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɪ.mə.təd ri.lis",
       "phonetic_am": "https://tts.langeek.co/read?text=bGltaXRlZCByZWxlYXNl&hash=0a4a0ff8491a671af1d0cec9375567bcdf9c1e82&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "li.mē.tēd ri.lis",
       "img": "",
       "pronunciation": "lˈɪmɪɾᵻd ɹɪlˈiːs",
       "senses": [
@@ -137,12 +166,13 @@
       ]
     },
     {
+      "id": "7254b2df-ab84-4a69-b60e-d28ac20e2f54",
       "word": "wide release",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2lkZSByZWxlYXNl&hash=219d15a02d930f07436c88f9ef74f5b13666faa8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "waɪd ri.lis",
       "phonetic_am": "https://tts.langeek.co/read?text=d2lkZSByZWxlYXNl&hash=219d15a02d930f07436c88f9ef74f5b13666faa8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vaid ri.lis",
       "img": "",
       "pronunciation": "wˈaɪd ɹɪlˈiːs",
       "senses": [
@@ -153,12 +183,13 @@
       ]
     },
     {
+      "id": "85e97078-420a-4c9f-8bdf-a63a48b9174e",
       "word": "roadshow theatrical release",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9hZHNob3cgdGhlYXRyaWNhbCByZWxlYXNl&hash=5a9aa695361213302536645c7ffecb1ebc91af9e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "roʊd.ʃoʊ θiæt.rɪ.kəl ri.lis",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9hZHNob3cgdGhlYXRyaWNhbCByZWxlYXNl&hash=5a9aa695361213302536645c7ffecb1ebc91af9e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "roood.shooo thiāt.ri.kēl ri.lis",
       "img": "",
       "pronunciation": "ɹˈoʊdʃoʊ θiːˈætɹɪkəl ɹɪlˈiːs",
       "senses": [
@@ -169,10 +200,11 @@
       ]
     },
     {
+      "id": "97d4598f-f1c6-4638-97be-6c9b4a23b2c4",
       "word": "VHS",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VkhT&hash=3be47ffe96297db01177be3302b23f83ef13dd85&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=VkhT&hash=3be47ffe96297db01177be3302b23f83ef13dd85&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -185,10 +217,11 @@
       ]
     },
     {
+      "id": "061e9858-5278-4f34-82cd-34fb14260ed8",
       "word": "ultra HD Blu-ray",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dWx0cmEgSEQgQmx1LXJheQ&hash=66eabc563aa50e73e99fe28ac8bd8814b2d40b66&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dWx0cmEgSEQgQmx1LXJheQ&hash=66eabc563aa50e73e99fe28ac8bd8814b2d40b66&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -201,12 +234,13 @@
       ]
     },
     {
+      "id": "dea01c31-b8d8-4aad-9fbf-52253c481f9d",
       "word": "digital copy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlnaXRhbCBjb3B5&hash=43468730dc3167c459d05dc5f7baca24944f1edc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɪ.ʤɪtl kɑ:.pi",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlnaXRhbCBjb3B5&hash=43468730dc3167c459d05dc5f7baca24944f1edc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "di.jitl kaa.pi",
       "img": "",
       "pronunciation": "dˈɪdʒɪɾəl kˈɑːpi",
       "senses": [
@@ -217,12 +251,13 @@
       ]
     },
     {
+      "id": "61bffc08-27d8-4ed8-bb45-20ccbcedb93b",
       "word": "censorship",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2Vuc29yc2hpcA&hash=27016f40cbf2f959cc1e59dcdb9ada10759ec814&lang=en&cache-only=0",
-      "phonetic_text": "sɛnsərʃɪp",
+      "phonetic_text": "sɛn.sɜr.ʃɪp",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2Vuc29yc2hpcA&hash=27016f40cbf2f959cc1e59dcdb9ada10759ec814&lang=en&cache-only=0",
-      "phonetic_am_text": "sensērship",
+      "phonetic_am_text": "sen.sēr.ship",
       "img": "",
       "pronunciation": "ˈsɛnsɝˌʃɪp",
       "senses": [
@@ -254,12 +289,13 @@
       ]
     },
     {
+      "id": "7c01b1db-4006-4b7c-a30f-724d10d14ed2",
       "word": "home video",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG9tZSB2aWRlbw&hash=c6afb480a2ee646e9c6c364df13268c8d597005d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hoʊm vɪ.dioʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9tZSB2aWRlbw&hash=c6afb480a2ee646e9c6c364df13268c8d597005d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hooom vi.diooo",
       "img": "",
       "pronunciation": "hˈoʊm vˈɪdɪoʊ",
       "senses": [
@@ -270,10 +306,11 @@
       ]
     },
     {
+      "id": "52c59e1b-a7f9-4332-b7f1-590ff1ed855e",
       "word": "VCD",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VkNE&hash=210610ef8f8b1df08f370282ff8209885f4f76bb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=VkNE&hash=210610ef8f8b1df08f370282ff8209885f4f76bb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -286,12 +323,13 @@
       ]
     },
     {
+      "id": "2f4f5141-29a1-4c1a-8652-cbcdffd846c9",
       "word": "television",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVsZXZpc2lvbg&hash=85dcabfc1c1c0fb50556cf92ca2b3e1d52843ecc&lang=en&cache-only=0",
-      "phonetic_text": "tɛləvɪʒən",
+      "phonetic_text": "tɛ.lə.vɪ.ʒən",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVsZXZpc2lvbg&hash=85dcabfc1c1c0fb50556cf92ca2b3e1d52843ecc&lang=en&cache-only=0",
-      "phonetic_am_text": "telēvizhēn",
+      "phonetic_am_text": "te.lē.vi.zhēn",
       "img": "https://cdn.langeek.co/photo/48539/original/tv?type=jpeg",
       "pronunciation": "ˈtɛləˌvɪʒən",
       "senses": [
@@ -319,12 +357,13 @@
       ]
     },
     {
+      "id": "c7ff35ca-f7e9-419f-b4ac-46c6f33fe783",
       "word": "home theater",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG9tZSB0aGVhdGVy&hash=ed2a50b7ed82acc73e317857d28a906b9bb08bb1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hoʊm θi:ə.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9tZSB0aGVhdGVy&hash=ed2a50b7ed82acc73e317857d28a906b9bb08bb1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hooom thiē.tēr",
       "img": "",
       "pronunciation": "hˈoʊm θˈiəɾɚ",
       "senses": [
@@ -335,14 +374,15 @@
       ]
     },
     {
+      "id": "be3215e6-8967-4c47-a854-362b3612b60c",
       "word": "premiere",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJlbWllcmU&hash=32730209259333ea0ff945dfe231298077ab0ff9&lang=en&cache-only=0",
-      "phonetic_text": "prɛmɪr",
+      "phonetic_text": "prɛ.mɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJlbWllcmU&hash=32730209259333ea0ff945dfe231298077ab0ff9&lang=en&cache-only=0",
-      "phonetic_am_text": "premir",
+      "phonetic_am_text": "pre.mir",
       "img": "https://cdn.langeek.co/photo/32048/original/?type=jpeg",
-      "pronunciation": "pɹɛˈmɪɹ",
+      "pronunciation": "prɪˈmɪr",
       "senses": [
         {
           "definition": "the first public screening or performance of a movie or play",
@@ -372,12 +412,13 @@
       ]
     },
     {
+      "id": "08d30ee5-5760-4fdc-ae92-2911536fd224",
       "word": "preview",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJldmlldw&hash=a8c5d893cc04fb347018ecac97b0f6994c4c8fb7&lang=en&cache-only=0",
-      "phonetic_text": "pri:vju",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJldmlldw&hash=a8c5d893cc04fb347018ecac97b0f6994c4c8fb7&lang=en&cache-only=0",
-      "phonetic_am_text": "preevyu",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˈpɹivˌju",
       "senses": [
@@ -409,14 +450,15 @@
       ]
     },
     {
+      "id": "dc4b19e6-4d13-489a-990a-4486839641c3",
       "word": "release",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVsZWFzZQ&hash=e66c7109819c160d5f84f158a85ce362725de1ec&lang=en&cache-only=0",
-      "phonetic_text": "rili:s",
+      "phonetic_text": "ri.lis",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVsZWFzZQ&hash=e66c7109819c160d5f84f158a85ce362725de1ec&lang=en&cache-only=0",
-      "phonetic_am_text": "rilees",
+      "phonetic_am_text": "ri.lis",
       "img": "",
-      "pronunciation": "ɹiˈɫis",
+      "pronunciation": "rɪˈliːs",
       "senses": [
         {
           "definition": "a product such as a new movie, video game, etc. made available to the public",
@@ -425,12 +467,13 @@
       ]
     },
     {
+      "id": "3c38c1b4-b86f-4e89-b577-6075db88314a",
       "word": "screening",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2NyZWVuaW5n&hash=222f30c275bac17080ac4274efe3a110a754d1d3&lang=en&cache-only=0",
-      "phonetic_text": "skri:nɪng",
+      "phonetic_text": "skri.nɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=c2NyZWVuaW5n&hash=222f30c275bac17080ac4274efe3a110a754d1d3&lang=en&cache-only=0",
-      "phonetic_am_text": "skreening",
+      "phonetic_am_text": "skri.ning",
       "img": "",
       "pronunciation": "ˈskɹinɪŋ",
       "senses": [
@@ -466,6 +509,7 @@
       ]
     },
     {
+      "id": "89ed2cfb-dbc3-48e6-9c3c-cf5921976cba",
       "word": "still",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RpbGw&hash=0d544a84282b142edd0f916056c873f1b158c96b&lang=en&cache-only=0",
@@ -473,7 +517,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=c3RpbGw&hash=0d544a84282b142edd0f916056c873f1b158c96b&lang=en&cache-only=0",
       "phonetic_am_text": "stil",
       "img": "",
-      "pronunciation": "ˈstɪɫ",
+      "pronunciation": "stɪl",
       "senses": [
         {
           "definition": "a single shot taken from a motion picture, especially one used for documentation or advertisement",
@@ -491,12 +535,13 @@
       ]
     },
     {
+      "id": "12d15ad1-4018-4337-be02-e692b9d748bb",
       "word": "master",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFzdGVy&hash=bcf0647c9e71a00a38c353a8e330248909d20a36&lang=en&cache-only=0",
-      "phonetic_text": "mæstər",
+      "phonetic_text": "mæs.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFzdGVy&hash=bcf0647c9e71a00a38c353a8e330248909d20a36&lang=en&cache-only=0",
-      "phonetic_am_text": "māstēr",
+      "phonetic_am_text": "mās.tēr",
       "img": "",
       "pronunciation": "ˈmæstər",
       "senses": [
@@ -507,10 +552,11 @@
       ]
     },
     {
-      "word": "3d",
+      "id": "1cc71977-8a63-4b27-952e-9f995e4f58a3",
+      "word": "3D film",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=M0QgZmlsbQ&hash=aeae1db1bbb5cbe6f705d27245184f5943382ffc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=M0QgZmlsbQ&hash=aeae1db1bbb5cbe6f705d27245184f5943382ffc&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -523,12 +569,13 @@
       ]
     },
     {
+      "id": "af26985b-6711-4cf3-9bd7-71bad161eed5",
       "word": "subtitle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3VidGl0bGU&hash=6942b5f04a253366e7c701d080e7eec7457fe321&lang=en&cache-only=0",
-      "phonetic_text": "sʌbtaɪtəl",
+      "phonetic_text": "sʌb.taɪ.təl",
       "phonetic_am": "https://tts.langeek.co/read?text=c3VidGl0bGU&hash=6942b5f04a253366e7c701d080e7eec7457fe321&lang=en&cache-only=0",
-      "phonetic_am_text": "sabtaitēl",
+      "phonetic_am_text": "sab.tai.tēl",
       "img": "https://cdn.langeek.co/photo/37297/original/?type=jpeg",
       "pronunciation": "ˈsəbˌtaɪtəɫ",
       "senses": [
@@ -560,12 +607,13 @@
       ]
     },
     {
+      "id": "4aff9fa4-f782-4595-80a9-850da6f3ea9e",
       "word": "counterprogramming",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291bnRlcnByb2dyYW1taW5n&hash=2247ad6ceea1b74ba1347c4220a59852bd667dfa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kaʊn.tɜr.proʊg.ræ.mɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291bnRlcnByb2dyYW1taW5n&hash=2247ad6ceea1b74ba1347c4220a59852bd667dfa&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaoon.tēr.prooog.rā.ming",
       "img": "",
       "pronunciation": "kˈaʊntɚpɹˌoʊɡɹæmɪŋ",
       "senses": [
@@ -576,10 +624,11 @@
       ]
     },
     {
+      "id": "210848c6-b201-4a02-a989-fb458ad656f1",
       "word": "18",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=MTg&hash=fd646b79e008de68b690a5ae7fa08151992382f6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=MTg&hash=fd646b79e008de68b690a5ae7fa08151992382f6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -592,12 +641,13 @@
       ]
     },
     {
+      "id": "3f1da91e-75d2-4846-95c2-66374e1db4c7",
       "word": "rating",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmF0aW5n&hash=8a3dab08832216caaa753665a3dc9057b0c2f70a&lang=en&cache-only=0",
-      "phonetic_text": "reɪtɪng",
+      "phonetic_text": "reɪ.tɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=cmF0aW5n&hash=8a3dab08832216caaa753665a3dc9057b0c2f70a&lang=en&cache-only=0",
-      "phonetic_am_text": "reiting",
+      "phonetic_am_text": "rei.ting",
       "img": "",
       "pronunciation": "ˈɹeɪtɪŋ",
       "senses": [
@@ -608,12 +658,13 @@
       ]
     },
     {
+      "id": "4d5c38d0-8500-4928-a1b9-06e932e16473",
       "word": "parental guidance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFyZW50YWwgZ3VpZGFuY2U&hash=07d4f0ab216c2d6f052c69a89e06eba4e17f3968&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɜ.rɛn.təl gaɪ.dəns",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFyZW50YWwgZ3VpZGFuY2U&hash=07d4f0ab216c2d6f052c69a89e06eba4e17f3968&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pē.ren.tēl gai.dēns",
       "img": "",
       "pronunciation": "pɚɹˈɛntəl ɡˈaɪdəns",
       "senses": [
@@ -624,12 +675,13 @@
       ]
     },
     {
+      "id": "d4eece71-bd66-4e89-a156-db8ed902f42b",
       "word": "spoiler alert",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BvaWxlciBhbGVydA&hash=10a32e60bf10f26e38ae2c5157a6551becefe698&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spɔɪ.lɜr ə.lɜrt",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BvaWxlciBhbGVydA&hash=10a32e60bf10f26e38ae2c5157a6551becefe698&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "spawi.lēr ē.lērt",
       "img": "",
       "pronunciation": "spˈɔɪlɚɹ ɐlˈɜːt",
       "senses": [
@@ -640,10 +692,11 @@
       ]
     },
     {
+      "id": "5e41667b-aee3-4b7a-941d-5f6fd1045508",
       "word": "PG-13",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=UEctMTM&hash=c96e9456d0dce6b33db5481cfc64c6d9e78586c0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=UEctMTM&hash=c96e9456d0dce6b33db5481cfc64c6d9e78586c0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

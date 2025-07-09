@@ -1,15 +1,17 @@
 {
+  "id": "b375b653-a286-4148-a9f8-7d77aaebe179",
   "topic": "a1_level",
   "title": "Simple Verbs",
   "lesson": "lesson_26",
   "word_list": [
     {
-      "word": "walk",
+      "id": "c454bc1e-4014-4474-989e-5fec03dcbfc2",
+      "word": "to walk",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2Fsaw&hash=3d09deb445ced60406d0944dd3203fabdb4eb252&lang=en&cache-only=0",
-      "phonetic_text": "wɔ:k",
+      "phonetic_text": "wɑ:k",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2Fsaw&hash=3d09deb445ced60406d0944dd3203fabdb4eb252&lang=en&cache-only=0",
-      "phonetic_am_text": "waawk",
+      "phonetic_am_text": "vaak",
       "img": "https://cdn.langeek.co/photo/39607/original/walk?type=jpeg",
       "pronunciation": "wɑːk",
       "senses": [
@@ -41,7 +43,8 @@
       ]
     },
     {
-      "word": "run",
+      "id": "bd160694-96dd-41fc-adff-0ccf15288c5a",
+      "word": "to run",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcnVu&hash=a89561462897e0e7118780b949d5a04c57c3f8c0&lang=en&cache-only=0",
       "phonetic_text": "rʌn",
@@ -70,12 +73,13 @@
       ]
     },
     {
-      "word": "go",
+      "id": "63542453-694c-4895-bb1d-d3770b540001",
+      "word": "to go",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ28&hash=a29af22a99b2c4ebaab92563d163caf4ad74d7f9&lang=en&cache-only=0",
       "phonetic_text": "goʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ28&hash=a29af22a99b2c4ebaab92563d163caf4ad74d7f9&lang=en&cache-only=0",
-      "phonetic_am_text": "gow",
+      "phonetic_am_text": "gooo",
       "img": "https://cdn.langeek.co/photo/49445/original/go?type=jpeg",
       "pronunciation": "ɡoʊ",
       "senses": [
@@ -86,7 +90,8 @@
       ]
     },
     {
-      "word": "come",
+      "id": "d264c1da-6b4a-4fac-89c5-5e59ad19a8d2",
+      "word": "to come",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29tZQ&hash=825b064e4b6b94ee58710af763d4b43e7fe71c84&lang=en&cache-only=0",
       "phonetic_text": "kʌm",
@@ -102,7 +107,8 @@
       ]
     },
     {
-      "word": "sit",
+      "id": "3da92f80-27ca-4f78-b46f-23b80ac9c90f",
+      "word": "to sit",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2l0&hash=0326a8aed7f8900dd2bde64256f41e6775521c67&lang=en&cache-only=0",
       "phonetic_text": "sɪt",
@@ -131,12 +137,13 @@
       ]
     },
     {
-      "word": "fall",
+      "id": "476b4836-0922-4627-8237-016fba4c9bcc",
+      "word": "to fall",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmFsbA&hash=4b89c05ca1a72c8cef1d9c9957c7e563b4590033&lang=en&cache-only=0",
-      "phonetic_text": "fɔ:l",
+      "phonetic_text": "fɑ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmFsbA&hash=4b89c05ca1a72c8cef1d9c9957c7e563b4590033&lang=en&cache-only=0",
-      "phonetic_am_text": "faawl",
+      "phonetic_am_text": "faal",
       "img": "https://cdn.langeek.co/photo/49441/original/fall?type=jpeg",
       "pronunciation": "fɑːl",
       "senses": [
@@ -156,7 +163,8 @@
       ]
     },
     {
-      "word": "jump",
+      "id": "5213c834-1778-4b52-8e8a-6ce5c7ec7b65",
+      "word": "to jump",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8ganVtcA&hash=22e9ac22a23d47ad753463ff55eeb1ba560055ac&lang=en&cache-only=0",
       "phonetic_text": "ʤʌmp",
@@ -189,7 +197,8 @@
       ]
     },
     {
-      "word": "bring",
+      "id": "7b260ac3-16dc-49f6-8aaa-3b19c9aedb93",
+      "word": "to bring",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJpbmc&hash=463c846eed2c877e43bf7d3d42e986ed5b9c5779&lang=en&cache-only=0",
       "phonetic_text": "brɪng",
@@ -226,7 +235,8 @@
       ]
     },
     {
-      "word": "give",
+      "id": "78dca142-331f-4f14-aec4-3e011b64b3b1",
+      "word": "to give",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZQ&hash=a72969415fa6739d537415b6fafea729121aea01&lang=en&cache-only=0",
       "phonetic_text": "gɪv",
@@ -263,13 +273,14 @@
       ]
     },
     {
-      "word": "find",
+      "id": "9557c9d5-c46a-4a0e-9d80-4862e92e7a40",
+      "word": "to find",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmluZA&hash=b149379fcd5d112b8f11646c18a0c65c6f14f6af&lang=en&cache-only=0",
       "phonetic_text": "faɪnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmluZA&hash=b149379fcd5d112b8f11646c18a0c65c6f14f6af&lang=en&cache-only=0",
       "phonetic_am_text": "faind",
-      "img": "https://cdn.langeek.co/photo/23781/original/?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60722/original/?type=jpeg",
       "pronunciation": "faɪnd",
       "senses": [
         {
@@ -288,12 +299,13 @@
       ]
     },
     {
-      "word": "open",
+      "id": "e9863d8f-2d37-4bcb-b1f1-69850fa87d5c",
+      "word": "to open",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gb3Blbg&hash=028e4a808a18018dd34586636a7991294ac07d25&lang=en&cache-only=0",
-      "phonetic_text": "oʊpən",
+      "phonetic_text": "oʊ.pən",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gb3Blbg&hash=028e4a808a18018dd34586636a7991294ac07d25&lang=en&cache-only=0",
-      "phonetic_am_text": "owpēn",
+      "phonetic_am_text": "ooo.pēn",
       "img": "https://cdn.langeek.co/photo/49425/original/open?type=jpeg",
       "pronunciation": "ˈoʊpən",
       "senses": [
@@ -325,14 +337,15 @@
       ]
     },
     {
-      "word": "close",
+      "id": "cc89321b-97b0-4afc-ac5c-45fc88663d9f",
+      "word": "to close",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2xvc2U&hash=0434a06fae9b4dfabb1585d2d80a69fca482daf6&lang=en&cache-only=0",
       "phonetic_text": "kloʊs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2xvc2U&hash=0434a06fae9b4dfabb1585d2d80a69fca482daf6&lang=en&cache-only=0",
-      "phonetic_am_text": "klows",
+      "phonetic_am_text": "klooos",
       "img": "https://cdn.langeek.co/photo/49421/original/close?type=jpeg",
-      "pronunciation": "kloʊz/ , /kloʊs",
+      "pronunciation": "kloʊz",
       "senses": [
         {
           "definition": "to move something like a window or door into a position that people or things cannot pass through",
@@ -362,7 +375,8 @@
       ]
     },
     {
-      "word": "start",
+      "id": "291bef56-6079-4d23-bbba-67e775b817c1",
+      "word": "to start",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RhcnQ&hash=1d0e49ae28861dd0012d855f362411021ae940d9&lang=en&cache-only=0",
       "phonetic_text": "stɑ:rt",
@@ -399,14 +413,15 @@
       ]
     },
     {
-      "word": "stop",
+      "id": "8e83840e-c729-470f-9fe3-f021fa54fd4b",
+      "word": "to stop",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RvcA&hash=1ddcd5b398b1e2eb01f9e5c4bef8c4d1d53e5212&lang=en&cache-only=0",
-      "phonetic_text": "stɑ:p",
+      "phonetic_text": "stɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RvcA&hash=1ddcd5b398b1e2eb01f9e5c4bef8c4d1d53e5212&lang=en&cache-only=0",
       "phonetic_am_text": "staap",
       "img": "https://cdn.langeek.co/photo/49451/original/?type=jpeg",
-      "pronunciation": "stɑːp",
+      "pronunciation": "stɑp",
       "senses": [
         {
           "definition": "to make something or someone not move anymore",
@@ -436,12 +451,13 @@
       ]
     },
     {
-      "word": "finish",
+      "id": "f886378a-0a7e-4368-b231-27a26ec35784",
+      "word": "to finish",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmluaXNo&hash=6fa402de8cf57b02abcf2ca54d90f753323b97fe&lang=en&cache-only=0",
-      "phonetic_text": "fɪnɪʃ",
+      "phonetic_text": "fɪ.nɪʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmluaXNo&hash=6fa402de8cf57b02abcf2ca54d90f753323b97fe&lang=en&cache-only=0",
-      "phonetic_am_text": "finish",
+      "phonetic_am_text": "fi.nish",
       "img": "https://cdn.langeek.co/photo/21268/original/?type=jpeg",
       "pronunciation": "ˈfɪnɪʃ",
       "senses": [
@@ -473,7 +489,8 @@
       ]
     },
     {
-      "word": "build",
+      "id": "8f1e7818-9192-4236-9249-6144ceeed4f1",
+      "word": "to build",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnVpbGQ&hash=a122d8a672a677b20d921a56ba7d4365fbf0cfc9&lang=en&cache-only=0",
       "phonetic_text": "bɪld",
@@ -510,7 +527,8 @@
       ]
     },
     {
-      "word": "do",
+      "id": "d0b93de0-e1ae-4ca7-a4d4-ab6e9aad0450",
+      "word": "to do",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZG8&hash=8bca852cbc6d7beb3dab24c60c316c5ec2b9fcc2&lang=en&cache-only=0",
       "phonetic_text": "du:",
@@ -547,7 +565,8 @@
       ]
     },
     {
-      "word": "get",
+      "id": "30959518-e1d2-45ac-a0a1-003569ff1007",
+      "word": "to get",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0&hash=fc37dd4b71d4e5666f034fc38ef8ee6d00dcf928&lang=en&cache-only=0",
       "phonetic_text": "gɛt",
@@ -584,14 +603,15 @@
       ]
     },
     {
-      "word": "turn",
+      "id": "842ae3e5-b3c9-4ceb-90ef-1e57a43d3b56",
+      "word": "to turn",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHVybg&hash=93797081c283294396959cb4de48c6f664c62e72&lang=en&cache-only=0",
       "phonetic_text": "tɜrn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHVybg&hash=93797081c283294396959cb4de48c6f664c62e72&lang=en&cache-only=0",
       "phonetic_am_text": "tērn",
       "img": "https://cdn.langeek.co/photo/49435/original/?type=jpeg",
-      "pronunciation": "tɝːn",
+      "pronunciation": "tɝn",
       "senses": [
         {
           "definition": "to rotate or shift our body to face a different direction",
@@ -621,12 +641,13 @@
       ]
     },
     {
-      "word": "introduce",
+      "id": "b7cf1173-1f45-4bef-9725-c90927430c7b",
+      "word": "to introduce",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW50cm9kdWNl&hash=3755f7fc177f319c74ecbc136ff0484d70969de4&lang=en&cache-only=0",
-      "phonetic_text": "ɪntrədu:s",
+      "phonetic_text": "ɪnt.roʊ.dus",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW50cm9kdWNl&hash=3755f7fc177f319c74ecbc136ff0484d70969de4&lang=en&cache-only=0",
-      "phonetic_am_text": "intrēdoos",
+      "phonetic_am_text": "int.rooo.doos",
       "img": "https://cdn.langeek.co/photo/49423/original/introduce?type=jpeg",
       "pronunciation": "ˌɪntrəˈduːs",
       "senses": [
@@ -658,12 +679,13 @@
       ]
     },
     {
-      "word": "travel",
+      "id": "6b45f7a4-7077-4f95-989e-978700f86ebb",
+      "word": "to travel",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHJhdmVs&hash=f238b3562ceda3473b01b5fac56073fc7d6c6f32&lang=en&cache-only=0",
-      "phonetic_text": "trævəl",
+      "phonetic_text": "træ.vəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHJhdmVs&hash=f238b3562ceda3473b01b5fac56073fc7d6c6f32&lang=en&cache-only=0",
-      "phonetic_am_text": "trāvēl",
+      "phonetic_am_text": "trā.vēl",
       "img": "https://cdn.langeek.co/photo/49467/original/travel?type=jpeg",
       "pronunciation": "ˈtrævəl",
       "senses": [
@@ -679,13 +701,14 @@
       ]
     },
     {
-      "word": "let",
+      "id": "824b0ea3-a870-4bce-9ca3-215d0f3e3265",
+      "word": "to let",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGV0&hash=6a64a2effe822372e009feb76b9c8ab65085485f&lang=en&cache-only=0",
       "phonetic_text": "lɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGV0&hash=6a64a2effe822372e009feb76b9c8ab65085485f&lang=en&cache-only=0",
       "phonetic_am_text": "let",
-      "img": "https://cdn.langeek.co/photo/21270/original/?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/61524/original/?type=jpeg",
       "pronunciation": "lɛt",
       "senses": [
         {
@@ -716,13 +739,14 @@
       ]
     },
     {
-      "word": "choose",
+      "id": "672d6c9d-5ab3-401e-8603-50a776d9cf38",
+      "word": "to choose",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hvb3Nl&hash=80659d5f5ce2337fbe44d87e00e4051f82a4323f&lang=en&cache-only=0",
       "phonetic_text": "ʧu:z",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2hvb3Nl&hash=80659d5f5ce2337fbe44d87e00e4051f82a4323f&lang=en&cache-only=0",
       "phonetic_am_text": "chooz",
-      "img": "https://cdn.langeek.co/photo/26296/original/?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60720/original/?type=jpeg",
       "pronunciation": "tʃuːz",
       "senses": [
         {
@@ -753,7 +777,8 @@
       ]
     },
     {
-      "word": "help",
+      "id": "6426b81a-05c2-4fc5-8746-faa48374bae5",
+      "word": "to help",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGVscA&hash=104071ad0e1b6429543e26ac7011f715dc2763aa&lang=en&cache-only=0",
       "phonetic_text": "hɛlp",
@@ -790,13 +815,14 @@
       ]
     },
     {
-      "word": "swim",
+      "id": "79aaebbe-4db9-46c9-b362-de3a060eba79",
+      "word": "to swim",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3dpbQ&hash=312669efd4e5759dc69ca83bf551f12857d57703&lang=en&cache-only=0",
       "phonetic_text": "swɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3dpbQ&hash=312669efd4e5759dc69ca83bf551f12857d57703&lang=en&cache-only=0",
-      "phonetic_am_text": "swim",
-      "img": "https://cdn.langeek.co/photo/51552/original/swimming?type=jpeg",
+      "phonetic_am_text": "svim",
+      "img": "https://cdn.langeek.co/photo/60688/original/swimming?type=jpeg",
       "pronunciation": "swɪm",
       "senses": [
         {

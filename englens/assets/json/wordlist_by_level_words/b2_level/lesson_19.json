@@ -1,9 +1,11 @@
 {
+  "id": "08aa2756-004f-437d-93e1-1eae558008db",
   "topic": "b2_level",
   "title": "Time",
   "lesson": "lesson_19",
   "word_list": [
     {
+      "id": "6c78840a-ab21-491c-a350-c5bea235bb89",
       "word": "age",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWdl&hash=57d486634b28dd4a6280a3cb637ee654c3e33e43&lang=en&cache-only=0",
@@ -15,111 +17,237 @@
       "senses": [
         {
           "definition": "a period of history identified with a particular event",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "During the age of exploration, many new lands and trade routes were discovered."
+            },
+            {
+              "cf": "",
+              "x": "The age of enlightenment brought about significant philosophical and scientific advancements."
+            },
+            {
+              "cf": "",
+              "x": "An age of economic prosperity followed the industrial revolution, leading to increased wealth and development."
+            },
+            {
+              "cf": "",
+              "x": "The age of digital media has revolutionized how we consume and share information."
+            },
+            {
+              "cf": "",
+              "x": "The age of agriculture saw the development of farming techniques and settlement growth."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "28f6ee98-990c-4316-abe7-f34779f3a703",
       "word": "calendar",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FsZW5kYXI&hash=dbb8c27925ccb00aa6f5d3950dd9614f174cddfc&lang=en&cache-only=0",
-      "phonetic_text": "kæləndər",
+      "phonetic_text": "kæ.lɪn.dər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FsZW5kYXI&hash=dbb8c27925ccb00aa6f5d3950dd9614f174cddfc&lang=en&cache-only=0",
-      "phonetic_am_text": "kālēndēr",
+      "phonetic_am_text": "kā.lin.dēr",
       "img": "https://cdn.langeek.co/photo/48909/original/calendar?type=jpeg",
       "pronunciation": "ˈkælɪndɚ",
       "senses": [
         {
           "definition": "‌a system that measures and divides the year into specified periods",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Different cultures may use various calendars, such as the lunar calendar or the Hebrew calendar, to mark time."
+            },
+            {
+              "cf": "",
+              "x": "The fiscal calendar is used by businesses to manage financial reporting and budgeting."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "schedule",
+      "id": "edfee22e-808f-4589-b0af-76399eb2a13f",
+      "word": "to schedule",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NoZWR1bGU&hash=f3f5a26a1146f71ec242e64cd3749fef2cdd6203&lang=en&cache-only=0",
-      "phonetic_text": "skɛʤʊl",
+      "phonetic_text": "skɛ.ʤul",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NoZWR1bGU&hash=f3f5a26a1146f71ec242e64cd3749fef2cdd6203&lang=en&cache-only=0",
-      "phonetic_am_text": "skejul",
+      "phonetic_am_text": "ske.jool",
       "img": "https://cdn.langeek.co/photo/20924/original/?type=jpeg",
-      "pronunciation": "ˈskɛdʒuɫ/, /ˈskɛdʒʊɫ",
+      "pronunciation": "ˈskɛdʒuˌl",
       "senses": [
         {
           "definition": "to set a specific time to do something or make an event happen",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He scheduled his doctor's appointment for next week."
+            },
+            {
+              "cf": "",
+              "x": "They scheduled the event for Saturday evening."
+            },
+            {
+              "cf": "",
+              "x": "We scheduled the conference call for this afternoon."
+            },
+            {
+              "cf": "",
+              "x": "She schedules her tasks for the week every Sunday."
+            },
+            {
+              "cf": "",
+              "x": "The team is scheduling the project timeline."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "d161efa1-1209-40c9-8e8b-c6778227d75b",
       "word": "era",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXJh&hash=c72eebc283206fa2ae5e81c34320a7d96a3061fc&lang=en&cache-only=0",
-      "phonetic_text": "ɛrə",
+      "phonetic_text": "ɛ.rə",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXJh&hash=c72eebc283206fa2ae5e81c34320a7d96a3061fc&lang=en&cache-only=0",
-      "phonetic_am_text": "erē",
+      "phonetic_am_text": "e.rē",
       "img": "",
       "pronunciation": "ˈɛɹə/, /ˈɪɹə",
       "senses": [
         {
           "definition": "a period of history marked by particular features or events",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The fall of the Berlin Wall marked the beginning of a new era in European politics."
+            },
+            {
+              "cf": "",
+              "x": "The discovery of penicillin marked the start of a new era in medical treatment and antibiotics."
+            },
+            {
+              "cf": "",
+              "x": "The Industrial Revolution ushered in an era of rapid technological and economic change."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f76c86db-625d-4ff5-aabe-1b5102b4b9dc",
       "word": "fortnight",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9ydG5pZ2h0&hash=af28a9f6da653d64b7da960a8e88512199df797e&lang=en&cache-only=0",
-      "phonetic_text": "fɔ:rtnaɪt",
+      "phonetic_text": "fɔrt.naɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9ydG5pZ2h0&hash=af28a9f6da653d64b7da960a8e88512199df797e&lang=en&cache-only=0",
-      "phonetic_am_text": "faawrtnait",
+      "phonetic_am_text": "fawrt.nait",
       "img": "",
       "pronunciation": "ˈfɔɹtˌnaɪt",
       "senses": [
         {
           "definition": "a period consisting of two weeks or 14 days",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She planned her vacation to start in a fortnight, giving her time to prepare."
+            },
+            {
+              "cf": "",
+              "x": "The project deadline was set for a fortnight from now to allow for thorough review."
+            },
+            {
+              "cf": "",
+              "x": "They scheduled a follow-up meeting in a fortnight to assess progress on the proposal."
+            },
+            {
+              "cf": "",
+              "x": "The event will be held in a fortnight, so guests should mark their calendars accordingly."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b1020655-ef1b-4eec-9b7c-a7a973d8f82b",
       "word": "millennium",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWlsbGVubml1bQ&hash=10bf1a39d4f8d20e8ee6b517f5e5fdf01789d9c4&lang=en&cache-only=0",
-      "phonetic_text": "məlɛniəm",
+      "phonetic_text": "mə.lɛ.niəm",
       "phonetic_am": "https://tts.langeek.co/read?text=bWlsbGVubml1bQ&hash=10bf1a39d4f8d20e8ee6b517f5e5fdf01789d9c4&lang=en&cache-only=0",
-      "phonetic_am_text": "mēleniēm",
+      "phonetic_am_text": "mē.le.niēm",
       "img": "",
       "pronunciation": "məˈɫɛniəm",
       "senses": [
         {
           "definition": "a period of one thousand years, usually calculated from the year of the birth of Jesus Christ",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Historians study events that occurred during the first millennium AD to understand ancient civilizations."
+            },
+            {
+              "cf": "",
+              "x": "The invention of printing was a pivotal development during the second millennium."
+            },
+            {
+              "cf": "",
+              "x": "The medieval cathedral took nearly a millennium to complete, showcasing exquisite craftsmanship."
+            },
+            {
+              "cf": "",
+              "x": "Futurists speculate about technological advancements that may shape the next millennium."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "8f2a7006-3df9-4aec-917b-c88937bb3fd0",
       "word": "time zone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGltZSB6b25l&hash=f89ce51448f3f2b9348384164a88a0666e81757e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "taɪm zoʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=dGltZSB6b25l&hash=f89ce51448f3f2b9348384164a88a0666e81757e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "taim zooon",
       "img": "",
       "pronunciation": "tˈaɪm zˈoʊn",
       "senses": [
         {
           "definition": "a region of the earth that has the same standard time",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The conference call was scheduled to accommodate participants in different time zones."
+            },
+            {
+              "cf": "",
+              "x": "He adjusted his watch when traveling to a different time zone to match the local time."
+            },
+            {
+              "cf": "",
+              "x": "Time zones help coordinate global activities and ensure synchronized schedules."
+            },
+            {
+              "cf": "",
+              "x": "The airline pilot announced the local time and current time zone upon landing."
+            },
+            {
+              "cf": "",
+              "x": "Digital devices automatically update to the correct time zone based on their location using GPS technology."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "4dc0fed0-63a6-452e-8799-46c55afb60bc",
       "word": "(about|high) time",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YWJvdXQgdGltZQ&hash=7b5ee8c094cc4c40cf23ced42192626801296489&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YWJvdXQgdGltZQ&hash=7b5ee8c094cc4c40cf23ced42192626801296489&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44084/original/?type=jpeg",
@@ -127,49 +255,115 @@
       "senses": [
         {
           "definition": "used to indicate that something should have happened or been done earlier",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "It's about time you start taking your health seriously and prioritize exercise."
+            },
+            {
+              "cf": "",
+              "x": "She tells her friend, \"It's about time we visit that new restaurant everyone's been talking about.\""
+            },
+            {
+              "cf": "",
+              "x": "It was about time he realized the importance of saving money and started budgeting."
+            },
+            {
+              "cf": "",
+              "x": "We finally went on that long-awaited vacation—it was about time we took a break."
+            },
+            {
+              "cf": "",
+              "x": "Tomorrow, it will be about time to submit the project that we've been working on for months."
+            },
+            {
+              "cf": "",
+              "x": "By next month, it will be about time for us to move into our new house."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "9b9a2c4b-3a7e-4c4b-87fe-03ff586bc398",
       "word": "local time",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9jYWwgdGltZQ&hash=35bf3b0deaa1fdb7389166a5dda9db0462f6827d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "loʊ.kəl taɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9jYWwgdGltZQ&hash=35bf3b0deaa1fdb7389166a5dda9db0462f6827d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "looo.kēl taim",
       "img": "",
       "pronunciation": "lˈoʊkəl tˈaɪm",
       "senses": [
         {
           "definition": "the standard time measured in a specific region",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He set his watch to local time after arriving in the new country."
+            },
+            {
+              "cf": "",
+              "x": "She called her friend and remembered to check the local time to avoid calling too early or too late."
+            },
+            {
+              "cf": "",
+              "x": "They had to adjust their clocks to account for the local time when they traveled to a new time zone."
+            },
+            {
+              "cf": "",
+              "x": "The flight departure time is listed as 10 AM local time for the airport's location."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "aff4e56e-5873-49e7-ac9c-c1c67250b58d",
       "word": "chronometer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hyb25vbWV0ZXI&hash=b937d1976b72f8c9fcd5d03e6c5322e023094c51&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kroʊ.noʊ.mi:.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hyb25vbWV0ZXI&hash=b937d1976b72f8c9fcd5d03e6c5322e023094c51&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "krooo.nooo.mi.tēr",
       "img": "",
       "pronunciation": "kɹənˈɑːmɪɾɚ",
       "senses": [
         {
           "definition": "a timepiece that shows the time in a very exact way, especially one used at sea",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The chronometer's accuracy was tested regularly to maintain its reliability for professional use."
+            },
+            {
+              "cf": "",
+              "x": "The navigator relied on a marine chronometer to determine the ship's longitude during the voyage."
+            },
+            {
+              "cf": "",
+              "x": "She used a high-quality chronometer to ensure accurate timing in her scientific experiments."
+            },
+            {
+              "cf": "",
+              "x": "The chronometer was essential for astronomers to track celestial events with precision."
+            },
+            {
+              "cf": "",
+              "x": "They calibrated the chronometer to ensure it met the strict standards for accuracy in their research."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "37b1a76f-f505-4522-a27a-7a37a8bf6f31",
       "word": "hourglass",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG91cmdsYXNz&hash=04a97e080941fe2a6a10f2f949236df230e0db89&lang=en&cache-only=0",
-      "phonetic_text": "aʊərglæs",
+      "phonetic_text": "aʊr.glæs",
       "phonetic_am": "https://tts.langeek.co/read?text=aG91cmdsYXNz&hash=04a97e080941fe2a6a10f2f949236df230e0db89&lang=en&cache-only=0",
-      "phonetic_am_text": "awērglās",
+      "phonetic_am_text": "aoor.glās",
       "img": "",
       "pronunciation": "ˈaʊɝˌɡɫæs",
       "senses": [
@@ -201,44 +395,81 @@
       ]
     },
     {
+      "id": "80cba850-8c59-493c-8380-859db537846f",
       "word": "pendulum clock",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVuZHVsdW0gY2xvY2s&hash=8d8e4acfb253daec6e61f83f491658b721318046&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɛn.ʤə.ləm klɑk",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVuZHVsdW0gY2xvY2s&hash=8d8e4acfb253daec6e61f83f491658b721318046&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pen.jē.lēm klaak",
       "img": "",
       "pronunciation": "pˈɛndʒuːləm klˈɑːk",
       "senses": [
         {
           "definition": "a type of clock that works using a swinging weight at the end of a straight line",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The antique pendulum clock chimed every hour, marking the passage of time in the living room."
+            },
+            {
+              "cf": "",
+              "x": "He inherited a grandfather pendulum clock that had been in the family for generations."
+            },
+            {
+              "cf": "",
+              "x": "Pendulum clocks were widely used before the invention of quartz and atomic clocks."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e016ef5b-a72f-4846-8819-54ffb354b781",
       "word": "stopwatch",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RvcHdhdGNo&hash=8c75fdf566f754f3f042614705facf32048e1b41&lang=en&cache-only=0",
-      "phonetic_text": "stɑ:pwɑʧ",
+      "phonetic_text": "stɑp.wɑ:ʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RvcHdhdGNo&hash=8c75fdf566f754f3f042614705facf32048e1b41&lang=en&cache-only=0",
-      "phonetic_am_text": "staapwɑch",
+      "phonetic_am_text": "staap.vaach",
       "img": "",
       "pronunciation": "ˈstɑpˌwɑtʃ",
       "senses": [
         {
           "definition": "a watch with a button to stop and start time, used in sport events",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The coach used a stopwatch to time each runner during the track practice."
+            },
+            {
+              "cf": "",
+              "x": "She started the stopwatch as soon as the race began to measure her performance."
+            },
+            {
+              "cf": "",
+              "x": "The scientist used a stopwatch to record the duration of a chemical reaction in the lab."
+            },
+            {
+              "cf": "",
+              "x": "He reset the stopwatch after each trial to ensure accurate measurements in the experiment."
+            },
+            {
+              "cf": "",
+              "x": "They used a digital stopwatch for precise timing in the competition."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f3770e33-30e8-4763-9503-5bdea401d211",
       "word": "sundial",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3VuZGlhbA&hash=644be19c9d457458408944b196ff355306e490aa&lang=en&cache-only=0",
-      "phonetic_text": "sʌndaɪl",
+      "phonetic_text": "sʌn.daɪəl",
       "phonetic_am": "https://tts.langeek.co/read?text=c3VuZGlhbA&hash=644be19c9d457458408944b196ff355306e490aa&lang=en&cache-only=0",
-      "phonetic_am_text": "sandail",
+      "phonetic_am_text": "san.daiēl",
       "img": "",
       "pronunciation": "ˈsənˌdaɪɫ",
       "senses": [
@@ -254,12 +485,13 @@
       ]
     },
     {
+      "id": "51f64b21-d84a-4b88-a738-f42324669fd6",
       "word": "twilight",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHdpbGlnaHQ&hash=b5101673ea643b2554649b0357755d69060e7b61&lang=en&cache-only=0",
-      "phonetic_text": "twaɪlaɪt",
+      "phonetic_text": "twaɪ.laɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dHdpbGlnaHQ&hash=b5101673ea643b2554649b0357755d69060e7b61&lang=en&cache-only=0",
-      "phonetic_am_text": "twailait",
+      "phonetic_am_text": "tvai.lait",
       "img": "https://cdn.langeek.co/photo/31928/original/?type=jpeg",
       "pronunciation": "ˈtwaɪˌɫaɪt",
       "senses": [
@@ -291,92 +523,191 @@
       ]
     },
     {
+      "id": "28670b63-05ef-44c3-ac35-14a21902d15d",
       "word": "lateness",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGF0ZW5lc3M&hash=50a533691cef2beddfce7591c45914f132c5b979&lang=en&cache-only=0",
-      "phonetic_text": "leɪtnəs",
+      "phonetic_text": "leɪt.nəs",
       "phonetic_am": "https://tts.langeek.co/read?text=bGF0ZW5lc3M&hash=50a533691cef2beddfce7591c45914f132c5b979&lang=en&cache-only=0",
-      "phonetic_am_text": "leitnēs",
+      "phonetic_am_text": "leit.nēs",
       "img": "",
       "pronunciation": "ˈɫeɪtnəs",
       "senses": [
         {
           "definition": "the fact or quality of arriving, happening, or being done after the usual or expected time",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Her lateness to the meeting was noted, and she apologized for the delay."
+            },
+            {
+              "cf": "",
+              "x": "He was concerned about his lateness to the appointment due to heavy traffic."
+            },
+            {
+              "cf": "",
+              "x": "They discussed the consequences of habitual lateness with their employees."
+            },
+            {
+              "cf": "",
+              "x": "The train’s lateness caused inconvenience for many commuters trying to get to work on time."
+            },
+            {
+              "cf": "",
+              "x": "She tried to make up for her lateness by working extra hours to finish the task."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "2e18f1e7-be1b-446d-ab0c-b5a617a9fb2a",
       "word": "chronological",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y2hyb25vbG9naWNhbA&hash=9b90f6e8a76baa3a943554fd37b38ea66e7647c9&lang=en&cache-only=0",
-      "phonetic_text": "krɑnəlɑ:ʤɪkəl",
+      "phonetic_text": "kroʊ.noʊ.lɑ.ʤɪ.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hyb25vbG9naWNhbA&hash=9b90f6e8a76baa3a943554fd37b38ea66e7647c9&lang=en&cache-only=0",
-      "phonetic_am_text": "krɑnēlaajikēl",
+      "phonetic_am_text": "krooo.nooo.laa.ji.kēl",
       "img": "https://cdn.langeek.co/photo/48923/original/?type=jpeg",
       "pronunciation": "ˌkɹɑnəˈɫɑdʒɪkəɫ",
       "senses": [
         {
           "definition": "organized according to the order that the events occurred in",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The historical events were presented in chronological order."
+            },
+            {
+              "cf": "",
+              "x": "The biography was organized in chronological order, tracing the subject's life from birth to death."
+            },
+            {
+              "cf": "",
+              "x": "The professor presented the material in the textbook in chronological order to help students understand the progression of events."
+            },
+            {
+              "cf": "",
+              "x": "The museum exhibit showcased artifacts in chronological order, illustrating the development of civilization."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f03dd073-94f8-495d-bb07-537a05d4d950",
       "word": "instant",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aW5zdGFudA&hash=b4b5f7da8c9e110d261ace503f3d997260b42402&lang=en&cache-only=0",
-      "phonetic_text": "ɪnstənt",
+      "phonetic_text": "ɪns.tənt",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5zdGFudA&hash=b4b5f7da8c9e110d261ace503f3d997260b42402&lang=en&cache-only=0",
-      "phonetic_am_text": "instēnt",
+      "phonetic_am_text": "ins.tēnt",
       "img": "",
       "pronunciation": "ˈɪnstənt",
       "senses": [
         {
           "definition": "happening or made very quickly and easily",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The microwave oven offers instant heating for food."
+            },
+            {
+              "cf": "",
+              "x": "The company offers instant access to online services for its customers."
+            },
+            {
+              "cf": "",
+              "x": "The new software promises instant results with just a few clicks."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "acb01e47-6de4-4108-a375-16590debd1bb",
       "word": "for the moment",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=Zm9yIHRoZSBtb21lbnQ&hash=9059e797abef944c12e5e67fc9f5b36b9975a354&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɔ:r ðə moʊ.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9yIHRoZSBtb21lbnQ&hash=9059e797abef944c12e5e67fc9f5b36b9975a354&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fawr dhē mooo.mēnt",
       "img": "",
       "pronunciation": "fɚðə mˈoʊmənt",
       "senses": [
         {
           "definition": "at the present time, with the understanding that the current situation or decision may be changed in the near future",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "We have enough supplies for the moment, but we'll need to restock soon."
+            },
+            {
+              "cf": "",
+              "x": "I'm focusing on this project for the moment; other tasks can wait."
+            },
+            {
+              "cf": "",
+              "x": "For the moment, the issue seems to be resolved, but we'll keep monitoring it."
+            },
+            {
+              "cf": "",
+              "x": "The team is content with the current plan for the moment, but revisions may be necessary."
+            },
+            {
+              "cf": "",
+              "x": "I'll hold off on making a decision for the moment until I gather more information."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b32e31a9-9f91-4a30-8490-85778400ff89",
       "word": "lately",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=bGF0ZWx5&hash=2dbe3c03b1bf31e2c82eb7baa3448b52b4c17976&lang=en&cache-only=0",
-      "phonetic_text": "leɪtli",
+      "phonetic_text": "leɪt.li",
       "phonetic_am": "https://tts.langeek.co/read?text=bGF0ZWx5&hash=2dbe3c03b1bf31e2c82eb7baa3448b52b4c17976&lang=en&cache-only=0",
-      "phonetic_am_text": "leitli",
+      "phonetic_am_text": "leit.li",
       "img": "https://cdn.langeek.co/photo/43428/original/?type=jpeg",
       "pronunciation": "ˈɫeɪtɫi",
       "senses": [
         {
           "definition": "in the recent period of time",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I've been feeling tired lately."
+            },
+            {
+              "cf": "",
+              "x": "Lately, I've been enjoying reading mystery novels."
+            },
+            {
+              "cf": "",
+              "x": "She has been studying a lot lately."
+            },
+            {
+              "cf": "",
+              "x": "Have you seen her around here lately?"
+            },
+            {
+              "cf": "",
+              "x": "The weather has been quite unpredictable lately."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "3c57f3af-99cc-480e-aeee-1ff4511cf185",
       "word": "day-to-day",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZGF5LXRvLWRheQ&hash=037dd5a548b642f2e286d347d8d4eba6f7a00c0f&lang=en&cache-only=0",
-      "phonetic_text": "deɪtudeɪ",
+      "phonetic_text": "deɪ-tu:-deɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGF5LXRvLWRheQ&hash=037dd5a548b642f2e286d347d8d4eba6f7a00c0f&lang=en&cache-only=0",
-      "phonetic_am_text": "deitudei",
+      "phonetic_am_text": "dei-too-dei",
       "img": "",
       "pronunciation": "ˈdeɪtuˌdeɪ",
       "senses": [
@@ -387,44 +718,89 @@
       ]
     },
     {
+      "id": "b5088186-2261-46b3-a145-33a587834e35",
       "word": "annual",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YW5udWFs&hash=94e61a17dfdc4c4d85d55ca9c4b1158515b57671&lang=en&cache-only=0",
-      "phonetic_text": "ænjuəl",
+      "phonetic_text": "æ.njuəl",
       "phonetic_am": "https://tts.langeek.co/read?text=YW5udWFs&hash=94e61a17dfdc4c4d85d55ca9c4b1158515b57671&lang=en&cache-only=0",
-      "phonetic_am_text": "ānyuēl",
+      "phonetic_am_text": "ā.nyooēl",
       "img": "https://cdn.langeek.co/photo/45603/original/?type=jpeg",
       "pronunciation": "ˈænjuəɫ",
       "senses": [
         {
           "definition": "happening, done, or made once every year",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "They celebrated their annual family reunion in the summer."
+            },
+            {
+              "cf": "",
+              "x": "The company held its annual holiday party in December."
+            },
+            {
+              "cf": "",
+              "x": "She received her annual performance review in January."
+            },
+            {
+              "cf": "",
+              "x": "He attended the annual charity gala to support a good cause."
+            },
+            {
+              "cf": "",
+              "x": "The school organized its annual sports day event in the fall."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "373a29e6-b2db-4dcf-afe0-e0fb6d0e7534",
       "word": "annually",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YW5udWFsbHk&hash=20411dd2dc17932caf5dd26c983912ef7d022b95&lang=en&cache-only=0",
-      "phonetic_text": "ænjuəli",
+      "phonetic_text": "æ.njuə.li",
       "phonetic_am": "https://tts.langeek.co/read?text=YW5udWFsbHk&hash=20411dd2dc17932caf5dd26c983912ef7d022b95&lang=en&cache-only=0",
-      "phonetic_am_text": "ānyuēli",
+      "phonetic_am_text": "ā.nyooē.li",
       "img": "https://cdn.langeek.co/photo/45603/original/?type=jpeg",
       "pronunciation": "ˈænjuəɫi",
       "senses": [
         {
           "definition": "in a way that happens once every year",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The insurance premium is paid annually."
+            },
+            {
+              "cf": "",
+              "x": "She attends the conference annually."
+            },
+            {
+              "cf": "",
+              "x": "The company hosts a charity event annually."
+            },
+            {
+              "cf": "",
+              "x": "He reviews his investment portfolio annually."
+            },
+            {
+              "cf": "",
+              "x": "The garden show takes place annually."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "34e7e3fc-6447-45c0-b94c-8a144eb524a1",
       "word": "monthly",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bW9udGhseQ&hash=203c1a1df2db6856874c0d30eb8bf3988bb45941&lang=en&cache-only=0",
-      "phonetic_text": "mʌnθli",
+      "phonetic_text": "mʌnθ.li",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9udGhseQ&hash=203c1a1df2db6856874c0d30eb8bf3988bb45941&lang=en&cache-only=0",
-      "phonetic_am_text": "manthli",
+      "phonetic_am_text": "manth.li",
       "img": "https://cdn.langeek.co/photo/45786/original/?type=jpeg",
       "pronunciation": "ˈmʌnθli",
       "senses": [
@@ -452,58 +828,125 @@
       ]
     },
     {
+      "id": "d59614f9-84a9-41d4-97ab-922c7ff4a876",
       "word": "weekly",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=d2Vla2x5&hash=900f037f87a0959e84cbb5eb8072be62f3b973c2&lang=en&cache-only=0",
-      "phonetic_text": "wi:kli",
+      "phonetic_text": "wik.li",
       "phonetic_am": "https://tts.langeek.co/read?text=d2Vla2x5&hash=900f037f87a0959e84cbb5eb8072be62f3b973c2&lang=en&cache-only=0",
-      "phonetic_am_text": "weekli",
+      "phonetic_am_text": "vik.li",
       "img": "https://cdn.langeek.co/photo/45649/original/?type=jpeg",
       "pronunciation": "ˈwikˌli",
       "senses": [
         {
           "definition": "happening, done, or made every week",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "They attended their weekly yoga class on Monday evenings."
+            },
+            {
+              "cf": "",
+              "x": "The magazine published a weekly issue every Sunday."
+            },
+            {
+              "cf": "",
+              "x": "He received his weekly paycheck on Fridays."
+            },
+            {
+              "cf": "",
+              "x": "They held their weekly staff meeting every Monday morning."
+            },
+            {
+              "cf": "",
+              "x": "She scheduled her weekly grocery shopping for Saturday mornings."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "d4fdd4c2-50be-4b2a-bbdf-60c6fdf02ead",
       "word": "momentarily",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=bW9tZW50YXJpbHk&hash=3d7bff02d7b8fe1647bf3f91d6b5100e7eb7aafd&lang=en&cache-only=0",
-      "phonetic_text": "moʊməntɛrəli",
+      "phonetic_text": "moʊ.mən.tɛ.rə.li",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9tZW50YXJpbHk&hash=3d7bff02d7b8fe1647bf3f91d6b5100e7eb7aafd&lang=en&cache-only=0",
-      "phonetic_am_text": "mowmēnterēli",
+      "phonetic_am_text": "mooo.mēn.te.rē.li",
       "img": "",
       "pronunciation": "ˌmoʊmənˈtɛɹəɫi",
       "senses": [
         {
           "definition": "for a very short time",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He paused momentarily to catch his breath."
+            },
+            {
+              "cf": "",
+              "x": "The internet connection dropped momentarily before reconnecting."
+            },
+            {
+              "cf": "",
+              "x": "The train stopped momentarily for passengers to board."
+            },
+            {
+              "cf": "",
+              "x": "The sun emerged from behind the clouds momentarily."
+            },
+            {
+              "cf": "",
+              "x": "She hesitated momentarily before making a decision."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1196ef3f-b485-45b2-afc1-90e125548f77",
       "word": "now and again",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bm93IGFuZCBhZ2Fpbg&hash=3bb669e6e067537da6100633aa7be0bb8153f186&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "naʊ ænd ə.gɛn",
       "phonetic_am": "https://tts.langeek.co/read?text=bm93IGFuZCBhZ2Fpbg&hash=3bb669e6e067537da6100633aa7be0bb8153f186&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "naoo ānd ē.gen",
       "img": "https://cdn.langeek.co/photo/16863/original/occasionally?type=jpeg",
       "pronunciation": "nˈaʊ ænd ɐɡˈɛn",
       "senses": [
         {
           "definition": "on occasions that are not regular or frequent",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "They visit their hometown now and again."
+            },
+            {
+              "cf": "",
+              "x": "He listens to jazz music now and again."
+            },
+            {
+              "cf": "",
+              "x": "She changes her hairstyle now and again."
+            },
+            {
+              "cf": "",
+              "x": "I like to go hiking now and again when the weather is nice."
+            },
+            {
+              "cf": "",
+              "x": "Now and again, she visits her old hometown to see friends."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "bb1fc8e0-073e-41de-9d6b-8dad3fa4c869",
       "word": "(every|) now and then",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZXZlcnkgbm93IGFuZCB0aGVu&hash=5b2e039d2ad823f93c65b2e5e669fb424c9803ab&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXZlcnkgbm93IGFuZCB0aGVu&hash=5b2e039d2ad823f93c65b2e5e669fb424c9803ab&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/16863/original/occasionally?type=jpeg",
@@ -537,12 +980,13 @@
       ]
     },
     {
+      "id": "13b18c67-c434-4b03-9a76-539d313e7440",
       "word": "overtime",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=b3ZlcnRpbWU&hash=664c92a7518f5f83b8167bfd0ca10b36289f7dbe&lang=en&cache-only=0",
-      "phonetic_text": "oʊvərtaɪm",
+      "phonetic_text": "oʊ.vɜr.taɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=b3ZlcnRpbWU&hash=664c92a7518f5f83b8167bfd0ca10b36289f7dbe&lang=en&cache-only=0",
-      "phonetic_am_text": "owvērtaim",
+      "phonetic_am_text": "ooo.vēr.taim",
       "img": "",
       "pronunciation": "ˈoʊvɝˌtaɪm",
       "senses": [
@@ -553,12 +997,13 @@
       ]
     },
     {
+      "id": "fe219d93-58e7-42ef-b02f-27e8605f645d",
       "word": "later on",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=bGF0ZXIgb24&hash=f8fee3747f6e4f3696f07234e6d22e3afe2d739d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "leɪ.tər ɑ:n",
       "phonetic_am": "https://tts.langeek.co/read?text=bGF0ZXIgb24&hash=f8fee3747f6e4f3696f07234e6d22e3afe2d739d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lei.tēr aan",
       "img": "",
       "pronunciation": "lˈeɪɾɚɹ ˈɑːn",
       "senses": [

@@ -1,31 +1,55 @@
 {
+  "id": "fe9761cc-1a92-4938-a347-b7d81dfce4fd",
   "topic": "words_related_to_home_and_garden",
   "title": "Home Appliances",
   "lesson": "lesson_15",
   "word_list": [
     {
+      "id": "cdcb963d-d5c7-43cb-8d5e-5451f146c5c7",
       "word": "vacuum cleaner",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmFjdXVtIGNsZWFuZXI&hash=80daa1bd87e307fc27dc89c049414d51d878d13f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "væ.kjum kli.nər",
       "phonetic_am": "https://tts.langeek.co/read?text=dmFjdXVtIGNsZWFuZXI&hash=80daa1bd87e307fc27dc89c049414d51d878d13f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vā.kyoom kli.nēr",
       "img": "https://cdn.langeek.co/photo/50763/original/vacuum-cleaner?type=jpeg",
       "pronunciation": "ˈvækjuˌm ˈkliːnɚ",
       "senses": [
         {
           "definition": "an electrical device that pulls up dirt and dust from a floor to clean it",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Before using the vacuum cleaner, make sure to remove any large objects from the floor."
+            },
+            {
+              "cf": "",
+              "x": "I borrowed my neighbor's vacuum cleaner to clean my apartment."
+            },
+            {
+              "cf": "",
+              "x": "My mom uses the vacuum cleaner to clean the carpets every week."
+            },
+            {
+              "cf": "",
+              "x": "The old vacuum cleaner stopped working, so we bought a new one."
+            },
+            {
+              "cf": "",
+              "x": "The vacuum cleaner makes cleaning the house much easier."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "76563995-93a0-4c4f-bad5-ef61e296e961",
       "word": "space heater",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BhY2UgaGVhdGVy&hash=77f1ca5a5559e530574c2b6de96ca5bf7af772aa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "speɪs hi:.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BhY2UgaGVhdGVy&hash=77f1ca5a5559e530574c2b6de96ca5bf7af772aa&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "speis hi.tēr",
       "img": "https://cdn.langeek.co/photo/42642/original/?type=jpeg",
       "pronunciation": "spˈeɪs hˈiːɾɚ",
       "senses": [
@@ -57,12 +81,13 @@
       ]
     },
     {
+      "id": "1d2c955f-6d49-478a-8932-cd32f0fcbb93",
       "word": "pressure washer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJlc3N1cmUgd2FzaGVy&hash=0b7278dd61605623da022957a60151a079fb7c8b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "prɛ.ʃɜr wɑ.ʃɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJlc3N1cmUgd2FzaGVy&hash=0b7278dd61605623da022957a60151a079fb7c8b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pre.shēr vaa.shēr",
       "img": "https://cdn.langeek.co/photo/42638/original/?type=jpeg",
       "pronunciation": "pɹˈɛʃɚ wˈɑːʃɚ",
       "senses": [
@@ -94,12 +119,13 @@
       ]
     },
     {
+      "id": "96774bc1-e9a2-44c6-878b-645333a6722e",
       "word": "air conditioner",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWlyIGNvbmRpdGlvbmVy&hash=ac2b3d74debd53c02cebc8e6e49cef45e5975447&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛr kən.dɪ.ʃə.nɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YWlyIGNvbmRpdGlvbmVy&hash=ac2b3d74debd53c02cebc8e6e49cef45e5975447&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "er kēn.di.shē.nēr",
       "img": "https://cdn.langeek.co/photo/49814/original/air-conditioner?type=jpeg",
       "pronunciation": "ˈɛr kənˌdɪʃɪnɚ",
       "senses": [
@@ -131,28 +157,51 @@
       ]
     },
     {
+      "id": "28fe6291-ed37-42ca-973e-9c1a929fd288",
       "word": "humidifier",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aHVtaWRpZmllcg&hash=a33415aba547eb51da94cdd29fd36fcc4dccf272&lang=en&cache-only=0",
-      "phonetic_text": "hjumɪdəfaɪər",
+      "phonetic_text": "hju.mɪ.də.faɪɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=aHVtaWRpZmllcg&hash=a33415aba547eb51da94cdd29fd36fcc4dccf272&lang=en&cache-only=0",
-      "phonetic_am_text": "hyumidēfaiēr",
+      "phonetic_am_text": "hyoo.mi.dē.faiēr",
       "img": "https://cdn.langeek.co/photo/33344/original/?type=jpeg",
       "pronunciation": "hjuˈmɪdəˌfaɪɝ",
       "senses": [
         {
           "definition": "an appliance that increases the moisture level in a room or an entire building",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The humidifier in the bedroom helped ease my dry throat during the winter months."
+            },
+            {
+              "cf": "",
+              "x": "She turned on the humidifier to add moisture to the air after noticing her skin felt dry."
+            },
+            {
+              "cf": "",
+              "x": "The plant in the corner thrived with the extra moisture from the humidifier."
+            },
+            {
+              "cf": "",
+              "x": "He refilled the humidifier to keep the air in his room from getting too dry."
+            },
+            {
+              "cf": "",
+              "x": "The baby’s room has a humidifier to ensure the air stays moist and comfortable for better sleep."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "ba42d45b-94ee-46bb-b81a-2ac700a12a74",
       "word": "dehumidifier",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVodW1pZGlmaWVy&hash=5aad9ce1c192bde778e88c4ea47583a101ab66e1&lang=en&cache-only=0",
-      "phonetic_text": "dihjumɪdəfaɪər",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVodW1pZGlmaWVy&hash=5aad9ce1c192bde778e88c4ea47583a101ab66e1&lang=en&cache-only=0",
-      "phonetic_am_text": "dihyumidēfaiēr",
+      "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42544/original/?type=jpeg",
       "pronunciation": "dihjuˈmɪdəfaɪɝ",
       "senses": [
@@ -184,6 +233,7 @@
       ]
     },
     {
+      "id": "89cf2c41-f190-44f5-b544-4155baa1b05f",
       "word": "fan",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFu&hash=af482d3c8e5ab064e654e5b69cdc159e7a446b94&lang=en&cache-only=0",
@@ -195,17 +245,31 @@
       "senses": [
         {
           "definition": "an electric device with blades that rotate quickly and keep an area cool",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He adjusted the fan's speed to get the right level of airflow."
+            },
+            {
+              "cf": "",
+              "x": "She placed a small fan on her desk to stay refreshed while studying."
+            },
+            {
+              "cf": "",
+              "x": "The fan is energy-efficient, so it won't increase your electricity bill much."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "83925176-8e0c-43fb-bb40-4b616be24828",
       "word": "air purifier",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWlyIHB1cmlmaWVy&hash=70baa5b4066b0138af6ae73463723aad4e8068f8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛr pjʊ.rə.faɪɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YWlyIHB1cmlmaWVy&hash=70baa5b4066b0138af6ae73463723aad4e8068f8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "er pyoo.rē.faiēr",
       "img": "https://cdn.langeek.co/photo/33378/original/?type=jpeg",
       "pronunciation": "ˈɛɹ pjˈʊɹɪfˌaɪɚ",
       "senses": [
@@ -237,12 +301,13 @@
       ]
     },
     {
+      "id": "a0bab642-eee6-4c2f-91a1-65c758bc0eda",
       "word": "steam cleaner",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RlYW0gY2xlYW5lcg&hash=861872f3ca2585cbca3afeb797368fbef9dc07e6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stim kli.nər",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RlYW0gY2xlYW5lcg&hash=861872f3ca2585cbca3afeb797368fbef9dc07e6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "stim kli.nēr",
       "img": "https://cdn.langeek.co/photo/42644/original/?type=jpeg",
       "pronunciation": "stˈiːm klˈiːnɚ",
       "senses": [
@@ -270,12 +335,13 @@
       ]
     },
     {
+      "id": "c43e9cb5-fcf1-4f84-86d8-ce553c9a80c1",
       "word": "sewing machine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2V3aW5nIG1hY2hpbmU&hash=2024ff5dbfcdcad588340e22513b10041193ce5e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "soʊɪng mə.ʃin",
       "phonetic_am": "https://tts.langeek.co/read?text=c2V3aW5nIG1hY2hpbmU&hash=2024ff5dbfcdcad588340e22513b10041193ce5e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "soooing mē.shin",
       "img": "https://cdn.langeek.co/photo/50765/original/?type=jpeg",
       "pronunciation": "sˈoʊɪŋ məʃˈiːn",
       "senses": [
@@ -307,45 +373,30 @@
       ]
     },
     {
+      "id": "44501e0c-793e-4f5f-9b80-ecd29c8cff22",
       "word": "portable air conditioner",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9ydGFibGUgYWlyIGNvbmRpdGlvbmVy&hash=40bf97441069413bcd922e7b97d6a2a7b3ae5bf3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɔr.tə.bəl ɛr kən.dɪ.ʃə.nɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9ydGFibGUgYWlyIGNvbmRpdGlvbmVy&hash=40bf97441069413bcd922e7b97d6a2a7b3ae5bf3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pawr.tē.bēl er kēn.di.shē.nēr",
       "img": "",
       "pronunciation": "pˈoːɹɾəbəl ˈɛɹ kəndˈɪʃənɚ",
       "senses": [
         {
           "definition": "a compact, mobile unit that can be easily moved from room to room and used to cool a specific area or space",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The portable air conditioner kept the living room cool during the summer heat."
-            },
-            {
-              "cf": "",
-              "x": "He bought a portable air conditioner for his office to stay comfortable during the summer months."
-            },
-            {
-              "cf": "",
-              "x": "The portable air conditioner is perfect for cooling down small spaces like apartments or dorm rooms."
-            },
-            {
-              "cf": "",
-              "x": "We set up the portable air conditioner in the kitchen while we cooked, as it gets very warm in there."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "b98481fe-5fa1-46dc-b1b4-703dedb3402f",
       "word": "window air conditioner",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2luZG93IGFpciBjb25kaXRpb25lcg&hash=efee69d975e11bca1f2877b0386604e219379238&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɪn.doʊ ɛr kən.dɪ.ʃə.nɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luZG93IGFpciBjb25kaXRpb25lcg&hash=efee69d975e11bca1f2877b0386604e219379238&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vin.dooo er kēn.di.shē.nēr",
       "img": "https://cdn.langeek.co/photo/42706/original/?type=jpeg",
       "pronunciation": "wˈɪndoʊ ˈɛɹ kəndˈɪʃənɚ",
       "senses": [
@@ -373,45 +424,30 @@
       ]
     },
     {
+      "id": "506485e5-640d-4767-99cf-6315e19d0029",
       "word": "tower fan",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dG93ZXIgZmFu&hash=175d4bc2754480f5285e0b907def6dcfaec14348&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "taʊər fæn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG93ZXIgZmFu&hash=175d4bc2754480f5285e0b907def6dcfaec14348&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "taooēr fān",
       "img": "https://cdn.langeek.co/photo/42550/original/?type=jpeg",
       "pronunciation": "tˈaʊɚ fˈæn",
       "senses": [
         {
           "definition": "a type of electric fan that oscillates and is designed to be tall and narrow, often with a sleek and modern appearance",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The tower fan in the living room kept the air cool during the hot summer day."
-            },
-            {
-              "cf": "",
-              "x": "She set up the tower fan near the window to help circulate the air in the room."
-            },
-            {
-              "cf": "",
-              "x": "The tower fan has multiple speed settings, so I can adjust it depending on how warm it gets."
-            },
-            {
-              "cf": "",
-              "x": "I like how the tower fan doesn't take up much space but still cools the entire room."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "12aa9ff8-6fd0-4745-a821-82b996625e0f",
       "word": "air cooler",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWlyIGNvb2xlcg&hash=dcb618e4d6eb140b76f7dcc90e17db56ce69be81&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛr ku.lɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YWlyIGNvb2xlcg&hash=dcb618e4d6eb140b76f7dcc90e17db56ce69be81&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "er koo.lēr",
       "img": "https://cdn.langeek.co/photo/42540/original/?type=jpeg",
       "pronunciation": "ˈɛɹ kˈuːlɚ",
       "senses": [
@@ -439,12 +475,13 @@
       ]
     },
     {
+      "id": "80e3ef11-982f-4024-9540-faba16a9e99a",
       "word": "electric heater",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWxlY3RyaWMgaGVhdGVy&hash=f5572a9f047526823fcdd47d3a6c551c87edc949&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪ.lɛkt.rɪk hi:.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWxlY3RyaWMgaGVhdGVy&hash=f5572a9f047526823fcdd47d3a6c551c87edc949&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "i.lekt.rik hi.tēr",
       "img": "https://cdn.langeek.co/photo/49836/original/?type=jpeg",
       "pronunciation": "ɪlˈɛktɹɪk hˈiːɾɚ",
       "senses": [
@@ -476,45 +513,30 @@
       ]
     },
     {
+      "id": "48bb5ffb-80dd-49fe-bcf7-f3e8595f5b79",
       "word": "central vacuum system",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2VudHJhbCB2YWN1dW0gc3lzdGVt&hash=9f6a99e6792b26c4470c3ae9507f6b4a5839b8b2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛnt.rəl væ.kjum sɪs.təm",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2VudHJhbCB2YWN1dW0gc3lzdGVt&hash=9f6a99e6792b26c4470c3ae9507f6b4a5839b8b2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sent.rēl vā.kyoom sis.tēm",
       "img": "https://cdn.langeek.co/photo/42542/original/?type=jpeg",
       "pronunciation": "sˈɛntɹəl vˈækjuːm sˈɪstəm",
       "senses": [
         {
           "definition": "a built-in vacuum cleaning system that is installed inside a building and connected to a network of inlets throughout the building",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The central vacuum system in our house makes cleaning so much easier, as we no longer have to carry a heavy vacuum around."
-            },
-            {
-              "cf": "",
-              "x": "My grandmother loves the central vacuum system because it is quieter than the traditional vacuum she used before."
-            },
-            {
-              "cf": "",
-              "x": "In the new office building, every floor has a central vacuum system for quick and efficient cleaning."
-            },
-            {
-              "cf": "",
-              "x": "We had to replace the hose for the central vacuum system, but it's still much more convenient than using a regular vacuum."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "ffa82f3c-5e12-4af4-bfb5-c0cae0dc5204",
       "word": "water softener",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2F0ZXIgc29mdGVuZXI&hash=6ef8cdebca5eeeeb636f1b92d75c1d9671dd5240&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɑ:.tər sɔf.ə.nɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=d2F0ZXIgc29mdGVuZXI&hash=6ef8cdebca5eeeeb636f1b92d75c1d9671dd5240&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vaa.tēr sawf.ē.nēr",
       "img": "https://cdn.langeek.co/photo/42650/original/?type=jpeg",
       "pronunciation": "wˈɔːɾɚ sˈɔfənɚ",
       "senses": [
@@ -525,12 +547,13 @@
       ]
     },
     {
+      "id": "dfc4dc1b-bb6b-4eae-9294-35f691c807e1",
       "word": "electric blanket",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWxlY3RyaWMgYmxhbmtldA&hash=a3aeb7f1d507e561c3dc5f41542f305cd205fa03&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪ.lɛkt.rɪk blæn.kət",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWxlY3RyaWMgYmxhbmtldA&hash=a3aeb7f1d507e561c3dc5f41542f305cd205fa03&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "i.lekt.rik blān.kēt",
       "img": "",
       "pronunciation": "ɪlˈɛktɹɪk blˈæŋkɪt",
       "senses": [
@@ -562,45 +585,30 @@
       ]
     },
     {
+      "id": "dfd0b25a-7a70-453a-bc3d-f865c1bc891a",
       "word": "handheld vacuum cleaner",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFuZGhlbGQgdmFjdXVtIGNsZWFuZXI&hash=3adfe210f0a1bd53dc3e7e84ab0c50c180aa8117&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hænd.hɛld væ.kjum kli.nər",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFuZGhlbGQgdmFjdXVtIGNsZWFuZXI&hash=3adfe210f0a1bd53dc3e7e84ab0c50c180aa8117&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hānd.held vā.kyoom kli.nēr",
       "img": "https://cdn.langeek.co/photo/42636/original/?type=jpeg",
       "pronunciation": "hˈændhɛld vˈækjuːm klˈiːnɚ",
       "senses": [
         {
           "definition": "a small, portable vacuum cleaner designed for quick and easy cleaning of small messes and hard-to-reach areas",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She used the handheld vacuum cleaner to quickly clean the crumbs from the couch."
-            },
-            {
-              "cf": "",
-              "x": "After spilling some dirt on the kitchen floor, I used the handheld vacuum cleaner to clean it up."
-            },
-            {
-              "cf": "",
-              "x": "The handheld vacuum cleaner made it easy to clean the stairs without dragging a large vacuum around."
-            },
-            {
-              "cf": "",
-              "x": "He grabbed the handheld vacuum cleaner to clean up the mess after his kids had lunch."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "cd6b206a-d296-4ded-94c8-39f0ab61897b",
       "word": "water purifier",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2F0ZXIgcHVyaWZpZXI&hash=0d821979a6af3feda51c7c9984c2526d656599c3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɑ:.tər pjʊ.rə.faɪɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=d2F0ZXIgcHVyaWZpZXI&hash=0d821979a6af3feda51c7c9984c2526d656599c3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vaa.tēr pyoo.rē.faiēr",
       "img": "https://cdn.langeek.co/photo/42648/original/?type=jpeg",
       "pronunciation": "wˈɔːɾɚ pjˈʊɹɪfˌaɪɚ",
       "senses": [
@@ -628,12 +636,13 @@
       ]
     },
     {
+      "id": "b9902e67-1857-4e8e-bd25-629211af1990",
       "word": "washing machine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2FzaGluZyBtYWNoaW5l&hash=04b72820a9788eadd0de37cab78729dc8fd8e6e6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɑ.ʃɪng mə.ʃin",
       "phonetic_am": "https://tts.langeek.co/read?text=d2FzaGluZyBtYWNoaW5l&hash=04b72820a9788eadd0de37cab78729dc8fd8e6e6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vaa.shing mē.shin",
       "img": "https://cdn.langeek.co/photo/17451/original/washing-machine?type=jpeg",
       "pronunciation": "ˈwɑːʃɪŋ məˈʃiːn",
       "senses": [
@@ -665,10 +674,11 @@
       ]
     },
     {
+      "id": "f54d1ede-8c22-4d51-9084-4f63eefdfe20",
       "word": "dryer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJ5ZXI&hash=f7005d5865fcc49078c30f39ff31e079b2b01172&lang=en&cache-only=0",
-      "phonetic_text": "draɪər",
+      "phonetic_text": "draɪɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJ5ZXI&hash=f7005d5865fcc49078c30f39ff31e079b2b01172&lang=en&cache-only=0",
       "phonetic_am_text": "draiēr",
       "img": "https://cdn.langeek.co/photo/50801/original/?type=jpeg",
@@ -706,6 +716,7 @@
       ]
     },
     {
+      "id": "dcb198e3-7a3b-4915-bc64-59f257b239cc",
       "word": "iron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aXJvbg&hash=06b7a94fa654ab595980a327cfbf97cf74c0b43c&lang=en&cache-only=0",
@@ -731,12 +742,13 @@
       ]
     },
     {
+      "id": "f0c8c316-a160-41c1-9f60-2e3143fa40a2",
       "word": "garment steamer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2FybWVudCBzdGVhbWVy&hash=8a39c7001fc04cf27d3566d014d6697ea79b13ba&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gɑr.mənt sti.mɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2FybWVudCBzdGVhbWVy&hash=8a39c7001fc04cf27d3566d014d6697ea79b13ba&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gaar.mēnt sti.mēr",
       "img": "https://cdn.langeek.co/photo/42632/original/?type=jpeg",
       "pronunciation": "ɡˈɑːɹmənt stˈiːmɚ",
       "senses": [
@@ -764,10 +776,11 @@
       ]
     },
     {
+      "id": "f7329499-41d0-4076-9f1d-d19d93cc1dda",
       "word": "drying cabinet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJ5aW5nIGNhYmluZXQ&hash=805e28320ad7fae60fb3f45948c8d5ad25926947&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJ5aW5nIGNhYmluZXQ&hash=805e28320ad7fae60fb3f45948c8d5ad25926947&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42546/original/?type=jpeg",
@@ -775,34 +788,18 @@
       "senses": [
         {
           "definition": "an appliance that is used to dry clothes, towels, and other fabrics using forced air and sometimes heat",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After washing my sweater, I placed it in the drying cabinet to avoid damaging the fabric."
-            },
-            {
-              "cf": "",
-              "x": "I used the drying cabinet to quickly dry my gym clothes after a workout."
-            },
-            {
-              "cf": "",
-              "x": "Instead of hanging my delicate dress outside, I put it in the drying cabinet to ensure it stays in perfect condition."
-            },
-            {
-              "cf": "",
-              "x": "After washing the towels, I placed them in the drying cabinet to get them soft and dry."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "bf38470c-7cb8-47f6-99c8-f6fa53b78a5b",
       "word": "snow blower",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c25vdyBibG93ZXI&hash=3cbee82db33fe9cd624ae23745db4246cb0396b4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "snoʊ bloʊɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c25vdyBibG93ZXI&hash=3cbee82db33fe9cd624ae23745db4246cb0396b4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "snooo bloooēr",
       "img": "https://cdn.langeek.co/photo/47752/original/?type=jpeg",
       "pronunciation": "snˈoʊ blˈoʊɚ",
       "senses": [
@@ -834,12 +831,13 @@
       ]
     },
     {
+      "id": "7f5c1a09-4d82-4f83-8112-274916c0535f",
       "word": "steam mop",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RlYW0gbW9w&hash=e939f85f090c4f3f0ae1e87bd946fb36fe7dc3bb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stim mɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RlYW0gbW9w&hash=e939f85f090c4f3f0ae1e87bd946fb36fe7dc3bb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "stim maap",
       "img": "https://cdn.langeek.co/photo/42646/original/?type=jpeg",
       "pronunciation": "stˈiːm mˈɑːp",
       "senses": [

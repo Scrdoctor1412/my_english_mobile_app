@@ -1,10 +1,12 @@
 {
+  "id": "b5b4846c-a01b-4462-a2ec-1cf4255f1411",
   "topic": "eating_drinking_and_serving",
   "title": "Alcohol Consumption",
   "lesson": "lesson_7",
   "word_list": [
     {
-      "word": "drink",
+      "id": "0d98adb9-ed3c-4bc6-8f14-a9c15745365d",
+      "word": "to drink",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJpbms&hash=c6484aa6eabb4a2333f4238abc0f33c70a1556e4&lang=en&cache-only=0",
       "phonetic_text": "drɪnk",
@@ -33,14 +35,15 @@
       ]
     },
     {
-      "word": "abuse",
+      "id": "83e81c3d-c3a7-49ff-9a1d-ecdc9cb9f669",
+      "word": "to abuse",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWJ1c2U&hash=e5d0e2d488fd1f695c39776e8444021c448dca90&lang=en&cache-only=0",
-      "phonetic_text": "əbju:s",
+      "phonetic_text": "ə.bjuz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWJ1c2U&hash=e5d0e2d488fd1f695c39776e8444021c448dca90&lang=en&cache-only=0",
-      "phonetic_am_text": "ēbyoos",
+      "phonetic_am_text": "ē.byooz",
       "img": "",
-      "pronunciation": "əˈbjuz",
+      "pronunciation": "əˈbjuːs",
       "senses": [
         {
           "definition": "to consume substances such as alcohol or drugs beyond acceptable or recommended levels",
@@ -66,12 +69,13 @@
       ]
     },
     {
-      "word": "sober up",
+      "id": "c468446d-6448-49d8-8d1f-f6eca7c01fe5",
+      "word": "to sober up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc29iZXIgdXA&hash=680f68652a43106765527fa4aeddba3771342b8a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "soʊ.bɜr ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc29iZXIgdXA&hash=680f68652a43106765527fa4aeddba3771342b8a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sooo.bēr ap",
       "img": "",
       "pronunciation": "sˈoʊbɚɹ ˈʌp",
       "senses": [
@@ -95,12 +99,13 @@
       ]
     },
     {
-      "word": "swill",
+      "id": "d955893e-07f8-47fd-a317-1ed6254a961e",
+      "word": "to swill",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3dpbGw&hash=34732ff3be0dca5cfdd47279a54d6d5330233889&lang=en&cache-only=0",
       "phonetic_text": "swɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3dpbGw&hash=34732ff3be0dca5cfdd47279a54d6d5330233889&lang=en&cache-only=0",
-      "phonetic_am_text": "swil",
+      "phonetic_am_text": "svil",
       "img": "https://cdn.langeek.co/photo/47268/original/?type=jpeg",
       "pronunciation": "ˈswɪɫ",
       "senses": [
@@ -132,12 +137,13 @@
       ]
     },
     {
-      "word": "toast",
+      "id": "a948ad74-4367-46ca-8380-2dfd417445f4",
+      "word": "to toast",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdG9hc3Q&hash=a5802a8aa2791baa15756df6c8ff09fa1fc2f19a&lang=en&cache-only=0",
       "phonetic_text": "toʊst",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdG9hc3Q&hash=a5802a8aa2791baa15756df6c8ff09fa1fc2f19a&lang=en&cache-only=0",
-      "phonetic_am_text": "towst",
+      "phonetic_am_text": "tooost",
       "img": "https://cdn.langeek.co/photo/21999/original/?type=jpeg",
       "pronunciation": "toʊst",
       "senses": [
@@ -165,14 +171,15 @@
       ]
     },
     {
-      "word": "lace",
+      "id": "0f880f0a-5115-438c-99f7-1b4ec181fcf4",
+      "word": "to lace",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGFjZQ&hash=513a34ca8599d31828f9c6f521bce8bd7977d88b&lang=en&cache-only=0",
       "phonetic_text": "leɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGFjZQ&hash=513a34ca8599d31828f9c6f521bce8bd7977d88b&lang=en&cache-only=0",
       "phonetic_am_text": "leis",
       "img": "",
-      "pronunciation": "ˈɫeɪs",
+      "pronunciation": "leɪs",
       "senses": [
         {
           "definition": "to add a splash or small amount of a potent alcoholic drink to another beverage for flavor or added strength",
@@ -202,12 +209,13 @@
       ]
     },
     {
-      "word": "knock back",
+      "id": "50c8cd7f-4b34-460d-9a20-1bc4afd25d45",
+      "word": "to knock back",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga25vY2sgYmFjaw&hash=4594588401bde3373188831b2e44d37cccb2e14f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nɑk bæk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga25vY2sgYmFjaw&hash=4594588401bde3373188831b2e44d37cccb2e14f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "naak bāk",
       "img": "https://cdn.langeek.co/photo/53234/original/?type=jpeg",
       "pronunciation": "nˈɑːk bˈæk",
       "senses": [
@@ -235,10 +243,11 @@
       ]
     },
     {
-      "word": "booze",
+      "id": "b86f72a4-07b3-4c02-9892-cd3fea483139",
+      "word": "to booze",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYm9vemU&hash=e1329b242e15a23a3c61b3f3819484b59d749b63&lang=en&cache-only=0",
-      "phonetic_text": "bu:z",
+      "phonetic_text": "buz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYm9vemU&hash=e1329b242e15a23a3c61b3f3819484b59d749b63&lang=en&cache-only=0",
       "phonetic_am_text": "booz",
       "img": "https://cdn.langeek.co/photo/18307/original/drink?type=jpeg",
@@ -272,12 +281,13 @@
       ]
     },
     {
-      "word": "belt down",
+      "id": "2ca4bcd5-2f3b-4023-8c73-0adc67a27d3d",
+      "word": "to belt down",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmVsdCBkb3du&hash=dad9e1233d6b52c0ec3487f3a3ddba3d665ad1d9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɛlt daʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmVsdCBkb3du&hash=dad9e1233d6b52c0ec3487f3a3ddba3d665ad1d9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "belt daoon",
       "img": "",
       "pronunciation": "bˈɛlt dˈaʊn",
       "senses": [
@@ -309,12 +319,13 @@
       ]
     },
     {
-      "word": "carouse",
+      "id": "b7f3afd2-1502-43fe-95bf-4f8a25006698",
+      "word": "to carouse",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2Fyb3VzZQ&hash=b2a0eb7449794d7d5571c222bf21dc573132b514&lang=en&cache-only=0",
-      "phonetic_text": "kəraʊz",
+      "phonetic_text": "kɜ.raʊz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2Fyb3VzZQ&hash=b2a0eb7449794d7d5571c222bf21dc573132b514&lang=en&cache-only=0",
-      "phonetic_am_text": "kērawz",
+      "phonetic_am_text": "kē.raooz",
       "img": "",
       "pronunciation": "kɝˈaʊz",
       "senses": [
@@ -346,12 +357,13 @@
       ]
     },
     {
-      "word": "cut off",
+      "id": "01d83875-59a5-464a-b745-b7d917f02c69",
+      "word": "to cut off",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3V0IG9mZg&hash=be8878bc363819a14633c543ee91be1470a26441&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kʌt ɑf",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3V0IG9mZg&hash=be8878bc363819a14633c543ee91be1470a26441&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kat aaf",
       "img": "",
       "pronunciation": "kˈʌt ˈɔf",
       "senses": [
@@ -362,12 +374,13 @@
       ]
     },
     {
-      "word": "revel",
+      "id": "5f00f2c6-dd31-4bf0-bac7-973ae5b43df2",
+      "word": "to revel",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmV2ZWw&hash=d7417773f0c6038b736a5465b8f878e510918ff6&lang=en&cache-only=0",
-      "phonetic_text": "rɛvəl",
+      "phonetic_text": "rɛ.vəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmV2ZWw&hash=d7417773f0c6038b736a5465b8f878e510918ff6&lang=en&cache-only=0",
-      "phonetic_am_text": "revēl",
+      "phonetic_am_text": "re.vēl",
       "img": "",
       "pronunciation": "ˈɹɛvəɫ",
       "senses": [
@@ -399,12 +412,13 @@
       ]
     },
     {
-      "word": "tipple",
+      "id": "908c059c-348a-44de-8b6e-451ca5e36d9c",
+      "word": "to tipple",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGlwcGxl&hash=4d5fb7c6d80e498146069d06fac099dea78e41a7&lang=en&cache-only=0",
-      "phonetic_text": "tɪpəl",
+      "phonetic_text": "tɪ.pəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGlwcGxl&hash=4d5fb7c6d80e498146069d06fac099dea78e41a7&lang=en&cache-only=0",
-      "phonetic_am_text": "tipēl",
+      "phonetic_am_text": "ti.pēl",
       "img": "",
       "pronunciation": "ˈtɪpəɫ",
       "senses": [
@@ -436,12 +450,13 @@
       ]
     },
     {
+      "id": "0efefc72-5273-4731-863d-b7fbda024000",
       "word": "pub crawl",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHViIGNyYXds&hash=258d80e03129c141863e8e1cc271a9e4ada794ac&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pʌb krɔl",
       "phonetic_am": "https://tts.langeek.co/read?text=cHViIGNyYXds&hash=258d80e03129c141863e8e1cc271a9e4ada794ac&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pab krawl",
       "img": "",
       "pronunciation": "pˈʌb kɹˈɔːl",
       "senses": [
@@ -473,10 +488,11 @@
       ]
     },
     {
+      "id": "cd7a0b12-c9dc-4b29-88ba-1fade16aef06",
       "word": "proof",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvb2Y&hash=fd9428ab5aec8f245de385b6215f8250855facaa&lang=en&cache-only=0",
-      "phonetic_text": "pru:f",
+      "phonetic_text": "pruf",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvb2Y&hash=fd9428ab5aec8f245de385b6215f8250855facaa&lang=en&cache-only=0",
       "phonetic_am_text": "proof",
       "img": "",
@@ -510,6 +526,7 @@
       ]
     },
     {
+      "id": "04f2754d-39c4-4b9c-a6fb-c309629e02be",
       "word": "high",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGlnaA&hash=3cc614658c9a918812534f458ebda7ad9da1df22&lang=en&cache-only=0",
@@ -539,12 +556,13 @@
       ]
     },
     {
+      "id": "ef05507f-f351-43ae-b4d0-ae6b5c4c08ce",
       "word": "happy hour",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFwcHkgaG91cg&hash=8e0b194730b590308c60032ca05bc5e2e5d218fd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hæ.pi aʊr",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFwcHkgaG91cg&hash=8e0b194730b590308c60032ca05bc5e2e5d218fd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hā.pi aoor",
       "img": "",
       "pronunciation": "hˈæpi ˈaɪʊɹ",
       "senses": [
@@ -576,12 +594,13 @@
       ]
     },
     {
+      "id": "8033cd28-2df8-4e11-8ad3-0d27e9420973",
       "word": "hangover",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFuZ292ZXI&hash=557e2c96aa8620fb9d8bdcd35fb5cc3916399e63&lang=en&cache-only=0",
-      "phonetic_text": "hængoʊvər",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFuZ292ZXI&hash=557e2c96aa8620fb9d8bdcd35fb5cc3916399e63&lang=en&cache-only=0",
-      "phonetic_am_text": "hāngowvēr",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˈhæˌŋoʊvɝ",
       "senses": [
@@ -592,10 +611,11 @@
       ]
     },
     {
+      "id": "1c426816-c9e4-4a53-b5d7-1ddc30dd8eaa",
       "word": "Dutch courage",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RHV0Y2ggY291cmFnZQ&hash=b55b9becc8a84b4a0c40d0227b71988045f00c24&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RHV0Y2ggY291cmFnZQ&hash=b55b9becc8a84b4a0c40d0227b71988045f00c24&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -608,10 +628,11 @@
       ]
     },
     {
+      "id": "b69cc75b-b90e-4ef7-9549-dbf3f6df7fba",
       "word": "designated driver",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVzaWduYXRlZCBkcml2ZXI&hash=40aef79ecb2afd5c8ce3b4a6bc9c070e8f36b218&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVzaWduYXRlZCBkcml2ZXI&hash=40aef79ecb2afd5c8ce3b4a6bc9c070e8f36b218&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -645,13 +666,14 @@
       ]
     },
     {
+      "id": "b2ce84d8-730e-44e5-a216-27efb2d64191",
       "word": "cheers",
       "pos": "interjection",
       "phonetic": "https://tts.langeek.co/read?text=Y2hlZXJz&hash=b60cd2e850733589a4029a11dcb2140da5d81577&lang=en&cache-only=0",
       "phonetic_text": "ʧɪrz",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hlZXJz&hash=b60cd2e850733589a4029a11dcb2140da5d81577&lang=en&cache-only=0",
       "phonetic_am_text": "chirz",
-      "img": "https://cdn.langeek.co/photo/35655/original/bye?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/61522/original/bye?type=jpeg",
       "pronunciation": "tʃɪɹz",
       "senses": [
         {
@@ -661,10 +683,11 @@
       ]
     },
     {
+      "id": "4ad9944e-994c-464c-84c1-97365a86fb8f",
       "word": "delirium tremens",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVsaXJpdW0gdHJlbWVucw&hash=02bb72ca1aa496c11261ab994d7a4488a279d049&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVsaXJpdW0gdHJlbWVucw&hash=02bb72ca1aa496c11261ab994d7a4488a279d049&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -698,12 +721,13 @@
       ]
     },
     {
+      "id": "0a71ee50-ce3d-4afd-aa68-e7e3b81d018c",
       "word": "alcoholism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWxjb2hvbGlzbQ&hash=a36a748af34ba3e86d67f48527e4acc255b36f25&lang=en&cache-only=0",
-      "phonetic_text": "ælkəhɔlɪzəm",
+      "phonetic_text": "æl.kə.hɔ.lɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxjb2hvbGlzbQ&hash=a36a748af34ba3e86d67f48527e4acc255b36f25&lang=en&cache-only=0",
-      "phonetic_am_text": "ālkēhawlizēm",
+      "phonetic_am_text": "āl.kē.haw.li.zēm",
       "img": "",
       "pronunciation": "ˈæɫkəˌhɔˌɫɪzəm",
       "senses": [
@@ -723,10 +747,11 @@
       ]
     },
     {
+      "id": "24190009-15c1-4505-af55-536a1295ea13",
       "word": "Alcoholics Anonymous",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QWxjb2hvbGljcyBBbm9ueW1vdXM&hash=538d512c6535ac8634d4995e9a26128a15a08c1f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QWxjb2hvbGljcyBBbm9ueW1vdXM&hash=538d512c6535ac8634d4995e9a26128a15a08c1f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -760,10 +785,11 @@
       ]
     },
     {
+      "id": "459570f7-c087-45e7-98f2-0c72f1922f8d",
       "word": "driving under the influence",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZHJpdmluZyB1bmRlciB0aGUgaW5mbHVlbmNl&hash=9ebe5c972246b29573080d3ded3840bb3b4c364d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJpdmluZyB1bmRlciB0aGUgaW5mbHVlbmNl&hash=9ebe5c972246b29573080d3ded3840bb3b4c364d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -797,10 +823,11 @@
       ]
     },
     {
+      "id": "ddd338d6-4a4f-497b-aabc-b7bfa11f845b",
       "word": "DWI",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RFdJ&hash=855feea5d23c8504dcfd5fefa0ae1d5e44305665&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RFdJ&hash=855feea5d23c8504dcfd5fefa0ae1d5e44305665&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -813,14 +840,15 @@
       ]
     },
     {
+      "id": "bbac63aa-06f6-4d64-aa0b-970e1a7b4696",
       "word": "drunk",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZHJ1bms&hash=c9012a9875ff71a287db7419b0ba540cf762f34a&lang=en&cache-only=0",
-      "phonetic_text": "drʌnk",
+      "phonetic_text": "drənk",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJ1bms&hash=c9012a9875ff71a287db7419b0ba540cf762f34a&lang=en&cache-only=0",
-      "phonetic_am_text": "drank",
+      "phonetic_am_text": "drēnk",
       "img": "https://cdn.langeek.co/photo/18291/original/alcoholic?type=jpeg",
-      "pronunciation": "ˈdɹəŋk",
+      "pronunciation": "drʌŋk",
       "senses": [
         {
           "definition": "having had too much alcohol and visibly affected by it",
@@ -850,14 +878,15 @@
       ]
     },
     {
+      "id": "569e2e76-b424-4a31-9f25-7eb3631fa998",
       "word": "alcoholic",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YWxjb2hvbGlj&hash=8c5c4d7e48596e4b92c92236d5d41ed66672fa19&lang=en&cache-only=0",
-      "phonetic_text": "ælkəhɑ:lɪk",
+      "phonetic_text": "æl.kə.hɑ.lɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxjb2hvbGlj&hash=8c5c4d7e48596e4b92c92236d5d41ed66672fa19&lang=en&cache-only=0",
-      "phonetic_am_text": "ālkēhaalik",
+      "phonetic_am_text": "āl.kē.haa.lik",
       "img": "https://cdn.langeek.co/photo/18291/original/alcoholic?type=jpeg",
-      "pronunciation": "ˌæɫkəˈhɑɫɪk",
+      "pronunciation": "ˌælkəˈhɑlɪk",
       "senses": [
         {
           "definition": "excessively consuming alcohol and struggling to control or stop this habit",
@@ -887,12 +916,13 @@
       ]
     },
     {
+      "id": "01629531-0893-4e73-8b3b-93f2857d10e9",
       "word": "sloshed",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c2xvc2hlZA&hash=26b48ce2acdea29bd4924acf95f68192edf356e4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "slɑ:ʃt",
       "phonetic_am": "https://tts.langeek.co/read?text=c2xvc2hlZA&hash=26b48ce2acdea29bd4924acf95f68192edf356e4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "slaasht",
       "img": "",
       "pronunciation": "slˈɑːʃt",
       "senses": [
@@ -908,12 +938,13 @@
       ]
     },
     {
+      "id": "81209e1a-b4f8-44e1-ada3-ebd2f20da657",
       "word": "tipsy",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dGlwc3k&hash=ea8d235103c2427d993aa4554c18966de9818b51&lang=en&cache-only=0",
-      "phonetic_text": "tɪpsi",
+      "phonetic_text": "tɪp.si",
       "phonetic_am": "https://tts.langeek.co/read?text=dGlwc3k&hash=ea8d235103c2427d993aa4554c18966de9818b51&lang=en&cache-only=0",
-      "phonetic_am_text": "tipsi",
+      "phonetic_am_text": "tip.si",
       "img": "https://cdn.langeek.co/photo/18291/original/alcoholic?type=jpeg",
       "pronunciation": "ˈtɪpsi",
       "senses": [
@@ -929,12 +960,13 @@
       ]
     },
     {
+      "id": "dd36fa5f-e381-4e73-839e-80c30560ba14",
       "word": "plastered",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cGxhc3RlcmVk&hash=ebdabdc0365cc0f8bf57bdce851f32aa6ab7156f&lang=en&cache-only=0",
-      "phonetic_text": "plæstərd",
+      "phonetic_text": "plæs.tɜrd",
       "phonetic_am": "https://tts.langeek.co/read?text=cGxhc3RlcmVk&hash=ebdabdc0365cc0f8bf57bdce851f32aa6ab7156f&lang=en&cache-only=0",
-      "phonetic_am_text": "plāstērd",
+      "phonetic_am_text": "plās.tērd",
       "img": "",
       "pronunciation": "ˈpɫæstɝd",
       "senses": [
@@ -950,12 +982,13 @@
       ]
     },
     {
+      "id": "abf7cda0-fa7a-4943-921e-2ad215ad5977",
       "word": "blind drunk",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YmxpbmQgZHJ1bms&hash=daae2597b56f9203384dc35733cb39caee20fe3d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "blaɪnd drənk",
       "phonetic_am": "https://tts.langeek.co/read?text=YmxpbmQgZHJ1bms&hash=daae2597b56f9203384dc35733cb39caee20fe3d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "blaind drēnk",
       "img": "",
       "pronunciation": "blˈaɪnd dɹˈʌŋk",
       "senses": [
@@ -987,12 +1020,13 @@
       ]
     },
     {
+      "id": "2f17cdbb-2950-4218-9ac2-906c6309e86b",
       "word": "buzz",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnV6eg&hash=ed742c0e1f89f06443445c98cb9539fc004217eb&lang=en&cache-only=0",
-      "phonetic_text": "bʌz",
+      "phonetic_text": "bəz",
       "phonetic_am": "https://tts.langeek.co/read?text=YnV6eg&hash=ed742c0e1f89f06443445c98cb9539fc004217eb&lang=en&cache-only=0",
-      "phonetic_am_text": "baz",
+      "phonetic_am_text": "bēz",
       "img": "",
       "pronunciation": "ˈbəz",
       "senses": [
@@ -1003,12 +1037,13 @@
       ]
     },
     {
+      "id": "fddd4b36-df02-4db9-838a-85f9928795e4",
       "word": "drunken",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZHJ1bmtlbg&hash=e3283108343b4330a2b7ecb87e94ad9c92eccb63&lang=en&cache-only=0",
-      "phonetic_text": "drʌnkən",
+      "phonetic_text": "drən.kən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJ1bmtlbg&hash=e3283108343b4330a2b7ecb87e94ad9c92eccb63&lang=en&cache-only=0",
-      "phonetic_am_text": "drankēn",
+      "phonetic_am_text": "drēn.kēn",
       "img": "https://cdn.langeek.co/photo/18291/original/alcoholic?type=jpeg",
       "pronunciation": "ˈdɹəŋkən",
       "senses": [
@@ -1036,12 +1071,13 @@
       ]
     },
     {
+      "id": "6283b869-a9bb-4a9f-a2b3-205593417e84",
       "word": "hammered",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aGFtbWVyZWQ&hash=c160c4afb1b9802b2cf549574cc9655e1bfbc7f9&lang=en&cache-only=0",
-      "phonetic_text": "hæmərd",
+      "phonetic_text": "hæ.mɜrd",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFtbWVyZWQ&hash=c160c4afb1b9802b2cf549574cc9655e1bfbc7f9&lang=en&cache-only=0",
-      "phonetic_am_text": "hāmērd",
+      "phonetic_am_text": "hā.mērd",
       "img": "",
       "pronunciation": "ˈhæmɝd",
       "senses": [
@@ -1052,12 +1088,13 @@
       ]
     },
     {
+      "id": "419c51f2-4ff3-4127-ad80-5fbb23a4f322",
       "word": "inebriated",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aW5lYnJpYXRlZA&hash=4cd16c63659dbbbe92a27a3b005d15dbea88ab35&lang=en&cache-only=0",
-      "phonetic_text": "ɪnɛbrieɪtəd",
+      "phonetic_text": "ɪ.nɛb.rieɪ.təd",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5lYnJpYXRlZA&hash=4cd16c63659dbbbe92a27a3b005d15dbea88ab35&lang=en&cache-only=0",
-      "phonetic_am_text": "inebrieitēd",
+      "phonetic_am_text": "i.neb.riei.tēd",
       "img": "https://cdn.langeek.co/photo/49223/original/?type=jpeg",
       "pronunciation": "ˌɪˈnɛbɹiˌeɪtəd",
       "senses": [
@@ -1077,12 +1114,13 @@
       ]
     },
     {
+      "id": "74eee4b0-fb50-46bc-924e-1ab14c6349a7",
       "word": "intoxicated",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aW50b3hpY2F0ZWQ&hash=369276709c203ffef5639ca402e51d24ec768c64&lang=en&cache-only=0",
-      "phonetic_text": "ɪntɑ:ksəkeɪtɪd",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aW50b3hpY2F0ZWQ&hash=369276709c203ffef5639ca402e51d24ec768c64&lang=en&cache-only=0",
-      "phonetic_am_text": "intaaksēkeitid",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ɪnˈtɑksəˌkeɪtɪd/, /ɪnˈtɑksɪˌkeɪtɪd",
       "senses": [
@@ -1098,12 +1136,13 @@
       ]
     },
     {
+      "id": "a1337911-394a-40f5-a45f-0058247cf176",
       "word": "wasted",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=d2FzdGVk&hash=25d05d8e825b2bfb80a974701b5db3c81b5113ad&lang=en&cache-only=0",
-      "phonetic_text": "weɪstɪd",
+      "phonetic_text": "weɪs.tɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=d2FzdGVk&hash=25d05d8e825b2bfb80a974701b5db3c81b5113ad&lang=en&cache-only=0",
-      "phonetic_am_text": "weistid",
+      "phonetic_am_text": "veis.tid",
       "img": "",
       "pronunciation": "ˈweɪstɪd",
       "senses": [
@@ -1114,12 +1153,13 @@
       ]
     },
     {
+      "id": "e965c764-a609-4011-aef3-a949ffb65a23",
       "word": "wino",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2lubw&hash=c4f9bb30c1c4fc76a1298dc613e36b5ec51d1f89&lang=en&cache-only=0",
-      "phonetic_text": "wi:noʊ",
+      "phonetic_text": "wi.noʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=d2lubw&hash=c4f9bb30c1c4fc76a1298dc613e36b5ec51d1f89&lang=en&cache-only=0",
-      "phonetic_am_text": "weenow",
+      "phonetic_am_text": "vi.nooo",
       "img": "",
       "pronunciation": "ˈwinoʊ",
       "senses": [
@@ -1139,14 +1179,15 @@
       ]
     },
     {
+      "id": "f1917cd4-4785-428e-87ef-7327d657ef5a",
       "word": "drunk",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJ1bms&hash=c9012a9875ff71a287db7419b0ba540cf762f34a&lang=en&cache-only=0",
-      "phonetic_text": "drʌnk",
+      "phonetic_text": "drənk",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJ1bms&hash=c9012a9875ff71a287db7419b0ba540cf762f34a&lang=en&cache-only=0",
-      "phonetic_am_text": "drank",
+      "phonetic_am_text": "drēnk",
       "img": "",
-      "pronunciation": "ˈdɹəŋk",
+      "pronunciation": "drʌŋk",
       "senses": [
         {
           "definition": "a person who is in a state of intoxication resulting from the consumption of excessive alcohol",
@@ -1172,12 +1213,13 @@
       ]
     },
     {
+      "id": "19362183-ba75-4d60-847d-36843cf4fbfb",
       "word": "drunkard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJ1bmthcmQ&hash=1027ca9ce7d65819f30d4a0481998e497877ba7a&lang=en&cache-only=0",
-      "phonetic_text": "drʌnkərd",
+      "phonetic_text": "drən.kɜrd",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJ1bmthcmQ&hash=1027ca9ce7d65819f30d4a0481998e497877ba7a&lang=en&cache-only=0",
-      "phonetic_am_text": "drankērd",
+      "phonetic_am_text": "drēn.kērd",
       "img": "",
       "pronunciation": "ˈdɹəŋkɝd",
       "senses": [
@@ -1205,12 +1247,13 @@
       ]
     },
     {
+      "id": "9167d99e-53b5-4a86-99a4-04ba83d5a2cb",
       "word": "sober",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c29iZXI&hash=65e8cef9e8030637ab3d2e5f4b311a65004e4be0&lang=en&cache-only=0",
-      "phonetic_text": "soʊbər",
+      "phonetic_text": "soʊ.bɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c29iZXI&hash=65e8cef9e8030637ab3d2e5f4b311a65004e4be0&lang=en&cache-only=0",
-      "phonetic_am_text": "sowbēr",
+      "phonetic_am_text": "sooo.bēr",
       "img": "https://cdn.langeek.co/photo/28616/original/?type=jpeg",
       "pronunciation": "ˈsoʊbɝ",
       "senses": [
@@ -1242,12 +1285,13 @@
       ]
     },
     {
+      "id": "86992a97-683f-4f69-a376-d99a79fa92bb",
       "word": "teetotal",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dGVldG90YWw&hash=5b93bfb5fda6f528e363f59956be9b4464881573&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ti:.toʊ.təl",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVldG90YWw&hash=5b93bfb5fda6f528e363f59956be9b4464881573&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ti.tooo.tēl",
       "img": "https://cdn.langeek.co/photo/32672/original/?type=jpeg",
       "pronunciation": "tˈiːtoʊɾəl",
       "senses": [
@@ -1279,12 +1323,13 @@
       ]
     },
     {
+      "id": "242e0017-aec7-45d7-83ad-70b97bc239dd",
       "word": "rehab",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVoYWI&hash=99e89ea47e3057d350d489b3fb27bf44d7698a84&lang=en&cache-only=0",
-      "phonetic_text": "rihæb",
+      "phonetic_text": "ri.hæb",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVoYWI&hash=99e89ea47e3057d350d489b3fb27bf44d7698a84&lang=en&cache-only=0",
-      "phonetic_am_text": "rihāb",
+      "phonetic_am_text": "ri.hāb",
       "img": "",
       "pronunciation": "ɹihæb",
       "senses": [
@@ -1316,12 +1361,13 @@
       ]
     },
     {
+      "id": "13506029-c512-45d8-b39d-a53b7a64ba79",
       "word": "sobriety",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c29icmlldHk&hash=4741bf15922964a4fdccf78c926c1165bc9be21a&lang=en&cache-only=0",
-      "phonetic_text": "səbraɪəti",
+      "phonetic_text": "səb.raɪə.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=c29icmlldHk&hash=4741bf15922964a4fdccf78c926c1165bc9be21a&lang=en&cache-only=0",
-      "phonetic_am_text": "sēbraiēti",
+      "phonetic_am_text": "sēb.raiē.ti",
       "img": "",
       "pronunciation": "səˈbɹaɪəti",
       "senses": [
@@ -1349,12 +1395,13 @@
       ]
     },
     {
+      "id": "4ab90c0b-b559-447f-a597-b0b56dcf7e7a",
       "word": "teetotaller",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVldG90YWxsZXI&hash=6e2c90a129ca3f8c5fc9edff870f943080b71432&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ti:.toʊ.tɔ:.lər",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVldG90YWxsZXI&hash=6e2c90a129ca3f8c5fc9edff870f943080b71432&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ti.tooo.taw.lēr",
       "img": "https://cdn.langeek.co/photo/32672/original/?type=jpeg",
       "pronunciation": "tˈiːɾoʊtˌɔːlɚ",
       "senses": [

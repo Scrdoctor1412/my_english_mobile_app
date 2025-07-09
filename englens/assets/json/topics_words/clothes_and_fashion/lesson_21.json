@@ -1,15 +1,17 @@
 {
+  "id": "799c16aa-a390-4473-bb27-87f52eac7120",
   "topic": "clothes_and_fashion",
   "title": "The World of Fashion",
   "lesson": "lesson_21",
   "word_list": [
     {
+      "id": "5344abe8-4360-4ac3-b417-6b84b5386563",
       "word": "season",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Vhc29u&hash=7282d074ed95cf93b86619a9f6eee35251a6e3af&lang=en&cache-only=0",
-      "phonetic_text": "si:zən",
+      "phonetic_text": "si:.sʌn",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Vhc29u&hash=7282d074ed95cf93b86619a9f6eee35251a6e3af&lang=en&cache-only=0",
-      "phonetic_am_text": "seezēn",
+      "phonetic_am_text": "si.san",
       "img": "https://cdn.langeek.co/photo/34047/original/?type=jpeg",
       "pronunciation": "ˈsiːzən",
       "senses": [
@@ -20,12 +22,13 @@
       ]
     },
     {
+      "id": "6b9e54b9-d501-403b-a036-c0ff85e66198",
       "word": "couture",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291dHVyZQ&hash=8078c52029c61b1c443d7b0c53ab2d6616e79f3a&lang=en&cache-only=0",
-      "phonetic_text": "kutʊr",
+      "phonetic_text": "ku.tʊr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291dHVyZQ&hash=8078c52029c61b1c443d7b0c53ab2d6616e79f3a&lang=en&cache-only=0",
-      "phonetic_am_text": "kutur",
+      "phonetic_am_text": "koo.toor",
       "img": "https://cdn.langeek.co/photo/34035/original/?type=jpeg",
       "pronunciation": "kuˈtʊɹ",
       "senses": [
@@ -36,44 +39,89 @@
       ]
     },
     {
+      "id": "5a55bd9e-bd53-4ca6-93b6-59e5e0e67dd4",
       "word": "designer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVzaWduZXI&hash=81e9361de7f09776cd144f9a3085ccbed69602b6&lang=en&cache-only=0",
-      "phonetic_text": "dɪzaɪnər",
+      "phonetic_text": "dɪ.zaɪ.nər",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVzaWduZXI&hash=81e9361de7f09776cd144f9a3085ccbed69602b6&lang=en&cache-only=0",
-      "phonetic_am_text": "dizainēr",
+      "phonetic_am_text": "di.zai.nēr",
       "img": "https://cdn.langeek.co/photo/16362/original/fashion-designer?type=jpeg",
-      "pronunciation": "dɪˈzaɪnɝ",
+      "pronunciation": "dɪˈzaɪnɚ",
       "senses": [
         {
           "definition": "a person who designs clothes as a job",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He aspired to become a famous designer and enrolled in a prestigious fashion school."
+            },
+            {
+              "cf": "",
+              "x": "The local boutique carries clothing from both established and emerging designers."
+            },
+            {
+              "cf": "",
+              "x": "She hired a designer to create custom wedding invitations for her special day."
+            },
+            {
+              "cf": "",
+              "x": "The designer unveiled her latest collection during Fashion Week in Paris."
+            },
+            {
+              "cf": "",
+              "x": "The designer carefully chose the colors for the new dress."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "4f76d405-c896-4d93-9c52-a659ca49e15d",
       "word": "fashion designer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFzaGlvbiBkZXNpZ25lcg&hash=9f5774f3ed335bbb22dc84dd0cd061c699ba4ad6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fæ.ʃən dɪ.zaɪ.nər",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFzaGlvbiBkZXNpZ25lcg&hash=9f5774f3ed335bbb22dc84dd0cd061c699ba4ad6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fā.shēn di.zai.nēr",
       "img": "https://cdn.langeek.co/photo/16362/original/fashion-designer?type=jpeg",
       "pronunciation": "fˈæʃən dɪzˈaɪnɚ",
       "senses": [
         {
           "definition": "a person who designs stylish clothes",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "At the workshop, the fashion designer taught students about sustainable materials."
+            },
+            {
+              "cf": "",
+              "x": "He wants to become a famous fashion designer someday."
+            },
+            {
+              "cf": "",
+              "x": "She's a young fashion designer with innovative ideas."
+            },
+            {
+              "cf": "",
+              "x": "The fashion designer showcased her new collection at the runway show."
+            },
+            {
+              "cf": "",
+              "x": "The fashion designer takes inspiration from nature for his designs."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "6a5a6953-0e3a-4a19-896d-a194d30ec5a7",
       "word": "fashion statement",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFzaGlvbiBzdGF0ZW1lbnQ&hash=926e04b295729a54acb312d1339152794125b66a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fæ.ʃən steɪt.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFzaGlvbiBzdGF0ZW1lbnQ&hash=926e04b295729a54acb312d1339152794125b66a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fā.shēn steit.mēnt",
       "img": "https://cdn.langeek.co/photo/20489/original/unusual?type=jpeg",
       "pronunciation": "fˈæʃən stˈeɪtmənt",
       "senses": [
@@ -84,12 +132,13 @@
       ]
     },
     {
+      "id": "3502b772-676f-4c13-91c7-cc26d67c4333",
       "word": "fashion victim",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFzaGlvbiB2aWN0aW0&hash=6bbb5652423fd84aa618ec04fe48629d568096b0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fæ.ʃən vɪk.təm",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFzaGlvbiB2aWN0aW0&hash=6bbb5652423fd84aa618ec04fe48629d568096b0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fā.shēn vik.tēm",
       "img": "",
       "pronunciation": "fˈæʃən vˈɪktᵻm",
       "senses": [
@@ -100,12 +149,13 @@
       ]
     },
     {
+      "id": "93bde873-d421-49c9-b1f0-2e9fd31b799a",
       "word": "fashion-conscious",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZmFzaGlvbi1jb25zY2lvdXM&hash=a3182714cad6d0058d5a6532849c6081dc938ca3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fæ.ʃən-kɑn.ʃəs",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFzaGlvbi1jb25zY2lvdXM&hash=a3182714cad6d0058d5a6532849c6081dc938ca3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fā.shēn-kaan.shēs",
       "img": "",
       "pronunciation": "fˈæʃənkˈɑːnʃəs",
       "senses": [
@@ -116,26 +166,53 @@
       ]
     },
     {
+      "id": "286d9e69-990f-4e08-8673-004d340211b8",
       "word": "fashionable",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZmFzaGlvbmFibGU&hash=d320b99bde437f08ef728f16333b4eaed9888f99&lang=en&cache-only=0",
-      "phonetic_text": "fæʃənəbəl",
+      "phonetic_text": "fæ.ʃə.nə.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFzaGlvbmFibGU&hash=d320b99bde437f08ef728f16333b4eaed9888f99&lang=en&cache-only=0",
-      "phonetic_am_text": "fāshēnēbēl",
-      "img": "https://cdn.langeek.co/photo/18437/original/fashionable?type=jpeg",
-      "pronunciation": "ˈfæʃənəbəɫ/, /ˈfæʃnəbəɫ",
+      "phonetic_am_text": "fā.shē.nē.bēl",
+      "img": "https://cdn.langeek.co/photo/60582/original/?type=jpeg",
+      "pronunciation": "ˈfæʃənəbəl",
       "senses": [
         {
           "definition": "following the latest or the most popular styles and trends in a specific period",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She always stays fashionable by keeping up with the latest trends and incorporating them into her wardrobe."
+            },
+            {
+              "cf": "",
+              "x": "The fashionable celebrity is often seen wearing the newest designer clothing and accessories."
+            },
+            {
+              "cf": "",
+              "x": "Despite her busy schedule, she manages to remain fashionable and well-dressed for every occasion."
+            },
+            {
+              "cf": "",
+              "x": "The fashionable boutique attracts customers with its curated selection of trendy clothing and accessories."
+            },
+            {
+              "cf": "",
+              "x": "He prides himself on being fashionable and is always ahead of the curve when it comes to style."
+            },
+            {
+              "cf": "",
+              "x": "The fashionable neighborhood is known for its trendy cafes, boutiques, and vibrant street fashion."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "24d8ec61-decd-467c-af59-fa5c46471617",
       "word": "haute couture",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGF1dGUgY291dHVyZQ&hash=7679c96732c5fbe9bd6c79a7d2e363c10ab74569&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aGF1dGUgY291dHVyZQ&hash=7679c96732c5fbe9bd6c79a7d2e363c10ab74569&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34035/original/?type=jpeg",
@@ -143,27 +220,67 @@
       "senses": [
         {
           "definition": "the products of making highly fashionable and expensive clothing",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The designer's latest haute couture collection dazzled the fashion world with its exquisite craftsmanship and innovative designs."
+            },
+            {
+              "cf": "",
+              "x": "She wore a stunning haute couture gown to the gala, turning heads with its intricate embroidery and luxurious fabric."
+            },
+            {
+              "cf": "",
+              "x": "Haute couture pieces are meticulously crafted by hand, often taking hundreds of hours to complete each garment."
+            },
+            {
+              "cf": "",
+              "x": "The fashion show featured a parade of haute couture creations, each more elaborate and breathtaking than the last."
+            },
+            {
+              "cf": "",
+              "x": "As an aspiring fashion designer, she dreams of one day presenting her own haute couture collection on the runways of Paris."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "36272491-0472-4c23-9769-a271359f98f3",
       "word": "vogue",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dm9ndWU&hash=ac7554ab67220e5da28d31d1b6a09efb826dafed&lang=en&cache-only=0",
       "phonetic_text": "voʊg",
       "phonetic_am": "https://tts.langeek.co/read?text=dm9ndWU&hash=ac7554ab67220e5da28d31d1b6a09efb826dafed&lang=en&cache-only=0",
-      "phonetic_am_text": "vowg",
+      "phonetic_am_text": "vooog",
       "img": "https://cdn.langeek.co/photo/33960/original/?type=jpeg",
       "pronunciation": "ˈvoʊɡ",
       "senses": [
         {
           "definition": "the latest fashion trend or style of the time",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The new clothing line quickly became the vogue among fashion enthusiasts."
+            },
+            {
+              "cf": "",
+              "x": "High-waisted jeans are currently all the vogue in the fashion industry."
+            },
+            {
+              "cf": "",
+              "x": "The designer's innovative collection set the new vogue for the upcoming season."
+            },
+            {
+              "cf": "",
+              "x": "Vintage accessories have come back into vogue, adding a nostalgic touch to modern outfits."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7480fb0a-6819-46c7-8897-5e75291c361e",
       "word": "in",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aW4&hash=d9f99e59087477e0ce749c9005cc1d3a28dfe1d6&lang=en&cache-only=0",
@@ -174,34 +291,57 @@
       "pronunciation": "ɪn",
       "senses": [
         {
-          "definition": "very fashionable at a specific time",
+          "definition": "currently popular, trendy, or in style",
           "examples": []
         }
       ]
     },
     {
+      "id": "5d29da7d-0aad-460e-a24b-607487f2b21a",
       "word": "unfashionable",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dW5mYXNoaW9uYWJsZQ&hash=c7dc91038be62bd641aeec39b422c9f1f5987b9e&lang=en&cache-only=0",
-      "phonetic_text": "ənfæʃənəbəl",
+      "phonetic_text": "ʌn.fæ.ʃə.nə.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5mYXNoaW9uYWJsZQ&hash=c7dc91038be62bd641aeec39b422c9f1f5987b9e&lang=en&cache-only=0",
-      "phonetic_am_text": "ēnfāshēnēbēl",
+      "phonetic_am_text": "an.fā.shē.nē.bēl",
       "img": "https://cdn.langeek.co/photo/34057/original/?type=jpeg",
       "pronunciation": "ənˈfæʃənəbəɫ",
       "senses": [
         {
           "definition": "not fashionable or popular at the moment; outdated",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Her dress, though well-made, looked unfashionable by today's standards."
+            },
+            {
+              "cf": "",
+              "x": "Wearing large shoulder pads is now considered unfashionable."
+            },
+            {
+              "cf": "",
+              "x": "The old storefront design appeared unfashionable in the modern shopping district."
+            },
+            {
+              "cf": "",
+              "x": "His haircut, once trendy, is now seen as unfashionable."
+            },
+            {
+              "cf": "",
+              "x": "Those shoes, despite being comfortable, are quite unfashionable."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "bfb160aa-12ef-417a-9ddb-020a112ea186",
       "word": "supermodel",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3VwZXJtb2RlbA&hash=bcf3779d9ac90d0658a518dd1da4ec9565b9665a&lang=en&cache-only=0",
-      "phonetic_text": "su:pərmɑdəl",
+      "phonetic_text": "su.pɜr.mɑ.dəl",
       "phonetic_am": "https://tts.langeek.co/read?text=c3VwZXJtb2RlbA&hash=bcf3779d9ac90d0658a518dd1da4ec9565b9665a&lang=en&cache-only=0",
-      "phonetic_am_text": "soopērmɑdēl",
+      "phonetic_am_text": "soo.pēr.maa.dēl",
       "img": "https://cdn.langeek.co/photo/16320/original/model?type=jpeg",
       "pronunciation": "ˈsupɝˌmɑdəɫ",
       "senses": [
@@ -212,46 +352,91 @@
       ]
     },
     {
+      "id": "57de72fb-d8eb-4a66-8948-bcc823e45645",
       "word": "model",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9kZWw&hash=5abaea122502faa5fea42a9cbc791be8e81d5809&lang=en&cache-only=0",
-      "phonetic_text": "mɑ:dəl",
+      "phonetic_text": "mɑ.dəl",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9kZWw&hash=5abaea122502faa5fea42a9cbc791be8e81d5809&lang=en&cache-only=0",
-      "phonetic_am_text": "maadēl",
+      "phonetic_am_text": "maa.dēl",
       "img": "https://cdn.langeek.co/photo/25359/original/?type=jpeg",
-      "pronunciation": "ˈmɑdəɫ",
+      "pronunciation": "ˈmɑdəl",
       "senses": [
         {
           "definition": "a person who is employed by an artist to pose for a painting, photograph, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The artist hired a model to sit for a portrait, capturing the subject's unique features and expressions."
+            },
+            {
+              "cf": "",
+              "x": "She enjoyed working as a model, finding it fascinating to see how different photographers interpret her appearance."
+            },
+            {
+              "cf": "",
+              "x": "The painting was inspired by a live model, allowing the artist to study the human form in great detail."
+            },
+            {
+              "cf": "",
+              "x": "During the fashion class, students learned how to direct a model to achieve the desired poses for their photo shoots."
+            },
+            {
+              "cf": "",
+              "x": "The sculptor used a model to create a realistic representation of the human figure, ensuring accuracy in proportions and details."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "fad8c6ba-0155-4b5b-b51b-857ee2edd831",
       "word": "catwalk",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2F0d2Fsaw&hash=43e039162d21390584b675df85675e2f95291c9c&lang=en&cache-only=0",
-      "phonetic_text": "kætwɑk",
+      "phonetic_text": "kæt.wɑ:k",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2F0d2Fsaw&hash=43e039162d21390584b675df85675e2f95291c9c&lang=en&cache-only=0",
-      "phonetic_am_text": "kātwɑk",
+      "phonetic_am_text": "kāt.vaak",
       "img": "https://cdn.langeek.co/photo/16320/original/model?type=jpeg",
       "pronunciation": "ˈkætˌwɑk/, /ˈkætˌwɔk",
       "senses": [
         {
           "definition": "a runway or passage that models walk on in front of the audience during a fashion show",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The models strutted confidently down the catwalk."
+            },
+            {
+              "cf": "",
+              "x": "The lights lit up the catwalk as the show began."
+            },
+            {
+              "cf": "",
+              "x": "The catwalk was crowded with photographers capturing every moment."
+            },
+            {
+              "cf": "",
+              "x": "The models wore high heels while walking the catwalk."
+            },
+            {
+              "cf": "",
+              "x": "The catwalk was surrounded by eager fans and designers."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "d03fbc5e-b952-45c8-82b7-4f8fd8359eba",
       "word": "collection",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29sbGVjdGlvbg&hash=a6e0c9156d977a8c3f2b03db44415d0d9230cad8&lang=en&cache-only=0",
-      "phonetic_text": "kəlɛkʃən",
+      "phonetic_text": "kə.lɛk.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29sbGVjdGlvbg&hash=a6e0c9156d977a8c3f2b03db44415d0d9230cad8&lang=en&cache-only=0",
-      "phonetic_am_text": "kēlekshēn",
+      "phonetic_am_text": "kē.lek.shēn",
       "img": "https://cdn.langeek.co/photo/31149/original/?type=jpeg",
-      "pronunciation": "kəˈɫɛkʃən",
+      "pronunciation": "kəˈlɛkʃən",
       "senses": [
         {
           "definition": "a series of new clothes designed by a fashion house for sale",
@@ -281,28 +466,51 @@
       ]
     },
     {
-      "word": "model",
+      "id": "15e48854-a8f3-4ddf-a853-21ed54f6c0c0",
+      "word": "to model",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbW9kZWw&hash=5f918294689456dbcc9ca35e7a701670bfe71cda&lang=en&cache-only=0",
-      "phonetic_text": "mɑ:dəl",
+      "phonetic_text": "mɑ.dəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbW9kZWw&hash=5f918294689456dbcc9ca35e7a701670bfe71cda&lang=en&cache-only=0",
-      "phonetic_am_text": "maadēl",
+      "phonetic_am_text": "maa.dēl",
       "img": "https://cdn.langeek.co/photo/16320/original/model?type=jpeg",
-      "pronunciation": "ˈmɑdəɫ",
+      "pronunciation": "ˈmɑdəl",
       "senses": [
         {
           "definition": "to wear clothes for display especially as a profession",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He was hired to model the new collection at the fashion show."
+            },
+            {
+              "cf": "",
+              "x": "The agency asked her to model various outfits for their spring campaign."
+            },
+            {
+              "cf": "",
+              "x": "She modeled for a magazine cover, wearing a stunning evening gown."
+            },
+            {
+              "cf": "",
+              "x": "He modeled a suit in a commercial to highlight its fine craftsmanship."
+            },
+            {
+              "cf": "",
+              "x": "She modeled the designer dress on the catwalk during Fashion Week."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "ada586bf-b9a7-47bd-8198-c78e13e7d0e9",
       "word": "couturier",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291dHVyaWVy&hash=7b4bae9f13e8b3f7c9cc94eb7a2b2750ee190c4a&lang=en&cache-only=0",
-      "phonetic_text": "kutʊriər",
+      "phonetic_text": "ku.tʊ.riɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291dHVyaWVy&hash=7b4bae9f13e8b3f7c9cc94eb7a2b2750ee190c4a&lang=en&cache-only=0",
-      "phonetic_am_text": "kuturiēr",
+      "phonetic_am_text": "koo.too.riēr",
       "img": "https://cdn.langeek.co/photo/34055/original/?type=jpeg",
       "pronunciation": "kuˈtʊɹiɝ",
       "senses": [
@@ -313,12 +521,13 @@
       ]
     },
     {
+      "id": "d24ad268-944a-401c-a9d3-f2b7bfb9502f",
       "word": "off-the-rack",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=b2ZmLXRoZS1yYWNr&hash=b0c275bece8cdbc06656df988a061e515b3e7c94&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑf-ðə-ræk",
       "phonetic_am": "https://tts.langeek.co/read?text=b2ZmLXRoZS1yYWNr&hash=b0c275bece8cdbc06656df988a061e515b3e7c94&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aaf-dhē-rāk",
       "img": "https://cdn.langeek.co/photo/34131/original/?type=jpeg",
       "pronunciation": "ˈɔfðəɹˈæk",
       "senses": [
@@ -329,12 +538,13 @@
       ]
     },
     {
+      "id": "c544c349-0ec1-4505-a53a-4966f5e03c6a",
       "word": "ready-to-wear",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVhZHktdG8td2Vhcg&hash=cc4768577145cb1418ef536fa41b532bbd81e3d0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɛ.di-tu:-wɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVhZHktdG8td2Vhcg&hash=cc4768577145cb1418ef536fa41b532bbd81e3d0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "re.di-too-ver",
       "img": "https://cdn.langeek.co/photo/49059/original/try-on?type=jpeg",
       "pronunciation": "ɹˈɛdiɾəwˈɛɹ",
       "senses": [
@@ -345,14 +555,15 @@
       ]
     },
     {
+      "id": "500bcb37-2ca8-410c-bc53-3be495d24ff6",
       "word": "tailored",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dGFpbG9yZWQ&hash=923f413e1c81578d02c103e1b4db81eb578e7ae7&lang=en&cache-only=0",
-      "phonetic_text": "teɪlərd",
+      "phonetic_text": "teɪ.lɜrd",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFpbG9yZWQ&hash=923f413e1c81578d02c103e1b4db81eb578e7ae7&lang=en&cache-only=0",
-      "phonetic_am_text": "teilērd",
+      "phonetic_am_text": "tei.lērd",
       "img": "https://cdn.langeek.co/photo/34051/original/?type=jpeg",
-      "pronunciation": "ˈteɪɫɝd",
+      "pronunciation": "ˈteɪlɚd",
       "senses": [
         {
           "definition": "(of clothes) well-cut and fitted",
@@ -378,12 +589,13 @@
       ]
     },
     {
+      "id": "c47bb82e-9555-410c-924a-116bd5a2b883",
       "word": "tailor-made",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dGFpbG9yLW1hZGU&hash=3d8202f871e112833ebbc0da9feee7779c205a2e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "teɪ.lər-meɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFpbG9yLW1hZGU&hash=3d8202f871e112833ebbc0da9feee7779c205a2e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tei.lēr-meid",
       "img": "https://cdn.langeek.co/photo/34051/original/?type=jpeg",
       "pronunciation": "tˈeɪlɚmˈeɪd",
       "senses": [
@@ -394,12 +606,13 @@
       ]
     },
     {
+      "id": "a785f1e7-44c9-4bfa-bd29-0d45ef566588",
       "word": "tailor-made",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFpbG9yLW1hZGU&hash=3d8202f871e112833ebbc0da9feee7779c205a2e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "teɪ.lər-meɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFpbG9yLW1hZGU&hash=3d8202f871e112833ebbc0da9feee7779c205a2e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tei.lēr-meid",
       "img": "https://cdn.langeek.co/photo/34051/original/?type=jpeg",
       "pronunciation": "tˈeɪlɚmˈeɪd",
       "senses": [
@@ -410,14 +623,15 @@
       ]
     },
     {
+      "id": "1f8718f8-0864-4f2c-a4e1-56c79a247f8a",
       "word": "fast fashion",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFzdCBmYXNoaW9u&hash=78e18de48b8b2218fa1fd4b5313de890c461fde8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fæst fæ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFzdCBmYXNoaW9u&hash=78e18de48b8b2218fa1fd4b5313de890c461fde8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fāst fā.shēn",
       "img": "",
-      "pronunciation": "ˌfæst ˈfæʃ.ən",
+      "pronunciation": "fˈæst fˈæʃən",
       "senses": [
         {
           "definition": "trendy clothing produced quickly and intended for short-term use",
@@ -426,12 +640,13 @@
       ]
     },
     {
+      "id": "890f3d2f-f208-4722-bf3b-fc179a7ac33b",
       "word": "fashion house",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFzaGlvbiBob3VzZQ&hash=41bbba10a850a8ca15e44edf1e12428e21f5f072&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fæ.ʃən haʊs",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFzaGlvbiBob3VzZQ&hash=41bbba10a850a8ca15e44edf1e12428e21f5f072&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fā.shēn haoos",
       "img": "",
       "pronunciation": "ˈfæʃən ˈhaʊs",
       "senses": [
@@ -442,12 +657,13 @@
       ]
     },
     {
+      "id": "7750b411-a22a-4fe2-b819-27d76c89ff37",
       "word": "fashion show",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFzaGlvbiBzaG93&hash=87f52af88025a4d9710954878c525a3946e09896&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fæ.ʃən ʃoʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFzaGlvbiBzaG93&hash=87f52af88025a4d9710954878c525a3946e09896&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fā.shēn shooo",
       "img": "https://cdn.langeek.co/photo/16320/original/model?type=jpeg",
       "pronunciation": "ˈfæʃ.ən ˌʃoʊ",
       "senses": [
@@ -458,14 +674,15 @@
       ]
     },
     {
+      "id": "d8178d75-d16e-4b5c-8edf-f5f27e087626",
       "word": "modeling",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9kZWxpbmc&hash=27fd3c352ddd367845fdd40f7cefb033ed850dc9&lang=en&cache-only=0",
-      "phonetic_text": "mɑ:dəlɪng",
+      "phonetic_text": "mɑ.də.lɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9kZWxpbmc&hash=27fd3c352ddd367845fdd40f7cefb033ed850dc9&lang=en&cache-only=0",
-      "phonetic_am_text": "maadēling",
+      "phonetic_am_text": "maa.dē.ling",
       "img": "https://cdn.langeek.co/photo/49906/original/fashion?type=jpeg",
-      "pronunciation": "ˈmɑdəˌɫɪŋ/, /ˈmɑdɫɪŋ",
+      "pronunciation": "ˈmɑdlɪŋ",
       "senses": [
         {
           "definition": "the profession of wearing clothes or accessories to present them to a group of people",
@@ -495,14 +712,15 @@
       ]
     },
     {
-      "word": "tailor",
+      "id": "9c521e65-6985-40dc-9cee-0103eb142d62",
+      "word": "to tailor",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFpbG9y&hash=a099a57caad653cd2e315dca4eed3bbef7e05e94&lang=en&cache-only=0",
-      "phonetic_text": "teɪlər",
+      "phonetic_text": "teɪ.lər",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFpbG9y&hash=a099a57caad653cd2e315dca4eed3bbef7e05e94&lang=en&cache-only=0",
-      "phonetic_am_text": "teilēr",
+      "phonetic_am_text": "tei.lēr",
       "img": "https://cdn.langeek.co/photo/51440/original/tailor?type=jpeg",
-      "pronunciation": "ˈteɪɫɝ",
+      "pronunciation": "ˈteɪlɚ",
       "senses": [
         {
           "definition": "to make clothes according to the measurements of a particular costumer",
@@ -532,12 +750,13 @@
       ]
     },
     {
+      "id": "528e2fb0-efa7-480b-941a-1b231692c42d",
       "word": "custom-made",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3VzdG9tLW1hZGU&hash=59ada83546459123c3536a3f044d2d6fc6168a15&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kəs.təm-meɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3VzdG9tLW1hZGU&hash=59ada83546459123c3536a3f044d2d6fc6168a15&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kēs.tēm-meid",
       "img": "",
       "pronunciation": "kˈʌstəmmˈeɪd",
       "senses": [
@@ -548,12 +767,13 @@
       ]
     },
     {
+      "id": "f2226fce-21f1-4ffb-8795-b0f5462648fa",
       "word": "custom-made",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y3VzdG9tLW1hZGU&hash=59ada83546459123c3536a3f044d2d6fc6168a15&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kəs.təm-meɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3VzdG9tLW1hZGU&hash=59ada83546459123c3536a3f044d2d6fc6168a15&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kēs.tēm-meid",
       "img": "",
       "pronunciation": "kˈʌstəmmˈeɪd",
       "senses": [
@@ -564,12 +784,13 @@
       ]
     },
     {
+      "id": "b47da691-0545-4d53-b0a3-cc4e01d4f5c9",
       "word": "garment industry",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2FybWVudCBpbmR1c3RyeQ&hash=b0fe2c3098928367a004a2b7b2fb1e3dd9b3b13e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gɑr.mənt ɪn.dəst.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2FybWVudCBpbmR1c3RyeQ&hash=b0fe2c3098928367a004a2b7b2fb1e3dd9b3b13e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gaar.mēnt in.dēst.ri",
       "img": "",
       "pronunciation": "ɡˈɑːɹmənt ˈɪndʌstɹi",
       "senses": [
@@ -580,12 +801,13 @@
       ]
     },
     {
+      "id": "0b0c52a0-b300-4c77-8386-fe4c0c031173",
       "word": "clothes designer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xvdGhlcyBkZXNpZ25lcg&hash=5fbfcfea60e5e67648340cdf4906802cab9f47a4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kloʊðz dɪ.zaɪ.nər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xvdGhlcyBkZXNpZ25lcg&hash=5fbfcfea60e5e67648340cdf4906802cab9f47a4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "klooodhz di.zai.nēr",
       "img": "https://cdn.langeek.co/photo/34055/original/?type=jpeg",
       "pronunciation": "klˈoʊðz dɪzˈaɪnɚ",
       "senses": [

@@ -1,13 +1,15 @@
 {
+  "id": "0bafbaba-aaea-41b7-b626-a1c7d81e7454",
   "topic": "danger",
   "title": "Cautiousness",
   "lesson": "lesson_0",
   "word_list": [
     {
-      "word": "[throw|cast|fling] caution to the [wind]",
+      "id": "e7c08c83-8ce8-40bf-8097-940ab3fb1ed8",
+      "word": "to [throw|cast|fling] caution to the [wind]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGhyb3cgY2F1dGlvbiB0byB0aGUgd2luZA&hash=f9f326337c4ec0214ca27419e9a72cecab804dc0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGhyb3cgY2F1dGlvbiB0byB0aGUgd2luZA&hash=f9f326337c4ec0214ca27419e9a72cecab804dc0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46414/original/?type=jpeg",
@@ -41,12 +43,13 @@
       ]
     },
     {
+      "id": "40aec628-b8a0-4de3-bf5e-e7788de720c0",
       "word": "eagle eye",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWFnbGUgZXll&hash=a8901cd00545e731cc5713f136f6a1d81de975c3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "i:.gəl aɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWFnbGUgZXll&hash=a8901cd00545e731cc5713f136f6a1d81de975c3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "i.gēl ai",
       "img": "https://cdn.langeek.co/photo/26365/original/?type=jpeg",
       "pronunciation": "ˈiːɡəl ˈaɪ",
       "senses": [
@@ -57,10 +60,11 @@
       ]
     },
     {
+      "id": "7ff23161-d78d-4401-892d-018216da15f5",
       "word": "easy does it",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZWFzeSBkb2VzIGl0&hash=6faae4c1a05489d364c63cf0b7c53b2024fdf52c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWFzeSBkb2VzIGl0&hash=6faae4c1a05489d364c63cf0b7c53b2024fdf52c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -68,28 +72,16 @@
       "senses": [
         {
           "definition": "used to advise someone to proceed with caution or be careful with something",
-          "examples": [
-            {
-              "cf": "",
-              "x": "\"Easy does it,\" the instructor said as the students lowered the heavy crate to the floor."
-            },
-            {
-              "cf": "",
-              "x": "When lifting the piano, \"easy does it,\" or you might strain your back."
-            },
-            {
-              "cf": "",
-              "x": "\"Easy does it,\" she whispered as she tiptoed across the creaky floorboards."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[look] before {sb} [leap]",
+      "id": "41432d88-49e1-4c7e-b510-10d7dfa88502",
+      "word": "to [look] before {sb} [leap]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbG9vayBiZWZvcmUgc29tZWJvZHkgbGVhcA&hash=783da2e432e6b870686a8f4a174c2eaa05f084af&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbG9vayBiZWZvcmUgc29tZWJvZHkgbGVhcA&hash=783da2e432e6b870686a8f4a174c2eaa05f084af&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45475/original/?type=jpeg",
@@ -123,10 +115,11 @@
       ]
     },
     {
+      "id": "3741436a-2b9b-48e8-bdc5-2cf07c4f3897",
       "word": "on the lookout for {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gdGhlIGxvb2tvdXQgZm9yIHNvbWVib2R5IG9yIHNvbWV0aGluZw&hash=1c48439dfdb98f637d8da9cf5935696ff92ce616&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gdGhlIGxvb2tvdXQgZm9yIHNvbWVib2R5IG9yIHNvbWV0aGluZw&hash=1c48439dfdb98f637d8da9cf5935696ff92ce616&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42312/original/?type=jpeg",
@@ -156,84 +149,45 @@
       ]
     },
     {
-      "word": "[play] (it|) safe",
+      "id": "56f8d02b-0ce4-4c5b-b3f3-43d86bf8dadd",
+      "word": "to [play] (it|) safe",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGxheSBpdCBzYWZl&hash=45dcb86727e2e875f28e8fd44fbae661989dc7a9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGxheSBpdCBzYWZl&hash=45dcb86727e2e875f28e8fd44fbae661989dc7a9&lang=en&cache-only=0",
       "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/51270/original/?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/61426/original/?type=jpeg",
       "pronunciation": "plˈeɪ ɪt sˈeɪf",
       "senses": [
         {
           "definition": "to act in a careful manner to prevent any possible risks from happening",
-          "examples": [
-            {
-              "cf": "",
-              "x": "When hiking in the wilderness, it's essential to play it safe by carrying the necessary survival gear."
-            },
-            {
-              "cf": "",
-              "x": "The coach instructed the soccer team to play safe in the final minutes of the game to protect their lead."
-            },
-            {
-              "cf": "",
-              "x": "In financial planning, it's wise to play it safe by diversifying your investments to minimize risk."
-            },
-            {
-              "cf": "",
-              "x": "The children were reminded to play safe while enjoying the playground equipment to avoid accidents."
-            },
-            {
-              "cf": "",
-              "x": "In uncertain weather conditions, it's better to play safe and delay the outdoor event to ensure everyone's safety."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[keep|have] (all|) {one's} wits about {sb}",
+      "id": "f86f3920-08e2-465e-817f-895895573d7c",
+      "word": "to [keep|have] (all|) {one's} wits about {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCBhbGwgb25lJ3Mgd2l0cyBhYm91dCBzb21lYm9keQ&hash=2068bff734a3390b9af6eddbc1b637a13d25a213&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCBhbGwgb25lJ3Mgd2l0cyBhYm91dCBzb21lYm9keQ&hash=2068bff734a3390b9af6eddbc1b637a13d25a213&lang=en&cache-only=0",
       "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/43454/original/?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/61420/original/?type=jpeg",
       "pronunciation": "kˈiːp hæv ˈɔːl wˈʌnz wˈɪts ɐbˌaʊt ˌɛsbˈiː",
       "senses": [
         {
           "definition": "to be prepared to handle things properly in case of danger or unpleasant events",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Cycling is potentially very dangerous in the city - you have to have all your wits about you."
-            },
-            {
-              "cf": "",
-              "x": "Luckily, the teacher kept her wits about her and was able to evacuate all of her students from the burning building."
-            },
-            {
-              "cf": "",
-              "x": "While hiking in the wilderness, it's crucial to keep your wits about you to navigate safely."
-            },
-            {
-              "cf": "",
-              "x": "In a fast-paced emergency room, doctors and nurses must always have their wits about them to provide the best care."
-            },
-            {
-              "cf": "",
-              "x": "During the high-stress negotiations, she managed to have her wits about her and secure a favorable deal for her company."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[walk|be] on eggshells",
+      "id": "c0f30794-9bf6-40fb-9bda-50a8f2b4296b",
+      "word": "to [walk|be] on eggshells",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2FsayBvbiBlZ2dzaGVsbHM&hash=9545e4233804d2a9eb3fef6ebd0cb5191e041fc0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2FsayBvbiBlZ2dzaGVsbHM&hash=9545e4233804d2a9eb3fef6ebd0cb5191e041fc0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -241,36 +195,16 @@
       "senses": [
         {
           "definition": "to be extra cautious about how one behaves or talks to avoid making someone offended or upset",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After their argument, they were walking on eggshells around each other, afraid to bring up the topic again."
-            },
-            {
-              "cf": "",
-              "x": "In a tense office environment, employees often feel like they have to walk on eggshells to avoid conflict with their superiors."
-            },
-            {
-              "cf": "",
-              "x": "When discussing sensitive topics with her friend, she knew she had to walk on eggshells to avoid hurting their feelings."
-            },
-            {
-              "cf": "",
-              "x": "The new teacher felt like she was walking on eggshells in the classroom, trying to maintain discipline without being too strict."
-            },
-            {
-              "cf": "",
-              "x": "In a family with a history of heated arguments, everyone learned to walk on eggshells to keep the peace during gatherings."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[keep] an eye on {sb/sth}",
+      "id": "e64f7b2a-37f1-4b55-9c40-9e5d44438e65",
+      "word": "to [keep] an eye on {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCBhbiBleWUgb24gc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=ccfa41dc329dd72b72f82d564a6b9dd20c0a1ce4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCBhbiBleWUgb24gc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=ccfa41dc329dd72b72f82d564a6b9dd20c0a1ce4&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46185/original/?type=jpeg",
@@ -296,10 +230,11 @@
       ]
     },
     {
-      "word": "[keep] {sb} on {one's} toes",
+      "id": "9ad16756-cad7-49ae-82ce-4e2bce3e7071",
+      "word": "to [keep] {sb} on {one's} toes",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCBzb21lYm9keSBvbiBvbmUncyB0b2Vz&hash=57ab1bb9ef87a9c15e8314f15c2d10b189eb32df&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCBzb21lYm9keSBvbiBvbmUncyB0b2Vz&hash=57ab1bb9ef87a9c15e8314f15c2d10b189eb32df&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -307,24 +242,16 @@
       "senses": [
         {
           "definition": "to make a person be constantly worried about or ready for any possible danger or threat",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I work with people who are half my age so that keeps me on my toes."
-            },
-            {
-              "cf": "",
-              "x": "The dynamic nature of her job keeps her on her toes as she must adapt to new situations daily."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[tiptoe] around  {sth}",
+      "id": "5b8b25cb-246d-419a-9aa0-98b92008b1e1",
+      "word": "to [tiptoe] around  {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGlwdG9lIGFyb3VuZCAgc29tZXRoaW5n&hash=34689ea02f78220449858c8184239d51d56df110&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGlwdG9lIGFyb3VuZCAgc29tZXRoaW5n&hash=34689ea02f78220449858c8184239d51d56df110&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -332,36 +259,16 @@
       "senses": [
         {
           "definition": "to decide not to deal with a problem directly out of the fear that it may make things worse",
-          "examples": [
-            {
-              "cf": "",
-              "x": "They tiptoed around the subject of her poor health."
-            },
-            {
-              "cf": "",
-              "x": "When discussing her recent breakup, her friends tiptoed around the subject to avoid making her upset."
-            },
-            {
-              "cf": "",
-              "x": "In a diplomatic negotiation, it's important to tiptoe around sensitive issues to maintain a harmonious atmosphere."
-            },
-            {
-              "cf": "",
-              "x": "When it comes to giving constructive criticism, it's often better to tiptoe around the problem rather than being overly blunt."
-            },
-            {
-              "cf": "",
-              "x": "He tiptoed around the budget issue at the meeting, trying not to offend anyone with the proposed cuts."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[tiptoe] around {sb}",
+      "id": "e0f87af5-fd59-4da1-9b5c-de07dab0d19a",
+      "word": "to [tiptoe] around {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGlwdG9lIGFyb3VuZCBzb21lYm9keQ&hash=f8a44caad217581f1c1de42cc1628618d70850b8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGlwdG9lIGFyb3VuZCBzb21lYm9keQ&hash=f8a44caad217581f1c1de42cc1628618d70850b8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44278/original/?type=jpeg",
@@ -369,24 +276,16 @@
       "senses": [
         {
           "definition": "to pay close attention to how to talk to someone or behave toward them because they can become offended or upset easily",
-          "examples": [
-            {
-              "cf": "",
-              "x": "When discussing the delicate issue of budget cuts with the department head, the team had to tiptoe around him, knowing he was passionate about his projects."
-            },
-            {
-              "cf": "",
-              "x": "Jane's friends often tiptoe around her when she's stressed, as they don't want to add to her anxiety with heavy topics."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[drop] {sb/sth} like a hot (potato|brick)",
+      "id": "cf251c6a-87fd-4e71-9284-8402eda16c1d",
+      "word": "to [drop] {sb/sth} like a hot (potato|brick)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJvcCBzb21lYm9keSBvciBzb21ldGhpbmcgbGlrZSBhIGhvdCBwb3RhdG8&hash=de858133eb45f9ba5956cda02151e3972c567e28&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZHJvcCBzb21lYm9keSBvciBzb21ldGhpbmcgbGlrZSBhIGhvdCBwb3RhdG8&hash=de858133eb45f9ba5956cda02151e3972c567e28&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -394,32 +293,16 @@
       "senses": [
         {
           "definition": "to stop being involved with a person or thing that might cause problems for one",
-          "examples": [
-            {
-              "cf": "",
-              "x": "There is a moment in the film where Sreenivasan drops her like a hot brick for reasons I will not go into."
-            },
-            {
-              "cf": "",
-              "x": "When we learned of the conviction, we dropped him like a hot potato."
-            },
-            {
-              "cf": "",
-              "x": "When the scandal broke, the politician's colleagues dropped him like a hot potato to protect their own reputations."
-            },
-            {
-              "cf": "",
-              "x": "As soon as they realized the project was doomed to fail, they dropped it like a hot potato to avoid further losses."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[kick] the tires",
+      "id": "9f57d34d-0828-4050-a2f4-a9bc4f13b5b8",
+      "word": "to [kick] the tires",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2ljayB0aGUgdGlyZXM&hash=0c1978ae9234b5faa00b1a5276036d33c903f3af&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2ljayB0aGUgdGlyZXM&hash=0c1978ae9234b5faa00b1a5276036d33c903f3af&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -453,10 +336,11 @@
       ]
     },
     {
-      "word": "[hedge] {one's} bets",
+      "id": "0ee8686c-cfa1-48e6-be24-2038f25f7f1e",
+      "word": "to [hedge] {one's} bets",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGVkZ2Ugb25lJ3MgYmV0cw&hash=eb5ed085de7a9d9b8c8249695ace9cfd3961df33&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGVkZ2Ugb25lJ3MgYmV0cw&hash=eb5ed085de7a9d9b8c8249695ace9cfd3961df33&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -486,12 +370,13 @@
       ]
     },
     {
+      "id": "2d501240-c9a1-46cc-a8d7-fe0d0080f83c",
       "word": "on notice",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gbm90aWNl&hash=445459164c9a68df435dcc4b52dc9a58bb410de7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n nɑt.aɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gbm90aWNl&hash=445459164c9a68df435dcc4b52dc9a58bb410de7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan naat.ais",
       "img": "",
       "pronunciation": "ˌɑːn nˈoʊɾɪs",
       "senses": [

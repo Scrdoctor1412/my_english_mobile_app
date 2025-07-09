@@ -1,17 +1,19 @@
 {
+  "id": "6495bf80-e942-415e-994d-65eef2cb46b2",
   "topic": "a2_level",
   "title": "Health and Sickness",
   "lesson": "lesson_14",
   "word_list": [
     {
+      "id": "d725bbb2-b1fc-430b-bd68-293a0e07d6af",
       "word": "health",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGVhbHRo&hash=548e05f3da57f5ab1cf715323f420f0484dcb80f&lang=en&cache-only=0",
       "phonetic_text": "hɛlθ",
       "phonetic_am": "https://tts.langeek.co/read?text=aGVhbHRo&hash=548e05f3da57f5ab1cf715323f420f0484dcb80f&lang=en&cache-only=0",
       "phonetic_am_text": "helth",
-      "img": "https://cdn.langeek.co/photo/17521/original/well?type=jpeg",
-      "pronunciation": "ˈhɛɫθ",
+      "img": "https://cdn.langeek.co/photo/60632/original/well?type=jpeg",
+      "pronunciation": "hɛlθ",
       "senses": [
         {
           "definition": "the state of being free from illness or injury",
@@ -37,6 +39,7 @@
       ]
     },
     {
+      "id": "fe133b7a-7f5c-4c39-8e4b-c46c3af0d983",
       "word": "life",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGlmZQ&hash=312ee421ebfde6514a2ee713dd1f4576761c437c&lang=en&cache-only=0",
@@ -44,7 +47,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=bGlmZQ&hash=312ee421ebfde6514a2ee713dd1f4576761c437c&lang=en&cache-only=0",
       "phonetic_am_text": "laif",
       "img": "https://cdn.langeek.co/photo/33034/original/?type=jpeg",
-      "pronunciation": "ˈɫaɪf",
+      "pronunciation": "laɪf",
       "senses": [
         {
           "definition": "the state of existing as a person who is alive",
@@ -74,6 +77,7 @@
       ]
     },
     {
+      "id": "292e0de9-23e8-450a-9f99-dcab59b8c5e1",
       "word": "death",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVhdGg&hash=203861a48168717cca1976a69d3a1c675acb7a5a&lang=en&cache-only=0",
@@ -81,7 +85,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVhdGg&hash=203861a48168717cca1976a69d3a1c675acb7a5a&lang=en&cache-only=0",
       "phonetic_am_text": "deth",
       "img": "https://cdn.langeek.co/photo/17775/original/dead?type=jpeg",
-      "pronunciation": "ˈdɛθ",
+      "pronunciation": "dɛθ",
       "senses": [
         {
           "definition": "the fact or act of dying",
@@ -107,6 +111,7 @@
       ]
     },
     {
+      "id": "7acd7007-4b9f-4add-9e3b-c39f7f6e8434",
       "word": "diet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlldA&hash=b3a0e0f93ff225215160b5361694cb134815cbe7&lang=en&cache-only=0",
@@ -140,14 +145,15 @@
       ]
     },
     {
+      "id": "02146e8a-8108-4a7d-8b3a-dae3213a403e",
       "word": "energy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZW5lcmd5&hash=2f0e26b00a1151bbab2cda520e1debc6046d80c2&lang=en&cache-only=0",
-      "phonetic_text": "ɛnərʤi",
+      "phonetic_text": "ɛ.nər.ʤi",
       "phonetic_am": "https://tts.langeek.co/read?text=ZW5lcmd5&hash=2f0e26b00a1151bbab2cda520e1debc6046d80c2&lang=en&cache-only=0",
-      "phonetic_am_text": "enērji",
+      "phonetic_am_text": "e.nēr.ji",
       "img": "",
-      "pronunciation": "ˈenərdʒi",
+      "pronunciation": "ˈɛnɚʤi",
       "senses": [
         {
           "definition": "the physical and mental strength required for activity, work, etc.",
@@ -177,14 +183,15 @@
       ]
     },
     {
+      "id": "8f8c88f0-6494-4607-b809-b2f743b92b25",
       "word": "habit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFiaXQ&hash=9d173334a6d56c04af2b9659fdbd99859507dce8&lang=en&cache-only=0",
-      "phonetic_text": "hæbət",
+      "phonetic_text": "hæ.bɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFiaXQ&hash=9d173334a6d56c04af2b9659fdbd99859507dce8&lang=en&cache-only=0",
-      "phonetic_am_text": "hābēt",
+      "phonetic_am_text": "hā.bit",
       "img": "",
-      "pronunciation": "ˈhæbət",
+      "pronunciation": "ˈhæbɪt",
       "senses": [
         {
           "definition": "something that you regularly do almost without thinking about it, particularly one that is hard to give up or stop doing",
@@ -214,14 +221,15 @@
       ]
     },
     {
+      "id": "e7986c48-f1c6-440a-a921-02f8c735b6f2",
       "word": "illness",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aWxsbmVzcw&hash=9db1e915c515ce8a2f43a66efcc60238cfc34f13&lang=en&cache-only=0",
-      "phonetic_text": "ɪlnəs",
+      "phonetic_text": "ɪl.nəs",
       "phonetic_am": "https://tts.langeek.co/read?text=aWxsbmVzcw&hash=9db1e915c515ce8a2f43a66efcc60238cfc34f13&lang=en&cache-only=0",
-      "phonetic_am_text": "ilnēs",
-      "img": "https://cdn.langeek.co/photo/16224/original/sickness?type=jpeg",
-      "pronunciation": "ˈɪɫnəs",
+      "phonetic_am_text": "il.nēs",
+      "img": "https://cdn.langeek.co/photo/61678/original/sickness?type=jpeg",
+      "pronunciation": "ˈɪlnəs",
       "senses": [
         {
           "definition": "the state of being physically or mentally sick",
@@ -255,14 +263,15 @@
       ]
     },
     {
+      "id": "856c5412-e6a2-4b16-8ec0-4a1cd9898604",
       "word": "disease",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzZWFzZQ&hash=bf4d3179320080df343a4df5c0b7b35ccf826031&lang=en&cache-only=0",
-      "phonetic_text": "dɪzi:z",
+      "phonetic_text": "dɪs.iz",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzZWFzZQ&hash=bf4d3179320080df343a4df5c0b7b35ccf826031&lang=en&cache-only=0",
-      "phonetic_am_text": "dizeez",
-      "img": "https://cdn.langeek.co/photo/16224/original/sickness?type=jpeg",
-      "pronunciation": "dɪˈziz",
+      "phonetic_am_text": "dis.iz",
+      "img": "https://cdn.langeek.co/photo/61678/original/sickness?type=jpeg",
+      "pronunciation": "dɪˈziːz",
       "senses": [
         {
           "definition": "an illness in a human, animal, or plant that affects health",
@@ -292,14 +301,15 @@
       ]
     },
     {
+      "id": "32bff777-85b7-4035-88eb-2e017778aeb1",
       "word": "ache",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWNoZQ&hash=b9b97df0e8a4bddc91653423f4a1fd5dfeb394aa&lang=en&cache-only=0",
       "phonetic_text": "eɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=YWNoZQ&hash=b9b97df0e8a4bddc91653423f4a1fd5dfeb394aa&lang=en&cache-only=0",
       "phonetic_am_text": "eik",
-      "img": "https://cdn.langeek.co/photo/51600/original/pain?type=jpeg",
-      "pronunciation": "ˈeɪk",
+      "img": "https://cdn.langeek.co/photo/61674/original/pain?type=jpeg",
+      "pronunciation": "eɪk",
       "senses": [
         {
           "definition": "a continuous pain in a part of the body, often not severe",
@@ -329,14 +339,15 @@
       ]
     },
     {
+      "id": "75a1996f-3562-41c8-8ab3-c9d0f458e67f",
       "word": "earache",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWFyYWNoZQ&hash=aa9466454f4288508ec7587cbe6eb19222fd9eb4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪr.eɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWFyYWNoZQ&hash=aa9466454f4288508ec7587cbe6eb19222fd9eb4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ir.eik",
       "img": "https://cdn.langeek.co/photo/51602/original/earache?type=jpeg",
-      "pronunciation": "ˈɪɹeɪk",
+      "pronunciation": "ˈɪrˌeɪk",
       "senses": [
         {
           "definition": "a pain inside the ear",
@@ -366,14 +377,15 @@
       ]
     },
     {
+      "id": "207e3d1a-2ff4-4a5a-b2bc-0ea844b4c90a",
       "word": "headache",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGVhZGFjaGU&hash=999fcdb1500a145d05ab6fdd22d3c146621944cf&lang=en&cache-only=0",
-      "phonetic_text": "hɛdeɪk",
+      "phonetic_text": "hɛd.eɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=aGVhZGFjaGU&hash=999fcdb1500a145d05ab6fdd22d3c146621944cf&lang=en&cache-only=0",
-      "phonetic_am_text": "hedeik",
+      "phonetic_am_text": "hed.eik",
       "img": "https://cdn.langeek.co/photo/39843/original/headache?type=jpeg",
-      "pronunciation": "ˈhɛˌdeɪk",
+      "pronunciation": "ˈhɛdˌeɪk",
       "senses": [
         {
           "definition": "a pain in the head, usually persistent",
@@ -403,14 +415,15 @@
       ]
     },
     {
+      "id": "678fdc0e-7004-4885-971e-063d93295ea7",
       "word": "backache",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFja2FjaGU&hash=631a7270f90b5dca2206f95b36c3c77c60fdb28a&lang=en&cache-only=0",
-      "phonetic_text": "bækeɪk",
+      "phonetic_text": "bæk.eɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFja2FjaGU&hash=631a7270f90b5dca2206f95b36c3c77c60fdb28a&lang=en&cache-only=0",
-      "phonetic_am_text": "bākeik",
+      "phonetic_am_text": "bāk.eik",
       "img": "https://cdn.langeek.co/photo/17419/original/backache?type=jpeg",
-      "pronunciation": "ˈbæˌkeɪk",
+      "pronunciation": "ˈbækˌeɪk",
       "senses": [
         {
           "definition": "a pain in someone's back",
@@ -436,14 +449,15 @@
       ]
     },
     {
+      "id": "b20bf134-44db-4d92-af46-f820c111a9d9",
       "word": "toothache",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dG9vdGhhY2hl&hash=9b92fb4bca90116d6ca8156b0895611f976dc1fb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tu:θ.eɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG9vdGhhY2hl&hash=9b92fb4bca90116d6ca8156b0895611f976dc1fb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tooth.eik",
       "img": "https://cdn.langeek.co/photo/17433/original/toothache?type=jpeg",
-      "pronunciation": "tˈuːθeɪk",
+      "pronunciation": "ˈtuːθˌeɪk",
       "senses": [
         {
           "definition": "pain felt in a tooth or several teeth",
@@ -473,6 +487,7 @@
       ]
     },
     {
+      "id": "947fc20b-3794-4e94-909b-136f900c718b",
       "word": "flu",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zmx1&hash=f12566333ecdece8c5ac02abddd6a0adb0d10fd3&lang=en&cache-only=0",
@@ -480,7 +495,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Zmx1&hash=f12566333ecdece8c5ac02abddd6a0adb0d10fd3&lang=en&cache-only=0",
       "phonetic_am_text": "floo",
       "img": "https://cdn.langeek.co/photo/17637/original/flu?type=jpeg",
-      "pronunciation": "ˈfɫu",
+      "pronunciation": "fluː",
       "senses": [
         {
           "definition": "an infectious disease similar to a bad cold, causing fever and severe pain",
@@ -510,14 +525,15 @@
       ]
     },
     {
+      "id": "a0edba26-e664-4edf-86d4-c1174376df8b",
       "word": "virus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmlydXM&hash=aae268b03c2b0cb687f71654c1be6a13c8be5775&lang=en&cache-only=0",
-      "phonetic_text": "vaɪrəs",
+      "phonetic_text": "vaɪ.rəs",
       "phonetic_am": "https://tts.langeek.co/read?text=dmlydXM&hash=aae268b03c2b0cb687f71654c1be6a13c8be5775&lang=en&cache-only=0",
-      "phonetic_am_text": "vairēs",
+      "phonetic_am_text": "vai.rēs",
       "img": "https://cdn.langeek.co/photo/16226/original/virus?type=jpeg",
-      "pronunciation": "ˈvaɪɹəs",
+      "pronunciation": "ˈvaɪrəs",
       "senses": [
         {
           "definition": "a microscopic agent that causes disease in people, animals, and plants",
@@ -547,14 +563,15 @@
       ]
     },
     {
+      "id": "ccbfdc61-614c-4e97-8279-0fe8550a7e35",
       "word": "effect",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWZmZWN0&hash=8ccf5bb1702e2b71ed5341b0c81bd88f19afd2e8&lang=en&cache-only=0",
-      "phonetic_text": "ɪfɛkt",
+      "phonetic_text": "ɪ.fɛkt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWZmZWN0&hash=8ccf5bb1702e2b71ed5341b0c81bd88f19afd2e8&lang=en&cache-only=0",
-      "phonetic_am_text": "ifekt",
-      "img": "https://cdn.langeek.co/photo/22562/original/?type=jpeg",
-      "pronunciation": "ˈifɛkt/, /əˈfɛkt/, /ɪˈfɛkt",
+      "phonetic_am_text": "i.fekt",
+      "img": "https://cdn.langeek.co/photo/60921/original/?type=jpeg",
+      "pronunciation": "ɪˈfɛkt",
       "senses": [
         {
           "definition": "a change in a person or thing caused by another person or thing",
@@ -584,12 +601,13 @@
       ]
     },
     {
+      "id": "63999457-ff89-4b92-ac74-e91c8042a80f",
       "word": "problem",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvYmxlbQ&hash=c08059eeda43d03d870a7c368a4e885b15db0536&lang=en&cache-only=0",
-      "phonetic_text": "prɑ:bləm",
+      "phonetic_text": "prɑ:b.ləm",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvYmxlbQ&hash=c08059eeda43d03d870a7c368a4e885b15db0536&lang=en&cache-only=0",
-      "phonetic_am_text": "praablēm",
+      "phonetic_am_text": "praab.lēm",
       "img": "",
       "pronunciation": "ˈprɑːbləm",
       "senses": [
@@ -621,14 +639,15 @@
       ]
     },
     {
+      "id": "69655ed7-4776-44db-af3c-8d366b0d3153",
       "word": "fever",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmV2ZXI&hash=9e1228114bc3bccbb2f53ef289a21a0ea33ee7c9&lang=en&cache-only=0",
-      "phonetic_text": "fi:vər",
+      "phonetic_text": "fi:.vər",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmV2ZXI&hash=9e1228114bc3bccbb2f53ef289a21a0ea33ee7c9&lang=en&cache-only=0",
-      "phonetic_am_text": "feevēr",
+      "phonetic_am_text": "fi.vēr",
       "img": "https://cdn.langeek.co/photo/39781/original/fever?type=jpeg",
-      "pronunciation": "ˈfivɝ",
+      "pronunciation": "ˈfiːvɚ",
       "senses": [
         {
           "definition": "a condition when the body temperature rises, usually when we are sick",
@@ -658,6 +677,7 @@
       ]
     },
     {
+      "id": "6cf58c61-58f4-44a1-a866-3e2f35f226c6",
       "word": "cough",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291Z2g&hash=24f55538a95b9bc1ddae9d8daeb89dae64d9d44f&lang=en&cache-only=0",
@@ -665,7 +685,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Y291Z2g&hash=24f55538a95b9bc1ddae9d8daeb89dae64d9d44f&lang=en&cache-only=0",
       "phonetic_am_text": "kaaf",
       "img": "https://cdn.langeek.co/photo/39063/original/cough?type=jpeg",
-      "pronunciation": "ˈkɑf/, /ˈkɔf",
+      "pronunciation": "kɑf",
       "senses": [
         {
           "definition": "the action of air coming out of our mouth with force",
@@ -691,14 +711,15 @@
       ]
     },
     {
+      "id": "cbd98221-c04f-4411-991b-a30ce39e92c6",
       "word": "sneeze",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c25lZXpl&hash=71c04ac704084a185808ab897353df7319e79bee&lang=en&cache-only=0",
       "phonetic_text": "sni:z",
       "phonetic_am": "https://tts.langeek.co/read?text=c25lZXpl&hash=71c04ac704084a185808ab897353df7319e79bee&lang=en&cache-only=0",
-      "phonetic_am_text": "sneez",
+      "phonetic_am_text": "sniz",
       "img": "https://cdn.langeek.co/photo/39073/original/sneeze?type=jpeg",
-      "pronunciation": "ˈsniz",
+      "pronunciation": "sniːz",
       "senses": [
         {
           "definition": "the act of blowing air out of your nose and mouth in a forceful way",
@@ -728,12 +749,13 @@
       ]
     },
     {
+      "id": "07bc0f4d-d752-467c-9c87-76b41274ecae",
       "word": "cold",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29sZA&hash=8875f66e2064a93958cd6d321da2787e7167f462&lang=en&cache-only=0",
       "phonetic_text": "koʊld",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29sZA&hash=8875f66e2064a93958cd6d321da2787e7167f462&lang=en&cache-only=0",
-      "phonetic_am_text": "kowld",
+      "phonetic_am_text": "kooold",
       "img": "https://cdn.langeek.co/photo/39061/original/cold?type=jpeg",
       "pronunciation": "koʊld",
       "senses": [
@@ -761,14 +783,15 @@
       ]
     },
     {
+      "id": "a323b953-7fff-4893-a1cc-0504c52df803",
       "word": "sore throat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c29yZSB0aHJvYXQ&hash=917fca7e228f578c9461f4fcca1aa8f501a623d1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɔ:r θroʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=c29yZSB0aHJvYXQ&hash=917fca7e228f578c9461f4fcca1aa8f501a623d1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sawr throoot",
       "img": "https://cdn.langeek.co/photo/16236/original/sore-throat?type=jpeg",
-      "pronunciation": "sˈoːɹ θɹˈoʊt",
+      "pronunciation": "sɔːr θroʊt",
       "senses": [
         {
           "definition": "a condition when you feel pain in the throat, usually caused by bacteria or viruses",
@@ -798,14 +821,15 @@
       ]
     },
     {
+      "id": "778fe3bc-2adb-4902-aa30-3c15062c157d",
       "word": "medication",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWVkaWNhdGlvbg&hash=9bffa5c9c82f6e9aa5ea32259c2f5e70ff95bb5e&lang=en&cache-only=0",
-      "phonetic_text": "mɛdəkeɪʃən",
+      "phonetic_text": "mɛ.dɪ.keɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=bWVkaWNhdGlvbg&hash=9bffa5c9c82f6e9aa5ea32259c2f5e70ff95bb5e&lang=en&cache-only=0",
-      "phonetic_am_text": "medēkeishēn",
+      "phonetic_am_text": "me.di.kei.shēn",
       "img": "https://cdn.langeek.co/photo/39069/original/medication?type=jpeg",
-      "pronunciation": "ˌmɛdəˈkeɪʃən",
+      "pronunciation": "ˌmɛdɪˈkeɪʃən",
       "senses": [
         {
           "definition": "something that we take to prevent or treat a disease, or to feel less pain",
@@ -835,6 +859,7 @@
       ]
     },
     {
+      "id": "42d1b85f-94d1-43c5-934a-c17759a52aa7",
       "word": "rest",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVzdA&hash=b7fa5dd7d7b7934cadf4cc291d48818b2ae1e53f&lang=en&cache-only=0",
@@ -872,6 +897,7 @@
       ]
     },
     {
+      "id": "fd3e7dd0-4b77-4ebe-81fa-13a4bdcc17de",
       "word": "pill",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGlsbA&hash=90c50fc59927b807a74ee0163dbbc161c7f314b6&lang=en&cache-only=0",
@@ -879,7 +905,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=cGlsbA&hash=90c50fc59927b807a74ee0163dbbc161c7f314b6&lang=en&cache-only=0",
       "phonetic_am_text": "pil",
       "img": "https://cdn.langeek.co/photo/16718/original/pill?type=jpeg",
-      "pronunciation": "ˈpɪɫ",
+      "pronunciation": "pɪl",
       "senses": [
         {
           "definition": "a small round medication we take whole when we are sick",
@@ -909,12 +935,13 @@
       ]
     },
     {
+      "id": "03c353dc-3551-46d0-bb6d-2c9b91b6c170",
       "word": "patient",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGF0aWVudA&hash=14ce5640f6fa4778e0dc590535fcc54e586c59e9&lang=en&cache-only=0",
-      "phonetic_text": "peɪʃənt",
+      "phonetic_text": "peɪ.ʃənt",
       "phonetic_am": "https://tts.langeek.co/read?text=cGF0aWVudA&hash=14ce5640f6fa4778e0dc590535fcc54e586c59e9&lang=en&cache-only=0",
-      "phonetic_am_text": "peishēnt",
+      "phonetic_am_text": "pei.shēnt",
       "img": "https://cdn.langeek.co/photo/16244/original/patient?type=jpeg",
       "pronunciation": "ˈpeɪʃənt",
       "senses": [
@@ -946,14 +973,15 @@
       ]
     },
     {
+      "id": "db58935d-9d3a-4045-83a0-0d85640eeaae",
       "word": "cure",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3VyZQ&hash=a8888e92c3f2a121f2b5fa46433209be5e5030b7&lang=en&cache-only=0",
       "phonetic_text": "kjʊr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3VyZQ&hash=a8888e92c3f2a121f2b5fa46433209be5e5030b7&lang=en&cache-only=0",
-      "phonetic_am_text": "kyur",
+      "phonetic_am_text": "kyoor",
       "img": "https://cdn.langeek.co/photo/51606/original/cure?type=jpeg",
-      "pronunciation": "ˈkjʊɹ",
+      "pronunciation": "kjʊr",
       "senses": [
         {
           "definition": "a treatment or medication  for a certain disease or injury",
@@ -983,14 +1011,15 @@
       ]
     },
     {
-      "word": "live",
+      "id": "e0bcadcb-f223-4e04-809c-d9fbc1a92568",
+      "word": "to live",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGl2ZQ&hash=fdc428db7de365b4c9fa055bb1bf34face8e3aa0&lang=en&cache-only=0",
-      "phonetic_text": "laɪv",
+      "phonetic_text": "lɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGl2ZQ&hash=fdc428db7de365b4c9fa055bb1bf34face8e3aa0&lang=en&cache-only=0",
-      "phonetic_am_text": "laiv",
+      "phonetic_am_text": "liv",
       "img": "",
-      "pronunciation": "ˈɫɪv",
+      "pronunciation": "lɪv",
       "senses": [
         {
           "definition": "to continue to exist or be alive",
@@ -1016,14 +1045,15 @@
       ]
     },
     {
-      "word": "die",
+      "id": "57334a12-64f4-4e63-b351-41cf9569e175",
+      "word": "to die",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGll&hash=d5585a0e5dddb4aa72b8b22963f91261cd2b2d52&lang=en&cache-only=0",
       "phonetic_text": "daɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGll&hash=d5585a0e5dddb4aa72b8b22963f91261cd2b2d52&lang=en&cache-only=0",
       "phonetic_am_text": "dai",
       "img": "https://cdn.langeek.co/photo/17775/original/dead?type=jpeg",
-      "pronunciation": "ˈdaɪ",
+      "pronunciation": "daɪ",
       "senses": [
         {
           "definition": "to no longer be alive",
@@ -1053,12 +1083,13 @@
       ]
     },
     {
+      "id": "1ab2ff14-e69d-4aca-8d3d-0c9626eb348b",
       "word": "need",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmVlZA&hash=b60ac631a082249747fd536922211850baafcce2&lang=en&cache-only=0",
       "phonetic_text": "ni:d",
       "phonetic_am": "https://tts.langeek.co/read?text=bmVlZA&hash=b60ac631a082249747fd536922211850baafcce2&lang=en&cache-only=0",
-      "phonetic_am_text": "need",
+      "phonetic_am_text": "nid",
       "img": "",
       "pronunciation": "niːd",
       "senses": [
@@ -1090,14 +1121,15 @@
       ]
     },
     {
-      "word": "[go] to bed",
+      "id": "357ed382-0829-4d1e-a45e-9eeb1929fabe",
+      "word": "to [go] to bed",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ28gdG8gYmVk&hash=0c2d8ba4074fc9494a27f861c3cb6795d8211081&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ28gdG8gYmVk&hash=0c2d8ba4074fc9494a27f861c3cb6795d8211081&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/21212/original/?type=jpeg",
-      "pronunciation": "ɡˌoʊ tə bˈɛd",
+      "pronunciation": "ɡoʊ tə bɛd",
       "senses": [
         {
           "definition": "to lie down in your bed to sleep, whether at night or for a nap during the day",
@@ -1127,14 +1159,15 @@
       ]
     },
     {
+      "id": "bff323d3-9841-45df-ab54-d880c5ef1621",
       "word": "stomachache",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RvbWFjaGFjaGU&hash=3d21c01ad0803fc6611714170be46922044318ef&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stʌ.mək.eɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RvbWFjaGFjaGU&hash=3d21c01ad0803fc6611714170be46922044318ef&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sta.mēk.eik",
       "img": "https://cdn.langeek.co/photo/17893/original/stomachache?type=jpeg",
-      "pronunciation": "stˈʌməkˌeɪk",
+      "pronunciation": "ˈstʌməkˌeɪk",
       "senses": [
         {
           "definition": "a pain in or near someone's stomach",
@@ -1150,43 +1183,6 @@
             {
               "cf": "",
               "x": "The stomachache was so severe that he had to visit the hospital."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "word": "leper",
-      "pos": "noun",
-      "phonetic": "https://tts.langeek.co/read?text=bGVwZXI&hash=40172e5f83acc76d35c849ff09cb0f7326b08762&lang=en&cache-only=0",
-      "phonetic_text": "lɛpər",
-      "phonetic_am": "https://tts.langeek.co/read?text=bGVwZXI&hash=40172e5f83acc76d35c849ff09cb0f7326b08762&lang=en&cache-only=0",
-      "phonetic_am_text": "lepēr",
-      "img": "",
-      "pronunciation": "ˈɫɛpɝ",
-      "senses": [
-        {
-          "definition": "someone who is suffering from a chronic, progressive bacterial infection called Leprosy",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Doctors need special training to treat lepers effectively."
-            },
-            {
-              "cf": "",
-              "x": "In modern medicine, lepers can live a normal life with the right treatment."
-            },
-            {
-              "cf": "",
-              "x": "Lepers were once thought to be cursed, but now we know leprosy is a bacterial infection."
-            },
-            {
-              "cf": "",
-              "x": "Many lepers in the past were isolated from society."
-            },
-            {
-              "cf": "",
-              "x": "The novel tells a touching story of a leper who fought against all odds."
             }
           ]
         }

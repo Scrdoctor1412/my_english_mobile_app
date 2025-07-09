@@ -1,17 +1,19 @@
 {
+  "id": "ee06dcb5-9aa4-4225-8690-8e47a3939c53",
   "topic": "words_related_to_media_and_communication",
   "title": "Types of Journalism",
   "lesson": "lesson_12",
   "word_list": [
     {
+      "id": "7563284d-725c-47ba-a07b-f73f9c4bc971",
       "word": "photojournalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGhvdG9qb3VybmFsaXNt&hash=d6c695b302635636d8377ec0bff1d2196afa7581&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "foʊ.toʊ.ʤɜ:.nə.lɪəzm",
       "phonetic_am": "https://tts.langeek.co/read?text=cGhvdG9qb3VybmFsaXNt&hash=d6c695b302635636d8377ec0bff1d2196afa7581&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fooo.tooo.jē.nē.liēzm",
       "img": "",
-      "pronunciation": "fˌoʊɾoʊdʒˈɜːnəlˌɪzəm",
+      "pronunciation": "ˈfoʊtoʊˌʤɝːnəlɪzəm",
       "senses": [
         {
           "definition": "the act or profession of reporting news articles in newspapers or magazines mainly through photographs",
@@ -37,12 +39,13 @@
       ]
     },
     {
+      "id": "7807b4dd-382a-42c6-ade7-2baa79839cc3",
       "word": "yellow journalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=eWVsbG93IGpvdXJuYWxpc20&hash=a6bed90aa5691fd6e2e4378613018994447dcb5b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "jɛ.loʊ ʤɜr.nə.lɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=eWVsbG93IGpvdXJuYWxpc20&hash=a6bed90aa5691fd6e2e4378613018994447dcb5b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ye.looo jēr.nē.li.zēm",
       "img": "",
       "pronunciation": "jˈɛloʊ dʒˈɜːnəlˌɪzəm",
       "senses": [
@@ -74,28 +77,47 @@
       ]
     },
     {
+      "id": "f9508989-fd85-46ea-bc03-369cd3dd2c39",
       "word": "access journalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWNjZXNzIGpvdXJuYWxpc20&hash=9e7be048e495292a0bf6d977c2e42e6237ff4f8c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æk.sɛs ʤɜr.nə.lɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=YWNjZXNzIGpvdXJuYWxpc20&hash=9e7be048e495292a0bf6d977c2e42e6237ff4f8c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "āk.ses jēr.nē.li.zēm",
       "img": "",
       "pronunciation": "ˈæksɛs dʒˈɜːnəlˌɪzəm",
       "senses": [
         {
           "definition": "a practice in which journalists rely heavily on privileged access to influential individuals or organizations to gather news and information",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The reporter's career was built on access journalism, always securing interviews with top politicians."
+            },
+            {
+              "cf": "",
+              "x": "Some argue that access journalism can lead to biased coverage because reporters may avoid criticizing their sources."
+            },
+            {
+              "cf": "",
+              "x": "By using access journalism, the TV show was able to get behind-the-scenes content from famous celebrities."
+            },
+            {
+              "cf": "",
+              "x": "Many news outlets rely on access journalism to get inside information, but it can sometimes affect their independence."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "67da1e87-33e3-4cfa-8af9-e00f9ea3b675",
       "word": "advocacy journalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWR2b2NhY3kgam91cm5hbGlzbQ&hash=2593f896a88a199d128a203d0cd6b0fc014b5d75&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æd.və.kə.si ʤɜr.nə.lɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=YWR2b2NhY3kgam91cm5hbGlzbQ&hash=2593f896a88a199d128a203d0cd6b0fc014b5d75&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ād.vē.kē.si jēr.nē.li.zēm",
       "img": "",
       "pronunciation": "ˈædvəkəsi dʒˈɜːnəlˌɪzəm",
       "senses": [
@@ -123,45 +145,30 @@
       ]
     },
     {
+      "id": "529ee44d-ad5e-48d0-856c-3b06a9f88d52",
       "word": "broadcast journalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJvYWRjYXN0IGpvdXJuYWxpc20&hash=3a88c0742368db1a15c15324b32e179ac22ab00f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "brɔd.kæst ʤɜr.nə.lɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJvYWRjYXN0IGpvdXJuYWxpc20&hash=3a88c0742368db1a15c15324b32e179ac22ab00f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "brawd.kāst jēr.nē.li.zēm",
       "img": "",
       "pronunciation": "bɹˈɔːdkæst dʒˈɜːnəlˌɪzəm",
       "senses": [
         {
           "definition": "a specific type of journalism that focuses on delivering news and information through broadcast media channels, such as television and radio",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Many students choose to study broadcast journalism because they want to work as television news reporters."
-            },
-            {
-              "cf": "",
-              "x": "Advances in technology have transformed broadcast journalism, especially with the rise of live streaming."
-            },
-            {
-              "cf": "",
-              "x": "Careers in broadcast journalism often require strong speaking and writing skills."
-            },
-            {
-              "cf": "",
-              "x": "Broadcast journalism helps connect communities by sharing local stories and events."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "4327b273-5e9d-46f0-af47-217f062ae8a0",
       "word": "business journalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVzaW5lc3Mgam91cm5hbGlzbQ&hash=237d5c30589c0b71b866efbc80df104a5c80cbb1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɪz.nɪs ʤɜr.nə.lɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVzaW5lc3Mgam91cm5hbGlzbQ&hash=237d5c30589c0b71b866efbc80df104a5c80cbb1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "biz.nis jēr.nē.li.zēm",
       "img": "",
       "pronunciation": "bˈɪznəs dʒˈɜːnəlˌɪzəm",
       "senses": [
@@ -189,14 +196,15 @@
       ]
     },
     {
+      "id": "580e055b-c48e-47e1-9227-e8d8a2accd31",
       "word": "citizen journalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2l0aXplbiBqb3VybmFsaXNt&hash=3b9884df61d180c2dde44a027ba35b63ffcea745&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɪ.tə.zən ʤɜr.nə.lɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2l0aXplbiBqb3VybmFsaXNt&hash=3b9884df61d180c2dde44a027ba35b63ffcea745&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "si.tē.zēn jēr.nē.li.zēm",
       "img": "",
-      "pronunciation": "sˈɪɾɪzən dʒˈɜːnəlˌɪzəm",
+      "pronunciation": "ˈsɪtɪzən ˈʤɝːnəlɪzəm",
       "senses": [
         {
           "definition": "the coverage of news by ordinary people, which is then shared on the Internet",
@@ -226,43 +234,28 @@
       ]
     },
     {
+      "id": "7c0e24b7-40a5-47a0-961b-996615c15ba7",
       "word": "data journalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGF0YSBqb3VybmFsaXNt&hash=bedbc345b854d826f39f749dd4694c18e693112c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dæ.tə ʤɜr.nə.lɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGF0YSBqb3VybmFsaXNt&hash=bedbc345b854d826f39f749dd4694c18e693112c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dā.tē jēr.nē.li.zēm",
       "img": "",
       "pronunciation": "dˈeɪɾə dʒˈɜːnəlˌɪzəm",
       "senses": [
         {
           "definition": "a journalistic practice that utilizes data analysis and visualization techniques to uncover and report on important stories, trends, and patterns, enhancing the understanding and impact of news",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She used data journalism to explain how climate change is affecting weather patterns."
-            },
-            {
-              "cf": "",
-              "x": "The news website relied on data journalism to show how unemployment rates have changed over the past year."
-            },
-            {
-              "cf": "",
-              "x": "Data journalism helped the newspaper uncover hidden trends in local housing prices."
-            },
-            {
-              "cf": "",
-              "x": "The documentary featured data journalism to explore how social media affects mental health."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "bb1cd9ca-1ea4-434a-86d8-497ce315e3c4",
       "word": "Gonzo journalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=R29uem8gam91cm5hbGlzbQ&hash=ed7a6c2fc4965203c2fcd190107eadc9ef79f884&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=R29uem8gam91cm5hbGlzbQ&hash=ed7a6c2fc4965203c2fcd190107eadc9ef79f884&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -270,34 +263,18 @@
       "senses": [
         {
           "definition": "a style of journalism where the reporter becomes an active participant in the events being covered, often injecting subjective viewpoints, personal experiences, and unconventional storytelling techniques into their reporting",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The reporter used Gonzo journalism to cover the music festival, describing every detail of the experience with wild enthusiasm."
-            },
-            {
-              "cf": "",
-              "x": "His Gonzo journalism style made the story about the protest feel like a personal adventure rather than a typical news report."
-            },
-            {
-              "cf": "",
-              "x": "The article felt like Gonzo journalism, with the writer's bold opinions and outrageous anecdotes mixing with the actual events."
-            },
-            {
-              "cf": "",
-              "x": "His Gonzo journalism approach made the report about the political rally stand out, focusing more on his personal thoughts than the facts."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "2ebf3843-c45b-4c94-9772-1e554d58f036",
       "word": "interactive journalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW50ZXJhY3RpdmUgam91cm5hbGlzbQ&hash=d6fb7b2db35c051e631a5665fb1aa914716b63bc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn.ɜ.ræk.tɪv ʤɜr.nə.lɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=aW50ZXJhY3RpdmUgam91cm5hbGlzbQ&hash=d6fb7b2db35c051e631a5665fb1aa914716b63bc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in.ē.rāk.tiv jēr.nē.li.zēm",
       "img": "",
       "pronunciation": "ˌɪntɚɹˈæktɪv dʒˈɜːnəlˌɪzəm",
       "senses": [
@@ -325,49 +302,30 @@
       ]
     },
     {
+      "id": "6a9982ca-092e-4f92-8d76-13ad3c4a4a5d",
       "word": "investigative journalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW52ZXN0aWdhdGl2ZSBqb3VybmFsaXNt&hash=e6d3c4f26db79c11aad23afc05399a1486d4a670&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn.vɛs.tə.geɪ.tɪv ʤɜr.nə.lɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=aW52ZXN0aWdhdGl2ZSBqb3VybmFsaXNt&hash=e6d3c4f26db79c11aad23afc05399a1486d4a670&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in.ves.tē.gei.tiv jēr.nē.li.zēm",
       "img": "",
       "pronunciation": "ɪnvˌɛstɪɡˈeɪɾɪv dʒˈɜːnəlˌɪzəm",
       "senses": [
         {
           "definition": "the practice of conducting thorough investigations to uncover and report on significant stories that often involve wrongdoing, corruption, or abuse of power",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Investigative journalism helped reveal the company's unfair business practices."
-            },
-            {
-              "cf": "",
-              "x": "She decided to pursue investigative journalism because she wanted to uncover hidden truths."
-            },
-            {
-              "cf": "",
-              "x": "Through investigative journalism, the reporter exposed the environmental damage caused by illegal dumping."
-            },
-            {
-              "cf": "",
-              "x": "The documentary is an example of investigative journalism that focuses on human rights violations."
-            },
-            {
-              "cf": "",
-              "x": "His work in investigative journalism led to a major reform in the healthcare system."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "352c4542-0804-4d79-9057-0080930e1f0a",
       "word": "war journalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2FyIGpvdXJuYWxpc20&hash=687d47daa0fd21b3076f58c21039dcb580a28d2e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɑr ʤɜr.nə.lɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=d2FyIGpvdXJuYWxpc20&hash=687d47daa0fd21b3076f58c21039dcb580a28d2e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vaar jēr.nē.li.zēm",
       "img": "",
       "pronunciation": "wˈɔːɹ dʒˈɜːnəlˌɪzəm",
       "senses": [
@@ -395,12 +353,13 @@
       ]
     },
     {
+      "id": "8552e365-cc28-4be6-9cf2-d90d1f7e645d",
       "word": "watchdog journalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2F0Y2hkb2cgam91cm5hbGlzbQ&hash=976cb7409eecbba946ea9202ce1f75530e36ce85&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɑ:ʧ.dɔ:g ʤɜr.nə.lɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=d2F0Y2hkb2cgam91cm5hbGlzbQ&hash=976cb7409eecbba946ea9202ce1f75530e36ce85&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vaach.dawg jēr.nē.li.zēm",
       "img": "",
       "pronunciation": "wˈɑːtʃdɑːɡ dʒˈɜːnəlˌɪzəm",
       "senses": [
@@ -428,12 +387,13 @@
       ]
     },
     {
+      "id": "62f47ea9-5866-44eb-9b20-30eec35eb5d2",
       "word": "chequebook journalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hlcXVlYm9vayBqb3VybmFsaXNt&hash=fe7c80004802207e24be38d4e6ac298f353d52cf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧɛk.bʊk ʤɜr.nə.lɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hlcXVlYm9vayBqb3VybmFsaXNt&hash=fe7c80004802207e24be38d4e6ac298f353d52cf&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chek.book jēr.nē.li.zēm",
       "img": "",
       "pronunciation": "tʃˈɛkbʊk dʒˈɜːnəlˌɪzəm",
       "senses": [
@@ -461,111 +421,64 @@
       ]
     },
     {
+      "id": "ce73a4f3-51c1-4584-a9e2-fb82aaef2245",
       "word": "churnalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2h1cm5hbGlzbQ&hash=fbb7428a028e167c1cf9aedcf780ac10add9fba5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧɜr.nə.lɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2h1cm5hbGlzbQ&hash=fbb7428a028e167c1cf9aedcf780ac10add9fba5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chēr.nē.li.zēm",
       "img": "",
-      "pronunciation": "tʃˈɜːnəlˌɪzəm",
+      "pronunciation": "ˈtʃɜrnəlɪzəm",
       "senses": [
         {
           "definition": "a style of journalism characterized by the excessive reliance on press releases, wire services, and other pre-packaged content, often resulting in the publication of recycled or unverified news stories with little original reporting or analysis",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The news station was accused of churnalism for using a report with no independent investigation."
-            },
-            {
-              "cf": "",
-              "x": "Journalists who focus on churnalism may not spend enough time fact-checking or exploring the real story."
-            },
-            {
-              "cf": "",
-              "x": "The website's articles often come across as churnalism, just repeating what other media outlets have already covered."
-            },
-            {
-              "cf": "",
-              "x": "While churnalism is common in some media, it can undermine trust in the news."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "390977c5-f737-4d52-be4b-b602e8072d46",
       "word": "explanatory journalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXhwbGFuYXRvcnkgam91cm5hbGlzbQ&hash=75b789e767238764de428038532587c20031d225&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪksp.læ.nə.tɔ.ri ʤɜr.nə.lɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXhwbGFuYXRvcnkgam91cm5hbGlzbQ&hash=75b789e767238764de428038532587c20031d225&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "iksp.lā.nē.taw.ri jēr.nē.li.zēm",
       "img": "",
       "pronunciation": "ɛksplˈænətˌoːɹi dʒˈɜːnəlˌɪzəm",
       "senses": [
         {
           "definition": "a form of reporting that aims to provide in-depth analysis and context on complex issues or topics, helping readers or viewers better understand the subject matter by breaking it down and presenting it in a clear and accessible manner",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The reporter used explanatory journalism to break down the complicated economic report for the viewers."
-            },
-            {
-              "cf": "",
-              "x": "The documentary used explanatory journalism to describe the history of the city's development."
-            },
-            {
-              "cf": "",
-              "x": "His explanatory journalism helped make the legal case easier to understand for the public."
-            },
-            {
-              "cf": "",
-              "x": "The news segment used explanatory journalism to explain why the stock market had crashed."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "6dc073ba-03a0-44ad-bcf9-c4e3ba48b6c1",
       "word": "open-source journalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3Blbi1zb3VyY2Ugam91cm5hbGlzbQ&hash=15a36ced575c606d331168cc41ee73cb7e16a36f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "oʊ.pən-sɔrs ʤɜr.nə.lɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=b3Blbi1zb3VyY2Ugam91cm5hbGlzbQ&hash=15a36ced575c606d331168cc41ee73cb7e16a36f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ooo.pēn-sawrs jēr.nē.li.zēm",
       "img": "",
       "pronunciation": "ˈoʊpənsˈoːɹs dʒˈɜːnəlˌɪzəm",
       "senses": [
         {
           "definition": "a type of journalism that emphasizes the involvement of the audience, collaboration, and open access to information and resources",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Many news stories are now driven by open-source journalism, where anyone can contribute information."
-            },
-            {
-              "cf": "",
-              "x": "The rise of open-source journalism has made it easier for ordinary people to help report the news."
-            },
-            {
-              "cf": "",
-              "x": "Open-source journalism allows people from all over the world to share news and updates in real time."
-            },
-            {
-              "cf": "",
-              "x": "In some countries, open-source journalism has become a vital tool for breaking news, especially during protests."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "724b7d9d-0ba6-4186-96de-437027f30691",
       "word": "analytic journalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW5hbHl0aWMgam91cm5hbGlzbQ&hash=1341dbbd1cd57abcb8d84a76f94459fdc889322c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æ.nə.lɪ.tɪk ʤɜr.nə.lɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=YW5hbHl0aWMgam91cm5hbGlzbQ&hash=1341dbbd1cd57abcb8d84a76f94459fdc889322c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ā.nē.li.tik jēr.nē.li.zēm",
       "img": "",
       "pronunciation": "ˌænɐlˈɪɾɪk dʒˈɜːnəlˌɪzəm",
       "senses": [
@@ -593,12 +506,13 @@
       ]
     },
     {
+      "id": "4b421265-6e9f-4ed0-8b08-bdee0db2a8b2",
       "word": "civic journalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2l2aWMgam91cm5hbGlzbQ&hash=ec1af86f5f8bb5842e48234ea0c2c49600af51be&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɪ.vɪk ʤɜr.nə.lɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2l2aWMgam91cm5hbGlzbQ&hash=ec1af86f5f8bb5842e48234ea0c2c49600af51be&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "si.vik jēr.nē.li.zēm",
       "img": "",
       "pronunciation": "sˈɪvɪk dʒˈɜːnəlˌɪzəm",
       "senses": [
@@ -626,12 +540,13 @@
       ]
     },
     {
+      "id": "95a08807-e8eb-4f96-9229-2912419b3ba2",
       "word": "collaborative journalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29sbGFib3JhdGl2ZSBqb3VybmFsaXNt&hash=71ed3bc1a961fefd680e0149201a340f3c0ed53b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kə.læ.bɜ.reɪ.tɪv ʤɜr.nə.lɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29sbGFib3JhdGl2ZSBqb3VybmFsaXNt&hash=71ed3bc1a961fefd680e0149201a340f3c0ed53b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kē.lā.bē.rei.tiv jēr.nē.li.zēm",
       "img": "",
       "pronunciation": "kəlˈæbɹətˌɪv dʒˈɜːnəlˌɪzəm",
       "senses": [
@@ -659,10 +574,11 @@
       ]
     },
     {
+      "id": "f811aae5-4256-4617-8242-fff0475590f3",
       "word": "comics journalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29taWNzIGpvdXJuYWxpc20&hash=e46cec5ade43a745610be7d9458b4fe44b29b26a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29taWNzIGpvdXJuYWxpc20&hash=e46cec5ade43a745610be7d9458b4fe44b29b26a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -692,12 +608,13 @@
       ]
     },
     {
+      "id": "65fe4705-12cd-4ec4-bc86-3c0487bc114a",
       "word": "community journalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29tbXVuaXR5IGpvdXJuYWxpc20&hash=26646bd050d20790fc83095faef4dbf17a9d1b8e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kə.mju.nə.ti ʤɜr.nə.lɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tbXVuaXR5IGpvdXJuYWxpc20&hash=26646bd050d20790fc83095faef4dbf17a9d1b8e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kē.myoo.nē.ti jēr.nē.li.zēm",
       "img": "",
       "pronunciation": "kəmjˈuːnɪɾi dʒˈɜːnəlˌɪzəm",
       "senses": [
@@ -725,12 +642,13 @@
       ]
     },
     {
+      "id": "532961d8-6c71-437e-b621-fde02b3e0408",
       "word": "opinion journalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3BpbmlvbiBqb3VybmFsaXNt&hash=83ab787048cd79f0ccf6fa649f0a8bd5cb9bf83c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ə.pɪn.jən ʤɜr.nə.lɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=b3BpbmlvbiBqb3VybmFsaXNt&hash=83ab787048cd79f0ccf6fa649f0a8bd5cb9bf83c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ē.pin.yēn jēr.nē.li.zēm",
       "img": "",
       "pronunciation": "əpˈɪniən dʒˈɜːnəlˌɪzəm",
       "senses": [
@@ -758,12 +676,13 @@
       ]
     },
     {
+      "id": "fc6ad21c-53c5-4147-8479-a4c8ac370d9b",
       "word": "backpack journalism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFja3BhY2sgam91cm5hbGlzbQ&hash=557a2ed42b74bdadd17c377718dbcbfb0a690a79&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæk.pæk ʤɜr.nə.lɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFja3BhY2sgam91cm5hbGlzbQ&hash=557a2ed42b74bdadd17c377718dbcbfb0a690a79&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bāk.pāk jēr.nē.li.zēm",
       "img": "",
       "pronunciation": "bˈækpæk dʒˈɜːnəlˌɪzəm",
       "senses": [

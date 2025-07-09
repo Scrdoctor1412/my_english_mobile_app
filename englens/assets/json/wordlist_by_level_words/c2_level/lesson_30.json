@@ -1,15 +1,17 @@
 {
+  "id": "77ff296d-7034-4c71-94fd-2018fb8e9220",
   "topic": "c2_level",
   "title": "Order and Permission",
   "lesson": "lesson_30",
   "word_list": [
     {
-      "word": "ordain",
+      "id": "9fdf1225-5966-49de-a416-2d0db3b8e761",
+      "word": "to ordain",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gb3JkYWlu&hash=ec7743d18c398deccf4d2e9fb7ad3fcc7e083277&lang=en&cache-only=0",
-      "phonetic_text": "ɔrdeɪn",
+      "phonetic_text": "ɔr.deɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gb3JkYWlu&hash=ec7743d18c398deccf4d2e9fb7ad3fcc7e083277&lang=en&cache-only=0",
-      "phonetic_am_text": "awrdein",
+      "phonetic_am_text": "awr.dein",
       "img": "https://cdn.langeek.co/photo/58095/original/?type=jpeg",
       "pronunciation": "ɔɹˈdeɪn",
       "senses": [
@@ -41,12 +43,13 @@
       ]
     },
     {
-      "word": "enjoin",
+      "id": "3ec0ae16-79f1-4575-990e-0f2fa3763683",
+      "word": "to enjoin",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZW5qb2lu&hash=8089096f6f4146ae2d891ef29d842a069f83c898&lang=en&cache-only=0",
-      "phonetic_text": "ɛnʤɔɪn",
+      "phonetic_text": "ɛn.ʤɔɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZW5qb2lu&hash=8089096f6f4146ae2d891ef29d842a069f83c898&lang=en&cache-only=0",
-      "phonetic_am_text": "enjoyn",
+      "phonetic_am_text": "en.jawin",
       "img": "",
       "pronunciation": "ˌɛnˈdʒɔɪn/, /ɪnˈdʒɔɪn",
       "senses": [
@@ -74,12 +77,13 @@
       ]
     },
     {
-      "word": "deregulate",
+      "id": "0d7de764-22c5-43f3-95e4-72fee540554d",
+      "word": "to deregulate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVyZWd1bGF0ZQ&hash=476525279f0aa718fd28f05de9ea46ef234d057a&lang=en&cache-only=0",
-      "phonetic_text": "dirɛgjəleɪt",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVyZWd1bGF0ZQ&hash=476525279f0aa718fd28f05de9ea46ef234d057a&lang=en&cache-only=0",
-      "phonetic_am_text": "diregyēleit",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "diˈɹɛɡjəɫeɪt",
       "senses": [
@@ -103,49 +107,30 @@
       ]
     },
     {
-      "word": "slap on",
+      "id": "59a78bb7-10b4-4b30-b9d2-7a1ff1ef1deb",
+      "word": "to slap on",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2xhcCBvbg&hash=3caa919ae3d660b241201a12db83847a39ae6545&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "slæp ɑ:n",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2xhcCBvbg&hash=3caa919ae3d660b241201a12db83847a39ae6545&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "slāp aan",
       "img": "",
       "pronunciation": "slˈæp ˈɑːn",
       "senses": [
         {
           "definition": "to command someone to do something immediately, often as punishment",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The teacher slapped on detention for the student who was caught cheating on the exam."
-            },
-            {
-              "cf": "",
-              "x": "The coach slapped on extra laps for the team members who arrived late to practice."
-            },
-            {
-              "cf": "",
-              "x": "The manager slapped on a fine for employees who repeatedly violated company policies."
-            },
-            {
-              "cf": "",
-              "x": "The principal slapped on a suspension for the students involved in the cafeteria food fight."
-            },
-            {
-              "cf": "",
-              "x": "The officer slapped on a ticket for drivers who parked illegally in the restricted zone."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "halt",
+      "id": "e599270b-54db-451b-ae66-54dd78d02b2a",
+      "word": "to halt",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGFsdA&hash=812ba337600dcb7b8ec80632c0af9374eb401b17&lang=en&cache-only=0",
-      "phonetic_text": "hɔ:lt",
+      "phonetic_text": "hɔlt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGFsdA&hash=812ba337600dcb7b8ec80632c0af9374eb401b17&lang=en&cache-only=0",
-      "phonetic_am_text": "haawlt",
+      "phonetic_am_text": "hawlt",
       "img": "",
       "pronunciation": "ˈhɔɫt",
       "senses": [
@@ -177,12 +162,13 @@
       ]
     },
     {
-      "word": "interdict",
+      "id": "d387bb7c-b6d0-4933-8068-35f4f41902ed",
+      "word": "to interdict",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW50ZXJkaWN0&hash=b8ef88bfffeee99281d56fcbd3f76fcd621e05fb&lang=en&cache-only=0",
-      "phonetic_text": "ɪntərdɪkt",
+      "phonetic_text": "ɪn.tɜr.dɪkt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW50ZXJkaWN0&hash=b8ef88bfffeee99281d56fcbd3f76fcd621e05fb&lang=en&cache-only=0",
-      "phonetic_am_text": "intērdikt",
+      "phonetic_am_text": "in.tēr.dikt",
       "img": "https://cdn.langeek.co/photo/58613/original/?type=jpeg",
       "pronunciation": "ˈɪntɝˌdɪkt",
       "senses": [
@@ -210,12 +196,13 @@
       ]
     },
     {
-      "word": "constrain",
+      "id": "5b6a133d-443f-4515-9728-e2cb247a895c",
+      "word": "to constrain",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29uc3RyYWlu&hash=48420ed0b74ad8f99ed9554b3a0a3441243097e3&lang=en&cache-only=0",
-      "phonetic_text": "kənstreɪn",
+      "phonetic_text": "kəns.treɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29uc3RyYWlu&hash=48420ed0b74ad8f99ed9554b3a0a3441243097e3&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnstrein",
+      "phonetic_am_text": "kēns.trein",
       "img": "https://cdn.langeek.co/photo/44422/original/?type=jpeg",
       "pronunciation": "kənˈstɹeɪn",
       "senses": [
@@ -247,12 +234,13 @@
       ]
     },
     {
-      "word": "pressurize",
+      "id": "a4e00cd1-2ff1-4812-9fe2-05de8290f8bf",
+      "word": "to pressurize",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJlc3N1cml6ZQ&hash=83006fabd30a4aadd428a4be75ffce7abce786fe&lang=en&cache-only=0",
-      "phonetic_text": "prɛʃəraɪz",
+      "phonetic_text": "prɛ.ʃɜ.raɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJlc3N1cml6ZQ&hash=83006fabd30a4aadd428a4be75ffce7abce786fe&lang=en&cache-only=0",
-      "phonetic_am_text": "preshēraiz",
+      "phonetic_am_text": "pre.shē.raiz",
       "img": "",
       "pronunciation": "ˈpɹɛʃɝˌaɪz",
       "senses": [
@@ -284,12 +272,13 @@
       ]
     },
     {
-      "word": "squeeze",
+      "id": "e2aebc01-1b12-432b-ac50-27d042e663b7",
+      "word": "to squeeze",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3F1ZWV6ZQ&hash=29b4a909232f20ce4c9a788df2d43ff44270622d&lang=en&cache-only=0",
-      "phonetic_text": "skwi:z",
+      "phonetic_text": "skwiz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3F1ZWV6ZQ&hash=29b4a909232f20ce4c9a788df2d43ff44270622d&lang=en&cache-only=0",
-      "phonetic_am_text": "skweez",
+      "phonetic_am_text": "skviz",
       "img": "https://cdn.langeek.co/photo/27692/original/?type=jpeg",
       "pronunciation": "ˈskwiz",
       "senses": [
@@ -321,7 +310,8 @@
       ]
     },
     {
-      "word": "ram",
+      "id": "2d119dde-bef6-4711-9e33-92e33fafadae",
+      "word": "to ram",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmFt&hash=72cb2df06a3772aac59665cb8b05cb4d039f3470&lang=en&cache-only=0",
       "phonetic_text": "ræm",
@@ -354,12 +344,13 @@
       ]
     },
     {
-      "word": "dragoon",
+      "id": "08e69cb3-a0fb-4364-8091-2cb8b9a011e2",
+      "word": "to dragoon",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJhZ29vbg&hash=53d26b28b8f2cabefab4645d1a73cbe8cd0b63cb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dræ.gu:n",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZHJhZ29vbg&hash=53d26b28b8f2cabefab4645d1a73cbe8cd0b63cb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "drā.goon",
       "img": "https://cdn.langeek.co/photo/57897/original/?type=jpeg",
       "pronunciation": "dɹæɡˈuːn",
       "senses": [
@@ -391,12 +382,13 @@
       ]
     },
     {
-      "word": "condone",
+      "id": "cd095dd3-7be1-4430-a666-bf7897314694",
+      "word": "to condone",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29uZG9uZQ&hash=df6a2fbb4160f48312ab075d3204c590722ba5df&lang=en&cache-only=0",
-      "phonetic_text": "kəndoʊn",
+      "phonetic_text": "kən.doʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29uZG9uZQ&hash=df6a2fbb4160f48312ab075d3204c590722ba5df&lang=en&cache-only=0",
-      "phonetic_am_text": "kēndown",
+      "phonetic_am_text": "kēn.dooon",
       "img": "https://cdn.langeek.co/photo/59714/original/?type=jpeg",
       "pronunciation": "kənˈdoʊn",
       "senses": [
@@ -428,12 +420,13 @@
       ]
     },
     {
-      "word": "decree",
+      "id": "0540f083-5189-4f52-982a-d56f580035ea",
+      "word": "to decree",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVjcmVl&hash=2ecb71c8841f3a064fcfd1274844772581ee2d2e&lang=en&cache-only=0",
-      "phonetic_text": "dɪkri:",
+      "phonetic_text": "dɪk.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVjcmVl&hash=2ecb71c8841f3a064fcfd1274844772581ee2d2e&lang=en&cache-only=0",
-      "phonetic_am_text": "dikree",
+      "phonetic_am_text": "dik.ri",
       "img": "https://cdn.langeek.co/photo/58049/original/?type=jpeg",
       "pronunciation": "dɪˈkɹi",
       "senses": [
@@ -465,12 +458,13 @@
       ]
     },
     {
-      "word": "begrudge",
+      "id": "607a2a91-edf3-4db1-a406-0cbbde26973d",
+      "word": "to begrudge",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmVncnVkZ2U&hash=e1d6d9557b1c05df7df14317f2125140e3dbc580&lang=en&cache-only=0",
-      "phonetic_text": "bɪgrʌʤ",
+      "phonetic_text": "bɪg.rəʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmVncnVkZ2U&hash=e1d6d9557b1c05df7df14317f2125140e3dbc580&lang=en&cache-only=0",
-      "phonetic_am_text": "bigraj",
+      "phonetic_am_text": "big.rēj",
       "img": "",
       "pronunciation": "bɪˈɡɹədʒ",
       "senses": [
@@ -498,12 +492,13 @@
       ]
     },
     {
-      "word": "abide by",
+      "id": "cf7ef714-b329-4bdb-a2e6-09a40e0e8483",
+      "word": "to abide by",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWJpZGUgYnk&hash=1e9aac0aac9bcd7e32e93c84e7b5678f67c4858a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ə.baɪd baɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWJpZGUgYnk&hash=1e9aac0aac9bcd7e32e93c84e7b5678f67c4858a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ē.baid bai",
       "img": "https://cdn.langeek.co/photo/19520/original/obey?type=jpeg",
       "pronunciation": "ɐbˈaɪd bˈaɪ",
       "senses": [
@@ -535,12 +530,13 @@
       ]
     },
     {
-      "word": "hustle",
+      "id": "06031954-c006-47ae-95ad-73ab8b1ae3a6",
+      "word": "to hustle",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaHVzdGxl&hash=cbab57e7f09b036cf7faae2ea050ef2b21513473&lang=en&cache-only=0",
-      "phonetic_text": "hʌsəl",
+      "phonetic_text": "hə.səl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaHVzdGxl&hash=cbab57e7f09b036cf7faae2ea050ef2b21513473&lang=en&cache-only=0",
-      "phonetic_am_text": "hasēl",
+      "phonetic_am_text": "hē.sēl",
       "img": "",
       "pronunciation": "ˈhəsəɫ",
       "senses": [
@@ -572,12 +568,13 @@
       ]
     },
     {
-      "word": "oust",
+      "id": "56c5c37b-923c-40b7-864c-f0047e8a3e7c",
+      "word": "to oust",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gb3VzdA&hash=0d5bda628dd8528d12ceac23cfe0904f8e34c8e9&lang=en&cache-only=0",
       "phonetic_text": "aʊst",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gb3VzdA&hash=0d5bda628dd8528d12ceac23cfe0904f8e34c8e9&lang=en&cache-only=0",
-      "phonetic_am_text": "awst",
+      "phonetic_am_text": "aoost",
       "img": "https://cdn.langeek.co/photo/58010/original/?type=jpeg",
       "pronunciation": "ˈaʊst",
       "senses": [
@@ -609,12 +606,13 @@
       ]
     },
     {
-      "word": "bludgeon",
+      "id": "86750cc2-0ece-4fdc-b6e4-bc60c9b5a893",
+      "word": "to bludgeon",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmx1ZGdlb24&hash=c4506171cc5255e4d4ca663961b5ca5225b17c04&lang=en&cache-only=0",
-      "phonetic_text": "blʌʤən",
+      "phonetic_text": "blə.ʤən",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmx1ZGdlb24&hash=c4506171cc5255e4d4ca663961b5ca5225b17c04&lang=en&cache-only=0",
-      "phonetic_am_text": "blajēn",
+      "phonetic_am_text": "blē.jēn",
       "img": "https://cdn.langeek.co/photo/27692/original/?type=jpeg",
       "pronunciation": "ˈbɫədʒən",
       "senses": [
@@ -646,12 +644,13 @@
       ]
     },
     {
-      "word": "coerce",
+      "id": "c6bb042e-2c34-45e8-8267-68360779f818",
+      "word": "to coerce",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29lcmNl&hash=b2c9b58ee06c89bf2483b3ce9b833125493ea5ab&lang=en&cache-only=0",
       "phonetic_text": "koʊɜrs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29lcmNl&hash=b2c9b58ee06c89bf2483b3ce9b833125493ea5ab&lang=en&cache-only=0",
-      "phonetic_am_text": "kowērs",
+      "phonetic_am_text": "koooērs",
       "img": "https://cdn.langeek.co/photo/27692/original/?type=jpeg",
       "pronunciation": "koʊˈɝs",
       "senses": [
@@ -683,12 +682,13 @@
       ]
     },
     {
-      "word": "proscribe",
+      "id": "a3c20bfb-3aa7-446d-a8d5-fc7c05b63a3d",
+      "word": "to proscribe",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJvc2NyaWJl&hash=3f86dfbc621f37a579a351ecf6aef20d0cfe0c53&lang=en&cache-only=0",
-      "phonetic_text": "proʊskraɪb",
+      "phonetic_text": "proʊsk.raɪb",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJvc2NyaWJl&hash=3f86dfbc621f37a579a351ecf6aef20d0cfe0c53&lang=en&cache-only=0",
-      "phonetic_am_text": "prowskraib",
+      "phonetic_am_text": "prooosk.raib",
       "img": "https://cdn.langeek.co/photo/58589/original/?type=jpeg",
       "pronunciation": "pɹoʊsˈkɹaɪb",
       "senses": [

@@ -1,13 +1,15 @@
 {
+  "id": "8a57d722-80e2-4e3b-9f57-9d3c11752927",
   "topic": "failure",
   "title": "Defamation & Unpopularity",
   "lesson": "lesson_6",
   "word_list": [
     {
-      "word": "[drag] {one's} name through the (mud|mire)",
+      "id": "0e60f4d6-4274-45d6-b107-c71695c0723f",
+      "word": "to [drag] {one's} name through the (mud|mire)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJhZyBvbmUncyBuYW1lIHRocm91Z2ggdGhlIG11ZA&hash=2ac6a46805b56aa0bbf91cd7943ea5849fcc6602&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZHJhZyBvbmUncyBuYW1lIHRocm91Z2ggdGhlIG11ZA&hash=2ac6a46805b56aa0bbf91cd7943ea5849fcc6602&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41017/original/?type=jpeg",
@@ -33,10 +35,11 @@
       ]
     },
     {
+      "id": "13791bfb-b46e-4e8f-8b32-4d2a96848441",
       "word": "dirt on {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZGlydCBvbiBzb21lYm9keQ&hash=c11ef3d965b269ca588254dabc6be535ab5a62c1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlydCBvbiBzb21lYm9keQ&hash=c11ef3d965b269ca588254dabc6be535ab5a62c1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41011/original/?type=jpeg",
@@ -44,28 +47,16 @@
       "senses": [
         {
           "definition": "the action of publishing or spreading unpleasant details about someone's private life in order to negatively impact the public's opinion of them",
-          "examples": [
-            {
-              "cf": "",
-              "x": "By the time the scandal broke out, the media had already found enough dirt on him to ensure his political downfall."
-            },
-            {
-              "cf": "",
-              "x": "I don't have any dirt on him, but I'll keep my eyes and ears open."
-            },
-            {
-              "cf": "",
-              "x": "She dug up some dirt on him and used it to ruin his chances of getting the job."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "54d93dc6-8cfe-483e-aa0e-31560cf322e1",
       "word": "dirty (linen|laundry)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZGlydHkgbGluZW4&hash=1da0a01e062afc7fc3abfe6747fb0b507e50156f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlydHkgbGluZW4&hash=1da0a01e062afc7fc3abfe6747fb0b507e50156f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41013/original/?type=jpeg",
@@ -91,43 +82,28 @@
       ]
     },
     {
+      "id": "5e8e91b0-d496-415a-9293-a6be705c6d6d",
       "word": "nine day wonder",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bmluZSBkYXkgd29uZGVy&hash=4305c1d6680c447ba84414456acda274c421d651&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "naɪn deɪ wən.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bmluZSBkYXkgd29uZGVy&hash=4305c1d6680c447ba84414456acda274c421d651&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nain dei vēn.dēr",
       "img": "https://cdn.langeek.co/photo/40639/original/?type=jpeg",
       "pronunciation": "nˈaɪn dˈeɪ wˈʌndɚ",
       "senses": [
         {
           "definition": "something that receives a lot of attention for a short time, but is soon forgotten",
-          "examples": [
-            {
-              "cf": "",
-              "x": "If the company doesn't innovate and stay relevant, it will become a nine day wonder."
-            },
-            {
-              "cf": "",
-              "x": "She is worried that her success will be a nine day wonder and that she won't be able to sustain it."
-            },
-            {
-              "cf": "",
-              "x": "The latest celebrity scandal will be a nine day wonder and will soon be forgotten by the public."
-            },
-            {
-              "cf": "",
-              "x": "The new gadget was a nine day wonder, but its popularity quickly faded once people realized its limitations."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[fall] from grace",
+      "id": "a5262ae9-4fc3-42b7-a99f-fab6b9a40780",
+      "word": "to [fall] from grace",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmFsbCBmcm9tIGdyYWNl&hash=079d7db2eb2bb3b0b1a508a8aecb5c1f8fea2ef3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmFsbCBmcm9tIGdyYWNl&hash=079d7db2eb2bb3b0b1a508a8aecb5c1f8fea2ef3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41150/original/?type=jpeg",
@@ -161,10 +137,11 @@
       ]
     },
     {
-      "word": "[lay] a glove on {sb/sth}",
+      "id": "706639b8-db8f-4feb-9bd0-e575fc6158a0",
+      "word": "to [lay] a glove on {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGF5IGEgZ2xvdmUgb24gc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=ce6bba52f267eb62a059f4d081a439e760dc50f9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGF5IGEgZ2xvdmUgb24gc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=ce6bba52f267eb62a059f4d081a439e760dc50f9&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41019/original/?type=jpeg",
@@ -190,10 +167,11 @@
       ]
     },
     {
-      "word": "[lose] face",
+      "id": "baa5cf5a-d44b-4c3a-8a6f-663d7181c92d",
+      "word": "to [lose] face",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbG9zZSBmYWNl&hash=7edb68d7eeceb9a91c25751269c6c40ecba889a8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbG9zZSBmYWNl&hash=7edb68d7eeceb9a91c25751269c6c40ecba889a8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41046/original/?type=jpeg",
@@ -201,49 +179,33 @@
       "senses": [
         {
           "definition": "to do something that causes others to have less respect for one",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The company lost face when their highly publicized product launch failed to meet expectations."
-            },
-            {
-              "cf": "",
-              "x": "The politician lost face after being caught in a scandal, causing their once-loyal supporters to turn against them."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "aaeb3448-fa99-4896-a0eb-3f0348eadb39",
       "word": "loss of face",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bG9zcyBvZiBmYWNl&hash=ccc38913ac2cd06c14a378ba85fdb0bb4f974903&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɔs ʌv feɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9zcyBvZiBmYWNl&hash=ccc38913ac2cd06c14a378ba85fdb0bb4f974903&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "laws av feis",
       "img": "https://cdn.langeek.co/photo/19596/original/embarrassed?type=jpeg",
       "pronunciation": "lˈɔs ʌv fˈeɪs",
       "senses": [
         {
           "definition": "the state of losing all the respect others had for one because of one's actions",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The company experienced a significant loss of face after their product failed to meet quality standards and caused customer complaints."
-            },
-            {
-              "cf": "",
-              "x": "The politician suffered a loss of face when their controversial policies were met with widespread public backlash."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "0ee7ecaf-a546-44bd-9f85-104df80d64fc",
       "word": "{one's} name [is] mud",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b25lJ3MgbmFtZSBpcyBtdWQ&hash=515831c4f243c34579eb5cfad14bca113c112d22&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b25lJ3MgbmFtZSBpcyBtdWQ&hash=515831c4f243c34579eb5cfad14bca113c112d22&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41144/original/?type=jpeg",
@@ -256,35 +218,28 @@
       ]
     },
     {
+      "id": "a81350fb-8a5c-4301-85f0-202b51f4b643",
       "word": "out of season",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b3V0IG9mIHNlYXNvbg&hash=626c3089973b01e8b769322101e1f498b12a9c41&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aʊt ʌv si:.sʌn",
       "phonetic_am": "https://tts.langeek.co/read?text=b3V0IG9mIHNlYXNvbg&hash=626c3089973b01e8b769322101e1f498b12a9c41&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aoot av si.san",
       "img": "https://cdn.langeek.co/photo/41040/original/?type=jpeg",
       "pronunciation": "ˌaʊɾəv sˈiːzən",
       "senses": [
         {
           "definition": "used to refer to something is not currently appropriate, popular, or available due to being outside of its usual time or season",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The restaurant was serving pumpkin spice lattes in May, which were out of season and not on the menu."
-            },
-            {
-              "cf": "",
-              "x": "The store was selling winter coats in the middle of summer, which were out of season and not in demand."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[get] the bird",
+      "id": "7e1afbc6-7255-47cc-a3a3-02303562155a",
+      "word": "to [get] the bird",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IHRoZSBiaXJk&hash=0a2c956f99557df10ad509b4973745a90343758a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IHRoZSBiaXJk&hash=0a2c956f99557df10ad509b4973745a90343758a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/19380/original/dislike?type=jpeg",
@@ -292,24 +247,16 @@
       "senses": [
         {
           "definition": "to be subjected to disapproval, rejection, or criticism from others, often through booing",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The comedian's offensive jokes caused them to get the bird from the audience, who began booing and hissing loudly."
-            },
-            {
-              "cf": "",
-              "x": "The politician was surprised to get the bird from the crowd during their speech, as they had expected a more positive reception."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[blot] {one's} copybook",
+      "id": "cf4fe01d-df6b-49b0-b008-51f7d22658b4",
+      "word": "to [blot] {one's} copybook",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmxvdCBvbmUncyBjb3B5Ym9vaw&hash=17f4f5fc5ad2782be537be1d7f275b77a603cec1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmxvdCBvbmUncyBjb3B5Ym9vaw&hash=17f4f5fc5ad2782be537be1d7f275b77a603cec1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41102/original/?type=jpeg",
@@ -343,10 +290,11 @@
       ]
     },
     {
-      "word": "[pick] holes in {sth}",
+      "id": "d1ab79fa-72ca-45cb-8c8b-f3f7b250f9e5",
+      "word": "to [pick] holes in {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGljayBob2xlcyBpbiBzb21ldGhpbmc&hash=cf3d7657996ab596a28fccf199072494ce317ef2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGljayBob2xlcyBpbiBzb21ldGhpbmc&hash=cf3d7657996ab596a28fccf199072494ce317ef2&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41042/original/?type=jpeg",
@@ -368,10 +316,11 @@
       ]
     },
     {
-      "word": "[make] an ass (out|) of {sb}",
+      "id": "fa124755-7a2c-481e-9598-c80b39b05009",
+      "word": "to [make] an ass (out|) of {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZSBhbiBhc3Mgb3V0IG9mIHNvbWVib2R5&hash=009d7cc7827a565b60fa342fb0f05183381ff5ca&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFrZSBhbiBhc3Mgb3V0IG9mIHNvbWVib2R5&hash=009d7cc7827a565b60fa342fb0f05183381ff5ca&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41264/original/?type=jpeg",
@@ -393,10 +342,11 @@
       ]
     },
     {
-      "word": "[put|have] {one's} [head|neck] on the block",
+      "id": "d5271149-01ef-46b5-b69c-2fa8d61253cd",
+      "word": "to [put|have] {one's} [head|neck] on the block",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IG9uZSdzIGhlYWQgb24gdGhlIGJsb2Nr&hash=00a1f021adc78dd6bb7ffbf1eeb20da1dcd937f5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IG9uZSdzIGhlYWQgb24gdGhlIGJsb2Nr&hash=00a1f021adc78dd6bb7ffbf1eeb20da1dcd937f5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41146/original/?type=jpeg",
@@ -404,36 +354,16 @@
       "senses": [
         {
           "definition": "to take a particular course of action that endangers one's reputation or position",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He's putting his neck on the block by quitting his stable job to start his own business."
-            },
-            {
-              "cf": "",
-              "x": "I have my head on the block by betting all my savings on a risky stock."
-            },
-            {
-              "cf": "",
-              "x": "If he decides to confront the boss about his unfair treatment, he'll be having his neck on the block."
-            },
-            {
-              "cf": "",
-              "x": "She puts her head on the block every time she invests in a new startup."
-            },
-            {
-              "cf": "",
-              "x": "They have put their heads on the block by taking out a large loan to fund their dream project."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[make] an exhibition of {oneself}",
+      "id": "bceaae41-1fd6-4e5f-9267-d3709fa42825",
+      "word": "to [make] an exhibition of {oneself}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZSBhbiBleGhpYml0aW9uIG9mIG9uZXNlbGY&hash=77e970e9980729eca4958b90c0d5f5be88d0de7c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFrZSBhbiBleGhpYml0aW9uIG9mIG9uZXNlbGY&hash=77e970e9980729eca4958b90c0d5f5be88d0de7c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41104/original/?type=jpeg",
@@ -441,30 +371,18 @@
       "senses": [
         {
           "definition": "to behave in an embarrassing or foolish manner in front of other people, in a way that that makes them mock one",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He is making an exhibition of himself by arguing loudly with his friend in the restaurant."
-            },
-            {
-              "cf": "",
-              "x": "If you keep shouting and making a scene, you'll make an exhibition of yourself and embarrass us all."
-            },
-            {
-              "cf": "",
-              "x": "She always makes an exhibition of herself by singing loudly in the office."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "90b37e69-b990-4cc4-89ac-66ca2bac005c",
       "word": "black eye",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmxhY2sgZXll&hash=ddfc6b48ac80a210cee38b05d9901e3a6e0a5ae8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "blæk aɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=YmxhY2sgZXll&hash=ddfc6b48ac80a210cee38b05d9901e3a6e0a5ae8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "blāk ai",
       "img": "https://cdn.langeek.co/photo/42218/original/?type=jpeg",
       "pronunciation": "blˈæk ˈaɪ",
       "senses": [

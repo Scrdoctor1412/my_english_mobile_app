@@ -1,13 +1,15 @@
 {
+  "id": "a6cf3604-f203-4aa2-a08d-48db858fc9c4",
   "topic": "food_and_drink_preparation",
   "title": "Preparing Drinks",
   "lesson": "lesson_17",
   "word_list": [
     {
-      "word": "brew",
+      "id": "eb629303-8f70-4e31-a94d-96ecf6dea402",
+      "word": "to brew",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJldw&hash=6987d6e58ab5b58db078ff5a964d8d8b5b4f8997&lang=en&cache-only=0",
-      "phonetic_text": "bru:",
+      "phonetic_text": "bru",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJldw&hash=6987d6e58ab5b58db078ff5a964d8d8b5b4f8997&lang=en&cache-only=0",
       "phonetic_am_text": "broo",
       "img": "https://cdn.langeek.co/photo/26992/original/tea?type=jpeg",
@@ -45,12 +47,13 @@
       ]
     },
     {
+      "id": "4f18aa6b-4838-449b-b5f8-0d66d69c0d1c",
       "word": "grounds",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JvdW5kcw&hash=79dba767fc7801de1043dc0ab5bd0ba0d5a92199&lang=en&cache-only=0",
       "phonetic_text": "graʊndz",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JvdW5kcw&hash=79dba767fc7801de1043dc0ab5bd0ba0d5a92199&lang=en&cache-only=0",
-      "phonetic_am_text": "grawndz",
+      "phonetic_am_text": "graoondz",
       "img": "https://cdn.langeek.co/photo/38010/original/?type=jpeg",
       "pronunciation": "ˈɡɹaʊndz/, /ˈɡɹaʊnz",
       "senses": [
@@ -70,12 +73,13 @@
       ]
     },
     {
-      "word": "percolate",
+      "id": "bf3c885d-0123-4481-a669-0de0f3cbe347",
+      "word": "to percolate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGVyY29sYXRl&hash=60a3fc9485e36a32b069eabbfed8b678be56a955&lang=en&cache-only=0",
-      "phonetic_text": "pɜrkəleɪt",
+      "phonetic_text": "pɜr.kə.leɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGVyY29sYXRl&hash=60a3fc9485e36a32b069eabbfed8b678be56a955&lang=en&cache-only=0",
-      "phonetic_am_text": "pērkēleit",
+      "phonetic_am_text": "pēr.kē.leit",
       "img": "https://cdn.langeek.co/photo/38032/original/?type=jpeg",
       "pronunciation": "ˈpɝkəˌɫeɪt",
       "senses": [
@@ -107,10 +111,11 @@
       ]
     },
     {
-      "word": "[put] the kettle on",
+      "id": "1aaa5546-2af6-4302-9885-a9be7ee76118",
+      "word": "to [put] the kettle on",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IHRoZSBrZXR0bGUgb24&hash=880d2ec9439d3ed6abcd867d8f2e191526308c43&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IHRoZSBrZXR0bGUgb24&hash=880d2ec9439d3ed6abcd867d8f2e191526308c43&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -123,12 +128,13 @@
       ]
     },
     {
+      "id": "913d7770-6a16-4bac-bbb2-fec4d80b3d83",
       "word": "tea bag",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVhIGJhZw&hash=98b9a365f86ea40d9c36f997617e9589de4788f8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ti: bæg",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVhIGJhZw&hash=98b9a365f86ea40d9c36f997617e9589de4788f8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ti bāg",
       "img": "https://cdn.langeek.co/photo/35661/original/?type=jpeg",
       "pronunciation": "tˈiː bˈæɡ",
       "senses": [
@@ -160,12 +166,13 @@
       ]
     },
     {
+      "id": "b47dd51a-8aca-4e01-89a2-86dfe72e0773",
       "word": "tea leaf",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVhIGxlYWY&hash=6df9de1b6b6e5c5fbfa779334441dab6e8c0d1ea&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ti: lif",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVhIGxlYWY&hash=6df9de1b6b6e5c5fbfa779334441dab6e8c0d1ea&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ti lif",
       "img": "https://cdn.langeek.co/photo/38036/original/?type=jpeg",
       "pronunciation": "tˈiː lˈiːf",
       "senses": [
@@ -176,10 +183,11 @@
       ]
     },
     {
+      "id": "79f82aea-416b-467e-a789-fa0ccfa9cd7d",
       "word": "brewer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJld2Vy&hash=6f3fb3dd95ee7673e6110462b0e68930eb3adc56&lang=en&cache-only=0",
-      "phonetic_text": "bru:ər",
+      "phonetic_text": "bruɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJld2Vy&hash=6f3fb3dd95ee7673e6110462b0e68930eb3adc56&lang=en&cache-only=0",
       "phonetic_am_text": "brooēr",
       "img": "",
@@ -213,12 +221,13 @@
       ]
     },
     {
+      "id": "e500eb7e-0e3b-4c29-9dbc-a36d6351a82e",
       "word": "brewery",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJld2VyeQ&hash=37dbfa0abd137868ab77cef3bfe0e23d85eedf39&lang=en&cache-only=0",
-      "phonetic_text": "bru:əri",
+      "phonetic_text": "bruɜ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJld2VyeQ&hash=37dbfa0abd137868ab77cef3bfe0e23d85eedf39&lang=en&cache-only=0",
-      "phonetic_am_text": "brooēri",
+      "phonetic_am_text": "brooē.ri",
       "img": "",
       "pronunciation": "ˈbɹuɝi",
       "senses": [
@@ -250,6 +259,7 @@
       ]
     },
     {
+      "id": "fa78ae69-6c44-439e-babf-a5c1de4aab41",
       "word": "draught",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJhdWdodA&hash=ce0ede0453f35977a3937f7cb9e804162319377d&lang=en&cache-only=0",
@@ -266,12 +276,13 @@
       ]
     },
     {
-      "word": "freshen",
+      "id": "fecb1e19-0666-490b-a7ff-d710c3432864",
+      "word": "to freshen",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZnJlc2hlbg&hash=3c5360c0c4f52934f34d5510874922a6e6e1b7f1&lang=en&cache-only=0",
-      "phonetic_text": "frɛʃən",
+      "phonetic_text": "frɛ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZnJlc2hlbg&hash=3c5360c0c4f52934f34d5510874922a6e6e1b7f1&lang=en&cache-only=0",
-      "phonetic_am_text": "freshēn",
+      "phonetic_am_text": "fre.shēn",
       "img": "",
       "pronunciation": "ˈfɹɛʃən",
       "senses": [
@@ -282,6 +293,7 @@
       ]
     },
     {
+      "id": "5847e8e0-8cc6-49ad-8eeb-d3ddb469bd0b",
       "word": "head",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGVhZA&hash=2abd8cb012e51c7b2b53b59f69b72bf289920647&lang=en&cache-only=0",
@@ -298,6 +310,7 @@
       ]
     },
     {
+      "id": "64ab7cac-f3f1-4697-ab21-f629212f4639",
       "word": "mash",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFzaA&hash=a64a20a1a3d9196caaf863ce5f59298ec48c15e7&lang=en&cache-only=0",
@@ -319,12 +332,13 @@
       ]
     },
     {
+      "id": "171a4f9f-5d9c-40e0-93cc-ad587f3a0c69",
       "word": "microbrewery",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWljcm9icmV3ZXJ5&hash=67e1c2ed4d820c276c56a97bda372d6688c535fa&lang=en&cache-only=0",
-      "phonetic_text": "maɪkroʊbruəri",
+      "phonetic_text": "maɪk.roʊ.bruɜ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=bWljcm9icmV3ZXJ5&hash=67e1c2ed4d820c276c56a97bda372d6688c535fa&lang=en&cache-only=0",
-      "phonetic_am_text": "maikrowbruēri",
+      "phonetic_am_text": "maik.rooo.brooē.ri",
       "img": "",
       "pronunciation": "ˈmaɪˌkɹoʊˌbɹuɝi",
       "senses": [
@@ -356,12 +370,13 @@
       ]
     },
     {
+      "id": "7b15e0fd-01b8-44b0-89eb-eae0f55d66ad",
       "word": "draught beer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJhdWdodCBiZWVy&hash=f953662ed0a9a7a3e75e8d54d2bdfc1bd4b0249d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dræft bɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJhdWdodCBiZWVy&hash=f953662ed0a9a7a3e75e8d54d2bdfc1bd4b0249d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "drāft bir",
       "img": "",
       "pronunciation": "dɹˈæft bˈɪɹ",
       "senses": [
@@ -372,12 +387,13 @@
       ]
     },
     {
+      "id": "f7271285-e411-44a1-a907-dc3b32183d3b",
       "word": "winemaking",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2luZW1ha2luZw&hash=79755981b723f15cfc24b016687a8ac4a5d0192e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "waɪn.meɪ.kɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luZW1ha2luZw&hash=79755981b723f15cfc24b016687a8ac4a5d0192e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vain.mei.king",
       "img": "",
       "pronunciation": "wˈaɪnmeɪkɪŋ",
       "senses": [
@@ -393,12 +409,13 @@
       ]
     },
     {
+      "id": "5edcc48b-feb9-441f-8c7d-673d84354dae",
       "word": "winery",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2luZXJ5&hash=12a1b48b66ac21196e8fa680c87a6cc7e22dcf1f&lang=en&cache-only=0",
-      "phonetic_text": "waɪnəri",
+      "phonetic_text": "waɪ.nɜ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luZXJ5&hash=12a1b48b66ac21196e8fa680c87a6cc7e22dcf1f&lang=en&cache-only=0",
-      "phonetic_am_text": "wainēri",
+      "phonetic_am_text": "vai.nē.ri",
       "img": "",
       "pronunciation": "ˈwaɪnɝi",
       "senses": [
@@ -409,12 +426,13 @@
       ]
     },
     {
+      "id": "bbb41d09-696e-493a-aef8-0937f56c7825",
       "word": "fermentation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmVybWVudGF0aW9u&hash=f5d63d18acd176987787f1a21b6a16883fea0221&lang=en&cache-only=0",
-      "phonetic_text": "fɜrmənteɪʃən",
+      "phonetic_text": "fɜr.mən.teɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmVybWVudGF0aW9u&hash=f5d63d18acd176987787f1a21b6a16883fea0221&lang=en&cache-only=0",
-      "phonetic_am_text": "fērmēnteishēn",
+      "phonetic_am_text": "fēr.mēn.tei.shēn",
       "img": "",
       "pronunciation": "ˌfɝmənˈteɪʃən",
       "senses": [
@@ -446,12 +464,13 @@
       ]
     },
     {
+      "id": "46be5044-963f-45aa-9356-d77a5bbf3e38",
       "word": "cezve",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2V6dmU&hash=1ccab559a1651c84ab87872263abf87a6774ad09&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛzv",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2V6dmU&hash=1ccab559a1651c84ab87872263abf87a6774ad09&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sezv",
       "img": "https://cdn.langeek.co/photo/37998/original/?type=jpeg",
       "pronunciation": "sˈɛzv",
       "senses": [
@@ -462,12 +481,13 @@
       ]
     },
     {
+      "id": "318d173b-6d6a-4c7e-b838-7c11ea15d4f4",
       "word": "dallah",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGFsbGFo&hash=d557ddb56ffdee63f46a045fffbe3720048497bc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dæ.lə",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGFsbGFo&hash=d557ddb56ffdee63f46a045fffbe3720048497bc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dā.lē",
       "img": "https://cdn.langeek.co/photo/38000/original/?type=jpeg",
       "pronunciation": "dˈælə",
       "senses": [
@@ -478,12 +498,13 @@
       ]
     },
     {
+      "id": "6074c0b2-91bd-4a52-9a0e-429083d395ba",
       "word": "jebena",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=amViZW5h&hash=c38fa59c978b7639d20bbf26d57b27b2c995fedc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤɛ.bi:.nə",
       "phonetic_am": "https://tts.langeek.co/read?text=amViZW5h&hash=c38fa59c978b7639d20bbf26d57b27b2c995fedc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "je.bi.nē",
       "img": "https://cdn.langeek.co/photo/38016/original/?type=jpeg",
       "pronunciation": "dʒɛbˈiːnə",
       "senses": [
@@ -494,12 +515,13 @@
       ]
     },
     {
+      "id": "290522d8-671e-45e6-bd81-b93c04782647",
       "word": "espresso machine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXNwcmVzc28gbWFjaGluZQ&hash=c7d26a0373d43b646b0e96289223f3b1533fb710&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛsp.rɛ.soʊ mə.ʃin",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXNwcmVzc28gbWFjaGluZQ&hash=c7d26a0373d43b646b0e96289223f3b1533fb710&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "esp.re.sooo mē.shin",
       "img": "https://cdn.langeek.co/photo/14659/original/espresso-machine?type=jpeg",
       "pronunciation": "ɛspɹˈɛsoʊ məʃˈiːn",
       "senses": [
@@ -510,12 +532,13 @@
       ]
     },
     {
+      "id": "54d9269d-3b27-4b58-9d70-f1321343a981",
       "word": "wine cooler",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2luZSBjb29sZXI&hash=95d77077dcce9b2a371e3691b74175e754b30a53&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "waɪn ku.lɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luZSBjb29sZXI&hash=95d77077dcce9b2a371e3691b74175e754b30a53&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vain koo.lēr",
       "img": "",
       "pronunciation": "wˈaɪn kˈuːlɚ",
       "senses": [
@@ -526,12 +549,13 @@
       ]
     },
     {
+      "id": "b56f614c-81ac-4423-b71d-25249dd94173",
       "word": "coffee maker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29mZmVlIG1ha2Vy&hash=e034f3c9a78daa27544234d1a9a7795b7d44e807&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑ:.fi meɪ.kər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29mZmVlIG1ha2Vy&hash=e034f3c9a78daa27544234d1a9a7795b7d44e807&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaa.fi mei.kēr",
       "img": "https://cdn.langeek.co/photo/39059/original/coffee-maker?type=jpeg",
       "pronunciation": "ˈkɑːfi ˈmeɪkɚ",
       "senses": [
@@ -563,12 +587,13 @@
       ]
     },
     {
+      "id": "446de24d-9fcb-4004-aee9-4e23f3ced677",
       "word": "kettle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2V0dGxl&hash=e77840d7ffff5a4a2a23d7f556162978cfcfed4c&lang=en&cache-only=0",
-      "phonetic_text": "kɛtəl",
+      "phonetic_text": "kɛ.təl",
       "phonetic_am": "https://tts.langeek.co/read?text=a2V0dGxl&hash=e77840d7ffff5a4a2a23d7f556162978cfcfed4c&lang=en&cache-only=0",
-      "phonetic_am_text": "ketēl",
+      "phonetic_am_text": "ke.tēl",
       "img": "https://cdn.langeek.co/photo/50781/original/kettle?type=jpeg",
       "pronunciation": "ˈkɛtəɫ",
       "senses": [
@@ -596,12 +621,13 @@
       ]
     },
     {
+      "id": "5f7393b7-bd4e-40d9-9558-9af4dd44978f",
       "word": "water dispenser",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2F0ZXIgZGlzcGVuc2Vy&hash=efdd8fa7d820650036398332ad1de449b4f00c48&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɑ:.tər dɪs.pɛn.sɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=d2F0ZXIgZGlzcGVuc2Vy&hash=efdd8fa7d820650036398332ad1de449b4f00c48&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vaa.tēr dis.pen.sēr",
       "img": "https://cdn.langeek.co/photo/38038/original/?type=jpeg",
       "pronunciation": "wɔːɾɚ dɪspɛnsɚ",
       "senses": [
@@ -612,12 +638,13 @@
       ]
     },
     {
+      "id": "37cc1c90-0181-45b3-b6a0-e75803caa77e",
       "word": "water boiler",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2F0ZXIgYm9pbGVy&hash=495504ff71a10f56630dec4490000927b7603583&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɑ:.tər bɔɪ.lər",
       "phonetic_am": "https://tts.langeek.co/read?text=d2F0ZXIgYm9pbGVy&hash=495504ff71a10f56630dec4490000927b7603583&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vaa.tēr bawi.lēr",
       "img": "https://cdn.langeek.co/photo/50781/original/kettle?type=jpeg",
       "pronunciation": "wɔːɾɚ bɔɪlɚ",
       "senses": [
@@ -649,12 +676,13 @@
       ]
     },
     {
+      "id": "9dffd5ea-5852-4ea3-9d49-380154b44c20",
       "word": "moka pot",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9rYSBwb3Q&hash=089aca58af6167a86666c79f92d98a9486a94de4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "moʊ.kə pɑt",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9rYSBwb3Q&hash=089aca58af6167a86666c79f92d98a9486a94de4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mooo.kē paat",
       "img": "https://cdn.langeek.co/photo/38030/original/?type=jpeg",
       "pronunciation": "moʊkə pɑːt",
       "senses": [
@@ -665,12 +693,13 @@
       ]
     },
     {
+      "id": "968d3bcd-ff6f-497b-ba06-65071aab921b",
       "word": "samovar",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Ftb3Zhcg&hash=25f8883fec84c90183109d4faacb8863a2965165&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sæ.mu:.vɑ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Ftb3Zhcg&hash=25f8883fec84c90183109d4faacb8863a2965165&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sā.moo.vaar",
       "img": "https://cdn.langeek.co/photo/38034/original/?type=jpeg",
       "pronunciation": "sˈæmuːvˌɑːɹ",
       "senses": [
@@ -702,12 +731,13 @@
       ]
     },
     {
+      "id": "ae39f19b-bf81-4895-8770-474e3838ea40",
       "word": "teapot",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVhcG90&hash=e005974c1da3509beaa0eabdcc6ad044d94ae0a1&lang=en&cache-only=0",
-      "phonetic_text": "ti:pɑt",
+      "phonetic_text": "ti:.pɑt",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVhcG90&hash=e005974c1da3509beaa0eabdcc6ad044d94ae0a1&lang=en&cache-only=0",
-      "phonetic_am_text": "teepɑt",
+      "phonetic_am_text": "ti.paat",
       "img": "https://cdn.langeek.co/photo/26848/original/?type=jpeg",
       "pronunciation": "ˈtiˌpɑt",
       "senses": [
@@ -739,12 +769,13 @@
       ]
     },
     {
+      "id": "f39f6162-d87b-4c96-afff-fc070c9a453e",
       "word": "cafetiere",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FmZXRpZXJl&hash=3f65b69d98b1eeaf3bc0c9f4c9ddcd21944bd68a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kæ.fɪ.tiɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FmZXRpZXJl&hash=3f65b69d98b1eeaf3bc0c9f4c9ddcd21944bd68a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kā.fi.tier",
       "img": "https://cdn.langeek.co/photo/37962/original/?type=jpeg",
       "pronunciation": "kˌæfɪɾiˈɛɹ",
       "senses": [
@@ -755,12 +786,13 @@
       ]
     },
     {
+      "id": "87858f36-0362-4850-be4a-f7bf567ba7fd",
       "word": "magnum",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFnbnVt&hash=10ac05f7d30ff596d2498efb4c0303857decf406&lang=en&cache-only=0",
-      "phonetic_text": "mægnəm",
+      "phonetic_text": "mæg.nəm",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFnbnVt&hash=10ac05f7d30ff596d2498efb4c0303857decf406&lang=en&cache-only=0",
-      "phonetic_am_text": "māgnēm",
+      "phonetic_am_text": "māg.nēm",
       "img": "",
       "pronunciation": "ˈmæɡnəm",
       "senses": [
@@ -792,12 +824,13 @@
       ]
     },
     {
+      "id": "67c67ac1-75fe-4d9e-836c-8f23b97e339e",
       "word": "jeroboam",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=amVyb2JvYW0&hash=ca1a3a29394a5b8728389d2614c1dfca66efb314&lang=en&cache-only=0",
-      "phonetic_text": "ʤɛrəboʊəm",
+      "phonetic_text": "ʤɛ.rə.boʊəm",
       "phonetic_am": "https://tts.langeek.co/read?text=amVyb2JvYW0&hash=ca1a3a29394a5b8728389d2614c1dfca66efb314&lang=en&cache-only=0",
-      "phonetic_am_text": "jerēbowēm",
+      "phonetic_am_text": "je.rē.boooēm",
       "img": "",
       "pronunciation": "ˌdʒɛɹəˈboʊəm",
       "senses": [
@@ -829,12 +862,13 @@
       ]
     },
     {
+      "id": "fd7bb79d-c472-4d3b-9822-576b2dc64a3d",
       "word": "rehoboam",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVob2JvYW0&hash=585f381b5cbf7e471f3fed93c17b8075635b3c6b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɪ.hɑ:.boʊm",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVob2JvYW0&hash=585f381b5cbf7e471f3fed93c17b8075635b3c6b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ri.haa.booom",
       "img": "",
       "pronunciation": "ɹɪhˈɑːboʊm",
       "senses": [
@@ -845,12 +879,13 @@
       ]
     },
     {
+      "id": "77de9d89-894a-4d8c-a749-c079e81c3692",
       "word": "methuselah",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWV0aHVzZWxhaA&hash=b3e252acc610d3f2d2418f3c9f4c7a9ead029cbc&lang=en&cache-only=0",
-      "phonetic_text": "məθju:zələ",
+      "phonetic_text": "mə.θju.zə.lə",
       "phonetic_am": "https://tts.langeek.co/read?text=bWV0aHVzZWxhaA&hash=b3e252acc610d3f2d2418f3c9f4c7a9ead029cbc&lang=en&cache-only=0",
-      "phonetic_am_text": "mēthyoozēlē",
+      "phonetic_am_text": "mē.thyoo.zē.lē",
       "img": "",
       "pronunciation": "məθˈjuzəɫə",
       "senses": [
@@ -861,12 +896,13 @@
       ]
     },
     {
+      "id": "dc999da8-5925-4bc0-9124-c4394bee7d6c",
       "word": "salmanazar",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FsbWFuYXphcg&hash=badd653b2c6296b11f2e8ecf9468db960fac55b8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sæl.ma.næ.zɑ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FsbWFuYXphcg&hash=badd653b2c6296b11f2e8ecf9468db960fac55b8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sāl.ma.nā.zaar",
       "img": "",
       "pronunciation": "sˈælmɐnˌæzɑːɹ",
       "senses": [
@@ -877,12 +913,13 @@
       ]
     },
     {
+      "id": "2d3c33bb-184f-4326-b7e0-edd3c6c274bc",
       "word": "balthazar",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFsdGhhemFy&hash=3f3a14f9aad2dc23024d38d01d891ea4ed7a9115&lang=en&cache-only=0",
-      "phonetic_text": "bælθəzər",
+      "phonetic_text": "bæl.θə.zɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFsdGhhemFy&hash=3f3a14f9aad2dc23024d38d01d891ea4ed7a9115&lang=en&cache-only=0",
-      "phonetic_am_text": "bālthēzēr",
+      "phonetic_am_text": "bāl.thē.zēr",
       "img": "",
       "pronunciation": "ˈbæɫθəzɝ",
       "senses": [
@@ -893,12 +930,13 @@
       ]
     },
     {
+      "id": "a55b778e-558f-48e1-99a2-9f91d49718da",
       "word": "nebuchadnezzar",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmVidWNoYWRuZXp6YXI&hash=f32cf29015f96f8dedaa9de9e87b76e7a7d0d199&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nɛ.bə.ʧæd.nɪ.zɑ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=bmVidWNoYWRuZXp6YXI&hash=f32cf29015f96f8dedaa9de9e87b76e7a7d0d199&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ne.bē.chād.ni.zaar",
       "img": "",
       "pronunciation": "nˈɛbətʃˌædnɪzˌɑːɹ",
       "senses": [

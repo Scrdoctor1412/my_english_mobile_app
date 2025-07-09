@@ -1,31 +1,59 @@
 {
+  "id": "3024e28b-12c4-4735-8ca9-dfb9af8798da",
   "topic": "b2_level",
   "title": "Preference",
   "lesson": "lesson_52",
   "word_list": [
     {
-      "word": "appeal",
+      "id": "874dfc2f-0f31-4b02-b970-55b1ca8cbfec",
+      "word": "to appeal",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYXBwZWFs&hash=3c29dc0b97d7c95d3ca4ba51cd33b7152a57dff6&lang=en&cache-only=0",
-      "phonetic_text": "əpi:l",
+      "phonetic_text": "ə.pil",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYXBwZWFs&hash=3c29dc0b97d7c95d3ca4ba51cd33b7152a57dff6&lang=en&cache-only=0",
-      "phonetic_am_text": "ēpeel",
+      "phonetic_am_text": "ē.pil",
       "img": "",
       "pronunciation": "əˈpiɫ",
       "senses": [
         {
           "definition": "to attract or gain interest, approval, or admiration",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "His speech appealed to voters' desire for change and better opportunities."
+            },
+            {
+              "cf": "",
+              "x": "The art exhibition appealed to art enthusiasts with its diverse range of styles and themes."
+            },
+            {
+              "cf": "",
+              "x": "The vacation destination appealed to travelers with its picturesque scenery and cultural attractions."
+            },
+            {
+              "cf": "",
+              "x": "The restaurant's menu appealed to foodies with its innovative dishes and use of local ingredients."
+            },
+            {
+              "cf": "",
+              "x": "The music festival appealed to music lovers with its lineup of popular artists and variety of genres."
+            },
+            {
+              "cf": "",
+              "x": "The novel's unique storyline and compelling characters appealed to readers of all ages."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "consult",
+      "id": "a240788f-ce0a-4ddf-bd18-1c2ff01ad037",
+      "word": "to consult",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29uc3VsdA&hash=fecc3c444f2a1331641101013f0fc2fc9151719b&lang=en&cache-only=0",
-      "phonetic_text": "kənsʌlt",
+      "phonetic_text": "kən.səlt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29uc3VsdA&hash=fecc3c444f2a1331641101013f0fc2fc9151719b&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnsalt",
+      "phonetic_am_text": "kēn.sēlt",
       "img": "https://cdn.langeek.co/photo/51430/original/adviser?type=jpeg",
       "pronunciation": "kənˈsəɫt",
       "senses": [
@@ -57,30 +85,53 @@
       ]
     },
     {
-      "word": "contest",
+      "id": "ce44198a-dca3-4010-ac12-ff8cbc7d1c33",
+      "word": "to contest",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29udGVzdA&hash=fbcc23d6822785bd02b4fe15d14b2d035d02d84b&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:ntɛst",
+      "phonetic_text": "kɑn.tɛst",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29udGVzdA&hash=fbcc23d6822785bd02b4fe15d14b2d035d02d84b&lang=en&cache-only=0",
-      "phonetic_am_text": "kaantest",
+      "phonetic_am_text": "kaan.test",
       "img": "",
-      "pronunciation": "ˈkɑntɛst/, /kənˈtɛst",
+      "pronunciation": "ˈkɑnˌtɛst",
       "senses": [
         {
           "definition": "to formally oppose or challenge a decision or a statement",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She plans to contest the election results in court."
+            },
+            {
+              "cf": "",
+              "x": "The athlete decided to contest the referee's decision during the game."
+            },
+            {
+              "cf": "",
+              "x": "They will contest the new policy at the upcoming board meeting."
+            },
+            {
+              "cf": "",
+              "x": "He intends to contest the charges brought against him in court."
+            },
+            {
+              "cf": "",
+              "x": "They filed paperwork to contest the patent granted to their competitor."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "disgust",
+      "id": "9b999424-159c-4ca2-b07b-7bbfe0b6bfa2",
+      "word": "to disgust",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlzZ3VzdA&hash=6886f88cbb2778f3c222646ebcbe73b843e92623&lang=en&cache-only=0",
-      "phonetic_text": "dɪsgʌst",
+      "phonetic_text": "dɪs.gʌst",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlzZ3VzdA&hash=6886f88cbb2778f3c222646ebcbe73b843e92623&lang=en&cache-only=0",
-      "phonetic_am_text": "disgast",
+      "phonetic_am_text": "dis.gast",
       "img": "https://cdn.langeek.co/photo/28732/original/?type=jpeg",
-      "pronunciation": "dɪsˈɡəst",
+      "pronunciation": "dɪsˈɡʌst",
       "senses": [
         {
           "definition": "to make someone feel upset, shocked, and sometimes offended about something",
@@ -110,12 +161,13 @@
       ]
     },
     {
-      "word": "favor",
+      "id": "de9a5e5e-3eb0-4dfd-ae76-710a227c1f51",
+      "word": "to favor",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmF2b3I&hash=353387341060d291d6132591747fee87ae9edf52&lang=en&cache-only=0",
-      "phonetic_text": "feɪvər",
+      "phonetic_text": "feɪ.vɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmF2b3I&hash=353387341060d291d6132591747fee87ae9edf52&lang=en&cache-only=0",
-      "phonetic_am_text": "feivēr",
+      "phonetic_am_text": "fei.vēr",
       "img": "https://cdn.langeek.co/photo/59114/original/?type=jpeg",
       "pronunciation": "ˈfeɪvɝ",
       "senses": [
@@ -147,106 +199,207 @@
       ]
     },
     {
+      "id": "4a5e0c27-5e34-409b-8ad8-3ab9cd6d13ea",
       "word": "favorite",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmF2b3JpdGU&hash=ac6262f9f3ee51356f23354e2d148264ed0e9367&lang=en&cache-only=0",
-      "phonetic_text": "feɪvərɪt",
+      "phonetic_text": "feɪ.və.rɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmF2b3JpdGU&hash=ac6262f9f3ee51356f23354e2d148264ed0e9367&lang=en&cache-only=0",
-      "phonetic_am_text": "feivērit",
+      "phonetic_am_text": "fei.vē.rit",
       "img": "https://cdn.langeek.co/photo/43268/original/?type=jpeg",
-      "pronunciation": "ˈfeɪvɝɪt/, /ˈfeɪvɹət",
+      "pronunciation": "ˈfeɪvɚɪt",
       "senses": [
         {
           "definition": "someone or something that one likes more among others of the same kind",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Among all the books on the shelf, this novel is my absolute favorite."
+            },
+            {
+              "cf": "",
+              "x": "In the world of sports, soccer is often cited as a favorite among many enthusiasts."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "go for",
+      "id": "8e94b9e2-46f3-4d43-9eab-335dfe540ffb",
+      "word": "to go for",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ28gZm9y&hash=fa3f818665f4cce5a6032a2824d587f12f6aa046&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "goʊ fɔ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ28gZm9y&hash=fa3f818665f4cce5a6032a2824d587f12f6aa046&lang=en&cache-only=0",
-      "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/48805/original/like?type=jpeg",
+      "phonetic_am_text": "gooo fawr",
+      "img": "https://cdn.langeek.co/photo/61434/original/?type=jpeg",
       "pronunciation": "ɡˈoʊ fɔːɹ",
       "senses": [
         {
           "definition": "to choose something among other things",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She couldn't decide between the two dresses, so she went for the one with the floral pattern."
+            },
+            {
+              "cf": "",
+              "x": "At the restaurant, he decided to go for the seafood pasta."
+            },
+            {
+              "cf": "",
+              "x": "He knew he had to go for the best solution among the available options."
+            },
+            {
+              "cf": "",
+              "x": "When shopping for a new phone, she decided to go for the latest model."
+            },
+            {
+              "cf": "",
+              "x": "I'll go for the salmon from the menu; it's my favorite dish."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "shy away from",
+      "id": "51aa60cc-e0c8-4c02-9e32-453b7e483a90",
+      "word": "to shy away from",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2h5IGF3YXkgZnJvbQ&hash=ec8e2eeee94a99c6a325b8256c52ec743145e59c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʃaɪ ə.weɪ frʌm",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2h5IGF3YXkgZnJvbQ&hash=ec8e2eeee94a99c6a325b8256c52ec743145e59c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "shai ē.vei fram",
       "img": "",
       "pronunciation": "ʃˈaɪ ɐwˈeɪ fɹʌm",
       "senses": [
         {
           "definition": "to avoid an activity, person, etc. because one is scared, unwilling, or not confident",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He tends to shy away from public speaking due to his nervousness."
+            },
+            {
+              "cf": "",
+              "x": "The company decided to shy away from risky investments after the last financial crisis."
+            },
+            {
+              "cf": "",
+              "x": "She shies away from conflict and prefers to maintain harmony in the workplace."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[make] up {one's} mind",
+      "id": "72418bc7-ca03-447e-8171-7e1ab62c960d",
+      "word": "to [make] up {one's} mind",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZSB1cCBvbmUncyBtaW5k&hash=42043ea666ee381c5f825bce5bd7535ad5a8b133&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFrZSB1cCBvbmUncyBtaW5k&hash=42043ea666ee381c5f825bce5bd7535ad5a8b133&lang=en&cache-only=0",
       "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/27634/original/?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/61434/original/?type=jpeg",
       "pronunciation": "mˌeɪk ˌʌp wˈʌnz mˈaɪnd",
       "senses": [
         {
           "definition": "to come to a final decision or conclusion after considering different options or possibilities",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "After much consideration, she finally made up her mind to pursue her dream of starting her own business."
+            },
+            {
+              "cf": "",
+              "x": "He couldn't make up his mind between the two job offers, as both had their own unique advantages."
+            },
+            {
+              "cf": "",
+              "x": "Despite the conflicting opinions from friends, she made up her mind to continue her studies abroad."
+            },
+            {
+              "cf": "",
+              "x": "After trying different flavors, he made up his mind and chose the chocolate chip ice cream as his favorite."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "pick out",
+      "id": "b7b78203-f961-4c59-8362-e810d418867f",
+      "word": "to pick out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGljayBvdXQ&hash=f2da4f226694be12cc0844eee0c2296b147bcc5a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɪk aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGljayBvdXQ&hash=f2da4f226694be12cc0844eee0c2296b147bcc5a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/26296/original/?type=jpeg",
+      "phonetic_am_text": "pik aoot",
+      "img": "https://cdn.langeek.co/photo/60720/original/?type=jpeg",
       "pronunciation": "pˈɪk ˈaʊt",
       "senses": [
         {
           "definition": "to choose among a group of people or things",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Out of all the puppies, he picked out the one with the white patch on its forehead."
+            },
+            {
+              "cf": "",
+              "x": "She took her time to pick out the perfect dress for the event."
+            },
+            {
+              "cf": "",
+              "x": "They asked the children to pick out their favorite toys."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "put up with",
+      "id": "d45c0957-8bc9-4048-8719-c2c9d1e7788c",
+      "word": "to put up with",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IHVwIHdpdGg&hash=5729ea3d7678cbd5221b1e5e92f5bc39b608ba93&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pʊt ʌp wɪð",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IHVwIHdpdGg&hash=5729ea3d7678cbd5221b1e5e92f5bc39b608ba93&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "poot ap vidh",
       "img": "https://cdn.langeek.co/photo/46430/original/?type=jpeg",
       "pronunciation": "pˌʊt ˈʌp wɪð",
       "senses": [
         {
           "definition": "to tolerate something or someone unpleasant, often without complaining",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Parents often put up with the messiness of young children for the joy they bring."
+            },
+            {
+              "cf": "",
+              "x": "She puts up with the challenges of her demanding job for the sake of career growth."
+            },
+            {
+              "cf": "",
+              "x": "Friends put up with each other's quirks and differences to maintain strong relationships."
+            },
+            {
+              "cf": "",
+              "x": "Residents put up with the noise of city life for the conveniences it offers."
+            },
+            {
+              "cf": "",
+              "x": "Teachers put up with the complexities of virtual classrooms to ensure students' education."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "think over",
+      "id": "fd0bd03c-a0fb-472c-88b5-61704080968c",
+      "word": "to think over",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGhpbmsgb3Zlcg&hash=5a648cba03034160bad5c2fe389340836102c52b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGhpbmsgb3Zlcg&hash=5a648cba03034160bad5c2fe389340836102c52b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45317/original/?type=jpeg",
@@ -254,15 +407,29 @@
       "senses": [
         {
           "definition": "to consider a matter carefully before reaching a decision",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She needs time to think over whether to accept the invitation."
+            },
+            {
+              "cf": "",
+              "x": "Before buying a house, it's wise to think over your financial situation."
+            },
+            {
+              "cf": "",
+              "x": "We should think over the consequences of our actions."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[take] account of {sth}",
+      "id": "ce0690ab-97d9-49c4-a48e-8b46688eba21",
+      "word": "to [take] account of {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBhY2NvdW50IG9mIHNvbWV0aGluZw&hash=0261f1ec292c39c29f6d9e26a5bc66cc1e546460&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBhY2NvdW50IG9mIHNvbWV0aGluZw&hash=0261f1ec292c39c29f6d9e26a5bc66cc1e546460&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -296,12 +463,13 @@
       ]
     },
     {
-      "word": "turn to",
+      "id": "f9969e2d-d28a-436d-944d-6d1edc77e2d7",
+      "word": "to turn to",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHVybiB0bw&hash=48784e15539f48641f82ba3e7c54417fac6939b7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɜrn tu:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHVybiB0bw&hash=48784e15539f48641f82ba3e7c54417fac6939b7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tērn too",
       "img": "https://cdn.langeek.co/photo/47266/original/?type=jpeg",
       "pronunciation": "tˈɜːn tuː",
       "senses": [
@@ -337,13 +505,14 @@
       ]
     },
     {
+      "id": "f9b2ff14-46a5-4eb8-9b3d-d3991b8d3f92",
       "word": "would rather",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=d291bGQgcmF0aGVy&hash=c552c76dad4307629b6afb6704c4c710a30c41b3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wʊd ræ.ðər",
       "phonetic_am": "https://tts.langeek.co/read?text=d291bGQgcmF0aGVy&hash=c552c76dad4307629b6afb6704c4c710a30c41b3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/22688/original/?type=jpeg",
+      "phonetic_am_text": "vood rā.dhēr",
+      "img": "https://cdn.langeek.co/photo/61288/original/?type=jpeg",
       "pronunciation": "wʊd ɹˈæðɚ",
       "senses": [
         {
@@ -370,12 +539,13 @@
       ]
     },
     {
+      "id": "709f7541-1947-4d39-8aea-d730601a65ec",
       "word": "decision maker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVjaXNpb24gbWFrZXI&hash=443963f572ec7b6d42cd9c5a18e472e5d26f05cc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɪ.sɪ.ʒən meɪ.kər",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVjaXNpb24gbWFrZXI&hash=443963f572ec7b6d42cd9c5a18e472e5d26f05cc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "di.si.zhēn mei.kēr",
       "img": "",
       "pronunciation": "dᵻsˈɪʒən mˈeɪkɚ",
       "senses": [
@@ -407,12 +577,13 @@
       ]
     },
     {
+      "id": "322f8a06-47fe-47e4-ae24-4f7c1c586957",
       "word": "dislike",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzbGlrZQ&hash=7391740fc39c3556577fee6f7d9799be265195e9&lang=en&cache-only=0",
-      "phonetic_text": "dɪslaɪk",
+      "phonetic_text": "dɪs.laɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzbGlrZQ&hash=7391740fc39c3556577fee6f7d9799be265195e9&lang=en&cache-only=0",
-      "phonetic_am_text": "dislaik",
+      "phonetic_am_text": "dis.laik",
       "img": "https://cdn.langeek.co/photo/19380/original/dislike?type=jpeg",
       "pronunciation": "dɪsˈlaɪk",
       "senses": [
@@ -440,12 +611,13 @@
       ]
     },
     {
+      "id": "14abe336-7acc-4beb-81e7-112b6c443074",
       "word": "preference",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJlZmVyZW5jZQ&hash=702c247f61dc0f0d5a55adae1edc42976e4189d5&lang=en&cache-only=0",
-      "phonetic_text": "prɛfərəns",
+      "phonetic_text": "prɛ.fɜ.rəns",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJlZmVyZW5jZQ&hash=702c247f61dc0f0d5a55adae1edc42976e4189d5&lang=en&cache-only=0",
-      "phonetic_am_text": "prefērēns",
+      "phonetic_am_text": "pre.fē.rēns",
       "img": "",
       "pronunciation": "ˈpɹɛfɝəns/, /ˈpɹɛfɹəns",
       "senses": [
@@ -477,12 +649,13 @@
       ]
     },
     {
+      "id": "63329dd5-5589-427c-886e-8fdcabb8cd3f",
       "word": "resolution",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVzb2x1dGlvbg&hash=58d6be386162ce9debaea106db6c6c007de95c89&lang=en&cache-only=0",
-      "phonetic_text": "rɛzəlu:ʃən",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVzb2x1dGlvbg&hash=58d6be386162ce9debaea106db6c6c007de95c89&lang=en&cache-only=0",
-      "phonetic_am_text": "rezēlooshēn",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˌɹɛzəˈɫuʃən",
       "senses": [
@@ -514,6 +687,7 @@
       ]
     },
     {
+      "id": "a426beb3-5a92-4f18-b35f-37a3904ab3f4",
       "word": "taste",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFzdGU&hash=13cd759eaa42a2daf11fda2ed3dc300e5bc23f5a&lang=en&cache-only=0",
@@ -551,49 +725,30 @@
       ]
     },
     {
+      "id": "4c6d6fdc-0cac-42c3-ba4a-95233da1de00",
       "word": "criteria",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3JpdGVyaWE&hash=98accb720c4073b18171f75e7db7ec1844b8ed04&lang=en&cache-only=0",
-      "phonetic_text": "kraɪtɪriə",
+      "phonetic_text": "kraɪ.tɪ.riə",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3JpdGVyaWE&hash=98accb720c4073b18171f75e7db7ec1844b8ed04&lang=en&cache-only=0",
-      "phonetic_am_text": "kraitiriē",
+      "phonetic_am_text": "krai.ti.riē",
       "img": "",
       "pronunciation": "kɹaɪˈtɪɹiə",
       "senses": [
         {
           "definition": "the particular characteristics that are considered when evaluating something",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The criteria for choosing the winner of the art contest are creativity and technique."
-            },
-            {
-              "cf": "",
-              "x": "Her criteria for a good vacation include good weather and interesting activities."
-            },
-            {
-              "cf": "",
-              "x": "The committee set several criteria for evaluating the effectiveness of the new policy."
-            },
-            {
-              "cf": "",
-              "x": "The hiring criteria include relevant experience, education, and a positive attitude."
-            },
-            {
-              "cf": "",
-              "x": "The criteria for this research study include patient age and medical history."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "83464d40-b6ea-40f0-8183-537d26b2c58c",
       "word": "liking",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGlraW5n&hash=bb92b41a5eae0a109726fc30447cf32eec94d31b&lang=en&cache-only=0",
-      "phonetic_text": "laɪkɪng",
+      "phonetic_text": "laɪ.kɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlraW5n&hash=bb92b41a5eae0a109726fc30447cf32eec94d31b&lang=en&cache-only=0",
-      "phonetic_am_text": "laiking",
+      "phonetic_am_text": "lai.king",
       "img": "",
       "pronunciation": "ˈɫaɪkɪŋ",
       "senses": [
@@ -625,12 +780,13 @@
       ]
     },
     {
+      "id": "6364ecac-feaa-4a6b-a705-e672924e98ff",
       "word": "tendency",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVuZGVuY3k&hash=eea68c0915dcba542ff51b9b878ed961b0c9b678&lang=en&cache-only=0",
-      "phonetic_text": "tɛndənsi",
+      "phonetic_text": "tɛn.dən.si",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVuZGVuY3k&hash=eea68c0915dcba542ff51b9b878ed961b0c9b678&lang=en&cache-only=0",
-      "phonetic_am_text": "tendēnsi",
+      "phonetic_am_text": "ten.dēn.si",
       "img": "",
       "pronunciation": "ˈtɛndənsi",
       "senses": [
@@ -662,12 +818,13 @@
       ]
     },
     {
+      "id": "fde9e09f-37de-4ba5-96e0-105e8fae6dee",
       "word": "alternatively",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YWx0ZXJuYXRpdmVseQ&hash=d809bf232ec3886fcc76194a31d50df43cf2b29b&lang=en&cache-only=0",
-      "phonetic_text": "ɔltɜrnətɪvli",
+      "phonetic_text": "ɔl.tɜr.nə.tɪv.li",
       "phonetic_am": "https://tts.langeek.co/read?text=YWx0ZXJuYXRpdmVseQ&hash=d809bf232ec3886fcc76194a31d50df43cf2b29b&lang=en&cache-only=0",
-      "phonetic_am_text": "awltērnētivli",
+      "phonetic_am_text": "awl.tēr.nē.tiv.li",
       "img": "",
       "pronunciation": "ɔɫˈtɝnətɪvɫi",
       "senses": [
@@ -699,12 +856,13 @@
       ]
     },
     {
-      "word": "please",
+      "id": "fe0c8a45-5983-43a2-bf20-49f964410e6b",
+      "word": "to please",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGxlYXNl&hash=b911c01878185b7f516e702b8e1d7a9a14849cae&lang=en&cache-only=0",
       "phonetic_text": "pli:z",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGxlYXNl&hash=b911c01878185b7f516e702b8e1d7a9a14849cae&lang=en&cache-only=0",
-      "phonetic_am_text": "pleez",
+      "phonetic_am_text": "pliz",
       "img": "https://cdn.langeek.co/photo/48301/original/?type=jpeg",
       "pronunciation": "pliːz",
       "senses": [
@@ -736,12 +894,13 @@
       ]
     },
     {
+      "id": "6012b01a-843c-49ac-bddf-76009c3161ca",
       "word": "instead",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=aW5zdGVhZA&hash=f25c583e33c4648b00e1a8287998fc38557a9c34&lang=en&cache-only=0",
-      "phonetic_text": "ɪnstɛd",
+      "phonetic_text": "ɪns.tɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5zdGVhZA&hash=f25c583e33c4648b00e1a8287998fc38557a9c34&lang=en&cache-only=0",
-      "phonetic_am_text": "insted",
+      "phonetic_am_text": "ins.ted",
       "img": "https://cdn.langeek.co/photo/43410/original/?type=jpeg",
       "pronunciation": "ˌɪnˈstɛd",
       "senses": [
@@ -769,12 +928,13 @@
       ]
     },
     {
-      "word": "disrespect",
+      "id": "0a8b1cb6-0f88-4706-93cd-138966bb6afd",
+      "word": "to disrespect",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlzcmVzcGVjdA&hash=8d438a96374df70c73848f478f8e32701c844f33&lang=en&cache-only=0",
-      "phonetic_text": "dɪsrɪspɛkt",
+      "phonetic_text": "dɪs.ris.pɛkt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlzcmVzcGVjdA&hash=8d438a96374df70c73848f478f8e32701c844f33&lang=en&cache-only=0",
-      "phonetic_am_text": "disrispekt",
+      "phonetic_am_text": "dis.ris.pekt",
       "img": "",
       "pronunciation": "ˌdɪsɹɪˈspɛkt",
       "senses": [
@@ -802,7 +962,8 @@
       ]
     },
     {
-      "word": "die",
+      "id": "02a3c714-98c6-490e-83fb-cc1b8990e41b",
+      "word": "to die",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGll&hash=d5585a0e5dddb4aa72b8b22963f91261cd2b2d52&lang=en&cache-only=0",
       "phonetic_text": "daɪ",

@@ -1,191 +1,423 @@
 {
+  "id": "de98bd8a-4898-4d64-a684-eb961176f78c",
   "topic": "c2_level",
   "title": "Chemistry",
   "lesson": "lesson_82",
   "word_list": [
     {
+      "id": "0748dc46-8cc7-4b5d-a979-45327f7c75d0",
       "word": "entropy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZW50cm9weQ&hash=96d11c3a90868f77c9a4beb9294a64695eb4482e&lang=en&cache-only=0",
-      "phonetic_text": "ɛntrəpi",
+      "phonetic_text": "ɛnt.rə.pi",
       "phonetic_am": "https://tts.langeek.co/read?text=ZW50cm9weQ&hash=96d11c3a90868f77c9a4beb9294a64695eb4482e&lang=en&cache-only=0",
-      "phonetic_am_text": "entrēpi",
+      "phonetic_am_text": "ent.rē.pi",
       "img": "",
       "pronunciation": "ˈɛntɹəpi",
       "senses": [
         {
           "definition": "a thermodynamic measure of the degree of disorder or randomness in a system, denoted by S",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "When ice melts into water at a higher temperature, the entropy of the system increases."
+            },
+            {
+              "cf": "",
+              "x": "Gas molecules in a container have higher entropy than the same molecules in a more ordered liquid state."
+            },
+            {
+              "cf": "",
+              "x": "The entropy of a gas typically increases with an increase in temperature, reflecting increased molecular motion."
+            },
+            {
+              "cf": "",
+              "x": "Breaking a solid into smaller pieces can increase entropy, as the particles have more freedom of movement."
+            },
+            {
+              "cf": "",
+              "x": "Dissolving a solute in a solvent generally increases the entropy of the system."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b2a959f3-6964-4bfc-88c2-c9cbd8439114",
       "word": "solute",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c29sdXRl&hash=7c10d2c612c9e7be9adbad16fec8eb9e3c8a452c&lang=en&cache-only=0",
-      "phonetic_text": "sɑ:ljut",
+      "phonetic_text": "sɑ.ljut",
       "phonetic_am": "https://tts.langeek.co/read?text=c29sdXRl&hash=7c10d2c612c9e7be9adbad16fec8eb9e3c8a452c&lang=en&cache-only=0",
-      "phonetic_am_text": "saalyut",
+      "phonetic_am_text": "saa.lyoot",
       "img": "",
       "pronunciation": "ˈsɑɫjut",
       "senses": [
         {
           "definition": "a substance that is dissolved in a solvent, resulting in a solution",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "In saltwater, salt (NaCl) is the solute that dissolves in water, the solvent."
+            },
+            {
+              "cf": "",
+              "x": "When sugar (sucrose) is added to coffee, sugar serves as the solute that dissolves in the coffee, the solvent."
+            },
+            {
+              "cf": "",
+              "x": "Carbon dioxide (CO2) dissolving in soda is an example of a gas solute in a liquid solvent."
+            },
+            {
+              "cf": "",
+              "x": "Carbon dioxide dissolves in soda, forming carbonic acid, and serves as a solute in the liquid."
+            },
+            {
+              "cf": "",
+              "x": "Dissolving a pain reliever (e.g., aspirin) in water results in the drug acting as the solute in the liquid solvent."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "74ee7d13-ad4e-4208-af47-f7079df3916b",
       "word": "reactant",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVhY3RhbnQ&hash=b99bca823f7a2bd8dc7b361fcc0745e3a9983dbc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɪæk.tənt",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVhY3RhbnQ&hash=b99bca823f7a2bd8dc7b361fcc0745e3a9983dbc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "riāk.tēnt",
       "img": "",
       "pronunciation": "ɹɪˈæktənt",
       "senses": [
         {
           "definition": "a substance that takes part in and undergoes a chemical reaction, leading to the formation of new products",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "In photosynthesis, carbon dioxide (CO₂) and water (H₂O) are the reactants that, in the presence of sunlight, produce glucose (C₆H₁₂O₆) and oxygen (O₂)."
+            },
+            {
+              "cf": "",
+              "x": "The reactants in the reaction between hydrogen (H₂) and oxygen (O₂) to form water (H₂O) are hydrogen and oxygen gases."
+            },
+            {
+              "cf": "",
+              "x": "The reactants in the process of burning wood are wood and oxygen."
+            },
+            {
+              "cf": "",
+              "x": "The combination of nitrogen and hydrogen produces ammonia, with nitrogen and hydrogen as the reactants."
+            },
+            {
+              "cf": "",
+              "x": "When iron reacts with sulfur, the reactants are iron and sulfur."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "65dc1562-9670-4f49-9804-433d0541f073",
       "word": "catalyst",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2F0YWx5c3Q&hash=f94dfdc8df29d4fbb5a8bb6193817ff00d7c1008&lang=en&cache-only=0",
-      "phonetic_text": "kætələst",
+      "phonetic_text": "kæ.tə.ləst",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2F0YWx5c3Q&hash=f94dfdc8df29d4fbb5a8bb6193817ff00d7c1008&lang=en&cache-only=0",
-      "phonetic_am_text": "kātēlēst",
+      "phonetic_am_text": "kā.tē.lēst",
       "img": "",
       "pronunciation": "ˈkætəɫəst/, /ˈkætəɫɪst",
       "senses": [
         {
           "definition": "(chemistry) a substance that causes a chemical reaction to happen at a faster rate without undergoing any chemical change itself",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Enzymes are naturally occurring biological catalysts that allow complex metabolic reactions to proceed efficiently in living cells."
+            },
+            {
+              "cf": "",
+              "x": "Platinum nanoparticles acted as an effective catalyst for the reaction, significantly lowering the activation energy needed."
+            },
+            {
+              "cf": "",
+              "x": "In the Haber process, iron is used as a catalyst to promote the synthesis of ammonia from nitrogen and hydrogen gases."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "29611509-2622-447c-9846-0d7afa794595",
       "word": "catalysis",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2F0YWx5c2lz&hash=c20fbef274fb55c1296e8b6327604927e35b7ae2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kæ.tæ.lə.sɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2F0YWx5c2lz&hash=c20fbef274fb55c1296e8b6327604927e35b7ae2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kā.tā.lē.sis",
       "img": "",
       "pronunciation": "kætˈæləsˌɪs",
       "senses": [
         {
           "definition": "the acceleration or facilitation of a chemical reaction by a substance (catalyst) that remains unchanged at the end of the reaction",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Enzymatic catalysis plays a key role in biological processes, including the synthesis and breakdown of biomolecules in living organisms."
+            },
+            {
+              "cf": "",
+              "x": "The catalysis of the enzyme amylase accelerates the hydrolysis of starch into simpler sugars during digestion."
+            },
+            {
+              "cf": "",
+              "x": "The catalysis of platinum in the catalytic converter converts harmful gases from vehicle exhaust into less harmful substances."
+            },
+            {
+              "cf": "",
+              "x": "Iron provides catalysis in the Haber-Bosch process, facilitating the synthesis of ammonia from nitrogen and hydrogen."
+            },
+            {
+              "cf": "",
+              "x": "Zeolites act as catalysts in refining processes, promoting the catalysis of hydrocarbons into valuable products."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "04ee5a79-1e3f-4d34-94d1-b78051668279",
       "word": "covalent bond",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y292YWxlbnQgYm9uZA&hash=788c497ebbd74e7b30708ac3e1293b6888cded0e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "koʊ.vɑ.lənt bɑnd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y292YWxlbnQgYm9uZA&hash=788c497ebbd74e7b30708ac3e1293b6888cded0e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kooo.vaa.lēnt baand",
       "img": "",
       "pronunciation": "kˈoʊveɪlənt bˈɑːnd",
       "senses": [
         {
           "definition": "a chemical bond where atoms share electrons to form a stable molecule",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Covalent bonds are like atoms sharing electron hugs to stick together."
+            },
+            {
+              "cf": "",
+              "x": "Atoms share electrons in a covalent bond to make molecules."
+            },
+            {
+              "cf": "",
+              "x": "Water forms because of a covalent bond between hydrogen and oxygen."
+            },
+            {
+              "cf": "",
+              "x": "Proteins are like molecular handshakes, with amino acids linked by covalent bonds."
+            },
+            {
+              "cf": "",
+              "x": "The air's like a molecular community, held together by covalent bonds, forming a breathable atmosphere."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c357eb70-9ed6-4157-9f29-9a2e5ae76d8c",
       "word": "isomer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aXNvbWVy&hash=a9a74deeded2e182d9715d82434a23770a993192&lang=en&cache-only=0",
-      "phonetic_text": "aɪsəmər",
+      "phonetic_text": "aɪ.sə.mɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=aXNvbWVy&hash=a9a74deeded2e182d9715d82434a23770a993192&lang=en&cache-only=0",
-      "phonetic_am_text": "aisēmēr",
+      "phonetic_am_text": "ai.sē.mēr",
       "img": "",
       "pronunciation": "ˈaɪsəmɝ",
       "senses": [
         {
           "definition": "any of two or more compounds having the same molecular formula but different arrangements of atoms and, consequently, different properties",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Propanol and isopropanol are isomers, sharing the same molecular formula but differing in the arrangement of their atoms."
+            },
+            {
+              "cf": "",
+              "x": "The structural isomers butane and isobutane both have the molecular formula C₄H₁₀ but exhibit different structural arrangements."
+            },
+            {
+              "cf": "",
+              "x": "Glucose and fructose are constitutional isomers, possessing the same molecular formula (C₆H₁₂O₆) but differing in their structural arrangements."
+            },
+            {
+              "cf": "",
+              "x": "Pentane and isopentane are structural isomers, both having the molecular formula C₅H₁₂ but differing in their arrangement of carbon atoms."
+            },
+            {
+              "cf": "",
+              "x": "The amino acid isoleucine and the sugar maltose are examples of isomers with identical molecular formulas but differing chemical structures."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e74c1e2f-ab7e-4c30-95c9-23eaf4eca80e",
       "word": "polymer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9seW1lcg&hash=ce9666416f3932c44f10adb1fc17976b1d02b582&lang=en&cache-only=0",
-      "phonetic_text": "pɑ:ləmər",
+      "phonetic_text": "pɑ.lə.mɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9seW1lcg&hash=ce9666416f3932c44f10adb1fc17976b1d02b582&lang=en&cache-only=0",
-      "phonetic_am_text": "paalēmēr",
+      "phonetic_am_text": "paa.lē.mēr",
       "img": "",
       "pronunciation": "ˈpɑɫəmɝ",
       "senses": [
         {
           "definition": "a large molecule composed of repeating structural units, or monomers, covalently bonded together in a chain-like structure",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Polyethylene is a common polymer used in the production of plastic bags, bottles, and various packaging materials."
+            },
+            {
+              "cf": "",
+              "x": "Nylon, a synthetic polymer, is widely used in the production of textiles, carpets, and other materials."
+            },
+            {
+              "cf": "",
+              "x": "Proteins, such as collagen and hemoglobin, are biological polymers with crucial roles in the structure and function of living organisms."
+            },
+            {
+              "cf": "",
+              "x": "PVC (polyvinyl chloride) is a polymer commonly used in pipes, cables, and construction materials."
+            },
+            {
+              "cf": "",
+              "x": "Polyester is a versatile synthetic polymer used in fabrics, clothing, and plastic bottles."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "3b070344-e8d6-4e47-a1f9-dad4bb8ae0a0",
       "word": "monomer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9ub21lcg&hash=ba98fb85479b029c7d517060075842398b28c292&lang=en&cache-only=0",
-      "phonetic_text": "mɑ:nəmər",
+      "phonetic_text": "mɑ.nə.mɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9ub21lcg&hash=ba98fb85479b029c7d517060075842398b28c292&lang=en&cache-only=0",
-      "phonetic_am_text": "maanēmēr",
+      "phonetic_am_text": "maa.nē.mēr",
       "img": "",
       "pronunciation": "ˈmɑnəmɝ",
       "senses": [
         {
           "definition": "a molecule that can chemically bond with other molecules to form a polymer",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Ethylene is a monomer that polymerizes to form polyethylene, a widely used plastic."
+            },
+            {
+              "cf": "",
+              "x": "Amino acids are monomers that link together to form proteins through the process of polymerization."
+            },
+            {
+              "cf": "",
+              "x": "Glucose is a monomer that can polymerize to form complex carbohydrates like starch and cellulose."
+            },
+            {
+              "cf": "",
+              "x": "Adenine, thymine, guanine, and cytosine are monomers that form the building blocks of DNA."
+            },
+            {
+              "cf": "",
+              "x": "Styrene is a monomer used in the production of polystyrene, a common plastic and insulation material."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "91d1a07b-4552-4dee-9eb8-d60ca125a04e",
       "word": "hydrocarbon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aHlkcm9jYXJib24&hash=a382d3f017e43949e2c0f8b850071ddaae640109&lang=en&cache-only=0",
-      "phonetic_text": "haɪdroʊkɑ:rbən",
+      "phonetic_text": "haɪd.roʊ.kɑr.bən",
       "phonetic_am": "https://tts.langeek.co/read?text=aHlkcm9jYXJib24&hash=a382d3f017e43949e2c0f8b850071ddaae640109&lang=en&cache-only=0",
-      "phonetic_am_text": "haidrowkaarbēn",
+      "phonetic_am_text": "haid.rooo.kaar.bēn",
       "img": "",
       "pronunciation": "ˌhaɪdɹoʊˈkɑɹbən",
       "senses": [
         {
           "definition": "a compound composed of hydrogen and carbon atoms, with the simplest form being alkanes, alkenes, or alkynes",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Methane (CH₄) is the simplest hydrocarbon, belonging to the alkane group."
+            },
+            {
+              "cf": "",
+              "x": "Ethene (C₂H₄) is an unsaturated hydrocarbon with a double bond, classified as an alkene."
+            },
+            {
+              "cf": "",
+              "x": "Acetylene (C₂H₂) is a hydrocarbon with a triple bond, falling into the alkyne category."
+            },
+            {
+              "cf": "",
+              "x": "Butene (C₄H₈) is an unsaturated hydrocarbon with one double bond, classified as an alkene."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1e72d0ec-da77-4145-92ba-8a3ece8d6ac7",
       "word": "ester",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXN0ZXI&hash=ff5557116841be02ccc8929fcb09113ff4dc04c3&lang=en&cache-only=0",
-      "phonetic_text": "ɛstər",
+      "phonetic_text": "ɛs.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXN0ZXI&hash=ff5557116841be02ccc8929fcb09113ff4dc04c3&lang=en&cache-only=0",
-      "phonetic_am_text": "estēr",
+      "phonetic_am_text": "es.tēr",
       "img": "",
       "pronunciation": "ˈɛstɝ",
       "senses": [
         {
           "definition": "a chemical compound derived from the reaction between an alcohol and an organic acid, typically with the elimination of water",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Ethyl acetate, an ester, is commonly used as a solvent in nail polish removers."
+            },
+            {
+              "cf": "",
+              "x": "Diethyl phthalate is an ester often used as a plasticizer in the manufacturing of plastics."
+            },
+            {
+              "cf": "",
+              "x": "Benzyl acetate is an ester found in many essential oils and is known for its pleasant floral scent."
+            },
+            {
+              "cf": "",
+              "x": "Amyl acetate, known as pear oil, is an ester used in the creation of artificial fruit flavors."
+            },
+            {
+              "cf": "",
+              "x": "Ethyl propionate is an ester with a fruity odor and is used as a flavoring agent in the food industry."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a5511e08-4c6a-4bad-a89b-c31cce86f3fc",
       "word": "aldehyde",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWxkZWh5ZGU&hash=a33f54ec4170b6416996ca0f1f79d3f7e16bdcba&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æl.dɪ.haɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxkZWh5ZGU&hash=a33f54ec4170b6416996ca0f1f79d3f7e16bdcba&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "āl.di.haid",
       "img": "",
       "pronunciation": "ˈældɪhˌaɪd",
       "senses": [
@@ -217,76 +449,157 @@
       ]
     },
     {
+      "id": "89c5f9e7-90e6-4e25-934d-7cee70787797",
       "word": "alcohol",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWxjb2hvbA&hash=27d22b3b7dd1f0574d93ec825e7b29d836e817fd&lang=en&cache-only=0",
-      "phonetic_text": "ælkəhɑl",
+      "phonetic_text": "æl.kə.hɑl",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxjb2hvbA&hash=27d22b3b7dd1f0574d93ec825e7b29d836e817fd&lang=en&cache-only=0",
-      "phonetic_am_text": "ālkēhɑl",
+      "phonetic_am_text": "āl.kē.haal",
       "img": "",
-      "pronunciation": "ˈæɫkəˌhɑɫ",
+      "pronunciation": "ˈælkəˌhɑl",
       "senses": [
         {
           "definition": "a compound with a hydroxyl group (-OH) attached to a carbon atom, widely used as solvents, fuels, and in pharmaceutical and chemical synthesis",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Ethanol is the alcohol found in alcoholic beverages and is commonly used as a solvent."
+            },
+            {
+              "cf": "",
+              "x": "Ethylene glycol is an alcohol commonly used in antifreeze and as a coolant."
+            },
+            {
+              "cf": "",
+              "x": "Menthol is an alcohol found in mint plants and is used in flavorings and medicines."
+            },
+            {
+              "cf": "",
+              "x": "Benzyl alcohol is used in the production of fragrances, flavorings, and as a solvent in various applications."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "dfd37a0b-8cee-4efb-a8d6-a8ef9756f70a",
       "word": "ketone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2V0b25l&hash=5ca94d3aa5e68eeb6f7885b45180c66d8189b38e&lang=en&cache-only=0",
-      "phonetic_text": "ki:toʊn",
+      "phonetic_text": "ki.toʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=a2V0b25l&hash=5ca94d3aa5e68eeb6f7885b45180c66d8189b38e&lang=en&cache-only=0",
-      "phonetic_am_text": "keetown",
+      "phonetic_am_text": "ki.tooon",
       "img": "",
       "pronunciation": "ˈkitoʊn",
       "senses": [
         {
           "definition": "an organic compound with a carbonyl group (C=O) bonded to two carbon atoms, commonly found in solvents, pharmaceuticals, and flavorings",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Acetone is a common ketone widely used as a solvent and nail polish remover."
+            },
+            {
+              "cf": "",
+              "x": "Dimedone is a cyclic ketone often used in organic synthesis."
+            },
+            {
+              "cf": "",
+              "x": "Acetophenone is a ketone with applications in the production of fragrances and pharmaceuticals."
+            },
+            {
+              "cf": "",
+              "x": "Camphor is a ketone found in various plant sources and used in medicinal and flavoring applications."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "db16cce8-ff47-4305-9bc2-08f0a3bfe4fe",
       "word": "oxidation-reduction",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3hpZGF0aW9uLXJlZHVjdGlvbg&hash=46a4bd52b520929e4f0e743da513dee45214a3b7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑk.sə.deɪ.ʃən-rə.dək.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=b3hpZGF0aW9uLXJlZHVjdGlvbg&hash=46a4bd52b520929e4f0e743da513dee45214a3b7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aak.sē.dei.shēn-rē.dēk.shēn",
       "img": "",
       "pronunciation": "ˌɑːksɪdˈeɪʃənɹɪdˈʌkʃən",
       "senses": [
         {
           "definition": "a chemical reaction where electrons are transferred between substances",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The combustion of wood is an oxidation-reduction reaction where wood undergoes oxidation, producing carbon dioxide and water."
+            },
+            {
+              "cf": "",
+              "x": "Cellular respiration is a biological process involving the oxidation-reduction of glucose to produce energy in the form of ATP."
+            },
+            {
+              "cf": "",
+              "x": "The rusting of iron is an oxidation-reduction reaction where iron undergoes oxidation to form iron oxide (rust)."
+            },
+            {
+              "cf": "",
+              "x": "In batteries, such as the zinc-carbon battery, oxidation-reduction reactions generate electrical energy."
+            },
+            {
+              "cf": "",
+              "x": "Photosynthesis is a biological process that involves the oxidation-reduction of water and carbon dioxide to produce glucose and oxygen."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7473c03b-b78f-4e9d-bf17-0f321fb0e380",
       "word": "molarity",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9sYXJpdHk&hash=fa6e0776e18cadf59a2e302cdcd475a502a4d796&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "moʊ.læ.rɪ.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9sYXJpdHk&hash=fa6e0776e18cadf59a2e302cdcd475a502a4d796&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mooo.lā.ri.ti",
       "img": "",
       "pronunciation": "moʊlˈæɹɪɾi",
       "senses": [
         {
           "definition": "the concentration of a solute in a solution, measured in moles per liter (mol/L or M)",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "A solution with a molarity of 0.5 M means there are 0.5 moles of solute in each liter of the solution."
+            },
+            {
+              "cf": "",
+              "x": "The molarity of a hydrochloric acid solution may be expressed as 2 M, indicating 2 moles of HCl per liter."
+            },
+            {
+              "cf": "",
+              "x": "If a solution has a molarity of 4 M, it means there are 4 moles of the solute in each liter of the solution."
+            },
+            {
+              "cf": "",
+              "x": "The molarity of a calcium chloride solution may be expressed as 1.5 M, meaning 1.5 moles of CaCl₂ per liter of the solution."
+            },
+            {
+              "cf": "",
+              "x": "Hydrogen peroxide with a molarity of 6 M means there are 6 moles of H₂O₂ per liter."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "027fbf4a-b09e-4eda-bbd0-4f22c1c060f5",
       "word": "electrolyte",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWxlY3Ryb2x5dGU&hash=e6f82e8d8dd4a12d3fb0a1571a4b515c69f259d0&lang=en&cache-only=0",
-      "phonetic_text": "ɪlɛktrɑlaɪt",
+      "phonetic_text": "ɪ.lɛkt.rɑ.laɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWxlY3Ryb2x5dGU&hash=e6f82e8d8dd4a12d3fb0a1571a4b515c69f259d0&lang=en&cache-only=0",
-      "phonetic_am_text": "ilektrɑlait",
+      "phonetic_am_text": "i.lekt.raa.lait",
       "img": "",
       "pronunciation": "ɪˌɫɛktɹɑˈɫaɪt",
       "senses": [
@@ -297,92 +610,183 @@
       ]
     },
     {
+      "id": "867647dd-f0e9-4e2c-8608-829cc12cfc2c",
       "word": "colloid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29sbG9pZA&hash=412fd36d952b81356d49fbd0f121f7b3a3bff401&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:lɔɪd",
+      "phonetic_text": "kɑ.lɔɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29sbG9pZA&hash=412fd36d952b81356d49fbd0f121f7b3a3bff401&lang=en&cache-only=0",
-      "phonetic_am_text": "kaaloyd",
+      "phonetic_am_text": "kaa.lawid",
       "img": "",
       "pronunciation": "ˈkɑɫɔɪd",
       "senses": [
         {
           "definition": "a mixture where small particles of one substance are evenly dispersed in another substance, typically intermediate in size between solution and suspension particles",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Fog consists of small water droplets dispersed in the air, forming a colloid."
+            },
+            {
+              "cf": "",
+              "x": "Whipped cream is a colloid with air bubbles dispersed in a liquid fat."
+            },
+            {
+              "cf": "",
+              "x": "Aerosol sprays, like deodorants, are colloids with tiny liquid droplets in a gas."
+            },
+            {
+              "cf": "",
+              "x": "Mayonnaise is a colloid of oil droplets dispersed in vinegar."
+            },
+            {
+              "cf": "",
+              "x": "Blood plasma is a colloid with proteins and other substances dispersed in water."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "afe9fc2e-1bb6-4012-aad5-28fd548a4965",
       "word": "corrosion",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29ycm9zaW9u&hash=5ffd9cd4c3b3f6a1d7d710db094875134507c55a&lang=en&cache-only=0",
-      "phonetic_text": "kəroʊʒən",
+      "phonetic_text": "kɜ.roʊ.ʒən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29ycm9zaW9u&hash=5ffd9cd4c3b3f6a1d7d710db094875134507c55a&lang=en&cache-only=0",
-      "phonetic_am_text": "kērowzhēn",
+      "phonetic_am_text": "kē.rooo.zhēn",
       "img": "https://cdn.langeek.co/photo/31895/original/?type=jpeg",
       "pronunciation": "kɝˈoʊʒən",
       "senses": [
         {
           "definition": "the gradual destruction of materials by chemical reaction, usually of metals",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The pipes in the old house were heavily damaged by corrosion, resulting in leaks throughout the plumbing system."
+            },
+            {
+              "cf": "",
+              "x": "Regular maintenance is necessary to prevent corrosion and extend the lifespan of metal structures."
+            },
+            {
+              "cf": "",
+              "x": "Corrosion occurs when metal reacts with oxygen in the air."
+            },
+            {
+              "cf": "",
+              "x": "Corrosion is a natural process that can be slowed but not completely stopped."
+            },
+            {
+              "cf": "",
+              "x": "Exposure to moisture accelerates metal corrosion."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f6c80bf0-7942-4b4f-96a8-324e87bd32fa",
       "word": "alkali",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWxrYWxp&hash=453f31bd2656b817785f7cdd13e7bbba36089e43&lang=en&cache-only=0",
-      "phonetic_text": "ælkəlaɪ",
+      "phonetic_text": "æl.kə.laɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxrYWxp&hash=453f31bd2656b817785f7cdd13e7bbba36089e43&lang=en&cache-only=0",
-      "phonetic_am_text": "ālkēlai",
+      "phonetic_am_text": "āl.kē.lai",
       "img": "",
       "pronunciation": "ˈæɫkəˌɫaɪ",
       "senses": [
         {
           "definition": "any substance with a pH of more than seven that neutralizes acids creating salt and water",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Sodium hydroxide is a strong alkali commonly used in industrial processes and household cleaning products."
+            },
+            {
+              "cf": "",
+              "x": "Alkalis are substances that have a pH greater than 7 and can neutralize acids."
+            },
+            {
+              "cf": "",
+              "x": "When dissolved in water, alkalis release hydroxide ions, which contribute to their basic properties."
+            },
+            {
+              "cf": "",
+              "x": "Some common examples of alkalis include potassium hydroxide, calcium hydroxide, and ammonia."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "81c1c3fb-55f5-47e5-a1df-dab1e3b57435",
       "word": "ammonia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW1tb25pYQ&hash=2740841982692b47ef2a1510b5a026783711a66d&lang=en&cache-only=0",
-      "phonetic_text": "əmoʊnjə",
+      "phonetic_text": "ə.moʊn.jə",
       "phonetic_am": "https://tts.langeek.co/read?text=YW1tb25pYQ&hash=2740841982692b47ef2a1510b5a026783711a66d&lang=en&cache-only=0",
-      "phonetic_am_text": "ēmownyē",
+      "phonetic_am_text": "ē.mooon.yē",
       "img": "",
       "pronunciation": "əˈmoʊnjə",
       "senses": [
         {
           "definition": "a gas with a strong smell that dissolves in water to give a strongly alkaline solution",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "In agriculture, ammonia is used as a fertilizer to provide plants with a source of nitrogen."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "96ae42d1-0a46-4975-a18b-6360cce0935a",
       "word": "alloy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWxsb3k&hash=a36ec3bcbcd056f068c7b0f11b609b8adab93d63&lang=en&cache-only=0",
-      "phonetic_text": "ælɔɪ",
+      "phonetic_text": "æ.lɔɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxsb3k&hash=a36ec3bcbcd056f068c7b0f11b609b8adab93d63&lang=en&cache-only=0",
-      "phonetic_am_text": "āloy",
+      "phonetic_am_text": "ā.lawi",
       "img": "",
       "pronunciation": "ˈæˌɫɔɪ",
       "senses": [
         {
           "definition": "a combination of two or more metals, creating a metal that is usually stronger or more resistant",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "An alloy is a mixture of two or more metals or a metal and another element."
+            },
+            {
+              "cf": "",
+              "x": "Brass, which is an alloy of copper and zinc, is commonly used in plumbing fixtures and musical instruments."
+            },
+            {
+              "cf": "",
+              "x": "Stainless steel, an alloy of iron, chromium, and other elements, is highly resistant to corrosion and is used in a wide range of applications."
+            },
+            {
+              "cf": "",
+              "x": "Bronze, an alloy of copper and tin, has been used for centuries in sculpture, weaponry, and coinage."
+            },
+            {
+              "cf": "",
+              "x": "Aluminum alloys are lightweight and strong, making them suitable for aerospace applications and automotive parts."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "ce60ced9-95cf-4782-b198-582a263e4c2e",
       "word": "halogen",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFsb2dlbg&hash=0c3ea01b5afd16884354e5e1e1ed3d87077fcc13&lang=en&cache-only=0",
-      "phonetic_text": "hæləʤən",
+      "phonetic_text": "hæ.lə.ʤən",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFsb2dlbg&hash=0c3ea01b5afd16884354e5e1e1ed3d87077fcc13&lang=en&cache-only=0",
-      "phonetic_am_text": "hālējēn",
+      "phonetic_am_text": "hā.lē.jēn",
       "img": "",
       "pronunciation": "ˈhæɫədʒən",
       "senses": [
@@ -414,12 +818,13 @@
       ]
     },
     {
+      "id": "231c9a2e-8884-4fcd-ad50-d5e13ab28670",
       "word": "isotope",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aXNvdG9wZQ&hash=b1f5ce0b3c2643b5b4258c904a28da9ed26f0141&lang=en&cache-only=0",
-      "phonetic_text": "aɪsətoʊp",
+      "phonetic_text": "aɪ.sə.toʊp",
       "phonetic_am": "https://tts.langeek.co/read?text=aXNvdG9wZQ&hash=b1f5ce0b3c2643b5b4258c904a28da9ed26f0141&lang=en&cache-only=0",
-      "phonetic_am_text": "aisētowp",
+      "phonetic_am_text": "ai.sē.tooop",
       "img": "",
       "pronunciation": "ˈaɪsəˌtoʊp",
       "senses": [
@@ -451,12 +856,13 @@
       ]
     },
     {
+      "id": "e6276d87-e615-4f06-8154-d078a0fee59f",
       "word": "noble gas",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bm9ibGUgZ2Fz&hash=efb129bd964ad0caf7775c5121417e3daa704d99&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "noʊ.bəl gæs",
       "phonetic_am": "https://tts.langeek.co/read?text=bm9ibGUgZ2Fz&hash=efb129bd964ad0caf7775c5121417e3daa704d99&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nooo.bēl gās",
       "img": "",
       "pronunciation": "nˈoʊbəl ɡˈæs",
       "senses": [
@@ -488,12 +894,13 @@
       ]
     },
     {
+      "id": "ab1bb7ab-6785-4662-b502-7818c62e9640",
       "word": "emulsion",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZW11bHNpb24&hash=b5f30840751c817843cef531f4595bf44881e66c&lang=en&cache-only=0",
-      "phonetic_text": "ɪmʌlʃən",
+      "phonetic_text": "ɪ.məl.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZW11bHNpb24&hash=b5f30840751c817843cef531f4595bf44881e66c&lang=en&cache-only=0",
-      "phonetic_am_text": "imalshēn",
+      "phonetic_am_text": "i.mēl.shēn",
       "img": "",
       "pronunciation": "ɪˈməɫʃən",
       "senses": [
@@ -525,12 +932,13 @@
       ]
     },
     {
+      "id": "ea2ca58a-dae5-43ee-988b-b37e9344d6d9",
       "word": "half-life",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFsZi1saWZl&hash=2beff13cd32ce280f69298cd9753e059c14244b9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hæf-laɪf",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFsZi1saWZl&hash=2beff13cd32ce280f69298cd9753e059c14244b9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hāf-laif",
       "img": "",
       "pronunciation": "hˈæf lˈaɪf",
       "senses": [
@@ -562,49 +970,30 @@
       ]
     },
     {
+      "id": "40af3c76-d2aa-4a1c-8251-3573fb7674a0",
       "word": "depleted uranium",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVwbGV0ZWQgdXJhbml1bQ&hash=eabb42d66fd611682841630664af7de508e7ed12&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɪp.li.tɪd jɜ.reɪ.niəm",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVwbGV0ZWQgdXJhbml1bQ&hash=eabb42d66fd611682841630664af7de508e7ed12&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dip.li.tid yē.rei.niēm",
       "img": "",
       "pronunciation": "dɪplˈiːɾᵻd jʊɹˈeɪniəm",
       "senses": [
         {
           "definition": "a type of uranium that has most of its more radioactive isotopes removed, primarily used for armor-piercing ammunition and shielding",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Depleted uranium is a byproduct of the uranium enrichment process used in nuclear reactors."
-            },
-            {
-              "cf": "",
-              "x": "Depleted uranium is less radioactive than natural uranium and is primarily composed of the isotope uranium-238."
-            },
-            {
-              "cf": "",
-              "x": "The military uses depleted uranium in armor-piercing ammunition and armor plating due to its high density and ability to penetrate armor."
-            },
-            {
-              "cf": "",
-              "x": "Concerns have been raised about the health and environmental risks associated with the use of depleted uranium in warfare."
-            },
-            {
-              "cf": "",
-              "x": "Depleted uranium can pose hazards if it enters the environment, such as through the release of dust or the contamination of soil and water."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "35207d97-dbcb-4cec-93c7-cfd56483ecb5",
       "word": "solvent",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c29sdmVudA&hash=198e3e537aa3c36a621ef1f4147e8f4305d16087&lang=en&cache-only=0",
-      "phonetic_text": "sɑ:lvənt",
+      "phonetic_text": "sɑl.vənt",
       "phonetic_am": "https://tts.langeek.co/read?text=c29sdmVudA&hash=198e3e537aa3c36a621ef1f4147e8f4305d16087&lang=en&cache-only=0",
-      "phonetic_am_text": "saalvēnt",
+      "phonetic_am_text": "saal.vēnt",
       "img": "",
       "pronunciation": "ˈsɑɫvənt",
       "senses": [
@@ -624,10 +1013,11 @@
       ]
     },
     {
+      "id": "4f36deb4-b66b-4746-8842-95cff631c55d",
       "word": "charged",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y2hhcmdlZA&hash=62f7212b54788f430e39065bb38159fb5b5c2834&lang=en&cache-only=0",
-      "phonetic_text": "ʧɑ:rʤd",
+      "phonetic_text": "ʧɑrʤd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hhcmdlZA&hash=62f7212b54788f430e39065bb38159fb5b5c2834&lang=en&cache-only=0",
       "phonetic_am_text": "chaarjd",
       "img": "",

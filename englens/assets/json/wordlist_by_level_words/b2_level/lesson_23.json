@@ -1,10 +1,12 @@
 {
+  "id": "ab53bbdf-2426-4288-83e8-1b41ca979389",
   "topic": "b2_level",
   "title": "Drinks",
   "lesson": "lesson_23",
   "word_list": [
     {
-      "word": "sip",
+      "id": "a76d6060-bc08-4195-9c7a-e929b87ab839",
+      "word": "to sip",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2lw&hash=d9aff912cfb734891cbbb3f5bec8dd4869b1c059&lang=en&cache-only=0",
       "phonetic_text": "sɪp",
@@ -41,12 +43,13 @@
       ]
     },
     {
-      "word": "sober up",
+      "id": "3f6c8d03-705e-4377-a62f-63ae82180568",
+      "word": "to sober up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc29iZXIgdXA&hash=680f68652a43106765527fa4aeddba3771342b8a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "soʊ.bɜr ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc29iZXIgdXA&hash=680f68652a43106765527fa4aeddba3771342b8a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sooo.bēr ap",
       "img": "https://cdn.langeek.co/photo/52095/original/?type=jpeg",
       "pronunciation": "sˈoʊbɚɹ ˈʌp",
       "senses": [
@@ -78,6 +81,7 @@
       ]
     },
     {
+      "id": "2b76a168-68cc-45da-a06a-0a7358ea2b66",
       "word": "thirst",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhpcnN0&hash=4af5ade4d2f3ee4e49559760a594cfa62eee82e7&lang=en&cache-only=0",
@@ -111,12 +115,13 @@
       ]
     },
     {
+      "id": "e90e8584-042a-4a87-b1bd-704828fcb335",
       "word": "ice cube",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aWNlIGN1YmU&hash=79a864a214c6d707eb850df8efeed1e2a560cf4f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aɪs kjub",
       "phonetic_am": "https://tts.langeek.co/read?text=aWNlIGN1YmU&hash=79a864a214c6d707eb850df8efeed1e2a560cf4f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ais kyoob",
       "img": "https://cdn.langeek.co/photo/20874/original/ice?type=jpeg",
       "pronunciation": "ˈaɪs kjˈuːb",
       "senses": [
@@ -148,12 +153,13 @@
       ]
     },
     {
+      "id": "4ad07e35-98c5-42e6-9156-2e4f57a1239e",
       "word": "straw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RyYXc&hash=5bea6ccc259ec308e61c702583f6789a92d95c51&lang=en&cache-only=0",
-      "phonetic_text": "strɔ:",
+      "phonetic_text": "strɔ",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyYXc&hash=5bea6ccc259ec308e61c702583f6789a92d95c51&lang=en&cache-only=0",
-      "phonetic_am_text": "straaw",
+      "phonetic_am_text": "straw",
       "img": "https://cdn.langeek.co/photo/21889/original/?type=jpeg",
       "pronunciation": "ˈstɹɔ",
       "senses": [
@@ -185,12 +191,13 @@
       ]
     },
     {
+      "id": "17dffa32-1259-40e9-88a3-6dc3ef4aeff5",
       "word": "liquor store",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGlxdW9yIHN0b3Jl&hash=6953df5a70b7daf07a2ba45003f39312cb8e0116&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɪ.kɜr stɔr",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlxdW9yIHN0b3Jl&hash=6953df5a70b7daf07a2ba45003f39312cb8e0116&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "li.kēr stawr",
       "img": "https://cdn.langeek.co/photo/21651/original/?type=jpeg",
       "pronunciation": "lˈɪkɚ stˈoːɹ",
       "senses": [
@@ -222,10 +229,11 @@
       ]
     },
     {
+      "id": "cbd8c2ed-15e7-439d-b5b5-e42e95c507d0",
       "word": "booze",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9vemU&hash=9ab8ba6809026d886760a839c8d87e039df503d6&lang=en&cache-only=0",
-      "phonetic_text": "bu:z",
+      "phonetic_text": "buz",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9vemU&hash=9ab8ba6809026d886760a839c8d87e039df503d6&lang=en&cache-only=0",
       "phonetic_am_text": "booz",
       "img": "https://cdn.langeek.co/photo/19050/original/drink?type=jpeg",
@@ -259,10 +267,11 @@
       ]
     },
     {
+      "id": "b1323cf8-b71e-4e2b-a3f2-621d2c4824ae",
       "word": "Bloody Mary",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Qmxvb2R5IE1hcnk&hash=b17b9203d35756fa7c5cb50b15a30142b8b8b3e6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Qmxvb2R5IE1hcnk&hash=b17b9203d35756fa7c5cb50b15a30142b8b8b3e6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/50409/original/?type=jpeg",
@@ -292,10 +301,11 @@
       ]
     },
     {
+      "id": "31135ae6-3b89-42c9-9c45-e670282791c5",
       "word": "Bourbon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Qm91cmJvbg&hash=1409e93d0349e23d1d71818037e7e70f974a739f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Qm91cmJvbg&hash=1409e93d0349e23d1d71818037e7e70f974a739f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/21645/original/?type=jpeg",
@@ -329,12 +339,13 @@
       ]
     },
     {
+      "id": "291dcff3-fb24-4f79-87e3-0bd5b3388012",
       "word": "cider",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2lkZXI&hash=c600c489f0568a4f45217582f4403a1a46885652&lang=en&cache-only=0",
-      "phonetic_text": "saɪdər",
+      "phonetic_text": "saɪ.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2lkZXI&hash=c600c489f0568a4f45217582f4403a1a46885652&lang=en&cache-only=0",
-      "phonetic_am_text": "saidēr",
+      "phonetic_am_text": "sai.dēr",
       "img": "https://cdn.langeek.co/photo/18293/original/cider?type=jpeg",
       "pronunciation": "ˈsaɪdɝ",
       "senses": [
@@ -358,6 +369,7 @@
       ]
     },
     {
+      "id": "ff3707cd-9714-4bf6-b8e3-49378f8ca465",
       "word": "gin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2lu&hash=36885e1fa1697ca32b2da1f6bca7a07b84efa014&lang=en&cache-only=0",
@@ -391,12 +403,13 @@
       ]
     },
     {
+      "id": "e31ba2a3-b95d-41d4-a1c1-6ebb1ab575cf",
       "word": "ginger ale",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2luZ2VyIGFsZQ&hash=9772119b5a1df4edf6bfbc77de7030bd10578d4b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤɪn.ʤɜr eɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2luZ2VyIGFsZQ&hash=9772119b5a1df4edf6bfbc77de7030bd10578d4b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "jin.jēr eil",
       "img": "https://cdn.langeek.co/photo/21649/original/?type=jpeg",
       "pronunciation": "dʒˈɪndʒɚɹ ˈeɪl",
       "senses": [
@@ -428,12 +441,13 @@
       ]
     },
     {
+      "id": "9d997e79-ab55-484b-9dfe-da48965c6a56",
       "word": "ice tea",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aWNlIHRlYQ&hash=d3bd0e452142ac25572426bf5f9e7564f310dae2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aɪs ti:",
       "phonetic_am": "https://tts.langeek.co/read?text=aWNlIHRlYQ&hash=d3bd0e452142ac25572426bf5f9e7564f310dae2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ais ti",
       "img": "https://cdn.langeek.co/photo/21839/original/?type=jpeg",
       "pronunciation": "ˈaɪs tˈiː",
       "senses": [
@@ -444,12 +458,13 @@
       ]
     },
     {
+      "id": "e5260820-9d19-4735-a461-625b6dce0074",
       "word": "liquor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGlxdW9y&hash=a220e44b214995fa714ff0e1e6141eb20a6a4a80&lang=en&cache-only=0",
-      "phonetic_text": "lɪkər",
+      "phonetic_text": "lɪ.kɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlxdW9y&hash=a220e44b214995fa714ff0e1e6141eb20a6a4a80&lang=en&cache-only=0",
-      "phonetic_am_text": "likēr",
+      "phonetic_am_text": "li.kēr",
       "img": "https://cdn.langeek.co/photo/19050/original/drink?type=jpeg",
       "pronunciation": "ˈɫɪkɝ",
       "senses": [
@@ -477,12 +492,13 @@
       ]
     },
     {
+      "id": "10341894-54df-4f20-9fb2-c1d28dda0a0a",
       "word": "margarita",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFyZ2FyaXRh&hash=d7e99d252d92ea34723d440194e03df80156e15c&lang=en&cache-only=0",
-      "phonetic_text": "mɑrgəri:tə",
+      "phonetic_text": "mɑr.gɜ.ri.tə",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFyZ2FyaXRh&hash=d7e99d252d92ea34723d440194e03df80156e15c&lang=en&cache-only=0",
-      "phonetic_am_text": "mɑrgēreetē",
+      "phonetic_am_text": "maar.gē.ri.tē",
       "img": "https://cdn.langeek.co/photo/50393/original/?type=jpeg",
       "pronunciation": "ˌmɑɹɡɝˈitə",
       "senses": [
@@ -514,12 +530,13 @@
       ]
     },
     {
+      "id": "29e747f3-2197-4afc-8240-9d745bc1f20b",
       "word": "martini",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFydGluaQ&hash=1aabf46f8b90c46daf5bf258370ad0c32220a1d4&lang=en&cache-only=0",
-      "phonetic_text": "mɑrti:ni",
+      "phonetic_text": "mɑr.ti.ni",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFydGluaQ&hash=1aabf46f8b90c46daf5bf258370ad0c32220a1d4&lang=en&cache-only=0",
-      "phonetic_am_text": "mɑrteeni",
+      "phonetic_am_text": "maar.ti.ni",
       "img": "https://cdn.langeek.co/photo/50417/original/?type=jpeg",
       "pronunciation": "mɑɹˈtini",
       "senses": [
@@ -547,12 +564,13 @@
       ]
     },
     {
+      "id": "50e0920a-9a68-49cc-87e4-faa8afd3fe0d",
       "word": "mojito",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9qaXRv&hash=50fd6dd4f0639386082cdfe0a18a6926bbf4e588&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mtoʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9qaXRv&hash=50fd6dd4f0639386082cdfe0a18a6926bbf4e588&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mtooo",
       "img": "https://cdn.langeek.co/photo/21833/original/?type=jpeg",
       "pronunciation": "moʊhˈiːɾoʊ",
       "senses": [
@@ -580,45 +598,30 @@
       ]
     },
     {
+      "id": "586ba837-d4dd-45ce-a292-c5d64b4946f9",
       "word": "refill",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVmaWxs&hash=088b645492f62aae20e76747e084e9df311f05da&lang=en&cache-only=0",
-      "phonetic_text": "ri:fɪl",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVmaWxs&hash=088b645492f62aae20e76747e084e9df311f05da&lang=en&cache-only=0",
-      "phonetic_am_text": "reefil",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˈɹifɪɫ/, /ɹiˈfɪɫ",
       "senses": [
         {
           "definition": "one more glass of wine, water, or other drinks",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He requested a refill of his coffee at the diner to keep enjoying his hot drink."
-            },
-            {
-              "cf": "",
-              "x": "The restaurant offers free refills on soft drinks with every meal."
-            },
-            {
-              "cf": "",
-              "x": "He was pleased to see the barista provide a complimentary refill of his iced tea."
-            },
-            {
-              "cf": "",
-              "x": "The waiter promptly brought a refill of wine to the table during dinner."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "5dd04f2b-6acd-46a7-a13e-6599dc49e129",
       "word": "punch",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHVuY2g&hash=d6e55f0007be44940909bec38508cb6fa633eed4&lang=en&cache-only=0",
-      "phonetic_text": "pʌnʧ",
+      "phonetic_text": "pənʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=cHVuY2g&hash=d6e55f0007be44940909bec38508cb6fa633eed4&lang=en&cache-only=0",
-      "phonetic_am_text": "panch",
+      "phonetic_am_text": "pēnch",
       "img": "https://cdn.langeek.co/photo/50419/original/?type=jpeg",
       "pronunciation": "ˈpəntʃ",
       "senses": [
@@ -646,12 +649,13 @@
       ]
     },
     {
+      "id": "e60f0eb3-9964-4be9-b129-29b89755ea31",
       "word": "cappuccino",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FwcHVjY2lubw&hash=a2d3e4e9947d9eda070f1655c4e37950e7a39d56&lang=en&cache-only=0",
-      "phonetic_text": "kæpuʧi:noʊ",
+      "phonetic_text": "kæp.noʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FwcHVjY2lubw&hash=a2d3e4e9947d9eda070f1655c4e37950e7a39d56&lang=en&cache-only=0",
-      "phonetic_am_text": "kāpucheenow",
+      "phonetic_am_text": "kāp.nooo",
       "img": "https://cdn.langeek.co/photo/21879/original/?type=jpeg",
       "pronunciation": "ˌkæˌpuˈtʃinoʊ",
       "senses": [
@@ -679,12 +683,13 @@
       ]
     },
     {
+      "id": "776fbebe-7abb-4e09-883d-faa98a6b2e58",
       "word": "herbal tea",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGVyYmFsIHRlYQ&hash=fa91661370ddd1022fb246f894e01a7385acf234&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɜr.bəl ti:",
       "phonetic_am": "https://tts.langeek.co/read?text=aGVyYmFsIHRlYQ&hash=fa91661370ddd1022fb246f894e01a7385acf234&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ēr.bēl ti",
       "img": "https://cdn.langeek.co/photo/21881/original/?type=jpeg",
       "pronunciation": "hˈɜːbəl tˈiː",
       "senses": [
@@ -716,39 +721,19 @@
       ]
     },
     {
+      "id": "d37b4634-0ea8-459e-a8a6-7332c342fed8",
       "word": "skim milk",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2tpbSBtaWxr&hash=b39a3586c87f366f3642f9096e964e06adcd0ad5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skɪm mɪlk",
       "phonetic_am": "https://tts.langeek.co/read?text=c2tpbSBtaWxr&hash=b39a3586c87f366f3642f9096e964e06adcd0ad5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skim milk",
       "img": "https://cdn.langeek.co/photo/31699/original/?type=jpeg",
       "pronunciation": "skˈɪm mˈɪlk",
       "senses": [
         {
           "definition": "milk from which almost all the fat content has been removed",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She prefers to use skim milk in her morning coffee to reduce calorie intake."
-            },
-            {
-              "cf": "",
-              "x": "The recipe called for skim milk instead of whole milk to make a lighter dessert."
-            },
-            {
-              "cf": "",
-              "x": "He bought a carton of skim milk at the grocery store for his breakfast cereal."
-            },
-            {
-              "cf": "",
-              "x": "Skim milk is often used in baking and cooking as a healthier alternative to full-fat milk."
-            },
-            {
-              "cf": "",
-              "x": "The nutrition label on skim milk shows minimal fat content, making it a popular choice for those watching their dietary fat intake."
-            }
-          ]
+          "examples": []
         }
       ]
     }

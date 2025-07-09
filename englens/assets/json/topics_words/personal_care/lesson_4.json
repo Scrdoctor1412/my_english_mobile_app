@@ -1,15 +1,17 @@
 {
+  "id": "b300e086-4857-4de3-aa2f-a2309352bb91",
   "topic": "personal_care",
   "title": "Cosmetics",
   "lesson": "lesson_4",
   "word_list": [
     {
+      "id": "0d758d49-b70a-4c38-a8cd-11c73a2f9e3b",
       "word": "blusher",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ymx1c2hlcg&hash=cc43562bfc5d45679859cdf56b07414f0bcb7f44&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "blʌ.ʃər",
       "phonetic_am": "https://tts.langeek.co/read?text=Ymx1c2hlcg&hash=cc43562bfc5d45679859cdf56b07414f0bcb7f44&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bla.shēr",
       "img": "https://cdn.langeek.co/photo/22830/original/?type=jpeg",
       "pronunciation": "blˈʌʃɚ",
       "senses": [
@@ -20,28 +22,51 @@
       ]
     },
     {
+      "id": "ba5465dc-34f4-48c2-bdfe-eaa80f9c3c52",
       "word": "concealer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29uY2VhbGVy&hash=fdf660b3d85cd139a61b071bad7706faf84a2a03&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kən.si:.lər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uY2VhbGVy&hash=fdf660b3d85cd139a61b071bad7706faf84a2a03&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kēn.si.lēr",
       "img": "https://cdn.langeek.co/photo/51848/original/?type=jpeg",
       "pronunciation": "kənsˈiːlɚ",
       "senses": [
         {
           "definition": "a skin-toned cosmetic, typically in cream or liquid form, used to hide dark circles around the eyes or other imperfections on the skin",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She dabbed a bit of concealer under her eyes to hide the dark circles after a sleepless night."
+            },
+            {
+              "cf": "",
+              "x": "The makeup artist used a green-tinted concealer to neutralize the redness from acne scars."
+            },
+            {
+              "cf": "",
+              "x": "He applied a concealer stick to cover up the tattoo on his forearm for the job interview."
+            },
+            {
+              "cf": "",
+              "x": "The concealer blended seamlessly with her foundation, providing a flawless complexion."
+            },
+            {
+              "cf": "",
+              "x": "The beauty vlogger demonstrated how to use concealer to contour and highlight facial features."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "041e5f32-64c2-4162-979c-1ba342100806",
       "word": "eyebrow pencil",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXllYnJvdyBwZW5jaWw&hash=94b3f6bdbf1d57b0f61ceb503e99e36090285abf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aɪ.braʊ pɛnsl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXllYnJvdyBwZW5jaWw&hash=94b3f6bdbf1d57b0f61ceb503e99e36090285abf&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ai.braoo pensl",
       "img": "https://cdn.langeek.co/photo/29856/original/?type=jpeg",
       "pronunciation": "ˈaɪbɹaʊ pˈɛnsəl",
       "senses": [
@@ -52,28 +77,51 @@
       ]
     },
     {
+      "id": "2ca6b113-724b-4f87-88a1-83e89aef7ec0",
       "word": "eyeliner",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXllbGluZXI&hash=ed50e94f448cb5eb17aaa396103cca02ce48d925&lang=en&cache-only=0",
-      "phonetic_text": "aɪlaɪnər",
+      "phonetic_text": "aɪ.laɪ.nɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXllbGluZXI&hash=ed50e94f448cb5eb17aaa396103cca02ce48d925&lang=en&cache-only=0",
-      "phonetic_am_text": "ailainēr",
+      "phonetic_am_text": "ai.lai.nēr",
       "img": "https://cdn.langeek.co/photo/51850/original/?type=jpeg",
       "pronunciation": "ˈaɪˌɫaɪnɝ",
       "senses": [
         {
           "definition": "a usually black cosmetic that is worn at the edges of the eyes to make them appear more attractive or noticeable",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She used a black eyeliner to create a bold cat-eye look."
+            },
+            {
+              "cf": "",
+              "x": "The makeup artist applied eyeliner to enhance the shape of her eyes."
+            },
+            {
+              "cf": "",
+              "x": "He preferred a gel eyeliner for its smooth application and long wear."
+            },
+            {
+              "cf": "",
+              "x": "A thin line of eyeliner can make the eyes appear larger and more awake."
+            },
+            {
+              "cf": "",
+              "x": "The store offers a range of eyeliner colors to match any makeup style."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0d08284d-9201-4fe0-8c2c-4d779058fb1b",
       "word": "eyeshadow",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXllc2hhZG93&hash=72f04c8b03bf8c97f5efde007134e176bea9f9ec&lang=en&cache-only=0",
-      "phonetic_text": "aɪʃædoʊ",
+      "phonetic_text": "aɪ.ʃæ.doʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXllc2hhZG93&hash=72f04c8b03bf8c97f5efde007134e176bea9f9ec&lang=en&cache-only=0",
-      "phonetic_am_text": "aishādow",
+      "phonetic_am_text": "ai.shā.dooo",
       "img": "https://cdn.langeek.co/photo/51852/original/?type=jpeg",
       "pronunciation": "ˈaɪˈʃædoʊ",
       "senses": [
@@ -84,28 +132,51 @@
       ]
     },
     {
+      "id": "fde45ecb-17c3-490a-99c2-1d9f0b406d7f",
       "word": "face powder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFjZSBwb3dkZXI&hash=f4b9abf6a390a2727506d754bf6bd0fe2869faf0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "feɪs paʊ.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFjZSBwb3dkZXI&hash=f4b9abf6a390a2727506d754bf6bd0fe2869faf0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "feis paoo.dēr",
       "img": "https://cdn.langeek.co/photo/22842/original/?type=jpeg",
       "pronunciation": "fˈeɪs pˈaʊdɚ",
       "senses": [
         {
           "definition": "a skin-toned cosmetic powder applied to the face to make it less shiny and hide any imperfections on the skin",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She dusted face powder over her T-zone to reduce oiliness and set her makeup."
+            },
+            {
+              "cf": "",
+              "x": "The translucent face powder helped blur imperfections and gave her skin a smooth appearance."
+            },
+            {
+              "cf": "",
+              "x": "He used a loose face powder with SPF to protect his skin from sun exposure while adding a natural glow."
+            },
+            {
+              "cf": "",
+              "x": "The makeup artist applied a light layer of face powder to ensure the foundation stayed in place throughout the photoshoot."
+            },
+            {
+              "cf": "",
+              "x": "Her compact face powder included a mirror, making it convenient for touch-ups throughout the day."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "db7823b7-3aad-44d6-9011-695fd1edc180",
       "word": "liner",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGluZXI&hash=f7a45c9a8b1332c2e34eb70e4cbb9b0ca062540c&lang=en&cache-only=0",
-      "phonetic_text": "laɪnər",
+      "phonetic_text": "laɪ.nɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bGluZXI&hash=f7a45c9a8b1332c2e34eb70e4cbb9b0ca062540c&lang=en&cache-only=0",
-      "phonetic_am_text": "lainēr",
+      "phonetic_am_text": "lai.nēr",
       "img": "https://cdn.langeek.co/photo/30028/original/?type=jpeg",
       "pronunciation": "ˈɫaɪnɝ",
       "senses": [
@@ -116,12 +187,13 @@
       ]
     },
     {
+      "id": "2b9ae4d1-61e4-4747-b8ba-d67dc4e910ea",
       "word": "lip balm",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGlwIGJhbG0&hash=3c01359580620267fd99ebaa959ffc848e4c0f69&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɪp bɑ:m",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlwIGJhbG0&hash=3c01359580620267fd99ebaa959ffc848e4c0f69&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lip baam",
       "img": "https://cdn.langeek.co/photo/51836/original/?type=jpeg",
       "pronunciation": "lˈɪp bˈɑːm",
       "senses": [
@@ -132,28 +204,51 @@
       ]
     },
     {
+      "id": "0074185a-70bc-4bb1-aad8-33e305c56ebc",
       "word": "lip gloss",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGlwIGdsb3Nz&hash=4660ba0077013761a83d4b15a5e01c690eac12ac&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɪp glɔs",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlwIGdsb3Nz&hash=4660ba0077013761a83d4b15a5e01c690eac12ac&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lip glaws",
       "img": "https://cdn.langeek.co/photo/51908/original/?type=jpeg",
       "pronunciation": "lˈɪp ɡlˈɔs",
       "senses": [
         {
           "definition": "a cosmetic substance in liquid or gel form applied to the lips to give them a shiny effect and often a bit of color",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She applied a coat of pink lip gloss to add shine and moisture to her lips."
+            },
+            {
+              "cf": "",
+              "x": "The lip gloss had a hint of shimmer, giving her lips a radiant sparkle."
+            },
+            {
+              "cf": "",
+              "x": "He gifted her a set of flavored lip glosses in various shades for her birthday."
+            },
+            {
+              "cf": "",
+              "x": "The clear lip gloss enhanced the natural color of her lips while keeping them hydrated."
+            },
+            {
+              "cf": "",
+              "x": "The makeup artist used a plumping lip gloss to create fuller-looking lips for the photo shoot."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "42d2e484-be6a-4fb7-afd7-0be22f6cd207",
       "word": "lip liner",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGlwIGxpbmVy&hash=a7b75e480e1b9ad601943c27e67dd284d89d2ad9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɪp laɪ.nɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlwIGxpbmVy&hash=a7b75e480e1b9ad601943c27e67dd284d89d2ad9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lip lai.nēr",
       "img": "https://cdn.langeek.co/photo/29866/original/?type=jpeg",
       "pronunciation": "lˈɪp lˈaɪnɚ",
       "senses": [
@@ -164,44 +259,89 @@
       ]
     },
     {
+      "id": "ba10748e-0352-4f79-9763-302c7fa3cd3d",
       "word": "lipstick",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGlwc3RpY2s&hash=4f699bbdd19ea993b304405805739c6c1d8a75e0&lang=en&cache-only=0",
-      "phonetic_text": "lɪpstɪk",
+      "phonetic_text": "lɪp.stɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlwc3RpY2s&hash=4f699bbdd19ea993b304405805739c6c1d8a75e0&lang=en&cache-only=0",
-      "phonetic_am_text": "lipstik",
+      "phonetic_am_text": "lip.stik",
       "img": "https://cdn.langeek.co/photo/51838/original/?type=jpeg",
       "pronunciation": "ˈɫɪpˌstɪk",
       "senses": [
         {
           "definition": "a waxy colored make-up that is worn on the lips",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She chose a bold red lipstick for a night out."
+            },
+            {
+              "cf": "",
+              "x": "The lipstick left a smooth, creamy finish on her lips."
+            },
+            {
+              "cf": "",
+              "x": "He noticed how her lipstick complemented her outfit beautifully."
+            },
+            {
+              "cf": "",
+              "x": "She always carries her favorite lipstick in her purse for touch-ups."
+            },
+            {
+              "cf": "",
+              "x": "She experimented with different lipstick shades to find her perfect match."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "58548f30-28d8-4e8b-9d85-ded19bfe4a3b",
       "word": "mascara",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFzY2FyYQ&hash=0143b8c10111dfa6cf7fc490b8b5f5996824b568&lang=en&cache-only=0",
-      "phonetic_text": "mæskɛrə",
+      "phonetic_text": "mæs.kɛ.rə",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFzY2FyYQ&hash=0143b8c10111dfa6cf7fc490b8b5f5996824b568&lang=en&cache-only=0",
-      "phonetic_am_text": "māskerē",
+      "phonetic_am_text": "mās.ke.rē",
       "img": "https://cdn.langeek.co/photo/22856/original/?type=jpeg",
       "pronunciation": "mæˈskɛɹə",
       "senses": [
         {
           "definition": "a black make-up used to lengthen or darken the eyelashes",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She applied mascara to make her eyes stand out during the event."
+            },
+            {
+              "cf": "",
+              "x": "The mascara gave her lashes a dramatic, fluttery look."
+            },
+            {
+              "cf": "",
+              "x": "He preferred waterproof mascara for its durability throughout the day."
+            },
+            {
+              "cf": "",
+              "x": "She used an eyelash curler before applying mascara for added lift."
+            },
+            {
+              "cf": "",
+              "x": "The makeup artist recommended a volumizing mascara for fuller lashes."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "3a53d92e-e1ff-42a4-80a3-f35ef0b51569",
       "word": "powder puff",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG93ZGVyIHB1ZmY&hash=7d2be76053f9eefd12dfdd847beb7d7761d0cbbe&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "paʊ.dɜr pəf",
       "phonetic_am": "https://tts.langeek.co/read?text=cG93ZGVyIHB1ZmY&hash=7d2be76053f9eefd12dfdd847beb7d7761d0cbbe&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "paoo.dēr pēf",
       "img": "https://cdn.langeek.co/photo/22842/original/?type=jpeg",
       "pronunciation": "pˈaʊdɚ pˈʌf",
       "senses": [
@@ -212,12 +352,13 @@
       ]
     },
     {
+      "id": "4cbc06ca-9429-4eca-97f5-a67728fb5d90",
       "word": "primer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJpbWVy&hash=ab1d4efc25e385191cf017aad1b6dede4ead8d8b&lang=en&cache-only=0",
-      "phonetic_text": "praɪmər",
+      "phonetic_text": "praɪ.mɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJpbWVy&hash=ab1d4efc25e385191cf017aad1b6dede4ead8d8b&lang=en&cache-only=0",
-      "phonetic_am_text": "praimēr",
+      "phonetic_am_text": "prai.mēr",
       "img": "",
       "pronunciation": "pɹaɪmɝ",
       "senses": [
@@ -228,44 +369,89 @@
       ]
     },
     {
+      "id": "e048e7a6-f320-4cb2-934f-4d2fb9316dc6",
       "word": "foundation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm91bmRhdGlvbg&hash=0c70a2e807e4bb778648712c2f084d4164a8a0fb&lang=en&cache-only=0",
-      "phonetic_text": "faʊndeɪʃən",
+      "phonetic_text": "faʊn.deɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm91bmRhdGlvbg&hash=0c70a2e807e4bb778648712c2f084d4164a8a0fb&lang=en&cache-only=0",
-      "phonetic_am_text": "fawndeishēn",
+      "phonetic_am_text": "faoon.dei.shēn",
       "img": "https://cdn.langeek.co/photo/22844/original/?type=jpeg",
       "pronunciation": "faʊnˈdeɪʃən",
       "senses": [
         {
           "definition": "a substance in the form of cream, powder, or liquid applied to facial skin to cover imperfections and prepare it for other cosmetics",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She applied a lightweight liquid foundation to achieve a natural-looking base for her makeup."
+            },
+            {
+              "cf": "",
+              "x": "The foundation cream provided full coverage, hiding acne scars and blemishes effectively."
+            },
+            {
+              "cf": "",
+              "x": "He used a mineral powder foundation for a matte finish that lasted all day."
+            },
+            {
+              "cf": "",
+              "x": "The makeup artist matched the foundation shade perfectly to her client's skin tone, ensuring a seamless blend."
+            },
+            {
+              "cf": "",
+              "x": "Her skincare routine included applying a moisturizing primer before the foundation for a flawless complexion."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0fab86ff-f200-4934-a59e-a40ec0bd9537",
       "word": "blush",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ymx1c2g&hash=56e5a13df95356d43e63cdcec77dd29f3f90c0cf&lang=en&cache-only=0",
-      "phonetic_text": "blʌʃ",
+      "phonetic_text": "bləʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=Ymx1c2g&hash=56e5a13df95356d43e63cdcec77dd29f3f90c0cf&lang=en&cache-only=0",
-      "phonetic_am_text": "blash",
+      "phonetic_am_text": "blēsh",
       "img": "https://cdn.langeek.co/photo/22830/original/?type=jpeg",
       "pronunciation": "ˈbɫəʃ",
       "senses": [
         {
           "definition": "the powder or cream that is put on the cheeks to make them look attractive by giving them color",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She applied a soft pink blush to brighten her complexion."
+            },
+            {
+              "cf": "",
+              "x": "He preferred a cream blush for a more dewy finish."
+            },
+            {
+              "cf": "",
+              "x": "The store carries a variety of blush shades to suit different skin tones."
+            },
+            {
+              "cf": "",
+              "x": "A light touch of blush can make a significant difference in a makeup look."
+            },
+            {
+              "cf": "",
+              "x": "The makeup artist used blush to enhance her natural features."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b6a1edb4-f845-45e5-a99a-f1cf6919cd11",
       "word": "cheek color",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hlZWsgY29sb3I&hash=16e3aad0cf47d0c5ccb1540f51f3497842a902dc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧi:k kʌ.lər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hlZWsgY29sb3I&hash=16e3aad0cf47d0c5ccb1540f51f3497842a902dc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chik ka.lēr",
       "img": "https://cdn.langeek.co/photo/22830/original/?type=jpeg",
       "pronunciation": "tʃiːk kʌlɚ",
       "senses": [
@@ -276,10 +462,11 @@
       ]
     },
     {
+      "id": "3e45ba7d-4ecb-47d0-a4cf-174eda411d8c",
       "word": "cc cream",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2MgY3JlYW0&hash=05c6a6e4c806a9b296d8292a65fdf216ab41806b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2MgY3JlYW0&hash=05c6a6e4c806a9b296d8292a65fdf216ab41806b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -292,10 +479,11 @@
       ]
     },
     {
+      "id": "d9d5cf38-70aa-44a8-b5d8-6f8ea2e07e0d",
       "word": "dd cream",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGQgY3JlYW0&hash=adfa59e838ee7f00ed2a5f9fb0e38b784b5a5aa4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGQgY3JlYW0&hash=adfa59e838ee7f00ed2a5f9fb0e38b784b5a5aa4&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -308,10 +496,11 @@
       ]
     },
     {
+      "id": "09cc9ecb-5e27-4b61-820a-fb3ab30fba63",
       "word": "bb cream",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmIgY3JlYW0&hash=22a2da42ff7b3225be067e00b74886dc5f4265d5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YmIgY3JlYW0&hash=22a2da42ff7b3225be067e00b74886dc5f4265d5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -324,12 +513,13 @@
       ]
     },
     {
+      "id": "3b599eaf-58dd-4ca6-b704-e9de2a266d4a",
       "word": "highlighter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGlnaGxpZ2h0ZXI&hash=8494dcf0fdf67e0e233de7fe54f906b4282b0328&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "haɪ.laɪ.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=aGlnaGxpZ2h0ZXI&hash=8494dcf0fdf67e0e233de7fe54f906b4282b0328&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hai.lai.tēr",
       "img": "https://cdn.langeek.co/photo/51906/original/?type=jpeg",
       "pronunciation": "hˈaɪlaɪɾɚ",
       "senses": [
@@ -340,12 +530,13 @@
       ]
     },
     {
+      "id": "9a0e0fe8-c28d-41d6-8403-c1635d5fdb10",
       "word": "setting spray",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2V0dGluZyBzcHJheQ&hash=de8f05b5790efc941a693b5c312cc4692b470f56&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛ.tɪng spreɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=c2V0dGluZyBzcHJheQ&hash=de8f05b5790efc941a693b5c312cc4692b470f56&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "se.ting sprei",
       "img": "",
       "pronunciation": "sɛɾɪŋ spɹeɪ",
       "senses": [
@@ -356,12 +547,13 @@
       ]
     },
     {
+      "id": "897ab0ff-f0e7-4d00-997b-d71ebff83b16",
       "word": "setting powder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2V0dGluZyBwb3dkZXI&hash=4d23d56a4ad550e2cc73a336a39926542f9708e3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛ.tɪng paʊ.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c2V0dGluZyBwb3dkZXI&hash=4d23d56a4ad550e2cc73a336a39926542f9708e3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "se.ting paoo.dēr",
       "img": "",
       "pronunciation": "sɛɾɪŋ paʊdɚ",
       "senses": [
@@ -372,12 +564,13 @@
       ]
     },
     {
+      "id": "c5e9064b-a1a7-4d83-ad99-8a8f6ccb4be0",
       "word": "bronzer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJvbnplcg&hash=3a977cd791f5b6716f72104bc64c055438b15456&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "brɑ:n.zər",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJvbnplcg&hash=3a977cd791f5b6716f72104bc64c055438b15456&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "braan.zēr",
       "img": "",
       "pronunciation": "bɹɑːnzɚ",
       "senses": [
@@ -388,14 +581,15 @@
       ]
     },
     {
+      "id": "d1bc9ca5-248f-4c44-83aa-853cb027c36a",
       "word": "scissors",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Npc3NvcnM&hash=330d3fe027d81455a7e407cd4902605c086cd9f5&lang=en&cache-only=0",
-      "phonetic_text": "sɪzərz",
+      "phonetic_text": "sɪrz",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Npc3NvcnM&hash=330d3fe027d81455a7e407cd4902605c086cd9f5&lang=en&cache-only=0",
-      "phonetic_am_text": "sizērz",
+      "phonetic_am_text": "sirz",
       "img": "https://cdn.langeek.co/photo/38789/original/scissors?type=jpeg",
-      "pronunciation": "ˈsɪzɝz",
+      "pronunciation": "ˈsɪzɚz",
       "senses": [
         {
           "definition": "a tool used to cut paper, cloth, etc. with two handles and two sharp edges, joined in the middle",
@@ -413,12 +607,13 @@
       ]
     },
     {
+      "id": "02a42bf3-6900-4ff0-a63a-e7c2f7851633",
       "word": "tweezers",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHdlZXplcnM&hash=f46a07516aacb332a7d4ee4d384c273c81db49c1&lang=en&cache-only=0",
-      "phonetic_text": "twi:zərz",
+      "phonetic_text": "twi.zɜrz",
       "phonetic_am": "https://tts.langeek.co/read?text=dHdlZXplcnM&hash=f46a07516aacb332a7d4ee4d384c273c81db49c1&lang=en&cache-only=0",
-      "phonetic_am_text": "tweezērz",
+      "phonetic_am_text": "tvi.zērz",
       "img": "https://cdn.langeek.co/photo/22939/original/?type=jpeg",
       "pronunciation": "ˈtwizɝz",
       "senses": [
@@ -442,12 +637,13 @@
       ]
     },
     {
+      "id": "0fbc6cd5-bf42-4d97-834a-8706c94cca19",
       "word": "eyelash curler",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXllbGFzaCBjdXJsZXI&hash=7110e7676d8a9a9081ffc94a2ca1f1bafe5cea15&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aɪ.læʃ kɜr.lɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXllbGFzaCBjdXJsZXI&hash=7110e7676d8a9a9081ffc94a2ca1f1bafe5cea15&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ai.lāsh kēr.lēr",
       "img": "https://cdn.langeek.co/photo/35043/original/?type=jpeg",
       "pronunciation": "aɪlæʃ kɜːlɚ",
       "senses": [
@@ -458,12 +654,13 @@
       ]
     },
     {
+      "id": "a4c2a216-91df-46a4-91b7-298d2e41bf0d",
       "word": "brush cleaner",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJ1c2ggY2xlYW5lcg&hash=850f85f0121e03ccfa022d2b69578429e31f0ba5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "brʌʃ kli.nər",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJ1c2ggY2xlYW5lcg&hash=850f85f0121e03ccfa022d2b69578429e31f0ba5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "brash kli.nēr",
       "img": "",
       "pronunciation": "bɹʌʃ kliːnɚ",
       "senses": [
@@ -474,12 +671,13 @@
       ]
     },
     {
+      "id": "3729c9ca-149d-49c8-8df2-1b1c7f2264da",
       "word": "cosmetic sharpener",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29zbWV0aWMgc2hhcnBlbmVy&hash=8cb6755e27b67561b3b8bea49cb78f8e31ed073a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑz.mɛ.tɪk ʃɑ:r.pə.nər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29zbWV0aWMgc2hhcnBlbmVy&hash=8cb6755e27b67561b3b8bea49cb78f8e31ed073a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaaz.me.tik shaar.pē.nēr",
       "img": "https://cdn.langeek.co/photo/35041/original/?type=jpeg",
       "pronunciation": "kɑːzmɛɾɪk ʃɑːɹpənɚ",
       "senses": [
@@ -490,12 +688,13 @@
       ]
     },
     {
+      "id": "452c6aa7-78a7-4d42-b1aa-12565956a618",
       "word": "makeup spatula",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFrZXVwIHNwYXR1bGE&hash=4dfbb28158ee5299c76a4a7149dcc4affe86a322&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "meɪ.kəp spæ.ʧə.lə",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFrZXVwIHNwYXR1bGE&hash=4dfbb28158ee5299c76a4a7149dcc4affe86a322&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mei.kēp spā.chē.lē",
       "img": "https://cdn.langeek.co/photo/35114/original/?type=jpeg",
       "pronunciation": "meɪkʌp spætʃələ",
       "senses": [
@@ -506,12 +705,13 @@
       ]
     },
     {
+      "id": "7d383ef6-7194-4807-b525-4f63957c1019",
       "word": "makeup mixing plate",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFrZXVwIG1peGluZyBwbGF0ZQ&hash=fdeb9075a41ecc4860f037af70e642946001fbaa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "meɪ.kəp mɪk.sɪng pleɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFrZXVwIG1peGluZyBwbGF0ZQ&hash=fdeb9075a41ecc4860f037af70e642946001fbaa&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mei.kēp mik.sing pleit",
       "img": "https://cdn.langeek.co/photo/35112/original/?type=jpeg",
       "pronunciation": "meɪkʌp mɪksɪŋ pleɪt",
       "senses": [
@@ -522,12 +722,13 @@
       ]
     },
     {
+      "id": "da880159-32b4-48a2-8f92-4e6a11069f6c",
       "word": "finishing powder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmluaXNoaW5nIHBvd2Rlcg&hash=702427d09c59d3209b88fa45eb9213028e2c04a4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɪ.nɪ.ʃɪng paʊ.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmluaXNoaW5nIHBvd2Rlcg&hash=702427d09c59d3209b88fa45eb9213028e2c04a4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fi.ni.shing paoo.dēr",
       "img": "",
       "pronunciation": "fɪnɪʃɪŋ paʊdɚ",
       "senses": [
@@ -538,10 +739,11 @@
       ]
     },
     {
+      "id": "e5990aaa-457d-4f3d-86e6-593cd5c7e152",
       "word": "spoolie brush",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3Bvb2xpZSBicnVzaA&hash=b40a8edf083e27abf4210b62a2cddad4d1dcb335&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=c3Bvb2xpZSBicnVzaA&hash=b40a8edf083e27abf4210b62a2cddad4d1dcb335&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/35122/original/?type=jpeg",
@@ -554,12 +756,13 @@
       ]
     },
     {
+      "id": "d46af46e-1fe6-404e-88dd-9d3dc7e17571",
       "word": "eyebrow pomade",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXllYnJvdyBwb21hZGU&hash=06d6267cad6211451bd2fc7b798ce11d0fea32d7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aɪ.braʊ pɑ:.meɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXllYnJvdyBwb21hZGU&hash=06d6267cad6211451bd2fc7b798ce11d0fea32d7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ai.braoo paa.meid",
       "img": "",
       "pronunciation": "aɪbɹaʊ pɑːmeɪd",
       "senses": [
@@ -570,12 +773,13 @@
       ]
     },
     {
+      "id": "b51b88c3-e769-4cf5-ac5d-23613032d2b3",
       "word": "makeup brush",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFrZXVwIGJydXNo&hash=b70f99725c7a0b882668588b3ddfad68bf1c77cc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "meɪ.kəp brʌʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFrZXVwIGJydXNo&hash=b70f99725c7a0b882668588b3ddfad68bf1c77cc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mei.kēp brash",
       "img": "",
       "pronunciation": "meɪkʌp bɹʌʃ",
       "senses": [
@@ -586,12 +790,13 @@
       ]
     },
     {
+      "id": "cb84e2fe-cc1c-42fb-8287-b282e0a4d1f6",
       "word": "makeup sponge",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFrZXVwIHNwb25nZQ&hash=e3d33d019eed383e194c97bbdba6732ca570673b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "meɪ.kəp spənʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFrZXVwIHNwb25nZQ&hash=e3d33d019eed383e194c97bbdba6732ca570673b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mei.kēp spēnj",
       "img": "",
       "pronunciation": "meɪkʌp spʌndʒ",
       "senses": [
@@ -602,12 +807,13 @@
       ]
     },
     {
+      "id": "0536837e-634b-4e1b-9bb3-46bd3fc59359",
       "word": "cotton ball",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y290dG9uIGJhbGw&hash=3ba402047bef314262f2232559abc7e6265647ef&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑ.tən bɔ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=Y290dG9uIGJhbGw&hash=3ba402047bef314262f2232559abc7e6265647ef&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaa.tēn bawl",
       "img": "",
       "pronunciation": "kɑːʔn̩ bɔːl",
       "senses": [
@@ -618,10 +824,11 @@
       ]
     },
     {
+      "id": "6e10f23b-4bfd-4781-9c2d-c7728f19a0fe",
       "word": "Beautyblender",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QmVhdXR5YmxlbmRlcg&hash=3ac28fe6fffc2adb7a4248a3604a3c0bbfcf45db&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QmVhdXR5YmxlbmRlcg&hash=3ac28fe6fffc2adb7a4248a3604a3c0bbfcf45db&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/35061/original/?type=jpeg",
@@ -634,12 +841,13 @@
       ]
     },
     {
+      "id": "d52b851e-ba13-44aa-8771-e52bfa024286",
       "word": "blush brush",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ymx1c2ggYnJ1c2g&hash=f0f3503d5e7d364000e9f776a9a501a2f865c08b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bləʃ brʌʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=Ymx1c2ggYnJ1c2g&hash=f0f3503d5e7d364000e9f776a9a501a2f865c08b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "blēsh brash",
       "img": "https://cdn.langeek.co/photo/35039/original/?type=jpeg",
       "pronunciation": "blʌʃ bɹʌʃ",
       "senses": [
@@ -650,12 +858,13 @@
       ]
     },
     {
+      "id": "518707c4-3088-4b38-b215-d8841dad3ca0",
       "word": "fan brush",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFuIGJydXNo&hash=3730c84c73e7c7b4d333e6e90efdda9b1778a3dd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fæn brʌʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFuIGJydXNo&hash=3730c84c73e7c7b4d333e6e90efdda9b1778a3dd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fān brash",
       "img": "https://cdn.langeek.co/photo/35100/original/?type=jpeg",
       "pronunciation": "fæn bɹʌʃ",
       "senses": [
@@ -666,12 +875,13 @@
       ]
     },
     {
+      "id": "92d006a6-e1f3-4991-a7d8-e337d1c3272f",
       "word": "bindi",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmluZGk&hash=e6afd87a7ae18139a852c5b40194ea323b2a03ce&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɪn.di",
       "phonetic_am": "https://tts.langeek.co/read?text=YmluZGk&hash=e6afd87a7ae18139a852c5b40194ea323b2a03ce&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bin.di",
       "img": "https://cdn.langeek.co/photo/35037/original/?type=jpeg",
       "pronunciation": "bɪndi",
       "senses": [
@@ -682,28 +892,47 @@
       ]
     },
     {
+      "id": "ed92cd05-0fe0-4ab8-856a-5c2c10e53066",
       "word": "compact",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29tcGFjdA&hash=659d1add19205700903d458d2e1efe986d272e12&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:mpækt",
+      "phonetic_text": "kɑm.pækt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tcGFjdA&hash=659d1add19205700903d458d2e1efe986d272e12&lang=en&cache-only=0",
-      "phonetic_am_text": "kaampākt",
+      "phonetic_am_text": "kaam.pākt",
       "img": "",
       "pronunciation": "ˈkɑmpækt/, /kəmˈpækt",
       "senses": [
         {
           "definition": "a small case designed to hold cosmetics, often featuring a mirror",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The makeup artist provided a travel-sized compact for quick touch-ups."
+            },
+            {
+              "cf": "",
+              "x": "His bag contained several essentials, including a sleek compact for emergencies."
+            },
+            {
+              "cf": "",
+              "x": "The compact included a built-in mirror, making it convenient for application."
+            },
+            {
+              "cf": "",
+              "x": "She prefers using a compact for its portability over traditional makeup containers."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "3a123d80-1a46-4093-84fb-9417f29ce9ff",
       "word": "greasepaint",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JlYXNlcGFpbnQ&hash=f62e2b65ccbc1f49309cb06477b94daf3e1a8b93&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gris.peɪnt",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JlYXNlcGFpbnQ&hash=f62e2b65ccbc1f49309cb06477b94daf3e1a8b93&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gris.peint",
       "img": "",
       "pronunciation": "ɡɹˈiːspeɪnt",
       "senses": [
@@ -714,12 +943,13 @@
       ]
     },
     {
+      "id": "b116e2d7-bf8d-4212-980f-2e8d0e432cd0",
       "word": "kajal",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2FqYWw&hash=2f19c54eabae65605accb26fb9b2d971786e6dcc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kæ.ʤəl",
       "phonetic_am": "https://tts.langeek.co/read?text=a2FqYWw&hash=2f19c54eabae65605accb26fb9b2d971786e6dcc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kā.jēl",
       "img": "",
       "pronunciation": "kædʒəl",
       "senses": [
@@ -730,12 +960,13 @@
       ]
     },
     {
+      "id": "392b4160-6ccd-4934-a294-0af2f98aaa5b",
       "word": "kohl",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a29obA&hash=827efc0523a9521b689980e236601267da275bc9&lang=en&cache-only=0",
       "phonetic_text": "koʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=a29obA&hash=827efc0523a9521b689980e236601267da275bc9&lang=en&cache-only=0",
-      "phonetic_am_text": "kowl",
+      "phonetic_am_text": "koool",
       "img": "",
       "pronunciation": "ˈkoʊɫ",
       "senses": [
@@ -746,12 +977,13 @@
       ]
     },
     {
+      "id": "b767dd0c-013c-4c43-867a-94686a566122",
       "word": "pancake",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFuY2FrZQ&hash=cba3d1feb86635172ce0796d97811dcf463b9737&lang=en&cache-only=0",
-      "phonetic_text": "pænkeɪk",
+      "phonetic_text": "pæn.keɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFuY2FrZQ&hash=cba3d1feb86635172ce0796d97811dcf463b9737&lang=en&cache-only=0",
-      "phonetic_am_text": "pānkeik",
+      "phonetic_am_text": "pān.keik",
       "img": "",
       "pronunciation": "pænkeɪk",
       "senses": [
@@ -762,10 +994,11 @@
       ]
     },
     {
+      "id": "098d21cd-3014-41ed-bde9-1addee6f0a45",
       "word": "rouge",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm91Z2U&hash=2573d85116f02e7d7c3fc0f959a04bba2cb3bf54&lang=en&cache-only=0",
-      "phonetic_text": "ru:ʒ",
+      "phonetic_text": "ruʒ",
       "phonetic_am": "https://tts.langeek.co/read?text=cm91Z2U&hash=2573d85116f02e7d7c3fc0f959a04bba2cb3bf54&lang=en&cache-only=0",
       "phonetic_am_text": "roozh",
       "img": "https://cdn.langeek.co/photo/22830/original/?type=jpeg",
@@ -778,6 +1011,7 @@
       ]
     },
     {
+      "id": "3c28755d-9738-43dd-a3b8-a93c525117d9",
       "word": "talc",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFsYw&hash=d940ed9fddd6b8ca3f9300b84698e2af98713b5c&lang=en&cache-only=0",
@@ -794,12 +1028,13 @@
       ]
     },
     {
+      "id": "fa19d7ad-84f1-4205-9de5-0bc070bb5199",
       "word": "talcum powder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFsY3VtIHBvd2Rlcg&hash=96ed40bd81b20e311c2cbef5590e9229f61ef1aa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tæl.kəm paʊ.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFsY3VtIHBvd2Rlcg&hash=96ed40bd81b20e311c2cbef5590e9229f61ef1aa&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tāl.kēm paoo.dēr",
       "img": "https://cdn.langeek.co/photo/30038/original/?type=jpeg",
       "pronunciation": "tˈælkəm pˈaʊdɚ",
       "senses": [
@@ -810,12 +1045,13 @@
       ]
     },
     {
+      "id": "2823e213-9edd-4ec2-b5d9-9570993c2836",
       "word": "fake eyelash",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFrZSBleWVsYXNo&hash=cd4d856ec7c87bd0d98662e070e288246c698030&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "feɪk aɪ.læʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFrZSBleWVsYXNo&hash=cd4d856ec7c87bd0d98662e070e288246c698030&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "feik ai.lāsh",
       "img": "https://cdn.langeek.co/photo/35098/original/?type=jpeg",
       "pronunciation": "feɪk aɪlæʃ",
       "senses": [
@@ -826,12 +1062,13 @@
       ]
     },
     {
+      "id": "b8be0e37-863d-4331-940b-bf30a09a4ed4",
       "word": "eyelash extension",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXllbGFzaCBleHRlbnNpb24&hash=c74980e1f0b4acf0df0c99c3a13850669b29a9f3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aɪ.læʃ ɪk.stɛn.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXllbGFzaCBleHRlbnNpb24&hash=c74980e1f0b4acf0df0c99c3a13850669b29a9f3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ai.lāsh ik.sten.shēn",
       "img": "",
       "pronunciation": "aɪlæʃ ɛkstɛnʃən",
       "senses": [
@@ -842,12 +1079,13 @@
       ]
     },
     {
+      "id": "84333051-5043-433a-b25c-3b6c554f3c2e",
       "word": "applicator",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXBwbGljYXRvcg&hash=f10af81768d4c1909a528b199722ed7ecc3013b4&lang=en&cache-only=0",
-      "phonetic_text": "æpləkeɪtər",
+      "phonetic_text": "æp.lə.keɪ.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YXBwbGljYXRvcg&hash=f10af81768d4c1909a528b199722ed7ecc3013b4&lang=en&cache-only=0",
-      "phonetic_am_text": "āplēkeitēr",
+      "phonetic_am_text": "āp.lē.kei.tēr",
       "img": "https://cdn.langeek.co/photo/35236/original/?type=jpeg",
       "pronunciation": "ˈæpɫəˌkeɪtɝ",
       "senses": [
@@ -858,12 +1096,13 @@
       ]
     },
     {
+      "id": "ea9a93f6-70bd-4f1a-b8bf-dc254d6f7dc3",
       "word": "makeup remover",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFrZXVwIHJlbW92ZXI&hash=fc0a9cbe516547c02014bb9efb248f5f7a55b586&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "meɪ.kəp rɪ.mu.vɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFrZXVwIHJlbW92ZXI&hash=fc0a9cbe516547c02014bb9efb248f5f7a55b586&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mei.kēp ri.moo.vēr",
       "img": "https://cdn.langeek.co/photo/29880/original/?type=jpeg",
       "pronunciation": "mˈeɪkʌp ɹɪmˈuːvɚ",
       "senses": [

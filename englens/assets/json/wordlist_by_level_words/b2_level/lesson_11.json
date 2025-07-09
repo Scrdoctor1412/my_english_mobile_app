@@ -1,17 +1,19 @@
 {
+  "id": "2e51658d-7de8-4de6-817d-af32f410dda7",
   "topic": "b2_level",
   "title": "Money",
   "lesson": "lesson_11",
   "word_list": [
     {
-      "word": "credit",
+      "id": "8bd67010-485c-4498-9000-d2dd900144fe",
+      "word": "to credit",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3JlZGl0&hash=5f388eb4b8d4b7face0677bf774e8ae1878f90d5&lang=en&cache-only=0",
-      "phonetic_text": "krɛdət",
+      "phonetic_text": "krɛ.dət",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3JlZGl0&hash=5f388eb4b8d4b7face0677bf774e8ae1878f90d5&lang=en&cache-only=0",
-      "phonetic_am_text": "kredēt",
+      "phonetic_am_text": "kre.dēt",
       "img": "",
-      "pronunciation": "ˈkɹɛdət/, /ˈkɹɛdɪt",
+      "pronunciation": "ˈkrɛdɪt",
       "senses": [
         {
           "definition": "to add a sum of money to a bank account",
@@ -41,12 +43,13 @@
       ]
     },
     {
+      "id": "eefeceb6-49da-4565-856b-6cf35658748f",
       "word": "economy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWNvbm9teQ&hash=ce054be3555a174006bbf39902d3c4fb940712f5&lang=en&cache-only=0",
-      "phonetic_text": "ɪkɑ:nəmi",
+      "phonetic_text": "i.kɑ.nə.mi",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWNvbm9teQ&hash=ce054be3555a174006bbf39902d3c4fb940712f5&lang=en&cache-only=0",
-      "phonetic_am_text": "ikaanēmi",
+      "phonetic_am_text": "i.kaa.nē.mi",
       "img": "",
       "pronunciation": "iˈkɑnəmi/, /ɪˈkɑnəmi",
       "senses": [
@@ -78,12 +81,13 @@
       ]
     },
     {
+      "id": "9932cb13-a003-4fb2-a09d-96a52a5d5c17",
       "word": "economic",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZWNvbm9taWM&hash=c13e271905f05185d7dde4418318bb75a47f0591&lang=en&cache-only=0",
-      "phonetic_text": "ɛkənɑ:mɪk",
+      "phonetic_text": "ɛ.kə.nɑ.mɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWNvbm9taWM&hash=c13e271905f05185d7dde4418318bb75a47f0591&lang=en&cache-only=0",
-      "phonetic_am_text": "ekēnaamik",
+      "phonetic_am_text": "e.kē.naa.mik",
       "img": "https://cdn.langeek.co/photo/28359/original/?type=jpeg",
       "pronunciation": "ˌɛkəˈnɑmɪk/, /ˌikəˈnɑmɪk",
       "senses": [
@@ -115,14 +119,15 @@
       ]
     },
     {
+      "id": "e0135cad-1665-4540-9b1a-c9f0fa9f66fa",
       "word": "accounting",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWNjb3VudGluZw&hash=2872b850c9eef5ec485a28fadd2bd5ad782c1c1f&lang=en&cache-only=0",
-      "phonetic_text": "əkaʊntɪng",
+      "phonetic_text": "ə.kaʊn.ɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=YWNjb3VudGluZw&hash=2872b850c9eef5ec485a28fadd2bd5ad782c1c1f&lang=en&cache-only=0",
-      "phonetic_am_text": "ēkawnting",
+      "phonetic_am_text": "ē.kaoon.ing",
       "img": "",
-      "pronunciation": "əˈkaʊnɪŋ/, /əˈkaʊntɪŋ",
+      "pronunciation": "əˈkaʊntɪŋ",
       "senses": [
         {
           "definition": "a systematic process of recording, summarizing, analyzing, and reporting financial transactions and information of an organization or individual",
@@ -148,12 +153,13 @@
       ]
     },
     {
+      "id": "9a44e16e-d876-4b36-8d6f-720f38602c1a",
       "word": "asset",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXNzZXQ&hash=7fe32a92adc3761cf56f9911c49d6dc79f99f47d&lang=en&cache-only=0",
-      "phonetic_text": "æsɛt",
+      "phonetic_text": "æ.sɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=YXNzZXQ&hash=7fe32a92adc3761cf56f9911c49d6dc79f99f47d&lang=en&cache-only=0",
-      "phonetic_am_text": "āset",
+      "phonetic_am_text": "ā.set",
       "img": "",
       "pronunciation": "ˈæˌsɛt",
       "senses": [
@@ -177,12 +183,13 @@
       ]
     },
     {
+      "id": "118bf28d-abdc-4afb-af89-dc76ed6671ab",
       "word": "budget",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVkZ2V0&hash=d4a97d7dce87c996f8ba0bee600976bc3ee3d8c7&lang=en&cache-only=0",
-      "phonetic_text": "bʌʤɪt",
+      "phonetic_text": "bəd.gɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVkZ2V0&hash=d4a97d7dce87c996f8ba0bee600976bc3ee3d8c7&lang=en&cache-only=0",
-      "phonetic_am_text": "bajit",
+      "phonetic_am_text": "bēd.get",
       "img": "https://cdn.langeek.co/photo/23041/original/?type=jpeg",
       "pronunciation": "ˈbʌdʒɪt",
       "senses": [
@@ -214,12 +221,13 @@
       ]
     },
     {
+      "id": "1ff5f30f-ed4d-460a-8cb7-b0f476bad34a",
       "word": "capital",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FwaXRhbA&hash=e0c39f90192b446763a1c68dddf1efdbad42a8d1&lang=en&cache-only=0",
-      "phonetic_text": "kæpətəl",
+      "phonetic_text": "kæ.pə.təl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FwaXRhbA&hash=e0c39f90192b446763a1c68dddf1efdbad42a8d1&lang=en&cache-only=0",
-      "phonetic_am_text": "kāpētēl",
+      "phonetic_am_text": "kā.pē.tēl",
       "img": "",
       "pronunciation": "ˈkæpətəɫ/, /ˈkæpɪtəɫ",
       "senses": [
@@ -251,12 +259,13 @@
       ]
     },
     {
+      "id": "7f349738-7721-4b14-a28d-5ba6b05bee1b",
       "word": "debit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGViaXQ&hash=b1a452960a6f1620b8e7093dc48638145d34965e&lang=en&cache-only=0",
-      "phonetic_text": "dɛbɪt",
+      "phonetic_text": "dɛ.bɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGViaXQ&hash=b1a452960a6f1620b8e7093dc48638145d34965e&lang=en&cache-only=0",
-      "phonetic_am_text": "debit",
+      "phonetic_am_text": "de.bit",
       "img": "",
       "pronunciation": "ˈdɛbɪt",
       "senses": [
@@ -288,14 +297,15 @@
       ]
     },
     {
+      "id": "78ae1b11-276d-4986-8b04-77da985803ae",
       "word": "finance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmluYW5jZQ&hash=0f8a61986750000926989be31567ce26e53a923a&lang=en&cache-only=0",
-      "phonetic_text": "fənæns",
+      "phonetic_text": "faɪ.næns",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmluYW5jZQ&hash=0f8a61986750000926989be31567ce26e53a923a&lang=en&cache-only=0",
-      "phonetic_am_text": "fēnāns",
+      "phonetic_am_text": "fai.nāns",
       "img": "",
-      "pronunciation": "ˈfaɪˌnæns/, /fəˈnæns/, /fɪˈnæns",
+      "pronunciation": "ˈfaɪnæns/ , /fɪˈnæns",
       "senses": [
         {
           "definition": "the act of managing large sums of money, especially by governments or corporations",
@@ -321,12 +331,13 @@
       ]
     },
     {
+      "id": "efe9d60f-a54c-4391-923f-954f9149e093",
       "word": "investment",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW52ZXN0bWVudA&hash=65bf022df41fd51da2d84399542032f2620389d5&lang=en&cache-only=0",
-      "phonetic_text": "ɪnvɛstmənt",
+      "phonetic_text": "ɪn.vɛs.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=aW52ZXN0bWVudA&hash=65bf022df41fd51da2d84399542032f2620389d5&lang=en&cache-only=0",
-      "phonetic_am_text": "investmēnt",
+      "phonetic_am_text": "in.ves.mēnt",
       "img": "https://cdn.langeek.co/photo/27768/original/?type=jpeg",
       "pronunciation": "ˌɪnˈvɛsmənt/, /ˌɪnˈvɛstmənt",
       "senses": [
@@ -358,12 +369,13 @@
       ]
     },
     {
+      "id": "2ba26425-5056-4aad-b4e9-94b21f9a2874",
       "word": "financing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmluYW5jaW5n&hash=e898212048cfcf40aa2cafc94c2c2c15e984a1c4&lang=en&cache-only=0",
-      "phonetic_text": "fənænsɪng",
+      "phonetic_text": "faɪ.næn.sɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmluYW5jaW5n&hash=e898212048cfcf40aa2cafc94c2c2c15e984a1c4&lang=en&cache-only=0",
-      "phonetic_am_text": "fēnānsing",
+      "phonetic_am_text": "fai.nān.sing",
       "img": "",
       "pronunciation": "faɪˈnænsɪŋ/, /fəˈnænsɪŋ/, /fɪˈnænsɪŋ",
       "senses": [
@@ -391,12 +403,13 @@
       ]
     },
     {
+      "id": "59dfa3fb-a79d-4758-b844-60d6dbb0600e",
       "word": "borrowing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9ycm93aW5n&hash=186b0a6c38647fcff685c0beecffe420402c7308&lang=en&cache-only=0",
-      "phonetic_text": "bɑ:roʊɪng",
+      "phonetic_text": "bɑ.roʊɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9ycm93aW5n&hash=186b0a6c38647fcff685c0beecffe420402c7308&lang=en&cache-only=0",
-      "phonetic_am_text": "baarowing",
+      "phonetic_am_text": "baa.roooing",
       "img": "",
       "pronunciation": "ˈbɑɹoʊɪŋ",
       "senses": [
@@ -416,6 +429,7 @@
       ]
     },
     {
+      "id": "4357e879-e9b4-4f36-8d50-58e46610c526",
       "word": "debt",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVidA&hash=6fa55b4cc2d7441f93fb9ba095c536812988f5b5&lang=en&cache-only=0",
@@ -423,7 +437,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVidA&hash=6fa55b4cc2d7441f93fb9ba095c536812988f5b5&lang=en&cache-only=0",
       "phonetic_am_text": "det",
       "img": "https://cdn.langeek.co/photo/18663/original/debt?type=jpeg",
-      "pronunciation": "ˈdɛt",
+      "pronunciation": "dɛt",
       "senses": [
         {
           "definition": "the situation of owing money, usually when it is not easy to pay it back",
@@ -449,6 +463,7 @@
       ]
     },
     {
+      "id": "1902d770-b791-47f7-8be7-d16ddffbdc6f",
       "word": "grant",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JhbnQ&hash=96d31a94c456fc7603bee2ef81fe6e0cff669199&lang=en&cache-only=0",
@@ -486,12 +501,13 @@
       ]
     },
     {
+      "id": "4a760452-4e5a-4a07-a591-9c77b7aca2d1",
       "word": "loan",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9hbg&hash=1d58fe903eedb20a60367fdc7b5cea890333981e&lang=en&cache-only=0",
       "phonetic_text": "loʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9hbg&hash=1d58fe903eedb20a60367fdc7b5cea890333981e&lang=en&cache-only=0",
-      "phonetic_am_text": "lown",
+      "phonetic_am_text": "looon",
       "img": "https://cdn.langeek.co/photo/19536/original/lend?type=jpeg",
       "pronunciation": "ˈɫoʊn",
       "senses": [
@@ -519,12 +535,13 @@
       ]
     },
     {
-      "word": "possess",
+      "id": "eb975308-2352-4bcc-8b41-fbae5bc8ff32",
+      "word": "to possess",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcG9zc2Vzcw&hash=93b82ee89c9d4dfa91decb9bae77f9094e230a34&lang=en&cache-only=0",
-      "phonetic_text": "pəzɛs",
+      "phonetic_text": "ps",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcG9zc2Vzcw&hash=93b82ee89c9d4dfa91decb9bae77f9094e230a34&lang=en&cache-only=0",
-      "phonetic_am_text": "pēzes",
+      "phonetic_am_text": "ps",
       "img": "https://cdn.langeek.co/photo/48601/original/have?type=jpeg",
       "pronunciation": "pəˈzɛs",
       "senses": [
@@ -552,12 +569,13 @@
       ]
     },
     {
+      "id": "40759846-ed0b-4df3-926a-3968fe70a484",
       "word": "distribution",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzdHJpYnV0aW9u&hash=8fb826bec33530a138c77301f8ffb31966bfea50&lang=en&cache-only=0",
-      "phonetic_text": "dɪstrəbju:ʃən",
+      "phonetic_text": "dɪst.rə.bju.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzdHJpYnV0aW9u&hash=8fb826bec33530a138c77301f8ffb31966bfea50&lang=en&cache-only=0",
-      "phonetic_am_text": "distrēbyooshēn",
+      "phonetic_am_text": "dist.rē.byoo.shēn",
       "img": "",
       "pronunciation": "ˌdɪstɹəbˈjuʃən",
       "senses": [
@@ -589,12 +607,13 @@
       ]
     },
     {
+      "id": "24a4f852-a2f3-4f35-9e7b-42bdbea60e6f",
       "word": "inflation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5mbGF0aW9u&hash=36b396070bf24317e54ed96e4d67372f430423bc&lang=en&cache-only=0",
-      "phonetic_text": "ɪnfleɪʃən",
+      "phonetic_text": "ɪnf.leɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5mbGF0aW9u&hash=36b396070bf24317e54ed96e4d67372f430423bc&lang=en&cache-only=0",
-      "phonetic_am_text": "infleishēn",
+      "phonetic_am_text": "inf.lei.shēn",
       "img": "",
       "pronunciation": "ˌɪnˈfɫeɪʃən",
       "senses": [
@@ -626,14 +645,15 @@
       ]
     },
     {
+      "id": "c01fc580-3c52-478a-b85e-b98cc971aa08",
       "word": "welfare",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2VsZmFyZQ&hash=1341ff2ebe67f337af1dee6faa0ad611a46f4e0b&lang=en&cache-only=0",
-      "phonetic_text": "wɛlfɛr",
+      "phonetic_text": "wɛl.fɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=d2VsZmFyZQ&hash=1341ff2ebe67f337af1dee6faa0ad611a46f4e0b&lang=en&cache-only=0",
-      "phonetic_am_text": "welfer",
+      "phonetic_am_text": "vel.fer",
       "img": "",
-      "pronunciation": "ˈwɛɫˌfɛɹ",
+      "pronunciation": "ˈwɛlˌfɛr",
       "senses": [
         {
           "definition": "a financial aid provided by the government for people who are sick, unemployed, etc.",
@@ -663,12 +683,13 @@
       ]
     },
     {
+      "id": "3664d8dc-b6b6-4e08-b705-695bc3e8d877",
       "word": "profit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvZml0&hash=7bbec8c6d94ddc68da952473b4913454e8dc99bb&lang=en&cache-only=0",
-      "phonetic_text": "prɑ:fət",
+      "phonetic_text": "prɑ.fət",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvZml0&hash=7bbec8c6d94ddc68da952473b4913454e8dc99bb&lang=en&cache-only=0",
-      "phonetic_am_text": "praafēt",
+      "phonetic_am_text": "praa.fēt",
       "img": "",
       "pronunciation": "ˈpɹɑfət/, /ˈpɹɑfɪt",
       "senses": [
@@ -700,12 +721,13 @@
       ]
     },
     {
+      "id": "b5f979ba-ac4c-419e-9494-797bbe809143",
       "word": "standard of living",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=c3RhbmRhcmQgb2YgbGl2aW5n&hash=f009547aeb22a1874226f8f372ec0504890e5ced&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stæn.dɜrd ʌv lɪ.vɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RhbmRhcmQgb2YgbGl2aW5n&hash=f009547aeb22a1874226f8f372ec0504890e5ced&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "stān.dērd av li.ving",
       "img": "",
       "pronunciation": "stˈændɚd ʌv lˈɪvɪŋ",
       "senses": [
@@ -737,14 +759,15 @@
       ]
     },
     {
+      "id": "a68f957e-854b-48cc-9837-903a51b084fc",
       "word": "balance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFsYW5jZQ&hash=27eaaffe8e5956b0cfeda893c0c63ae7a12f614a&lang=en&cache-only=0",
-      "phonetic_text": "bæləns",
+      "phonetic_text": "bæ.ləns",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFsYW5jZQ&hash=27eaaffe8e5956b0cfeda893c0c63ae7a12f614a&lang=en&cache-only=0",
-      "phonetic_am_text": "bālēns",
+      "phonetic_am_text": "bā.lēns",
       "img": "",
-      "pronunciation": "ˈbæɫəns",
+      "pronunciation": "ˈbæləns",
       "senses": [
         {
           "definition": "the number showing the difference between the debit and credit sums of an account",
@@ -766,12 +789,13 @@
       ]
     },
     {
+      "id": "95a13b43-07eb-4389-a9db-34dfe6dbda38",
       "word": "bank statement",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFuayBzdGF0ZW1lbnQ&hash=e2c5613fe5adbf64c03a333582f07ba425947bf7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bænk steɪt.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFuayBzdGF0ZW1lbnQ&hash=e2c5613fe5adbf64c03a333582f07ba425947bf7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bānk steit.mēnt",
       "img": "",
       "pronunciation": "bˈæŋk stˈeɪtmənt",
       "senses": [
@@ -803,12 +827,13 @@
       ]
     },
     {
+      "id": "004fd5f8-b36c-47cc-b890-2c6b560929aa",
       "word": "collapse",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29sbGFwc2U&hash=a1da38f945d9f8c357ea07009e9f34f65fe1fef7&lang=en&cache-only=0",
-      "phonetic_text": "kəlæps",
+      "phonetic_text": "kə.læps",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29sbGFwc2U&hash=a1da38f945d9f8c357ea07009e9f34f65fe1fef7&lang=en&cache-only=0",
-      "phonetic_am_text": "kēlāps",
+      "phonetic_am_text": "kē.lāps",
       "img": "",
       "pronunciation": "kəˈɫæps",
       "senses": [
@@ -840,13 +865,14 @@
       ]
     },
     {
-      "word": "collapse",
+      "id": "c991440a-d44d-4f8d-a67b-eab4d05328eb",
+      "word": "to collapse",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29sbGFwc2U&hash=153ba93d5ee40ef42f3aa93443945e60644386a0&lang=en&cache-only=0",
-      "phonetic_text": "kəlæps",
+      "phonetic_text": "kə.læps",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29sbGFwc2U&hash=153ba93d5ee40ef42f3aa93443945e60644386a0&lang=en&cache-only=0",
-      "phonetic_am_text": "kēlāps",
-      "img": "https://cdn.langeek.co/photo/22943/original/?type=jpeg",
+      "phonetic_am_text": "kē.lāps",
+      "img": "https://cdn.langeek.co/photo/61472/original/?type=jpeg",
       "pronunciation": "kəˈɫæps",
       "senses": [
         {
@@ -877,14 +903,15 @@
       ]
     },
     {
+      "id": "8656dfd5-6567-41b9-ab86-70310f9cd906",
       "word": "decrease",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVjcmVhc2U&hash=f3d9afe962bb15afe2cba8bc80f7cf369d273fc3&lang=en&cache-only=0",
-      "phonetic_text": "dɪkri:s",
+      "phonetic_text": "dik.ris",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVjcmVhc2U&hash=f3d9afe962bb15afe2cba8bc80f7cf369d273fc3&lang=en&cache-only=0",
-      "phonetic_am_text": "dikrees",
+      "phonetic_am_text": "dik.ris",
       "img": "https://cdn.langeek.co/photo/27794/original/?type=jpeg",
-      "pronunciation": "ˈdiˌkɹis/, /dɪˈkɹis",
+      "pronunciation": "dɪˈkriːs",
       "senses": [
         {
           "definition": "the amount by which something becomes less or smaller",
@@ -910,12 +937,13 @@
       ]
     },
     {
+      "id": "ab256091-bd6f-4691-97e0-a080463f8436",
       "word": "loss",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9zcw&hash=9d318fc84de98024e7f23d853dffcb64e4fb5d22&lang=en&cache-only=0",
-      "phonetic_text": "lɔ:s",
+      "phonetic_text": "lɔs",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9zcw&hash=9d318fc84de98024e7f23d853dffcb64e4fb5d22&lang=en&cache-only=0",
-      "phonetic_am_text": "laaws",
+      "phonetic_am_text": "laws",
       "img": "",
       "pronunciation": "ˈɫɔs",
       "senses": [
@@ -943,13 +971,14 @@
       ]
     },
     {
+      "id": "0a0e6429-32ea-4294-8f45-5e3c8d791eb1",
       "word": "analyst",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW5hbHlzdA&hash=deecd51f2ba93f36fe52944d2c70c94614db724e&lang=en&cache-only=0",
-      "phonetic_text": "ænəlɪst",
+      "phonetic_text": "æ.nə.lɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=YW5hbHlzdA&hash=deecd51f2ba93f36fe52944d2c70c94614db724e&lang=en&cache-only=0",
-      "phonetic_am_text": "ānēlist",
-      "img": "https://cdn.langeek.co/photo/22564/original/?type=jpeg",
+      "phonetic_am_text": "ā.nē.list",
+      "img": "https://cdn.langeek.co/photo/61044/original/?type=jpeg",
       "pronunciation": "ˈænəɫɪst",
       "senses": [
         {
@@ -957,19 +986,28 @@
           "examples": [
             {
               "cf": "",
+              "x": "The market analyst predicted a surge in stock prices based on recent economic indicators."
+            },
+            {
+              "cf": "",
               "x": "As a sports analyst, she dissected each game's play, offering viewers deeper insights into the strategies employed."
+            },
+            {
+              "cf": "",
+              "x": "Market analysts study consumer trends and competitor strategies to advise companies on marketing strategies."
             }
           ]
         }
       ]
     },
     {
+      "id": "4bbb407e-35a2-48ca-9860-11ba19c3fc5e",
       "word": "banker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFua2Vy&hash=7a68e352547087d65033efd510a3ca836678803e&lang=en&cache-only=0",
-      "phonetic_text": "bænkər",
+      "phonetic_text": "bæn.kɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFua2Vy&hash=7a68e352547087d65033efd510a3ca836678803e&lang=en&cache-only=0",
-      "phonetic_am_text": "bānkēr",
+      "phonetic_am_text": "bān.kēr",
       "img": "https://cdn.langeek.co/photo/50663/original/?type=jpeg",
       "pronunciation": "ˈbæŋkɝ",
       "senses": [
@@ -1001,14 +1039,15 @@
       ]
     },
     {
-      "word": "price",
+      "id": "5a1a9745-873c-400a-859e-f5b020eb07b9",
+      "word": "to price",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJpY2U&hash=f2cf1570f31080e0474f541561dd4ed4a9654597&lang=en&cache-only=0",
       "phonetic_text": "praɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJpY2U&hash=f2cf1570f31080e0474f541561dd4ed4a9654597&lang=en&cache-only=0",
       "phonetic_am_text": "prais",
-      "img": "",
-      "pronunciation": "ˈpɹaɪs",
+      "img": "https://cdn.langeek.co/photo/60047/original/?type=jpeg",
+      "pronunciation": "praɪs",
       "senses": [
         {
           "definition": "to set an amount that is needed as payment for a product or a service",
@@ -1038,12 +1077,13 @@
       ]
     },
     {
-      "word": "purchase",
+      "id": "2ee2f422-4be2-484e-9191-efe9fb2fd1e0",
+      "word": "to purchase",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHVyY2hhc2U&hash=1eae43aaaf662b5eab93d26e343b889d961e0a3c&lang=en&cache-only=0",
-      "phonetic_text": "pɜrʧəs",
+      "phonetic_text": "pɜr.ʧəs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHVyY2hhc2U&hash=1eae43aaaf662b5eab93d26e343b889d961e0a3c&lang=en&cache-only=0",
-      "phonetic_am_text": "pērchēs",
+      "phonetic_am_text": "pēr.chēs",
       "img": "https://cdn.langeek.co/photo/48543/original/buy?type=jpeg",
       "pronunciation": "ˈpɝtʃəs",
       "senses": [
@@ -1075,6 +1115,7 @@
       ]
     },
     {
+      "id": "566ce544-92ae-4faf-8d1d-dd033f66b1e3",
       "word": "rate",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmF0ZQ&hash=deda367dfd54b7d014a80d15a9a5086c72f90527&lang=en&cache-only=0",
@@ -1108,12 +1149,13 @@
       ]
     },
     {
-      "word": "rip off",
+      "id": "80594e5f-c761-4146-a757-e841fcc887d6",
+      "word": "to rip off",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmlwIG9mZg&hash=04eb7078cabb7ef05fdf08e4a78c9f29ceca62d8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɪp ɑf",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmlwIG9mZg&hash=04eb7078cabb7ef05fdf08e4a78c9f29ceca62d8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rip aaf",
       "img": "https://cdn.langeek.co/photo/59216/original/?type=jpeg",
       "pronunciation": "ɹˈɪp ˈɔf",
       "senses": [
@@ -1133,12 +1175,13 @@
       ]
     },
     {
+      "id": "d44708d5-5b9e-4c02-b5ba-2735a11a8ac5",
       "word": "rip-off",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmlwLW9mZg&hash=62bb0dcd3db18a58c773a3d5d1ed8205a6a41e06&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɪp-ɑf",
       "phonetic_am": "https://tts.langeek.co/read?text=cmlwLW9mZg&hash=62bb0dcd3db18a58c773a3d5d1ed8205a6a41e06&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rip-aaf",
       "img": "https://cdn.langeek.co/photo/28329/original/expensive?type=jpeg",
       "pronunciation": "ɹˈɪpˈɔf",
       "senses": [
@@ -1170,14 +1213,15 @@
       ]
     },
     {
+      "id": "6ab43de3-2aaa-41e9-a974-2ba9c902e013",
       "word": "bull",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVsbA&hash=3b62dc9fcab682ee86b24aa98b3571c0f21c5f09&lang=en&cache-only=0",
       "phonetic_text": "bʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVsbA&hash=3b62dc9fcab682ee86b24aa98b3571c0f21c5f09&lang=en&cache-only=0",
-      "phonetic_am_text": "bul",
+      "phonetic_am_text": "bool",
       "img": "",
-      "pronunciation": "ˈbʊɫ",
+      "pronunciation": "bʊl",
       "senses": [
         {
           "definition": "someone who buys or holds a certain asset or market expecting that their prices will increase, allowing them to sell at a profit",
@@ -1203,6 +1247,7 @@
       ]
     },
     {
+      "id": "11006157-1af3-4309-aef7-a0f5e9729b1d",
       "word": "bear",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVhcg&hash=93319776de5f090eeb7a179bc36710dd7729ec1f&lang=en&cache-only=0",
@@ -1232,12 +1277,13 @@
       ]
     },
     {
-      "word": "run out",
+      "id": "e2b11f66-70e4-4078-aa31-d717fc44b55b",
+      "word": "to run out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcnVuIG91dA&hash=34a7aa04d0d40eeec029192a0209d2e0ccb31994&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rʌn aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcnVuIG91dA&hash=34a7aa04d0d40eeec029192a0209d2e0ccb31994&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ran aoot",
       "img": "",
       "pronunciation": "ɹˈʌn ˈaʊt",
       "senses": [
@@ -1248,12 +1294,13 @@
       ]
     },
     {
+      "id": "49c6d656-bb94-42df-b89c-58555ed9fc3a",
       "word": "automated teller machine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXV0b21hdGVkIHRlbGxlciBtYWNoaW5l&hash=283ebd15f1dab0ca0311dd11d8f2a597695ae4e4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɔ.tə.meɪ.tɪd tɛ.lɜr mə.ʃin",
       "phonetic_am": "https://tts.langeek.co/read?text=YXV0b21hdGVkIHRlbGxlciBtYWNoaW5l&hash=283ebd15f1dab0ca0311dd11d8f2a597695ae4e4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aw.tē.mei.tid te.lēr mē.shin",
       "img": "https://cdn.langeek.co/photo/29717/original/?type=jpeg",
       "pronunciation": "ˌɔːɾəmˈæɾɪk tˈɛlɚ məʃˈiːn",
       "senses": [
@@ -1269,12 +1316,13 @@
       ]
     },
     {
+      "id": "db82d875-1178-4024-a1ea-1539d06fb9b0",
       "word": "refund",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVmdW5k&hash=c784e96691c468ab5ab3c5c5d08741ded89121d3&lang=en&cache-only=0",
-      "phonetic_text": "rɪfʌnd",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVmdW5k&hash=c784e96691c468ab5ab3c5c5d08741ded89121d3&lang=en&cache-only=0",
-      "phonetic_am_text": "rifand",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˈɹiˌfənd/, /ɹɪˈfənd",
       "senses": [

@@ -1,15 +1,17 @@
 {
+  "id": "11f5c595-76b6-45af-8557-384b0aa1da40",
   "topic": "land_transportation",
   "title": "Vehicle Maintenance and Restoration",
   "lesson": "lesson_22",
   "word_list": [
     {
+      "id": "7d5781e8-3191-4f74-a55e-f33bedf38b5c",
       "word": "breakdown",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJlYWtkb3du&hash=96a90709df2c9647275ed75e9154d8b10b9245ac&lang=en&cache-only=0",
-      "phonetic_text": "breɪkdaʊn",
+      "phonetic_text": "breɪk.daʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJlYWtkb3du&hash=96a90709df2c9647275ed75e9154d8b10b9245ac&lang=en&cache-only=0",
-      "phonetic_am_text": "breikdawn",
+      "phonetic_am_text": "breik.daoon",
       "img": "https://cdn.langeek.co/photo/49832/original/?type=jpeg",
       "pronunciation": "ˈbɹeɪkˌdaʊn",
       "senses": [
@@ -41,12 +43,13 @@
       ]
     },
     {
-      "word": "break down",
+      "id": "241ceb4a-f171-46b6-9542-756e915ca0a9",
+      "word": "to break down",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJlYWsgZG93bg&hash=bdc38ed33ff810f44feaab963d3c0e27916a0565&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "breɪk daʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJlYWsgZG93bg&hash=bdc38ed33ff810f44feaab963d3c0e27916a0565&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "breik daoon",
       "img": "https://cdn.langeek.co/photo/49832/original/?type=jpeg",
       "pronunciation": "bɹˈeɪk dˈaʊn",
       "senses": [
@@ -78,12 +81,13 @@
       ]
     },
     {
+      "id": "d1efad13-6837-43d0-ae68-eed1129220fd",
       "word": "backfire",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFja2ZpcmU&hash=bdd9f6056e1564b43616c7bd1ee042180323b901&lang=en&cache-only=0",
-      "phonetic_text": "bækfaɪr",
+      "phonetic_text": "bæk.faɪər",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFja2ZpcmU&hash=bdd9f6056e1564b43616c7bd1ee042180323b901&lang=en&cache-only=0",
-      "phonetic_am_text": "bākfair",
+      "phonetic_am_text": "bāk.faiēr",
       "img": "",
       "pronunciation": "ˈbækˌfaɪɹ",
       "senses": [
@@ -115,51 +119,32 @@
       ]
     },
     {
-      "word": "misfire",
+      "id": "854c9d8a-0cc7-474a-8633-155a5df59373",
+      "word": "to misfire",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWlzZmlyZQ&hash=28fe2c50eb28b62c2c5fb0874085237019ec3db4&lang=en&cache-only=0",
-      "phonetic_text": "mɪsfaɪər",
+      "phonetic_text": "mɪs.faɪər",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWlzZmlyZQ&hash=28fe2c50eb28b62c2c5fb0874085237019ec3db4&lang=en&cache-only=0",
-      "phonetic_am_text": "misfaiēr",
+      "phonetic_am_text": "mis.faiēr",
       "img": "",
       "pronunciation": "mɪsˈfaɪɝ",
       "senses": [
         {
           "definition": "(of a vehicle or engine) to fail to ignite properly or skip a beat during operation",
-          "examples": [
-            {
-              "cf": "",
-              "x": "My car misfires occasionally, especially when it's cold outside."
-            },
-            {
-              "cf": "",
-              "x": "The engine misfires if I don't maintain it regularly."
-            },
-            {
-              "cf": "",
-              "x": "The mechanic is fixing the issue that causes the engine to misfire."
-            },
-            {
-              "cf": "",
-              "x": "Last week, my motorcycle misfired on the way to work, causing me to be late."
-            },
-            {
-              "cf": "",
-              "x": "While I was driving home yesterday, the engine was misfiring continuously."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "stall",
+      "id": "30ae8323-1964-4bc2-ae08-b4707a0d632d",
+      "word": "to stall",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RhbGw&hash=e2bb3dd607110f0f2530eabb8cf917192d47bb4f&lang=en&cache-only=0",
-      "phonetic_text": "stɔ:l",
+      "phonetic_text": "stɑ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RhbGw&hash=e2bb3dd607110f0f2530eabb8cf917192d47bb4f&lang=en&cache-only=0",
-      "phonetic_am_text": "staawl",
+      "phonetic_am_text": "staal",
       "img": "",
-      "pronunciation": "ˈstɔɫ",
+      "pronunciation": "stɑːl",
       "senses": [
         {
           "definition": "(of a vehicle or engine) to stop suddenly and unexpectedly, especially because of a lack of fuel or mechanical issues",
@@ -189,12 +174,13 @@
       ]
     },
     {
+      "id": "9b3b7156-a8f9-4f35-95a5-cebb0c9e074d",
       "word": "blowout",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ymxvd291dA&hash=3ad102429ad0fc6e0c5fa035480081ff8df2ce77&lang=en&cache-only=0",
-      "phonetic_text": "bloʊaʊt",
+      "phonetic_text": "bloʊ.aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=Ymxvd291dA&hash=3ad102429ad0fc6e0c5fa035480081ff8df2ce77&lang=en&cache-only=0",
-      "phonetic_am_text": "blowawt",
+      "phonetic_am_text": "blooo.aoot",
       "img": "",
       "pronunciation": "ˈbɫoʊˌaʊt",
       "senses": [
@@ -222,12 +208,13 @@
       ]
     },
     {
+      "id": "9853a68b-3928-4125-ab04-38ea236a6c5b",
       "word": "puncture",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHVuY3R1cmU&hash=aba752086800007f4a11b24496167f30f85f472b&lang=en&cache-only=0",
-      "phonetic_text": "pʌnkʧər",
+      "phonetic_text": "pənk.ʃɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cHVuY3R1cmU&hash=aba752086800007f4a11b24496167f30f85f472b&lang=en&cache-only=0",
-      "phonetic_am_text": "pankchēr",
+      "phonetic_am_text": "pēnk.shēr",
       "img": "",
       "pronunciation": "ˈpəŋkʃɝ/, /ˈpəŋktʃɝ",
       "senses": [
@@ -259,12 +246,13 @@
       ]
     },
     {
+      "id": "d8a804ec-f5ad-442e-9de2-0971558a35a9",
       "word": "spare tire",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BhcmUgdGlyZQ&hash=8bd818ca19bfe4bf04b10191a45002c5b6ee13c6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spɛr taɪɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BhcmUgdGlyZQ&hash=8bd818ca19bfe4bf04b10191a45002c5b6ee13c6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sper taiēr",
       "img": "https://cdn.langeek.co/photo/36939/original/?type=jpeg",
       "pronunciation": "spˈɛɹ tˈaɪɚ",
       "senses": [
@@ -296,12 +284,13 @@
       ]
     },
     {
+      "id": "8be76c52-7738-4518-b892-0ee9b4346b84",
       "word": "grease monkey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JlYXNlIG1vbmtleQ&hash=d956dabe89f1658a3333a16e281338e0075fc954&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gris mʌn.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JlYXNlIG1vbmtleQ&hash=d956dabe89f1658a3333a16e281338e0075fc954&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gris man.ki",
       "img": "https://cdn.langeek.co/photo/50753/original/mechanic?type=jpeg",
       "pronunciation": "ɡɹˈiːs mˈʌnki",
       "senses": [
@@ -333,12 +322,13 @@
       ]
     },
     {
-      "word": "repair",
+      "id": "99057036-60e3-4117-8fab-68989fa5ec86",
+      "word": "to repair",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVwYWly&hash=26e55abaf7626925f69e296e644d4d86878c906c&lang=en&cache-only=0",
-      "phonetic_text": "rɪpɛr",
+      "phonetic_text": "rɪ.pɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVwYWly&hash=26e55abaf7626925f69e296e644d4d86878c906c&lang=en&cache-only=0",
-      "phonetic_am_text": "riper",
+      "phonetic_am_text": "ri.per",
       "img": "https://cdn.langeek.co/photo/39095/original/repair?type=jpeg",
       "pronunciation": "rɪˈpɛr",
       "senses": [
@@ -370,14 +360,15 @@
       ]
     },
     {
+      "id": "f0fb3dd4-d0ce-43d6-8e43-d895052de102",
       "word": "service",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VydmljZQ&hash=e947819f83fb3cffc420938828391aa76c239796&lang=en&cache-only=0",
-      "phonetic_text": "sɜrvəs",
+      "phonetic_text": "sɜr.vɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VydmljZQ&hash=e947819f83fb3cffc420938828391aa76c239796&lang=en&cache-only=0",
-      "phonetic_am_text": "sērvēs",
+      "phonetic_am_text": "sēr.vis",
       "img": "https://cdn.langeek.co/photo/32060/original/?type=jpeg",
-      "pronunciation": "ˈsɝvəs/, /ˈsɝvɪs",
+      "pronunciation": "ˈsɝːvɪs",
       "senses": [
         {
           "definition": "the routine act of inspection and maintenance of a machine or vehicle in order to keep it working",
@@ -386,49 +377,30 @@
       ]
     },
     {
+      "id": "c146aa20-1f84-4d5a-8fec-262a375dee43",
       "word": "runaway truck ramp",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cnVuYXdheSB0cnVjayByYW1w&hash=5a4dff0477fea1d8e8a22713d60a52d156608449&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rʌn.ə.weɪ trʌk ræmp",
       "phonetic_am": "https://tts.langeek.co/read?text=cnVuYXdheSB0cnVjayByYW1w&hash=5a4dff0477fea1d8e8a22713d60a52d156608449&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ran.ē.vei trak rāmp",
       "img": "",
       "pronunciation": "ɹˈʌnəwˌeɪ tɹˈʌk ɹˈæmp",
       "senses": [
         {
           "definition": "a special road feature designed to stop trucks that have lost control due to brake failure or other reasons",
-          "examples": [
-            {
-              "cf": "",
-              "x": "When a truck's brakes failed on the steep mountain road, it had to use the runaway truck ramp to safely come to a stop."
-            },
-            {
-              "cf": "",
-              "x": "The construction of a new highway included several runaway truck ramps to ensure safety for heavy vehicles traveling through mountainous areas."
-            },
-            {
-              "cf": "",
-              "x": "Drivers are instructed to use the runaway truck ramp only in emergencies to prevent accidents and damage to their vehicles."
-            },
-            {
-              "cf": "",
-              "x": "Authorities regularly inspect and maintain runaway truck ramps to ensure they are always ready for use."
-            },
-            {
-              "cf": "",
-              "x": "The effectiveness of a runaway truck ramp depends on its design and placement along the highway's descent routes."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "5d5c5f85-6872-4233-a6ac-0a83d2e5b000",
       "word": "hot rod",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG90IHJvZA&hash=eb15af732f3f9b0a00dc245c1d58a89c2044b46f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɑ:t rɑd",
       "phonetic_am": "https://tts.langeek.co/read?text=aG90IHJvZA&hash=eb15af732f3f9b0a00dc245c1d58a89c2044b46f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "haat raad",
       "img": "",
       "pronunciation": "hˈɑːt ɹˈɑːd",
       "senses": [
@@ -460,6 +432,7 @@
       ]
     },
     {
+      "id": "609332dd-c0c0-480d-b02d-0e7f665924d0",
       "word": "jack",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=amFjaw&hash=b9c3ae833442fb57f97edd7e46821da1c34a9ba6&lang=en&cache-only=0",
@@ -476,12 +449,13 @@
       ]
     },
     {
-      "word": "jack up",
+      "id": "64356daf-8c27-4b02-bf46-2d79ed52416a",
+      "word": "to jack up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gamFjayB1cA&hash=d0a02b4b3a347ad65cc8c1049bd85de68142ced9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤæk ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gamFjayB1cA&hash=d0a02b4b3a347ad65cc8c1049bd85de68142ced9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "jāk ap",
       "img": "",
       "pronunciation": "dʒˈæk ˈʌp",
       "senses": [
@@ -509,12 +483,13 @@
       ]
     },
     {
+      "id": "89d08409-5987-42e9-a6af-f3099420fcd9",
       "word": "lug wrench",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bHVnIHdyZW5jaA&hash=17d267614ec0686033531616890652e40e51cb3d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ləg rɛnʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=bHVnIHdyZW5jaA&hash=17d267614ec0686033531616890652e40e51cb3d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lēg rench",
       "img": "",
       "pronunciation": "lˈʌɡ ɹˈɛntʃ",
       "senses": [
@@ -546,14 +521,15 @@
       ]
     },
     {
+      "id": "bf8ab37d-a11e-4675-b3e1-a5b748e5f72e",
       "word": "paintwork",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFpbnR3b3Jr&hash=62b74e478b4141774a66f5a209467d62cf874274&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "peɪnt.wɜrk",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFpbnR3b3Jr&hash=62b74e478b4141774a66f5a209467d62cf874274&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "peint.vērk",
       "img": "",
-      "pronunciation": "pˈeɪntwɜːk",
+      "pronunciation": "ˈpeɪntˌwɝk",
       "senses": [
         {
           "definition": "the outer layer of paint applied to a surface, such as a vehicle or a building",
@@ -583,12 +559,13 @@
       ]
     },
     {
+      "id": "2d14b30d-f48f-4589-8006-dbd7742aea13",
       "word": "bodywork",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9keXdvcms&hash=c1906077f7130fe513c6056e683ea28412550b5a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɑ:.di.wɜrk",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9keXdvcms&hash=c1906077f7130fe513c6056e683ea28412550b5a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baa.di.vērk",
       "img": "",
       "pronunciation": "ˈbɑːdɪwɜːrk",
       "senses": [
@@ -620,10 +597,11 @@
       ]
     },
     {
-      "word": "respray",
+      "id": "d2931bf1-9ce9-4ff9-9f89-425e38040b8a",
+      "word": "to respray",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVzcHJheQ&hash=4eaba2d5a071a875a2c9769943d3c98ec3a32757&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVzcHJheQ&hash=4eaba2d5a071a875a2c9769943d3c98ec3a32757&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -641,49 +619,30 @@
       ]
     },
     {
+      "id": "e4ba9b12-524a-4239-b6ed-87362f23e47a",
       "word": "tire rotation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGlyZSByb3RhdGlvbg&hash=33ec0301ebd85098ee90bbc8c69fbef0d136ed61&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "taɪɜr roʊ.teɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=dGlyZSByb3RhdGlvbg&hash=33ec0301ebd85098ee90bbc8c69fbef0d136ed61&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "taiēr rooo.tei.shēn",
       "img": "",
       "pronunciation": "tˈaɪɚ ɹoʊtˈeɪʃən",
       "senses": [
         {
           "definition": "the practice of changing the position of a vehicle's tires to ensure even wear and prolong their lifespan",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Regular tire rotation can help maintain the balance of wear among the tires, potentially extending their longevity."
-            },
-            {
-              "cf": "",
-              "x": "Mechanics recommend tire rotation approximately every 5,000 to 8,000 miles to optimize performance and safety."
-            },
-            {
-              "cf": "",
-              "x": "During tire rotation, each tire is moved to a different position on the vehicle, such as front to back or left to right."
-            },
-            {
-              "cf": "",
-              "x": "Properly performed tire rotation can contribute to smoother handling and improved fuel efficiency."
-            },
-            {
-              "cf": "",
-              "x": "Neglecting tire rotation may lead to uneven tire wear, affecting the vehicle's stability and traction over time."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "d08c14aa-e8f1-4f71-a5ed-a65c49f42b79",
       "word": "wheel alignment",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2hlZWwgYWxpZ25tZW50&hash=e5386351adfc98c187f88e0c77782c94323f6008&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wi:l ə.laɪn.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hlZWwgYWxpZ25tZW50&hash=e5386351adfc98c187f88e0c77782c94323f6008&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vil ē.lain.mēnt",
       "img": "",
       "pronunciation": "wˈiːl ɐlˈaɪnmənt",
       "senses": [
@@ -715,12 +674,13 @@
       ]
     },
     {
+      "id": "67d71799-08a7-4f0c-9d8c-076aa61b29c7",
       "word": "car wash",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FyIHdhc2g&hash=29393397c1a0ec7b40b819a47603e3c1d2f45921&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑ:r wɑ:ʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FyIHdhc2g&hash=29393397c1a0ec7b40b819a47603e3c1d2f45921&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaar vaash",
       "img": "",
       "pronunciation": "kˈɑːɹ wˈɑːʃ",
       "senses": [
@@ -752,45 +712,30 @@
       ]
     },
     {
-      "word": "detail",
+      "id": "67ff8259-3efd-459b-be16-7a4a393c7c71",
+      "word": "to detail",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGV0YWls&hash=17057aabb9c551bc36dadfad637dc3f94cf50030&lang=en&cache-only=0",
-      "phonetic_text": "dɪteɪl",
+      "phonetic_text": "di.teɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGV0YWls&hash=17057aabb9c551bc36dadfad637dc3f94cf50030&lang=en&cache-only=0",
-      "phonetic_am_text": "diteil",
+      "phonetic_am_text": "di.teil",
       "img": "",
       "pronunciation": "ˈditeɪɫ/, /dɪˈteɪɫ",
       "senses": [
         {
           "definition": "to thoroughly clean or decorate something, paying attention to small or specific aspects",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Every weekend, she details her car meticulously, ensuring it shines brightly."
-            },
-            {
-              "cf": "",
-              "x": "He spent the entire afternoon detailing his car, polishing every surface and vacuuming the interior thoroughly."
-            },
-            {
-              "cf": "",
-              "x": "The auto shop offers a service where professionals detail your car, leaving it spotless inside and out."
-            },
-            {
-              "cf": "",
-              "x": "She decided to detail her car before putting it up for sale to make it more appealing to potential buyers."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "valet",
+      "id": "27cc47cd-39a3-4e1d-96cc-7c6bc5799779",
+      "word": "to valet",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdmFsZXQ&hash=cdb998a95570aa8549905f602ea3551e0e6b4264&lang=en&cache-only=0",
-      "phonetic_text": "væleɪ",
+      "phonetic_text": "væ.leɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdmFsZXQ&hash=cdb998a95570aa8549905f602ea3551e0e6b4264&lang=en&cache-only=0",
-      "phonetic_am_text": "vālei",
+      "phonetic_am_text": "vā.lei",
       "img": "",
       "pronunciation": "væˈɫeɪ",
       "senses": [
@@ -822,12 +767,13 @@
       ]
     },
     {
+      "id": "c994b93b-3732-4666-a561-93a1c0358232",
       "word": "beater",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVhdGVy&hash=bff19c920cbbada1bffc80c1a006d8be10ec4037&lang=en&cache-only=0",
-      "phonetic_text": "bi:tər",
+      "phonetic_text": "bi.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVhdGVy&hash=bff19c920cbbada1bffc80c1a006d8be10ec4037&lang=en&cache-only=0",
-      "phonetic_am_text": "beetēr",
+      "phonetic_am_text": "bi.tēr",
       "img": "",
       "pronunciation": "ˈbitɝ",
       "senses": [
@@ -859,12 +805,13 @@
       ]
     },
     {
+      "id": "411eb436-cded-44f7-be08-e567791c9fa1",
       "word": "clunker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2x1bmtlcg&hash=b704876a66f75c1957150a3d3f55c68ecb739828&lang=en&cache-only=0",
-      "phonetic_text": "klʌnkər",
+      "phonetic_text": "klən.kɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2x1bmtlcg&hash=b704876a66f75c1957150a3d3f55c68ecb739828&lang=en&cache-only=0",
-      "phonetic_am_text": "klankēr",
+      "phonetic_am_text": "klēn.kēr",
       "img": "",
       "pronunciation": "ˈkɫəŋkɝ",
       "senses": [
@@ -896,12 +843,13 @@
       ]
     },
     {
+      "id": "4e970be1-a786-4428-9113-8937d9954536",
       "word": "jalopy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=amFsb3B5&hash=2eaf994f501cadbf61b93225d673bb7f33ee31b6&lang=en&cache-only=0",
-      "phonetic_text": "ʤəlɑ:pi",
+      "phonetic_text": "ʤə.lɑ.pi",
       "phonetic_am": "https://tts.langeek.co/read?text=amFsb3B5&hash=2eaf994f501cadbf61b93225d673bb7f33ee31b6&lang=en&cache-only=0",
-      "phonetic_am_text": "jēlaapi",
+      "phonetic_am_text": "jē.laa.pi",
       "img": "",
       "pronunciation": "dʒəˈɫɑpi",
       "senses": [
@@ -933,12 +881,13 @@
       ]
     },
     {
+      "id": "0a05f612-69e1-4df0-abd0-f8814825e83e",
       "word": "junker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=anVua2Vy&hash=b8fef4b13d9511a8ec05434b3b910c93c5082410&lang=en&cache-only=0",
-      "phonetic_text": "ʤʌnkər",
+      "phonetic_text": "ʤən.kɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=anVua2Vy&hash=b8fef4b13d9511a8ec05434b3b910c93c5082410&lang=en&cache-only=0",
-      "phonetic_am_text": "jankēr",
+      "phonetic_am_text": "jēn.kēr",
       "img": "",
       "pronunciation": "ˈdʒəŋkɝ",
       "senses": [
@@ -970,6 +919,7 @@
       ]
     },
     {
+      "id": "47cef6c1-9268-4c8a-b567-9e2352c91db2",
       "word": "wreck",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d3JlY2s&hash=5932961caad91d18f3f1201019207b169466ab8a&lang=en&cache-only=0",
@@ -986,12 +936,13 @@
       ]
     },
     {
+      "id": "bfa6a0a3-f5cc-4193-ae46-bdca81382e29",
       "word": "exhaust",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXhoYXVzdA&hash=fa209eebcc3f2b76807095203912f72e92b4c424&lang=en&cache-only=0",
-      "phonetic_text": "ɪgzɔ:st",
+      "phonetic_text": "ɪgz.ɔst",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXhoYXVzdA&hash=fa209eebcc3f2b76807095203912f72e92b4c424&lang=en&cache-only=0",
-      "phonetic_am_text": "igzaawst",
+      "phonetic_am_text": "igz.awst",
       "img": "",
       "pronunciation": "ɪɡˈzɔst",
       "senses": [
@@ -1019,12 +970,13 @@
       ]
     },
     {
+      "id": "b425c3e0-c98e-4140-a29d-732d2ef4270e",
       "word": "wreckage",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d3JlY2thZ2U&hash=32085e98b97c635afd13d12495fcc2da5229d6d8&lang=en&cache-only=0",
-      "phonetic_text": "rɛkəʤ",
+      "phonetic_text": "rɛ.kəʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=d3JlY2thZ2U&hash=32085e98b97c635afd13d12495fcc2da5229d6d8&lang=en&cache-only=0",
-      "phonetic_am_text": "rekēj",
+      "phonetic_am_text": "re.kēj",
       "img": "",
       "pronunciation": "ˈɹɛkədʒ/, /ˈɹɛkɪdʒ",
       "senses": [
@@ -1056,12 +1008,13 @@
       ]
     },
     {
+      "id": "0d90571a-236f-4ed0-b405-1f98c01ad071",
       "word": "junkyard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=anVua3lhcmQ&hash=26f68f31dcd1546c089705ae47f38f27dfb81408&lang=en&cache-only=0",
-      "phonetic_text": "ʤʌnkjɑrd",
+      "phonetic_text": "ʤənk.jɑrd",
       "phonetic_am": "https://tts.langeek.co/read?text=anVua3lhcmQ&hash=26f68f31dcd1546c089705ae47f38f27dfb81408&lang=en&cache-only=0",
-      "phonetic_am_text": "jankyɑrd",
+      "phonetic_am_text": "jēnk.yaard",
       "img": "",
       "pronunciation": "ˈdʒəŋˌkjɑɹd",
       "senses": [
@@ -1093,12 +1046,13 @@
       ]
     },
     {
+      "id": "87f2aa78-79c7-4c39-8f7d-2dd8bab4fb6e",
       "word": "salvage yard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FsdmFnZSB5YXJk&hash=dd35deef4a7ab6f5839b78acb8ba3cb9e7a82dc6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sæl.vəʤ jɑrd",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FsdmFnZSB5YXJk&hash=dd35deef4a7ab6f5839b78acb8ba3cb9e7a82dc6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sāl.vēj yaard",
       "img": "",
       "pronunciation": "sˈælvɪdʒ jˈɑːɹd",
       "senses": [
@@ -1126,12 +1080,13 @@
       ]
     },
     {
+      "id": "23f37266-c1c7-4ea5-8b5a-1bc56392abd6",
       "word": "flat tire",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmxhdCB0aXJl&hash=3b8bd1976132770be744e200603962f1a545c3c6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "flæt taɪɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmxhdCB0aXJl&hash=3b8bd1976132770be744e200603962f1a545c3c6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "flāt taiēr",
       "img": "https://cdn.langeek.co/photo/35786/original/?type=jpeg",
       "pronunciation": "flˈæt tˈaɪɚ",
       "senses": [

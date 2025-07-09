@@ -1,86 +1,112 @@
 {
+  "id": "5be082e9-e8d8-47d9-bba5-3636a9560adc",
   "topic": "health_and_sickness",
   "title": "General Verbs Related to Health and Sickness",
   "lesson": "lesson_21",
   "word_list": [
     {
-      "word": "injure",
+      "id": "009d9cb8-bf9a-4ed3-a1e2-890364a63dab",
+      "word": "to injure",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW5qdXJl&hash=2821ae2d3469e7c151e9ba8458fbf21c0536ef16&lang=en&cache-only=0",
-      "phonetic_text": "ɪnʤər",
+      "phonetic_text": "ɪn.ʤɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW5qdXJl&hash=2821ae2d3469e7c151e9ba8458fbf21c0536ef16&lang=en&cache-only=0",
-      "phonetic_am_text": "injēr",
-      "img": "https://cdn.langeek.co/photo/39339/original/hurt?type=jpeg",
+      "phonetic_am_text": "in.jēr",
+      "img": "https://cdn.langeek.co/photo/61744/original/hurt?type=jpeg",
       "pronunciation": "ˈɪndʒɝ",
       "senses": [
         {
           "definition": "to physically cause harm to a person or thing",
-          "examples": []
-        }
-      ]
-    },
-    {
-      "word": "metastasize",
-      "pos": "verb",
-      "phonetic": "https://tts.langeek.co/read?text=dG8gbWV0YXN0YXNpemU&hash=57aa6d1cc26167c87ae2e9b7fee889807edce783&lang=en&cache-only=0",
-      "phonetic_text": "mətæstəsaɪz",
-      "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWV0YXN0YXNpemU&hash=57aa6d1cc26167c87ae2e9b7fee889807edce783&lang=en&cache-only=0",
-      "phonetic_am_text": "mētāstēsaiz",
-      "img": "",
-      "pronunciation": "məˈtæstəˌsaɪz",
-      "senses": [
-        {
-          "definition": "to spread or transfer cancer cells from the original site to other parts of the body, leading to the formation of new tumors",
-          "examples": []
-        }
-      ]
-    },
-    {
-      "word": "succumb",
-      "pos": "verb",
-      "phonetic": "https://tts.langeek.co/read?text=dG8gc3VjY3VtYg&hash=0a3537c791ccd6eb2b4d74d15341cd94d4825a77&lang=en&cache-only=0",
-      "phonetic_text": "səkʌm",
-      "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3VjY3VtYg&hash=0a3537c791ccd6eb2b4d74d15341cd94d4825a77&lang=en&cache-only=0",
-      "phonetic_am_text": "sēkam",
-      "img": "",
-      "pronunciation": "səˈkəm",
-      "senses": [
-        {
-          "definition": "to die as a result of a disease or injury",
           "examples": [
             {
               "cf": "",
-              "x": "He succumbed to his injuries after the car accident."
+              "x": "A misstep on the stairs could injure your leg."
             },
             {
               "cf": "",
-              "x": "By the time the ambulance arrived, she had already succumbed to her injuries."
+              "x": "Be careful with fireworks; they can injure you."
             },
             {
               "cf": "",
-              "x": "Despite the best efforts of the medical team, he succumbed to the virus."
+              "x": "He injured his knee while playing soccer."
             },
             {
               "cf": "",
-              "x": "The patient is succumbing to the disease despite the doctors' efforts."
+              "x": "He was practicing gymnastics and injured his neck."
             },
             {
               "cf": "",
-              "x": "The patient eventually succumbed to the severe illness despite the treatment."
+              "x": "The horse kicked and injured the farmer."
             }
           ]
         }
       ]
     },
     {
-      "word": "suffer",
+      "id": "1a412801-176f-49a0-8520-059b48838195",
+      "word": "to metastasize",
+      "pos": "verb",
+      "phonetic": "https://tts.langeek.co/read?text=dG8gbWV0YXN0YXNpemU&hash=57aa6d1cc26167c87ae2e9b7fee889807edce783&lang=en&cache-only=0",
+      "phonetic_text": "mə.tæs.tə.saɪz",
+      "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWV0YXN0YXNpemU&hash=57aa6d1cc26167c87ae2e9b7fee889807edce783&lang=en&cache-only=0",
+      "phonetic_am_text": "mē.tās.tē.saiz",
+      "img": "",
+      "pronunciation": "məˈtæstəˌsaɪz",
+      "senses": [
+        {
+          "definition": "to spread or transfer cancer cells from the original site to other parts of the body, leading to the formation of new tumors",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Cancer cells often metastasize, spreading to other parts of the body."
+            },
+            {
+              "cf": "",
+              "x": "The disease is currently metastasizing, posing a significant threat to the patient's health."
+            },
+            {
+              "cf": "",
+              "x": "If not addressed early, the issue may metastasize into a larger crisis."
+            },
+            {
+              "cf": "",
+              "x": "By the time of diagnosis, the disease will have metastasized extensively, making treatment more complex."
+            },
+            {
+              "cf": "",
+              "x": "During the study, researchers observed how the virus was metastasizing in the laboratory setting."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a7b296de-1337-475c-9d28-8356a022f0f4",
+      "word": "to succumb",
+      "pos": "verb",
+      "phonetic": "https://tts.langeek.co/read?text=dG8gc3VjY3VtYg&hash=0a3537c791ccd6eb2b4d74d15341cd94d4825a77&lang=en&cache-only=0",
+      "phonetic_text": "sə.kəm",
+      "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3VjY3VtYg&hash=0a3537c791ccd6eb2b4d74d15341cd94d4825a77&lang=en&cache-only=0",
+      "phonetic_am_text": "sē.kēm",
+      "img": "",
+      "pronunciation": "səˈkəm",
+      "senses": [
+        {
+          "definition": "to die as a result of a disease or injury",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "id": "c980c8ca-6b9a-4e7c-990f-47339c6a7b87",
+      "word": "to suffer",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3VmZmVy&hash=f86607b6da54b970cb28b841374192d3e5c9feb1&lang=en&cache-only=0",
-      "phonetic_text": "sʌfər",
+      "phonetic_text": "sʌ.fər",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3VmZmVy&hash=f86607b6da54b970cb28b841374192d3e5c9feb1&lang=en&cache-only=0",
-      "phonetic_am_text": "safēr",
+      "phonetic_am_text": "sa.fēr",
       "img": "https://cdn.langeek.co/photo/27929/original/?type=jpeg",
-      "pronunciation": "ˈsəfɝ",
+      "pronunciation": "ˈsʌfɚ",
       "senses": [
         {
           "definition": "to have an illness or disease",
@@ -106,49 +132,94 @@
       ]
     },
     {
-      "word": "transfer",
+      "id": "de2a0764-b084-40bb-8b1e-c3b2f4e3265b",
+      "word": "to transfer",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHJhbnNmZXI&hash=b480af1c4e3eb6270eaf39d5d6e1f9f1cc43a87a&lang=en&cache-only=0",
-      "phonetic_text": "trænsfɜr",
+      "phonetic_text": "træns.fɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHJhbnNmZXI&hash=b480af1c4e3eb6270eaf39d5d6e1f9f1cc43a87a&lang=en&cache-only=0",
-      "phonetic_am_text": "trānsfēr",
+      "phonetic_am_text": "trāns.fēr",
       "img": "",
       "pronunciation": "ˈtɹænsfɝ/, /tɹænsˈfɝ",
       "senses": [
         {
           "definition": "to transmit a disease to another person or animal, which makes them infected with the same disease",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Individuals who fail to follow proper hygiene practices may transfer the virus to their colleagues."
+            },
+            {
+              "cf": "",
+              "x": "Mosquitoes can transfer diseases like malaria by biting an infected person and then biting another individual."
+            },
+            {
+              "cf": "",
+              "x": "During a pandemic, it is crucial to avoid close contact to reduce the risk of transferring the virus."
+            },
+            {
+              "cf": "",
+              "x": "Pets can act as carriers and transfer certain zoonotic diseases to humans if proper precautions are not taken."
+            },
+            {
+              "cf": "",
+              "x": "Parents are often concerned about children transferring respiratory infections within school environments."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "vomit",
+      "id": "f7aed66c-7785-4340-930b-b5ebb2450f63",
+      "word": "to vomit",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdm9taXQ&hash=0bedd5d081d1edb26f16c17f3a9d35b99c0fa066&lang=en&cache-only=0",
-      "phonetic_text": "vɑ:mət",
+      "phonetic_text": "vɑ.mət",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdm9taXQ&hash=0bedd5d081d1edb26f16c17f3a9d35b99c0fa066&lang=en&cache-only=0",
-      "phonetic_am_text": "vaamēt",
+      "phonetic_am_text": "vaa.mēt",
       "img": "https://cdn.langeek.co/photo/26300/original/?type=jpeg",
       "pronunciation": "ˈvɑmət",
       "senses": [
         {
           "definition": "to eject what has been eaten or drunk through the mouth",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She sometimes vomits after eating certain foods."
+            },
+            {
+              "cf": "",
+              "x": "The patient often vomits as a side effect of the medication."
+            },
+            {
+              "cf": "",
+              "x": "Yesterday, he unexpectedly vomited after having dinner at the restaurant."
+            },
+            {
+              "cf": "",
+              "x": "After the roller coaster ride, some people vomited due to motion sickness."
+            },
+            {
+              "cf": "",
+              "x": "Right now, she is feeling nauseous and might be vomiting soon."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "aggravate",
+      "id": "2d3760e8-4d71-4665-856b-035c343d9ed9",
+      "word": "to aggravate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWdncmF2YXRl&hash=79b941a383ad540287faa2f30e71c954adb656db&lang=en&cache-only=0",
-      "phonetic_text": "ægrəveɪt",
+      "phonetic_text": "æg.rə.veɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWdncmF2YXRl&hash=79b941a383ad540287faa2f30e71c954adb656db&lang=en&cache-only=0",
-      "phonetic_am_text": "āgrēveit",
+      "phonetic_am_text": "āg.rē.veit",
       "img": "https://cdn.langeek.co/photo/46625/original/?type=jpeg",
       "pronunciation": "ˈæɡɹəˌveɪt",
       "senses": [
         {
-          "definition": "to make a disease or medical condition worse or more serious",
+          "definition": "to make a problem, situation, or condition worse or more serious",
           "examples": [
             {
               "cf": "",
@@ -156,7 +227,7 @@
             },
             {
               "cf": "",
-              "x": "Smoking can aggravate respiratory conditions like asthma."
+              "x": "Their delay aggravated the traffic problem."
             },
             {
               "cf": "",
@@ -164,25 +235,42 @@
             },
             {
               "cf": "",
-              "x": "It aggravated the injury when proper care was not taken."
+              "x": "She was careful not to aggravate the situation."
             },
             {
               "cf": "",
               "x": "Ignoring early signs of infection can aggravate the progression of diseases."
+            },
+            {
+              "cf": "",
+              "x": "Their careless actions aggravated an already bad situation."
+            },
+            {
+              "cf": "",
+              "x": "Smoking can aggravate respiratory conditions like asthma."
+            },
+            {
+              "cf": "",
+              "x": "Heavy rains have aggravated the flooding in the area."
+            },
+            {
+              "cf": "",
+              "x": "It aggravated the injury when proper care was not taken."
             }
           ]
         }
       ]
     },
     {
-      "word": "catch",
+      "id": "6ba0162a-1515-4d46-84e2-c719cec4ef5d",
+      "word": "to catch",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2F0Y2g&hash=c01bfa7d58d709a9444848b1b3e370244b69aa67&lang=en&cache-only=0",
       "phonetic_text": "kæʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2F0Y2g&hash=c01bfa7d58d709a9444848b1b3e370244b69aa67&lang=en&cache-only=0",
       "phonetic_am_text": "kāch",
-      "img": "https://cdn.langeek.co/photo/28083/original/?type=jpeg",
-      "pronunciation": "ˈkætʃ",
+      "img": "https://cdn.langeek.co/photo/61726/original/?type=jpeg",
+      "pronunciation": "kætʃ",
       "senses": [
         {
           "definition": "to get sick, usually with bacteria or a virus",
@@ -212,30 +300,53 @@
       ]
     },
     {
-      "word": "contract",
+      "id": "c55ad5f2-2ef4-4263-aa31-c835be9c41b5",
+      "word": "to contract",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29udHJhY3Q&hash=dbc92c1f895c97fc8d360b561ebdc5d78c7be2d6&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:ntrækt",
+      "phonetic_text": "kɑnt.rækt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29udHJhY3Q&hash=dbc92c1f895c97fc8d360b561ebdc5d78c7be2d6&lang=en&cache-only=0",
-      "phonetic_am_text": "kaantrākt",
+      "phonetic_am_text": "kaant.rākt",
       "img": "https://cdn.langeek.co/photo/26872/original/?type=jpeg",
-      "pronunciation": "ˈkɑnˌtɹækt/, /kənˈtɹækt",
+      "pronunciation": "ˈkɑnˌtrækt",
       "senses": [
         {
           "definition": "to get infected by a disease or virus",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Despite taking precautions, he still contracted pneumonia after being exposed to the virus during flu season."
+            },
+            {
+              "cf": "",
+              "x": "She contracted HIV from her partner who had not disclosed their status, leading to a lifelong struggle with the virus."
+            },
+            {
+              "cf": "",
+              "x": "Many individuals unknowingly contract Lyme disease from tick bites while spending time outdoors."
+            },
+            {
+              "cf": "",
+              "x": "During the pandemic, numerous people contracted COVID-19 after coming into contact with infected individuals in crowded spaces."
+            },
+            {
+              "cf": "",
+              "x": "Despite efforts to prevent transmission, some individuals still contract hepatitis C."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "cough",
+      "id": "435f2537-b978-4d49-816a-0d91d1a58aef",
+      "word": "to cough",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY291Z2g&hash=f27db6d32c1d65ac3a6da8dd2c5ca34f9568703c&lang=en&cache-only=0",
       "phonetic_text": "kɑ:f",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY291Z2g&hash=f27db6d32c1d65ac3a6da8dd2c5ca34f9568703c&lang=en&cache-only=0",
       "phonetic_am_text": "kaaf",
       "img": "https://cdn.langeek.co/photo/39063/original/cough?type=jpeg",
-      "pronunciation": "kɑːf",
+      "pronunciation": "kɑf",
       "senses": [
         {
           "definition": "to push air out of our mouth with a sudden noise",
@@ -265,23 +376,46 @@
       ]
     },
     {
-      "word": "develop",
+      "id": "28545e82-887e-4eae-b936-279665182e64",
+      "word": "to develop",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGV2ZWxvcA&hash=5623a399537b7fa85fd222791fe571e9465bfff5&lang=en&cache-only=0",
-      "phonetic_text": "dɪvɛləp",
+      "phonetic_text": "dɪ.vɛ.ləp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGV2ZWxvcA&hash=5623a399537b7fa85fd222791fe571e9465bfff5&lang=en&cache-only=0",
-      "phonetic_am_text": "divelēp",
+      "phonetic_am_text": "di.ve.lēp",
       "img": "",
-      "pronunciation": "dɪˈvɛɫəp",
+      "pronunciation": "dɪˈvɛləp",
       "senses": [
         {
           "definition": "to start to have a particular disease or problem",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Despite leading a healthy lifestyle, he developed high blood pressure in his late fifties."
+            },
+            {
+              "cf": "",
+              "x": "After years of smoking, she developed lung cancer and had to undergo extensive treatment."
+            },
+            {
+              "cf": "",
+              "x": "As she aged, she developed arthritis, experiencing pain and stiffness in her joints."
+            },
+            {
+              "cf": "",
+              "x": "Poor dental hygiene led him to develop cavities and gum disease, requiring dental intervention."
+            },
+            {
+              "cf": "",
+              "x": "Long-term exposure to sunlight without protection caused her to develop skin cancer in her forties."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "ail",
+      "id": "562636da-f915-4a70-b10c-04521419af65",
+      "word": "to ail",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWls&hash=7b875d84399570630e837e275448b69a3e18512c&lang=en&cache-only=0",
       "phonetic_text": "eɪl",
@@ -297,10 +431,11 @@
       ]
     },
     {
-      "word": "be sick",
+      "id": "6e4bea65-868a-4e84-9032-fed22b1aac90",
+      "word": "to [be] sick",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgc2ljaw&hash=e84d5a9db8098212d4cc17d2c8d64c2e53d97cdc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgc2ljaw&hash=e84d5a9db8098212d4cc17d2c8d64c2e53d97cdc&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/26300/original/?type=jpeg",
@@ -313,12 +448,13 @@
       ]
     },
     {
-      "word": "complain of",
+      "id": "0a0b1135-301e-40e2-b01d-30ac05b4a843",
+      "word": "to complain of",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29tcGxhaW4gb2Y&hash=6d731f8107f261eb51e0d7116339c11e436f5173&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kəmp.leɪn ʌv",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29tcGxhaW4gb2Y&hash=6d731f8107f261eb51e0d7116339c11e436f5173&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kēmp.lein av",
       "img": "",
       "pronunciation": "kəmplˈeɪn ʌv",
       "senses": [
@@ -350,28 +486,51 @@
       ]
     },
     {
-      "word": "dehydrate",
+      "id": "264ec465-982e-4ac9-98ce-3f6e7b89c639",
+      "word": "to dehydrate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVoeWRyYXRl&hash=9a2f0217c09b1ac06c41697cd5b1c4e1a009cf63&lang=en&cache-only=0",
-      "phonetic_text": "dɪhaɪdreɪt",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVoeWRyYXRl&hash=9a2f0217c09b1ac06c41697cd5b1c4e1a009cf63&lang=en&cache-only=0",
-      "phonetic_am_text": "dihaidreit",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "dɪˈhaɪdɹeɪt",
       "senses": [
         {
           "definition": "to lose a large amount of fluid through urinating, vomiting, or intense physical activity",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "After running a marathon in the hot sun without adequate hydration, he began to dehydrate."
+            },
+            {
+              "cf": "",
+              "x": "The athlete pushed herself to her limits during the intense training session, causing her to dehydrate rapidly."
+            },
+            {
+              "cf": "",
+              "x": "During his illness, he became nauseous and began to vomit, causing him to dehydrate."
+            },
+            {
+              "cf": "",
+              "x": "Despite the hot weather, he neglected to drink enough water while working outside, leading him to dehydrate."
+            },
+            {
+              "cf": "",
+              "x": "The medication he was prescribed had a side effect of increasing urination, causing him to dehydrate."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "lay up",
+      "id": "ce2622a4-8782-4ded-b8c9-b2f816b15888",
+      "word": "to lay up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGF5IHVw&hash=d358cd7ee5bc890e824d36ec898e7d2bb7e9bb17&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "leɪ ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGF5IHVw&hash=d358cd7ee5bc890e824d36ec898e7d2bb7e9bb17&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lei ap",
       "img": "https://cdn.langeek.co/photo/26870/original/?type=jpeg",
       "pronunciation": "lˈeɪ ˈʌp",
       "senses": [
@@ -382,28 +541,59 @@
       ]
     },
     {
-      "word": "pass out",
+      "id": "b399eb68-e4e6-4077-adfe-f727b7a61eae",
+      "word": "to pass out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGFzcyBvdXQ&hash=436af04635f7dfa2bbe61b86a7a03aa147666f20&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pæs aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGFzcyBvdXQ&hash=436af04635f7dfa2bbe61b86a7a03aa147666f20&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pās aoot",
       "img": "https://cdn.langeek.co/photo/21459/original/?type=jpeg",
       "pronunciation": "pˈæs ˈaʊt",
       "senses": [
         {
           "definition": "to lose consciousness",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "It was so hot in the room that she felt like she was going to pass out."
+            },
+            {
+              "cf": "",
+              "x": "He passed out from exhaustion after the marathon."
+            },
+            {
+              "cf": "",
+              "x": "After standing for hours in the sun, he passed out from dehydration."
+            },
+            {
+              "cf": "",
+              "x": "She felt dizzy and nearly passed out during the presentation."
+            },
+            {
+              "cf": "",
+              "x": "Without enough ventilation in the room, several people started to feel like they might pass out."
+            },
+            {
+              "cf": "",
+              "x": "During the boxing match, a strong punch made him pass out momentarily."
+            },
+            {
+              "cf": "",
+              "x": "She hit her head against the shelf and passed out instantly."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "present",
+      "id": "bbde550a-fc25-4e04-bed5-d3dc67177e69",
+      "word": "to present",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJlc2VudA&hash=fbdbc79ce30213538d6b033b13c101fee368bad2&lang=en&cache-only=0",
-      "phonetic_text": "prɛzənt",
+      "phonetic_text": "prɛ.zənt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJlc2VudA&hash=fbdbc79ce30213538d6b033b13c101fee368bad2&lang=en&cache-only=0",
-      "phonetic_am_text": "prezēnt",
+      "phonetic_am_text": "pre.zēnt",
       "img": "",
       "pronunciation": "prɪˈzɛnt",
       "senses": [
@@ -431,12 +621,13 @@
       ]
     },
     {
-      "word": "relapse",
+      "id": "ac67ce41-7f08-4bf8-a841-7d6b5658ff4e",
+      "word": "to relapse",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVsYXBzZQ&hash=23c64ff2019361797d5c181e81847f051655f633&lang=en&cache-only=0",
-      "phonetic_text": "rilæps",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVsYXBzZQ&hash=23c64ff2019361797d5c181e81847f051655f633&lang=en&cache-only=0",
-      "phonetic_am_text": "rilāps",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ɹiˈɫæps",
       "senses": [
@@ -447,12 +638,13 @@
       ]
     },
     {
-      "word": "sneeze",
+      "id": "a5802ae0-d708-492f-a549-5d3c22ca454c",
+      "word": "to sneeze",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc25lZXpl&hash=0942f21e3410a15aaa71d242f960e21b9c55e77a&lang=en&cache-only=0",
       "phonetic_text": "sni:z",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc25lZXpl&hash=0942f21e3410a15aaa71d242f960e21b9c55e77a&lang=en&cache-only=0",
-      "phonetic_am_text": "sneez",
+      "phonetic_am_text": "sniz",
       "img": "https://cdn.langeek.co/photo/39073/original/sneeze?type=jpeg",
       "pronunciation": "sniːz",
       "senses": [
@@ -484,7 +676,8 @@
       ]
     },
     {
-      "word": "faint",
+      "id": "ef6c7435-4263-4ed0-8c67-dc036a8daa52",
+      "word": "to faint",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmFpbnQ&hash=e362cf5376328689ed497232e733211f6e85f101&lang=en&cache-only=0",
       "phonetic_text": "feɪnt",

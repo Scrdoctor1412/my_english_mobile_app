@@ -1,15 +1,17 @@
 {
+  "id": "f5704559-3847-4c00-92cb-f280dbfca82a",
   "topic": "words_related_to_home_and_garden",
   "title": "Home Decoration",
   "lesson": "lesson_10",
   "word_list": [
     {
+      "id": "92129064-439a-4e0e-a906-eb33c1a23dac",
       "word": "baseboard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFzZWJvYXJk&hash=dc1dae87037d5043c3fe986c63c1097cd41b4637&lang=en&cache-only=0",
-      "phonetic_text": "beɪsbɔrd",
+      "phonetic_text": "beɪs.bɔ:rd",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFzZWJvYXJk&hash=dc1dae87037d5043c3fe986c63c1097cd41b4637&lang=en&cache-only=0",
-      "phonetic_am_text": "beisbawrd",
+      "phonetic_am_text": "beis.bawrd",
       "img": "https://cdn.langeek.co/photo/28277/original/?type=jpeg",
       "pronunciation": "ˈbeɪsˌbɔɹd",
       "senses": [
@@ -41,13 +43,14 @@
       ]
     },
     {
+      "id": "79fe242f-cb42-426b-86dd-d33263a5f543",
       "word": "cushion",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3VzaGlvbg&hash=640b12031d1d1aaa946a61eaaebf0a32c114bb5c&lang=en&cache-only=0",
-      "phonetic_text": "kʊʃən",
+      "phonetic_text": "kʊ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3VzaGlvbg&hash=640b12031d1d1aaa946a61eaaebf0a32c114bb5c&lang=en&cache-only=0",
-      "phonetic_am_text": "kushēn",
-      "img": "https://cdn.langeek.co/photo/16517/original/cushion?type=jpeg",
+      "phonetic_am_text": "koo.shēn",
+      "img": "https://cdn.langeek.co/photo/61560/original/cushion?type=jpeg",
       "pronunciation": "ˈkʊʃən",
       "senses": [
         {
@@ -78,12 +81,13 @@
       ]
     },
     {
+      "id": "854f622a-471c-45a6-8451-dfc821303e61",
       "word": "hanging",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFuZ2luZw&hash=4fbccc148838f4c5c58e16158c2f039efa718a25&lang=en&cache-only=0",
-      "phonetic_text": "hængɪng",
+      "phonetic_text": "hæn.gɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFuZ2luZw&hash=4fbccc148838f4c5c58e16158c2f039efa718a25&lang=en&cache-only=0",
-      "phonetic_am_text": "hānging",
+      "phonetic_am_text": "hān.ging",
       "img": "",
       "pronunciation": "ˈhæŋɡɪŋ/, /ˈhæŋɪŋ",
       "senses": [
@@ -94,14 +98,15 @@
       ]
     },
     {
+      "id": "be527d9a-9cdc-424c-8ada-724aa446e681",
       "word": "decoration",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVjb3JhdGlvbg&hash=ebaea4f066ac84244771531f10919129384c70c3&lang=en&cache-only=0",
-      "phonetic_text": "dɛkəreɪʃən",
+      "phonetic_text": "dɛ.kə.reɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVjb3JhdGlvbg&hash=ebaea4f066ac84244771531f10919129384c70c3&lang=en&cache-only=0",
-      "phonetic_am_text": "dekēreishēn",
+      "phonetic_am_text": "de.kē.rei.shēn",
       "img": "",
-      "pronunciation": "ˌdɛkɝˈeɪʃən",
+      "pronunciation": "ˌdɛkəˈreɪʃən",
       "senses": [
         {
           "definition": "a thing that is added to make something look more beautiful",
@@ -110,12 +115,13 @@
       ]
     },
     {
-      "word": "knickknack",
+      "id": "14916f3e-93fb-4f05-8d11-63cd581738c3",
+      "word": "knick-knack",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a25pY2sta25hY2s&hash=56743de0064af560ea537fd9835ce8e85c9ba7cc&lang=en&cache-only=0",
-      "phonetic_text": "nɪknæk",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=a25pY2sta25hY2s&hash=56743de0064af560ea537fd9835ce8e85c9ba7cc&lang=en&cache-only=0",
-      "phonetic_am_text": "niknāk",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˈnɪkˈnæk",
       "senses": [
@@ -124,23 +130,32 @@
           "examples": [
             {
               "cf": "",
-              "x": "The shelves in her living room were filled with knickknacks collected from her travels around the world, each one holding sentimental value."
+              "x": "She has a shelf full of knick-knacks from her travels around the world."
             },
             {
               "cf": "",
-              "x": "Despite their small size, the knickknacks scattered around the room added personality and charm to the otherwise plain decor."
+              "x": "The living room was decorated with knick-knacks that had been passed down through generations."
+            },
+            {
+              "cf": "",
+              "x": "I dusted off the knick-knacks on the mantle before the guests arrived."
+            },
+            {
+              "cf": "",
+              "x": "Her office is filled with little knick-knacks, each with its own story."
             }
           ]
         }
       ]
     },
     {
+      "id": "c14174c1-3b29-45c5-a8e4-808a6273f1e5",
       "word": "ornament",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3JuYW1lbnQ&hash=c7cd2abf6edc69a1078e0b19a987047e2719c6cf&lang=en&cache-only=0",
-      "phonetic_text": "ɔ:rnəmənt",
+      "phonetic_text": "ɔr.nə.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=b3JuYW1lbnQ&hash=c7cd2abf6edc69a1078e0b19a987047e2719c6cf&lang=en&cache-only=0",
-      "phonetic_am_text": "aawrnēmēnt",
+      "phonetic_am_text": "awr.nē.mēnt",
       "img": "https://cdn.langeek.co/photo/20189/original/decoration?type=jpeg",
       "pronunciation": "ˈɔɹnəmənt",
       "senses": [
@@ -151,6 +166,7 @@
       ]
     },
     {
+      "id": "ea95fe51-9aef-4169-b2a5-b42c09d49706",
       "word": "paint",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFpbnQ&hash=220fd4b0b773f7f0c5cbe84a31811994dc65c575&lang=en&cache-only=0",
@@ -188,12 +204,13 @@
       ]
     },
     {
+      "id": "717ab8f7-5cc2-4848-872e-95855b0478b4",
       "word": "picture rail",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGljdHVyZSByYWls&hash=4a65d376d86ac87523b20d060097a0be99661b8b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɪk.ʧər reɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=cGljdHVyZSByYWls&hash=4a65d376d86ac87523b20d060097a0be99661b8b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pik.chēr reil",
       "img": "",
       "pronunciation": "pˈɪktʃɚ ɹˈeɪl",
       "senses": [
@@ -225,12 +242,13 @@
       ]
     },
     {
+      "id": "829b7889-2663-45bf-b8ca-e209b3abc648",
       "word": "redecoration",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVkZWNvcmF0aW9u&hash=572dbb1677dad30dd131cdd9135b656bc1c3db96&lang=en&cache-only=0",
-      "phonetic_text": "ridɛkəreɪʃən",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVkZWNvcmF0aW9u&hash=572dbb1677dad30dd131cdd9135b656bc1c3db96&lang=en&cache-only=0",
-      "phonetic_am_text": "ridekēreishēn",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˌɹidɛkɝˈeɪʃən",
       "senses": [
@@ -258,12 +276,13 @@
       ]
     },
     {
+      "id": "85f3f947-97b4-4a23-9cf1-38114987ce69",
       "word": "shabby chic",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2hhYmJ5IGNoaWM&hash=33d68ecf6797da62463fbe6e55e177292d80828d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʃæ.bi ʃik",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hhYmJ5IGNoaWM&hash=33d68ecf6797da62463fbe6e55e177292d80828d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "shā.bi shik",
       "img": "",
       "pronunciation": "ʃˈæbi ʃˈiːk",
       "senses": [
@@ -274,12 +293,13 @@
       ]
     },
     {
+      "id": "8061fc5d-1c30-4f59-ae3e-9e4474d0358c",
       "word": "wallpaper",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2FsbHBhcGVy&hash=a6676cb4e105a337761516485f27adbf5f212002&lang=en&cache-only=0",
-      "phonetic_text": "wɔ:lpeɪpər",
+      "phonetic_text": "wɔ:l.peɪ.pɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=d2FsbHBhcGVy&hash=a6676cb4e105a337761516485f27adbf5f212002&lang=en&cache-only=0",
-      "phonetic_am_text": "waawlpeipēr",
+      "phonetic_am_text": "vawl.pei.pēr",
       "img": "https://cdn.langeek.co/photo/35740/original/?type=jpeg",
       "pronunciation": "ˈwɔɫˌpeɪpɝ",
       "senses": [
@@ -311,14 +331,15 @@
       ]
     },
     {
-      "word": "decorate",
+      "id": "f7b333e2-a561-4119-8308-44a1fcfb830b",
+      "word": "to decorate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVjb3JhdGU&hash=b78209172ed38c30d8e3dc7de00259030214d93f&lang=en&cache-only=0",
-      "phonetic_text": "dɛkəreɪt",
+      "phonetic_text": "dɛ.kə.reɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVjb3JhdGU&hash=b78209172ed38c30d8e3dc7de00259030214d93f&lang=en&cache-only=0",
-      "phonetic_am_text": "dekēreit",
+      "phonetic_am_text": "de.kē.reit",
       "img": "",
-      "pronunciation": "ˈdɛkɝˌeɪt",
+      "pronunciation": "ˈdɛkəˌreɪt",
       "senses": [
         {
           "definition": "to adorn the inside of a house or room in order to make it more beautiful",
@@ -348,14 +369,15 @@
       ]
     },
     {
-      "word": "hang",
+      "id": "2d22a7d9-d569-415a-9804-e949de9b264b",
+      "word": "to hang",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGFuZw&hash=2ddf017259ee874ae4d55d6c5e54dae32d31795b&lang=en&cache-only=0",
       "phonetic_text": "hæng",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGFuZw&hash=2ddf017259ee874ae4d55d6c5e54dae32d31795b&lang=en&cache-only=0",
       "phonetic_am_text": "hāng",
       "img": "",
-      "pronunciation": "ˈhæŋ",
+      "pronunciation": "hæŋ",
       "senses": [
         {
           "definition": "to attach a painting, clock, etc. to a wall using a hook",
@@ -364,12 +386,13 @@
       ]
     },
     {
-      "word": "ornament",
+      "id": "fca533e0-f289-4ca2-a734-ee86504b5904",
+      "word": "to ornament",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gb3JuYW1lbnQ&hash=54786ce24f1e48dad1d1be30e46aebc7d8c14dd7&lang=en&cache-only=0",
-      "phonetic_text": "ɔ:rnəmənt",
+      "phonetic_text": "ɔr.nə.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gb3JuYW1lbnQ&hash=54786ce24f1e48dad1d1be30e46aebc7d8c14dd7&lang=en&cache-only=0",
-      "phonetic_am_text": "aawrnēmēnt",
+      "phonetic_am_text": "awr.nē.mēnt",
       "img": "https://cdn.langeek.co/photo/20187/original/decorate?type=jpeg",
       "pronunciation": "ˈɔɹnəmənt",
       "senses": [
@@ -401,7 +424,8 @@
       ]
     },
     {
-      "word": "paint",
+      "id": "7059d9a0-bfa5-403c-8530-d117183ce12b",
+      "word": "to paint",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGFpbnQ&hash=72685a4540c64191fbead28e5bb4800c9965ed68&lang=en&cache-only=0",
       "phonetic_text": "peɪnt",
@@ -438,12 +462,13 @@
       ]
     },
     {
-      "word": "wallpaper",
+      "id": "c21021f5-dc07-4253-a66c-c2fd770fb137",
+      "word": "to wallpaper",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2FsbHBhcGVy&hash=6ce3c017235addc6ee4f8af5871deae77af72f65&lang=en&cache-only=0",
-      "phonetic_text": "wɔ:lpeɪpər",
+      "phonetic_text": "wɔ:l.peɪ.pɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2FsbHBhcGVy&hash=6ce3c017235addc6ee4f8af5871deae77af72f65&lang=en&cache-only=0",
-      "phonetic_am_text": "waawlpeipēr",
+      "phonetic_am_text": "vawl.pei.pēr",
       "img": "https://cdn.langeek.co/photo/35740/original/?type=jpeg",
       "pronunciation": "ˈwɔɫˌpeɪpɝ",
       "senses": [
@@ -454,12 +479,13 @@
       ]
     },
     {
-      "word": "redecorate",
+      "id": "b8aa4a66-a1d8-4668-b9b7-b6c9c4435e05",
+      "word": "to redecorate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVkZWNvcmF0ZQ&hash=28955d54b2cadc734cda91dacea5b6c44c752c14&lang=en&cache-only=0",
-      "phonetic_text": "ridɛkəreɪt",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVkZWNvcmF0ZQ&hash=28955d54b2cadc734cda91dacea5b6c44c752c14&lang=en&cache-only=0",
-      "phonetic_am_text": "ridekēreit",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ɹiˈdɛkɝˌeɪt",
       "senses": [
@@ -470,12 +496,13 @@
       ]
     },
     {
+      "id": "a66889df-2d60-4e6a-90d1-b55830c706d1",
       "word": "bookend",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9va2VuZA&hash=6a69d023b8fc8a2d3cf4ab7085d30308d1f8832f&lang=en&cache-only=0",
-      "phonetic_text": "bʊkɛnd",
+      "phonetic_text": "bʊk.ɛnd",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9va2VuZA&hash=6a69d023b8fc8a2d3cf4ab7085d30308d1f8832f&lang=en&cache-only=0",
-      "phonetic_am_text": "bukend",
+      "phonetic_am_text": "book.end",
       "img": "https://cdn.langeek.co/photo/41732/original/?type=jpeg",
       "pronunciation": "ˈbʊkˌend",
       "senses": [
@@ -486,14 +513,15 @@
       ]
     },
     {
+      "id": "e4369e25-c38e-4a1e-b7cc-49e7bb12344c",
       "word": "candle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FuZGxl&hash=0e6b6c93f0ef0e60f7c10c5e2465fa672d25676f&lang=en&cache-only=0",
-      "phonetic_text": "kændəl",
+      "phonetic_text": "kæn.dəl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FuZGxl&hash=0e6b6c93f0ef0e60f7c10c5e2465fa672d25676f&lang=en&cache-only=0",
-      "phonetic_am_text": "kāndēl",
+      "phonetic_am_text": "kān.dēl",
       "img": "https://cdn.langeek.co/photo/19608/original/candle?type=jpeg",
-      "pronunciation": "ˈkændəɫ",
+      "pronunciation": "ˈkændəl",
       "senses": [
         {
           "definition": "a block or stick of wax with a string inside that can be lit to produce light",
@@ -519,12 +547,13 @@
       ]
     },
     {
+      "id": "ba5481eb-44c4-49b5-beff-bad2405ed504",
       "word": "wall art",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2FsbCBhcnQ&hash=44270b6f76921217290afd41d2b72d73e32e9c6a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɔ:l ɑ:rt",
       "phonetic_am": "https://tts.langeek.co/read?text=d2FsbCBhcnQ&hash=44270b6f76921217290afd41d2b72d73e32e9c6a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vawl aart",
       "img": "https://cdn.langeek.co/photo/41742/original/?type=jpeg",
       "pronunciation": "wˈɔːl ˈɑːɹt",
       "senses": [
@@ -535,12 +564,13 @@
       ]
     },
     {
+      "id": "56dd364f-9d34-491e-9781-f5706102a2db",
       "word": "decorative hardware",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVjb3JhdGl2ZSBoYXJkd2FyZQ&hash=5c987e164b2ad9af2dfcb93564b65445aa79bcd3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɛk.rə.tɪv hɑrd.wɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVjb3JhdGl2ZSBoYXJkd2FyZQ&hash=5c987e164b2ad9af2dfcb93564b65445aa79bcd3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dek.rē.tiv haard.ver",
       "img": "",
       "pronunciation": "dˈɛkɹətˌɪv hˈɑːɹdwɛɹ",
       "senses": [
@@ -568,12 +598,13 @@
       ]
     },
     {
+      "id": "eae423c0-ea12-444e-b45d-e2436d0088a8",
       "word": "picture frame",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGljdHVyZSBmcmFtZQ&hash=a04acd4238918421d679590e496185328c303125&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɪk.ʧər freɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=cGljdHVyZSBmcmFtZQ&hash=a04acd4238918421d679590e496185328c303125&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pik.chēr freim",
       "img": "https://cdn.langeek.co/photo/41852/original/?type=jpeg",
       "pronunciation": "pˈɪktʃɚ fɹˈeɪm",
       "senses": [
@@ -605,13 +636,14 @@
       ]
     },
     {
+      "id": "e7727f08-960f-464e-8bb8-72cc6336482c",
       "word": "throw pillow",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhyb3cgcGlsbG93&hash=6835f350a6e7f6e10771c315e62ebedb6e76be9a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "θroʊ pɪ.loʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhyb3cgcGlsbG93&hash=6835f350a6e7f6e10771c315e62ebedb6e76be9a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/16517/original/cushion?type=jpeg",
+      "phonetic_am_text": "throoo pi.looo",
+      "img": "https://cdn.langeek.co/photo/61560/original/cushion?type=jpeg",
       "pronunciation": "θɹˈoʊ pˈɪloʊ",
       "senses": [
         {
@@ -638,6 +670,7 @@
       ]
     },
     {
+      "id": "e357bc1a-4fb1-4287-b21d-f5d2509ad42a",
       "word": "vase",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmFzZQ&hash=282d8e6cad0f9970ae1e78276a3abbbc4ea66167&lang=en&cache-only=0",
@@ -645,7 +678,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=dmFzZQ&hash=282d8e6cad0f9970ae1e78276a3abbbc4ea66167&lang=en&cache-only=0",
       "phonetic_am_text": "veis",
       "img": "https://cdn.langeek.co/photo/19040/original/vase?type=jpeg",
-      "pronunciation": "ˈvɑz/, /ˈveɪs",
+      "pronunciation": "veɪs/ , /vɑz",
       "senses": [
         {
           "definition": "a container used as a decoration or used for putting cut flowers in",
@@ -675,14 +708,15 @@
       ]
     },
     {
+      "id": "bc48c3ed-66b3-4262-a3e2-edcda447ff53",
       "word": "sculpture",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2N1bHB0dXJl&hash=07e33468d35269ea93aaebf01ccba4abbd08b4ba&lang=en&cache-only=0",
-      "phonetic_text": "skʌlpʧər",
+      "phonetic_text": "skəlp.ʧɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c2N1bHB0dXJl&hash=07e33468d35269ea93aaebf01ccba4abbd08b4ba&lang=en&cache-only=0",
-      "phonetic_am_text": "skalpchēr",
+      "phonetic_am_text": "skēlp.chēr",
       "img": "https://cdn.langeek.co/photo/47572/original/sculpture?type=jpeg",
-      "pronunciation": "ˈskəɫptʃɝ",
+      "pronunciation": "ˈskʌlpʧɚ",
       "senses": [
         {
           "definition": "a solid figure or object made as a work of art by shaping and carving wood, clay, stone, etc.",
@@ -712,12 +746,13 @@
       ]
     },
     {
+      "id": "a0f70f51-17cb-46d0-8257-1f69c55d6b89",
       "word": "figurine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmlndXJpbmU&hash=468a0b1093a8f5da8c50c32ba14708eee510596f&lang=en&cache-only=0",
-      "phonetic_text": "fɪgjəri:n",
+      "phonetic_text": "fɪ.gjɜ.rin",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmlndXJpbmU&hash=468a0b1093a8f5da8c50c32ba14708eee510596f&lang=en&cache-only=0",
-      "phonetic_am_text": "figyēreen",
+      "phonetic_am_text": "fi.gyē.rin",
       "img": "https://cdn.langeek.co/photo/33783/original/?type=jpeg",
       "pronunciation": "ˌfɪɡjɝˈin",
       "senses": [
@@ -728,12 +763,13 @@
       ]
     },
     {
+      "id": "f4fc9c19-0b63-4ef6-9265-89514445912b",
       "word": "potted plant",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG90dGVkIHBsYW50&hash=dd6af169ab877a92720cb85412625ede3eb19104&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɑ.tɪd plænt",
       "phonetic_am": "https://tts.langeek.co/read?text=cG90dGVkIHBsYW50&hash=dd6af169ab877a92720cb85412625ede3eb19104&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "paa.tid plānt",
       "img": "https://cdn.langeek.co/photo/32770/original/?type=jpeg",
       "pronunciation": "pˈɑːɾᵻd plˈænt",
       "senses": [
@@ -761,12 +797,13 @@
       ]
     },
     {
+      "id": "8e1c9e61-66fe-47b9-b1b7-8c87505af1a6",
       "word": "potpourri",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG90cG91cnJp&hash=beb1e9cfda4c05df36c5c6f633f52353025c709d&lang=en&cache-only=0",
-      "phonetic_text": "poʊpʊri:",
+      "phonetic_text": "poʊ.pʊ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=cG90cG91cnJp&hash=beb1e9cfda4c05df36c5c6f633f52353025c709d&lang=en&cache-only=0",
-      "phonetic_am_text": "powpuree",
+      "phonetic_am_text": "pooo.poo.ri",
       "img": "",
       "pronunciation": "ˌpoʊpʊˈɹi",
       "senses": [
@@ -777,12 +814,13 @@
       ]
     },
     {
+      "id": "48c21137-f395-42b1-acec-9d42d2e26376",
       "word": "wall decal",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2FsbCBkZWNhbA&hash=6d840889919be2fdfb93a2c4f75441110ea89e47&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɔ:l di.kæl",
       "phonetic_am": "https://tts.langeek.co/read?text=d2FsbCBkZWNhbA&hash=6d840889919be2fdfb93a2c4f75441110ea89e47&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vawl di.kāl",
       "img": "https://cdn.langeek.co/photo/41730/original/?type=jpeg",
       "pronunciation": "wˈɔːl dᵻkˈæl",
       "senses": [
@@ -814,12 +852,13 @@
       ]
     },
     {
+      "id": "51854eec-d6c0-4792-9833-8c0fcb2cc1e8",
       "word": "tapestry",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFwZXN0cnk&hash=845ca3bbf93ee51e6c56977a3ffc5e8a04d4b85f&lang=en&cache-only=0",
-      "phonetic_text": "tæpəstri",
+      "phonetic_text": "tæ.pəst.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFwZXN0cnk&hash=845ca3bbf93ee51e6c56977a3ffc5e8a04d4b85f&lang=en&cache-only=0",
-      "phonetic_am_text": "tāpēstri",
+      "phonetic_am_text": "tā.pēst.ri",
       "img": "https://cdn.langeek.co/photo/32500/original/?type=jpeg",
       "pronunciation": "ˈtæpəstɹi",
       "senses": [
@@ -851,12 +890,13 @@
       ]
     },
     {
+      "id": "62c9754e-2bac-49d8-9c8d-558da513ee09",
       "word": "mobile",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9iaWxl&hash=ad33661a55d523caf227893335c3fcaa8fc012b9&lang=en&cache-only=0",
-      "phonetic_text": "moʊbəl",
+      "phonetic_text": "moʊ.bi:l",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9iaWxl&hash=ad33661a55d523caf227893335c3fcaa8fc012b9&lang=en&cache-only=0",
-      "phonetic_am_text": "mowbēl",
+      "phonetic_am_text": "mooo.bil",
       "img": "https://cdn.langeek.co/photo/32972/original/?type=jpeg",
       "pronunciation": "ˈmoʊbiːl",
       "senses": [
@@ -867,12 +907,13 @@
       ]
     },
     {
+      "id": "06b049a0-e765-4ee9-96b2-cd15101ed89d",
       "word": "decorative bowl",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVjb3JhdGl2ZSBib3ds&hash=a29bdff53e9b3ee1218382d34831b7bcee657cd8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɛk.rə.tɪv boʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVjb3JhdGl2ZSBib3ds&hash=a29bdff53e9b3ee1218382d34831b7bcee657cd8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dek.rē.tiv boool",
       "img": "https://cdn.langeek.co/photo/41842/original/?type=jpeg",
       "pronunciation": "dˈɛkɹətˌɪv bˈoʊl",
       "senses": [
@@ -900,12 +941,13 @@
       ]
     },
     {
+      "id": "e57e1e14-fc60-45c8-b561-681fe988f86a",
       "word": "floor lamp",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zmxvb3IgbGFtcA&hash=e1b72ea3d06a555948d503f6769c459f9908f717&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "flɔ:r læmp",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmxvb3IgbGFtcA&hash=e1b72ea3d06a555948d503f6769c459f9908f717&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "flawr lāmp",
       "img": "https://cdn.langeek.co/photo/32764/original/?type=jpeg",
       "pronunciation": "flˈoːɹ lˈæmp",
       "senses": [
@@ -916,12 +958,13 @@
       ]
     },
     {
+      "id": "48e78821-a67d-43e2-8bb6-22b0392f83d7",
       "word": "table lamp",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFibGUgbGFtcA&hash=847c31fef6d50f2b2426ce7e158455d59d3c7050&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "teɪ.bəl læmp",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFibGUgbGFtcA&hash=847c31fef6d50f2b2426ce7e158455d59d3c7050&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tei.bēl lāmp",
       "img": "https://cdn.langeek.co/photo/22117/original/lamp?type=jpeg",
       "pronunciation": "tˈeɪbəl lˈæmp",
       "senses": [
@@ -932,12 +975,13 @@
       ]
     },
     {
+      "id": "4a19af67-8570-41a2-ad89-54eecc28cca3",
       "word": "wall clock",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2FsbCBjbG9jaw&hash=d2196d13e0335427e17e7f4441d46f9c97126e01&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɔ:l klɑk",
       "phonetic_am": "https://tts.langeek.co/read?text=d2FsbCBjbG9jaw&hash=d2196d13e0335427e17e7f4441d46f9c97126e01&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vawl klaak",
       "img": "https://cdn.langeek.co/photo/41856/original/?type=jpeg",
       "pronunciation": "wˈɔːl klˈɑːk",
       "senses": [
@@ -948,12 +992,13 @@
       ]
     },
     {
+      "id": "062ae9bf-2f49-4c0b-a211-add18d0225e5",
       "word": "grandfather clock",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JhbmRmYXRoZXIgY2xvY2s&hash=e9b63b40726a34d86799b349793284d7c3ab6e8b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "grænd.fɑ:.ðər klɑk",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JhbmRmYXRoZXIgY2xvY2s&hash=e9b63b40726a34d86799b349793284d7c3ab6e8b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "grānd.faa.dhēr klaak",
       "img": "https://cdn.langeek.co/photo/41960/original/?type=jpeg",
       "pronunciation": "ɡɹˈændfɑːðɚ klˈɑːk",
       "senses": [
@@ -964,12 +1009,13 @@
       ]
     },
     {
+      "id": "2f520e5b-1c32-4eab-beba-ca201090b2f1",
       "word": "grandmother clock",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JhbmRtb3RoZXIgY2xvY2s&hash=a734b9b2c38e0c81eac7b261c67e7f548b714ae5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "grænd.mʌ.ðər klɑk",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JhbmRtb3RoZXIgY2xvY2s&hash=a734b9b2c38e0c81eac7b261c67e7f548b714ae5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "grānd.ma.dhēr klaak",
       "img": "https://cdn.langeek.co/photo/41962/original/?type=jpeg",
       "pronunciation": "ɡɹˈændmʌðɚ klˈɑːk",
       "senses": [
@@ -980,12 +1026,13 @@
       ]
     },
     {
+      "id": "ab020cfb-2458-4dea-82db-fe5d3eab287e",
       "word": "table linen",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFibGUgbGluZW4&hash=cfaa67ce3e93f817df02420500e0c50f61c28f9d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "teɪ.bəl lɪ.nən",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFibGUgbGluZW4&hash=cfaa67ce3e93f817df02420500e0c50f61c28f9d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tei.bēl li.nēn",
       "img": "https://cdn.langeek.co/photo/41858/original/?type=jpeg",
       "pronunciation": "tˈeɪbəl lˈɪnɪn",
       "senses": [
@@ -1013,12 +1060,13 @@
       ]
     },
     {
+      "id": "360303e6-40bc-43fa-add7-1f96dda14f51",
       "word": "hanging basket",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFuZ2luZyBiYXNrZXQ&hash=75f18b422554b45738aecb87b2b55fc1edf99bfa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hæn.gɪng bæs.kət",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFuZ2luZyBiYXNrZXQ&hash=75f18b422554b45738aecb87b2b55fc1edf99bfa&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hān.ging bās.kēt",
       "img": "https://cdn.langeek.co/photo/41848/original/?type=jpeg",
       "pronunciation": "hˈæŋɪŋ bˈæskɪt",
       "senses": [
@@ -1046,12 +1094,13 @@
       ]
     },
     {
+      "id": "30e1e738-b046-4135-bdec-6b56b87672ad",
       "word": "planter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGxhbnRlcg&hash=74d23f8030a5a56957c699a991c48b79210f2820&lang=en&cache-only=0",
-      "phonetic_text": "plæntər",
+      "phonetic_text": "plæn.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cGxhbnRlcg&hash=74d23f8030a5a56957c699a991c48b79210f2820&lang=en&cache-only=0",
-      "phonetic_am_text": "plāntēr",
+      "phonetic_am_text": "plān.tēr",
       "img": "https://cdn.langeek.co/photo/41854/original/?type=jpeg",
       "pronunciation": "ˈpɫæntɝ",
       "senses": [
@@ -1062,12 +1111,13 @@
       ]
     },
     {
+      "id": "19582c51-927e-4a8d-ba88-d523f5cbab90",
       "word": "window box",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2luZG93IGJveA&hash=7047b36cf36dd61fcb7e8b0c20ca205664c60d0a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɪn.doʊ bɑ:ks",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luZG93IGJveA&hash=7047b36cf36dd61fcb7e8b0c20ca205664c60d0a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vin.dooo baaks",
       "img": "https://cdn.langeek.co/photo/32124/original/?type=jpeg",
       "pronunciation": "wˈɪndoʊ bˈɑːks",
       "senses": [
@@ -1099,12 +1149,13 @@
       ]
     },
     {
+      "id": "a82c60cb-7d4a-458e-94e0-a9ecd3bf909b",
       "word": "candle holder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FuZGxlIGhvbGRlcg&hash=c9829416e7bd2ad833dca766136b87913821efc3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kæn.dəl hoʊl.dər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FuZGxlIGhvbGRlcg&hash=c9829416e7bd2ad833dca766136b87913821efc3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kān.dēl hoool.dēr",
       "img": "https://cdn.langeek.co/photo/32752/original/?type=jpeg",
       "pronunciation": "kˈændəl hˈoʊldɚ",
       "senses": [
@@ -1115,12 +1166,13 @@
       ]
     },
     {
+      "id": "9d67109d-7189-4366-961d-81ea57b6d501",
       "word": "lampshade",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFtcHNoYWRl&hash=fecaa12646c34f152cef3a730dde77ab03f8bc71&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "læmp.ʃeɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFtcHNoYWRl&hash=fecaa12646c34f152cef3a730dde77ab03f8bc71&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lāmp.sheid",
       "img": "https://cdn.langeek.co/photo/28401/original/?type=jpeg",
       "pronunciation": "lˈæmpʃeɪd",
       "senses": [
@@ -1131,12 +1183,13 @@
       ]
     },
     {
+      "id": "81a619e0-5578-4d67-bcad-33a971c1885d",
       "word": "full-length mirror",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnVsbC1sZW5ndGggbWlycm9y&hash=44bb68f873566f403a2b3cad0f8a83ff1270789f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fʊl-lɛngθ mɪ.rɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnVsbC1sZW5ndGggbWlycm9y&hash=44bb68f873566f403a2b3cad0f8a83ff1270789f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fool-length mi.rēr",
       "img": "https://cdn.langeek.co/photo/32952/original/?type=jpeg",
       "pronunciation": "fˈʊllˈɛŋθ mˈɪɹɚ",
       "senses": [
@@ -1147,12 +1200,13 @@
       ]
     },
     {
+      "id": "ff82d0d5-8d99-47d2-8fde-a1749d181ff1",
       "word": "girandole",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2lyYW5kb2xl&hash=a338be926e9f97d297cc13cff505e4d3a0db71c2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤɜ:.ran.doʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2lyYW5kb2xl&hash=a338be926e9f97d297cc13cff505e4d3a0db71c2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "jē.ran.doool",
       "img": "https://cdn.langeek.co/photo/41846/original/?type=jpeg",
       "pronunciation": "dʒˈɜːɹɐndˌoʊl",
       "senses": [
@@ -1184,10 +1238,11 @@
       ]
     },
     {
+      "id": "a0663e0e-8bde-47be-b97f-3bfba6819b6c",
       "word": "cheval glass",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hldmFsIGdsYXNz&hash=b7b8eb8166432f5743c6ef63bae5d6c0aeacf66e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hldmFsIGdsYXNz&hash=b7b8eb8166432f5743c6ef63bae5d6c0aeacf66e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/32952/original/?type=jpeg",
@@ -1217,12 +1272,13 @@
       ]
     },
     {
+      "id": "7b17c637-b51a-45ec-b40a-3864cb7ab368",
       "word": "pegboard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVnYm9hcmQ&hash=09c023b1f9b9430a996e722d98ff48b01002a565&lang=en&cache-only=0",
-      "phonetic_text": "pɛgbɔrd",
+      "phonetic_text": "pɛg.bɔ:rd",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVnYm9hcmQ&hash=09c023b1f9b9430a996e722d98ff48b01002a565&lang=en&cache-only=0",
-      "phonetic_am_text": "pegbawrd",
+      "phonetic_am_text": "peg.bawrd",
       "img": "https://cdn.langeek.co/photo/41850/original/?type=jpeg",
       "pronunciation": "ˈpɛɡˌbɔɹd",
       "senses": [
@@ -1254,12 +1310,13 @@
       ]
     },
     {
+      "id": "52ee2276-1cf2-4ffd-b008-11b4380b30e7",
       "word": "canopy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2Fub3B5&hash=d343d01770a3083041c12dd40958f153a4a62949&lang=en&cache-only=0",
-      "phonetic_text": "kænəpi",
+      "phonetic_text": "kæ.nə.pi",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2Fub3B5&hash=d343d01770a3083041c12dd40958f153a4a62949&lang=en&cache-only=0",
-      "phonetic_am_text": "kānēpi",
+      "phonetic_am_text": "kā.nē.pi",
       "img": "https://cdn.langeek.co/photo/41840/original/?type=jpeg",
       "pronunciation": "ˈkænəpi",
       "senses": [
@@ -1270,14 +1327,15 @@
       ]
     },
     {
+      "id": "90c4f7df-1d8c-4a68-a895-56c69e5314b0",
       "word": "mirror",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWlycm9y&hash=9c81b0d2375685386d02c08fdf1e2d35f5372c84&lang=en&cache-only=0",
-      "phonetic_text": "mɪrər",
+      "phonetic_text": "mɪ.rɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bWlycm9y&hash=9c81b0d2375685386d02c08fdf1e2d35f5372c84&lang=en&cache-only=0",
-      "phonetic_am_text": "mirēr",
+      "phonetic_am_text": "mi.rēr",
       "img": "https://cdn.langeek.co/photo/28335/original/mirror?type=jpeg",
-      "pronunciation": "ˈmɪɹɝ",
+      "pronunciation": "ˈmɪrɚ",
       "senses": [
         {
           "definition": "a flat surface made of glass that people can see themselves in",
@@ -1303,12 +1361,13 @@
       ]
     },
     {
+      "id": "8b59571c-2bec-40e2-996b-ff7f7f2fae3c",
       "word": "epergne",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXBlcmduZQ&hash=50abd3b40b8b8a6625637f86cb3627ff5d1f9155&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛ.pərg.ni",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXBlcmduZQ&hash=50abd3b40b8b8a6625637f86cb3627ff5d1f9155&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "e.pērg.ni",
       "img": "https://cdn.langeek.co/photo/41844/original/?type=jpeg",
       "pronunciation": "ˈɛpɚɡni",
       "senses": [
@@ -1340,39 +1399,19 @@
       ]
     },
     {
+      "id": "1617e81e-2797-4411-a830-946e5b8da011",
       "word": "string lighting",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RyaW5nIGxpZ2h0aW5n&hash=320eace2f1e464ceec64b493785cf5597d09fd3f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "strɪng laɪ.tɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyaW5nIGxpZ2h0aW5n&hash=320eace2f1e464ceec64b493785cf5597d09fd3f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "string lai.ting",
       "img": "https://cdn.langeek.co/photo/33691/original/?type=jpeg",
       "pronunciation": "stɹˈɪŋ lˈaɪɾɪŋ",
       "senses": [
         {
           "definition": "a decorative lighting arrangement consisting of a string or series of small bulbs connected by a wire or cable",
-          "examples": [
-            {
-              "cf": "",
-              "x": "String lighting can transform a backyard into a magical setting for evening gatherings."
-            },
-            {
-              "cf": "",
-              "x": "For the party, they decorated the living room with string lighting around the walls."
-            },
-            {
-              "cf": "",
-              "x": "She used string lighting to add a cozy touch to her bedroom during the holidays."
-            },
-            {
-              "cf": "",
-              "x": "The wedding venue was decorated with string lighting that highlighted the elegant table settings."
-            },
-            {
-              "cf": "",
-              "x": "They added string lighting to the balcony, making it a perfect spot for evening relaxation."
-            }
-          ]
+          "examples": []
         }
       ]
     }

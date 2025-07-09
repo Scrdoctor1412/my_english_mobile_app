@@ -1,9 +1,11 @@
 {
+  "id": "eb5bdf2a-94e2-47a2-bc1d-edd21e84c812",
   "topic": "clothes_and_fashion",
   "title": "Materials and Patterns",
   "lesson": "lesson_18",
   "word_list": [
     {
+      "id": "84bd5761-3d6b-4f38-85df-811958c5e8c3",
       "word": "lace",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFjZQ&hash=c453494bea07e7f88d6f63823f06d03d3de75fcf&lang=en&cache-only=0",
@@ -11,23 +13,41 @@
       "phonetic_am": "https://tts.langeek.co/read?text=bGFjZQ&hash=c453494bea07e7f88d6f63823f06d03d3de75fcf&lang=en&cache-only=0",
       "phonetic_am_text": "leis",
       "img": "https://cdn.langeek.co/photo/20517/original/lace?type=jpeg",
-      "pronunciation": "ˈɫeɪs",
+      "pronunciation": "leɪs",
       "senses": [
         {
           "definition": "a delicate cotton or silky cloth made by weaving or knitting threads in an open web-like pattern",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She adorned her wedding gown with beautiful lace, giving it a timeless and elegant look."
+            },
+            {
+              "cf": "",
+              "x": "Her dress featured intricate lace detailing around the neckline and sleeves."
+            },
+            {
+              "cf": "",
+              "x": "The seamstress added a lace trim to the hem of the vintage skirt to enhance its charm."
+            },
+            {
+              "cf": "",
+              "x": "For the special occasion, she chose a lace tablecloth that complemented the fine china perfectly."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "eecce4e3-68cf-4ae2-b9d9-780f919e470e",
       "word": "linen",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGluZW4&hash=8c628de432689f0884d5a3631af11fe3b642f941&lang=en&cache-only=0",
-      "phonetic_text": "lɪnən",
+      "phonetic_text": "lɪ.nən",
       "phonetic_am": "https://tts.langeek.co/read?text=bGluZW4&hash=8c628de432689f0884d5a3631af11fe3b642f941&lang=en&cache-only=0",
-      "phonetic_am_text": "linēn",
+      "phonetic_am_text": "li.nēn",
       "img": "https://cdn.langeek.co/photo/19460/original/linen?type=jpeg",
-      "pronunciation": "ˈɫɪnən",
+      "pronunciation": "ˈlɪnɪn",
       "senses": [
         {
           "definition": "cloth that is made from the fibers of a plant called flax, used to make fine clothes, etc.",
@@ -53,12 +73,13 @@
       ]
     },
     {
+      "id": "a28d7d72-1a4b-4edd-956e-26d78ceb6cee",
       "word": "mohair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9oYWly&hash=929a21cea7cbbe3c83496d87ec55c59eca90164e&lang=en&cache-only=0",
-      "phonetic_text": "moʊhɛr",
+      "phonetic_text": "moʊ.hɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9oYWly&hash=929a21cea7cbbe3c83496d87ec55c59eca90164e&lang=en&cache-only=0",
-      "phonetic_am_text": "mowher",
+      "phonetic_am_text": "mooo.her",
       "img": "https://cdn.langeek.co/photo/34628/original/?type=jpeg",
       "pronunciation": "ˈmoʊˌhɛɹ",
       "senses": [
@@ -69,14 +90,15 @@
       ]
     },
     {
+      "id": "da1e69be-9958-403c-89c6-86b1fb225abb",
       "word": "leather",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGVhdGhlcg&hash=d3511715ea0c7416c770afaf965ac126f12a2c59&lang=en&cache-only=0",
-      "phonetic_text": "lɛðər",
+      "phonetic_text": "lɛ.ðər",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVhdGhlcg&hash=d3511715ea0c7416c770afaf965ac126f12a2c59&lang=en&cache-only=0",
-      "phonetic_am_text": "ledhēr",
+      "phonetic_am_text": "le.dhēr",
       "img": "https://cdn.langeek.co/photo/18401/original/leather?type=jpeg",
-      "pronunciation": "ˈɫɛðɝ",
+      "pronunciation": "ˈlɛðɚ",
       "senses": [
         {
           "definition": "strong material made from animal skin and used for making clothes, bags, shoes, etc.",
@@ -98,12 +120,13 @@
       ]
     },
     {
+      "id": "1354e74c-98dd-4a6a-807a-4c0bc04c2219",
       "word": "moleskin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9sZXNraW4&hash=7a35f11fb7161763cf69b660960370fc5ccceb35&lang=en&cache-only=0",
-      "phonetic_text": "mɔ:lɛskɪn",
+      "phonetic_text": "moʊl.skɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9sZXNraW4&hash=7a35f11fb7161763cf69b660960370fc5ccceb35&lang=en&cache-only=0",
-      "phonetic_am_text": "maawleskin",
+      "phonetic_am_text": "moool.skin",
       "img": "https://cdn.langeek.co/photo/34951/original/?type=jpeg",
       "pronunciation": "ˈmɔɫɛˌskɪn",
       "senses": [
@@ -114,12 +137,13 @@
       ]
     },
     {
+      "id": "8bf3e801-2c9d-4ed2-a90b-379c35515281",
       "word": "muslin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXVzbGlu&hash=fa4b345b9266d419dd797c8ad20cda19b4134199&lang=en&cache-only=0",
-      "phonetic_text": "mʌzlən",
+      "phonetic_text": "məz.lən",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVzbGlu&hash=fa4b345b9266d419dd797c8ad20cda19b4134199&lang=en&cache-only=0",
-      "phonetic_am_text": "mazlēn",
+      "phonetic_am_text": "mēz.lēn",
       "img": "https://cdn.langeek.co/photo/34953/original/?type=jpeg",
       "pronunciation": "ˈməzɫən",
       "senses": [
@@ -130,12 +154,13 @@
       ]
     },
     {
+      "id": "295175ce-b9a7-4abf-bfec-17850599c7e5",
       "word": "patent leather",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGF0ZW50IGxlYXRoZXI&hash=5959ff68e515dbc63cc0404ef40b8433eccfbf55&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pæ.tənt lɛ.ðər",
       "phonetic_am": "https://tts.langeek.co/read?text=cGF0ZW50IGxlYXRoZXI&hash=5959ff68e515dbc63cc0404ef40b8433eccfbf55&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pā.tēnt le.dhēr",
       "img": "https://cdn.langeek.co/photo/34630/original/?type=jpeg",
       "pronunciation": "pˈæʔn̩t lˈɛðɚ",
       "senses": [
@@ -146,12 +171,13 @@
       ]
     },
     {
+      "id": "87f0bb47-99c9-4d05-8ffc-93d551f65065",
       "word": "polyester",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9seWVzdGVy&hash=9943c52c5f889633f53fe6037fc5bfd4cedeca03&lang=en&cache-only=0",
-      "phonetic_text": "pɑliɛstər",
+      "phonetic_text": "pɑ.liɛs.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9seWVzdGVy&hash=9943c52c5f889633f53fe6037fc5bfd4cedeca03&lang=en&cache-only=0",
-      "phonetic_am_text": "pɑliestēr",
+      "phonetic_am_text": "paa.lies.tēr",
       "img": "https://cdn.langeek.co/photo/34957/original/?type=jpeg",
       "pronunciation": "ˌpɑˌɫiˈɛstɝ",
       "senses": [
@@ -162,12 +188,13 @@
       ]
     },
     {
+      "id": "3b6bbe73-d76c-4028-9b02-5ac731732339",
       "word": "satin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2F0aW4&hash=4951681f1431981e46f69eb4d9946d0827a9bfbe&lang=en&cache-only=0",
-      "phonetic_text": "sætən",
+      "phonetic_text": "sæ.tən",
       "phonetic_am": "https://tts.langeek.co/read?text=c2F0aW4&hash=4951681f1431981e46f69eb4d9946d0827a9bfbe&lang=en&cache-only=0",
-      "phonetic_am_text": "sātēn",
+      "phonetic_am_text": "sā.tēn",
       "img": "https://cdn.langeek.co/photo/20527/original/silk?type=jpeg",
       "pronunciation": "ˈsætən",
       "senses": [
@@ -178,6 +205,7 @@
       ]
     },
     {
+      "id": "5e276d7d-ad44-4510-bb82-435ae7f5a61a",
       "word": "silk",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2lsaw&hash=3d6f2da4a40ae08b33a8b8c98671da165540bdf9&lang=en&cache-only=0",
@@ -185,7 +213,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=c2lsaw&hash=3d6f2da4a40ae08b33a8b8c98671da165540bdf9&lang=en&cache-only=0",
       "phonetic_am_text": "silk",
       "img": "https://cdn.langeek.co/photo/20527/original/silk?type=jpeg",
-      "pronunciation": "ˈsɪɫk",
+      "pronunciation": "sɪlk",
       "senses": [
         {
           "definition": "a type of smooth soft fabric made from the threads that silkworms produce",
@@ -215,12 +243,13 @@
       ]
     },
     {
+      "id": "768b04a9-2f18-4de1-b797-c1e2ec39d17e",
       "word": "nylon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bnlsb24&hash=dee282437aac87928321000976a8129d6e06d003&lang=en&cache-only=0",
-      "phonetic_text": "naɪlɑn",
+      "phonetic_text": "naɪ.lɑn",
       "phonetic_am": "https://tts.langeek.co/read?text=bnlsb24&hash=dee282437aac87928321000976a8129d6e06d003&lang=en&cache-only=0",
-      "phonetic_am_text": "nailɑn",
+      "phonetic_am_text": "nai.laan",
       "img": "https://cdn.langeek.co/photo/34879/original/?type=jpeg",
       "pronunciation": "ˈnaɪˌɫɑn",
       "senses": [
@@ -231,12 +260,13 @@
       ]
     },
     {
+      "id": "74757e78-9471-416a-baeb-4f8856550c02",
       "word": "acrylic",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWNyeWxpYw&hash=0f21e26be0365760447b5ccac386eb6cbeee5f11&lang=en&cache-only=0",
-      "phonetic_text": "əkrɪlɪk",
+      "phonetic_text": "ək.rɪ.lɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=YWNyeWxpYw&hash=0f21e26be0365760447b5ccac386eb6cbeee5f11&lang=en&cache-only=0",
-      "phonetic_am_text": "ēkrilik",
+      "phonetic_am_text": "ēk.ri.lik",
       "img": "https://cdn.langeek.co/photo/34949/original/?type=jpeg",
       "pronunciation": "əˈkɹɪɫɪk",
       "senses": [
@@ -247,12 +277,13 @@
       ]
     },
     {
+      "id": "01740071-f7ff-4257-ba6e-6eecfed00a7a",
       "word": "cashmere",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FzaG1lcmU&hash=1302ed6c9dab17732238c92bbf0792652f3fb01a&lang=en&cache-only=0",
-      "phonetic_text": "kæʒmɪr",
+      "phonetic_text": "kæʃ.mɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FzaG1lcmU&hash=1302ed6c9dab17732238c92bbf0792652f3fb01a&lang=en&cache-only=0",
-      "phonetic_am_text": "kāzhmir",
+      "phonetic_am_text": "kāsh.mir",
       "img": "https://cdn.langeek.co/photo/29848/original/?type=jpeg",
       "pronunciation": "ˈkæʒmɪɹ",
       "senses": [
@@ -263,12 +294,13 @@
       ]
     },
     {
+      "id": "39a009b8-5dec-496b-833b-1d4d2127e8bc",
       "word": "pinstripe",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGluc3RyaXBl&hash=c13f5caa89ce67eca75317c15e1bb7fc8bb03315&lang=en&cache-only=0",
-      "phonetic_text": "pɪnstraɪp",
+      "phonetic_text": "pɪn.straɪp",
       "phonetic_am": "https://tts.langeek.co/read?text=cGluc3RyaXBl&hash=c13f5caa89ce67eca75317c15e1bb7fc8bb03315&lang=en&cache-only=0",
-      "phonetic_am_text": "pinstraip",
+      "phonetic_am_text": "pin.straip",
       "img": "https://cdn.langeek.co/photo/34670/original/?type=jpeg",
       "pronunciation": "ˈpɪnˌstɹaɪp",
       "senses": [
@@ -279,12 +311,13 @@
       ]
     },
     {
+      "id": "655c61ec-de39-48be-ab3f-80596fc1c493",
       "word": "pinstriped",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cGluc3RyaXBlZA&hash=091d793166b1db3b31f350294dc2a4f7d5f2e537&lang=en&cache-only=0",
-      "phonetic_text": "pɪnstraɪpt",
+      "phonetic_text": "pɪn.straɪpt",
       "phonetic_am": "https://tts.langeek.co/read?text=cGluc3RyaXBlZA&hash=091d793166b1db3b31f350294dc2a4f7d5f2e537&lang=en&cache-only=0",
-      "phonetic_am_text": "pinstraipt",
+      "phonetic_am_text": "pin.straipt",
       "img": "https://cdn.langeek.co/photo/34670/original/?type=jpeg",
       "pronunciation": "ˈpɪnˌstɹaɪpt",
       "senses": [
@@ -316,12 +349,13 @@
       ]
     },
     {
+      "id": "87d8f9e7-6a20-4188-9e04-8dc5a0222a1f",
       "word": "chiffon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hpZmZvbg&hash=0c0a60bb992eb025ade461902170ef10cc5fc508&lang=en&cache-only=0",
-      "phonetic_text": "ʃɪfɑ:n",
+      "phonetic_text": "ʃɪ.fɑn",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hpZmZvbg&hash=0c0a60bb992eb025ade461902170ef10cc5fc508&lang=en&cache-only=0",
-      "phonetic_am_text": "shifaan",
+      "phonetic_am_text": "shi.faan",
       "img": "https://cdn.langeek.co/photo/29852/original/?type=jpeg",
       "pronunciation": "ʃɪˈfɑn",
       "senses": [
@@ -332,14 +366,15 @@
       ]
     },
     {
+      "id": "72b7ae21-d1cf-46b3-b072-31c0cf483727",
       "word": "cloth",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xvdGg&hash=27018bace4f1907e62a56fa30bdebd430456424c&lang=en&cache-only=0",
-      "phonetic_text": "klɔ:θ",
+      "phonetic_text": "klɔθ",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xvdGg&hash=27018bace4f1907e62a56fa30bdebd430456424c&lang=en&cache-only=0",
-      "phonetic_am_text": "klaawth",
+      "phonetic_am_text": "klawth",
       "img": "https://cdn.langeek.co/photo/18373/original/cloth?type=jpeg",
-      "pronunciation": "ˈkɫɔθ",
+      "pronunciation": "klɑːθ",
       "senses": [
         {
           "definition": "material used for making clothes, which is made by knitting or weaving silk, cotton, etc.",
@@ -365,12 +400,13 @@
       ]
     },
     {
+      "id": "0fec3097-4054-4154-ac9e-0c01867e286c",
       "word": "corduroy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29yZHVyb3k&hash=ae5151bd7d1c50f17c48df41d034dd8dddeadf9e&lang=en&cache-only=0",
-      "phonetic_text": "kɔ:rdərɔɪ",
+      "phonetic_text": "kɔr.dɜ.rɔɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29yZHVyb3k&hash=ae5151bd7d1c50f17c48df41d034dd8dddeadf9e&lang=en&cache-only=0",
-      "phonetic_am_text": "kaawrdēroy",
+      "phonetic_am_text": "kawr.dē.rawi",
       "img": "https://cdn.langeek.co/photo/24910/original/?type=jpeg",
       "pronunciation": "ˈkɔɹdɝˌɔɪ",
       "senses": [
@@ -381,12 +417,13 @@
       ]
     },
     {
+      "id": "e420b20f-be34-4362-9a2d-5aee0a2d522f",
       "word": "crepe",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3JlcGU&hash=65aaff07d99e34a06a6aaba51ec9f39b5ed249e9&lang=en&cache-only=0",
-      "phonetic_text": "kreɪp",
+      "phonetic_text": "krɛ:p",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3JlcGU&hash=65aaff07d99e34a06a6aaba51ec9f39b5ed249e9&lang=en&cache-only=0",
-      "phonetic_am_text": "kreip",
+      "phonetic_am_text": "krep",
       "img": "https://cdn.langeek.co/photo/30014/original/?type=jpeg",
       "pronunciation": "kɹˈɛːp",
       "senses": [
@@ -397,12 +434,13 @@
       ]
     },
     {
+      "id": "37a65fb7-5d0a-42aa-9a59-ca222312ad8b",
       "word": "flannel",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zmxhbm5lbA&hash=9353161a4dcfbd83a43b3e1fd862bd360431456f&lang=en&cache-only=0",
-      "phonetic_text": "flænəl",
+      "phonetic_text": "flæ.nəl",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmxhbm5lbA&hash=9353161a4dcfbd83a43b3e1fd862bd360431456f&lang=en&cache-only=0",
-      "phonetic_am_text": "flānēl",
+      "phonetic_am_text": "flā.nēl",
       "img": "https://cdn.langeek.co/photo/30020/original/?type=jpeg",
       "pronunciation": "ˈfɫænəɫ",
       "senses": [
@@ -413,14 +451,15 @@
       ]
     },
     {
+      "id": "dd7b7755-b3b7-465b-ae14-4e896afb8137",
       "word": "fur",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnVy&hash=4e55082075d55feed5e6d4d66b0c1ae3325dd6da&lang=en&cache-only=0",
       "phonetic_text": "fɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnVy&hash=4e55082075d55feed5e6d4d66b0c1ae3325dd6da&lang=en&cache-only=0",
       "phonetic_am_text": "fēr",
-      "img": "https://cdn.langeek.co/photo/18381/original/fur?type=jpeg",
-      "pronunciation": "ˈfɝ",
+      "img": "https://cdn.langeek.co/photo/60266/original/fur?type=jpeg",
+      "pronunciation": "fɝ",
       "senses": [
         {
           "definition": "an item of clothing made of the skin of a dead animal, typically mammals like foxes or rabbits",
@@ -442,12 +481,13 @@
       ]
     },
     {
+      "id": "5e69954a-d6f4-4cb8-9a7c-744bf979821a",
       "word": "wool",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d29vbA&hash=86d9f3ff0a8a1ea8c6640e259765c329ef9b537b&lang=en&cache-only=0",
       "phonetic_text": "wʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=d29vbA&hash=86d9f3ff0a8a1ea8c6640e259765c329ef9b537b&lang=en&cache-only=0",
-      "phonetic_am_text": "wul",
+      "phonetic_am_text": "vool",
       "img": "https://cdn.langeek.co/photo/19324/original/wool?type=jpeg",
       "pronunciation": "wʊl",
       "senses": [
@@ -479,12 +519,13 @@
       ]
     },
     {
+      "id": "0d23038f-0443-4a78-8df5-bd582a8b301f",
       "word": "tartan",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFydGFu&hash=2de4389033be650f345e30cfd985dbecc382b57d&lang=en&cache-only=0",
-      "phonetic_text": "tɑ:rtən",
+      "phonetic_text": "tɑr.tən",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFydGFu&hash=2de4389033be650f345e30cfd985dbecc382b57d&lang=en&cache-only=0",
-      "phonetic_am_text": "taartēn",
+      "phonetic_am_text": "taar.tēn",
       "img": "https://cdn.langeek.co/photo/24949/original/?type=jpeg",
       "pronunciation": "ˈtɑɹtən",
       "senses": [
@@ -495,13 +536,14 @@
       ]
     },
     {
+      "id": "308e8372-87fd-4ae4-a4d5-94e497124061",
       "word": "thermal",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dGhlcm1hbA&hash=c262b5960c97f01ab59bfda886307cadc8f2d73a&lang=en&cache-only=0",
-      "phonetic_text": "θɜrməl",
+      "phonetic_text": "θɜr.məl",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlcm1hbA&hash=c262b5960c97f01ab59bfda886307cadc8f2d73a&lang=en&cache-only=0",
-      "phonetic_am_text": "thērmēl",
-      "img": "https://cdn.langeek.co/photo/18453/original/?type=jpeg",
+      "phonetic_am_text": "thēr.mēl",
+      "img": "https://cdn.langeek.co/photo/60312/original/?type=jpeg",
       "pronunciation": "ˈθɝməɫ",
       "senses": [
         {
@@ -524,6 +566,7 @@
       ]
     },
     {
+      "id": "143daca1-0a34-4a34-b5b3-7e2f799cf336",
       "word": "check",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hlY2s&hash=d475fc5cf17be34f321fb592977c35823a6b3e4e&lang=en&cache-only=0",
@@ -531,7 +574,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hlY2s&hash=d475fc5cf17be34f321fb592977c35823a6b3e4e&lang=en&cache-only=0",
       "phonetic_am_text": "chek",
       "img": "https://cdn.langeek.co/photo/29850/original/?type=jpeg",
-      "pronunciation": "ˈtʃɛk",
+      "pronunciation": "ʧɛk",
       "senses": [
         {
           "definition": "a pattern of small squares, typically in two colors, used on fabric and resembling a checkerboard",
@@ -540,6 +583,7 @@
       ]
     },
     {
+      "id": "23680355-b512-42b0-95b6-54fc5d8e7576",
       "word": "checked",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y2hlY2tlZA&hash=f693223e4ac9a25122eafe9cff1bc73276959a98&lang=en&cache-only=0",
@@ -547,7 +591,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hlY2tlZA&hash=f693223e4ac9a25122eafe9cff1bc73276959a98&lang=en&cache-only=0",
       "phonetic_am_text": "chekt",
       "img": "https://cdn.langeek.co/photo/28850/original/?type=jpeg",
-      "pronunciation": "ˈtʃɛkt",
+      "pronunciation": "ʧɛkt",
       "senses": [
         {
           "definition": "having a pattern of small squares with usually two different colors",
@@ -569,12 +613,13 @@
       ]
     },
     {
+      "id": "d294966c-1d40-41fa-b84d-fd5e5c76dcf6",
       "word": "suede cloth",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3VlZGUgY2xvdGg&hash=c951616ced57812da31b38b4d89dec0002adaa1a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sweɪd klɔθ",
       "phonetic_am": "https://tts.langeek.co/read?text=c3VlZGUgY2xvdGg&hash=c951616ced57812da31b38b4d89dec0002adaa1a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sveid klawth",
       "img": "https://cdn.langeek.co/photo/34672/original/?type=jpeg",
       "pronunciation": "swˈeɪd klˈɔθ",
       "senses": [
@@ -585,12 +630,13 @@
       ]
     },
     {
+      "id": "40ad79fe-b959-4461-b84d-e13d0cb1b022",
       "word": "suede",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3VlZGU&hash=0edaab0153305a495410b2729a0a8a1a0068d885&lang=en&cache-only=0",
       "phonetic_text": "sweɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=c3VlZGU&hash=0edaab0153305a495410b2729a0a8a1a0068d885&lang=en&cache-only=0",
-      "phonetic_am_text": "sweid",
+      "phonetic_am_text": "sveid",
       "img": "https://cdn.langeek.co/photo/34674/original/?type=jpeg",
       "pronunciation": "ˈsweɪd",
       "senses": [
@@ -622,12 +668,13 @@
       ]
     },
     {
+      "id": "6fa526b1-299a-4c65-a630-679fa160ab90",
       "word": "suede leather",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3VlZGUgbGVhdGhlcg&hash=b29e65529c03f5746e0f73f24d72f6bc60c307ab&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sweɪd lɛ.ðər",
       "phonetic_am": "https://tts.langeek.co/read?text=c3VlZGUgbGVhdGhlcg&hash=b29e65529c03f5746e0f73f24d72f6bc60c307ab&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sveid le.dhēr",
       "img": "https://cdn.langeek.co/photo/34674/original/?type=jpeg",
       "pronunciation": "swˈeɪd lˈɛðɚ",
       "senses": [
@@ -638,12 +685,13 @@
       ]
     },
     {
+      "id": "aa4b364b-82bc-4f37-b024-019852fca09a",
       "word": "patterned",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cGF0dGVybmVk&hash=ec9e69ba459fcff30746f1d429b7fa6404616b1f&lang=en&cache-only=0",
-      "phonetic_text": "pætərnd",
+      "phonetic_text": "pæ.tɜrnd",
       "phonetic_am": "https://tts.langeek.co/read?text=cGF0dGVybmVk&hash=ec9e69ba459fcff30746f1d429b7fa6404616b1f&lang=en&cache-only=0",
-      "phonetic_am_text": "pātērnd",
+      "phonetic_am_text": "pā.tērnd",
       "img": "https://cdn.langeek.co/photo/29870/original/?type=jpeg",
       "pronunciation": "ˈpætɝnd",
       "senses": [
@@ -667,12 +715,13 @@
       ]
     },
     {
+      "id": "d3e5b5a3-831c-47e8-a6ac-dd952d4c7f68",
       "word": "fleece",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmxlZWNl&hash=b17f2ee705a51ba9105b61096748b5d01febf258&lang=en&cache-only=0",
-      "phonetic_text": "fli:s",
+      "phonetic_text": "flis",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmxlZWNl&hash=b17f2ee705a51ba9105b61096748b5d01febf258&lang=en&cache-only=0",
-      "phonetic_am_text": "flees",
+      "phonetic_am_text": "flis",
       "img": "https://cdn.langeek.co/photo/19801/original/?type=jpeg",
       "pronunciation": "ˈfɫis",
       "senses": [
@@ -683,12 +732,13 @@
       ]
     },
     {
+      "id": "885ac955-5f4c-4837-b5d1-e1eb7d80fe15",
       "word": "silky",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c2lsa3k&hash=43c621def243af6c2e9846c8d542d627c01e9a06&lang=en&cache-only=0",
-      "phonetic_text": "sɪlki",
+      "phonetic_text": "sɪl.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=c2lsa3k&hash=43c621def243af6c2e9846c8d542d627c01e9a06&lang=en&cache-only=0",
-      "phonetic_am_text": "silki",
+      "phonetic_am_text": "sil.ki",
       "img": "https://cdn.langeek.co/photo/20527/original/silk?type=jpeg",
       "pronunciation": "ˈsɪɫki",
       "senses": [
@@ -720,6 +770,7 @@
       ]
     },
     {
+      "id": "e5e5f3be-d892-4004-943d-88464f6034ea",
       "word": "plain",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cGxhaW4&hash=297285cfcf6ded6b7701f0ec45e97f0c86fd5959&lang=en&cache-only=0",
@@ -727,7 +778,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=cGxhaW4&hash=297285cfcf6ded6b7701f0ec45e97f0c86fd5959&lang=en&cache-only=0",
       "phonetic_am_text": "plein",
       "img": "https://cdn.langeek.co/photo/20605/original/plain?type=jpeg",
-      "pronunciation": "ˈpɫeɪn",
+      "pronunciation": "pleɪn",
       "senses": [
         {
           "definition": "simple in design, without a specific pattern",
@@ -753,12 +804,13 @@
       ]
     },
     {
+      "id": "12bc07eb-54ab-44f3-b6f2-7f6cb42e0375",
       "word": "woolen",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=d29vbGVu&hash=1d9bb8e3158a0d9115f648e84d33ae2dccbd06a1&lang=en&cache-only=0",
-      "phonetic_text": "wʊlən",
+      "phonetic_text": "wʊ.lən",
       "phonetic_am": "https://tts.langeek.co/read?text=d29vbGVu&hash=1d9bb8e3158a0d9115f648e84d33ae2dccbd06a1&lang=en&cache-only=0",
-      "phonetic_am_text": "wulēn",
+      "phonetic_am_text": "voo.lēn",
       "img": "https://cdn.langeek.co/photo/19801/original/?type=jpeg",
       "pronunciation": "ˈwʊɫən",
       "senses": [
@@ -790,14 +842,15 @@
       ]
     },
     {
+      "id": "7e03ebca-4886-4fc0-b9d8-3b5259c324b2",
       "word": "wooly",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=d29vbHk&hash=86e27d8bad725bee6fef200ae6e13033b32df899&lang=en&cache-only=0",
-      "phonetic_text": "wʊli",
+      "phonetic_text": "wʊ.li",
       "phonetic_am": "https://tts.langeek.co/read?text=d29vbHk&hash=86e27d8bad725bee6fef200ae6e13033b32df899&lang=en&cache-only=0",
-      "phonetic_am_text": "wuli",
+      "phonetic_am_text": "voo.li",
       "img": "https://cdn.langeek.co/photo/24916/original/?type=jpeg",
-      "pronunciation": "ˈwʊɫi",
+      "pronunciation": "ˈwʊli",
       "senses": [
         {
           "definition": "covered in or made of wool",
@@ -827,14 +880,15 @@
       ]
     },
     {
+      "id": "5339ea29-4889-438a-ba77-49087b901a00",
       "word": "velvet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmVsdmV0&hash=c825cfa7a798251a0a273e56d15ce9ee7fe4109c&lang=en&cache-only=0",
-      "phonetic_text": "vɛlvət",
+      "phonetic_text": "vɛl.vət",
       "phonetic_am": "https://tts.langeek.co/read?text=dmVsdmV0&hash=c825cfa7a798251a0a273e56d15ce9ee7fe4109c&lang=en&cache-only=0",
-      "phonetic_am_text": "velvēt",
+      "phonetic_am_text": "vel.vēt",
       "img": "https://cdn.langeek.co/photo/29455/original/?type=jpeg",
-      "pronunciation": "ˈvɛɫvət",
+      "pronunciation": "ˈvɛlvɪt",
       "senses": [
         {
           "definition": "a cloth with a smooth and thick surface, typically made of cotton or silk",
@@ -860,12 +914,13 @@
       ]
     },
     {
+      "id": "5fd57a73-0b71-4503-b8c5-4f961a2ec016",
       "word": "paisley",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFpc2xleQ&hash=fc9f43a63a3a3c2981b4443a570665ff15227693&lang=en&cache-only=0",
-      "phonetic_text": "peɪzli",
+      "phonetic_text": "peɪz.li",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFpc2xleQ&hash=fc9f43a63a3a3c2981b4443a570665ff15227693&lang=en&cache-only=0",
-      "phonetic_am_text": "peizli",
+      "phonetic_am_text": "peiz.li",
       "img": "https://cdn.langeek.co/photo/46145/original/?type=jpeg",
       "pronunciation": "ˈpeɪzɫi",
       "senses": [
@@ -893,12 +948,13 @@
       ]
     },
     {
+      "id": "ccdf64f9-4622-4ad2-80c6-f3bcd415db53",
       "word": "flowery",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Zmxvd2VyeQ&hash=7f53f8165813310375cc36476dda70d65f82735a&lang=en&cache-only=0",
-      "phonetic_text": "flaʊəri",
+      "phonetic_text": "flaʊɜ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmxvd2VyeQ&hash=7f53f8165813310375cc36476dda70d65f82735a&lang=en&cache-only=0",
-      "phonetic_am_text": "flawēri",
+      "phonetic_am_text": "flaooē.ri",
       "img": "https://cdn.langeek.co/photo/28285/original/?type=jpeg",
       "pronunciation": "ˈfɫaʊɝi",
       "senses": [
@@ -909,6 +965,7 @@
       ]
     },
     {
+      "id": "c2fdeeaf-7163-4c4a-b9c4-b29321e74fc6",
       "word": "print",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJpbnQ&hash=aa5ada171c7ebc3fb4a8635d36f53a36ec5d186a&lang=en&cache-only=0",
@@ -916,7 +973,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=cHJpbnQ&hash=aa5ada171c7ebc3fb4a8635d36f53a36ec5d186a&lang=en&cache-only=0",
       "phonetic_am_text": "print",
       "img": "https://cdn.langeek.co/photo/29870/original/?type=jpeg",
-      "pronunciation": "ˈpɹɪnt",
+      "pronunciation": "prɪnt",
       "senses": [
         {
           "definition": "a design applied to a fabric using methods such as screen printing, digital printing, or block printing",
@@ -925,6 +982,7 @@
       ]
     },
     {
+      "id": "df0e59c1-d179-44f5-9b84-cd532fbc3096",
       "word": "plaid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGxhaWQ&hash=220c1faf3527a55e9eed509101c6bc67fab29981&lang=en&cache-only=0",
@@ -962,6 +1020,7 @@
       ]
     },
     {
+      "id": "4db4f2b9-549d-4a02-8f88-e4366cc0888f",
       "word": "striped",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c3RyaXBlZA&hash=69c1201a59de8a4b16321cc30352942e979f78e1&lang=en&cache-only=0",
@@ -969,7 +1028,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyaXBlZA&hash=69c1201a59de8a4b16321cc30352942e979f78e1&lang=en&cache-only=0",
       "phonetic_am_text": "straipt",
       "img": "https://cdn.langeek.co/photo/18387/original/stripe?type=jpeg",
-      "pronunciation": "ˈstɹaɪpt",
+      "pronunciation": "straɪpt",
       "senses": [
         {
           "definition": "having a pattern of straight parallel lines",
@@ -983,12 +1042,13 @@
       ]
     },
     {
+      "id": "df445ca1-4d59-4777-9c34-b9665baa0fae",
       "word": "polka dot",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9sa2EgZG90&hash=94a245e67de99f1b773f95235bbb19f99d9b34ad&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "poʊ.kɑ dɑ:t",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9sa2EgZG90&hash=94a245e67de99f1b773f95235bbb19f99d9b34ad&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pooo.kaa daat",
       "img": "https://cdn.langeek.co/photo/33679/original/?type=jpeg",
       "pronunciation": "pˈɑːlkə dˈɑːt",
       "senses": [
@@ -999,12 +1059,13 @@
       ]
     },
     {
+      "id": "1ddf2277-32a7-40bf-a768-14e210633320",
       "word": "dotted",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZG90dGVk&hash=7c6474a1c389eff54d21dcaaba144063047bd9c8&lang=en&cache-only=0",
-      "phonetic_text": "dɑ:təd",
+      "phonetic_text": "dɑ.təd",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG90dGVk&hash=7c6474a1c389eff54d21dcaaba144063047bd9c8&lang=en&cache-only=0",
-      "phonetic_am_text": "daatēd",
+      "phonetic_am_text": "daa.tēd",
       "img": "https://cdn.langeek.co/photo/33679/original/?type=jpeg",
       "pronunciation": "ˈdɑtəd/, /ˈdɑtɪd",
       "senses": [
@@ -1015,14 +1076,15 @@
       ]
     },
     {
+      "id": "06f157c1-4ff7-46d8-a0a1-06aba3a83c65",
       "word": "cotton",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y290dG9u&hash=438685ef03b50b5d5b332e71ae58102ba9281582&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:tən",
+      "phonetic_text": "kɑ.tən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y290dG9u&hash=438685ef03b50b5d5b332e71ae58102ba9281582&lang=en&cache-only=0",
-      "phonetic_am_text": "kaatēn",
+      "phonetic_am_text": "kaa.tēn",
       "img": "https://cdn.langeek.co/photo/18377/original/cotton?type=jpeg",
-      "pronunciation": "ˈkɑtən/, /ˈkɔtən",
+      "pronunciation": "ˈkɑtən",
       "senses": [
         {
           "definition": "cloth made from the fibers of the cotton plant, naturally soft and comfortable against the skin",
@@ -1052,14 +1114,15 @@
       ]
     },
     {
+      "id": "c9b5da56-9851-4600-a1a0-e2f106f4a05a",
       "word": "fabric",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFicmlj&hash=7d6c3b928ae7fb58513986ca9c11ec044fbabe16&lang=en&cache-only=0",
-      "phonetic_text": "fæbrɪk",
+      "phonetic_text": "fæb.rɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFicmlj&hash=7d6c3b928ae7fb58513986ca9c11ec044fbabe16&lang=en&cache-only=0",
-      "phonetic_am_text": "fābrik",
+      "phonetic_am_text": "fāb.rik",
       "img": "https://cdn.langeek.co/photo/18373/original/cloth?type=jpeg",
-      "pronunciation": "ˈfæbɹɪk",
+      "pronunciation": "ˈfæbrɪk",
       "senses": [
         {
           "definition": "cloth that is made by weaving cotton yarn, silk, etc., which is used in making clothes",
@@ -1089,6 +1152,7 @@
       ]
     },
     {
+      "id": "b8001f97-6bcf-4eac-a4ef-03c982ffc8d6",
       "word": "stripe",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RyaXBl&hash=5edc83b238ba69a650d78e4484c33525953d15cb&lang=en&cache-only=0",
@@ -1096,7 +1160,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyaXBl&hash=5edc83b238ba69a650d78e4484c33525953d15cb&lang=en&cache-only=0",
       "phonetic_am_text": "straip",
       "img": "https://cdn.langeek.co/photo/18387/original/stripe?type=jpeg",
-      "pronunciation": "ˈstɹaɪp",
+      "pronunciation": "straɪp",
       "senses": [
         {
           "definition": "a design consisting of lines or bands with a different color from the background, often used on clothing, textiles, or other surfaces",
@@ -1114,12 +1178,13 @@
       ]
     },
     {
+      "id": "31371fc5-8197-4328-8fbd-aeb0351722e3",
       "word": "spotted",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c3BvdHRlZA&hash=01e2650b7ab29b3b9ee1eee63aa337c665ff037c&lang=en&cache-only=0",
-      "phonetic_text": "spɑ:tɪd",
+      "phonetic_text": "spɑ.tɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BvdHRlZA&hash=01e2650b7ab29b3b9ee1eee63aa337c665ff037c&lang=en&cache-only=0",
-      "phonetic_am_text": "spaatid",
+      "phonetic_am_text": "spaa.tid",
       "img": "https://cdn.langeek.co/photo/26533/original/?type=jpeg",
       "pronunciation": "ˈspɑtɪd",
       "senses": [
@@ -1151,12 +1216,13 @@
       ]
     },
     {
+      "id": "da42d8d0-6d86-4fb8-8e3b-d2006e616cc6",
       "word": "tweed",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHdlZWQ&hash=f22695db5d7bbdd724d25868cf10fc77f1af5df8&lang=en&cache-only=0",
-      "phonetic_text": "twi:d",
+      "phonetic_text": "twid",
       "phonetic_am": "https://tts.langeek.co/read?text=dHdlZWQ&hash=f22695db5d7bbdd724d25868cf10fc77f1af5df8&lang=en&cache-only=0",
-      "phonetic_am_text": "tweed",
+      "phonetic_am_text": "tvid",
       "img": "https://cdn.langeek.co/photo/34636/original/?type=jpeg",
       "pronunciation": "ˈtwid",
       "senses": [
@@ -1167,12 +1233,13 @@
       ]
     },
     {
+      "id": "7875f316-ae7c-4711-b0da-91d150bea835",
       "word": "ribbed",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cmliYmVk&hash=48df4b10824b816b2948fc5b59ff360e4a0f2f49&lang=en&cache-only=0",
-      "phonetic_text": "rɪbd",
+      "phonetic_text": "rɪb.bɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=cmliYmVk&hash=48df4b10824b816b2948fc5b59ff360e4a0f2f49&lang=en&cache-only=0",
-      "phonetic_am_text": "ribd",
+      "phonetic_am_text": "rib.bed",
       "img": "https://cdn.langeek.co/photo/34887/original/?type=jpeg",
       "pronunciation": "ˈɹɪbd",
       "senses": [
@@ -1183,12 +1250,13 @@
       ]
     },
     {
+      "id": "16296991-1588-4dff-a700-1e483a158f18",
       "word": "textile",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGV4dGlsZQ&hash=e5a300ef346a106aa8c9d4ba9b96417d8f90f491&lang=en&cache-only=0",
-      "phonetic_text": "tɛkstaɪl",
+      "phonetic_text": "tɛk.staɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=dGV4dGlsZQ&hash=e5a300ef346a106aa8c9d4ba9b96417d8f90f491&lang=en&cache-only=0",
-      "phonetic_am_text": "tekstail",
+      "phonetic_am_text": "tek.stail",
       "img": "https://cdn.langeek.co/photo/18373/original/cloth?type=jpeg",
       "pronunciation": "ˈtɛkˌstaɪɫ",
       "senses": [
@@ -1220,12 +1288,13 @@
       ]
     },
     {
+      "id": "605049c4-aec4-46f7-b3f3-8711a55fa38e",
       "word": "ruched",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cnVjaGVk&hash=775cf137283728ea6bec2bc64fcb323cfc2da92d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rʌʧt",
       "phonetic_am": "https://tts.langeek.co/read?text=cnVjaGVk&hash=775cf137283728ea6bec2bc64fcb323cfc2da92d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "racht",
       "img": "https://cdn.langeek.co/photo/34893/original/?type=jpeg",
       "pronunciation": "ɹˈʌtʃt",
       "senses": [
@@ -1249,12 +1318,13 @@
       ]
     },
     {
+      "id": "598fed29-7b91-4271-a09e-babd63b779f3",
       "word": "waterproof",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2F0ZXJwcm9vZg&hash=195d6391d884c48cfbae516b62246c70e56323bf&lang=en&cache-only=0",
-      "phonetic_text": "wɔ:tərpruf",
+      "phonetic_text": "wɑ:.tər.pruf",
       "phonetic_am": "https://tts.langeek.co/read?text=d2F0ZXJwcm9vZg&hash=195d6391d884c48cfbae516b62246c70e56323bf&lang=en&cache-only=0",
-      "phonetic_am_text": "waawtērpruf",
+      "phonetic_am_text": "vaa.tēr.proof",
       "img": "https://cdn.langeek.co/photo/34638/original/?type=jpeg",
       "pronunciation": "ˈwɔtɝˌpɹuf",
       "senses": [
@@ -1286,6 +1356,7 @@
       ]
     },
     {
+      "id": "db2db867-0684-4cfc-bb26-bac04d1fd44a",
       "word": "knit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a25pdA&hash=00b3b666e18e8e5cc26375909377e60a879666da&lang=en&cache-only=0",
@@ -1302,14 +1373,15 @@
       ]
     },
     {
+      "id": "1612a68c-7286-4922-b37a-08eaf508a000",
       "word": "denim",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVuaW0&hash=18d08671be1280785c936a2964f6b34200c4b29f&lang=en&cache-only=0",
-      "phonetic_text": "dɛnəm",
+      "phonetic_text": "dɛ.nɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVuaW0&hash=18d08671be1280785c936a2964f6b34200c4b29f&lang=en&cache-only=0",
-      "phonetic_am_text": "denēm",
+      "phonetic_am_text": "de.nim",
       "img": "https://cdn.langeek.co/photo/20511/original/denim?type=jpeg",
-      "pronunciation": "ˈdɛnəm",
+      "pronunciation": "ˈdɛnɪm",
       "senses": [
         {
           "definition": "strong cotton cloth that is usually blue in color, particularly used in making jeans",
@@ -1331,12 +1403,13 @@
       ]
     },
     {
+      "id": "fce807d1-826c-492c-af05-94947847cdac",
       "word": "chintz",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hpbnR6&hash=17ff393a1e42dc6d963de42a4e25b2f60996e55d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧɪnts",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hpbnR6&hash=17ff393a1e42dc6d963de42a4e25b2f60996e55d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chints",
       "img": "https://cdn.langeek.co/photo/28285/original/?type=jpeg",
       "pronunciation": "tʃˈɪnts",
       "senses": [
@@ -1347,12 +1420,13 @@
       ]
     },
     {
+      "id": "c3f7dbab-ef54-4c0b-a918-69f0ba6a23a7",
       "word": "polka-dotted",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cG9sa2EtZG90dGVk&hash=30a5876393a11e7c3f473b15e3ab320a7dde6e12&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "poʊ.kɑ-dɑ.təd",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9sa2EtZG90dGVk&hash=30a5876393a11e7c3f473b15e3ab320a7dde6e12&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pooo.kaa-daa.tēd",
       "img": "https://cdn.langeek.co/photo/33679/original/?type=jpeg",
       "pronunciation": "pɒlkəˌdɒtɪd",
       "senses": [
@@ -1384,12 +1458,13 @@
       ]
     },
     {
+      "id": "c8d85287-c075-40e0-90c7-8cdb152faca9",
       "word": "fustian",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnVzdGlhbg&hash=4b902b39d81f5d278cbd43e57161b84a8bf0ff5b&lang=en&cache-only=0",
-      "phonetic_text": "fʌstiən",
+      "phonetic_text": "fəs.tiən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnVzdGlhbg&hash=4b902b39d81f5d278cbd43e57161b84a8bf0ff5b&lang=en&cache-only=0",
-      "phonetic_am_text": "fastiēn",
+      "phonetic_am_text": "fēs.tiēn",
       "img": "",
       "pronunciation": "ˈfəsˌtiən",
       "senses": [

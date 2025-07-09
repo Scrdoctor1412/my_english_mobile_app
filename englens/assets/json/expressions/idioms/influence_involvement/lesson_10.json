@@ -1,15 +1,17 @@
 {
+  "id": "39174f8e-42a0-4b99-bd20-c5ef1a0e69fb",
   "topic": "influence_involvement",
   "title": "Priority",
   "lesson": "lesson_10",
   "word_list": [
     {
-      "word": "(on|to) the back burner",
-      "pos": "None",
+      "id": "3a77b558-f91e-4fe1-ae5b-aaae829e55fe",
+      "word": "back burner",
+      "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFjayBidXJuZXI&hash=b5cf036d469cd767a66a3627e6943d0bf102fa7d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæk bɜ:r.nər",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFjayBidXJuZXI&hash=b5cf036d469cd767a66a3627e6943d0bf102fa7d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bāk bēr.nēr",
       "img": "",
       "pronunciation": "bˈæk bˈɜːnɚ",
       "senses": [
@@ -34,6 +36,10 @@
             },
             {
               "cf": "",
+              "x": "The plan to renovate the house was put on the back burner after unexpected medical expenses arose."
+            },
+            {
+              "cf": "",
               "x": "The idea was on the back burner for now, but I’ll revisit it later."
             }
           ]
@@ -41,10 +47,11 @@
       ]
     },
     {
-      "word": "[have] (bigger|better|other) fish to (fry|catch)",
+      "id": "315fd4cf-255b-4a1e-8a47-000f0a000531",
+      "word": "to [have] (bigger|better|other) fish to (fry|catch)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGF2ZSBiaWdnZXIgZmlzaCB0byBmcnk&hash=cabc6facf9eab58f05137157375012a8cd7edc42&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGF2ZSBiaWdnZXIgZmlzaCB0byBmcnk&hash=cabc6facf9eab58f05137157375012a8cd7edc42&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -52,32 +59,16 @@
       "senses": [
         {
           "definition": "to have more interesting or important matters to deal with",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I don't have time for your trivial complaints; I have bigger fish to fry at work."
-            },
-            {
-              "cf": "",
-              "x": "I can't help you with your computer problems right now; I have better fish to catch."
-            },
-            {
-              "cf": "",
-              "x": "I appreciate your invitation, but I have other fish to fry this weekend, and I won't be able to join you."
-            },
-            {
-              "cf": "",
-              "x": "Dealing with this minor customer request is not a priority; we have better fish to catch, such as resolving a major service outage."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[get] down to brass tacks",
+      "id": "7654f619-3e54-46a9-842a-d99540278fbc",
+      "word": "to [get] down to brass tacks",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IGRvd24gdG8gYnJhc3MgdGFja3M&hash=c4d61aff3ae8d70ea7a041e3144e12c2c25c5480&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IGRvd24gdG8gYnJhc3MgdGFja3M&hash=c4d61aff3ae8d70ea7a041e3144e12c2c25c5480&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -85,36 +76,16 @@
       "senses": [
         {
           "definition": "to begin talking about basic or important facts of a situation",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The situation was so serious that after a few polite exchanges they quickly got down to brass tacks."
-            },
-            {
-              "cf": "",
-              "x": "Let's get down to brass tacks and discuss how we're going to solve this problem."
-            },
-            {
-              "cf": "",
-              "x": "I'm tired of all the hypotheticals and want to get down to brass tacks."
-            },
-            {
-              "cf": "",
-              "x": "Once we get down to brass tacks, we'll see that there are a few different options available to us."
-            },
-            {
-              "cf": "",
-              "x": "I'm not interested in all the theoretical discussions, I just want to get down to brass tacks."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "7f9353a3-24ff-429f-8b3b-e3af2238cfba",
       "word": "back to (the|) basics",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YmFjayB0byB0aGUgYmFzaWNz&hash=5ce1db787693828d89c2e3be3564fbf120c07228&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFjayB0byB0aGUgYmFzaWNz&hash=5ce1db787693828d89c2e3be3564fbf120c07228&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -127,12 +98,13 @@
       ]
     },
     {
+      "id": "fec15b08-a40a-46ac-b1ed-f13cb163bcff",
       "word": "second banana",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Vjb25kIGJhbmFuYQ&hash=7c3e78e32fb339441e3750d6e97bc267dfdbe744&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛ.kənd bə.næ.nə",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Vjb25kIGJhbmFuYQ&hash=7c3e78e32fb339441e3750d6e97bc267dfdbe744&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "se.kēnd bē.nā.nē",
       "img": "",
       "pronunciation": "sˈɛkənd bɐnˈænə",
       "senses": [
@@ -164,12 +136,13 @@
       ]
     },
     {
+      "id": "0c2cec6c-4bee-46ed-8d30-e066e28f5fd2",
       "word": "second fiddle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Vjb25kIGZpZGRsZQ&hash=3b7af547b248e42d99087c4a2e04fe0aa4294c2f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛ.kənd fɪ.dəl",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Vjb25kIGZpZGRsZQ&hash=3b7af547b248e42d99087c4a2e04fe0aa4294c2f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "se.kēnd fi.dēl",
       "img": "",
       "pronunciation": "sˈɛkənd fˈɪdəl",
       "senses": [
@@ -201,10 +174,11 @@
       ]
     },
     {
-      "word": "[take] a back seat",
+      "id": "2eca9109-2d8f-48ef-bd95-4dd114d54a11",
+      "word": "to [take] a back seat",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIGJhY2sgc2VhdA&hash=429ab1ddd7bfe246436ed8c9bb1d9a797980a167&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIGJhY2sgc2VhdA&hash=429ab1ddd7bfe246436ed8c9bb1d9a797980a167&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43174/original/?type=jpeg",
@@ -212,61 +186,33 @@
       "senses": [
         {
           "definition": "to be placed in a less important or weaker position compared to that of someone else",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After years of being the star player, the veteran athlete has taken a back seat to the younger players on the team."
-            },
-            {
-              "cf": "",
-              "x": "When her husband was elected mayor, the former city councilwoman took a back seat in local politics."
-            },
-            {
-              "cf": "",
-              "x": "With the advent of digital photography, film photography has taken a back seat in the photography industry."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "b5f5a57c-b31d-4b41-8548-fcce7b8cf5cf",
       "word": "first things first",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Zmlyc3QgdGhpbmdzIGZpcnN0&hash=bf34967516bb671c4cf362b5a8f012187437f844&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɜrst θɪngz fɜrst",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmlyc3QgdGhpbmdzIGZpcnN0&hash=bf34967516bb671c4cf362b5a8f012187437f844&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fērst thingz fērst",
       "img": "",
       "pronunciation": "fˈɜːst θˈɪŋz fˈɜːst",
       "senses": [
         {
           "definition": "used to state that there are more important things that one must do or consider before trying to deal with other things",
-          "examples": [
-            {
-              "cf": "",
-              "x": "First things first, let's get the fire under control before we worry about anything else."
-            },
-            {
-              "cf": "",
-              "x": "I know you're eager to start decorating the new house, but first things first, we need to unpack and get settled in."
-            },
-            {
-              "cf": "",
-              "x": "I'm tired of all the distractions and want to get down to brass tacks and focus on first things first."
-            },
-            {
-              "cf": "",
-              "x": "Once we get down to the nitty-gritty, we'll see that there are a few different options available to us, but first things first."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "018e07f3-b5ea-43b0-85af-7e582dead947",
       "word": "(at the|) top of the (agenda|list)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXQgdGhlIHRvcCBvZiB0aGUgYWdlbmRh&hash=ccb2ae0fe80818663a750cace9900a130f37a717&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXQgdGhlIHRvcCBvZiB0aGUgYWdlbmRh&hash=ccb2ae0fe80818663a750cace9900a130f37a717&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -274,24 +220,16 @@
       "senses": [
         {
           "definition": "in the position of utmost importance or high priority",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I like all of his books, but this one is at the top of the list."
-            },
-            {
-              "cf": "",
-              "x": "What do you think is at the top of the agenda for today's meeting?"
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "8ad6b6b2-3fa1-4367-b85f-038b588e7961",
       "word": "the last thing on {one's} mind",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIGxhc3QgdGhpbmcgb24gb25lJ3MgbWluZA&hash=2b3bfaec159cde0eb2c8ea7eb9ef1c7ac6b9d67a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIGxhc3QgdGhpbmcgb24gb25lJ3MgbWluZA&hash=2b3bfaec159cde0eb2c8ea7eb9ef1c7ac6b9d67a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -321,31 +259,28 @@
       ]
     },
     {
+      "id": "8218c92e-6c20-4335-ad7a-01c68869da2a",
       "word": "second best",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Vjb25kIGJlc3Q&hash=e4030c446ee8fedfaad22a09d482f05b7af864df&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛ.kənd best",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Vjb25kIGJlc3Q&hash=e4030c446ee8fedfaad22a09d482f05b7af864df&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "se.kēnd best",
       "img": "",
       "pronunciation": "sˈɛkənd bˈɛst",
       "senses": [
         {
           "definition": "an alternative that is not as fulfilling or desirable as other options that one has",
-          "examples": [
-            {
-              "cf": "",
-              "x": "John aimed to win the competition, but he ended up in second place, settling for second best."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[fall|drop] by the wayside",
+      "id": "9178132e-d6f3-4ded-a189-551e46015e3e",
+      "word": "to [fall|drop] by the wayside",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmFsbCBieSB0aGUgd2F5c2lkZQ&hash=26e0cb4e6be5ccc30aa36fa11a719af1d45d4a0e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmFsbCBieSB0aGUgd2F5c2lkZQ&hash=26e0cb4e6be5ccc30aa36fa11a719af1d45d4a0e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -353,32 +288,16 @@
       "senses": [
         {
           "definition": "to not have the same importance or urgency as something else",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Many aspiring musicians start their careers with great enthusiasm, but few succeed; most talented individuals unfortunately fall by the wayside."
-            },
-            {
-              "cf": "",
-              "x": "When the company faced financial difficulties, several projects had to be discontinued, and some employees fell by the wayside as a result of downsizing."
-            },
-            {
-              "cf": "",
-              "x": "The political campaign began with numerous candidates, but as the race progressed, several contenders dropped by the wayside due to low poll numbers or scandals."
-            },
-            {
-              "cf": "",
-              "x": "During the pursuit of higher education, some students struggle to keep up with the demands of their studies and eventually fall by the wayside, opting to drop out of school."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[set] great store by {sth}",
+      "id": "5a656ca4-d389-4ad5-b92b-450183ef9f33",
+      "word": "to [set] great store by {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2V0IGdyZWF0IHN0b3JlIGJ5IHNvbWV0aGluZw&hash=5839644f9891d6e6c2d9a3dea350a9ee627d2ad8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2V0IGdyZWF0IHN0b3JlIGJ5IHNvbWV0aGluZw&hash=5839644f9891d6e6c2d9a3dea350a9ee627d2ad8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -412,12 +331,13 @@
       ]
     },
     {
+      "id": "44df7115-6de9-4179-8939-051511e32376",
       "word": "front burner",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnJvbnQgYnVybmVy&hash=e19f2e5b4f217f4b7675feadf56dc5ea83dc214a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "frʌnt bɜ:r.nər",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJvbnQgYnVybmVy&hash=e19f2e5b4f217f4b7675feadf56dc5ea83dc214a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "frant bēr.nēr",
       "img": "",
       "pronunciation": "fɹˈʌnt bˈɜːnɚ",
       "senses": [

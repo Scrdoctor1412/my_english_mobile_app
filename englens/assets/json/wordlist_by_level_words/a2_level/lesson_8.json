@@ -1,15 +1,17 @@
 {
+  "id": "a81c8233-620d-4115-8993-688d58af44b8",
   "topic": "a2_level",
   "title": "Conjunctions and Prepositions",
   "lesson": "lesson_8",
   "word_list": [
     {
+      "id": "b0d8bc0d-f1fd-4607-a5b6-38068596f773",
       "word": "and",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=YW5k&hash=51a7b19f7ccdb1031145330fbc625771c6782241&lang=en&cache-only=0",
-      "phonetic_text": "ənd",
+      "phonetic_text": "ænd",
       "phonetic_am": "https://tts.langeek.co/read?text=YW5k&hash=51a7b19f7ccdb1031145330fbc625771c6782241&lang=en&cache-only=0",
-      "phonetic_am_text": "ēnd",
+      "phonetic_am_text": "ānd",
       "img": "",
       "pronunciation": "ænd",
       "senses": [
@@ -41,12 +43,13 @@
       ]
     },
     {
+      "id": "d0d4e72d-83cd-473d-b149-cbeecbe5a3e5",
       "word": "or",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=b3I&hash=4fd7147fae9ba77f6d01fbfe1d3aa9dafff9b616&lang=en&cache-only=0",
       "phonetic_text": "ɔ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=b3I&hash=4fd7147fae9ba77f6d01fbfe1d3aa9dafff9b616&lang=en&cache-only=0",
-      "phonetic_am_text": "aawr",
+      "phonetic_am_text": "awr",
       "img": "",
       "pronunciation": "ɔːr",
       "senses": [
@@ -78,6 +81,7 @@
       ]
     },
     {
+      "id": "7040795c-3738-4179-b015-66f1c5987386",
       "word": "but",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=YnV0&hash=70c4ab5dab87c0da7d0e8d26d269e59ddf4367e7&lang=en&cache-only=0",
@@ -115,6 +119,7 @@
       ]
     },
     {
+      "id": "ab28ca72-a701-4cee-95bd-12f9d17193d8",
       "word": "if",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=aWY&hash=1871a4e9ce462de56789644ae84f73aa2bbe3251&lang=en&cache-only=0",
@@ -152,6 +157,7 @@
       ]
     },
     {
+      "id": "d1ced249-a3ab-4cd4-b2d1-4b13e23a686d",
       "word": "as",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=YXM&hash=92726ad3d3ef13250922674bba77eb0e78ac3e58&lang=en&cache-only=0",
@@ -189,12 +195,13 @@
       ]
     },
     {
+      "id": "4dc518f5-3845-4faa-a5ac-cd5805d2daf6",
       "word": "because",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=YmVjYXVzZQ&hash=2b6599139da9983ab301b190aafba8b6d5d82cb5&lang=en&cache-only=0",
-      "phonetic_text": "bɪkɔ:z",
+      "phonetic_text": "bɪ.kʌz",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVjYXVzZQ&hash=2b6599139da9983ab301b190aafba8b6d5d82cb5&lang=en&cache-only=0",
-      "phonetic_am_text": "bikaawz",
+      "phonetic_am_text": "bi.kaz",
       "img": "",
       "pronunciation": "bɪˈkʌz/ , /bɪˈkɑːz",
       "senses": [
@@ -226,43 +233,45 @@
       ]
     },
     {
+      "id": "00676819-92c1-4999-8981-f609432dba79",
       "word": "so",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=c28&hash=c925aa7be65bdba12aa3c3c05156d18095b98c3e&lang=en&cache-only=0",
       "phonetic_text": "soʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=c28&hash=c925aa7be65bdba12aa3c3c05156d18095b98c3e&lang=en&cache-only=0",
-      "phonetic_am_text": "sow",
+      "phonetic_am_text": "sooo",
       "img": "",
       "pronunciation": "soʊ",
       "senses": [
         {
-          "definition": "used to summarize or draw a conclusion based on previous information or to provide a logical inference",
+          "definition": "used to introduce a consequence or result of the preceding clause",
           "examples": [
             {
               "cf": "",
-              "x": "She loves to bake, so she made a delicious cake for the party."
+              "x": "It was still painful, so I went to see a specialist."
             },
             {
               "cf": "",
-              "x": "She studied hard for the exam, so she felt confident."
+              "x": "She hadn't eaten all day, so she felt dizzy."
             },
             {
               "cf": "",
-              "x": "The restaurant had great reviews, so we decided to try it."
+              "x": "The road was blocked, so we had to take a detour."
             },
             {
               "cf": "",
-              "x": "The store was closed, so we couldn't buy groceries."
+              "x": "He lost his passport, so he missed his flight."
             },
             {
               "cf": "",
-              "x": "They practiced every day, so they performed well in the competition."
+              "x": "I forgot her birthday, so she was upset with me."
             }
           ]
         }
       ]
     },
     {
+      "id": "4e25f119-901b-4355-a900-2f0a70fc74fd",
       "word": "since",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=c2luY2U&hash=08aa666661a88a00b71f3e27b263c1cc5506e660&lang=en&cache-only=0",
@@ -296,12 +305,13 @@
       ]
     },
     {
+      "id": "988e72e1-2289-4c15-ad0c-597aeb15f69b",
       "word": "now",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=bm93&hash=dde1406d2443eb18298ee1745617f7011e8034ac&lang=en&cache-only=0",
       "phonetic_text": "naʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=bm93&hash=dde1406d2443eb18298ee1745617f7011e8034ac&lang=en&cache-only=0",
-      "phonetic_am_text": "naw",
+      "phonetic_am_text": "naoo",
       "img": "",
       "pronunciation": "naʊ",
       "senses": [
@@ -333,12 +343,13 @@
       ]
     },
     {
+      "id": "cae89812-47f2-4bdf-b8a8-708b30bb120b",
       "word": "after",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=YWZ0ZXI&hash=dcc17890663060db3ff8c1e76fa86e6d52432347&lang=en&cache-only=0",
-      "phonetic_text": "æftər",
+      "phonetic_text": "æf.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=YWZ0ZXI&hash=dcc17890663060db3ff8c1e76fa86e6d52432347&lang=en&cache-only=0",
-      "phonetic_am_text": "āftēr",
+      "phonetic_am_text": "āf.tēr",
       "img": "",
       "pronunciation": "ˈæftɚ",
       "senses": [
@@ -370,12 +381,13 @@
       ]
     },
     {
+      "id": "d43c371f-1f48-4a79-9ebf-36bc58e3abe7",
       "word": "before",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=YmVmb3Jl&hash=25d59ac9f2eb644c80b9888b1352227c2f3a4f54&lang=en&cache-only=0",
-      "phonetic_text": "bɪfɔ:r",
+      "phonetic_text": "bɪ.fɔ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVmb3Jl&hash=25d59ac9f2eb644c80b9888b1352227c2f3a4f54&lang=en&cache-only=0",
-      "phonetic_am_text": "bifaawr",
+      "phonetic_am_text": "bi.fawr",
       "img": "https://cdn.langeek.co/photo/33012/original/?type=jpeg",
       "pronunciation": "bɪˈfɔːr",
       "senses": [
@@ -407,12 +419,13 @@
       ]
     },
     {
+      "id": "42ffc106-aecc-4638-b27e-29e3d0c54d17",
       "word": "once",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=b25jZQ&hash=2a792c00e74e641d82e9c50bd142192a8ce42a80&lang=en&cache-only=0",
-      "phonetic_text": "wʌns",
+      "phonetic_text": "ns",
       "phonetic_am": "https://tts.langeek.co/read?text=b25jZQ&hash=2a792c00e74e641d82e9c50bd142192a8ce42a80&lang=en&cache-only=0",
-      "phonetic_am_text": "wans",
+      "phonetic_am_text": "ns",
       "img": "",
       "pronunciation": "wʌns",
       "senses": [
@@ -444,12 +457,13 @@
       ]
     },
     {
+      "id": "9633457e-56ba-428c-9411-0fbf34846425",
       "word": "although",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=YWx0aG91Z2g&hash=b38378afa2ff3b2c4c540954c6e477a1b22934ad&lang=en&cache-only=0",
-      "phonetic_text": "ɔlðoʊ",
+      "phonetic_text": "ɔ:l.ðoʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=YWx0aG91Z2g&hash=b38378afa2ff3b2c4c540954c6e477a1b22934ad&lang=en&cache-only=0",
-      "phonetic_am_text": "awldhow",
+      "phonetic_am_text": "awl.dhooo",
       "img": "",
       "pronunciation": "ˌɔːlˈðoʊ",
       "senses": [
@@ -481,12 +495,13 @@
       ]
     },
     {
+      "id": "9a0a2647-17a9-4d92-a65f-617317a91f54",
       "word": "though",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=dGhvdWdo&hash=fd973f8a2009e2b3a9250984b6bc65067743ce3c&lang=en&cache-only=0",
       "phonetic_text": "ðoʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhvdWdo&hash=fd973f8a2009e2b3a9250984b6bc65067743ce3c&lang=en&cache-only=0",
-      "phonetic_am_text": "dhow",
+      "phonetic_am_text": "dhooo",
       "img": "",
       "pronunciation": "ðoʊ",
       "senses": [
@@ -518,6 +533,7 @@
       ]
     },
     {
+      "id": "818e58b0-7e76-4609-9783-644fb31db1d2",
       "word": "that",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=dGhhdA&hash=8a331eb4c5a8f313e44bf98a378d3f67e89c67ff&lang=en&cache-only=0",
@@ -528,33 +544,34 @@
       "pronunciation": "ðæt",
       "senses": [
         {
-          "definition": "used to introduce a statement",
+          "definition": "used to introduce a subordinate clause expressing a statement, thought, or reported speech",
           "examples": [
             {
               "cf": "",
-              "x": "He told me that he would come to the party."
+              "x": "She said that she was satisfied with the results."
             },
             {
               "cf": "",
-              "x": "The doctor explained that exercise is good for health."
+              "x": "I believe that he will come through in the end."
             },
             {
               "cf": "",
-              "x": "The news reported that there will be heavy rain tomorrow."
+              "x": "He told me that he'd already finished the project."
             },
             {
               "cf": "",
-              "x": "The teacher announced that the class would be canceled."
+              "x": "We hope that things improve soon."
             },
             {
               "cf": "",
-              "x": "They informed us that the meeting will be rescheduled."
+              "x": "They argued that the plan was unfair."
             }
           ]
         }
       ]
     },
     {
+      "id": "e9a02b57-e900-46c3-a8e7-a1466ff8c6b1",
       "word": "yet",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=eWV0&hash=dd085dfe3d9dc8aa9116403d40429b9d18336d32&lang=en&cache-only=0",
@@ -592,12 +609,13 @@
       ]
     },
     {
+      "id": "09ccb897-b619-4eef-9852-9e2cc354a499",
       "word": "when",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=d2hlbg&hash=13abe092da4041acbacd35f085a6febdc5bf691f&lang=en&cache-only=0",
       "phonetic_text": "wɛn",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hlbg&hash=13abe092da4041acbacd35f085a6febdc5bf691f&lang=en&cache-only=0",
-      "phonetic_am_text": "wen",
+      "phonetic_am_text": "ven",
       "img": "",
       "pronunciation": "wɛn",
       "senses": [
@@ -629,12 +647,13 @@
       ]
     },
     {
+      "id": "a40f49df-993d-4dbb-a324-3f6887d63bb6",
       "word": "whenever",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=d2hlbmV2ZXI&hash=ce9a043609169c42d548edb2866b87c3c557d97f&lang=en&cache-only=0",
-      "phonetic_text": "wɛnɛvər",
+      "phonetic_text": "wɛn.ɛ.vɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hlbmV2ZXI&hash=ce9a043609169c42d548edb2866b87c3c557d97f&lang=en&cache-only=0",
-      "phonetic_am_text": "wenevēr",
+      "phonetic_am_text": "ven.e.vēr",
       "img": "",
       "pronunciation": "wɛnˈɛvɚ",
       "senses": [
@@ -666,12 +685,13 @@
       ]
     },
     {
+      "id": "656d03d9-bc08-430e-908b-6af77be04b3f",
       "word": "where",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=d2hlcmU&hash=0f0db838bb23bfa1a59597fdc0a1e6772469aa0a&lang=en&cache-only=0",
       "phonetic_text": "wɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hlcmU&hash=0f0db838bb23bfa1a59597fdc0a1e6772469aa0a&lang=en&cache-only=0",
-      "phonetic_am_text": "wer",
+      "phonetic_am_text": "ver",
       "img": "",
       "pronunciation": "wɛr",
       "senses": [
@@ -703,12 +723,13 @@
       ]
     },
     {
+      "id": "2c56f73a-fd21-446c-b356-af0c70b5da27",
       "word": "whereas",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=d2hlcmVhcw&hash=4a4bdc049772ad62d0fbc7d489d5852659fb762e&lang=en&cache-only=0",
-      "phonetic_text": "wɛræz",
+      "phonetic_text": "wɛ.ræz",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hlcmVhcw&hash=4a4bdc049772ad62d0fbc7d489d5852659fb762e&lang=en&cache-only=0",
-      "phonetic_am_text": "werāz",
+      "phonetic_am_text": "ve.rāz",
       "img": "",
       "pronunciation": "ˈwɛrˌæz",
       "senses": [
@@ -740,12 +761,13 @@
       ]
     },
     {
+      "id": "fa6fa25c-3324-4330-9c64-bfdfb212cb71",
       "word": "whether",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=d2hldGhlcg&hash=7636c8a71d96056f7c783c7131fa90131b330438&lang=en&cache-only=0",
-      "phonetic_text": "wɛðər",
+      "phonetic_text": "wɛ.ðər",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hldGhlcg&hash=7636c8a71d96056f7c783c7131fa90131b330438&lang=en&cache-only=0",
-      "phonetic_am_text": "wedhēr",
+      "phonetic_am_text": "ve.dhēr",
       "img": "",
       "pronunciation": "ˈwɛðɚ",
       "senses": [
@@ -777,12 +799,13 @@
       ]
     },
     {
+      "id": "80a2ace7-f4d0-482b-b1f6-5c0ea47f48fd",
       "word": "during",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=ZHVyaW5n&hash=db037c17e44ee01f3c1675bb69e908a27760a740&lang=en&cache-only=0",
-      "phonetic_text": "dʊrɪng",
+      "phonetic_text": "dʊ.rɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHVyaW5n&hash=db037c17e44ee01f3c1675bb69e908a27760a740&lang=en&cache-only=0",
-      "phonetic_am_text": "during",
+      "phonetic_am_text": "doo.ring",
       "img": "",
       "pronunciation": "ˈdʊrɪŋ/ , /ˈdjʊrɪŋ",
       "senses": [
@@ -814,12 +837,13 @@
       ]
     },
     {
+      "id": "a1396437-5630-4612-be37-89413487bba3",
       "word": "until",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=dW50aWw&hash=18bfd88757585a4ff988e3e40a7e8a736afa35b2&lang=en&cache-only=0",
-      "phonetic_text": "əntɪl",
+      "phonetic_text": "ʌn.tɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=dW50aWw&hash=18bfd88757585a4ff988e3e40a7e8a736afa35b2&lang=en&cache-only=0",
-      "phonetic_am_text": "ēntil",
+      "phonetic_am_text": "an.til",
       "img": "",
       "pronunciation": "ʌnˈtɪl",
       "senses": [
@@ -851,6 +875,7 @@
       ]
     },
     {
+      "id": "fdd4e0d5-e5b9-40d0-acf0-c69437a7963c",
       "word": "from",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=ZnJvbQ&hash=900e15f75899c2acfb90183c89bbcb4f9a02a6ed&lang=en&cache-only=0",
@@ -884,6 +909,7 @@
       ]
     },
     {
+      "id": "00c346f8-9247-4345-99c1-9f9bf4d9f8c5",
       "word": "of",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=b2Y&hash=755baa3d19744c9220fefa8080406fe481aca9f9&lang=en&cache-only=0",
@@ -921,6 +947,7 @@
       ]
     },
     {
+      "id": "d8d13ad9-ff38-4a12-86ca-e3a8149634d7",
       "word": "through",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=dGhyb3VnaA&hash=01c4254b818d5e080dba2686f04d3730b8dfd980&lang=en&cache-only=0",
@@ -931,31 +958,32 @@
       "pronunciation": "θruː",
       "senses": [
         {
-          "definition": "used to indicate movement or passage from one side or end to the other",
+          "definition": "used to indicate movement into one side and out of the opposite side of something",
           "examples": [
             {
               "cf": "",
-              "x": "The arrow flew straight through the target."
+              "x": "The cat slipped through the fence and disappeared into the bushes."
             },
             {
               "cf": "",
-              "x": "The sunlight streamed through the leaves."
+              "x": "Water rushed through the pipe and spilled into the reservoir."
             },
             {
               "cf": "",
-              "x": "The train traveled through a long, dark tunnel."
+              "x": "He reached through the bars to grab the keys."
             }
           ]
         }
       ]
     },
     {
+      "id": "2ee6b6f6-2613-44a3-aaf7-828a8ff8cab5",
       "word": "except",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=ZXhjZXB0&hash=a4384142e3311abd5fcfc807b408ff0001a4f790&lang=en&cache-only=0",
-      "phonetic_text": "ɪksɛpt",
+      "phonetic_text": "ɪks.ɛpt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXhjZXB0&hash=a4384142e3311abd5fcfc807b408ff0001a4f790&lang=en&cache-only=0",
-      "phonetic_am_text": "iksept",
+      "phonetic_am_text": "iks.ept",
       "img": "",
       "pronunciation": "ɪkˈsɛpt",
       "senses": [
@@ -987,12 +1015,13 @@
       ]
     },
     {
+      "id": "81a04d6a-5a43-4f73-994a-166723e690aa",
       "word": "apart from",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=YXBhcnQgZnJvbQ&hash=307aacffc78c8d39a38660a6b4099c529d1f264c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ə.pɑrt frʌm",
       "phonetic_am": "https://tts.langeek.co/read?text=YXBhcnQgZnJvbQ&hash=307aacffc78c8d39a38660a6b4099c529d1f264c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ē.paart fram",
       "img": "",
       "pronunciation": "əˈpɑːrt frʌm",
       "senses": [
@@ -1024,12 +1053,13 @@
       ]
     },
     {
+      "id": "3e3ba1b9-a95c-44ee-b8de-c1cbc713ff8b",
       "word": "around",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=YXJvdW5k&hash=21b819e0456b4561d0c13d9930f3bb983a9dc149&lang=en&cache-only=0",
-      "phonetic_text": "əraʊnd",
+      "phonetic_text": "ə.raʊnd",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJvdW5k&hash=21b819e0456b4561d0c13d9930f3bb983a9dc149&lang=en&cache-only=0",
-      "phonetic_am_text": "ērawnd",
+      "phonetic_am_text": "ē.raoond",
       "img": "",
       "pronunciation": "əˈraʊnd",
       "senses": [
@@ -1057,6 +1087,7 @@
       ]
     },
     {
+      "id": "7dfd4cea-d7be-4109-9586-ced94c645279",
       "word": "by",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=Ynk&hash=2cc60022c3035ca401091b765d1aed76b3e4a7e9&lang=en&cache-only=0",
@@ -1067,35 +1098,40 @@
       "pronunciation": "baɪ",
       "senses": [
         {
-          "definition": "used to indicate the means of doing or achieving something",
+          "definition": "used to show how something is done or achieved",
           "examples": [
             {
               "cf": "",
-              "x": "He saves money by cooking at home instead of eating out."
+              "x": "The problem was solved by teamwork."
             },
             {
               "cf": "",
-              "x": "I got to the top of the mountain by hiking for five hours."
+              "x": "He completed the project by working late."
             },
             {
               "cf": "",
-              "x": "She expressed her feelings by writing a poem."
+              "x": "The book was translated by using modern technology."
             },
             {
               "cf": "",
-              "x": "She improves her photography skills by taking a picture every day."
+              "x": "The issue was addressed by raising awareness."
+            },
+            {
+              "cf": "",
+              "x": "The goal was achieved by consistent effort."
             }
           ]
         }
       ]
     },
     {
+      "id": "83692ed9-dff9-4721-9064-273b2dc7faf5",
       "word": "outside",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=b3V0c2lkZQ&hash=f74422e23d3642038bb63e77268c8b6cc2b22da5&lang=en&cache-only=0",
-      "phonetic_text": "aʊtsaɪd",
+      "phonetic_text": "aʊt.saɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=b3V0c2lkZQ&hash=f74422e23d3642038bb63e77268c8b6cc2b22da5&lang=en&cache-only=0",
-      "phonetic_am_text": "awtsaid",
+      "phonetic_am_text": "aoot.said",
       "img": "https://cdn.langeek.co/photo/49550/original/outside?type=jpeg",
       "pronunciation": "ˌaʊtˈsaɪd",
       "senses": [
@@ -1123,12 +1159,13 @@
       ]
     },
     {
+      "id": "f886b0c4-b3f6-460d-8c53-dd817d244a0a",
       "word": "inside",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=aW5zaWRl&hash=26fd94ae991e280eabb39299d6e2c6de1b10fe4c&lang=en&cache-only=0",
-      "phonetic_text": "ɪnsaɪd",
+      "phonetic_text": "ɪn.saɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5zaWRl&hash=26fd94ae991e280eabb39299d6e2c6de1b10fe4c&lang=en&cache-only=0",
-      "phonetic_am_text": "insaid",
+      "phonetic_am_text": "in.said",
       "img": "https://cdn.langeek.co/photo/14297/original/inside?type=jpeg",
       "pronunciation": "ˌɪnˈsaɪd",
       "senses": [
@@ -1172,12 +1209,13 @@
       ]
     },
     {
+      "id": "87272bd6-dda2-404e-8c21-3a5481cf1640",
       "word": "nor",
-      "pos": "conjunction",
+      "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=bm9y&hash=d4e9ee7f7d006ad353cbf8f179131260a84baaa2&lang=en&cache-only=0",
       "phonetic_text": "nɔ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=bm9y&hash=d4e9ee7f7d006ad353cbf8f179131260a84baaa2&lang=en&cache-only=0",
-      "phonetic_am_text": "naawr",
+      "phonetic_am_text": "nawr",
       "img": "",
       "pronunciation": "nɔːr",
       "senses": [
@@ -1188,12 +1226,13 @@
       ]
     },
     {
+      "id": "8dbffb71-62fd-402e-aeb3-c27eb195c140",
       "word": "for",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=Zm9y&hash=808af04c66941cc36850394f4432a94432861a20&lang=en&cache-only=0",
       "phonetic_text": "fɔ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9y&hash=808af04c66941cc36850394f4432a94432861a20&lang=en&cache-only=0",
-      "phonetic_am_text": "faawr",
+      "phonetic_am_text": "fawr",
       "img": "",
       "pronunciation": "fɔːr/ , /fɚ",
       "senses": [
@@ -1221,12 +1260,13 @@
       ]
     },
     {
+      "id": "5a09c225-6583-45be-ba0e-319bc5aa6d3c",
       "word": "about",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=YWJvdXQ&hash=f60696c51f2956068d65f1d994425fbbc5e80b0c&lang=en&cache-only=0",
-      "phonetic_text": "əbaʊt",
+      "phonetic_text": "ə.baʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=YWJvdXQ&hash=f60696c51f2956068d65f1d994425fbbc5e80b0c&lang=en&cache-only=0",
-      "phonetic_am_text": "ēbawt",
+      "phonetic_am_text": "ē.baoot",
       "img": "",
       "pronunciation": "əˈbaʊt",
       "senses": [
@@ -1258,12 +1298,13 @@
       ]
     },
     {
+      "id": "20c9e834-9b3d-4f6f-baa3-05c8c79d7b71",
       "word": "against",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=YWdhaW5zdA&hash=dd9a4cee30aa5c313df351515758a62d7b8d08d3&lang=en&cache-only=0",
-      "phonetic_text": "əgɛnst",
+      "phonetic_text": "ə.gɛnst",
       "phonetic_am": "https://tts.langeek.co/read?text=YWdhaW5zdA&hash=dd9a4cee30aa5c313df351515758a62d7b8d08d3&lang=en&cache-only=0",
-      "phonetic_am_text": "ēgenst",
+      "phonetic_am_text": "ē.genst",
       "img": "",
       "pronunciation": "əˈɡɛnst/ , /əˈɡeɪnst",
       "senses": [
@@ -1291,6 +1332,7 @@
       ]
     },
     {
+      "id": "50668af3-90c4-485f-96f9-13dfd9f04801",
       "word": "than",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=dGhhbg&hash=1e11f2a02b1898222d1f414afb5713356679a567&lang=en&cache-only=0",
@@ -1328,6 +1370,7 @@
       ]
     },
     {
+      "id": "631278f6-6b9d-43ab-95f2-c79dc652b224",
       "word": "like",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=bGlrZQ&hash=8ebd96a821ea318ea0d4b905a330a1822df2581f&lang=en&cache-only=0",

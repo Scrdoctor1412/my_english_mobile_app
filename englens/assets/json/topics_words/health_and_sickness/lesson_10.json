@@ -1,15 +1,17 @@
 {
+  "id": "ed8a31d7-debf-427f-9cc1-019391d99066",
   "topic": "health_and_sickness",
   "title": "Mental Illnesses and Problems",
   "lesson": "lesson_10",
   "word_list": [
     {
+      "id": "64f63cf0-3d5e-47a3-bcee-493569180041",
       "word": "attention deficit hyperactivity disorder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXR0ZW50aW9uIGRlZmljaXQgaHlwZXJhY3Rpdml0eSBkaXNvcmRlcg&hash=b9bb2a8d5c95825f2fb5af7eb74de9b49a236a1a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ə.tɛn.ʃən dɛ.fə.sət haɪ.pɜ.ræk.tɪ.vɪ.ti dɪ.sɔr.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YXR0ZW50aW9uIGRlZmljaXQgaHlwZXJhY3Rpdml0eSBkaXNvcmRlcg&hash=b9bb2a8d5c95825f2fb5af7eb74de9b49a236a1a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ē.ten.shēn de.fē.sēt hai.pē.rāk.ti.vi.ti di.sawr.dēr",
       "img": "",
       "pronunciation": "ɐtˈɛnʃən dˈɛfɪsˌɪt hˌaɪpɚɹɐktˈɪvɪɾi dɪsˈoːɹdɚ",
       "senses": [
@@ -20,10 +22,11 @@
       ]
     },
     {
+      "id": "0e751780-965b-409b-940c-d11b3558ba0c",
       "word": "anorexia nervosa",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW5vcmV4aWEgbmVydm9zYQ&hash=37d16c0c3c64ebacad0cc518756cb5f5bcad340e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YW5vcmV4aWEgbmVydm9zYQ&hash=37d16c0c3c64ebacad0cc518756cb5f5bcad340e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -36,12 +39,13 @@
       ]
     },
     {
+      "id": "4bee504b-1a07-4d21-b54b-37342057000b",
       "word": "anxiety",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW54aWV0eQ&hash=fba9f40d830c7a836f85bc7754c4133f3a9a730b&lang=en&cache-only=0",
-      "phonetic_text": "ængzaɪəti",
+      "phonetic_text": "æn.gzaɪə.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=YW54aWV0eQ&hash=fba9f40d830c7a836f85bc7754c4133f3a9a730b&lang=en&cache-only=0",
-      "phonetic_am_text": "āngzaiēti",
+      "phonetic_am_text": "ān.gzaiē.ti",
       "img": "",
       "pronunciation": "æŋˈzaɪəti",
       "senses": [
@@ -52,12 +56,13 @@
       ]
     },
     {
+      "id": "9bec10d3-28b3-463a-a7c6-d9da2458ca23",
       "word": "battle fatigue",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmF0dGxlIGZhdGlndWU&hash=70957209ea513c037645c5b4b1c4ebd6b837a2ae&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæ.təl fə.tig",
       "phonetic_am": "https://tts.langeek.co/read?text=YmF0dGxlIGZhdGlndWU&hash=70957209ea513c037645c5b4b1c4ebd6b837a2ae&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bā.tēl fē.tig",
       "img": "",
       "pronunciation": "bˈæɾəl fɐtˈiːɡ",
       "senses": [
@@ -68,60 +73,123 @@
       ]
     },
     {
+      "id": "cf6c3df9-ad7f-4a34-aecd-7e06a33d8d49",
       "word": "bipolar disorder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ymlwb2xhciBkaXNvcmRlcg&hash=e05e3a2920b754cf8d4f4a6fcf109c660558cfc4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "baɪ.poʊ.lɜr dɪ.sɔr.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Ymlwb2xhciBkaXNvcmRlcg&hash=e05e3a2920b754cf8d4f4a6fcf109c660558cfc4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bai.pooo.lēr di.sawr.dēr",
       "img": "",
       "pronunciation": "baɪpˈoʊlɚ dɪsˈoːɹdɚ",
       "senses": [
         {
           "definition": "a chronic mental health condition marked by episodes of mania and depression",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Bipolar disorder is a mental health condition characterized by extreme mood swings that include periods of mania (elevated mood) and depression (low mood)."
+            },
+            {
+              "cf": "",
+              "x": "Individuals with bipolar disorder may experience manic episodes marked by increased energy, racing thoughts, and impulsive behavior, followed by depressive episodes with feelings of sadness, hopelessness, and loss of interest in activities."
+            },
+            {
+              "cf": "",
+              "x": "Treatment for bipolar disorder typically involves a combination of medication, such as mood stabilizers and antidepressants, and psychotherapy to help manage symptoms and prevent relapse."
+            },
+            {
+              "cf": "",
+              "x": "People with bipolar disorder may also benefit from lifestyle changes, such as maintaining a regular sleep schedule, engaging in regular exercise, and avoiding drugs and alcohol, to help stabilize mood."
+            },
+            {
+              "cf": "",
+              "x": "Support from friends, family, and mental health professionals is essential for individuals with bipolar disorder to effectively manage their condition and improve their quality of life."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "3614d0af-da0e-42ad-969a-b46100a8577e",
       "word": "borderline personality disorder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9yZGVybGluZSBwZXJzb25hbGl0eSBkaXNvcmRlcg&hash=dcd50a348de63a5840c67c339de9e19939e34756&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɔ:r.dər.laɪn pɜr.sə.næ.lɪ.ti dɪ.sɔr.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9yZGVybGluZSBwZXJzb25hbGl0eSBkaXNvcmRlcg&hash=dcd50a348de63a5840c67c339de9e19939e34756&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bawr.dēr.lain pēr.sē.nā.li.ti di.sawr.dēr",
       "img": "",
       "pronunciation": "bˈoːɹdɚlˌaɪn pˌɜːsənˈælɪɾi dɪsˈoːɹdɚ",
       "senses": [
         {
           "definition": "a mental illness that causes a person to act impulsively, to experience severe shifts in mood, and to be unable to form interpersonal relationships",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Borderline personality disorder (BPD) is a mental health condition characterized by intense and unstable relationships, emotions, and self-image."
+            },
+            {
+              "cf": "",
+              "x": "Individuals with borderline personality disorder may experience sudden mood swings, chronic feelings of emptiness, and a fear of abandonment."
+            },
+            {
+              "cf": "",
+              "x": "Treatment for borderline personality disorder often involves a combination of psychotherapy, such as dialectical behavior therapy (DBT), and medication to help manage symptoms."
+            },
+            {
+              "cf": "",
+              "x": "People with borderline personality disorder may engage in impulsive behaviors, such as reckless spending, substance abuse, or self-harm, as a way to cope with emotional distress."
+            },
+            {
+              "cf": "",
+              "x": "With appropriate therapy and support, individuals with borderline personality disorder can learn to manage their symptoms and improve their overall quality of life."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e4319fb9-0d9b-4e17-8a7f-4862f88ccec3",
       "word": "breakdown",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJlYWtkb3du&hash=96a90709df2c9647275ed75e9154d8b10b9245ac&lang=en&cache-only=0",
-      "phonetic_text": "breɪkdaʊn",
+      "phonetic_text": "breɪk.daʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJlYWtkb3du&hash=96a90709df2c9647275ed75e9154d8b10b9245ac&lang=en&cache-only=0",
-      "phonetic_am_text": "breikdawn",
+      "phonetic_am_text": "breik.daoon",
       "img": "",
       "pronunciation": "ˈbɹeɪkˌdaʊn",
       "senses": [
         {
           "definition": "a condition in which a person becomes so anxious or depressed that they can no longer handle their everyday life",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The pressures of caregiving for her ailing parents caused her to have a mental breakdown."
+            },
+            {
+              "cf": "",
+              "x": "The financial strain of mounting debts led to a psychological breakdown for the family."
+            },
+            {
+              "cf": "",
+              "x": "She sought therapy to recover from a breakdown triggered by a traumatic event in her childhood."
+            },
+            {
+              "cf": "",
+              "x": "The intense academic pressure during finals week caused several students to suffer breakdowns."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "087a15a1-607b-42a2-8ec6-333894ba9370",
       "word": "bulimia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVsaW1pYQ&hash=1ad1fe79c3f5e67f407e6fe3047c2f624d29d0fa&lang=en&cache-only=0",
-      "phonetic_text": "bjulɪmiə",
+      "phonetic_text": "bju.lɪ.miə",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVsaW1pYQ&hash=1ad1fe79c3f5e67f407e6fe3047c2f624d29d0fa&lang=en&cache-only=0",
-      "phonetic_am_text": "byulimiē",
+      "phonetic_am_text": "byoo.li.miē",
       "img": "",
       "pronunciation": "bjuˈɫɪmiə",
       "senses": [
@@ -132,12 +200,13 @@
       ]
     },
     {
+      "id": "09b14726-5a0a-4775-a86c-b5173ce41554",
       "word": "exhibitionism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXhoaWJpdGlvbmlzbQ&hash=6328b99f35bafc1a7f0b129198562a8f18d08235&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛks.ɪ.bɪ.ʃə.nɪəzm",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXhoaWJpdGlvbmlzbQ&hash=6328b99f35bafc1a7f0b129198562a8f18d08235&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "eks.i.bi.shē.niēzm",
       "img": "",
       "pronunciation": "ɛksɪbˈɪʃənˌɪzəm",
       "senses": [
@@ -148,12 +217,13 @@
       ]
     },
     {
+      "id": "02146851-df6e-4047-8a54-3563620b36ad",
       "word": "gender dysphoria",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2VuZGVyIGR5c3Bob3JpYQ&hash=724ffc986a2b1ce2ff37c1afa227ed658aa5ac85&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤɛn.dɜr dɪs.fo:.riə",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2VuZGVyIGR5c3Bob3JpYQ&hash=724ffc986a2b1ce2ff37c1afa227ed658aa5ac85&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "jen.dēr dis.fo.riē",
       "img": "",
       "pronunciation": "dʒˈɛndɚ dɪsfˈoːɹiə",
       "senses": [
@@ -164,12 +234,13 @@
       ]
     },
     {
+      "id": "4e7a365b-fb98-442a-9331-2e0caa064808",
       "word": "hyperactivity",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aHlwZXJhY3Rpdml0eQ&hash=a1f08fb191cd59590f73744af63d1f56a28c8566&lang=en&cache-only=0",
-      "phonetic_text": "haɪpəræktɪvɪti",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aHlwZXJhY3Rpdml0eQ&hash=a1f08fb191cd59590f73744af63d1f56a28c8566&lang=en&cache-only=0",
-      "phonetic_am_text": "haipērāktiviti",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˌhaɪpɝækˈtɪvɪti",
       "senses": [
@@ -180,12 +251,13 @@
       ]
     },
     {
+      "id": "a10b9ec6-8dbe-4732-8a66-481d1dda0452",
       "word": "hypochondria",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aHlwb2Nob25kcmlh&hash=c9d21fd436d2c55425185833b1f0aef3299ad1ee&lang=en&cache-only=0",
-      "phonetic_text": "haɪpəkɑ:ndriə",
+      "phonetic_text": "haɪ.pə.kɑnd.riə",
       "phonetic_am": "https://tts.langeek.co/read?text=aHlwb2Nob25kcmlh&hash=c9d21fd436d2c55425185833b1f0aef3299ad1ee&lang=en&cache-only=0",
-      "phonetic_am_text": "haipēkaandriē",
+      "phonetic_am_text": "hai.pē.kaand.riē",
       "img": "",
       "pronunciation": "ˌhaɪpəˈkɑndɹiə",
       "senses": [
@@ -213,12 +285,13 @@
       ]
     },
     {
+      "id": "8548769c-c44c-4914-9e86-0e3cabb43877",
       "word": "kleptomania",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2xlcHRvbWFuaWE&hash=fd3fcab5b83428d12eab8dea2972634ffb832da7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "klɛp.tə.meɪ.niə",
       "phonetic_am": "https://tts.langeek.co/read?text=a2xlcHRvbWFuaWE&hash=fd3fcab5b83428d12eab8dea2972634ffb832da7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "klep.tē.mei.niē",
       "img": "",
       "pronunciation": "klˌɛptəmˈeɪniə",
       "senses": [
@@ -246,12 +319,13 @@
       ]
     },
     {
+      "id": "2030a373-ffe7-4053-9e08-5329e0a71f38",
       "word": "manic depression",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFuaWMgZGVwcmVzc2lvbg&hash=7012f18df555f8a29a85d93c3ef38188de3ea6b8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mæ.nɪk dɪp.rɛ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFuaWMgZGVwcmVzc2lvbg&hash=7012f18df555f8a29a85d93c3ef38188de3ea6b8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mā.nik dip.re.shēn",
       "img": "",
       "pronunciation": "mˈænɪk dɪpɹˈɛʃən",
       "senses": [
@@ -262,12 +336,13 @@
       ]
     },
     {
+      "id": "6bec9c06-3fda-48d0-90d4-77f46a16c505",
       "word": "megalomania",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWVnYWxvbWFuaWE&hash=eb49866ce611722b9aeb2d99ed768359f09d35e8&lang=en&cache-only=0",
-      "phonetic_text": "mɛgəloʊmeɪniə",
+      "phonetic_text": "mɛ.gə.loʊ.meɪ.niə",
       "phonetic_am": "https://tts.langeek.co/read?text=bWVnYWxvbWFuaWE&hash=eb49866ce611722b9aeb2d99ed768359f09d35e8&lang=en&cache-only=0",
-      "phonetic_am_text": "megēlowmeiniē",
+      "phonetic_am_text": "me.gē.looo.mei.niē",
       "img": "",
       "pronunciation": "ˌmɛɡəɫoʊˈmeɪniə",
       "senses": [
@@ -278,12 +353,13 @@
       ]
     },
     {
+      "id": "52bf9855-4688-4e3f-86b5-8f2a3477db72",
       "word": "melancholia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWVsYW5jaG9saWE&hash=913354fa18fb576a22916b4277f48546fba500df&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mɛ.lən.koʊ.liə",
       "phonetic_am": "https://tts.langeek.co/read?text=bWVsYW5jaG9saWE&hash=913354fa18fb576a22916b4277f48546fba500df&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "me.lēn.kooo.liē",
       "img": "",
       "pronunciation": "mˌɛlənkˈoʊliə",
       "senses": [
@@ -294,12 +370,13 @@
       ]
     },
     {
+      "id": "8cc7f04b-5a61-4e19-ae77-3ab88d18e7d8",
       "word": "catatonia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2F0YXRvbmlh&hash=1689ddb28ac5a4821f258d377f0466bae4dc5b3e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kæt.a.toʊ.niə",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2F0YXRvbmlh&hash=1689ddb28ac5a4821f258d377f0466bae4dc5b3e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kāt.a.tooo.niē",
       "img": "",
       "pronunciation": "kˌæɾɐtˈoʊniə",
       "senses": [
@@ -310,12 +387,13 @@
       ]
     },
     {
+      "id": "5d94d3d7-a789-4ef8-aa0e-ac160a63d9ec",
       "word": "depression",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVwcmVzc2lvbg&hash=e97badb39be6db880c5316d35a258a2031312f00&lang=en&cache-only=0",
-      "phonetic_text": "dɪprɛʃən",
+      "phonetic_text": "dɪp.rɛ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVwcmVzc2lvbg&hash=e97badb39be6db880c5316d35a258a2031312f00&lang=en&cache-only=0",
-      "phonetic_am_text": "dipreshēn",
+      "phonetic_am_text": "dip.re.shēn",
       "img": "https://cdn.langeek.co/photo/42592/original/sadness?type=jpeg",
       "pronunciation": "dɪˈpɹɛʃən",
       "senses": [
@@ -343,12 +421,13 @@
       ]
     },
     {
+      "id": "64303256-cae3-4cf8-9352-5bd1f4d0f1ed",
       "word": "psychopathy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHN5Y2hvcGF0aHk&hash=718e0946b4072f5eba246207a2ab5bf588367acd&lang=en&cache-only=0",
-      "phonetic_text": "saɪkɑ:pəθi",
+      "phonetic_text": "saɪ.kɑ.pə.θi",
       "phonetic_am": "https://tts.langeek.co/read?text=cHN5Y2hvcGF0aHk&hash=718e0946b4072f5eba246207a2ab5bf588367acd&lang=en&cache-only=0",
-      "phonetic_am_text": "saikaapēthi",
+      "phonetic_am_text": "sai.kaa.pē.thi",
       "img": "",
       "pronunciation": "saɪˈkɑpəθi",
       "senses": [
@@ -359,44 +438,89 @@
       ]
     },
     {
+      "id": "da22b36a-8ed3-40ce-9f67-cc29ab7ae78a",
       "word": "psychosis",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHN5Y2hvc2lz&hash=1319c49b7b0bffa094d25398b36defb81eed4f30&lang=en&cache-only=0",
-      "phonetic_text": "saɪkoʊsəs",
+      "phonetic_text": "saɪ.koʊ.səs",
       "phonetic_am": "https://tts.langeek.co/read?text=cHN5Y2hvc2lz&hash=1319c49b7b0bffa094d25398b36defb81eed4f30&lang=en&cache-only=0",
-      "phonetic_am_text": "saikowsēs",
+      "phonetic_am_text": "sai.kooo.sēs",
       "img": "",
       "pronunciation": "saɪˈkoʊsəs",
       "senses": [
         {
           "definition": "a severe mental condition in which the patient loses contact with external reality",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Psychosis is a mental health condition characterized by a loss of contact with reality, often manifesting as hallucinations or delusions."
+            },
+            {
+              "cf": "",
+              "x": "Individuals experiencing psychosis may hear voices or see things that are not present, making it difficult to distinguish between what is real and what is not."
+            },
+            {
+              "cf": "",
+              "x": "Treatment for psychosis typically involves a combination of antipsychotic medications and psychotherapy to help manage symptoms and improve functioning."
+            },
+            {
+              "cf": "",
+              "x": "Early intervention is crucial for people with psychosis, as prompt treatment can lead to better long-term outcomes and reduce the risk of severe complications."
+            },
+            {
+              "cf": "",
+              "x": "Psychosis can be a symptom of various mental health disorders, including schizophrenia, bipolar disorder, and severe depression."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "fd522f83-0aca-4424-b9f9-d268001c7701",
       "word": "psychosomatic disorder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHN5Y2hvc29tYXRpYyBkaXNvcmRlcg&hash=d678a6402ac766a98392dca2da33f21fc79fafd5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "saɪ.koʊ.soʊ.mɑ.tɪk dɪ.sɔr.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cHN5Y2hvc29tYXRpYyBkaXNvcmRlcg&hash=d678a6402ac766a98392dca2da33f21fc79fafd5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sai.kooo.sooo.maa.tik di.sawr.dēr",
       "img": "",
       "pronunciation": "sˌaɪkoʊsəmˈæɾɪk dɪsˈoːɹdɚ",
       "senses": [
         {
           "definition": "a psychological condition characterized by physical symptoms that derive from mental or emotional causes, often without any medical explanation",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "A psychosomatic disorder is a condition in which physical symptoms are caused or aggravated by psychological factors, such as stress, anxiety, or emotional distress."
+            },
+            {
+              "cf": "",
+              "x": "Individuals with a psychosomatic disorder may experience symptoms such as headaches, stomach pain, or fatigue that have no apparent medical cause."
+            },
+            {
+              "cf": "",
+              "x": "Treatment for psychosomatic disorders often involves addressing underlying psychological stressors through therapy, relaxation techniques, and stress management strategies."
+            },
+            {
+              "cf": "",
+              "x": "Chronic stress can contribute to the development or exacerbation of psychosomatic disorders, as the body's response to stress can manifest in physical symptoms."
+            },
+            {
+              "cf": "",
+              "x": "Understanding the connection between psychological factors and physical symptoms is crucial for effectively managing psychosomatic disorders and improving overall well-being."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "56676508-438a-44c4-8c57-9461d78412cc",
       "word": "pyromania",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHlyb21hbmlh&hash=9ffe1af616d94eb366f91b2b2e8c8e3078f135ca&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "paɪ.roʊ.meɪ.niə",
       "phonetic_am": "https://tts.langeek.co/read?text=cHlyb21hbmlh&hash=9ffe1af616d94eb366f91b2b2e8c8e3078f135ca&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pai.rooo.mei.niē",
       "img": "",
       "pronunciation": "pˌaɪɹoʊmˈeɪniə",
       "senses": [
@@ -407,12 +531,13 @@
       ]
     },
     {
+      "id": "ef39a1a9-c93c-4197-a237-39c7df59eda9",
       "word": "schizophrenia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2NoaXpvcGhyZW5pYQ&hash=2a4d621102119709d278b8c20bf37421e8f50ca6&lang=en&cache-only=0",
-      "phonetic_text": "skɪtsəfri:niə",
+      "phonetic_text": "skfri.niə",
       "phonetic_am": "https://tts.langeek.co/read?text=c2NoaXpvcGhyZW5pYQ&hash=2a4d621102119709d278b8c20bf37421e8f50ca6&lang=en&cache-only=0",
-      "phonetic_am_text": "skitsēfreeniē",
+      "phonetic_am_text": "skfri.niē",
       "img": "",
       "pronunciation": "ˌskɪtsəˈfɹiniə",
       "senses": [
@@ -423,10 +548,11 @@
       ]
     },
     {
+      "id": "100c7f00-8a30-415d-b0ec-7be3613ec0dc",
       "word": "‌seasonal affective disorder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=4oCMc2Vhc29uYWwgYWZmZWN0aXZlIGRpc29yZGVy&hash=89759d28763bb6dd90c81c44bfafc18fabd2dc1f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=4oCMc2Vhc29uYWwgYWZmZWN0aXZlIGRpc29yZGVy&hash=89759d28763bb6dd90c81c44bfafc18fabd2dc1f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -439,12 +565,13 @@
       ]
     },
     {
+      "id": "482087cd-a34c-434b-b331-1b74bc48b369",
       "word": "sociopathic personality",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c29jaW9wYXRoaWMgcGVyc29uYWxpdHk&hash=247eaaeca53392b3426aea3932a566830e91a4d8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "soʊ.sɪə.pæ.θɪk pɜr.sə.næ.lɪ.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=c29jaW9wYXRoaWMgcGVyc29uYWxpdHk&hash=247eaaeca53392b3426aea3932a566830e91a4d8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sooo.siē.pā.thik pēr.sē.nā.li.ti",
       "img": "",
       "pronunciation": "sˌoʊsɪəpˈæθɪk pˌɜːsənˈælɪɾi",
       "senses": [
@@ -455,12 +582,13 @@
       ]
     },
     {
+      "id": "db70d74c-d2fb-4e6c-a94e-fada65e0cae3",
       "word": "inferiority complex",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5mZXJpb3JpdHkgY29tcGxleA&hash=5afb13373aea1ac619e48d6cdb22c0e01eb2fffc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn.fɪ.riɔ.rɪ.ti kɑmp.lɛks",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5mZXJpb3JpdHkgY29tcGxleA&hash=5afb13373aea1ac619e48d6cdb22c0e01eb2fffc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in.fi.riaw.ri.ti kaamp.leks",
       "img": "",
       "pronunciation": "ɪnfˌiəɹɪˈɔːɹɪɾi kˈɑːmplɛks",
       "senses": [
@@ -471,12 +599,13 @@
       ]
     },
     {
+      "id": "4822936d-3892-4756-90dc-477253078560",
       "word": "instability",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5zdGFiaWxpdHk&hash=5d389308dc42f9ba0ba9e080509d487bcf83c2af&lang=en&cache-only=0",
-      "phonetic_text": "ɪnstəbɪlɪti",
+      "phonetic_text": "ɪn.stə.bɪ.lɪ.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5zdGFiaWxpdHk&hash=5d389308dc42f9ba0ba9e080509d487bcf83c2af&lang=en&cache-only=0",
-      "phonetic_am_text": "instēbiliti",
+      "phonetic_am_text": "in.stē.bi.li.ti",
       "img": "",
       "pronunciation": "ˌɪnstəˈbɪɫɪti",
       "senses": [
@@ -487,12 +616,13 @@
       ]
     },
     {
+      "id": "b888dcb9-a130-4cf4-9560-d10f5e867a92",
       "word": "delirium",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVsaXJpdW0&hash=0dd8ef05ce2d4cc222e72112286b36fd510c7954&lang=en&cache-only=0",
-      "phonetic_text": "dɪlɪriəm",
+      "phonetic_text": "dɪ.lɪ.riəm",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVsaXJpdW0&hash=0dd8ef05ce2d4cc222e72112286b36fd510c7954&lang=en&cache-only=0",
-      "phonetic_am_text": "diliriēm",
+      "phonetic_am_text": "di.li.riēm",
       "img": "",
       "pronunciation": "dɪˈɫɪɹiəm",
       "senses": [
@@ -524,14 +654,15 @@
       ]
     },
     {
+      "id": "66a00f90-0a50-480c-b624-3bde08269b86",
       "word": "complex",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29tcGxleA&hash=b139ce05017655c11da2f4432aeb7650c9801fb3&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:mplɛks",
+      "phonetic_text": "kɑmp.lɛks",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tcGxleA&hash=b139ce05017655c11da2f4432aeb7650c9801fb3&lang=en&cache-only=0",
-      "phonetic_am_text": "kaampleks",
+      "phonetic_am_text": "kaamp.leks",
       "img": "",
-      "pronunciation": "ˈkɑmpɫɛks/, /kəmˈpɫɛks",
+      "pronunciation": "ˈkɑmplɛks/ , /kəmˈplɛks",
       "senses": [
         {
           "definition": "a group of partly or completely repressed emotions or impulses that affect a person's behavior and patterns of thought",
@@ -553,12 +684,13 @@
       ]
     },
     {
+      "id": "07a56d05-43dc-47b6-b68e-7c1e505a43e8",
       "word": "mental disorder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWVudGFsIGRpc29yZGVy&hash=9da8c1ec538f8430db8c933411029f37f4190a95&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mɛn.təl dɪ.sɔr.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bWVudGFsIGRpc29yZGVy&hash=9da8c1ec538f8430db8c933411029f37f4190a95&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "men.tēl di.sawr.dēr",
       "img": "",
       "pronunciation": "mˈɛntəl dɪsˈoːɹdɚ",
       "senses": [
@@ -569,10 +701,11 @@
       ]
     },
     {
+      "id": "390f6b86-3f56-4a97-81c2-37d3cb907aaf",
       "word": "monomania",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9ub21hbmlh&hash=472476a989cbf3492f133737304c3212a7997a95&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9ub21hbmlh&hash=472476a989cbf3492f133737304c3212a7997a95&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -598,12 +731,13 @@
       ]
     },
     {
+      "id": "e22f7fad-88ee-46f6-97be-9972e1c1dabc",
       "word": "nervous breakdown",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmVydm91cyBicmVha2Rvd24&hash=9bfe4ddc87bf690bffa05bd088ef2920e0ca015d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nɜr.vəs breɪk.daʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=bmVydm91cyBicmVha2Rvd24&hash=9bfe4ddc87bf690bffa05bd088ef2920e0ca015d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nēr.vēs breik.daoon",
       "img": "",
       "pronunciation": "nˈɜːvəs bɹˈeɪkdaʊn",
       "senses": [
@@ -614,28 +748,51 @@
       ]
     },
     {
+      "id": "86d0afd6-3755-40a6-8153-1d88cc3446df",
       "word": "neurosis",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmV1cm9zaXM&hash=4e808b311ff5be58ff9cd1cc467d6b2ee56a4b55&lang=en&cache-only=0",
-      "phonetic_text": "nʊroʊsəs",
+      "phonetic_text": "nʊ.roʊ.səs",
       "phonetic_am": "https://tts.langeek.co/read?text=bmV1cm9zaXM&hash=4e808b311ff5be58ff9cd1cc467d6b2ee56a4b55&lang=en&cache-only=0",
-      "phonetic_am_text": "nurowsēs",
+      "phonetic_am_text": "noo.rooo.sēs",
       "img": "",
       "pronunciation": "nʊˈɹoʊsəs",
       "senses": [
         {
           "definition": "a mental condition that is not caused by organic disease in which one is constantly anxious, worried, and stressed",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Neurosis often manifests as chronic anxiety, obsessive behaviors, or phobias that interfere with daily functioning."
+            },
+            {
+              "cf": "",
+              "x": "People with neurosis may experience excessive worry and stress over minor issues, affecting their overall quality of life."
+            },
+            {
+              "cf": "",
+              "x": "Cognitive-behavioral therapy (CBT) is a common treatment for neurosis, helping individuals reframe negative thought patterns and reduce anxiety."
+            },
+            {
+              "cf": "",
+              "x": "Unlike psychosis, neurosis does not involve a loss of contact with reality, but it can still significantly impact mental health."
+            },
+            {
+              "cf": "",
+              "x": "Symptoms of neurosis can include persistent feelings of sadness, irritability, and fear, often without a clear or rational cause."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "04610436-c34a-4bb6-b5b5-a38ecb88c538",
       "word": "obsessive-compulsive disorder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b2JzZXNzaXZlLWNvbXB1bHNpdmUgZGlzb3JkZXI&hash=02f66d837809ec5f1f8b041e539c4dcee7e497e7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "əb.sɛ.sɪv-kəm.pəl.sɪv dɪ.sɔr.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=b2JzZXNzaXZlLWNvbXB1bHNpdmUgZGlzb3JkZXI&hash=02f66d837809ec5f1f8b041e539c4dcee7e497e7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ēb.se.siv-kēm.pēl.siv di.sawr.dēr",
       "img": "",
       "pronunciation": "ˈɑːkd",
       "senses": [
@@ -667,10 +824,11 @@
       ]
     },
     {
+      "id": "b98b7ae1-a17a-420c-bab5-ce292f5b88a8",
       "word": "orthorexia nervosa",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3J0aG9yZXhpYSBuZXJ2b3Nh&hash=6436e95b72d3cb674d541e48e52872161a8a0131&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b3J0aG9yZXhpYSBuZXJ2b3Nh&hash=6436e95b72d3cb674d541e48e52872161a8a0131&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -683,12 +841,13 @@
       ]
     },
     {
+      "id": "3029e231-dd6c-4312-aef8-5236eab251a5",
       "word": "paranoia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFyYW5vaWE&hash=32616acd42646a11cdacfeb0e3091bd0e8a5ad06&lang=en&cache-only=0",
-      "phonetic_text": "pɛrənɔɪə",
+      "phonetic_text": "pɛ.rə.nɔɪə",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFyYW5vaWE&hash=32616acd42646a11cdacfeb0e3091bd0e8a5ad06&lang=en&cache-only=0",
-      "phonetic_am_text": "perēnoyē",
+      "phonetic_am_text": "pe.rē.nawiē",
       "img": "",
       "pronunciation": "ˌpɛɹəˈnɔɪə",
       "senses": [
@@ -699,12 +858,13 @@
       ]
     },
     {
+      "id": "d952c88d-0d28-461e-b364-d29562f791ab",
       "word": "persecution complex",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVyc2VjdXRpb24gY29tcGxleA&hash=5790255bd1dcf717e243ddadb86a5035f093ef7d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɜr.sə.kju.ʃən kɑmp.lɛks",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVyc2VjdXRpb24gY29tcGxleA&hash=5790255bd1dcf717e243ddadb86a5035f093ef7d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pēr.sē.kyoo.shēn kaamp.leks",
       "img": "",
       "pronunciation": "pˌɜːsɪkjˈuːʃən kˈɑːmplɛks",
       "senses": [
@@ -715,12 +875,13 @@
       ]
     },
     {
+      "id": "1ac20074-0e13-40d7-8994-218571b14a09",
       "word": "personality disorder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVyc29uYWxpdHkgZGlzb3JkZXI&hash=196da14cff01cd73b8e1864c91ebecbae18bc3dd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɜr.sə.næ.lɪ.ti dɪ.sɔr.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVyc29uYWxpdHkgZGlzb3JkZXI&hash=196da14cff01cd73b8e1864c91ebecbae18bc3dd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pēr.sē.nā.li.ti di.sawr.dēr",
       "img": "",
       "pronunciation": "pˌɜːsənˈælɪɾi dɪsˈoːɹdɚ",
       "senses": [
@@ -731,12 +892,13 @@
       ]
     },
     {
+      "id": "910387d2-9c24-480c-82fa-2bf3807286f6",
       "word": "postpartum depression",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9zdHBhcnR1bSBkZXByZXNzaW9u&hash=2e69a20a2d4a8b8c36008f6165c8e4e6b0805fcf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "poʊst.pɑ:r.təm dɪp.rɛ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9zdHBhcnR1bSBkZXByZXNzaW9u&hash=2e69a20a2d4a8b8c36008f6165c8e4e6b0805fcf&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pooost.paar.tēm dip.re.shēn",
       "img": "",
       "pronunciation": "pˈoʊstpɑːɹɾəm dɪpɹˈɛʃən",
       "senses": [
@@ -747,12 +909,13 @@
       ]
     },
     {
+      "id": "dcd75061-e52a-4479-8d93-bbacf5626b99",
       "word": "post-traumatic stress disorder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9zdC10cmF1bWF0aWMgc3RyZXNzIGRpc29yZGVy&hash=e782f9a1620b0f9284b2702b90900c143a15fd72&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "poʊst-trɔ.mæ.tɪk strɛs dɪ.sɔr.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9zdC10cmF1bWF0aWMgc3RyZXNzIGRpc29yZGVy&hash=e782f9a1620b0f9284b2702b90900c143a15fd72&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pooost-traw.mā.tik stres di.sawr.dēr",
       "img": "",
       "pronunciation": "pˈoʊsttɹɔːmˈæɾɪk stɹˈɛs dɪsˈoːɹdɚ",
       "senses": [
@@ -784,12 +947,13 @@
       ]
     },
     {
+      "id": "cb3fcc64-a759-4824-aaf0-bdf15fd8e065",
       "word": "trauma",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhdW1h&hash=192d42b769bb153119a87e5caec94fe9fba870d4&lang=en&cache-only=0",
-      "phonetic_text": "trɔ:mə",
+      "phonetic_text": "trɔ.mə",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhdW1h&hash=192d42b769bb153119a87e5caec94fe9fba870d4&lang=en&cache-only=0",
-      "phonetic_am_text": "traawmē",
+      "phonetic_am_text": "traw.mē",
       "img": "",
       "pronunciation": "ˈtɹɔmə",
       "senses": [
@@ -817,12 +981,13 @@
       ]
     },
     {
+      "id": "a800b541-e91e-483c-b8d5-0801ff4e5d4a",
       "word": "shell shock",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2hlbGwgc2hvY2s&hash=a860d79a0cf7cfcc8ae313454061b55d8e1880fa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʃel ʃɑk",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hlbGwgc2hvY2s&hash=a860d79a0cf7cfcc8ae313454061b55d8e1880fa&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "shel shaak",
       "img": "",
       "pronunciation": "ʃˈɛl ʃˈɑːk",
       "senses": [
@@ -833,12 +998,13 @@
       ]
     },
     {
+      "id": "365f26fc-a9ae-4179-beae-54a8dee37bf4",
       "word": "eating disorder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWF0aW5nIGRpc29yZGVy&hash=a61c2d3f817faac6cdf9dc86c01db80a18c42cb3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "i.tɪng dɪ.sɔr.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWF0aW5nIGRpc29yZGVy&hash=a61c2d3f817faac6cdf9dc86c01db80a18c42cb3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "i.ting di.sawr.dēr",
       "img": "",
       "pronunciation": "ˈiːɾɪŋ dɪsˈoːɹdɚ",
       "senses": [
@@ -849,12 +1015,13 @@
       ]
     },
     {
+      "id": "0884a0ab-a777-4a70-a101-f36ad5d5f7b1",
       "word": "egomania",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWdvbWFuaWE&hash=e97d8e789a4c0ed8a15e6a9cf12e8035cd831488&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "i.goʊ.meɪ.niə",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWdvbWFuaWE&hash=e97d8e789a4c0ed8a15e6a9cf12e8035cd831488&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "i.gooo.mei.niē",
       "img": "",
       "pronunciation": "ˌiːɡoʊmˈeɪniə",
       "senses": [
@@ -865,12 +1032,13 @@
       ]
     },
     {
+      "id": "86b9c201-4b28-4866-ac29-3d1b566af9e3",
       "word": "delusion",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVsdXNpb24&hash=c16f44514daa0a90f1265428cc17c1e520235185&lang=en&cache-only=0",
-      "phonetic_text": "dɪlu:ʒən",
+      "phonetic_text": "dɪ.lu.ʒən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVsdXNpb24&hash=c16f44514daa0a90f1265428cc17c1e520235185&lang=en&cache-only=0",
-      "phonetic_am_text": "diloozhēn",
+      "phonetic_am_text": "di.loo.zhēn",
       "img": "",
       "pronunciation": "dɪˈɫuʒən",
       "senses": [
@@ -881,44 +1049,85 @@
       ]
     },
     {
+      "id": "bc1c2efe-a48c-4b46-8cdf-123c9bf32810",
       "word": "dementia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVtZW50aWE&hash=ee6c4432f0894554906a4421414ef7e1ed9ce302&lang=en&cache-only=0",
-      "phonetic_text": "dɪmɛnʃiə",
+      "phonetic_text": "dɪ.mɛn.ʃiə",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVtZW50aWE&hash=ee6c4432f0894554906a4421414ef7e1ed9ce302&lang=en&cache-only=0",
-      "phonetic_am_text": "dimenshiē",
+      "phonetic_am_text": "di.men.shiē",
       "img": "",
       "pronunciation": "dɪˈmɛnʃiə",
       "senses": [
         {
           "definition": "a mental condition that happens when the brain is damaged by disease or injury, causing memory loss and impairing the ability to think or make decisions",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "His grandmother was diagnosed with dementia and had trouble remembering simple tasks."
+            },
+            {
+              "cf": "",
+              "x": "The doctor explained that dementia can affect both short-term and long-term memory."
+            },
+            {
+              "cf": "",
+              "x": "As dementia progressed, her ability to speak clearly diminished."
+            },
+            {
+              "cf": "",
+              "x": "Alzheimer's disease is a common form of dementia."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b40f54b1-98a2-446e-bbd6-8c0301118f50",
       "word": "generalized anxiety disorder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2VuZXJhbGl6ZWQgYW54aWV0eSBkaXNvcmRlcg&hash=0a1e2c96fe8677e3d22195b76d3ed687b2eeebc7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤɛ.nɜ.rə.laɪzd æn.gzaɪə.ti dɪ.sɔr.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2VuZXJhbGl6ZWQgYW54aWV0eSBkaXNvcmRlcg&hash=0a1e2c96fe8677e3d22195b76d3ed687b2eeebc7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "je.nē.rē.laizd ān.gzaiē.ti di.sawr.dēr",
       "img": "",
       "pronunciation": "dʒˈɛnɚɹəlˌaɪzd æŋzˈaɪəɾi dɪsˈoːɹdɚ",
       "senses": [
         {
           "definition": "a chronic condition marked by excessive and persistent worry about various aspects of life, often without a specific cause",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Sarah's generalized anxiety disorder manifests as constant worry and fear, impacting her daily life."
+            },
+            {
+              "cf": "",
+              "x": "Individuals with generalized anxiety disorder may experience physical symptoms like muscle tension and restlessness."
+            },
+            {
+              "cf": "",
+              "x": "The persistent nature of generalized anxiety disorder can lead to fatigue and difficulty concentrating."
+            },
+            {
+              "cf": "",
+              "x": "Support from friends and family, along with professional help, is essential in managing generalized anxiety disorder."
+            },
+            {
+              "cf": "",
+              "x": "The persistent nature of generalized anxiety disorder can lead to fatigue and difficulty concentrating."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "78b25ae5-7209-471f-abda-03cd9c7f318d",
       "word": "mania",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFuaWE&hash=33391fa2880b1a6ae2a4a460027f1d39232ee930&lang=en&cache-only=0",
-      "phonetic_text": "meɪniə",
+      "phonetic_text": "meɪ.niə",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFuaWE&hash=33391fa2880b1a6ae2a4a460027f1d39232ee930&lang=en&cache-only=0",
-      "phonetic_am_text": "meiniē",
+      "phonetic_am_text": "mei.niē",
       "img": "",
       "pronunciation": "ˈmeɪniə",
       "senses": [
@@ -929,10 +1138,11 @@
       ]
     },
     {
+      "id": "6ba33116-57ce-4f7c-a8d0-307b596b38dc",
       "word": "munchausen syndrome",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXVuY2hhdXNlbiBzeW5kcm9tZQ&hash=2212daf5251e0e277f18edc521da478c064fe02f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVuY2hhdXNlbiBzeW5kcm9tZQ&hash=2212daf5251e0e277f18edc521da478c064fe02f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -966,12 +1176,13 @@
       ]
     },
     {
+      "id": "b2e22c11-9b57-4641-b12e-709c82bcd600",
       "word": "schizoid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2NoaXpvaWQ&hash=522d0de929cedd9ed5985720e1c30102455b565a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skd",
       "phonetic_am": "https://tts.langeek.co/read?text=c2NoaXpvaWQ&hash=522d0de929cedd9ed5985720e1c30102455b565a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skd",
       "img": "",
       "pronunciation": "skˈɪtsɔɪd",
       "senses": [
@@ -1003,12 +1214,13 @@
       ]
     },
     {
+      "id": "84595587-bf6b-43fa-b9a0-c08ce8c574c2",
       "word": "amnesia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW1uZXNpYQ&hash=76559ccf4d1b57395989bd17c3f07383dbfcb8b9&lang=en&cache-only=0",
-      "phonetic_text": "æmni:ʒə",
+      "phonetic_text": "æm.ni.ʒə",
       "phonetic_am": "https://tts.langeek.co/read?text=YW1uZXNpYQ&hash=76559ccf4d1b57395989bd17c3f07383dbfcb8b9&lang=en&cache-only=0",
-      "phonetic_am_text": "āmneezhē",
+      "phonetic_am_text": "ām.ni.zhē",
       "img": "",
       "pronunciation": "æmˈniʒə",
       "senses": [
@@ -1019,12 +1231,13 @@
       ]
     },
     {
+      "id": "864b7759-f446-4b66-9863-5fd0f8fd480d",
       "word": "senile dementia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VuaWxlIGRlbWVudGlh&hash=92b4ba8053797029bffce75d48fe1bf95a00f500&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "si.naɪl dɪ.mɛn.ʃiə",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VuaWxlIGRlbWVudGlh&hash=92b4ba8053797029bffce75d48fe1bf95a00f500&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "si.nail di.men.shiē",
       "img": "",
       "pronunciation": "sˈiːnaɪl dɪmˈɛnʃə",
       "senses": [
@@ -1035,10 +1248,11 @@
       ]
     },
     {
+      "id": "5350ecae-05cc-42c8-a0e8-0fa4d9e78dff",
       "word": "Asperger's syndrome",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QXNwZXJnZXIncyBzeW5kcm9tZQ&hash=9fa0ea9bcede649b5488ce45c706298d16d44de4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QXNwZXJnZXIncyBzeW5kcm9tZQ&hash=9fa0ea9bcede649b5488ce45c706298d16d44de4&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -1051,12 +1265,13 @@
       ]
     },
     {
+      "id": "45f0796d-9c73-48ab-8347-84f13ef4ba8c",
       "word": "bigorexia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ymlnb3JleGlh&hash=02e4360e2120a470e33dd3d504f690ad312b7f47&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɪ.go:.rɛk.siə",
       "phonetic_am": "https://tts.langeek.co/read?text=Ymlnb3JleGlh&hash=02e4360e2120a470e33dd3d504f690ad312b7f47&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bi.go.rek.siē",
       "img": "",
       "pronunciation": "bˌɪɡoːɹˈɛksiə",
       "senses": [
@@ -1067,10 +1282,11 @@
       ]
     },
     {
+      "id": "a537d694-2b81-4753-928e-4bc8b5be0626",
       "word": "body dysmorphic disorder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9keSBkeXNtb3JwaGljIGRpc29yZGVy&hash=c94fba608b04003a39df3ed2ff78dd407fd93d28&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9keSBkeXNtb3JwaGljIGRpc29yZGVy&hash=c94fba608b04003a39df3ed2ff78dd407fd93d28&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -1078,7 +1294,28 @@
       "senses": [
         {
           "definition": "a psychological disorder that causes a person to spend a lot of time thinking obsessively about the imaginary imperfections in their appearance",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Body dysmorphic disorder (BDD) is a mental health condition where individuals obsess over perceived flaws in their appearance, which are often unnoticeable to others."
+            },
+            {
+              "cf": "",
+              "x": "People with body dysmorphic disorder may spend hours each day checking their appearance in mirrors, seeking reassurance, or trying to hide their perceived imperfections."
+            },
+            {
+              "cf": "",
+              "x": "Cognitive behavioral therapy (CBT) is commonly used to treat body dysmorphic disorder, helping individuals challenge distorted beliefs about their looks and reduce compulsive behaviors."
+            },
+            {
+              "cf": "",
+              "x": "Body dysmorphic disorder can lead to severe emotional distress, social isolation, and, in some cases, may result in repeated cosmetic surgeries to \"fix\" imagined defects."
+            },
+            {
+              "cf": "",
+              "x": "Early diagnosis and treatment of body dysmorphic disorder are essential to prevent the condition from severely impacting an individual's quality of life and mental health."
+            }
+          ]
         }
       ]
     }

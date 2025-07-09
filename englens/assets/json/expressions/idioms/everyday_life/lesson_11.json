@@ -1,13 +1,15 @@
 {
+  "id": "639e1416-56e8-4d44-860c-4db4e854f189",
   "topic": "everyday_life",
   "title": "Habit & Routine",
   "lesson": "lesson_11",
   "word_list": [
     {
-      "word": "[pass] {one's} lips",
+      "id": "851f1812-b121-464d-9004-81b1845969bd",
+      "word": "to [pass] {one's} lips",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGFzcyBvbmUncyBsaXBz&hash=c61dd22c7f4a159cdfe1caeaf592a7d0b0802498&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGFzcyBvbmUncyBsaXBz&hash=c61dd22c7f4a159cdfe1caeaf592a7d0b0802498&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -33,10 +35,11 @@
       ]
     },
     {
-      "word": "[have] {one's} nose in a book",
+      "id": "3b5fd8fd-ee8c-435a-826e-68c8eae3f012",
+      "word": "to [have] {one's} nose in a book",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGF2ZSBvbmUncyBub3NlIGluIGEgYm9vaw&hash=7f4e7c028904e9117fec709cc7f577aa2344e604&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGF2ZSBvbmUncyBub3NlIGluIGEgYm9vaw&hash=7f4e7c028904e9117fec709cc7f577aa2344e604&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -62,12 +65,13 @@
       ]
     },
     {
+      "id": "f7677b65-2553-44a2-ad9c-885cc7f9ecbb",
       "word": "business as usual",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YnVzaW5lc3MgYXMgdXN1YWw&hash=5c2ea9edf3be8ba62388ac3e1edc4dc5db6bda06&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɪz.nɪs æz juʒ.wəl",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVzaW5lc3MgYXMgdXN1YWw&hash=5c2ea9edf3be8ba62388ac3e1edc4dc5db6bda06&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "biz.nis āz yoozh.vēl",
       "img": "",
       "pronunciation": "bˈɪznəs æz jˈuːʒuːəl",
       "senses": [
@@ -99,10 +103,11 @@
       ]
     },
     {
+      "id": "17f02604-2ca1-4825-b183-0162b8efe494",
       "word": "(by|from) force of habit",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YnkgZm9yY2Ugb2YgaGFiaXQ&hash=3bf02e77fa07a522ff0b531eff6283fc69e218bd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YnkgZm9yY2Ugb2YgaGFiaXQ&hash=3bf02e77fa07a522ff0b531eff6283fc69e218bd&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -110,36 +115,16 @@
       "senses": [
         {
           "definition": "used to refer to the act of doing something without thinking about it because one has been doing it for a long time and it has become a habit",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Even after retirement, he would wake up early by force of habit, just as he did when he was working."
-            },
-            {
-              "cf": "",
-              "x": "She reached for her phone from force of habit, even though she had decided to take a break from constant screen time."
-            },
-            {
-              "cf": "",
-              "x": "He tied his shoelaces by force of habit, although his shoes were slip-ons that required no laces."
-            },
-            {
-              "cf": "",
-              "x": "In the old neighborhood, she turned into her childhood home's street by force of habit, even though she no longer lived there."
-            },
-            {
-              "cf": "",
-              "x": "By force of habit, he checked the stock market updates every morning, although he had long since sold his investments."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "d1785ebc-8466-47cc-bda8-80b01d52daaa",
       "word": "up to {one's} (old|) tricks",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dXAgdG8gb25lJ3Mgb2xkIHRyaWNrcw&hash=6edd6c8b33b020ef8710efd983cc30cbcb2f0419&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dXAgdG8gb25lJ3Mgb2xkIHRyaWNrcw&hash=6edd6c8b33b020ef8710efd983cc30cbcb2f0419&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -169,12 +154,13 @@
       ]
     },
     {
+      "id": "ba4070de-4fcd-4b3a-af05-905504214e73",
       "word": "creature of habit",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Y3JlYXR1cmUgb2YgaGFiaXQ&hash=0aec0d77a2b4cf31b1922cf1fb1cc83af4c64c53&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kri.ʧɜr ʌv hæ.bɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3JlYXR1cmUgb2YgaGFiaXQ&hash=0aec0d77a2b4cf31b1922cf1fb1cc83af4c64c53&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kri.chēr av hā.bit",
       "img": "",
       "pronunciation": "kɹˈiːtʃɚɹ ʌv hˈæbɪt",
       "senses": [
@@ -206,10 +192,11 @@
       ]
     },
     {
-      "word": "[pass] {one's} lips",
+      "id": "13eb3301-74a8-4f03-b239-741a6e09b9c2",
+      "word": "to [pass] {one's} lips",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGFzcyBvbmUncyBsaXBz&hash=c61dd22c7f4a159cdfe1caeaf592a7d0b0802498&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGFzcyBvbmUncyBsaXBz&hash=c61dd22c7f4a159cdfe1caeaf592a7d0b0802498&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -243,12 +230,13 @@
       ]
     },
     {
+      "id": "e87f2b6a-5353-49b6-8e86-1be777b53fee",
       "word": "gym rat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3ltIHJhdA&hash=8f7089b5f08b59ab8d7ee84a5767b60c1f64ef8b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤɪm ræt",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3ltIHJhdA&hash=8f7089b5f08b59ab8d7ee84a5767b60c1f64ef8b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "jim rāt",
       "img": "",
       "pronunciation": "dʒˈɪm ɹˈæt",
       "senses": [
@@ -280,10 +268,11 @@
       ]
     },
     {
+      "id": "30c67b1f-772b-4b74-921b-63b2f31984f0",
       "word": "another day, another dollar",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YW5vdGhlciBkYXksIGFub3RoZXIgZG9sbGFy&hash=82a5d2ce11052197553a0e1aa9a3ea5c29ba5d9a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YW5vdGhlciBkYXksIGFub3RoZXIgZG9sbGFy&hash=82a5d2ce11052197553a0e1aa9a3ea5c29ba5d9a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -296,10 +285,11 @@
       ]
     },
     {
+      "id": "bc934f0d-3343-49c3-b7d3-2df30e2221fd",
       "word": "cat's lick",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Y2F0J3MgbGljaw&hash=6697b2eae4f81a69ec548f59d82887ebbee64f15&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2F0J3MgbGljaw&hash=6697b2eae4f81a69ec548f59d82887ebbee64f15&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

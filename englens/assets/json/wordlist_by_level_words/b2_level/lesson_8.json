@@ -1,15 +1,17 @@
 {
+  "id": "af6f936c-9e72-4cee-984c-4a4e27e1340b",
   "topic": "b2_level",
   "title": "Law",
   "lesson": "lesson_8",
   "word_list": [
     {
-      "word": "account",
+      "id": "e477e231-5cda-4e06-af78-92127848a3df",
+      "word": "to account",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWNjb3VudA&hash=1bd32ef0323f7fbe31db65238f161740d8204a30&lang=en&cache-only=0",
-      "phonetic_text": "əkaʊnt",
+      "phonetic_text": "ə.kaʊnt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWNjb3VudA&hash=1bd32ef0323f7fbe31db65238f161740d8204a30&lang=en&cache-only=0",
-      "phonetic_am_text": "ēkawnt",
+      "phonetic_am_text": "ē.kaoont",
       "img": "https://cdn.langeek.co/photo/59478/original/?type=jpeg",
       "pronunciation": "əˈkaʊnt",
       "senses": [
@@ -45,12 +47,13 @@
       ]
     },
     {
-      "word": "accuse",
+      "id": "bda02c74-5f94-4fa3-afa7-edda94982e4e",
+      "word": "to accuse",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWNjdXNl&hash=ae4df58c0d05dc50bff428b7829c697a5a16a0f9&lang=en&cache-only=0",
-      "phonetic_text": "əkju:z",
+      "phonetic_text": "ə.kjuz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWNjdXNl&hash=ae4df58c0d05dc50bff428b7829c697a5a16a0f9&lang=en&cache-only=0",
-      "phonetic_am_text": "ēkyooz",
+      "phonetic_am_text": "ē.kyooz",
       "img": "https://cdn.langeek.co/photo/27427/original/?type=jpeg",
       "pronunciation": "əkˈjuz",
       "senses": [
@@ -82,12 +85,13 @@
       ]
     },
     {
-      "word": "challenge",
+      "id": "b1ce99c1-2e53-4bbf-9348-f0ebc83db59f",
+      "word": "to challenge",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hhbGxlbmdl&hash=4df86b57d628f18a3e42324d706c25e26822d0e1&lang=en&cache-only=0",
-      "phonetic_text": "ʧælənʤ",
+      "phonetic_text": "ʧæ.lənʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2hhbGxlbmdl&hash=4df86b57d628f18a3e42324d706c25e26822d0e1&lang=en&cache-only=0",
-      "phonetic_am_text": "chālēnj",
+      "phonetic_am_text": "chā.lēnj",
       "img": "",
       "pronunciation": "ˈtʃæɫəndʒ",
       "senses": [
@@ -115,12 +119,13 @@
       ]
     },
     {
-      "word": "suspect",
+      "id": "4402d386-f64e-48dd-8855-36e0776832e8",
+      "word": "to suspect",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3VzcGVjdA&hash=a8634350201a5210d65ba418629e397bd5c881fe&lang=en&cache-only=0",
-      "phonetic_text": "səspɛkt",
+      "phonetic_text": "səs.pɛkt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3VzcGVjdA&hash=a8634350201a5210d65ba418629e397bd5c881fe&lang=en&cache-only=0",
-      "phonetic_am_text": "sēspekt",
+      "phonetic_am_text": "sēs.pekt",
       "img": "",
       "pronunciation": "ˈsəsˌpɛkt/, /səˈspɛkt",
       "senses": [
@@ -152,6 +157,7 @@
       ]
     },
     {
+      "id": "a1d9502d-457a-46ae-b611-efd420c75295",
       "word": "case",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FzZQ&hash=9e762cdd45ccbbd42c6cd1a8f7aebc443203f726&lang=en&cache-only=0",
@@ -159,7 +165,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FzZQ&hash=9e762cdd45ccbbd42c6cd1a8f7aebc443203f726&lang=en&cache-only=0",
       "phonetic_am_text": "keis",
       "img": "",
-      "pronunciation": "ˈkeɪs",
+      "pronunciation": "keɪs",
       "senses": [
         {
           "definition": "a matter that is to be dealt with in a court of law",
@@ -189,12 +195,13 @@
       ]
     },
     {
+      "id": "33d34fc3-0cea-4cef-892c-6f4f38053fdf",
       "word": "family court",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFtaWx5IGNvdXJ0&hash=257d45bb516183c95a72d6e3f3025e8bd6c39a4f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fæ.mə.li kɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFtaWx5IGNvdXJ0&hash=257d45bb516183c95a72d6e3f3025e8bd6c39a4f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fā.mē.li kawrt",
       "img": "",
       "pronunciation": "fˈæmɪli kˈoːɹt",
       "senses": [
@@ -226,12 +233,13 @@
       ]
     },
     {
+      "id": "44e781d4-60ab-44a8-9f9a-8560844480d5",
       "word": "jury",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=anVyeQ&hash=4da41da3ed38f49949a0fadeb190ce424910e732&lang=en&cache-only=0",
-      "phonetic_text": "ʤʊri",
+      "phonetic_text": "ʤʊ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=anVyeQ&hash=4da41da3ed38f49949a0fadeb190ce424910e732&lang=en&cache-only=0",
-      "phonetic_am_text": "juri",
+      "phonetic_am_text": "joo.ri",
       "img": "https://cdn.langeek.co/photo/31725/original/?type=jpeg",
       "pronunciation": "ˈdʒʊɹi",
       "senses": [
@@ -263,6 +271,7 @@
       ]
     },
     {
+      "id": "af3ab6eb-4bca-4d2c-aedd-f215d45da192",
       "word": "trial",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJpYWw&hash=95dc6a42255a9ab686e4c4f378066f09b6a15514&lang=en&cache-only=0",
@@ -300,12 +309,13 @@
       ]
     },
     {
+      "id": "826336ca-f34f-40c0-8e9a-e7d20a3376a5",
       "word": "justice",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=anVzdGljZQ&hash=c327e207138f521d58d85452cbe7be78443126f4&lang=en&cache-only=0",
-      "phonetic_text": "ʤʌstəs",
+      "phonetic_text": "ʤʌst.aɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=anVzdGljZQ&hash=c327e207138f521d58d85452cbe7be78443126f4&lang=en&cache-only=0",
-      "phonetic_am_text": "jastēs",
+      "phonetic_am_text": "jast.ais",
       "img": "https://cdn.langeek.co/photo/37189/original/?type=jpeg",
       "pronunciation": "ˈdʒəstəs/, /ˈdʒəstɪs",
       "senses": [
@@ -329,12 +339,13 @@
       ]
     },
     {
+      "id": "61052471-f98c-46f2-9658-7d29626ad7ff",
       "word": "injustice",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5qdXN0aWNl&hash=b652177ddd97fabce7051b25b28b4e8a0329f9f4&lang=en&cache-only=0",
-      "phonetic_text": "ɪnʤʌstɪs",
+      "phonetic_text": "ɪn.ʤʌst.aɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5qdXN0aWNl&hash=b652177ddd97fabce7051b25b28b4e8a0329f9f4&lang=en&cache-only=0",
-      "phonetic_am_text": "injastis",
+      "phonetic_am_text": "in.jast.ais",
       "img": "",
       "pronunciation": "ˌɪnˈdʒəstɪs",
       "senses": [
@@ -366,6 +377,7 @@
       ]
     },
     {
+      "id": "1da966ea-82eb-4245-84ec-78747f2bac40",
       "word": "strict",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c3RyaWN0&hash=5bf5226fdc1d87ceda3c826416ff53c88f0236ed&lang=en&cache-only=0",
@@ -399,14 +411,15 @@
       ]
     },
     {
+      "id": "4c1a9f46-a4aa-4228-ba44-dd98c73eaa60",
       "word": "legal",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bGVnYWw&hash=d55126d4c3fe0e5380a7aa7550b171ac91ffae10&lang=en&cache-only=0",
-      "phonetic_text": "li:gəl",
+      "phonetic_text": "li.gəl",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVnYWw&hash=d55126d4c3fe0e5380a7aa7550b171ac91ffae10&lang=en&cache-only=0",
-      "phonetic_am_text": "leegēl",
+      "phonetic_am_text": "li.gēl",
       "img": "https://cdn.langeek.co/photo/28473/original/?type=jpeg",
-      "pronunciation": "ˈɫiɡəɫ",
+      "pronunciation": "ˈliːɡəl",
       "senses": [
         {
           "definition": "related to the law or the legal system",
@@ -432,12 +445,13 @@
       ]
     },
     {
+      "id": "0a88029f-3442-4d28-b2f7-6e4549207223",
       "word": "legally",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=bGVnYWxseQ&hash=99303af463d6e2bd46e5269c28696e95c0f4928e&lang=en&cache-only=0",
-      "phonetic_text": "li:gəli",
+      "phonetic_text": "li.gə.li",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVnYWxseQ&hash=99303af463d6e2bd46e5269c28696e95c0f4928e&lang=en&cache-only=0",
-      "phonetic_am_text": "leegēli",
+      "phonetic_am_text": "li.gē.li",
       "img": "https://cdn.langeek.co/photo/50019/original/?type=jpeg",
       "pronunciation": "ˈɫiɡəɫi",
       "senses": [
@@ -465,12 +479,13 @@
       ]
     },
     {
+      "id": "eaf5b5f0-8c71-4576-9b87-6f2de45a798b",
       "word": "valid",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dmFsaWQ&hash=0f292c9d9c309182ff1d4f6d9b97b08f5e5ded5b&lang=en&cache-only=0",
-      "phonetic_text": "vælɪd",
+      "phonetic_text": "væ.lɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=dmFsaWQ&hash=0f292c9d9c309182ff1d4f6d9b97b08f5e5ded5b&lang=en&cache-only=0",
-      "phonetic_am_text": "vālid",
+      "phonetic_am_text": "vā.lid",
       "img": "",
       "pronunciation": "ˈvæɫɪd",
       "senses": [
@@ -506,12 +521,13 @@
       ]
     },
     {
+      "id": "3719268d-46bf-4ecd-bf77-f019681282ac",
       "word": "regulation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVndWxhdGlvbg&hash=c4b3598d6103a64fa03b85d65a253537de168049&lang=en&cache-only=0",
-      "phonetic_text": "rɛgjəleɪʃən",
+      "phonetic_text": "rɛg.jə.leɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVndWxhdGlvbg&hash=c4b3598d6103a64fa03b85d65a253537de168049&lang=en&cache-only=0",
-      "phonetic_am_text": "regyēleishēn",
+      "phonetic_am_text": "reg.yē.lei.shēn",
       "img": "",
       "pronunciation": "ˌɹɛɡjəˈɫeɪʃən",
       "senses": [
@@ -539,14 +555,15 @@
       ]
     },
     {
-      "word": "judge",
+      "id": "6da23904-d976-4ab9-bbb4-2da9c1fe4747",
+      "word": "to judge",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8ganVkZ2U&hash=a8dc57430218e3e1af75653fff4efd7a5cc454e4&lang=en&cache-only=0",
       "phonetic_text": "ʤʌʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ganVkZ2U&hash=a8dc57430218e3e1af75653fff4efd7a5cc454e4&lang=en&cache-only=0",
       "phonetic_am_text": "jaj",
       "img": "https://cdn.langeek.co/photo/50583/original/judge?type=jpeg",
-      "pronunciation": "ˈdʒədʒ",
+      "pronunciation": "ʤʌdʒ",
       "senses": [
         {
           "definition": "to decide whether or not a person is innocent in a court of law",
@@ -572,12 +589,13 @@
       ]
     },
     {
+      "id": "39635c38-afc9-415b-80d5-20b7de5eab3b",
       "word": "authority",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXV0aG9yaXR5&hash=853c55a552b698de755b83e045d1bc94d06e70e3&lang=en&cache-only=0",
-      "phonetic_text": "əθɔ:rəti",
+      "phonetic_text": "ə.θɔ.rə.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=YXV0aG9yaXR5&hash=853c55a552b698de755b83e045d1bc94d06e70e3&lang=en&cache-only=0",
-      "phonetic_am_text": "ēthaawrēti",
+      "phonetic_am_text": "ē.thaw.rē.ti",
       "img": "",
       "pronunciation": "əˈθɔɹəti",
       "senses": [
@@ -605,12 +623,13 @@
       ]
     },
     {
+      "id": "4f6749c9-2f14-4238-a79c-9703f2a1e74a",
       "word": "inspector",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5zcGVjdG9y&hash=06d62d366f30fff903fb7babd8f3cdbff81b4cbb&lang=en&cache-only=0",
-      "phonetic_text": "ɪnspɛktər",
+      "phonetic_text": "ɪns.pɛk.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5zcGVjdG9y&hash=06d62d366f30fff903fb7babd8f3cdbff81b4cbb&lang=en&cache-only=0",
-      "phonetic_am_text": "inspektēr",
+      "phonetic_am_text": "ins.pek.tēr",
       "img": "",
       "pronunciation": "ˌɪnˈspɛktɝ",
       "senses": [
@@ -621,14 +640,15 @@
       ]
     },
     {
+      "id": "d8ef8728-0449-45d3-a5f8-0c04477fe6d2",
       "word": "clause",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xhdXNl&hash=58afe2835bdfc873450b4eac5b32b97cba9d72d7&lang=en&cache-only=0",
       "phonetic_text": "klɔ:z",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xhdXNl&hash=58afe2835bdfc873450b4eac5b32b97cba9d72d7&lang=en&cache-only=0",
-      "phonetic_am_text": "klaawz",
+      "phonetic_am_text": "klawz",
       "img": "",
-      "pronunciation": "ˈkɫɔz",
+      "pronunciation": "klɔːz",
       "senses": [
         {
           "definition": "a separate part of a legal document that requires or talks about something specific",
@@ -658,6 +678,7 @@
       ]
     },
     {
+      "id": "6cab1953-63e4-43c1-9517-693214dd3a06",
       "word": "claim",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xhaW0&hash=2cdabf424231f21bcdc3435360c7569478025742&lang=en&cache-only=0",
@@ -665,7 +686,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xhaW0&hash=2cdabf424231f21bcdc3435360c7569478025742&lang=en&cache-only=0",
       "phonetic_am_text": "kleim",
       "img": "",
-      "pronunciation": "ˈkɫeɪm",
+      "pronunciation": "kleɪm",
       "senses": [
         {
           "definition": "a request for an amount of money that one believes is rightful",
@@ -691,6 +712,7 @@
       ]
     },
     {
+      "id": "11fdf5e6-21b2-456c-bb6a-22275758f22e",
       "word": "bill",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmlsbA&hash=7338efb8049a8ff015ef40e2dbb236db4acc13c0&lang=en&cache-only=0",
@@ -698,7 +720,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=YmlsbA&hash=7338efb8049a8ff015ef40e2dbb236db4acc13c0&lang=en&cache-only=0",
       "phonetic_am_text": "bil",
       "img": "",
-      "pronunciation": "ˈbɪɫ",
+      "pronunciation": "bɪl",
       "senses": [
         {
           "definition": "a new law that is proposed to a parliament to be discussed about",
@@ -724,12 +746,13 @@
       ]
     },
     {
+      "id": "2f8dcd2a-bb1e-458f-bfa3-d02aa865739b",
       "word": "action",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWN0aW9u&hash=33ee5795412c8c8d91c807aa057bfca5e2307a13&lang=en&cache-only=0",
-      "phonetic_text": "ækʃən",
+      "phonetic_text": "æk.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=YWN0aW9u&hash=33ee5795412c8c8d91c807aa057bfca5e2307a13&lang=en&cache-only=0",
-      "phonetic_am_text": "ākshēn",
+      "phonetic_am_text": "āk.shēn",
       "img": "",
       "pronunciation": "ˈækʃən",
       "senses": [
@@ -749,12 +772,13 @@
       ]
     },
     {
-      "word": "appeal",
+      "id": "13a43c7a-9ef7-488c-b321-4cd07f310471",
+      "word": "to appeal",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYXBwZWFs&hash=3c29dc0b97d7c95d3ca4ba51cd33b7152a57dff6&lang=en&cache-only=0",
-      "phonetic_text": "əpi:l",
+      "phonetic_text": "ə.pil",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYXBwZWFs&hash=3c29dc0b97d7c95d3ca4ba51cd33b7152a57dff6&lang=en&cache-only=0",
-      "phonetic_am_text": "ēpeel",
+      "phonetic_am_text": "ē.pil",
       "img": "",
       "pronunciation": "əˈpiɫ",
       "senses": [
@@ -786,6 +810,7 @@
       ]
     },
     {
+      "id": "7da3de87-2ea9-4fee-8f48-f1aab618cb31",
       "word": "bail",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFpbA&hash=f59bda48cd0877a5309f02ae6ebd421a19913356&lang=en&cache-only=0",
@@ -815,14 +840,15 @@
       ]
     },
     {
+      "id": "3a061ec0-ff4e-4ec0-9529-fbfad2a1abe5",
       "word": "brief",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJpZWY&hash=8a17854e22cd2d858064c19068f6aed113686d88&lang=en&cache-only=0",
-      "phonetic_text": "bri:f",
+      "phonetic_text": "brif",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJpZWY&hash=8a17854e22cd2d858064c19068f6aed113686d88&lang=en&cache-only=0",
-      "phonetic_am_text": "breef",
+      "phonetic_am_text": "brif",
       "img": "",
-      "pronunciation": "ˈbɹif",
+      "pronunciation": "briːf",
       "senses": [
         {
           "definition": "a short document stating the facts provided by one side of a case to be presented to a court or judge",
@@ -848,14 +874,15 @@
       ]
     },
     {
+      "id": "94a43032-7a62-4fd3-a354-d937168f6997",
       "word": "charge",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hhcmdl&hash=b78c2d53cb3c7887b53b8ee9963a5d0c48c1cd2b&lang=en&cache-only=0",
-      "phonetic_text": "ʧɑ:rʤ",
+      "phonetic_text": "ʧɑrʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hhcmdl&hash=b78c2d53cb3c7887b53b8ee9963a5d0c48c1cd2b&lang=en&cache-only=0",
       "phonetic_am_text": "chaarj",
       "img": "",
-      "pronunciation": "ˈtʃɑɹdʒ",
+      "pronunciation": "ʧɑrdʒ",
       "senses": [
         {
           "definition": "an accusation against a person who is on trial",
@@ -885,14 +912,15 @@
       ]
     },
     {
-      "word": "charge",
+      "id": "4e53db35-f2c1-4247-a299-9ac97bef7603",
+      "word": "to charge",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hhcmdl&hash=f76dbc268e49a0827cfa45372afc9d96fd4d46d4&lang=en&cache-only=0",
-      "phonetic_text": "ʧɑ:rʤ",
+      "phonetic_text": "ʧɑrʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2hhcmdl&hash=f76dbc268e49a0827cfa45372afc9d96fd4d46d4&lang=en&cache-only=0",
       "phonetic_am_text": "chaarj",
       "img": "https://cdn.langeek.co/photo/20694/original/sentence?type=jpeg",
-      "pronunciation": "ˈtʃɑɹdʒ",
+      "pronunciation": "ʧɑrdʒ",
       "senses": [
         {
           "definition": "to officially accuse someone of an offense",
@@ -922,12 +950,13 @@
       ]
     },
     {
-      "word": "defend",
+      "id": "eec5247d-4bd4-4bfd-8e15-a9b36af512d6",
+      "word": "to defend",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVmZW5k&hash=6afe66bbc14bf369d68d6748cf4232b2fd6a195e&lang=en&cache-only=0",
-      "phonetic_text": "dɪfɛnd",
+      "phonetic_text": "dɪ.fɛnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVmZW5k&hash=6afe66bbc14bf369d68d6748cf4232b2fd6a195e&lang=en&cache-only=0",
-      "phonetic_am_text": "difend",
+      "phonetic_am_text": "di.fend",
       "img": "",
       "pronunciation": "dɪˈfɛnd",
       "senses": [
@@ -959,7 +988,8 @@
       ]
     },
     {
-      "word": "file",
+      "id": "f764b5e2-66fd-4b30-b966-0d00a0ce93bd",
+      "word": "to file",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmlsZQ&hash=4e60301c9762bacc703cb8b48b893d46f86c6c2e&lang=en&cache-only=0",
       "phonetic_text": "faɪl",
@@ -996,14 +1026,15 @@
       ]
     },
     {
-      "word": "issue",
+      "id": "ed572e60-d2f5-4383-9996-5e7d7376920d",
+      "word": "to issue",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaXNzdWU&hash=a1a51e4b21e18eaa5f5c1ae4abebeba91cfe836f&lang=en&cache-only=0",
-      "phonetic_text": "ɪʃu",
+      "phonetic_text": "ɪ.ʃu",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaXNzdWU&hash=a1a51e4b21e18eaa5f5c1ae4abebeba91cfe836f&lang=en&cache-only=0",
-      "phonetic_am_text": "ishu",
+      "phonetic_am_text": "i.shoo",
       "img": "https://cdn.langeek.co/photo/59276/original/?type=jpeg",
-      "pronunciation": "ˈɪʃu",
+      "pronunciation": "ˈɪʃuː",
       "senses": [
         {
           "definition": "to release an official document such as a statement, warrant, etc.",
@@ -1029,12 +1060,13 @@
       ]
     },
     {
-      "word": "prohibit",
+      "id": "1c38aeca-4a33-4d92-88d3-191becfc9cef",
+      "word": "to prohibit",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJvaGliaXQ&hash=244e4e82773107b54fffe2b37ce7c6224b567fe2&lang=en&cache-only=0",
-      "phonetic_text": "proʊhɪbət",
+      "phonetic_text": "proʊ.hɪ.bət",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJvaGliaXQ&hash=244e4e82773107b54fffe2b37ce7c6224b567fe2&lang=en&cache-only=0",
-      "phonetic_am_text": "prowhibēt",
+      "phonetic_am_text": "prooo.hi.bēt",
       "img": "https://cdn.langeek.co/photo/47278/original/?type=jpeg",
       "pronunciation": "pɹoʊˈhɪbət",
       "senses": [
@@ -1058,12 +1090,13 @@
       ]
     },
     {
+      "id": "6b7042bd-c34f-4903-9fbb-87db8cc8dd8a",
       "word": "prohibition",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvaGliaXRpb24&hash=185db3813aff4d8a170fa1ee1e5628ca0c904352&lang=en&cache-only=0",
-      "phonetic_text": "proʊəbɪʃən",
+      "phonetic_text": "proʊə.bɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvaGliaXRpb24&hash=185db3813aff4d8a170fa1ee1e5628ca0c904352&lang=en&cache-only=0",
-      "phonetic_am_text": "prowēbishēn",
+      "phonetic_am_text": "proooē.bi.shēn",
       "img": "",
       "pronunciation": "ˌpɹoʊəˈbɪʃən",
       "senses": [
@@ -1074,14 +1107,15 @@
       ]
     },
     {
-      "word": "try",
+      "id": "0b0692a6-695c-444e-85b2-44dedd52a0f2",
+      "word": "to try",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHJ5&hash=4f5ca1cf7faae85aa97139d6b332410f679bc50f&lang=en&cache-only=0",
       "phonetic_text": "traɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHJ5&hash=4f5ca1cf7faae85aa97139d6b332410f679bc50f&lang=en&cache-only=0",
       "phonetic_am_text": "trai",
       "img": "",
-      "pronunciation": "ˈtɹaɪ",
+      "pronunciation": "traɪ",
       "senses": [
         {
           "definition": "to put a person on trial or investigate a case in a trial",
@@ -1099,14 +1133,15 @@
       ]
     },
     {
-      "word": "break",
+      "id": "f8d987f7-c128-429c-90b6-fbdf590fd10b",
+      "word": "to break",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJlYWs&hash=643894089f73d407d9134a9442b45bcf8c3ac753&lang=en&cache-only=0",
       "phonetic_text": "breɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJlYWs&hash=643894089f73d407d9134a9442b45bcf8c3ac753&lang=en&cache-only=0",
       "phonetic_am_text": "breik",
       "img": "",
-      "pronunciation": "ˈbɹeɪk",
+      "pronunciation": "breɪk",
       "senses": [
         {
           "definition": "to fail to obey the law",
@@ -1136,7 +1171,8 @@
       ]
     },
     {
-      "word": "chair",
+      "id": "d06e62e5-e051-4d2e-addd-5d6972fc4585",
+      "word": "to chair",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hhaXI&hash=0e0b80deb980726d61ad370c13a909d70c75c572&lang=en&cache-only=0",
       "phonetic_text": "ʧɛr",
@@ -1173,12 +1209,13 @@
       ]
     },
     {
-      "word": "get away",
+      "id": "f2d648f4-f0e1-4dcc-bc45-3e50272ce0b9",
+      "word": "to get away",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IGF3YXk&hash=134a202e5dd8a88786eae130059a857ed4e707df&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gɛt ə.weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IGF3YXk&hash=134a202e5dd8a88786eae130059a857ed4e707df&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "get ē.vei",
       "img": "https://cdn.langeek.co/photo/20684/original/run-away?type=jpeg",
       "pronunciation": "ɡɛt ɐwˈeɪ",
       "senses": [
@@ -1189,14 +1226,15 @@
       ]
     },
     {
-      "word": "require",
+      "id": "fae95861-967a-4dd3-bf75-e563ba7d7b2f",
+      "word": "to require",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVxdWlyZQ&hash=5dca23c83a931574d2d5d8bf04080dee66dab605&lang=en&cache-only=0",
-      "phonetic_text": "rikwaɪər",
+      "phonetic_text": "rik.waɪɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVxdWlyZQ&hash=5dca23c83a931574d2d5d8bf04080dee66dab605&lang=en&cache-only=0",
-      "phonetic_am_text": "rikwaiēr",
+      "phonetic_am_text": "rik.vaiēr",
       "img": "",
-      "pronunciation": "ˌɹiˈkwaɪɝ/, /ɹiˈkwaɪɹ/, /ɹɪˈkwaɪɝ",
+      "pronunciation": "rɪˈkwaɪr",
       "senses": [
         {
           "definition": "to make something mandatory or necessary",
@@ -1226,14 +1264,15 @@
       ]
     },
     {
-      "word": "disqualify",
+      "id": "d1658199-ead7-47ea-851f-1be9bdb1b15d",
+      "word": "to disqualify",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlzcXVhbGlmeQ&hash=cd654136ac39e8edcb0b906aec347b677746bd2e&lang=en&cache-only=0",
-      "phonetic_text": "dɪskwɑ:ləfaɪ",
+      "phonetic_text": "dɪs.kwɑ.lə.faɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlzcXVhbGlmeQ&hash=cd654136ac39e8edcb0b906aec347b677746bd2e&lang=en&cache-only=0",
-      "phonetic_am_text": "diskwaalēfai",
+      "phonetic_am_text": "dis.kvaa.lē.fai",
       "img": "",
-      "pronunciation": "dɪsˈkwɑɫəˌfaɪ",
+      "pronunciation": "dɪˈskwɑləˌfaɪ",
       "senses": [
         {
           "definition": "to officially take away someone's right to do something for violating a rule",
@@ -1255,12 +1294,13 @@
       ]
     },
     {
+      "id": "79799b8c-58fe-404b-af19-040f8fee4a35",
       "word": "judgment",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=anVkZ21lbnQ&hash=3be8d14cd73273745ceb929977f80308d14d915e&lang=en&cache-only=0",
-      "phonetic_text": "ʤʌʤmənt",
+      "phonetic_text": "ʤəʤ.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=anVkZ21lbnQ&hash=3be8d14cd73273745ceb929977f80308d14d915e&lang=en&cache-only=0",
-      "phonetic_am_text": "jajmēnt",
+      "phonetic_am_text": "jēj.mēnt",
       "img": "",
       "pronunciation": "ˈdʒədʒmənt",
       "senses": [
@@ -1292,12 +1332,13 @@
       ]
     },
     {
+      "id": "5e5202d8-0c1c-4dfb-9152-8f875571e7b9",
       "word": "criminal record",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3JpbWluYWwgcmVjb3Jk&hash=d40e5ea80b595ac1aaa1b0e89235b9cb78aa8c6c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "krɪ.mə.nəl rɛ.kərd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3JpbWluYWwgcmVjb3Jk&hash=d40e5ea80b595ac1aaa1b0e89235b9cb78aa8c6c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kri.mē.nēl re.kērd",
       "img": "",
       "pronunciation": "kɹˈɪmɪnəl ɹˈɛkɚd",
       "senses": [

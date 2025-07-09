@@ -1,15 +1,17 @@
 {
+  "id": "90d5a5ed-62cd-46a4-b812-741525b58123",
   "topic": "agreement_and_disagreement",
   "title": "Opposition",
   "lesson": "lesson_10",
   "word_list": [
     {
-      "word": "counterattack",
+      "id": "fd736f5a-8c0b-4f79-bd84-507f32d52329",
+      "word": "to counterattack",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY291bnRlcmF0dGFjaw&hash=a21c208b3bc404bdea140f8476f3ffea57d4b452&lang=en&cache-only=0",
-      "phonetic_text": "kaʊntərətæk",
+      "phonetic_text": "kaʊn.tɜr.ə.tæk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY291bnRlcmF0dGFjaw&hash=a21c208b3bc404bdea140f8476f3ffea57d4b452&lang=en&cache-only=0",
-      "phonetic_am_text": "kawntērētāk",
+      "phonetic_am_text": "kaoon.tēr.ē.tāk",
       "img": "",
       "pronunciation": "ˈkaʊntɝəˌtæk",
       "senses": [
@@ -37,58 +39,125 @@
       ]
     },
     {
+      "id": "fdae317e-4f29-4ecf-81e7-3dffbd4e5d39",
       "word": "counterattack",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291bnRlcmF0dGFjaw&hash=4ef6b1eb9aa500d044dd877ec1bee4c1b11ba792&lang=en&cache-only=0",
-      "phonetic_text": "kaʊntərətæk",
+      "phonetic_text": "kaʊn.tɜr.ə.tæk",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291bnRlcmF0dGFjaw&hash=4ef6b1eb9aa500d044dd877ec1bee4c1b11ba792&lang=en&cache-only=0",
-      "phonetic_am_text": "kawntērētāk",
+      "phonetic_am_text": "kaoon.tēr.ē.tāk",
       "img": "",
       "pronunciation": "ˈkaʊntɝəˌtæk",
       "senses": [
         {
           "definition": "an attack made in response to someone else's attack",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The army launched a counterattack to regain lost ground."
+            },
+            {
+              "cf": "",
+              "x": "Their counterattack surprised the opposing forces."
+            },
+            {
+              "cf": "",
+              "x": "A swift counterattack turned the tide of the battle."
+            },
+            {
+              "cf": "",
+              "x": "The rebels organized a counterattack to push back the advancing troops."
+            },
+            {
+              "cf": "",
+              "x": "The general planned a counterattack after assessing the enemy's weaknesses."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "838d83a5-3503-45ad-92c7-e99586b3fed7",
       "word": "criticism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3JpdGljaXNt&hash=01732cb57de449d0fd0e8748ef1023490fa30d76&lang=en&cache-only=0",
-      "phonetic_text": "krɪtɪsɪzəm",
+      "phonetic_text": "krɪ.tɪ.sɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3JpdGljaXNt&hash=01732cb57de449d0fd0e8748ef1023490fa30d76&lang=en&cache-only=0",
-      "phonetic_am_text": "kritisizēm",
+      "phonetic_am_text": "kri.ti.si.zēm",
       "img": "",
-      "pronunciation": "ˈkɹɪtɪˌsɪzəm",
+      "pronunciation": "ˈkrɪtɪˌsɪzəm",
       "senses": [
         {
           "definition": "negative feedback that highlights mistakes or areas for improvement",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "His criticism helped me see flaws I hadn’t noticed before."
+            },
+            {
+              "cf": "",
+              "x": "She faced criticism for not meeting the project's expectations."
+            },
+            {
+              "cf": "",
+              "x": "Her criticism felt personal, but it was focused on improving the work."
+            },
+            {
+              "cf": "",
+              "x": "He appreciated the criticism, seeing it as a path to improvement."
+            },
+            {
+              "cf": "",
+              "x": "The manager’s criticism pushed the team to perform better next time."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "criticize",
+      "id": "6cb0d8a7-ef89-4e37-90d3-eaa55015b027",
+      "word": "to criticize",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3JpdGljaXpl&hash=2afd4c2ee3f951d5901812551b4ac2311f2ef572&lang=en&cache-only=0",
-      "phonetic_text": "krɪtɪsaɪz",
+      "phonetic_text": "krɪ.tɪ.saɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3JpdGljaXpl&hash=2afd4c2ee3f951d5901812551b4ac2311f2ef572&lang=en&cache-only=0",
-      "phonetic_am_text": "kritisaiz",
+      "phonetic_am_text": "kri.ti.saiz",
       "img": "https://cdn.langeek.co/photo/55010/original/?type=jpeg",
       "pronunciation": "ˈkɹɪtɪˌsaɪz",
       "senses": [
         {
           "definition": "to point out the faults or weaknesses of someone or something",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The teacher criticized the student's essay for its lack of organization and clarity."
+            },
+            {
+              "cf": "",
+              "x": "Sarah always criticizes her co-workers' presentations, but rarely offers constructive feedback."
+            },
+            {
+              "cf": "",
+              "x": "It's easy to criticize the government's policies, but coming up with viable alternatives is more challenging."
+            },
+            {
+              "cf": "",
+              "x": "As a teacher, it's important to criticize students' work in a way that helps them learn and grow."
+            },
+            {
+              "cf": "",
+              "x": "It's unfair to criticize someone without understanding the challenges they face."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[cross] swords",
+      "id": "09d90e48-6981-4838-827d-26553596b1d2",
+      "word": "to [cross] swords",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3Jvc3Mgc3dvcmRz&hash=8e221070423f0ae98822f6ad44e6425298c41d7d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3Jvc3Mgc3dvcmRz&hash=8e221070423f0ae98822f6ad44e6425298c41d7d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -96,33 +165,77 @@
       "senses": [
         {
           "definition": "to argue or have a disagreement with someone",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The two political rivals are expected to cross swords in a heated debate over the proposed legislation."
+            },
+            {
+              "cf": "",
+              "x": "During the meeting, the project managers had to cross swords to resolve conflicting priorities and resource allocations."
+            },
+            {
+              "cf": "",
+              "x": "As the negotiations reached a critical point, the business partners began to cross swords over the terms of the partnership agreement."
+            },
+            {
+              "cf": "",
+              "x": "The scholars crossed swords in a lively academic discussion, each defending their interpretation of the historical events."
+            },
+            {
+              "cf": "",
+              "x": "In the courtroom, the attorneys are likely to cross swords over the admissibility of certain evidence, leading to a contentious legal battle."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0cd888a8-9a8e-494f-9504-12d674bd2c78",
       "word": "deadlock",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVhZGxvY2s&hash=38bd24ff92f1208bba6154c000e83cc378e31983&lang=en&cache-only=0",
-      "phonetic_text": "dɛdlɑk",
+      "phonetic_text": "dɛd.lɑ:k",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVhZGxvY2s&hash=38bd24ff92f1208bba6154c000e83cc378e31983&lang=en&cache-only=0",
-      "phonetic_am_text": "dedlɑk",
+      "phonetic_am_text": "ded.laak",
       "img": "",
       "pronunciation": "ˈdɛdˌɫɑk",
       "senses": [
         {
           "definition": "a situation in which the parties involved do not compromise and therefore are unable to reach an agreement",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The peace talks ended in a deadlock with neither side willing to budge on their demands."
+            },
+            {
+              "cf": "",
+              "x": "Despite hours of debate, the committee hit a deadlock over the proposed changes to the policy."
+            },
+            {
+              "cf": "",
+              "x": "Due to a deadlock between the investors, the merger plans were put on hold indefinitely."
+            },
+            {
+              "cf": "",
+              "x": "The mediation failed to resolve the deadlock between the two rival companies."
+            },
+            {
+              "cf": "",
+              "x": "Their ongoing deadlock prevented any progress in the merger discussions."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b75cda66-8d0e-4375-ba28-28c80a77a21a",
       "word": "deadlocked",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZGVhZGxvY2tlZA&hash=08c9dcac5b783f3869b8b24aa3b09ee85c3742a4&lang=en&cache-only=0",
-      "phonetic_text": "dɛdlɑkt",
+      "phonetic_text": "dɛd.lɑkt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVhZGxvY2tlZA&hash=08c9dcac5b783f3869b8b24aa3b09ee85c3742a4&lang=en&cache-only=0",
-      "phonetic_am_text": "dedlɑkt",
+      "phonetic_am_text": "ded.laakt",
       "img": "",
       "pronunciation": "ˈdɛdˌɫɑkt",
       "senses": [
@@ -133,92 +246,183 @@
       ]
     },
     {
+      "id": "da0856a3-9486-41a4-bed6-d3c5f6cbde29",
       "word": "debate",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGViYXRl&hash=d5df872a2c43c20c4fe297e64c46c3aaa8793fd8&lang=en&cache-only=0",
-      "phonetic_text": "dəbeɪt",
+      "phonetic_text": "də.beɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGViYXRl&hash=d5df872a2c43c20c4fe297e64c46c3aaa8793fd8&lang=en&cache-only=0",
-      "phonetic_am_text": "dēbeit",
+      "phonetic_am_text": "dē.beit",
       "img": "https://cdn.langeek.co/photo/20936/original/?type=jpeg",
       "pronunciation": "dəˈbeɪt",
       "senses": [
         {
           "definition": "a discussion about a particular issue between two opposing sides, mainly held publicly",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The candidates participated in a televised debate to present their views on economic policy."
+            },
+            {
+              "cf": "",
+              "x": "The debate on climate change highlighted the differences between the two parties' approaches."
+            },
+            {
+              "cf": "",
+              "x": "A heated debate erupted in the council meeting over the proposed budget cuts."
+            },
+            {
+              "cf": "",
+              "x": "Students were encouraged to engage in a debate on whether school uniforms should be mandatory."
+            },
+            {
+              "cf": "",
+              "x": "The debate over healthcare reform continues to be a contentious issue in politics."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "debate",
+      "id": "8bff9dad-7b7a-4be8-bfab-fe17fb3b42c4",
+      "word": "to debate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGViYXRl&hash=d547f9541cacae4bd6821a6721054a6f7f7a8081&lang=en&cache-only=0",
-      "phonetic_text": "dəbeɪt",
+      "phonetic_text": "də.beɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGViYXRl&hash=d547f9541cacae4bd6821a6721054a6f7f7a8081&lang=en&cache-only=0",
-      "phonetic_am_text": "dēbeit",
+      "phonetic_am_text": "dē.beit",
       "img": "https://cdn.langeek.co/photo/20936/original/?type=jpeg",
       "pronunciation": "dəˈbeɪt",
       "senses": [
         {
           "definition": "to formally discuss a matter, usually in a structured setting",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The candidates took the stage to debate their views on important issues in front of a live audience"
+            },
+            {
+              "cf": "",
+              "x": "Residents gathered at the community center to debate the new development plans for the neighborhood."
+            },
+            {
+              "cf": "",
+              "x": "The students debated the merits of implementing a dress code policy at their school."
+            },
+            {
+              "cf": "",
+              "x": "Scientists debated the validity of the new research findings during the conference."
+            },
+            {
+              "cf": "",
+              "x": "Politicians debated the proposed healthcare reform bill on the floor of the parliament."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "demur",
+      "id": "a4858232-7d2e-4382-a2f0-6c940f963f67",
+      "word": "to demur",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVtdXI&hash=0184230548537cdf0300ff1b02a0228f920b3773&lang=en&cache-only=0",
-      "phonetic_text": "dɪmɜr",
+      "phonetic_text": "dɪ.mɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVtdXI&hash=0184230548537cdf0300ff1b02a0228f920b3773&lang=en&cache-only=0",
-      "phonetic_am_text": "dimēr",
+      "phonetic_am_text": "di.mēr",
       "img": "https://cdn.langeek.co/photo/52587/original/?type=jpeg",
       "pronunciation": "dɪˈmɝ",
       "senses": [
         {
           "definition": "to express one's disagreement, refusal, or reluctance",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "When asked to work overtime, Sarah demurred, citing family commitments."
+            },
+            {
+              "cf": "",
+              "x": "The committee member demurred at the proposed budget, expressing concerns about its feasibility."
+            },
+            {
+              "cf": "",
+              "x": "Instead of openly agreeing, John demurred and suggested exploring alternative solutions."
+            },
+            {
+              "cf": "",
+              "x": "She demurred at the idea of endorsing the policy, raising ethical concerns."
+            },
+            {
+              "cf": "",
+              "x": "He has demurred on accepting the promotion, unsure if he's ready for the responsibility."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "dicker",
+      "id": "20b65ac6-37f1-4665-9cd1-8e4cbca86cdf",
+      "word": "to dicker",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlja2Vy&hash=33f5068d92863d5387addb284d55f8ae65ca45bf&lang=en&cache-only=0",
-      "phonetic_text": "dɪkər",
+      "phonetic_text": "dɪ.kɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlja2Vy&hash=33f5068d92863d5387addb284d55f8ae65ca45bf&lang=en&cache-only=0",
-      "phonetic_am_text": "dikēr",
+      "phonetic_am_text": "di.kēr",
       "img": "https://cdn.langeek.co/photo/46426/original/?type=jpeg",
       "pronunciation": "ˈdɪkɝ",
       "senses": [
         {
           "definition": "to negotiate with someone, particularly about the price of something",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The couple decided to dicker with the real estate agent to get a better deal on their dream home."
+            },
+            {
+              "cf": "",
+              "x": "When shopping for a car, it's common for buyers to dicker over the final price."
+            },
+            {
+              "cf": "",
+              "x": "The skilled negotiator knew how to dicker effectively, securing favorable terms in the business deal."
+            },
+            {
+              "cf": "",
+              "x": "The marketplaces in some countries encourage visitors to dicker with sellers as a cultural tradition."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "disagree",
+      "id": "4b16e019-6dbc-4f50-84c8-0584e8d7e895",
+      "word": "to disagree",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlzYWdyZWU&hash=9a74e52ef562549a66675976e45131deeb322f26&lang=en&cache-only=0",
-      "phonetic_text": "dɪsəgri:",
+      "phonetic_text": "dɪs.əg.ri:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlzYWdyZWU&hash=9a74e52ef562549a66675976e45131deeb322f26&lang=en&cache-only=0",
-      "phonetic_am_text": "disēgree",
+      "phonetic_am_text": "dis.ēg.ri",
       "img": "https://cdn.langeek.co/photo/22271/original/?type=jpeg",
       "pronunciation": "ˌdɪsəˈɡriː",
       "senses": [
         {
           "definition": "to hold or give a different opinion about something",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "They usually agree, but on this issue, they disagree."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0546c1bc-8596-48fa-b4e7-97b06e90d9ae",
       "word": "disagreement",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzYWdyZWVtZW50&hash=a10e3ba9b4514e3dc20a63d58544aa1aa001b1a4&lang=en&cache-only=0",
-      "phonetic_text": "dɪsəgri:mənt",
+      "phonetic_text": "dɪs.əg.ri:.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzYWdyZWVtZW50&hash=a10e3ba9b4514e3dc20a63d58544aa1aa001b1a4&lang=en&cache-only=0",
-      "phonetic_am_text": "disēgreemēnt",
+      "phonetic_am_text": "dis.ēg.ri.mēnt",
       "img": "",
       "pronunciation": "dɪsəˈɡɹimənt",
       "senses": [
@@ -250,12 +454,13 @@
       ]
     },
     {
-      "word": "disassociate",
+      "id": "8a7f7e06-c2c8-4376-88a5-5ff22c60a65a",
+      "word": "to disassociate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlzYXNzb2NpYXRl&hash=ac7c333f4045eda95022dbea22d74bd4be5025db&lang=en&cache-only=0",
-      "phonetic_text": "dɪsəsoʊʃieɪt",
+      "phonetic_text": "dɪs.ə.soʊ.sieɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlzYXNzb2NpYXRl&hash=ac7c333f4045eda95022dbea22d74bd4be5025db&lang=en&cache-only=0",
-      "phonetic_am_text": "disēsowshieit",
+      "phonetic_am_text": "dis.ē.sooo.sieit",
       "img": "",
       "pronunciation": "ˌdɪsəˈsoʊsieɪt/, /ˌdɪsəˈsoʊʃieɪt",
       "senses": [
@@ -266,12 +471,13 @@
       ]
     },
     {
+      "id": "ff04ec16-3080-4e20-a61f-4924dce09a85",
       "word": "discord",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzY29yZA&hash=ccb09f366adb7fd02fd00e9aae308ac9815051cd&lang=en&cache-only=0",
-      "phonetic_text": "dɪskɔrd",
+      "phonetic_text": "dɪs.kɔrd",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzY29yZA&hash=ccb09f366adb7fd02fd00e9aae308ac9815051cd&lang=en&cache-only=0",
-      "phonetic_am_text": "diskawrd",
+      "phonetic_am_text": "dis.kawrd",
       "img": "",
       "pronunciation": "ˈdɪskɔɹd",
       "senses": [
@@ -291,28 +497,51 @@
       ]
     },
     {
+      "id": "c29ffd2d-89b7-4406-a7ff-00b7cc0bf2e1",
       "word": "discordant",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzY29yZGFudA&hash=38ced9d4b0cf5d960bdc30b817b867f76d2fc911&lang=en&cache-only=0",
-      "phonetic_text": "dɪskɔ:rdənt",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzY29yZGFudA&hash=38ced9d4b0cf5d960bdc30b817b867f76d2fc911&lang=en&cache-only=0",
-      "phonetic_am_text": "diskaawrdēnt",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "dɪˈskɔɹdənt",
       "senses": [
         {
           "definition": "having conflicting or opposing elements that create disagreement or tension",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The discordant opinions among the team members led to a breakdown in communication and collaboration."
+            },
+            {
+              "cf": "",
+              "x": "The discordant ideologies between the political parties created a divisive and polarized political landscape."
+            },
+            {
+              "cf": "",
+              "x": "The board meeting was filled with discordant opinions about the new policy."
+            },
+            {
+              "cf": "",
+              "x": "Their discordant approaches to parenting often caused arguments."
+            },
+            {
+              "cf": "",
+              "x": "The debate highlighted discordant views on environmental regulations."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "24da2809-5d5e-4626-a150-408131977d43",
       "word": "disharmony",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzaGFybW9ueQ&hash=c8e017ce7155d60e206b11ed67da0d4c09845ae2&lang=en&cache-only=0",
-      "phonetic_text": "dɪshɑ:rməni",
+      "phonetic_text": "dɪs.hɑr.mə.ni",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzaGFybW9ueQ&hash=c8e017ce7155d60e206b11ed67da0d4c09845ae2&lang=en&cache-only=0",
-      "phonetic_am_text": "dishaarmēni",
+      "phonetic_am_text": "dis.haar.mē.ni",
       "img": "",
       "pronunciation": "dɪsˈhɑɹməni",
       "senses": [
@@ -323,124 +552,251 @@
       ]
     },
     {
+      "id": "2d1ee9cb-82f8-4837-855c-65708711764f",
       "word": "disputable",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzcHV0YWJsZQ&hash=b172652376dc5780bb5273699c4c3586e46d6e61&lang=en&cache-only=0",
-      "phonetic_text": "dɪspju:təbəl",
+      "phonetic_text": "dɪs.pju.tə.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzcHV0YWJsZQ&hash=b172652376dc5780bb5273699c4c3586e46d6e61&lang=en&cache-only=0",
-      "phonetic_am_text": "dispyootēbēl",
+      "phonetic_am_text": "dis.pyoo.tē.bēl",
       "img": "",
       "pronunciation": "dɪˈspjutəbəɫ",
       "senses": [
         {
           "definition": "not yet proven true or right",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The scientist presented a disputable theory that sparked debate."
+            },
+            {
+              "cf": "",
+              "x": "The authenticity of the document is disputable and needs further verification."
+            },
+            {
+              "cf": "",
+              "x": "His claims about the event were disputable, with many experts disagreeing."
+            },
+            {
+              "cf": "",
+              "x": "The idea that technology is always beneficial is disputable."
+            },
+            {
+              "cf": "",
+              "x": "The politician’s statement was disputable, leading to widespread controversy."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "92b76e17-139a-496c-be1c-9544385bcafe",
       "word": "disputation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzcHV0YXRpb24&hash=c2d391a05d4da8c4766d7478bd38d15b2cefc648&lang=en&cache-only=0",
-      "phonetic_text": "dɪspju:teɪʃən",
+      "phonetic_text": "dɪs.pju.teɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzcHV0YXRpb24&hash=c2d391a05d4da8c4766d7478bd38d15b2cefc648&lang=en&cache-only=0",
-      "phonetic_am_text": "dispyooteishēn",
+      "phonetic_am_text": "dis.pyoo.tei.shēn",
       "img": "",
       "pronunciation": "dɪˈspjuˈteɪʃən",
       "senses": [
         {
           "definition": "a formal discussion where people hold differing views and fail to reach an agreement",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The lawyer engaged in a disputation with the opposing counsel over the interpretation of the contract."
+            },
+            {
+              "cf": "",
+              "x": "The disputation over the budget proposal led to significant delays in the project’s timeline."
+            },
+            {
+              "cf": "",
+              "x": "A heated disputation erupted during the conference regarding the ethical implications of the study."
+            },
+            {
+              "cf": "",
+              "x": "The disputation between the two political candidates was broadcasted live for all to see."
+            },
+            {
+              "cf": "",
+              "x": "Despite the lengthy disputation, both sides remained firmly entrenched in their positions."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "43f49397-62ef-4fef-8411-d65dd33ab600",
       "word": "dispute",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzcHV0ZQ&hash=1043370b36c695c7289c0c71585e0a63d85186f1&lang=en&cache-only=0",
-      "phonetic_text": "dɪspju:t",
+      "phonetic_text": "dɪs.pjut",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzcHV0ZQ&hash=1043370b36c695c7289c0c71585e0a63d85186f1&lang=en&cache-only=0",
-      "phonetic_am_text": "dispyoot",
+      "phonetic_am_text": "dis.pyoot",
       "img": "",
       "pronunciation": "dɪˈspjut",
       "senses": [
         {
           "definition": "a disagreement or argument, often involving conflicting opinions or interests",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The dispute between the two neighbors was settled after a lengthy mediation session."
+            },
+            {
+              "cf": "",
+              "x": "The company faced a legal dispute over the terms of the contract."
+            },
+            {
+              "cf": "",
+              "x": "Their dispute over the budget allocation led to a heated discussion during the meeting."
+            },
+            {
+              "cf": "",
+              "x": "The dispute between the authors was resolved when they agreed to collaborate on a revised manuscript."
+            },
+            {
+              "cf": "",
+              "x": "The online dispute became a trending topic after both parties publicly aired their grievances."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "dispute",
+      "id": "1c3de77e-461d-4553-a422-403a960fdf89",
+      "word": "to dispute",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlzcHV0ZQ&hash=6c03476edeb42b4fcdf894a006c587860f849108&lang=en&cache-only=0",
-      "phonetic_text": "dɪspju:t",
+      "phonetic_text": "dɪs.pjut",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlzcHV0ZQ&hash=6c03476edeb42b4fcdf894a006c587860f849108&lang=en&cache-only=0",
-      "phonetic_am_text": "dispyoot",
+      "phonetic_am_text": "dis.pyoot",
       "img": "https://cdn.langeek.co/photo/54992/original/?type=jpeg",
       "pronunciation": "dɪˈspjut",
       "senses": [
         {
           "definition": "to argue with someone, particularly over the ownership of something, facts, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The two colleagues started to dispute the best approach to solving the project's challenges."
+            },
+            {
+              "cf": "",
+              "x": "The parties involved disputed the terms of the agreement, leading to prolonged negotiations."
+            },
+            {
+              "cf": "",
+              "x": "The neighbors began to dispute property boundaries, resulting in a heated argument."
+            },
+            {
+              "cf": "",
+              "x": "The athletes disputed the referee's decision, claiming it was unfair and biased."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "4400499a-f01a-4311-b132-f5c068a4c394",
       "word": "dissension",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzc2Vuc2lvbg&hash=d64f1c2c594177c5b0d1a8872d38b887940b3267&lang=en&cache-only=0",
-      "phonetic_text": "dɪsɛnʃən",
+      "phonetic_text": "dɪ.sɛn.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzc2Vuc2lvbg&hash=d64f1c2c594177c5b0d1a8872d38b887940b3267&lang=en&cache-only=0",
-      "phonetic_am_text": "disenshēn",
+      "phonetic_am_text": "di.sen.shēn",
       "img": "",
       "pronunciation": "dɪˈsɛnʃən",
       "senses": [
         {
           "definition": "lack of agreement between people",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Their dissension started over a minor issue but grew into a major conflict."
+            },
+            {
+              "cf": "",
+              "x": "The two scholars had a public dissension over the interpretation of the ancient texts."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e029099b-9aef-4fed-aff9-d783e3119417",
       "word": "dissent",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzc2VudA&hash=d931f7caba6cc67daed9e72e52dd265644aff58c&lang=en&cache-only=0",
-      "phonetic_text": "dɪsɛnt",
+      "phonetic_text": "dɪ.sɛnt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzc2VudA&hash=d931f7caba6cc67daed9e72e52dd265644aff58c&lang=en&cache-only=0",
-      "phonetic_am_text": "disent",
+      "phonetic_am_text": "di.sent",
       "img": "",
       "pronunciation": "dɪˈsɛnt",
       "senses": [
         {
           "definition": "disagreement with what is officially or commonly accepted",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The committee faced dissent from members who opposed the new policy."
+            },
+            {
+              "cf": "",
+              "x": "The group expressed dissent against the government's decision."
+            },
+            {
+              "cf": "",
+              "x": "The judge’s ruling faced widespread dissent among legal scholars."
+            },
+            {
+              "cf": "",
+              "x": "Despite the official stance, there was significant dissent within the organization."
+            },
+            {
+              "cf": "",
+              "x": "Academic dissent often drives innovation and critical thinking in research."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "dissent",
+      "id": "cc398437-20fd-4737-b59d-7dbb49bd4eca",
+      "word": "to dissent",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlzc2VudA&hash=4d85dd52330e98356693eba342d84a6cdfc904a9&lang=en&cache-only=0",
-      "phonetic_text": "dɪsɛnt",
+      "phonetic_text": "dɪ.sɛnt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlzc2VudA&hash=4d85dd52330e98356693eba342d84a6cdfc904a9&lang=en&cache-only=0",
-      "phonetic_am_text": "disent",
+      "phonetic_am_text": "di.sent",
       "img": "",
       "pronunciation": "dɪˈsɛnt",
       "senses": [
         {
           "definition": "to give or have opinions that differ from those officially or commonly accepted",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Many in the community dissented when the city proposed building a new highway through the park."
+            },
+            {
+              "cf": "",
+              "x": "Students are encouraged to dissent respectfully and engage in constructive debate in the classroom."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c0d8b83c-0685-404b-89e5-0e66395bfe5a",
       "word": "dissenter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzc2VudGVy&hash=03a6ad985811e8e6c81bdbe653fdd3ee5698ae65&lang=en&cache-only=0",
-      "phonetic_text": "dɪsɛntər",
+      "phonetic_text": "dɪ.sɛn.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzc2VudGVy&hash=03a6ad985811e8e6c81bdbe653fdd3ee5698ae65&lang=en&cache-only=0",
-      "phonetic_am_text": "disentēr",
+      "phonetic_am_text": "di.sen.tēr",
       "img": "",
       "pronunciation": "dɪˈsɛntɝ",
       "senses": [
@@ -451,12 +807,13 @@
       ]
     },
     {
+      "id": "ea35f62b-9c66-4444-ba80-46f5949cfe0a",
       "word": "dissenting",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzc2VudGluZw&hash=7b5ef9cdad7312476cb720a8748c6302af5c9979&lang=en&cache-only=0",
-      "phonetic_text": "dɪsɛntɪng",
+      "phonetic_text": "dɪ.sɛn.ɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzc2VudGluZw&hash=7b5ef9cdad7312476cb720a8748c6302af5c9979&lang=en&cache-only=0",
-      "phonetic_am_text": "disenting",
+      "phonetic_am_text": "di.sen.ing",
       "img": "",
       "pronunciation": "dɪˈsɛnɪŋ/, /dɪˈsɛntɪŋ",
       "senses": [
@@ -467,12 +824,13 @@
       ]
     },
     {
+      "id": "1382c63a-bb80-4692-9886-ff58988a178c",
       "word": "dissidence",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzc2lkZW5jZQ&hash=fa811fa461cf26244344fecce542a13f040a73ad&lang=en&cache-only=0",
-      "phonetic_text": "dɪsədəns",
+      "phonetic_text": "dɪ.sə.dəns",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzc2lkZW5jZQ&hash=fa811fa461cf26244344fecce542a13f040a73ad&lang=en&cache-only=0",
-      "phonetic_am_text": "disēdēns",
+      "phonetic_am_text": "di.sē.dēns",
       "img": "",
       "pronunciation": "ˈdɪsədəns",
       "senses": [
@@ -496,12 +854,13 @@
       ]
     },
     {
+      "id": "28edbe8d-5422-4116-8bac-0612f1e01efa",
       "word": "dissident",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzc2lkZW50&hash=55f18370b0c9736e6ca3c0810afa6abb03bd9226&lang=en&cache-only=0",
-      "phonetic_text": "dɪsədənt",
+      "phonetic_text": "dɪ.sə.dənt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzc2lkZW50&hash=55f18370b0c9736e6ca3c0810afa6abb03bd9226&lang=en&cache-only=0",
-      "phonetic_am_text": "disēdēnt",
+      "phonetic_am_text": "di.sē.dēnt",
       "img": "",
       "pronunciation": "ˈdɪsədənt",
       "senses": [
@@ -529,12 +888,13 @@
       ]
     },
     {
+      "id": "2cc9d2a9-9055-4c74-bd82-dc438efdece9",
       "word": "dissident",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzc2lkZW50&hash=55f18370b0c9736e6ca3c0810afa6abb03bd9226&lang=en&cache-only=0",
-      "phonetic_text": "dɪsədənt",
+      "phonetic_text": "dɪ.sə.dənt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzc2lkZW50&hash=55f18370b0c9736e6ca3c0810afa6abb03bd9226&lang=en&cache-only=0",
-      "phonetic_am_text": "disēdēnt",
+      "phonetic_am_text": "di.sē.dēnt",
       "img": "",
       "pronunciation": "ˈdɪsədənt",
       "senses": [
@@ -545,12 +905,13 @@
       ]
     },
     {
-      "word": "dissociate",
+      "id": "3dd07f57-a983-4758-9d53-c5d9ef3967db",
+      "word": "to dissociate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlzc29jaWF0ZQ&hash=0079130c9f6694613a907d0e9cf8820d36366a2b&lang=en&cache-only=0",
-      "phonetic_text": "dɪsoʊsieɪt",
+      "phonetic_text": "dɪ.soʊ.sieɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlzc29jaWF0ZQ&hash=0079130c9f6694613a907d0e9cf8820d36366a2b&lang=en&cache-only=0",
-      "phonetic_am_text": "disowsieit",
+      "phonetic_am_text": "di.sooo.sieit",
       "img": "",
       "pronunciation": "dɪˈsoʊsieɪt",
       "senses": [
@@ -561,12 +922,13 @@
       ]
     },
     {
+      "id": "670c9299-0e3b-40fb-8a54-778cd8741248",
       "word": "dissociation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzc29jaWF0aW9u&hash=47169c6cf34c2e1747d9abfdc7962dce3ba52ee5&lang=en&cache-only=0",
-      "phonetic_text": "dɪsoʊsieɪʃən",
+      "phonetic_text": "dɪ.soʊ.sieɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzc29jaWF0aW9u&hash=47169c6cf34c2e1747d9abfdc7962dce3ba52ee5&lang=en&cache-only=0",
-      "phonetic_am_text": "disowsieishēn",
+      "phonetic_am_text": "di.sooo.siei.shēn",
       "img": "",
       "pronunciation": "dɪˌsoʊsiˈeɪʃən",
       "senses": [
@@ -577,12 +939,13 @@
       ]
     },
     {
+      "id": "be5e4d12-139e-437c-8d9c-680c87525d7f",
       "word": "dissonance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzc29uYW5jZQ&hash=fb74d5629014f25fa7282a1d7041fe06f42806cb&lang=en&cache-only=0",
-      "phonetic_text": "dɪsənəns",
+      "phonetic_text": "dɪ.sə.nəns",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzc29uYW5jZQ&hash=fb74d5629014f25fa7282a1d7041fe06f42806cb&lang=en&cache-only=0",
-      "phonetic_am_text": "disēnēns",
+      "phonetic_am_text": "di.sē.nēns",
       "img": "",
       "pronunciation": "ˈdɪsənəns",
       "senses": [
@@ -593,28 +956,51 @@
       ]
     },
     {
+      "id": "42169526-75fa-4d79-8d0f-7d4b03b85caf",
       "word": "dissonant",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzc29uYW50&hash=c9dd1eb04a95046491a79b737cf060832861c8ad&lang=en&cache-only=0",
-      "phonetic_text": "dɪsənənt",
+      "phonetic_text": "dɪs.sɑ:.nənt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzc29uYW50&hash=c9dd1eb04a95046491a79b737cf060832861c8ad&lang=en&cache-only=0",
-      "phonetic_am_text": "disēnēnt",
+      "phonetic_am_text": "dis.saa.nēnt",
       "img": "",
       "pronunciation": "ˈdɪsənənt",
       "senses": [
         {
           "definition": "having elements or ideas that strongly disagree or clash",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Their opinions on the matter were dissonant, leading to heated debates and disagreements."
+            },
+            {
+              "cf": "",
+              "x": "The dissonant views within the group made it difficult to come to a consensus on the issue."
+            },
+            {
+              "cf": "",
+              "x": "The board meeting ended on a dissonant vibe due to disagreement over budget allocations."
+            },
+            {
+              "cf": "",
+              "x": "Their relationship grew dissonant as they found themselves at odds on core issues."
+            },
+            {
+              "cf": "",
+              "x": "The book club discussion turned dissonant over differing interpretations of the novel's theme."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "disunite",
+      "id": "6143a93b-444d-469c-a7be-1747fe299b8a",
+      "word": "to disunite",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlzdW5pdGU&hash=0595941b61706acda6976d7a728813d7e38b1010&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɪs.ju.naɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlzdW5pdGU&hash=0595941b61706acda6976d7a728813d7e38b1010&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dis.yoo.nait",
       "img": "",
       "pronunciation": "dɪsjuːnˈaɪt",
       "senses": [
@@ -625,12 +1011,13 @@
       ]
     },
     {
+      "id": "38856144-b9e3-44bd-95fd-58e6530f9341",
       "word": "disunity",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzdW5pdHk&hash=e4814219754519c352afaee1a8f835157f62ac01&lang=en&cache-only=0",
-      "phonetic_text": "dɪsju:nəti",
+      "phonetic_text": "dɪs.ju.nə.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzdW5pdHk&hash=e4814219754519c352afaee1a8f835157f62ac01&lang=en&cache-only=0",
-      "phonetic_am_text": "disyoonēti",
+      "phonetic_am_text": "dis.yoo.nē.ti",
       "img": "",
       "pronunciation": "dɪsˈjunəti",
       "senses": [
@@ -641,58 +1028,113 @@
       ]
     },
     {
-      "word": "diverge",
+      "id": "7851b3fd-4e65-432e-84d4-9b8a27f5abf0",
+      "word": "to diverge",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGl2ZXJnZQ&hash=f4fc26634809cc76747b4b99b99c0997febaa460&lang=en&cache-only=0",
-      "phonetic_text": "dɪvɜrʤ",
+      "phonetic_text": "dɪ.vɜrʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGl2ZXJnZQ&hash=f4fc26634809cc76747b4b99b99c0997febaa460&lang=en&cache-only=0",
-      "phonetic_am_text": "divērj",
+      "phonetic_am_text": "di.vērj",
       "img": "",
       "pronunciation": "dɪˈvɝdʒ",
       "senses": [
         {
           "definition": "(of views, opinions, etc.) to be different from each other",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "During the debate, the candidates' views began to diverge on key economic policies."
+            },
+            {
+              "cf": "",
+              "x": "Over time, the political parties' stances started to diverge, leading to increased polarization."
+            },
+            {
+              "cf": "",
+              "x": "The survey results indicated that public opinions on the matter tended to diverge."
+            },
+            {
+              "cf": "",
+              "x": "In the family meeting, it was apparent that the siblings' perspectives would diverge regarding the inheritance distribution."
+            },
+            {
+              "cf": "",
+              "x": "The panel of experts expected their conclusions to diverge due to differing research methodologies."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "3ac2792b-b106-4bfe-b8f1-f62dfdb57650",
       "word": "divergence",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGl2ZXJnZW5jZQ&hash=3d57823a64a28110de056b3ecab2a0f1c683d485&lang=en&cache-only=0",
-      "phonetic_text": "daɪvɜrʤəns",
+      "phonetic_text": "daɪ.vɜr.ʤəns",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGl2ZXJnZW5jZQ&hash=3d57823a64a28110de056b3ecab2a0f1c683d485&lang=en&cache-only=0",
-      "phonetic_am_text": "daivērjēns",
+      "phonetic_am_text": "dai.vēr.jēns",
       "img": "",
       "pronunciation": "daɪˈvɝdʒəns/, /dɪˈvɝdʒəns",
       "senses": [
         {
           "definition": "a difference in interests, views, opinions, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The political candidates showed a clear divergence in their views on healthcare."
+            },
+            {
+              "cf": "",
+              "x": "There was a clear ideological divergence between the conservative and progressive factions on social issues."
+            },
+            {
+              "cf": "",
+              "x": "The family's religious divergence led to lively dinner table debates."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "divide",
+      "id": "8bc5d1d3-7761-487c-ad05-f7a5008edf7c",
+      "word": "to divide",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGl2aWRl&hash=79245a75488238a8d25a60b2f6351d7c3536de52&lang=en&cache-only=0",
-      "phonetic_text": "dɪvaɪd",
+      "phonetic_text": "dɪ.vaɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGl2aWRl&hash=79245a75488238a8d25a60b2f6351d7c3536de52&lang=en&cache-only=0",
-      "phonetic_am_text": "divaid",
+      "phonetic_am_text": "di.vaid",
       "img": "",
       "pronunciation": "dɪˈvaɪd",
       "senses": [
         {
           "definition": "to cause disagreement among people",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The controversial proposal to build a new highway through the park divided the community."
+            },
+            {
+              "cf": "",
+              "x": "Political polarization has deeply divided the country, with citizens holding starkly different views."
+            },
+            {
+              "cf": "",
+              "x": "The decision to implement a dress code at the office divided the employees."
+            },
+            {
+              "cf": "",
+              "x": "The debate over education reform has divided parents and educators."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[divide] and [conquer|rule]",
+      "id": "2d160b7f-e901-4c7d-9a09-11893cc9d977",
+      "word": "to [divide] and [conquer|rule]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGl2aWRlIGFuZCBjb25xdWVy&hash=1f5a0ead59be40df42cffc521e7161b53f0a5bdb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGl2aWRlIGFuZCBjb25xdWVy&hash=1f5a0ead59be40df42cffc521e7161b53f0a5bdb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43582/original/?type=jpeg",
@@ -700,17 +1142,55 @@
       "senses": [
         {
           "definition": "to not allow people become united and pose a threat to one by keeping them busy through causing disagreement and argument between them",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The politician is employing a \"divide and conquer\" strategy to exploit divisions among rival parties."
+            },
+            {
+              "cf": "",
+              "x": "The manager is using a \"divide and conquer\" approach to break down a complex project into smaller tasks for better efficiency."
+            },
+            {
+              "cf": "",
+              "x": "The activist group advocates for unity instead of falling victim to the \"divide and rule\" tactics of those in power."
+            },
+            {
+              "cf": "",
+              "x": "The general successfully employed a \"divide and conquer\" strategy, weakening the enemy forces by exploiting internal conflicts."
+            },
+            {
+              "cf": "",
+              "x": "The company's aggressive marketing campaign divided and conquered the market, establishing their dominance in the industry."
+            },
+            {
+              "cf": "",
+              "x": "The colonial power historically used a \"divide and rule\" approach to maintain control over diverse populations."
+            },
+            {
+              "cf": "",
+              "x": "The team plans to implement a \"divide and rule\" strategy to tackle the challenging project and ensure timely completion."
+            },
+            {
+              "cf": "",
+              "x": "In the coming years, political leaders may resort to \"divide and conquer\" tactics to secure electoral victories."
+            },
+            {
+              "cf": "",
+              "x": "With advancing technologies, the potential for \"divide and conquer\" strategies to manipulate public opinion could increase in the future."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "34ed760b-6585-4b1a-8cd9-cd6727b5c053",
       "word": "divided",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZGl2aWRlZA&hash=1afb86fb3261ecfed689039c474854e462e1f173&lang=en&cache-only=0",
-      "phonetic_text": "dɪvaɪdɪd",
+      "phonetic_text": "dɪ.vaɪ.dɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGl2aWRlZA&hash=1afb86fb3261ecfed689039c474854e462e1f173&lang=en&cache-only=0",
-      "phonetic_am_text": "divaidid",
+      "phonetic_am_text": "di.vai.did",
       "img": "",
       "pronunciation": "dɪˈvaɪdɪd",
       "senses": [
@@ -721,44 +1201,89 @@
       ]
     },
     {
+      "id": "f343531e-35f1-4dec-ba08-04f3751ef8e7",
       "word": "division",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGl2aXNpb24&hash=6d5def6518f31163bb9fcdc2b50040f9d77471a0&lang=en&cache-only=0",
-      "phonetic_text": "dɪvɪʒən",
+      "phonetic_text": "dɪ.vɪ.ʒən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGl2aXNpb24&hash=6d5def6518f31163bb9fcdc2b50040f9d77471a0&lang=en&cache-only=0",
-      "phonetic_am_text": "divizhēn",
+      "phonetic_am_text": "di.vi.zhēn",
       "img": "",
       "pronunciation": "dɪˈvɪʒən",
       "senses": [
         {
           "definition": "disagreement among members of a group or society",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Political division within the country has grown over recent years."
+            },
+            {
+              "cf": "",
+              "x": "The debate caused a division among the team members."
+            },
+            {
+              "cf": "",
+              "x": "Religious differences often lead to division within communities."
+            },
+            {
+              "cf": "",
+              "x": "Social media platforms can amplify division among users with opposing views."
+            },
+            {
+              "cf": "",
+              "x": "A strong sense of division emerged after the policy changes were announced."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e6c479da-a59f-4de1-a3a8-b43e1eb67e8b",
       "word": "divisive",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZGl2aXNpdmU&hash=0757c036a3b11f8cbf650b91331873fd010210ef&lang=en&cache-only=0",
-      "phonetic_text": "dɪvaɪsɪv",
+      "phonetic_text": "dɪ.vaɪ.sɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGl2aXNpdmU&hash=0757c036a3b11f8cbf650b91331873fd010210ef&lang=en&cache-only=0",
-      "phonetic_am_text": "divaisiv",
+      "phonetic_am_text": "di.vai.siv",
       "img": "",
       "pronunciation": "dɪˈvaɪsɪv",
       "senses": [
         {
           "definition": "causing disagreement or hostility by creating strong differences of opinion among people",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The issue of immigration was highly divisive, splitting the nation into opposing camps."
+            },
+            {
+              "cf": "",
+              "x": "His divisive comments on social media sparked heated debates among his followers."
+            },
+            {
+              "cf": "",
+              "x": "The proposed policy changes proved to be divisive, leading to conflicts within the organization."
+            },
+            {
+              "cf": "",
+              "x": "The candidate's divisive rhetoric alienated many voters and polarized public opinion."
+            },
+            {
+              "cf": "",
+              "x": "The divisive nature of the debate made it challenging to find common ground."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "88085942-e9f3-4deb-ab8c-fadfbf7faad5",
       "word": "divisively",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=ZGl2aXNpdmVseQ&hash=79d4dddfe176feff95d0b694b61f10cdc19a8804&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɪ.vaɪ.sɪv.li",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGl2aXNpdmVseQ&hash=79d4dddfe176feff95d0b694b61f10cdc19a8804&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "di.vai.siv.li",
       "img": "",
       "pronunciation": "dɪvˈaɪsɪvli",
       "senses": [
@@ -769,12 +1294,13 @@
       ]
     },
     {
+      "id": "9f905d1f-ac5d-4533-96ae-cd1ac839d6a4",
       "word": "divisiveness",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGl2aXNpdmVuZXNz&hash=cc5e44ecb406425f0b850c8a7dc6ab4415b0c0bd&lang=en&cache-only=0",
-      "phonetic_text": "dɪvaɪsɪvnəs",
+      "phonetic_text": "dɪ.vaɪ.sɪv.nəs",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGl2aXNpdmVuZXNz&hash=cc5e44ecb406425f0b850c8a7dc6ab4415b0c0bd&lang=en&cache-only=0",
-      "phonetic_am_text": "divaisivnēs",
+      "phonetic_am_text": "di.vai.siv.nēs",
       "img": "",
       "pronunciation": "dɪˈvaɪsɪvnəs",
       "senses": [

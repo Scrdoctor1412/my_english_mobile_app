@@ -1,31 +1,39 @@
 {
+  "id": "6a2ae5e0-30aa-49ff-834e-bedeb6475ff0",
   "topic": "animals",
   "title": "The Anatomy of Birds",
   "lesson": "lesson_26",
   "word_list": [
     {
+      "id": "40b059e9-cd49-4c60-8aea-4190323a76b2",
       "word": "wing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2luZw&hash=28225112da3a423cb871b914a16cafa9807f7621&lang=en&cache-only=0",
       "phonetic_text": "wɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luZw&hash=28225112da3a423cb871b914a16cafa9807f7621&lang=en&cache-only=0",
-      "phonetic_am_text": "wing",
+      "phonetic_am_text": "ving",
       "img": "https://cdn.langeek.co/photo/19566/original/wing?type=jpeg",
-      "pronunciation": "ˈwɪŋ",
+      "pronunciation": "wɪŋ",
       "senses": [
         {
           "definition": "any of the two parts of the body of a bird, insect, etc. used for flying",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He studied the bat’s wing structure to understand its flight mechanics."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "37cc0c04-d9a1-4bd1-9c64-2341fd7eafb6",
       "word": "web",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2Vi&hash=e5b7150c1d991fbcae44fdc967662e6568af4876&lang=en&cache-only=0",
       "phonetic_text": "wɛb",
       "phonetic_am": "https://tts.langeek.co/read?text=d2Vi&hash=e5b7150c1d991fbcae44fdc967662e6568af4876&lang=en&cache-only=0",
-      "phonetic_am_text": "web",
+      "phonetic_am_text": "veb",
       "img": "https://cdn.langeek.co/photo/34516/original/?type=jpeg",
       "pronunciation": "wɛb",
       "senses": [
@@ -36,12 +44,13 @@
       ]
     },
     {
+      "id": "6205fe47-4f93-4d5c-a6bc-6f9d3560497d",
       "word": "wattle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2F0dGxl&hash=c6a54b433e097fe985263d97e9b6e4ff81ef5ede&lang=en&cache-only=0",
-      "phonetic_text": "wɑ:təl",
+      "phonetic_text": "wɑ.təl",
       "phonetic_am": "https://tts.langeek.co/read?text=d2F0dGxl&hash=c6a54b433e097fe985263d97e9b6e4ff81ef5ede&lang=en&cache-only=0",
-      "phonetic_am_text": "waatēl",
+      "phonetic_am_text": "vaa.tēl",
       "img": "https://cdn.langeek.co/photo/30315/original/?type=jpeg",
       "pronunciation": "ˈwɑtəɫ",
       "senses": [
@@ -52,6 +61,7 @@
       ]
     },
     {
+      "id": "582d327c-496a-4d12-a330-0c5bdf6357bf",
       "word": "vent",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmVudA&hash=d232dab6b54e1bc18f0f843e87fa606370189e98&lang=en&cache-only=0",
@@ -68,12 +78,13 @@
       ]
     },
     {
+      "id": "8881f801-e972-4bea-9c6b-926c1a2b0ff1",
       "word": "talon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFsb24&hash=8ac4dca329b6fe9a0093204afb96fabd7d02762f&lang=en&cache-only=0",
-      "phonetic_text": "tælən",
+      "phonetic_text": "tæ.lən",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFsb24&hash=8ac4dca329b6fe9a0093204afb96fabd7d02762f&lang=en&cache-only=0",
-      "phonetic_am_text": "tālēn",
+      "phonetic_am_text": "tā.lēn",
       "img": "https://cdn.langeek.co/photo/30313/original/?type=jpeg",
       "pronunciation": "ˈtæɫən",
       "senses": [
@@ -84,6 +95,7 @@
       ]
     },
     {
+      "id": "3ac4c8c7-06c7-4224-84f5-ad5f7c5383e6",
       "word": "spur",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3B1cg&hash=9742e4aab49b6a80f39281471cb9960becf9e37d&lang=en&cache-only=0",
@@ -100,12 +112,13 @@
       ]
     },
     {
+      "id": "aa3e31f0-ec9b-4995-a820-01f729ec3978",
       "word": "wing tip",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2luZyB0aXA&hash=182fd187ad7baabb26677f299a63e1ca071d97af&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɪng tɪp",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luZyB0aXA&hash=182fd187ad7baabb26677f299a63e1ca071d97af&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ving tip",
       "img": "https://cdn.langeek.co/photo/34518/original/?type=jpeg",
       "pronunciation": "wˈɪŋ tˈɪp",
       "senses": [
@@ -116,12 +129,13 @@
       ]
     },
     {
+      "id": "567d879e-6160-45c0-867c-4eb17337e49a",
       "word": "ruff",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cnVmZg&hash=fee39792dcadb85e946e4d67c1e2ba94e1efd71f&lang=en&cache-only=0",
-      "phonetic_text": "rʌf",
+      "phonetic_text": "rəf",
       "phonetic_am": "https://tts.langeek.co/read?text=cnVmZg&hash=fee39792dcadb85e946e4d67c1e2ba94e1efd71f&lang=en&cache-only=0",
-      "phonetic_am_text": "raf",
+      "phonetic_am_text": "rēf",
       "img": "",
       "pronunciation": "ˈɹəf",
       "senses": [
@@ -132,12 +146,13 @@
       ]
     },
     {
+      "id": "5a1d5abc-45d8-4bdb-9a2f-1223389b9b29",
       "word": "mandible",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFuZGlibGU&hash=b5a76e60b6b44d82e179e64267b804ebc45d022c&lang=en&cache-only=0",
-      "phonetic_text": "mændəbəl",
+      "phonetic_text": "mæn.də.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFuZGlibGU&hash=b5a76e60b6b44d82e179e64267b804ebc45d022c&lang=en&cache-only=0",
-      "phonetic_am_text": "māndēbēl",
+      "phonetic_am_text": "mān.dē.bēl",
       "img": "",
       "pronunciation": "ˈmændəbəɫ/, /ˈmændɪbəɫ",
       "senses": [
@@ -148,12 +163,13 @@
       ]
     },
     {
+      "id": "05bdeb88-5872-4f2a-9ddd-f2243ed78345",
       "word": "gizzard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2l6emFyZA&hash=2476798d3d43d1ccac2aaad496b40e8797ee6c88&lang=en&cache-only=0",
-      "phonetic_text": "gɪzərd",
+      "phonetic_text": "gɪ.zɜrd",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2l6emFyZA&hash=2476798d3d43d1ccac2aaad496b40e8797ee6c88&lang=en&cache-only=0",
-      "phonetic_am_text": "gizērd",
+      "phonetic_am_text": "gi.zērd",
       "img": "",
       "pronunciation": "ˈɡɪzɝd",
       "senses": [
@@ -164,6 +180,7 @@
       ]
     },
     {
+      "id": "e77b5786-659c-4e53-a9e3-8c21eee2f564",
       "word": "crest",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3Jlc3Q&hash=5116b8a9ce77fad2688e670c47077d2ec3543fb8&lang=en&cache-only=0",
@@ -201,14 +218,15 @@
       ]
     },
     {
+      "id": "59d86fac-93c7-44ec-8831-dbff3f3504c2",
       "word": "comb",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29tYg&hash=27bc34b21245437c98fc055fdc83670d63dc6543&lang=en&cache-only=0",
       "phonetic_text": "koʊm",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tYg&hash=27bc34b21245437c98fc055fdc83670d63dc6543&lang=en&cache-only=0",
-      "phonetic_am_text": "kowm",
+      "phonetic_am_text": "kooom",
       "img": "https://cdn.langeek.co/photo/34496/original/?type=jpeg",
-      "pronunciation": "ˈkoʊm",
+      "pronunciation": "koʊm",
       "senses": [
         {
           "definition": "a fleshy, often brightly colored, crest located on top of the head of certain bird species",
@@ -217,14 +235,15 @@
       ]
     },
     {
+      "id": "6bb276ad-3c4a-49b3-8782-4a8dbe6a1301",
       "word": "collar",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29sbGFy&hash=0828b17a324cd23e8e7f049127b7220cc8391adc&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:lər",
+      "phonetic_text": "kɑ.lɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29sbGFy&hash=0828b17a324cd23e8e7f049127b7220cc8391adc&lang=en&cache-only=0",
-      "phonetic_am_text": "kaalēr",
+      "phonetic_am_text": "kaa.lēr",
       "img": "",
-      "pronunciation": "ˈkɑɫɝ",
+      "pronunciation": "ˈkɑlɚ",
       "senses": [
         {
           "definition": "a distinct ring, band, or marking around the neck or throat area of an animal",
@@ -233,12 +252,13 @@
       ]
     },
     {
+      "id": "020af6f3-4a25-459b-a0f8-3479bc161b05",
       "word": "cockscomb",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29ja3Njb21i&hash=0fe73c172129fc0094419a0a3258bb737c605adf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑ:ks.koʊm",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29ja3Njb21i&hash=0fe73c172129fc0094419a0a3258bb737c605adf&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaaks.kooom",
       "img": "https://cdn.langeek.co/photo/34496/original/?type=jpeg",
       "pronunciation": "kˈɑːkskoʊm",
       "senses": [
@@ -249,14 +269,15 @@
       ]
     },
     {
+      "id": "ace36974-ce88-4f79-82d0-5832fc08d728",
       "word": "breast",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJlYXN0&hash=f9e5e0b3f00c8a4b228021d24ab2216dfc0b5944&lang=en&cache-only=0",
-      "phonetic_text": "brɛst",
+      "phonetic_text": "brest",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJlYXN0&hash=f9e5e0b3f00c8a4b228021d24ab2216dfc0b5944&lang=en&cache-only=0",
       "phonetic_am_text": "brest",
       "img": "https://cdn.langeek.co/photo/31393/original/?type=jpeg",
-      "pronunciation": "brest",
+      "pronunciation": "brɛst",
       "senses": [
         {
           "definition": "the front part of a bird's or a mammal's body",
@@ -265,6 +286,7 @@
       ]
     },
     {
+      "id": "a1d0ea73-0113-461a-9249-161a38347d2b",
       "word": "bill",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmlsbA&hash=7338efb8049a8ff015ef40e2dbb236db4acc13c0&lang=en&cache-only=0",
@@ -272,7 +294,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=YmlsbA&hash=7338efb8049a8ff015ef40e2dbb236db4acc13c0&lang=en&cache-only=0",
       "phonetic_am_text": "bil",
       "img": "https://cdn.langeek.co/photo/30297/original/?type=jpeg",
-      "pronunciation": "ˈbɪɫ",
+      "pronunciation": "bɪl",
       "senses": [
         {
           "definition": "a hard curved jaw of a bird, especially a wide or slender one",
@@ -281,12 +303,13 @@
       ]
     },
     {
+      "id": "4494974e-2cf4-4b8f-b8d1-09c23713d037",
       "word": "beak",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVhaw&hash=ffeffb783a82e7e22c35d079749e0d70b5f5834c&lang=en&cache-only=0",
-      "phonetic_text": "bi:k",
+      "phonetic_text": "bik",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVhaw&hash=ffeffb783a82e7e22c35d079749e0d70b5f5834c&lang=en&cache-only=0",
-      "phonetic_am_text": "beek",
+      "phonetic_am_text": "bik",
       "img": "https://cdn.langeek.co/photo/30295/original/?type=jpeg",
       "pronunciation": "ˈbik",
       "senses": [
@@ -318,12 +341,13 @@
       ]
     },
     {
+      "id": "816cdd5b-1bc5-49db-92ec-f80b11768c30",
       "word": "wishbone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2lzaGJvbmU&hash=b8ffc93716d96d4d787e9c17acfe41011b21532e&lang=en&cache-only=0",
-      "phonetic_text": "wɪʃboʊn",
+      "phonetic_text": "wɪʃ.boʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=d2lzaGJvbmU&hash=b8ffc93716d96d4d787e9c17acfe41011b21532e&lang=en&cache-only=0",
-      "phonetic_am_text": "wishbown",
+      "phonetic_am_text": "vish.booon",
       "img": "https://cdn.langeek.co/photo/30802/original/?type=jpeg",
       "pronunciation": "ˈwɪʃˌboʊn",
       "senses": [
@@ -343,12 +367,13 @@
       ]
     },
     {
+      "id": "af2af609-7f26-4c6b-8d42-f28d1131c361",
       "word": "claw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xhdw&hash=04b2dc9c60c6b26cfe473f7c750bc97e40dcbb20&lang=en&cache-only=0",
-      "phonetic_text": "klɔ:",
+      "phonetic_text": "klɔ",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xhdw&hash=04b2dc9c60c6b26cfe473f7c750bc97e40dcbb20&lang=en&cache-only=0",
-      "phonetic_am_text": "klaaw",
+      "phonetic_am_text": "klaw",
       "img": "https://cdn.langeek.co/photo/29890/original/?type=jpeg",
       "pronunciation": "ˈkɫɔ",
       "senses": [
@@ -380,12 +405,13 @@
       ]
     },
     {
+      "id": "65e72154-3643-42fa-a39b-b98a755e6c94",
       "word": "hackle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFja2xl&hash=5e11c769181d5b33734bf45d149853ef95d5d38b&lang=en&cache-only=0",
-      "phonetic_text": "hækəl",
+      "phonetic_text": "hæ.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFja2xl&hash=5e11c769181d5b33734bf45d149853ef95d5d38b&lang=en&cache-only=0",
-      "phonetic_am_text": "hākēl",
+      "phonetic_am_text": "hā.kēl",
       "img": "https://cdn.langeek.co/photo/30778/original/?type=jpeg",
       "pronunciation": "ˈhækəɫ",
       "senses": [
@@ -396,14 +422,15 @@
       ]
     },
     {
+      "id": "c3b5290f-b477-431a-9078-66eed6d539b7",
       "word": "crop",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3JvcA&hash=132303f32566c9d4bd12c33917c19430e2fe87d7&lang=en&cache-only=0",
-      "phonetic_text": "krɑ:p",
+      "phonetic_text": "krɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3JvcA&hash=132303f32566c9d4bd12c33917c19430e2fe87d7&lang=en&cache-only=0",
       "phonetic_am_text": "kraap",
       "img": "",
-      "pronunciation": "ˈkɹɑp",
+      "pronunciation": "krɑp",
       "senses": [
         {
           "definition": "a pouch in a bird's throat that is used for storing and digesting food",
@@ -412,12 +439,13 @@
       ]
     },
     {
+      "id": "2f9e46f2-6924-4ba0-b669-3b359d1f60f4",
       "word": "mantle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFudGxl&hash=88b6535e9228296a78a9234a5708ce1d9aedac70&lang=en&cache-only=0",
-      "phonetic_text": "mæntəl",
+      "phonetic_text": "mæn.təl",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFudGxl&hash=88b6535e9228296a78a9234a5708ce1d9aedac70&lang=en&cache-only=0",
-      "phonetic_am_text": "māntēl",
+      "phonetic_am_text": "mān.tēl",
       "img": "",
       "pronunciation": "ˈmæntəɫ",
       "senses": [
@@ -428,12 +456,13 @@
       ]
     },
     {
+      "id": "e6cbf9ac-03b4-4d2c-a9bf-3e1e6a2d91bd",
       "word": "covert feather",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y292ZXJ0IGZlYXRoZXI&hash=c149601ac5332738e48a6c1fc7ff85bd8f25a080&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "koʊ.vɜrt fɛ.ðɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y292ZXJ0IGZlYXRoZXI&hash=c149601ac5332738e48a6c1fc7ff85bd8f25a080&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kooo.vērt fe.dhēr",
       "img": "",
       "pronunciation": "koʊvˈɜːt fˈɛðɚ",
       "senses": [
@@ -444,12 +473,13 @@
       ]
     },
     {
+      "id": "5a6bba31-8960-4eac-93b0-83f3ae0ba92a",
       "word": "flight feather",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmxpZ2h0IGZlYXRoZXI&hash=daffb90115e6fa58dda28436e13c61c8208653b0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "flaɪt fɛ.ðɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmxpZ2h0IGZlYXRoZXI&hash=daffb90115e6fa58dda28436e13c61c8208653b0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "flait fe.dhēr",
       "img": "",
       "pronunciation": "flˈaɪt fˈɛðɚ",
       "senses": [
@@ -460,14 +490,15 @@
       ]
     },
     {
+      "id": "62586f38-176c-4af7-b8f5-62ea3a751e10",
       "word": "underwing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dW5kZXJ3aW5n&hash=ec9e46686a328e1ebcbdfa901c842e17dbfa70b0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5kZXJ3aW5n&hash=ec9e46686a328e1ebcbdfa901c842e17dbfa70b0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
-      "pronunciation": "ˌʌndˈɜːwəɪŋ",
+      "pronunciation": "ˈʌndɚˌwɪŋ",
       "senses": [
         {
           "definition": "the feathers on the underside of a bird's wing, which can have distinctive patterns and colors that are often visible in flight",
@@ -476,10 +507,11 @@
       ]
     },
     {
+      "id": "d08f79af-dff7-4ae9-b3cc-bba641370c50",
       "word": "lesser coverts",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGVzc2VyIGNvdmVydHM&hash=a7195f7a72755a6b598963061c723e02ac9d7b00&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVzc2VyIGNvdmVydHM&hash=a7195f7a72755a6b598963061c723e02ac9d7b00&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -492,12 +524,13 @@
       ]
     },
     {
+      "id": "99dd9797-9144-416f-a4ed-94b6137ac283",
       "word": "covert",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y292ZXJ0&hash=7484cee26ddd8daeb13bc7224272449dd2834acc&lang=en&cache-only=0",
-      "phonetic_text": "koʊvərt",
+      "phonetic_text": "koʊ.vɜrt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y292ZXJ0&hash=7484cee26ddd8daeb13bc7224272449dd2834acc&lang=en&cache-only=0",
-      "phonetic_am_text": "kowvērt",
+      "phonetic_am_text": "kooo.vērt",
       "img": "",
       "pronunciation": "ˈkoʊvɝt",
       "senses": [
@@ -508,14 +541,15 @@
       ]
     },
     {
+      "id": "a999f942-942a-4014-b5b6-fd2c74eb1086",
       "word": "tertial",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVydGlhbA&hash=b6732042014b83be2f4b17b3ea4a9db164f8c7b2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɜr.ʃəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVydGlhbA&hash=b6732042014b83be2f4b17b3ea4a9db164f8c7b2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tēr.shēl",
       "img": "",
-      "pronunciation": "tˈɜːʃəl",
+      "pronunciation": "ˈtɝʃəl",
       "senses": [
         {
           "definition": "a feather on the wing that helps with stability and maneuverability during flight. It's located between the flight feathers and the bird's body",
@@ -524,28 +558,51 @@
       ]
     },
     {
+      "id": "d8410144-f2bb-4784-b8b0-e3e4c07f032b",
       "word": "primary",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJpbWFyeQ&hash=aad93f71c97ff08168d532c0144b03c3d5fc6178&lang=en&cache-only=0",
-      "phonetic_text": "praɪmɛri",
+      "phonetic_text": "praɪ.mɛ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJpbWFyeQ&hash=aad93f71c97ff08168d532c0144b03c3d5fc6178&lang=en&cache-only=0",
-      "phonetic_am_text": "praimeri",
+      "phonetic_am_text": "prai.me.ri",
       "img": "",
-      "pronunciation": "ˈpɹaɪˌmɛɹi",
+      "pronunciation": "ˈpraɪˌmɛri",
       "senses": [
         {
           "definition": "the main and longest feathers on a bird's wing that help it fly",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Owls rely on their primaries for silent nighttime flights."
+            },
+            {
+              "cf": "",
+              "x": "Injured birds may struggle to fly without intact primaries."
+            },
+            {
+              "cf": "",
+              "x": "Scientists study the structure of a primary to understand flight abilities."
+            },
+            {
+              "cf": "",
+              "x": "During molting, a bird sheds and replaces its old primary."
+            },
+            {
+              "cf": "",
+              "x": "The peacock's vibrant primary caught everyone's attention."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "dcf13dcf-a32d-4044-8dcc-77631ed9037b",
       "word": "tarsus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFyc3Vz&hash=14ae4ce60efac5771bf2125a2b9d3e40cda2d45e&lang=en&cache-only=0",
-      "phonetic_text": "tɑ:rsəs",
+      "phonetic_text": "tɑr.səs",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFyc3Vz&hash=14ae4ce60efac5771bf2125a2b9d3e40cda2d45e&lang=en&cache-only=0",
-      "phonetic_am_text": "taarsēs",
+      "phonetic_am_text": "taar.sēs",
       "img": "",
       "pronunciation": "ˈtɑɹsəs",
       "senses": [
@@ -556,12 +613,13 @@
       ]
     },
     {
+      "id": "477d71cc-c88e-4267-854c-1b87c25e639c",
       "word": "eyestripe",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXllc3RyaXBl&hash=3b2d3233c552458547543af90d46444f2ddf5c11&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aɪ.straɪp",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXllc3RyaXBl&hash=3b2d3233c552458547543af90d46444f2ddf5c11&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ai.straip",
       "img": "",
       "pronunciation": "ˈaɪstɹaɪp",
       "senses": [
@@ -572,12 +630,13 @@
       ]
     },
     {
+      "id": "d32bde21-c5ee-4df3-a14e-af1db3375c2a",
       "word": "proventriculus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvdmVudHJpY3VsdXM&hash=b855152e5f807cb6e88db9224ab003591765d641&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "proʊ.vɛnt.rɪ.kjʊ.ləs",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvdmVudHJpY3VsdXM&hash=b855152e5f807cb6e88db9224ab003591765d641&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "prooo.vent.ri.kyoo.lēs",
       "img": "",
       "pronunciation": "pɹˌuːvəntɹˈɪkjʊləs",
       "senses": [

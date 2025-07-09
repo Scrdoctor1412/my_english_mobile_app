@@ -1,47 +1,81 @@
 {
+  "id": "80f2090f-a35a-47f4-ba1c-0af3223854c6",
   "topic": "phrasal_verbs_using_up",
   "title": "Reaching or Elevating",
   "lesson": "lesson_19",
   "word_list": [
     {
-      "word": "end up",
+      "id": "f2cf326d-c258-48aa-853b-73f8c0f594af",
+      "word": "to end up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZW5kIHVw&hash=f24caf38621acec4f332260148457362c4087e83&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛnd ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZW5kIHVw&hash=f24caf38621acec4f332260148457362c4087e83&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "end ap",
       "img": "https://cdn.langeek.co/photo/52071/original/?type=jpeg",
       "pronunciation": "ˈɛnd ˈʌp",
       "senses": [
         {
           "definition": "to eventually reach or find oneself in a particular place, situation, or condition, often unexpectedly or as a result of circumstances",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "After several detours, we ended up at the beautiful hidden beach we had heard about."
+            },
+            {
+              "cf": "",
+              "x": "Sometimes life takes unexpected turns, and you might end up in a career you hadn't initially considered."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "land up",
+      "id": "0d7c2b43-983b-4930-8315-42c54451e73c",
+      "word": "to land up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGFuZCB1cA&hash=c8009eacb3c9e5ca0da06cb61f2f5aafb8798d0e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lænd ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGFuZCB1cA&hash=c8009eacb3c9e5ca0da06cb61f2f5aafb8798d0e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lānd ap",
       "img": "https://cdn.langeek.co/photo/52077/original/?type=jpeg",
       "pronunciation": "lˈænd ˈʌp",
       "senses": [
         {
           "definition": "to reach a particular situation or place, often unexpectedly",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "We traveled around for a while and landed up in Seattle."
+            },
+            {
+              "cf": "",
+              "x": "He landed up in a ditch after he lost control of his car."
+            },
+            {
+              "cf": "",
+              "x": "She landed up with a job that she didn't really want, but it was the best she could find at the time."
+            },
+            {
+              "cf": "",
+              "x": "After years of hard work, she landed up as the CEO of the company."
+            },
+            {
+              "cf": "",
+              "x": "The lost hikers landed up at a ranger station, safe and sound."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "lead up to",
+      "id": "0941a65e-fcde-4f71-8d4a-cac24db667f5",
+      "word": "to lead up to",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGVhZCB1cCB0bw&hash=1874cf0593401d520b6f24ad5b0d2112646612a3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "li:d ʌp tu:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGVhZCB1cCB0bw&hash=1874cf0593401d520b6f24ad5b0d2112646612a3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lid ap too",
       "img": "https://cdn.langeek.co/photo/46416/original/?type=jpeg",
       "pronunciation": "lˈiːd ˈʌp tuː",
       "senses": [
@@ -52,30 +86,45 @@
       ]
     },
     {
-      "word": "lift up",
+      "id": "ee6cf49b-9e6b-4551-9dff-5d948555a86e",
+      "word": "to lift up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGlmdCB1cA&hash=98350164e3a4f9a9bf3f02f36115e8004663f986&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɪft ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGlmdCB1cA&hash=98350164e3a4f9a9bf3f02f36115e8004663f986&lang=en&cache-only=0",
-      "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/22774/original/?type=jpeg",
+      "phonetic_am_text": "lift ap",
+      "img": "https://cdn.langeek.co/photo/60885/original/?type=jpeg",
       "pronunciation": "lˈɪft ˈʌp",
       "senses": [
         {
           "definition": "to take someone or something and move them upward",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The father lifted up his son onto his shoulders for a better view of the parade."
+            },
+            {
+              "cf": "",
+              "x": "He lifted up the heavy box with ease."
+            },
+            {
+              "cf": "",
+              "x": "She lifted up her child to see the parade."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "pick up",
+      "id": "dec6ec78-6089-459d-83da-423af9533558",
+      "word": "to pick up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGljayB1cA&hash=d255d49be38c203f8498afac14a082c089eb1faa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɪk ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGljayB1cA&hash=d255d49be38c203f8498afac14a082c089eb1faa&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pik ap",
       "img": "https://cdn.langeek.co/photo/40703/original/?type=jpeg",
-      "pronunciation": "pˈɪk ˈʌp",
+      "pronunciation": "ˈpɪk ˈʌp",
       "senses": [
         {
           "definition": "to take and lift something or someone up",
@@ -97,66 +146,130 @@
       ]
     },
     {
-      "word": "pull up",
+      "id": "146937a7-543e-4052-85e0-893c6aeac60e",
+      "word": "to pull up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHVsbCB1cA&hash=14699fa16e805f4f7cab4b41ff1035770bb225cd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pʊl ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHVsbCB1cA&hash=14699fa16e805f4f7cab4b41ff1035770bb225cd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pool ap",
       "img": "https://cdn.langeek.co/photo/49457/original/?type=jpeg",
       "pronunciation": "pˈʊl ˈʌp",
       "senses": [
         {
           "definition": "to lift or position something or someone upward",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "To avoid tripping, he pulled up the loose rug's edge."
+            },
+            {
+              "cf": "",
+              "x": "The coach asked the player to pull up his socks and improve his performance."
+            },
+            {
+              "cf": "",
+              "x": "The pilot pulled up the nose of the plane to avoid the turbulence."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "push up",
+      "id": "6d8bfb11-d89e-4905-958d-4040eb7149b4",
+      "word": "to push up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHVzaCB1cA&hash=5cf1c87a502251eb5922e4e334e4e230e9085d3b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pʊʃ ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHVzaCB1cA&hash=5cf1c87a502251eb5922e4e334e4e230e9085d3b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "poosh ap",
       "img": "https://cdn.langeek.co/photo/52027/original/?type=jpeg",
       "pronunciation": "pˈʊʃ ˈʌp",
       "senses": [
         {
           "definition": "to move something in an upward direction",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She used her hand to push up the window that was stuck."
+            },
+            {
+              "cf": "",
+              "x": "The child reached out to push up the toy that had fallen under the table."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "swell up",
+      "id": "6a2d8148-537c-44e0-8f30-329c051de7f2",
+      "word": "to swell up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3dlbGwgdXA&hash=40c11040e3ec8c016ba96e9b9e916b2c0d2ba7f9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "swɛl ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3dlbGwgdXA&hash=40c11040e3ec8c016ba96e9b9e916b2c0d2ba7f9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "svel ap",
       "img": "https://cdn.langeek.co/photo/37007/original/?type=jpeg",
       "pronunciation": "swˈɛl ˈʌp",
       "senses": [
         {
           "definition": "to get bigger abnormally, often due to inflammation or fluid accumulation",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "An infection in the gums can make them swell up and become painful."
+            },
+            {
+              "cf": "",
+              "x": "The dough needs time to swell up before baking to achieve the perfect texture."
+            },
+            {
+              "cf": "",
+              "x": "Allergic reactions can make the face swell up, making it important to seek medical attention."
+            },
+            {
+              "cf": "",
+              "x": "His ankle swelled up after he twisted it during the basketball game."
+            },
+            {
+              "cf": "",
+              "x": "After getting stung by a bee, my hand swelled up within minutes."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "turn up",
+      "id": "e3192bdf-2f5b-41e2-b2b8-60902938d42f",
+      "word": "to turn up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHVybiB1cA&hash=5648a537bb73ba1ba66c76c2b3ad72b6b8b72448&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɜrn ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHVybiB1cA&hash=5648a537bb73ba1ba66c76c2b3ad72b6b8b72448&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tērn ap",
       "img": "https://cdn.langeek.co/photo/45206/original/find?type=jpeg",
-      "pronunciation": "tˈɜːn ˈʌp",
+      "pronunciation": "ˈtɝn ˈʌp",
       "senses": [
         {
           "definition": "to unexpectedly appear or be found",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The missing keys turned up in the coat pocket."
+            },
+            {
+              "cf": "",
+              "x": "The solution to the problem turned up after hours of brainstorming."
+            },
+            {
+              "cf": "",
+              "x": "The error turned up in the software testing phase."
+            },
+            {
+              "cf": "",
+              "x": "Surprisingly, the long-lost artifact turned up in the archaeological dig."
+            }
+          ]
         }
       ]
     }

@@ -1,17 +1,19 @@
 {
+  "id": "4b5a026e-b307-47fe-9737-1db569a7f963",
   "topic": "appearance",
   "title": "Describing Feminine Looks",
   "lesson": "lesson_0",
   "word_list": [
     {
+      "id": "5ebcf390-8433-4f1a-ac85-2dc33bac8b7d",
       "word": "beauty",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVhdXR5&hash=31a6b1fc35e997e8da208a8756f16adcc26aa734&lang=en&cache-only=0",
-      "phonetic_text": "bju:ti",
+      "phonetic_text": "bju.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVhdXR5&hash=31a6b1fc35e997e8da208a8756f16adcc26aa734&lang=en&cache-only=0",
-      "phonetic_am_text": "byooti",
+      "phonetic_am_text": "byoo.ti",
       "img": "https://cdn.langeek.co/photo/26660/original/?type=jpeg",
-      "pronunciation": "ˈbjuti",
+      "pronunciation": "ˈbjuːti",
       "senses": [
         {
           "definition": "an attractive person, especially a woman",
@@ -41,6 +43,7 @@
       ]
     },
     {
+      "id": "0e082bdf-b78d-40b6-ad35-b0c05e655c0e",
       "word": "belle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVsbGU&hash=0a55cf1175d94eb7eb7896253075f63c9ebbc6d2&lang=en&cache-only=0",
@@ -51,32 +54,72 @@
       "pronunciation": "ˈbɛɫ",
       "senses": [
         {
-          "definition": "an attractive girl or woman who is the most popular among others",
-          "examples": []
+          "definition": "a beautiful and admired woman, especially one who stands out at a social event",
+          "examples": [
+            {
+              "cf": "",
+              "x": "She was the belle of the ball in her shimmering red gown."
+            },
+            {
+              "cf": "",
+              "x": "At every party, Julia is always the belle, charming everyone around her."
+            },
+            {
+              "cf": "",
+              "x": "The film tells the story of a small-town belle who dreams of city life."
+            },
+            {
+              "cf": "",
+              "x": "Dressed in vintage lace, she looked like a Southern belle from a bygone era."
+            },
+            {
+              "cf": "",
+              "x": "He couldn't take his eyes off the belle sitting across the room."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0398ac7d-3e1c-4089-8ccf-a30f24333b48",
       "word": "lovely",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG92ZWx5&hash=e00598dbc7f0b9dbe4d0822e59c02bdfc8a07f9b&lang=en&cache-only=0",
-      "phonetic_text": "lʌvli",
+      "phonetic_text": "ləv.li",
       "phonetic_am": "https://tts.langeek.co/read?text=bG92ZWx5&hash=e00598dbc7f0b9dbe4d0822e59c02bdfc8a07f9b&lang=en&cache-only=0",
-      "phonetic_am_text": "lavli",
+      "phonetic_am_text": "lēv.li",
       "img": "",
       "pronunciation": "ˈɫəvɫi",
       "senses": [
         {
-          "definition": "a beautiful or attractive woman or girl",
-          "examples": []
+          "definition": "a beautiful or attractive woman",
+          "examples": [
+            {
+              "cf": "",
+              "x": "The photographer chose several young lovelies for the magazine shoot."
+            },
+            {
+              "cf": "",
+              "x": "Tourists gathered to take pictures with the local lovelies in traditional dress."
+            },
+            {
+              "cf": "",
+              "x": "The fashion show was filled with elegant lovelies strutting down the runway."
+            },
+            {
+              "cf": "",
+              "x": "The party was buzzing with glamorous lovelies in sparkling evening gowns."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "9e3f6196-c078-435a-8f5e-02ef23c5b6fa",
       "word": "femme fatale",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmVtbWUgZmF0YWxl&hash=4cbe47f71986b95bf5aaae76829b285674844084&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmVtbWUgZmF0YWxl&hash=4cbe47f71986b95bf5aaae76829b285674844084&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -89,12 +132,13 @@
       ]
     },
     {
+      "id": "240281b0-3d36-4bfd-9cb6-e64e5a07be92",
       "word": "bombshell",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9tYnNoZWxs&hash=ec93ca04559b21b3c456b8b804739959fc1d2f7e&lang=en&cache-only=0",
-      "phonetic_text": "bɑ:mʃɛl",
+      "phonetic_text": "bɑm.ʃel",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9tYnNoZWxs&hash=ec93ca04559b21b3c456b8b804739959fc1d2f7e&lang=en&cache-only=0",
-      "phonetic_am_text": "baamshel",
+      "phonetic_am_text": "baam.shel",
       "img": "https://cdn.langeek.co/photo/16274/original/cute?type=jpeg",
       "pronunciation": "ˈbɑmˌʃɛɫ",
       "senses": [
@@ -105,12 +149,13 @@
       ]
     },
     {
+      "id": "15b3b8d9-6a1a-4be2-b8f6-8e9f0b36900c",
       "word": "goddess",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29kZGVzcw&hash=a44aaa42dddb7270f6a1526a485bce819a3b18f9&lang=en&cache-only=0",
-      "phonetic_text": "gɑ:dəs",
+      "phonetic_text": "gɑ.dəs",
       "phonetic_am": "https://tts.langeek.co/read?text=Z29kZGVzcw&hash=a44aaa42dddb7270f6a1526a485bce819a3b18f9&lang=en&cache-only=0",
-      "phonetic_am_text": "gaadēs",
+      "phonetic_am_text": "gaa.dēs",
       "img": "",
       "pronunciation": "ˈɡɑdəs",
       "senses": [
@@ -121,13 +166,14 @@
       ]
     },
     {
+      "id": "98414067-0869-4a7b-814f-d22c188684bf",
       "word": "statuesque",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c3RhdHVlc3F1ZQ&hash=6337a8591e83f998d2071118cf1018c4c7e13a48&lang=en&cache-only=0",
-      "phonetic_text": "stæʧuɛsk",
+      "phonetic_text": "stæ.ʧuɛsk",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RhdHVlc3F1ZQ&hash=6337a8591e83f998d2071118cf1018c4c7e13a48&lang=en&cache-only=0",
-      "phonetic_am_text": "stāchuesk",
-      "img": "https://cdn.langeek.co/photo/22155/original/tall?type=jpeg",
+      "phonetic_am_text": "stā.chooesk",
+      "img": "https://cdn.langeek.co/photo/60528/original/?type=jpeg",
       "pronunciation": "ˌstætʃuˈɛsk",
       "senses": [
         {
@@ -158,12 +204,13 @@
       ]
     },
     {
+      "id": "3a49b87f-d4bf-487c-afd6-d586bb440deb",
       "word": "sultry",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c3VsdHJ5&hash=3de59219c93f222850a9bab0b79a9116daa487a2&lang=en&cache-only=0",
-      "phonetic_text": "sʌltri",
+      "phonetic_text": "səlt.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=c3VsdHJ5&hash=3de59219c93f222850a9bab0b79a9116daa487a2&lang=en&cache-only=0",
-      "phonetic_am_text": "saltri",
+      "phonetic_am_text": "sēlt.ri",
       "img": "",
       "pronunciation": "ˈsəɫtɹi",
       "senses": [
@@ -174,13 +221,14 @@
       ]
     },
     {
+      "id": "cbe77787-df08-45ca-8e65-492b9faf01e0",
       "word": "comely",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y29tZWx5&hash=6a767d90dd8d5b55700c879c9afc28a77402baa1&lang=en&cache-only=0",
-      "phonetic_text": "kʌmli",
+      "phonetic_text": "kəm.li",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tZWx5&hash=6a767d90dd8d5b55700c879c9afc28a77402baa1&lang=en&cache-only=0",
-      "phonetic_am_text": "kamli",
-      "img": "https://cdn.langeek.co/photo/16272/original/pretty?type=jpeg",
+      "phonetic_am_text": "kēm.li",
+      "img": "https://cdn.langeek.co/photo/60610/original/pretty?type=jpeg",
       "pronunciation": "ˈkəmɫi",
       "senses": [
         {
@@ -203,12 +251,13 @@
       ]
     },
     {
+      "id": "f7d5e3d6-0f88-4418-845d-0fb8673366d6",
       "word": "bewitching",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YmV3aXRjaGluZw&hash=3532c1755e1771d5c90b8ee4fec7f87acc838740&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bi:.wɪ.ʧɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=YmV3aXRjaGluZw&hash=3532c1755e1771d5c90b8ee4fec7f87acc838740&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bi.vi.ching",
       "img": "https://cdn.langeek.co/photo/26646/original/?type=jpeg",
       "pronunciation": "bɪwˈɪtʃɪŋ",
       "senses": [
@@ -219,6 +268,7 @@
       ]
     },
     {
+      "id": "5ef6a0be-835f-4b3f-898d-e6bd5cf76298",
       "word": "fair",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZmFpcg&hash=b86ed37caefb525ca7728eaf9835a4d858c718c4&lang=en&cache-only=0",
@@ -226,7 +276,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFpcg&hash=b86ed37caefb525ca7728eaf9835a4d858c718c4&lang=en&cache-only=0",
       "phonetic_am_text": "fer",
       "img": "https://cdn.langeek.co/photo/48127/original/beautiful?type=jpeg",
-      "pronunciation": "feɹ",
+      "pronunciation": "fɛr",
       "senses": [
         {
           "definition": "(of a woman) beautiful",
@@ -235,12 +285,13 @@
       ]
     },
     {
+      "id": "7f34a474-1ecd-48b7-aefe-cc1bbf74d31d",
       "word": "bonny",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Ym9ubnk&hash=88a1dce75c163f28e2ee625d04718087d5070b36&lang=en&cache-only=0",
-      "phonetic_text": "bɑ:ni",
+      "phonetic_text": "bɑ.ni",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9ubnk&hash=88a1dce75c163f28e2ee625d04718087d5070b36&lang=en&cache-only=0",
-      "phonetic_am_text": "baani",
+      "phonetic_am_text": "baa.ni",
       "img": "https://cdn.langeek.co/photo/16274/original/cute?type=jpeg",
       "pronunciation": "ˈbɑni",
       "senses": [
@@ -251,10 +302,11 @@
       ]
     },
     {
+      "id": "07264403-5d58-40a0-b637-271dedf08716",
       "word": "English rose",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RW5nbGlzaCByb3Nl&hash=6eb58bf6370cd26d8cc73570bcf315197017f29f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RW5nbGlzaCByb3Nl&hash=6eb58bf6370cd26d8cc73570bcf315197017f29f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/49153/original/smile?type=jpeg",
@@ -267,6 +319,7 @@
       ]
     },
     {
+      "id": "96e311fd-b2cf-48ce-a4bf-2348521f6e29",
       "word": "babe",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFiZQ&hash=67ea608b566e99436af71c73abe66383a3712ea7&lang=en&cache-only=0",
@@ -296,12 +349,13 @@
       ]
     },
     {
+      "id": "fe2d575e-cebc-4e16-bcac-c428673f1de4",
       "word": "enchantress",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZW5jaGFudHJlc3M&hash=cdac2238655f1937ab89e15573596ce48d82d14b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛn.ʧænt.rəs",
       "phonetic_am": "https://tts.langeek.co/read?text=ZW5jaGFudHJlc3M&hash=cdac2238655f1937ab89e15573596ce48d82d14b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "en.chānt.rēs",
       "img": "",
       "pronunciation": "ɛntʃˈæntɹəs",
       "senses": [
@@ -312,6 +366,7 @@
       ]
     },
     {
+      "id": "ae8c4669-a6a9-4058-857b-a7e7ac1861e4",
       "word": "fox",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm94&hash=6dbc18df7f7b616f8e32fc6924313ed401ec5551&lang=en&cache-only=0",
@@ -328,12 +383,13 @@
       ]
     },
     {
+      "id": "2e2d3838-f756-48b7-9c5b-b53eb816a785",
       "word": "temptress",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVtcHRyZXNz&hash=9d0847eb694b304364cde252a075deb33102d1c7&lang=en&cache-only=0",
-      "phonetic_text": "tɛmptrɪs",
+      "phonetic_text": "tɛmp.trɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVtcHRyZXNz&hash=9d0847eb694b304364cde252a075deb33102d1c7&lang=en&cache-only=0",
-      "phonetic_am_text": "temptris",
+      "phonetic_am_text": "temp.tris",
       "img": "",
       "pronunciation": "ˈtɛmptɹɪs",
       "senses": [
@@ -344,12 +400,13 @@
       ]
     },
     {
+      "id": "d6647922-7201-4900-8e03-b6e9a2bbd705",
       "word": "foxy",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Zm94eQ&hash=695203bb5cbc046cdc63fede69d3db3ef1824f76&lang=en&cache-only=0",
-      "phonetic_text": "fɑ:ksi",
+      "phonetic_text": "fɑk.si",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm94eQ&hash=695203bb5cbc046cdc63fede69d3db3ef1824f76&lang=en&cache-only=0",
-      "phonetic_am_text": "faaksi",
+      "phonetic_am_text": "faak.si",
       "img": "https://cdn.langeek.co/photo/16274/original/cute?type=jpeg",
       "pronunciation": "ˈfɑksi",
       "senses": [
@@ -381,12 +438,13 @@
       ]
     },
     {
+      "id": "116ed944-1f94-4faf-833b-07e49afff79b",
       "word": "gamine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2FtaW5l&hash=1d5db1009db7793acb8b29b911d81317dff84799&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gæ.maɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2FtaW5l&hash=1d5db1009db7793acb8b29b911d81317dff84799&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gā.main",
       "img": "",
       "pronunciation": "ɡˈæmaɪn",
       "senses": [
@@ -397,12 +455,13 @@
       ]
     },
     {
+      "id": "4640e7ca-872b-49a3-8ea4-7ca516fc74d0",
       "word": "siren",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2lyZW4&hash=b8f8d4be148bc4761c882c9c3a47f4bad4ee6fc0&lang=en&cache-only=0",
-      "phonetic_text": "saɪrən",
+      "phonetic_text": "saɪ.rən",
       "phonetic_am": "https://tts.langeek.co/read?text=c2lyZW4&hash=b8f8d4be148bc4761c882c9c3a47f4bad4ee6fc0&lang=en&cache-only=0",
-      "phonetic_am_text": "sairēn",
+      "phonetic_am_text": "sai.rēn",
       "img": "",
       "pronunciation": "ˈsaɪɹən",
       "senses": [
@@ -413,12 +472,13 @@
       ]
     },
     {
+      "id": "b84c5686-685d-4f9b-b256-18ab00219b65",
       "word": "stunner",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3R1bm5lcg&hash=69f8651894f76bcc83282866918be1e74b9496d2&lang=en&cache-only=0",
-      "phonetic_text": "stʌnər",
+      "phonetic_text": "stə.nɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3R1bm5lcg&hash=69f8651894f76bcc83282866918be1e74b9496d2&lang=en&cache-only=0",
-      "phonetic_am_text": "stanēr",
+      "phonetic_am_text": "stē.nēr",
       "img": "https://cdn.langeek.co/photo/26650/original/?type=jpeg",
       "pronunciation": "ˈstənɝ",
       "senses": [
@@ -429,12 +489,13 @@
       ]
     },
     {
+      "id": "1de34db2-e699-4787-8058-2e650bfb5ade",
       "word": "looker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9va2Vy&hash=7b9982398816248c0352bfac412aa78c7c9902c5&lang=en&cache-only=0",
-      "phonetic_text": "lʊkər",
+      "phonetic_text": "lʊ.kɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9va2Vy&hash=7b9982398816248c0352bfac412aa78c7c9902c5&lang=en&cache-only=0",
-      "phonetic_am_text": "lukēr",
+      "phonetic_am_text": "loo.kēr",
       "img": "https://cdn.langeek.co/photo/26660/original/?type=jpeg",
       "pronunciation": "ˈɫʊkɝ",
       "senses": [
@@ -445,12 +506,13 @@
       ]
     },
     {
+      "id": "9e3c4b27-d606-4e99-8b25-0a043a50958e",
       "word": "cover girl",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y292ZXIgZ2lybA&hash=3008f12ae5131192412207ffe257d59d27784b39&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kʌ.vər gɜrl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y292ZXIgZ2lybA&hash=3008f12ae5131192412207ffe257d59d27784b39&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ka.vēr gērl",
       "img": "",
       "pronunciation": "kˈʌvɚ ɡˈɜːl",
       "senses": [
@@ -461,12 +523,13 @@
       ]
     },
     {
+      "id": "240cc4cf-30a3-49b9-9b86-43ba0abee9e5",
       "word": "trophy wife",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJvcGh5IHdpZmU&hash=f5b204d2bac8033db847c382392c18f63ecd4a41&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "troʊ.fi waɪf",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJvcGh5IHdpZmU&hash=f5b204d2bac8033db847c382392c18f63ecd4a41&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trooo.fi vaif",
       "img": "",
       "pronunciation": "tɹˈoʊfi wˈaɪf",
       "senses": [
@@ -477,6 +540,7 @@
       ]
     },
     {
+      "id": "54caa54c-9520-4f29-82bb-dea9f56f62cd",
       "word": "sylph",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3lscGg&hash=062a60f633f72568ff8ea552e8d404f97460fd8b&lang=en&cache-only=0",
@@ -493,12 +557,13 @@
       ]
     },
     {
+      "id": "40a0ad3e-4ab0-4f08-8547-6cd08bbdb28c",
       "word": "eyeful",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXllZnVs&hash=c5c409a732ae14f373d3eb8a379b39c86eab65c6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aɪ.fəl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXllZnVs&hash=c5c409a732ae14f373d3eb8a379b39c86eab65c6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ai.fēl",
       "img": "",
       "pronunciation": "ˈaɪfəl",
       "senses": [
@@ -509,6 +574,7 @@
       ]
     },
     {
+      "id": "299aa7c9-e1f4-4869-9a59-927a178762b9",
       "word": "vamp",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmFtcA&hash=43f32d6d87c46353f87f1aaf2b0312c1d6cab061&lang=en&cache-only=0",
@@ -525,12 +591,13 @@
       ]
     },
     {
+      "id": "dd3de921-1316-4bd4-94ed-18fceb401763",
       "word": "nubile",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bnViaWxl&hash=d06d8fc7316157e7b45880d1e8b20e8c2a328d53&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nu:.baɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=bnViaWxl&hash=d06d8fc7316157e7b45880d1e8b20e8c2a328d53&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "noo.bail",
       "img": "",
       "pronunciation": "nˈuːbaɪl",
       "senses": [
@@ -541,12 +608,13 @@
       ]
     },
     {
+      "id": "0882579f-ba71-4763-a6fe-b90c036ce5d2",
       "word": "sex kitten",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2V4IGtpdHRlbg&hash=ed6c64f0c048a81a9805c7c8d967cc9519a4b728&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛks kɪ.tən",
       "phonetic_am": "https://tts.langeek.co/read?text=c2V4IGtpdHRlbg&hash=ed6c64f0c048a81a9805c7c8d967cc9519a4b728&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "seks ki.tēn",
       "img": "",
       "pronunciation": "sˈɛks kˈɪʔn̩",
       "senses": [
@@ -557,12 +625,13 @@
       ]
     },
     {
+      "id": "8f9b78a9-4ec6-48c2-9d25-8a10149d6cd2",
       "word": "sexpot",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2V4cG90&hash=9d607103cd930699b3ee931dc159a3d5417db0aa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛks.pɑt",
       "phonetic_am": "https://tts.langeek.co/read?text=c2V4cG90&hash=9d607103cd930699b3ee931dc159a3d5417db0aa&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "seks.paat",
       "img": "",
       "pronunciation": "sˈɛkspɑːt",
       "senses": [
@@ -573,12 +642,13 @@
       ]
     },
     {
+      "id": "353e0985-5516-4e06-9627-46100d1ed1dc",
       "word": "nymphet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bnltcGhldA&hash=90915da281e552ae867a45122379471e5aa161a4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nɪm.fɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=bnltcGhldA&hash=90915da281e552ae867a45122379471e5aa161a4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nim.fit",
       "img": "",
       "pronunciation": "nˈɪmfɪt",
       "senses": [
@@ -589,12 +659,13 @@
       ]
     },
     {
+      "id": "d117475d-a619-4148-b5fd-3b7a99ba56d2",
       "word": "lolita",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9saXRh&hash=b438857f46689f6514a576788b8889d7ae4be819&lang=en&cache-only=0",
-      "phonetic_text": "loʊli:tə",
+      "phonetic_text": "loʊ.li.tə",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9saXRh&hash=b438857f46689f6514a576788b8889d7ae4be819&lang=en&cache-only=0",
-      "phonetic_am_text": "lowleetē",
+      "phonetic_am_text": "looo.li.tē",
       "img": "",
       "pronunciation": "ɫoʊˈɫitə",
       "senses": [
@@ -605,10 +676,11 @@
       ]
     },
     {
+      "id": "ca7cd003-3f4f-4a19-b109-9c74461284fb",
       "word": "Barbie doll",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QmFyYmllIGRvbGw&hash=5de7d65f26afd713338b63a55188657718c003b2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QmFyYmllIGRvbGw&hash=5de7d65f26afd713338b63a55188657718c003b2&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/49153/original/smile?type=jpeg",
@@ -621,12 +693,13 @@
       ]
     },
     {
+      "id": "5febd8f5-976b-4982-9b89-dc5c72d7659d",
       "word": "bimbo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmltYm8&hash=96f7e0d313a50e22e1df3af4e87aabf58b998be8&lang=en&cache-only=0",
-      "phonetic_text": "bɪmboʊ",
+      "phonetic_text": "bɪm.boʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=YmltYm8&hash=96f7e0d313a50e22e1df3af4e87aabf58b998be8&lang=en&cache-only=0",
-      "phonetic_am_text": "bimbow",
+      "phonetic_am_text": "bim.booo",
       "img": "",
       "pronunciation": "ˈbɪmboʊ",
       "senses": [
@@ -637,6 +710,7 @@
       ]
     },
     {
+      "id": "aa7cd6d1-b77f-4a24-8696-d1db0348eed2",
       "word": "doll",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZG9sbA&hash=efe21a4972903652d9dbd5713c157d5f9310c5f5&lang=en&cache-only=0",
@@ -651,11 +725,23 @@
           "examples": [
             {
               "cf": "",
-              "x": "Hey doll, can you pass me the salt?"
+              "x": "She disliked being referred to as \"doll\" by strangers, finding it condescending."
             },
             {
               "cf": "",
-              "x": "She disliked being referred to as \"doll\" by strangers, finding it condescending."
+              "x": "That blonde doll at the café caught everyone's attention."
+            },
+            {
+              "cf": "",
+              "x": "In those old movies, every detective seemed to fall for a glamorous doll."
+            },
+            {
+              "cf": "",
+              "x": "She's not just a pretty doll—she's got brains and ambition too."
+            },
+            {
+              "cf": "",
+              "x": "The club was filled with dancers, each dressed like a 1920s doll."
             }
           ]
         }

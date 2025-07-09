@@ -1,17 +1,19 @@
 {
+  "id": "652059ac-4b34-429b-a5d5-d376a675c89e",
   "topic": "b1_level",
   "title": "Human Characteristics",
   "lesson": "lesson_9",
   "word_list": [
     {
+      "id": "7bd1a1cf-241a-40db-ba14-cf5d68bd9e65",
       "word": "curious",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y3VyaW91cw&hash=8c1aff4eb968f735bfba5f9ae632394481049d0d&lang=en&cache-only=0",
-      "phonetic_text": "kjʊriəs",
+      "phonetic_text": "kjʊ.riəs",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3VyaW91cw&hash=8c1aff4eb968f735bfba5f9ae632394481049d0d&lang=en&cache-only=0",
-      "phonetic_am_text": "kyuriēs",
+      "phonetic_am_text": "kyoo.riēs",
       "img": "https://cdn.langeek.co/photo/19266/original/curious?type=jpeg",
-      "pronunciation": "ˈkjʊɹiəs",
+      "pronunciation": "ˈkjʊriəs",
       "senses": [
         {
           "definition": "(of a person) interested in learning and knowing about things",
@@ -41,6 +43,7 @@
       ]
     },
     {
+      "id": "a2670c82-2a80-478a-9013-e6791caafdc5",
       "word": "brave",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YnJhdmU&hash=35cd8d176bdd597ebe3f22c3f22b704452bbea31&lang=en&cache-only=0",
@@ -48,7 +51,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=YnJhdmU&hash=35cd8d176bdd597ebe3f22c3f22b704452bbea31&lang=en&cache-only=0",
       "phonetic_am_text": "breiv",
       "img": "https://cdn.langeek.co/photo/49347/original/?type=jpeg",
-      "pronunciation": "ˈbɹeɪv",
+      "pronunciation": "breɪv",
       "senses": [
         {
           "definition": "having no fear when doing dangerous or painful things",
@@ -78,14 +81,15 @@
       ]
     },
     {
+      "id": "ecc274fa-703c-4790-a476-c7d46c1fd462",
       "word": "silly",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c2lsbHk&hash=fafcfddcde525f9efff66ae77f1366509ddce2c9&lang=en&cache-only=0",
-      "phonetic_text": "sɪli",
+      "phonetic_text": "sɪ.li",
       "phonetic_am": "https://tts.langeek.co/read?text=c2lsbHk&hash=fafcfddcde525f9efff66ae77f1366509ddce2c9&lang=en&cache-only=0",
-      "phonetic_am_text": "sili",
+      "phonetic_am_text": "si.li",
       "img": "https://cdn.langeek.co/photo/17871/original/foolish?type=jpeg",
-      "pronunciation": "ˈsɪɫi",
+      "pronunciation": "ˈsɪli",
       "senses": [
         {
           "definition": "showing a lack of seriousness, often in a playful way",
@@ -107,30 +111,53 @@
       ]
     },
     {
+      "id": "de4f9b34-87d4-40b2-a8fe-b3255cc74fcd",
       "word": "proud",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cHJvdWQ&hash=4dae34688a942f2d53e1ff4937a491f9eb6660e5&lang=en&cache-only=0",
       "phonetic_text": "praʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvdWQ&hash=4dae34688a942f2d53e1ff4937a491f9eb6660e5&lang=en&cache-only=0",
-      "phonetic_am_text": "prawd",
+      "phonetic_am_text": "praood",
       "img": "https://cdn.langeek.co/photo/19612/original/proud?type=jpeg",
-      "pronunciation": "ˈpɹaʊd",
+      "pronunciation": "praʊd",
       "senses": [
         {
           "definition": "feeling satisfied with someone or one's possessions, achievements, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She felt proud of her daughter's academic achievements."
+            },
+            {
+              "cf": "",
+              "x": "He was proud of his son's performance in the school play."
+            },
+            {
+              "cf": "",
+              "x": "She felt proud of her artwork being displayed in the gallery."
+            },
+            {
+              "cf": "",
+              "x": "They were proud of their new home after years of hard work to afford it."
+            },
+            {
+              "cf": "",
+              "x": "He felt proud of himself for completing his first marathon."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "3a001d0b-a764-46c0-aaeb-b871169711f3",
       "word": "experienced",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZXhwZXJpZW5jZWQ&hash=31cfd68bfa069203554c6abd0ae66fb4f34696bf&lang=en&cache-only=0",
-      "phonetic_text": "ɪkspɪriənst",
+      "phonetic_text": "ɪk.spɪ.riənst",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXhwZXJpZW5jZWQ&hash=31cfd68bfa069203554c6abd0ae66fb4f34696bf&lang=en&cache-only=0",
-      "phonetic_am_text": "ikspiriēnst",
+      "phonetic_am_text": "ik.spi.riēnst",
       "img": "https://cdn.langeek.co/photo/19578/original/experienced?type=jpeg",
-      "pronunciation": "ɪkˈspɪɹiənst",
+      "pronunciation": "ɪkˈspɪriənst",
       "senses": [
         {
           "definition": "possessing enough skill or knowledge in a certain field or job",
@@ -160,17 +187,18 @@
       ]
     },
     {
+      "id": "2b54dfaa-4947-4b5e-b7bd-ee9111c9cdb2",
       "word": "positive",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cG9zaXRpdmU&hash=7b0e13c8ef0095c5a4870f016efef36834b94539&lang=en&cache-only=0",
-      "phonetic_text": "pɑ:zətɪv",
+      "phonetic_text": "pɑ.zə.tɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9zaXRpdmU&hash=7b0e13c8ef0095c5a4870f016efef36834b94539&lang=en&cache-only=0",
-      "phonetic_am_text": "paazētiv",
+      "phonetic_am_text": "paa.zē.tiv",
       "img": "https://cdn.langeek.co/photo/19616/original/positive?type=jpeg",
       "pronunciation": "ˈpɑzətɪv",
       "senses": [
         {
-          "definition": "feeling confident and optimistic and thinking about the bright side of a situation",
+          "definition": "feeling optimistic and thinking about the bright side of a situation",
           "examples": [
             {
               "cf": "",
@@ -186,23 +214,24 @@
             },
             {
               "cf": "",
-              "x": "His positive energy was contagious, lifting the spirits of those around him."
+              "x": "They faced the competition with a positive mindset, believing in their ability to succeed."
             },
             {
               "cf": "",
-              "x": "They faced the competition with a positive mindset, believing in their ability to succeed."
+              "x": "She maintains a positive attitude, even when facing challenges."
             }
           ]
         }
       ]
     },
     {
+      "id": "166ed0ad-f051-49a3-8592-415173909092",
       "word": "negative",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bmVnYXRpdmU&hash=9366ae80b0e8e63533a522e8e4ab41afba3fa926&lang=en&cache-only=0",
-      "phonetic_text": "nɛgətɪv",
+      "phonetic_text": "nɛ.gə.tɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=bmVnYXRpdmU&hash=9366ae80b0e8e63533a522e8e4ab41afba3fa926&lang=en&cache-only=0",
-      "phonetic_am_text": "negētiv",
+      "phonetic_am_text": "ne.gē.tiv",
       "img": "https://cdn.langeek.co/photo/19618/original/negative?type=jpeg",
       "pronunciation": "ˈnɛɡətɪv",
       "senses": [
@@ -230,14 +259,15 @@
       ]
     },
     {
+      "id": "7590f891-1878-4810-ad13-2ef08f0a7ca2",
       "word": "selfish",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c2VsZmlzaA&hash=7c572fbfa2dacdb7fa8b483c1228a2d286c61ea3&lang=en&cache-only=0",
-      "phonetic_text": "sɛlfɪʃ",
+      "phonetic_text": "sɛl.fɪʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VsZmlzaA&hash=7c572fbfa2dacdb7fa8b483c1228a2d286c61ea3&lang=en&cache-only=0",
-      "phonetic_am_text": "selfish",
+      "phonetic_am_text": "sel.fish",
       "img": "https://cdn.langeek.co/photo/49778/original/?type=jpeg",
-      "pronunciation": "ˈsɛɫfɪʃ",
+      "pronunciation": "ˈsɛlfɪʃ",
       "senses": [
         {
           "definition": "always putting one's interests first and not caring about the needs or rights of others",
@@ -267,14 +297,15 @@
       ]
     },
     {
+      "id": "15f80b7d-0fe5-43d1-b127-7913027dd8c0",
       "word": "miserable",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bWlzZXJhYmxl&hash=8b60f8f184a94b89e66dbf470027cebc83598a5e&lang=en&cache-only=0",
-      "phonetic_text": "mɪzərəbəl",
+      "phonetic_text": "mɪz.rəəbl",
       "phonetic_am": "https://tts.langeek.co/read?text=bWlzZXJhYmxl&hash=8b60f8f184a94b89e66dbf470027cebc83598a5e&lang=en&cache-only=0",
-      "phonetic_am_text": "mizērēbēl",
+      "phonetic_am_text": "miz.rēēbl",
       "img": "https://cdn.langeek.co/photo/20213/original/miserable?type=jpeg",
-      "pronunciation": "ˈmɪzɝəbəɫ/, /ˈmɪzɹəbəɫ",
+      "pronunciation": "ˈmɪzrəbəl/ , /ˈmɪzɚəbəl",
       "senses": [
         {
           "definition": "feeling very unhappy or uncomfortable",
@@ -304,14 +335,15 @@
       ]
     },
     {
+      "id": "9f7f2b26-4356-4dc0-945a-36e914dcaee4",
       "word": "talented",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dGFsZW50ZWQ&hash=f929f824189dfee28bdc92867d6b03a4461a402c&lang=en&cache-only=0",
-      "phonetic_text": "tæləntɪd",
+      "phonetic_text": "tæ.lən.tɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFsZW50ZWQ&hash=f929f824189dfee28bdc92867d6b03a4461a402c&lang=en&cache-only=0",
-      "phonetic_am_text": "tālēntid",
+      "phonetic_am_text": "tā.lēn.tid",
       "img": "https://cdn.langeek.co/photo/44750/original/?type=jpeg",
-      "pronunciation": "ˈtæɫəntɪd",
+      "pronunciation": "ˈtæləntɪd",
       "senses": [
         {
           "definition": "possessing a natural skill or ability for something",
@@ -341,13 +373,14 @@
       ]
     },
     {
+      "id": "aca25b19-6ae5-4d59-8d61-816fd9951442",
       "word": "patient",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cGF0aWVudA&hash=14ce5640f6fa4778e0dc590535fcc54e586c59e9&lang=en&cache-only=0",
-      "phonetic_text": "peɪʃənt",
+      "phonetic_text": "peɪ.ʃənt",
       "phonetic_am": "https://tts.langeek.co/read?text=cGF0aWVudA&hash=14ce5640f6fa4778e0dc590535fcc54e586c59e9&lang=en&cache-only=0",
-      "phonetic_am_text": "peishēnt",
-      "img": "https://cdn.langeek.co/photo/19276/original/patient?type=jpeg",
+      "phonetic_am_text": "pei.shēnt",
+      "img": "https://cdn.langeek.co/photo/60458/original/?type=jpeg",
       "pronunciation": "ˈpeɪʃənt",
       "senses": [
         {
@@ -374,14 +407,15 @@
       ]
     },
     {
+      "id": "919a5901-6d4f-43b7-b5ce-9a9461a93f50",
       "word": "keen",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=a2Vlbg&hash=ba3105074da36dddf503092d6de277e93d760049&lang=en&cache-only=0",
-      "phonetic_text": "ki:n",
+      "phonetic_text": "kin",
       "phonetic_am": "https://tts.langeek.co/read?text=a2Vlbg&hash=ba3105074da36dddf503092d6de277e93d760049&lang=en&cache-only=0",
-      "phonetic_am_text": "keen",
-      "img": "",
-      "pronunciation": "ˈkin",
+      "phonetic_am_text": "kin",
+      "img": "https://cdn.langeek.co/photo/42390/original/?type=jpeg",
+      "pronunciation": "kiːn",
       "senses": [
         {
           "definition": "having the ability to learn or understand quickly",
@@ -407,12 +441,13 @@
       ]
     },
     {
+      "id": "318d7782-e70b-4bb5-9728-95ab4398cb92",
       "word": "honest",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aG9uZXN0&hash=a306daee37184fcbbd89ab18eecf9829e18f6c28&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:nəst",
+      "phonetic_text": "ɑ.nəst",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9uZXN0&hash=a306daee37184fcbbd89ab18eecf9829e18f6c28&lang=en&cache-only=0",
-      "phonetic_am_text": "aanēst",
+      "phonetic_am_text": "aa.nēst",
       "img": "https://cdn.langeek.co/photo/19270/original/honest?type=jpeg",
       "pronunciation": "ˈɑnəst",
       "senses": [
@@ -444,14 +479,15 @@
       ]
     },
     {
+      "id": "5c31198d-79c5-4266-b469-cc116709668c",
       "word": "cruel",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y3J1ZWw&hash=80c96628243feadc29c6e40f6d4cd4160d7a43da&lang=en&cache-only=0",
       "phonetic_text": "kru:əl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3J1ZWw&hash=80c96628243feadc29c6e40f6d4cd4160d7a43da&lang=en&cache-only=0",
       "phonetic_am_text": "krooēl",
-      "img": "https://cdn.langeek.co/photo/19414/original/evil?type=jpeg",
-      "pronunciation": "ˈkɹuəɫ/, /ˈkɹuɫ",
+      "img": "https://cdn.langeek.co/photo/60254/original/?type=jpeg",
+      "pronunciation": "ˈkruːəl/ , /ˈkrʊl",
       "senses": [
         {
           "definition": "having a desire to physically or mentally harm someone",
@@ -481,12 +517,13 @@
       ]
     },
     {
+      "id": "9afdeb0c-266a-4037-897c-87e4dfd82ae2",
       "word": "annoying",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YW5ub3lpbmc&hash=38ce143decfceea083577e89fd8bfe854cf1199b&lang=en&cache-only=0",
-      "phonetic_text": "ənɔɪɪng",
+      "phonetic_text": "ə.nɔɪɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=YW5ub3lpbmc&hash=38ce143decfceea083577e89fd8bfe854cf1199b&lang=en&cache-only=0",
-      "phonetic_am_text": "ēnoying",
+      "phonetic_am_text": "ē.nawiing",
       "img": "https://cdn.langeek.co/photo/46127/original/annoying?type=jpeg",
       "pronunciation": "əˈnɔɪɪŋ",
       "senses": [
@@ -518,14 +555,15 @@
       ]
     },
     {
+      "id": "11471672-ec0e-47a6-869b-b3935c47fd27",
       "word": "needy",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bmVlZHk&hash=175869539581bbd5d6d230138e9f14b9c1da0b61&lang=en&cache-only=0",
-      "phonetic_text": "ni:di",
+      "phonetic_text": "ni:.di",
       "phonetic_am": "https://tts.langeek.co/read?text=bmVlZHk&hash=175869539581bbd5d6d230138e9f14b9c1da0b61&lang=en&cache-only=0",
-      "phonetic_am_text": "needi",
-      "img": "https://cdn.langeek.co/photo/20215/original/needy?type=jpeg",
-      "pronunciation": "ˈnidi",
+      "phonetic_am_text": "ni.di",
+      "img": "https://cdn.langeek.co/photo/60242/original/?type=jpeg",
+      "pronunciation": "ˈniːdi",
       "senses": [
         {
           "definition": "lacking confidence and needing to be emotionally supported a lot",
@@ -533,10 +571,6 @@
             {
               "cf": "",
               "x": "She's feeling needy lately, constantly seeking validation from her friends."
-            },
-            {
-              "cf": "",
-              "x": "The needy child clung to his mother's side, afraid to explore on his own."
             },
             {
               "cf": "",
@@ -555,14 +589,15 @@
       ]
     },
     {
+      "id": "81c736b9-8e48-4978-ae4e-cddc9bb77a2d",
       "word": "stubborn",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c3R1YmJvcm4&hash=b5c1432676fabc7b79d88496857f31aebacbe867&lang=en&cache-only=0",
-      "phonetic_text": "stʌbərn",
+      "phonetic_text": "stəb.bɔrn",
       "phonetic_am": "https://tts.langeek.co/read?text=c3R1YmJvcm4&hash=b5c1432676fabc7b79d88496857f31aebacbe867&lang=en&cache-only=0",
-      "phonetic_am_text": "stabērn",
+      "phonetic_am_text": "stēb.bawrn",
       "img": "https://cdn.langeek.co/photo/19308/original/stubborn?type=jpeg",
-      "pronunciation": "ˈstəbɝn",
+      "pronunciation": "ˈstʌbɚn",
       "senses": [
         {
           "definition": "unwilling to change one's attitude or opinion despite good reasons to do so",
@@ -592,49 +627,30 @@
       ]
     },
     {
+      "id": "1dc86d52-e2f8-4ab7-994e-b00364805924",
       "word": "cool",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y29vbA&hash=3c9ad96c7f537e6d5a29b49b98061df8b20f3fc0&lang=en&cache-only=0",
-      "phonetic_text": "ku:l",
+      "phonetic_text": "kul",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29vbA&hash=3c9ad96c7f537e6d5a29b49b98061df8b20f3fc0&lang=en&cache-only=0",
       "phonetic_am_text": "kool",
       "img": "https://cdn.langeek.co/photo/45389/original/?type=jpeg",
-      "pronunciation": "ˈkuɫ",
+      "pronunciation": "kul",
       "senses": [
         {
           "definition": "having an appealing quality",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Her sense of style was so cool that everyone wanted to emulate her."
-            },
-            {
-              "cf": "",
-              "x": "The band’s latest album has a cool vibe that resonates with fans."
-            },
-            {
-              "cf": "",
-              "x": "He walked into the room with a cool confidence that drew everyone’s attention."
-            },
-            {
-              "cf": "",
-              "x": "The café had a cool atmosphere, perfect for hanging out with friends."
-            },
-            {
-              "cf": "",
-              "x": "They designed the new logo to have a cool, modern look that appeals to younger customers."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "46941ffe-0948-4ac8-841b-8495e28a0213",
       "word": "independent",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aW5kZXBlbmRlbnQ&hash=23b04d012ba1fd35e4f170cb08119b98ceede632&lang=en&cache-only=0",
-      "phonetic_text": "ɪndɪpɛndənt",
+      "phonetic_text": "ɪn.dɪ.pɛn.dənt",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5kZXBlbmRlbnQ&hash=23b04d012ba1fd35e4f170cb08119b98ceede632&lang=en&cache-only=0",
-      "phonetic_am_text": "indipendēnt",
+      "phonetic_am_text": "in.di.pen.dēnt",
       "img": "https://cdn.langeek.co/photo/45228/original/?type=jpeg",
       "pronunciation": "ˌɪndɪˈpɛndənt",
       "senses": [
@@ -666,12 +682,13 @@
       ]
     },
     {
+      "id": "224f190d-afe6-46fb-a367-91fa4d5ada9a",
       "word": "ambitious",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YW1iaXRpb3Vz&hash=5afbc15a3c1707ae735e56f3d6ab6764fae84033&lang=en&cache-only=0",
-      "phonetic_text": "æmbɪʃəs",
+      "phonetic_text": "æm.bɪ.ʃəs",
       "phonetic_am": "https://tts.langeek.co/read?text=YW1iaXRpb3Vz&hash=5afbc15a3c1707ae735e56f3d6ab6764fae84033&lang=en&cache-only=0",
-      "phonetic_am_text": "āmbishēs",
+      "phonetic_am_text": "ām.bi.shēs",
       "img": "https://cdn.langeek.co/photo/45134/original/?type=jpeg",
       "pronunciation": "æmˈbɪʃəs",
       "senses": [
@@ -703,14 +720,15 @@
       ]
     },
     {
+      "id": "76aa1f6b-42bf-4527-a190-899f9865e0fb",
       "word": "warm",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=d2FybQ&hash=3e7674ce40eef8f569c5f8aa090f9ab079c41b0f&lang=en&cache-only=0",
-      "phonetic_text": "wɔ:rm",
+      "phonetic_text": "wɔrm",
       "phonetic_am": "https://tts.langeek.co/read?text=d2FybQ&hash=3e7674ce40eef8f569c5f8aa090f9ab079c41b0f&lang=en&cache-only=0",
-      "phonetic_am_text": "waawrm",
+      "phonetic_am_text": "vawrm",
       "img": "https://cdn.langeek.co/photo/49706/original/?type=jpeg",
-      "pronunciation": "ˈwɔɹm",
+      "pronunciation": "wɑrm",
       "senses": [
         {
           "definition": "displaying friendliness, kindness, or enthusiasm",
@@ -740,14 +758,15 @@
       ]
     },
     {
+      "id": "24169f8d-ffc4-4242-b0c4-26cdcf6acb5a",
       "word": "welcoming",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=d2VsY29taW5n&hash=e11449895b34c5a605c93d90e8ab9e5c15853e2f&lang=en&cache-only=0",
-      "phonetic_text": "wɛlkəmɪng",
+      "phonetic_text": "wɛl.kə.mɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=d2VsY29taW5n&hash=e11449895b34c5a605c93d90e8ab9e5c15853e2f&lang=en&cache-only=0",
-      "phonetic_am_text": "welkēming",
+      "phonetic_am_text": "vel.kē.ming",
       "img": "https://cdn.langeek.co/photo/19312/original/welcoming?type=jpeg",
-      "pronunciation": "ˈwɛɫkəmɪŋ",
+      "pronunciation": "ˈwɛlkəmɪŋ",
       "senses": [
         {
           "definition": "showing warmth and friendliness to a guest or visitor",
@@ -765,14 +784,15 @@
       ]
     },
     {
+      "id": "9badbe76-fcb5-4c2d-a0eb-e13192b38940",
       "word": "sociable",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c29jaWFibGU&hash=2964031fa207654359c5171956c34db6e6dcc5d7&lang=en&cache-only=0",
-      "phonetic_text": "soʊʃəbəl",
+      "phonetic_text": "soʊ.ʃə.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=c29jaWFibGU&hash=2964031fa207654359c5171956c34db6e6dcc5d7&lang=en&cache-only=0",
-      "phonetic_am_text": "sowshēbēl",
+      "phonetic_am_text": "sooo.shē.bēl",
       "img": "https://cdn.langeek.co/photo/19306/original/sociable?type=jpeg",
-      "pronunciation": "ˈsoʊʃəbəɫ",
+      "pronunciation": "ˈsoʊʃəbəl",
       "senses": [
         {
           "definition": "possessing a friendly personality and willing to spend time with people",
@@ -802,14 +822,15 @@
       ]
     },
     {
+      "id": "e4a7b480-50ce-4ef5-94df-19e3b33b93dc",
       "word": "generous",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Z2VuZXJvdXM&hash=a83f1b65fd78bbdd7c20583da2943d31e90ce25d&lang=en&cache-only=0",
-      "phonetic_text": "ʤɛnərəs",
+      "phonetic_text": "ʤɛ.nɜ.rəs",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2VuZXJvdXM&hash=a83f1b65fd78bbdd7c20583da2943d31e90ce25d&lang=en&cache-only=0",
-      "phonetic_am_text": "jenērēs",
+      "phonetic_am_text": "je.nē.rēs",
       "img": "https://cdn.langeek.co/photo/20253/original/generous?type=jpeg",
-      "pronunciation": "ˈdʒɛnɝəs",
+      "pronunciation": "ˈʤɛnərəs",
       "senses": [
         {
           "definition": "having a willingness to freely give or share something with others, without expecting anything in return",
@@ -839,14 +860,15 @@
       ]
     },
     {
+      "id": "13d56148-4e3c-4dae-882d-7ca75e6fd5c2",
       "word": "gentle",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Z2VudGxl&hash=650b0f7197b6983886e936f0c88445f44c0f6d49&lang=en&cache-only=0",
-      "phonetic_text": "ʤɛntəl",
+      "phonetic_text": "ʤɛn.təl",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2VudGxl&hash=650b0f7197b6983886e936f0c88445f44c0f6d49&lang=en&cache-only=0",
-      "phonetic_am_text": "jentēl",
-      "img": "https://cdn.langeek.co/photo/17879/original/kind?type=jpeg",
-      "pronunciation": "ˈdʒɛnəɫ/, /ˈdʒɛntəɫ",
+      "phonetic_am_text": "jen.tēl",
+      "img": "https://cdn.langeek.co/photo/44590/original/?type=jpeg",
+      "pronunciation": "ˈʤɛntəl",
       "senses": [
         {
           "definition": "showing kindness and empathy toward others",
@@ -876,14 +898,15 @@
       ]
     },
     {
+      "id": "dc0fa445-3e07-47b0-88b5-426cb5b50c88",
       "word": "understanding",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dW5kZXJzdGFuZGluZw&hash=78fec5a10421c96e53df682b75ec66b0f3b3ece2&lang=en&cache-only=0",
-      "phonetic_text": "ʌndərstændɪng",
+      "phonetic_text": "ʌn.dərs.tæn.dɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5kZXJzdGFuZGluZw&hash=78fec5a10421c96e53df682b75ec66b0f3b3ece2&lang=en&cache-only=0",
-      "phonetic_am_text": "andērstānding",
+      "phonetic_am_text": "an.dērs.tān.ding",
       "img": "https://cdn.langeek.co/photo/20261/original/understanding?type=jpeg",
-      "pronunciation": "ˌəndɝˈstændɪŋ",
+      "pronunciation": "ˌʌndɚˈstændɪŋ",
       "senses": [
         {
           "definition": "not judging someone and forgiving toward them when they do something wrong or make a mistake",
@@ -892,14 +915,15 @@
       ]
     },
     {
+      "id": "0427d54c-586d-4830-a109-31ab10176802",
       "word": "skillful",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c2tpbGxmdWw&hash=3f9667fe44d4e384690e4aebb3f3dc449026869c&lang=en&cache-only=0",
-      "phonetic_text": "skɪlfəl",
+      "phonetic_text": "skɪl.fəl",
       "phonetic_am": "https://tts.langeek.co/read?text=c2tpbGxmdWw&hash=3f9667fe44d4e384690e4aebb3f3dc449026869c&lang=en&cache-only=0",
-      "phonetic_am_text": "skilfēl",
+      "phonetic_am_text": "skil.fēl",
       "img": "https://cdn.langeek.co/photo/46623/original/?type=jpeg",
-      "pronunciation": "ˈskɪɫfəɫ",
+      "pronunciation": "ˈskɪlfəl",
       "senses": [
         {
           "definition": "very good at doing something particular",
@@ -929,14 +953,15 @@
       ]
     },
     {
+      "id": "043882a0-63a9-4079-8e93-623b70a606bb",
       "word": "peaceful",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cGVhY2VmdWw&hash=bd834d762b1f9f8f076e2e1372682941b30f3779&lang=en&cache-only=0",
-      "phonetic_text": "pi:sfəl",
+      "phonetic_text": "pis.fəl",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVhY2VmdWw&hash=bd834d762b1f9f8f076e2e1372682941b30f3779&lang=en&cache-only=0",
-      "phonetic_am_text": "peesfēl",
+      "phonetic_am_text": "pis.fēl",
       "img": "https://cdn.langeek.co/photo/46344/original/calmness?type=jpeg",
-      "pronunciation": "ˈpisfəɫ",
+      "pronunciation": "ˈpiːsfəl",
       "senses": [
         {
           "definition": "(of a person) unwilling to become involved in a dispute or anything violent",
@@ -966,14 +991,15 @@
       ]
     },
     {
+      "id": "1350030e-2064-461d-a815-155825d2466a",
       "word": "doubtful",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZG91YnRmdWw&hash=76d8d1cec9f01354f3052077117e588b46b7bb46&lang=en&cache-only=0",
-      "phonetic_text": "daʊtfəl",
+      "phonetic_text": "daʊt.fəl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG91YnRmdWw&hash=76d8d1cec9f01354f3052077117e588b46b7bb46&lang=en&cache-only=0",
-      "phonetic_am_text": "dawtfēl",
+      "phonetic_am_text": "daoot.fēl",
       "img": "https://cdn.langeek.co/photo/47771/original/?type=jpeg",
-      "pronunciation": "ˈdaʊtfəɫ",
+      "pronunciation": "ˈdaʊtfəl",
       "senses": [
         {
           "definition": "(of a person) uncertain or hesitant about something",
@@ -1003,14 +1029,15 @@
       ]
     },
     {
+      "id": "a88a56d9-5191-4b1b-9e3a-d6a0dad06cc3",
       "word": "bully",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVsbHk&hash=a10839771b7173a5452a31988ba60ac2634d2b1e&lang=en&cache-only=0",
-      "phonetic_text": "bʊli",
+      "phonetic_text": "bʊ.li",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVsbHk&hash=a10839771b7173a5452a31988ba60ac2634d2b1e&lang=en&cache-only=0",
-      "phonetic_am_text": "buli",
+      "phonetic_am_text": "boo.li",
       "img": "https://cdn.langeek.co/photo/19683/original/bully?type=jpeg",
-      "pronunciation": "ˈbʊɫi",
+      "pronunciation": "ˈbʊli",
       "senses": [
         {
           "definition": "a person who likes to threaten, scare, or hurt others, particularly people who are weaker",

@@ -1,13 +1,15 @@
 {
+  "id": "58b40ee7-3085-462a-a995-f3bc49e94f9b",
   "topic": "behavior_approach",
   "title": "Harsh & Strict Treatment",
   "lesson": "lesson_16",
   "word_list": [
     {
-      "word": "[take] the bread out of {one's} mouth",
+      "id": "c140cb21-1428-4334-961d-e19dc6e0924f",
+      "word": "to [take] the bread out of {one's} mouth",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSB0aGUgYnJlYWQgb3V0IG9mIG9uZSdzIG1vdXRo&hash=184df830b37fcc1e8c023ecf3a4907392655e57b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSB0aGUgYnJlYWQgb3V0IG9mIG9uZSdzIG1vdXRo&hash=184df830b37fcc1e8c023ecf3a4907392655e57b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46370/original/?type=jpeg",
@@ -20,10 +22,11 @@
       ]
     },
     {
-      "word": "[rub] salt (in|into) the wound",
+      "id": "36d8850d-85f3-4f6b-9b44-9088f9490899",
+      "word": "to [rub] salt (in|into) the wound",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcnViIHNhbHQgaW4gdGhlIHdvdW5k&hash=98803b161a8bd38d81d6cdd32b5f836d519573ed&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcnViIHNhbHQgaW4gdGhlIHdvdW5k&hash=98803b161a8bd38d81d6cdd32b5f836d519573ed&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46434/original/?type=jpeg",
@@ -41,10 +44,11 @@
       ]
     },
     {
-      "word": "[drive|strike] a hard bargain",
+      "id": "ed9505ae-8ada-4de9-8045-46e7b06fc5bf",
+      "word": "to [drive|strike] a hard bargain",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJpdmUgYSBoYXJkIGJhcmdhaW4&hash=0ba5159f3e3ef13e8b589a8427c9b303118f82df&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZHJpdmUgYSBoYXJkIGJhcmdhaW4&hash=0ba5159f3e3ef13e8b589a8427c9b303118f82df&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46426/original/?type=jpeg",
@@ -78,12 +82,13 @@
       ]
     },
     {
+      "id": "a07773bf-920d-4c9f-8711-b5ab2cfc4609",
       "word": "iron fist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aXJvbiBmaXN0&hash=5b1f0a9f7b11d682a8a807e22719c76dd5017703&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aɪərn fɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=aXJvbiBmaXN0&hash=5b1f0a9f7b11d682a8a807e22719c76dd5017703&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aiērn fist",
       "img": "https://cdn.langeek.co/photo/42188/original/?type=jpeg",
       "pronunciation": "ˈaɪɚn fˈɪst",
       "senses": [
@@ -115,10 +120,11 @@
       ]
     },
     {
-      "word": "[put] {sb} through hell",
+      "id": "2badcbf6-84c1-405e-a1e5-ceb31cec9dd4",
+      "word": "to [put] {sb} through hell",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IHNvbWVib2R5IHRocm91Z2ggaGVsbA&hash=2b066ad3b9b33dea40a91b22220ba09010cefaa0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IHNvbWVib2R5IHRocm91Z2ggaGVsbA&hash=2b066ad3b9b33dea40a91b22220ba09010cefaa0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42796/original/?type=jpeg",
@@ -126,28 +132,16 @@
       "senses": [
         {
           "definition": "to cause a person experience great difficulty",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I believe in putting them through hell and making them earn it first."
-            },
-            {
-              "cf": "",
-              "x": "When she leaves him in despair, he puts her through hell until she wins custody of their sons."
-            },
-            {
-              "cf": "",
-              "x": "The abusive relationship put her through hell for years, causing both physical and emotional trauma."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[twist|turn] the knife (in the wound|)",
+      "id": "d15e00c2-cbaf-4975-9e94-f51ccc2420f1",
+      "word": "to [twist|turn] the knife (in the wound|)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHdpc3QgdGhlIGtuaWZlIGluIHRoZSB3b3VuZA&hash=2b4c83e29ba2c76bbcaef9b8f29ee5a4d8988b10&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHdpc3QgdGhlIGtuaWZlIGluIHRoZSB3b3VuZA&hash=2b4c83e29ba2c76bbcaef9b8f29ee5a4d8988b10&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46438/original/?type=jpeg",
@@ -155,38 +149,18 @@
       "senses": [
         {
           "definition": "to purposefully make someone suffer more than they already do",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After the divorce, her friend turned the knife in the wound by saying she had always thought that the marriage wouldn't last."
-            },
-            {
-              "cf": "",
-              "x": "Any more cuts in government aid to these poor people will be twisting the knife in the wound."
-            },
-            {
-              "cf": "",
-              "x": "He said it was over, and then he turned the knife and said he had never loved me."
-            },
-            {
-              "cf": "",
-              "x": "After losing the game, his opponent didn't just win but also decided to twist the knife by mocking his skills."
-            },
-            {
-              "cf": "",
-              "x": "She had already received disappointing news, and her colleague's negative comments only served to turn the knife."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "a7827bd3-667d-4544-8331-4f9cb8ab78eb",
       "word": "heavy hand",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGVhdnkgaGFuZA&hash=f92abe93e36c64cb438aa70ecfe371a2015a44f3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɛ.vi hænd",
       "phonetic_am": "https://tts.langeek.co/read?text=aGVhdnkgaGFuZA&hash=f92abe93e36c64cb438aa70ecfe371a2015a44f3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "he.vi hānd",
       "img": "https://cdn.langeek.co/photo/44540/original/?type=jpeg",
       "pronunciation": "hˈɛvi hˈænd",
       "senses": [
@@ -214,10 +188,11 @@
       ]
     },
     {
+      "id": "cd937846-38cf-4e6d-98d8-1f3727b20698",
       "word": "iron (hand|fist) in a velvet glove",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aXJvbiBoYW5kIGluIGEgdmVsdmV0IGdsb3Zl&hash=037346025d955a40efc40166c0bb4e51125362b4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aXJvbiBoYW5kIGluIGEgdmVsdmV0IGdsb3Zl&hash=037346025d955a40efc40166c0bb4e51125362b4&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45806/original/?type=jpeg",
@@ -225,32 +200,16 @@
       "senses": [
         {
           "definition": "a person who appears gentle and kind on the outside, but they are firm, resolute, and even ruthless in their actions",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The patriarch has always been an iron fist in a velvet glove."
-            },
-            {
-              "cf": "",
-              "x": "The new CEO has a reputation for being an iron hand in a velvet glove; she's charming and approachable, but she's also made some tough decisions to turn the company around."
-            },
-            {
-              "cf": "",
-              "x": "He appears to be a lenient parent, but in reality, he's an iron hand in a velvet glove, setting clear boundaries and expectations for his children."
-            },
-            {
-              "cf": "",
-              "x": "The diplomat used an iron hand in a velvet glove approach during the negotiations, appearing conciliatory while firmly protecting their country's interests."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[cramp] {one's} style",
+      "id": "203a3833-c5e3-4308-825e-023c54a4f99b",
+      "word": "to [cramp] {one's} style",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3JhbXAgb25lJ3Mgc3R5bGU&hash=751fd683774eae907fd4195e0e2e553737c9e600&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3JhbXAgb25lJ3Mgc3R5bGU&hash=751fd683774eae907fd4195e0e2e553737c9e600&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43726/original/?type=jpeg",
@@ -258,40 +217,7 @@
       "senses": [
         {
           "definition": "to stop someone from acting freely, creatively, comfortably, or in their usual way",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Sarah's parents insisted on coming to the party, which really cramped her style because she couldn't relax and have fun with her friends."
-            },
-            {
-              "cf": "",
-              "x": "Having to follow a strict dress code at work cramps my style; I prefer to wear casual and creative outfits."
-            },
-            {
-              "cf": "",
-              "x": "Moving back home after college really cramped his style, as he no longer had the freedom to come and go as he pleased."
-            },
-            {
-              "cf": "",
-              "x": "The new team rules are cramping his style, making it difficult for him to play the game the way he prefers."
-            },
-            {
-              "cf": "",
-              "x": "Her partner's jealousy began to cramp her style, limiting her interactions with friends and colleagues."
-            },
-            {
-              "cf": "",
-              "x": "The strict curfew really cramps my style; I can't stay out late with my friends anymore."
-            },
-            {
-              "cf": "",
-              "x": "My neighbor's constant complaints about noise are starting to cramp my style; I can't have friends over as often as I'd like."
-            },
-            {
-              "cf": "",
-              "x": "Sharing an office with someone who dislikes noise cramps my style because I enjoy listening to music while I work."
-            }
-          ]
+          "examples": []
         }
       ]
     }

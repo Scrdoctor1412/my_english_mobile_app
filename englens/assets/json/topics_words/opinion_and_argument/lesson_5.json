@@ -1,10 +1,12 @@
 {
+  "id": "beade1a1-028d-4c13-84ac-0148d83ef9df",
   "topic": "opinion_and_argument",
   "title": "Opinion Formation and Expression",
   "lesson": "lesson_5",
   "word_list": [
     {
-      "word": "take",
+      "id": "0a872d2e-8951-4ea6-857f-677ac2ac9fc7",
+      "word": "to take",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZQ&hash=218a7b24f2f9192973800c7366909ef3421d1aec&lang=en&cache-only=0",
       "phonetic_text": "teɪk",
@@ -15,11 +17,53 @@
       "senses": [
         {
           "definition": "to have or show a particular feeling, opinion, or reaction",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He took an interest in learning a new skill."
+            },
+            {
+              "cf": "",
+              "x": "I take pride in my work."
+            },
+            {
+              "cf": "",
+              "x": "She took an instant liking to him."
+            },
+            {
+              "cf": "",
+              "x": "She took offense at his rude comments."
+            },
+            {
+              "cf": "",
+              "x": "They take the view that everyone should have access to healthcare."
+            },
+            {
+              "cf": "",
+              "x": "During the weekend, he took pleasure in reading a good book in the peaceful garden."
+            },
+            {
+              "cf": "",
+              "x": "In the evening, the family took delight in watching a movie together."
+            },
+            {
+              "cf": "",
+              "x": "She took joy in baking and often experimented with new dessert recipes."
+            },
+            {
+              "cf": "",
+              "x": "The couple took satisfaction in tending to their flourishing garden."
+            },
+            {
+              "cf": "",
+              "x": "In retirement, he took his ease by spending afternoons fishing by the lake."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "fef9f36c-ae31-41a2-9c6b-c657c733d05e",
       "word": "take",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFrZQ&hash=f9998395f63cf65a33a9ba03e0ab57706bd132d5&lang=en&cache-only=0",
@@ -36,10 +80,11 @@
       ]
     },
     {
-      "word": "[take] a dim view of {sth}",
+      "id": "58a07f40-194e-496b-a039-e3d476695ac3",
+      "word": "to [take] a dim view of {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIGRpbSB2aWV3IG9mIHNvbWV0aGluZw&hash=34ce3c413cde66609ec77a3280e2ed23a5293be5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIGRpbSB2aWV3IG9mIHNvbWV0aGluZw&hash=34ce3c413cde66609ec77a3280e2ed23a5293be5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -52,26 +97,45 @@
       ]
     },
     {
+      "id": "74955d04-4601-489e-9b37-06904250aa56",
       "word": "take it or leave it",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGFrZSBpdCBvciBsZWF2ZSBpdA&hash=bccab3a1fd7b55c00d0cb5996440f65684627480&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "teɪk ʌɪti: ɔ:r liv ʌɪti:",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFrZSBpdCBvciBsZWF2ZSBpdA&hash=bccab3a1fd7b55c00d0cb5996440f65684627480&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "teik aiti awr liv aiti",
       "img": "",
       "pronunciation": "tˈeɪk ɪt ɔːɹ lˈiːv ɪt",
       "senses": [
         {
           "definition": "used to show that one does not care if one's offer is accepted or rejected one will not negotiate further",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "That's the deal—take it or leave it"
+            },
+            {
+              "cf": "",
+              "x": "I can sell you the car for $10,000, take it or leave it."
+            },
+            {
+              "cf": "",
+              "x": "Our final offer is $500 for the antique table, take it or leave it."
+            },
+            {
+              "cf": "",
+              "x": "The apartment lease is for one year at $1,200 per month, take it or leave it."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[take] {sth} into consideration",
+      "id": "bd90fc43-04ae-41f5-ab36-728c04043993",
+      "word": "to [take] {sth} into consideration",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBzb21ldGhpbmcgaW50byBjb25zaWRlcmF0aW9u&hash=6901ea2aa16c60a1d25828d4874253688b112ccf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBzb21ldGhpbmcgaW50byBjb25zaWRlcmF0aW9u&hash=6901ea2aa16c60a1d25828d4874253688b112ccf&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -79,33 +143,61 @@
       "senses": [
         {
           "definition": "to give thought to a certain fact before making a decision",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Before making a decision, it's important to take all factors into consideration."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b9bf0cae-851f-4961-911f-5bf307c9ed93",
       "word": "tendentious",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dGVuZGVudGlvdXM&hash=c97a8bafb11a8643feb52f2616e67bd2bd1cfedf&lang=en&cache-only=0",
-      "phonetic_text": "tɛndɛnʃəs",
+      "phonetic_text": "tɛn.dɛn.ʃəs",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVuZGVudGlvdXM&hash=c97a8bafb11a8643feb52f2616e67bd2bd1cfedf&lang=en&cache-only=0",
-      "phonetic_am_text": "tendenshēs",
+      "phonetic_am_text": "ten.den.shēs",
       "img": "",
       "pronunciation": "ˌtɛnˈdɛnʃəs",
       "senses": [
         {
           "definition": "stating a cause or opinion that one strongly believes in, particularly one that causes a lot of controversy",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The journalist’s tendentious article sparked heated debates online."
+            },
+            {
+              "cf": "",
+              "x": "The documentary was criticized for its tendentious portrayal of the events."
+            },
+            {
+              "cf": "",
+              "x": "The tendentious nature of the speech divided the audience."
+            },
+            {
+              "cf": "",
+              "x": "The book was full of tendentious arguments that challenged mainstream views."
+            },
+            {
+              "cf": "",
+              "x": "The politician’s tendentious statements often fueled public controversy."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e07d52c0-6882-4010-ac8e-cd94dfd2698d",
       "word": "tendentiously",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=dGVuZGVudGlvdXNseQ&hash=4a43ecae826cd3ff0d108c301720b485f04bb71c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɛn.dɛn.ʃəs.li",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVuZGVudGlvdXNseQ&hash=4a43ecae826cd3ff0d108c301720b485f04bb71c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ten.den.shēs.li",
       "img": "",
       "pronunciation": "tɛndˈɛnʃəsli",
       "senses": [
@@ -116,12 +208,13 @@
       ]
     },
     {
+      "id": "6589c034-d28c-498f-b41d-e0070c54e960",
       "word": "tendentiousness",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVuZGVudGlvdXNuZXNz&hash=4f52c7a1f42568b8886f9a26348ae0434a9087b2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɛn.dɛn.ʃəs.nəs",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVuZGVudGlvdXNuZXNz&hash=4f52c7a1f42568b8886f9a26348ae0434a9087b2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ten.den.shēs.nēs",
       "img": "",
       "pronunciation": "tɛndˈɛnʃəsnəs",
       "senses": [
@@ -132,12 +225,13 @@
       ]
     },
     {
+      "id": "3be32418-aa80-4d2b-aead-bb6667be7148",
       "word": "that said",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhhdCBzYWlk&hash=52da02b5274bf636ceed432e8b625c49487c1080&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ðæt sɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhhdCBzYWlk&hash=52da02b5274bf636ceed432e8b625c49487c1080&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dhāt sed",
       "img": "",
       "pronunciation": "ðæt sˈɛd",
       "senses": [
@@ -148,14 +242,15 @@
       ]
     },
     {
+      "id": "042b2829-e1bf-49f3-9d6a-55d289e57a75",
       "word": "theory",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhlb3J5&hash=0e3a7ffc932d2a506ac3d6e5442b80dc98f40377&lang=en&cache-only=0",
-      "phonetic_text": "θɪri",
+      "phonetic_text": "θiɜ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlb3J5&hash=0e3a7ffc932d2a506ac3d6e5442b80dc98f40377&lang=en&cache-only=0",
-      "phonetic_am_text": "thiri",
+      "phonetic_am_text": "thiē.ri",
       "img": "",
-      "pronunciation": "ˈθiɝi/, /ˈθɪɹi",
+      "pronunciation": "ˈθɪri/ , /ˈθiːəri",
       "senses": [
         {
           "definition": "an idea, opinion, or belief that one perceives to be true, although it remains to be proved",
@@ -164,10 +259,11 @@
       ]
     },
     {
+      "id": "6c66f390-06f6-49b1-9703-d08111ed6f58",
       "word": "there is (something|a lot|much) to be said for {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlcmUgaXMgc29tZXRoaW5nIGxvdCB0byBiZSBzYWlkIGZvciBzb21ldGhpbmc&hash=d1b1714e609d505051ecfa1f7e90b5bfaa2e75e3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlcmUgaXMgc29tZXRoaW5nIGxvdCB0byBiZSBzYWlkIGZvciBzb21ldGhpbmc&hash=d1b1714e609d505051ecfa1f7e90b5bfaa2e75e3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -180,12 +276,13 @@
       ]
     },
     {
+      "id": "4e456a92-b3a5-47aa-a135-302a79248813",
       "word": "then again",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlbiBhZ2Fpbg&hash=f1107438ab53934749db28a347eac72ec52e87c8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ðɛn ə.gɛn",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlbiBhZ2Fpbg&hash=f1107438ab53934749db28a347eac72ec52e87c8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dhen ē.gen",
       "img": "",
       "pronunciation": "ðˈɛn ɐɡˈɛn",
       "senses": [
@@ -196,42 +293,75 @@
       ]
     },
     {
+      "id": "851cacb7-c4e1-41db-965e-95dc26bce20a",
       "word": "thesis",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhlc2lz&hash=849c9f9301cf3ce0c899b23e343f83ef493ed47e&lang=en&cache-only=0",
-      "phonetic_text": "θi:səs",
+      "phonetic_text": "θi.səs",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlc2lz&hash=849c9f9301cf3ce0c899b23e343f83ef493ed47e&lang=en&cache-only=0",
-      "phonetic_am_text": "theesēs",
+      "phonetic_am_text": "thi.sēs",
       "img": "",
       "pronunciation": "ˈθisəs",
       "senses": [
         {
           "definition": "a statement that someone presents as a topic to be argued or examined",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "In the debate, Sarah presented the thesis that stricter gun control laws would lead to a decrease in gun-related violence."
+            },
+            {
+              "cf": "",
+              "x": "During the discussion, John put forward the thesis that technology has both positive and negative impacts on society."
+            },
+            {
+              "cf": "",
+              "x": "The scientist proposed the thesis that the presence of a certain enzyme is correlated with the development of the disease."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "think",
+      "id": "9f4cc562-da17-45b6-9905-cf880a0ad7c6",
+      "word": "to think",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGhpbms&hash=8753721dd21650db54aff0af001f87360b8a8cf3&lang=en&cache-only=0",
       "phonetic_text": "θɪnk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGhpbms&hash=8753721dd21650db54aff0af001f87360b8a8cf3&lang=en&cache-only=0",
       "phonetic_am_text": "think",
-      "img": "https://cdn.langeek.co/photo/21228/original/?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60847/original/?type=jpeg",
       "pronunciation": "θɪŋk",
       "senses": [
         {
           "definition": "to have a type of belief or idea about a person or thing",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He thinks that the restaurant serves the best pizza in town."
+            },
+            {
+              "cf": "",
+              "x": "I don't think that she's being honest about her intentions."
+            },
+            {
+              "cf": "",
+              "x": "I think that the company should focus on sustainability."
+            },
+            {
+              "cf": "",
+              "x": "She thinks that the book is much better than the movie."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[think] for {oneself}",
+      "id": "1ae087b5-0db6-448e-ad59-0f55ab45483e",
+      "word": "to [think] for {oneself}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGhpbmsgZm9yIG9uZXNlbGY&hash=96c1e72cb77760f77364b4019b009900d00b039a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGhpbmsgZm9yIG9uZXNlbGY&hash=96c1e72cb77760f77364b4019b009900d00b039a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -239,17 +369,39 @@
       "senses": [
         {
           "definition": "to rely on no one in making decisions or forming opinions",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "It's important to think for oneself and not just follow the crowd."
+            },
+            {
+              "cf": "",
+              "x": "She learned to think for herself after years of depending on others for advice."
+            },
+            {
+              "cf": "",
+              "x": "She was proud of her ability to think for herself in difficult situations."
+            },
+            {
+              "cf": "",
+              "x": "It’s hard to think for oneself when everyone around you is pressuring you to agree with them."
+            },
+            {
+              "cf": "",
+              "x": "They encouraged the students to think for themselves and question what they were taught."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "ac5610a5-fbbd-4ca3-ae2a-ade0d8d04436",
       "word": "thinking",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhpbmtpbmc&hash=084c35ddb3c42ef61908aae5480877206c4fd5aa&lang=en&cache-only=0",
-      "phonetic_text": "θɪnkɪng",
+      "phonetic_text": "θɪn.kɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhpbmtpbmc&hash=084c35ddb3c42ef61908aae5480877206c4fd5aa&lang=en&cache-only=0",
-      "phonetic_am_text": "thinking",
+      "phonetic_am_text": "thin.king",
       "img": "",
       "pronunciation": "ˈθɪŋkɪŋ",
       "senses": [
@@ -260,10 +412,11 @@
       ]
     },
     {
-      "word": "[think] better of {sth}",
+      "id": "f96d445e-c5f3-49d6-895e-884e6085dad7",
+      "word": "to [think] better of {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGhpbmsgYmV0dGVyIG9mIHNvbWV0aGluZw&hash=7542a4b25c0f6ef3e7fec5f4368729fb65306b0e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGhpbmsgYmV0dGVyIG9mIHNvbWV0aGluZw&hash=7542a4b25c0f6ef3e7fec5f4368729fb65306b0e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -271,15 +424,33 @@
       "senses": [
         {
           "definition": "to decide against doing something upon reconsideration",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He initially planned to quit his job in a fit of anger, but he thought better of it and decided to have a calm conversation with his boss instead."
+            },
+            {
+              "cf": "",
+              "x": "She was about to confront her friend about a misunderstanding, but she thought better of it and opted to give it some time before addressing the issue."
+            },
+            {
+              "cf": "",
+              "x": "They considered going on a spontaneous road trip, but after assessing the potential risks, they thought better of it and decided to plan it more thoroughly."
+            },
+            {
+              "cf": "",
+              "x": "The company was contemplating a significant investment, but after careful consideration, they thought better of it due to the uncertain market conditions."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[think] the world of {sb}",
+      "id": "f3f01309-88d7-4778-b6ae-5a9c34988020",
+      "word": "to [think] the world of {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGhpbmsgdGhlIHdvcmxkIG9mIHNvbWVib2R5&hash=42b9c97129ca4900da8f30207acd9158f9a52ea0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGhpbmsgdGhlIHdvcmxkIG9mIHNvbWVib2R5&hash=42b9c97129ca4900da8f30207acd9158f9a52ea0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40165/original/?type=jpeg",
@@ -292,12 +463,13 @@
       ]
     },
     {
+      "id": "205b81b3-b554-4160-98d6-504c6ae9809e",
       "word": "thoughtcrime",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhvdWdodGNyaW1l&hash=bc4a994c50b12dd3288fd58bca720a330a4acd0b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "θɔt.kraɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhvdWdodGNyaW1l&hash=bc4a994c50b12dd3288fd58bca720a330a4acd0b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "thawt.kraim",
       "img": "",
       "pronunciation": "θˈɔːtkɹaɪm",
       "senses": [
@@ -308,12 +480,13 @@
       ]
     },
     {
+      "id": "a2763f84-4d3c-4bdc-a14b-0dff86ccfa17",
       "word": "thought police",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhvdWdodCBwb2xpY2U&hash=20c3915be6666473b347ab23fe1408403282eddb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "θɔt pə.li:s",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhvdWdodCBwb2xpY2U&hash=20c3915be6666473b347ab23fe1408403282eddb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "thawt pē.lis",
       "img": "",
       "pronunciation": "θˈɔːt pəlˈiːs",
       "senses": [
@@ -324,6 +497,7 @@
       ]
     },
     {
+      "id": "5af34e18-1125-4e2b-b032-0d081b30e101",
       "word": "tide",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGlkZQ&hash=f5f5ac2a9f56c6235d906f2a13a5848a26c9c954&lang=en&cache-only=0",
@@ -340,10 +514,11 @@
       ]
     },
     {
+      "id": "b3d3ffc4-58f2-499b-a13a-3e057fe5463f",
       "word": "to {one's} mind",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gb25lJ3MgbWluZA&hash=7919fc22c1fd493b52fbea17d0d27a66ed586486&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gb25lJ3MgbWluZA&hash=7919fc22c1fd493b52fbea17d0d27a66ed586486&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -356,10 +531,11 @@
       ]
     },
     {
+      "id": "8bc9e1af-a2e5-4c9f-a693-b2c0fa282c47",
       "word": "to {one's} way of thinking",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gb25lJ3Mgd2F5IG9mIHRoaW5raW5n&hash=75468500a864fecc307ec671c9fe0e0b48b4f80b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gb25lJ3Mgd2F5IG9mIHRoaW5raW5n&hash=75468500a864fecc307ec671c9fe0e0b48b4f80b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -367,17 +543,39 @@
       "senses": [
         {
           "definition": "based on one’s opinion",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "To her way of thinking, exercising regularly is important for maintaining good health."
+            },
+            {
+              "cf": "",
+              "x": "To my way of thinking, this approach is more efficient."
+            },
+            {
+              "cf": "",
+              "x": "The policy seems fair, but to my way of thinking, it needs adjustments."
+            },
+            {
+              "cf": "",
+              "x": "To our way of thinking, the strategy will not achieve the desired results."
+            },
+            {
+              "cf": "",
+              "x": "The solution seemed ideal, but to his way of thinking, it overlooked key issues."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "92b01834-a9da-470f-a233-5b754a94a56c",
       "word": "turnaround",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHVybmFyb3VuZA&hash=bf47561b624b2ca1d09ea3608bda5d3a52ca58fe&lang=en&cache-only=0",
-      "phonetic_text": "tɜrnəraʊnd",
+      "phonetic_text": "tɜrn.ə.raʊnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dHVybmFyb3VuZA&hash=bf47561b624b2ca1d09ea3608bda5d3a52ca58fe&lang=en&cache-only=0",
-      "phonetic_am_text": "tērnērawnd",
+      "phonetic_am_text": "tērn.ē.raoond",
       "img": "",
       "pronunciation": "ˈtɝnɝˌaʊnd",
       "senses": [
@@ -388,12 +586,13 @@
       ]
     },
     {
+      "id": "750040f7-9b9d-4891-96fb-60d2f65f0254",
       "word": "uncommunicative",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dW5jb21tdW5pY2F0aXZl&hash=91e8bb5c40097d781bc6c431137fc4f6bdb1e4a4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʌn.kə.mju.nə.kə.tɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5jb21tdW5pY2F0aXZl&hash=91e8bb5c40097d781bc6c431137fc4f6bdb1e4a4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "an.kē.myoo.nē.kē.tiv",
       "img": "",
       "pronunciation": "ʌnkəmjˈuːnɪkətˌɪv",
       "senses": [
@@ -421,28 +620,51 @@
       ]
     },
     {
+      "id": "a15d8b1d-d9d0-41f4-936c-79427a6380af",
       "word": "unequivocal",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dW5lcXVpdm9jYWw&hash=25b62a88cd96f6401c880af61ae19be6393a05bf&lang=en&cache-only=0",
-      "phonetic_text": "ʌnɪkwɪvəkəl",
+      "phonetic_text": "ʌn.ɪk.wɪ.və.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5lcXVpdm9jYWw&hash=25b62a88cd96f6401c880af61ae19be6393a05bf&lang=en&cache-only=0",
-      "phonetic_am_text": "anikwivēkēl",
+      "phonetic_am_text": "an.ik.vi.vē.kēl",
       "img": "",
       "pronunciation": "ˌəniˈkwɪvəkəɫ/, /ˌənɪˈkwɪvəkəɫ",
       "senses": [
         {
           "definition": "expressing one's ideas and opinions so clearly that it leaves no room for doubt",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Her unequivocal support for the policy was evident in her speech."
+            },
+            {
+              "cf": "",
+              "x": "The document contained unequivocal evidence supporting their claim."
+            },
+            {
+              "cf": "",
+              "x": "The scientist provided an unequivocal explanation of the experiment's results."
+            },
+            {
+              "cf": "",
+              "x": "The witness provided an unequivocal account of the events that occurred."
+            },
+            {
+              "cf": "",
+              "x": "She made an unequivocal statement about her position on the issue."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "vacillate",
+      "id": "a2a56331-1d31-41ed-9528-ecacd1d77c50",
+      "word": "to vacillate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdmFjaWxsYXRl&hash=839884bc70907b828d07b329b9b168b8c22883f1&lang=en&cache-only=0",
-      "phonetic_text": "væsəleɪt",
+      "phonetic_text": "væ.sə.leɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdmFjaWxsYXRl&hash=839884bc70907b828d07b329b9b168b8c22883f1&lang=en&cache-only=0",
-      "phonetic_am_text": "vāsēleit",
+      "phonetic_am_text": "vā.sē.leit",
       "img": "",
       "pronunciation": "ˈvæsəˌɫeɪt",
       "senses": [
@@ -474,12 +696,13 @@
       ]
     },
     {
+      "id": "a582e9bc-1e5d-4564-8d34-b666616ef705",
       "word": "vacillation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmFjaWxsYXRpb24&hash=24fd618955d73a0403291474057fd2fe7fc568db&lang=en&cache-only=0",
-      "phonetic_text": "væsəleɪʃən",
+      "phonetic_text": "væ.sə.leɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=dmFjaWxsYXRpb24&hash=24fd618955d73a0403291474057fd2fe7fc568db&lang=en&cache-only=0",
-      "phonetic_am_text": "vāsēleishēn",
+      "phonetic_am_text": "vā.sē.lei.shēn",
       "img": "",
       "pronunciation": "ˌvæsəˈɫeɪʃən",
       "senses": [
@@ -490,12 +713,13 @@
       ]
     },
     {
+      "id": "e485a77f-8a04-4586-b8da-ef8540f9f091",
       "word": "value-free",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dmFsdWUtZnJlZQ&hash=aeac3c39a1a3faf60b50c6aebf8a6ab3e22a8e71&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "væ.lju-fri:",
       "phonetic_am": "https://tts.langeek.co/read?text=dmFsdWUtZnJlZQ&hash=aeac3c39a1a3faf60b50c6aebf8a6ab3e22a8e71&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vā.lyoo-fri",
       "img": "",
       "pronunciation": "vˈæljuːfɹˈiː",
       "senses": [
@@ -506,12 +730,13 @@
       ]
     },
     {
+      "id": "adadc7e9-9e3c-4357-b800-d3b3481d0e91",
       "word": "value-laden",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dmFsdWUtbGFkZW4&hash=df4daad18bc02c51abfbe100ee0d597c1cf12468&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "væ.lju-leɪ.dən",
       "phonetic_am": "https://tts.langeek.co/read?text=dmFsdWUtbGFkZW4&hash=df4daad18bc02c51abfbe100ee0d597c1cf12468&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vā.lyoo-lei.dēn",
       "img": "",
       "pronunciation": "vˈæljuːlˈeɪdən",
       "senses": [
@@ -522,12 +747,13 @@
       ]
     },
     {
-      "word": "ventilate",
+      "id": "86287f2d-acaa-41bb-ae3f-ae59cc24fe89",
+      "word": "to ventilate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdmVudGlsYXRl&hash=f2066c77950842a1c7c3936c786e494f35c7fd82&lang=en&cache-only=0",
-      "phonetic_text": "vɛntəleɪt",
+      "phonetic_text": "vɛn.ə.leɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdmVudGlsYXRl&hash=f2066c77950842a1c7c3936c786e494f35c7fd82&lang=en&cache-only=0",
-      "phonetic_am_text": "ventēleit",
+      "phonetic_am_text": "ven.ē.leit",
       "img": "",
       "pronunciation": "ˈvɛnəˌɫeɪt/, /ˈvɛntəˌɫeɪt",
       "senses": [
@@ -538,26 +764,49 @@
       ]
     },
     {
+      "id": "a774fd2f-e0b1-46c0-ae7e-e5a73d4bbb23",
       "word": "verdict",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmVyZGljdA&hash=dea65f503b7f0305695e7069c9dd18e39c8069c1&lang=en&cache-only=0",
-      "phonetic_text": "vɜrdɪkt",
+      "phonetic_text": "vɜr.dɪkt",
       "phonetic_am": "https://tts.langeek.co/read?text=dmVyZGljdA&hash=dea65f503b7f0305695e7069c9dd18e39c8069c1&lang=en&cache-only=0",
-      "phonetic_am_text": "vērdikt",
+      "phonetic_am_text": "vēr.dikt",
       "img": "",
       "pronunciation": "ˈvɝdɪkt",
       "senses": [
         {
           "definition": "an opinion given or a decision made after much consideration",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "After much deliberation, the team reached a verdict on the best course of action."
+            },
+            {
+              "cf": "",
+              "x": "The critics' verdict on the film was mixed, with some praising its innovation while others found it lacking."
+            },
+            {
+              "cf": "",
+              "x": "The committee's verdict on the proposal was unanimous, signaling strong support for its implementation."
+            },
+            {
+              "cf": "",
+              "x": "She asked for their verdict on the new restaurant, eager to hear their opinions."
+            },
+            {
+              "cf": "",
+              "x": "The public's verdict on the new policy was overwhelmingly negative, prompting a reconsideration by policymakers."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0fbaa42d-0fc5-4b53-b791-13a151987a2d",
       "word": "view",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmlldw&hash=90f70a313e879029f4ff556e9ee8a0b55058e4d1&lang=en&cache-only=0",
-      "phonetic_text": "vju:",
+      "phonetic_text": "vju",
       "phonetic_am": "https://tts.langeek.co/read?text=dmlldw&hash=90f70a313e879029f4ff556e9ee8a0b55058e4d1&lang=en&cache-only=0",
       "phonetic_am_text": "vyoo",
       "img": "",
@@ -570,12 +819,13 @@
       ]
     },
     {
+      "id": "d0dc73c1-3344-40de-9667-3c45cbe45591",
       "word": "virtue signaling",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmlydHVlIHNpZ25hbGluZw&hash=e3405c4027fc45df119e509d1515cb9ef06245cc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "vɜr.ʧu sɪg.nə.lɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=dmlydHVlIHNpZ25hbGluZw&hash=e3405c4027fc45df119e509d1515cb9ef06245cc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vēr.choo sig.nē.ling",
       "img": "",
       "pronunciation": "vˈɜːtʃuː sˈɪɡnəlɪŋ",
       "senses": [
@@ -586,74 +836,159 @@
       ]
     },
     {
+      "id": "c1cefade-d379-49ce-9bd6-b34b27ab994e",
       "word": "vocal",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dm9jYWw&hash=b943d47b916d36a364b99b9c44562e44c6afaad4&lang=en&cache-only=0",
-      "phonetic_text": "voʊkəl",
+      "phonetic_text": "voʊ.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dm9jYWw&hash=b943d47b916d36a364b99b9c44562e44c6afaad4&lang=en&cache-only=0",
-      "phonetic_am_text": "vowkēl",
+      "phonetic_am_text": "vooo.kēl",
       "img": "",
       "pronunciation": "ˈvoʊkəɫ",
       "senses": [
         {
           "definition": "giving opinions loudly or freely",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She was vocal in her support for environmental conservation at the town hall meeting."
+            },
+            {
+              "cf": "",
+              "x": "The protesters were vocal about their demands for social justice during the demonstration."
+            },
+            {
+              "cf": "",
+              "x": "He became increasingly vocal about the need for better healthcare policies as the election approached."
+            },
+            {
+              "cf": "",
+              "x": "The student group was vocal in advocating for changes to the school's curriculum."
+            },
+            {
+              "cf": "",
+              "x": "The employees were vocal in expressing their dissatisfaction with the new management policies."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "772a8ace-1c43-4681-bebc-dc1352d4ebde",
       "word": "vociferous",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dm9jaWZlcm91cw&hash=ef414f69b977a3197edb48fe5e316991c71fdfcb&lang=en&cache-only=0",
-      "phonetic_text": "voʊsɪfərəs",
+      "phonetic_text": "voʊ.sɪ.fɜ.rəs",
       "phonetic_am": "https://tts.langeek.co/read?text=dm9jaWZlcm91cw&hash=ef414f69b977a3197edb48fe5e316991c71fdfcb&lang=en&cache-only=0",
-      "phonetic_am_text": "vowsifērēs",
+      "phonetic_am_text": "vooo.si.fē.rēs",
       "img": "https://cdn.langeek.co/photo/49636/original/?type=jpeg",
       "pronunciation": "voʊˈsɪfɝəs",
       "senses": [
         {
           "definition": "expressing feelings or opinions, loudly and forcefully",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The opposition party voiced vociferous complaints about the new tax policy during the legislative session."
+            },
+            {
+              "cf": "",
+              "x": "Reporters described the rallies as vociferous displays where the crowd vigorously chanted slogans for hours."
+            },
+            {
+              "cf": "",
+              "x": "The protestors were vociferous in their demands for justice, chanting slogans and waving signs."
+            },
+            {
+              "cf": "",
+              "x": "The politician was known for his vociferous speeches, rallying supporters with his impassioned rhetoric."
+            },
+            {
+              "cf": "",
+              "x": "Despite her normally reserved demeanor, she became vociferous when defending her beliefs."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "8cf11786-2543-43de-a53a-bf9d5fb40aee",
       "word": "voice",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dm9pY2U&hash=2d837e39112a19291355bd3fb17d48f4f76a110f&lang=en&cache-only=0",
       "phonetic_text": "vɔɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=dm9pY2U&hash=2d837e39112a19291355bd3fb17d48f4f76a110f&lang=en&cache-only=0",
-      "phonetic_am_text": "voys",
+      "phonetic_am_text": "vawis",
       "img": "",
       "pronunciation": "vɔɪs",
       "senses": [
         {
           "definition": "the right to give an opinion on something",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "In a democracy, freedom of speech ensures that every citizen has a voice in expressing their opinions and beliefs."
+            },
+            {
+              "cf": "",
+              "x": "The town hall meeting provided residents with a platform to have their voices heard on local issues affecting their community."
+            },
+            {
+              "cf": "",
+              "x": "Activists fight for marginalized groups to have a voice in decision-making processes, advocating for inclusivity and representation."
+            },
+            {
+              "cf": "",
+              "x": "Employees should feel empowered to speak up in the workplace, knowing that their voices matter and contribute to organizational growth."
+            },
+            {
+              "cf": "",
+              "x": "Online forums and discussion boards allow individuals from diverse backgrounds to share their voices and engage in meaningful dialogue on important topics."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "voice",
+      "id": "35ffe461-fb40-44fe-ada7-7e9a62198b0a",
+      "word": "to voice",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdm9pY2U&hash=2648508438a71e5195586749ae5ed7d67a9009b1&lang=en&cache-only=0",
       "phonetic_text": "vɔɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdm9pY2U&hash=2648508438a71e5195586749ae5ed7d67a9009b1&lang=en&cache-only=0",
-      "phonetic_am_text": "voys",
+      "phonetic_am_text": "vawis",
       "img": "https://cdn.langeek.co/photo/55318/original/?type=jpeg",
       "pronunciation": "vɔɪs",
       "senses": [
         {
           "definition": "to express something verbally and openly, especially a feeling, opinion, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "In the meeting, employees were encouraged to voice their opinions on the proposed changes."
+            },
+            {
+              "cf": "",
+              "x": "The activist used the rally as an opportunity to voice concerns about environmental issues."
+            },
+            {
+              "cf": "",
+              "x": "In the classroom, the teacher created a supportive environment for students to voice their ideas and questions openly."
+            },
+            {
+              "cf": "",
+              "x": "The citizens gathered at the town hall meeting to voice their dissatisfaction with the new traffic regulations."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a1a71a9b-4622-4e2d-b707-352db5de9a57",
       "word": "volte-face",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dm9sdGUtZmFjZQ&hash=09c73169228da0e47325f2e66392077aa32f7afb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dm9sdGUtZmFjZQ&hash=09c73169228da0e47325f2e66392077aa32f7afb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -666,12 +1001,13 @@
       ]
     },
     {
-      "word": "weigh in",
+      "id": "8c18cda1-ecdb-4c3e-944d-caddd7c089ce",
+      "word": "to weigh in",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2VpZ2ggaW4&hash=1427877f5bdfbfd189c2c481401ae618b14a1a3b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "weɪ ɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2VpZ2ggaW4&hash=1427877f5bdfbfd189c2c481401ae618b14a1a3b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vei in",
       "img": "https://cdn.langeek.co/photo/52771/original/?type=jpeg",
       "pronunciation": "wˈeɪ ˈɪn",
       "senses": [
@@ -695,12 +1031,13 @@
       ]
     },
     {
-      "word": "weigh up",
+      "id": "86e09d28-c7c1-4c1c-8d6b-0b2f5fa9e60a",
+      "word": "to weigh up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2VpZ2ggdXA&hash=c49a5b168741593b94ada715d6036090bbee886c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "weɪ ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2VpZ2ggdXA&hash=c49a5b168741593b94ada715d6036090bbee886c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vei ap",
       "img": "https://cdn.langeek.co/photo/52123/original/?type=jpeg",
       "pronunciation": "wˈeɪ ˈʌp",
       "senses": [
@@ -728,12 +1065,13 @@
       ]
     },
     {
+      "id": "99c6e719-8648-4dfd-9e21-cf222ff9f90b",
       "word": "welcome",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2VsY29tZQ&hash=c1011837b07177a9500356a9cd14a94655e3860f&lang=en&cache-only=0",
-      "phonetic_text": "wɛlkəm",
+      "phonetic_text": "wɛl.kəm",
       "phonetic_am": "https://tts.langeek.co/read?text=d2VsY29tZQ&hash=c1011837b07177a9500356a9cd14a94655e3860f&lang=en&cache-only=0",
-      "phonetic_am_text": "welkēm",
+      "phonetic_am_text": "vel.kēm",
       "img": "",
       "pronunciation": "ˈwɛlkəm",
       "senses": [
@@ -744,14 +1082,15 @@
       ]
     },
     {
+      "id": "6f38a8f7-8c1d-4d0f-94fa-3f8abb9bf778",
       "word": "would",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=d291bGQ&hash=60bb002312314c7bb3b315664ebe1851e3cf125d&lang=en&cache-only=0",
       "phonetic_text": "wʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=d291bGQ&hash=60bb002312314c7bb3b315664ebe1851e3cf125d&lang=en&cache-only=0",
-      "phonetic_am_text": "wud",
+      "phonetic_am_text": "vood",
       "img": "",
-      "pronunciation": "ˈwʊd",
+      "pronunciation": "wʊd",
       "senses": [
         {
           "definition": "used to express an opinion about which one is not certain",
@@ -777,12 +1116,13 @@
       ]
     },
     {
-      "word": "write in",
+      "id": "abe4d253-60a0-4623-907c-aed83698a733",
+      "word": "to write in",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd3JpdGUgaW4&hash=572157357eb8f6f37606d50135a0794334074e87&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "raɪt ɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd3JpdGUgaW4&hash=572157357eb8f6f37606d50135a0794334074e87&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rait in",
       "img": "https://cdn.langeek.co/photo/52683/original/?type=jpeg",
       "pronunciation": "ɹˈaɪt ˈɪn",
       "senses": [
@@ -793,10 +1133,11 @@
       ]
     },
     {
+      "id": "1f19353a-e057-4ce9-9144-d1484808f7aa",
       "word": "you know what?",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=eW91IGtub3cgd2hhdD8&hash=0dbd9d49e2fbf1dfeb2cce9764d61b0175f06a6e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=eW91IGtub3cgd2hhdD8&hash=0dbd9d49e2fbf1dfeb2cce9764d61b0175f06a6e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

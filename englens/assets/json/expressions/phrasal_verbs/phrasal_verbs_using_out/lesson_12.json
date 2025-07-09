@@ -1,15 +1,17 @@
 {
+  "id": "3dc29182-581e-4a93-ae0c-797cac0e8948",
   "topic": "phrasal_verbs_using_out",
   "title": "Checking, Paying Attention, or Needing",
   "lesson": "lesson_12",
   "word_list": [
     {
-      "word": "call out",
+      "id": "4f3c693b-4d4a-4d0d-b0b8-d2faaa986eea",
+      "word": "to call out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2FsbCBvdXQ&hash=e404ab47fa951409f5b45a0841a619355478e4b0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɔ:l aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2FsbCBvdXQ&hash=e404ab47fa951409f5b45a0841a619355478e4b0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kawl aoot",
       "img": "https://cdn.langeek.co/photo/52443/original/?type=jpeg",
       "pronunciation": "kˈɔːl ˈaʊt",
       "senses": [
@@ -33,14 +35,15 @@
       ]
     },
     {
-      "word": "check out",
+      "id": "8e9d929e-f4b3-4226-9e73-11e01964940f",
+      "word": "to check out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hlY2sgb3V0&hash=c4ed40daff39efeb881afc68d72073089bf12b26&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧɛk aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2hlY2sgb3V0&hash=c4ed40daff39efeb881afc68d72073089bf12b26&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chek aoot",
       "img": "https://cdn.langeek.co/photo/22638/original/?type=jpeg",
-      "pronunciation": "tʃˈɛk ˈaʊt",
+      "pronunciation": "ʧɛk ˈaʊt",
       "senses": [
         {
           "definition": "to closely examine to see if someone is suitable or something is true",
@@ -62,12 +65,13 @@
       ]
     },
     {
-      "word": "cry out for",
+      "id": "576a5c10-a4a5-4146-979d-ca268afb5498",
+      "word": "to cry out for",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3J5IG91dCBmb3I&hash=1e3846c99d25ec0b2b54b19af7e63b5e9f18d80b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kraɪ aʊt fɔ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3J5IG91dCBmb3I&hash=1e3846c99d25ec0b2b54b19af7e63b5e9f18d80b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "krai aoot fawr",
       "img": "https://cdn.langeek.co/photo/48669/original/need?type=jpeg",
       "pronunciation": "kɹˈaɪ ˈaʊt fɔːɹ",
       "senses": [
@@ -99,12 +103,13 @@
       ]
     },
     {
-      "word": "listen out for",
+      "id": "1367c726-2cbe-4e57-b6fe-10acde6975fd",
+      "word": "to listen out for",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGlzdGVuIG91dCBmb3I&hash=c56aa33a95f4f316b1eb555e621d705b698dbfdd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɪs.ən aʊt fɔ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGlzdGVuIG91dCBmb3I&hash=c56aa33a95f4f316b1eb555e621d705b698dbfdd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lis.ēn aoot fawr",
       "img": "https://cdn.langeek.co/photo/52447/original/?type=jpeg",
       "pronunciation": "lˈɪsən ˈaʊt fɔːɹ",
       "senses": [
@@ -136,12 +141,13 @@
       ]
     },
     {
-      "word": "look out",
+      "id": "2d392fbe-5818-4370-92f2-e866a84de7db",
+      "word": "to look out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbG9vayBvdXQ&hash=0b912da417e0c3e8eabd72a1c94a47957cecc675&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lʊk aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbG9vayBvdXQ&hash=0b912da417e0c3e8eabd72a1c94a47957cecc675&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "look aoot",
       "img": "https://cdn.langeek.co/photo/43680/original/?type=jpeg",
       "pronunciation": "lˈʊk ˈaʊt",
       "senses": [
@@ -151,26 +157,19 @@
             {
               "cf": "",
               "x": "The librarian looked out the book I requested, but it was unfortunately unavailable for checkout."
-            },
-            {
-              "cf": "",
-              "x": "I'll look out my old hiking boots before our camping trip next weekend."
-            },
-            {
-              "cf": "",
-              "x": "She would often look out new music recommendations from her friends and family."
             }
           ]
         }
       ]
     },
     {
-      "word": "send out for",
+      "id": "9e3fa90b-2c0b-45de-a157-5400413957b0",
+      "word": "to send out for",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2VuZCBvdXQgZm9y&hash=badbfc5d696a55cfceac54e55c0ed37daa56b15e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛnd aʊt fɔ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2VuZCBvdXQgZm9y&hash=badbfc5d696a55cfceac54e55c0ed37daa56b15e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "send aoot fawr",
       "img": "https://cdn.langeek.co/photo/52449/original/?type=jpeg",
       "pronunciation": "sˈɛnd ˈaʊt fɔːɹ",
       "senses": [
@@ -202,12 +201,13 @@
       ]
     },
     {
-      "word": "space out",
+      "id": "81c824d0-e026-40cb-b562-360fb0d67cd3",
+      "word": "to space out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3BhY2Ugb3V0&hash=b1d60e5e4cab44a142817c2a35b50fb1e53d4654&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "speɪs aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3BhY2Ugb3V0&hash=b1d60e5e4cab44a142817c2a35b50fb1e53d4654&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "speis aoot",
       "img": "https://cdn.langeek.co/photo/42232/original/?type=jpeg",
       "pronunciation": "spˈeɪs ˈaʊt",
       "senses": [
@@ -235,12 +235,13 @@
       ]
     },
     {
-      "word": "stake out",
+      "id": "20a85f78-a3dd-4304-8487-0ede1ac7ecee",
+      "word": "to stake out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3Rha2Ugb3V0&hash=ee2a6e5024b7f2a13a53cbf0aaf70885b0e82a7b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "steɪk aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3Rha2Ugb3V0&hash=ee2a6e5024b7f2a13a53cbf0aaf70885b0e82a7b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "steik aoot",
       "img": "https://cdn.langeek.co/photo/52451/original/?type=jpeg",
       "pronunciation": "stˈeɪk ˈaʊt",
       "senses": [
@@ -260,10 +261,11 @@
       ]
     },
     {
-      "word": "suss out",
+      "id": "9023646a-e9b3-4475-b1e0-7d8bae8fad7d",
+      "word": "to suss out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3VzcyBvdXQ&hash=780638e1493984ac256a70a9d2430e5f7beb8eb3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3VzcyBvdXQ&hash=780638e1493984ac256a70a9d2430e5f7beb8eb3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/26365/original/?type=jpeg",
@@ -285,12 +287,13 @@
       ]
     },
     {
-      "word": "watch out for",
+      "id": "1d59585d-67ec-4468-a6a3-2a94967fa66f",
+      "word": "to watch out for",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2F0Y2ggb3V0IGZvcg&hash=c6373bb1544a1019d09be321b97dfe4ac2ca7b67&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɑ:ʧ aʊt fɔ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2F0Y2ggb3V0IGZvcg&hash=c6373bb1544a1019d09be321b97dfe4ac2ca7b67&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vaach aoot fawr",
       "img": "https://cdn.langeek.co/photo/44510/original/?type=jpeg",
       "pronunciation": "wˈɑːtʃ ˈaʊt fɔːɹ",
       "senses": [

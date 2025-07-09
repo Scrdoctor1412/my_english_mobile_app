@@ -1,13 +1,15 @@
 {
+  "id": "0301a35a-6a73-415e-90f0-b786c962b2c7",
   "topic": "sports",
   "title": "Boxing",
   "lesson": "lesson_32",
   "word_list": [
     {
+      "id": "fe04a611-6d2f-4f64-8ce4-18814ad19c93",
       "word": "Muay Thai",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=TXVheSBUaGFp&hash=fed3b575f137a3d2a1b7b76c25c5ae32a3a0675d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=TXVheSBUaGFp&hash=fed3b575f137a3d2a1b7b76c25c5ae32a3a0675d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -41,12 +43,13 @@
       ]
     },
     {
+      "id": "ab432622-2d9f-4512-8fdb-36412506de5f",
       "word": "kickboxing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2lja2JveGluZw&hash=e66740235cd24995bf70fc4e0df47361bf62e6fd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɪk.bɑk.sɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=a2lja2JveGluZw&hash=e66740235cd24995bf70fc4e0df47361bf62e6fd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kik.baak.sing",
       "img": "",
       "pronunciation": "kˈɪkbɑːksɪŋ",
       "senses": [
@@ -66,12 +69,13 @@
       ]
     },
     {
+      "id": "542f16a9-5638-4292-9a5d-c38b9e702f19",
       "word": "savate",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2F2YXRl&hash=a13b7fc5bc8dca731bee9fc60282c1df3889ef9f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sæ.veɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=c2F2YXRl&hash=a13b7fc5bc8dca731bee9fc60282c1df3889ef9f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sā.veit",
       "img": "",
       "pronunciation": "sˈæveɪt",
       "senses": [
@@ -82,10 +86,11 @@
       ]
     },
     {
+      "id": "f5d8145e-b18b-483c-8d3b-687671d66308",
       "word": "K-1",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Sy0x&hash=2fa0aa3bd86d83f7f4fa215868e6f51a6974d837&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Sy0x&hash=2fa0aa3bd86d83f7f4fa215868e6f51a6974d837&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -115,6 +120,7 @@
       ]
     },
     {
+      "id": "90d7f209-e2ff-40cf-af85-ccfde257e75f",
       "word": "jab",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=amFi&hash=75c855808b64a3c705385539a960c1520f0d2fcb&lang=en&cache-only=0",
@@ -148,55 +154,32 @@
       ]
     },
     {
+      "id": "44a8a0ae-a900-411e-9269-5d357139394d",
       "word": "cross",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3Jvc3M&hash=f32d11b03401f4c00692800e31d4f39eef6bb731&lang=en&cache-only=0",
-      "phonetic_text": "krɔ:s",
+      "phonetic_text": "krɑ:s",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3Jvc3M&hash=f32d11b03401f4c00692800e31d4f39eef6bb731&lang=en&cache-only=0",
-      "phonetic_am_text": "kraaws",
+      "phonetic_am_text": "kraas",
       "img": "",
       "pronunciation": "krɑːs",
       "senses": [
         {
           "definition": "(boxing) a straight punch thrown with the rear hand, usually aimed straight at the opponent's head or body",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He landed a powerful cross to his opponent's jaw."
-            },
-            {
-              "cf": "",
-              "x": "Her coach emphasized the importance of a strong cross."
-            },
-            {
-              "cf": "",
-              "x": "She dodged the cross and countered with a hook."
-            },
-            {
-              "cf": "",
-              "x": "The boxer's cross knocked his opponent down."
-            },
-            {
-              "cf": "",
-              "x": "The boxer's cross was his go-to move for finishing fights."
-            },
-            {
-              "cf": "",
-              "x": "He dodged the jab and countered with a sharp right cross."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "4dedbb8e-097e-428f-8134-c002ef5317b5",
       "word": "hook",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG9vaw&hash=1b30b2aa7664da124093045f3ebddc2ee51d7641&lang=en&cache-only=0",
       "phonetic_text": "hʊk",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9vaw&hash=1b30b2aa7664da124093045f3ebddc2ee51d7641&lang=en&cache-only=0",
-      "phonetic_am_text": "huk",
+      "phonetic_am_text": "hook",
       "img": "",
-      "pronunciation": "ˈhʊk",
+      "pronunciation": "hʊk",
       "senses": [
         {
           "definition": "(boxing) a powerful punch thrown with a bent arm aimed at connecting with the side or front of an opponent's head or body",
@@ -226,86 +209,47 @@
       ]
     },
     {
+      "id": "af640c89-a4ae-454b-ac2f-16440dfcdfbd",
       "word": "uppercut",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dXBwZXJjdXQ&hash=8b6ff5f460cde0e28a11a15a303ba699c468ba4c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ə.pɜr.kʌt",
       "phonetic_am": "https://tts.langeek.co/read?text=dXBwZXJjdXQ&hash=8b6ff5f460cde0e28a11a15a303ba699c468ba4c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ē.pēr.kat",
       "img": "",
       "pronunciation": "ˈʌpɚkˌʌt",
       "senses": [
         {
           "definition": "(boxing) a powerful punch thrown from below, aimed upward toward the opponent's chin or body",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Her uppercut to the chin stunned her opponent in the final round."
-            },
-            {
-              "cf": "",
-              "x": "They practiced uppercuts on the heavy bag to develop strength and accuracy."
-            },
-            {
-              "cf": "",
-              "x": "He delivered a devastating uppercut that knocked out his opponent."
-            },
-            {
-              "cf": "",
-              "x": "He used an uppercut to counter his opponent's aggressive attack."
-            },
-            {
-              "cf": "",
-              "x": "His opponent underestimated the power of his uppercut."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "984e2d9a-59d5-4828-b9f7-330fdaabd6c7",
       "word": "body punch",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9keSBwdW5jaA&hash=520fa7322c71d37766a875accc0c82de706e9d86&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɑ:.di pənʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9keSBwdW5jaA&hash=520fa7322c71d37766a875accc0c82de706e9d86&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baa.di pēnch",
       "img": "",
       "pronunciation": "bˈɑːdi pˈʌntʃ",
       "senses": [
         {
           "definition": "(boxing) a strike aimed at the opponent's torso area, typically the ribs or abdomen",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He landed a powerful body punch in the third round."
-            },
-            {
-              "cf": "",
-              "x": "Body punches can wear down an opponent over time."
-            },
-            {
-              "cf": "",
-              "x": "She's known for her quick combinations, including body punches."
-            },
-            {
-              "cf": "",
-              "x": "He dodged the jab and countered with a body punch."
-            },
-            {
-              "cf": "",
-              "x": "The crowd cheered as he connected with a series of body punches."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "1d2cd2de-ea2b-4bdc-a731-3b20efa84348",
       "word": "roundhouse kick",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm91bmRob3VzZSBraWNr&hash=64d12643ec3001284e43a07f22a905af2a999a16&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "raʊnd.haʊs kɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=cm91bmRob3VzZSBraWNr&hash=64d12643ec3001284e43a07f22a905af2a999a16&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "raoond.haoos kik",
       "img": "",
       "pronunciation": "ɹˈaʊndhaʊs kˈɪk",
       "senses": [
@@ -337,12 +281,13 @@
       ]
     },
     {
+      "id": "da19a760-9040-4598-b5bf-e4e175e63757",
       "word": "bob and weave",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9iIGFuZCB3ZWF2ZQ&hash=a5b641a6262d97f8ac299d65cea702bfa33d7b4d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɑb ænd wiv",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9iIGFuZCB3ZWF2ZQ&hash=a5b641a6262d97f8ac299d65cea702bfa33d7b4d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baab ānd viv",
       "img": "",
       "pronunciation": "bˈɑːb ænd wˈiːv",
       "senses": [
@@ -374,14 +319,15 @@
       ]
     },
     {
-      "word": "block",
+      "id": "92a56c2f-5707-4e73-b522-e599e82b36a2",
+      "word": "to block",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmxvY2s&hash=4681320f781fb51e1c8d51bb10a3955f43c39d9d&lang=en&cache-only=0",
-      "phonetic_text": "blɑ:k",
+      "phonetic_text": "blɑk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmxvY2s&hash=4681320f781fb51e1c8d51bb10a3955f43c39d9d&lang=en&cache-only=0",
       "phonetic_am_text": "blaak",
       "img": "",
-      "pronunciation": "ˈbɫɑk",
+      "pronunciation": "blɑk",
       "senses": [
         {
           "definition": "to obstruct or hinder the progress or action of an opponent, typically in sports or competitive activities",
@@ -411,12 +357,13 @@
       ]
     },
     {
+      "id": "8cd15ca9-9a43-47ae-98d7-8cb0796d47b7",
       "word": "head movement",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGVhZCBtb3ZlbWVudA&hash=62dc9bfb86bee7cbc9c0c4829818608de1f429b8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɛd muv.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=aGVhZCBtb3ZlbWVudA&hash=62dc9bfb86bee7cbc9c0c4829818608de1f429b8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hed moov.mēnt",
       "img": "",
       "pronunciation": "hˈɛd mˈuːvmənt",
       "senses": [
@@ -448,12 +395,13 @@
       ]
     },
     {
+      "id": "abc52fc4-c5aa-4274-a940-a581bd635459",
       "word": "check hook",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hlY2sgaG9vaw&hash=8e61406b5c373f6f1a8ea0b77768c83b8dfb7c68&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧɛk hʊk",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hlY2sgaG9vaw&hash=8e61406b5c373f6f1a8ea0b77768c83b8dfb7c68&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chek hook",
       "img": "",
       "pronunciation": "tʃˈɛk hˈʊk",
       "senses": [
@@ -485,12 +433,13 @@
       ]
     },
     {
+      "id": "b66dbe6f-dc17-4d94-b5fc-10a5bb8428a2",
       "word": "low kick",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG93IGtpY2s&hash=8f00b61fdc6528e90ba5d0b8ef734ef9f9a8263d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "loʊ kɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=bG93IGtpY2s&hash=8f00b61fdc6528e90ba5d0b8ef734ef9f9a8263d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "looo kik",
       "img": "",
       "pronunciation": "lˈoʊ kˈɪk",
       "senses": [
@@ -522,12 +471,13 @@
       ]
     },
     {
+      "id": "2375415a-5828-46da-b633-731a44bf7574",
       "word": "stoppage",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RvcHBhZ2U&hash=6bc0b727c9ae9ca79b8db9f9b81ddab4821f78a0&lang=en&cache-only=0",
-      "phonetic_text": "stɑ:pɪʤ",
+      "phonetic_text": "stɑp.peɪʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RvcHBhZ2U&hash=6bc0b727c9ae9ca79b8db9f9b81ddab4821f78a0&lang=en&cache-only=0",
-      "phonetic_am_text": "staapij",
+      "phonetic_am_text": "staap.peij",
       "img": "",
       "pronunciation": "ˈstɑpɪdʒ",
       "senses": [
@@ -559,12 +509,13 @@
       ]
     },
     {
+      "id": "c7a2cf09-e191-468e-b367-a39a5cff1246",
       "word": "knockout",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a25vY2tvdXQ&hash=8d9f4836b7dfa5c55a99a001f1471025405a8b76&lang=en&cache-only=0",
-      "phonetic_text": "nɑ:kaʊt",
+      "phonetic_text": "nɑk.aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=a25vY2tvdXQ&hash=8d9f4836b7dfa5c55a99a001f1471025405a8b76&lang=en&cache-only=0",
-      "phonetic_am_text": "naakawt",
+      "phonetic_am_text": "naak.aoot",
       "img": "",
       "pronunciation": "ˈnɑˌkaʊt",
       "senses": [
@@ -596,12 +547,13 @@
       ]
     },
     {
+      "id": "b7768c40-6385-4fde-9862-869363306390",
       "word": "knockout punch",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a25vY2tvdXQgcHVuY2g&hash=c684b4c4a785c9d3024fc0bb175f14cb65757713&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nɑk.aʊt pənʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=a25vY2tvdXQgcHVuY2g&hash=c684b4c4a785c9d3024fc0bb175f14cb65757713&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "naak.aoot pēnch",
       "img": "",
       "pronunciation": "nˈɑːkaʊt pˈʌntʃ",
       "senses": [
@@ -633,12 +585,13 @@
       ]
     },
     {
+      "id": "372379f1-7b2c-4379-8515-32ab11d8e15f",
       "word": "technical knockout",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVjaG5pY2FsIGtub2Nrb3V0&hash=3a64d8b64ef6bb02208df1164522f33577315368&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɛk.nɪ.kəl nɑk.aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVjaG5pY2FsIGtub2Nrb3V0&hash=3a64d8b64ef6bb02208df1164522f33577315368&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tek.ni.kēl naak.aoot",
       "img": "",
       "pronunciation": "tˈɛknɪkəl nˈɑːkaʊt",
       "senses": [
@@ -670,12 +623,13 @@
       ]
     },
     {
+      "id": "db750d56-57d5-48cd-9860-8de55d4f0ff6",
       "word": "split decision",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BsaXQgZGVjaXNpb24&hash=5bab0c0b9bfb885da3ec9ae404dfd3886c0c6591&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "splɪt dɪ.sɪ.ʒən",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BsaXQgZGVjaXNpb24&hash=5bab0c0b9bfb885da3ec9ae404dfd3886c0c6591&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "split di.si.zhēn",
       "img": "",
       "pronunciation": "splˈɪt dᵻsˈɪʒən",
       "senses": [
@@ -707,12 +661,13 @@
       ]
     },
     {
+      "id": "29aec80b-e216-4db7-8dca-287c8e306631",
       "word": "shadowboxing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2hhZG93Ym94aW5n&hash=c5c00f58ca668f9a17a75a9af9b6e172cd9c71d4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʃæ.doʊ.bɑk.sɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hhZG93Ym94aW5n&hash=c5c00f58ca668f9a17a75a9af9b6e172cd9c71d4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "shā.dooo.baak.sing",
       "img": "",
       "pronunciation": "ʃˈædoʊbˌɑːksɪŋ",
       "senses": [
@@ -728,12 +683,13 @@
       ]
     },
     {
+      "id": "2153c4a3-88d6-4d9e-97d5-61f31695cabb",
       "word": "sparring",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BhcnJpbmc&hash=03e797eaf15eef397ee7e4f0acba363a085717f3&lang=en&cache-only=0",
-      "phonetic_text": "spɑ:rɪng",
+      "phonetic_text": "spɑ.rɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BhcnJpbmc&hash=03e797eaf15eef397ee7e4f0acba363a085717f3&lang=en&cache-only=0",
-      "phonetic_am_text": "spaaring",
+      "phonetic_am_text": "spaa.ring",
       "img": "",
       "pronunciation": "ˈspɑɹɪŋ",
       "senses": [
@@ -744,49 +700,30 @@
       ]
     },
     {
+      "id": "502da1dd-1406-4e4c-8da8-625d4f6bdbe9",
       "word": "roadwork",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9hZHdvcms&hash=1241009ed1033816ecde052fc9b38cb3beaf5517&lang=en&cache-only=0",
-      "phonetic_text": "roʊdwɜrk",
+      "phonetic_text": "roʊd.wɜrk",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9hZHdvcms&hash=1241009ed1033816ecde052fc9b38cb3beaf5517&lang=en&cache-only=0",
-      "phonetic_am_text": "rowdwērk",
+      "phonetic_am_text": "roood.vērk",
       "img": "",
       "pronunciation": "ˈɹoʊdˌwɝk",
       "senses": [
         {
           "definition": "the long-distance running or jogging done by boxers to build stamina and endurance",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He starts his day with roadwork to build endurance."
-            },
-            {
-              "cf": "",
-              "x": "Roadwork is essential for improving a boxer's stamina."
-            },
-            {
-              "cf": "",
-              "x": "He believes consistent roadwork gives him an edge in the ring."
-            },
-            {
-              "cf": "",
-              "x": "She never skips her morning roadwork sessions."
-            },
-            {
-              "cf": "",
-              "x": "She combines roadwork with other training for peak performance."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "3ad32612-7272-4919-a583-d733bfbe1a37",
       "word": "peekaboo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVla2Fib28&hash=aa23aac09d894f978be302a031f78829e315c8d4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pi:.ka.bu:",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVla2Fib28&hash=aa23aac09d894f978be302a031f78829e315c8d4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pi.ka.boo",
       "img": "",
       "pronunciation": "pˈiːkɐbˌuː",
       "senses": [
@@ -806,49 +743,30 @@
       ]
     },
     {
+      "id": "148a24e7-1139-4d93-bd69-32f5acea0152",
       "word": "southpaw stance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c291dGhwYXcgc3RhbmNl&hash=7db6f72eea6985a45b66a0d56f86e5937a5ef08d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "saʊθ.pɔ stæns",
       "phonetic_am": "https://tts.langeek.co/read?text=c291dGhwYXcgc3RhbmNl&hash=7db6f72eea6985a45b66a0d56f86e5937a5ef08d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "saooth.paw stāns",
       "img": "",
       "pronunciation": "sˈaʊθpɔː stˈæns",
       "senses": [
         {
           "definition": "a left-handed fighting position where the boxer's right hand and right foot are forward",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He prefers fighting from a southpaw stance."
-            },
-            {
-              "cf": "",
-              "x": "She's effective at counterpunching in her southpaw stance."
-            },
-            {
-              "cf": "",
-              "x": "fighters who can work with southpaw stance often have an advantage against orthodox opponents."
-            },
-            {
-              "cf": "",
-              "x": "He switched to a southpaw stance to confuse his opponent."
-            },
-            {
-              "cf": "",
-              "x": "The southpaw stance allows for different angles of attack."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "f37eb1ef-e998-46c0-be73-4fb896e0b210",
       "word": "orthodox stance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3J0aG9kb3ggc3RhbmNl&hash=f0191a239b5db46442827b5454956e91d09bc7c7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɔr.θə.dɑks stæns",
       "phonetic_am": "https://tts.langeek.co/read?text=b3J0aG9kb3ggc3RhbmNl&hash=f0191a239b5db46442827b5454956e91d09bc7c7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "awr.thē.daaks stāns",
       "img": "",
       "pronunciation": "ˈɔːɹθədˌɑːks stˈæns",
       "senses": [
@@ -880,10 +798,11 @@
       ]
     },
     {
+      "id": "83d232cd-ce3d-45de-8a1d-c3b29211d7fd",
       "word": "undercard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dW5kZXJjYXJk&hash=d8b2da15d9b5c97facf06a7a185a2e257da64c93&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5kZXJjYXJk&hash=d8b2da15d9b5c97facf06a7a185a2e257da64c93&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -891,32 +810,16 @@
       "senses": [
         {
           "definition": "the preliminary boxing matches that precede the main event",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The undercard provided some unexpected knockouts."
-            },
-            {
-              "cf": "",
-              "x": "He made his professional debut on the undercard last night."
-            },
-            {
-              "cf": "",
-              "x": "The undercard featured several exciting bouts."
-            },
-            {
-              "cf": "",
-              "x": "She secured a spot on the undercard after impressive performances in smaller venues."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "934b2a4d-ba1e-49f2-9ea0-4f557c5c9b83",
       "word": "Queensberry rules",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=UXVlZW5zYmVycnkgcnVsZXM&hash=52c292c020411defa082fe657f1459fcc2c89a3a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=UXVlZW5zYmVycnkgcnVsZXM&hash=52c292c020411defa082fe657f1459fcc2c89a3a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -942,12 +845,13 @@
       ]
     },
     {
+      "id": "d2bd1a92-ac78-43c0-96b6-a71322630c01",
       "word": "prizefight",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJpemVmaWdodA&hash=2755da0d55b7ce8dacf696da810b1086294d42fe&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "praɪz.faɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJpemVmaWdodA&hash=2755da0d55b7ce8dacf696da810b1086294d42fe&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "praiz.fait",
       "img": "",
       "pronunciation": "pɹˈaɪzfaɪt",
       "senses": [
@@ -979,10 +883,11 @@
       ]
     },
     {
+      "id": "7f211121-edda-44b7-8022-4cf425fd8357",
       "word": "teep kick",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVlcCBraWNr&hash=a2888c12718d83d8de8d6d28c68fbdb748222ea5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVlcCBraWNr&hash=a2888c12718d83d8de8d6d28c68fbdb748222ea5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -1016,49 +921,30 @@
       ]
     },
     {
+      "id": "ccbaee5b-9fad-458a-8a76-adfb2c1aba48",
       "word": "breakaway",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJlYWthd2F5&hash=abfdbbc7a47fa6eb45d4d595c57f45157f846505&lang=en&cache-only=0",
-      "phonetic_text": "breɪkəweɪ",
+      "phonetic_text": "breɪk.ə.weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJlYWthd2F5&hash=abfdbbc7a47fa6eb45d4d595c57f45157f846505&lang=en&cache-only=0",
-      "phonetic_am_text": "breikēwei",
+      "phonetic_am_text": "breik.ē.vei",
       "img": "",
       "pronunciation": "ˈbɹeɪkəˌweɪ",
       "senses": [
         {
           "definition": "(boxing) a quick maneuver to separate from an opponent, typically from a clinch, aimed at gaining advantage or creating space",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The boxer used a breakaway to escape the clinch."
-            },
-            {
-              "cf": "",
-              "x": "She initiated a breakaway to reset the fight."
-            },
-            {
-              "cf": "",
-              "x": "His breakaway speed helped him evade punches."
-            },
-            {
-              "cf": "",
-              "x": "The referee called for a breakaway after a prolonged clinch."
-            },
-            {
-              "cf": "",
-              "x": "He relied on breakaways to control the fight's pace."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "383980ab-9d51-4fcc-baa5-f5a34d139c41",
       "word": "counterpunch",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291bnRlcnB1bmNo&hash=8771ca3389d2f17d1a753b5acd58ee520cadede7&lang=en&cache-only=0",
-      "phonetic_text": "kaʊntərpʌnʧ",
+      "phonetic_text": "kaʊn.tɜr.pənʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291bnRlcnB1bmNo&hash=8771ca3389d2f17d1a753b5acd58ee520cadede7&lang=en&cache-only=0",
-      "phonetic_am_text": "kawntērpanch",
+      "phonetic_am_text": "kaoon.tēr.pēnch",
       "img": "",
       "pronunciation": "ˈkaʊntɝˌpəntʃ",
       "senses": [
@@ -1090,12 +976,13 @@
       ]
     },
     {
+      "id": "ffe69a41-50c5-450b-8c00-cee5ffa96661",
       "word": "bout",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym91dA&hash=69df386394fa5e455cd43f92a4e66cddedaa7d0d&lang=en&cache-only=0",
       "phonetic_text": "baʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym91dA&hash=69df386394fa5e455cd43f92a4e66cddedaa7d0d&lang=en&cache-only=0",
-      "phonetic_am_text": "bawt",
+      "phonetic_am_text": "baoot",
       "img": "",
       "pronunciation": "ˈbaʊt",
       "senses": [

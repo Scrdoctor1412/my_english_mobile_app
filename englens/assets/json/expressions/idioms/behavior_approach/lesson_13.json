@@ -1,13 +1,15 @@
 {
+  "id": "640ca39f-1045-48ab-86a5-f48190790703",
   "topic": "behavior_approach",
   "title": "Offensive Behavior",
   "lesson": "lesson_13",
   "word_list": [
     {
-      "word": "[eat] dirt",
+      "id": "3c20fd04-a63e-4e01-aa26-2beea9a862a9",
+      "word": "to [eat] dirt",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZWF0IGRpcnQ&hash=6443861872343b5aff745c74a966604134422d15&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZWF0IGRpcnQ&hash=6443861872343b5aff745c74a966604134422d15&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44698/original/?type=jpeg",
@@ -45,10 +47,11 @@
       ]
     },
     {
-      "word": "[look] down {one's} nose at {sb/sth}",
+      "id": "8addfd19-f83f-46d2-84d8-0a52c9df0df5",
+      "word": "to [look] down {one's} nose at {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbG9vayBkb3duIG9uZSdzIG5vc2UgYXQgc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=aea9b4c08b26b49933d268396bd804d641a4567c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbG9vayBkb3duIG9uZSdzIG5vc2UgYXQgc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=aea9b4c08b26b49933d268396bd804d641a4567c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42538/original/?type=jpeg",
@@ -74,43 +77,28 @@
       ]
     },
     {
+      "id": "8f3bd870-5a8f-452f-9d52-0cc7ab1090eb",
       "word": "near the knuckle",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bmVhciB0aGUga251Y2tsZQ&hash=8365f66cdcdc4da7f2b2a779f35168390c87a977&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nɪr ðə nəəkl",
       "phonetic_am": "https://tts.langeek.co/read?text=bmVhciB0aGUga251Y2tsZQ&hash=8365f66cdcdc4da7f2b2a779f35168390c87a977&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nir dhē nēēkl",
       "img": "https://cdn.langeek.co/photo/46364/original/?type=jpeg",
       "pronunciation": "nˌɪɹ ðə nˈʌkəl",
       "senses": [
         {
           "definition": "(of jokes or remarks) close to the limits of what people can tolerate or find acceptable, particularly if it is offensive or sexually suggestive",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Her sense of humor is always near the knuckle, and she often makes jokes that push the boundaries of politeness."
-            },
-            {
-              "cf": "",
-              "x": "The comedian's jokes were witty but sometimes near the knuckle, causing a few uncomfortable moments in the audience."
-            },
-            {
-              "cf": "",
-              "x": "His comments about his co-workers were getting near the knuckle, making everyone in the office uncomfortable."
-            },
-            {
-              "cf": "",
-              "x": "They walked a fine line between being provocative and near the knuckle with their advertising campaign."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[air] {one's} lungs",
+      "id": "b6f6b51b-7540-4b01-8572-ec42af08fecc",
+      "word": "to [air] {one's} lungs",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWlyIG9uZSdzIGx1bmdz&hash=f430460bb44d1ff4ce11308cbc1df438fcede708&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWlyIG9uZSdzIGx1bmdz&hash=f430460bb44d1ff4ce11308cbc1df438fcede708&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42580/original/?type=jpeg",
@@ -118,28 +106,16 @@
       "senses": [
         {
           "definition": "to speak in a manner that is rude or sexually offensive",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The boss sure aired his lungs when we lost another customer!"
-            },
-            {
-              "cf": "",
-              "x": "You could've just asked Jane to hand you the file; there was no need to air your lungs."
-            },
-            {
-              "cf": "",
-              "x": "He just went to the boss's office, aired his lungs and now he's complaining about losing his job!"
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[give] {sb} (some|any) lip",
+      "id": "a4e8b3e1-50d9-43ae-9113-e2672601ac4d",
+      "word": "to [give] {sb} (some|any) lip",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21lYm9keSBzb21lIGxpcA&hash=0cc54090d9f65b02a943b41c52b15e9d6b417688&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21lYm9keSBzb21lIGxpcA&hash=0cc54090d9f65b02a943b41c52b15e9d6b417688&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42630/original/?type=jpeg",
@@ -147,57 +123,33 @@
       "senses": [
         {
           "definition": "to talk to a person in a way that is rude and shows no respect for them",
-          "examples": [
-            {
-              "cf": "",
-              "x": "And he was not certain, not certain at all, what he'd do if the prisoner gave him any lip or tried to be smart."
-            },
-            {
-              "cf": "",
-              "x": "When the teacher reprimanded him for not completing his assignment, he gave her some lip by arguing that the homework was too difficult."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "e4bece04-177e-489e-abdd-4cfe9fbc99e4",
       "word": "close to home",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Y2xvc2UgdG8gaG9tZQ&hash=f776e4a0985b17f623a1a4166795ebd2f6299178&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kloʊs tu: hoʊm",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xvc2UgdG8gaG9tZQ&hash=f776e4a0985b17f623a1a4166795ebd2f6299178&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "klooos too hooom",
       "img": "https://cdn.langeek.co/photo/42658/original/?type=jpeg",
       "pronunciation": "klˈoʊs tə hˈoʊm",
       "senses": [
         {
           "definition": "resonating deeply with someone's personal experiences, feelings, or beliefs",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The movie's portrayal of war was close to home for many veterans in the audience."
-            },
-            {
-              "cf": "",
-              "x": "His song about losing a loved one brought tears to my eyes - it was so close to home."
-            },
-            {
-              "cf": "",
-              "x": "The story of the refugee's journey hit close to home for me because I have family members who have immigrated to this country."
-            },
-            {
-              "cf": "",
-              "x": "The news about the natural disaster hitting that region hit close to home for the residents who had friends and family there."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[hang] a BA",
+      "id": "f5fc8b7d-918b-4048-bbed-2c513062bbd0",
+      "word": "to [hang] a BA",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGFuZyBhIEJB&hash=297f70a465c3c3fed7a94638a782b71b6714d05f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGFuZyBhIEJB&hash=297f70a465c3c3fed7a94638a782b71b6714d05f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46360/original/?type=jpeg",
@@ -205,20 +157,16 @@
       "senses": [
         {
           "definition": "to express contempt or disrespect to a person by showing one's naked backside to them",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He went to the window and hung a BA—just for the hell of it."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[give|flip] {sb} the finger",
+      "id": "70ebb6fd-da21-44a6-a0fd-1e8ece4f3899",
+      "word": "to [give|flip] {sb} the finger",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21lYm9keSB0aGUgZmluZ2Vy&hash=ac9ff572a941484610e707fdc8eb8ebaefcdf0d0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21lYm9keSB0aGUgZmluZ2Vy&hash=ac9ff572a941484610e707fdc8eb8ebaefcdf0d0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44652/original/?type=jpeg",
@@ -231,10 +179,11 @@
       ]
     },
     {
-      "word": "[have] (a|some) nerve",
+      "id": "9b292158-d8db-4343-b6bb-66a243981ed8",
+      "word": "to [have] (a|some) nerve",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGF2ZSBhIG5lcnZl&hash=4131b8769cc1d2a32bb21249d7057b1739263b5c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGF2ZSBhIG5lcnZl&hash=4131b8769cc1d2a32bb21249d7057b1739263b5c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42438/original/?type=jpeg",
@@ -242,36 +191,16 @@
       "senses": [
         {
           "definition": "to have an attitude that is inappropriate, rude, or too bold",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Jake has a nerve talking back to his mother like that!"
-            },
-            {
-              "cf": "",
-              "x": "She had a nerve to ask for a promotion after just a few months on the job."
-            },
-            {
-              "cf": "",
-              "x": "He certainly has some nerve to critique her work when his own is far from perfect."
-            },
-            {
-              "cf": "",
-              "x": "Despite the controversy, he still has a nerve to defend his actions."
-            },
-            {
-              "cf": "",
-              "x": "The employee had a nerve to question the CEO's decision during the board meeting."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[take] {one's} name in vain",
+      "id": "77d5ffc5-8f39-4a34-a89d-3739924d7bb7",
+      "word": "to [take] {one's} name in vain",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBvbmUncyBuYW1lIGluIHZhaW4&hash=b644423bcc3b6ea9665dbfa3163b947925668161&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBvbmUncyBuYW1lIGluIHZhaW4&hash=b644423bcc3b6ea9665dbfa3163b947925668161&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/17545/original/impolite?type=jpeg",
@@ -289,45 +218,30 @@
       ]
     },
     {
+      "id": "17983fa9-3dc5-4d87-a101-6df728f7f342",
       "word": "close to the bone",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Y2xvc2UgdG8gdGhlIGJvbmU&hash=3108dda10fece9316cb01416d2b38af03050b70b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kloʊs tu: ðə boʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xvc2UgdG8gdGhlIGJvbmU&hash=3108dda10fece9316cb01416d2b38af03050b70b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "klooos too dhē booon",
       "img": "https://cdn.langeek.co/photo/42628/original/?type=jpeg",
       "pronunciation": "klˈoʊs tə ðə bˈoʊn",
       "senses": [
         {
           "definition": "(of a joke, story, remark, etc.) dealing with sensitive or controversial topics that can be uncomfortable or unsettling to hear",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The comedian's jokes about politics were a bit close to the bone for some audience members."
-            },
-            {
-              "cf": "",
-              "x": "Her memoir openly discussed her abuse experience, which was harrowing and close to the bone."
-            },
-            {
-              "cf": "",
-              "x": "The comedian's jokes were a little too close to the bone for some people, and they felt offended."
-            },
-            {
-              "cf": "",
-              "x": "Her comments about my performance were close to the bone, but I knew I needed to hear the honest feedback."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "2a5f7439-5091-4fd6-a4be-1f5bca4a51bf",
       "word": "no-go area",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bm8tZ28gYXJlYQ&hash=40a9204c571680236d5d8c04ddf79302cf54c44e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "noʊ-goʊ ɛ.riə",
       "phonetic_am": "https://tts.langeek.co/read?text=bm8tZ28gYXJlYQ&hash=40a9204c571680236d5d8c04ddf79302cf54c44e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nooo-gooo e.riē",
       "img": "https://cdn.langeek.co/photo/46366/original/?type=jpeg",
       "pronunciation": "nˈoʊɡˌoʊ ˈɛɹiə",
       "senses": [
@@ -359,10 +273,11 @@
       ]
     },
     {
-      "word": "[give] {sb} the bird",
+      "id": "abe7efa7-bfaf-470f-961a-e385ac803683",
+      "word": "to [give] {sb} the bird",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21lYm9keSB0aGUgYmlyZA&hash=c6a8d7a024b7002e1964bc657476de5e58203368&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21lYm9keSB0aGUgYmlyZA&hash=c6a8d7a024b7002e1964bc657476de5e58203368&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46358/original/?type=jpeg",

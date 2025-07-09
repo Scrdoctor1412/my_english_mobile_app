@@ -1,13 +1,15 @@
 {
+  "id": "25a5d42e-3a9b-4e28-b8cd-2332b7c406b8",
   "topic": "everyday_life",
   "title": "Appetite",
   "lesson": "lesson_0",
   "word_list": [
     {
-      "word": "[have] a sweet tooth",
+      "id": "3847b5ba-1d63-43e9-bbc9-27ad5934c4ff",
+      "word": "to [have] a sweet tooth",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGF2ZSBhIHN3ZWV0IHRvb3Ro&hash=7aa6585dba2d2191edd2c9b5fbd2514394b9d44d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGF2ZSBhIHN3ZWV0IHRvb3Ro&hash=7aa6585dba2d2191edd2c9b5fbd2514394b9d44d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -37,47 +39,28 @@
       ]
     },
     {
+      "id": "33802953-add7-49a9-ad05-db63509b856c",
       "word": "hollow leg",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG9sbG93IGxlZw&hash=510091b26ed3461b48b50fd38301d0dab6ac45ef&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɑ.loʊ lɛg",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9sbG93IGxlZw&hash=510091b26ed3461b48b50fd38301d0dab6ac45ef&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "haa.looo leg",
       "img": "",
       "pronunciation": "hˈɑːloʊ lˈɛɡ",
       "senses": [
         {
           "definition": "the capacity or ability to consume an excessive amount of food or drink, particularly alcoholic ones",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The way she drinks on a night out, you'd swear she has hollow legs."
-            },
-            {
-              "cf": "",
-              "x": "My teenage son seems to have a hollow leg; he can devour a pizza and still be hungry for more."
-            },
-            {
-              "cf": "",
-              "x": "No matter how much he eats, he never gains weight; it's like he's got a hollow leg."
-            },
-            {
-              "cf": "",
-              "x": "She consumes ice cream by the pint, and it's a wonder she doesn't gain weight with her hollow leg."
-            },
-            {
-              "cf": "",
-              "x": "At the all-you-can-eat buffet, he piled his plate so high, it was clear he possesses a hollow leg."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "90c141d1-2517-4044-b0b5-6e77d698bed9",
       "word": "the munchies",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIG11bmNoaWVz&hash=f2d305ad95a607893831cdd36ccf52b7063bf657&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIG11bmNoaWVz&hash=f2d305ad95a607893831cdd36ccf52b7063bf657&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -85,28 +68,16 @@
       "senses": [
         {
           "definition": "an abrupt and strong desire to eat something",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After smoking a joint, I always get the munchies and raid the kitchen for snacks."
-            },
-            {
-              "cf": "",
-              "x": "We had a great time watching movies and getting the munchies last night."
-            },
-            {
-              "cf": "",
-              "x": "It's hard to resist the munchies when you've just smoked some cannabis; those potato chips are calling my name."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "5c88e7a0-2a89-47b1-ae2b-962bcf2e9bca",
       "word": "{sb} (can|could) eat a horse",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=c29tZWJvZHkgY2FuIGVhdCBhIGhvcnNl&hash=9c9a8d534e1a0b77ea8801f67879946f9e9dea0a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=c29tZWJvZHkgY2FuIGVhdCBhIGhvcnNl&hash=9c9a8d534e1a0b77ea8801f67879946f9e9dea0a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -114,28 +85,16 @@
       "senses": [
         {
           "definition": "used to say that one is overwhelemed by the sense of hunger and is willing to quench it the first chance one gets",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After a long day of hiking, I'm so hungry I could eat a horse."
-            },
-            {
-              "cf": "",
-              "x": "I haven't had a meal all day; I feel like I could eat a horse."
-            },
-            {
-              "cf": "",
-              "x": "My brother's appetite is astounding; he can eat a horse and still be hungry."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[make] {one's} mouth water",
+      "id": "28d33a2b-2594-4b08-8a28-5c565ff3d0a8",
+      "word": "to [make] {one's} mouth water",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZSBvbmUncyBtb3V0aCB3YXRlcg&hash=775a6c0a30e86e72ff66f29d96615afb07db0c5e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFrZSBvbmUncyBtb3V0aCB3YXRlcg&hash=775a6c0a30e86e72ff66f29d96615afb07db0c5e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/16023/original/delicious?type=jpeg",
@@ -169,10 +128,11 @@
       ]
     },
     {
+      "id": "6214905f-35f1-4905-96be-8caf5d836e6f",
       "word": "{one's} eyes are bigger than {one's} (stomach|belly)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b25lJ3MgZXllcyBhcmUgYmlnZ2VyIHRoYW4gb25lJ3Mgc3RvbWFjaA&hash=b5a2c22e57c8112462abfc5379163af15560cde7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b25lJ3MgZXllcyBhcmUgYmlnZ2VyIHRoYW4gb25lJ3Mgc3RvbWFjaA&hash=b5a2c22e57c8112462abfc5379163af15560cde7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -185,10 +145,11 @@
       ]
     },
     {
-      "word": "[whet] {one's} appetite",
+      "id": "92c099f0-2802-4af1-b719-4800eb851806",
+      "word": "to [whet] {one's} appetite",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2hldCBvbmUncyBhcHBldGl0ZQ&hash=5da78d7680736ae2d7ac556faa648f94c3a8f216&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2hldCBvbmUncyBhcHBldGl0ZQ&hash=5da78d7680736ae2d7ac556faa648f94c3a8f216&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -210,10 +171,11 @@
       ]
     },
     {
-      "word": "[get] stuck (in|into)",
+      "id": "6ef492ca-3a89-4bd8-8d38-9359e2354280",
+      "word": "to [get] stuck (in|into)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IHN0dWNrIGlu&hash=5d912356464f14893a84bd2c7052e634541329c2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IHN0dWNrIGlu&hash=5d912356464f14893a84bd2c7052e634541329c2&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -221,36 +183,16 @@
       "senses": [
         {
           "definition": "to start with much enthusiasm",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Bud got stuck into it straight away and really enjoyed exploring the foam and making different shapes with it."
-            },
-            {
-              "cf": "",
-              "x": "He got stuck into his new job and quickly made a positive impact on the team."
-            },
-            {
-              "cf": "",
-              "x": "Once the opportunity arose, she got stuck into volunteering at the local animal shelter."
-            },
-            {
-              "cf": "",
-              "x": "The students got stuck into their group project, and the results were impressive."
-            },
-            {
-              "cf": "",
-              "x": "After a long week of planning, they were excited to get stuck into their weekend getaway."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "4addf9a8-4d99-4278-802c-c7debe54b010",
       "word": "{sb} could murder {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=c29tZWJvZHkgY291bGQgbXVyZGVyIHNvbWV0aGluZw&hash=9e0ed396717ebeaee919e7fbfc05e2138e710fde&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=c29tZWJvZHkgY291bGQgbXVyZGVyIHNvbWV0aGluZw&hash=9e0ed396717ebeaee919e7fbfc05e2138e710fde&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -258,36 +200,16 @@
       "senses": [
         {
           "definition": "used to tell someone that they are eating or drinking too much of something",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I'm absolutely starving; I could murder a giant plate of spaghetti with meatballs."
-            },
-            {
-              "cf": "",
-              "x": "He's been on a diet for weeks; he could murder a juicy steak."
-            },
-            {
-              "cf": "",
-              "x": "She could murder a slice of that rich, decadent chocolate cake right now."
-            },
-            {
-              "cf": "",
-              "x": "It's so hot outside; I could murder an ice-cold glass of lemonade."
-            },
-            {
-              "cf": "",
-              "x": "After a long day at work, I could murder a hot cup of coffee."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "360a19ea-6623-451e-842d-8993aaedd42f",
       "word": "(as|) full as a tick",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXMgZnVsbCBhcyBhIHRpY2s&hash=d5a5e7f7e6cbe7563ca7b33979645468d9a4421d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXMgZnVsbCBhcyBhIHRpY2s&hash=d5a5e7f7e6cbe7563ca7b33979645468d9a4421d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -321,10 +243,11 @@
       ]
     },
     {
-      "word": "[melt] in {one's} mouth",
+      "id": "709910f9-9c2e-443d-bf80-43e67da09a55",
+      "word": "to [melt] in {one's} mouth",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWVsdCBpbiBvbmUncyBtb3V0aA&hash=323fcb7edb2b7aad771fcf165682940a28873bb3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWVsdCBpbiBvbmUncyBtb3V0aA&hash=323fcb7edb2b7aad771fcf165682940a28873bb3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

@@ -1,13 +1,15 @@
 {
+  "id": "4d4644e6-645c-41cf-8286-fe9837467d1e",
   "topic": "land_transportation",
   "title": "Train and Locomotive Parts",
   "lesson": "lesson_32",
   "word_list": [
     {
+      "id": "0ab5a69c-4577-4673-a202-b82dcf95f346",
       "word": "builder's plate",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVpbGRlcidzIHBsYXRl&hash=8dcdfed32472c0e9964eacbfddf8bdcb1eba84ac&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVpbGRlcidzIHBsYXRl&hash=8dcdfed32472c0e9964eacbfddf8bdcb1eba84ac&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -20,12 +22,13 @@
       ]
     },
     {
+      "id": "cead9ee6-50f1-4487-8daa-4f9a730a863d",
       "word": "cowcatcher",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y293Y2F0Y2hlcg&hash=db1aec9dba413150ee255d6280e1c00b753ed224&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kaʊ.kæ.ʧɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y293Y2F0Y2hlcg&hash=db1aec9dba413150ee255d6280e1c00b753ed224&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaoo.kā.chēr",
       "img": "",
       "pronunciation": "kˈaʊkætʃɚ",
       "senses": [
@@ -57,12 +60,13 @@
       ]
     },
     {
+      "id": "e53f1142-5502-4177-9976-962b9ce5a605",
       "word": "air brake",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWlyIGJyYWtl&hash=3dc8ec0fea74c4438ded27791410b4bd5c5b2e9e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛr breɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=YWlyIGJyYWtl&hash=3dc8ec0fea74c4438ded27791410b4bd5c5b2e9e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "er breik",
       "img": "",
       "pronunciation": "ˈɛɹ bɹˈeɪk",
       "senses": [
@@ -90,49 +94,30 @@
       ]
     },
     {
+      "id": "f13e7b38-9e23-4c81-b72c-cc3607799b82",
       "word": "vacuum brake",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmFjdXVtIGJyYWtl&hash=16dc05f2f85ca3d79d26df2fa60382a5b7123ef7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "væ.kjum breɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=dmFjdXVtIGJyYWtl&hash=16dc05f2f85ca3d79d26df2fa60382a5b7123ef7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vā.kyoom breik",
       "img": "",
       "pronunciation": "vˈækjuːm bɹˈeɪk",
       "senses": [
         {
           "definition": "a braking system that uses suction to apply brakes, commonly found in older railway systems",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Trains equipped with a vacuum brake system rely on air pressure differences to slow down and stop the locomotive."
-            },
-            {
-              "cf": "",
-              "x": "The vacuum brake became a standard feature in railways during the 19th century, improving safety and efficiency in train operations."
-            },
-            {
-              "cf": "",
-              "x": "When the vacuum brake is engaged, it creates a vacuum in the braking system's pipes, allowing atmospheric pressure to push brake blocks against the wheels."
-            },
-            {
-              "cf": "",
-              "x": "Maintenance of the vacuum brake system requires specialized knowledge and regular checks to ensure optimal performance."
-            },
-            {
-              "cf": "",
-              "x": "Modern trains have largely replaced vacuum brakes with more advanced air or electronic braking systems for enhanced reliability and control."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "94dd4fd7-530a-4329-9323-517a2536dab2",
       "word": "emergency brake",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZW1lcmdlbmN5IGJyYWtl&hash=1a71ad7094969160dacbe3d901fb626af91c3a96&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "i.mɜr.ʤən.si breɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=ZW1lcmdlbmN5IGJyYWtl&hash=1a71ad7094969160dacbe3d901fb626af91c3a96&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "i.mēr.jēn.si breik",
       "img": "",
       "pronunciation": "ɪmˈɜːdʒənsi bɹˈeɪk",
       "senses": [
@@ -164,10 +149,11 @@
       ]
     },
     {
+      "id": "1f413834-9818-4475-aac0-98e7c4080383",
       "word": "reverser handle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmV2ZXJzZXIgaGFuZGxl&hash=f75b81215a64a343df3417b8c16350892ef723e1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cmV2ZXJzZXIgaGFuZGxl&hash=f75b81215a64a343df3417b8c16350892ef723e1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -201,12 +187,13 @@
       ]
     },
     {
+      "id": "84690a6f-993c-44ac-bb1f-6a525d2c657a",
       "word": "boiler",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9pbGVy&hash=3f5a5b8a40437e8ed53cf1dbfff1b2e39679367b&lang=en&cache-only=0",
-      "phonetic_text": "bɔɪlər",
+      "phonetic_text": "bɔɪ.lər",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9pbGVy&hash=3f5a5b8a40437e8ed53cf1dbfff1b2e39679367b&lang=en&cache-only=0",
-      "phonetic_am_text": "boylēr",
+      "phonetic_am_text": "bawi.lēr",
       "img": "",
       "pronunciation": "ˈbɔɪlər",
       "senses": [
@@ -238,12 +225,13 @@
       ]
     },
     {
+      "id": "9c3bc6b8-daad-4c87-8bc9-faa1dfaef9c1",
       "word": "coal pusher",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29hbCBwdXNoZXI&hash=571e2be13c6a4cc979a3b5dfcae1022e35f15aeb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "koʊl pʊ.ʃɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29hbCBwdXNoZXI&hash=571e2be13c6a4cc979a3b5dfcae1022e35f15aeb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "koool poo.shēr",
       "img": "",
       "pronunciation": "kˈoʊl pˈʊʃɚ",
       "senses": [
@@ -275,49 +263,30 @@
       ]
     },
     {
+      "id": "77eaa595-6698-4e58-9cce-de74d27fe9d7",
       "word": "feedwater heater",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmVlZHdhdGVyIGhlYXRlcg&hash=b3726db4d742f2d1e31bba697328db1e9821042b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fi:d.wɑ:.tər hi:.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmVlZHdhdGVyIGhlYXRlcg&hash=b3726db4d742f2d1e31bba697328db1e9821042b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fid.vaa.tēr hi.tēr",
       "img": "",
       "pronunciation": "fˈiːdwɔːɾɚ hˈiːɾɚ",
       "senses": [
         {
           "definition": "a device used in power plants to preheat water before it enters the boiler",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Feedwater heaters help improve the efficiency of power plants by recovering waste heat from steam."
-            },
-            {
-              "cf": "",
-              "x": "In many industrial applications, feedwater heaters are crucial for conserving energy and reducing operational costs."
-            },
-            {
-              "cf": "",
-              "x": "The main purpose of a feedwater heater is to raise the temperature of incoming water, which enhances the overall thermal efficiency of the system."
-            },
-            {
-              "cf": "",
-              "x": "Engineers carefully design feedwater heaters to withstand high pressures and temperatures typical of steam cycles."
-            },
-            {
-              "cf": "",
-              "x": "Proper maintenance of feedwater heaters ensures optimal performance and prolongs their operational lifespan."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "e8f60c9a-f3a6-4741-9890-30ca67360882",
       "word": "firebox",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmlyZWJveA&hash=393cce5cbf26c93b8463c3253d882e482dd30593&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "faɪər.bɑ:ks",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmlyZWJveA&hash=393cce5cbf26c93b8463c3253d882e482dd30593&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "faiēr.baaks",
       "img": "",
       "pronunciation": "fˈaɪɚbɑːks",
       "senses": [
@@ -349,49 +318,30 @@
       ]
     },
     {
+      "id": "e22339f0-8ba1-4082-b386-f451a803d735",
       "word": "sandbox",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FuZGJveA&hash=103e073cb5c0ff94bf82337c39bf40bb14abac94&lang=en&cache-only=0",
-      "phonetic_text": "sændbɑks",
+      "phonetic_text": "sænd.bɑ:ks",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FuZGJveA&hash=103e073cb5c0ff94bf82337c39bf40bb14abac94&lang=en&cache-only=0",
-      "phonetic_am_text": "sāndbɑks",
+      "phonetic_am_text": "sānd.baaks",
       "img": "",
       "pronunciation": "ˈsændˌbɑks",
       "senses": [
         {
           "definition": "a container for storing sand, used to improve traction between the wheels of a train and the rails",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Sandboxes in trains are crucial for preventing wheel slippage during adverse weather conditions such as rain or snow."
-            },
-            {
-              "cf": "",
-              "x": "The sandbox releases sand onto the rails when the train's wheels start slipping, enhancing grip and maintaining safe operation."
-            },
-            {
-              "cf": "",
-              "x": "Engineers regularly check and refill sandboxes to ensure they are adequately stocked for any unexpected loss of traction."
-            },
-            {
-              "cf": "",
-              "x": "Older locomotives may have manual controls for releasing sand from the sandbox, whereas modern ones often have automated systems."
-            },
-            {
-              "cf": "",
-              "x": "Without sandboxes, trains would struggle to maintain traction on slippery tracks, potentially causing delays or safety hazards."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "11323234-dc5a-4645-866b-cbdf1b34b513",
       "word": "smokebox",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c21va2Vib3g&hash=2ca1fdb09ee7281d5cc1df92b4f4ca4326759409&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "smoʊk.bɑ:ks",
       "phonetic_am": "https://tts.langeek.co/read?text=c21va2Vib3g&hash=2ca1fdb09ee7281d5cc1df92b4f4ca4326759409&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "smoook.baaks",
       "img": "",
       "pronunciation": "smˈoʊkbɑːks",
       "senses": [
@@ -423,12 +373,13 @@
       ]
     },
     {
+      "id": "d6945263-90ba-475c-a1e4-714c752b7705",
       "word": "tender",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVuZGVy&hash=d1811b8bc8217f25af9085642d29530b61c08ceb&lang=en&cache-only=0",
-      "phonetic_text": "tɛndər",
+      "phonetic_text": "ten.dər",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVuZGVy&hash=d1811b8bc8217f25af9085642d29530b61c08ceb&lang=en&cache-only=0",
-      "phonetic_am_text": "tendēr",
+      "phonetic_am_text": "ten.dēr",
       "img": "",
       "pronunciation": "ˈtendər",
       "senses": [
@@ -460,12 +411,13 @@
       ]
     },
     {
+      "id": "e1af0527-80bf-4095-9252-afc37d91a2ec",
       "word": "train horn",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhaW4gaG9ybg&hash=161685831bbf3b425483413c92ef685347e17ed8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "treɪn hɔrn",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhaW4gaG9ybg&hash=161685831bbf3b425483413c92ef685347e17ed8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trein hawrn",
       "img": "",
       "pronunciation": "tɹˈeɪn hˈɔːɹn",
       "senses": [
@@ -497,14 +449,15 @@
       ]
     },
     {
+      "id": "91b04020-77d6-4b1f-a884-f42ead997520",
       "word": "whistle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2hpc3RsZQ&hash=46269d4f73aa6b425319a578bcb8f763b175666e&lang=en&cache-only=0",
-      "phonetic_text": "wɪsəl",
+      "phonetic_text": "hwɪ.səl",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hpc3RsZQ&hash=46269d4f73aa6b425319a578bcb8f763b175666e&lang=en&cache-only=0",
-      "phonetic_am_text": "wisēl",
+      "phonetic_am_text": "hvi.sēl",
       "img": "",
-      "pronunciation": "ˈhwɪsəɫ/, /ˈwɪsəɫ",
+      "pronunciation": "ˈwɪsəl",
       "senses": [
         {
           "definition": "a device mounted on locomotives and some railcars that emits a loud, high-pitched sound to signal warnings or communicate with personnel and other trains",
@@ -534,12 +487,13 @@
       ]
     },
     {
+      "id": "315df928-7561-4400-94ca-3a5d41098088",
       "word": "ditch light",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGl0Y2ggbGlnaHQ&hash=b2506d92bcc8c078d5e2979d02df8cba7eb2d25c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɪʧ laɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGl0Y2ggbGlnaHQ&hash=b2506d92bcc8c078d5e2979d02df8cba7eb2d25c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dich lait",
       "img": "",
       "pronunciation": "dˈɪtʃ lˈaɪt",
       "senses": [
@@ -571,12 +525,13 @@
       ]
     },
     {
+      "id": "f742d7bb-f175-4823-a8f6-32542130eefc",
       "word": "train wheel",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhaW4gd2hlZWw&hash=2d791a41a8f2eaff7a9dc7bdb34277d8d16e609f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "treɪn wi:l",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhaW4gd2hlZWw&hash=2d791a41a8f2eaff7a9dc7bdb34277d8d16e609f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trein vil",
       "img": "",
       "pronunciation": "tɹˈeɪn wˈiːl",
       "senses": [
@@ -608,47 +563,28 @@
       ]
     },
     {
+      "id": "71886961-0a0e-498b-8e44-5e3121cbe713",
       "word": "bogie",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9naWU&hash=cc82ae85d1f0a4044cd9c5fe2c8a2a0413670c46&lang=en&cache-only=0",
-      "phonetic_text": "bʊgi",
+      "phonetic_text": "bʊ.gi",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9naWU&hash=cc82ae85d1f0a4044cd9c5fe2c8a2a0413670c46&lang=en&cache-only=0",
-      "phonetic_am_text": "bugi",
+      "phonetic_am_text": "boo.gi",
       "img": "",
       "pronunciation": "ˈbʊɡi",
       "senses": [
         {
           "definition": "a set of wheels and axles used in various types of rolling stock, such as freight cars or passenger coaches",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Freight trains rely on sturdy bogies to transport heavy cargo across long distances."
-            },
-            {
-              "cf": "",
-              "x": "Passenger bogies are designed for comfort, with features like shock absorbers to smooth out bumps on the track."
-            },
-            {
-              "cf": "",
-              "x": "The maintenance crew inspects the bogies regularly to ensure they meet safety standards."
-            },
-            {
-              "cf": "",
-              "x": "High-speed trains often utilize specialized bogies to maintain stability at high velocities."
-            },
-            {
-              "cf": "",
-              "x": "The development of lightweight bogies has improved the efficiency of modern railway systems."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "95e2a6a2-10bc-4e48-adb5-cc6b233e5ac6",
       "word": "brakeman's caboose",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJha2VtYW4ncyBjYWJvb3Nl&hash=cc7bfb08290885236efc8611dba2340eb51af8d5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJha2VtYW4ncyBjYWJvb3Nl&hash=cc7bfb08290885236efc8611dba2340eb51af8d5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -661,12 +597,13 @@
       ]
     },
     {
+      "id": "9f53344b-ed5e-4be2-ba19-a123445e17d8",
       "word": "gangway",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2FuZ3dheQ&hash=724f09ca752ede6a15cb64b6f027fa99ea0db507&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gæng.weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2FuZ3dheQ&hash=724f09ca752ede6a15cb64b6f027fa99ea0db507&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gāng.vei",
       "img": "https://cdn.langeek.co/photo/31703/original/?type=jpeg",
       "pronunciation": "ɡˈæŋweɪ",
       "senses": [
@@ -677,12 +614,13 @@
       ]
     },
     {
+      "id": "42d404db-35c5-4605-a6e5-7c1cb726a8a4",
       "word": "compartment",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29tcGFydG1lbnQ&hash=b083a331df8e4973d4585f30f8ced29e76268900&lang=en&cache-only=0",
-      "phonetic_text": "kəmpɑ:rtmənt",
+      "phonetic_text": "kəm.pɑrt.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tcGFydG1lbnQ&hash=b083a331df8e4973d4585f30f8ced29e76268900&lang=en&cache-only=0",
-      "phonetic_am_text": "kēmpaartmēnt",
+      "phonetic_am_text": "kēm.paart.mēnt",
       "img": "https://cdn.langeek.co/photo/23111/original/?type=jpeg",
       "pronunciation": "kəmˈpɑɹtmənt",
       "senses": [
@@ -710,49 +648,30 @@
       ]
     },
     {
+      "id": "7accc758-b980-4fd2-a9c3-f434434dd095",
       "word": "vestibule",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmVzdGlidWxl&hash=ac4c73175e02e5669d0b8f3a74e0a996282f2122&lang=en&cache-only=0",
-      "phonetic_text": "vɛstɪbjul",
+      "phonetic_text": "vɛs.tɪ.bjul",
       "phonetic_am": "https://tts.langeek.co/read?text=dmVzdGlidWxl&hash=ac4c73175e02e5669d0b8f3a74e0a996282f2122&lang=en&cache-only=0",
-      "phonetic_am_text": "vestibyul",
+      "phonetic_am_text": "ves.ti.byool",
       "img": "",
       "pronunciation": "ˈvɛstɪbˌjuɫ",
       "senses": [
         {
           "definition": "a small, enclosed area between train cars where passengers can move from one car to another",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The vestibule of the train was crowded as passengers hurriedly switched between cars during the rush hour."
-            },
-            {
-              "cf": "",
-              "x": "Please wait until the train comes to a complete stop before attempting to open the doors to the vestibule."
-            },
-            {
-              "cf": "",
-              "x": "The conductor reminded everyone to keep the vestibule clear to ensure safe passage through the train."
-            },
-            {
-              "cf": "",
-              "x": "In older trains, the vestibule often lacked air conditioning, making it uncomfortably warm during summer months."
-            },
-            {
-              "cf": "",
-              "x": "Passengers should avoid blocking the vestibule doors to allow others to enter and exit the train smoothly."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "4988156f-98c0-4a29-ac1e-986ddf1ac372",
       "word": "coupling",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291cGxpbmc&hash=3ccfc13cbd76e2fb85e4ea9119d62840e666106e&lang=en&cache-only=0",
-      "phonetic_text": "kʌplɪng",
+      "phonetic_text": "kəp.lɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291cGxpbmc&hash=3ccfc13cbd76e2fb85e4ea9119d62840e666106e&lang=en&cache-only=0",
-      "phonetic_am_text": "kapling",
+      "phonetic_am_text": "kēp.ling",
       "img": "",
       "pronunciation": "ˈkəpɫɪŋ",
       "senses": [
@@ -784,12 +703,13 @@
       ]
     },
     {
+      "id": "595b6420-878c-4345-b170-3d9f3a40c15c",
       "word": "coupling rod",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291cGxpbmcgcm9k&hash=833dcf19feb3e329d664a9993ec3c0d928eb68a6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kəp.lɪng rɑd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291cGxpbmcgcm9k&hash=833dcf19feb3e329d664a9993ec3c0d928eb68a6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kēp.ling raad",
       "img": "",
       "pronunciation": "kˈʌplɪŋ ɹˈɑːd",
       "senses": [
@@ -821,76 +741,36 @@
       ]
     },
     {
+      "id": "26cb84c8-8edf-451a-b1b1-a56296f0c690",
       "word": "cut lever",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3V0IGxldmVy&hash=987e081dab7ad994a609d455dde2fee45aeb81e3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kʌt lɛ.vɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3V0IGxldmVy&hash=987e081dab7ad994a609d455dde2fee45aeb81e3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kat le.vēr",
       "img": "",
       "pronunciation": "kˈʌt lˈɛvɚ",
       "senses": [
         {
           "definition": "a device used by railway personnel to operate the couplers between train cars",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The conductor pulled the cut lever to uncouple the freight cars at the rail yard."
-            },
-            {
-              "cf": "",
-              "x": "It's important to securely lock the cut lever after separating the cars to prevent accidents."
-            },
-            {
-              "cf": "",
-              "x": "Engineers are trained to handle the cut lever safely to avoid damage to the couplers."
-            },
-            {
-              "cf": "",
-              "x": "The cut lever allows for efficient sorting and rearranging of train cars during marshalling operations."
-            },
-            {
-              "cf": "",
-              "x": "Before departing, the crew always checks the condition of the cut lever to ensure it's ready for the next journey."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "ab4e0a87-0640-4fbe-ab09-51d4f30e98a6",
       "word": "pantograph",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFudG9ncmFwaA&hash=db760ab91d8755c356b1beb29d56293b0fe5d7cd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pæn.toʊ.græf",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFudG9ncmFwaA&hash=db760ab91d8755c356b1beb29d56293b0fe5d7cd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pān.tooo.grāf",
       "img": "",
       "pronunciation": "pˈæntəɡɹˌæf",
       "senses": [
         {
           "definition": "a component of an electric train that connects it to overhead wires for drawing power",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The pantograph on an electric train extends upwards to make contact with the overhead wires, ensuring continuous power supply."
-            },
-            {
-              "cf": "",
-              "x": "Engineers design pantographs to withstand varying speeds and weather conditions, maintaining reliable electrical connections."
-            },
-            {
-              "cf": "",
-              "x": "Train operators regularly monitor the pantograph's position and contact pressure to optimize power transmission."
-            },
-            {
-              "cf": "",
-              "x": "Modern trains often feature automated pantographs that adjust automatically to ensure efficient power collection."
-            },
-            {
-              "cf": "",
-              "x": "Maintenance crews inspect pantographs regularly to prevent wear and ensure safe and efficient train operations."
-            }
-          ]
+          "examples": []
         }
       ]
     }

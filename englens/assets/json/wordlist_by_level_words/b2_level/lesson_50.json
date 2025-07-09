@@ -1,10 +1,12 @@
 {
+  "id": "7ac6fe9a-87b6-4a3d-9db9-a9db111e6626",
   "topic": "b2_level",
   "title": "The Weather",
   "lesson": "lesson_50",
   "word_list": [
     {
-      "word": "flash",
+      "id": "6029dbfe-2d2a-4c53-8705-290d3b0089f6",
+      "word": "to flash",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmxhc2g&hash=f2fd74760d8cc973519872ffd3c5375ea498ec8a&lang=en&cache-only=0",
       "phonetic_text": "flæʃ",
@@ -37,12 +39,13 @@
       ]
     },
     {
+      "id": "d101ac4e-d03e-4f76-ad2d-209435d24559",
       "word": "humidity",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aHVtaWRpdHk&hash=1e6771aacda974f5e9ce800f3b5298d44ffd957a&lang=en&cache-only=0",
-      "phonetic_text": "hjumɪdəti",
+      "phonetic_text": "hju.mɪ.də.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=aHVtaWRpdHk&hash=1e6771aacda974f5e9ce800f3b5298d44ffd957a&lang=en&cache-only=0",
-      "phonetic_am_text": "hyumidēti",
+      "phonetic_am_text": "hyoo.mi.dē.ti",
       "img": "https://cdn.langeek.co/photo/22618/original/?type=jpeg",
       "pronunciation": "hjuˈmɪdəti",
       "senses": [
@@ -74,12 +77,13 @@
       ]
     },
     {
+      "id": "5b648b07-b6e7-46cd-8c10-ae8716f81c69",
       "word": "airless",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YWlybGVzcw&hash=5a5c3a5b2c0c6c23fee362edd374f8304600af0f&lang=en&cache-only=0",
-      "phonetic_text": "ɛrləs",
+      "phonetic_text": "ɛr.ləs",
       "phonetic_am": "https://tts.langeek.co/read?text=YWlybGVzcw&hash=5a5c3a5b2c0c6c23fee362edd374f8304600af0f&lang=en&cache-only=0",
-      "phonetic_am_text": "erlēs",
+      "phonetic_am_text": "er.lēs",
       "img": "",
       "pronunciation": "ˈɛɹɫəs",
       "senses": [
@@ -111,12 +115,13 @@
       ]
     },
     {
+      "id": "c8f20938-ee96-4518-8dc9-42b736569dce",
       "word": "seasonal",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c2Vhc29uYWw&hash=936e80860d1788ca3be2cfc3e07ea4ae8de4d809&lang=en&cache-only=0",
-      "phonetic_text": "si:zənəl",
+      "phonetic_text": "si.zə.nəl",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Vhc29uYWw&hash=936e80860d1788ca3be2cfc3e07ea4ae8de4d809&lang=en&cache-only=0",
-      "phonetic_am_text": "seezēnēl",
+      "phonetic_am_text": "si.zē.nēl",
       "img": "https://cdn.langeek.co/photo/22556/original/?type=jpeg",
       "pronunciation": "ˈsizənəɫ",
       "senses": [
@@ -164,13 +169,14 @@
       ]
     },
     {
+      "id": "202c4c23-3e47-41f6-8040-1ee1cc1947fe",
       "word": "falling",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZmFsbGluZw&hash=dc00b0d28cde538d6c37788010c5079dc7675e00&lang=en&cache-only=0",
-      "phonetic_text": "fɑ:lɪng",
+      "phonetic_text": "fɑ.lɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFsbGluZw&hash=dc00b0d28cde538d6c37788010c5079dc7675e00&lang=en&cache-only=0",
-      "phonetic_am_text": "faaling",
-      "img": "https://cdn.langeek.co/photo/22943/original/?type=jpeg",
+      "phonetic_am_text": "faa.ling",
+      "img": "https://cdn.langeek.co/photo/61472/original/?type=jpeg",
       "pronunciation": "ˈfɑɫɪŋ",
       "senses": [
         {
@@ -180,12 +186,13 @@
       ]
     },
     {
+      "id": "804ff2fa-8c04-43da-abf3-364d0d4e5f80",
       "word": "rising",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cmlzaW5n&hash=5cae1b1da720a4e5e4c9058958a104dcb6542ac0&lang=en&cache-only=0",
-      "phonetic_text": "raɪzɪng",
+      "phonetic_text": "raɪ.zɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=cmlzaW5n&hash=5cae1b1da720a4e5e4c9058958a104dcb6542ac0&lang=en&cache-only=0",
-      "phonetic_am_text": "raizing",
+      "phonetic_am_text": "rai.zing",
       "img": "https://cdn.langeek.co/photo/22945/original/?type=jpeg",
       "pronunciation": "ˈɹaɪzɪŋ",
       "senses": [
@@ -196,12 +203,13 @@
       ]
     },
     {
+      "id": "3e1f843a-c716-4eca-9f6c-27e8e1084eec",
       "word": "changeable",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y2hhbmdlYWJsZQ&hash=220794e45697bad59310d3094a892a95271d322b&lang=en&cache-only=0",
-      "phonetic_text": "ʧeɪnʤəbəl",
+      "phonetic_text": "ʧeɪn.ʤə.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hhbmdlYWJsZQ&hash=220794e45697bad59310d3094a892a95271d322b&lang=en&cache-only=0",
-      "phonetic_am_text": "cheinjēbēl",
+      "phonetic_am_text": "chein.jē.bēl",
       "img": "https://cdn.langeek.co/photo/22941/original/?type=jpeg",
       "pronunciation": "ˈtʃeɪndʒəbəɫ",
       "senses": [
@@ -233,12 +241,13 @@
       ]
     },
     {
+      "id": "7e4d649d-8b38-4b05-a58b-31fc65162386",
       "word": "cloudless",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y2xvdWRsZXNz&hash=58a64f747bc23441f40551fd8c03d45d10f06057&lang=en&cache-only=0",
-      "phonetic_text": "klaʊdləs",
+      "phonetic_text": "klaʊd.ləs",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xvdWRsZXNz&hash=58a64f747bc23441f40551fd8c03d45d10f06057&lang=en&cache-only=0",
-      "phonetic_am_text": "klawdlēs",
+      "phonetic_am_text": "klaood.lēs",
       "img": "https://cdn.langeek.co/photo/48683/original/fine?type=jpeg",
       "pronunciation": "ˈkɫaʊdɫəs",
       "senses": [
@@ -266,12 +275,13 @@
       ]
     },
     {
+      "id": "55f546f8-7753-47ca-866d-3e2ce0eec4da",
       "word": "heavy",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aGVhdnk&hash=35f2737e54017ea38f0052324518c98a6a47c1e4&lang=en&cache-only=0",
-      "phonetic_text": "hɛvi",
+      "phonetic_text": "hɛ.vi",
       "phonetic_am": "https://tts.langeek.co/read?text=aGVhdnk&hash=35f2737e54017ea38f0052324518c98a6a47c1e4&lang=en&cache-only=0",
-      "phonetic_am_text": "hevi",
+      "phonetic_am_text": "he.vi",
       "img": "https://cdn.langeek.co/photo/22552/original/?type=jpeg",
       "pronunciation": "ˈhɛvi",
       "senses": [
@@ -303,12 +313,13 @@
       ]
     },
     {
+      "id": "57ae5cc4-ad0a-4d54-9c3d-42795968f71c",
       "word": "regional",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cmVnaW9uYWw&hash=0d39e019a7e1a7e737159472706a1191a03601b4&lang=en&cache-only=0",
-      "phonetic_text": "ri:ʤənəl",
+      "phonetic_text": "ri.ʤə.nəl",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVnaW9uYWw&hash=0d39e019a7e1a7e737159472706a1191a03601b4&lang=en&cache-only=0",
-      "phonetic_am_text": "reejēnēl",
+      "phonetic_am_text": "ri.jē.nēl",
       "img": "https://cdn.langeek.co/photo/48499/original/?type=jpeg",
       "pronunciation": "ˈɹidʒənəɫ",
       "senses": [
@@ -336,14 +347,15 @@
       ]
     },
     {
+      "id": "e3ce3333-ecbd-42fc-ae75-69198c100860",
       "word": "stable",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c3RhYmxl&hash=0e994ae64d736eae6f6f9f6cda6d814939bef921&lang=en&cache-only=0",
-      "phonetic_text": "steɪbəl",
+      "phonetic_text": "steɪ.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RhYmxl&hash=0e994ae64d736eae6f6f9f6cda6d814939bef921&lang=en&cache-only=0",
-      "phonetic_am_text": "steibēl",
+      "phonetic_am_text": "stei.bēl",
       "img": "https://cdn.langeek.co/photo/22947/original/?type=jpeg",
-      "pronunciation": "ˈsteɪbəɫ",
+      "pronunciation": "ˈsteɪbəl",
       "senses": [
         {
           "definition": "remaining constant or steady over time",
@@ -373,12 +385,13 @@
       ]
     },
     {
+      "id": "40a0dc6a-2de6-45e3-be7b-f8299b3da062",
       "word": "steady",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c3RlYWR5&hash=e6e5b16786fa69e8f57dea7b15d06726a2d0ef52&lang=en&cache-only=0",
-      "phonetic_text": "stɛdi",
+      "phonetic_text": "stɛ.di",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RlYWR5&hash=e6e5b16786fa69e8f57dea7b15d06726a2d0ef52&lang=en&cache-only=0",
-      "phonetic_am_text": "stedi",
+      "phonetic_am_text": "ste.di",
       "img": "https://cdn.langeek.co/photo/22949/original/?type=jpeg",
       "pronunciation": "ˈstɛdi",
       "senses": [
@@ -410,12 +423,13 @@
       ]
     },
     {
+      "id": "15fdde2a-bc98-4abb-a9ac-5f90aebbc9a4",
       "word": "tropical",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dHJvcGljYWw&hash=b0f7196a5f14bdbd5385c350fe882b8957764aa9&lang=en&cache-only=0",
-      "phonetic_text": "trɑ:pɪkəl",
+      "phonetic_text": "trɑ.pɪ.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJvcGljYWw&hash=b0f7196a5f14bdbd5385c350fe882b8957764aa9&lang=en&cache-only=0",
-      "phonetic_am_text": "traapikēl",
+      "phonetic_am_text": "traa.pi.kēl",
       "img": "",
       "pronunciation": "ˈtɹɑpɪkəɫ",
       "senses": [
@@ -447,12 +461,13 @@
       ]
     },
     {
+      "id": "f9e95fd3-4c3d-4e88-8852-f32c407ae7e4",
       "word": "windless",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=d2luZGxlc3M&hash=c8600b8ad5e756ebc6a982e98366e71f9a024c8c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɪnd.ləs",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luZGxlc3M&hash=c8600b8ad5e756ebc6a982e98366e71f9a024c8c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vind.lēs",
       "img": "https://cdn.langeek.co/photo/22626/original/?type=jpeg",
       "pronunciation": "wˈɪndləs",
       "senses": [
@@ -484,6 +499,7 @@
       ]
     },
     {
+      "id": "f028fce8-4b5c-4b21-9ba6-32deb1e14c62",
       "word": "chill",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hpbGw&hash=3fcb96c054893ce28db855595df155886d80bfe5&lang=en&cache-only=0",
@@ -521,12 +537,13 @@
       ]
     },
     {
+      "id": "eec4e102-72b3-4d97-955c-744a78f9dba1",
       "word": "warmth",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2FybXRo&hash=90a67fdec431e88aadc3e3001269532bfeb1531d&lang=en&cache-only=0",
-      "phonetic_text": "wɔ:rmθ",
+      "phonetic_text": "wɔrmθ",
       "phonetic_am": "https://tts.langeek.co/read?text=d2FybXRo&hash=90a67fdec431e88aadc3e3001269532bfeb1531d&lang=en&cache-only=0",
-      "phonetic_am_text": "waawrmth",
+      "phonetic_am_text": "vawrmth",
       "img": "https://cdn.langeek.co/photo/22624/original/?type=jpeg",
       "pronunciation": "ˈwɔɹmθ",
       "senses": [
@@ -537,12 +554,13 @@
       ]
     },
     {
+      "id": "18f5d412-b5bc-41ee-8b33-8a65df2b7306",
       "word": "frostbite",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnJvc3RiaXRl&hash=7627b33478b78b8c7a2c6c91e87133b3af53b7e4&lang=en&cache-only=0",
-      "phonetic_text": "frɔ:stbaɪt",
+      "phonetic_text": "frɔst.baɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJvc3RiaXRl&hash=7627b33478b78b8c7a2c6c91e87133b3af53b7e4&lang=en&cache-only=0",
-      "phonetic_am_text": "fraawstbait",
+      "phonetic_am_text": "frawst.bait",
       "img": "https://cdn.langeek.co/photo/22550/original/?type=jpeg",
       "pronunciation": "ˈfɹɔstˌbaɪt",
       "senses": [
@@ -570,102 +588,227 @@
       ]
     },
     {
+      "id": "2bade232-76db-4e41-96b0-476c2aa642a3",
       "word": "frosty",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZnJvc3R5&hash=c1feb34f9e1b231c8095cbed7d9557bedf1d145c&lang=en&cache-only=0",
-      "phonetic_text": "frɔ:sti",
+      "phonetic_text": "frɔs.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJvc3R5&hash=c1feb34f9e1b231c8095cbed7d9557bedf1d145c&lang=en&cache-only=0",
-      "phonetic_am_text": "fraawsti",
+      "phonetic_am_text": "fraws.ti",
       "img": "https://cdn.langeek.co/photo/17321/original/freezing?type=jpeg",
       "pronunciation": "ˈfɹɔsti",
       "senses": [
         {
           "definition": "(of the weather) having extremely cold temperatures that cause thin layers of ice to form on surfaces",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "They bundled up in warm coats and scarves to brave the frosty morning air."
+            },
+            {
+              "cf": "",
+              "x": "The frosty temperatures made the pond freeze solid."
+            },
+            {
+              "cf": "",
+              "x": "It was too frosty to play outside without a jacket."
+            },
+            {
+              "cf": "",
+              "x": "The car windows were frosty and hard to scrape."
+            },
+            {
+              "cf": "",
+              "x": "The ground was frosty from the overnight chill."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "4a5fd65e-78d9-493e-a16f-e411d93a5cb3",
       "word": "heatstroke",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGVhdHN0cm9rZQ&hash=191b72a5bbcf7426c2eb959701988c5bed12c96f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hit.stroʊk",
       "phonetic_am": "https://tts.langeek.co/read?text=aGVhdHN0cm9rZQ&hash=191b72a5bbcf7426c2eb959701988c5bed12c96f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hit.stroook",
       "img": "https://cdn.langeek.co/photo/22616/original/?type=jpeg",
       "pronunciation": "hˈiːtstɹoʊk",
       "senses": [
         {
           "definition": "a serious condition that happens when the body gets too hot due to a lengthly exposure to high temperature",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She was rushed to the hospital after suffering from heatstroke during the marathon."
+            },
+            {
+              "cf": "",
+              "x": "Symptoms of heatstroke can include a high body temperature and rapid heartbeat."
+            },
+            {
+              "cf": "",
+              "x": "It is important to stay hydrated to prevent heatstroke on hot days."
+            },
+            {
+              "cf": "",
+              "x": "He collapsed from heatstroke while working in the sun for hours."
+            },
+            {
+              "cf": "",
+              "x": "Seeking shade and cooling down immediately can help treat heatstroke."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a4bcda47-db72-4a27-a8ae-7b1a28e6e1ac",
       "word": "dry season",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJ5IHNlYXNvbg&hash=16d49228ea23d35c7bdb77c04b69996a24e58dc0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "draɪ si:.sʌn",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJ5IHNlYXNvbg&hash=16d49228ea23d35c7bdb77c04b69996a24e58dc0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "drai si.san",
       "img": "https://cdn.langeek.co/photo/22608/original/?type=jpeg",
       "pronunciation": "dɹˈaɪ sˈiːzən",
       "senses": [
         {
           "definition": "a season during which there is no rain",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The dry season in the region lasts for several months, affecting crop growth."
+            },
+            {
+              "cf": "",
+              "x": "Many animals migrate during the dry season in search of water sources."
+            },
+            {
+              "cf": "",
+              "x": "People prepare for the dry season by conserving water and harvesting rainwater."
+            },
+            {
+              "cf": "",
+              "x": "Farmers often plan their planting schedules around the dry season."
+            },
+            {
+              "cf": "",
+              "x": "Dust storms can occur more frequently during the dry season."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "46fce61b-8e17-4130-b324-308458a6ed67",
       "word": "dust storm",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHVzdCBzdG9ybQ&hash=e8da0cc76bfcda3d3ee5b177bb9f5964005407c2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dʌst stɔrm",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHVzdCBzdG9ybQ&hash=e8da0cc76bfcda3d3ee5b177bb9f5964005407c2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dast stawrm",
       "img": "https://cdn.langeek.co/photo/22610/original/?type=jpeg",
       "pronunciation": "dˈʌst stˈoːɹm",
       "senses": [
         {
           "definition": "strong winds that lift up clouds of soil or dust, reducing visibility and potentially causing damage",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The desert experienced a severe dust storm, obscuring the sun and forcing residents indoors."
+            },
+            {
+              "cf": "",
+              "x": "Pilots were warned of a dust storm approaching the airport, prompting delays and diversions."
+            },
+            {
+              "cf": "",
+              "x": "The dust storm swept across the plains, leaving a layer of fine sand on everything in its path."
+            },
+            {
+              "cf": "",
+              "x": "Drivers on the highway pulled over to wait out the dust storm, unable to see more than a few feet ahead."
+            },
+            {
+              "cf": "",
+              "x": "Meteorologists issued warnings for the region, advising people to secure loose objects before the dust storm arrived."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "d0ba6da1-487d-4564-8319-7a30c4c3b619",
       "word": "flooding",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zmxvb2Rpbmc&hash=82934076d73e810bd7798a0974990fc855c8959f&lang=en&cache-only=0",
-      "phonetic_text": "flʌdɪng",
+      "phonetic_text": "flə.dɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmxvb2Rpbmc&hash=82934076d73e810bd7798a0974990fc855c8959f&lang=en&cache-only=0",
-      "phonetic_am_text": "flading",
+      "phonetic_am_text": "flē.ding",
       "img": "https://cdn.langeek.co/photo/22612/original/?type=jpeg",
       "pronunciation": "ˈfɫədɪŋ",
       "senses": [
         {
           "definition": "the fact or presence of water covering a part of land that is typically dry",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The heavy rain led to severe flooding in low-lying areas near the river."
+            },
+            {
+              "cf": "",
+              "x": "Flash flooding in urban areas can cause traffic disruptions and property damage."
+            },
+            {
+              "cf": "",
+              "x": "The town's flood defenses were overwhelmed by the rapid onset of flooding."
+            },
+            {
+              "cf": "",
+              "x": "Farmers faced significant losses due to the flooding of their fields during the monsoon season."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "bc889626-eed8-4e89-885b-f80018acc44f",
       "word": "frost",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnJvc3Q&hash=ce22842b27bc0a2c829e34180dd686fec9cd9b4d&lang=en&cache-only=0",
-      "phonetic_text": "frɔ:st",
+      "phonetic_text": "frɔst",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJvc3Q&hash=ce22842b27bc0a2c829e34180dd686fec9cd9b4d&lang=en&cache-only=0",
-      "phonetic_am_text": "fraawst",
+      "phonetic_am_text": "frawst",
       "img": "https://cdn.langeek.co/photo/22614/original/?type=jpeg",
       "pronunciation": "ˈfɹɔst",
       "senses": [
         {
           "definition": "a weather condition during which the temperature drops below the freezing point and thin layers of ice are formed on the surfaces",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The early frost caught many farmers off guard this season."
+            },
+            {
+              "cf": "",
+              "x": "The frost caused the farmer to cover his crops to prevent damage."
+            },
+            {
+              "cf": "",
+              "x": "The frost made the air feel crisp and refreshing as they walked outside."
+            },
+            {
+              "cf": "",
+              "x": "He knew that a hard frost was coming, so he brought the plants indoors."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "282557ca-6700-4d98-a035-ca77885f1412",
       "word": "mist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWlzdA&hash=f495d7570ea873e24f6c1ff40c6755dad3e0e903&lang=en&cache-only=0",
@@ -703,12 +846,13 @@
       ]
     },
     {
+      "id": "a42127b9-daad-49c2-8df5-8d011b0379cb",
       "word": "rainbow",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFpbmJvdw&hash=c6841bfc14fa34b6f9dcac6fe89615d5080b69ea&lang=en&cache-only=0",
-      "phonetic_text": "reɪnboʊ",
+      "phonetic_text": "reɪn.baʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=cmFpbmJvdw&hash=c6841bfc14fa34b6f9dcac6fe89615d5080b69ea&lang=en&cache-only=0",
-      "phonetic_am_text": "reinbow",
+      "phonetic_am_text": "rein.baoo",
       "img": "https://cdn.langeek.co/photo/51096/original/?type=jpeg",
       "pronunciation": "ˈɹeɪnˌboʊ",
       "senses": [
@@ -736,12 +880,13 @@
       ]
     },
     {
+      "id": "628f6f51-431c-418e-ac79-7f18f7c6110c",
       "word": "tsunami",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHN1bmFtaQ&hash=6c350689b6222321ac1b095ab27b490824b03548&lang=en&cache-only=0",
-      "phonetic_text": "tsunɑ:mi",
+      "phonetic_text": "su.nɑ.mi",
       "phonetic_am": "https://tts.langeek.co/read?text=dHN1bmFtaQ&hash=6c350689b6222321ac1b095ab27b490824b03548&lang=en&cache-only=0",
-      "phonetic_am_text": "tsunaami",
+      "phonetic_am_text": "soo.naa.mi",
       "img": "https://cdn.langeek.co/photo/22951/original/?type=jpeg",
       "pronunciation": "suˈnɑmi/, /tsuˈnɑmi",
       "senses": [
@@ -773,12 +918,13 @@
       ]
     },
     {
+      "id": "86ae1404-4849-4901-86a2-d693aad01522",
       "word": "typhoon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHlwaG9vbg&hash=dfd51a8d08e4d2b7e3c0261d6948a88311a23680&lang=en&cache-only=0",
-      "phonetic_text": "taɪfu:n",
+      "phonetic_text": "taɪ.fun",
       "phonetic_am": "https://tts.langeek.co/read?text=dHlwaG9vbg&hash=dfd51a8d08e4d2b7e3c0261d6948a88311a23680&lang=en&cache-only=0",
-      "phonetic_am_text": "taifoon",
+      "phonetic_am_text": "tai.foon",
       "img": "https://cdn.langeek.co/photo/51342/original/?type=jpeg",
       "pronunciation": "ˌtaɪˈfun",
       "senses": [
@@ -810,10 +956,11 @@
       ]
     },
     {
-      "word": "[rain] cats and dogs",
+      "id": "98708596-2d58-4f0e-8865-a35f1f64f911",
+      "word": "to [rain] cats and dogs",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmFpbiBjYXRzIGFuZCBkb2dz&hash=b1f0b4e1ce1675afc40b7eee825505519f0ad402&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmFpbiBjYXRzIGFuZCBkb2dz&hash=b1f0b4e1ce1675afc40b7eee825505519f0ad402&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -847,12 +994,13 @@
       ]
     },
     {
+      "id": "5e4e6ec9-3008-4b5b-8a63-6b877f2e4b42",
       "word": "shadow",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2hhZG93&hash=d0df5ffec9196f2f8639f33c7160fa85d5dc6905&lang=en&cache-only=0",
-      "phonetic_text": "ʃædoʊ",
+      "phonetic_text": "ʃæ.doʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hhZG93&hash=d0df5ffec9196f2f8639f33c7160fa85d5dc6905&lang=en&cache-only=0",
-      "phonetic_am_text": "shādow",
+      "phonetic_am_text": "shā.dooo",
       "img": "https://cdn.langeek.co/photo/20477/original/shade?type=jpeg",
       "pronunciation": "ˈʃæˌdoʊ",
       "senses": [
@@ -884,34 +1032,78 @@
       ]
     },
     {
+      "id": "8e3f870e-58ca-459a-9bfd-2eb8b0af06a6",
       "word": "overcast",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=b3ZlcmNhc3Q&hash=db046c36572e864af923b30ec05d9e9239969570&lang=en&cache-only=0",
-      "phonetic_text": "oʊvərkæst",
+      "phonetic_text": "oʊ.vɜr.kæst",
       "phonetic_am": "https://tts.langeek.co/read?text=b3ZlcmNhc3Q&hash=db046c36572e864af923b30ec05d9e9239969570&lang=en&cache-only=0",
-      "phonetic_am_text": "owvērkāst",
+      "phonetic_am_text": "ooo.vēr.kāst",
       "img": "",
       "pronunciation": "ˈoʊvɝˌkæst",
       "senses": [
         {
           "definition": "(of weather or the sky) filled with a lot of dark clouds",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Today's forecast predicts an overcast sky, with little chance of sunshine."
+            },
+            {
+              "cf": "",
+              "x": "The picnic was canceled due to the overcast weather, threatening rain."
+            },
+            {
+              "cf": "",
+              "x": "The overcast morning gradually gave way to clearing skies in the afternoon."
+            },
+            {
+              "cf": "",
+              "x": "The morning dawned gray and overcast, casting a gloomy mood over the city."
+            },
+            {
+              "cf": "",
+              "x": "We decided to postpone our hike because the sky was completely overcast, and a storm seemed imminent."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "db1b7395-4820-48f6-9532-08803203f1a8",
       "word": "thunderbolt",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGh1bmRlcmJvbHQ&hash=9b2bcf0044521fe0b59fc79e65973c7f51c68bcb&lang=en&cache-only=0",
-      "phonetic_text": "θʌndərbɔlt",
+      "phonetic_text": "θʌn.dər.boʊlt",
       "phonetic_am": "https://tts.langeek.co/read?text=dGh1bmRlcmJvbHQ&hash=9b2bcf0044521fe0b59fc79e65973c7f51c68bcb&lang=en&cache-only=0",
-      "phonetic_am_text": "thandērbawlt",
+      "phonetic_am_text": "than.dēr.booolt",
       "img": "https://cdn.langeek.co/photo/51098/original/thunder?type=jpeg",
       "pronunciation": "ˈθəndɝˌbɔɫt",
       "senses": [
         {
           "definition": "a flash of lightning accompanied by the sound of thunder at once, which strikes a person or object",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The thunderbolt struck the tree, splitting it in half."
+            },
+            {
+              "cf": "",
+              "x": "The thunderbolt illuminated the sky, followed closely by a deafening clap of thunder."
+            },
+            {
+              "cf": "",
+              "x": "The thunderbolt startled the children, who had never heard such a loud noise before."
+            },
+            {
+              "cf": "",
+              "x": "The thunderbolt knocked out power to the entire neighborhood during the storm."
+            },
+            {
+              "cf": "",
+              "x": "The thunderbolt hit the ground just a few meters away, leaving a smoking crater."
+            }
+          ]
         }
       ]
     }

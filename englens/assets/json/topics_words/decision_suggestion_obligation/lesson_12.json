@@ -1,15 +1,17 @@
 {
+  "id": "41f308e9-b433-4148-806c-6898be8a777d",
   "topic": "decision_suggestion_obligation",
   "title": "Advice and Counsel",
   "lesson": "lesson_12",
   "word_list": [
     {
+      "id": "488619ff-ab41-49e9-a3aa-e386e6ba73d6",
       "word": "opinion",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3Bpbmlvbg&hash=f8b436069cf82998438ee611ac75bb8ba71edbd3&lang=en&cache-only=0",
-      "phonetic_text": "əpɪnjən",
+      "phonetic_text": "ə.pɪn.jən",
       "phonetic_am": "https://tts.langeek.co/read?text=b3Bpbmlvbg&hash=f8b436069cf82998438ee611ac75bb8ba71edbd3&lang=en&cache-only=0",
-      "phonetic_am_text": "ēpinyēn",
+      "phonetic_am_text": "ē.pin.yēn",
       "img": "",
       "pronunciation": "əˈpɪnjən",
       "senses": [
@@ -20,12 +22,13 @@
       ]
     },
     {
+      "id": "70b68b2e-8477-48c4-a6fd-eb20db89b736",
       "word": "oracle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3JhY2xl&hash=fdd7fca8cd775e64a62dfbf281fe5cbb39c672ff&lang=en&cache-only=0",
-      "phonetic_text": "ɔ:rəkəl",
+      "phonetic_text": "ɔ.rə.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=b3JhY2xl&hash=fdd7fca8cd775e64a62dfbf281fe5cbb39c672ff&lang=en&cache-only=0",
-      "phonetic_am_text": "aawrēkēl",
+      "phonetic_am_text": "aw.rē.kēl",
       "img": "",
       "pronunciation": "ˈɔɹəkəɫ",
       "senses": [
@@ -36,10 +39,11 @@
       ]
     },
     {
+      "id": "774e6fc1-0e3e-4d84-9143-0fa8a134d9fa",
       "word": "ought to",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=b3VnaHQgdG8&hash=3a0ff9200c91e72c30d610078b1c41a4cd80f142&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b3VnaHQgdG8&hash=3a0ff9200c91e72c30d610078b1c41a4cd80f142&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -52,10 +56,11 @@
       ]
     },
     {
+      "id": "db12f3fd-51bd-412a-aa81-f2815afeadef",
       "word": "Pointer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=UG9pbnRlcg&hash=ce41791a88fed2cc495d6d8aed78cf6b7ff3c7af&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=UG9pbnRlcg&hash=ce41791a88fed2cc495d6d8aed78cf6b7ff3c7af&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -68,28 +73,51 @@
       ]
     },
     {
-      "word": "preach",
+      "id": "f177c7fe-020f-41f0-a250-bf3f67d43cab",
+      "word": "to preach",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJlYWNo&hash=8010fe7128cf351a1a859984dd9c1a62d6553071&lang=en&cache-only=0",
-      "phonetic_text": "pri:ʧ",
+      "phonetic_text": "priʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJlYWNo&hash=8010fe7128cf351a1a859984dd9c1a62d6553071&lang=en&cache-only=0",
-      "phonetic_am_text": "preech",
+      "phonetic_am_text": "prich",
       "img": "",
-      "pronunciation": "ˈpɹitʃ",
+      "pronunciation": "priːʧ",
       "senses": [
         {
           "definition": "to give advice to people about what they should or should not do in a way that might annoy or bore them",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He tended to preach about the importance of healthy eating and exercise, often lecturing his friends and family during gatherings."
+            },
+            {
+              "cf": "",
+              "x": "The motivational speaker preached about the power of positivity, urging the audience to embrace optimism in their daily lives."
+            },
+            {
+              "cf": "",
+              "x": "She found herself annoyed when her coworker started to preach about the benefits of a vegan lifestyle during lunch breaks."
+            },
+            {
+              "cf": "",
+              "x": "The teacher warned the students not to preach about their political beliefs during class discussions, emphasizing the importance of respectful dialogue."
+            },
+            {
+              "cf": "",
+              "x": "He annoyed his friends with his tendency to preach about the dangers of technology and social media, urging them to disconnect and live in the moment."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "57fa9762-e23c-44da-b7a2-c0b1cfa6e8fa",
       "word": "preachy",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cHJlYWNoeQ&hash=45cdbc931d6a9b8382fed6e389b5cdb0bfd744d0&lang=en&cache-only=0",
-      "phonetic_text": "pri:ʧi",
+      "phonetic_text": "pri.ʧi",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJlYWNoeQ&hash=45cdbc931d6a9b8382fed6e389b5cdb0bfd744d0&lang=en&cache-only=0",
-      "phonetic_am_text": "preechi",
+      "phonetic_am_text": "pri.chi",
       "img": "",
       "pronunciation": "ˈpɹitʃi",
       "senses": [
@@ -100,62 +128,133 @@
       ]
     },
     {
-      "word": "proffer",
+      "id": "fcb64fbb-dbd0-4423-897c-80daf99d9570",
+      "word": "to proffer",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJvZmZlcg&hash=a88a3ca544efc3d59ba48136cf40f7cb7b855a70&lang=en&cache-only=0",
-      "phonetic_text": "prɑ:fər",
+      "phonetic_text": "prɑ.fɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJvZmZlcg&hash=a88a3ca544efc3d59ba48136cf40f7cb7b855a70&lang=en&cache-only=0",
-      "phonetic_am_text": "praafēr",
+      "phonetic_am_text": "praa.fēr",
       "img": "",
       "pronunciation": "ˈpɹɑfɝ",
       "senses": [
         {
           "definition": "‌to offer an explanation, advice, or one's opinion on something",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Despite his reservations, John proffered his opinion on the matter, hoping to contribute to the discussion."
+            },
+            {
+              "cf": "",
+              "x": "Sarah proffered her advice on how to handle the situation, drawing from her years of experience in the industry."
+            },
+            {
+              "cf": "",
+              "x": "The manager proffered constructive feedback to the team."
+            },
+            {
+              "cf": "",
+              "x": "The therapist proffered gentle guidance and support to the patient navigating through a difficult period in their life."
+            },
+            {
+              "cf": "",
+              "x": "As a seasoned traveler, Emily proffered suggestions for itinerary planning and sightseeing to her friends visiting from abroad."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "recommend",
+      "id": "149c45ba-3f0b-4223-9d57-da7b470a719a",
+      "word": "to recommend",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVjb21tZW5k&hash=0db77536fa6ceaa0572ce500d2f6227293729861&lang=en&cache-only=0",
-      "phonetic_text": "rɛkəmɛnd",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVjb21tZW5k&hash=0db77536fa6ceaa0572ce500d2f6227293729861&lang=en&cache-only=0",
-      "phonetic_am_text": "rekēmend",
+      "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43206/original/?type=jpeg",
-      "pronunciation": "ˌɹɛkəˈmɛnd",
+      "pronunciation": "ˌrɛkəˈmɛnd",
       "senses": [
         {
           "definition": "to suggest a specific course of action",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The doctor will recommend a specific treatment plan to address the patient's medical condition."
+            },
+            {
+              "cf": "",
+              "x": "The teacher is likely to recommend additional study materials to help the students prepare for the exam."
+            },
+            {
+              "cf": "",
+              "x": "The nutritionist will recommend a balanced diet to improve the client's overall health."
+            },
+            {
+              "cf": "",
+              "x": "The financial advisor recommended diversifying my investment portfolio to minimize risk and maximize returns."
+            },
+            {
+              "cf": "",
+              "x": "The fitness trainer recommended incorporating strength training into my workout routine."
+            },
+            {
+              "cf": "",
+              "x": "The doctor recommended that the patient increase their intake of fruits and vegetables to improve their overall health."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "2699797c-9f68-4a1e-a63e-2e00b5d71fb4",
       "word": "recommendation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVjb21tZW5kYXRpb24&hash=9d61711198a36cebe3c234499f590995f5480ea6&lang=en&cache-only=0",
-      "phonetic_text": "rɛkəməndeɪʃən",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVjb21tZW5kYXRpb24&hash=9d61711198a36cebe3c234499f590995f5480ea6&lang=en&cache-only=0",
-      "phonetic_am_text": "rekēmēndeishēn",
+      "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/27696/original/?type=jpeg",
       "pronunciation": "ˌɹɛkəmənˈdeɪʃən",
       "senses": [
         {
           "definition": "a suggestion or piece of advice given to someone officially, especially about the course of action that they should take",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The doctor made a recommendation to increase her daily exercise."
+            },
+            {
+              "cf": "",
+              "x": "The committee's recommendation was to postpone the event until next year."
+            },
+            {
+              "cf": "",
+              "x": "He followed his mentor's recommendation to apply for the scholarship."
+            },
+            {
+              "cf": "",
+              "x": "The consultant's recommendation helped the company save money."
+            },
+            {
+              "cf": "",
+              "x": "Based on the teacher's recommendation, she decided to take advanced classes."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "cf8005b1-ad99-48de-a72b-0df4a11cc46d",
       "word": "rule",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cnVsZQ&hash=341256b83dcc6186031278bdffcd025adced5313&lang=en&cache-only=0",
-      "phonetic_text": "ru:l",
+      "phonetic_text": "rul",
       "phonetic_am": "https://tts.langeek.co/read?text=cnVsZQ&hash=341256b83dcc6186031278bdffcd025adced5313&lang=en&cache-only=0",
       "phonetic_am_text": "rool",
       "img": "",
-      "pronunciation": "ˈɹuɫ",
+      "pronunciation": "ruːl",
       "senses": [
         {
           "definition": "a detailed principle that clarifies what one should do in a particular situation or circumstance",
@@ -164,12 +263,13 @@
       ]
     },
     {
+      "id": "19bba50d-960d-48f8-aa94-e900cf549246",
       "word": "saw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2F3&hash=777af48630c5151985d6c752c77a05489d60ab46&lang=en&cache-only=0",
-      "phonetic_text": "sɔ:",
+      "phonetic_text": "sɔ",
       "phonetic_am": "https://tts.langeek.co/read?text=c2F3&hash=777af48630c5151985d6c752c77a05489d60ab46&lang=en&cache-only=0",
-      "phonetic_am_text": "saaw",
+      "phonetic_am_text": "saw",
       "img": "",
       "pronunciation": "ˈsɔ",
       "senses": [
@@ -180,12 +280,13 @@
       ]
     },
     {
+      "id": "cc9b6cb6-80b7-47c1-a063-97677e8e4cb4",
       "word": "sermon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VybW9u&hash=519244f5d526e31bca19c6efcc863fc30ba7a1c6&lang=en&cache-only=0",
-      "phonetic_text": "sɜrmən",
+      "phonetic_text": "sɜr.mən",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VybW9u&hash=519244f5d526e31bca19c6efcc863fc30ba7a1c6&lang=en&cache-only=0",
-      "phonetic_am_text": "sērmēn",
+      "phonetic_am_text": "sēr.mēn",
       "img": "",
       "pronunciation": "ˈsɝmən",
       "senses": [
@@ -196,22 +297,45 @@
       ]
     },
     {
-      "word": "sermonize",
+      "id": "cb30e6c1-cb6d-49b2-be1a-c16709b78433",
+      "word": "to sermonize",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2VybW9uaXpl&hash=4df0a8163fae38e80d4d2482070bad9fec689837&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɜr.mə.naɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2VybW9uaXpl&hash=4df0a8163fae38e80d4d2482070bad9fec689837&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sēr.mē.naiz",
       "img": "https://cdn.langeek.co/photo/47586/original/?type=jpeg",
-      "pronunciation": "sˈɜːmənˌaɪz",
+      "pronunciation": "ˈsɝməˌnaɪz",
       "senses": [
         {
           "definition": "to deliver a religious speech, often with the intention of imparting moral or spiritual guidance",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The minister sermonized on the virtues of compassion and kindness during the Sunday service."
+            },
+            {
+              "cf": "",
+              "x": "The visiting preacher took the opportunity to sermonize about the importance of faith and resilience."
+            },
+            {
+              "cf": "",
+              "x": "Instead of a traditional lecture, the priest chose to sermonize on practical applications of religious teachings."
+            },
+            {
+              "cf": "",
+              "x": "The pastor sermonized on the significance of forgiveness in building a harmonious community."
+            },
+            {
+              "cf": "",
+              "x": "During the ceremony, the religious leader took a moment to sermonize about the values of love and unity."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "eca90ad7-2097-4996-9b09-e01e7176db02",
       "word": "shall",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=c2hhbGw&hash=095fbe6dccb8b976191b938be9d82fd63a77b221&lang=en&cache-only=0",
@@ -219,23 +343,45 @@
       "phonetic_am": "https://tts.langeek.co/read?text=c2hhbGw&hash=095fbe6dccb8b976191b938be9d82fd63a77b221&lang=en&cache-only=0",
       "phonetic_am_text": "shāl",
       "img": "",
-      "pronunciation": "ˈʃæɫ",
+      "pronunciation": "ʃæl",
       "senses": [
         {
           "definition": "used to ask advice, questions, or making suggestions using the pronoun I or we",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Shall we go to the movies tonight?"
+            },
+            {
+              "cf": "",
+              "x": "Shall I bring anything to the potluck dinner?"
+            },
+            {
+              "cf": "",
+              "x": "Shall we meet at 3 PM for the meeting?"
+            },
+            {
+              "cf": "",
+              "x": "Shall we take a walk in the park this afternoon?"
+            },
+            {
+              "cf": "",
+              "x": "Shall I call the restaurant to make a reservation?"
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e2bc983d-84b3-4085-be03-c83c32969c15",
       "word": "should",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=c2hvdWxk&hash=488311e8f07aaf6c7b29a7404a7a5134f73f08b6&lang=en&cache-only=0",
       "phonetic_text": "ʃʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hvdWxk&hash=488311e8f07aaf6c7b29a7404a7a5134f73f08b6&lang=en&cache-only=0",
-      "phonetic_am_text": "shud",
+      "phonetic_am_text": "shood",
       "img": "",
-      "pronunciation": "ˈʃʊd",
+      "pronunciation": "ʃʊd",
       "senses": [
         {
           "definition": "used to ask for or offer advice to someone regarding something",
@@ -244,6 +390,7 @@
       ]
     },
     {
+      "id": "23513c36-1471-4930-bd1d-3996685338c4",
       "word": "steer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RlZXI&hash=32c5a0764c46977bf4f59461a0d754a811aff4ba&lang=en&cache-only=0",
@@ -251,7 +398,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=c3RlZXI&hash=32c5a0764c46977bf4f59461a0d754a811aff4ba&lang=en&cache-only=0",
       "phonetic_am_text": "stir",
       "img": "",
-      "pronunciation": "ˈstɪɹ",
+      "pronunciation": "stɪr",
       "senses": [
         {
           "definition": "a piece of advice or information regarding the progress of a situation",
@@ -260,12 +407,13 @@
       ]
     },
     {
+      "id": "1db302d8-07f2-45b8-b026-50e6a382b05b",
       "word": "the blind leading the blind",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIGJsaW5kIGxlYWRpbmcgdGhlIGJsaW5k&hash=f1c9fb6fdb3ec058723c6e77ffc431a9a8331d01&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ðə blaɪnd li.dɪng ðə blaɪnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIGJsaW5kIGxlYWRpbmcgdGhlIGJsaW5k&hash=f1c9fb6fdb3ec058723c6e77ffc431a9a8331d01&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dhē blaind li.ding dhē blaind",
       "img": "https://cdn.langeek.co/photo/44858/original/?type=jpeg",
       "pronunciation": "ðə blˈaɪnd lˈiːdɪŋ ðə blˈaɪnd",
       "senses": [
@@ -289,6 +437,7 @@
       ]
     },
     {
+      "id": "5d45ff96-3397-44d6-ae3c-4aecc20f612b",
       "word": "tip",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGlw&hash=abd0bf810fa302d4f8a942c4b2bb39f14d5e51de&lang=en&cache-only=0",
@@ -296,7 +445,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=dGlw&hash=abd0bf810fa302d4f8a942c4b2bb39f14d5e51de&lang=en&cache-only=0",
       "phonetic_am_text": "tip",
       "img": "",
-      "pronunciation": "ˈtɪp",
+      "pronunciation": "tɪp",
       "senses": [
         {
           "definition": "a helpful suggestion or a piece of advice",
@@ -326,12 +475,13 @@
       ]
     },
     {
-      "word": "turn to",
+      "id": "e690e7c9-8419-4e7c-8555-318d4909204c",
+      "word": "to turn to",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHVybiB0bw&hash=48784e15539f48641f82ba3e7c54417fac6939b7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɜrn tu:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHVybiB0bw&hash=48784e15539f48641f82ba3e7c54417fac6939b7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tērn too",
       "img": "https://cdn.langeek.co/photo/47266/original/?type=jpeg",
       "pronunciation": "tˈɜːn tuː",
       "senses": [
@@ -367,7 +517,8 @@
       ]
     },
     {
-      "word": "urge",
+      "id": "1a124549-596b-4e40-9d0f-a87845792116",
+      "word": "to urge",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdXJnZQ&hash=e93369043d79db8faae032ed8231d8f653570182&lang=en&cache-only=0",
       "phonetic_text": "ɜrʤ",
@@ -404,12 +555,13 @@
       ]
     },
     {
-      "word": "want",
+      "id": "e9261ec5-ba2a-4a18-93a3-0516e8b7025e",
+      "word": "to want",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2FudA&hash=366540d58b07fa0f253062b5d5df89e3f8e9f121&lang=en&cache-only=0",
       "phonetic_text": "wɑ:nt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2FudA&hash=366540d58b07fa0f253062b5d5df89e3f8e9f121&lang=en&cache-only=0",
-      "phonetic_am_text": "waant",
+      "phonetic_am_text": "vaant",
       "img": "",
       "pronunciation": "wɑːnt",
       "senses": [
@@ -441,14 +593,15 @@
       ]
     },
     {
-      "word": "warn",
+      "id": "bf4b0b1b-6d31-4828-8652-684108c174df",
+      "word": "to warn",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2Fybg&hash=9f7ad9990d061e6fea21166bf4f85a5851a7bd08&lang=en&cache-only=0",
-      "phonetic_text": "wɔ:rn",
+      "phonetic_text": "wɔrn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2Fybg&hash=9f7ad9990d061e6fea21166bf4f85a5851a7bd08&lang=en&cache-only=0",
-      "phonetic_am_text": "waawrn",
+      "phonetic_am_text": "vawrn",
       "img": "https://cdn.langeek.co/photo/55168/original/?type=jpeg",
-      "pronunciation": "ˈwɔɹn",
+      "pronunciation": "wɑrn",
       "senses": [
         {
           "definition": "to tell someone in advance about a possible danger, problem, or unfavorable situation",
@@ -478,12 +631,13 @@
       ]
     },
     {
-      "word": "warn off",
+      "id": "040de56b-c63d-45ce-9873-b906f1aa00ba",
+      "word": "to warn off",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2FybiBvZmY&hash=1c53eb821954af17389a19b5e09639b09b68cd5f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɔrn ɑf",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2FybiBvZmY&hash=1c53eb821954af17389a19b5e09639b09b68cd5f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vawrn aaf",
       "img": "",
       "pronunciation": "wˈɔːɹn ˈɔf",
       "senses": [
@@ -494,14 +648,15 @@
       ]
     },
     {
+      "id": "c2ffb28c-b0fb-4713-a38d-5d14624ca6e2",
       "word": "worth",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=d29ydGg&hash=8bb829f24ae950188468c292a79a0ccf262b0aa9&lang=en&cache-only=0",
       "phonetic_text": "wɜrθ",
       "phonetic_am": "https://tts.langeek.co/read?text=d29ydGg&hash=8bb829f24ae950188468c292a79a0ccf262b0aa9&lang=en&cache-only=0",
-      "phonetic_am_text": "wērth",
+      "phonetic_am_text": "vērth",
       "img": "",
-      "pronunciation": "ˈwɝθ",
+      "pronunciation": "wɝθ",
       "senses": [
         {
           "definition": "important or good enough to be treated or viewed in a particular way",
@@ -531,14 +686,15 @@
       ]
     },
     {
+      "id": "9ce24ded-0a11-4168-adea-d79326f6ace9",
       "word": "would",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=d291bGQ&hash=60bb002312314c7bb3b315664ebe1851e3cf125d&lang=en&cache-only=0",
       "phonetic_text": "wʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=d291bGQ&hash=60bb002312314c7bb3b315664ebe1851e3cf125d&lang=en&cache-only=0",
-      "phonetic_am_text": "wud",
+      "phonetic_am_text": "vood",
       "img": "",
-      "pronunciation": "ˈwʊd",
+      "pronunciation": "wʊd",
       "senses": [
         {
           "definition": "used to offer or ask for advice",

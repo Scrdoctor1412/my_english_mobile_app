@@ -1,13 +1,15 @@
 {
+  "id": "144cf1ed-3d42-42b4-a8f6-a72755d793ae",
   "topic": "interactions",
   "title": "Jokes & Pranks",
   "lesson": "lesson_11",
   "word_list": [
     {
-      "word": "[give] {sb} bunny ears",
+      "id": "4e1890f4-be72-4997-8701-b16e2e57460d",
+      "word": "to [give] {sb} bunny ears",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21lYm9keSBidW5ueSBlYXJz&hash=2986efdb9c937ed1953b06d1c7a957c7efda4812&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21lYm9keSBidW5ueSBlYXJz&hash=2986efdb9c937ed1953b06d1c7a957c7efda4812&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44764/original/?type=jpeg",
@@ -20,10 +22,11 @@
       ]
     },
     {
-      "word": "[give] {sb} a melvin",
+      "id": "e41d87dd-8d72-490a-b3f4-4a892fd1f5cc",
+      "word": "to [give] {sb} a melvin",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21lYm9keSBhIG1lbHZpbg&hash=73269b12d7b05783246df512dc3e43e2205f362b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21lYm9keSBhIG1lbHZpbg&hash=73269b12d7b05783246df512dc3e43e2205f362b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44758/original/?type=jpeg",
@@ -36,10 +39,11 @@
       ]
     },
     {
+      "id": "f9e12c07-cb17-4a7f-814b-d78d868c9d46",
       "word": "with {one's} tongue in {one's} cheek",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=d2l0aCBvbmUncyB0b25ndWUgaW4gb25lJ3MgY2hlZWs&hash=e904937428226ac8d70f6ee5a5ff203bf4b1a573&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=d2l0aCBvbmUncyB0b25ndWUgaW4gb25lJ3MgY2hlZWs&hash=e904937428226ac8d70f6ee5a5ff203bf4b1a573&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44772/original/?type=jpeg",
@@ -52,10 +56,11 @@
       ]
     },
     {
-      "word": "[play|act] the (fool|goat)",
+      "id": "9d90574c-e3df-42c2-82fc-52686f3a60df",
+      "word": "to [play|act] the (fool|goat)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGxheSB0aGUgZm9vbA&hash=931c2b697ceb9cc8a90485c879592927c1018784&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGxheSB0aGUgZm9vbA&hash=931c2b697ceb9cc8a90485c879592927c1018784&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44738/original/?type=jpeg",
@@ -68,10 +73,11 @@
       ]
     },
     {
-      "word": "[yank|pull] {one's} chain",
+      "id": "35dd5204-fcb1-4c7a-bc18-622b50952fdd",
+      "word": "to [yank|pull] {one's} chain",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8geWFuayBvbmUncyBjaGFpbg&hash=a080cd097abd37df4aed5c42eac13f1058ec9c31&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8geWFuayBvbmUncyBjaGFpbg&hash=a080cd097abd37df4aed5c42eac13f1058ec9c31&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44746/original/?type=jpeg",
@@ -79,15 +85,37 @@
       "senses": [
         {
           "definition": "to joke with someone in a friendly manner by trying to make them believe something that is not true",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Don't take him too seriously; he's just pulling your chain."
+            },
+            {
+              "cf": "",
+              "x": "She thought I was angry, but I was just yanking her chain."
+            },
+            {
+              "cf": "",
+              "x": "He's always pulling my chain at work, making jokes to lighten the mood."
+            },
+            {
+              "cf": "",
+              "x": "I pretended to be offended when he pulled my chain, but we both had a good laugh."
+            },
+            {
+              "cf": "",
+              "x": "It's hard to tell when he's serious or just trying to pull your chain."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[pull] {one's} leg",
+      "id": "fb7c7f78-f376-4559-959e-cad6a870334b",
+      "word": "to [pull] {one's} leg",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHVsbCBvbmUncyBsZWc&hash=5c303dc39020f2f72889389ea633714c52627f4c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHVsbCBvbmUncyBsZWc&hash=5c303dc39020f2f72889389ea633714c52627f4c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44742/original/?type=jpeg",
@@ -95,17 +123,27 @@
       "senses": [
         {
           "definition": "to joke with someone in a friendly manner by trying to make them believe something that is not true",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Are you serious, or are you just pulling my leg?"
+            },
+            {
+              "cf": "",
+              "x": "I can't believe you fell for that story; I was just pulling your leg."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f1adae98-80c7-4427-847d-98c61ea94788",
       "word": "let there be light",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bGV0IHRoZXJlIGJlIGxpZ2h0&hash=bdb1db1522fb3da9a4b97007a26c77f7a49db7b1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɛt ðɛr bi: laɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=bGV0IHRoZXJlIGJlIGxpZ2h0&hash=bdb1db1522fb3da9a4b97007a26c77f7a49db7b1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "let dher bi lait",
       "img": "https://cdn.langeek.co/photo/44736/original/?type=jpeg",
       "pronunciation": "lˈɛt ðɛɹbˈiː lˈaɪt",
       "senses": [

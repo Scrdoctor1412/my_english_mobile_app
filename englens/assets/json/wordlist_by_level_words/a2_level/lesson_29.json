@@ -1,17 +1,19 @@
 {
+  "id": "6817e032-324e-4034-9482-e4b4e9638842",
   "topic": "a2_level",
   "title": "Flowers, Fruits, and Nuts",
   "lesson": "lesson_29",
   "word_list": [
     {
+      "id": "e5bd2153-66c0-4010-abaa-955b8737adbb",
       "word": "farm",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFybQ&hash=fa6f4e60fe5559c34483afab21133ee0ca01adb7&lang=en&cache-only=0",
-      "phonetic_text": "fɑ:rm",
+      "phonetic_text": "fɑrm",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFybQ&hash=fa6f4e60fe5559c34483afab21133ee0ca01adb7&lang=en&cache-only=0",
       "phonetic_am_text": "faarm",
       "img": "https://cdn.langeek.co/photo/28772/original/farm?type=jpeg",
-      "pronunciation": "ˈfɑɹm",
+      "pronunciation": "fɑrm",
       "senses": [
         {
           "definition": "an area of land and its buildings, used for growing crops or keeping animals",
@@ -41,14 +43,15 @@
       ]
     },
     {
+      "id": "5538c4c0-0f27-4c86-b859-e9fa18d06b0b",
       "word": "farming",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFybWluZw&hash=19df4402c9ced44460a2b45049389d6877c20037&lang=en&cache-only=0",
-      "phonetic_text": "fɑ:rmɪng",
+      "phonetic_text": "fɑr.mɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFybWluZw&hash=19df4402c9ced44460a2b45049389d6877c20037&lang=en&cache-only=0",
-      "phonetic_am_text": "faarming",
+      "phonetic_am_text": "faar.ming",
       "img": "https://cdn.langeek.co/photo/19058/original/agriculture?type=jpeg",
-      "pronunciation": "ˈfɑɹmɪŋ",
+      "pronunciation": "ˈfɑrmɪŋ",
       "senses": [
         {
           "definition": "the activity of working on a farm and growing crops or producing animal products by raising them",
@@ -78,14 +81,15 @@
       ]
     },
     {
-      "word": "pick",
+      "id": "5977171f-88d2-4334-abb1-66d088897efd",
+      "word": "to pick",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGljaw&hash=005633abd71825f3a88ccdd7eb92e8a120101941&lang=en&cache-only=0",
       "phonetic_text": "pɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGljaw&hash=005633abd71825f3a88ccdd7eb92e8a120101941&lang=en&cache-only=0",
       "phonetic_am_text": "pik",
-      "img": "https://cdn.langeek.co/photo/14681/original/pick?type=jpeg",
-      "pronunciation": "ˈpɪk",
+      "img": "https://cdn.langeek.co/photo/61826/original/pick?type=jpeg",
+      "pronunciation": "pɪk",
       "senses": [
         {
           "definition": "to take a flower or fruit from its plant with our fingers",
@@ -115,14 +119,15 @@
       ]
     },
     {
-      "word": "plant",
+      "id": "fc8c8814-35ed-4ca1-ad07-566362a54451",
+      "word": "to plant",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGxhbnQ&hash=dc5455278f1534c1034501094253c1e080fa59a5&lang=en&cache-only=0",
       "phonetic_text": "plænt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGxhbnQ&hash=dc5455278f1534c1034501094253c1e080fa59a5&lang=en&cache-only=0",
       "phonetic_am_text": "plānt",
-      "img": "https://cdn.langeek.co/photo/14651/original/plant?type=jpeg",
-      "pronunciation": "ˈpɫænt",
+      "img": "https://cdn.langeek.co/photo/61822/original/plant?type=jpeg",
+      "pronunciation": "plænt",
       "senses": [
         {
           "definition": "to put a seed, plant, etc. in the ground to grow",
@@ -152,13 +157,14 @@
       ]
     },
     {
-      "word": "water",
+      "id": "0db1f396-eaef-4405-915b-5b7c71d04dde",
+      "word": "to water",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2F0ZXI&hash=4571afa9f6f5f3592a973fe3ca2b240b9f67dabb&lang=en&cache-only=0",
-      "phonetic_text": "wɔ:tər",
+      "phonetic_text": "wɑ:.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2F0ZXI&hash=4571afa9f6f5f3592a973fe3ca2b240b9f67dabb&lang=en&cache-only=0",
-      "phonetic_am_text": "waawtēr",
-      "img": "https://cdn.langeek.co/photo/22351/original/?type=jpeg",
+      "phonetic_am_text": "vaa.tēr",
+      "img": "https://cdn.langeek.co/photo/61830/original/?type=jpeg",
       "pronunciation": "ˈwɑːtɚ",
       "senses": [
         {
@@ -189,13 +195,14 @@
       ]
     },
     {
-      "word": "grow",
+      "id": "d5ddd704-c16a-41e9-b6bb-e882b880a391",
+      "word": "to grow",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ3Jvdw&hash=dacd8f74a4fa7e7d5e02f1bafb3c6ed5b473354e&lang=en&cache-only=0",
       "phonetic_text": "groʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ3Jvdw&hash=dacd8f74a4fa7e7d5e02f1bafb3c6ed5b473354e&lang=en&cache-only=0",
-      "phonetic_am_text": "grow",
-      "img": "https://cdn.langeek.co/photo/14651/original/plant?type=jpeg",
+      "phonetic_am_text": "grooo",
+      "img": "https://cdn.langeek.co/photo/61822/original/plant?type=jpeg",
       "pronunciation": "ɡroʊ",
       "senses": [
         {
@@ -226,14 +233,15 @@
       ]
     },
     {
-      "word": "produce",
+      "id": "36773b70-36d8-41f9-a573-a4b67018a7fe",
+      "word": "to produce",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJvZHVjZQ&hash=054a384a1e7f0a408ebc1210f3d4e80c3197790f&lang=en&cache-only=0",
-      "phonetic_text": "prədu:s",
+      "phonetic_text": "proʊ.dus",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJvZHVjZQ&hash=054a384a1e7f0a408ebc1210f3d4e80c3197790f&lang=en&cache-only=0",
-      "phonetic_am_text": "prēdoos",
+      "phonetic_am_text": "prooo.doos",
       "img": "https://cdn.langeek.co/photo/22788/original/?type=jpeg",
-      "pronunciation": "ˈpɹoʊdus/, /pɹəˈdus",
+      "pronunciation": "prəˈdus",
       "senses": [
         {
           "definition": "to raise or grow something naturally, in large numbers",
@@ -271,14 +279,15 @@
       ]
     },
     {
-      "word": "feed",
+      "id": "28a364d6-4b65-46ca-a62e-d17353739fcf",
+      "word": "to feed",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmVlZA&hash=ab7c52d0ac008724ab082bca25e7a02aeec9e7ff&lang=en&cache-only=0",
       "phonetic_text": "fi:d",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmVlZA&hash=ab7c52d0ac008724ab082bca25e7a02aeec9e7ff&lang=en&cache-only=0",
-      "phonetic_am_text": "feed",
-      "img": "https://cdn.langeek.co/photo/51238/original/?type=jpeg",
-      "pronunciation": "ˈfid",
+      "phonetic_am_text": "fid",
+      "img": "https://cdn.langeek.co/photo/61806/original/?type=jpeg",
+      "pronunciation": "fiːd",
       "senses": [
         {
           "definition": "to give food to a person or an animal",
@@ -308,14 +317,15 @@
       ]
     },
     {
+      "id": "3895a0cc-9e7d-4f38-b460-10ef07f4d520",
       "word": "strawberry",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RyYXdiZXJyeQ&hash=c4991a396106b9f05b65f7a3a70a554215807278&lang=en&cache-only=0",
-      "phonetic_text": "strɔ:bɛri",
+      "phonetic_text": "strɔ.bɛ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyYXdiZXJyeQ&hash=c4991a396106b9f05b65f7a3a70a554215807278&lang=en&cache-only=0",
-      "phonetic_am_text": "straawberi",
+      "phonetic_am_text": "straw.be.ri",
       "img": "https://cdn.langeek.co/photo/31441/original/strawberry?type=jpeg",
-      "pronunciation": "ˈstɹɔˌbɛɹi",
+      "pronunciation": "ˈstrɔˌbɛri",
       "senses": [
         {
           "definition": "a soft, red juicy fruit with small seeds on its surface",
@@ -341,14 +351,15 @@
       ]
     },
     {
+      "id": "cb2cdd30-d5e7-4f91-911b-e82e70f15f54",
       "word": "blueberry",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ymx1ZWJlcnJ5&hash=6d7eb3331c473bbcdea842abdef6f2c86003dffd&lang=en&cache-only=0",
-      "phonetic_text": "blu:bɛri",
+      "phonetic_text": "blu:.bɛ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=Ymx1ZWJlcnJ5&hash=6d7eb3331c473bbcdea842abdef6f2c86003dffd&lang=en&cache-only=0",
-      "phonetic_am_text": "blooberi",
+      "phonetic_am_text": "bloo.be.ri",
       "img": "https://cdn.langeek.co/photo/50429/original/blueberry?type=jpeg",
-      "pronunciation": "ˈbluːˌberi",
+      "pronunciation": "ˈbluˌbɛri",
       "senses": [
         {
           "definition": "a sweet small fruit dark blue in color, grown in North America",
@@ -378,14 +389,15 @@
       ]
     },
     {
+      "id": "21c554e3-9506-47fe-aa0a-721755413bff",
       "word": "watermelon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2F0ZXJtZWxvbg&hash=37e03cbf3d2c811a2c6aa7696e79369a1609cc1e&lang=en&cache-only=0",
-      "phonetic_text": "wɔ:tərmɛlən",
+      "phonetic_text": "wɑ:.tər.mɛ.lən",
       "phonetic_am": "https://tts.langeek.co/read?text=d2F0ZXJtZWxvbg&hash=37e03cbf3d2c811a2c6aa7696e79369a1609cc1e&lang=en&cache-only=0",
-      "phonetic_am_text": "waawtērmelēn",
+      "phonetic_am_text": "vaa.tēr.me.lēn",
       "img": "https://cdn.langeek.co/photo/39031/original/watermelon?type=jpeg",
-      "pronunciation": "ˈwɔtɝˌmɛɫən",
+      "pronunciation": "ˈwɑtɚˌmɛlən",
       "senses": [
         {
           "definition": "a large, round, and juicy fruit that is red on the inside and has green stripes on its hard and thick skin",
@@ -411,6 +423,7 @@
       ]
     },
     {
+      "id": "f7f8ea9f-24aa-403e-aaa8-7d84f747cb4d",
       "word": "pear",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVhcg&hash=66a01ebb51f910a3886f699e5d5b4432f8c43db3&lang=en&cache-only=0",
@@ -418,7 +431,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=cGVhcg&hash=66a01ebb51f910a3886f699e5d5b4432f8c43db3&lang=en&cache-only=0",
       "phonetic_am_text": "per",
       "img": "https://cdn.langeek.co/photo/35918/original/pear?type=jpeg",
-      "pronunciation": "ˈpɛɹ",
+      "pronunciation": "pɛr",
       "senses": [
         {
           "definition": "a sweet yellow or green bell-shaped fruit with a lot of juice",
@@ -448,14 +461,15 @@
       ]
     },
     {
+      "id": "99aeb645-2f05-4cc8-a424-2c95f941b6ee",
       "word": "pineapple",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGluZWFwcGxl&hash=9d906e23212a54b02268e60f1c0153a1574ac2b6&lang=en&cache-only=0",
-      "phonetic_text": "paɪnæpəl",
+      "phonetic_text": "paɪn.æ.pəl",
       "phonetic_am": "https://tts.langeek.co/read?text=cGluZWFwcGxl&hash=9d906e23212a54b02268e60f1c0153a1574ac2b6&lang=en&cache-only=0",
-      "phonetic_am_text": "paināpēl",
+      "phonetic_am_text": "pain.ā.pēl",
       "img": "https://cdn.langeek.co/photo/38070/original/pineapple?type=jpeg",
-      "pronunciation": "ˈpaɪˌnæpəɫ",
+      "pronunciation": "ˈpaɪˌnæpəl",
       "senses": [
         {
           "definition": "a sweet large and tropical fruit that has brown skin, pointy leaves, and yellow flesh which is very juicy",
@@ -477,14 +491,15 @@
       ]
     },
     {
+      "id": "e36b34e5-6dc4-437b-bfdc-68ce9ce9292a",
       "word": "mango",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFuZ28&hash=5fa92a8a914e44d3fb27aa985fdcdb3c23563b7b&lang=en&cache-only=0",
-      "phonetic_text": "mængoʊ",
+      "phonetic_text": "mæn.goʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFuZ28&hash=5fa92a8a914e44d3fb27aa985fdcdb3c23563b7b&lang=en&cache-only=0",
-      "phonetic_am_text": "māngow",
+      "phonetic_am_text": "mān.gooo",
       "img": "https://cdn.langeek.co/photo/50437/original/mango?type=jpeg",
-      "pronunciation": "ˈmæŋɡoʊ",
+      "pronunciation": "ˈmæŋˌɡoʊ",
       "senses": [
         {
           "definition": "a sweet yellow fruit with a thin skin that grows in hot areas",
@@ -510,14 +525,15 @@
       ]
     },
     {
+      "id": "cce37212-5bca-4d28-89b7-f10773e40671",
       "word": "kiwi",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2l3aQ&hash=a38ce67d14157f2529764b045a69819c669894c7&lang=en&cache-only=0",
-      "phonetic_text": "ki:wi",
+      "phonetic_text": "ki:.wi:",
       "phonetic_am": "https://tts.langeek.co/read?text=a2l3aQ&hash=a38ce67d14157f2529764b045a69819c669894c7&lang=en&cache-only=0",
-      "phonetic_am_text": "keewi",
+      "phonetic_am_text": "ki.vi",
       "img": "https://cdn.langeek.co/photo/50461/original/kiwi?type=jpeg",
-      "pronunciation": "ˈkiwi",
+      "pronunciation": "ˈkiːˌwiː",
       "senses": [
         {
           "definition": "an oval fruit with hairy brown skin and green flesh",
@@ -543,12 +559,13 @@
       ]
     },
     {
+      "id": "beba050a-7139-459c-adf8-52f4e99730b1",
       "word": "avocado",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXZvY2Fkbw&hash=25247929681acf6d02eb3f91fca2824c97a83575&lang=en&cache-only=0",
-      "phonetic_text": "ævəkɑ:doʊ",
+      "phonetic_text": "æ.və.kɑ.doʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=YXZvY2Fkbw&hash=25247929681acf6d02eb3f91fca2824c97a83575&lang=en&cache-only=0",
-      "phonetic_am_text": "āvēkaadow",
+      "phonetic_am_text": "ā.vē.kaa.dooo",
       "img": "https://cdn.langeek.co/photo/50447/original/avocado?type=jpeg",
       "pronunciation": "ˌævəˈkɑdoʊ",
       "senses": [
@@ -568,14 +585,15 @@
       ]
     },
     {
+      "id": "09c9d011-4ebd-411b-a427-16d995171d59",
       "word": "grapefruit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JhcGVmcnVpdA&hash=50c614e73f7f665e647cb5138b130b800e035572&lang=en&cache-only=0",
-      "phonetic_text": "greɪpfrut",
+      "phonetic_text": "greɪp.fru:t",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JhcGVmcnVpdA&hash=50c614e73f7f665e647cb5138b130b800e035572&lang=en&cache-only=0",
-      "phonetic_am_text": "greipfrut",
+      "phonetic_am_text": "greip.froot",
       "img": "https://cdn.langeek.co/photo/50435/original/grapefruit?type=jpeg",
-      "pronunciation": "ˈɡɹeɪpˌfɹut",
+      "pronunciation": "ˈɡreɪpˌfruːt",
       "senses": [
         {
           "definition": "a round, citrusy fruit with yellow-orange skin, like a large orange",
@@ -597,14 +615,15 @@
       ]
     },
     {
+      "id": "0f4726c2-1cb0-4d7b-9eca-72e5080302ad",
       "word": "rose",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9zZQ&hash=3132e209386b4805b68c8abfbb4a64eec5c33a0a&lang=en&cache-only=0",
       "phonetic_text": "roʊz",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9zZQ&hash=3132e209386b4805b68c8abfbb4a64eec5c33a0a&lang=en&cache-only=0",
-      "phonetic_am_text": "rowz",
+      "phonetic_am_text": "roooz",
       "img": "https://cdn.langeek.co/photo/39017/original/rose?type=jpeg",
-      "pronunciation": "ˈɹoʊz",
+      "pronunciation": "roʊz",
       "senses": [
         {
           "definition": "a garden plant or its flower that has thorns, smells nice, and comes in different colors",
@@ -622,14 +641,15 @@
       ]
     },
     {
+      "id": "14520f53-b48d-4a9f-934f-412cf57bc9b2",
       "word": "lily",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGlseQ&hash=96cbe18f18a5069b1c9908aedd7a4f4c4b11e612&lang=en&cache-only=0",
-      "phonetic_text": "lɪli",
+      "phonetic_text": "lɪ.li",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlseQ&hash=96cbe18f18a5069b1c9908aedd7a4f4c4b11e612&lang=en&cache-only=0",
-      "phonetic_am_text": "lili",
+      "phonetic_am_text": "li.li",
       "img": "https://cdn.langeek.co/photo/38943/original/lily?type=jpeg",
-      "pronunciation": "ˈɫɪɫi",
+      "pronunciation": "ˈlɪli",
       "senses": [
         {
           "definition": "a plant with large bell-shaped flowers, typically white",
@@ -659,14 +679,15 @@
       ]
     },
     {
+      "id": "cae54d5e-3505-4620-93dd-27840368f4db",
       "word": "orchid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3JjaGlk&hash=cdac11c4fa75eaa6eaf8846ab1807bce85480294&lang=en&cache-only=0",
-      "phonetic_text": "ɔ:rkəd",
+      "phonetic_text": "ɔr.kɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=b3JjaGlk&hash=cdac11c4fa75eaa6eaf8846ab1807bce85480294&lang=en&cache-only=0",
-      "phonetic_am_text": "aawrkēd",
+      "phonetic_am_text": "awr.kid",
       "img": "https://cdn.langeek.co/photo/51142/original/orchid?type=jpeg",
-      "pronunciation": "ˈɔɹkəd",
+      "pronunciation": "ˈɔrˌkɪd",
       "senses": [
         {
           "definition": "a plant with flowers in unusual shapes and bright colors",
@@ -696,14 +717,15 @@
       ]
     },
     {
+      "id": "0f2f6a42-751c-4623-bf10-df214ccf19db",
       "word": "sunflower",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3VuZmxvd2Vy&hash=d9812ed58c52bf4f5ffc7688199e76a8eb2c8a80&lang=en&cache-only=0",
-      "phonetic_text": "sʌnflaʊər",
+      "phonetic_text": "sʌn.flaʊər",
       "phonetic_am": "https://tts.langeek.co/read?text=c3VuZmxvd2Vy&hash=d9812ed58c52bf4f5ffc7688199e76a8eb2c8a80&lang=en&cache-only=0",
-      "phonetic_am_text": "sanflawēr",
+      "phonetic_am_text": "san.flaooēr",
       "img": "https://cdn.langeek.co/photo/38955/original/sunflower?type=jpeg",
-      "pronunciation": "ˈsənˌfɫaʊɝ",
+      "pronunciation": "ˈsʌnˌflaʊɚ",
       "senses": [
         {
           "definition": "a plant with a tall stem and a round yellow flower",
@@ -725,12 +747,13 @@
       ]
     },
     {
+      "id": "69f5bc1a-f3bf-4777-91d8-3ad56219725c",
       "word": "cactus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FjdHVz&hash=2acdeb4b0b73bb5417aa24a1c9e21b9624610480&lang=en&cache-only=0",
-      "phonetic_text": "kæktəs",
+      "phonetic_text": "kæk.təs",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FjdHVz&hash=2acdeb4b0b73bb5417aa24a1c9e21b9624610480&lang=en&cache-only=0",
-      "phonetic_am_text": "kāktēs",
+      "phonetic_am_text": "kāk.tēs",
       "img": "https://cdn.langeek.co/photo/51080/original/cactus?type=jpeg",
       "pronunciation": "ˈkæktəs",
       "senses": [
@@ -762,6 +785,7 @@
       ]
     },
     {
+      "id": "e4681270-b913-4b48-8f06-4cf7399cfdbc",
       "word": "nut",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bnV0&hash=a83d2898669f2afef7bfd7b3bfdbf561e11d8e50&lang=en&cache-only=0",
@@ -795,14 +819,15 @@
       ]
     },
     {
+      "id": "8e5f6ef1-ed79-4fd1-a40c-998e580c9a63",
       "word": "peanut",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVhbnV0&hash=2913add0005edfda1886efdabb237ffa0b2aaa7a&lang=en&cache-only=0",
-      "phonetic_text": "pi:nət",
+      "phonetic_text": "pi:.nʌt",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVhbnV0&hash=2913add0005edfda1886efdabb237ffa0b2aaa7a&lang=en&cache-only=0",
-      "phonetic_am_text": "peenēt",
+      "phonetic_am_text": "pi.nat",
       "img": "https://cdn.langeek.co/photo/14641/original/peanut?type=jpeg",
-      "pronunciation": "ˈpiˌnət/, /ˈpinət",
+      "pronunciation": "ˈpiːˌnʌt",
       "senses": [
         {
           "definition": "a type of nut that could be eaten, growing underground in a thin shell",
@@ -816,14 +841,15 @@
       ]
     },
     {
+      "id": "54bd6d25-6722-47d9-b35e-36f6b8aab771",
       "word": "walnut",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2FsbnV0&hash=04297e1e9c761eaf879382a920ea2d67da81cc60&lang=en&cache-only=0",
-      "phonetic_text": "wɔ:lnʌt",
+      "phonetic_text": "wɔl.nʌt",
       "phonetic_am": "https://tts.langeek.co/read?text=d2FsbnV0&hash=04297e1e9c761eaf879382a920ea2d67da81cc60&lang=en&cache-only=0",
-      "phonetic_am_text": "waawlnat",
+      "phonetic_am_text": "vawl.nat",
       "img": "https://cdn.langeek.co/photo/14643/original/walnut?type=jpeg",
-      "pronunciation": "ˈwɔɫˌnət",
+      "pronunciation": "ˈwɔlˌnʌt",
       "senses": [
         {
           "definition": "a brown nut which is shaped like human brain",
@@ -853,14 +879,15 @@
       ]
     },
     {
+      "id": "91e0b7ec-2914-47a7-b908-33ef2e487a62",
       "word": "hazelnut",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGF6ZWxudXQ&hash=5b30ca6619862d18e02077e008595c0b8846f27c&lang=en&cache-only=0",
-      "phonetic_text": "heɪzəlnʌt",
+      "phonetic_text": "heɪ.zəl.nʌt",
       "phonetic_am": "https://tts.langeek.co/read?text=aGF6ZWxudXQ&hash=5b30ca6619862d18e02077e008595c0b8846f27c&lang=en&cache-only=0",
-      "phonetic_am_text": "heizēlnat",
+      "phonetic_am_text": "hei.zēl.nat",
       "img": "https://cdn.langeek.co/photo/14645/original/hazelnut?type=jpeg",
-      "pronunciation": "ˈheɪzəɫˌnət",
+      "pronunciation": "ˈheɪzəlˌnʌt",
       "senses": [
         {
           "definition": "a round nut that can be eaten and has a brown shell",
@@ -890,14 +917,15 @@
       ]
     },
     {
+      "id": "a425feed-fa44-48f6-a529-96973ae64706",
       "word": "almond",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWxtb25k&hash=f24639651a6bd753a45e54c5a12aa22a7b8db303&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:mənd",
+      "phonetic_text": "ɑ:l.mənd",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxtb25k&hash=f24639651a6bd753a45e54c5a12aa22a7b8db303&lang=en&cache-only=0",
-      "phonetic_am_text": "aamēnd",
+      "phonetic_am_text": "aal.mēnd",
       "img": "https://cdn.langeek.co/photo/38301/original/almond?type=jpeg",
-      "pronunciation": "ˈɑmənd",
+      "pronunciation": "ˈɑːlˌmənd",
       "senses": [
         {
           "definition": "a sweet oval nut with a pale brown shell",
@@ -911,14 +939,15 @@
       ]
     },
     {
+      "id": "d6155228-b9e6-4be8-84b8-33ab9b6088cf",
       "word": "pecan",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVjYW4&hash=edc0879c156849e52bb0652bd8b5af7323a40fe5&lang=en&cache-only=0",
-      "phonetic_text": "pəkɑ:n",
+      "phonetic_text": "pɪ.kæn",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVjYW4&hash=edc0879c156849e52bb0652bd8b5af7323a40fe5&lang=en&cache-only=0",
-      "phonetic_am_text": "pēkaan",
+      "phonetic_am_text": "pi.kān",
       "img": "https://cdn.langeek.co/photo/14649/original/pecan?type=jpeg",
-      "pronunciation": "ˈpiˌkɑn/, /pəˈkɑn/, /pɪˈkæn",
+      "pronunciation": "pɪˈkæn",
       "senses": [
         {
           "definition": "a sweet oval nut with a dark brown shell that grows in America",
@@ -940,47 +969,32 @@
       ]
     },
     {
+      "id": "9fcdb9e4-9be5-4c5f-9488-7627a1dc1252",
       "word": "hard",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aGFyZA&hash=5639b510cf9e21afe64ddfe2840c09b85a4ce8ac&lang=en&cache-only=0",
-      "phonetic_text": "hɑ:rd",
+      "phonetic_text": "hɑrd",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFyZA&hash=5639b510cf9e21afe64ddfe2840c09b85a4ce8ac&lang=en&cache-only=0",
       "phonetic_am_text": "haard",
-      "img": "https://cdn.langeek.co/photo/24015/original/hard?type=jpeg",
-      "pronunciation": "ˈhɑɹd",
+      "img": "https://cdn.langeek.co/photo/61796/original/hard?type=jpeg",
+      "pronunciation": "hɑrd",
       "senses": [
         {
           "definition": "very difficult to cut, bend, or break",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She prefers hard cheese like cheddar over soft cheese."
-            },
-            {
-              "cf": "",
-              "x": "The apples were too hard to bite into."
-            },
-            {
-              "cf": "",
-              "x": "The hard shell of the crab protects it from predators."
-            },
-            {
-              "cf": "",
-              "x": "The surface of the table was hard and smooth."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "a5e9ce3a-81a2-4ae9-bd3a-f718df865f49",
       "word": "soft",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c29mdA&hash=fca0c77d835cbcf384ad826c418041dea3b9c76e&lang=en&cache-only=0",
-      "phonetic_text": "sɑ:ft",
+      "phonetic_text": "sɑft",
       "phonetic_am": "https://tts.langeek.co/read?text=c29mdA&hash=fca0c77d835cbcf384ad826c418041dea3b9c76e&lang=en&cache-only=0",
       "phonetic_am_text": "saaft",
-      "img": "https://cdn.langeek.co/photo/24017/original/soft?type=jpeg",
-      "pronunciation": "ˈsɑft/, /ˈsɔft",
+      "img": "https://cdn.langeek.co/photo/61810/original/soft?type=jpeg",
+      "pronunciation": "sɑft",
       "senses": [
         {
           "definition": "gentle to the touch",
@@ -1010,14 +1024,15 @@
       ]
     },
     {
-      "word": "smell",
+      "id": "c434c6a2-404f-494d-895f-417b0bb9a958",
+      "word": "to smell",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc21lbGw&hash=33f39580c3d0f4710d2be254cea673d8f015e37f&lang=en&cache-only=0",
       "phonetic_text": "smɛl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc21lbGw&hash=33f39580c3d0f4710d2be254cea673d8f015e37f&lang=en&cache-only=0",
       "phonetic_am_text": "smel",
       "img": "https://cdn.langeek.co/photo/27594/original/?type=jpeg",
-      "pronunciation": "ˈsmɛɫ",
+      "pronunciation": "smɛl",
       "senses": [
         {
           "definition": "to release a particular scent",

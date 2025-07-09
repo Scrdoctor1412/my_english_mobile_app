@@ -1,17 +1,19 @@
 {
+  "id": "f69420ad-2e70-4ccf-a3af-7db0756f435a",
   "topic": "b2_level",
   "title": "Assessment and Discourse",
   "lesson": "lesson_44",
   "word_list": [
     {
-      "word": "figure",
+      "id": "6ed35c7b-aa95-49f0-9ab1-39eaadb3bf99",
+      "word": "to figure",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmlndXJl&hash=2a0a56dcd1d73d70c878d3a7a658143ba066b679&lang=en&cache-only=0",
-      "phonetic_text": "fɪgjər",
+      "phonetic_text": "fɪg.jər",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmlndXJl&hash=2a0a56dcd1d73d70c878d3a7a658143ba066b679&lang=en&cache-only=0",
-      "phonetic_am_text": "figyēr",
+      "phonetic_am_text": "fig.yēr",
       "img": "",
-      "pronunciation": "ˈfɪɡjɝ",
+      "pronunciation": "ˈfɪgjɚ",
       "senses": [
         {
           "definition": "to form an opinion or assumption about something based on available information or logic",
@@ -41,12 +43,13 @@
       ]
     },
     {
-      "word": "justify",
+      "id": "b53f838d-423b-444d-980b-bb5dc4d977b6",
+      "word": "to justify",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8ganVzdGlmeQ&hash=037da501634045cb611c1000cc8d9474c060b4c4&lang=en&cache-only=0",
-      "phonetic_text": "ʤʌstəfaɪ",
+      "phonetic_text": "ʤəs.tə.faɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ganVzdGlmeQ&hash=037da501634045cb611c1000cc8d9474c060b4c4&lang=en&cache-only=0",
-      "phonetic_am_text": "jastēfai",
+      "phonetic_am_text": "jēs.tē.fai",
       "img": "https://cdn.langeek.co/photo/55216/original/?type=jpeg",
       "pronunciation": "ˈdʒəstəˌfaɪ",
       "senses": [
@@ -78,12 +81,13 @@
       ]
     },
     {
+      "id": "fa865ce6-4010-493a-9668-921ac4ca003c",
       "word": "in the first place",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=aW4gdGhlIGZpcnN0IHBsYWNl&hash=def3333798d678f967d563a5a6874eab4aa3d823&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn ðə fɜrst pleɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gdGhlIGZpcnN0IHBsYWNl&hash=def3333798d678f967d563a5a6874eab4aa3d823&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in dhē fērst pleis",
       "img": "",
       "pronunciation": "ɪnðə fˈɜːstplˌeɪs",
       "senses": [
@@ -111,12 +115,13 @@
       ]
     },
     {
-      "word": "object",
+      "id": "c334cde9-5f80-406f-b323-4d17c6079ffd",
+      "word": "to object",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gb2JqZWN0&hash=df40bd38862928aeb3de311e06a362638b8d0dc1&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:bʤɛkt",
+      "phonetic_text": "ɑb.ʤɛkt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gb2JqZWN0&hash=df40bd38862928aeb3de311e06a362638b8d0dc1&lang=en&cache-only=0",
-      "phonetic_am_text": "aabjekt",
+      "phonetic_am_text": "aab.jekt",
       "img": "",
       "pronunciation": "ˈɑbdʒɛkt/, /əbˈdʒɛkt",
       "senses": [
@@ -148,12 +153,13 @@
       ]
     },
     {
+      "id": "d04b6e13-4819-45f1-8411-1a4b301894b0",
       "word": "objective",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=b2JqZWN0aXZl&hash=81b09f45c7c412a2f57943a323042686389a2e9c&lang=en&cache-only=0",
-      "phonetic_text": "əbʤɛktɪv",
+      "phonetic_text": "əb.ʤɛk.tɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=b2JqZWN0aXZl&hash=81b09f45c7c412a2f57943a323042686389a2e9c&lang=en&cache-only=0",
-      "phonetic_am_text": "ēbjektiv",
+      "phonetic_am_text": "ēb.jek.tiv",
       "img": "https://cdn.langeek.co/photo/49409/original/?type=jpeg",
       "pronunciation": "əbˈdʒɛktɪv",
       "senses": [
@@ -189,12 +195,13 @@
       ]
     },
     {
+      "id": "387720c1-cd6a-43c6-a098-ff9c5b4f668f",
       "word": "subjective",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c3ViamVjdGl2ZQ&hash=f8067ac47c88c85b82377ec0d5605124e3999037&lang=en&cache-only=0",
-      "phonetic_text": "səbʤɛktɪv",
+      "phonetic_text": "səb.ʤɛk.tɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=c3ViamVjdGl2ZQ&hash=f8067ac47c88c85b82377ec0d5605124e3999037&lang=en&cache-only=0",
-      "phonetic_am_text": "sēbjektiv",
+      "phonetic_am_text": "sēb.jek.tiv",
       "img": "https://cdn.langeek.co/photo/49415/original/?type=jpeg",
       "pronunciation": "səbˈdʒɛktɪv",
       "senses": [
@@ -226,12 +233,13 @@
       ]
     },
     {
-      "word": "maintain",
+      "id": "30e20146-caa3-4924-867f-b70bf7c235a9",
+      "word": "to maintain",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFpbnRhaW4&hash=d54a8e55e446e9570bf3c93ee82415ed4d4a85b3&lang=en&cache-only=0",
-      "phonetic_text": "meɪnteɪn",
+      "phonetic_text": "meɪn.teɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFpbnRhaW4&hash=d54a8e55e446e9570bf3c93ee82415ed4d4a85b3&lang=en&cache-only=0",
-      "phonetic_am_text": "meintein",
+      "phonetic_am_text": "mein.tein",
       "img": "",
       "pronunciation": "meɪnˈteɪn",
       "senses": [
@@ -259,6 +267,7 @@
       ]
     },
     {
+      "id": "f3054a8c-149f-48ca-bef8-51b4e4f9adf2",
       "word": "may",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=bWF5&hash=40fd20e8d53c2f9f5c75cb94d104db1c72fca667&lang=en&cache-only=0",
@@ -292,7 +301,8 @@
       ]
     },
     {
-      "word": "name",
+      "id": "b831c902-c726-4a0c-a3e7-e38af26c93ae",
+      "word": "to name",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbmFtZQ&hash=febdfd97a2b9dbaddb26445a99e10e8f5774a94a&lang=en&cache-only=0",
       "phonetic_text": "neɪm",
@@ -329,12 +339,13 @@
       ]
     },
     {
-      "word": "oppose",
+      "id": "3002f363-7aa8-4f0f-bf65-66c33366b390",
+      "word": "to oppose",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gb3Bwb3Nl&hash=42ca2fdc8bd3860036462e3cfef0ff1065a8f78b&lang=en&cache-only=0",
-      "phonetic_text": "əpoʊz",
+      "phonetic_text": "ə.poʊz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gb3Bwb3Nl&hash=42ca2fdc8bd3860036462e3cfef0ff1065a8f78b&lang=en&cache-only=0",
-      "phonetic_am_text": "ēpowz",
+      "phonetic_am_text": "ē.poooz",
       "img": "",
       "pronunciation": "əˈpoʊz",
       "senses": [
@@ -366,12 +377,13 @@
       ]
     },
     {
+      "id": "04949a87-84ac-4bfe-b232-ff0029296394",
       "word": "opposed",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=b3Bwb3NlZA&hash=859692b2ddfde64f4174c8b2c22d3ad5c31ef036&lang=en&cache-only=0",
-      "phonetic_text": "əpoʊzd",
+      "phonetic_text": "ə.poʊzd",
       "phonetic_am": "https://tts.langeek.co/read?text=b3Bwb3NlZA&hash=859692b2ddfde64f4174c8b2c22d3ad5c31ef036&lang=en&cache-only=0",
-      "phonetic_am_text": "ēpowzd",
+      "phonetic_am_text": "ē.pooozd",
       "img": "",
       "pronunciation": "əˈpoʊzd",
       "senses": [
@@ -382,7 +394,8 @@
       ]
     },
     {
-      "word": "praise",
+      "id": "8dc98575-4779-4eb8-880f-ea9e0de2864f",
+      "word": "to praise",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJhaXNl&hash=0960369e5bc202f1260833fc32c81c1bb397b29e&lang=en&cache-only=0",
       "phonetic_text": "preɪz",
@@ -419,13 +432,14 @@
       ]
     },
     {
-      "word": "reckon",
+      "id": "4f5b3a65-d20b-4e59-bc1d-61b8e00b2660",
+      "word": "to reckon",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVja29u&hash=834304e669e3e81428547a7ccbb2293c1c659194&lang=en&cache-only=0",
-      "phonetic_text": "rɛkən",
+      "phonetic_text": "rɛ.kən",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVja29u&hash=834304e669e3e81428547a7ccbb2293c1c659194&lang=en&cache-only=0",
-      "phonetic_am_text": "rekēn",
-      "img": "https://cdn.langeek.co/photo/21228/original/?type=jpeg",
+      "phonetic_am_text": "re.kēn",
+      "img": "https://cdn.langeek.co/photo/60847/original/?type=jpeg",
       "pronunciation": "ˈɹɛkən",
       "senses": [
         {
@@ -452,12 +466,13 @@
       ]
     },
     {
-      "word": "regard",
+      "id": "247a2af4-37f8-44ab-b81e-acfb2ced7113",
+      "word": "to regard",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVnYXJk&hash=dca322f591abaf19ac9688dbfcab80a6541acf53&lang=en&cache-only=0",
-      "phonetic_text": "rɪgɑ:rd",
+      "phonetic_text": "rɪ.gɑrd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVnYXJk&hash=dca322f591abaf19ac9688dbfcab80a6541acf53&lang=en&cache-only=0",
-      "phonetic_am_text": "rigaard",
+      "phonetic_am_text": "ri.gaard",
       "img": "https://cdn.langeek.co/photo/59478/original/?type=jpeg",
       "pronunciation": "ɹɪˈɡɑɹd",
       "senses": [
@@ -481,12 +496,13 @@
       ]
     },
     {
-      "word": "remark",
+      "id": "ac397fcc-26c2-4050-bfdd-23aabc766082",
+      "word": "to remark",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVtYXJr&hash=1dabf212407fc7c0142ce3154761f1718a1f6a1d&lang=en&cache-only=0",
-      "phonetic_text": "rɪmɑ:rk",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVtYXJr&hash=1dabf212407fc7c0142ce3154761f1718a1f6a1d&lang=en&cache-only=0",
-      "phonetic_am_text": "rimaark",
+      "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/17785/original/comment?type=jpeg",
       "pronunciation": "ɹiˈmɑɹk/, /ɹɪˈmɑɹk",
       "senses": [
@@ -514,12 +530,13 @@
       ]
     },
     {
-      "word": "speculate",
+      "id": "a3d1b187-e56e-4dce-aadb-112d4a3e1843",
+      "word": "to speculate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3BlY3VsYXRl&hash=1be847967aa3e55b9164d57009cd00117083b8f2&lang=en&cache-only=0",
-      "phonetic_text": "spɛkjəleɪt",
+      "phonetic_text": "spɛk.jə.leɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3BlY3VsYXRl&hash=1be847967aa3e55b9164d57009cd00117083b8f2&lang=en&cache-only=0",
-      "phonetic_am_text": "spekyēleit",
+      "phonetic_am_text": "spek.yē.leit",
       "img": "https://cdn.langeek.co/photo/59527/original/?type=jpeg",
       "pronunciation": "ˈspɛkjəˌɫeɪt",
       "senses": [
@@ -551,12 +568,13 @@
       ]
     },
     {
+      "id": "7614a09f-da96-4b0e-b785-81f752b8ecd8",
       "word": "speculation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BlY3VsYXRpb24&hash=289f5a14bc12c555ce2d32543b4e47b88fefadfa&lang=en&cache-only=0",
-      "phonetic_text": "spɛkjəleɪʃən",
+      "phonetic_text": "spɛk.jə.leɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BlY3VsYXRpb24&hash=289f5a14bc12c555ce2d32543b4e47b88fefadfa&lang=en&cache-only=0",
-      "phonetic_am_text": "spekyēleishēn",
+      "phonetic_am_text": "spek.yē.lei.shēn",
       "img": "",
       "pronunciation": "ˌspɛkjəˈɫeɪʃən",
       "senses": [
@@ -588,6 +606,7 @@
       ]
     },
     {
+      "id": "f7f0e60f-7864-4ec6-a972-071ddf0db252",
       "word": "stance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RhbmNl&hash=8a5cdeed69cc2c78a586e0d7591c94479703568e&lang=en&cache-only=0",
@@ -617,7 +636,8 @@
       ]
     },
     {
-      "word": "stand",
+      "id": "5725b282-6f6c-42cd-a8f4-03be3ba939fb",
+      "word": "to stand",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RhbmQ&hash=c08de753623ef1c41bd744b8bab5dfeebef02c9d&lang=en&cache-only=0",
       "phonetic_text": "stænd",
@@ -650,12 +670,13 @@
       ]
     },
     {
-      "word": "sum up",
+      "id": "12c618d9-ba05-4a5c-b4c0-436e1d7ccb05",
+      "word": "to sum up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3VtIHVw&hash=8119fa1818a56e05079a713d6aa0e35178624e26&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sʌm ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3VtIHVw&hash=8119fa1818a56e05079a713d6aa0e35178624e26&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sam ap",
       "img": "",
       "pronunciation": "sˈʌm ˈʌp",
       "senses": [
@@ -679,12 +700,13 @@
       ]
     },
     {
+      "id": "46704a95-1322-487d-8123-6b3fcad4fb95",
       "word": "misunderstanding",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWlzdW5kZXJzdGFuZGluZw&hash=467edde6a09c9a0c6abe0675a19580942734301c&lang=en&cache-only=0",
-      "phonetic_text": "mɪsəndərstændɪng",
+      "phonetic_text": "mɪs.ʌn.dərs.tæn.dɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=bWlzdW5kZXJzdGFuZGluZw&hash=467edde6a09c9a0c6abe0675a19580942734301c&lang=en&cache-only=0",
-      "phonetic_am_text": "misēndērstānding",
+      "phonetic_am_text": "mis.an.dērs.tān.ding",
       "img": "",
       "pronunciation": "ˌmɪsəndɝˈstændɪŋ",
       "senses": [
@@ -716,12 +738,13 @@
       ]
     },
     {
+      "id": "d004cc17-7e01-4a86-b610-f9a12ed1030e",
       "word": "perception",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVyY2VwdGlvbg&hash=a54ebddd9f7eb29a231bb87a46f746672e4ad593&lang=en&cache-only=0",
-      "phonetic_text": "pərsɛpʃən",
+      "phonetic_text": "pɜr.sɛp.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVyY2VwdGlvbg&hash=a54ebddd9f7eb29a231bb87a46f746672e4ad593&lang=en&cache-only=0",
-      "phonetic_am_text": "pērsepshēn",
+      "phonetic_am_text": "pēr.sep.shēn",
       "img": "",
       "pronunciation": "pɝˈsɛpʃən",
       "senses": [
@@ -753,12 +776,13 @@
       ]
     },
     {
+      "id": "6524f74e-7e5e-48e3-b1f2-7dde165ef0f8",
       "word": "position",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9zaXRpb24&hash=f3c0515bf184c5cff2bf9cc7a2a2d52ba6bd1262&lang=en&cache-only=0",
-      "phonetic_text": "pəzɪʃən",
+      "phonetic_text": "pə.zɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9zaXRpb24&hash=f3c0515bf184c5cff2bf9cc7a2a2d52ba6bd1262&lang=en&cache-only=0",
-      "phonetic_am_text": "pēzishēn",
+      "phonetic_am_text": "pē.zi.shēn",
       "img": "",
       "pronunciation": "pəˈzɪʃən",
       "senses": [
@@ -786,10 +810,11 @@
       ]
     },
     {
+      "id": "f29304b5-de0b-4201-8555-0d3bf61f1c3c",
       "word": "proof",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvb2Y&hash=fd9428ab5aec8f245de385b6215f8250855facaa&lang=en&cache-only=0",
-      "phonetic_text": "pru:f",
+      "phonetic_text": "pruf",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvb2Y&hash=fd9428ab5aec8f245de385b6215f8250855facaa&lang=en&cache-only=0",
       "phonetic_am_text": "proof",
       "img": "",
@@ -819,12 +844,13 @@
       ]
     },
     {
+      "id": "e229a64c-72ed-4470-b6e5-ff631dc5e565",
       "word": "public opinion",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHVibGljIG9waW5pb24&hash=e5911d82980691444a32af3a69242709584178cc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pəb.lɪk ə.pɪn.jən",
       "phonetic_am": "https://tts.langeek.co/read?text=cHVibGljIG9waW5pb24&hash=e5911d82980691444a32af3a69242709584178cc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pēb.lik ē.pin.yēn",
       "img": "",
       "pronunciation": "pˈʌblɪk əpˈɪniən",
       "senses": [
@@ -856,14 +882,15 @@
       ]
     },
     {
+      "id": "2bbbc709-df5c-472c-8f58-09efb875a758",
       "word": "reason",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVhc29u&hash=465b98ed5929e926bc9a9ae46c8725b55176b02f&lang=en&cache-only=0",
-      "phonetic_text": "ri:zən",
+      "phonetic_text": "ri.zən",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVhc29u&hash=465b98ed5929e926bc9a9ae46c8725b55176b02f&lang=en&cache-only=0",
-      "phonetic_am_text": "reezēn",
+      "phonetic_am_text": "ri.zēn",
       "img": "",
-      "pronunciation": "ˈɹizən",
+      "pronunciation": "ˈrizən",
       "senses": [
         {
           "definition": "the mind's power to understand or think logically",
@@ -889,12 +916,13 @@
       ]
     },
     {
+      "id": "f5a91508-6ec3-4f1b-8f4e-fd3f12fa1ef0",
       "word": "remark",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVtYXJr&hash=e62cd747e188e5dc2f27dc37f4828f9449312fdb&lang=en&cache-only=0",
-      "phonetic_text": "rɪmɑ:rk",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVtYXJr&hash=e62cd747e188e5dc2f27dc37f4828f9449312fdb&lang=en&cache-only=0",
-      "phonetic_am_text": "rimaark",
+      "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/17785/original/comment?type=jpeg",
       "pronunciation": "ɹiˈmɑɹk/, /ɹɪˈmɑɹk",
       "senses": [
@@ -926,12 +954,13 @@
       ]
     },
     {
+      "id": "e99fbd47-dafc-4faa-ac71-e961ae0b2d99",
       "word": "reputation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVwdXRhdGlvbg&hash=04ab1a52c04420b95af3ea6104d3739ce6bfc70d&lang=en&cache-only=0",
-      "phonetic_text": "rɛpjəteɪʃən",
+      "phonetic_text": "rɛp.jə.teɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVwdXRhdGlvbg&hash=04ab1a52c04420b95af3ea6104d3739ce6bfc70d&lang=en&cache-only=0",
-      "phonetic_am_text": "repyēteishēn",
+      "phonetic_am_text": "rep.yē.tei.shēn",
       "img": "",
       "pronunciation": "ˌɹɛpjəˈteɪʃən",
       "senses": [
@@ -963,6 +992,7 @@
       ]
     },
     {
+      "id": "a8a05f4b-1e0c-4b4d-a466-34ecb66a6818",
       "word": "right",
       "pos": "interjection",
       "phonetic": "https://tts.langeek.co/read?text=cmlnaHQ&hash=33365bcec53c098a6f39584838658b862008d6fe&lang=en&cache-only=0",
@@ -979,6 +1009,7 @@
       ]
     },
     {
+      "id": "783bc5f8-5ce4-4141-951c-d8ebd9944090",
       "word": "side",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2lkZQ&hash=3c335b15eec1e0d55d15fbfd511e11e8683e74ce&lang=en&cache-only=0",
@@ -1016,14 +1047,15 @@
       ]
     },
     {
+      "id": "92751588-ab1f-4917-981a-82b5a71a13ac",
       "word": "while",
       "pos": "conjunction",
       "phonetic": "https://tts.langeek.co/read?text=d2hpbGU&hash=212b8edee08382a08ca239e1711a104825314df5&lang=en&cache-only=0",
       "phonetic_text": "waɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hpbGU&hash=212b8edee08382a08ca239e1711a104825314df5&lang=en&cache-only=0",
-      "phonetic_am_text": "wail",
+      "phonetic_am_text": "vail",
       "img": "",
-      "pronunciation": "ˈhwaɪɫ/, /ˈwaɪɫ",
+      "pronunciation": "waɪl",
       "senses": [
         {
           "definition": "used to indicate contrast",
@@ -1045,14 +1077,15 @@
       ]
     },
     {
-      "word": "sign",
+      "id": "6af5fcf4-4d03-42ec-87e4-5774fafacc0d",
+      "word": "to sign",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2lnbg&hash=ff26b0d4cc00218ede5ed415c30777e2ea9addcb&lang=en&cache-only=0",
       "phonetic_text": "saɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2lnbg&hash=ff26b0d4cc00218ede5ed415c30777e2ea9addcb&lang=en&cache-only=0",
       "phonetic_am_text": "sain",
       "img": "https://cdn.langeek.co/photo/18970/original/?type=jpeg",
-      "pronunciation": "ˈsaɪn",
+      "pronunciation": "saɪn",
       "senses": [
         {
           "definition": "to use sign language for communication",
@@ -1082,10 +1115,11 @@
       ]
     },
     {
+      "id": "7857b11a-a26a-45e6-bafc-805166896322",
       "word": "in opposition to {sb/sth}",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=aW4gb3Bwb3NpdGlvbiB0byBzb21lYm9keSBvciBzb21ldGhpbmc&hash=dc72b668769ae568dad0df7080ada37fa07510d6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gb3Bwb3NpdGlvbiB0byBzb21lYm9keSBvciBzb21ldGhpbmc&hash=dc72b668769ae568dad0df7080ada37fa07510d6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -1111,12 +1145,13 @@
       ]
     },
     {
+      "id": "f38f521c-9477-40ae-a7c9-c7058b5ebe40",
       "word": "likewise",
       "pos": "interjection",
       "phonetic": "https://tts.langeek.co/read?text=bGlrZXdpc2U&hash=1c596e25e9867c10c8cbe2cf1855d8f86ab04b76&lang=en&cache-only=0",
-      "phonetic_text": "laɪkwaɪz",
+      "phonetic_text": "laɪk.waɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlrZXdpc2U&hash=1c596e25e9867c10c8cbe2cf1855d8f86ab04b76&lang=en&cache-only=0",
-      "phonetic_am_text": "laikwaiz",
+      "phonetic_am_text": "laik.vaiz",
       "img": "",
       "pronunciation": "ˈɫaɪˌkwaɪz",
       "senses": [
@@ -1127,12 +1162,13 @@
       ]
     },
     {
+      "id": "ad1b0bbb-25a1-484f-b293-ebca1ccad936",
       "word": "judgment",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=anVkZ21lbnQ&hash=3be8d14cd73273745ceb929977f80308d14d915e&lang=en&cache-only=0",
-      "phonetic_text": "ʤʌʤmənt",
+      "phonetic_text": "ʤəʤ.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=anVkZ21lbnQ&hash=3be8d14cd73273745ceb929977f80308d14d915e&lang=en&cache-only=0",
-      "phonetic_am_text": "jajmēnt",
+      "phonetic_am_text": "jēj.mēnt",
       "img": "",
       "pronunciation": "ˈdʒədʒmənt",
       "senses": [

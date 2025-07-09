@@ -1,17 +1,19 @@
 {
+  "id": "886e1b0f-e4d9-43a6-bd77-06a056ba32f2",
   "topic": "food_ingredients",
   "title": "Types of Meat and Offal",
   "lesson": "lesson_23",
   "word_list": [
     {
+      "id": "c2d37684-ca5b-4ef8-bc0b-2fb2e192594f",
       "word": "beef",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVlZg&hash=db4a70b1b5fee00c4a7f0d420235e2bec1059ab7&lang=en&cache-only=0",
-      "phonetic_text": "bi:f",
+      "phonetic_text": "bif",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVlZg&hash=db4a70b1b5fee00c4a7f0d420235e2bec1059ab7&lang=en&cache-only=0",
-      "phonetic_am_text": "beef",
-      "img": "https://cdn.langeek.co/photo/27075/original/beef?type=jpeg",
-      "pronunciation": "ˈbif",
+      "phonetic_am_text": "bif",
+      "img": "https://cdn.langeek.co/photo/61794/original/beef?type=jpeg",
+      "pronunciation": "bif",
       "senses": [
         {
           "definition": "meat that is from a cow",
@@ -33,14 +35,15 @@
       ]
     },
     {
+      "id": "73057c7f-588d-417a-8c4f-500d674cd2b0",
       "word": "pork",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9yaw&hash=23442b0e7ab06d75fdc13703ec50cb5bf725d4a1&lang=en&cache-only=0",
-      "phonetic_text": "pɔ:rk",
+      "phonetic_text": "pɔrk",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9yaw&hash=23442b0e7ab06d75fdc13703ec50cb5bf725d4a1&lang=en&cache-only=0",
-      "phonetic_am_text": "paawrk",
-      "img": "https://cdn.langeek.co/photo/14019/original/pork?type=jpeg",
-      "pronunciation": "ˈpɔɹk",
+      "phonetic_am_text": "pawrk",
+      "img": "https://cdn.langeek.co/photo/61812/original/pork?type=jpeg",
+      "pronunciation": "pɔrk",
       "senses": [
         {
           "definition": "meat from a pig, eaten as food",
@@ -62,14 +65,15 @@
       ]
     },
     {
+      "id": "76aafa98-fade-489a-8e4c-0753f4e6f813",
       "word": "poultry",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG91bHRyeQ&hash=6f4e6da38cb309179dd682375ed4c0fe11eeee2e&lang=en&cache-only=0",
-      "phonetic_text": "poʊltri",
+      "phonetic_text": "poʊlt.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=cG91bHRyeQ&hash=6f4e6da38cb309179dd682375ed4c0fe11eeee2e&lang=en&cache-only=0",
-      "phonetic_am_text": "powltri",
+      "phonetic_am_text": "pooolt.ri",
       "img": "https://cdn.langeek.co/photo/18207/original/white-meat?type=jpeg",
-      "pronunciation": "ˈpoʊɫtɹi",
+      "pronunciation": "ˈpoʊltri",
       "senses": [
         {
           "definition": "meat of chickens, turkeys, and ducks",
@@ -91,14 +95,15 @@
       ]
     },
     {
+      "id": "9e68113f-481c-4d77-8038-b452f7751bfe",
       "word": "veal",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmVhbA&hash=74b323747eea70a23074657d590913c043b2ed1b&lang=en&cache-only=0",
       "phonetic_text": "vi:l",
       "phonetic_am": "https://tts.langeek.co/read?text=dmVhbA&hash=74b323747eea70a23074657d590913c043b2ed1b&lang=en&cache-only=0",
-      "phonetic_am_text": "veel",
+      "phonetic_am_text": "vil",
       "img": "https://cdn.langeek.co/photo/18283/original/veal?type=jpeg",
-      "pronunciation": "ˈviɫ",
+      "pronunciation": "viːl",
       "senses": [
         {
           "definition": "meat of a young cow",
@@ -120,12 +125,13 @@
       ]
     },
     {
+      "id": "1b21754d-29ee-42ea-bda5-31b16e140dc1",
       "word": "chitterlings",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hpdHRlcmxpbmdz&hash=e18bbc7247629c76b5565406e38f3c1c8b067586&lang=en&cache-only=0",
-      "phonetic_text": "ʧɪtərlɪngz",
+      "phonetic_text": "ʧɪ.tɜr.lɪngz",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hpdHRlcmxpbmdz&hash=e18bbc7247629c76b5565406e38f3c1c8b067586&lang=en&cache-only=0",
-      "phonetic_am_text": "chitērlingz",
+      "phonetic_am_text": "chi.tēr.lingz",
       "img": "https://cdn.langeek.co/photo/36230/original/?type=jpeg",
       "pronunciation": "ˈtʃɪtɝɫɪŋz",
       "senses": [
@@ -145,6 +151,7 @@
       ]
     },
     {
+      "id": "1b4e5f91-6b51-4549-bb26-4db66d514e7b",
       "word": "tripe",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJpcGU&hash=96f581e1ea067db45d030a852626a0e672a900f8&lang=en&cache-only=0",
@@ -170,12 +177,13 @@
       ]
     },
     {
+      "id": "c672f019-058d-4683-8959-d35fd5bd941d",
       "word": "corned beef",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29ybmVkIGJlZWY&hash=f01808c378c2d2cb171833657d000c0cbbce8c86&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɔ:rnd bif",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29ybmVkIGJlZWY&hash=f01808c378c2d2cb171833657d000c0cbbce8c86&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kawrnd bif",
       "img": "",
       "pronunciation": "kˈɔːɹnd bˈiːf",
       "senses": [
@@ -195,12 +203,13 @@
       ]
     },
     {
+      "id": "a9a8d9b3-800c-4ade-8cca-cd6821942fb0",
       "word": "bully beef",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVsbHkgYmVlZg&hash=edb6a9f488482ba92c063d12f68e78de2d187179&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bʊ.li bif",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVsbHkgYmVlZg&hash=edb6a9f488482ba92c063d12f68e78de2d187179&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "boo.li bif",
       "img": "",
       "pronunciation": "bˈʊli bˈiːf",
       "senses": [
@@ -220,12 +229,13 @@
       ]
     },
     {
+      "id": "f135ee6e-481c-4c5f-b220-676cccef43f8",
       "word": "ground beef",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JvdW5kIGJlZWY&hash=6c61b2f7fc4297692dbc23f82171ddb346f6c788&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "graʊnd bif",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JvdW5kIGJlZWY&hash=6c61b2f7fc4297692dbc23f82171ddb346f6c788&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "graoond bif",
       "img": "https://cdn.langeek.co/photo/31193/original/?type=jpeg",
       "pronunciation": "ɡɹˈaʊnd bˈiːf",
       "senses": [
@@ -245,6 +255,7 @@
       ]
     },
     {
+      "id": "0de2e4c9-8052-4edb-855f-244164396872",
       "word": "ham",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFt&hash=1c255bac776ec5899c269a0eb36d7e3f01e14e0b&lang=en&cache-only=0",
@@ -252,7 +263,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=aGFt&hash=1c255bac776ec5899c269a0eb36d7e3f01e14e0b&lang=en&cache-only=0",
       "phonetic_am_text": "hām",
       "img": "https://cdn.langeek.co/photo/31646/original/?type=jpeg",
-      "pronunciation": "ˈhæm",
+      "pronunciation": "hæm",
       "senses": [
         {
           "definition": "a type of meat cut from a pig's thigh, usually smoked or salted",
@@ -282,12 +293,13 @@
       ]
     },
     {
+      "id": "8b9a9e87-9c36-4097-84ab-9e0bd257e498",
       "word": "chicken",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hpY2tlbg&hash=43db51a247bbe6686618629ba90aff6ab2ac7959&lang=en&cache-only=0",
-      "phonetic_text": "ʧɪkən",
+      "phonetic_text": "ʧɪ.kən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hpY2tlbg&hash=43db51a247bbe6686618629ba90aff6ab2ac7959&lang=en&cache-only=0",
-      "phonetic_am_text": "chikēn",
+      "phonetic_am_text": "chi.kēn",
       "img": "https://cdn.langeek.co/photo/27153/original/chicken?type=jpeg",
       "pronunciation": "ˈtʃɪkən",
       "senses": [
@@ -311,6 +323,7 @@
       ]
     },
     {
+      "id": "f06bf4e6-2653-4ad8-a1b2-a16d755d85d3",
       "word": "duck",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHVjaw&hash=0c1955d898a556b0a64c42c40f2342a283366bda&lang=en&cache-only=0",
@@ -318,7 +331,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=ZHVjaw&hash=0c1955d898a556b0a64c42c40f2342a283366bda&lang=en&cache-only=0",
       "phonetic_am_text": "dak",
       "img": "https://cdn.langeek.co/photo/18315/original/duck?type=jpeg",
-      "pronunciation": "ˈdək",
+      "pronunciation": "dʌk",
       "senses": [
         {
           "definition": "meat of a duck, eaten as food",
@@ -348,6 +361,7 @@
       ]
     },
     {
+      "id": "cea03440-5dd6-49ba-b511-501596c04f30",
       "word": "goose",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29vc2U&hash=8a8d4d1e39486d8c1e807c0bd1e25c8d447662ff&lang=en&cache-only=0",
@@ -355,7 +369,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Z29vc2U&hash=8a8d4d1e39486d8c1e807c0bd1e25c8d447662ff&lang=en&cache-only=0",
       "phonetic_am_text": "goos",
       "img": "https://cdn.langeek.co/photo/18205/original/turkey?type=jpeg",
-      "pronunciation": "ˈɡus",
+      "pronunciation": "ɡuːs",
       "senses": [
         {
           "definition": "meat of a goose, eaten as food",
@@ -381,12 +395,13 @@
       ]
     },
     {
+      "id": "975f98b0-3b46-43a9-a017-c4501f95d866",
       "word": "turkey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHVya2V5&hash=aa06d314b6d2c0d1fd749eb9ee25422e6d33b78d&lang=en&cache-only=0",
-      "phonetic_text": "tɜrki",
+      "phonetic_text": "tɜr.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=dHVya2V5&hash=aa06d314b6d2c0d1fd749eb9ee25422e6d33b78d&lang=en&cache-only=0",
-      "phonetic_am_text": "tērki",
+      "phonetic_am_text": "tēr.ki",
       "img": "https://cdn.langeek.co/photo/18205/original/turkey?type=jpeg",
       "pronunciation": "ˈtɝki",
       "senses": [
@@ -410,12 +425,13 @@
       ]
     },
     {
+      "id": "d75f66ce-175e-471f-b03e-066051ab74ee",
       "word": "squab",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3F1YWI&hash=6d40ac53351000cf946853c5f7d16fe385e98f34&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skwɑ:b",
       "phonetic_am": "https://tts.langeek.co/read?text=c3F1YWI&hash=6d40ac53351000cf946853c5f7d16fe385e98f34&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skvaab",
       "img": "https://cdn.langeek.co/photo/36238/original/?type=jpeg",
       "pronunciation": "skwˈɑːb",
       "senses": [
@@ -435,12 +451,13 @@
       ]
     },
     {
+      "id": "faf1f7f5-e3f3-4eab-9c9d-9dca9b7ff9f6",
       "word": "quail",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cXVhaWw&hash=98469b33a4d2f2b8dd911ffd24811e1267c2a7f7&lang=en&cache-only=0",
       "phonetic_text": "kweɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=cXVhaWw&hash=98469b33a4d2f2b8dd911ffd24811e1267c2a7f7&lang=en&cache-only=0",
-      "phonetic_am_text": "kweil",
+      "phonetic_am_text": "kveil",
       "img": "https://cdn.langeek.co/photo/36236/original/?type=jpeg",
       "pronunciation": "ˈkweɪɫ",
       "senses": [
@@ -460,12 +477,13 @@
       ]
     },
     {
+      "id": "ef971723-e629-4053-bf63-25764d5b9674",
       "word": "grouse",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JvdXNl&hash=bb8cde425315d6be355df6aee19089f2fe1f7cf3&lang=en&cache-only=0",
       "phonetic_text": "graʊs",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JvdXNl&hash=bb8cde425315d6be355df6aee19089f2fe1f7cf3&lang=en&cache-only=0",
-      "phonetic_am_text": "graws",
+      "phonetic_am_text": "graoos",
       "img": "https://cdn.langeek.co/photo/28013/original/?type=jpeg",
       "pronunciation": "ˈɡɹaʊs",
       "senses": [
@@ -485,12 +503,13 @@
       ]
     },
     {
+      "id": "d27786f9-0a3f-4202-96cb-ff5beed23654",
       "word": "pheasant",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGhlYXNhbnQ&hash=480305e7edc9afa0cb7edafb24b7b98abb712071&lang=en&cache-only=0",
-      "phonetic_text": "fɛzənt",
+      "phonetic_text": "fɛ.zənt",
       "phonetic_am": "https://tts.langeek.co/read?text=cGhlYXNhbnQ&hash=480305e7edc9afa0cb7edafb24b7b98abb712071&lang=en&cache-only=0",
-      "phonetic_am_text": "fezēnt",
+      "phonetic_am_text": "fe.zēnt",
       "img": "https://cdn.langeek.co/photo/32588/original/?type=jpeg",
       "pronunciation": "ˈfɛzənt",
       "senses": [
@@ -506,14 +525,15 @@
       ]
     },
     {
+      "id": "dddd7406-1e46-43d4-87ac-f923ce4c7efa",
       "word": "liver",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGl2ZXI&hash=814bfad2e51683e116043a03efea8658235eed01&lang=en&cache-only=0",
-      "phonetic_text": "lɪvər",
+      "phonetic_text": "lɪ.vɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bGl2ZXI&hash=814bfad2e51683e116043a03efea8658235eed01&lang=en&cache-only=0",
-      "phonetic_am_text": "livēr",
+      "phonetic_am_text": "li.vēr",
       "img": "https://cdn.langeek.co/photo/28021/original/?type=jpeg",
-      "pronunciation": "ˈɫɪvɝ",
+      "pronunciation": "ˈlɪvɚ",
       "senses": [
         {
           "definition": "the liver of an animal that can be cooked and eaten",
@@ -522,14 +542,15 @@
       ]
     },
     {
+      "id": "49ff56db-26fb-4501-9a89-3712ffddc5cb",
       "word": "red meat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVkIG1lYXQ&hash=a42ee48f8229085b73ebb59550596cbf1e29d719&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɛd mi:t",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVkIG1lYXQ&hash=a42ee48f8229085b73ebb59550596cbf1e29d719&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "red mit",
       "img": "https://cdn.langeek.co/photo/18171/original/red-meat?type=jpeg",
-      "pronunciation": "ɹˈɛd mˈiːt",
+      "pronunciation": "ˌrɛd ˈmiːt",
       "senses": [
         {
           "definition": "the meat such as beef and lamb that turn brown when cooked",
@@ -559,14 +580,15 @@
       ]
     },
     {
+      "id": "87b66a5f-ffec-4d89-84b9-eb52e8d3d340",
       "word": "white meat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2hpdGUgbWVhdA&hash=af12b08a62ecd5c87467ad18bf05f851372625d8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "waɪt mi:t",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hpdGUgbWVhdA&hash=af12b08a62ecd5c87467ad18bf05f851372625d8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vait mit",
       "img": "https://cdn.langeek.co/photo/18207/original/white-meat?type=jpeg",
-      "pronunciation": "wˈaɪt mˈiːt",
+      "pronunciation": "ˌwaɪt ˈmiːt",
       "senses": [
         {
           "definition": "the meat such as chicken, rabbit, etc., that is pale in color",
@@ -592,12 +614,13 @@
       ]
     },
     {
+      "id": "66e54926-9f47-4a27-82b5-af4a19b68738",
       "word": "sausage",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2F1c2FnZQ&hash=fc8e28b9f0aa11b5b106bf99280da67737ba9dd7&lang=en&cache-only=0",
-      "phonetic_text": "sɔ:səʤ",
+      "phonetic_text": "sɑ:.sɪʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=c2F1c2FnZQ&hash=fc8e28b9f0aa11b5b106bf99280da67737ba9dd7&lang=en&cache-only=0",
-      "phonetic_am_text": "saawsēj",
+      "phonetic_am_text": "saa.sij",
       "img": "https://cdn.langeek.co/photo/27115/original/sausage?type=jpeg",
       "pronunciation": "ˈsɑːsɪdʒ",
       "senses": [
@@ -629,12 +652,13 @@
       ]
     },
     {
+      "id": "0053a1fa-872e-4dc2-9903-b38e2b5f540b",
       "word": "salt-cured",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c2FsdC1jdXJlZA&hash=d563245d882c6f14586522100f0de8da22b9abc1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɔ:lt-kjʊrd",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FsdC1jdXJlZA&hash=d563245d882c6f14586522100f0de8da22b9abc1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sawlt-kyoord",
       "img": "",
       "pronunciation": "sˈɑːltkjˈʊɹd",
       "senses": [
@@ -654,12 +678,13 @@
       ]
     },
     {
+      "id": "679fdf89-cbbb-4c32-ac96-7c1ae833adde",
       "word": "lunch meat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bHVuY2ggbWVhdA&hash=1a3e0af2425f05d278a2ae9824982805b7b66d3d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lʌnʧ mi:t",
       "phonetic_am": "https://tts.langeek.co/read?text=bHVuY2ggbWVhdA&hash=1a3e0af2425f05d278a2ae9824982805b7b66d3d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lanch mit",
       "img": "https://cdn.langeek.co/photo/28023/original/?type=jpeg",
       "pronunciation": "lˈʌntʃ mˈiːt",
       "senses": [
@@ -679,12 +704,13 @@
       ]
     },
     {
+      "id": "54d37845-392f-4a0b-bb59-edfe1e4d4a83",
       "word": "bushmeat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVzaG1lYXQ&hash=b356b9f6eefe8b6c30f69e871889c2c26325f67e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bʊʃ.mi:t",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVzaG1lYXQ&hash=b356b9f6eefe8b6c30f69e871889c2c26325f67e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "boosh.mit",
       "img": "",
       "pronunciation": "bˈʊʃmiːt",
       "senses": [
@@ -700,6 +726,7 @@
       ]
     },
     {
+      "id": "e82fb0a6-d740-4fd4-a95b-2600d64f5f5a",
       "word": "brain",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJhaW4&hash=680e4f8d64ce52f344e7cd50b0559b751969d388&lang=en&cache-only=0",
@@ -725,6 +752,7 @@
       ]
     },
     {
+      "id": "4d297cda-07d7-4f66-9779-ab5938aadd2e",
       "word": "tongue",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dG9uZ3Vl&hash=78f1614b1f8e52c84ba2bbc0818335433e4e8ba8&lang=en&cache-only=0",
@@ -750,12 +778,13 @@
       ]
     },
     {
+      "id": "f61876cd-22ae-4d7a-9ea5-84f881e00798",
       "word": "kidney",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2lkbmV5&hash=b74334be1a8f97342229d0b9a07d7674faf039bd&lang=en&cache-only=0",
-      "phonetic_text": "kɪdni",
+      "phonetic_text": "kɪd.ni",
       "phonetic_am": "https://tts.langeek.co/read?text=a2lkbmV5&hash=b74334be1a8f97342229d0b9a07d7674faf039bd&lang=en&cache-only=0",
-      "phonetic_am_text": "kidni",
+      "phonetic_am_text": "kid.ni",
       "img": "https://cdn.langeek.co/photo/32930/original/?type=jpeg",
       "pronunciation": "ˈkɪdni",
       "senses": [
@@ -775,12 +804,13 @@
       ]
     },
     {
+      "id": "3904bbbd-96cd-4058-a481-26159b16b4d6",
       "word": "sweetbread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3dlZXRicmVhZA&hash=1c18cccd6c5b8dd53408ad68269ea3cb498562fd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "swi:t.brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=c3dlZXRicmVhZA&hash=1c18cccd6c5b8dd53408ad68269ea3cb498562fd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "svit.bred",
       "img": "",
       "pronunciation": "swˈiːtbɹɛd",
       "senses": [
@@ -800,12 +830,13 @@
       ]
     },
     {
+      "id": "a09808f2-70c9-4f8d-8099-dc04c697b0a0",
       "word": "halal",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aGFsYWw&hash=84ce71bb012fcfe6d9247659ab232f253b5e6d79&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hæ.ləl",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFsYWw&hash=84ce71bb012fcfe6d9247659ab232f253b5e6d79&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hā.lēl",
       "img": "",
       "pronunciation": "hˈæləl",
       "senses": [
@@ -816,12 +847,13 @@
       ]
     },
     {
+      "id": "a20ba19b-836d-4bba-a980-ae60d11c90f7",
       "word": "kosher",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=a29zaGVy&hash=251cfd08c484eaaa488ace94959e12a505a0e478&lang=en&cache-only=0",
-      "phonetic_text": "koʊʃər",
+      "phonetic_text": "koʊ.ʃɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=a29zaGVy&hash=251cfd08c484eaaa488ace94959e12a505a0e478&lang=en&cache-only=0",
-      "phonetic_am_text": "kowshēr",
+      "phonetic_am_text": "kooo.shēr",
       "img": "",
       "pronunciation": "ˈkoʊʃɝ",
       "senses": [
@@ -845,12 +877,13 @@
       ]
     },
     {
+      "id": "62cb43ab-0079-47b6-93c7-d3654f4f19d9",
       "word": "dark meat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGFyayBtZWF0&hash=2a71104eb8f1ef772434db61adc827e51c596414&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɑrk mi:t",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGFyayBtZWF0&hash=2a71104eb8f1ef772434db61adc827e51c596414&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "daark mit",
       "img": "https://cdn.langeek.co/photo/28013/original/?type=jpeg",
       "pronunciation": "dˈɑːɹk mˈiːt",
       "senses": [
@@ -870,6 +903,7 @@
       ]
     },
     {
+      "id": "17901830-16ac-420a-92a5-abd438e523ba",
       "word": "fish",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmlzaA&hash=fdb92758151e316180093ddbf02f81bac6bfe227&lang=en&cache-only=0",
@@ -903,12 +937,13 @@
       ]
     },
     {
+      "id": "e5120a3b-2750-4569-894c-b9db115ed68d",
       "word": "mutton",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXV0dG9u&hash=47b29b181bd30565e320530e2c567b8abb09ca7e&lang=en&cache-only=0",
-      "phonetic_text": "mʌtən",
+      "phonetic_text": "mə.tən",
       "phonetic_am": "https://tts.langeek.co/read?text=bXV0dG9u&hash=47b29b181bd30565e320530e2c567b8abb09ca7e&lang=en&cache-only=0",
-      "phonetic_am_text": "matēn",
+      "phonetic_am_text": "mē.tēn",
       "img": "https://cdn.langeek.co/photo/31195/original/?type=jpeg",
       "pronunciation": "ˈmətən",
       "senses": [
@@ -924,12 +959,13 @@
       ]
     },
     {
+      "id": "10f2a5a4-4ba0-4c18-a875-74241593584c",
       "word": "venison",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmVuaXNvbg&hash=6897b8acb1f72f0572e5c44db9c830ea259445b9&lang=en&cache-only=0",
-      "phonetic_text": "vɛnəsən",
+      "phonetic_text": "vɛ.nə.sən",
       "phonetic_am": "https://tts.langeek.co/read?text=dmVuaXNvbg&hash=6897b8acb1f72f0572e5c44db9c830ea259445b9&lang=en&cache-only=0",
-      "phonetic_am_text": "venēsēn",
+      "phonetic_am_text": "ve.nē.sēn",
       "img": "https://cdn.langeek.co/photo/32126/original/?type=jpeg",
       "pronunciation": "ˈvɛnəsən",
       "senses": [
@@ -949,38 +985,31 @@
       ]
     },
     {
+      "id": "7e56c047-46c4-4bae-b3fe-aa7953bfbb08",
       "word": "chevon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hldm9u&hash=d68696072b19b8e9b3caef78d2cc320e305719bc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "svən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hldm9u&hash=d68696072b19b8e9b3caef78d2cc320e305719bc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "svēn",
       "img": "https://cdn.langeek.co/photo/36228/original/?type=jpeg",
       "pronunciation": "ˈshevən",
       "senses": [
         {
           "definition": "young goat meat known for its tender texture, delicate flavor, and lean profile, used in various cuisines worldwide",
-          "examples": [
-            {
-              "cf": "",
-              "x": "As a specialty dish, the chef prepared a gourmet chevon rack, perfectly seared and served with a delicate herb-infused sauce."
-            },
-            {
-              "cf": "",
-              "x": "He mastered the art of slow-cooking chevon shanks."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "4e66d35c-e02b-40fb-9704-f469b0138407",
       "word": "lamb",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFtYg&hash=d1881bb6ff7f5fb2c4181ace3e46312552f257ac&lang=en&cache-only=0",
       "phonetic_text": "læm",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFtYg&hash=d1881bb6ff7f5fb2c4181ace3e46312552f257ac&lang=en&cache-only=0",
       "phonetic_am_text": "lām",
-      "img": "https://cdn.langeek.co/photo/15837/original/lamb?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/61804/original/lamb?type=jpeg",
       "pronunciation": "læm",
       "senses": [
         {
@@ -1003,12 +1032,13 @@
       ]
     },
     {
+      "id": "93839815-66e7-40ec-ac0e-b9f127cbbbf3",
       "word": "rabbit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFiYml0&hash=4d12b5f99d6fc02b8be99b34cf5bcb31ce0f24d6&lang=en&cache-only=0",
-      "phonetic_text": "ræbət",
+      "phonetic_text": "ræ.bɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=cmFiYml0&hash=4d12b5f99d6fc02b8be99b34cf5bcb31ce0f24d6&lang=en&cache-only=0",
-      "phonetic_am_text": "rābēt",
+      "phonetic_am_text": "rā.bit",
       "img": "https://cdn.langeek.co/photo/27111/original/rabbit?type=jpeg",
       "pronunciation": "ˈræbɪt",
       "senses": [
@@ -1036,12 +1066,13 @@
       ]
     },
     {
+      "id": "34dd43b8-1cbe-48d2-9a7f-22f5aaaa52a0",
       "word": "gristle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3Jpc3RsZQ&hash=3aabb943d9aa43db75a7d5b5d3f5a199e3b8e1e8&lang=en&cache-only=0",
-      "phonetic_text": "grɪsəl",
+      "phonetic_text": "grɪ.səl",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3Jpc3RsZQ&hash=3aabb943d9aa43db75a7d5b5d3f5a199e3b8e1e8&lang=en&cache-only=0",
-      "phonetic_am_text": "grisēl",
+      "phonetic_am_text": "gri.sēl",
       "img": "https://cdn.langeek.co/photo/32648/original/?type=jpeg",
       "pronunciation": "ˈɡɹɪsəɫ",
       "senses": [
@@ -1057,12 +1088,13 @@
       ]
     },
     {
+      "id": "bf77cbde-de19-446d-8ffa-943970bfc918",
       "word": "calamari",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FsYW1hcmk&hash=4537637e75e2bb4e1d65e9e509230f40a1c0a0fe&lang=en&cache-only=0",
-      "phonetic_text": "kɑlɑmɑ:ri",
+      "phonetic_text": "kɑ.lɑ.mɑ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FsYW1hcmk&hash=4537637e75e2bb4e1d65e9e509230f40a1c0a0fe&lang=en&cache-only=0",
-      "phonetic_am_text": "kɑlɑmaari",
+      "phonetic_am_text": "kaa.laa.maa.ri",
       "img": "https://cdn.langeek.co/photo/36226/original/?type=jpeg",
       "pronunciation": "kɑɫɑˈmɑɹi",
       "senses": [
@@ -1078,10 +1110,11 @@
       ]
     },
     {
+      "id": "ff982026-962e-4fe2-a5cb-5392d0482235",
       "word": "mahi-mahi",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFoaS1tYWhp&hash=6433dddb6a788a2b32f2fe9f72f8a9c4b835a582&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFoaS1tYWhp&hash=6433dddb6a788a2b32f2fe9f72f8a9c4b835a582&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/29218/original/dolphin?type=jpeg",
@@ -1094,6 +1127,7 @@
       ]
     },
     {
+      "id": "2e4614df-6842-450e-8e70-baf5d16a5066",
       "word": "mince",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWluY2U&hash=5f160d804bd0f7f5c7a308707a2140961870c6af&lang=en&cache-only=0",
@@ -1119,14 +1153,15 @@
       ]
     },
     {
+      "id": "4029be4e-ba7d-483d-8da8-eba605c271fb",
       "word": "lobster",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9ic3Rlcg&hash=f80df0c8e92db1bacb1968a8a1c27dda190def01&lang=en&cache-only=0",
-      "phonetic_text": "lɑ:bstər",
+      "phonetic_text": "lɑ:bs.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9ic3Rlcg&hash=f80df0c8e92db1bacb1968a8a1c27dda190def01&lang=en&cache-only=0",
-      "phonetic_am_text": "laabstēr",
+      "phonetic_am_text": "laabs.tēr",
       "img": "https://cdn.langeek.co/photo/18277/original/lobster?type=jpeg",
-      "pronunciation": "ˈɫɑbstɝ",
+      "pronunciation": "ˈlɑːbstɚ",
       "senses": [
         {
           "definition": "the meat of a lobster as food",
@@ -1148,12 +1183,13 @@
       ]
     },
     {
+      "id": "769117a1-bbe9-4f58-8c42-3a85f54c29e7",
       "word": "luncheon meat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bHVuY2hlb24gbWVhdA&hash=0951345a6d03cc1f8382881e8e50fe8910bd0bf5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lən.ʧən mi:t",
       "phonetic_am": "https://tts.langeek.co/read?text=bHVuY2hlb24gbWVhdA&hash=0951345a6d03cc1f8382881e8e50fe8910bd0bf5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lēn.chēn mit",
       "img": "https://cdn.langeek.co/photo/28023/original/?type=jpeg",
       "pronunciation": "lˈʌntʃən mˈiːt",
       "senses": [
@@ -1173,12 +1209,13 @@
       ]
     },
     {
+      "id": "65ec969d-3d8f-434b-86a7-55e8a322404f",
       "word": "roe",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9l&hash=a754eeb7c2d9bc146ef55b777433d330626e806e&lang=en&cache-only=0",
       "phonetic_text": "roʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9l&hash=a754eeb7c2d9bc146ef55b777433d330626e806e&lang=en&cache-only=0",
-      "phonetic_am_text": "row",
+      "phonetic_am_text": "rooo",
       "img": "https://cdn.langeek.co/photo/29607/original/?type=jpeg",
       "pronunciation": "ˈɹoʊ",
       "senses": [
@@ -1202,10 +1239,11 @@
       ]
     },
     {
+      "id": "9f0c04cc-db15-4a76-9504-1c65a4b89667",
       "word": "scrod",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Nyb2Q&hash=1d13ba00435504b5bf7e657f9afb43b9af24d6b1&lang=en&cache-only=0",
-      "phonetic_text": "skrɑ:d",
+      "phonetic_text": "skrɑd",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Nyb2Q&hash=1d13ba00435504b5bf7e657f9afb43b9af24d6b1&lang=en&cache-only=0",
       "phonetic_am_text": "skraad",
       "img": "https://cdn.langeek.co/photo/24605/original/?type=jpeg",
@@ -1223,14 +1261,15 @@
       ]
     },
     {
+      "id": "735bddab-d494-46f8-bbb1-28eaf9e5cb99",
       "word": "seafood",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VhZm9vZA&hash=da034319d263e2431e8dd593381a78dbacc5ceeb&lang=en&cache-only=0",
-      "phonetic_text": "si:fud",
+      "phonetic_text": "si:.fu:d",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VhZm9vZA&hash=da034319d263e2431e8dd593381a78dbacc5ceeb&lang=en&cache-only=0",
-      "phonetic_am_text": "seefud",
+      "phonetic_am_text": "si.food",
       "img": "https://cdn.langeek.co/photo/18321/original/seafood?type=jpeg",
-      "pronunciation": "ˈsiˌfud",
+      "pronunciation": "ˈsiːˌfuːd",
       "senses": [
         {
           "definition": "any sea creature that is eaten as food such as fish, shrimp, seaweed, and shellfish",
@@ -1260,12 +1299,13 @@
       ]
     },
     {
+      "id": "0e079ea3-0a89-42ec-9be9-ac345572e366",
       "word": "variety meat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmFyaWV0eSBtZWF0&hash=673bf5e47ea058f860a7ecd45c5b0234a7075080&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "vɜ.raɪə.ti mi:t",
       "phonetic_am": "https://tts.langeek.co/read?text=dmFyaWV0eSBtZWF0&hash=673bf5e47ea058f860a7ecd45c5b0234a7075080&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vē.raiē.ti mit",
       "img": "https://cdn.langeek.co/photo/28021/original/?type=jpeg",
       "pronunciation": "vɚɹˈaɪəɾi mˈiːt",
       "senses": [
@@ -1285,10 +1325,11 @@
       ]
     },
     {
+      "id": "35dd8278-acd7-49c4-8624-84852c7ad324",
       "word": "cold cuts",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29sZCBjdXRz&hash=96cb3452f6fd0452953bcde7c74a7d3a48b59575&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29sZCBjdXRz&hash=96cb3452f6fd0452953bcde7c74a7d3a48b59575&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/27814/original/?type=jpeg",
@@ -1310,12 +1351,13 @@
       ]
     },
     {
+      "id": "2c0bb10e-39ee-43e2-b0f8-bd75d10364a1",
       "word": "confit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29uZml0&hash=8a50e221951144e4c1cc61a94ebfcb60200a3e01&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kən.fɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uZml0&hash=8a50e221951144e4c1cc61a94ebfcb60200a3e01&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kēn.fit",
       "img": "https://cdn.langeek.co/photo/27816/original/?type=jpeg",
       "pronunciation": "kənfˈɪt",
       "senses": [
@@ -1335,6 +1377,7 @@
       ]
     },
     {
+      "id": "829adfab-12d0-4379-84fd-babd46090f71",
       "word": "crab",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3JhYg&hash=deda1fcfc0b6b0537f639edf0f317bfee3937500&lang=en&cache-only=0",
@@ -1342,7 +1385,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Y3JhYg&hash=deda1fcfc0b6b0537f639edf0f317bfee3937500&lang=en&cache-only=0",
       "phonetic_am_text": "krāb",
       "img": "https://cdn.langeek.co/photo/18279/original/crab?type=jpeg",
-      "pronunciation": "ˈkɹæb",
+      "pronunciation": "kræb",
       "senses": [
         {
           "definition": "the meat of a crab that can be eaten",
@@ -1372,12 +1415,13 @@
       ]
     },
     {
+      "id": "e6be1a3c-4846-4b16-9dfb-c88bc06b8ec3",
       "word": "duckling",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHVja2xpbmc&hash=5842b1e2dcf765d2bc023c21dbaba8ee4dacb793&lang=en&cache-only=0",
-      "phonetic_text": "dʌklɪng",
+      "phonetic_text": "dək.lɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHVja2xpbmc&hash=5842b1e2dcf765d2bc023c21dbaba8ee4dacb793&lang=en&cache-only=0",
-      "phonetic_am_text": "dakling",
+      "phonetic_am_text": "dēk.ling",
       "img": "https://cdn.langeek.co/photo/18315/original/duck?type=jpeg",
       "pronunciation": "ˈdəkɫɪŋ",
       "senses": [
@@ -1388,12 +1432,13 @@
       ]
     },
     {
+      "id": "f97d93c3-1aae-456d-8c91-9efb1cb7e49f",
       "word": "fowl",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm93bA&hash=8e58f2d3496b3da11fd511a85209631d2807d609&lang=en&cache-only=0",
       "phonetic_text": "faʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm93bA&hash=8e58f2d3496b3da11fd511a85209631d2807d609&lang=en&cache-only=0",
-      "phonetic_am_text": "fawl",
+      "phonetic_am_text": "faool",
       "img": "https://cdn.langeek.co/photo/18315/original/duck?type=jpeg",
       "pronunciation": "ˈfaʊɫ",
       "senses": [
@@ -1413,12 +1458,13 @@
       ]
     },
     {
+      "id": "b5c830b5-de2e-4401-859d-d4b74bb85c62",
       "word": "guinea fowl",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3VpbmVhIGZvd2w&hash=5faa6d221383488d744c60f41f7856b23cc6ffc8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gɪ.ni faʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3VpbmVhIGZvd2w&hash=5faa6d221383488d744c60f41f7856b23cc6ffc8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gi.ni faool",
       "img": "https://cdn.langeek.co/photo/28015/original/?type=jpeg",
       "pronunciation": "ɡˈɪni fˈaʊl",
       "senses": [
@@ -1438,12 +1484,13 @@
       ]
     },
     {
+      "id": "7e416a61-7cad-4369-b1b3-1aaef5f0a302",
       "word": "kipper",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2lwcGVy&hash=21a4e248dc1b16c2118f6339c6f8be53f591732a&lang=en&cache-only=0",
-      "phonetic_text": "kɪpər",
+      "phonetic_text": "kɪ.pɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=a2lwcGVy&hash=21a4e248dc1b16c2118f6339c6f8be53f591732a&lang=en&cache-only=0",
-      "phonetic_am_text": "kipēr",
+      "phonetic_am_text": "ki.pēr",
       "img": "https://cdn.langeek.co/photo/28085/original/?type=jpeg",
       "pronunciation": "ˈkɪpɝ",
       "senses": [
@@ -1463,12 +1510,13 @@
       ]
     },
     {
+      "id": "2755be6e-45a6-4cd3-9aa6-e0aec8718378",
       "word": "horseflesh",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG9yc2VmbGVzaA&hash=f9ab4b8ac3e808d79d7af0551aee9061cc4b6186&lang=en&cache-only=0",
-      "phonetic_text": "hɔ:rsflɛʃ",
+      "phonetic_text": "hɔ:rs.flɛʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9yc2VmbGVzaA&hash=f9ab4b8ac3e808d79d7af0551aee9061cc4b6186&lang=en&cache-only=0",
-      "phonetic_am_text": "haawrsflesh",
+      "phonetic_am_text": "hawrs.flesh",
       "img": "https://cdn.langeek.co/photo/36232/original/?type=jpeg",
       "pronunciation": "ˈhɔɹsˌfɫɛʃ",
       "senses": [
@@ -1488,12 +1536,13 @@
       ]
     },
     {
+      "id": "e7108bcd-ca59-49d2-a126-27e0725ef90f",
       "word": "partridge",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFydHJpZGdl&hash=6f9c3fc2f71a1dd58b04a8f5cacc1f5139d5b653&lang=en&cache-only=0",
-      "phonetic_text": "pɑ:rtrəʤ",
+      "phonetic_text": "pɑ:rt.rɪʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFydHJpZGdl&hash=6f9c3fc2f71a1dd58b04a8f5cacc1f5139d5b653&lang=en&cache-only=0",
-      "phonetic_am_text": "paartrēj",
+      "phonetic_am_text": "paart.rij",
       "img": "https://cdn.langeek.co/photo/36234/original/?type=jpeg",
       "pronunciation": "ˈpɑɹtɹədʒ/, /ˈpɑɹtɹɪdʒ",
       "senses": [
@@ -1513,10 +1562,11 @@
       ]
     },
     {
+      "id": "c3ba0f76-000a-4f7e-a5be-39a12b9bb5b4",
       "word": "fryer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnJ5ZXI&hash=6c9d7c4654e7ca7f35eb62bc183bd25d7363e20b&lang=en&cache-only=0",
-      "phonetic_text": "fraɪər",
+      "phonetic_text": "fraɪɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJ5ZXI&hash=6c9d7c4654e7ca7f35eb62bc183bd25d7363e20b&lang=en&cache-only=0",
       "phonetic_am_text": "fraiēr",
       "img": "https://cdn.langeek.co/photo/18315/original/duck?type=jpeg",
@@ -1538,6 +1588,7 @@
       ]
     },
     {
+      "id": "e4835a52-5e3d-4850-80c5-b96274d636d7",
       "word": "dressed",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZHJlc3NlZA&hash=de27dffab44d915e28afa8604243d0ae57d50a17&lang=en&cache-only=0",
@@ -1567,14 +1618,15 @@
       ]
     },
     {
+      "id": "8433e75a-3dc2-49cc-9f1d-816006cdbf8e",
       "word": "tuna",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHVuYQ&hash=636581ac01094d08d10de5acbaf0eb0f134b5037&lang=en&cache-only=0",
-      "phonetic_text": "tu:nə",
+      "phonetic_text": "tu:.nə",
       "phonetic_am": "https://tts.langeek.co/read?text=dHVuYQ&hash=636581ac01094d08d10de5acbaf0eb0f134b5037&lang=en&cache-only=0",
-      "phonetic_am_text": "toonē",
+      "phonetic_am_text": "too.nē",
       "img": "https://cdn.langeek.co/photo/51572/original/?type=jpeg",
-      "pronunciation": "ˈtjunə/, /ˈtunə",
+      "pronunciation": "ˈtuːnə",
       "senses": [
         {
           "definition": "the meat of a large fish named tuna that lives in warm waters",
@@ -1604,6 +1656,7 @@
       ]
     },
     {
+      "id": "4b64a166-6a91-4596-ae6b-e70a8bc75f90",
       "word": "clam",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xhbQ&hash=2efc3aa885ea7a6f365e08d5ef8ef3c359aef302&lang=en&cache-only=0",
@@ -1625,12 +1678,13 @@
       ]
     },
     {
+      "id": "41e54d72-5abb-4151-b641-8d480f6d7582",
       "word": "giblets",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2libGV0cw&hash=2c3ce86873e23a79dfafdf69493f6e9ad3b4a81f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤɪb.ləts",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2libGV0cw&hash=2c3ce86873e23a79dfafdf69493f6e9ad3b4a81f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "jib.lēts",
       "img": "",
       "pronunciation": "dʒˈɪbləts",
       "senses": [
@@ -1650,10 +1704,11 @@
       ]
     },
     {
+      "id": "3ae0105f-06d0-4497-919f-a25b38341405",
       "word": "parson's nose",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFyc29uJ3Mgbm9zZQ&hash=f90201c4f2d2b1f3407b6e411ce0ae296aa74b77&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFyc29uJ3Mgbm9zZQ&hash=f90201c4f2d2b1f3407b6e411ce0ae296aa74b77&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -1666,12 +1721,13 @@
       ]
     },
     {
+      "id": "55014dd5-fa36-49bb-b263-baa394c8d05c",
       "word": "spatchcock",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BhdGNoY29jaw&hash=9039290f8a42b3fd05e584c2530e28f9e62a1043&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spæʧ.kɑ:k",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BhdGNoY29jaw&hash=9039290f8a42b3fd05e584c2530e28f9e62a1043&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "spāch.kaak",
       "img": "https://cdn.langeek.co/photo/37507/original/?type=jpeg",
       "pronunciation": "spˈætʃkɑːk",
       "senses": [
@@ -1687,12 +1743,13 @@
       ]
     },
     {
+      "id": "cd8658e3-97d6-4196-becd-07081f19554a",
       "word": "abalone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWJhbG9uZQ&hash=f3348c507631ce0a71090a022b065befef009ff2&lang=en&cache-only=0",
-      "phonetic_text": "æbəloʊni",
+      "phonetic_text": "æ.bə.loʊ.ni",
       "phonetic_am": "https://tts.langeek.co/read?text=YWJhbG9uZQ&hash=f3348c507631ce0a71090a022b065befef009ff2&lang=en&cache-only=0",
-      "phonetic_am_text": "ābēlowni",
+      "phonetic_am_text": "ā.bē.looo.ni",
       "img": "https://cdn.langeek.co/photo/25685/original/?type=jpeg",
       "pronunciation": "ˌæbəˈɫoʊni",
       "senses": [
@@ -1708,14 +1765,15 @@
       ]
     },
     {
+      "id": "9a3353c9-a166-4fbe-aaa4-f1cc7790ad4c",
       "word": "oyster",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3lzdGVy&hash=2c02d34e473c19ca339b3a44defd6c6e603db0c9&lang=en&cache-only=0",
-      "phonetic_text": "ɔɪstər",
+      "phonetic_text": "ɔɪs.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=b3lzdGVy&hash=2c02d34e473c19ca339b3a44defd6c6e603db0c9&lang=en&cache-only=0",
-      "phonetic_am_text": "oystēr",
+      "phonetic_am_text": "awis.tēr",
       "img": "https://cdn.langeek.co/photo/18281/original/oyster?type=jpeg",
-      "pronunciation": "ˈɔɪstɝ",
+      "pronunciation": "ˈɔɪstɚ",
       "senses": [
         {
           "definition": "a type of shellfish that can be eaten both raw and cooked, some of which contain pearls inside",

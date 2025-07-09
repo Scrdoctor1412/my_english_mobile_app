@@ -1,42 +1,32 @@
 {
+  "id": "fdea9374-cc62-437b-a571-f0118ea5fb07",
   "topic": "personality",
   "title": "Skilled & Smart",
   "lesson": "lesson_5",
   "word_list": [
     {
+      "id": "5e95c70c-c4b2-4b1b-96e1-e7bdafabbf67",
       "word": "eagle eye",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWFnbGUgZXll&hash=a8901cd00545e731cc5713f136f6a1d81de975c3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "i:.gəl aɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWFnbGUgZXll&hash=a8901cd00545e731cc5713f136f6a1d81de975c3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "i.gēl ai",
       "img": "https://cdn.langeek.co/photo/42308/original/?type=jpeg",
       "pronunciation": "ˈiːɡəl ˈaɪ",
       "senses": [
         {
           "definition": "someone who is keenly aware or observant",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He has an eagle eye for finding hidden gems in thrift stores."
-            },
-            {
-              "cf": "",
-              "x": "She has an eagle eye for spotting grammatical errors in written documents."
-            },
-            {
-              "cf": "",
-              "x": "The security guard's eagle eye caught the suspicious behavior of a person in the crowd."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "83454e1e-0e4f-4e00-92fe-dda165c06553",
       "word": "(smart|sharp) cookie",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=c21hcnQgY29va2ll&hash=c6439cc7b1f42d75f05e2afedb7f9a9898e37dfb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=c21hcnQgY29va2ll&hash=c6439cc7b1f42d75f05e2afedb7f9a9898e37dfb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/17511/original/intelligent?type=jpeg",
@@ -44,26 +34,18 @@
       "senses": [
         {
           "definition": "a person who is clever and has a strong personality",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Even though he's young, he's a smart cookie and always comes up with innovative ideas."
-            },
-            {
-              "cf": "",
-              "x": "He's a sharp cookie when it comes to technology."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "f2a4e792-5a82-4757-bf8b-9a68dc7e4859",
       "word": "on the ball",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gdGhlIGJhbGw&hash=866bb5c30eafe5a0845e2ca477794e5ff9901d74&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n ðə bɔ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gdGhlIGJhbGw&hash=866bb5c30eafe5a0845e2ca477794e5ff9901d74&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan dhē bawl",
       "img": "https://cdn.langeek.co/photo/42312/original/?type=jpeg",
       "pronunciation": "ɑːnðə bˈɔːl",
       "senses": [
@@ -91,10 +73,11 @@
       ]
     },
     {
+      "id": "48c54118-8e28-4ff3-8148-2ae145c8148c",
       "word": "the sharpest tool in the (shed|box)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIHNoYXJwZXN0IHRvb2wgaW4gdGhlIHNoZWQ&hash=1cf67bf39469d3c6cd8684b8bbef1aa823105f06&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIHNoYXJwZXN0IHRvb2wgaW4gdGhlIHNoZWQ&hash=1cf67bf39469d3c6cd8684b8bbef1aa823105f06&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/49854/original/smart?type=jpeg",
@@ -107,10 +90,11 @@
       ]
     },
     {
+      "id": "341b81af-1119-43d9-867b-58796b3a0102",
       "word": "a good head on {one's} shoulders",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YSBnb29kIGhlYWQgb24gb25lJ3Mgc2hvdWxkZXJz&hash=63309ee4c199d7055c83ed6caa8a50bf98af7d95&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YSBnb29kIGhlYWQgb24gb25lJ3Mgc2hvdWxkZXJz&hash=63309ee4c199d7055c83ed6caa8a50bf98af7d95&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42304/original/?type=jpeg",
@@ -123,10 +107,11 @@
       ]
     },
     {
-      "word": "[be] (no|nobody's|no one's) fool",
+      "id": "07bace12-ee05-406d-9bc2-0aee55094bd7",
+      "word": "to [be] (no|nobody's|no one's) fool",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgbm8ncyBvbmUncyBmb29s&hash=fb717eb43e19a6126b0bc8e7cfa1d2386c8c76bd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgbm8ncyBvbmUncyBmb29s&hash=fb717eb43e19a6126b0bc8e7cfa1d2386c8c76bd&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42360/original/?type=jpeg",
@@ -139,10 +124,11 @@
       ]
     },
     {
+      "id": "b6d8c7de-c855-4aaf-ae70-3336503fb3de",
       "word": "(as|) sharp as a razor",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXMgc2hhcnAgYXMgYSByYXpvcg&hash=cba25a16044fedeaa8cf24928145338616b19542&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXMgc2hhcnAgYXMgYSByYXpvcg&hash=cba25a16044fedeaa8cf24928145338616b19542&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42314/original/?type=jpeg",
@@ -155,10 +141,11 @@
       ]
     },
     {
+      "id": "29704563-2011-40fd-ba2d-e9033ba11804",
       "word": "(as|) bright as a (new|) button",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXMgYnJpZ2h0IGFzIGEgbmV3IGJ1dHRvbg&hash=17ca4f026fa13c3e080137975ed45e9debc7539a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXMgYnJpZ2h0IGFzIGEgbmV3IGJ1dHRvbg&hash=17ca4f026fa13c3e080137975ed45e9debc7539a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42306/original/?type=jpeg",
@@ -180,10 +167,11 @@
       ]
     },
     {
-      "word": "[come] naturally to {sb/sth}",
+      "id": "596cd723-2a8e-4009-a688-1feca6e7b29b",
+      "word": "to [come] naturally to {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29tZSBuYXR1cmFsbHkgdG8gc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=555028e9f017f49f610625c2d24c2bd4da2249de&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29tZSBuYXR1cmFsbHkgdG8gc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=555028e9f017f49f610625c2d24c2bd4da2249de&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42362/original/?type=jpeg",
@@ -191,34 +179,18 @@
       "senses": [
         {
           "definition": "to be born with or naturally posses a particular talent or ability",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Being compassionate comes naturally to her."
-            },
-            {
-              "cf": "",
-              "x": "Critical thinking comes naturally to him."
-            },
-            {
-              "cf": "",
-              "x": "Harmony and balance come naturally to the elements of a well-composed piece of music."
-            },
-            {
-              "cf": "",
-              "x": "Public speaking comes naturally to her."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "4fefa6d9-fe6e-4c78-afee-5dfd118608c2",
       "word": "green thumb",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JlZW4gdGh1bWI&hash=2fbe824f7ae9c75372226520dfee4ce44b0353bc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gri:n θʌm",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JlZW4gdGh1bWI&hash=2fbe824f7ae9c75372226520dfee4ce44b0353bc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "grin tham",
       "img": "https://cdn.langeek.co/photo/42316/original/?type=jpeg",
       "pronunciation": "ɡɹˈiːn θˈʌm",
       "senses": [
@@ -250,10 +222,11 @@
       ]
     },
     {
+      "id": "6661dd7c-9e1e-4822-852f-c0ba973753e6",
       "word": "a man for all seasons",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YSBtYW4gZm9yIGFsbCBzZWFzb25z&hash=c8f901b6d892c702838e8f40c8d44ffe19624be6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YSBtYW4gZm9yIGFsbCBzZWFzb25z&hash=c8f901b6d892c702838e8f40c8d44ffe19624be6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42358/original/?type=jpeg",
@@ -261,90 +234,50 @@
       "senses": [
         {
           "definition": "a male individual who is successful and talented in a variety of fields",
-          "examples": [
-            {
-              "cf": "",
-              "x": "John is truly a man for all seasons."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "e6a18071-7817-4bf6-9e9d-cf0160df9c17",
       "word": "dab hand",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGFiIGhhbmQ&hash=c02d5671c871302a0a31f9fbec373656f7429fd7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dæb hænd",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGFiIGhhbmQ&hash=c02d5671c871302a0a31f9fbec373656f7429fd7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dāb hānd",
       "img": "https://cdn.langeek.co/photo/42364/original/?type=jpeg",
       "pronunciation": "dˈæb hˈænd",
       "senses": [
         {
           "definition": "an individual who excels at a specific type of activity",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He's a dab hand in the kitchen."
-            },
-            {
-              "cf": "",
-              "x": "He's a dab hand with computers."
-            },
-            {
-              "cf": "",
-              "x": "Our boss is a dab hand at negotiation."
-            },
-            {
-              "cf": "",
-              "x": "She's a dab hand at carpentry."
-            },
-            {
-              "cf": "",
-              "x": "She's a dab hand at playing the piano."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "3750c876-2781-49f3-b308-d6fb875fa42b",
       "word": "wise owl",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2lzZSBvd2w&hash=5aea37662a1a79d3e2c749216602f7b1f4fc153e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "waɪz aʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=d2lzZSBvd2w&hash=5aea37662a1a79d3e2c749216602f7b1f4fc153e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vaiz aool",
       "img": "https://cdn.langeek.co/photo/42368/original/?type=jpeg",
       "pronunciation": "wˈaɪz ˈaʊl",
       "senses": [
         {
           "definition": "someone who possesses great wisdom and good judgment, often referred to old people",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Our professor is a true wise owl in the field of literature."
-            },
-            {
-              "cf": "",
-              "x": "Sarah sought the counsel of her wise owl grandmother before making a major life decision."
-            },
-            {
-              "cf": "",
-              "x": "The company's CEO is regarded as a wise owl in the business world."
-            },
-            {
-              "cf": "",
-              "x": "When it comes to financial planning, John is a wise owl."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "fb9c4a62-ec42-4c2b-a5c4-e83f52e6e9ce",
       "word": "(as|) wise as an owl",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXMgd2lzZSBhcyBhbiBvd2w&hash=622fb731f4f1322d53b6a7a9904f23fcea66db55&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXMgd2lzZSBhcyBhbiBvd2w&hash=622fb731f4f1322d53b6a7a9904f23fcea66db55&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42366/original/?type=jpeg",
@@ -352,28 +285,16 @@
       "senses": [
         {
           "definition": "used to refer to someone who is exceptionally knowledgeable and has a good sense of judgment",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Despite being only 10 years old, Sarah is as wise as an owl."
-            },
-            {
-              "cf": "",
-              "x": "Grandfather's advice is always valuable; he is as wise as an owl."
-            },
-            {
-              "cf": "",
-              "x": "When it comes to financial planning, Mark is as wise as an owl."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "083cbe75-28b4-433f-bd6d-7eaa572c409f",
       "word": "in {one's} blood",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aW4gb25lJ3MgYmxvb2Q&hash=7db92f1db4a35d89b3fb2d876b6e263a9355cb48&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gb25lJ3MgYmxvb2Q&hash=7db92f1db4a35d89b3fb2d876b6e263a9355cb48&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42386/original/?type=jpeg",
@@ -381,22 +302,18 @@
       "senses": [
         {
           "definition": "(of an ability or skill) existing in an individual from birth",
-          "examples": [
-            {
-              "cf": "",
-              "x": "All of my relatives are doctors—medical prowess is just in our blood."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "955f85d0-5fcd-400e-a364-19b4e5069ed2",
       "word": "bright spark",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJpZ2h0IHNwYXJr&hash=2bc45d8835656307df5dbf485f1905abf620c6b9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "braɪt spɑrk",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJpZ2h0IHNwYXJr&hash=2bc45d8835656307df5dbf485f1905abf620c6b9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "brait spaark",
       "img": "https://cdn.langeek.co/photo/42392/original/?type=jpeg",
       "pronunciation": "bɹˈaɪt spˈɑːɹk",
       "senses": [
@@ -407,10 +324,11 @@
       ]
     },
     {
-      "word": "[have|get] {one's} head screwed on (the right way|)",
+      "id": "9e97e662-b811-4946-8dc7-1971f4fa57c2",
+      "word": "to [have|get] {one's} head screwed on (the right way|)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGF2ZSBvbmUncyBoZWFkIHNjcmV3ZWQgb24gdGhlIHJpZ2h0IHdheQ&hash=3ee82a61fcc593776a74a2de4a965fd971c0deaf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGF2ZSBvbmUncyBoZWFkIHNjcmV3ZWQgb24gdGhlIHJpZ2h0IHdheQ&hash=3ee82a61fcc593776a74a2de4a965fd971c0deaf&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42384/original/?type=jpeg",
@@ -436,35 +354,28 @@
       ]
     },
     {
+      "id": "dee63a5c-0bb4-4bb6-9565-17fcff614e35",
       "word": "book smart",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9vayBzbWFydA&hash=b47e9b4109dfc25e2194cd676b890bd41d857209&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bʊk smɑ:rt",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9vayBzbWFydA&hash=b47e9b4109dfc25e2194cd676b890bd41d857209&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "book smaart",
       "img": "https://cdn.langeek.co/photo/42380/original/?type=jpeg",
       "pronunciation": "bˈʊk smˈɑːɹt",
       "senses": [
         {
           "definition": "an educated person who has extensive knowledge on a subject through reading and studying",
-          "examples": [
-            {
-              "cf": "",
-              "x": "In the trivia competition, John's book smarts paid off."
-            },
-            {
-              "cf": "",
-              "x": "The professor was incredibly book smart, with a deep understanding of complex theories and concepts."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "d2cf402a-bd5c-4d3d-9218-44dc5a78cb96",
       "word": "(as|) sharp as a tack",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXMgc2hhcnAgYXMgYSB0YWNr&hash=1dcc28f07f79f1ed20e0a7d3c1ae0fdf3347b679&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXMgc2hhcnAgYXMgYSB0YWNr&hash=1dcc28f07f79f1ed20e0a7d3c1ae0fdf3347b679&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42390/original/?type=jpeg",
@@ -472,32 +383,16 @@
       "senses": [
         {
           "definition": "(of a person) having or showing a high level of intelligence",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Even at her age, she's still sharp as a tack."
-            },
-            {
-              "cf": "",
-              "x": "He's a brilliant student, sharp as a tack in every subject he studies."
-            },
-            {
-              "cf": "",
-              "x": "She's a formidable debater, always quick with her responses and sharp as a tack in her arguments."
-            },
-            {
-              "cf": "",
-              "x": "The detective's mind is sharp as a tack."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "a4e58a6a-0a21-4a22-9d4d-e6a05c0bbff9",
       "word": "number cruncher",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bnVtYmVyIGNydW5jaGVy&hash=08029b184df1e8aee8f77c17bad6fb36f4c3f262&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bnVtYmVyIGNydW5jaGVy&hash=08029b184df1e8aee8f77c17bad6fb36f4c3f262&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42388/original/?type=jpeg",
@@ -519,10 +414,11 @@
       ]
     },
     {
-      "word": "[be] quick on the uptake",
+      "id": "f4e70483-cb4e-4382-a586-a9f19c4f2bc2",
+      "word": "to [be] quick on the uptake",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgcXVpY2sgb24gdGhlIHVwdGFrZQ&hash=71e2d7a60a5c0dd99be8a266716339c230a6fd50&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgcXVpY2sgb24gdGhlIHVwdGFrZQ&hash=71e2d7a60a5c0dd99be8a266716339c230a6fd50&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42426/original/?type=jpeg",
@@ -530,16 +426,7 @@
       "senses": [
         {
           "definition": "(of a person) to understand things very quickly",
-          "examples": [
-            {
-              "cf": "",
-              "x": "During the training session, John proved to be quick on the uptake."
-            },
-            {
-              "cf": "",
-              "x": "In the business meeting, Sarah demonstrated her ability to be quick on the uptake by comprehending complex data and proposing innovative solutions."
-            }
-          ]
+          "examples": []
         }
       ]
     }

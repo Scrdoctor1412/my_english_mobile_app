@@ -1,13 +1,15 @@
 {
+  "id": "5cf542a4-0011-4dac-904d-8c0bab7f240b",
   "topic": "truth_secrecy_deception",
   "title": "Truthfulness",
   "lesson": "lesson_9",
   "word_list": [
     {
-      "word": "[show|reveal] {one's} true colors",
+      "id": "c3b46fb9-a5fa-4eba-8739-6a7c59ee5277",
+      "word": "to [show|reveal] {one's} true colors",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2hvdyBvbmUncyB0cnVlIGNvbG9ycw&hash=bd146e91c4245f63a0f821987c54c17387b9bb80&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2hvdyBvbmUncyB0cnVlIGNvbG9ycw&hash=bd146e91c4245f63a0f821987c54c17387b9bb80&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -20,10 +22,11 @@
       ]
     },
     {
-      "word": "[put|lay] {one's} cards on the table",
+      "id": "a0e30a86-040c-47aa-9e26-58ad4e98dcbf",
+      "word": "to [put|lay] {one's} cards on the table",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IG9uZSdzIGNhcmRzIG9uIHRoZSB0YWJsZQ&hash=728da54f7f9137640b3d84b2c0a81903a6eb5943&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IG9uZSdzIGNhcmRzIG9uIHRoZSB0YWJsZQ&hash=728da54f7f9137640b3d84b2c0a81903a6eb5943&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -36,26 +39,49 @@
       ]
     },
     {
+      "id": "658a2a8f-7cd8-4043-9a50-f65f1d3accc5",
       "word": "on the level",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gdGhlIGxldmVs&hash=0547c865fa8ebad5584624a38baecc6ac9b2e412&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n ðə le.vəl",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gdGhlIGxldmVs&hash=0547c865fa8ebad5584624a38baecc6ac9b2e412&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan dhē le.vēl",
       "img": "",
       "pronunciation": "ɑːnðə lˈɛvəl",
       "senses": [
         {
           "definition": "truthfully and without any deception",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He assured his friend that his intentions were on the level and that he genuinely wanted to help."
+            },
+            {
+              "cf": "",
+              "x": "The contractor provided detailed documentation to prove that the construction project was on the level and met all the required standards."
+            },
+            {
+              "cf": "",
+              "x": "The witness testified in court, vowing to tell the truth and nothing but the truth, ensuring that their testimony was on the level."
+            },
+            {
+              "cf": "",
+              "x": "After investigating the allegations, the journalist concluded that the sources were credible and the story was on the level."
+            },
+            {
+              "cf": "",
+              "x": "The financial advisor explained the investment options, assuring the client that all the information provided was on the level and based on thorough research."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[cross] {one's} heart",
+      "id": "f8abfa98-a678-48f6-91b7-3a9e55024648",
+      "word": "to [cross] {one's} heart",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3Jvc3Mgb25lJ3MgaGVhcnQ&hash=45df6f8f408c38f5e2ebb42a97f288fc3b5b2a14&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3Jvc3Mgb25lJ3MgaGVhcnQ&hash=45df6f8f408c38f5e2ebb42a97f288fc3b5b2a14&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -68,10 +94,11 @@
       ]
     },
     {
-      "word": "[make] a clean breast of {sth}",
+      "id": "73d4dbf2-ea02-4af5-a31d-41cb6c2135a7",
+      "word": "to [make] a clean breast of {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZSBhIGNsZWFuIGJyZWFzdCBvZiBzb21ldGhpbmc&hash=f8bb129aa81255438b9e3a51f334d9737f8488f2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFrZSBhIGNsZWFuIGJyZWFzdCBvZiBzb21ldGhpbmc&hash=f8bb129aa81255438b9e3a51f334d9737f8488f2&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -84,10 +111,11 @@
       ]
     },
     {
-      "word": "[come] clean",
+      "id": "f707eb6f-a7f7-4b0d-8394-33749cf51007",
+      "word": "to [come] clean",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29tZSBjbGVhbg&hash=72c91801c546e7191454d0c5ee7cebc87224133e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29tZSBjbGVhbg&hash=72c91801c546e7191454d0c5ee7cebc87224133e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/55220/original/?type=jpeg",
@@ -100,10 +128,11 @@
       ]
     },
     {
-      "word": "[take|blow] the lid off {sth}",
+      "id": "7f9fd160-92d9-4aff-b8dc-4739fd2a25bf",
+      "word": "to [take|blow] the lid off {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSB0aGUgbGlkIG9mZiBzb21ldGhpbmc&hash=ecc303ed71e7f929b9e35c32b626912a1de8bcdb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSB0aGUgbGlkIG9mZiBzb21ldGhpbmc&hash=ecc303ed71e7f929b9e35c32b626912a1de8bcdb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -116,10 +145,11 @@
       ]
     },
     {
+      "id": "f1ee18e2-5a99-4842-8a16-be2eade76de1",
       "word": "the birds and (the|) bees",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIGJpcmRzIGFuZCB0aGUgYmVlcw&hash=8b7618127aa45b46eb674cb0264797087eb4fb95&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIGJpcmRzIGFuZCB0aGUgYmVlcw&hash=8b7618127aa45b46eb674cb0264797087eb4fb95&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -132,12 +162,13 @@
       ]
     },
     {
+      "id": "2d7eede1-d812-4428-83c8-766804abc88a",
       "word": "on the up and up",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gdGhlIHVwIGFuZCB1cA&hash=db9ae049d3612afa4e05ed9d8e0d12163502b66d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n ðə ʌp ænd ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gdGhlIHVwIGFuZCB1cA&hash=db9ae049d3612afa4e05ed9d8e0d12163502b66d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan dhē ap ānd ap",
       "img": "https://cdn.langeek.co/photo/19270/original/honest?type=jpeg",
       "pronunciation": "ɑːnðɪ ˌʌp ænd ˈʌp",
       "senses": [
@@ -148,12 +179,13 @@
       ]
     },
     {
+      "id": "02fb96de-35b0-44eb-8164-cd9004326084",
       "word": "home truth",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG9tZSB0cnV0aA&hash=b53b60bf096c148df9d8846712336a5deff29037&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hoʊm truθ",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9tZSB0cnV0aA&hash=b53b60bf096c148df9d8846712336a5deff29037&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hooom trooth",
       "img": "",
       "pronunciation": "hˈoʊm tɹˈuːθ",
       "senses": [
@@ -185,10 +217,11 @@
       ]
     },
     {
-      "word": "[come] out in the wash",
+      "id": "f26e8e0f-be3b-4ec3-9aa8-81b6236772b3",
+      "word": "to [come] out in the wash",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29tZSBvdXQgaW4gdGhlIHdhc2g&hash=439bf12704b082ae8c6fe94d023d94ff30acad39&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29tZSBvdXQgaW4gdGhlIHdhc2g&hash=439bf12704b082ae8c6fe94d023d94ff30acad39&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -196,24 +229,7 @@
       "senses": [
         {
           "definition": "(of a hidden fact) to be eventually revealed or discovered",
-          "examples": [
-            {
-              "cf": "",
-              "x": "It doesn't really matter which one you choose: it'll all come out in the wash."
-            },
-            {
-              "cf": "",
-              "x": "This will all come out in the wash–I promise you."
-            },
-            {
-              "cf": "",
-              "x": "We've certainly had some problems but I think, in the end, it will all come out in the wash."
-            },
-            {
-              "cf": "",
-              "x": "You can do everything you can to hide this, but everything comes out in the wash."
-            }
-          ]
+          "examples": []
         }
       ]
     }

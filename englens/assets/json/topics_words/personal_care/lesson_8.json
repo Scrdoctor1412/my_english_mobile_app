@@ -1,10 +1,12 @@
 {
+  "id": "c6a35bcd-cbb4-4b5f-a483-cdd457639ab1",
   "topic": "personal_care",
   "title": "Nail Care",
   "lesson": "lesson_8",
   "word_list": [
     {
-      "word": "pare",
+      "id": "65558a67-8f7b-4d92-b2d5-6bd45ce5278f",
+      "word": "to pare",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGFyZQ&hash=1620bc9c878b8e4ccc4f3244799820d30f988510&lang=en&cache-only=0",
       "phonetic_text": "pɛr",
@@ -20,10 +22,11 @@
       ]
     },
     {
+      "id": "acaa6a4d-f7c7-41c1-b558-57b65f3bf5ac",
       "word": "mani-pedi",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFuaS1wZWRp&hash=dd254dbc977cb26989952107b9cc3c8f3f148cf8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFuaS1wZWRp&hash=dd254dbc977cb26989952107b9cc3c8f3f148cf8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -36,12 +39,13 @@
       ]
     },
     {
+      "id": "92bc1f06-06e8-444c-8889-7119c3aa1432",
       "word": "manicure",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFuaWN1cmU&hash=d2ad99ff0273fc13c0f5eb28e8e0bb8b29eaa721&lang=en&cache-only=0",
-      "phonetic_text": "mænɪkjər",
+      "phonetic_text": "mæ.nɪ.kjɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFuaWN1cmU&hash=d2ad99ff0273fc13c0f5eb28e8e0bb8b29eaa721&lang=en&cache-only=0",
-      "phonetic_am_text": "mānikyēr",
+      "phonetic_am_text": "mā.ni.kyēr",
       "img": "https://cdn.langeek.co/photo/35814/original/?type=jpeg",
       "pronunciation": "ˈmænɪkjɝ",
       "senses": [
@@ -73,12 +77,13 @@
       ]
     },
     {
+      "id": "bb5c120a-2c65-41d9-b957-b1317619f96e",
       "word": "pedicure",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVkaWN1cmU&hash=db9232e906bb7701ac1fde270616b037ac3cd0a6&lang=en&cache-only=0",
-      "phonetic_text": "pɛdɪkjər",
+      "phonetic_text": "pɛ.dɪ.kjɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVkaWN1cmU&hash=db9232e906bb7701ac1fde270616b037ac3cd0a6&lang=en&cache-only=0",
-      "phonetic_am_text": "pedikyēr",
+      "phonetic_am_text": "pe.di.kyēr",
       "img": "",
       "pronunciation": "ˈpɛdɪkjɝ/, /ˈpɛdɪkjɔɹ",
       "senses": [
@@ -110,10 +115,11 @@
       ]
     },
     {
+      "id": "46083924-876c-4562-b767-56e1d25f896b",
       "word": "nail buffing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmFpbCBidWZmaW5n&hash=2fcea43e1e0d317e249ccf8677315c460f6c2902&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bmFpbCBidWZmaW5n&hash=2fcea43e1e0d317e249ccf8677315c460f6c2902&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -126,12 +132,13 @@
       ]
     },
     {
+      "id": "421e7c93-5eb1-4994-be3a-4efe06493fcb",
       "word": "nail extension",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmFpbCBleHRlbnNpb24&hash=feb3f9cc6db2a8a735b50cccebb36be3502ce38e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "neɪl ɪk.stɛn.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=bmFpbCBleHRlbnNpb24&hash=feb3f9cc6db2a8a735b50cccebb36be3502ce38e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "neil ik.sten.shēn",
       "img": "",
       "pronunciation": "neɪl ɛkstɛnʃən",
       "senses": [
@@ -142,12 +149,13 @@
       ]
     },
     {
+      "id": "7ed2f029-4850-4911-9973-db1ea6918996",
       "word": "nail art",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmFpbCBhcnQ&hash=b53c73501e5d0881fabfd756fe9bf56e4692f6f1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "neɪl ɑ:rt",
       "phonetic_am": "https://tts.langeek.co/read?text=bmFpbCBhcnQ&hash=b53c73501e5d0881fabfd756fe9bf56e4692f6f1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "neil aart",
       "img": "",
       "pronunciation": "neɪl ɑːɹt",
       "senses": [
@@ -158,12 +166,13 @@
       ]
     },
     {
+      "id": "7f007848-7f55-44e0-9998-5fc4bcec99c9",
       "word": "nail enhancement",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmFpbCBlbmhhbmNlbWVudA&hash=fb6763949cb139de8a1c8f8991975dd58ce82e88&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "neɪl ɛn.hæn.smənt",
       "phonetic_am": "https://tts.langeek.co/read?text=bmFpbCBlbmhhbmNlbWVudA&hash=fb6763949cb139de8a1c8f8991975dd58ce82e88&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "neil en.hān.smēnt",
       "img": "",
       "pronunciation": "neɪl ɛnhænsmənt",
       "senses": [
@@ -174,7 +183,8 @@
       ]
     },
     {
-      "word": "trim",
+      "id": "2fba1b44-4b72-4301-aa9b-ca0cf5b5ed93",
+      "word": "to trim",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHJpbQ&hash=e9e9f914ed37638954329a70b07a0d7042db1c66&lang=en&cache-only=0",
       "phonetic_text": "trɪm",
@@ -207,7 +217,8 @@
       ]
     },
     {
-      "word": "file",
+      "id": "706b0d28-0b26-4b0c-b0e1-5c55d569fa39",
+      "word": "to file",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmlsZQ&hash=4e60301c9762bacc703cb8b48b893d46f86c6c2e&lang=en&cache-only=0",
       "phonetic_text": "faɪl",
@@ -244,14 +255,15 @@
       ]
     },
     {
-      "word": "buff",
+      "id": "65cecd1c-c4ca-4641-8088-5b619fec4c54",
+      "word": "to buff",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnVmZg&hash=bdbab68c9c47fc5caf01516ad309fddbf8ee4527&lang=en&cache-only=0",
-      "phonetic_text": "bʌf",
+      "phonetic_text": "bəf",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnVmZg&hash=bdbab68c9c47fc5caf01516ad309fddbf8ee4527&lang=en&cache-only=0",
-      "phonetic_am_text": "baf",
+      "phonetic_am_text": "bēf",
       "img": "https://cdn.langeek.co/photo/52991/original/?type=jpeg",
-      "pronunciation": "ˈbəf",
+      "pronunciation": "bʌf",
       "senses": [
         {
           "definition": "to polish or shine a surface by rubbing it with a soft cloth or a special tool",
@@ -281,12 +293,13 @@
       ]
     },
     {
+      "id": "8bc9b070-3208-4189-a00f-59555c08fca6",
       "word": "gel manicure",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2VsIG1hbmljdXJl&hash=43c318b3a540cb178489a502a72fc24d9282585a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤɛl mæ.nɪ.kjɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2VsIG1hbmljdXJl&hash=43c318b3a540cb178489a502a72fc24d9282585a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "jel mā.ni.kyēr",
       "img": "",
       "pronunciation": "dʒɛl mænɪkjʊɹ",
       "senses": [

@@ -1,9 +1,11 @@
 {
+  "id": "75831e1c-6e1d-4955-bbd7-3b7a225989ca",
   "topic": "sports",
   "title": "Sticks, Rackets, and Weapons",
   "lesson": "lesson_55",
   "word_list": [
     {
+      "id": "0c710d86-9d61-4050-9a5c-eedacf42e657",
       "word": "bat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmF0&hash=4147aa6df285da69481cbec7bb1bdcf271413692&lang=en&cache-only=0",
@@ -11,151 +13,349 @@
       "phonetic_am": "https://tts.langeek.co/read?text=YmF0&hash=4147aa6df285da69481cbec7bb1bdcf271413692&lang=en&cache-only=0",
       "phonetic_am_text": "bāt",
       "img": "https://cdn.langeek.co/photo/51350/original/?type=jpeg",
-      "pronunciation": "ˈbæt",
+      "pronunciation": "bæt",
       "senses": [
         {
           "definition": "a long and thin sports tool used for hitting a ball in games like baseball, cricket, or tennis",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He swung the bat and hit a home run."
+            },
+            {
+              "cf": "",
+              "x": "The cricket player chose a new bat for the match."
+            },
+            {
+              "cf": "",
+              "x": "She practiced her hits with a bat."
+            },
+            {
+              "cf": "",
+              "x": "The coach showed him the proper way to grip the bat."
+            },
+            {
+              "cf": "",
+              "x": "The old bat had a few dents from years of use."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b47b38e6-9b43-48a2-9d3e-288caa2d508e",
       "word": "field hockey stick",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmllbGQgaG9ja2V5IHN0aWNr&hash=b1cd1b530042d49df44617cf272fbde284668b98&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fild hɑ.ki stɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmllbGQgaG9ja2V5IHN0aWNr&hash=b1cd1b530042d49df44617cf272fbde284668b98&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fild haa.ki stik",
       "img": "",
       "pronunciation": "fˈiːld hˈɑːki stˈɪk",
       "senses": [
         {
           "definition": "a sports equipment used in field hockey, consisting of a long, slender shaft with a curved head for striking the ball",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The field hockey stick broke during the intense match."
+            },
+            {
+              "cf": "",
+              "x": "She bought a new field hockey stick for the upcoming season."
+            },
+            {
+              "cf": "",
+              "x": "He practiced dribbling with his field hockey stick every afternoon."
+            },
+            {
+              "cf": "",
+              "x": "The team captain personalized her field hockey stick with bright colors."
+            },
+            {
+              "cf": "",
+              "x": "The player swung her field hockey stick with precision and scored a goal."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "3fd3bf58-ebb8-45e8-acc0-e758223bf809",
       "word": "lacrosse stick",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFjcm9zc2Ugc3RpY2s&hash=caa88055b54fa6118ee562c9c16b381a60e48c90&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lək.rɔs stɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFjcm9zc2Ugc3RpY2s&hash=caa88055b54fa6118ee562c9c16b381a60e48c90&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lēk.raws stik",
       "img": "",
       "pronunciation": "lˈækɹɔs stˈɪk",
       "senses": [
         {
           "definition": "a sports tool with a netted pouch on one end for playing lacrosse",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "His lacrosse stick is custom-made."
+            },
+            {
+              "cf": "",
+              "x": "She practices with her lacrosse stick every day."
+            },
+            {
+              "cf": "",
+              "x": "The lacrosse stick's head broke during the game."
+            },
+            {
+              "cf": "",
+              "x": "He carries his lacrosse stick in a special bag."
+            },
+            {
+              "cf": "",
+              "x": "The lacrosse stick's shaft is lightweight."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "3b0a5a23-f4e7-40cd-b194-c46c015f9011",
       "word": "tennis racket",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVubmlzIHJhY2tldA&hash=97eb091db4d3840441ac30f38566cc6210f0e788&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɛ.nɪs ræ.kɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVubmlzIHJhY2tldA&hash=97eb091db4d3840441ac30f38566cc6210f0e788&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "te.nis rā.kit",
       "img": "",
       "pronunciation": "tˈɛnᵻs ɹˈækɪt",
       "senses": [
         {
           "definition": "a sports equipment with a handle and a netted frame, used by players to hit the tennis ball",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She swung her tennis racket to serve the ball across the net."
+            },
+            {
+              "cf": "",
+              "x": "The coach handed him a new tennis racket before the big game."
+            },
+            {
+              "cf": "",
+              "x": "The professional player signed his old tennis racket and gave it to a fan."
+            },
+            {
+              "cf": "",
+              "x": "His tennis racket was customized with his initials."
+            },
+            {
+              "cf": "",
+              "x": "She practiced serving with her new tennis racket every day."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f0b2cc5f-8437-4307-955a-4587848b1fa8",
       "word": "paddle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFkZGxl&hash=63e7756e615dc14d9f3cb7eee16dfa4ab1c1a0ca&lang=en&cache-only=0",
-      "phonetic_text": "pædəl",
+      "phonetic_text": "pæ.dəl",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFkZGxl&hash=63e7756e615dc14d9f3cb7eee16dfa4ab1c1a0ca&lang=en&cache-only=0",
-      "phonetic_am_text": "pādēl",
+      "phonetic_am_text": "pā.dēl",
       "img": "https://cdn.langeek.co/photo/36906/original/?type=jpeg",
       "pronunciation": "ˈpædəɫ",
       "senses": [
         {
           "definition": "a tool used to move a boat or raft through the water, consisting of a long handle with a flat or curved blade on one end",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She grabbed the paddle and began rowing across the lake."
+            },
+            {
+              "cf": "",
+              "x": "The paddle splashed loudly as he dipped it into the water."
+            },
+            {
+              "cf": "",
+              "x": "They used long wooden paddles to row the boat down the stream."
+            },
+            {
+              "cf": "",
+              "x": "The boat’s paddle broke, leaving them stranded in the middle of the lake."
+            },
+            {
+              "cf": "",
+              "x": "The paddles on the raft helped us navigate through the river's current."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "5087f6e6-43ed-421b-accc-cce4ed9eab8d",
       "word": "badminton racket",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFkbWludG9uIHJhY2tldA&hash=30ff88b90a7349ad67ef9fd5e6d2581263a0fef7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæd.mɪn.tən ræ.kɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFkbWludG9uIHJhY2tldA&hash=30ff88b90a7349ad67ef9fd5e6d2581263a0fef7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bād.min.tēn rā.kit",
       "img": "",
       "pronunciation": "bˈædmɪntən ɹˈækɪt",
       "senses": [
         {
           "definition": "a sports tool used by players to hit the shuttlecock in badminton matches",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She practiced serving with her new badminton racket every day."
+            },
+            {
+              "cf": "",
+              "x": "The team packed extra badminton rackets for the tournament."
+            },
+            {
+              "cf": "",
+              "x": "She accidentally broke her badminton racket during a heated match."
+            },
+            {
+              "cf": "",
+              "x": "He forgot his badminton racket at home and had to borrow one from a friend."
+            },
+            {
+              "cf": "",
+              "x": "The coach handed her a new badminton racket before the big game."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "08436914-bc8a-486b-bcc1-46ebe2616cd7",
       "word": "javelin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=amF2ZWxpbg&hash=563dc0cddbbb65400baea0f83027ab64817d40b7&lang=en&cache-only=0",
-      "phonetic_text": "ʤævələn",
+      "phonetic_text": "ʤæ.və.lən",
       "phonetic_am": "https://tts.langeek.co/read?text=amF2ZWxpbg&hash=563dc0cddbbb65400baea0f83027ab64817d40b7&lang=en&cache-only=0",
-      "phonetic_am_text": "jāvēlēn",
+      "phonetic_am_text": "jā.vē.lēn",
       "img": "",
       "pronunciation": "ˈdʒævəɫən/, /ˈdʒævəɫɪn",
       "senses": [
         {
           "definition": "a long, spear-like tool used by athletes to throw as far as possible in track and field events",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The athlete gripped the javelin tightly before his throw."
+            },
+            {
+              "cf": "",
+              "x": "The coach gave him tips on how to hold the javelin correctly."
+            },
+            {
+              "cf": "",
+              "x": "She carried her javelin to the field for the training session."
+            },
+            {
+              "cf": "",
+              "x": "She practiced her javelin technique every day to improve her distance."
+            },
+            {
+              "cf": "",
+              "x": "He chose a lightweight javelin for better control and speed."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "ba37afcb-21d8-4228-9716-08bb92336026",
       "word": "driver",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJpdmVy&hash=c8fedec14115a1d1ebb260baef8f417d7694d675&lang=en&cache-only=0",
-      "phonetic_text": "draɪvər",
+      "phonetic_text": "draɪ.vər",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJpdmVy&hash=c8fedec14115a1d1ebb260baef8f417d7694d675&lang=en&cache-only=0",
-      "phonetic_am_text": "draivēr",
+      "phonetic_am_text": "drai.vēr",
       "img": "",
       "pronunciation": "ˈdraɪvɚ",
       "senses": [
         {
           "definition": "a type of golf club used by players to hit the ball long distances from the tee",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He used his driver to hit the ball down the fairway."
+            },
+            {
+              "cf": "",
+              "x": "She practiced her swing with the driver to improve her distance."
+            },
+            {
+              "cf": "",
+              "x": "The coach recommended a new driver to enhance his game."
+            },
+            {
+              "cf": "",
+              "x": "He kept his favorite driver in perfect condition for tournaments."
+            },
+            {
+              "cf": "",
+              "x": "She felt confident holding her driver on the first tee."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "d4a8d009-5e60-4a4e-90e2-1502cdc58dae",
       "word": "golf club",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29sZiBjbHVi&hash=63cf298899e857b2be3b7d6c30a3da21da443995&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gɑlf klʌb",
       "phonetic_am": "https://tts.langeek.co/read?text=Z29sZiBjbHVi&hash=63cf298899e857b2be3b7d6c30a3da21da443995&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gaalf klab",
       "img": "https://cdn.langeek.co/photo/51354/original/?type=jpeg",
       "pronunciation": "ɡˈɑːlf klˈʌb",
       "senses": [
         {
           "definition": "a tool used by golfers to hit the ball in various ways during a round of golf",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He chose a golf club from his bag to make the perfect shot."
+            },
+            {
+              "cf": "",
+              "x": "She practiced her swing with each golf club to improve her game."
+            },
+            {
+              "cf": "",
+              "x": "She used a different golf club for putting than for driving."
+            },
+            {
+              "cf": "",
+              "x": "His favorite golf club was a seven iron because of its versatility."
+            },
+            {
+              "cf": "",
+              "x": "The golfer inspected his golf club for any damage before the tournament."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7d6a9361-f6b4-4cb6-86db-8d250ab17cdf",
       "word": "racket",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFja2V0&hash=83d0229af4f6037c5b756fb2c2db32df3facabf9&lang=en&cache-only=0",
-      "phonetic_text": "rækɪt",
+      "phonetic_text": "ræ.kɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=cmFja2V0&hash=83d0229af4f6037c5b756fb2c2db32df3facabf9&lang=en&cache-only=0",
-      "phonetic_am_text": "rākit",
+      "phonetic_am_text": "rā.kit",
       "img": "https://cdn.langeek.co/photo/51452/original/racket?type=jpeg",
-      "pronunciation": "ˈɹækɪt",
+      "pronunciation": "ˈrækɪt",
       "senses": [
         {
           "definition": "an object with a handle, an oval frame and a tightly fixed net, used for hitting the ball in sports such as badminton, tennis, etc.",
@@ -185,28 +385,51 @@
       ]
     },
     {
+      "id": "8b6cb282-6a22-4df9-9839-ac53005224b0",
       "word": "mallet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFsbGV0&hash=da9186dc549fccde5da11c538e45bce5e557c711&lang=en&cache-only=0",
-      "phonetic_text": "mælɪt",
+      "phonetic_text": "mæ.lɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFsbGV0&hash=da9186dc549fccde5da11c538e45bce5e557c711&lang=en&cache-only=0",
-      "phonetic_am_text": "mālit",
+      "phonetic_am_text": "mā.lit",
       "img": "",
       "pronunciation": "ˈmæɫɪt",
       "senses": [
         {
           "definition": "a tool with a large, usually wooden, head used for striking objects, often used in sports like polo or croquet",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The player swung the mallet to hit the ball through the hoop."
+            },
+            {
+              "cf": "",
+              "x": "The coach showed him the proper way to hold the mallet."
+            },
+            {
+              "cf": "",
+              "x": "She gripped the mallet tightly, ready to take her shot in croquet."
+            },
+            {
+              "cf": "",
+              "x": "His mallet broke during the intense polo match."
+            },
+            {
+              "cf": "",
+              "x": "The player adjusted the mallet's handle for a better grip."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "053705ed-ace5-4b34-8fa7-cfe8a19ab613",
       "word": "oar",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b2Fy&hash=ac2d1aea7732ea49d4b80f97f04e3ef5ad04dd87&lang=en&cache-only=0",
-      "phonetic_text": "ɔ:r",
+      "phonetic_text": "ɔr",
       "phonetic_am": "https://tts.langeek.co/read?text=b2Fy&hash=ac2d1aea7732ea49d4b80f97f04e3ef5ad04dd87&lang=en&cache-only=0",
-      "phonetic_am_text": "aawr",
+      "phonetic_am_text": "awr",
       "img": "",
       "pronunciation": "ˈɔɹ",
       "senses": [
@@ -234,12 +457,13 @@
       ]
     },
     {
+      "id": "0d89865b-30bb-4d6f-9034-56de40a9e9c9",
       "word": "hockey stick",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG9ja2V5IHN0aWNr&hash=1a8e0460c9bb2978199c8a811cf4bdb27f2eb4b9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɑ.ki stɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9ja2V5IHN0aWNr&hash=1a8e0460c9bb2978199c8a811cf4bdb27f2eb4b9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "haa.ki stik",
       "img": "",
       "pronunciation": "hˈɑːki stˈɪk",
       "senses": [
@@ -271,12 +495,13 @@
       ]
     },
     {
+      "id": "cd31f413-dd6c-4c3f-bdf4-db03219ef776",
       "word": "ski pole",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2tpIHBvbGU&hash=dd0507c2422062343a5108b9566d925d565d4e85&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ski: poʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=c2tpIHBvbGU&hash=dd0507c2422062343a5108b9566d925d565d4e85&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ski poool",
       "img": "https://cdn.langeek.co/photo/33888/original/?type=jpeg",
       "pronunciation": "skˈiː pˈoʊl",
       "senses": [
@@ -287,6 +512,7 @@
       ]
     },
     {
+      "id": "d7c2664e-f956-4e5f-b91f-dd6de0c15f59",
       "word": "mast",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFzdA&hash=2328d99fc4843ccc84a649862f7b56eccb7e0491&lang=en&cache-only=0",
@@ -298,17 +524,39 @@
       "senses": [
         {
           "definition": "a tall, vertical pole on a ship or boat that supports the sails and rigging",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The sailor climbed the mast to adjust the sails."
+            },
+            {
+              "cf": "",
+              "x": "The ship's mast stood tall against the sky."
+            },
+            {
+              "cf": "",
+              "x": "They raised the flag to the top of the mast."
+            },
+            {
+              "cf": "",
+              "x": "The wind filled the sails attached to the mast."
+            },
+            {
+              "cf": "",
+              "x": "He secured the ropes tightly to the mast."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "74174db7-cd0b-41d2-ae58-e59c387063cf",
       "word": "bandy stick",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFuZHkgc3RpY2s&hash=7af97e15866e9bee86307d1e7e89c67026b90545&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæn.di stɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFuZHkgc3RpY2s&hash=7af97e15866e9bee86307d1e7e89c67026b90545&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bān.di stik",
       "img": "",
       "pronunciation": "bˈændi stˈɪk",
       "senses": [
@@ -340,12 +588,13 @@
       ]
     },
     {
+      "id": "7eb3c3db-89e4-43b3-95ce-8d94377a5e46",
       "word": "foil",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9pbA&hash=1067fdd45732aac7517a446324c62e7ede945aaa&lang=en&cache-only=0",
       "phonetic_text": "fɔɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9pbA&hash=1067fdd45732aac7517a446324c62e7ede945aaa&lang=en&cache-only=0",
-      "phonetic_am_text": "foyl",
+      "phonetic_am_text": "fawil",
       "img": "",
       "pronunciation": "ˈfɔɪɫ",
       "senses": [
@@ -377,12 +626,13 @@
       ]
     },
     {
+      "id": "abdf20c4-872f-4fe4-b57e-1a9b4faba8f1",
       "word": "epee",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXBlZQ&hash=f1ac05fe3c84391668aa636c24ada475b4025700&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛ.pi:",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXBlZQ&hash=f1ac05fe3c84391668aa636c24ada475b4025700&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "e.pi",
       "img": "",
       "pronunciation": "ˈɛpiː",
       "senses": [
@@ -414,12 +664,13 @@
       ]
     },
     {
+      "id": "91179a34-45c2-4a14-8095-22c120904e59",
       "word": "saber",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FiZXI&hash=8d9c9db0e9fa965f7b22836af28abf559433dd5a&lang=en&cache-only=0",
-      "phonetic_text": "seɪbər",
+      "phonetic_text": "seɪ.bɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FiZXI&hash=8d9c9db0e9fa965f7b22836af28abf559433dd5a&lang=en&cache-only=0",
-      "phonetic_am_text": "seibēr",
+      "phonetic_am_text": "sei.bēr",
       "img": "",
       "pronunciation": "ˈseɪbɝ",
       "senses": [
@@ -451,12 +702,13 @@
       ]
     },
     {
+      "id": "dc768d46-a814-40e3-bb08-8c3ad1b9ea7f",
       "word": "bo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym8&hash=e586b84464932641b355693926ce3646fe402ed5&lang=en&cache-only=0",
       "phonetic_text": "boʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym8&hash=e586b84464932641b355693926ce3646fe402ed5&lang=en&cache-only=0",
-      "phonetic_am_text": "bow",
+      "phonetic_am_text": "booo",
       "img": "",
       "pronunciation": "ˈboʊ",
       "senses": [
@@ -488,12 +740,13 @@
       ]
     },
     {
+      "id": "10fc2bd6-4103-489c-a712-4645dacb89ba",
       "word": "nunchaku",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bnVuY2hha3U&hash=7e2269bb3207479755fd981dbe38277c88186587&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nʌn.ʧɑ:.ku:",
       "phonetic_am": "https://tts.langeek.co/read?text=bnVuY2hha3U&hash=7e2269bb3207479755fd981dbe38277c88186587&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nan.chaa.koo",
       "img": "",
       "pronunciation": "nʌntʃˈɑːkuː",
       "senses": [
@@ -521,12 +774,13 @@
       ]
     },
     {
+      "id": "d1645b3e-70b2-44de-b691-fd04ed8048f4",
       "word": "sai",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Fp&hash=6612f0586f6b90367fcf92ee1a1aaeb035ce1991&lang=en&cache-only=0",
-      "phonetic_text": "saɪ",
+      "phonetic_text": "seɪaɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Fp&hash=6612f0586f6b90367fcf92ee1a1aaeb035ce1991&lang=en&cache-only=0",
-      "phonetic_am_text": "sai",
+      "phonetic_am_text": "seiai",
       "img": "",
       "pronunciation": "ˈɛˈseɪˈaɪ/, /ˈsaɪ",
       "senses": [
@@ -554,12 +808,13 @@
       ]
     },
     {
+      "id": "2cf06656-a14f-444e-9fdd-cac83db5820d",
       "word": "sword",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3dvcmQ&hash=e43946d96dc9afc94348f3205b9f74acc3fdf586&lang=en&cache-only=0",
-      "phonetic_text": "sɔ:rd",
+      "phonetic_text": "sɔrd",
       "phonetic_am": "https://tts.langeek.co/read?text=c3dvcmQ&hash=e43946d96dc9afc94348f3205b9f74acc3fdf586&lang=en&cache-only=0",
-      "phonetic_am_text": "saawrd",
+      "phonetic_am_text": "sawrd",
       "img": "",
       "pronunciation": "ˈsɔɹd",
       "senses": [
@@ -587,6 +842,7 @@
       ]
     },
     {
+      "id": "0fcfbdca-0c4f-4538-b77a-14823b1814d6",
       "word": "spear",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BlYXI&hash=39efe721be62a0660fb1b42f76f58355a0e5cc78&lang=en&cache-only=0",
@@ -624,12 +880,13 @@
       ]
     },
     {
+      "id": "bfbfcd6f-81f8-40a2-91e4-9a008bee9de7",
       "word": "bokken",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9ra2Vu&hash=cdac412430c1a69ff3ca46c593412e2eba6a8cbd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɑ:.kən",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9ra2Vu&hash=cdac412430c1a69ff3ca46c593412e2eba6a8cbd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baa.kēn",
       "img": "",
       "pronunciation": "bˈɑːkən",
       "senses": [
@@ -657,12 +914,13 @@
       ]
     },
     {
+      "id": "e7dcca7e-01aa-4994-8d05-2e103399613c",
       "word": "shinai",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2hpbmFp&hash=f7a34e7ab3706c25894c00e9f5959434a964ffbc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʃɪ.naɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hpbmFp&hash=f7a34e7ab3706c25894c00e9f5959434a964ffbc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "shi.nai",
       "img": "",
       "pronunciation": "ʃˈɪnaɪ",
       "senses": [
@@ -690,12 +948,13 @@
       ]
     },
     {
+      "id": "9865dbaf-2470-4b26-b4cb-597b1a2ab0df",
       "word": "bow",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym93&hash=64e861cdac57c895016fbbb829906830bc39f58d&lang=en&cache-only=0",
       "phonetic_text": "baʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym93&hash=64e861cdac57c895016fbbb829906830bc39f58d&lang=en&cache-only=0",
-      "phonetic_am_text": "baw",
+      "phonetic_am_text": "baoo",
       "img": "https://cdn.langeek.co/photo/29775/original/?type=jpeg",
       "pronunciation": "baʊ",
       "senses": [
@@ -723,12 +982,13 @@
       ]
     },
     {
+      "id": "bd440d8a-6cb4-4c87-a66c-b4cfb98066cb",
       "word": "arrow",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJyb3c&hash=6e185fd3eab4eead30075efccbdc100e9de137a9&lang=en&cache-only=0",
-      "phonetic_text": "æroʊ",
+      "phonetic_text": "æ.roʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJyb3c&hash=6e185fd3eab4eead30075efccbdc100e9de137a9&lang=en&cache-only=0",
-      "phonetic_am_text": "ārow",
+      "phonetic_am_text": "ā.rooo",
       "img": "https://cdn.langeek.co/photo/29769/original/?type=jpeg",
       "pronunciation": "ˈæroʊ/, /ˈer.oʊ",
       "senses": [
@@ -752,12 +1012,13 @@
       ]
     },
     {
+      "id": "544ae5f1-5b31-497a-aea0-c39098fa0c1b",
       "word": "bowstring",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym93c3RyaW5n&hash=d12047fef4b7da1a4667c1fe33d7822c5df7d0a4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "baʊ.strɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym93c3RyaW5n&hash=d12047fef4b7da1a4667c1fe33d7822c5df7d0a4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baoo.string",
       "img": "",
       "pronunciation": "bˈoʊstɹɪŋ",
       "senses": [
@@ -789,12 +1050,13 @@
       ]
     },
     {
+      "id": "4d366b89-5d21-4878-b6d3-4e7884779b6a",
       "word": "fletching",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmxldGNoaW5n&hash=0885111a5895e4b1981c03d2600f38856f5ec958&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "flɛ.ʧɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmxldGNoaW5n&hash=0885111a5895e4b1981c03d2600f38856f5ec958&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fle.ching",
       "img": "",
       "pronunciation": "flˈɛtʃɪŋ",
       "senses": [
@@ -826,12 +1088,13 @@
       ]
     },
     {
+      "id": "08b2ec65-42c1-4e4a-94c2-a1a08cf6284b",
       "word": "heel",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGVlbA&hash=ffa2ee004b343736e7d6f2df6952b63340d8519b&lang=en&cache-only=0",
       "phonetic_text": "hi:l",
       "phonetic_am": "https://tts.langeek.co/read?text=aGVlbA&hash=ffa2ee004b343736e7d6f2df6952b63340d8519b&lang=en&cache-only=0",
-      "phonetic_am_text": "heel",
+      "phonetic_am_text": "hil",
       "img": "",
       "pronunciation": "hiːl",
       "senses": [
@@ -863,12 +1126,13 @@
       ]
     },
     {
+      "id": "c23a51f7-357a-4728-b060-04871bb1de93",
       "word": "yumi",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=eXVtaQ&hash=5ad710c96ec8fa7143a128fab6487296fb7af07f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ju:.mi",
       "phonetic_am": "https://tts.langeek.co/read?text=eXVtaQ&hash=5ad710c96ec8fa7143a128fab6487296fb7af07f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "yoo.mi",
       "img": "",
       "pronunciation": "jˈuːmi",
       "senses": [
@@ -900,12 +1164,13 @@
       ]
     },
     {
+      "id": "15efa927-b48d-4c8f-a959-16b476d45a93",
       "word": "rifle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmlmbGU&hash=e9025178a71527c6166a8a3dd03b33da25659cb3&lang=en&cache-only=0",
-      "phonetic_text": "raɪfəl",
+      "phonetic_text": "raɪ.fəl",
       "phonetic_am": "https://tts.langeek.co/read?text=cmlmbGU&hash=e9025178a71527c6166a8a3dd03b33da25659cb3&lang=en&cache-only=0",
-      "phonetic_am_text": "raifēl",
+      "phonetic_am_text": "rai.fēl",
       "img": "https://cdn.langeek.co/photo/23897/original/?type=jpeg",
       "pronunciation": "ˈɹaɪfəɫ",
       "senses": [
@@ -937,12 +1202,13 @@
       ]
     },
     {
+      "id": "3ade320c-f8b0-4abe-8a4f-5e7f3c251911",
       "word": "pistol",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGlzdG9s&hash=ceadcfbaeee6684f919c126e97846becb30383a6&lang=en&cache-only=0",
-      "phonetic_text": "pɪstəl",
+      "phonetic_text": "pɪs.təl",
       "phonetic_am": "https://tts.langeek.co/read?text=cGlzdG9s&hash=ceadcfbaeee6684f919c126e97846becb30383a6&lang=en&cache-only=0",
-      "phonetic_am_text": "pistēl",
+      "phonetic_am_text": "pis.tēl",
       "img": "https://cdn.langeek.co/photo/18838/original/gun?type=jpeg",
       "pronunciation": "ˈpɪstəɫ",
       "senses": [
@@ -974,12 +1240,13 @@
       ]
     },
     {
+      "id": "b5d24166-8e00-401f-b1e4-9ca82929f988",
       "word": "squash racket",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3F1YXNoIHJhY2tldA&hash=57794ef2ae56f3aeae2b94b202f38637e23438fb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skwɑʃ ræ.kɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=c3F1YXNoIHJhY2tldA&hash=57794ef2ae56f3aeae2b94b202f38637e23438fb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skvaash rā.kit",
       "img": "",
       "pronunciation": "skwˈɑːʃ ɹˈækɪt",
       "senses": [

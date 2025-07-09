@@ -1,47 +1,93 @@
 {
+  "id": "5f381fae-8cf8-458b-a0f2-06ff6233aacb",
   "topic": "c1_level",
   "title": "Hobbies and Activities",
   "lesson": "lesson_39",
   "word_list": [
     {
+      "id": "af3c95c0-87d6-4c6e-8d78-211bdc732e24",
       "word": "amateur",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YW1hdGV1cg&hash=69672f27be5e3971ab6eab79b7efd1d3d3867689&lang=en&cache-only=0",
-      "phonetic_text": "æmətɜr",
+      "phonetic_text": "æ.mə.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YW1hdGV1cg&hash=69672f27be5e3971ab6eab79b7efd1d3d3867689&lang=en&cache-only=0",
-      "phonetic_am_text": "āmētēr",
+      "phonetic_am_text": "ā.mē.tēr",
       "img": "",
       "pronunciation": "ˈæməˌtɝ/, /ˈæməˌtʃɝ",
       "senses": [
         {
           "definition": "done for recreation, not as an occupation",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She had an amateur interest in painting, often creating artworks in her spare time."
+            },
+            {
+              "cf": "",
+              "x": "The amateur photography club met every weekend to explore new locations for photoshoots."
+            },
+            {
+              "cf": "",
+              "x": "She played tennis at an amateur level, participating in local tournaments for fun."
+            },
+            {
+              "cf": "",
+              "x": "He enjoyed amateur astronomy, spending evenings observing stars and planets through his telescope."
+            },
+            {
+              "cf": "",
+              "x": "They organized an amateur painting workshop for beginners interested in learning basic techniques."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "snorkel",
+      "id": "8ac29971-2257-43f3-9731-b9e53f888e23",
+      "word": "to snorkel",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc25vcmtlbA&hash=d21e6a5e3e16a54d381dbe83bfe9cab62395ba09&lang=en&cache-only=0",
-      "phonetic_text": "snɔ:rkəl",
+      "phonetic_text": "snɔr.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc25vcmtlbA&hash=d21e6a5e3e16a54d381dbe83bfe9cab62395ba09&lang=en&cache-only=0",
-      "phonetic_am_text": "snaawrkēl",
+      "phonetic_am_text": "snawr.kēl",
       "img": "https://cdn.langeek.co/photo/46008/original/scuba-diving?type=jpeg",
       "pronunciation": "ˈsnɔɹkəɫ",
       "senses": [
         {
           "definition": "to swim under water with a hollow tube called snorkel through which one can breathe",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "We decided to snorkel along the coral reef to observe the underwater wildlife."
+            },
+            {
+              "cf": "",
+              "x": "She loves to snorkel in the clear blue waters of the Caribbean Sea."
+            },
+            {
+              "cf": "",
+              "x": "Tourists often snorkel near the shipwreck to explore its marine life."
+            },
+            {
+              "cf": "",
+              "x": "We plan to snorkel at the beach tomorrow morning if the weather is good."
+            },
+            {
+              "cf": "",
+              "x": "He taught his children how to snorkel during their vacation in Hawaii."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "wade",
+      "id": "d65f8c65-bcfb-48c9-8876-9a0ed6faa214",
+      "word": "to wade",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2FkZQ&hash=9f076ad446c1de0faac15c2065098f6f22accd50&lang=en&cache-only=0",
       "phonetic_text": "weɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2FkZQ&hash=9f076ad446c1de0faac15c2065098f6f22accd50&lang=en&cache-only=0",
-      "phonetic_am_text": "weid",
+      "phonetic_am_text": "veid",
       "img": "https://cdn.langeek.co/photo/53593/original/?type=jpeg",
       "pronunciation": "ˈweɪd",
       "senses": [
@@ -65,12 +111,13 @@
       ]
     },
     {
+      "id": "2ed1e7f1-dadf-449f-a0c7-9d1c910e6b51",
       "word": "ballroom dancing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFsbHJvb20gZGFuY2luZw&hash=9c57ac965e7cd337e2345686a952a9462b7d4e41&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɔ:l.ru:m dæn.sɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFsbHJvb20gZGFuY2luZw&hash=9c57ac965e7cd337e2345686a952a9462b7d4e41&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bawl.room dān.sing",
       "img": "https://cdn.langeek.co/photo/28007/original/?type=jpeg",
       "pronunciation": "bˈɔːlɹuːm dˈænsɪŋ",
       "senses": [
@@ -98,12 +145,13 @@
       ]
     },
     {
+      "id": "50a4f6bb-dac5-4848-af02-0a4b7acbd3a2",
       "word": "binge-watching",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmluZ2Utd2F0Y2hpbmc&hash=ef5dae56356d5300ca9f330f84da876261a2d19d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɪnʤ-wɑ.ʧɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=YmluZ2Utd2F0Y2hpbmc&hash=ef5dae56356d5300ca9f330f84da876261a2d19d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "binj-vaa.ching",
       "img": "https://cdn.langeek.co/photo/48689/original/watch?type=jpeg",
       "pronunciation": "bˈɪndʒ wˈɑːtʃɪŋ",
       "senses": [
@@ -135,12 +183,13 @@
       ]
     },
     {
+      "id": "4cac67d8-eb54-4582-bd4c-d287f6d196c2",
       "word": "boating",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9hdGluZw&hash=ad78701b3036f717ca88b15c30ae368637c7e7bc&lang=en&cache-only=0",
-      "phonetic_text": "boʊtɪng",
+      "phonetic_text": "boʊ.tɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9hdGluZw&hash=ad78701b3036f717ca88b15c30ae368637c7e7bc&lang=en&cache-only=0",
-      "phonetic_am_text": "bowting",
+      "phonetic_am_text": "booo.ting",
       "img": "https://cdn.langeek.co/photo/49482/original/boat?type=jpeg",
       "pronunciation": "ˈboʊtɪŋ",
       "senses": [
@@ -151,12 +200,13 @@
       ]
     },
     {
+      "id": "cc623c4f-6218-4617-a373-50fbff747b54",
       "word": "bodybuilding",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9keWJ1aWxkaW5n&hash=b71025884e5a9e77694670744bf4329884776c81&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɑ:.di.bɪl.dɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9keWJ1aWxkaW5n&hash=b71025884e5a9e77694670744bf4329884776c81&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baa.di.bil.ding",
       "img": "https://cdn.langeek.co/photo/29605/original/?type=jpeg",
       "pronunciation": "bˈɑːdɪbˌɪldɪŋ",
       "senses": [
@@ -184,10 +234,11 @@
       ]
     },
     {
+      "id": "14ebba08-abc3-4391-b722-b9abf56644be",
       "word": "brewing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJld2luZw&hash=556ad570c0b280407417c8ab5cb363de3972669c&lang=en&cache-only=0",
-      "phonetic_text": "bru:ɪng",
+      "phonetic_text": "bruɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJld2luZw&hash=556ad570c0b280407417c8ab5cb363de3972669c&lang=en&cache-only=0",
       "phonetic_am_text": "brooing",
       "img": "",
@@ -195,51 +246,109 @@
       "senses": [
         {
           "definition": "the business or activity of making beer",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Brewing coffee each morning is a ritual that helps her start the day on a positive note."
+            },
+            {
+              "cf": "",
+              "x": "He took a course on brewing techniques to learn how to make his own wine."
+            },
+            {
+              "cf": "",
+              "x": "The ancient art of brewing dates back thousands of years and has evolved into a sophisticated science."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "cf0c0b55-7293-4fea-9076-fd47dba16db4",
       "word": "bungee jumping",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVuZ2VlIGp1bXBpbmc&hash=317508f978e11dbec943e5d21124a6900da59cd9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bʌn.ʤi ʤəm.pɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVuZ2VlIGp1bXBpbmc&hash=317508f978e11dbec943e5d21124a6900da59cd9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ban.ji jēm.ping",
       "img": "https://cdn.langeek.co/photo/16165/original/bungee-jumping?type=jpeg",
       "pronunciation": "bˈʌndʒiː dʒˈʌmpɪŋ",
       "senses": [
         {
           "definition": "an activity in which someone jumps from a very high place with a rubber cord tied around their ankles",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Bungee jumping off the bridge gave him an exhilarating rush of adrenaline."
+            },
+            {
+              "cf": "",
+              "x": "She conquered her fear of heights by bungee jumping from a crane."
+            },
+            {
+              "cf": "",
+              "x": "Bungee jumping is a popular extreme sport for thrill-seekers looking for a new adventure."
+            },
+            {
+              "cf": "",
+              "x": "They traveled to New Zealand specifically to experience bungee jumping at one of the world’s most famous sites."
+            },
+            {
+              "cf": "",
+              "x": "Before bungee jumping, it's crucial to check all the equipment and safety measures."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f5f192ce-b3cb-450a-bc47-60c25effb42b",
       "word": "flower arranging",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zmxvd2VyIGFycmFuZ2luZw&hash=a6ebdbe8fa3d338399e23b0118ed2213e0ef1a5c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "flaʊər ɜ.reɪn.ʤɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmxvd2VyIGFycmFuZ2luZw&hash=a6ebdbe8fa3d338399e23b0118ed2213e0ef1a5c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "flaooēr ē.rein.jing",
       "img": "https://cdn.langeek.co/photo/20988/original/?type=jpeg",
       "pronunciation": "flˈaʊɚɹ ɐɹˈeɪndʒɪŋ",
       "senses": [
         {
           "definition": "the skill of attractively arranging cut flowers",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She took a class in flower arranging to learn how to create beautiful bouquets and centerpieces."
+            },
+            {
+              "cf": "",
+              "x": "Flower arranging is both an art and a therapeutic hobby that allows for creative expression."
+            },
+            {
+              "cf": "",
+              "x": "The florist's shop was filled with stunning examples of flower arranging, showcasing vibrant colors and intricate designs."
+            },
+            {
+              "cf": "",
+              "x": "He surprised his wife with a custom flower arrangement he made himself after attending a flower arranging workshop."
+            },
+            {
+              "cf": "",
+              "x": "Flower arranging can be used to enhance the ambiance of any room, adding elegance and a touch of nature."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "6f3ddfc5-60bd-4673-9727-d5db270406da",
       "word": "modeling",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9kZWxpbmc&hash=27fd3c352ddd367845fdd40f7cefb033ed850dc9&lang=en&cache-only=0",
-      "phonetic_text": "mɑ:dəlɪng",
+      "phonetic_text": "mɑ.də.lɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9kZWxpbmc&hash=27fd3c352ddd367845fdd40f7cefb033ed850dc9&lang=en&cache-only=0",
-      "phonetic_am_text": "maadēling",
+      "phonetic_am_text": "maa.dē.ling",
       "img": "",
-      "pronunciation": "ˈmɑdəˌɫɪŋ/, /ˈmɑdɫɪŋ",
+      "pronunciation": "ˈmɑdlɪŋ",
       "senses": [
         {
           "definition": "the practice of making something on a smaller scale",
@@ -261,12 +370,13 @@
       ]
     },
     {
+      "id": "5120c4f4-7ad7-4e27-8ea2-c93c789b3bf7",
       "word": "palm reading",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFsbSByZWFkaW5n&hash=050339c763eb8cb0c2e3faf5f536e53603ce982a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɑ:m rɛ.dɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFsbSByZWFkaW5n&hash=050339c763eb8cb0c2e3faf5f536e53603ce982a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "paam re.ding",
       "img": "https://cdn.langeek.co/photo/29820/original/?type=jpeg",
       "pronunciation": "pˈɑːm ɹˈiːdɪŋ",
       "senses": [
@@ -298,12 +408,13 @@
       ]
     },
     {
+      "id": "f2b2db28-b8b0-4b49-9cf0-abb040ebf057",
       "word": "parachuting",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFyYWNodXRpbmc&hash=7adc632d00dbd8fd9f018c86279c447a82cc0df5&lang=en&cache-only=0",
-      "phonetic_text": "pɛrəʃutɪng",
+      "phonetic_text": "pɛ.rə.ʃu.tɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFyYWNodXRpbmc&hash=7adc632d00dbd8fd9f018c86279c447a82cc0df5&lang=en&cache-only=0",
-      "phonetic_am_text": "perēshuting",
+      "phonetic_am_text": "pe.rē.shoo.ting",
       "img": "https://cdn.langeek.co/photo/18916/original/parachuting?type=jpeg",
       "pronunciation": "ˈpɛɹəˌʃutɪŋ",
       "senses": [
@@ -323,44 +434,89 @@
       ]
     },
     {
+      "id": "7b2471e4-17d5-49a4-bd73-6c0a451bdf45",
       "word": "sewing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2V3aW5n&hash=d81e22d96bdd2ffe282bc11f946bb41de304a318&lang=en&cache-only=0",
       "phonetic_text": "soʊɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=c2V3aW5n&hash=d81e22d96bdd2ffe282bc11f946bb41de304a318&lang=en&cache-only=0",
-      "phonetic_am_text": "sowing",
+      "phonetic_am_text": "soooing",
       "img": "https://cdn.langeek.co/photo/29591/original/?type=jpeg",
       "pronunciation": "ˈsoʊɪŋ",
       "senses": [
         {
           "definition": "the skill or practice of using a scissor, needle, thread, etc. to make or repair clothing",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She learned sewing from her grandmother, who taught her how to make dresses and quilts."
+            },
+            {
+              "cf": "",
+              "x": "Sewing requires patience and precision, especially when working on intricate designs."
+            },
+            {
+              "cf": "",
+              "x": "He spent the afternoon sewing patches onto his old jeans to give them a new look."
+            },
+            {
+              "cf": "",
+              "x": "Sewing classes have become popular among people looking to create their own custom clothing."
+            },
+            {
+              "cf": "",
+              "x": "Sewing allows individuals to express their creativity by designing and crafting unique garments."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "cc036947-b571-4884-bcf3-aedb7b430de3",
       "word": "wine tasting",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2luZSB0YXN0aW5n&hash=11cdb038fb275084a28c4274f0540af0665d4d36&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "waɪn teɪs.tɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luZSB0YXN0aW5n&hash=11cdb038fb275084a28c4274f0540af0665d4d36&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vain teis.ting",
       "img": "https://cdn.langeek.co/photo/51676/original/?type=jpeg",
       "pronunciation": "wˈaɪn tˈeɪstɪŋ",
       "senses": [
         {
           "definition": "an event or occasion on which people gather to taste and compare different types of wine",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Wine tasting involves sampling and evaluating different wines to appreciate their flavors and characteristics."
+            },
+            {
+              "cf": "",
+              "x": "She attended a wine tasting event at the vineyard to learn more about different varietals and winemaking techniques."
+            },
+            {
+              "cf": "",
+              "x": "The sommelier guided them through a wine tasting flight, explaining the nuances of each wine."
+            },
+            {
+              "cf": "",
+              "x": "Wine tasting notes often describe aspects such as aroma, acidity, body, and finish of the wine."
+            },
+            {
+              "cf": "",
+              "x": "Developing a palate for wine tasting takes practice and experience to discern subtle differences between wines."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "9261070a-f628-4c70-8327-1eea7f5cd189",
       "word": "acrobatics",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWNyb2JhdGljcw&hash=9891a3fd86cc1903710dcd60410925c0e910dd57&lang=en&cache-only=0",
-      "phonetic_text": "ækrəbætɪks",
+      "phonetic_text": "æk.rə.bæ.tɪks",
       "phonetic_am": "https://tts.langeek.co/read?text=YWNyb2JhdGljcw&hash=9891a3fd86cc1903710dcd60410925c0e910dd57&lang=en&cache-only=0",
-      "phonetic_am_text": "ākrēbātiks",
+      "phonetic_am_text": "āk.rē.bā.tiks",
       "img": "https://cdn.langeek.co/photo/44880/original/?type=jpeg",
       "pronunciation": "ˌækɹəˈbætɪks",
       "senses": [
@@ -392,28 +548,51 @@
       ]
     },
     {
+      "id": "26a825c2-268b-4eac-a092-71e620fc2047",
       "word": "astrology",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXN0cm9sb2d5&hash=b3410c89605553d671c976dfc55365d79a878f97&lang=en&cache-only=0",
-      "phonetic_text": "əstrɑ:ləʤi",
+      "phonetic_text": "əst.rɑ.lə.ʤi",
       "phonetic_am": "https://tts.langeek.co/read?text=YXN0cm9sb2d5&hash=b3410c89605553d671c976dfc55365d79a878f97&lang=en&cache-only=0",
-      "phonetic_am_text": "ēstraalēji",
+      "phonetic_am_text": "ēst.raa.lē.ji",
       "img": "https://cdn.langeek.co/photo/29894/original/?type=jpeg",
       "pronunciation": "əˈstɹɑɫədʒi",
       "senses": [
         {
           "definition": "the study of the movements of stars and planets that are thought to affect people and the world",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Astrology is the study of the positions and movements of celestial bodies, believed to influence human affairs and natural events."
+            },
+            {
+              "cf": "",
+              "x": "Astrology has ancient roots and is practiced in various cultures worldwide, each with its own traditions and interpretations."
+            },
+            {
+              "cf": "",
+              "x": "Skeptics argue that astrology lacks scientific evidence but acknowledge its cultural significance and popularity."
+            },
+            {
+              "cf": "",
+              "x": "Astrology has roots in ancient civilizations such as Mesopotamia, Egypt, and Greece, where celestial observations were used for divination."
+            },
+            {
+              "cf": "",
+              "x": "Some people use astrology to guide decisions in areas such as relationships, career choices, and personal development."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "ff1c2b65-9d14-497e-a936-cec82beb5b1b",
       "word": "aromatherapy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJvbWF0aGVyYXB5&hash=812ae31880c7f77bca0aa56a34c5e0d09db38601&lang=en&cache-only=0",
-      "phonetic_text": "əroʊməθɜrəpi",
+      "phonetic_text": "ɜ.roʊ.mə.θɛ.rə.pi",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJvbWF0aGVyYXB5&hash=812ae31880c7f77bca0aa56a34c5e0d09db38601&lang=en&cache-only=0",
-      "phonetic_am_text": "ērowmēthērēpi",
+      "phonetic_am_text": "ē.rooo.mē.the.rē.pi",
       "img": "",
       "pronunciation": "əˌɹoʊməˈθɝəpi",
       "senses": [
@@ -445,12 +624,13 @@
       ]
     },
     {
+      "id": "22de08b8-e551-4bcd-acf8-6dd9dd571532",
       "word": "belly dance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVsbHkgZGFuY2U&hash=0fb71cce70c09a8560d009a830beebc56669a68c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "be.li dæns",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVsbHkgZGFuY2U&hash=0fb71cce70c09a8560d009a830beebc56669a68c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "be.li dāns",
       "img": "https://cdn.langeek.co/photo/29808/original/?type=jpeg",
       "pronunciation": "bˈɛli dˈæns",
       "senses": [
@@ -482,12 +662,13 @@
       ]
     },
     {
+      "id": "ee08f443-ec78-44df-b66c-09fb2550d8b6",
       "word": "bullfight",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVsbGZpZ2h0&hash=6a96f017b379aca3ba6abf9d5f9767f08784e7f1&lang=en&cache-only=0",
-      "phonetic_text": "bʊlfaɪt",
+      "phonetic_text": "bʊl.faɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVsbGZpZ2h0&hash=6a96f017b379aca3ba6abf9d5f9767f08784e7f1&lang=en&cache-only=0",
-      "phonetic_am_text": "bulfait",
+      "phonetic_am_text": "bool.fait",
       "img": "https://cdn.langeek.co/photo/29697/original/?type=jpeg",
       "pronunciation": "ˈbʊɫˌfaɪt",
       "senses": [
@@ -519,12 +700,13 @@
       ]
     },
     {
+      "id": "933fc837-a78e-4815-a515-c1894175a1dd",
       "word": "calligraphy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FsbGlncmFwaHk&hash=ae3dd6194f07820ba32ebe7a9784c02fbac12575&lang=en&cache-only=0",
-      "phonetic_text": "kəlɪgrəfi",
+      "phonetic_text": "kə.lɪg.rə.fi",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FsbGlncmFwaHk&hash=ae3dd6194f07820ba32ebe7a9784c02fbac12575&lang=en&cache-only=0",
-      "phonetic_am_text": "kēligrēfi",
+      "phonetic_am_text": "kē.lig.rē.fi",
       "img": "https://cdn.langeek.co/photo/26900/original/?type=jpeg",
       "pronunciation": "kəˈɫɪɡɹəfi",
       "senses": [
@@ -552,12 +734,13 @@
       ]
     },
     {
+      "id": "bd95faa2-dbb4-41f5-ad5e-052ed8867dfb",
       "word": "cosplay",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29zcGxheQ&hash=1ae21f2b2a85c0de28da1c87cfc1370af7518923&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɔs.pleɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29zcGxheQ&hash=1ae21f2b2a85c0de28da1c87cfc1370af7518923&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaws.plei",
       "img": "https://cdn.langeek.co/photo/20601/original/costume?type=jpeg",
       "pronunciation": "kˈɑːspleɪ",
       "senses": [
@@ -581,12 +764,13 @@
       ]
     },
     {
+      "id": "48a20177-3264-47cf-a823-cf60e9c4866b",
       "word": "do it yourself",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZG8gaXQgeW91cnNlbGY&hash=217aa87449046ca9a8368dbecf1afb3be0394d69&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "du: ʌɪti: jɔr.sɛlf",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG8gaXQgeW91cnNlbGY&hash=217aa87449046ca9a8368dbecf1afb3be0394d69&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "doo aiti yawr.self",
       "img": "",
       "pronunciation": "dˈuː ɪt joːɹsˈɛlf",
       "senses": [
@@ -597,12 +781,13 @@
       ]
     },
     {
+      "id": "8fcf7d70-603d-4dfe-a9ff-3d237feddbe1",
       "word": "dressage",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJlc3NhZ2U&hash=453b4fdc82a74f8e24146922b47226e73328378e&lang=en&cache-only=0",
-      "phonetic_text": "drɛsɑ:ʒ",
+      "phonetic_text": "drɛ.sɑʒ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJlc3NhZ2U&hash=453b4fdc82a74f8e24146922b47226e73328378e&lang=en&cache-only=0",
-      "phonetic_am_text": "dresaazh",
+      "phonetic_am_text": "dre.saazh",
       "img": "",
       "pronunciation": "dɹɛˈsɑʒ",
       "senses": [
@@ -634,12 +819,13 @@
       ]
     },
     {
+      "id": "3bbae707-9ab2-45dc-b025-f09a5d6ccf9d",
       "word": "paintball",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFpbnRiYWxs&hash=76220c8e6f87776187728bbdba26f663844c47a3&lang=en&cache-only=0",
-      "phonetic_text": "peɪntbɑl",
+      "phonetic_text": "peɪnt.bɔ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFpbnRiYWxs&hash=76220c8e6f87776187728bbdba26f663844c47a3&lang=en&cache-only=0",
-      "phonetic_am_text": "peintbɑl",
+      "phonetic_am_text": "peint.bawl",
       "img": "https://cdn.langeek.co/photo/29818/original/?type=jpeg",
       "pronunciation": "ˈpeɪntˌbɑɫ",
       "senses": [
@@ -663,12 +849,13 @@
       ]
     },
     {
+      "id": "8a56eaab-994b-407f-b989-420a98ca02a9",
       "word": "parkour",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFya291cg&hash=a93df3f9c88ef45be01a23b1a02645f9776f3165&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɑ:r.kər",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFya291cg&hash=a93df3f9c88ef45be01a23b1a02645f9776f3165&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "paar.kēr",
       "img": "https://cdn.langeek.co/photo/51092/original/?type=jpeg",
       "pronunciation": "pˈɑːɹkɚ",
       "senses": [
@@ -692,10 +879,11 @@
       ]
     },
     {
-      "word": "sudoku",
+      "id": "616f842a-4c71-49f6-8d07-601c173e4798",
+      "word": "Sudoku",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=U3Vkb2t1&hash=257245106cf0951247118609bd93da8ecb17cea6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=U3Vkb2t1&hash=257245106cf0951247118609bd93da8ecb17cea6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/29517/original/?type=jpeg",
@@ -708,12 +896,13 @@
       ]
     },
     {
+      "id": "c4b88d4c-8a1d-4756-bf4e-c6c50e96acd8",
       "word": "tarot",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFyb3Q&hash=b4aadecddca2afde0e2752a0a3f04b83fd38e649&lang=en&cache-only=0",
-      "phonetic_text": "tæroʊ",
+      "phonetic_text": "tæ.roʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFyb3Q&hash=b4aadecddca2afde0e2752a0a3f04b83fd38e649&lang=en&cache-only=0",
-      "phonetic_am_text": "tārow",
+      "phonetic_am_text": "tā.rooo",
       "img": "https://cdn.langeek.co/photo/29519/original/?type=jpeg",
       "pronunciation": "ˌtæˈɹoʊ",
       "senses": [
@@ -724,10 +913,11 @@
       ]
     },
     {
+      "id": "38d90106-d068-4241-aa51-3c8fc5f46d99",
       "word": "Zumba",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=WnVtYmE&hash=64d3c209cd3052eb397573fd589e71ab01f5a91c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=WnVtYmE&hash=64d3c209cd3052eb397573fd589e71ab01f5a91c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -761,7 +951,8 @@
       ]
     },
     {
-      "word": "knit",
+      "id": "6902888e-192f-4710-a725-912524186e27",
+      "word": "to knit",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga25pdA&hash=8019bae6a464d71e4197ea44616f190cc45e3fe4&lang=en&cache-only=0",
       "phonetic_text": "nɪt",

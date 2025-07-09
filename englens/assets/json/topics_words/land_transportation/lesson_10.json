@@ -1,9 +1,11 @@
 {
+  "id": "1655ead7-1c57-408e-a80e-e5960eacd694",
   "topic": "land_transportation",
   "title": "Vehicle Exterior and Accessories",
   "lesson": "lesson_10",
   "word_list": [
     {
+      "id": "1e8f6b58-5f2a-4ff2-9f91-66adebcab383",
       "word": "grille",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JpbGxl&hash=47ecb340f0b9a9c6a675febf2828769b4b58d9a8&lang=en&cache-only=0",
@@ -37,14 +39,15 @@
       ]
     },
     {
+      "id": "9b75539c-cb89-450e-ad95-258eb4fe4cab",
       "word": "hood",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG9vZA&hash=cef6abb9c6aaddd38fa11095f276003f4dc6e24a&lang=en&cache-only=0",
       "phonetic_text": "hʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9vZA&hash=cef6abb9c6aaddd38fa11095f276003f4dc6e24a&lang=en&cache-only=0",
-      "phonetic_am_text": "hud",
+      "phonetic_am_text": "hood",
       "img": "https://cdn.langeek.co/photo/21342/original/?type=jpeg",
-      "pronunciation": "ˈhʊd",
+      "pronunciation": "hʊd",
       "senses": [
         {
           "definition": "a metal part that covers the engine of a vehicle",
@@ -74,49 +77,30 @@
       ]
     },
     {
+      "id": "aca165b7-8b62-4273-ac49-07c05587694e",
       "word": "fog lamp",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9nIGxhbXA&hash=bcb5546f070538961c359fb4692f1ec77e6c2ad2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɑg læmp",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9nIGxhbXA&hash=bcb5546f070538961c359fb4692f1ec77e6c2ad2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "faag lāmp",
       "img": "",
       "pronunciation": "fˈɑːɡ lˈæmp",
       "senses": [
         {
           "definition": "a type of light on a vehicle designed to improve visibility in foggy conditions",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Fog lamps are typically mounted low on the front bumper of vehicles."
-            },
-            {
-              "cf": "",
-              "x": "Using fog lamps in foggy weather helps drivers see the road markings and other vehicles better."
-            },
-            {
-              "cf": "",
-              "x": "Some drivers mistakenly use fog lamps in clear weather, which can be distracting to others on the road."
-            },
-            {
-              "cf": "",
-              "x": "It's important to switch off fog lamps when visibility improves to avoid dazzling drivers coming from the opposite direction."
-            },
-            {
-              "cf": "",
-              "x": "My car's fog lamp helps me see better when it's foggy outside."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "c6d29729-12fd-4304-aa97-5232166140b9",
       "word": "headlight",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGVhZGxpZ2h0&hash=896972a07a1ab6b17888b9b193c9698179127ba6&lang=en&cache-only=0",
-      "phonetic_text": "hɛdlaɪt",
+      "phonetic_text": "hɛd.laɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=aGVhZGxpZ2h0&hash=896972a07a1ab6b17888b9b193c9698179127ba6&lang=en&cache-only=0",
-      "phonetic_am_text": "hedlait",
+      "phonetic_am_text": "hed.lait",
       "img": "https://cdn.langeek.co/photo/35848/original/?type=jpeg",
       "pronunciation": "ˈhɛdˌɫaɪt",
       "senses": [
@@ -148,12 +132,13 @@
       ]
     },
     {
+      "id": "d637a39d-97fa-4871-8a4d-569af962aed3",
       "word": "high beam",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGlnaCBiZWFt&hash=50635f6978e77e289d2c5c9d4498138d2513c99a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "haɪ bim",
       "phonetic_am": "https://tts.langeek.co/read?text=aGlnaCBiZWFt&hash=50635f6978e77e289d2c5c9d4498138d2513c99a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hai bim",
       "img": "",
       "pronunciation": "hˈaɪ bˈiːm",
       "senses": [
@@ -185,12 +170,13 @@
       ]
     },
     {
+      "id": "add55eb6-079a-43ba-8359-ec4694824310",
       "word": "low beam",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG93IGJlYW0&hash=e607d93e5b79b66c69c3cc84f5ea196bfaed38ac&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "loʊ bim",
       "phonetic_am": "https://tts.langeek.co/read?text=bG93IGJlYW0&hash=e607d93e5b79b66c69c3cc84f5ea196bfaed38ac&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "looo bim",
       "img": "",
       "pronunciation": "lˈoʊ bˈiːm",
       "senses": [
@@ -222,12 +208,13 @@
       ]
     },
     {
+      "id": "80776505-81ff-4156-ad85-a187b35816b5",
       "word": "windshield",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2luZHNoaWVsZA&hash=8cac2894cad56288ca08e3b2216e9785ddb63772&lang=en&cache-only=0",
-      "phonetic_text": "wɪndʃild",
+      "phonetic_text": "wɪnd.ʃild",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luZHNoaWVsZA&hash=8cac2894cad56288ca08e3b2216e9785ddb63772&lang=en&cache-only=0",
-      "phonetic_am_text": "windshild",
+      "phonetic_am_text": "vind.shild",
       "img": "https://cdn.langeek.co/photo/21358/original/?type=jpeg",
       "pronunciation": "ˈwɪndˌʃiɫd",
       "senses": [
@@ -259,12 +246,13 @@
       ]
     },
     {
+      "id": "dd336a83-6367-489e-8370-0d6d1aa1a7b5",
       "word": "windshield wiper",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2luZHNoaWVsZCB3aXBlcg&hash=989917d0eec256ccecbc7f92c41f2c7016573c32&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɪnd.ʃild waɪ.pɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luZHNoaWVsZCB3aXBlcg&hash=989917d0eec256ccecbc7f92c41f2c7016573c32&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vind.shild vai.pēr",
       "img": "https://cdn.langeek.co/photo/21354/original/?type=jpeg",
       "pronunciation": "wˈɪndʃiːld wˈaɪpɚ",
       "senses": [
@@ -292,12 +280,13 @@
       ]
     },
     {
+      "id": "fe5ffe33-3921-4709-9de4-6305191d24d0",
       "word": "bumper",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVtcGVy&hash=78d404a1ea2d1c0ab3da5f3212e65f6eda85e822&lang=en&cache-only=0",
-      "phonetic_text": "bʌmpər",
+      "phonetic_text": "bəm.pɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVtcGVy&hash=78d404a1ea2d1c0ab3da5f3212e65f6eda85e822&lang=en&cache-only=0",
-      "phonetic_am_text": "bampēr",
+      "phonetic_am_text": "bēm.pēr",
       "img": "https://cdn.langeek.co/photo/21338/original/?type=jpeg",
       "pronunciation": "ˈbəmpɝ",
       "senses": [
@@ -329,12 +318,13 @@
       ]
     },
     {
+      "id": "c494c012-5141-49f9-95d5-dfb8b931a864",
       "word": "tail light",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFpbCBsaWdodA&hash=094776f697dea21e133cd9effbef18a961b04fb0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "teɪl laɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFpbCBsaWdodA&hash=094776f697dea21e133cd9effbef18a961b04fb0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "teil lait",
       "img": "https://cdn.langeek.co/photo/21436/original/?type=jpeg",
       "pronunciation": "tˈeɪlaɪt",
       "senses": [
@@ -366,12 +356,13 @@
       ]
     },
     {
+      "id": "e75d890b-68c6-4efc-b7db-7155ac69b897",
       "word": "brake light",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJha2UgbGlnaHQ&hash=721479d6d07012af37266887174d0c1529582851&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "breɪk laɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJha2UgbGlnaHQ&hash=721479d6d07012af37266887174d0c1529582851&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "breik lait",
       "img": "https://cdn.langeek.co/photo/21436/original/?type=jpeg",
       "pronunciation": "bɹˈeɪk lˈaɪt",
       "senses": [
@@ -403,10 +394,11 @@
       ]
     },
     {
+      "id": "5abf6ea3-7e28-4961-a616-a644f4f1dd67",
       "word": "hazard lights",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGF6YXJkIGxpZ2h0cw&hash=33ea6c1873abea258a2098f33f770c365c7dadbd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aGF6YXJkIGxpZ2h0cw&hash=33ea6c1873abea258a2098f33f770c365c7dadbd&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -440,6 +432,7 @@
       ]
     },
     {
+      "id": "14519fc6-08ff-4759-8b94-87f9e87ec953",
       "word": "fin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zmlu&hash=3043ff8b1aae17a09690683906e74e0c12dfb42f&lang=en&cache-only=0",
@@ -477,12 +470,13 @@
       ]
     },
     {
+      "id": "2b4bb17e-b591-4998-aa7d-4409736cb4a2",
       "word": "spoiler",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BvaWxlcg&hash=f2d486cdd059190b2ae4563475db6766b2ebd9d3&lang=en&cache-only=0",
-      "phonetic_text": "spɔɪlər",
+      "phonetic_text": "spɔɪ.lɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BvaWxlcg&hash=f2d486cdd059190b2ae4563475db6766b2ebd9d3&lang=en&cache-only=0",
-      "phonetic_am_text": "spoylēr",
+      "phonetic_am_text": "spawi.lēr",
       "img": "",
       "pronunciation": "ˈspɔɪɫɝ",
       "senses": [
@@ -514,12 +508,13 @@
       ]
     },
     {
+      "id": "d45529e5-891b-416b-ae76-8f60fa088997",
       "word": "backup camera",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFja3VwIGNhbWVyYQ&hash=14ae58af44b9749de5d4e3699cf62da0a5b090fa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæ.kəp kæm.rə",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFja3VwIGNhbWVyYQ&hash=14ae58af44b9749de5d4e3699cf62da0a5b090fa&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bā.kēp kām.rē",
       "img": "",
       "pronunciation": "bˈækʌp kˈæmɹə",
       "senses": [
@@ -530,12 +525,13 @@
       ]
     },
     {
+      "id": "8f16cbd2-ad6c-4281-859b-929fe9eeb585",
       "word": "mudflap",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXVkZmxhcA&hash=e5c33a4502415ce15a2286aa99852c6d4c51e14b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "məd.flæp",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVkZmxhcA&hash=e5c33a4502415ce15a2286aa99852c6d4c51e14b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mēd.flāp",
       "img": "",
       "pronunciation": "mˈʌdflæp",
       "senses": [
@@ -567,12 +563,13 @@
       ]
     },
     {
+      "id": "d237ddbb-4d54-4194-a850-efd91026d7ef",
       "word": "tailgate",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFpbGdhdGU&hash=5ff28ae626f3fe2b59d585a61bd297078e4fbfec&lang=en&cache-only=0",
-      "phonetic_text": "teɪlgeɪt",
+      "phonetic_text": "teɪl.geɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFpbGdhdGU&hash=5ff28ae626f3fe2b59d585a61bd297078e4fbfec&lang=en&cache-only=0",
-      "phonetic_am_text": "teilgeit",
+      "phonetic_am_text": "teil.geit",
       "img": "https://cdn.langeek.co/photo/36429/original/?type=jpeg",
       "pronunciation": "ˈteɪɫˌɡeɪt",
       "senses": [
@@ -604,12 +601,13 @@
       ]
     },
     {
+      "id": "2fb1a951-c99a-4e4a-bb1e-3afe6124b3b1",
       "word": "blinker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ymxpbmtlcg&hash=bd446d881a234e4d69cba89f7823f560cec7b16e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "blɪn.kər",
       "phonetic_am": "https://tts.langeek.co/read?text=Ymxpbmtlcg&hash=bd446d881a234e4d69cba89f7823f560cec7b16e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "blin.kēr",
       "img": "https://cdn.langeek.co/photo/21440/original/?type=jpeg",
       "pronunciation": "blˈɪŋkɚ",
       "senses": [
@@ -641,12 +639,13 @@
       ]
     },
     {
+      "id": "7ed2bc27-fc5b-4fca-8110-01e314cfc258",
       "word": "flasher",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zmxhc2hlcg&hash=473c620c49607c2dd55a8ae1696ec8f3bf236053&lang=en&cache-only=0",
-      "phonetic_text": "flæʃər",
+      "phonetic_text": "flæ.ʃɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmxhc2hlcg&hash=473c620c49607c2dd55a8ae1696ec8f3bf236053&lang=en&cache-only=0",
-      "phonetic_am_text": "flāshēr",
+      "phonetic_am_text": "flā.shēr",
       "img": "",
       "pronunciation": "ˈfɫæʃɝ",
       "senses": [
@@ -670,49 +669,30 @@
       ]
     },
     {
+      "id": "fc30e7c2-1390-4fbd-afd7-ee6fd2dc64b7",
       "word": "turn signal",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHVybiBzaWduYWw&hash=ef292742865c96c21ddca066582ac6fc5d6b1a6d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɜrn sɪg.nəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dHVybiBzaWduYWw&hash=ef292742865c96c21ddca066582ac6fc5d6b1a6d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tērn sig.nēl",
       "img": "https://cdn.langeek.co/photo/21440/original/?type=jpeg",
-      "pronunciation": "tˈɜːn sˈɪɡnəl",
+      "pronunciation": "ˈtɝn sˈɪɡnəl",
       "senses": [
         {
           "definition": "a light on a vehicle that blinks to indicate a change in lane",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Before merging into the next lane, she activated her turn signal to alert other drivers."
-            },
-            {
-              "cf": "",
-              "x": "The driver forgot to use the turn signal, causing a nearby car to slow down abruptly."
-            },
-            {
-              "cf": "",
-              "x": "The turn signal light on the dashboard flashed, indicating the left turn was being made."
-            },
-            {
-              "cf": "",
-              "x": "It’s important to use your turn signal well in advance to give other drivers enough notice."
-            },
-            {
-              "cf": "",
-              "x": "The mechanic checked the turn signal wiring to fix the issue of the lights not blinking."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "79614c6c-301e-4bf7-9f03-5c694c867d80",
       "word": "license plate",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGljZW5zZSBwbGF0ZQ&hash=0b998cd804eb618a00ad08df246e452743c79554&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "laɪ.səns pleɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=bGljZW5zZSBwbGF0ZQ&hash=0b998cd804eb618a00ad08df246e452743c79554&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lai.sēns pleit",
       "img": "https://cdn.langeek.co/photo/21332/original/?type=jpeg",
       "pronunciation": "lˈaɪsəns plˈeɪt",
       "senses": [
@@ -744,12 +724,13 @@
       ]
     },
     {
+      "id": "4d3bab91-fb76-4f01-8d06-cb69f1191795",
       "word": "license plate lamp",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGljZW5zZSBwbGF0ZSBsYW1w&hash=8b92e8b8eba81bca4bb9a38f0f2e6b52ab152a88&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "laɪ.səns pleɪt læmp",
       "phonetic_am": "https://tts.langeek.co/read?text=bGljZW5zZSBwbGF0ZSBsYW1w&hash=8b92e8b8eba81bca4bb9a38f0f2e6b52ab152a88&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lai.sēns pleit lāmp",
       "img": "",
       "pronunciation": "lˈaɪsəns plˈeɪt lˈæmp",
       "senses": [
@@ -781,86 +762,47 @@
       ]
     },
     {
+      "id": "1d28efa8-04f3-4305-b2c8-65102c8a2f6f",
       "word": "wing mirror",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2luZyBtaXJyb3I&hash=62d014d994607ea8990c10a2e070617ac2b6bbde&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɪng mɪ.rɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luZyBtaXJyb3I&hash=62d014d994607ea8990c10a2e070617ac2b6bbde&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ving mi.rēr",
       "img": "",
       "pronunciation": "wˈɪŋ mˈɪɹɚ",
       "senses": [
         {
           "definition": "a reflective device attached to the side of a vehicle, allowing the driver to see what is behind and beside them",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Before changing lanes, it's important to check your wing mirrors for any approaching vehicles."
-            },
-            {
-              "cf": "",
-              "x": "The driver adjusted the wing mirror to get a better view of the parking space behind the car."
-            },
-            {
-              "cf": "",
-              "x": "She noticed a scratch on the edge of her wing mirror after parking too close to the curb."
-            },
-            {
-              "cf": "",
-              "x": "It's helpful to keep your wing mirrors clean to ensure clear visibility while driving."
-            },
-            {
-              "cf": "",
-              "x": "When parallel parking, use your wing mirrors to gauge the distance from the curb."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "829fe8ee-8a5e-4e03-b88d-196ea3200cbd",
       "word": "quarter panel",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cXVhcnRlciBwYW5lbA&hash=014a57baa4ef9ee291277eb61c516f8f1653725f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kwɔr.tɜr pæ.nəl",
       "phonetic_am": "https://tts.langeek.co/read?text=cXVhcnRlciBwYW5lbA&hash=014a57baa4ef9ee291277eb61c516f8f1653725f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kvawr.tēr pā.nēl",
       "img": "",
       "pronunciation": "kwˈɔːɹɾɚ pˈænəl",
       "senses": [
         {
           "definition": "a part of a car's bodywork that covers the area between the rear door and the trunk",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The mechanic repaired the dent on the quarter panel of my car after the accident."
-            },
-            {
-              "cf": "",
-              "x": "She noticed a scratch on the quarter panel while washing her car."
-            },
-            {
-              "cf": "",
-              "x": "The cost to replace a damaged quarter panel can be quite expensive."
-            },
-            {
-              "cf": "",
-              "x": "He painted the new quarter panel to match the original color of the vehicle."
-            },
-            {
-              "cf": "",
-              "x": "The collision caused damage to both the bumper and the quarter panel of the car."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "6cf27f06-b2d2-4dac-b667-be81516763c7",
       "word": "rocker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9ja2Vy&hash=45c2bf0ab907e6ea6248c8134061a11cf0502060&lang=en&cache-only=0",
-      "phonetic_text": "rɑ:kər",
+      "phonetic_text": "rɑ.kɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9ja2Vy&hash=45c2bf0ab907e6ea6248c8134061a11cf0502060&lang=en&cache-only=0",
-      "phonetic_am_text": "raakēr",
+      "phonetic_am_text": "raa.kēr",
       "img": "",
       "pronunciation": "ˈɹɑkɝ",
       "senses": [
@@ -892,10 +834,11 @@
       ]
     },
     {
+      "id": "726610a7-0224-4809-8d38-4ffe52c1680e",
       "word": "T-top",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VC10b3A&hash=4752e053218fdecbb2e422145d7599bb0677f081&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=VC10b3A&hash=4752e053218fdecbb2e422145d7599bb0677f081&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -925,12 +868,13 @@
       ]
     },
     {
+      "id": "798413ee-7159-4c39-84ff-a77bf5f2bfa0",
       "word": "sunroof",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3Vucm9vZg&hash=507f0ec0696f55270ac94b243ac92238cd31b586&lang=en&cache-only=0",
-      "phonetic_text": "sʌnruf",
+      "phonetic_text": "sʌn.ru:f",
       "phonetic_am": "https://tts.langeek.co/read?text=c3Vucm9vZg&hash=507f0ec0696f55270ac94b243ac92238cd31b586&lang=en&cache-only=0",
-      "phonetic_am_text": "sanruf",
+      "phonetic_am_text": "san.roof",
       "img": "https://cdn.langeek.co/photo/35738/original/?type=jpeg",
       "pronunciation": "ˈsənˌɹuf",
       "senses": [
@@ -962,12 +906,13 @@
       ]
     },
     {
+      "id": "f697ae7c-fa31-4014-8441-0f7616407ad7",
       "word": "moonroof",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9vbnJvb2Y&hash=0fd8922160d07664707c9f5c7a623b3a7fee3161&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mu:n.ru:f",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9vbnJvb2Y&hash=0fd8922160d07664707c9f5c7a623b3a7fee3161&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "moon.roof",
       "img": "",
       "pronunciation": "mˈuːnɹuːf",
       "senses": [
@@ -999,12 +944,13 @@
       ]
     },
     {
+      "id": "9bf73b4c-e870-48cd-90eb-8323f54d988c",
       "word": "siren",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2lyZW4&hash=b8f8d4be148bc4761c882c9c3a47f4bad4ee6fc0&lang=en&cache-only=0",
-      "phonetic_text": "saɪrən",
+      "phonetic_text": "saɪ.rən",
       "phonetic_am": "https://tts.langeek.co/read?text=c2lyZW4&hash=b8f8d4be148bc4761c882c9c3a47f4bad4ee6fc0&lang=en&cache-only=0",
-      "phonetic_am_text": "sairēn",
+      "phonetic_am_text": "sai.rēn",
       "img": "",
       "pronunciation": "ˈsaɪɹən",
       "senses": [
@@ -1032,12 +978,13 @@
       ]
     },
     {
+      "id": "6fb2865a-d57d-4fec-bb60-5569b27abaf0",
       "word": "roof rack",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9vZiByYWNr&hash=1854c10a5af5131a317fa3518b9a143ebd9f1dbf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ru:f ræk",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9vZiByYWNr&hash=1854c10a5af5131a317fa3518b9a143ebd9f1dbf&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "roof rāk",
       "img": "",
       "pronunciation": "ɹˈuːf ɹˈæk",
       "senses": [
@@ -1069,12 +1016,13 @@
       ]
     },
     {
+      "id": "fa75588a-dcba-41fa-952b-ec6c661b1e90",
       "word": "car antenna",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FyIGFudGVubmE&hash=3ec0d2a91b63d3aa7a64eb2aaf9fdefb3577fe1b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑ:r æn.te.nə",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FyIGFudGVubmE&hash=3ec0d2a91b63d3aa7a64eb2aaf9fdefb3577fe1b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaar ān.te.nē",
       "img": "",
       "pronunciation": "kˈɑːɹ æntˈɛnə",
       "senses": [
@@ -1106,12 +1054,13 @@
       ]
     },
     {
+      "id": "788febb9-d2b7-4a46-b555-a80a2cc6db7c",
       "word": "running board",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cnVubmluZyBib2FyZA&hash=7d31a139c4b39fa88fe21090a425ee1a42036b7e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rə.nɪng bɔ:rd",
       "phonetic_am": "https://tts.langeek.co/read?text=cnVubmluZyBib2FyZA&hash=7d31a139c4b39fa88fe21090a425ee1a42036b7e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rē.ning bawrd",
       "img": "",
       "pronunciation": "ɹˈʌnɪŋ bˈoːɹd",
       "senses": [
@@ -1143,12 +1092,13 @@
       ]
     },
     {
+      "id": "03976692-2cee-4aa3-b3bc-f8ef9f5dd63c",
       "word": "side-view mirror",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2lkZS12aWV3IG1pcnJvcg&hash=ad3955ecfce42335c1a4f4e159ae982d946797c4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "saɪd-vju mɪ.rɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c2lkZS12aWV3IG1pcnJvcg&hash=ad3955ecfce42335c1a4f4e159ae982d946797c4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "said-vyoo mi.rēr",
       "img": "https://cdn.langeek.co/photo/35647/original/?type=jpeg",
       "pronunciation": "saɪdvjuː mɪɹɚ",
       "senses": [
@@ -1176,12 +1126,13 @@
       ]
     },
     {
+      "id": "2717570f-ab28-4a6b-97a6-49e01e587571",
       "word": "filler cap",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmlsbGVyIGNhcA&hash=3a595dfcd60f34616e87626f2f9b628f7b97856f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɪ.lɜr kæp",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmlsbGVyIGNhcA&hash=3a595dfcd60f34616e87626f2f9b628f7b97856f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fi.lēr kāp",
       "img": "",
       "pronunciation": "fˈɪlɚ kˈæp",
       "senses": [
@@ -1213,12 +1164,13 @@
       ]
     },
     {
+      "id": "0132ae8a-d3c0-46d2-964a-ab51761f422f",
       "word": "fender",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmVuZGVy&hash=d5ad4575aab460afd456b4a5046b712db1de1de1&lang=en&cache-only=0",
-      "phonetic_text": "fɛndər",
+      "phonetic_text": "fɛn.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmVuZGVy&hash=d5ad4575aab460afd456b4a5046b712db1de1de1&lang=en&cache-only=0",
-      "phonetic_am_text": "fendēr",
+      "phonetic_am_text": "fen.dēr",
       "img": "https://cdn.langeek.co/photo/21338/original/?type=jpeg",
       "pronunciation": "ˈfɛndɝ",
       "senses": [
@@ -1250,12 +1202,13 @@
       ]
     },
     {
+      "id": "5707d446-cba7-4d94-8467-90fc537033da",
       "word": "hub",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aHVi&hash=6f377907568080d8d25c2c03cc600f0fd10e6a80&lang=en&cache-only=0",
-      "phonetic_text": "hʌb",
+      "phonetic_text": "həb",
       "phonetic_am": "https://tts.langeek.co/read?text=aHVi&hash=6f377907568080d8d25c2c03cc600f0fd10e6a80&lang=en&cache-only=0",
-      "phonetic_am_text": "hab",
+      "phonetic_am_text": "hēb",
       "img": "",
       "pronunciation": "ˈhəb",
       "senses": [
@@ -1287,12 +1240,13 @@
       ]
     },
     {
+      "id": "6a60896a-ab63-4220-bbd0-17bb9622917c",
       "word": "hubcap",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aHViY2Fw&hash=cf010ece4680996e64319a873900a05f420a294e&lang=en&cache-only=0",
-      "phonetic_text": "hʌbkæp",
+      "phonetic_text": "həb.kæp",
       "phonetic_am": "https://tts.langeek.co/read?text=aHViY2Fw&hash=cf010ece4680996e64319a873900a05f420a294e&lang=en&cache-only=0",
-      "phonetic_am_text": "habkāp",
+      "phonetic_am_text": "hēb.kāp",
       "img": "",
       "pronunciation": "ˈhəbˌkæp",
       "senses": [
@@ -1320,12 +1274,13 @@
       ]
     },
     {
+      "id": "01a1683a-ce59-4f36-a4ba-1c4f21a41645",
       "word": "tire pressure gauge",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGlyZSBwcmVzc3VyZSBnYXVnZQ&hash=324453d1d7648371a6fead3934a10f8fa081c026&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "taɪɜr prɛ.ʃɜr geɪʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=dGlyZSBwcmVzc3VyZSBnYXVnZQ&hash=324453d1d7648371a6fead3934a10f8fa081c026&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "taiēr pre.shēr geij",
       "img": "",
       "pronunciation": "tˈaɪɚ pɹˈɛʃɚ ɡˈeɪdʒ",
       "senses": [
@@ -1357,12 +1312,13 @@
       ]
     },
     {
+      "id": "a9d06720-3753-42ef-a08c-731ee9d29897",
       "word": "jumper cable",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=anVtcGVyIGNhYmxl&hash=c5807e8c53863a3bfbc06139dddf96e0e95d535d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤəm.pɜr keɪ.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=anVtcGVyIGNhYmxl&hash=c5807e8c53863a3bfbc06139dddf96e0e95d535d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "jēm.pēr kei.bēl",
       "img": "",
       "pronunciation": "dʒˈʌmpɚ kˈeɪbəl",
       "senses": [
@@ -1394,12 +1350,13 @@
       ]
     },
     {
+      "id": "169b8732-c8fd-4882-9c66-13b757f17bed",
       "word": "spare tire",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BhcmUgdGlyZQ&hash=8bd818ca19bfe4bf04b10191a45002c5b6ee13c6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spɛr taɪɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BhcmUgdGlyZQ&hash=8bd818ca19bfe4bf04b10191a45002c5b6ee13c6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sper taiēr",
       "img": "https://cdn.langeek.co/photo/36939/original/?type=jpeg",
       "pronunciation": "spˈɛɹ tˈaɪɚ",
       "senses": [
@@ -1431,12 +1388,13 @@
       ]
     },
     {
+      "id": "e4f84091-7534-407c-9278-716077769f33",
       "word": "spare part",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BhcmUgcGFydA&hash=2dd3524a1b57d099eec4bbd2d2e2068bcd990c9e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spɛr pɑ:rt",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BhcmUgcGFydA&hash=2dd3524a1b57d099eec4bbd2d2e2068bcd990c9e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sper paart",
       "img": "https://cdn.langeek.co/photo/32062/original/?type=jpeg",
       "pronunciation": "spˈɛɹ pˈɑːɹt",
       "senses": [
@@ -1468,12 +1426,13 @@
       ]
     },
     {
-      "word": "lugnut",
+      "id": "88b6b3f9-166b-49af-95d6-5fb8f8b3482d",
+      "word": "lug nut",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bHVnIG51dA&hash=00f0c21cee8489636ba44a2ba8138f833f676cce&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ləg nʌt",
       "phonetic_am": "https://tts.langeek.co/read?text=bHVnIG51dA&hash=00f0c21cee8489636ba44a2ba8138f833f676cce&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lēg nat",
       "img": "",
       "pronunciation": "lˈʌɡ nˈʌt",
       "senses": [
@@ -1505,12 +1464,13 @@
       ]
     },
     {
+      "id": "ceec9515-600a-42b1-820a-07c75125653d",
       "word": "tailpipe",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFpbHBpcGU&hash=9d072f2040561878904930976227ed8e1aef58b7&lang=en&cache-only=0",
-      "phonetic_text": "teɪlpaɪp",
+      "phonetic_text": "teɪl.paɪp",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFpbHBpcGU&hash=9d072f2040561878904930976227ed8e1aef58b7&lang=en&cache-only=0",
-      "phonetic_am_text": "teilpaip",
+      "phonetic_am_text": "teil.paip",
       "img": "https://cdn.langeek.co/photo/21344/original/?type=jpeg",
       "pronunciation": "ˈteɪɫˌpaɪp",
       "senses": [
@@ -1542,14 +1502,15 @@
       ]
     },
     {
+      "id": "6ce88297-9bd2-4ab1-9ddd-097fc002896a",
       "word": "trunk",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJ1bms&hash=c7d4a7a75f3e918fdfaddedb4da136f11ed99d25&lang=en&cache-only=0",
-      "phonetic_text": "trʌnk",
+      "phonetic_text": "trənk",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJ1bms&hash=c7d4a7a75f3e918fdfaddedb4da136f11ed99d25&lang=en&cache-only=0",
-      "phonetic_am_text": "trank",
+      "phonetic_am_text": "trēnk",
       "img": "https://cdn.langeek.co/photo/21352/original/?type=jpeg",
-      "pronunciation": "ˈtɹəŋk",
+      "pronunciation": "trʌŋk",
       "senses": [
         {
           "definition": "the space at the back of an automobile in which different things can be put",
@@ -1579,12 +1540,13 @@
       ]
     },
     {
+      "id": "40c48065-d5a0-495f-8710-06b8b89f4620",
       "word": "wheel arch",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2hlZWwgYXJjaA&hash=78151c0fcc77e9fd580c2db9ff3ea99cb61c68de&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wi:l ɑrʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hlZWwgYXJjaA&hash=78151c0fcc77e9fd580c2db9ff3ea99cb61c68de&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vil aarch",
       "img": "",
       "pronunciation": "wˈiːl ˈɑːɹtʃ",
       "senses": [
@@ -1616,12 +1578,13 @@
       ]
     },
     {
+      "id": "b85d3117-6586-4d36-b6b7-0fb14a6975b0",
       "word": "sidecar",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2lkZWNhcg&hash=8d0d1cb917cbdf1284ebf38112799b4b825c315d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "saɪd.kɑ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=c2lkZWNhcg&hash=8d0d1cb917cbdf1284ebf38112799b4b825c315d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "said.kaar",
       "img": "",
       "pronunciation": "sˈaɪdkɑːɹ",
       "senses": [
@@ -1649,12 +1612,13 @@
       ]
     },
     {
+      "id": "5015e917-c446-40b0-98ce-cd226f87b8bf",
       "word": "crumple zone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3J1bXBsZSB6b25l&hash=42d1b5b364a4123cf0f8201ad07be47189cd994c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "krəm.pəl zoʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3J1bXBsZSB6b25l&hash=42d1b5b364a4123cf0f8201ad07be47189cd994c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "krēm.pēl zooon",
       "img": "",
       "pronunciation": "kɹˈʌmpəl zˈoʊn",
       "senses": [

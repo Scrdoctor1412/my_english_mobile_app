@@ -1,15 +1,17 @@
 {
+  "id": "d722849b-813e-40bd-9990-ce97c0e17ba7",
   "topic": "decision_suggestion_obligation",
   "title": "Proposing and Implying",
   "lesson": "lesson_8",
   "word_list": [
     {
+      "id": "60a9bf3b-30e5-4d0b-9f28-c1acb25e92cf",
       "word": "indicative",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aW5kaWNhdGl2ZQ&hash=04a5f30649fc9b9a6fecc7a23de9898123b844ff&lang=en&cache-only=0",
-      "phonetic_text": "ɪndɪkətɪv",
+      "phonetic_text": "ɪn.dɪ.kə.tɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5kaWNhdGl2ZQ&hash=04a5f30649fc9b9a6fecc7a23de9898123b844ff&lang=en&cache-only=0",
-      "phonetic_am_text": "indikētiv",
+      "phonetic_am_text": "in.di.kē.tiv",
       "img": "",
       "pronunciation": "ˌɪnˈdɪkətɪv",
       "senses": [
@@ -45,12 +47,13 @@
       ]
     },
     {
-      "word": "infer",
+      "id": "7320b26b-7b40-4811-a1a1-40dc2e1691f1",
+      "word": "to infer",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW5mZXI&hash=0d3ac3108c474bfad7bbde1062e1fe619f955618&lang=en&cache-only=0",
-      "phonetic_text": "ɪnfɜr",
+      "phonetic_text": "ɪn.fɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW5mZXI&hash=0d3ac3108c474bfad7bbde1062e1fe619f955618&lang=en&cache-only=0",
-      "phonetic_am_text": "infēr",
+      "phonetic_am_text": "in.fēr",
       "img": "https://cdn.langeek.co/photo/46487/original/?type=jpeg",
       "pronunciation": "ˌɪnˈfɝ",
       "senses": [
@@ -82,12 +85,13 @@
       ]
     },
     {
-      "word": "insinuate",
+      "id": "5d198c72-a280-4c10-ad90-4ae7659d1bf2",
+      "word": "to insinuate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW5zaW51YXRl&hash=f020eafbfe0d70f1f69ce6a6be21beeb33cb5e00&lang=en&cache-only=0",
-      "phonetic_text": "ɪnsɪnjueɪt",
+      "phonetic_text": "ɪn.sɪ.njueɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW5zaW51YXRl&hash=f020eafbfe0d70f1f69ce6a6be21beeb33cb5e00&lang=en&cache-only=0",
-      "phonetic_am_text": "insinyueit",
+      "phonetic_am_text": "in.si.nyooeit",
       "img": "https://cdn.langeek.co/photo/58295/original/?type=jpeg",
       "pronunciation": "ˌɪnˈsɪnjueɪt",
       "senses": [
@@ -119,10 +123,11 @@
       ]
     },
     {
+      "id": "a776b863-0f14-404e-a5d3-5f3e64f05cd1",
       "word": "it would not do {sb} any harm",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aXQgd291bGQgbm90IGRvIHNvbWVib2R5IGFueSBoYXJt&hash=f7dffccd9562c1cd11f536794adcc031b2bd7a74&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aXQgd291bGQgbm90IGRvIHNvbWVib2R5IGFueSBoYXJt&hash=f7dffccd9562c1cd11f536794adcc031b2bd7a74&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -135,7 +140,8 @@
       ]
     },
     {
-      "word": "let",
+      "id": "dbf739c2-429f-4f97-b02b-78694103f075",
+      "word": "to let",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGV0&hash=6a64a2effe822372e009feb76b9c8ab65085485f&lang=en&cache-only=0",
       "phonetic_text": "lɛt",
@@ -172,12 +178,13 @@
       ]
     },
     {
+      "id": "36ef1132-651f-4c0c-b686-9e027e895cbd",
       "word": "maybe",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=bWF5YmU&hash=da457ba76c86442c101d7bc84a9a1c22de531a45&lang=en&cache-only=0",
-      "phonetic_text": "meɪbi",
+      "phonetic_text": "meɪ.bi",
       "phonetic_am": "https://tts.langeek.co/read?text=bWF5YmU&hash=da457ba76c86442c101d7bc84a9a1c22de531a45&lang=en&cache-only=0",
-      "phonetic_am_text": "meibi",
+      "phonetic_am_text": "mei.bi",
       "img": "",
       "pronunciation": "ˈmeɪbi",
       "senses": [
@@ -188,6 +195,7 @@
       ]
     },
     {
+      "id": "b691029c-9e0a-4119-80ee-0658dd0e160b",
       "word": "might",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=bWlnaHQ&hash=b6f4517cba0a65b83c6041d4c6fbd7cc7f5a06ca&lang=en&cache-only=0",
@@ -195,7 +203,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=bWlnaHQ&hash=b6f4517cba0a65b83c6041d4c6fbd7cc7f5a06ca&lang=en&cache-only=0",
       "phonetic_am_text": "mait",
       "img": "",
-      "pronunciation": "ˈmaɪt",
+      "pronunciation": "maɪt",
       "senses": [
         {
           "definition": "‌used to bring up a suggestion in a polite manner",
@@ -204,10 +212,11 @@
       ]
     },
     {
-      "word": "moot",
+      "id": "50696904-d7bf-44af-85a2-70be28031326",
+      "word": "to moot",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbW9vdA&hash=5fbed25e4429e6e7f5c26341d2c9e1a2c29e429a&lang=en&cache-only=0",
-      "phonetic_text": "mu:t",
+      "phonetic_text": "mut",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbW9vdA&hash=5fbed25e4429e6e7f5c26341d2c9e1a2c29e429a&lang=en&cache-only=0",
       "phonetic_am_text": "moot",
       "img": "https://cdn.langeek.co/photo/44932/original/?type=jpeg",
@@ -241,14 +250,15 @@
       ]
     },
     {
-      "word": "move",
+      "id": "e0eda27b-fa31-4253-82fa-c8aa05a5a015",
+      "word": "to move",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbW92ZQ&hash=e59a3a204d7647bde2016efcae1344269cdd7b59&lang=en&cache-only=0",
-      "phonetic_text": "mu:v",
+      "phonetic_text": "muv",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbW92ZQ&hash=e59a3a204d7647bde2016efcae1344269cdd7b59&lang=en&cache-only=0",
       "phonetic_am_text": "moov",
       "img": "",
-      "pronunciation": "ˈmuv",
+      "pronunciation": "muv",
       "senses": [
         {
           "definition": "to put forward a suggestion or proposal formally",
@@ -270,6 +280,7 @@
       ]
     },
     {
+      "id": "7a0341cf-5991-4072-9e5b-19c031c052fe",
       "word": "must",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=bXVzdA&hash=8ecb7de338831b2b4199a5c636e91a4bc0489525&lang=en&cache-only=0",
@@ -277,7 +288,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=bXVzdA&hash=8ecb7de338831b2b4199a5c636e91a4bc0489525&lang=en&cache-only=0",
       "phonetic_am_text": "mast",
       "img": "",
-      "pronunciation": "ˈməst",
+      "pronunciation": "mʌst",
       "senses": [
         {
           "definition": "used to make a recommendations regarding someone or something",
@@ -286,14 +297,15 @@
       ]
     },
     {
-      "word": "nominate",
+      "id": "4209425a-7fe2-4f31-b4dc-c55a8ca23e99",
+      "word": "to nominate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbm9taW5hdGU&hash=a8bbe8c76d71558e0c9efd72e37e0a95afc80448&lang=en&cache-only=0",
-      "phonetic_text": "nɑ:mənət",
+      "phonetic_text": "nɑ.mə.neɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbm9taW5hdGU&hash=a8bbe8c76d71558e0c9efd72e37e0a95afc80448&lang=en&cache-only=0",
-      "phonetic_am_text": "naamēnēt",
+      "phonetic_am_text": "naa.mē.neit",
       "img": "https://cdn.langeek.co/photo/59834/original/?type=jpeg",
-      "pronunciation": "ˈnɑməˌneɪt/, /ˈnɑmənət",
+      "pronunciation": "ˈnɑməˌneɪt",
       "senses": [
         {
           "definition": "to assign or designate someone to a particular position or responsibility",
@@ -319,12 +331,13 @@
       ]
     },
     {
+      "id": "70aab612-48e9-4fb5-a2d3-92c8a14357f4",
       "word": "nomination",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bm9taW5hdGlvbg&hash=8147242b8be5d841de93ded72e7b545e9f1abab8&lang=en&cache-only=0",
-      "phonetic_text": "nɑməneɪʃən",
+      "phonetic_text": "nɑ.mə.neɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=bm9taW5hdGlvbg&hash=8147242b8be5d841de93ded72e7b545e9f1abab8&lang=en&cache-only=0",
-      "phonetic_am_text": "nɑmēneishēn",
+      "phonetic_am_text": "naa.mē.nei.shēn",
       "img": "",
       "pronunciation": "ˌnɑməˈneɪʃən",
       "senses": [
@@ -335,14 +348,15 @@
       ]
     },
     {
+      "id": "f8de6129-c430-4d25-985b-4e00ff699c86",
       "word": "nominee",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bm9taW5lZQ&hash=73ecdffda8703cc9717d73a64f1728854876bc62&lang=en&cache-only=0",
-      "phonetic_text": "nɑməni:",
+      "phonetic_text": "nɑ.mə.ni",
       "phonetic_am": "https://tts.langeek.co/read?text=bm9taW5lZQ&hash=73ecdffda8703cc9717d73a64f1728854876bc62&lang=en&cache-only=0",
-      "phonetic_am_text": "nɑmēnee",
+      "phonetic_am_text": "naa.mē.ni",
       "img": "https://cdn.langeek.co/photo/20936/original/?type=jpeg",
-      "pronunciation": "ˌnɑməˈni",
+      "pronunciation": "ˌnɑməˈniː",
       "senses": [
         {
           "definition": "someone who has been officially suggested for a position, award, etc.",
@@ -372,14 +386,15 @@
       ]
     },
     {
+      "id": "30aebc48-54b9-427a-989d-19acc7220d6d",
       "word": "now then",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bm93IHRoZW4&hash=a401afbde5293dc7691301a9ecd6b51d28995eeb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "naʊ ðɛn",
       "phonetic_am": "https://tts.langeek.co/read?text=bm93IHRoZW4&hash=a401afbde5293dc7691301a9ecd6b51d28995eeb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "naoo dhen",
       "img": "",
-      "pronunciation": "nˈaʊ ðˈɛn",
+      "pronunciation": "ˈnaʊ ðɛn",
       "senses": [
         {
           "definition": "used to draw attention to what someone wants to say",
@@ -409,12 +424,13 @@
       ]
     },
     {
+      "id": "3dfe1558-e007-4845-9d90-e341f46544f6",
       "word": "now you are talking",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bm93IHlvdSBhcmUgdGFsa2luZw&hash=a5293a4acd3aff49dc7fbaf179c15ea28a9d7c75&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "naʊ ju ɑr tɔ.kɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=bm93IHlvdSBhcmUgdGFsa2luZw&hash=a5293a4acd3aff49dc7fbaf179c15ea28a9d7c75&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "naoo yoo aar taw.king",
       "img": "https://cdn.langeek.co/photo/43252/original/?type=jpeg",
       "pronunciation": "nˈaʊ juː ɑːɹ tˈɔːkɪŋ",
       "senses": [
@@ -425,14 +441,15 @@
       ]
     },
     {
+      "id": "bd23f991-ccea-427c-aa78-29b624e3bc73",
       "word": "perhaps",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=cGVyaGFwcw&hash=18c3313396c1bd267ba34abc61b991a4f449f199&lang=en&cache-only=0",
-      "phonetic_text": "pərhæps",
+      "phonetic_text": "pɜr.hæps",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVyaGFwcw&hash=18c3313396c1bd267ba34abc61b991a4f449f199&lang=en&cache-only=0",
-      "phonetic_am_text": "pērhāps",
+      "phonetic_am_text": "pēr.hāps",
       "img": "",
-      "pronunciation": "pɝˈhæps",
+      "pronunciation": "pɚˈhæps",
       "senses": [
         {
           "definition": "used when introducing a request, making an offer, or giving a suggestion politely",
@@ -441,12 +458,13 @@
       ]
     },
     {
-      "word": "point to",
+      "id": "1e5a116a-472e-4b93-9e21-d8a5ae510a85",
+      "word": "to point to",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcG9pbnQgdG8&hash=f9479e5d21ad341d97c6692160fb287454c4ded0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɔɪnt tu:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcG9pbnQgdG8&hash=f9479e5d21ad341d97c6692160fb287454c4ded0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pawint too",
       "img": "https://cdn.langeek.co/photo/53415/original/?type=jpeg",
       "pronunciation": "pˈɔɪnt tuː",
       "senses": [
@@ -466,12 +484,13 @@
       ]
     },
     {
-      "word": "posit",
+      "id": "97ae8fdf-07e8-4968-80d8-aa7d83859f94",
+      "word": "to posit",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcG9zaXQ&hash=79a3cfe75e111ba886fe950e44e80345205c7b36&lang=en&cache-only=0",
-      "phonetic_text": "pɑ:zət",
+      "phonetic_text": "pɑ.zət",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcG9zaXQ&hash=79a3cfe75e111ba886fe950e44e80345205c7b36&lang=en&cache-only=0",
-      "phonetic_am_text": "paazēt",
+      "phonetic_am_text": "paa.zēt",
       "img": "https://cdn.langeek.co/photo/58563/original/?type=jpeg",
       "pronunciation": "ˈpɑzət",
       "senses": [
@@ -499,12 +518,13 @@
       ]
     },
     {
-      "word": "postulate",
+      "id": "8b49a407-ed9a-484c-a0f1-b8639983788d",
+      "word": "to postulate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcG9zdHVsYXRl&hash=5f05fd59124e8b7bf68ef9cd167312a4ae8eb9e8&lang=en&cache-only=0",
-      "phonetic_text": "pɑ:sʧəleɪt",
+      "phonetic_text": "pɑs.ʧə.leɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcG9zdHVsYXRl&hash=5f05fd59124e8b7bf68ef9cd167312a4ae8eb9e8&lang=en&cache-only=0",
-      "phonetic_am_text": "paaschēleit",
+      "phonetic_am_text": "paas.chē.leit",
       "img": "",
       "pronunciation": "ˈpɑstʃəˌɫeɪt/, /ˈpɑstʃəɫət",
       "senses": [
@@ -536,10 +556,11 @@
       ]
     },
     {
-      "word": "prefigure",
+      "id": "c0757fc9-df7d-43fb-af9b-5a58769296ac",
+      "word": "to prefigure",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJlZmlndXJl&hash=85565baeef8f1c7b0071b6b595b91f96a6184867&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJlZmlndXJl&hash=85565baeef8f1c7b0071b6b595b91f96a6184867&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/52739/original/?type=jpeg",
@@ -573,14 +594,15 @@
       ]
     },
     {
-      "word": "prompt",
+      "id": "70240835-5093-475f-903a-579eb6974874",
+      "word": "to prompt",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJvbXB0&hash=d9700e71413c49f081092feafdea1cb8ec677c77&lang=en&cache-only=0",
-      "phonetic_text": "prɑ:mpt",
+      "phonetic_text": "prɑmpt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJvbXB0&hash=d9700e71413c49f081092feafdea1cb8ec677c77&lang=en&cache-only=0",
       "phonetic_am_text": "praampt",
       "img": "",
-      "pronunciation": "ˈpɹɑmpt",
+      "pronunciation": "prɑmpt",
       "senses": [
         {
           "definition": "to encourage someone to do or say something",
@@ -610,12 +632,13 @@
       ]
     },
     {
+      "id": "5495adbf-7d4e-4dd0-bd0c-fee3a504c094",
       "word": "proposal",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvcG9zYWw&hash=fc214a2466ebfb41d5fdc0a13332daa6d43e7b16&lang=en&cache-only=0",
-      "phonetic_text": "prəpoʊzəl",
+      "phonetic_text": "prə.poʊ.zəl",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvcG9zYWw&hash=fc214a2466ebfb41d5fdc0a13332daa6d43e7b16&lang=en&cache-only=0",
-      "phonetic_am_text": "prēpowzēl",
+      "phonetic_am_text": "prē.pooo.zēl",
       "img": "",
       "pronunciation": "pɹəˈpoʊzəɫ",
       "senses": [
@@ -626,14 +649,15 @@
       ]
     },
     {
-      "word": "propose",
+      "id": "9a40634e-ed44-4158-bba5-d82910a34a43",
+      "word": "to propose",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJvcG9zZQ&hash=d505e4623dbfbc54fa58a760fb751d254ae3eb24&lang=en&cache-only=0",
-      "phonetic_text": "prəpoʊz",
+      "phonetic_text": "prə.poʊz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJvcG9zZQ&hash=d505e4623dbfbc54fa58a760fb751d254ae3eb24&lang=en&cache-only=0",
-      "phonetic_am_text": "prēpowz",
-      "img": "https://cdn.langeek.co/photo/27696/original/?type=jpeg",
-      "pronunciation": "pɹəˈpoʊz",
+      "phonetic_am_text": "prē.poooz",
+      "img": "https://cdn.langeek.co/photo/61416/original/?type=jpeg",
+      "pronunciation": "prəˈpoʊz",
       "senses": [
         {
           "definition": "to put forward a suggestion, plan, or idea for consideration",
@@ -663,12 +687,13 @@
       ]
     },
     {
+      "id": "b3d379ec-3bd2-4020-8717-f3a328e0d776",
       "word": "proposer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvcG9zZXI&hash=5fc274eae52f230511d273cf059c8dca6467ca3a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "prə.poʊ.zər",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvcG9zZXI&hash=5fc274eae52f230511d273cf059c8dca6467ca3a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "prē.pooo.zēr",
       "img": "",
       "pronunciation": "pɹəpˈoʊzɚ",
       "senses": [
@@ -679,12 +704,13 @@
       ]
     },
     {
+      "id": "91e08e57-6ea7-46a3-92bd-339b8f8c45a1",
       "word": "proposition",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvcG9zaXRpb24&hash=d22dd1997bcbf19e2be850ce7963438cd25f66e3&lang=en&cache-only=0",
-      "phonetic_text": "prɑpəzɪʃən",
+      "phonetic_text": "prɑ.pə.zɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvcG9zaXRpb24&hash=d22dd1997bcbf19e2be850ce7963438cd25f66e3&lang=en&cache-only=0",
-      "phonetic_am_text": "prɑpēzishēn",
+      "phonetic_am_text": "praa.pē.zi.shēn",
       "img": "",
       "pronunciation": "ˌpɹɑpəˈzɪʃən",
       "senses": [
@@ -695,12 +721,13 @@
       ]
     },
     {
-      "word": "propound",
+      "id": "1d30532f-c157-4e61-97cb-95a6ef5550a7",
+      "word": "to propound",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJvcG91bmQ&hash=4a8c4243bc8ee431170330c299fdee0f5666193b&lang=en&cache-only=0",
-      "phonetic_text": "prəpaʊnd",
+      "phonetic_text": "proʊ.paʊnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJvcG91bmQ&hash=4a8c4243bc8ee431170330c299fdee0f5666193b&lang=en&cache-only=0",
-      "phonetic_am_text": "prēpawnd",
+      "phonetic_am_text": "prooo.paoond",
       "img": "",
       "pronunciation": "pɹəˈpaʊnd",
       "senses": [
@@ -732,43 +759,28 @@
       ]
     },
     {
-      "word": "put forward",
+      "id": "00974962-d4aa-40c9-abb8-e891021f045d",
+      "word": "to put forward",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IGZvcndhcmQ&hash=4b30033212ab51d79b5eab9c48171bebd5247736&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pʊt fɔr.wərd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IGZvcndhcmQ&hash=4b30033212ab51d79b5eab9c48171bebd5247736&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "poot fawr.vērd",
       "img": "https://cdn.langeek.co/photo/44150/original/?type=jpeg",
-      "pronunciation": "pˌʊt fˈoːɹwɚd",
+      "pronunciation": "pʊt ˈfɔrwɚd",
       "senses": [
         {
           "definition": "to present an idea, suggestion, etc. to be discussed",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She put forward a new plan to increase sales."
-            },
-            {
-              "cf": "",
-              "x": "He put forward a motion to adjourn the meeting."
-            },
-            {
-              "cf": "",
-              "x": "Why don't you put forward your idea at the next team meeting?"
-            },
-            {
-              "cf": "",
-              "x": "The committee put forward new guidelines for remote work."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[put] it to {sb}",
+      "id": "52c6423d-f6db-4790-80fa-372074c140b9",
+      "word": "to [put] it to {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IGl0IHRvIHNvbWVib2R5&hash=d03da2c28f5a3e90d20a404215cc7b31022b9d19&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IGl0IHRvIHNvbWVib2R5&hash=d03da2c28f5a3e90d20a404215cc7b31022b9d19&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -781,14 +793,15 @@
       ]
     },
     {
-      "word": "put to",
+      "id": "affb10f7-cb37-4901-ab7e-b137bd5bcf6b",
+      "word": "to put to",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IHRv&hash=a82bac3eb380827122e905218941f63114db4bf6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pʊt tu:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IHRv&hash=a82bac3eb380827122e905218941f63114db4bf6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "poot too",
       "img": "https://cdn.langeek.co/photo/44150/original/?type=jpeg",
-      "pronunciation": "pˈʊt tuː",
+      "pronunciation": "pʊt tuː",
       "senses": [
         {
           "definition": "to present a plan or offer to someone for consideration",

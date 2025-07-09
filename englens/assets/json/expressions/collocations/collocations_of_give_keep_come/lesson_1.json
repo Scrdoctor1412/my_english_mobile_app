@@ -1,13 +1,15 @@
 {
+  "id": "f64944e3-6c75-4f89-a50d-028313150e53",
   "topic": "collocations_of_give_keep_come",
   "title": "Providing Intangible Things (Give)",
   "lesson": "lesson_1",
   "word_list": [
     {
-      "word": "[give] {sb} a chance",
+      "id": "ba2f8c5b-de56-4c8f-9794-75dcfcf101d9",
+      "word": "to [give] {sb} a chance",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21lYm9keSBhIGNoYW5jZQ&hash=6f39f3543f20c4b47da743b32c70a6b0bf68aa16&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21lYm9keSBhIGNoYW5jZQ&hash=6f39f3543f20c4b47da743b32c70a6b0bf68aa16&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -20,10 +22,11 @@
       ]
     },
     {
-      "word": "[give] {sb} a choice",
+      "id": "96259263-99eb-4471-8ad5-d183a5526e8a",
+      "word": "to [give] {sb} a choice",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21lYm9keSBhIGNob2ljZQ&hash=f6274f23729f8166cc716c5b3caf56a0ba593678&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21lYm9keSBhIGNob2ljZQ&hash=f6274f23729f8166cc716c5b3caf56a0ba593678&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -36,10 +39,11 @@
       ]
     },
     {
-      "word": "[give] a damn",
+      "id": "38d3ea2c-ab88-42f8-b451-96a94ca73598",
+      "word": "to [give] a damn",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBhIGRhbW4&hash=53bf4f050775ec66297b6f51b53273a2ef6ab4a6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBhIGRhbW4&hash=53bf4f050775ec66297b6f51b53273a2ef6ab4a6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -73,10 +77,11 @@
       ]
     },
     {
-      "word": "[give] {sb} a headache",
+      "id": "12ab1de5-fa52-4070-bc4e-454ae60a2362",
+      "word": "to [give] {sb} a headache",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21lYm9keSBhIGhlYWRhY2hl&hash=28a3fde52693c48264fba72f05b212e0354268de&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21lYm9keSBhIGhlYWRhY2hl&hash=28a3fde52693c48264fba72f05b212e0354268de&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -98,10 +103,11 @@
       ]
     },
     {
-      "word": "[give] a performance",
+      "id": "7888e0e6-d66c-46ec-bf64-aedc56a65f04",
+      "word": "to [give] a performance",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBhIHBlcmZvcm1hbmNl&hash=1da7f23764206b07c50dd972b3db2052bb678a75&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBhIHBlcmZvcm1hbmNl&hash=1da7f23764206b07c50dd972b3db2052bb678a75&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -114,10 +120,11 @@
       ]
     },
     {
-      "word": "[give] a speech",
+      "id": "a9d94cf3-d817-477a-b4fe-a8eb03ce2995",
+      "word": "to [give] a speech",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBhIHNwZWVjaA&hash=3779f04bf4c35507b2e701c77f51fd02059ddd9e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBhIHNwZWVjaA&hash=3779f04bf4c35507b2e701c77f51fd02059ddd9e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -125,24 +132,16 @@
       "senses": [
         {
           "definition": "to deliver a formal presentation in front of a group of people about a specific topic",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The president will give a speech at the commencement ceremony."
-            },
-            {
-              "cf": "",
-              "x": "She was asked to give a speech about climate change at the conference."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[give] notice",
+      "id": "fdad42fa-843a-4f67-bca2-1a5ee1ac49f8",
+      "word": "to [give] notice",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBub3RpY2U&hash=9126bc1475030ecf9853b6585380a8baa31015d4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBub3RpY2U&hash=9126bc1475030ecf9853b6585380a8baa31015d4&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -172,10 +171,11 @@
       ]
     },
     {
-      "word": "[give] permission",
+      "id": "0f7bd280-0557-463e-99a0-fd6095c27b11",
+      "word": "to [give] permission",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBwZXJtaXNzaW9u&hash=f2582353ebadafbd192219db9bfd291cf5df9c8b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBwZXJtaXNzaW9u&hash=f2582353ebadafbd192219db9bfd291cf5df9c8b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -197,10 +197,11 @@
       ]
     },
     {
-      "word": "[give] {sth} a go",
+      "id": "b00c19e0-f1a1-4153-8322-69b762f004ef",
+      "word": "to [give] {sth} a go",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21ldGhpbmcgYSBnbw&hash=01a8055596ace385ad6758cca0014065866ac442&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21ldGhpbmcgYSBnbw&hash=01a8055596ace385ad6758cca0014065866ac442&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -234,10 +235,11 @@
       ]
     },
     {
-      "word": "[give] priority to {sth}",
+      "id": "dd1cd80e-11b1-4238-8ffc-3e1f3335c26a",
+      "word": "to [give] priority to {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBwcmlvcml0eSB0byBzb21ldGhpbmc&hash=60419e2354f0c903ab9f6c25cf770e12e5601536&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBwcmlvcml0eSB0byBzb21ldGhpbmc&hash=60419e2354f0c903ab9f6c25cf770e12e5601536&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -255,10 +257,11 @@
       ]
     },
     {
-      "word": "[give] the impression",
+      "id": "eb906f01-067f-45a6-a5f0-e8d204400ce8",
+      "word": "to [give] the impression",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSB0aGUgaW1wcmVzc2lvbg&hash=0cf1973a194b847eed9d026bf599be3679b59256&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSB0aGUgaW1wcmVzc2lvbg&hash=0cf1973a194b847eed9d026bf599be3679b59256&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -266,36 +269,16 @@
       "senses": [
         {
           "definition": "to convey or create a specific perception, feeling, or idea in the minds of others through one's words, actions, or appearance",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Her confident presentation gave the impression of competence and expertise."
-            },
-            {
-              "cf": "",
-              "x": "His warm smile and welcoming attitude gave the impression of friendliness."
-            },
-            {
-              "cf": "",
-              "x": "The artist's use of vibrant colors gave the impression of a lively and energetic scene."
-            },
-            {
-              "cf": "",
-              "x": "Dressing formally for the interview can give the impression of professionalism."
-            },
-            {
-              "cf": "",
-              "x": "Their punctuality and dedication to their work gave the impression of reliability."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[give] {sth} thought",
+      "id": "362b5e5d-4ce0-4502-8d2b-2fa6369050f7",
+      "word": "to [give] {sth} thought",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21ldGhpbmcgdGhvdWdodA&hash=b2a5875ce9569fc0bb2d9110af5d23aca1fcac5d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21ldGhpbmcgdGhvdWdodA&hash=b2a5875ce9569fc0bb2d9110af5d23aca1fcac5d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -308,10 +291,11 @@
       ]
     },
     {
-      "word": "[give] way",
+      "id": "42d47e79-91c4-4af6-8e0c-a14cecbb7627",
+      "word": "to [give] way",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSB3YXk&hash=0c6fb43b7888621524b9ea818d43a98499ee0d96&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSB3YXk&hash=0c6fb43b7888621524b9ea818d43a98499ee0d96&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -345,10 +329,11 @@
       ]
     },
     {
-      "word": "[give] heart to {sb}",
+      "id": "c6eec2ee-c936-4c47-ade4-a1c994b57840",
+      "word": "to [give] heart to {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBoZWFydCB0byBzb21lYm9keQ&hash=4ee5352b86e7fb86aadb711ad7c4104367f6de18&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBoZWFydCB0byBzb21lYm9keQ&hash=4ee5352b86e7fb86aadb711ad7c4104367f6de18&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -361,10 +346,11 @@
       ]
     },
     {
-      "word": "[give] a lecture",
+      "id": "e5d288eb-cc06-4db5-9cf1-4f6e48c817f5",
+      "word": "to [give] a lecture",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBhIGxlY3R1cmU&hash=747f966c3107df17d7d89348e81703af9329ae44&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBhIGxlY3R1cmU&hash=747f966c3107df17d7d89348e81703af9329ae44&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -390,10 +376,11 @@
       ]
     },
     {
-      "word": "[give] rise to",
+      "id": "9f3d7969-4cf7-40a4-8c4e-3bdc4b989b2f",
+      "word": "to [give] rise to",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSByaXNlIHRv&hash=f7fa85341766390c7c2db32318b9ec97466abfda&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSByaXNlIHRv&hash=f7fa85341766390c7c2db32318b9ec97466abfda&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

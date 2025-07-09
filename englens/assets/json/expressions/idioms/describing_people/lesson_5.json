@@ -1,13 +1,15 @@
 {
+  "id": "9fd1a70e-eee8-46dd-b837-3c96d59ae741",
   "topic": "describing_people",
   "title": "Sickness",
   "lesson": "lesson_5",
   "word_list": [
     {
+      "id": "466d5901-9d62-4c81-9b3b-dfbcf6432506",
       "word": "under the weather",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dW5kZXIgdGhlIHdlYXRoZXI&hash=fbacc09b1aa80c960807ec504c4a5c80ab15d56b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5kZXIgdGhlIHdlYXRoZXI&hash=fbacc09b1aa80c960807ec504c4a5c80ab15d56b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/17637/original/flu?type=jpeg",
@@ -15,15 +17,37 @@
       "senses": [
         {
           "definition": "feeling unwell or slightly ill",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Despite feeling a little under the weather, Tom still managed to attend the meeting and contribute to the discussion."
+            },
+            {
+              "cf": "",
+              "x": "Emily wasn't feeling well and decided to stay home from work, as she was under the weather with a bad cold."
+            },
+            {
+              "cf": "",
+              "x": "She stayed home from work because she was feeling under the weather."
+            },
+            {
+              "cf": "",
+              "x": "After the long flight, he felt a bit under the weather."
+            },
+            {
+              "cf": "",
+              "x": "I've been under the weather all week with a cold."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[be] off {one's} food",
+      "id": "7354f746-eab9-49a0-851d-515904b1fb4f",
+      "word": "to [be] off {one's} food",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgb2ZmIG9uZSdzIGZvb2Q&hash=e06b8171e93d206571651a1b6146d4fbc82dffb8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgb2ZmIG9uZSdzIGZvb2Q&hash=e06b8171e93d206571651a1b6146d4fbc82dffb8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/39385/original/?type=jpeg",
@@ -36,10 +60,11 @@
       ]
     },
     {
+      "id": "45e34d73-fdba-4e36-befa-ab7f9c8f57d1",
       "word": "{one's} dogs [are] barking",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b25lJ3MgZG9ncyBhcmUgYmFya2luZw&hash=d45921cd8e57e9b230897413a3fa03dacfe92420&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b25lJ3MgZG9ncyBhcmUgYmFya2luZw&hash=d45921cd8e57e9b230897413a3fa03dacfe92420&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/39443/original/?type=jpeg",
@@ -52,10 +77,11 @@
       ]
     },
     {
+      "id": "9857e063-135b-4701-8427-8a298991f2ea",
       "word": "green (around|about|at) the gills",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Z3JlZW4gYXJvdW5kIHRoZSBnaWxscw&hash=c1a7e4e0e8f4707de817b04b8dc77462c1e8f7a8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JlZW4gYXJvdW5kIHRoZSBnaWxscw&hash=c1a7e4e0e8f4707de817b04b8dc77462c1e8f7a8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/39439/original/?type=jpeg",
@@ -68,10 +94,11 @@
       ]
     },
     {
+      "id": "e5fcb3b4-527b-46c5-9e47-935b31985247",
       "word": "a frog in {one's} throat",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YSBmcm9nIGluIG9uZSdzIHRocm9hdA&hash=5159215da5dca533c98b369e1aaaffffdbe6fa39&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YSBmcm9nIGluIG9uZSdzIHRocm9hdA&hash=5159215da5dca533c98b369e1aaaffffdbe6fa39&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/39063/original/cough?type=jpeg",
@@ -79,15 +106,25 @@
       "senses": [
         {
           "definition": "difficulty in speaking, particularly due to one's throat being dry",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "John had a frog in his throat during the presentation, but he managed to clear it and deliver a flawless speech."
+            },
+            {
+              "cf": "",
+              "x": "Mary gets a frog in her throat whenever she has to sing in front of an audience, but she practices diligently to overcome it."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "65a5ff52-576d-4152-a3b1-9e14c4c76c3e",
       "word": "like death warmed over",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bGlrZSBkZWF0aCB3YXJtZWQgb3Zlcg&hash=6b7de5033c907f344b4658b25cd8db56aaa31557&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlrZSBkZWF0aCB3YXJtZWQgb3Zlcg&hash=6b7de5033c907f344b4658b25cd8db56aaa31557&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/20199/original/exhausted?type=jpeg",
@@ -100,10 +137,11 @@
       ]
     },
     {
-      "word": "[puke] {one's} guts out",
+      "id": "a03e4788-9739-4ada-956e-9e46238a697c",
+      "word": "to [puke] {one's} guts out",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHVrZSBvbmUncyBndXRzIG91dA&hash=b8bea94bdb8069c0a0b9fb35b88b4b5a59bcf939&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHVrZSBvbmUncyBndXRzIG91dA&hash=b8bea94bdb8069c0a0b9fb35b88b4b5a59bcf939&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/39765/original/?type=jpeg",
@@ -116,10 +154,11 @@
       ]
     },
     {
-      "word": "[toss] {one's} cookies",
+      "id": "18459d1d-2b92-436f-8780-060a82bc1b45",
+      "word": "to [toss] {one's} cookies",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdG9zcyBvbmUncyBjb29raWVz&hash=c147b94f586ca44c3ce75a72aee942b515018f04&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdG9zcyBvbmUncyBjb29raWVz&hash=c147b94f586ca44c3ce75a72aee942b515018f04&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/39947/original/?type=jpeg",
@@ -132,10 +171,11 @@
       ]
     },
     {
-      "word": "[ride|drive] the porcelain bus",
+      "id": "83fadcee-10a6-48b8-bfc2-3f64f4ff5b7e",
+      "word": "to [ride|drive] the porcelain bus",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmlkZSB0aGUgcG9yY2VsYWluIGJ1cw&hash=127012184f90687d79ca1b13153333d3a3ae895b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmlkZSB0aGUgcG9yY2VsYWluIGJ1cw&hash=127012184f90687d79ca1b13153333d3a3ae895b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/26300/original/?type=jpeg",
@@ -148,10 +188,11 @@
       ]
     },
     {
-      "word": "[talk] to Ralph on the big white (telephone|phone)",
+      "id": "bc720a3c-9810-424c-89f4-84246a24c624",
+      "word": "to [talk] to Ralph on the big white (telephone|phone)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFsayB0byBSYWxwaCBvbiB0aGUgYmlnIHdoaXRlIHRlbGVwaG9uZQ&hash=2296b58a129f76bd923dab2c4c0a907a169aebc3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFsayB0byBSYWxwaCBvbiB0aGUgYmlnIHdoaXRlIHRlbGVwaG9uZQ&hash=2296b58a129f76bd923dab2c4c0a907a169aebc3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/39829/original/?type=jpeg",
@@ -164,10 +205,11 @@
       ]
     },
     {
+      "id": "d8403986-149c-4248-9929-f99d9c7900bd",
       "word": "bag of bones (and feathers|)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YmFnIG9mIGJvbmVzIGFuZCBmZWF0aGVycw&hash=c54907c743cfd0242f3e7f6461e6e7886d0aaf5a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFnIG9mIGJvbmVzIGFuZCBmZWF0aGVycw&hash=c54907c743cfd0242f3e7f6461e6e7886d0aaf5a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/19795/original/underweight?type=jpeg",
@@ -180,26 +222,37 @@
       ]
     },
     {
+      "id": "baa2d533-1c99-4dbe-9af0-d8a95a4f5a5d",
       "word": "(as|) thin as a yard of pump water",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXMgdGhpbiBhcyBhIHlhcmQgb2YgcHVtcCB3YXRlcg&hash=404b6c44817c2b59666fd8905a5a5d765618d717&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXMgdGhpbiBhcyBhIHlhcmQgb2YgcHVtcCB3YXRlcg&hash=404b6c44817c2b59666fd8905a5a5d765618d717&lang=en&cache-only=0",
       "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/16282/original/slim?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/16282/original/bony?type=jpeg",
       "pronunciation": "æz θˈɪn æz ɐ jˈɑːɹd ʌv pˈʌmp wˈɔːɾɚ",
       "senses": [
         {
           "definition": "very thin, often in an unattractive and unhealthy way",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Despite his doctor's concerns, Peter ignored his health and remained as thin as a yard of pump water."
+            },
+            {
+              "cf": "",
+              "x": "Emma's extreme dieting left her looking thin as a yard of pump water, but her friends worried about her well-being."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1d57eca2-7307-4908-a3e3-4f83538e96af",
       "word": "(as|) thin as a rake",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXMgdGhpbiBhcyBhIHJha2U&hash=1c2d6d0a611bab395f6991cb0960100ed41582e8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXMgdGhpbiBhcyBhIHJha2U&hash=1c2d6d0a611bab395f6991cb0960100ed41582e8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/39819/original/?type=jpeg",
@@ -207,17 +260,27 @@
       "senses": [
         {
           "definition": "used to refer to someone who is extremely thin, often in an unhealthy way",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Despite his love for food, Peter remains thin as a rake due to his high metabolism."
+            },
+            {
+              "cf": "",
+              "x": "Lisa is as thin as a rake and she struggles to gain weight."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "skin and [bone]",
+      "id": "656d6481-770e-43f8-a038-6613437fa752",
+      "word": "skin and bone",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=c2tpbiBhbmQgYm9uZQ&hash=e4ac31dd1d7ed197ae7c98b677055681409fe1b1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skɪn ænd boʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=c2tpbiBhbmQgYm9uZQ&hash=e4ac31dd1d7ed197ae7c98b677055681409fe1b1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skin ānd booon",
       "img": "https://cdn.langeek.co/photo/39837/original/?type=jpeg",
       "pronunciation": "skˈɪn ænd bˈoʊn",
       "senses": [
@@ -228,10 +291,11 @@
       ]
     },
     {
-      "word": "[spill] {one's} guts (out|)",
+      "id": "8bd6fc2e-d2a2-47ae-986b-167cbc26b0aa",
+      "word": "to [spill] {one's} guts (out|)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3BpbGwgb25lJ3MgZ3V0cyBvdXQ&hash=814a6b3e79863246214af5be44f276b2d49e60e6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3BpbGwgb25lJ3MgZ3V0cyBvdXQ&hash=814a6b3e79863246214af5be44f276b2d49e60e6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/39825/original/?type=jpeg",
@@ -239,17 +303,27 @@
       "senses": [
         {
           "definition": "to vomit in a very extensive way",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Emma couldn't handle the roller coaster ride and ended up spilling her guts right afterward."
+            },
+            {
+              "cf": "",
+              "x": "Yesterday, Emily spilt her guts out after drinking too much at the party."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c355e101-1c28-478c-8c7b-67dc8094eeba",
       "word": "black and blue",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YmxhY2sgYW5kIGJsdWU&hash=62a613cea0dbcf327895622ab6262e3c6e672240&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "blæk ænd blu:",
       "phonetic_am": "https://tts.langeek.co/read?text=YmxhY2sgYW5kIGJsdWU&hash=62a613cea0dbcf327895622ab6262e3c6e672240&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "blāk ānd bloo",
       "img": "https://cdn.langeek.co/photo/39441/original/?type=jpeg",
       "pronunciation": "blˈæk ænd blˈuː",
       "senses": [
@@ -260,10 +334,11 @@
       ]
     },
     {
+      "id": "227edd68-1613-466e-adc6-db5a3728d8b8",
       "word": "under the knife",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dW5kZXIgdGhlIGtuaWZl&hash=0442edde9771d52f199ce0157759cfcdad17b34a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5kZXIgdGhlIGtuaWZl&hash=0442edde9771d52f199ce0157759cfcdad17b34a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/23955/original/?type=jpeg",
@@ -276,13 +351,14 @@
       ]
     },
     {
+      "id": "e097f4e8-c8e9-4c65-93c7-a4723152934d",
       "word": "(as|) sick as a [dog|horse]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXMgc2ljayBhcyBhIGRvZw&hash=a0c7240ff256e05ec947a578a5a66c64580e9779&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXMgc2ljayBhcyBhIGRvZw&hash=a0c7240ff256e05ec947a578a5a66c64580e9779&lang=en&cache-only=0",
       "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/39779/original/sick?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/61664/original/sick?type=jpeg",
       "pronunciation": "æz ɔːɹ sˈɪk æz ɐ dˈɑːɡ ɔːɹ hˈɔːɹs",
       "senses": [
         {
@@ -292,10 +368,11 @@
       ]
     },
     {
+      "id": "427d02a3-2860-4ec3-80f2-0f15269d935c",
       "word": "(as|) weak as a kitten",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXMgd2VhayBhcyBhIGtpdHRlbg&hash=2e4fa3342dd3ac962286c8fb25f83fa0fbeabe33&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXMgd2VhayBhcyBhIGtpdHRlbg&hash=2e4fa3342dd3ac962286c8fb25f83fa0fbeabe33&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/39435/original/?type=jpeg",

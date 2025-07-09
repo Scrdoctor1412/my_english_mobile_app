@@ -1,13 +1,15 @@
 {
+  "id": "590de5c4-da85-4f59-a939-6736ade9be34",
   "topic": "knowledge_understanding",
   "title": "Realization",
   "lesson": "lesson_8",
   "word_list": [
     {
-      "word": "[bring] {sth} to light",
+      "id": "740e3255-9ddb-4bda-a64a-7abc1969f956",
+      "word": "to [bring] {sth} to light",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJpbmcgc29tZXRoaW5nIHRvIGxpZ2h0&hash=a75edbfa1895ca020d1ac19968b2e31421618221&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJpbmcgc29tZXRoaW5nIHRvIGxpZ2h0&hash=a75edbfa1895ca020d1ac19968b2e31421618221&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45054/original/?type=jpeg",
@@ -15,20 +17,16 @@
       "senses": [
         {
           "definition": "to clarify or supply additional information on something",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The whistleblower's testimony brought the corruption scandal to light, exposing the illegal activities within the company."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[come] home to {sb}",
+      "id": "f82a336b-7b7a-40ee-a24b-854b10524006",
+      "word": "to [come] home to {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29tZSBob21lIHRvIHNvbWVib2R5&hash=d02c00965c99c02f09f51ff3bf575cc19d631a90&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29tZSBob21lIHRvIHNvbWVib2R5&hash=d02c00965c99c02f09f51ff3bf575cc19d631a90&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45034/original/?type=jpeg",
@@ -62,10 +60,11 @@
       ]
     },
     {
-      "word": "[come] to light",
+      "id": "303d4ee8-5e9c-4207-8a82-1f2406f9f08e",
+      "word": "to [come] to light",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29tZSB0byBsaWdodA&hash=d271b86977429cc18dae1e27f47a1820b7f37831&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29tZSB0byBsaWdodA&hash=d271b86977429cc18dae1e27f47a1820b7f37831&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45036/original/?type=jpeg",
@@ -95,10 +94,11 @@
       ]
     },
     {
-      "word": "[get] wind of {sth}",
+      "id": "d4fc4af8-8b14-48f0-9b05-89751397edf3",
+      "word": "to [get|catch] wind of {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IHdpbmQgb2Ygc29tZXRoaW5n&hash=f2034a0b17a6c706c2d1095104ae66d3f37e4085&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IHdpbmQgb2Ygc29tZXRoaW5n&hash=f2034a0b17a6c706c2d1095104ae66d3f37e4085&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45020/original/?type=jpeg",
@@ -118,16 +118,25 @@
             {
               "cf": "",
               "x": "The students got wind of the surprise field trip when they overheard their teacher discussing it in the hallway."
+            },
+            {
+              "cf": "",
+              "x": "The manager caught wind of the plan to leave early and called an urgent meeting."
+            },
+            {
+              "cf": "",
+              "x": "She caught wind of the surprise party before anyone could officially invite her."
             }
           ]
         }
       ]
     },
     {
-      "word": "[open] {one's} eyes to {sth}",
+      "id": "86000b1e-f622-4e5a-8b3a-ec1f99223751",
+      "word": "to [open] {one's} eyes to {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gb3BlbiBvbmUncyBleWVzIHRvIHNvbWV0aGluZw&hash=49ee7aeb03cce8398cb9b1e4584164133ed45b70&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gb3BlbiBvbmUncyBleWVzIHRvIHNvbWV0aGluZw&hash=49ee7aeb03cce8398cb9b1e4584164133ed45b70&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44774/original/?type=jpeg",
@@ -135,32 +144,16 @@
       "senses": [
         {
           "definition": "to realize something important, particularly something that one was neglecting",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Traveling to a foreign country opened my eyes to the beauty of different cultures and ways of life."
-            },
-            {
-              "cf": "",
-              "x": "Reading that book really opened my eyes to the social injustices present in our society."
-            },
-            {
-              "cf": "",
-              "x": "Having a conversation with someone from a different background opened my eyes to the importance of diversity and inclusion."
-            },
-            {
-              "cf": "",
-              "x": "Volunteering at the homeless shelter opened my eyes to the struggles faced by those less fortunate and inspired me to take action."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[throw|shed|cast] light on {sth}",
+      "id": "5b5610b5-b105-4bde-98d7-026181df2492",
+      "word": "to [throw|shed|cast] light on {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGhyb3cgbGlnaHQgb24gc29tZXRoaW5n&hash=98dd1a1f834ad5c55bbe5b0c0721001663cf1e06&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGhyb3cgbGlnaHQgb24gc29tZXRoaW5n&hash=98dd1a1f834ad5c55bbe5b0c0721001663cf1e06&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45028/original/?type=jpeg",
@@ -194,10 +187,11 @@
       ]
     },
     {
-      "word": "[put] a bug in {one's} ear",
+      "id": "a8f9404b-769d-409d-95b2-cab82fa1d5da",
+      "word": "to [put] a bug in {one's} ear",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IGEgYnVnIGluIG9uZSdzIGVhcg&hash=a07048fad3f08d1ef449bcee44859a2b015abc4f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IGEgYnVnIGluIG9uZSdzIGVhcg&hash=a07048fad3f08d1ef449bcee44859a2b015abc4f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40215/original/?type=jpeg",
@@ -205,24 +199,16 @@
       "senses": [
         {
           "definition": "to provide someone with a hint or suggestion",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The politician's advisor put a bug in his ear about the importance of addressing environmental issues in his campaign."
-            },
-            {
-              "cf": "",
-              "x": "My parents put a bug in my ear about the benefits of pursuing higher education, encouraging me to consider attending college."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[hit|strike|drive] home {sth}",
+      "id": "3efd36e3-9b1b-40a0-9bf9-ecdb3b1d098a",
+      "word": "to [hit|strike|drive] home {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGl0IGhvbWUgc29tZXRoaW5n&hash=898f2b676b8e0311a25a812e61a6e1965aaebb99&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGl0IGhvbWUgc29tZXRoaW5n&hash=898f2b676b8e0311a25a812e61a6e1965aaebb99&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45022/original/?type=jpeg",
@@ -252,10 +238,11 @@
       ]
     },
     {
-      "word": "[bring] {sth} home to {sb}",
+      "id": "a1e5adc9-6bc0-413e-ba56-7b1d8214ae53",
+      "word": "to [bring] {sth} home to {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJpbmcgc29tZXRoaW5nIGhvbWUgdG8gc29tZWJvZHk&hash=a646769ef4049f9409f3ce9a579a09d9a68c0cc9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJpbmcgc29tZXRoaW5nIGhvbWUgdG8gc29tZWJvZHk&hash=a646769ef4049f9409f3ce9a579a09d9a68c0cc9&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44834/original/?type=jpeg",
@@ -268,10 +255,11 @@
       ]
     },
     {
-      "word": "[fall] into place",
+      "id": "f008999d-6a24-46b4-912e-5557ed121099",
+      "word": "to [fall] into place",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmFsbCBpbnRvIHBsYWNl&hash=d604f3cf343481da2d36067faba1fea85fc6da3c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmFsbCBpbnRvIHBsYWNl&hash=d604f3cf343481da2d36067faba1fea85fc6da3c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/23641/original/?type=jpeg",
@@ -305,10 +293,11 @@
       ]
     },
     {
-      "word": "[put] two and two together",
+      "id": "6f3dcc01-1687-4f6b-a583-81b50dc3d14c",
+      "word": "to [put] two and two together",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IHR3byBhbmQgdHdvIHRvZ2V0aGVy&hash=015a936906fda43a9220cec8167f890306f45a94&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IHR3byBhbmQgdHdvIHRvZ2V0aGVy&hash=015a936906fda43a9220cec8167f890306f45a94&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44770/original/?type=jpeg",
@@ -342,10 +331,11 @@
       ]
     },
     {
-      "word": "[see] the light",
+      "id": "f262b0ca-d6df-44cd-a9a8-25d74c37491d",
+      "word": "to [see] the light",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2VlIHRoZSBsaWdodA&hash=c58717ea42b45068563abfb0504fc47e6ce558fa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2VlIHRoZSBsaWdodA&hash=c58717ea42b45068563abfb0504fc47e6ce558fa&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43202/original/?type=jpeg",
@@ -379,10 +369,11 @@
       ]
     },
     {
-      "word": "[take] a look in the mirror",
+      "id": "22ce7ce4-8378-4326-aaad-18454a3a54ad",
+      "word": "to [take] a look in the mirror",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIGxvb2sgaW4gdGhlIG1pcnJvcg&hash=fe7cbef4e6fa1c153c77e02963740e9bf9d0e273&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIGxvb2sgaW4gdGhlIG1pcnJvcg&hash=fe7cbef4e6fa1c153c77e02963740e9bf9d0e273&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/22568/original/?type=jpeg",
@@ -390,20 +381,16 @@
       "senses": [
         {
           "definition": "to reflect on one's actions so as to accept one's flaws and shortcomings",
-          "examples": [
-            {
-              "cf": "",
-              "x": "If you think I'm the one holding this complay back, maybe you should take a look in the mirror sometimes."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[see] {sb/sth} in a new light",
+      "id": "3c6cd61e-5cca-4d50-8929-63dd924c938e",
+      "word": "to [see] {sb/sth} in a new light",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2VlIHNvbWVib2R5IG9yIHNvbWV0aGluZyBpbiBhIG5ldyBsaWdodA&hash=6d6afa93246de8ca5e9ec8e6e6db69251b44aa36&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2VlIHNvbWVib2R5IG9yIHNvbWV0aGluZyBpbiBhIG5ldyBsaWdodA&hash=6d6afa93246de8ca5e9ec8e6e6db69251b44aa36&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45024/original/?type=jpeg",
@@ -411,36 +398,16 @@
       "senses": [
         {
           "definition": "to see people or things through a different perspective",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After learning about their difficult upbringing, I saw them in a new light and developed a greater understanding and empathy for their actions."
-            },
-            {
-              "cf": "",
-              "x": "Once I heard her side of the story, I saw the situation in a new light and realized my initial judgment was hasty."
-            },
-            {
-              "cf": "",
-              "x": "After traveling to a foreign country and immersing myself in the culture, I saw the world in a new light and gained a broader perspective."
-            },
-            {
-              "cf": "",
-              "x": "After witnessing his selfless act of kindness, I saw him in a new light and realized there was more to him than meets the eye."
-            },
-            {
-              "cf": "",
-              "x": "Once I learned about her struggles and perseverance, I saw her in a new light and admired her strength and resilience."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[talk] (some|) sense into {sb}",
+      "id": "91447b19-4638-4d95-9344-505c16384c66",
+      "word": "to [talk] (some|) sense into {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFsayBzb21lIHNlbnNlIGludG8gc29tZWJvZHk&hash=4780bb0f14772cd15cfe20a185280791e65b5fee&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFsayBzb21lIHNlbnNlIGludG8gc29tZWJvZHk&hash=4780bb0f14772cd15cfe20a185280791e65b5fee&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45026/original/?type=jpeg",
@@ -448,32 +415,16 @@
       "senses": [
         {
           "definition": "to convince someone to think or behave in a more rational, reasonable, or sensible manner, often through logical arguments",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Despite his initial reluctance, she managed to talk sense into him by presenting a logical and well-reasoned argument."
-            },
-            {
-              "cf": "",
-              "x": "When my friend was considering a risky investment, I had to talk sense into him by highlighting the potential consequences and urging caution."
-            },
-            {
-              "cf": "",
-              "x": "Her parents were able to talk some sense into her by explaining the importance of focusing on her studies rather than getting caught up in distractions."
-            },
-            {
-              "cf": "",
-              "x": "When my sibling was making impulsive decisions, I had to step in and talk some sense into them, reminding them of the long-term implications and encouraging thoughtful decision-making."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[knock] (some|) sense into {sb}",
+      "id": "ba94fedd-426a-4808-808b-18e54dc7815a",
+      "word": "to [knock] (some|) sense into {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga25vY2sgc29tZSBzZW5zZSBpbnRvIHNvbWVib2R5&hash=dac3bc9b9008819024052351f1103d09467e7bcc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga25vY2sgc29tZSBzZW5zZSBpbnRvIHNvbWVib2R5&hash=dac3bc9b9008819024052351f1103d09467e7bcc&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44540/original/?type=jpeg",
@@ -499,10 +450,11 @@
       ]
     },
     {
-      "word": "[get] the picture",
+      "id": "66feede6-77ed-45d7-9b36-0cda83437442",
+      "word": "to [get] the picture",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IHRoZSBwaWN0dXJl&hash=4bcda320b064fcc5f07f1fe1ae7fbb743c78bd4a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IHRoZSBwaWN0dXJl&hash=4bcda320b064fcc5f07f1fe1ae7fbb743c78bd4a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45018/original/?type=jpeg",
@@ -528,10 +480,11 @@
       ]
     },
     {
+      "id": "5ad1acab-4727-42d7-9b21-1e86e677228f",
       "word": "the penny [drop]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIHBlbm55IGRyb3A&hash=94becdf889542ef5e719891e3329d96e6ca1f5b5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIHBlbm55IGRyb3A&hash=94becdf889542ef5e719891e3329d96e6ca1f5b5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44976/original/?type=jpeg",
@@ -565,10 +518,11 @@
       ]
     },
     {
-      "word": "[take]  {sth} the wrong way",
+      "id": "df835ad0-ad28-49e8-858b-242513966bc1",
+      "word": "to [take]  {sth} the wrong way",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSAgc29tZXRoaW5nIHRoZSB3cm9uZyB3YXk&hash=5586c17303ead4a43e99c1be2656f84e82851161&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSAgc29tZXRoaW5nIHRoZSB3cm9uZyB3YXk&hash=5586c17303ead4a43e99c1be2656f84e82851161&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

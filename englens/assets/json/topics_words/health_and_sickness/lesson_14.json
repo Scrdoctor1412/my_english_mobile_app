@@ -1,15 +1,17 @@
 {
+  "id": "d3cf65f7-60ee-49f6-90a9-244dd5446c0a",
   "topic": "health_and_sickness",
   "title": "Physical Healthcare and Recovery",
   "lesson": "lesson_14",
   "word_list": [
     {
+      "id": "5a9b3aa1-6c87-45c1-9809-87ebb943c026",
       "word": "all-clear",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWxsLWNsZWFy&hash=e6349993163f2881d3631742704bbe944d0124a7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɔ:l-klɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxsLWNsZWFy&hash=e6349993163f2881d3631742704bbe944d0124a7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "awl-klir",
       "img": "",
       "pronunciation": "ˈɔːl klˈɪɹ",
       "senses": [
@@ -41,12 +43,13 @@
       ]
     },
     {
+      "id": "d96a9ff6-10a2-4974-adfb-1492cb06e7f5",
       "word": "bedrest",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVkcmVzdA&hash=02f3fb3fbfad721898c627593a777bf6e1a47640&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɛd.rɛst",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVkcmVzdA&hash=02f3fb3fbfad721898c627593a777bf6e1a47640&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bed.rest",
       "img": "https://cdn.langeek.co/photo/26866/original/?type=jpeg",
       "pronunciation": "ˈbedrest",
       "senses": [
@@ -70,14 +73,15 @@
       ]
     },
     {
+      "id": "e5e672ec-75bc-471c-a819-5d43029a7671",
       "word": "better",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YmV0dGVy&hash=678d0fce7452d4e29a00735c403367c677debd7f&lang=en&cache-only=0",
-      "phonetic_text": "bɛtər",
+      "phonetic_text": "bɛ.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YmV0dGVy&hash=678d0fce7452d4e29a00735c403367c677debd7f&lang=en&cache-only=0",
-      "phonetic_am_text": "betēr",
-      "img": "https://cdn.langeek.co/photo/17629/original/better?type=jpeg",
-      "pronunciation": "ˈbɛtɝ",
+      "phonetic_am_text": "be.tēr",
+      "img": "https://cdn.langeek.co/photo/61668/original/better?type=jpeg",
+      "pronunciation": "ˈbɛtɚ",
       "senses": [
         {
           "definition": "recovered from a physical or mental health problem completely or compared to the past",
@@ -92,6 +96,10 @@
             },
             {
               "cf": "",
+              "x": "I hope you get better soon!"
+            },
+            {
+              "cf": "",
               "x": "The doctor said she is better and can go home tomorrow."
             },
             {
@@ -103,6 +111,7 @@
       ]
     },
     {
+      "id": "72fd734b-450d-4a57-a818-909fdb6d522c",
       "word": "care",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FyZQ&hash=ddfbdda004ac986868057245c7edf93e26f441ae&lang=en&cache-only=0",
@@ -132,14 +141,15 @@
       ]
     },
     {
-      "word": "care for",
+      "id": "17b02573-4c0c-4254-8cc5-cd7869d62d62",
+      "word": "to care for",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2FyZSBmb3I&hash=7c4b5d9f5ce7a42094badc65413a3a540d6e1aa1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɛr fɔ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2FyZSBmb3I&hash=7c4b5d9f5ce7a42094badc65413a3a540d6e1aa1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ker fawr",
       "img": "https://cdn.langeek.co/photo/31719/original/?type=jpeg",
-      "pronunciation": "kˈɛɹ fɔːɹ",
+      "pronunciation": "kɛr fɔr",
       "senses": [
         {
           "definition": "to provide treatment for or help a person or an animal that is sick or injured",
@@ -169,12 +179,13 @@
       ]
     },
     {
-      "word": "bounce back",
+      "id": "16ca85c9-f9ca-4abe-a1e3-03c3c67ce5d4",
+      "word": "to bounce back",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYm91bmNlIGJhY2s&hash=4b70fd293507dfa0a0ca87d8b7911f867fab5ac5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "baʊns bæk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYm91bmNlIGJhY2s&hash=4b70fd293507dfa0a0ca87d8b7911f867fab5ac5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baoons bāk",
       "img": "https://cdn.langeek.co/photo/32618/original/?type=jpeg",
       "pronunciation": "bˈaʊns bˈæk",
       "senses": [
@@ -202,12 +213,13 @@
       ]
     },
     {
+      "id": "cf95e650-7fe6-4099-aa4b-f4d84d459533",
       "word": "contact tracing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29udGFjdCB0cmFjaW5n&hash=b6297500ba42200e1f3c53848a4c9e49430173b8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑn.tækt treɪ.sɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29udGFjdCB0cmFjaW5n&hash=b6297500ba42200e1f3c53848a4c9e49430173b8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaan.tākt trei.sing",
       "img": "",
       "pronunciation": "kˈɑːntækt tɹˈeɪsɪŋ",
       "senses": [
@@ -218,12 +230,13 @@
       ]
     },
     {
-      "word": "convalesce",
+      "id": "0e4b1365-feaf-4dea-855c-2b8c40387d63",
+      "word": "to convalesce",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29udmFsZXNjZQ&hash=81cad3c49420a6effa64744cb09db45e1e424670&lang=en&cache-only=0",
-      "phonetic_text": "kɑnvəlɛs",
+      "phonetic_text": "kɑn.və.lɛs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29udmFsZXNjZQ&hash=81cad3c49420a6effa64744cb09db45e1e424670&lang=en&cache-only=0",
-      "phonetic_am_text": "kɑnvēles",
+      "phonetic_am_text": "kaan.vē.les",
       "img": "https://cdn.langeek.co/photo/18986/original/recovery?type=jpeg",
       "pronunciation": "ˌkɑnvəˈɫɛs",
       "senses": [
@@ -243,12 +256,13 @@
       ]
     },
     {
-      "word": "deep-clean",
+      "id": "45cfccbc-2731-452d-808f-6dc8243f64b6",
+      "word": "to deep-clean",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVlcC1jbGVhbg&hash=735431be9593e249d60c475d3e93b3008306ab9c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dip-kli:n",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVlcC1jbGVhbg&hash=735431be9593e249d60c475d3e93b3008306ab9c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dip-klin",
       "img": "",
       "pronunciation": "dˈiːpklˈiːn",
       "senses": [
@@ -259,12 +273,13 @@
       ]
     },
     {
+      "id": "5655c83d-6a89-4462-a933-a0761c808b66",
       "word": "deep-cleaning",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVlcC1jbGVhbmluZw&hash=06992618928c5ad4b7d0e4394801c215ef8411e6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dip-kli:.nɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVlcC1jbGVhbmluZw&hash=06992618928c5ad4b7d0e4394801c215ef8411e6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dip-kli.ning",
       "img": "",
       "pronunciation": "dˈiːpklˈiːnɪŋ",
       "senses": [
@@ -275,10 +290,11 @@
       ]
     },
     {
-      "word": "get over",
+      "id": "a3cad534-3975-4b21-a863-608afad358cc",
+      "word": "to get over",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IG92ZXI&hash=83037611240839e799dcff7ab3d4554f3cfcf990&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IG92ZXI&hash=83037611240839e799dcff7ab3d4554f3cfcf990&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/32618/original/?type=jpeg",
@@ -312,14 +328,15 @@
       ]
     },
     {
-      "word": "heal",
+      "id": "68a35df7-982b-4cce-9481-c4cff3dae8f9",
+      "word": "to heal",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGVhbA&hash=e9849fbd7cc0f6e03c9c6180435333e86417c91b&lang=en&cache-only=0",
       "phonetic_text": "hi:l",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGVhbA&hash=e9849fbd7cc0f6e03c9c6180435333e86417c91b&lang=en&cache-only=0",
-      "phonetic_am_text": "heel",
+      "phonetic_am_text": "hil",
       "img": "https://cdn.langeek.co/photo/47857/original/?type=jpeg",
-      "pronunciation": "ˈhiɫ",
+      "pronunciation": "hiːl",
       "senses": [
         {
           "definition": "to become healthy again",
@@ -349,12 +366,13 @@
       ]
     },
     {
+      "id": "15805a00-5551-40d2-80f1-75915ac42e35",
       "word": "healing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGVhbGluZw&hash=46ace8a0dd9777b741f3ee57f9fbfe75b9cd5e5d&lang=en&cache-only=0",
-      "phonetic_text": "hi:lɪng",
+      "phonetic_text": "hi.lɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=aGVhbGluZw&hash=46ace8a0dd9777b741f3ee57f9fbfe75b9cd5e5d&lang=en&cache-only=0",
-      "phonetic_am_text": "heeling",
+      "phonetic_am_text": "hi.ling",
       "img": "https://cdn.langeek.co/photo/18992/original/heal?type=jpeg",
       "pronunciation": "ˈhiɫɪŋ",
       "senses": [
@@ -386,12 +404,13 @@
       ]
     },
     {
+      "id": "17ea0f0b-6e50-4a52-b5da-5bfe8b7c3a2a",
       "word": "herd immunity",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGVyZCBpbW11bml0eQ&hash=46068f9357efa79c87bb6440f84e1cda3594f748&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɜrd ɪ.mju.nə.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=aGVyZCBpbW11bml0eQ&hash=46068f9357efa79c87bb6440f84e1cda3594f748&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hērd i.myoo.nē.ti",
       "img": "",
       "pronunciation": "hˈɜːd ɪmjˈuːnɪɾi",
       "senses": [
@@ -402,12 +421,13 @@
       ]
     },
     {
+      "id": "6fcc5553-fd88-4b74-a177-45ab9dca3529",
       "word": "informed consent",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5mb3JtZWQgY29uc2VudA&hash=b39a00f73594bea8a3b7ada2f1f51695b947921e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn.fɔrmd kən.sɛnt",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5mb3JtZWQgY29uc2VudA&hash=b39a00f73594bea8a3b7ada2f1f51695b947921e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in.fawrmd kēn.sent",
       "img": "",
       "pronunciation": "ɪnfˈɔːɹmd kənsˈɛnt",
       "senses": [
@@ -439,12 +459,13 @@
       ]
     },
     {
+      "id": "7486fe2a-e853-4b79-82e0-fba7757bc97a",
       "word": "inoculation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5vY3VsYXRpb24&hash=fda149fc21b74d22bcf174365e4542963723cb47&lang=en&cache-only=0",
-      "phonetic_text": "ɪnɑkjəleɪʃən",
+      "phonetic_text": "ɪ.nɑk.jə.leɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5vY3VsYXRpb24&hash=fda149fc21b74d22bcf174365e4542963723cb47&lang=en&cache-only=0",
-      "phonetic_am_text": "inɑkyēleishēn",
+      "phonetic_am_text": "i.naak.yē.lei.shēn",
       "img": "https://cdn.langeek.co/photo/21404/original/?type=jpeg",
       "pronunciation": "ˌɪˌnɑkjəˈɫeɪʃən",
       "senses": [
@@ -455,12 +476,13 @@
       ]
     },
     {
-      "word": "inoculate",
+      "id": "83c9076c-808b-44c6-88cf-4b8d31b5aeab",
+      "word": "to inoculate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW5vY3VsYXRl&hash=df260a5d31126f2bd1d6c8c979446f4bbe9f231c&lang=en&cache-only=0",
-      "phonetic_text": "ɪnɑ:kjəleɪt",
+      "phonetic_text": "ɪ.nɑk.jə.leɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW5vY3VsYXRl&hash=df260a5d31126f2bd1d6c8c979446f4bbe9f231c&lang=en&cache-only=0",
-      "phonetic_am_text": "inaakyēleit",
+      "phonetic_am_text": "i.naak.yē.leit",
       "img": "https://cdn.langeek.co/photo/21404/original/?type=jpeg",
       "pronunciation": "ˌɪˈnɑkjəˌɫeɪt",
       "senses": [
@@ -471,12 +493,13 @@
       ]
     },
     {
+      "id": "5317e74f-e482-4bd0-9fa3-d5dfd2450636",
       "word": "curable",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y3VyYWJsZQ&hash=cd95b677ca5bfa0021ae055923427e89ed438f79&lang=en&cache-only=0",
-      "phonetic_text": "kjʊrəbəl",
+      "phonetic_text": "kjʊ.rə.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3VyYWJsZQ&hash=cd95b677ca5bfa0021ae055923427e89ed438f79&lang=en&cache-only=0",
-      "phonetic_am_text": "kyurēbēl",
+      "phonetic_am_text": "kyoo.rē.bēl",
       "img": "",
       "pronunciation": "ˈkjʊɹəbəɫ",
       "senses": [
@@ -508,12 +531,13 @@
       ]
     },
     {
+      "id": "6a8db635-0b72-4aa7-8e84-5a72c6b9af08",
       "word": "convalescence",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29udmFsZXNjZW5jZQ&hash=3628ed116794a7ff1f644832f285d29a71d8b307&lang=en&cache-only=0",
-      "phonetic_text": "kɑnvəlɛsəns",
+      "phonetic_text": "kɑn.və.lɛs.əns",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29udmFsZXNjZW5jZQ&hash=3628ed116794a7ff1f644832f285d29a71d8b307&lang=en&cache-only=0",
-      "phonetic_am_text": "kɑnvēlesēns",
+      "phonetic_am_text": "kaan.vē.les.ēns",
       "img": "https://cdn.langeek.co/photo/18986/original/recovery?type=jpeg",
       "pronunciation": "ˌkɑnvəˈɫɛsəns",
       "senses": [
@@ -545,12 +569,13 @@
       ]
     },
     {
+      "id": "818ed9f1-00d3-4aab-a61a-5b961fb89e20",
       "word": "remission",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVtaXNzaW9u&hash=abfe2b9032b6d7bb1202c7417dd1a1635a844cfe&lang=en&cache-only=0",
-      "phonetic_text": "rimɪʃən",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVtaXNzaW9u&hash=abfe2b9032b6d7bb1202c7417dd1a1635a844cfe&lang=en&cache-only=0",
-      "phonetic_am_text": "rimishēn",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ɹiˈmɪʃən",
       "senses": [
@@ -582,12 +607,13 @@
       ]
     },
     {
+      "id": "72b46c01-07dd-45fc-9512-8219bac30378",
       "word": "recuperative",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cmVjdXBlcmF0aXZl&hash=e3d76a87732464ccbc74f264b1c10b40825dea3b&lang=en&cache-only=0",
-      "phonetic_text": "rɪku:pərətɪv",
+      "phonetic_text": "rɪ.ku.pɜ.rə.tɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVjdXBlcmF0aXZl&hash=e3d76a87732464ccbc74f264b1c10b40825dea3b&lang=en&cache-only=0",
-      "phonetic_am_text": "rikoopērētiv",
+      "phonetic_am_text": "ri.koo.pē.rē.tiv",
       "img": "",
       "pronunciation": "ɹɪˈkupɝətɪv",
       "senses": [
@@ -598,12 +624,13 @@
       ]
     },
     {
+      "id": "99bb5b07-90ed-42b3-9964-09fba0a49cc9",
       "word": "recuperation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVjdXBlcmF0aW9u&hash=6c801d2df0995f051b36681c32014e5a8903c372&lang=en&cache-only=0",
-      "phonetic_text": "rɪkupəreɪʃən",
+      "phonetic_text": "rɪ.ku.pɜ.reɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVjdXBlcmF0aW9u&hash=6c801d2df0995f051b36681c32014e5a8903c372&lang=en&cache-only=0",
-      "phonetic_am_text": "rikupēreishēn",
+      "phonetic_am_text": "ri.koo.pē.rei.shēn",
       "img": "https://cdn.langeek.co/photo/18986/original/recovery?type=jpeg",
       "pronunciation": "ɹɪˌkupɝˈeɪʃən",
       "senses": [
@@ -635,14 +662,15 @@
       ]
     },
     {
+      "id": "4af0d6d1-9fb5-4ae6-8c79-40c0e2990b45",
       "word": "recovery",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVjb3Zlcnk&hash=5ca64ffdcac969a85f44c810039c5ed4af698b31&lang=en&cache-only=0",
-      "phonetic_text": "rɪkʌvri",
+      "phonetic_text": "rɪ.kʌ.və.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVjb3Zlcnk&hash=5ca64ffdcac969a85f44c810039c5ed4af698b31&lang=en&cache-only=0",
-      "phonetic_am_text": "rikavri",
+      "phonetic_am_text": "ri.ka.vē.ri",
       "img": "https://cdn.langeek.co/photo/18986/original/recovery?type=jpeg",
-      "pronunciation": "ɹɪˈkəvɝi/, /ɹɪˈkəvɹi",
+      "pronunciation": "rɪˈkʌvɚi",
       "senses": [
         {
           "definition": "the process of becoming healthy again after an injury or disease",
@@ -651,14 +679,15 @@
       ]
     },
     {
-      "word": "recover",
+      "id": "98b5f673-3ed5-4351-8985-1525c8107ec0",
+      "word": "to recover",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVjb3Zlcg&hash=1f30f7bd8cf9e3081226c5669bae6969b6ae13c2&lang=en&cache-only=0",
-      "phonetic_text": "rɪkʌvər",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVjb3Zlcg&hash=1f30f7bd8cf9e3081226c5669bae6969b6ae13c2&lang=en&cache-only=0",
-      "phonetic_am_text": "rikavēr",
+      "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/32618/original/?type=jpeg",
-      "pronunciation": "ɹɪˈkəvɝ",
+      "pronunciation": "rɪˈkʌvɚ",
       "senses": [
         {
           "definition": "to regain complete health after a period of sickness or injury",
@@ -688,10 +717,11 @@
       ]
     },
     {
+      "id": "c91d7d8a-b978-498f-8bed-d23e785896c0",
       "word": "computed tomography",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29tcHV0ZWQgdG9tb2dyYXBoeQ&hash=3f483490a1d6e0f3174846ce0880736823dac403&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tcHV0ZWQgdG9tb2dyYXBoeQ&hash=3f483490a1d6e0f3174846ce0880736823dac403&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

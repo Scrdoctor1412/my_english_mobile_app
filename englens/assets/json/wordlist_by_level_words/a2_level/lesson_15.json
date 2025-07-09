@@ -1,15 +1,17 @@
 {
+  "id": "b4106bdd-6665-43fd-a54b-faf0a48caa4f",
   "topic": "a2_level",
   "title": "Hobbies and Daily Activities",
   "lesson": "lesson_15",
   "word_list": [
     {
+      "id": "7e149da2-9161-4b44-ae27-5a22e36ffbea",
       "word": "fishing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmlzaGluZw&hash=73bf36f08af741a5f8547e8efae7fe898f9e1283&lang=en&cache-only=0",
-      "phonetic_text": "fɪʃɪng",
+      "phonetic_text": "fɪ.ʃɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmlzaGluZw&hash=73bf36f08af741a5f8547e8efae7fe898f9e1283&lang=en&cache-only=0",
-      "phonetic_am_text": "fishing",
+      "phonetic_am_text": "fi.shing",
       "img": "https://cdn.langeek.co/photo/51642/original/fishing?type=jpeg",
       "pronunciation": "ˈfɪʃɪŋ",
       "senses": [
@@ -37,7 +39,8 @@
       ]
     },
     {
-      "word": "fish",
+      "id": "97ac54fb-e9b4-4229-a735-c2f5639b7121",
+      "word": "to fish",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmlzaA&hash=8a8d1802b009397b4fcd8d85569fe83a41439c37&lang=en&cache-only=0",
       "phonetic_text": "fɪʃ",
@@ -74,12 +77,13 @@
       ]
     },
     {
+      "id": "93c7b80d-8d93-4d9c-9899-31bed2655595",
       "word": "walk",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2Fsaw&hash=124a83501b8182e6a2614cb9f6fe3141ee5af24f&lang=en&cache-only=0",
-      "phonetic_text": "wɔ:k",
+      "phonetic_text": "wɑ:k",
       "phonetic_am": "https://tts.langeek.co/read?text=d2Fsaw&hash=124a83501b8182e6a2614cb9f6fe3141ee5af24f&lang=en&cache-only=0",
-      "phonetic_am_text": "waawk",
+      "phonetic_am_text": "vaak",
       "img": "https://cdn.langeek.co/photo/39607/original/walk?type=jpeg",
       "pronunciation": "wɑːk",
       "senses": [
@@ -111,12 +115,13 @@
       ]
     },
     {
+      "id": "e9d0b9a6-641a-4891-a8aa-0984be19ceff",
       "word": "yoga",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=eW9nYQ&hash=1eeb7d52cb93fe335db459bc3410011d34d36694&lang=en&cache-only=0",
-      "phonetic_text": "joʊgə",
+      "phonetic_text": "joʊ.gə",
       "phonetic_am": "https://tts.langeek.co/read?text=eW9nYQ&hash=1eeb7d52cb93fe335db459bc3410011d34d36694&lang=en&cache-only=0",
-      "phonetic_am_text": "yowgē",
+      "phonetic_am_text": "yooo.gē",
       "img": "https://cdn.langeek.co/photo/51678/original/yoga?type=jpeg",
       "pronunciation": "ˈjoʊɡə",
       "senses": [
@@ -148,12 +153,13 @@
       ]
     },
     {
+      "id": "e96c66fc-76fe-4e57-949f-7dd94bd6fd35",
       "word": "ball game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFsbCBnYW1l&hash=d68567183400402c40d37d3a62a7bbebae6dc537&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɔ:l geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFsbCBnYW1l&hash=d68567183400402c40d37d3a62a7bbebae6dc537&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bawl geim",
       "img": "https://cdn.langeek.co/photo/29366/original/?type=jpeg",
       "pronunciation": "ˈbaːl ˌɡeɪm",
       "senses": [
@@ -185,12 +191,13 @@
       ]
     },
     {
+      "id": "1f305159-d271-4cb5-892a-0b9a758d3932",
       "word": "card game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FyZCBnYW1l&hash=d098d8ebec564efd368c978809b4b6d216c957ff&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑrd geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FyZCBnYW1l&hash=d098d8ebec564efd368c978809b4b6d216c957ff&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaard geim",
       "img": "https://cdn.langeek.co/photo/51664/original/card-game?type=jpeg",
       "pronunciation": "ˈkɑːrd ˌɡeɪm",
       "senses": [
@@ -222,12 +229,13 @@
       ]
     },
     {
+      "id": "d2be3633-de90-4c4e-9d7b-9350520485fe",
       "word": "table tennis",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFibGUgdGVubmlz&hash=a38970ac69c5ed3062ab80711e27be9db411c6ab&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "teɪ.bəl tɛ.nɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFibGUgdGVubmlz&hash=a38970ac69c5ed3062ab80711e27be9db411c6ab&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tei.bēl te.nis",
       "img": "https://cdn.langeek.co/photo/51073/original/table-tennis?type=jpeg",
       "pronunciation": "ˈteɪbəl ˌtɛnɪs",
       "senses": [
@@ -259,12 +267,13 @@
       ]
     },
     {
+      "id": "17fd385b-db5b-49e0-a639-cef0f1171587",
       "word": "barbecue",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFyYmVjdWU&hash=dfbe06d9faeec91a2817eb74ec4eeb80c6dcd206&lang=en&cache-only=0",
-      "phonetic_text": "bɑ:rbɪkju",
+      "phonetic_text": "bɑ:r.bɪ.kju:",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFyYmVjdWU&hash=dfbe06d9faeec91a2817eb74ec4eeb80c6dcd206&lang=en&cache-only=0",
-      "phonetic_am_text": "baarbikyu",
+      "phonetic_am_text": "baar.bi.kyoo",
       "img": "https://cdn.langeek.co/photo/36323/original/barbecue?type=jpeg",
       "pronunciation": "ˈbɑːrbɪˌkjuː",
       "senses": [
@@ -296,6 +305,7 @@
       ]
     },
     {
+      "id": "410723cc-e744-4700-adb9-c0af11e4f62f",
       "word": "camp",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FtcA&hash=a9e9e39343fa71c296383913f23ab5e6e610900b&lang=en&cache-only=0",
@@ -307,42 +317,18 @@
       "senses": [
         {
           "definition": "a location where people stay temporarily, typically in tents or temporary structures",
-          "examples": [
-            {
-              "cf": "",
-              "x": "We set up camp near the lake for our weekend getaway."
-            },
-            {
-              "cf": "",
-              "x": "Please clean up your camp before leaving the site."
-            },
-            {
-              "cf": "",
-              "x": "After the storm, the campers had to rebuild their camp from scratch."
-            },
-            {
-              "cf": "",
-              "x": "The festival included a camp for attendees who wanted to stay overnight."
-            },
-            {
-              "cf": "",
-              "x": "The camp was equipped with basic amenities like restrooms and showers."
-            },
-            {
-              "cf": "",
-              "x": "The scouts learned how to set up a camp in the woods during their training."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "9038a7f5-b8bc-4fa3-8055-f957e24710e2",
       "word": "camping",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FtcGluZw&hash=43d4ca36c50d640aac9ce4a2dc2bf263dcb37107&lang=en&cache-only=0",
-      "phonetic_text": "kæmpɪng",
+      "phonetic_text": "kæm.pɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FtcGluZw&hash=43d4ca36c50d640aac9ce4a2dc2bf263dcb37107&lang=en&cache-only=0",
-      "phonetic_am_text": "kāmping",
+      "phonetic_am_text": "kām.ping",
       "img": "https://cdn.langeek.co/photo/28838/original/camp?type=jpeg",
       "pronunciation": "ˈkæmpɪŋ",
       "senses": [
@@ -366,12 +352,13 @@
       ]
     },
     {
+      "id": "bcd99781-e9ce-4780-a646-396cc04daa4d",
       "word": "campsite",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FtcHNpdGU&hash=4a40305443ee183717f3cfcddec3181882e6f818&lang=en&cache-only=0",
-      "phonetic_text": "kæmpsaɪt",
+      "phonetic_text": "kæmp.saɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FtcHNpdGU&hash=4a40305443ee183717f3cfcddec3181882e6f818&lang=en&cache-only=0",
-      "phonetic_am_text": "kāmpsait",
+      "phonetic_am_text": "kāmp.sait",
       "img": "https://cdn.langeek.co/photo/23455/original/?type=jpeg",
       "pronunciation": "ˈkæmpˌsaɪt",
       "senses": [
@@ -403,6 +390,7 @@
       ]
     },
     {
+      "id": "e3ef5f9e-662b-4f2a-8718-f61c1615b9b3",
       "word": "club",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2x1Yg&hash=022ac594dac510e016ebbd16f69a0797da4e2f78&lang=en&cache-only=0",
@@ -440,14 +428,15 @@
       ]
     },
     {
+      "id": "332be5f0-85cc-46ad-bc38-572cd6ce1bc5",
       "word": "party",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFydHk&hash=e0952de6b118be25cb6d4507c41f4e47d5a00e14&lang=en&cache-only=0",
-      "phonetic_text": "pɑ:rti",
+      "phonetic_text": "pɑr.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFydHk&hash=e0952de6b118be25cb6d4507c41f4e47d5a00e14&lang=en&cache-only=0",
-      "phonetic_am_text": "paarti",
+      "phonetic_am_text": "paar.ti",
       "img": "https://cdn.langeek.co/photo/14071/original/party?type=jpeg",
-      "pronunciation": "ˈpɑːrti",
+      "pronunciation": "ˈpɑrti",
       "senses": [
         {
           "definition": "an event where people get together and enjoy themselves by talking, dancing, eating, drinking, etc.",
@@ -477,12 +466,13 @@
       ]
     },
     {
+      "id": "8b35644a-6222-4754-83cb-b19f46ea2d65",
       "word": "picnic",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGljbmlj&hash=20920f10e08d0fd7e696114df67479a2a00b0738&lang=en&cache-only=0",
-      "phonetic_text": "pɪknɪk",
+      "phonetic_text": "pɪk.nɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=cGljbmlj&hash=20920f10e08d0fd7e696114df67479a2a00b0738&lang=en&cache-only=0",
-      "phonetic_am_text": "piknik",
+      "phonetic_am_text": "pik.nik",
       "img": "https://cdn.langeek.co/photo/27447/original/picnic?type=jpeg",
       "pronunciation": "ˈpɪkˌnɪk",
       "senses": [
@@ -514,6 +504,7 @@
       ]
     },
     {
+      "id": "7856ec6d-fd7d-4973-b33d-3e3c9e37ec4b",
       "word": "tent",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVudA&hash=6b949c3b65013a345f0f957d08512faca94dd0e1&lang=en&cache-only=0",
@@ -551,43 +542,24 @@
       ]
     },
     {
+      "id": "4e1e2051-b997-4d05-b7e2-ba79b6dca359",
       "word": "shower",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2hvd2Vy&hash=3a5e5601d6e0bd6f31c0d75bc06db736a3a23bb8&lang=en&cache-only=0",
       "phonetic_text": "ʃaʊər",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hvd2Vy&hash=3a5e5601d6e0bd6f31c0d75bc06db736a3a23bb8&lang=en&cache-only=0",
-      "phonetic_am_text": "shawēr",
+      "phonetic_am_text": "shaooēr",
       "img": "https://cdn.langeek.co/photo/39071/original/shower?type=jpeg",
       "pronunciation": "ˈʃaʊɚ",
       "senses": [
         {
           "definition": "an act of washing our body while standing under a stream of water",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Every morning, I start my day with a hot shower."
-            },
-            {
-              "cf": "",
-              "x": "I always feel refreshed after a long shower."
-            },
-            {
-              "cf": "",
-              "x": "I usually take a quick shower before breakfast."
-            },
-            {
-              "cf": "",
-              "x": "In the summer, a cold shower can be very refreshing."
-            },
-            {
-              "cf": "",
-              "x": "She prefers taking a shower to a bath."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "50bb0558-a3b9-4118-8489-2228e46897e0",
       "word": "bath",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmF0aA&hash=144594cdccd90573389226f6b830e9cbdcc19af6&lang=en&cache-only=0",
@@ -625,12 +597,13 @@
       ]
     },
     {
+      "id": "795c5fec-e083-4b32-b413-5a97a8bba193",
       "word": "laundry",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGF1bmRyeQ&hash=7cd49c759c462839612ead9cc37f118ba061aa2c&lang=en&cache-only=0",
-      "phonetic_text": "lɔ:ndri",
+      "phonetic_text": "lɑ:nd.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=bGF1bmRyeQ&hash=7cd49c759c462839612ead9cc37f118ba061aa2c&lang=en&cache-only=0",
-      "phonetic_am_text": "laawndri",
+      "phonetic_am_text": "laand.ri",
       "img": "https://cdn.langeek.co/photo/22295/original/?type=jpeg",
       "pronunciation": "ˈlɑːndri",
       "senses": [
@@ -662,12 +635,13 @@
       ]
     },
     {
+      "id": "67d2b096-9cb1-4106-bc83-f379fb2a8319",
       "word": "bored",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Ym9yZWQ&hash=28106b7b4124cb0670ae895f258348b1bcb43008&lang=en&cache-only=0",
       "phonetic_text": "bɔ:rd",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9yZWQ&hash=28106b7b4124cb0670ae895f258348b1bcb43008&lang=en&cache-only=0",
-      "phonetic_am_text": "baawrd",
+      "phonetic_am_text": "bawrd",
       "img": "https://cdn.langeek.co/photo/39057/original/bored?type=jpeg",
       "pronunciation": "bɔːrd",
       "senses": [
@@ -689,18 +663,23 @@
             {
               "cf": "",
               "x": "The teacher's monotonous voice made the students feel bored."
+            },
+            {
+              "cf": "",
+              "x": "He felt bored during the long, slow lecture."
             }
           ]
         }
       ]
     },
     {
+      "id": "30e9571e-1209-421b-a227-c862f8e5ad40",
       "word": "surprising",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c3VycHJpc2luZw&hash=ca27bd6477c1703f504b1fb2fe0bcaaf58e7a931&lang=en&cache-only=0",
-      "phonetic_text": "sərpraɪzɪng",
+      "phonetic_text": "sərp.raɪ.zɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=c3VycHJpc2luZw&hash=ca27bd6477c1703f504b1fb2fe0bcaaf58e7a931&lang=en&cache-only=0",
-      "phonetic_am_text": "sērpraizing",
+      "phonetic_am_text": "sērp.rai.zing",
       "img": "https://cdn.langeek.co/photo/20195/original/amazed?type=jpeg",
       "pronunciation": "sɚˈpraɪzɪŋ",
       "senses": [
@@ -726,18 +705,23 @@
             {
               "cf": "",
               "x": "The test results were surprising to the teacher."
+            },
+            {
+              "cf": "",
+              "x": "The surprising kindness of strangers made her day."
             }
           ]
         }
       ]
     },
     {
+      "id": "72799189-2818-4b8b-8d1f-95daf14600e5",
       "word": "enjoyable",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZW5qb3lhYmxl&hash=179b8a9717549831c2ff8b0a84500b046e8c7086&lang=en&cache-only=0",
-      "phonetic_text": "ɛnʤɔɪəbəl",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZW5qb3lhYmxl&hash=179b8a9717549831c2ff8b0a84500b046e8c7086&lang=en&cache-only=0",
-      "phonetic_am_text": "enjoyēbēl",
+      "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/15943/original/enjoyable?type=jpeg",
       "pronunciation": "ɪnˈdʒɔɪəbəl",
       "senses": [
@@ -769,13 +753,14 @@
       ]
     },
     {
+      "id": "b1d52f88-9998-46a7-969e-b83ec3dc0c6f",
       "word": "delightful",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZGVsaWdodGZ1bA&hash=6f876d7925440c780470e414ad8643eec1abe98c&lang=en&cache-only=0",
-      "phonetic_text": "dɪlaɪtfəl",
+      "phonetic_text": "dɪ.laɪt.fəl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVsaWdodGZ1bA&hash=6f876d7925440c780470e414ad8643eec1abe98c&lang=en&cache-only=0",
-      "phonetic_am_text": "dilaitfēl",
-      "img": "https://cdn.langeek.co/photo/17549/original/pleasant?type=jpeg",
+      "phonetic_am_text": "di.lait.fēl",
+      "img": "https://cdn.langeek.co/photo/61730/original/pleasant?type=jpeg",
       "pronunciation": "dɪˈlaɪtfəl",
       "senses": [
         {
@@ -806,12 +791,13 @@
       ]
     },
     {
+      "id": "d5da25e6-6686-444e-8dd5-955d6281bb92",
       "word": "pleased",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cGxlYXNlZA&hash=4620462f8dde7b09acfeff1957730f7bbb78cb26&lang=en&cache-only=0",
       "phonetic_text": "pli:zd",
       "phonetic_am": "https://tts.langeek.co/read?text=cGxlYXNlZA&hash=4620462f8dde7b09acfeff1957730f7bbb78cb26&lang=en&cache-only=0",
-      "phonetic_am_text": "pleezd",
+      "phonetic_am_text": "plizd",
       "img": "https://cdn.langeek.co/photo/38713/original/pleased?type=jpeg",
       "pronunciation": "pliːzd",
       "senses": [
@@ -837,18 +823,23 @@
             {
               "cf": "",
               "x": "The teacher was pleased with the students' progress."
+            },
+            {
+              "cf": "",
+              "x": "She's pleased to help with the event."
             }
           ]
         }
       ]
     },
     {
+      "id": "d60f97a0-06e5-4078-872c-7b8e16060ba3",
       "word": "cooking",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29va2luZw&hash=8d8e5e07cce6b70ad1212cda379a674f1c7b80a3&lang=en&cache-only=0",
-      "phonetic_text": "kʊkɪng",
+      "phonetic_text": "kʊ.kɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29va2luZw&hash=8d8e5e07cce6b70ad1212cda379a674f1c7b80a3&lang=en&cache-only=0",
-      "phonetic_am_text": "kuking",
+      "phonetic_am_text": "koo.king",
       "img": "https://cdn.langeek.co/photo/51638/original/?type=jpeg",
       "pronunciation": "ˈkʊkɪŋ",
       "senses": [
@@ -868,6 +859,7 @@
       ]
     },
     {
+      "id": "d58df89c-2ddb-46d2-ada1-4bfec845a238",
       "word": "fun",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnVu&hash=463c2bb17cc0bd02fb9f650fbd4e0fa0f05ee006&lang=en&cache-only=0",
@@ -894,6 +886,10 @@
             },
             {
               "cf": "",
+              "x": "We added some games for fun at the picnic."
+            },
+            {
+              "cf": "",
               "x": "We had fun at the party last night."
             }
           ]
@@ -901,12 +897,13 @@
       ]
     },
     {
+      "id": "626ce4ce-2333-428e-a472-bb605121a588",
       "word": "cleaning",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xlYW5pbmc&hash=dab296e58c3e13e2be2e2b62173191547aeca7aa&lang=en&cache-only=0",
-      "phonetic_text": "kli:nɪng",
+      "phonetic_text": "kli:.nɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xlYW5pbmc&hash=dab296e58c3e13e2be2e2b62173191547aeca7aa&lang=en&cache-only=0",
-      "phonetic_am_text": "kleening",
+      "phonetic_am_text": "kli.ning",
       "img": "https://cdn.langeek.co/photo/27931/original/?type=jpeg",
       "pronunciation": "ˈkliːnɪŋ",
       "senses": [
@@ -934,12 +931,13 @@
       ]
     },
     {
-      "word": "begin",
+      "id": "34300131-1da2-4d74-a8b3-68e576872aa4",
+      "word": "to begin",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmVnaW4&hash=9840c5058dd5ddf59874f8a3c161b46316385d77&lang=en&cache-only=0",
-      "phonetic_text": "bɪgɪn",
+      "phonetic_text": "bɪ.gɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmVnaW4&hash=9840c5058dd5ddf59874f8a3c161b46316385d77&lang=en&cache-only=0",
-      "phonetic_am_text": "bigin",
+      "phonetic_am_text": "bi.gin",
       "img": "https://cdn.langeek.co/photo/49431/original/?type=jpeg",
       "pronunciation": "bɪˈɡɪn",
       "senses": [
@@ -967,7 +965,8 @@
       ]
     },
     {
-      "word": "end",
+      "id": "bd02464e-0eae-48e6-ab27-9fab66256426",
+      "word": "to end",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZW5k&hash=a97a23c77ba25e3906ffad29682ee64155a6d060&lang=en&cache-only=0",
       "phonetic_text": "ɛnd",
@@ -1004,12 +1003,13 @@
       ]
     },
     {
-      "word": "relax",
+      "id": "1b2eff11-13b7-4bdb-932e-49d61985b1e2",
+      "word": "to relax",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVsYXg&hash=fe7e5840bc77b43731a7122f8b5d0ba1df6cedf3&lang=en&cache-only=0",
-      "phonetic_text": "rɪlæks",
+      "phonetic_text": "rɪ.læks",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVsYXg&hash=fe7e5840bc77b43731a7122f8b5d0ba1df6cedf3&lang=en&cache-only=0",
-      "phonetic_am_text": "rilāks",
+      "phonetic_am_text": "ri.lāks",
       "img": "https://cdn.langeek.co/photo/38889/original/relax?type=jpeg",
       "pronunciation": "rɪˈlæks",
       "senses": [
@@ -1041,12 +1041,13 @@
       ]
     },
     {
-      "word": "smoke",
+      "id": "99424938-d54f-4c0f-a43a-275b90b615a7",
+      "word": "to smoke",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc21va2U&hash=e663f032b6022f1ecd942f2c5b4656d51535df01&lang=en&cache-only=0",
       "phonetic_text": "smoʊk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc21va2U&hash=e663f032b6022f1ecd942f2c5b4656d51535df01&lang=en&cache-only=0",
-      "phonetic_am_text": "smowk",
+      "phonetic_am_text": "smoook",
       "img": "https://cdn.langeek.co/photo/38703/original/smoke?type=jpeg",
       "pronunciation": "smoʊk",
       "senses": [
@@ -1078,6 +1079,7 @@
       ]
     },
     {
+      "id": "aff11101-e057-4514-a028-99d3d7bea3ef",
       "word": "dance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGFuY2U&hash=e89468c10501d1a7ca00b2bebfd0856dc01ac3b3&lang=en&cache-only=0",
@@ -1115,12 +1117,13 @@
       ]
     },
     {
+      "id": "e37bc2b0-66b0-44a4-9874-2d6d51bfea9b",
       "word": "water park",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2F0ZXIgcGFyaw&hash=ecc7662a37d815d22c6f4734feffb701653aca7e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɑ:.tər pɑ:rk",
       "phonetic_am": "https://tts.langeek.co/read?text=d2F0ZXIgcGFyaw&hash=ecc7662a37d815d22c6f4734feffb701653aca7e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vaa.tēr paark",
       "img": "https://cdn.langeek.co/photo/17719/original/water-park?type=jpeg",
       "pronunciation": "ˈwɑːtɚ ˌpɑːrk",
       "senses": [
@@ -1152,12 +1155,13 @@
       ]
     },
     {
-      "word": "celebrate",
+      "id": "f3bc6414-4098-4e2f-bacf-e4f86b5a7dc0",
+      "word": "to celebrate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2VsZWJyYXRl&hash=2f7d9007bb636cbe3b196ae70f17a7758b9b181a&lang=en&cache-only=0",
-      "phonetic_text": "sɛləbreɪt",
+      "phonetic_text": "sɛ.ləb.reɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2VsZWJyYXRl&hash=2f7d9007bb636cbe3b196ae70f17a7758b9b181a&lang=en&cache-only=0",
-      "phonetic_am_text": "selēbreit",
+      "phonetic_am_text": "se.lēb.reit",
       "img": "https://cdn.langeek.co/photo/18742/original/celebrate?type=jpeg",
       "pronunciation": "ˈsɛləˌbreɪt",
       "senses": [
@@ -1189,12 +1193,13 @@
       ]
     },
     {
+      "id": "e0cf46f5-280e-4a5b-8d55-8c28cf6152b4",
       "word": "toy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dG95&hash=e34ece276dc12a36e3a77f186337093ed33531e7&lang=en&cache-only=0",
       "phonetic_text": "tɔɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG95&hash=e34ece276dc12a36e3a77f186337093ed33531e7&lang=en&cache-only=0",
-      "phonetic_am_text": "toy",
+      "phonetic_am_text": "tawi",
       "img": "https://cdn.langeek.co/photo/48913/original/toy?type=jpeg",
       "pronunciation": "tɔɪ",
       "senses": [

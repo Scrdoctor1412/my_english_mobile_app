@@ -1,25 +1,49 @@
 {
+  "id": "1befa712-f2a1-4926-9651-91df6483b133",
   "topic": "animals",
   "title": "Primates",
   "lesson": "lesson_3",
   "word_list": [
     {
+      "id": "1b4fb93f-c954-4f1a-aa0d-2a756c0ff741",
       "word": "monkey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9ua2V5&hash=db4f59c42ce52e7adf15b2d27d96b0e79cda37ec&lang=en&cache-only=0",
-      "phonetic_text": "mʌnki",
+      "phonetic_text": "mʌn.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9ua2V5&hash=db4f59c42ce52e7adf15b2d27d96b0e79cda37ec&lang=en&cache-only=0",
-      "phonetic_am_text": "manki",
+      "phonetic_am_text": "man.ki",
       "img": "https://cdn.langeek.co/photo/50180/original/monkey?type=jpeg",
       "pronunciation": "ˈmʌŋki",
       "senses": [
         {
           "definition": "a playful and intelligent animal that has a long tail and usually lives in trees and warm countries",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I saw the monkey hanging upside down from a tree branch."
+            },
+            {
+              "cf": "",
+              "x": "I watched as the monkey interacted with other members of its troop."
+            },
+            {
+              "cf": "",
+              "x": "My sister showed me the monkey eating a banana with delight."
+            },
+            {
+              "cf": "",
+              "x": "The monkey's intelligence and adaptability made it a fascinating creature to study."
+            },
+            {
+              "cf": "",
+              "x": "The monkey's long tail provided balance as it moved through the trees."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "945209a0-e1a6-4a66-96a0-8afec0ab1beb",
       "word": "ape",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXBl&hash=08104172dafd93aaab791020dc175c58f91efadd&lang=en&cache-only=0",
@@ -27,7 +51,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=YXBl&hash=08104172dafd93aaab791020dc175c58f91efadd&lang=en&cache-only=0",
       "phonetic_am_text": "eip",
       "img": "https://cdn.langeek.co/photo/20591/original/ape?type=jpeg",
-      "pronunciation": "ˈeɪp",
+      "pronunciation": "eɪp",
       "senses": [
         {
           "definition": "a tailless animal similar to a monkey, such as chimpanzees and gorillas",
@@ -57,12 +81,13 @@
       ]
     },
     {
+      "id": "5cfaaeda-8405-4816-b1ec-446a6600e7df",
       "word": "bushbaby",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVzaGJhYnk&hash=0915dc5251d470df9e5c44a561ec69bd28969505&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bʊʃ.beɪ.bi",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVzaGJhYnk&hash=0915dc5251d470df9e5c44a561ec69bd28969505&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "boosh.bei.bi",
       "img": "https://cdn.langeek.co/photo/24070/original/?type=jpeg",
       "pronunciation": "bˈʊʃbeɪbi",
       "senses": [
@@ -73,14 +98,15 @@
       ]
     },
     {
+      "id": "ab2d2586-6114-42fe-bc26-9fdd438e89a3",
       "word": "baboon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFib29u&hash=fca99f34c172e302c551f2baacd6a7c108c7b4fc&lang=en&cache-only=0",
-      "phonetic_text": "bəbu:n",
+      "phonetic_text": "bə.bun",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFib29u&hash=fca99f34c172e302c551f2baacd6a7c108c7b4fc&lang=en&cache-only=0",
-      "phonetic_am_text": "bēboon",
+      "phonetic_am_text": "bē.boon",
       "img": "https://cdn.langeek.co/photo/24036/original/?type=jpeg",
-      "pronunciation": "bəˈbun",
+      "pronunciation": "bəˈbuːn",
       "senses": [
         {
           "definition": "a large monkey with a doglike face and large teeth, native to Africa and South Asia",
@@ -110,12 +136,13 @@
       ]
     },
     {
+      "id": "b1bec463-68a7-43d3-a892-659056c06411",
       "word": "orangutan",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3Jhbmd1dGFu&hash=d9d9c47cae216bd7c6c809d1f508d20826a2aeee&lang=en&cache-only=0",
-      "phonetic_text": "ɔrængətæn",
+      "phonetic_text": "ɔ.ræn.gə.tæn",
       "phonetic_am": "https://tts.langeek.co/read?text=b3Jhbmd1dGFu&hash=d9d9c47cae216bd7c6c809d1f508d20826a2aeee&lang=en&cache-only=0",
-      "phonetic_am_text": "awrāngētān",
+      "phonetic_am_text": "aw.rān.gē.tān",
       "img": "https://cdn.langeek.co/photo/24298/original/?type=jpeg",
       "pronunciation": "ɔˈɹæŋətæn/, /ɔˈɹæŋətɑn",
       "senses": [
@@ -126,14 +153,15 @@
       ]
     },
     {
+      "id": "8ceb6d7e-413d-43ff-be3d-33713d82b4c0",
       "word": "chimpanzee",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hpbXBhbnplZQ&hash=f0279f4411b14199c5fff216b403024b3394d360&lang=en&cache-only=0",
-      "phonetic_text": "ʧɪmpænzi",
+      "phonetic_text": "ʧɪm.pæn.zi",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hpbXBhbnplZQ&hash=f0279f4411b14199c5fff216b403024b3394d360&lang=en&cache-only=0",
-      "phonetic_am_text": "chimpānzi",
+      "phonetic_am_text": "chim.pān.zi",
       "img": "https://cdn.langeek.co/photo/17975/original/chimpanzee?type=jpeg",
-      "pronunciation": "tʃɪmˈpænzi",
+      "pronunciation": "ˌʧɪmpænˈziː",
       "senses": [
         {
           "definition": "an intelligent ape, with mainly black fur, which has no tail and is native to the forests of western and central Africa",
@@ -159,12 +187,13 @@
       ]
     },
     {
+      "id": "bec357be-880b-43f7-a435-6d51a56c78cd",
       "word": "gibbon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2liYm9u&hash=d9c82dfd36decb416f8d2317cc038eabbd45caeb&lang=en&cache-only=0",
-      "phonetic_text": "gɪbən",
+      "phonetic_text": "gɪ.bən",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2liYm9u&hash=d9c82dfd36decb416f8d2317cc038eabbd45caeb&lang=en&cache-only=0",
-      "phonetic_am_text": "gibēn",
+      "phonetic_am_text": "gi.bēn",
       "img": "https://cdn.langeek.co/photo/24166/original/?type=jpeg",
       "pronunciation": "ˈɡɪbən",
       "senses": [
@@ -175,12 +204,13 @@
       ]
     },
     {
+      "id": "e286038d-3e4e-4734-a967-fbb7762a54d8",
       "word": "potto",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG90dG8&hash=ce94e20f0d8777dea0844e0c0f6617efe6bead2b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɑ:.toʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=cG90dG8&hash=ce94e20f0d8777dea0844e0c0f6617efe6bead2b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "paa.tooo",
       "img": "https://cdn.langeek.co/photo/24310/original/?type=jpeg",
       "pronunciation": "pˈɑːɾoʊ",
       "senses": [
@@ -191,12 +221,13 @@
       ]
     },
     {
+      "id": "4276ab48-a0a2-42e8-927e-419934f59358",
       "word": "lemur",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGVtdXI&hash=93191bcff99378b9b42dba791a956316fff7ef30&lang=en&cache-only=0",
-      "phonetic_text": "li:mər",
+      "phonetic_text": "li.mɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVtdXI&hash=93191bcff99378b9b42dba791a956316fff7ef30&lang=en&cache-only=0",
-      "phonetic_am_text": "leemēr",
+      "phonetic_am_text": "li.mēr",
       "img": "https://cdn.langeek.co/photo/24228/original/?type=jpeg",
       "pronunciation": "ˈɫimɝ",
       "senses": [
@@ -207,12 +238,13 @@
       ]
     },
     {
+      "id": "c7663270-c1df-4bd4-8ea1-2727d58bf498",
       "word": "mandrill",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFuZHJpbGw&hash=c812928f5fc942e6bc19b30f139b8240fd5e1211&lang=en&cache-only=0",
-      "phonetic_text": "mændrɪl",
+      "phonetic_text": "mæn.drɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFuZHJpbGw&hash=c812928f5fc942e6bc19b30f139b8240fd5e1211&lang=en&cache-only=0",
-      "phonetic_am_text": "māndril",
+      "phonetic_am_text": "mān.dril",
       "img": "https://cdn.langeek.co/photo/34193/original/?type=jpeg",
       "pronunciation": "ˈmændɹɪɫ",
       "senses": [
@@ -223,12 +255,13 @@
       ]
     },
     {
+      "id": "fa5ca143-2fe1-41b9-b313-a7c462e23d2d",
       "word": "spider monkey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BpZGVyIG1vbmtleQ&hash=81c677fa35ead16f6e735f69e29be982aa29db08&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spaɪ.dər mʌn.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BpZGVyIG1vbmtleQ&hash=81c677fa35ead16f6e735f69e29be982aa29db08&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "spai.dēr man.ki",
       "img": "https://cdn.langeek.co/photo/34203/original/?type=jpeg",
       "pronunciation": "spˈaɪdɚ mˈʌnki",
       "senses": [
@@ -239,12 +272,13 @@
       ]
     },
     {
+      "id": "8306001b-ad71-4b36-89cd-a0e8261fa0c4",
       "word": "capuchin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FwdWNoaW4&hash=544b4f301d918129ea50b264e171298d3a427eb6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kæ.pə.ʧɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FwdWNoaW4&hash=544b4f301d918129ea50b264e171298d3a427eb6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kā.pē.chin",
       "img": "https://cdn.langeek.co/photo/34179/original/?type=jpeg",
       "pronunciation": "kˈæpətʃˌɪn",
       "senses": [
@@ -255,12 +289,13 @@
       ]
     },
     {
+      "id": "f6d322e1-9f97-4ccc-8920-fd224bf9b80d",
       "word": "rhesus monkey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmhlc3VzIG1vbmtleQ&hash=20afc54762d40c7e93e65454be47aca4df486325&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ri.səs mʌn.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=cmhlc3VzIG1vbmtleQ&hash=20afc54762d40c7e93e65454be47aca4df486325&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ri.sēs man.ki",
       "img": "https://cdn.langeek.co/photo/34197/original/?type=jpeg",
       "pronunciation": "ɹˈɛsəs mˈʌnki",
       "senses": [
@@ -271,12 +306,13 @@
       ]
     },
     {
+      "id": "d8dc9ec4-2c23-442a-ab85-799e806a1d7e",
       "word": "howler monkey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG93bGVyIG1vbmtleQ&hash=03a5e92c04a8126804b5bebca754e26fdc4a1da9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "haʊ.lɜr mʌn.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=aG93bGVyIG1vbmtleQ&hash=03a5e92c04a8126804b5bebca754e26fdc4a1da9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "haoo.lēr man.ki",
       "img": "https://cdn.langeek.co/photo/34183/original/?type=jpeg",
       "pronunciation": "hˈaʊlɚ mˈʌnki",
       "senses": [
@@ -287,12 +323,13 @@
       ]
     },
     {
+      "id": "8a989d2f-9ed6-452a-8282-fcd0528a8fb8",
       "word": "marmoset",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFybW9zZXQ&hash=38312ba5b5fe5e3efb2f943641a28794757634d2&lang=en&cache-only=0",
-      "phonetic_text": "mɑ:rməzɛt",
+      "phonetic_text": "mɑr.mə.zɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFybW9zZXQ&hash=38312ba5b5fe5e3efb2f943641a28794757634d2&lang=en&cache-only=0",
-      "phonetic_am_text": "maarmēzet",
+      "phonetic_am_text": "maar.mē.zet",
       "img": "https://cdn.langeek.co/photo/34211/original/?type=jpeg",
       "pronunciation": "ˈmɑɹməˌzɛt",
       "senses": [
@@ -303,12 +340,13 @@
       ]
     },
     {
+      "id": "65a79fa0-24ce-4c2e-9334-9af4d69dc542",
       "word": "golden marmoset",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29sZGVuIG1hcm1vc2V0&hash=2494f42917d580a39415fe18ba8490e5e3ed69ad&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "goʊl.dən mɑr.mə.zɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=Z29sZGVuIG1hcm1vc2V0&hash=2494f42917d580a39415fe18ba8490e5e3ed69ad&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "goool.dēn maar.mē.zet",
       "img": "https://cdn.langeek.co/photo/34205/original/?type=jpeg",
       "pronunciation": "ˈɡoʊldən ˈmɑːrməset",
       "senses": [
@@ -319,10 +357,11 @@
       ]
     },
     {
+      "id": "452d4d56-14cd-4b7d-bc66-15695fc7bf83",
       "word": "woolly monkey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d29vbGx5IG1vbmtleQ&hash=26b5f5a0c1ecb78ab1e8089e0a3db3d3f1419bf0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=d29vbGx5IG1vbmtleQ&hash=26b5f5a0c1ecb78ab1e8089e0a3db3d3f1419bf0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34292/original/?type=jpeg",
@@ -335,12 +374,13 @@
       ]
     },
     {
+      "id": "a0ab4e56-664a-49ea-840c-8c70b58f4391",
       "word": "squirrel monkey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3F1aXJyZWwgbW9ua2V5&hash=d3d063fb0ff6da96f15c5a175d46c708d9720582&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skwɜ.rəl mʌn.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=c3F1aXJyZWwgbW9ua2V5&hash=d3d063fb0ff6da96f15c5a175d46c708d9720582&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skvē.rēl man.ki",
       "img": "https://cdn.langeek.co/photo/34217/original/?type=jpeg",
       "pronunciation": "skwˈɜːɫ mˈʌnki",
       "senses": [
@@ -351,10 +391,11 @@
       ]
     },
     {
+      "id": "a999d49f-3791-42c3-a958-e856439809e2",
       "word": "vervet monkey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmVydmV0IG1vbmtleQ&hash=0aff94e9fe5df901d0cb617a1e76b6c5600a6757&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dmVydmV0IG1vbmtleQ&hash=0aff94e9fe5df901d0cb617a1e76b6c5600a6757&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34221/original/?type=jpeg",
@@ -367,10 +408,11 @@
       ]
     },
     {
+      "id": "1c6406a1-fd01-4b7d-848c-f3c421c37c92",
       "word": "titi monkey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGl0aSBtb25rZXk&hash=222d8922ed5b47df68d8f08debf0584d57c250f1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGl0aSBtb25rZXk&hash=222d8922ed5b47df68d8f08debf0584d57c250f1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/39711/original/?type=jpeg",
@@ -383,12 +425,13 @@
       ]
     },
     {
+      "id": "d751b25b-8969-4cd2-bd7a-2545fd2f8961",
       "word": "proboscis monkey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvYm9zY2lzIG1vbmtleQ&hash=bbc6bf23a3f672b6c85e03474f09871c6397f93f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "proʊ.bɑs.əs mʌn.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvYm9zY2lzIG1vbmtleQ&hash=bbc6bf23a3f672b6c85e03474f09871c6397f93f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "prooo.baas.ēs man.ki",
       "img": "https://cdn.langeek.co/photo/34215/original/?type=jpeg",
       "pronunciation": "pɹəbˈɑːskɪs mˈʌnki",
       "senses": [
@@ -399,10 +442,11 @@
       ]
     },
     {
+      "id": "c52323e9-996f-45eb-848a-91cec39dd6bb",
       "word": "hussar monkey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aHVzc2FyIG1vbmtleQ&hash=2789a1de2284dd7436b35cb59b0b645d560e2655&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aHVzc2FyIG1vbmtleQ&hash=2789a1de2284dd7436b35cb59b0b645d560e2655&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34207/original/?type=jpeg",
@@ -415,12 +459,13 @@
       ]
     },
     {
+      "id": "a76fc064-9f4e-4a83-af2d-cbd62de1edb1",
       "word": "green monkey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JlZW4gbW9ua2V5&hash=fc5c55071d59ca1ad80e4c7f99b14f09c8552517&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gri:n mʌn.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JlZW4gbW9ua2V5&hash=fc5c55071d59ca1ad80e4c7f99b14f09c8552517&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "grin man.ki",
       "img": "",
       "pronunciation": "ɡɹˈiːn mˈʌnki",
       "senses": [
@@ -431,12 +476,13 @@
       ]
     },
     {
+      "id": "d4be60d1-e2e3-4e2d-978b-8ebb18f6e50e",
       "word": "macaque",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFjYXF1ZQ&hash=cb0483920578886872fa9f3872b00f5cddd4068e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mæ.kæk",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFjYXF1ZQ&hash=cb0483920578886872fa9f3872b00f5cddd4068e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mā.kāk",
       "img": "https://cdn.langeek.co/photo/39709/original/?type=jpeg",
       "pronunciation": "mˈækæk",
       "senses": [
@@ -447,10 +493,11 @@
       ]
     },
     {
+      "id": "94db95d6-21cc-4e15-982b-471b97db3782",
       "word": "colobus monkey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29sb2J1cyBtb25rZXk&hash=83551af84d55daa213604120473ab7ed550e87cb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29sb2J1cyBtb25rZXk&hash=83551af84d55daa213604120473ab7ed550e87cb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -463,12 +510,13 @@
       ]
     },
     {
+      "id": "9cabd63a-7fe1-4ceb-a97d-f0e6e419054f",
       "word": "bonnet monkey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9ubmV0IG1vbmtleQ&hash=c44525a634a40f1863a65720219f78a889e90394&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɑ.nət mʌn.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9ubmV0IG1vbmtleQ&hash=c44525a634a40f1863a65720219f78a889e90394&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baa.nēt man.ki",
       "img": "",
       "pronunciation": "bˈɑːnɪt mˈʌnki",
       "senses": [
@@ -479,12 +527,13 @@
       ]
     },
     {
+      "id": "8156a2c7-a8c2-4eb2-af33-6a985751ba8e",
       "word": "ring-tailed lemur",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmluZy10YWlsZWQgbGVtdXI&hash=912c6f059a1d364bfa9789f9c4289ccebd02553b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɪng-teɪld li.mɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cmluZy10YWlsZWQgbGVtdXI&hash=912c6f059a1d364bfa9789f9c4289ccebd02553b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ring-teild li.mēr",
       "img": "https://cdn.langeek.co/photo/24228/original/?type=jpeg",
       "pronunciation": "ɹˈɪŋtˈeɪld lˈiːmɚ",
       "senses": [
@@ -495,12 +544,13 @@
       ]
     },
     {
+      "id": "8402d714-8681-434a-abf7-7bf0938909f1",
       "word": "galago",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2FsYWdv&hash=c2e73086cc01979cb6483e50c953cb6b6a443310&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gæ.leɪ.goʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2FsYWdv&hash=c2e73086cc01979cb6483e50c953cb6b6a443310&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gā.lei.gooo",
       "img": "https://cdn.langeek.co/photo/24070/original/?type=jpeg",
       "pronunciation": "ɡælˈeɪɡoʊ",
       "senses": [
@@ -511,12 +561,13 @@
       ]
     },
     {
+      "id": "53fffc65-a0a6-495f-9008-e35007f3c32d",
       "word": "loris",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9yaXM&hash=07f7f5d5a40a9980587e2b5faab8a70cae8f0071&lang=en&cache-only=0",
-      "phonetic_text": "lɔ:rɪs",
+      "phonetic_text": "lɔ.rɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9yaXM&hash=07f7f5d5a40a9980587e2b5faab8a70cae8f0071&lang=en&cache-only=0",
-      "phonetic_am_text": "laawris",
+      "phonetic_am_text": "law.ris",
       "img": "https://cdn.langeek.co/photo/34209/original/?type=jpeg",
       "pronunciation": "ˈɫɔɹɪs",
       "senses": [
@@ -527,12 +578,13 @@
       ]
     },
     {
+      "id": "d03bf394-8e55-4c7a-ad1c-7b792d3fff19",
       "word": "tarsier",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFyc2llcg&hash=c324411a69be29ed6d1ddc9f8cb5a2454e583bdc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɑ:r.sɪər",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFyc2llcg&hash=c324411a69be29ed6d1ddc9f8cb5a2454e583bdc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "taar.siēr",
       "img": "https://cdn.langeek.co/photo/34219/original/?type=jpeg",
       "pronunciation": "tˈɑːɹsɪɚ",
       "senses": [
@@ -543,12 +595,13 @@
       ]
     },
     {
+      "id": "7ee68938-1f5a-4065-9370-a082b1a867e0",
       "word": "saki",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FraQ&hash=e20fcc2622a3861326050adfce7128a44b92ba53&lang=en&cache-only=0",
-      "phonetic_text": "sɑ:ki",
+      "phonetic_text": "sɑ.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FraQ&hash=e20fcc2622a3861326050adfce7128a44b92ba53&lang=en&cache-only=0",
-      "phonetic_am_text": "saaki",
+      "phonetic_am_text": "saa.ki",
       "img": "",
       "pronunciation": "ˈsɑki",
       "senses": [
@@ -559,12 +612,13 @@
       ]
     },
     {
+      "id": "8bb6c2e3-e9af-4030-9469-fbd3a4d55340",
       "word": "douroucouli",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZG91cm91Y291bGk&hash=5054892666c169fb83d7c7dd6308db9a0c04e0ff&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "daɪʊ.raʊ.ku:.li",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG91cm91Y291bGk&hash=5054892666c169fb83d7c7dd6308db9a0c04e0ff&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "daioo.raoo.koo.li",
       "img": "",
       "pronunciation": "dˈaɪʊɹaʊkˌuːli",
       "senses": [
@@ -575,12 +629,13 @@
       ]
     },
     {
+      "id": "6b85331d-3b57-418c-a714-8dea4b90dad0",
       "word": "tamarin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFtYXJpbg&hash=4794e01474118ef38c3c5f303fa6630ab54ed7d5&lang=en&cache-only=0",
-      "phonetic_text": "tæmərən",
+      "phonetic_text": "tæ.mɜ.rən",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFtYXJpbg&hash=4794e01474118ef38c3c5f303fa6630ab54ed7d5&lang=en&cache-only=0",
-      "phonetic_am_text": "tāmērēn",
+      "phonetic_am_text": "tā.mē.rēn",
       "img": "https://cdn.langeek.co/photo/39935/original/?type=jpeg",
       "pronunciation": "ˈtæmɝən",
       "senses": [
@@ -591,12 +646,13 @@
       ]
     },
     {
+      "id": "e280f9ec-37ef-440e-b808-2ac809e16acf",
       "word": "uakari",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dWFrYXJp&hash=3b8f2049155bc1c5ecb00eaafd976840c7062883&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ju:a.kɑ:.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=dWFrYXJp&hash=3b8f2049155bc1c5ecb00eaafd976840c7062883&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "yooa.kaa.ri",
       "img": "https://cdn.langeek.co/photo/39967/original/?type=jpeg",
       "pronunciation": "jˌuːɐkˈɑːɹɹi",
       "senses": [
@@ -607,12 +663,13 @@
       ]
     },
     {
+      "id": "633d3e35-6c88-4805-ba36-5347165afbac",
       "word": "indri",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5kcmk&hash=0f96313d798c3bfed1e2020608c95c782dbb28cd&lang=en&cache-only=0",
-      "phonetic_text": "ɪndri:",
+      "phonetic_text": "ɪnd.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5kcmk&hash=0f96313d798c3bfed1e2020608c95c782dbb28cd&lang=en&cache-only=0",
-      "phonetic_am_text": "indree",
+      "phonetic_am_text": "ind.ri",
       "img": "https://cdn.langeek.co/photo/40017/original/?type=jpeg",
       "pronunciation": "ˌɪnˈdɹi",
       "senses": [
@@ -623,12 +680,13 @@
       ]
     },
     {
+      "id": "151201a2-e4cb-41ac-b951-0e811d69bcde",
       "word": "douc",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZG91Yw&hash=26c9df79c5ea26a389c82d7ad664a03908952b9b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "daʊk",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG91Yw&hash=26c9df79c5ea26a389c82d7ad664a03908952b9b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "daook",
       "img": "https://cdn.langeek.co/photo/39949/original/?type=jpeg",
       "pronunciation": "dˈaʊk",
       "senses": [
@@ -639,12 +697,13 @@
       ]
     },
     {
+      "id": "84b34c35-a70b-4be7-9330-7341de218a84",
       "word": "bonobo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9ub2Jv&hash=f329477a31bdbb0242d1745c36075979bf1ba57e&lang=en&cache-only=0",
-      "phonetic_text": "bɑnɑ:boʊ",
+      "phonetic_text": "bɑ.nə.bə",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9ub2Jv&hash=f329477a31bdbb0242d1745c36075979bf1ba57e&lang=en&cache-only=0",
-      "phonetic_am_text": "bɑnaabow",
+      "phonetic_am_text": "baa.nē.bē",
       "img": "https://cdn.langeek.co/photo/39623/original/?type=jpeg",
       "pronunciation": "ˈbɑnəbə/, /bɑˈnɑboʊ",
       "senses": [
@@ -655,12 +714,13 @@
       ]
     },
     {
+      "id": "4045fd75-3264-42c2-a585-b2b83603e21f",
       "word": "aye-aye",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXllLWF5ZQ&hash=f49ce93a60d1215721d8cc16814503ede55d0ad3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aɪ-aɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=YXllLWF5ZQ&hash=f49ce93a60d1215721d8cc16814503ede55d0ad3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ai-ai",
       "img": "https://cdn.langeek.co/photo/39923/original/?type=jpeg",
       "pronunciation": "ˈaɪˈaɪ",
       "senses": [
@@ -671,12 +731,13 @@
       ]
     },
     {
+      "id": "74408375-f478-4355-acd0-085f951e6da2",
       "word": "dwarf lemur",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHdhcmYgbGVtdXI&hash=07c3af2b52ae8d3db9a6049f7448678e35cd8528&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dwɔrf li.mɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHdhcmYgbGVtdXI&hash=07c3af2b52ae8d3db9a6049f7448678e35cd8528&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dvawrf li.mēr",
       "img": "",
       "pronunciation": "dwˈɔːɹf lˈiːmɚ",
       "senses": [
@@ -687,12 +748,13 @@
       ]
     },
     {
+      "id": "f1683e62-37d2-4941-912a-48cb56bff97a",
       "word": "mouse lemur",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW91c2UgbGVtdXI&hash=d9da0002ead6d816a474d17055300bb0b7ae3d4e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "maʊs li.mɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bW91c2UgbGVtdXI&hash=d9da0002ead6d816a474d17055300bb0b7ae3d4e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "maoos li.mēr",
       "img": "",
       "pronunciation": "mˈaʊs lˈiːmɚ",
       "senses": [
@@ -703,12 +765,13 @@
       ]
     },
     {
+      "id": "ed76f321-eda1-49c6-b5b1-154bf8434815",
       "word": "sifaka",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2lmYWth&hash=a754d9bd79369f214a146a5878f685ef26cbbc00&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɪ.fɑ:.kə",
       "phonetic_am": "https://tts.langeek.co/read?text=c2lmYWth&hash=a754d9bd79369f214a146a5878f685ef26cbbc00&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "si.faa.kē",
       "img": "https://cdn.langeek.co/photo/39961/original/?type=jpeg",
       "pronunciation": "sɪfˈɑːkə",
       "senses": [
@@ -719,12 +782,13 @@
       ]
     },
     {
+      "id": "b4eb7152-daf4-4790-96aa-6884884dab36",
       "word": "sportive lemur",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BvcnRpdmUgbGVtdXI&hash=a92425406e7acd610ab63deb1941439fa7e81b1e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spo:r.tɪv li.mɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BvcnRpdmUgbGVtdXI&hash=a92425406e7acd610ab63deb1941439fa7e81b1e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "spor.tiv li.mēr",
       "img": "",
       "pronunciation": "spˈoːɹɾɪv lˈiːmɚ",
       "senses": [
@@ -735,10 +799,11 @@
       ]
     },
     {
+      "id": "fbc0fb2f-cca6-46fa-9abe-d8e68cc61c1b",
       "word": "ruffed lemur",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cnVmZmVkIGxlbXVy&hash=73ec4ad5d75f3dcac127e3124cfcb7aae310a7a5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cnVmZmVkIGxlbXVy&hash=73ec4ad5d75f3dcac127e3124cfcb7aae310a7a5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/39931/original/?type=jpeg",
@@ -751,10 +816,11 @@
       ]
     },
     {
+      "id": "53394069-eacf-4eaf-bbc4-310fdf17e1da",
       "word": "woolly lemur",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d29vbGx5IGxlbXVy&hash=16735b7f09e74080a4552a766ac3994900529941&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=d29vbGx5IGxlbXVy&hash=16735b7f09e74080a4552a766ac3994900529941&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40005/original/?type=jpeg",
@@ -767,12 +833,13 @@
       ]
     },
     {
+      "id": "4db24ae2-1f80-4f55-8925-803f4ad13f7d",
       "word": "night monkey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmlnaHQgbW9ua2V5&hash=94d73a0551f44e8384ec291b79a6010436e105f4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "naɪt mʌn.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=bmlnaHQgbW9ua2V5&hash=94d73a0551f44e8384ec291b79a6010436e105f4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nait man.ki",
       "img": "",
       "pronunciation": "nˈaɪt mˈʌnki",
       "senses": [
@@ -783,12 +850,13 @@
       ]
     },
     {
+      "id": "366f37c0-ac4a-4970-9a3a-6e820baa8af1",
       "word": "western lowland gorilla",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2VzdGVybiBsb3dsYW5kIGdvcmlsbGE&hash=cccb8ee3a45c638e180e4708851d8d9daf243469&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɛs.tɜrn loʊ.lænd gə.rɪ.lə",
       "phonetic_am": "https://tts.langeek.co/read?text=d2VzdGVybiBsb3dsYW5kIGdvcmlsbGE&hash=cccb8ee3a45c638e180e4708851d8d9daf243469&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ves.tērn looo.lānd gē.ri.lē",
       "img": "https://cdn.langeek.co/photo/39715/original/?type=jpeg",
       "pronunciation": "wˈɛstɚn lˈoʊlənd ɡɚɹˈɪlə",
       "senses": [
@@ -799,12 +867,13 @@
       ]
     },
     {
+      "id": "e68b65ee-6971-4bd0-88f9-9ea5712b2dab",
       "word": "eastern lowland gorilla",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWFzdGVybiBsb3dsYW5kIGdvcmlsbGE&hash=74873088de0592ef522858c3a30f239c1ec1741a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "is.tɜrn loʊ.lænd gə.rɪ.lə",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWFzdGVybiBsb3dsYW5kIGdvcmlsbGE&hash=74873088de0592ef522858c3a30f239c1ec1741a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "is.tērn looo.lānd gē.ri.lē",
       "img": "",
       "pronunciation": "ˈiːstɚn lˈoʊlənd ɡɚɹˈɪlə",
       "senses": [
@@ -815,12 +884,13 @@
       ]
     },
     {
+      "id": "65ffd9fa-dbd3-454f-ac50-cbc7bff01c0b",
       "word": "mona monkey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9uYSBtb25rZXk&hash=68ed05f8dcc48bd6109be3958df604000af4006e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "moʊ.nə mʌn.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9uYSBtb25rZXk&hash=68ed05f8dcc48bd6109be3958df604000af4006e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mooo.nē man.ki",
       "img": "",
       "pronunciation": "mˈoʊnə mˈʌnki",
       "senses": [
@@ -831,12 +901,13 @@
       ]
     },
     {
+      "id": "b07e8700-ab8f-4765-8a3a-a9e121226645",
       "word": "mangabey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFuZ2FiZXk&hash=d0410e8aa77d9049d50e82381a9d38567265495e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mæn.geɪ.bi",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFuZ2FiZXk&hash=d0410e8aa77d9049d50e82381a9d38567265495e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mān.gei.bi",
       "img": "",
       "pronunciation": "mˈæŋɡeɪbi",
       "senses": [
@@ -847,12 +918,13 @@
       ]
     },
     {
+      "id": "161b1934-b486-4caa-89a7-5313e849aef2",
       "word": "langur",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFuZ3Vy&hash=44cb0bb2eee2435f016b5937c4a2956102b4e523&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "læn.gər",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFuZ3Vy&hash=44cb0bb2eee2435f016b5937c4a2956102b4e523&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lān.gēr",
       "img": "",
       "pronunciation": "lˈæŋɡɚ",
       "senses": [
@@ -863,12 +935,13 @@
       ]
     },
     {
+      "id": "99210992-3588-4742-ac5a-74c60f5074f1",
       "word": "snub-nosed monkey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c251Yi1ub3NlZCBtb25rZXk&hash=12c118f97f8058c2a5e35484c14f5613998053e0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "snəb-noʊzd mʌn.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=c251Yi1ub3NlZCBtb25rZXk&hash=12c118f97f8058c2a5e35484c14f5613998053e0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "snēb-nooozd man.ki",
       "img": "",
       "pronunciation": "snˈʌbnˈoʊzd mˈʌnki",
       "senses": [
@@ -879,12 +952,13 @@
       ]
     },
     {
+      "id": "5fc6c43b-7fee-45e4-be83-0b74e86f2ed4",
       "word": "talapoin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFsYXBvaW4&hash=cb9c2680370a726166320b0c691ccfb76e874717&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tæ.la.pɔɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFsYXBvaW4&hash=cb9c2680370a726166320b0c691ccfb76e874717&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tā.la.pawin",
       "img": "",
       "pronunciation": "tˈælɐpˌɔɪn",
       "senses": [
@@ -895,12 +969,13 @@
       ]
     },
     {
+      "id": "fb63b152-f404-446d-965d-7d65f8fb2a8d",
       "word": "muriqui",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXVyaXF1aQ&hash=44213dcb4e574d3dec300f2cce715e2d8f14af3e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mjʊ.rɪk.wi",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVyaXF1aQ&hash=44213dcb4e574d3dec300f2cce715e2d8f14af3e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "myoo.rik.vi",
       "img": "",
       "pronunciation": "mjˈʊɹɪkwi",
       "senses": [

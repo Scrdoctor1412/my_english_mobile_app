@@ -1,41 +1,75 @@
 {
+  "id": "124d5e1c-951d-4716-bbaf-275408902280",
   "topic": "words_related_to_home_and_garden",
   "title": "Kitchen Appliances",
   "lesson": "lesson_17",
   "word_list": [
     {
+      "id": "c044cc9b-fed0-4b12-8a4c-3caa23240934",
       "word": "refrigerator",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVmcmlnZXJhdG9y&hash=79ad7d25488a836dd539c725bf5d160d328a1d7a&lang=en&cache-only=0",
-      "phonetic_text": "rəfrɪʤəreɪtər",
+      "phonetic_text": "rɪf.rɪ.ʤə.reɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVmcmlnZXJhdG9y&hash=79ad7d25488a836dd539c725bf5d160d328a1d7a&lang=en&cache-only=0",
-      "phonetic_am_text": "rēfrijēreitēr",
+      "phonetic_am_text": "rif.ri.jē.rei.tēr",
       "img": "https://cdn.langeek.co/photo/49185/original/fridge?type=jpeg",
       "pronunciation": "rɪˈfrɪdʒəˌreɪtɚ",
       "senses": [
         {
           "definition": "an electrical equipment used to keep food and drinks cool and fresh",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I put leftovers in the refrigerator to save them for later."
+            },
+            {
+              "cf": "",
+              "x": "My mom keeps fruits and vegetables fresh in the refrigerator."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "77eacd52-c44d-43be-b744-42474eed4e76",
       "word": "freezer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnJlZXplcg&hash=0d0ad59116fe41d90992c64e101a6899948bd360&lang=en&cache-only=0",
-      "phonetic_text": "fri:zər",
+      "phonetic_text": "fri:.zər",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJlZXplcg&hash=0d0ad59116fe41d90992c64e101a6899948bd360&lang=en&cache-only=0",
-      "phonetic_am_text": "freezēr",
+      "phonetic_am_text": "fri.zēr",
       "img": "https://cdn.langeek.co/photo/19456/original/freezer?type=jpeg",
-      "pronunciation": "ˈfɹizɝ",
+      "pronunciation": "ˈfriːzɚ",
       "senses": [
         {
           "definition": "an electrical container that can store food for a long time at a temperature that is very low",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She stored the meat in the freezer to keep it fresh."
+            },
+            {
+              "cf": "",
+              "x": "The freezer is full of frozen vegetables and ice cream."
+            },
+            {
+              "cf": "",
+              "x": "He bought a chest freezer for additional storage."
+            },
+            {
+              "cf": "",
+              "x": "The freezer door was left open, causing the food to thaw."
+            },
+            {
+              "cf": "",
+              "x": "He found an old pack of berries at the back of the freezer."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "58533f9b-d9ff-4454-a0cf-def169887384",
       "word": "range",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFuZ2U&hash=d6384dbb890bf95be7da62a4fb065ed7f141de48&lang=en&cache-only=0",
@@ -52,62 +86,129 @@
       ]
     },
     {
+      "id": "4e919239-13f1-4867-8652-aa50b767e613",
       "word": "microwave",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWljcm93YXZl&hash=1b5f7709cda98979adcefbcf7856130fb3293c0e&lang=en&cache-only=0",
-      "phonetic_text": "maɪkrəweɪv",
+      "phonetic_text": "maɪk.roʊ.weɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=bWljcm93YXZl&hash=1b5f7709cda98979adcefbcf7856130fb3293c0e&lang=en&cache-only=0",
-      "phonetic_am_text": "maikrēweiv",
+      "phonetic_am_text": "maik.rooo.veiv",
       "img": "https://cdn.langeek.co/photo/20926/original/microwave?type=jpeg",
-      "pronunciation": "ˈmaɪkɹəˌweɪv",
+      "pronunciation": "ˈmaɪkroʊˌweɪv",
       "senses": [
         {
           "definition": "a kitchen appliance that uses electricity to quickly heat or cook food",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She quickly heated up leftovers in the microwave for a quick lunch before heading back to work."
+            },
+            {
+              "cf": "",
+              "x": "The microwave has a defrost setting that makes it easy to prepare frozen food in no time."
+            },
+            {
+              "cf": "",
+              "x": "He was amazed at how the microwave could cook a potato in just a few minutes."
+            },
+            {
+              "cf": "",
+              "x": "Always be careful when removing items from the microwave, as they can be very hot."
+            },
+            {
+              "cf": "",
+              "x": "The kitchen is equipped with a new microwave that has multiple settings for cooking and reheating food."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "4ea28772-103e-4277-a64f-27b10dd2d67b",
       "word": "coffee maker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29mZmVlIG1ha2Vy&hash=e034f3c9a78daa27544234d1a9a7795b7d44e807&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑ:.fi meɪ.kər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29mZmVlIG1ha2Vy&hash=e034f3c9a78daa27544234d1a9a7795b7d44e807&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaa.fi mei.kēr",
       "img": "https://cdn.langeek.co/photo/39059/original/coffee-maker?type=jpeg",
       "pronunciation": "ˈkɑːfi ˈmeɪkɚ",
       "senses": [
         {
           "definition": "a machine used for making coffee",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She cleaned the coffee maker's filter to remove any coffee residue."
+            },
+            {
+              "cf": "",
+              "x": "She used a paper filter in the coffee maker to prevent grounds from getting into the coffee."
+            },
+            {
+              "cf": "",
+              "x": "She uses a coffee maker every morning to brew her favorite coffee."
+            },
+            {
+              "cf": "",
+              "x": "The coffee maker makes a sound when the brewing process is complete."
+            },
+            {
+              "cf": "",
+              "x": "The coffee maker's warming plate keeps the coffee hot until you're ready to drink it."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "16b328e4-6548-438b-9657-b4cdd13f371d",
       "word": "blender",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmxlbmRlcg&hash=e086909e164c9306a7015ab601ee8ee24a79f321&lang=en&cache-only=0",
-      "phonetic_text": "blɛndər",
+      "phonetic_text": "blɛn.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YmxlbmRlcg&hash=e086909e164c9306a7015ab601ee8ee24a79f321&lang=en&cache-only=0",
-      "phonetic_am_text": "blendēr",
+      "phonetic_am_text": "blen.dēr",
       "img": "https://cdn.langeek.co/photo/50779/original/blender?type=jpeg",
       "pronunciation": "ˈbɫɛndɝ",
       "senses": [
         {
           "definition": "an electrical device used to blend, mix, or puree food and liquids into a smooth consistency",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She used the blender to make a fruit smoothie with bananas, strawberries, and yogurt."
+            },
+            {
+              "cf": "",
+              "x": "The chef used a blender to puree the soup until it was silky smooth."
+            },
+            {
+              "cf": "",
+              "x": "He enjoys making homemade sauces and dips using his high-speed blender."
+            },
+            {
+              "cf": "",
+              "x": "The blender is essential for creating frozen cocktails and beverages at parties."
+            },
+            {
+              "cf": "",
+              "x": "A powerful blender can crush ice and blend ingredients for refreshing frozen drinks in seconds."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "3dbefd9e-636f-411f-bd2c-512a692e0f22",
       "word": "food processor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9vZCBwcm9jZXNzb3I&hash=2546e62cc0384cc0ebcf584ca8ff6d36f800852d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fu:d prɑ.sɛ.sɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9vZCBwcm9jZXNzb3I&hash=2546e62cc0384cc0ebcf584ca8ff6d36f800852d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "food praa.se.sēr",
       "img": "https://cdn.langeek.co/photo/19454/original/food-processor?type=jpeg",
-      "pronunciation": "fˈuːd pɹˈɑːsɛsɚ",
+      "pronunciation": "fuːd ˈprɑːsɛsɚ",
       "senses": [
         {
           "definition": "an electric kitchen appliance used to chop, slice, shred, or puree food",
@@ -137,14 +238,15 @@
       ]
     },
     {
+      "id": "2a23ecac-895a-41b0-9585-85073b1417a2",
       "word": "juicer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=anVpY2Vy&hash=660129c20ede76ebbf1e597e1352f1f77f3122eb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤu:.sər",
       "phonetic_am": "https://tts.langeek.co/read?text=anVpY2Vy&hash=660129c20ede76ebbf1e597e1352f1f77f3122eb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "joo.sēr",
       "img": "https://cdn.langeek.co/photo/20287/original/juicer?type=jpeg",
-      "pronunciation": "dʒˈuːsɚ",
+      "pronunciation": "ˈʤuːsɚ",
       "senses": [
         {
           "definition": "an electric kitchen tool used for removing the juice of fruits and vegetables",
@@ -174,12 +276,13 @@
       ]
     },
     {
+      "id": "4bd61b5e-af7a-465c-b643-f309d8f4190f",
       "word": "slow cooker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2xvdyBjb29rZXI&hash=5597bdb960a6c630a21e319fdd4278cc4cc91329&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sloʊ kʊ.kɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c2xvdyBjb29rZXI&hash=5597bdb960a6c630a21e319fdd4278cc4cc91329&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "slooo koo.kēr",
       "img": "https://cdn.langeek.co/photo/26622/original/?type=jpeg",
       "pronunciation": "slˈoʊ kˈʊkɚ",
       "senses": [
@@ -190,12 +293,13 @@
       ]
     },
     {
+      "id": "6375b4e9-3f9a-4570-a24f-c1cf51ec2da9",
       "word": "electric kettle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWxlY3RyaWMga2V0dGxl&hash=b335e80229ee973d955a33a5e4fec272c249f775&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪ.lɛkt.rɪk kɛ.təl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWxlY3RyaWMga2V0dGxl&hash=b335e80229ee973d955a33a5e4fec272c249f775&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "i.lekt.rik ke.tēl",
       "img": "https://cdn.langeek.co/photo/50781/original/kettle?type=jpeg",
       "pronunciation": "ɪlˈɛktɹɪk kˈɛɾəl",
       "senses": [
@@ -227,12 +331,13 @@
       ]
     },
     {
+      "id": "43d46ba8-b98a-4668-a0cb-9f429c15f447",
       "word": "stand mixer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RhbmQgbWl4ZXI&hash=f60677455876e5db79f7e213601d3f9cc15b21c9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stænd mɪk.sɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RhbmQgbWl4ZXI&hash=f60677455876e5db79f7e213601d3f9cc15b21c9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "stānd mik.sēr",
       "img": "https://cdn.langeek.co/photo/42404/original/?type=jpeg",
       "pronunciation": "stˈænd mˈɪksɚ",
       "senses": [
@@ -260,12 +365,13 @@
       ]
     },
     {
+      "id": "29682ecf-f0b1-4574-a377-e13aabc8c3cc",
       "word": "bread maker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJlYWQgbWFrZXI&hash=bccee5550e9e1573f1c73adc9fbe19b2116c97a6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "brɛd meɪ.kər",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJlYWQgbWFrZXI&hash=bccee5550e9e1573f1c73adc9fbe19b2116c97a6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bred mei.kēr",
       "img": "https://cdn.langeek.co/photo/42398/original/?type=jpeg",
       "pronunciation": "bɹˈɛd mˈeɪkɚ",
       "senses": [
@@ -297,12 +403,13 @@
       ]
     },
     {
+      "id": "2ca9dff1-9c5c-42e3-9bb2-7404616bbcfa",
       "word": "rice cooker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmljZSBjb29rZXI&hash=5823cdf88fbd0f0f8197bcd12a3757fd7deeff8d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "raɪs kʊ.kɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cmljZSBjb29rZXI&hash=5823cdf88fbd0f0f8197bcd12a3757fd7deeff8d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rais koo.kēr",
       "img": "https://cdn.langeek.co/photo/37495/original/?type=jpeg",
       "pronunciation": "ɹaɪs kʊkɚ",
       "senses": [
@@ -313,10 +420,11 @@
       ]
     },
     {
+      "id": "7c73a39c-e92f-4e05-8f09-b8198e543e24",
       "word": "fryer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnJ5ZXI&hash=6c9d7c4654e7ca7f35eb62bc183bd25d7363e20b&lang=en&cache-only=0",
-      "phonetic_text": "fraɪər",
+      "phonetic_text": "fraɪɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJ5ZXI&hash=6c9d7c4654e7ca7f35eb62bc183bd25d7363e20b&lang=en&cache-only=0",
       "phonetic_am_text": "fraiēr",
       "img": "https://cdn.langeek.co/photo/38156/original/?type=jpeg",
@@ -329,76 +437,157 @@
       ]
     },
     {
+      "id": "eee08869-0fbc-4220-b04a-363ff8372012",
       "word": "ice maker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aWNlIG1ha2Vy&hash=ce45f7207b115ee04079f2daefe9a1234049c214&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aɪs meɪ.kər",
       "phonetic_am": "https://tts.langeek.co/read?text=aWNlIG1ha2Vy&hash=ce45f7207b115ee04079f2daefe9a1234049c214&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ais mei.kēr",
       "img": "",
       "pronunciation": "ˈaɪs mˈeɪkɚ",
       "senses": [
         {
           "definition": "a machine used for producing ice cubes, typically found in refrigerators or as standalone units",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The ice maker in the refrigerator is working perfectly, so we always have fresh ice ready for drinks."
+            },
+            {
+              "cf": "",
+              "x": "She noticed that the ice maker wasn't working, so she called a technician to fix it."
+            },
+            {
+              "cf": "",
+              "x": "I cleaned the ice maker this morning, and now it's making ice faster than ever."
+            },
+            {
+              "cf": "",
+              "x": "The ice maker in the office kitchen runs nonstop during summer to keep up with everyone's cold drink requests."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "64799217-7b6b-403a-b2eb-0bf8ae93b5c1",
       "word": "oven",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3Zlbg&hash=0d56b219be6669928ae0f6b21914ff2103ae0ff5&lang=en&cache-only=0",
-      "phonetic_text": "ʌvən",
+      "phonetic_text": "ʌ.vən",
       "phonetic_am": "https://tts.langeek.co/read?text=b3Zlbg&hash=0d56b219be6669928ae0f6b21914ff2103ae0ff5&lang=en&cache-only=0",
-      "phonetic_am_text": "avēn",
+      "phonetic_am_text": "a.vēn",
       "img": "https://cdn.langeek.co/photo/50787/original/?type=jpeg",
       "pronunciation": "ˈʌvən",
       "senses": [
         {
           "definition": "a box-shaped piece of equipment with a front door that is usually part of a stove, used for baking, cooking, or heating food",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He used the oven's timer to remind him to check on the cookies."
+            },
+            {
+              "cf": "",
+              "x": "She accidentally burned her hand while reaching into the hot oven."
+            },
+            {
+              "cf": "",
+              "x": "The oven's temperature knob can be adjusted for precise cooking."
+            },
+            {
+              "cf": "",
+              "x": "They roasted a whole chicken in the oven for Sunday dinner."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "cd5e4422-39e2-4a32-9ebf-28fb4a960b72",
       "word": "pressure cooker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJlc3N1cmUgY29va2Vy&hash=47961b2903051e96ed08e6c160d9eebdcb772507&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "prɛ.ʃɜr kʊ.kɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJlc3N1cmUgY29va2Vy&hash=47961b2903051e96ed08e6c160d9eebdcb772507&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pre.shēr koo.kēr",
       "img": "https://cdn.langeek.co/photo/50767/original/pressure-cooker?type=jpeg",
-      "pronunciation": "pɹˈɛʃɚ kˈʊkɚ",
+      "pronunciation": "ˈprɛʃɚ ˈkʊkɚ",
       "senses": [
         {
           "definition": "a pot that has a tight lid and can quickly cook food using high-pressure steam",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She used a pressure cooker to make a stew in under an hour."
+            },
+            {
+              "cf": "",
+              "x": "The pressure cooker reduces cooking time significantly."
+            },
+            {
+              "cf": "",
+              "x": "Always release the steam safely when using a pressure cooker."
+            },
+            {
+              "cf": "",
+              "x": "He prepared tender meat using the pressure cooker."
+            },
+            {
+              "cf": "",
+              "x": "He learned to use the pressure cooker by following online tutorials."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1d282692-2ebc-427a-90c1-5f2a928d26d0",
       "word": "ice cream maker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aWNlIGNyZWFtIG1ha2Vy&hash=bbf1b2206c6a6f9b3386105c9ccfb629b12df8d7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aɪs kri:m meɪ.kər",
       "phonetic_am": "https://tts.langeek.co/read?text=aWNlIGNyZWFtIG1ha2Vy&hash=bbf1b2206c6a6f9b3386105c9ccfb629b12df8d7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ais krim mei.kēr",
       "img": "https://cdn.langeek.co/photo/42402/original/?type=jpeg",
       "pronunciation": "ˈaɪs kɹˈiːm mˈeɪkɚ",
       "senses": [
         {
           "definition": "a machine used for freezing and mixing ice cream, sorbet, and frozen yogurt, with a motorized unit, a mixing paddle, and a container for the mixture",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The ice cream maker churned the mixture until it was smooth and ready to serve."
+            },
+            {
+              "cf": "",
+              "x": "She used her new ice cream maker to create a batch of vanilla bean ice cream for dessert."
+            },
+            {
+              "cf": "",
+              "x": "The ice cream maker came with a recipe book full of ideas for frozen desserts."
+            },
+            {
+              "cf": "",
+              "x": "After assembling the ice cream maker, he poured in the ingredients and set the timer."
+            },
+            {
+              "cf": "",
+              "x": "Using the ice cream maker, he made a dairy-free sorbet with fresh berries."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "846e959d-b236-4c86-adcf-2b21916ea47f",
       "word": "electric grill",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWxlY3RyaWMgZ3JpbGw&hash=1e53a316c37f7e4af70f070ac0cfa352c1ed2911&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪ.lɛkt.rɪk grɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWxlY3RyaWMgZ3JpbGw&hash=1e53a316c37f7e4af70f070ac0cfa352c1ed2911&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "i.lekt.rik gril",
       "img": "",
       "pronunciation": "ɪlˈɛktɹɪk ɡɹˈɪl",
       "senses": [
@@ -430,12 +619,13 @@
       ]
     },
     {
+      "id": "f881ded6-c338-4688-8124-3ee860078794",
       "word": "air fryer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWlyIGZyeWVy&hash=56a002c4eff2084906daa888b789058fed342f9f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛr fraɪɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YWlyIGZyeWVy&hash=56a002c4eff2084906daa888b789058fed342f9f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "er fraiēr",
       "img": "https://cdn.langeek.co/photo/37433/original/?type=jpeg",
       "pronunciation": "ɛɹ fɹaɪɚ",
       "senses": [
@@ -446,10 +636,11 @@
       ]
     },
     {
+      "id": "239b01f5-57c3-44d2-b906-0d917aba9e08",
       "word": "food dehydrator",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9vZCBkZWh5ZHJhdG9y&hash=c2b388cad9ef87e165e18db0449ed5979774601b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9vZCBkZWh5ZHJhdG9y&hash=c2b388cad9ef87e165e18db0449ed5979774601b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42442/original/?type=jpeg",
@@ -483,12 +674,13 @@
       ]
     },
     {
+      "id": "6c49c1b5-8232-4405-af23-9f8fbc313ae9",
       "word": "water dispenser",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2F0ZXIgZGlzcGVuc2Vy&hash=efdd8fa7d820650036398332ad1de449b4f00c48&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɑ:.tər dɪs.pɛn.sɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=d2F0ZXIgZGlzcGVuc2Vy&hash=efdd8fa7d820650036398332ad1de449b4f00c48&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vaa.tēr dis.pen.sēr",
       "img": "https://cdn.langeek.co/photo/38038/original/?type=jpeg",
       "pronunciation": "wɔːɾɚ dɪspɛnsɚ",
       "senses": [
@@ -499,12 +691,13 @@
       ]
     },
     {
+      "id": "533ab317-118e-4e78-a4f7-935103559996",
       "word": "meat grinder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWVhdCBncmluZGVy&hash=7d6f102f6f851e17f78ba3802f0528e265050390&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mi:t graɪn.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bWVhdCBncmluZGVy&hash=7d6f102f6f851e17f78ba3802f0528e265050390&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mit grain.dēr",
       "img": "https://cdn.langeek.co/photo/26570/original/?type=jpeg",
       "pronunciation": "mˈiːt ɡɹˈaɪndɚ",
       "senses": [
@@ -515,28 +708,47 @@
       ]
     },
     {
+      "id": "7629dcf5-1d4f-4769-ae5c-44e177148cc6",
       "word": "handheld mixer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFuZGhlbGQgbWl4ZXI&hash=0725f753e1a1f3d81a70e73cfadfce7b4219d33a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hænd.hɛld mɪk.sɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFuZGhlbGQgbWl4ZXI&hash=0725f753e1a1f3d81a70e73cfadfce7b4219d33a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hānd.held mik.sēr",
       "img": "https://cdn.langeek.co/photo/37435/original/?type=jpeg",
       "pronunciation": "hˈændhɛld mˈɪksɚ",
       "senses": [
         {
           "definition": "a portable kitchen appliance used for mixing and blending ingredients, typically featuring a motorized body with a handle, one or two beaters or whisks, and speed controls",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The handheld mixer is perfect for whipping cream quickly and evenly."
+            },
+            {
+              "cf": "",
+              "x": "She used the handheld mixer to blend the cake batter until it was smooth."
+            },
+            {
+              "cf": "",
+              "x": "After adding the eggs, he grabbed the handheld mixer to combine all the ingredients."
+            },
+            {
+              "cf": "",
+              "x": "Using the handheld mixer, they were able to make a fluffy meringue for the pie topping."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "dc44c042-baba-4582-80a4-59941c0c7a2c",
       "word": "espresso machine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXNwcmVzc28gbWFjaGluZQ&hash=c7d26a0373d43b646b0e96289223f3b1533fb710&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛsp.rɛ.soʊ mə.ʃin",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXNwcmVzc28gbWFjaGluZQ&hash=c7d26a0373d43b646b0e96289223f3b1533fb710&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "esp.re.sooo mē.shin",
       "img": "https://cdn.langeek.co/photo/14659/original/espresso-machine?type=jpeg",
       "pronunciation": "ɛspɹˈɛsoʊ məʃˈiːn",
       "senses": [
@@ -547,44 +759,85 @@
       ]
     },
     {
+      "id": "6296053a-26de-43e1-9d13-740cdbc1547c",
       "word": "toaster oven",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dG9hc3RlciBvdmVu&hash=837443a36c08a347ca53b531531ec09a4c75d13e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "toʊs.tɜr ʌ.vən",
       "phonetic_am": "https://tts.langeek.co/read?text=dG9hc3RlciBvdmVu&hash=837443a36c08a347ca53b531531ec09a4c75d13e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tooos.tēr a.vēn",
       "img": "https://cdn.langeek.co/photo/27063/original/oven?type=jpeg",
       "pronunciation": "ˈtoʊstɚ ˈʌvən",
       "senses": [
         {
           "definition": "an electrical appliance, designed like a small oven that can function as an oven or a toaster",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She uses a toaster oven to quickly toast her bread in the morning."
+            },
+            {
+              "cf": "",
+              "x": "The toaster oven's compact size makes it ideal for small kitchens."
+            },
+            {
+              "cf": "",
+              "x": "The toaster oven's door should be closed tightly during cooking to retain heat."
+            },
+            {
+              "cf": "",
+              "x": "They bought a toaster oven with a digital display for precise cooking."
+            },
+            {
+              "cf": "",
+              "x": "They used the toaster oven to make open-faced sandwiches for lunch."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c6aa7c65-b245-4154-9385-e6b6906b68ae",
       "word": "blender food processor combo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmxlbmRlciBmb29kIHByb2Nlc3NvciBjb21ibw&hash=04631c4b12f754ab39b1e69a0223b483748fb71a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "blɛn.dɜr fu:d prɑ.sɛ.sɜr kɑm.boʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=YmxlbmRlciBmb29kIHByb2Nlc3NvciBjb21ibw&hash=04631c4b12f754ab39b1e69a0223b483748fb71a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "blen.dēr food praa.se.sēr kaam.booo",
       "img": "",
       "pronunciation": "blˈɛndɚ fˈuːd pɹˈɑːsɛsɚ kˈɑːmboʊ",
       "senses": [
         {
           "definition": "a multifunctional kitchen appliance that combines the functions of both a blender and a food processor in one unit",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She used her blender food processor combo to make fresh salsa and a creamy sauce."
+            },
+            {
+              "cf": "",
+              "x": "The blender food processor combo made it easy to prepare smoothies and chop vegetables for dinner."
+            },
+            {
+              "cf": "",
+              "x": "The convenience of the blender food processor combo saves time when preparing large meals."
+            },
+            {
+              "cf": "",
+              "x": "He made a smoothie and shredded cheese with a single blender food processor combo."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "3bd32f23-8bc9-461e-a7ec-8cd4bbf91b6f",
       "word": "electric can opener",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWxlY3RyaWMgY2FuIG9wZW5lcg&hash=e6ecdf313bc2ab7e3f4b016a6db9ae6fee7ce423&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪ.lɛkt.rɪk kæn oʊ.pə.nɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWxlY3RyaWMgY2FuIG9wZW5lcg&hash=e6ecdf313bc2ab7e3f4b016a6db9ae6fee7ce423&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "i.lekt.rik kān ooo.pē.nēr",
       "img": "https://cdn.langeek.co/photo/42400/original/?type=jpeg",
       "pronunciation": "ɪlˈɛktɹɪk kæn ˈoʊpənɚ",
       "senses": [
@@ -612,12 +865,13 @@
       ]
     },
     {
+      "id": "296d30f8-0fb9-4178-ba4b-598437b4f483",
       "word": "popcorn maker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9wY29ybiBtYWtlcg&hash=dc22e73a8608fb53c819321d966cea5c95596ed3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɑp.kɔrn meɪ.kər",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9wY29ybiBtYWtlcg&hash=dc22e73a8608fb53c819321d966cea5c95596ed3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "paap.kawrn mei.kēr",
       "img": "https://cdn.langeek.co/photo/42446/original/?type=jpeg",
       "pronunciation": "pˈɑːpkɔːɹn mˈeɪkɚ",
       "senses": [
@@ -645,12 +899,13 @@
       ]
     },
     {
+      "id": "1ed62f91-06b0-49b2-961b-ac6606050e9c",
       "word": "indoor smoker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5kb29yIHNtb2tlcg&hash=60d50fdc26090e5c70b53811466a852eaa626b5b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn.dɔr smoʊ.kɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5kb29yIHNtb2tlcg&hash=60d50fdc26090e5c70b53811466a852eaa626b5b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in.dawr smooo.kēr",
       "img": "",
       "pronunciation": "ˈɪndoːɹ smˈoʊkɚ",
       "senses": [
@@ -678,12 +933,13 @@
       ]
     },
     {
+      "id": "081f769a-eb64-455f-9977-e58ca31e2a88",
       "word": "wine cooler",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2luZSBjb29sZXI&hash=95d77077dcce9b2a371e3691b74175e754b30a53&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "waɪn ku.lɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luZSBjb29sZXI&hash=95d77077dcce9b2a371e3691b74175e754b30a53&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vain koo.lēr",
       "img": "",
       "pronunciation": "wˈaɪn kˈuːlɚ",
       "senses": [
@@ -694,60 +950,127 @@
       ]
     },
     {
+      "id": "232c78df-14fd-49be-9c59-616382560c9b",
       "word": "beverage cooler",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmV2ZXJhZ2UgY29vbGVy&hash=84caf05bd9438c96701239d987551ce464bd5101&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɛ.vɜ.rɪʤ ku.lɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YmV2ZXJhZ2UgY29vbGVy&hash=84caf05bd9438c96701239d987551ce464bd5101&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "be.vē.rij koo.lēr",
       "img": "https://cdn.langeek.co/photo/42396/original/?type=jpeg",
       "pronunciation": "bˈɛvɚɹɪdʒ kˈuːlɚ",
       "senses": [
         {
           "definition": "a device used to keep beverages, such as sodas, juices, and energy drinks, at a cool and consistent temperature",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I placed the soda cans in the beverage cooler to keep them cold for the party."
+            },
+            {
+              "cf": "",
+              "x": "The beverage cooler in the office breakroom is always stocked with water and juice."
+            },
+            {
+              "cf": "",
+              "x": "He set up a beverage cooler near the patio to keep drinks chilled for the barbecue."
+            },
+            {
+              "cf": "",
+              "x": "The beverage cooler keeps my drinks at the perfect temperature for hours."
+            },
+            {
+              "cf": "",
+              "x": "I need to find a beverage cooler with more space to store all the drinks for the event."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "07e69bab-2242-48b8-9c05-4c70e67b074d",
       "word": "tea maker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVhIG1ha2Vy&hash=62d25e42117d2de765881545b3b449a8b2ce39e8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ti: meɪ.kər",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVhIG1ha2Vy&hash=62d25e42117d2de765881545b3b449a8b2ce39e8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ti mei.kēr",
       "img": "",
       "pronunciation": "tˈiː mˈeɪkɚ",
       "senses": [
         {
           "definition": "a device that is used to brew tea by steeping tea leaves or tea bags in hot water",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The tea maker quickly brewed my favorite green tea with the perfect temperature."
+            },
+            {
+              "cf": "",
+              "x": "She used the tea maker to prepare a pot of herbal tea before breakfast."
+            },
+            {
+              "cf": "",
+              "x": "I forgot to turn off the tea maker, but it automatically shut off after the tea was ready."
+            },
+            {
+              "cf": "",
+              "x": "The tea maker is a great addition to my kitchen, making it simple to enjoy tea any time of day."
+            },
+            {
+              "cf": "",
+              "x": "He bought a new tea maker that keeps the tea warm for hours after it's brewed."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0d2ec189-7870-49b0-824c-4ebe1b7dbbcf",
       "word": "range hood",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFuZ2UgaG9vZA&hash=cdf818fa4d781b1c66e55e407a92dc8ee25b2d65&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "reɪnʤ hʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=cmFuZ2UgaG9vZA&hash=cdf818fa4d781b1c66e55e407a92dc8ee25b2d65&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "reinj hood",
       "img": "https://cdn.langeek.co/photo/18802/original/kitchen-hood?type=jpeg",
       "pronunciation": "ɹˈeɪndʒ hˈʊd",
       "senses": [
         {
           "definition": "an electrical device fixed above the stove that can remove smoke, steam, or unpleasant smells in the kitchen",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The chef turned on the range hood to clear the smoke while cooking."
+            },
+            {
+              "cf": "",
+              "x": "A powerful range hood is essential in the kitchen to keep the air fresh."
+            },
+            {
+              "cf": "",
+              "x": "The range hood filtered out the strong smell of garlic and onions from the cooking process."
+            },
+            {
+              "cf": "",
+              "x": "After frying the fish, I always run the range hood to remove the lingering odor."
+            },
+            {
+              "cf": "",
+              "x": "The range hood lights helped me see better while cooking dinner late at night."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "515b3d1c-a8c8-4203-aaa8-a46df3f352a4",
       "word": "hot plate",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG90IHBsYXRl&hash=1f6f3f7b7cc91242e0a519400bbb6a857c4fb600&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɑ:t pleɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=aG90IHBsYXRl&hash=1f6f3f7b7cc91242e0a519400bbb6a857c4fb600&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "haat pleit",
       "img": "https://cdn.langeek.co/photo/30764/original/?type=jpeg",
       "pronunciation": "hˈɑːt plˈeɪt",
       "senses": [
@@ -758,12 +1081,13 @@
       ]
     },
     {
+      "id": "5356b53f-0ecb-403c-bbda-20ea4bfef1e0",
       "word": "pasta maker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFzdGEgbWFrZXI&hash=0d84a5065deff15a34fe9d2659236fd32625d2f2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɑ:s.tə meɪ.kər",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFzdGEgbWFrZXI&hash=0d84a5065deff15a34fe9d2659236fd32625d2f2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "paas.tē mei.kēr",
       "img": "https://cdn.langeek.co/photo/42444/original/?type=jpeg",
       "pronunciation": "pˈɑːstə mˈeɪkɚ",
       "senses": [
@@ -791,12 +1115,13 @@
       ]
     },
     {
+      "id": "235958a8-cd9f-4728-ae46-0c89bbdb33f9",
       "word": "egg cooker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWdnIGNvb2tlcg&hash=839bcceb2f2246655b624adbc6646592e054dcc1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛg kʊ.kɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWdnIGNvb2tlcg&hash=839bcceb2f2246655b624adbc6646592e054dcc1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "eg koo.kēr",
       "img": "https://cdn.langeek.co/photo/50819/original/?type=jpeg",
       "pronunciation": "ˈɛɡ kˈʊkɚ",
       "senses": [
@@ -824,28 +1149,51 @@
       ]
     },
     {
+      "id": "d95bc48c-7397-44ef-9646-d64e90c0f5cf",
       "word": "electric knife",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWxlY3RyaWMga25pZmU&hash=5b4227cd25369fc344109b636d7b0cfc8cf9badb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪ.lɛkt.rɪk naɪf",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWxlY3RyaWMga25pZmU&hash=5b4227cd25369fc344109b636d7b0cfc8cf9badb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "i.lekt.rik naif",
       "img": "https://cdn.langeek.co/photo/42406/original/?type=jpeg",
       "pronunciation": "ɪlˈɛktɹɪk nˈaɪf",
       "senses": [
         {
           "definition": "a kitchen tool that uses an electric motor to power two serrated blades that move back and forth to quickly and easily cut through meats, breads, and other foods",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She used an electric knife to carve the turkey for Thanksgiving dinner."
+            },
+            {
+              "cf": "",
+              "x": "The electric knife made slicing the roast beef much easier."
+            },
+            {
+              "cf": "",
+              "x": "He pulled out the electric knife to cut through the dense bread loaf."
+            },
+            {
+              "cf": "",
+              "x": "For the holiday meal, the chef used an electric knife to quickly prepare the meat."
+            },
+            {
+              "cf": "",
+              "x": "I prefer using an electric knife when I need to slice a large ham evenly."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "21965fa7-d4d5-4ffe-8a82-654470e533d6",
       "word": "broiler",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJvaWxlcg&hash=9193504b1d17dc10b532794090dcb1ca10cb60b4&lang=en&cache-only=0",
-      "phonetic_text": "brɔɪlər",
+      "phonetic_text": "brɔɪ.lɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJvaWxlcg&hash=9193504b1d17dc10b532794090dcb1ca10cb60b4&lang=en&cache-only=0",
-      "phonetic_am_text": "broylēr",
+      "phonetic_am_text": "brawi.lēr",
       "img": "https://cdn.langeek.co/photo/20968/original/?type=jpeg",
       "pronunciation": "ˈbɹɔɪɫɝ",
       "senses": [
@@ -856,12 +1204,13 @@
       ]
     },
     {
+      "id": "bdf660c6-c4c1-4463-86a7-3a9a1632adeb",
       "word": "sandwich maker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FuZHdpY2ggbWFrZXI&hash=6b1abc1d7d278542598ce8dfba48705ed92eb355&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sænd.wɪʧ meɪ.kər",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FuZHdpY2ggbWFrZXI&hash=6b1abc1d7d278542598ce8dfba48705ed92eb355&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sānd.vich mei.kēr",
       "img": "https://cdn.langeek.co/photo/37443/original/?type=jpeg",
       "pronunciation": "sˈændwɪtʃ mˈeɪkɚ",
       "senses": [
@@ -893,12 +1242,13 @@
       ]
     },
     {
+      "id": "ebffe627-7e32-4b9c-ad84-43a8da91eb83",
       "word": "convection oven",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29udmVjdGlvbiBvdmVu&hash=fc088e0230e71b7e28179d4f71f35f755d60cba3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kən.vɛk.ʃən ʌ.vən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29udmVjdGlvbiBvdmVu&hash=fc088e0230e71b7e28179d4f71f35f755d60cba3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kēn.vek.shēn a.vēn",
       "img": "https://cdn.langeek.co/photo/26540/original/?type=jpeg",
       "pronunciation": "kənvˈɛkʃən ˈʌvən",
       "senses": [
@@ -909,12 +1259,13 @@
       ]
     },
     {
+      "id": "bf24d00a-5aa5-4959-82b0-c1dff39454fe",
       "word": "steamer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RlYW1lcg&hash=06be39daa561585b08503b275fedb81742ce97b2&lang=en&cache-only=0",
-      "phonetic_text": "sti:mər",
+      "phonetic_text": "sti.mɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RlYW1lcg&hash=06be39daa561585b08503b275fedb81742ce97b2&lang=en&cache-only=0",
-      "phonetic_am_text": "steemēr",
+      "phonetic_am_text": "sti.mēr",
       "img": "https://cdn.langeek.co/photo/26668/original/?type=jpeg",
       "pronunciation": "ˈstimɝ",
       "senses": [
@@ -925,12 +1276,13 @@
       ]
     },
     {
+      "id": "7a7dbb69-33f5-49ea-87bf-be3d6b4a30cb",
       "word": "toaster",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dG9hc3Rlcg&hash=f469ec6d65e4c6e33bff6ea16f0b5d8f50d59103&lang=en&cache-only=0",
-      "phonetic_text": "toʊstər",
+      "phonetic_text": "toʊs.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG9hc3Rlcg&hash=f469ec6d65e4c6e33bff6ea16f0b5d8f50d59103&lang=en&cache-only=0",
-      "phonetic_am_text": "towstēr",
+      "phonetic_am_text": "tooos.tēr",
       "img": "https://cdn.langeek.co/photo/50789/original/toaster?type=jpeg",
       "pronunciation": "ˈtoʊstɝ",
       "senses": [
@@ -962,12 +1314,13 @@
       ]
     },
     {
+      "id": "460e552c-3e35-4461-a5d2-93f8588f713f",
       "word": "grinder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JpbmRlcg&hash=a264cff1fd943cf7e10f15d13898fc06b94873b7&lang=en&cache-only=0",
-      "phonetic_text": "graɪndər",
+      "phonetic_text": "graɪn.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JpbmRlcg&hash=a264cff1fd943cf7e10f15d13898fc06b94873b7&lang=en&cache-only=0",
-      "phonetic_am_text": "graindēr",
+      "phonetic_am_text": "grain.dēr",
       "img": "https://cdn.langeek.co/photo/30872/original/?type=jpeg",
       "pronunciation": "ˈɡɹaɪndɝ",
       "senses": [
@@ -978,12 +1331,13 @@
       ]
     },
     {
+      "id": "61a79717-678e-4c4f-b2e0-3d29608ccf24",
       "word": "electric mixer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWxlY3RyaWMgbWl4ZXI&hash=7baaeab2f157ad6c5c90ecb28b4b2979ee9b6cae&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪ.lɛkt.rɪk mɪk.sɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWxlY3RyaWMgbWl4ZXI&hash=7baaeab2f157ad6c5c90ecb28b4b2979ee9b6cae&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "i.lekt.rik mik.sēr",
       "img": "https://cdn.langeek.co/photo/37435/original/?type=jpeg",
       "pronunciation": "ɪlˈɛktɹɪk mˈɪksɚ",
       "senses": [
@@ -994,12 +1348,13 @@
       ]
     },
     {
+      "id": "bad977bd-514c-4d3c-9f3c-e49ce554d575",
       "word": "meat slicer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWVhdCBzbGljZXI&hash=fcc605dd9f24b216f9b9e56e06acb6fd99bc313a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mi:t slaɪ.sɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bWVhdCBzbGljZXI&hash=fcc605dd9f24b216f9b9e56e06acb6fd99bc313a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mit slai.sēr",
       "img": "https://cdn.langeek.co/photo/37439/original/?type=jpeg",
       "pronunciation": "mˈiːt slˈaɪsɚ",
       "senses": [
@@ -1010,12 +1365,13 @@
       ]
     },
     {
+      "id": "652adbaf-6777-4f95-8152-fc7860f404e9",
       "word": "burr mill",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVyciBtaWxs&hash=ed3fa75de19c46ddbaf6ec1bb8b38011c7d79f67&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɜr mɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVyciBtaWxs&hash=ed3fa75de19c46ddbaf6ec1bb8b38011c7d79f67&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bēr mil",
       "img": "https://cdn.langeek.co/photo/37391/original/?type=jpeg",
       "pronunciation": "bˈɜː mˈɪl",
       "senses": [
@@ -1026,10 +1382,11 @@
       ]
     },
     {
+      "id": "a1e601fa-a092-46fe-b3f1-0dc42affc0ca",
       "word": "Remoska",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=UmVtb3NrYQ&hash=a2fe64442eb7dbf2d7f0e0bf8d2b73cac45918f4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=UmVtb3NrYQ&hash=a2fe64442eb7dbf2d7f0e0bf8d2b73cac45918f4&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/37445/original/?type=jpeg",
@@ -1042,12 +1399,13 @@
       ]
     },
     {
+      "id": "ac116a6f-eab1-437b-b7c5-1fca8880b427",
       "word": "deep-fat fryer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVlcC1mYXQgZnJ5ZXI&hash=a8dec0f9567617f7286abae7e1bafd859c09c2ac&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dip-fæt fraɪɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVlcC1mYXQgZnJ5ZXI&hash=a8dec0f9567617f7286abae7e1bafd859c09c2ac&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dip-fāt fraiēr",
       "img": "https://cdn.langeek.co/photo/38156/original/?type=jpeg",
       "pronunciation": "dˈiːpfˈæt fɹˈaɪɚ",
       "senses": [
@@ -1058,12 +1416,13 @@
       ]
     },
     {
+      "id": "7954f481-6174-4282-9b09-12659544c2a2",
       "word": "smoothie maker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c21vb3RoaWUgbWFrZXI&hash=67eac35e6ac3c09414a5e651d74a32426a9a4726&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "smu:.ði meɪ.kər",
       "phonetic_am": "https://tts.langeek.co/read?text=c21vb3RoaWUgbWFrZXI&hash=67eac35e6ac3c09414a5e651d74a32426a9a4726&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "smoo.dhi mei.kēr",
       "img": "",
       "pronunciation": "smˈuːði mˈeɪkɚ",
       "senses": [
@@ -1074,12 +1433,13 @@
       ]
     },
     {
+      "id": "08715f02-25ff-4985-87b6-4c708f227100",
       "word": "waffle iron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2FmZmxlIGlyb24&hash=81f683b4668f10b11d1a8c5e3b9842f8506c244c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɑ.fəl aɪərn",
       "phonetic_am": "https://tts.langeek.co/read?text=d2FmZmxlIGlyb24&hash=81f683b4668f10b11d1a8c5e3b9842f8506c244c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vaa.fēl aiērn",
       "img": "https://cdn.langeek.co/photo/37497/original/?type=jpeg",
       "pronunciation": "wˈɑːfəl ˈaɪɚn",
       "senses": [
@@ -1090,22 +1450,45 @@
       ]
     },
     {
+      "id": "99ded280-2c85-4d92-88e1-34e672c4bac0",
       "word": "dishwasher",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzaHdhc2hlcg&hash=821141a5249e08f538d16e85211d7dadf9b544b9&lang=en&cache-only=0",
-      "phonetic_text": "dɪʃwɑʃər",
+      "phonetic_text": "dɪʃ.wɑ.ʃɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzaHdhc2hlcg&hash=821141a5249e08f538d16e85211d7dadf9b544b9&lang=en&cache-only=0",
-      "phonetic_am_text": "dishwɑshēr",
+      "phonetic_am_text": "dish.vaa.shēr",
       "img": "https://cdn.langeek.co/photo/49822/original/dishwasher?type=jpeg",
       "pronunciation": "ˈdɪʃˌwɑːʃɚ",
       "senses": [
         {
           "definition": "an electric machine that is used to clean dishes, spoons, cups, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He pressed the \"start\" button on the dishwasher and walked away."
+            },
+            {
+              "cf": "",
+              "x": "She loaded the dirty dishes into the dishwasher after dinner."
+            },
+            {
+              "cf": "",
+              "x": "The dishwasher is energy-efficient, saving water and electricity."
+            },
+            {
+              "cf": "",
+              "x": "The dishwasher's control panel has intuitive buttons for easy operation."
+            },
+            {
+              "cf": "",
+              "x": "The new dishwasher has a quick wash cycle for small loads."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "aa9704e7-a998-4875-869b-284e90421651",
       "word": "mill",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWlsbA&hash=4e37947ead3ebedf390cd06dd16dd2c9953fc674&lang=en&cache-only=0",

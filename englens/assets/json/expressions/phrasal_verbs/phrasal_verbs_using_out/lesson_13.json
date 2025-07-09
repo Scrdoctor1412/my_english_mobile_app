@@ -1,31 +1,43 @@
 {
+  "id": "e63afd4a-3c59-47ae-ab1b-fda6aefdd285",
   "topic": "phrasal_verbs_using_out",
   "title": "Avoiding or Excluding",
   "lesson": "lesson_13",
   "word_list": [
     {
-      "word": "back out",
+      "id": "34255bb7-99f1-416b-9497-3bb8398e0ca8",
+      "word": "to back out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmFjayBvdXQ&hash=c494c0e3af7d43a425ae70b4e2f8f66ec47140c1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæk aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmFjayBvdXQ&hash=c494c0e3af7d43a425ae70b4e2f8f66ec47140c1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bāk aoot",
       "img": "https://cdn.langeek.co/photo/52439/original/?type=jpeg",
       "pronunciation": "bˈæk ˈaʊt",
       "senses": [
         {
           "definition": "to not do something one has promised or agreed to do",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I promised to help and I’m not backing out now."
+            },
+            {
+              "cf": "",
+              "x": "It’s too late to back out now."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "bottle out",
+      "id": "9b47fb9c-9503-40ed-a998-3cf09e6c175c",
+      "word": "to bottle out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYm90dGxlIG91dA&hash=75216345993aa39490df71d790e77dbe38de043b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɑ:.təl aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYm90dGxlIG91dA&hash=75216345993aa39490df71d790e77dbe38de043b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baa.tēl aoot",
       "img": "https://cdn.langeek.co/photo/43182/original/?type=jpeg",
       "pronunciation": "bˈɑːɾəl ˈaʊt",
       "senses": [
@@ -36,28 +48,39 @@
       ]
     },
     {
-      "word": "chicken out",
+      "id": "dd5f8db8-f717-480e-9bf3-f7237b944c8e",
+      "word": "to chicken out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hpY2tlbiBvdXQ&hash=9ef519708e87b0c5f3c6e01f775c8b00a91143a9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧɪ.kən aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2hpY2tlbiBvdXQ&hash=9ef519708e87b0c5f3c6e01f775c8b00a91143a9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chi.kēn aoot",
       "img": "https://cdn.langeek.co/photo/52457/original/?type=jpeg",
       "pronunciation": "tʃˈɪkɪn ˈaʊt",
       "senses": [
         {
           "definition": "to not to do something one planned because they feel scared or hesitant",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Don't chicken out on us; we need your help!"
+            },
+            {
+              "cf": "",
+              "x": "He always chickens out when faced with difficult decisions."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "leave out",
+      "id": "4c948df8-ada8-4d30-aa19-d677890e392e",
+      "word": "to leave out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGVhdmUgb3V0&hash=46664a4d678d94567ee29f89929a10563b31e4f0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "liv aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGVhdmUgb3V0&hash=46664a4d678d94567ee29f89929a10563b31e4f0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "liv aoot",
       "img": "https://cdn.langeek.co/photo/48031/original/?type=jpeg",
       "pronunciation": "lˈiːv ˈaʊt",
       "senses": [
@@ -89,12 +112,13 @@
       ]
     },
     {
-      "word": "opt out",
+      "id": "5a310c10-bac4-43f4-9092-e37717e24eaf",
+      "word": "to opt out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gb3B0IG91dA&hash=48b9dcda9a270340de2cba340d53f69f616e0731&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑpt aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gb3B0IG91dA&hash=48b9dcda9a270340de2cba340d53f69f616e0731&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aapt aoot",
       "img": "https://cdn.langeek.co/photo/52463/original/?type=jpeg",
       "pronunciation": "ˈɑːpt ˈaʊt",
       "senses": [
@@ -110,41 +134,30 @@
       ]
     },
     {
-      "word": "sit out",
+      "id": "c00264db-3e76-495f-a439-0ba07ba4e5c5",
+      "word": "to sit out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2l0IG91dA&hash=80f224630ce890df903315bca6f8cef4e8ccf8a0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɪt aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2l0IG91dA&hash=80f224630ce890df903315bca6f8cef4e8ccf8a0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sit aoot",
       "img": "https://cdn.langeek.co/photo/52467/original/?type=jpeg",
       "pronunciation": "sˈɪt ˈaʊt",
       "senses": [
         {
           "definition": "to refrain from taking part in an activity, typically by remaining seated",
-          "examples": [
-            {
-              "cf": "",
-              "x": "At the party, she decided to sit out the dance and enjoy the music from her seat."
-            },
-            {
-              "cf": "",
-              "x": "Due to a minor injury, the athlete had to sit out the crucial match, disappointing both fans and teammates."
-            },
-            {
-              "cf": "",
-              "x": "The shy student preferred to sit out group activities, observing from the sidelines rather than actively participating."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "skip out",
+      "id": "75ceec15-117e-4768-8307-5f640c4e7c61",
+      "word": "to skip out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2tpcCBvdXQ&hash=aab90d2ba5e03d21d0cfca69d48eb91a35af190f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skɪp aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2tpcCBvdXQ&hash=aab90d2ba5e03d21d0cfca69d48eb91a35af190f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skip aoot",
       "img": "https://cdn.langeek.co/photo/52469/original/?type=jpeg",
       "pronunciation": "skˈɪp ˈaʊt",
       "senses": [
@@ -176,12 +189,13 @@
       ]
     },
     {
-      "word": "stay out",
+      "id": "e1d556a6-007f-4ad6-99e7-5d4fa8fbf110",
+      "word": "to stay out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RheSBvdXQ&hash=c611b59ea360a89657087a35c1a1d2dc991be555&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "steɪ aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RheSBvdXQ&hash=c611b59ea360a89657087a35c1a1d2dc991be555&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "stei aoot",
       "img": "https://cdn.langeek.co/photo/52409/original/?type=jpeg",
       "pronunciation": "stˈeɪ ˈaʊt",
       "senses": [
@@ -192,12 +206,13 @@
       ]
     },
     {
-      "word": "wriggle out of",
+      "id": "e22ae0a9-2fad-4300-a5fe-8a786cb592ee",
+      "word": "to wriggle out of",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd3JpZ2dsZSBvdXQgb2Y&hash=bd7b545450dfa1d6b2096ce9b77d0c3a9ac8e02f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɪəgl aʊt ʌv",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd3JpZ2dsZSBvdXQgb2Y&hash=bd7b545450dfa1d6b2096ce9b77d0c3a9ac8e02f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "riēgl aoot av",
       "img": "https://cdn.langeek.co/photo/52469/original/?type=jpeg",
       "pronunciation": "ɹˈɪɡəl ˌaʊɾəv",
       "senses": [
@@ -208,12 +223,13 @@
       ]
     },
     {
-      "word": "zone out",
+      "id": "48666988-c381-47c4-9a0f-17055365e794",
+      "word": "to zone out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gem9uZSBvdXQ&hash=08f1c2e549c654f8717f4591f04762078b2802a0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "zoʊn aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gem9uZSBvdXQ&hash=08f1c2e549c654f8717f4591f04762078b2802a0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "zooon aoot",
       "img": "https://cdn.langeek.co/photo/48615/original/rest?type=jpeg",
       "pronunciation": "zˈoʊn ˈaʊt",
       "senses": [

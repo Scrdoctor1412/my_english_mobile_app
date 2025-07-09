@@ -1,13 +1,15 @@
 {
+  "id": "3dfe1a45-1c20-4d86-bcb3-e978c054bc60",
   "topic": "personality",
   "title": "Senseless or Awkward",
   "lesson": "lesson_11",
   "word_list": [
     {
-      "word": "[need] (to have|) {one's} head examined",
+      "id": "46c7ddc7-7aba-480b-9b37-abd2c070620d",
+      "word": "to [need] (to have|) {one's} head examined",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbmVlZCB0byBoYXZlIG9uZSdzIGhlYWQgZXhhbWluZWQ&hash=8973007c0ed94d6543dcf99a0085d83302667b68&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbmVlZCB0byBoYXZlIG9uZSdzIGhlYWQgZXhhbWluZWQ&hash=8973007c0ed94d6543dcf99a0085d83302667b68&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42018/original/?type=jpeg",
@@ -37,12 +39,13 @@
       ]
     },
     {
+      "id": "6d2868ba-80ee-4f74-8892-0494e7d2ac08",
       "word": "out to lunch",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b3V0IHRvIGx1bmNo&hash=7c51e5fb40630f44c19f00bf4f70e610aa67cc73&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aʊt tu: lʌnʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=b3V0IHRvIGx1bmNo&hash=7c51e5fb40630f44c19f00bf4f70e610aa67cc73&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aoot too lanch",
       "img": "https://cdn.langeek.co/photo/42474/original/?type=jpeg",
       "pronunciation": "ˈaʊt tə lˈʌntʃ",
       "senses": [
@@ -70,12 +73,13 @@
       ]
     },
     {
+      "id": "153f7ece-0184-42de-a4d6-b886897730f0",
       "word": "space cadet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BhY2UgY2FkZXQ&hash=46dcb8b0ddcff4129bab9d50f97b4c40f073a35f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "speɪs kə.dɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BhY2UgY2FkZXQ&hash=46dcb8b0ddcff4129bab9d50f97b4c40f073a35f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "speis kē.det",
       "img": "https://cdn.langeek.co/photo/42092/original/?type=jpeg",
       "pronunciation": "spˈeɪs kɐdˈɛt",
       "senses": [
@@ -86,10 +90,11 @@
       ]
     },
     {
-      "word": "[have] two left feet",
+      "id": "473d0b7b-7bbb-4e72-b5b9-f24edd00565c",
+      "word": "to [have] two left feet",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGF2ZSB0d28gbGVmdCBmZWV0&hash=150f134173dde065a8a4c9cc908e2ab8ebfc9b1d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGF2ZSB0d28gbGVmdCBmZWV0&hash=150f134173dde065a8a4c9cc908e2ab8ebfc9b1d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42466/original/?type=jpeg",
@@ -97,28 +102,16 @@
       "senses": [
         {
           "definition": "to move clumsily and awkwardly, particularly when one dances",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Despite her enthusiasm for dancing, she always felt like she had two left feet on the dance floor."
-            },
-            {
-              "cf": "",
-              "x": "John's lack of coordination is evident in every sport he attempts; he truly has two left feet."
-            },
-            {
-              "cf": "",
-              "x": "The awkward teenager, with his ungainly movements, seemed to confirm the notion that he had two left feet."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[be] all thumbs",
+      "id": "4b7d834b-505b-4338-976e-9d29a60fea28",
+      "word": "to [be] all thumbs",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgYWxsIHRodW1icw&hash=a67f21c7f94be80b89510dd68a78cb8588ad55ff&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgYWxsIHRodW1icw&hash=a67f21c7f94be80b89510dd68a78cb8588ad55ff&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/26407/original/?type=jpeg",
@@ -126,32 +119,16 @@
       "senses": [
         {
           "definition": "to act in a very clumsy or awkward manner",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Despite his enthusiasm for woodworking, Mark was all thumbs with a saw, frequently making crooked cuts."
-            },
-            {
-              "cf": "",
-              "x": "He attempted to play the guitar, but his fingers were all thumbs, resulting in a discordant melody."
-            },
-            {
-              "cf": "",
-              "x": "John's attempt at juggling proved that he was all thumbs, as he dropped the balls within seconds of starting."
-            },
-            {
-              "cf": "",
-              "x": "Whenever he tried to fix things around the house, he was all thumbs and ended up making more of a mess."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[have] a screw (loose|missing)",
+      "id": "ebd01ccf-1174-480d-93fc-e196af84c8bf",
+      "word": "to [have] a screw (loose|missing)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGF2ZSBhIHNjcmV3IGxvb3Nl&hash=17297cd8ba8b076051a92f052092250e62e3d479&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGF2ZSBhIHNjcmV3IGxvb3Nl&hash=17297cd8ba8b076051a92f052092250e62e3d479&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41980/original/?type=jpeg",
@@ -159,32 +136,16 @@
       "senses": [
         {
           "definition": "to behave in a crazy and uncontrollable manner",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After witnessing her erratic behavior at the party, it became clear that Sarah had a screw loose."
-            },
-            {
-              "cf": "",
-              "x": "Jane's sudden outbursts of laughter at inappropriate times suggest that she might have a screw missing."
-            },
-            {
-              "cf": "",
-              "x": "The politician's bizarre statements during the speech made many people wonder if he had a screw loose."
-            },
-            {
-              "cf": "",
-              "x": "The professor's unconventional teaching methods and nonsensical lectures make me think he has a screw missing."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "7b026712-e7e5-4223-9696-cd54eb1927aa",
       "word": "a square peg (in a round hole|)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YSBzcXVhcmUgcGVnIGluIGEgcm91bmQgaG9sZQ&hash=62799ae86683706b0738c496642b8d5cb8bb5e28&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YSBzcXVhcmUgcGVnIGluIGEgcm91bmQgaG9sZQ&hash=62799ae86683706b0738c496642b8d5cb8bb5e28&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42462/original/?type=jpeg",
@@ -192,30 +153,18 @@
       "senses": [
         {
           "definition": "a person or thing that does not fit the current situation or position they are in",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The ambitious entrepreneur found herself as a square peg in the conservative corporate environment."
-            },
-            {
-              "cf": "",
-              "x": "The introverted professor felt like a square peg in a round hole during the lively and extroverted conference."
-            },
-            {
-              "cf": "",
-              "x": "The traditional restaurant struggled to attract the younger crowd, feeling like a square peg in a round hole in the trendy neighborhood."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "d03d9ba1-73c4-4972-b169-383e213def5b",
       "word": "the odd one out",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIG9kZCBvbmUgb3V0&hash=29d614451198cfb926f550897ca9427ce8881136&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ðə ɑd n aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIG9kZCBvbmUgb3V0&hash=29d614451198cfb926f550897ca9427ce8881136&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dhē aad n aoot",
       "img": "https://cdn.langeek.co/photo/47795/original/different?type=jpeg",
       "pronunciation": "ðɪ ˈɑːd wˈʌn ˈaʊt",
       "senses": [
@@ -243,13 +192,14 @@
       ]
     },
     {
+      "id": "23b27759-b9fc-448c-8934-6b01767062f0",
       "word": "(as|) queer as Dick's hatband",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXMgcXVlZXIgYXMgRGljaydzIGhhdGJhbmQ&hash=4a7277ef21b7ead58aea4d9deba00ca12f92205e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXMgcXVlZXIgYXMgRGljaydzIGhhdGJhbmQ&hash=4a7277ef21b7ead58aea4d9deba00ca12f92205e&lang=en&cache-only=0",
       "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/29657/original/?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/61788/original/?type=jpeg",
       "pronunciation": "æz kwˈɪɹ æz dˈɪks hˈætbænd",
       "senses": [
         {
@@ -259,10 +209,11 @@
       ]
     },
     {
-      "word": "[live|be] on another (planet|world)",
+      "id": "1b50a768-6cc9-4200-ac54-d28b86b509b1",
+      "word": "to [live|be] on another (planet|world)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGl2ZSBvbiBhbm90aGVyIHBsYW5ldA&hash=77994f359b10d21d7eee1831a08b845da862cacf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGl2ZSBvbiBhbm90aGVyIHBsYW5ldA&hash=77994f359b10d21d7eee1831a08b845da862cacf&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43064/original/?type=jpeg",

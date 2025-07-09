@@ -1,15 +1,17 @@
 {
+  "id": "52828ea0-cea3-429a-b061-812d159af971",
   "topic": "certainty_possibility",
   "title": "Unexpected",
   "lesson": "lesson_8",
   "word_list": [
     {
+      "id": "9d076fdd-2018-44d6-8eb0-f3b4802ba2a8",
       "word": "damp squib",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZGFtcCBzcXVpYg&hash=8a3f0e3c2528e930dff452e4b390985ad11eab1a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dæmp skwɪb",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGFtcCBzcXVpYg&hash=8a3f0e3c2528e930dff452e4b390985ad11eab1a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dāmp skvib",
       "img": "https://cdn.langeek.co/photo/45840/original/?type=jpeg",
       "pronunciation": "dˈæmp skwˈɪb",
       "senses": [
@@ -41,12 +43,13 @@
       ]
     },
     {
+      "id": "4d47c1b0-af60-42c8-a6be-04083e71a9a4",
       "word": "out of thin air",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b3V0IG9mIHRoaW4gYWly&hash=7391410140ab2e5f5275ed5035ddc913282ed633&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aʊt ʌv θɪn ɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=b3V0IG9mIHRoaW4gYWly&hash=7391410140ab2e5f5275ed5035ddc913282ed633&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aoot av thin er",
       "img": "https://cdn.langeek.co/photo/45208/original/?type=jpeg",
       "pronunciation": "ˌaʊɾəv θˈɪn ˈɛɹ",
       "senses": [
@@ -78,10 +81,11 @@
       ]
     },
     {
-      "word": "[take] the cake",
+      "id": "25ede354-9c5a-4f85-ab66-ed8146c14afd",
+      "word": "to [take] the cake",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSB0aGUgY2FrZQ&hash=ff81556817ed1d8e05b1286763bdafc2d8f08c35&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSB0aGUgY2FrZQ&hash=ff81556817ed1d8e05b1286763bdafc2d8f08c35&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46091/original/?type=jpeg",
@@ -111,10 +115,11 @@
       ]
     },
     {
-      "word": "[throw] {sb} a (curveball|curve)",
+      "id": "6ee5c0dc-7a26-4dd4-b995-d69000817f37",
+      "word": "to [throw] {sb} a (curveball|curve)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGhyb3cgc29tZWJvZHkgYSBjdXJ2ZWJhbGw&hash=1bb1bfdad4fd978a72c4d8907fd04fbb94d6c6c1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGhyb3cgc29tZWJvZHkgYSBjdXJ2ZWJhbGw&hash=1bb1bfdad4fd978a72c4d8907fd04fbb94d6c6c1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46139/original/?type=jpeg",
@@ -122,24 +127,16 @@
       "senses": [
         {
           "definition": "to introduce a surprising or unexpected element or challenge into a situation",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She thought the job interview would be straightforward, but they threw her a curveball with a tricky problem-solving task."
-            },
-            {
-              "cf": "",
-              "x": "In the game of chess, my opponent threw me a curve by making an unusual move I didn't anticipate."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "dd169927-3ba0-41a4-8715-28c173bc8721",
       "word": "(as|) large as life",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXMgbGFyZ2UgYXMgbGlmZQ&hash=f57b33ef97bd4cbace7401ea51719c1d44b35c05&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXMgbGFyZ2UgYXMgbGlmZQ&hash=f57b33ef97bd4cbace7401ea51719c1d44b35c05&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46302/original/?type=jpeg",
@@ -147,36 +144,16 @@
       "senses": [
         {
           "definition": "used to express a sense of astonishment or surprise when encountering someone or something",
-          "examples": [
-            {
-              "cf": "",
-              "x": "When I walked into the room, there was my childhood friend, as large as life, standing in the crowd."
-            },
-            {
-              "cf": "",
-              "x": "The famous actor appeared on the stage, large as life, and the audience erupted in applause."
-            },
-            {
-              "cf": "",
-              "x": "She found the rare and valuable artifact, just as described in the legend, as large as life."
-            },
-            {
-              "cf": "",
-              "x": "After years of searching, I finally saw the elusive snow leopard, large as life, in the wild."
-            },
-            {
-              "cf": "",
-              "x": "The old photograph showed my grandparents, young and in love, large as life, on their wedding day."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[catch] {sb} napping",
+      "id": "c83256f3-dc39-49ec-86c2-1b821ec82147",
+      "word": "to [catch] {sb} napping",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2F0Y2ggc29tZWJvZHkgbmFwcGluZw&hash=589c9969d43230266f2ad7d9948b10b376b108a0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2F0Y2ggc29tZWJvZHkgbmFwcGluZw&hash=589c9969d43230266f2ad7d9948b10b376b108a0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44684/original/?type=jpeg",
@@ -189,10 +166,11 @@
       ]
     },
     {
-      "word": "[catch] {sb} with {one's} [hand] in the cookie jar",
+      "id": "ecc601a6-e825-4b28-b88c-3a8cbaab47eb",
+      "word": "to [catch] {sb} with {one's} [hand] in the cookie jar",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2F0Y2ggc29tZWJvZHkgd2l0aCBvbmUncyBoYW5kIGluIHRoZSBjb29raWUgamFy&hash=ae479beee6059506bdbd30cc405d960a92d81387&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2F0Y2ggc29tZWJvZHkgd2l0aCBvbmUncyBoYW5kIGluIHRoZSBjb29raWUgamFy&hash=ae479beee6059506bdbd30cc405d960a92d81387&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43248/original/?type=jpeg",
@@ -205,10 +183,11 @@
       ]
     },
     {
-      "word": "[catch] {sb} with {one's} pants down",
+      "id": "300c3919-e09e-4ce7-917a-e829c2640f21",
+      "word": "to [catch] {sb} with {one's} pants down",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2F0Y2ggc29tZWJvZHkgd2l0aCBvbmUncyBwYW50cyBkb3du&hash=dae24253f4d9054030f53bd4643095143bd7db1b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2F0Y2ggc29tZWJvZHkgd2l0aCBvbmUncyBwYW50cyBkb3du&hash=dae24253f4d9054030f53bd4643095143bd7db1b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/47312/original/?type=jpeg",
@@ -221,10 +200,11 @@
       ]
     },
     {
-      "word": "[drop|explode] a bombshell",
+      "id": "6c7156f2-4cd1-4062-ba7c-81a0b0406720",
+      "word": "to [drop|explode] a bombshell",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJvcCBhIGJvbWJzaGVsbA&hash=539d871cbbf46e7130e76c999cb8057886a2054a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZHJvcCBhIGJvbWJzaGVsbA&hash=539d871cbbf46e7130e76c999cb8057886a2054a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46298/original/?type=jpeg",
@@ -254,12 +234,13 @@
       ]
     },
     {
+      "id": "69371698-63ff-4706-a8d3-3d331539439f",
       "word": "pig in a poke",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=cGlnIGluIGEgcG9rZQ&hash=39dd3add653f9f1d442b5f9bae3c4990201ed0bd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɪg ɪn ə poʊk",
       "phonetic_am": "https://tts.langeek.co/read?text=cGlnIGluIGEgcG9rZQ&hash=39dd3add653f9f1d442b5f9bae3c4990201ed0bd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pig in ē poook",
       "img": "https://cdn.langeek.co/photo/44694/original/?type=jpeg",
       "pronunciation": "pˈɪɡ ɪn ɐ pˈoʊk",
       "senses": [
@@ -291,10 +272,11 @@
       ]
     },
     {
-      "word": "[pull] a rabbit out of the hat",
+      "id": "0eace44f-d2b9-4e7d-abb8-adaf80c62c55",
+      "word": "to [pull] a rabbit out of the hat",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHVsbCBhIHJhYmJpdCBvdXQgb2YgdGhlIGhhdA&hash=f547cbe5a924eb4577cf9f4784df4777e93a9a64&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHVsbCBhIHJhYmJpdCBvdXQgb2YgdGhlIGhhdA&hash=f547cbe5a924eb4577cf9f4784df4777e93a9a64&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43038/original/?type=jpeg",
@@ -302,36 +284,16 @@
       "senses": [
         {
           "definition": "to solve a seemingly impossible problem or accomplish an extremely difficult goal unexpectedly",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The team faced a seemingly impossible deadline, but they managed to pull a rabbit out of the hat and finish the project ahead of schedule."
-            },
-            {
-              "cf": "",
-              "x": "The student didn't prepare for the exam, but somehow he pulled a rabbit out of the hat and scored the highest grade in the class."
-            },
-            {
-              "cf": "",
-              "x": "The chef had run out of key ingredients, but she managed to pull a rabbit out of the hat and create a delicious new dish."
-            },
-            {
-              "cf": "",
-              "x": "The coach's halftime strategy change was like pulling a rabbit out of the hat, and it led to a remarkable comeback victory for the team."
-            },
-            {
-              "cf": "",
-              "x": "In a tight financial situation, the company's innovative marketing campaign pulled a rabbit out of the hat and significantly increased sales."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "b3fa40e5-0aea-4526-ba63-f68dcc93e78c",
       "word": "the bubble [burst]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIGJ1YmJsZSBidXJzdA&hash=ac438a86d756556195b4214df954ac3b1b06a21f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIGJ1YmJsZSBidXJzdA&hash=ac438a86d756556195b4214df954ac3b1b06a21f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46489/original/?type=jpeg",
@@ -339,26 +301,18 @@
       "senses": [
         {
           "definition": "used to refer to the abrupt termination of a favorable or fortunate situation",
-          "examples": [
-            {
-              "cf": "",
-              "x": "When the bubble bursts on these toys, a lot of people are going to be left with a lot of worthless trinkets."
-            },
-            {
-              "cf": "",
-              "x": "Investors were elated with the stock market's performance until the bubble burst, and they faced significant losses."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "9e4ee746-fdd8-4644-a74d-411270dc9d76",
       "word": "flash in the pan",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Zmxhc2ggaW4gdGhlIHBhbg&hash=942ed3856e3057ac0adb89546c60eb2e68f5a4b7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "flæʃ ɪn ðə pæn",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmxhc2ggaW4gdGhlIHBhbg&hash=942ed3856e3057ac0adb89546c60eb2e68f5a4b7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "flāsh in dhē pān",
       "img": "https://cdn.langeek.co/photo/40639/original/?type=jpeg",
       "pronunciation": "flˈæʃ ɪnðə pˈæn",
       "senses": [
@@ -390,10 +344,11 @@
       ]
     },
     {
-      "word": "[blow] {one's} mind",
+      "id": "42e66135-36c8-413f-9a21-152a5e31582a",
+      "word": "to [blow] {one's} mind",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmxvdyBvbmUncyBtaW5k&hash=e5cb375194115ac070736ed62dcbee5810921445&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmxvdyBvbmUncyBtaW5k&hash=e5cb375194115ac070736ed62dcbee5810921445&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42696/original/?type=jpeg",
@@ -427,10 +382,11 @@
       ]
     },
     {
+      "id": "fa6178b3-58cf-417c-b23d-ca1a69d69ceb",
       "word": "beyond {one's} wildest (dreams|fantasies)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YmV5b25kIG9uZSdzIHdpbGRlc3QgZHJlYW1z&hash=30000f5cd9dccb9d2ac8ac2f8cfff510fcda5110&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YmV5b25kIG9uZSdzIHdpbGRlc3QgZHJlYW1z&hash=30000f5cd9dccb9d2ac8ac2f8cfff510fcda5110&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/47308/original/?type=jpeg",
@@ -438,28 +394,16 @@
       "senses": [
         {
           "definition": "used to mean that something that is significantly surpassing what an individual could have ever anticipated or hoped for",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Winning the lottery was beyond my wildest dreams; I never thought I'd be so lucky."
-            },
-            {
-              "cf": "",
-              "x": "Receiving that job offer was beyond my wildest dreams, as I had been searching for a position like that for years."
-            },
-            {
-              "cf": "",
-              "x": "Completing my first marathon was a personal achievement that was beyond my wildest fantasies."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "ff474cb9-3ead-4773-8110-ba1834a91003",
       "word": "(glued|rooted) to the spot",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Z2x1ZWQgdG8gdGhlIHNwb3Q&hash=e4dcf0e83568cdac07241836682c2d27f9c30d58&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2x1ZWQgdG8gdGhlIHNwb3Q&hash=e4dcf0e83568cdac07241836682c2d27f9c30d58&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46308/original/?type=jpeg",
@@ -493,12 +437,13 @@
       ]
     },
     {
+      "id": "42116868-d35f-4f1d-b870-89cc84782244",
       "word": "out of nowhere",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=b3V0IG9mIG5vd2hlcmU&hash=efd8029af480fe8d896eb63083e81ae720c3c712&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aʊt ʌv noʊ.wɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=b3V0IG9mIG5vd2hlcmU&hash=efd8029af480fe8d896eb63083e81ae720c3c712&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aoot av nooo.ver",
       "img": "",
       "pronunciation": "ˌaʊɾəv nˈoʊwɛɹ",
       "senses": [
@@ -530,10 +475,11 @@
       ]
     },
     {
-      "word": "{not} [know] what [hit] {sb}",
+      "id": "82c2301b-a665-428f-ba29-a94d37cd3420",
+      "word": "to {not} [know] what [hit] {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbm90IGtub3cgd2hhdCBoaXQgc29tZWJvZHk&hash=bd486bb4a641e26821a5fb0d8dbb142dfe9e7f9e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbm90IGtub3cgd2hhdCBoaXQgc29tZWJvZHk&hash=bd486bb4a641e26821a5fb0d8dbb142dfe9e7f9e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46310/original/?type=jpeg",
@@ -541,32 +487,16 @@
       "senses": [
         {
           "definition": "to become extremely shocked or confused as a result of something undesirable that suddenly happens",
-          "examples": [
-            {
-              "cf": "",
-              "x": "When the company announced layoffs, some employees didn't know what hit them."
-            },
-            {
-              "cf": "",
-              "x": "The sudden hailstorm was so intense that the picnic-goers didn't know what hit them."
-            },
-            {
-              "cf": "",
-              "x": "When the alarm went off in the middle of the night, I didn't know what hit me until I realized there was a fire in the building."
-            },
-            {
-              "cf": "",
-              "x": "The unexpected news of the winning lottery ticket left the winner saying, 'I don't know what hit me."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[turn] up like a bad penny",
+      "id": "1594385e-ff44-43d8-a862-4905488206ec",
+      "word": "to [turn] up like a bad penny",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHVybiB1cCBsaWtlIGEgYmFkIHBlbm55&hash=0aa57146e9df52c0350d85cd2e2f467608a522ea&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHVybiB1cCBsaWtlIGEgYmFkIHBlbm55&hash=0aa57146e9df52c0350d85cd2e2f467608a522ea&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/47382/original/?type=jpeg",
@@ -574,36 +504,16 @@
       "senses": [
         {
           "definition": "to reappear where one is not welcome or needed",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I try to avoid Jessica, but wherever I go she turns up like a bad penny!"
-            },
-            {
-              "cf": "",
-              "x": "No matter where I go, my old high school rival always seems to turn up like a bad penny."
-            },
-            {
-              "cf": "",
-              "x": "I thought I had finally gotten rid of that broken-down car, but it turned up like a bad penny in my driveway again."
-            },
-            {
-              "cf": "",
-              "x": "My annoying neighbor has a way of turning up like a bad penny whenever I'm enjoying a quiet moment on my porch."
-            },
-            {
-              "cf": "",
-              "x": "The troublemaker at work can't resist turning up like a bad penny in every meeting to disrupt things."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[hit] {sb} like a ton of bricks",
+      "id": "cf61ac1d-bf03-4952-9971-717b6c02896a",
+      "word": "to [hit] {sb} like a ton of bricks",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGl0IHNvbWVib2R5IGxpa2UgYSB0b24gb2YgYnJpY2tz&hash=40908f7b918c5c71092000f204bdd91629bf4a6e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGl0IHNvbWVib2R5IGxpa2UgYSB0b24gb2YgYnJpY2tz&hash=40908f7b918c5c71092000f204bdd91629bf4a6e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45659/original/?type=jpeg",

@@ -1,15 +1,17 @@
 {
+  "id": "3d3d7098-ffd1-46bf-b338-aea5320b3662",
   "topic": "b2_level",
   "title": "War and Peace",
   "lesson": "lesson_56",
   "word_list": [
     {
+      "id": "239cd5d9-847c-493a-bc40-8bbe0193f7c8",
       "word": "action",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWN0aW9u&hash=33ee5795412c8c8d91c807aa057bfca5e2307a13&lang=en&cache-only=0",
-      "phonetic_text": "ækʃən",
+      "phonetic_text": "æk.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=YWN0aW9u&hash=33ee5795412c8c8d91c807aa057bfca5e2307a13&lang=en&cache-only=0",
-      "phonetic_am_text": "ākshēn",
+      "phonetic_am_text": "āk.shēn",
       "img": "",
       "pronunciation": "ˈækʃən",
       "senses": [
@@ -37,12 +39,13 @@
       ]
     },
     {
+      "id": "81ebd9ba-0ebf-4c09-8e35-ad568805404e",
       "word": "advance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWR2YW5jZQ&hash=a94b23cd859e1de0fb66ed8ada66bed071bf59af&lang=en&cache-only=0",
-      "phonetic_text": "ədvæns",
+      "phonetic_text": "əd.væns",
       "phonetic_am": "https://tts.langeek.co/read?text=YWR2YW5jZQ&hash=a94b23cd859e1de0fb66ed8ada66bed071bf59af&lang=en&cache-only=0",
-      "phonetic_am_text": "ēdvāns",
+      "phonetic_am_text": "ēd.vāns",
       "img": "",
       "pronunciation": "ədˈvæns",
       "senses": [
@@ -70,6 +73,7 @@
       ]
     },
     {
+      "id": "8d203644-708e-4f92-b953-ef1fb35b2354",
       "word": "camp",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FtcA&hash=a9e9e39343fa71c296383913f23ab5e6e610900b&lang=en&cache-only=0",
@@ -81,48 +85,20 @@
       "senses": [
         {
           "definition": "a military facility where troops are stationed for training or operational purposes",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The soldiers returned to camp after their training exercises."
-            },
-            {
-              "cf": "",
-              "x": "They set up camp near the front lines during the conflict."
-            },
-            {
-              "cf": "",
-              "x": "The camp provided essential supplies and equipment for the soldiers."
-            },
-            {
-              "cf": "",
-              "x": "Each day, the soldiers conducted drills at the camp to prepare for deployment."
-            },
-            {
-              "cf": "",
-              "x": "Morale was high at the camp during their downtime."
-            },
-            {
-              "cf": "",
-              "x": "The camp was fortified to protect the troops from enemy attacks."
-            },
-            {
-              "cf": "",
-              "x": "The camp served as a base for operations in the region."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "f9244ade-2a0a-469a-a891-ae0e9580010b",
       "word": "military",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bWlsaXRhcnk&hash=dcb4beac315da3fa827627e7cac37ecb2a486b95&lang=en&cache-only=0",
-      "phonetic_text": "mɪlətɛri",
+      "phonetic_text": "mɪ.lɪ.tɛ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=bWlsaXRhcnk&hash=dcb4beac315da3fa827627e7cac37ecb2a486b95&lang=en&cache-only=0",
-      "phonetic_am_text": "milēteri",
+      "phonetic_am_text": "mi.li.te.ri",
       "img": "https://cdn.langeek.co/photo/18790/original/army?type=jpeg",
-      "pronunciation": "ˈmɪɫəˌtɛɹi/, /ˈmɪɫɪˌtɛɹi",
+      "pronunciation": "ˈmɪlɪˌtɛri",
       "senses": [
         {
           "definition": "related to the armed forces or soldiers",
@@ -144,12 +120,13 @@
       ]
     },
     {
+      "id": "6565dbac-2f8e-423f-a0b5-21953ba549cb",
       "word": "air force",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWlyIGZvcmNl&hash=2c12b3292c9feabc914d1976f7a3cc54ac080a9b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛr fɔrs",
       "phonetic_am": "https://tts.langeek.co/read?text=YWlyIGZvcmNl&hash=2c12b3292c9feabc914d1976f7a3cc54ac080a9b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "er fawrs",
       "img": "https://cdn.langeek.co/photo/23569/original/?type=jpeg",
       "pronunciation": "ˈer fˈoːrs",
       "senses": [
@@ -181,12 +158,13 @@
       ]
     },
     {
+      "id": "5b8d890e-cea7-4816-8610-828d027557cd",
       "word": "navy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmF2eQ&hash=693198a9afdb7fc5786ff1c503a97e7c1dd190f6&lang=en&cache-only=0",
-      "phonetic_text": "neɪvi",
+      "phonetic_text": "neɪ.vi",
       "phonetic_am": "https://tts.langeek.co/read?text=bmF2eQ&hash=693198a9afdb7fc5786ff1c503a97e7c1dd190f6&lang=en&cache-only=0",
-      "phonetic_am_text": "neivi",
+      "phonetic_am_text": "nei.vi",
       "img": "https://cdn.langeek.co/photo/23581/original/?type=jpeg",
       "pronunciation": "ˈneɪvi",
       "senses": [
@@ -218,12 +196,13 @@
       ]
     },
     {
+      "id": "c51c382c-e1fb-44b5-bc80-28ff9830fa2a",
       "word": "strategy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RyYXRlZ3k&hash=6c0e2570d309c247f0d10e2df78b7444d4d39847&lang=en&cache-only=0",
-      "phonetic_text": "strætəʤi",
+      "phonetic_text": "stræ.tə.ʤi",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyYXRlZ3k&hash=6c0e2570d309c247f0d10e2df78b7444d4d39847&lang=en&cache-only=0",
-      "phonetic_am_text": "strātēji",
+      "phonetic_am_text": "strā.tē.ji",
       "img": "",
       "pronunciation": "ˈstɹætədʒi",
       "senses": [
@@ -251,10 +230,11 @@
       ]
     },
     {
+      "id": "c544d0e1-3faf-4151-a532-db151d236b37",
       "word": "arms",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJtcw&hash=f42a4be9095da49caade80a0e804ebf824ce50a2&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:rmz",
+      "phonetic_text": "ɑrmz",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJtcw&hash=f42a4be9095da49caade80a0e804ebf824ce50a2&lang=en&cache-only=0",
       "phonetic_am_text": "aarmz",
       "img": "https://cdn.langeek.co/photo/19526/original/weapon?type=jpeg",
@@ -280,12 +260,13 @@
       ]
     },
     {
+      "id": "093101ef-fe73-48b1-a8d1-a01b54e9708b",
       "word": "grenade",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JlbmFkZQ&hash=279f68b58107201c96ca5b851b35542c88de1868&lang=en&cache-only=0",
-      "phonetic_text": "grəneɪd",
+      "phonetic_text": "grə.neɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JlbmFkZQ&hash=279f68b58107201c96ca5b851b35542c88de1868&lang=en&cache-only=0",
-      "phonetic_am_text": "grēneid",
+      "phonetic_am_text": "grē.neid",
       "img": "https://cdn.langeek.co/photo/29836/original/?type=jpeg",
       "pronunciation": "ɡɹəˈneɪd",
       "senses": [
@@ -313,12 +294,13 @@
       ]
     },
     {
+      "id": "0e90ff1c-2274-4fbc-bd7d-77b661f0399b",
       "word": "handgun",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFuZGd1bg&hash=e5c16469c5d2e2800d1ac64be72b53f216a259ad&lang=en&cache-only=0",
-      "phonetic_text": "hændgʌn",
+      "phonetic_text": "hænd.gʌn",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFuZGd1bg&hash=e5c16469c5d2e2800d1ac64be72b53f216a259ad&lang=en&cache-only=0",
-      "phonetic_am_text": "hāndgan",
+      "phonetic_am_text": "hānd.gan",
       "img": "https://cdn.langeek.co/photo/18838/original/gun?type=jpeg",
       "pronunciation": "ˈhændˌɡən",
       "senses": [
@@ -350,6 +332,7 @@
       ]
     },
     {
+      "id": "3066db5e-b406-45d0-91ce-0fd01a4cede9",
       "word": "mine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWluZQ&hash=27b1b5db76425066d5266f344ed5793afb20d69d&lang=en&cache-only=0",
@@ -357,7 +340,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=bWluZQ&hash=27b1b5db76425066d5266f344ed5793afb20d69d&lang=en&cache-only=0",
       "phonetic_am_text": "main",
       "img": "",
-      "pronunciation": "ˈmaɪn",
+      "pronunciation": "maɪn",
       "senses": [
         {
           "definition": "a piece of military equipment that is put on or just under the ground or in the sea, which explodes when it is touched",
@@ -387,45 +370,30 @@
       ]
     },
     {
+      "id": "6fd9f1d8-eaae-4f7e-847a-c37df10a62cc",
       "word": "campaign",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FtcGFpZ24&hash=bbfc7d944c4b3e8065219c026464c7d503f7266e&lang=en&cache-only=0",
-      "phonetic_text": "kæmpeɪn",
+      "phonetic_text": "kæm.peɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FtcGFpZ24&hash=bbfc7d944c4b3e8065219c026464c7d503f7266e&lang=en&cache-only=0",
-      "phonetic_am_text": "kāmpein",
+      "phonetic_am_text": "kām.pein",
       "img": "",
       "pronunciation": "kæmˈpeɪn",
       "senses": [
         {
           "definition": "a series of operations carried out to achieve a certain military objective",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Commanders planned the campaign meticulously, considering various factors."
-            },
-            {
-              "cf": "",
-              "x": "The success of the campaign depended on effective coordination among different units."
-            },
-            {
-              "cf": "",
-              "x": "The campaign's outcome significantly altered the balance of power in the area."
-            },
-            {
-              "cf": "",
-              "x": "Soldiers trained extensively to prepare for the upcoming campaign."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "command",
+      "id": "9314e377-77f8-49fd-abf2-5d61555f2298",
+      "word": "to command",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29tbWFuZA&hash=ed89b870540c52aeb94d4f19557b6f6fa272f5d7&lang=en&cache-only=0",
-      "phonetic_text": "kəmænd",
+      "phonetic_text": "kə.mænd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29tbWFuZA&hash=ed89b870540c52aeb94d4f19557b6f6fa272f5d7&lang=en&cache-only=0",
-      "phonetic_am_text": "kēmānd",
+      "phonetic_am_text": "kē.mānd",
       "img": "https://cdn.langeek.co/photo/19514/original/command?type=jpeg",
       "pronunciation": "kəˈmænd",
       "senses": [
@@ -457,12 +425,13 @@
       ]
     },
     {
-      "word": "desert",
+      "id": "4e019282-6a23-4cd2-9266-3370869b9907",
+      "word": "to desert",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVzZXJ0&hash=4fd62635f65c30189f5774df1bae068a27355c0b&lang=en&cache-only=0",
-      "phonetic_text": "dɛzərt",
+      "phonetic_text": "dɛ.zərt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVzZXJ0&hash=4fd62635f65c30189f5774df1bae068a27355c0b&lang=en&cache-only=0",
-      "phonetic_am_text": "dezērt",
+      "phonetic_am_text": "de.zērt",
       "img": "",
       "pronunciation": "ˈdɛzɚt",
       "senses": [
@@ -490,12 +459,13 @@
       ]
     },
     {
-      "word": "dominate",
+      "id": "760d0c68-94c7-460b-a50e-bd3692126964",
+      "word": "to dominate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZG9taW5hdGU&hash=d02bb73410a8ec0c0e5127f5cb72e55838aaf0de&lang=en&cache-only=0",
-      "phonetic_text": "dɑ:məneɪt",
+      "phonetic_text": "dɑ.mə.neɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZG9taW5hdGU&hash=d02bb73410a8ec0c0e5127f5cb72e55838aaf0de&lang=en&cache-only=0",
-      "phonetic_am_text": "daamēneit",
+      "phonetic_am_text": "daa.mē.neit",
       "img": "https://cdn.langeek.co/photo/59806/original/?type=jpeg",
       "pronunciation": "ˈdɑməˌneɪt",
       "senses": [
@@ -527,12 +497,13 @@
       ]
     },
     {
-      "word": "invade",
+      "id": "34ad4ce9-c1db-4f65-9ca3-f73d030ece91",
+      "word": "to invade",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW52YWRl&hash=b6b765ef4c573c3c586eaaa71948ab0a5a39467d&lang=en&cache-only=0",
-      "phonetic_text": "ɪnveɪd",
+      "phonetic_text": "ɪn.veɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW52YWRl&hash=b6b765ef4c573c3c586eaaa71948ab0a5a39467d&lang=en&cache-only=0",
-      "phonetic_am_text": "inveid",
+      "phonetic_am_text": "in.veid",
       "img": "https://cdn.langeek.co/photo/48293/original/?type=jpeg",
       "pronunciation": "ˌɪnˈveɪd",
       "senses": [
@@ -564,12 +535,13 @@
       ]
     },
     {
-      "word": "recruit",
+      "id": "07961bd6-e6b1-4ec2-8c7c-ba56fb92183a",
+      "word": "to recruit",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVjcnVpdA&hash=3a2af024de4f4363ef07143cb7358e466c392555&lang=en&cache-only=0",
-      "phonetic_text": "rəkru:t",
+      "phonetic_text": "rək.rut",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVjcnVpdA&hash=3a2af024de4f4363ef07143cb7358e466c392555&lang=en&cache-only=0",
-      "phonetic_am_text": "rēkroot",
+      "phonetic_am_text": "rēk.root",
       "img": "",
       "pronunciation": "ɹəˈkɹut/, /ɹiˈkɹut/, /ɹɪˈkɹut",
       "senses": [
@@ -601,7 +573,8 @@
       ]
     },
     {
-      "word": "strike",
+      "id": "d39bf0b3-9b51-45b7-9363-8fc82f237069",
+      "word": "to strike",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RyaWtl&hash=e0291b68a6cf297d2590054ecd3a8c321b7aa5a0&lang=en&cache-only=0",
       "phonetic_text": "straɪk",
@@ -638,12 +611,13 @@
       ]
     },
     {
+      "id": "7f5e1f2f-7707-4afd-95fc-6c1bb9ca7079",
       "word": "gunfight",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3VuZmlnaHQ&hash=3ed77f9399398f4b9e8b82db2fbd095317129d2e&lang=en&cache-only=0",
-      "phonetic_text": "gʌnfaɪt",
+      "phonetic_text": "gʌn.faɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3VuZmlnaHQ&hash=3ed77f9399398f4b9e8b82db2fbd095317129d2e&lang=en&cache-only=0",
-      "phonetic_am_text": "ganfait",
+      "phonetic_am_text": "gan.fait",
       "img": "",
       "pronunciation": "ˈɡənˌfaɪt",
       "senses": [
@@ -675,10 +649,11 @@
       ]
     },
     {
+      "id": "86ae8fd9-b695-458f-8b62-7713056a4f2e",
       "word": "armed",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YXJtZWQ&hash=95575060d1fc229adb37f28f21373314724d6e71&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:rmd",
+      "phonetic_text": "ɑrmd",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJtZWQ&hash=95575060d1fc229adb37f28f21373314724d6e71&lang=en&cache-only=0",
       "phonetic_am_text": "aarmd",
       "img": "https://cdn.langeek.co/photo/46087/original/?type=jpeg",
@@ -704,12 +679,13 @@
       ]
     },
     {
+      "id": "ef6ba566-f5aa-4a7b-b16d-4d9516d73887",
       "word": "civil",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y2l2aWw&hash=518bba424f6f9b3b9d2018ee7556293757db1d9a&lang=en&cache-only=0",
-      "phonetic_text": "sɪvəl",
+      "phonetic_text": "sɪ.vəl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2l2aWw&hash=518bba424f6f9b3b9d2018ee7556293757db1d9a&lang=en&cache-only=0",
-      "phonetic_am_text": "sivēl",
+      "phonetic_am_text": "si.vēl",
       "img": "",
       "pronunciation": "ˈsɪvəɫ",
       "senses": [
@@ -733,12 +709,13 @@
       ]
     },
     {
+      "id": "92c421f5-b550-443b-a543-2bff484d1767",
       "word": "occupied",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=b2NjdXBpZWQ&hash=d157c3e8f0954da247c2a3e28302533ea042c80c&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:kjəpaɪd",
+      "phonetic_text": "ɑk.jə.paɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=b2NjdXBpZWQ&hash=d157c3e8f0954da247c2a3e28302533ea042c80c&lang=en&cache-only=0",
-      "phonetic_am_text": "aakyēpaid",
+      "phonetic_am_text": "aak.yē.paid",
       "img": "",
       "pronunciation": "ˈɑkjəˌpaɪd",
       "senses": [
@@ -762,12 +739,13 @@
       ]
     },
     {
+      "id": "50108185-d4b7-48dd-a9cf-74034f0dcf9e",
       "word": "parade",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFyYWRl&hash=300303e48f014191bc914177db6684e5c4891940&lang=en&cache-only=0",
-      "phonetic_text": "pəreɪd",
+      "phonetic_text": "pɜ.reɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFyYWRl&hash=300303e48f014191bc914177db6684e5c4891940&lang=en&cache-only=0",
-      "phonetic_am_text": "pēreid",
+      "phonetic_am_text": "pē.reid",
       "img": "",
       "pronunciation": "pɝˈeɪd",
       "senses": [
@@ -795,12 +773,13 @@
       ]
     },
     {
+      "id": "60bba375-ed45-4ed2-b26d-7f8b9e43ab5c",
       "word": "prisoner of war",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=cHJpc29uZXIgb2Ygd2Fy&hash=bd1bbcc0e2bbf16513e77a423774694d1e2493be&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "prɪ.zə.nɜr ʌv wɑr",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJpc29uZXIgb2Ygd2Fy&hash=bd1bbcc0e2bbf16513e77a423774694d1e2493be&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pri.zē.nēr av vaar",
       "img": "",
       "pronunciation": "pɹˈɪzənɚɹ ʌv wˈɔːɹ",
       "senses": [
@@ -816,6 +795,7 @@
       ]
     },
     {
+      "id": "2021f41d-80f3-4ba5-84eb-7048f5a325be",
       "word": "rank",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFuaw&hash=fc917ead2eb3295e14e3502b6d63becace809395&lang=en&cache-only=0",
@@ -845,12 +825,13 @@
       ]
     },
     {
+      "id": "887c409b-caf0-4278-874b-f5c4030a4a95",
       "word": "refugee",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVmdWdlZQ&hash=432a89eb7eaabe004d7bdd4daf9725fd07909c70&lang=en&cache-only=0",
-      "phonetic_text": "rɛfjuʤi",
+      "phonetic_text": "rɛ.fju.ʤi",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVmdWdlZQ&hash=432a89eb7eaabe004d7bdd4daf9725fd07909c70&lang=en&cache-only=0",
-      "phonetic_am_text": "refyuji",
+      "phonetic_am_text": "re.fyoo.ji",
       "img": "",
       "pronunciation": "ˈɹɛfjudʒi",
       "senses": [
@@ -878,12 +859,13 @@
       ]
     },
     {
+      "id": "de49757f-3d80-4004-90f4-c25345f60afb",
       "word": "volunteer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dm9sdW50ZWVy&hash=c00f95ac634112e5be3526fbb4d4a1def0a30fee&lang=en&cache-only=0",
-      "phonetic_text": "vɑləntɪr",
+      "phonetic_text": "vɑ.lən.tɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=dm9sdW50ZWVy&hash=c00f95ac634112e5be3526fbb4d4a1def0a30fee&lang=en&cache-only=0",
-      "phonetic_am_text": "vɑlēntir",
+      "phonetic_am_text": "vaa.lēn.tir",
       "img": "",
       "pronunciation": "ˌvɑɫənˈtɪɹ",
       "senses": [
@@ -911,14 +893,15 @@
       ]
     },
     {
+      "id": "761c4d33-930d-4c28-a5f9-b22b727e0772",
       "word": "service",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VydmljZQ&hash=e947819f83fb3cffc420938828391aa76c239796&lang=en&cache-only=0",
-      "phonetic_text": "sɜrvəs",
+      "phonetic_text": "sɜr.vɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VydmljZQ&hash=e947819f83fb3cffc420938828391aa76c239796&lang=en&cache-only=0",
-      "phonetic_am_text": "sērvēs",
+      "phonetic_am_text": "sēr.vis",
       "img": "",
-      "pronunciation": "ˈsɝvəs/, /ˈsɝvɪs",
+      "pronunciation": "ˈsɝːvɪs",
       "senses": [
         {
           "definition": "a division of the armed forces such as the army, navy, air force, or marines, that performs specific duties and missions",
@@ -936,6 +919,7 @@
       ]
     },
     {
+      "id": "40495758-4868-483e-a1d7-578b90090fe9",
       "word": "tank",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFuaw&hash=b0b9f083d64e9be4554d7c5ccb0abb539966e010&lang=en&cache-only=0",
@@ -973,12 +957,13 @@
       ]
     },
     {
+      "id": "3f9e8fac-d67a-4bc3-b99c-a58b01b7f4e8",
       "word": "warship",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2Fyc2hpcA&hash=980ff9d5a144c03c84c28c5e298c24d0b2353db4&lang=en&cache-only=0",
-      "phonetic_text": "wɔ:rʃɪp",
+      "phonetic_text": "wɔr.ʃɪp",
       "phonetic_am": "https://tts.langeek.co/read?text=d2Fyc2hpcA&hash=980ff9d5a144c03c84c28c5e298c24d0b2353db4&lang=en&cache-only=0",
-      "phonetic_am_text": "waawrship",
+      "phonetic_am_text": "vawr.ship",
       "img": "",
       "pronunciation": "ˈwɔɹˌʃɪp",
       "senses": [
@@ -1006,12 +991,13 @@
       ]
     },
     {
+      "id": "220ce4bc-4053-4cb4-9df1-1a1102aa6320",
       "word": "war crime",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2FyIGNyaW1l&hash=ae85e03dfb032c5962f9d05fd1401ae7a6c0bc0d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɑr kraɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=d2FyIGNyaW1l&hash=ae85e03dfb032c5962f9d05fd1401ae7a6c0bc0d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vaar kraim",
       "img": "",
       "pronunciation": "wˈɔːɹ kɹˈaɪm",
       "senses": [
@@ -1035,12 +1021,13 @@
       ]
     },
     {
+      "id": "e71e4c30-17a4-45dd-9064-245d4bb4747c",
       "word": "nuclear submarine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bnVjbGVhciBzdWJtYXJpbmU&hash=98cd86590ff5b09771ed9423501787d34e1fc86b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nuk.liɜr səb.mɜ.rin",
       "phonetic_am": "https://tts.langeek.co/read?text=bnVjbGVhciBzdWJtYXJpbmU&hash=98cd86590ff5b09771ed9423501787d34e1fc86b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nook.liēr sēb.mē.rin",
       "img": "",
       "pronunciation": "nˈuːklɪɹ sˈʌbmɚɹˌiːn",
       "senses": [
@@ -1068,14 +1055,15 @@
       ]
     },
     {
+      "id": "4f9e090e-05dd-4281-a95b-c2cf1f497d5a",
       "word": "target",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFyZ2V0&hash=8e850d56dc7e036b7a52255b597cbdb6781f5205&lang=en&cache-only=0",
-      "phonetic_text": "tɑ:rgət",
+      "phonetic_text": "tɑr.gɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFyZ2V0&hash=8e850d56dc7e036b7a52255b597cbdb6781f5205&lang=en&cache-only=0",
-      "phonetic_am_text": "taargēt",
+      "phonetic_am_text": "taar.get",
       "img": "",
-      "pronunciation": "ˈtɑɹɡət/, /ˈtɝɡət",
+      "pronunciation": "ˈtɑrɡɪt",
       "senses": [
         {
           "definition": "a person, building, or area marked to be attacked",
@@ -1105,7 +1093,8 @@
       ]
     },
     {
-      "word": "wreck",
+      "id": "2b4ec7e6-955c-428d-a549-2dd2a5b9b7df",
+      "word": "to wreck",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd3JlY2s&hash=9f59d978cfa8e0dc6183631dbf52159e15830c47&lang=en&cache-only=0",
       "phonetic_text": "rɛk",
@@ -1142,12 +1131,13 @@
       ]
     },
     {
+      "id": "8b8f9f3c-289d-4c93-a7b1-6d0d7a57cba9",
       "word": "spoil",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BvaWw&hash=203c0359e9b404f5d1e0301f47fd0938136dd4e8&lang=en&cache-only=0",
       "phonetic_text": "spɔɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BvaWw&hash=203c0359e9b404f5d1e0301f47fd0938136dd4e8&lang=en&cache-only=0",
-      "phonetic_am_text": "spoyl",
+      "phonetic_am_text": "spawil",
       "img": "",
       "pronunciation": "ˈspɔɪɫ",
       "senses": [
@@ -1175,13 +1165,14 @@
       ]
     },
     {
-      "word": "wound",
+      "id": "e0d0292d-7f18-45a7-8f46-854892e9da73",
+      "word": "to wound",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd291bmQ&hash=44bdd5a1cbf67d09647fa6f0dede6ac683e3110f&lang=en&cache-only=0",
       "phonetic_text": "waʊnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd291bmQ&hash=44bdd5a1cbf67d09647fa6f0dede6ac683e3110f&lang=en&cache-only=0",
-      "phonetic_am_text": "wawnd",
-      "img": "https://cdn.langeek.co/photo/17649/original/cut?type=jpeg",
+      "phonetic_am_text": "vaoond",
+      "img": "https://cdn.langeek.co/photo/61740/original/cut?type=jpeg",
       "pronunciation": "ˈwaʊnd/, /ˈwund",
       "senses": [
         {
@@ -1212,45 +1203,30 @@
       ]
     },
     {
+      "id": "4f55a477-211b-4d6e-a56b-b8b8b20ffb9a",
       "word": "ground-to-air missile",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JvdW5kLXRvLWFpciBtaXNzaWxl&hash=a6b3105f6cd9b2704e13462a0936b161d68059bc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "graʊnd-tu:-ɛr mɪ.səl",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JvdW5kLXRvLWFpciBtaXNzaWxl&hash=a6b3105f6cd9b2704e13462a0936b161d68059bc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "graoond-too-er mi.sēl",
       "img": "",
       "pronunciation": "ɡɹˈaʊndtʊˈɛɹ mˈɪsəl",
       "senses": [
         {
           "definition": "a missile aimed at an aircraft from the ground or a ship",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The military deployed ground-to-air missiles to protect the base from enemy aircraft."
-            },
-            {
-              "cf": "",
-              "x": "The effectiveness of ground-to-air missiles has significantly increased with advancements in technology."
-            },
-            {
-              "cf": "",
-              "x": "Training soldiers to operate ground-to-air missiles is crucial for national defense."
-            },
-            {
-              "cf": "",
-              "x": "During the conflict, ground-to-air missiles were used to intercept hostile drones."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "e22cdf94-1b54-4734-b8a7-5e20888ac1b4",
       "word": "air-to-ground missile",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWlyLXRvLWdyb3VuZCBtaXNzaWxl&hash=0426f55882ed622baa0d47796bab9d4223010b26&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛr-tu:-graʊnd mɪ.səl",
       "phonetic_am": "https://tts.langeek.co/read?text=YWlyLXRvLWdyb3VuZCBtaXNzaWxl&hash=0426f55882ed622baa0d47796bab9d4223010b26&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "er-too-graoond mi.sēl",
       "img": "",
       "pronunciation": "ˈeɹɾəɡɹˈaʊnd mˈɪsəl",
       "senses": [
@@ -1278,12 +1254,13 @@
       ]
     },
     {
+      "id": "5143fa3a-93cd-47cf-96c1-474cad4c0c3e",
       "word": "brass knuckles",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJhc3Mga251Y2tsZXM&hash=419669d7835c2c986f34999eb981fc11af58655f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bræs nəəklz",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJhc3Mga251Y2tsZXM&hash=419669d7835c2c986f34999eb981fc11af58655f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "brās nēēklz",
       "img": "https://cdn.langeek.co/photo/29777/original/?type=jpeg",
       "pronunciation": "bɹˈæs nˈʌkəlz",
       "senses": [
@@ -1311,12 +1288,13 @@
       ]
     },
     {
+      "id": "3da2a19d-58e3-4438-acf3-179c80afde76",
       "word": "dogfight",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZG9nZmlnaHQ&hash=9c26d31040de30d09f9938f38a861fb1f4671081&lang=en&cache-only=0",
-      "phonetic_text": "dɑ:gfaɪt",
+      "phonetic_text": "dɔ:g.faɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG9nZmlnaHQ&hash=9c26d31040de30d09f9938f38a861fb1f4671081&lang=en&cache-only=0",
-      "phonetic_am_text": "daagfait",
+      "phonetic_am_text": "dawg.fait",
       "img": "",
       "pronunciation": "ˈdɑɡˌfaɪt",
       "senses": [
@@ -1344,12 +1322,13 @@
       ]
     },
     {
+      "id": "12922079-6867-4b15-92b6-291f0eac2ac1",
       "word": "marine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFyaW5l&hash=3a7aa4424078132034bb72b4264b2bace4e04a53&lang=en&cache-only=0",
-      "phonetic_text": "məri:n",
+      "phonetic_text": "mɜ.rin",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFyaW5l&hash=3a7aa4424078132034bb72b4264b2bace4e04a53&lang=en&cache-only=0",
-      "phonetic_am_text": "mēreen",
+      "phonetic_am_text": "mē.rin",
       "img": "",
       "pronunciation": "mɝˈin",
       "senses": [
@@ -1365,13 +1344,14 @@
       ]
     },
     {
-      "word": "gun down",
+      "id": "4baff204-6218-40df-b53f-a669a4e89dc4",
+      "word": "to gun down",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ3VuIGRvd24&hash=8fba4ef34c01def60b1179bee02f0c2e87860021&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gʌn daʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ3VuIGRvd24&hash=8fba4ef34c01def60b1179bee02f0c2e87860021&lang=en&cache-only=0",
-      "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/27612/original/?type=jpeg",
+      "phonetic_am_text": "gan daoon",
+      "img": "https://cdn.langeek.co/photo/61262/original/?type=jpeg",
       "pronunciation": "ɡˈʌn dˈaʊn",
       "senses": [
         {
@@ -1394,10 +1374,11 @@
       ]
     },
     {
+      "id": "03c5da01-1acc-407f-94b5-dbe55a13cb2c",
       "word": "United States Marine Corps",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=VW5pdGVkIFN0YXRlcyBNYXJpbmUgQ29ycHM&hash=e23ad9a1962cf099def7cf53d6fa06e40436e563&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=VW5pdGVkIFN0YXRlcyBNYXJpbmUgQ29ycHM&hash=e23ad9a1962cf099def7cf53d6fa06e40436e563&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -1419,45 +1400,30 @@
       ]
     },
     {
+      "id": "c94301cb-1b7a-44ac-afef-2cf8ddb0ff1e",
       "word": "sidearm",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2lkZWFybQ&hash=1357483d614ac846a1e7001a63a6df5b7782b663&lang=en&cache-only=0",
-      "phonetic_text": "saɪdɑrm",
+      "phonetic_text": "saɪd.ɑ:rm",
       "phonetic_am": "https://tts.langeek.co/read?text=c2lkZWFybQ&hash=1357483d614ac846a1e7001a63a6df5b7782b663&lang=en&cache-only=0",
-      "phonetic_am_text": "saidɑrm",
+      "phonetic_am_text": "said.aarm",
       "img": "",
       "pronunciation": "ˈsaɪdɑɹm",
       "senses": [
         {
           "definition": "a weapon, such as a gun or knife, that is carried on the side of the body",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He preferred to carry a lightweight sidearm for everyday use rather than a larger firearm."
-            },
-            {
-              "cf": "",
-              "x": "The soldier was instructed to keep his sidearm secured in the holster during the training exercise."
-            },
-            {
-              "cf": "",
-              "x": "During the emergency, she reached for her sidearm, knowing it was her only means of protection."
-            },
-            {
-              "cf": "",
-              "x": "The detective always had his sidearm within reach while investigating potentially dangerous situations."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "66c4bea0-0b23-44b8-83e2-9c03bece3c78",
       "word": "bulletproof",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YnVsbGV0cHJvb2Y&hash=e12817bd44341489a4393093d9359620aff5b426&lang=en&cache-only=0",
-      "phonetic_text": "bʊlətpruf",
+      "phonetic_text": "bʊ.lət.pruf",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVsbGV0cHJvb2Y&hash=e12817bd44341489a4393093d9359620aff5b426&lang=en&cache-only=0",
-      "phonetic_am_text": "bulētpruf",
+      "phonetic_am_text": "boo.lēt.proof",
       "img": "https://cdn.langeek.co/photo/29810/original/?type=jpeg",
       "pronunciation": "ˈbʊɫətˌpɹuf",
       "senses": [

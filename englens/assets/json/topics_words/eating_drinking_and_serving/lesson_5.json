@@ -1,15 +1,17 @@
 {
+  "id": "59adbf21-56ee-4c01-8c14-9b205ecbf649",
   "topic": "eating_drinking_and_serving",
   "title": "Eating",
   "lesson": "lesson_5",
   "word_list": [
     {
-      "word": "eat",
+      "id": "13600a4b-688a-4051-988e-11d2b2536d97",
+      "word": "to eat",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZWF0&hash=759b9e5a7f9c35e0ec93c2400d3543df874f4539&lang=en&cache-only=0",
       "phonetic_text": "i:t",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZWF0&hash=759b9e5a7f9c35e0ec93c2400d3543df874f4539&lang=en&cache-only=0",
-      "phonetic_am_text": "eet",
+      "phonetic_am_text": "it",
       "img": "https://cdn.langeek.co/photo/48579/original/eat?type=jpeg",
       "pronunciation": "iːt",
       "senses": [
@@ -41,14 +43,15 @@
       ]
     },
     {
-      "word": "swallow",
+      "id": "1ed0a26b-ac61-4d56-95d2-f34fa0ea49f0",
+      "word": "to swallow",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3dhbGxvdw&hash=db5556aa2004158d393af5cddb81a149bc9c3a7a&lang=en&cache-only=0",
-      "phonetic_text": "swɑ:loʊ",
+      "phonetic_text": "swɑ.loʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3dhbGxvdw&hash=db5556aa2004158d393af5cddb81a149bc9c3a7a&lang=en&cache-only=0",
-      "phonetic_am_text": "swaalow",
+      "phonetic_am_text": "svaa.looo",
       "img": "https://cdn.langeek.co/photo/59056/original/?type=jpeg",
-      "pronunciation": "ˈswɑɫoʊ/, /ˈswɔɫoʊ",
+      "pronunciation": "ˈswɑloʊ",
       "senses": [
         {
           "definition": "to cause food, drink, or another substance to pass from the mouth down into the stomach, using the muscles of the throat",
@@ -78,13 +81,14 @@
       ]
     },
     {
-      "word": "have",
+      "id": "e9ab340d-8f3d-4abb-a7e9-b6839f9cd59c",
+      "word": "to have",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGF2ZQ&hash=f50f008a97735633f0ac679f3f12de346952ff3e&lang=en&cache-only=0",
       "phonetic_text": "hæv",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGF2ZQ&hash=f50f008a97735633f0ac679f3f12de346952ff3e&lang=en&cache-only=0",
       "phonetic_am_text": "hāv",
-      "img": "https://cdn.langeek.co/photo/48579/original/eat?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60802/original/?type=jpeg",
       "pronunciation": "hæv",
       "senses": [
         {
@@ -127,14 +131,15 @@
       ]
     },
     {
-      "word": "consume",
+      "id": "8e2c424c-5c7d-473a-a55d-f4c2de70045f",
+      "word": "to consume",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29uc3VtZQ&hash=9cdfa562337f095e3d243fa4a940af48099490dd&lang=en&cache-only=0",
-      "phonetic_text": "kənsu:m",
+      "phonetic_text": "kən.sum",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29uc3VtZQ&hash=9cdfa562337f095e3d243fa4a940af48099490dd&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnsoom",
+      "phonetic_am_text": "kēn.soom",
       "img": "https://cdn.langeek.co/photo/26628/original/?type=jpeg",
-      "pronunciation": "kənˈsum",
+      "pronunciation": "kənˈsuːm",
       "senses": [
         {
           "definition": "to eat or drink something",
@@ -164,7 +169,8 @@
       ]
     },
     {
-      "word": "taste",
+      "id": "0c357105-4a07-417c-bc21-f3aadc1a8206",
+      "word": "to taste",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFzdGU&hash=0672b74b102981175193991ea74d3a14c5ce71db&lang=en&cache-only=0",
       "phonetic_text": "teɪst",
@@ -193,7 +199,8 @@
       ]
     },
     {
-      "word": "touch",
+      "id": "455283fa-2733-4c45-bce6-ee3e5bb558c1",
+      "word": "to touch",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdG91Y2g&hash=f567ce6d5b530c41b3001434138c73a8ca094425&lang=en&cache-only=0",
       "phonetic_text": "tʌʧ",
@@ -226,7 +233,8 @@
       ]
     },
     {
-      "word": "try",
+      "id": "2e0f8c9a-598c-4b44-a57c-b45c0184cfe3",
+      "word": "to try",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHJ5&hash=4f5ca1cf7faae85aa97139d6b332410f679bc50f&lang=en&cache-only=0",
       "phonetic_text": "traɪ",
@@ -259,7 +267,8 @@
       ]
     },
     {
-      "word": "take",
+      "id": "2d50a8aa-d2dd-4a81-866b-cd87a89ae77e",
+      "word": "to take",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZQ&hash=218a7b24f2f9192973800c7366909ef3421d1aec&lang=en&cache-only=0",
       "phonetic_text": "teɪk",
@@ -304,12 +313,13 @@
       ]
     },
     {
-      "word": "ingest",
+      "id": "394832fd-cef1-447d-9ddd-8f2301058d5b",
+      "word": "to ingest",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW5nZXN0&hash=4c7c92f05df74ef5b25ea0ab83bad9250b8cb2dd&lang=en&cache-only=0",
-      "phonetic_text": "ɪnʤɛst",
+      "phonetic_text": "ɪn.ʤɛst",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW5nZXN0&hash=4c7c92f05df74ef5b25ea0ab83bad9250b8cb2dd&lang=en&cache-only=0",
-      "phonetic_am_text": "injest",
+      "phonetic_am_text": "in.jest",
       "img": "",
       "pronunciation": "ˌɪnˈdʒɛst",
       "senses": [
@@ -341,12 +351,13 @@
       ]
     },
     {
+      "id": "eadebc44-93dd-40de-80ac-2f016cebc06a",
       "word": "consumption",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29uc3VtcHRpb24&hash=b775a4794bd735f2dae1d23373aaf120d4520467&lang=en&cache-only=0",
-      "phonetic_text": "kənsʌmpʃən",
+      "phonetic_text": "kən.səmp.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uc3VtcHRpb24&hash=b775a4794bd735f2dae1d23373aaf120d4520467&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnsampshēn",
+      "phonetic_am_text": "kēn.sēmp.shēn",
       "img": "",
       "pronunciation": "kənˈsəmpʃən/, /kənˈsəmʃən",
       "senses": [
@@ -378,7 +389,8 @@
       ]
     },
     {
-      "word": "dine",
+      "id": "bfad830f-6b10-4839-9f9e-5384e2195316",
+      "word": "to dine",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGluZQ&hash=51f8e87a750a8bbe959d3b71bcb3be082b7652ad&lang=en&cache-only=0",
       "phonetic_text": "daɪn",
@@ -411,12 +423,13 @@
       ]
     },
     {
-      "word": "dine in",
+      "id": "3170f19f-61bc-4fb7-bedc-d1efca397fcd",
+      "word": "to dine in",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGluZSBpbg&hash=ebb5123232cb5925a786ef64e3fd32d8869fb3ff&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "daɪn ɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGluZSBpbg&hash=ebb5123232cb5925a786ef64e3fd32d8869fb3ff&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dain in",
       "img": "",
       "pronunciation": "dˈaɪn ˈɪn",
       "senses": [
@@ -440,12 +453,13 @@
       ]
     },
     {
-      "word": "dine out",
+      "id": "90322279-ce0e-4208-b7af-4879ff1202b0",
+      "word": "to dine out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGluZSBvdXQ&hash=b723bb6a0e75bd6f38d02959347821fa62f667fa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "daɪn aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGluZSBvdXQ&hash=b723bb6a0e75bd6f38d02959347821fa62f667fa&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dain aoot",
       "img": "https://cdn.langeek.co/photo/23431/original/?type=jpeg",
       "pronunciation": "dˈaɪn ˈaʊt",
       "senses": [
@@ -456,12 +470,13 @@
       ]
     },
     {
-      "word": "eat in",
+      "id": "144ada7f-e95a-4387-95e1-4dc36684edea",
+      "word": "to eat in",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZWF0IGlu&hash=7a7d3471ffd716e46aeac55016acbdf7e54cbd84&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "i:t ɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZWF0IGlu&hash=7a7d3471ffd716e46aeac55016acbdf7e54cbd84&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "it in",
       "img": "https://cdn.langeek.co/photo/52691/original/?type=jpeg",
       "pronunciation": "ˈiːt ˈɪn",
       "senses": [
@@ -485,12 +500,13 @@
       ]
     },
     {
-      "word": "eat out",
+      "id": "27e80e88-4328-46c9-a4d4-28957d3e36d7",
+      "word": "to eat out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZWF0IG91dA&hash=f1b7fbe1c59c71c9df57517cd33afe5e3e64def0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "i:t aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZWF0IG91dA&hash=f1b7fbe1c59c71c9df57517cd33afe5e3e64def0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "it aoot",
       "img": "https://cdn.langeek.co/photo/23431/original/?type=jpeg",
       "pronunciation": "ˈiːt ˈaʊt",
       "senses": [
@@ -522,12 +538,13 @@
       ]
     },
     {
-      "word": "fill up",
+      "id": "1ad2ff21-ac1e-41cb-8018-76ce9da442ec",
+      "word": "to fill up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmlsbCB1cA&hash=58dac635ac483149db8a143dfb3bc30752da2597&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɪl ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmlsbCB1cA&hash=58dac635ac483149db8a143dfb3bc30752da2597&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fil ap",
       "img": "https://cdn.langeek.co/photo/45409/original/?type=jpeg",
       "pronunciation": "fˈɪl ˈʌp",
       "senses": [
@@ -551,12 +568,13 @@
       ]
     },
     {
-      "word": "finish",
+      "id": "f3a3744b-9c61-4349-aa22-7b708d0607d2",
+      "word": "to finish",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmluaXNo&hash=6fa402de8cf57b02abcf2ca54d90f753323b97fe&lang=en&cache-only=0",
-      "phonetic_text": "fɪnɪʃ",
+      "phonetic_text": "fɪ.nɪʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmluaXNo&hash=6fa402de8cf57b02abcf2ca54d90f753323b97fe&lang=en&cache-only=0",
-      "phonetic_am_text": "finish",
+      "phonetic_am_text": "fi.nish",
       "img": "",
       "pronunciation": "ˈfɪnɪʃ",
       "senses": [
@@ -588,12 +606,13 @@
       ]
     },
     {
-      "word": "get down",
+      "id": "ba2f14a5-1242-42df-94b1-15ad6d6cd904",
+      "word": "to get down",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IGRvd24&hash=dc244bda8c09b94efd798a728f8780efc581b80d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gɛt daʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IGRvd24&hash=dc244bda8c09b94efd798a728f8780efc581b80d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "get daoon",
       "img": "",
       "pronunciation": "ɡɛt dˈaʊn",
       "senses": [
@@ -609,12 +628,13 @@
       ]
     },
     {
-      "word": "indulge",
+      "id": "01bc7402-dbe9-4faf-aa57-b8985ea0c006",
+      "word": "to indulge",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW5kdWxnZQ&hash=249adaa61d6ee1987c5aac3aace66be66ba6f1e0&lang=en&cache-only=0",
-      "phonetic_text": "ɪndʌlʤ",
+      "phonetic_text": "ɪn.dəlʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW5kdWxnZQ&hash=249adaa61d6ee1987c5aac3aace66be66ba6f1e0&lang=en&cache-only=0",
-      "phonetic_am_text": "indalj",
+      "phonetic_am_text": "in.dēlj",
       "img": "https://cdn.langeek.co/photo/47877/original/?type=jpeg",
       "pronunciation": "ˌɪnˈdəɫdʒ",
       "senses": [
@@ -646,12 +666,13 @@
       ]
     },
     {
-      "word": "nosh",
+      "id": "a5b3b0d6-b68e-4170-80d9-251931840aee",
+      "word": "to nosh",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbm9zaA&hash=1007d4c4d97bba4e4a5eb2a980c38dcd1604e94a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nɑ:ʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbm9zaA&hash=1007d4c4d97bba4e4a5eb2a980c38dcd1604e94a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "naash",
       "img": "https://cdn.langeek.co/photo/47306/original/?type=jpeg",
       "pronunciation": "nˈɑːʃ",
       "senses": [
@@ -671,7 +692,8 @@
       ]
     },
     {
-      "word": "lunch",
+      "id": "81157445-0c46-4101-908c-891bc0a31f06",
+      "word": "to lunch",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbHVuY2g&hash=1e320bf5653a6efcde7fe1e02903880fd84c1076&lang=en&cache-only=0",
       "phonetic_text": "lʌnʧ",
@@ -687,12 +709,13 @@
       ]
     },
     {
-      "word": "breakfast",
+      "id": "de7d41a7-83d5-437a-bb43-885514696fdc",
+      "word": "to breakfast",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJlYWtmYXN0&hash=050a18e46629f4920a3e5fe1c431b85acfd4dad6&lang=en&cache-only=0",
-      "phonetic_text": "brɛkfəst",
+      "phonetic_text": "breɪk.fæst",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJlYWtmYXN0&hash=050a18e46629f4920a3e5fe1c431b85acfd4dad6&lang=en&cache-only=0",
-      "phonetic_am_text": "brekfēst",
+      "phonetic_am_text": "breik.fāst",
       "img": "",
       "pronunciation": "ˈbrekfəst",
       "senses": [
@@ -703,12 +726,13 @@
       ]
     },
     {
-      "word": "partake",
+      "id": "a47c7913-d6c8-4d87-ad54-306ddb627d30",
+      "word": "to partake",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGFydGFrZQ&hash=f0d2d6c09e1d796c0f1ae6a83841acfc7b68dc08&lang=en&cache-only=0",
-      "phonetic_text": "pɑrteɪk",
+      "phonetic_text": "pɑr.teɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGFydGFrZQ&hash=f0d2d6c09e1d796c0f1ae6a83841acfc7b68dc08&lang=en&cache-only=0",
-      "phonetic_am_text": "pɑrteik",
+      "phonetic_am_text": "paar.teik",
       "img": "https://cdn.langeek.co/photo/48579/original/eat?type=jpeg",
       "pronunciation": "pɑɹˈteɪk",
       "senses": [
@@ -719,12 +743,13 @@
       ]
     },
     {
-      "word": "polish off",
+      "id": "e0d69330-d7e9-497a-b149-d0302d9fbd2a",
+      "word": "to polish off",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcG9saXNoIG9mZg&hash=16358c8252dcfb23956be775945c39b6b5eaf79b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "poʊ.lɪʃ ɑf",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcG9saXNoIG9mZg&hash=16358c8252dcfb23956be775945c39b6b5eaf79b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pooo.lish aaf",
       "img": "",
       "pronunciation": "pˈɑːlɪʃ ˈɔf",
       "senses": [
@@ -760,12 +785,13 @@
       ]
     },
     {
-      "word": "sup",
+      "id": "f31e2c7b-44f0-45e2-9e49-9ae452360c60",
+      "word": "to sup",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3Vw&hash=6d713d5af9fc51052d46d40e1432fc38a6b1b28d&lang=en&cache-only=0",
-      "phonetic_text": "sʌp",
+      "phonetic_text": "səp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3Vw&hash=6d713d5af9fc51052d46d40e1432fc38a6b1b28d&lang=en&cache-only=0",
-      "phonetic_am_text": "sap",
+      "phonetic_am_text": "sēp",
       "img": "https://cdn.langeek.co/photo/21657/original/?type=jpeg",
       "pronunciation": "ˈsəp",
       "senses": [
@@ -797,7 +823,8 @@
       ]
     },
     {
-      "word": "bite",
+      "id": "5e06c218-54e2-40f8-99ac-27313375ef63",
+      "word": "to bite",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYml0ZQ&hash=ee9210b097ea1df8f23f7ae644c185769cba91a6&lang=en&cache-only=0",
       "phonetic_text": "baɪt",
@@ -834,12 +861,13 @@
       ]
     },
     {
-      "word": "bolt",
+      "id": "ff140844-a589-400d-b12b-6460e5b80b4d",
+      "word": "to bolt",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYm9sdA&hash=0c23e585a6b3e6600436d566357957674f8b5e10&lang=en&cache-only=0",
       "phonetic_text": "boʊlt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYm9sdA&hash=0c23e585a6b3e6600436d566357957674f8b5e10&lang=en&cache-only=0",
-      "phonetic_am_text": "bowlt",
+      "phonetic_am_text": "booolt",
       "img": "",
       "pronunciation": "ˈboʊɫt",
       "senses": [
@@ -871,10 +899,11 @@
       ]
     },
     {
+      "id": "4c8e4132-d317-4b21-b08c-5c4d58e82a4c",
       "word": "bon appetit",
       "pos": "interjection",
       "phonetic": "https://tts.langeek.co/read?text=Ym9uIGFwcGV0aXQ&hash=db9ff92eca11f5cd2c339fe10c835298373f951e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9uIGFwcGV0aXQ&hash=db9ff92eca11f5cd2c339fe10c835298373f951e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/48787/original/?type=jpeg",
@@ -887,7 +916,8 @@
       ]
     },
     {
-      "word": "champ",
+      "id": "9fbccff9-e37a-4227-a296-9ff7f55415df",
+      "word": "to champ",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hhbXA&hash=e4c9ffd214128f08ca8d206cd6dbbe9d60cc755b&lang=en&cache-only=0",
       "phonetic_text": "ʧæmp",
@@ -932,12 +962,13 @@
       ]
     },
     {
-      "word": "choke down",
+      "id": "b61683ee-6ea5-4d04-a841-16ba782a6937",
+      "word": "to choke down",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hva2UgZG93bg&hash=28974c01ad9cefc9640ba7d8335c040a7208d859&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧoʊk daʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2hva2UgZG93bg&hash=28974c01ad9cefc9640ba7d8335c040a7208d859&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "choook daoon",
       "img": "",
       "pronunciation": "tʃˈoʊk dˈaʊn",
       "senses": [
@@ -965,10 +996,11 @@
       ]
     },
     {
-      "word": "chomp",
+      "id": "6f20a282-3314-4e63-a5bb-03622a1e4d4d",
+      "word": "to chomp",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hvbXA&hash=7a2c8b0db044a472b2fa1c7571a6fe014f7970ac&lang=en&cache-only=0",
-      "phonetic_text": "ʧɑ:mp",
+      "phonetic_text": "ʧɑmp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2hvbXA&hash=7a2c8b0db044a472b2fa1c7571a6fe014f7970ac&lang=en&cache-only=0",
       "phonetic_am_text": "chaamp",
       "img": "https://cdn.langeek.co/photo/58893/original/?type=jpeg",
@@ -998,10 +1030,11 @@
       ]
     },
     {
-      "word": "chew",
+      "id": "a661e7a3-782a-4730-a6fc-5b2cc1980321",
+      "word": "to chew",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hldw&hash=35c76e6e494ff0bdc4d5b5db21a92d4320d2564d&lang=en&cache-only=0",
-      "phonetic_text": "ʧu:",
+      "phonetic_text": "ʧu",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2hldw&hash=35c76e6e494ff0bdc4d5b5db21a92d4320d2564d&lang=en&cache-only=0",
       "phonetic_am_text": "choo",
       "img": "https://cdn.langeek.co/photo/27762/original/?type=jpeg",
@@ -1027,7 +1060,8 @@
       ]
     },
     {
-      "word": "crunch",
+      "id": "8dd78fcf-fdf7-4382-bf97-534330611194",
+      "word": "to crunch",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3J1bmNo&hash=5ec7c9ec2ba048a1f6a16fa636d563f0b010ffd3&lang=en&cache-only=0",
       "phonetic_text": "krʌnʧ",
@@ -1060,14 +1094,15 @@
       ]
     },
     {
-      "word": "demolish",
+      "id": "2500fe94-6683-456b-892e-2c0cd9bf8ebf",
+      "word": "to demolish",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVtb2xpc2g&hash=53cdb820384725daab94ad203e17c2f9bfee5bd8&lang=en&cache-only=0",
-      "phonetic_text": "dɪmɑ:lɪʃ",
+      "phonetic_text": "dɪ.mɑ.lɪʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVtb2xpc2g&hash=53cdb820384725daab94ad203e17c2f9bfee5bd8&lang=en&cache-only=0",
-      "phonetic_am_text": "dimaalish",
+      "phonetic_am_text": "di.maa.lish",
       "img": "https://cdn.langeek.co/photo/26628/original/?type=jpeg",
-      "pronunciation": "dɪˈmɑɫɪʃ",
+      "pronunciation": "dɪˈmɑlɪʃ",
       "senses": [
         {
           "definition": "to eat something with a lot of enjoyment and finish it all",
@@ -1097,12 +1132,13 @@
       ]
     },
     {
-      "word": "devour",
+      "id": "2b5191c3-ec2d-4c1e-919b-c078c1dc0518",
+      "word": "to devour",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGV2b3Vy&hash=3ce6bc8bc411891bccbade71593160fe67d08768&lang=en&cache-only=0",
-      "phonetic_text": "dɪvaʊər",
+      "phonetic_text": "dɪ.vaʊr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGV2b3Vy&hash=3ce6bc8bc411891bccbade71593160fe67d08768&lang=en&cache-only=0",
-      "phonetic_am_text": "divawēr",
+      "phonetic_am_text": "di.vaoor",
       "img": "https://cdn.langeek.co/photo/47254/original/?type=jpeg",
       "pronunciation": "dɪˈvaʊɝ",
       "senses": [
@@ -1134,7 +1170,8 @@
       ]
     },
     {
-      "word": "diet",
+      "id": "2f471214-fe0b-4460-86a1-37e7d857e3a1",
+      "word": "to diet",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlldA&hash=215ef18e10564233d1ce597d1f86c19cf04c1c7d&lang=en&cache-only=0",
       "phonetic_text": "daɪət",
@@ -1171,12 +1208,13 @@
       ]
     },
     {
-      "word": "dig in",
+      "id": "349c9708-38de-42c1-81ee-6eb534dfca0b",
+      "word": "to dig in",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlnIGlu&hash=8572a20c18801dd68cbf0c2f221ab113dbf573df&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɪg ɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlnIGlu&hash=8572a20c18801dd68cbf0c2f221ab113dbf573df&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dig in",
       "img": "https://cdn.langeek.co/photo/48579/original/eat?type=jpeg",
       "pronunciation": "dˈɪɡ ˈɪn",
       "senses": [
@@ -1208,14 +1246,15 @@
       ]
     },
     {
-      "word": "down",
+      "id": "27e15e85-2aff-4e44-b921-0068d3f54e54",
+      "word": "to down",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZG93bg&hash=b5b2f490c880b102ff5383995dd8c26dfa528f01&lang=en&cache-only=0",
       "phonetic_text": "daʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZG93bg&hash=b5b2f490c880b102ff5383995dd8c26dfa528f01&lang=en&cache-only=0",
-      "phonetic_am_text": "dawn",
+      "phonetic_am_text": "daoon",
       "img": "https://cdn.langeek.co/photo/26628/original/?type=jpeg",
-      "pronunciation": "ˈdaʊn",
+      "pronunciation": "daʊn",
       "senses": [
         {
           "definition": "to rapidly and completely consume food",
@@ -1237,12 +1276,13 @@
       ]
     },
     {
-      "word": "eat up",
+      "id": "57cf38eb-3358-4859-8658-c2cb51ecd571",
+      "word": "to eat up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZWF0IHVw&hash=b3cb4053f3e67f6593674e571d460f629c9fc0cf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "i:t ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZWF0IHVw&hash=b3cb4053f3e67f6593674e571d460f629c9fc0cf&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "it ap",
       "img": "https://cdn.langeek.co/photo/47258/original/?type=jpeg",
       "pronunciation": "ˈiːt ˈʌp",
       "senses": [
@@ -1258,12 +1298,13 @@
       ]
     },
     {
-      "word": "gobble",
+      "id": "d2d7a691-1b83-4d34-9e61-a58db5c6a0d5",
+      "word": "to gobble",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ29iYmxl&hash=c8432ca1b023ac7a41ba4b2e1cec9ab389600c1f&lang=en&cache-only=0",
-      "phonetic_text": "gɑ:bəl",
+      "phonetic_text": "gɑ.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ29iYmxl&hash=c8432ca1b023ac7a41ba4b2e1cec9ab389600c1f&lang=en&cache-only=0",
-      "phonetic_am_text": "gaabēl",
+      "phonetic_am_text": "gaa.bēl",
       "img": "https://cdn.langeek.co/photo/39143/original/?type=jpeg",
       "pronunciation": "ˈɡɑbəɫ",
       "senses": [
@@ -1287,12 +1328,13 @@
       ]
     },
     {
-      "word": "gulp",
+      "id": "2e2f02fe-b838-4598-8497-2564da0dda9a",
+      "word": "to gulp",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ3VscA&hash=b931da864e988927bdc4eee37a0057897b44741f&lang=en&cache-only=0",
-      "phonetic_text": "gʌlp",
+      "phonetic_text": "gəlp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ3VscA&hash=b931da864e988927bdc4eee37a0057897b44741f&lang=en&cache-only=0",
-      "phonetic_am_text": "galp",
+      "phonetic_am_text": "gēlp",
       "img": "https://cdn.langeek.co/photo/47260/original/?type=jpeg",
       "pronunciation": "ˈɡəɫp",
       "senses": [
@@ -1320,12 +1362,13 @@
       ]
     },
     {
-      "word": "guzzle",
+      "id": "384652e0-1ba2-447f-9731-8c4ced40708c",
+      "word": "to guzzle",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ3V6emxl&hash=e7d07fc0e1d99ad9fce82b28896569452ad50dae&lang=en&cache-only=0",
-      "phonetic_text": "gʌzəl",
+      "phonetic_text": "gə.zəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ3V6emxl&hash=e7d07fc0e1d99ad9fce82b28896569452ad50dae&lang=en&cache-only=0",
-      "phonetic_am_text": "gazēl",
+      "phonetic_am_text": "gē.zēl",
       "img": "https://cdn.langeek.co/photo/47260/original/?type=jpeg",
       "pronunciation": "ˈɡəzəɫ",
       "senses": [
@@ -1357,7 +1400,8 @@
       ]
     },
     {
-      "word": "lick",
+      "id": "054508d3-343f-4a6e-83bd-9864e21d0c22",
+      "word": "to lick",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGljaw&hash=b9bfd2e9dafdc2c6d15d79e18b1868a7df8b815b&lang=en&cache-only=0",
       "phonetic_text": "lɪk",
@@ -1394,12 +1438,13 @@
       ]
     },
     {
-      "word": "munch",
+      "id": "f415826e-9387-498c-85ab-668f674739b2",
+      "word": "to munch",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbXVuY2g&hash=7c432f7dc9c846571b9fa21b35a80fd32c8ff40d&lang=en&cache-only=0",
-      "phonetic_text": "mʌnʧ",
+      "phonetic_text": "mənʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbXVuY2g&hash=7c432f7dc9c846571b9fa21b35a80fd32c8ff40d&lang=en&cache-only=0",
-      "phonetic_am_text": "manch",
+      "phonetic_am_text": "mēnch",
       "img": "https://cdn.langeek.co/photo/32018/original/?type=jpeg",
       "pronunciation": "ˈməntʃ",
       "senses": [
@@ -1431,12 +1476,13 @@
       ]
     },
     {
-      "word": "nibble",
+      "id": "a352b332-6d57-4ff3-8d66-728d0cff71a4",
+      "word": "to nibble",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbmliYmxl&hash=a79368fc896719126624370e780ff63bb67def58&lang=en&cache-only=0",
-      "phonetic_text": "nɪbəl",
+      "phonetic_text": "nɪ.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbmliYmxl&hash=a79368fc896719126624370e780ff63bb67def58&lang=en&cache-only=0",
-      "phonetic_am_text": "nibēl",
+      "phonetic_am_text": "ni.bēl",
       "img": "https://cdn.langeek.co/photo/47186/original/?type=jpeg",
       "pronunciation": "ˈnɪbəɫ",
       "senses": [
@@ -1460,12 +1506,13 @@
       ]
     },
     {
-      "word": "peck at",
+      "id": "f5d716ca-0867-4507-9739-8eb8c4f72f68",
+      "word": "to peck at",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGVjayBhdA&hash=0690aca6e037df2d6ce7c10bebd5e24115cd0c1b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɛk æt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGVjayBhdA&hash=0690aca6e037df2d6ce7c10bebd5e24115cd0c1b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pek āt",
       "img": "",
       "pronunciation": "pˈɛk æt",
       "senses": [
@@ -1497,12 +1544,13 @@
       ]
     },
     {
-      "word": "pick at",
+      "id": "db61434f-e328-4cb5-b43c-dd2ed31c46cd",
+      "word": "to pick at",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGljayBhdA&hash=6edcfc3a75ef01615e4426c6b9ddac31de7a7147&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɪk æt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGljayBhdA&hash=6edcfc3a75ef01615e4426c6b9ddac31de7a7147&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pik āt",
       "img": "",
       "pronunciation": "pˈɪk æt",
       "senses": [
@@ -1534,13 +1582,14 @@
       ]
     },
     {
-      "word": "savor",
+      "id": "7972c5a9-7558-47b3-b7d7-9c9d640f790b",
+      "word": "to savor",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2F2b3I&hash=de864210e8eb7717ecb4332435284c117f7b74d5&lang=en&cache-only=0",
-      "phonetic_text": "seɪvər",
+      "phonetic_text": "seɪ.vɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2F2b3I&hash=de864210e8eb7717ecb4332435284c117f7b74d5&lang=en&cache-only=0",
-      "phonetic_am_text": "seivēr",
-      "img": "https://cdn.langeek.co/photo/27596/original/?type=jpeg",
+      "phonetic_am_text": "sei.vēr",
+      "img": "https://cdn.langeek.co/photo/61820/original/?type=jpeg",
       "pronunciation": "ˈseɪvɝ",
       "senses": [
         {
@@ -1571,10 +1620,11 @@
       ]
     },
     {
-      "word": "scarf",
+      "id": "c1fd55f6-b5a8-40c0-a881-3d036d03d72a",
+      "word": "to scarf",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NhcmY&hash=7e380cca7d037d071e4858e935bdaea1e7c1929a&lang=en&cache-only=0",
-      "phonetic_text": "skɑ:rf",
+      "phonetic_text": "skɑrf",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NhcmY&hash=7e380cca7d037d071e4858e935bdaea1e7c1929a&lang=en&cache-only=0",
       "phonetic_am_text": "skaarf",
       "img": "",
@@ -1596,7 +1646,8 @@
       ]
     },
     {
-      "word": "snack",
+      "id": "66aa0fde-4e51-40a7-8967-519c8ec783f0",
+      "word": "to snack",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc25hY2s&hash=2fb2f53810f4873d40c93f5e668a649637d6f37c&lang=en&cache-only=0",
       "phonetic_text": "snæk",
@@ -1633,7 +1684,8 @@
       ]
     },
     {
-      "word": "spoon",
+      "id": "1a79bee0-cb73-4266-9678-f9ac330a9b31",
+      "word": "to spoon",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3Bvb24&hash=6985f869bdff86deacdbab6e62871d1fea7f4c6b&lang=en&cache-only=0",
       "phonetic_text": "spu:n",
@@ -1670,12 +1722,13 @@
       ]
     },
     {
-      "word": "wolf",
+      "id": "5d0c284b-18a4-4144-9b17-9f92c9e31f86",
+      "word": "to wolf",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd29sZg&hash=470577d6279ba981650a8eade533c3039db267a7&lang=en&cache-only=0",
       "phonetic_text": "wʊlf",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd29sZg&hash=470577d6279ba981650a8eade533c3039db267a7&lang=en&cache-only=0",
-      "phonetic_am_text": "wulf",
+      "phonetic_am_text": "voolf",
       "img": "https://cdn.langeek.co/photo/39143/original/?type=jpeg",
       "pronunciation": "wʊlf",
       "senses": [
@@ -1707,12 +1760,13 @@
       ]
     },
     {
-      "word": "feast",
+      "id": "cc3d7248-93ef-4a56-9e0f-1b51c6837f84",
+      "word": "to feast",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmVhc3Q&hash=dd4a7476c76cefd078db02807c125d81d4a87dab&lang=en&cache-only=0",
-      "phonetic_text": "fi:st",
+      "phonetic_text": "fist",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmVhc3Q&hash=dd4a7476c76cefd078db02807c125d81d4a87dab&lang=en&cache-only=0",
-      "phonetic_am_text": "feest",
+      "phonetic_am_text": "fist",
       "img": "https://cdn.langeek.co/photo/32084/original/?type=jpeg",
       "pronunciation": "ˈfist",
       "senses": [
@@ -1740,7 +1794,8 @@
       ]
     },
     {
-      "word": "binge",
+      "id": "f5f98e59-9cb0-4fac-a7ab-3cce5d919031",
+      "word": "to binge",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmluZ2U&hash=62803c1f424c38053845e5cd9604f3fb857fc97e&lang=en&cache-only=0",
       "phonetic_text": "bɪnʤ",
@@ -1777,12 +1832,13 @@
       ]
     },
     {
-      "word": "overeat",
+      "id": "112607b2-2bdd-4c01-9770-2fcd1eddc082",
+      "word": "to overeat",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gb3ZlcmVhdA&hash=0c54b1df137a00da453637ad450a0dd6b0baa90e&lang=en&cache-only=0",
-      "phonetic_text": "oʊvərit",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gb3ZlcmVhdA&hash=0c54b1df137a00da453637ad450a0dd6b0baa90e&lang=en&cache-only=0",
-      "phonetic_am_text": "owvērit",
+      "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/32531/original/?type=jpeg",
       "pronunciation": "ˈoʊvɝˌit",
       "senses": [
@@ -1793,12 +1849,13 @@
       ]
     },
     {
-      "word": "gorge",
+      "id": "7047d006-b430-4573-941e-094f822b0343",
+      "word": "to gorge",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ29yZ2U&hash=3fa423b15bdd8c84921ec545267676c29c8e0118&lang=en&cache-only=0",
-      "phonetic_text": "gɔ:rʤ",
+      "phonetic_text": "gɔrʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ29yZ2U&hash=3fa423b15bdd8c84921ec545267676c29c8e0118&lang=en&cache-only=0",
-      "phonetic_am_text": "gaawrj",
+      "phonetic_am_text": "gawrj",
       "img": "https://cdn.langeek.co/photo/32531/original/?type=jpeg",
       "pronunciation": "ˈɡɔɹdʒ",
       "senses": [
@@ -1830,12 +1887,13 @@
       ]
     },
     {
-      "word": "pack away",
+      "id": "9ab7a765-bc90-4c03-aefb-74636548e6bf",
+      "word": "to pack away",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGFjayBhd2F5&hash=ba538492f3910e6a74ddb6970ec9315809dc46af&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pæk ə.weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGFjayBhd2F5&hash=ba538492f3910e6a74ddb6970ec9315809dc46af&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pāk ē.vei",
       "img": "https://cdn.langeek.co/photo/39143/original/?type=jpeg",
       "pronunciation": "pˈæk ɐwˈeɪ",
       "senses": [
@@ -1859,7 +1917,8 @@
       ]
     },
     {
-      "word": "pig",
+      "id": "bcd34cfd-476e-4486-b376-d2c666a751ef",
+      "word": "to pig",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGln&hash=4ed20e12d0d6f0237ef7f616a4f71c32f97f21bb&lang=en&cache-only=0",
       "phonetic_text": "pɪg",
@@ -1892,7 +1951,8 @@
       ]
     },
     {
-      "word": "slurp",
+      "id": "2c4cad01-cd33-4d07-8583-6a5c591082fa",
+      "word": "to slurp",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2x1cnA&hash=d797d74bc74cc0ae944f4a4db01fd4fbb6920b89&lang=en&cache-only=0",
       "phonetic_text": "slɜrp",

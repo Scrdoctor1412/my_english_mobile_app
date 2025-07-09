@@ -1,9 +1,11 @@
 {
+  "id": "4a6719c1-089f-4b04-88a6-74a1e55ca4f8",
   "topic": "a1_level",
   "title": "Furniture and Home Appliances",
   "lesson": "lesson_12",
   "word_list": [
     {
+      "id": "97c13cd8-c067-427a-8105-69c374274fd7",
       "word": "desk",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVzaw&hash=67e8fe41cf2458647a877595b9238402e7fe6db8&lang=en&cache-only=0",
@@ -41,6 +43,7 @@
       ]
     },
     {
+      "id": "53f89873-c07a-417d-9d41-5f8eced64cff",
       "word": "chair",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hhaXI&hash=45633f05549abd59b87026ad75653d2d7f7958f1&lang=en&cache-only=0",
@@ -78,12 +81,13 @@
       ]
     },
     {
+      "id": "591c0cd3-3641-4f75-8823-969042705d53",
       "word": "table",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFibGU&hash=0a0273e9f5bbd22b7d01ea9eb6b6b6ff0fd945f3&lang=en&cache-only=0",
-      "phonetic_text": "teɪbəl",
+      "phonetic_text": "teɪ.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFibGU&hash=0a0273e9f5bbd22b7d01ea9eb6b6b6ff0fd945f3&lang=en&cache-only=0",
-      "phonetic_am_text": "teibēl",
+      "phonetic_am_text": "tei.bēl",
       "img": "https://cdn.langeek.co/photo/17397/original/table?type=jpeg",
       "pronunciation": "ˈteɪbəl",
       "senses": [
@@ -97,18 +101,23 @@
             {
               "cf": "",
               "x": "The table in the waiting room had magazines for visitors to read."
+            },
+            {
+              "cf": "",
+              "x": "We played board games on the table during the family game night."
             }
           ]
         }
       ]
     },
     {
+      "id": "8db93a37-af8a-409e-9776-e18711720f38",
       "word": "sofa",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c29mYQ&hash=b2007c01164b705852bc790c420bfeee12132b88&lang=en&cache-only=0",
-      "phonetic_text": "soʊfə",
+      "phonetic_text": "soʊ.fə",
       "phonetic_am": "https://tts.langeek.co/read?text=c29mYQ&hash=b2007c01164b705852bc790c420bfeee12132b88&lang=en&cache-only=0",
-      "phonetic_am_text": "sowfē",
+      "phonetic_am_text": "sooo.fē",
       "img": "https://cdn.langeek.co/photo/50751/original/sofa?type=jpeg",
       "pronunciation": "ˈsoʊfə",
       "senses": [
@@ -140,6 +149,7 @@
       ]
     },
     {
+      "id": "3109e9b5-59f9-4b04-9979-89212f9bcfa4",
       "word": "bed",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVk&hash=f168fe9b1cb85c90950402c3950f6578447cb42f&lang=en&cache-only=0",
@@ -177,12 +187,13 @@
       ]
     },
     {
+      "id": "2b651e37-5675-42bc-b3df-2b728706e822",
       "word": "cabinet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FiaW5ldA&hash=eced7bf1514d07bb6d8cda4c2960b343c5cddeb4&lang=en&cache-only=0",
-      "phonetic_text": "kæbənət",
+      "phonetic_text": "kæ.bɪ.nɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FiaW5ldA&hash=eced7bf1514d07bb6d8cda4c2960b343c5cddeb4&lang=en&cache-only=0",
-      "phonetic_am_text": "kābēnēt",
+      "phonetic_am_text": "kā.bi.nit",
       "img": "https://cdn.langeek.co/photo/48537/original/cabinet?type=jpeg",
       "pronunciation": "ˈkæbɪnɪt",
       "senses": [
@@ -202,12 +213,13 @@
       ]
     },
     {
+      "id": "ba2ed1b6-3f30-4d02-b6fa-f91ee3863ff7",
       "word": "refrigerator",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVmcmlnZXJhdG9y&hash=79ad7d25488a836dd539c725bf5d160d328a1d7a&lang=en&cache-only=0",
-      "phonetic_text": "rəfrɪʤəreɪtər",
+      "phonetic_text": "rɪf.rɪ.ʤə.reɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVmcmlnZXJhdG9y&hash=79ad7d25488a836dd539c725bf5d160d328a1d7a&lang=en&cache-only=0",
-      "phonetic_am_text": "rēfrijēreitēr",
+      "phonetic_am_text": "rif.ri.jē.rei.tēr",
       "img": "https://cdn.langeek.co/photo/49185/original/fridge?type=jpeg",
       "pronunciation": "rɪˈfrɪdʒəˌreɪtɚ",
       "senses": [
@@ -227,12 +239,13 @@
       ]
     },
     {
+      "id": "1dd4af75-fafb-43e9-9602-1783b3a55b1a",
       "word": "television",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVsZXZpc2lvbg&hash=85dcabfc1c1c0fb50556cf92ca2b3e1d52843ecc&lang=en&cache-only=0",
-      "phonetic_text": "tɛləvɪʒən",
+      "phonetic_text": "tɛ.lə.vɪ.ʒən",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVsZXZpc2lvbg&hash=85dcabfc1c1c0fb50556cf92ca2b3e1d52843ecc&lang=en&cache-only=0",
-      "phonetic_am_text": "telēvizhēn",
+      "phonetic_am_text": "te.lē.vi.zhēn",
       "img": "https://cdn.langeek.co/photo/48539/original/tv?type=jpeg",
       "pronunciation": "ˈtɛləˌvɪʒən",
       "senses": [
@@ -260,12 +273,13 @@
       ]
     },
     {
+      "id": "7a1ae246-8769-4c99-942d-494207584a17",
       "word": "stove",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RvdmU&hash=645180325759f0bf2c84efbc42976a93ae4dd425&lang=en&cache-only=0",
       "phonetic_text": "stoʊv",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RvdmU&hash=645180325759f0bf2c84efbc42976a93ae4dd425&lang=en&cache-only=0",
-      "phonetic_am_text": "stowv",
+      "phonetic_am_text": "stooov",
       "img": "https://cdn.langeek.co/photo/48529/original/stove?type=jpeg",
       "pronunciation": "stoʊv",
       "senses": [

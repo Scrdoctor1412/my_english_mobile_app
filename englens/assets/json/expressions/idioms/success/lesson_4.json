@@ -1,15 +1,17 @@
 {
+  "id": "1cf74ec4-53d6-4e7c-8e1f-a9502ba96356",
   "topic": "success",
   "title": "Successful People & Things",
   "lesson": "lesson_4",
   "word_list": [
     {
+      "id": "028e4460-dd11-45ab-9058-c45ba4050101",
       "word": "in action",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aW4gYWN0aW9u&hash=e457df3335b32507db67a9a33339d6938cfb77e7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn æk.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gYWN0aW9u&hash=e457df3335b32507db67a9a33339d6938cfb77e7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in āk.shēn",
       "img": "https://cdn.langeek.co/photo/26100/original/?type=jpeg",
       "pronunciation": "ɪn ˈækʃən",
       "senses": [
@@ -20,10 +22,11 @@
       ]
     },
     {
-      "word": "in (good|perfect|full) working order",
+      "id": "97334bce-75b6-4475-a194-0af6bbc1c5c3",
+      "word": "in (good|perfect|full|) working order",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aW4gZ29vZCB3b3JraW5nIG9yZGVy&hash=bc3a6a56263278346775ae02c212ba43817173bf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gZ29vZCB3b3JraW5nIG9yZGVy&hash=bc3a6a56263278346775ae02c212ba43817173bf&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40649/original/?type=jpeg",
@@ -36,74 +39,115 @@
       ]
     },
     {
+      "id": "9c4037f4-313b-4303-a1a4-5de882754b79",
       "word": "in full swing",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aW4gZnVsbCBzd2luZw&hash=dee33f11d24310bbeaf27e35f4bc3f5a7612d3b3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn fʊl swɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gZnVsbCBzd2luZw&hash=dee33f11d24310bbeaf27e35f4bc3f5a7612d3b3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in fool sving",
       "img": "https://cdn.langeek.co/photo/41596/original/?type=jpeg",
       "pronunciation": "ɪn fˈʊl swˈɪŋ",
       "senses": [
         {
           "definition": "at the peak or maximum level of performance, engagement, or energy",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The building project is in full swing, and the construction workers are making great progress."
+            },
+            {
+              "cf": "",
+              "x": "The party is in full swing, and everyone is dancing and having a great time."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "32492004-e689-4dcb-9d0e-31f2543b4fa3",
       "word": "flash in the pan",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Zmxhc2ggaW4gdGhlIHBhbg&hash=942ed3856e3057ac0adb89546c60eb2e68f5a4b7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "flæʃ ɪn ðə pæn",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmxhc2ggaW4gdGhlIHBhbg&hash=942ed3856e3057ac0adb89546c60eb2e68f5a4b7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "flāsh in dhē pān",
       "img": "https://cdn.langeek.co/photo/40833/original/?type=jpeg",
       "pronunciation": "flˈæʃ ɪnðə pˈæn",
       "senses": [
         {
           "definition": "a sudden but brief success that is not sustained",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The new tech startup seemed like a sure thing, but it turned out to be a flash in the pan."
+            },
+            {
+              "cf": "",
+              "x": "The politician's campaign was the flash in the pan that taught them the importance of building a strong base of support over time."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f32a42a0-dc84-406d-8593-3ccd3756baff",
       "word": "dark horse",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGFyayBob3JzZQ&hash=047225e16e59074f3653b11053d60de4e0d10dea&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɑrk hɔ:rs",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGFyayBob3JzZQ&hash=047225e16e59074f3653b11053d60de4e0d10dea&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "daark hawrs",
       "img": "https://cdn.langeek.co/photo/40637/original/?type=jpeg",
       "pronunciation": "dˈɑːɹk hˈɔːɹs",
       "senses": [
         {
           "definition": "a person with secret skills or ideas that when become known, they surprise people",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Everyone thought that John would be the next CEO, but Susan turned out to be the dark horse - she had some innovative ideas that nobody knew about and ended up getting the job."
+            },
+            {
+              "cf": "",
+              "x": "The band's new album was a dark horse - nobody expected it to be such a huge hit, but it ended up topping the charts."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "41e0daf4-ca7b-4196-adf6-7ec4805fb26c",
       "word": "fat cat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmF0IGNhdA&hash=85703383d7058f8cfdd8ef5dd9d087d55f6e18cc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fæt kæt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmF0IGNhdA&hash=85703383d7058f8cfdd8ef5dd9d087d55f6e18cc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/16375/original/politician?type=jpeg",
+      "phonetic_am_text": "fāt kāt",
+      "img": "https://cdn.langeek.co/photo/61648/original/politician?type=jpeg",
       "pronunciation": "fˈæt kˈæt",
       "senses": [
         {
           "definition": "someone who is very rich or influential, particularly a politician or business owner",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The Hollywood producer is seen as a fat cat, living in luxury while many actors and crew members are underpaid and overworked."
+            },
+            {
+              "cf": "",
+              "x": "The politician is often accused of being a fat cat, using his wealth and connections to gain power and influence."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[have] (got|) it going on",
+      "id": "ae73ea64-7c21-470e-a917-a035d97dfbde",
+      "word": "to [have] (got|) it going on",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGF2ZSBnb3QgaXQgZ29pbmcgb24&hash=0fec8c3dd47c2fb54c9f3563807cbc9af23718dc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGF2ZSBnb3QgaXQgZ29pbmcgb24&hash=0fec8c3dd47c2fb54c9f3563807cbc9af23718dc&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/16389/original/promotion?type=jpeg",
@@ -116,12 +160,13 @@
       ]
     },
     {
+      "id": "22be8e17-fa73-457d-9984-05981aa827b8",
       "word": "late bloomer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGF0ZSBibG9vbWVy&hash=a3fc0b313c8aafcf05151f1c49ebc912e4a83fa6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "leɪt blu.mɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bGF0ZSBibG9vbWVy&hash=a3fc0b313c8aafcf05151f1c49ebc912e4a83fa6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "leit bloo.mēr",
       "img": "https://cdn.langeek.co/photo/40559/original/?type=jpeg",
       "pronunciation": "lˈeɪt blˈuːmɚ",
       "senses": [
@@ -132,10 +177,11 @@
       ]
     },
     {
+      "id": "3c18e354-3d35-4bc3-88fe-6539d7933989",
       "word": "[be] in luck",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YmUgaW4gbHVjaw&hash=a0c59cc21fceb82b3a724e380cef3f9a33cfd8c0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YmUgaW4gbHVjaw&hash=a0c59cc21fceb82b3a724e380cef3f9a33cfd8c0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/17547/original/lucky?type=jpeg",
@@ -143,17 +189,39 @@
       "senses": [
         {
           "definition": "to be in a situation in which one can have what they desire or need",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I wanted to buy the last item on sale, and I was in luck, it was still available when I got there."
+            },
+            {
+              "cf": "",
+              "x": "I needed to catch the last bus home, and I was in luck; the driver waited an extra minute for me."
+            },
+            {
+              "cf": "",
+              "x": "\"You'll be in luck if you're able to attend the concert; it's sold out everywhere"
+            },
+            {
+              "cf": "",
+              "x": "If we find a good deal at the antique store, we'll be in luck; the prices are usually high."
+            },
+            {
+              "cf": "",
+              "x": "You'll be in luck if you meet the professor during office hours; they might be able to answer your questions."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0de27b66-4beb-4122-b893-14fd25f1ab6f",
       "word": "king of the hill",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=a2luZyBvZiB0aGUgaGlsbA&hash=9a9f1d36fea03de642802bde30239a15bfa0ffdc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɪng ʌv ðə hɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=a2luZyBvZiB0aGUgaGlsbA&hash=9a9f1d36fea03de642802bde30239a15bfa0ffdc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "king av dhē hil",
       "img": "https://cdn.langeek.co/photo/40741/original/boss?type=jpeg",
       "pronunciation": "kˈɪŋ ʌvðə hˈɪl",
       "senses": [
@@ -164,14 +232,15 @@
       ]
     },
     {
+      "id": "25f39940-941a-4f9f-9771-488d8a35b72e",
       "word": "with flying colors",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=d2l0aCBmbHlpbmcgY29sb3Jz&hash=11200f69d9b383e761a37b9b76919c2e3a4e6aa0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɪð flaɪɪng kə.lɜrz",
       "phonetic_am": "https://tts.langeek.co/read?text=d2l0aCBmbHlpbmcgY29sb3Jz&hash=11200f69d9b383e761a37b9b76919c2e3a4e6aa0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/51340/original/?type=jpeg",
-      "pronunciation": "flˈaɪɪŋ kˈʌlɚz",
+      "phonetic_am_text": "vidh flaiing kē.lērz",
+      "img": "https://cdn.langeek.co/photo/61768/original/?type=jpeg",
+      "pronunciation": "wɪð ˈflaɪɪŋ ˈkʌlərz",
       "senses": [
         {
           "definition": "in a distinctive and very successful way",
@@ -201,10 +270,11 @@
       ]
     },
     {
-      "word": "[carry] weight",
+      "id": "f4ca9ac7-3f10-4607-9917-da0c0baa661e",
+      "word": "to [carry] weight",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2Fycnkgd2VpZ2h0&hash=a12ed5e6b1eb0b76f12cbf70f12e89555b6b1cc4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2Fycnkgd2VpZ2h0&hash=a12ed5e6b1eb0b76f12cbf70f12e89555b6b1cc4&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40695/original/?type=jpeg",
@@ -226,6 +296,7 @@
       ]
     },
     {
+      "id": "2630ad90-affa-4b93-90b7-bc1721f9582f",
       "word": "man",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFu&hash=7aa9ac9bf19048ae58a18f50f8d2ebc2b76dd978&lang=en&cache-only=0",

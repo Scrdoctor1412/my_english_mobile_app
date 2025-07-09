@@ -1,15 +1,17 @@
 {
+  "id": "668b86eb-3814-4228-9e2a-5794d63472bc",
   "topic": "education",
   "title": "Educational Verbs",
   "lesson": "lesson_42",
   "word_list": [
     {
-      "word": "teach",
+      "id": "52f28353-58ba-4721-bb2b-572a2bd57cd7",
+      "word": "to teach",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGVhY2g&hash=66ed8eac618bf30768e9f9fe1fa8dac195f26105&lang=en&cache-only=0",
       "phonetic_text": "ti:ʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGVhY2g&hash=66ed8eac618bf30768e9f9fe1fa8dac195f26105&lang=en&cache-only=0",
-      "phonetic_am_text": "teech",
+      "phonetic_am_text": "tich",
       "img": "https://cdn.langeek.co/photo/28822/original/teach?type=jpeg",
       "pronunciation": "tiːtʃ",
       "senses": [
@@ -41,7 +43,8 @@
       ]
     },
     {
-      "word": "train",
+      "id": "e2842efe-b48f-4890-a9f4-63b36994436e",
+      "word": "to train",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHJhaW4&hash=3865ef7839c764c1b18e71b114316704b4624fe5&lang=en&cache-only=0",
       "phonetic_text": "treɪn",
@@ -78,12 +81,13 @@
       ]
     },
     {
-      "word": "instruct",
+      "id": "f2d3e620-8441-4660-a7ab-f1e40ef49d4c",
+      "word": "to instruct",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW5zdHJ1Y3Q&hash=8b148430d242c268c8f9704eefb55c7286d4e91e&lang=en&cache-only=0",
-      "phonetic_text": "ɪnstrʌkt",
+      "phonetic_text": "ɪns.trəkt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW5zdHJ1Y3Q&hash=8b148430d242c268c8f9704eefb55c7286d4e91e&lang=en&cache-only=0",
-      "phonetic_am_text": "instrakt",
+      "phonetic_am_text": "ins.trēkt",
       "img": "https://cdn.langeek.co/photo/23993/original/?type=jpeg",
       "pronunciation": "ˌɪnˈstɹəkt",
       "senses": [
@@ -115,14 +119,15 @@
       ]
     },
     {
-      "word": "mentor",
+      "id": "89431c12-8f28-4dfd-98b2-37f082270265",
+      "word": "to mentor",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWVudG9y&hash=632b20b7ff13473f94726d0ba022755fcd61aba3&lang=en&cache-only=0",
-      "phonetic_text": "mɛntɔr",
+      "phonetic_text": "mɛn.tɔr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWVudG9y&hash=632b20b7ff13473f94726d0ba022755fcd61aba3&lang=en&cache-only=0",
-      "phonetic_am_text": "mentawr",
+      "phonetic_am_text": "men.tawr",
       "img": "https://cdn.langeek.co/photo/19578/original/experienced?type=jpeg",
-      "pronunciation": "ˈmɛnˌtɔɹ/, /ˈmɛntɝ",
+      "pronunciation": "ˈmɛnˌtɔr",
       "senses": [
         {
           "definition": "to act as the supervisor or teacher of someone less experienced",
@@ -148,12 +153,13 @@
       ]
     },
     {
-      "word": "inform",
+      "id": "cd8847c8-004c-41aa-bf17-32339e128836",
+      "word": "to inform",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW5mb3Jt&hash=d0900e000ca4e3a30c7845c32ff11c43de73c931&lang=en&cache-only=0",
-      "phonetic_text": "ɪnfɔ:rm",
+      "phonetic_text": "ɪn.fɔrm",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW5mb3Jt&hash=d0900e000ca4e3a30c7845c32ff11c43de73c931&lang=en&cache-only=0",
-      "phonetic_am_text": "infaawrm",
+      "phonetic_am_text": "in.fawrm",
       "img": "https://cdn.langeek.co/photo/44786/original/?type=jpeg",
       "pronunciation": "ˌɪnˈfɔɹm",
       "senses": [
@@ -185,14 +191,15 @@
       ]
     },
     {
-      "word": "educate",
+      "id": "1b2f0f9e-aacb-4cfc-bc90-01261e378222",
+      "word": "to educate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZWR1Y2F0ZQ&hash=e5f1bb6e2d8774a709568bb33382336c3706119a&lang=en&cache-only=0",
-      "phonetic_text": "ɛʤəkeɪt",
+      "phonetic_text": "ɛ.ʤʊ.keɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZWR1Y2F0ZQ&hash=e5f1bb6e2d8774a709568bb33382336c3706119a&lang=en&cache-only=0",
-      "phonetic_am_text": "ejēkeit",
+      "phonetic_am_text": "e.joo.keit",
       "img": "https://cdn.langeek.co/photo/19991/original/educate?type=jpeg",
-      "pronunciation": "ˈɛdʒəˌkeɪt/, /ˈɛdʒjuˌkeɪt",
+      "pronunciation": "ˈɛdʒʊˌkeɪt",
       "senses": [
         {
           "definition": "to teach someone, often within a school or university setting",
@@ -222,7 +229,8 @@
       ]
     },
     {
-      "word": "learn",
+      "id": "f3a869f7-48e4-469e-8ccc-50315164991c",
+      "word": "to learn",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGVhcm4&hash=9f3bf7cacdb75c73a24c7530bbe0aea29d6648db&lang=en&cache-only=0",
       "phonetic_text": "lɜrn",
@@ -259,13 +267,14 @@
       ]
     },
     {
-      "word": "study",
+      "id": "a3b477b9-8d3a-4895-8c11-4e5adf723daf",
+      "word": "to study",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3R1ZHk&hash=88fafe8f78d24739ac53037c1dc9b9a1d0f4332b&lang=en&cache-only=0",
-      "phonetic_text": "stʌdi",
+      "phonetic_text": "stʌ.di",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3R1ZHk&hash=88fafe8f78d24739ac53037c1dc9b9a1d0f4332b&lang=en&cache-only=0",
-      "phonetic_am_text": "stadi",
-      "img": "https://cdn.langeek.co/photo/29194/original/read?type=jpeg",
+      "phonetic_am_text": "sta.di",
+      "img": "https://cdn.langeek.co/photo/60718/original/read?type=jpeg",
       "pronunciation": "ˈstʌdi",
       "senses": [
         {
@@ -296,13 +305,14 @@
       ]
     },
     {
-      "word": "practice",
+      "id": "c7ae1b75-c6d7-4e72-9968-41a5a6d96dd3",
+      "word": "to practice",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJhY3RpY2U&hash=3b96083a9396d31b90602f842c7e27add4ba20fb&lang=en&cache-only=0",
-      "phonetic_text": "præktəs",
+      "phonetic_text": "præk.tɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJhY3RpY2U&hash=3b96083a9396d31b90602f842c7e27add4ba20fb&lang=en&cache-only=0",
-      "phonetic_am_text": "prāktēs",
-      "img": "https://cdn.langeek.co/photo/17525/original/practice?type=jpeg",
+      "phonetic_am_text": "prāk.tis",
+      "img": "https://cdn.langeek.co/photo/61634/original/practice?type=jpeg",
       "pronunciation": "ˈpræktɪs",
       "senses": [
         {
@@ -333,7 +343,8 @@
       ]
     },
     {
-      "word": "cram",
+      "id": "b5ec742a-d580-417a-b479-75e82f8ad643",
+      "word": "to cram",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3JhbQ&hash=51dfebc4f1385a5b478eedf5568fe6d7a6c6a9b6&lang=en&cache-only=0",
       "phonetic_text": "kræm",
@@ -366,7 +377,8 @@
       ]
     },
     {
-      "word": "grind",
+      "id": "bd258c39-876a-4d4a-bb95-4f3c9ed47e0f",
+      "word": "to grind",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ3JpbmQ&hash=7b0568f3a208ec1a90ed1934d8f68ffbb907fde0&lang=en&cache-only=0",
       "phonetic_text": "graɪnd",
@@ -399,12 +411,13 @@
       ]
     },
     {
-      "word": "memorize",
+      "id": "8d35250f-1a7f-4c30-9d87-9448e866f188",
+      "word": "to memorize",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWVtb3JpemU&hash=edf69977b880413b000bee3d35935a8b0a0a1825&lang=en&cache-only=0",
-      "phonetic_text": "mɛməraɪz",
+      "phonetic_text": "mɛ.mɜ.raɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWVtb3JpemU&hash=edf69977b880413b000bee3d35935a8b0a0a1825&lang=en&cache-only=0",
-      "phonetic_am_text": "memēraiz",
+      "phonetic_am_text": "me.mē.raiz",
       "img": "https://cdn.langeek.co/photo/59476/original/?type=jpeg",
       "pronunciation": "ˈmɛmɝˌaɪz",
       "senses": [
@@ -436,7 +449,8 @@
       ]
     },
     {
-      "word": "crib",
+      "id": "619017d3-84a8-404f-bc41-6144cb47860e",
+      "word": "to crib",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3JpYg&hash=27ab51bd25b38dec037b6ddf41832d98170addaa&lang=en&cache-only=0",
       "phonetic_text": "krɪb",
@@ -465,7 +479,8 @@
       ]
     },
     {
-      "word": "take",
+      "id": "c2867f46-f189-45b0-9d04-ac5e9f059f9c",
+      "word": "to take",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZQ&hash=218a7b24f2f9192973800c7366909ef3421d1aec&lang=en&cache-only=0",
       "phonetic_text": "teɪk",
@@ -506,12 +521,13 @@
       ]
     },
     {
-      "word": "retake",
+      "id": "2df3b684-0088-4bab-b9fc-d05329626b4d",
+      "word": "to retake",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmV0YWtl&hash=c9b3afa6935f476e0c202cc5fc6587ef0fa82f67&lang=en&cache-only=0",
-      "phonetic_text": "ri:teɪk",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmV0YWtl&hash=c9b3afa6935f476e0c202cc5fc6587ef0fa82f67&lang=en&cache-only=0",
-      "phonetic_am_text": "reeteik",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˈɹiˈteɪk/, /ɹiˈteɪk",
       "senses": [
@@ -539,7 +555,8 @@
       ]
     },
     {
-      "word": "grade",
+      "id": "7b9ab759-dcfb-446a-956a-2c8ae6624bae",
+      "word": "to grade",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ3JhZGU&hash=4850f95ad3aedd2961bd291a3a9fad24ea025fd7&lang=en&cache-only=0",
       "phonetic_text": "greɪd",
@@ -576,7 +593,8 @@
       ]
     },
     {
-      "word": "pass",
+      "id": "1af93246-e97e-4e4f-a590-ab6938e7f3fd",
+      "word": "to pass",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGFzcw&hash=3b50cf4d62c7b70b80079db2e60f59421a6ea54d&lang=en&cache-only=0",
       "phonetic_text": "pæs",
@@ -613,7 +631,8 @@
       ]
     },
     {
-      "word": "ace",
+      "id": "2dcd66bc-9523-4dab-9332-d5b5bb66e232",
+      "word": "to ace",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWNl&hash=5578f889579b21e7dfa273205d9dc2d8c3fd1ae9&lang=en&cache-only=0",
       "phonetic_text": "eɪs",
@@ -650,12 +669,13 @@
       ]
     },
     {
-      "word": "flunk",
+      "id": "7c5f066a-fa1b-40dc-9878-9ce06bc55cd1",
+      "word": "to flunk",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmx1bms&hash=2d7a49ad247b4c7aa88720670a02ab1614d95b8b&lang=en&cache-only=0",
-      "phonetic_text": "flʌnk",
+      "phonetic_text": "flənk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmx1bms&hash=2d7a49ad247b4c7aa88720670a02ab1614d95b8b&lang=en&cache-only=0",
-      "phonetic_am_text": "flank",
+      "phonetic_am_text": "flēnk",
       "img": "https://cdn.langeek.co/photo/22249/original/?type=jpeg",
       "pronunciation": "ˈfɫəŋk",
       "senses": [
@@ -687,12 +707,13 @@
       ]
     },
     {
-      "word": "mark down",
+      "id": "f33b9a7a-b8b5-4c9e-9a06-4a129ae99909",
+      "word": "to mark down",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFyayBkb3du&hash=772db46c9fad065cd26ac9279c363658446ab79b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mɑrk daʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFyayBkb3du&hash=772db46c9fad065cd26ac9279c363658446ab79b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "maark daoon",
       "img": "",
       "pronunciation": "mˈɑːɹk dˈaʊn",
       "senses": [
@@ -720,14 +741,15 @@
       ]
     },
     {
-      "word": "research",
+      "id": "04c66604-b505-4f5d-a920-ac839250a2ee",
+      "word": "to research",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVzZWFyY2g&hash=ad091c3c050c4446c4cf6b5e61325ebdfaf2c2be&lang=en&cache-only=0",
-      "phonetic_text": "risɜrʧ",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVzZWFyY2g&hash=ad091c3c050c4446c4cf6b5e61325ebdfaf2c2be&lang=en&cache-only=0",
-      "phonetic_am_text": "risērch",
-      "img": "https://cdn.langeek.co/photo/22219/original/?type=jpeg",
-      "pronunciation": "ˈriːˌsɝːtʃ/ , /rɪˈsɝːtʃ",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/61206/original/?type=jpeg",
+      "pronunciation": "ˈriːˌsɜrʧ/ , /rɪˈsɜrʧ",
       "senses": [
         {
           "definition": "to study a subject carefully and systematically to discover new facts or information about it",
@@ -757,12 +779,13 @@
       ]
     },
     {
-      "word": "scrutinize",
+      "id": "f27bafd1-576a-4f08-a28a-a50c83cf5a29",
+      "word": "to scrutinize",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NydXRpbml6ZQ&hash=d50fc25c368bd2bb396a29c1e1b8b94ab8aed42c&lang=en&cache-only=0",
-      "phonetic_text": "skru:tənaɪz",
+      "phonetic_text": "skru.tə.naɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NydXRpbml6ZQ&hash=d50fc25c368bd2bb396a29c1e1b8b94ab8aed42c&lang=en&cache-only=0",
-      "phonetic_am_text": "skrootēnaiz",
+      "phonetic_am_text": "skroo.tē.naiz",
       "img": "https://cdn.langeek.co/photo/53274/original/?type=jpeg",
       "pronunciation": "ˈskɹutəˌnaɪz",
       "senses": [
@@ -794,14 +817,15 @@
       ]
     },
     {
-      "word": "register",
+      "id": "c1f9ff84-ffe6-4121-bf40-16a1e172c8b3",
+      "word": "to register",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVnaXN0ZXI&hash=d89d7222b5cb5b42395573fc0739c66d8f91244a&lang=en&cache-only=0",
-      "phonetic_text": "rɛʤɪstər",
+      "phonetic_text": "rɛ.ʤɪs.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVnaXN0ZXI&hash=d89d7222b5cb5b42395573fc0739c66d8f91244a&lang=en&cache-only=0",
-      "phonetic_am_text": "rejistēr",
+      "phonetic_am_text": "re.jis.tēr",
       "img": "",
-      "pronunciation": "ˈɹɛdʒɪstɝ",
+      "pronunciation": "ˈrɛʤɪstɚ",
       "senses": [
         {
           "definition": "to enter one's name in a list of an institute, school, etc.",
@@ -827,12 +851,13 @@
       ]
     },
     {
-      "word": "matriculate",
+      "id": "1df43d59-5d19-48b0-9fca-632751728a3c",
+      "word": "to matriculate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWF0cmljdWxhdGU&hash=7bf7062d5fab85daf211d381acc1a5bc49df2f8e&lang=en&cache-only=0",
-      "phonetic_text": "mətrɪkjəleɪt",
+      "phonetic_text": "mət.rɪk.jə.leɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWF0cmljdWxhdGU&hash=7bf7062d5fab85daf211d381acc1a5bc49df2f8e&lang=en&cache-only=0",
-      "phonetic_am_text": "mētrikyēleit",
+      "phonetic_am_text": "mēt.rik.yē.leit",
       "img": "",
       "pronunciation": "məˈtɹɪkjəɫeɪt",
       "senses": [
@@ -864,12 +889,13 @@
       ]
     },
     {
-      "word": "major in",
+      "id": "b6d009dd-547d-436d-ad38-b9c31802ceb2",
+      "word": "to major in",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFqb3IgaW4&hash=acf0da51fd7b273e74ae672aaa2bf0df033ae7e3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "meɪ.ʤər ɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFqb3IgaW4&hash=acf0da51fd7b273e74ae672aaa2bf0df033ae7e3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mei.jēr in",
       "img": "https://cdn.langeek.co/photo/52719/original/?type=jpeg",
       "pronunciation": "mˈeɪdʒɚɹ ˈɪn",
       "senses": [
@@ -897,14 +923,15 @@
       ]
     },
     {
-      "word": "confer",
+      "id": "9eee92b6-8fa4-4422-a3dc-4e0811cf6fa8",
+      "word": "to confer",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29uZmVy&hash=5b709302dc5db8d1b90005cc1888d491c702557f&lang=en&cache-only=0",
-      "phonetic_text": "kənfɜr",
+      "phonetic_text": "kən.fɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29uZmVy&hash=5b709302dc5db8d1b90005cc1888d491c702557f&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnfēr",
+      "phonetic_am_text": "kēn.fēr",
       "img": "https://cdn.langeek.co/photo/58986/original/?type=jpeg",
-      "pronunciation": "kənˈfɝ",
+      "pronunciation": "kənˈfɝː",
       "senses": [
         {
           "definition": "to give an official degree, title, right, etc. to someone",
@@ -934,7 +961,8 @@
       ]
     },
     {
-      "word": "ditch",
+      "id": "80b21948-c322-4266-a4b1-5f107ec68186",
+      "word": "to ditch",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGl0Y2g&hash=af0a88a3a1c75c2a781d96320cccc682a3004986&lang=en&cache-only=0",
       "phonetic_text": "dɪʧ",
@@ -945,36 +973,20 @@
       "senses": [
         {
           "definition": "to deliberately absent oneself from a class or school activity without permission",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He decided to ditch school and spend the day hanging out with his friends instead."
-            },
-            {
-              "cf": "",
-              "x": "Despite knowing the consequences, she chose to ditch class to attend a concert downtown."
-            },
-            {
-              "cf": "",
-              "x": "The students regularly ditched their first-period class to avoid a particularly challenging subject."
-            },
-            {
-              "cf": "",
-              "x": "He regretted ditching the important review session before the exam and struggled with the material as a result."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "audit",
+      "id": "1f538096-a37a-4536-b385-ff99680a34fb",
+      "word": "to audit",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYXVkaXQ&hash=0f34e11a82ce34d0e3dc81d18366309b5dd4b590&lang=en&cache-only=0",
-      "phonetic_text": "ɔ:dɪt",
+      "phonetic_text": "ɔ.dɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYXVkaXQ&hash=0f34e11a82ce34d0e3dc81d18366309b5dd4b590&lang=en&cache-only=0",
-      "phonetic_am_text": "aawdit",
+      "phonetic_am_text": "aw.dit",
       "img": "",
-      "pronunciation": "ˈɔdɪt",
+      "pronunciation": "ˈɑdɪt",
       "senses": [
         {
           "definition": "to attend a class or course for personal enrichment or review without receiving academic credit",
@@ -1004,12 +1016,13 @@
       ]
     },
     {
-      "word": "skip out",
+      "id": "395ba4cf-7c08-42a0-bd50-d1a38e521d80",
+      "word": "to skip out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2tpcCBvdXQ&hash=aab90d2ba5e03d21d0cfca69d48eb91a35af190f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skɪp aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2tpcCBvdXQ&hash=aab90d2ba5e03d21d0cfca69d48eb91a35af190f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skip aoot",
       "img": "https://cdn.langeek.co/photo/52469/original/?type=jpeg",
       "pronunciation": "skˈɪp ˈaʊt",
       "senses": [

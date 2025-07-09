@@ -1,15 +1,17 @@
 {
+  "id": "0d0938de-d73e-4554-80c4-3bcdf7c80759",
   "topic": "education",
   "title": "Class and School Objects",
   "lesson": "lesson_5",
   "word_list": [
     {
+      "id": "14c3fe70-e4c1-4d71-94b4-3fc0c569800c",
       "word": "blackboard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmxhY2tib2FyZA&hash=1b9a62271269074e596e56d5e843474f069abb9e&lang=en&cache-only=0",
-      "phonetic_text": "blækbɔrd",
+      "phonetic_text": "blæk.bɔ:rd",
       "phonetic_am": "https://tts.langeek.co/read?text=YmxhY2tib2FyZA&hash=1b9a62271269074e596e56d5e843474f069abb9e&lang=en&cache-only=0",
-      "phonetic_am_text": "blākbawrd",
+      "phonetic_am_text": "blāk.bawrd",
       "img": "https://cdn.langeek.co/photo/51528/original/blackboard?type=jpeg",
       "pronunciation": "ˈbɫækˌbɔɹd",
       "senses": [
@@ -41,12 +43,13 @@
       ]
     },
     {
+      "id": "fa307819-2f23-4e98-898b-0d469ccba513",
       "word": "chalkboard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hhbGtib2FyZA&hash=bc6f1250dd6a75993362b4a04c5e2f135c447221&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧɑk.bɔ:rd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hhbGtib2FyZA&hash=bc6f1250dd6a75993362b4a04c5e2f135c447221&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chaak.bawrd",
       "img": "",
       "pronunciation": "tʃˈɔːkboːɹd",
       "senses": [
@@ -74,12 +77,13 @@
       ]
     },
     {
+      "id": "8375b949-83e4-4244-be84-fee1e930af6a",
       "word": "whiteboard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2hpdGVib2FyZA&hash=84c1cd46f838f8745629f91664428cb737a30c34&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "waɪt.bɔ:rd",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hpdGVib2FyZA&hash=84c1cd46f838f8745629f91664428cb737a30c34&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vait.bawrd",
       "img": "https://cdn.langeek.co/photo/22239/original/?type=jpeg",
       "pronunciation": "ˈwaɪtˌbɔːrd",
       "senses": [
@@ -107,49 +111,30 @@
       ]
     },
     {
+      "id": "5a05329a-8eb4-430c-9582-dd3b7901e79b",
       "word": "interactive whiteboard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW50ZXJhY3RpdmUgd2hpdGVib2FyZA&hash=f018899581bcefe01fe85976d6d85735513f1fa6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn.ɜ.ræk.tɪv waɪt.bɔ:rd",
       "phonetic_am": "https://tts.langeek.co/read?text=aW50ZXJhY3RpdmUgd2hpdGVib2FyZA&hash=f018899581bcefe01fe85976d6d85735513f1fa6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in.ē.rāk.tiv vait.bawrd",
       "img": "",
       "pronunciation": "ˌɪntɚɹˈæktɪv wˈaɪtboːɹd",
       "senses": [
         {
           "definition": "a large display board that can be connected to a computer or projector, allowing users to interact with digital content using touch, stylus, or other input devices",
-          "examples": [
-            {
-              "cf": "",
-              "x": "In the classroom, the teacher used the interactive whiteboard to engage students in interactive lessons, where they could solve math problems and explore science concepts through touch and manipulation."
-            },
-            {
-              "cf": "",
-              "x": "During the business meeting, the presenter utilized the interactive whiteboard to annotate charts and graphs, making real-time adjustments based on audience feedback."
-            },
-            {
-              "cf": "",
-              "x": "The hospital implemented interactive whiteboards in patient rooms, allowing medical staff to access patient records, schedules, and treatment plans with a touch interface."
-            },
-            {
-              "cf": "",
-              "x": "At the conference, the keynote speaker used the interactive whiteboard to collaborate with remote attendees, sharing documents and brainstorming ideas in real-time."
-            },
-            {
-              "cf": "",
-              "x": "In the training session, employees used the interactive whiteboard to participate in virtual simulations, practicing problem-solving scenarios and honing their skills in a dynamic learning environment."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "a4dffdc6-6a12-40f2-8667-2d25b8509482",
       "word": "bulletin board",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVsbGV0aW4gYm9hcmQ&hash=699e6a0ad3282ab0a435c3d7f4ce6f9007998c88&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bʊ.lɪ.tən bɔ:rd",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVsbGV0aW4gYm9hcmQ&hash=699e6a0ad3282ab0a435c3d7f4ce6f9007998c88&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "boo.li.tēn bawrd",
       "img": "https://cdn.langeek.co/photo/36257/original/?type=jpeg",
       "pronunciation": "bˈʊlɪtˌɪn bˈoːɹd",
       "senses": [
@@ -181,12 +166,13 @@
       ]
     },
     {
+      "id": "77d5a764-a7ae-4660-a95e-0b6683cb4f13",
       "word": "pushpin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHVzaHBpbg&hash=7f8be0b3969bcc86c66b6548e78b8d782c3d18d8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pʊʃ.pɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=cHVzaHBpbg&hash=7f8be0b3969bcc86c66b6548e78b8d782c3d18d8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "poosh.pin",
       "img": "https://cdn.langeek.co/photo/29563/original/?type=jpeg",
       "pronunciation": "pˈʊʃpɪn",
       "senses": [
@@ -218,6 +204,7 @@
       ]
     },
     {
+      "id": "f18a881d-60dd-4b88-a72c-ea4a9f159ff1",
       "word": "desk",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVzaw&hash=67e8fe41cf2458647a877595b9238402e7fe6db8&lang=en&cache-only=0",
@@ -255,12 +242,13 @@
       ]
     },
     {
+      "id": "87b6ef21-a2ef-4b07-ba60-e6e5eeb1988c",
       "word": "lectern",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGVjdGVybg&hash=fe55cf890600f6b53039d8c482aa7c643e2724d6&lang=en&cache-only=0",
-      "phonetic_text": "lɛktərn",
+      "phonetic_text": "lɛk.tɜrn",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVjdGVybg&hash=fe55cf890600f6b53039d8c482aa7c643e2724d6&lang=en&cache-only=0",
-      "phonetic_am_text": "lektērn",
+      "phonetic_am_text": "lek.tērn",
       "img": "",
       "pronunciation": "ˈɫɛktɝn",
       "senses": [
@@ -288,14 +276,15 @@
       ]
     },
     {
+      "id": "d9e51dd1-41fd-4b04-8199-bb31844215f3",
       "word": "bookshelf",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9va3NoZWxm&hash=30bc0a08877d4ae42e3afd9d089dbe7e3b5b1583&lang=en&cache-only=0",
-      "phonetic_text": "bʊkʃɛlf",
+      "phonetic_text": "bʊk.ʃɛlf",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9va3NoZWxm&hash=30bc0a08877d4ae42e3afd9d089dbe7e3b5b1583&lang=en&cache-only=0",
-      "phonetic_am_text": "bukshelf",
+      "phonetic_am_text": "book.shelf",
       "img": "https://cdn.langeek.co/photo/38881/original/bookshelf?type=jpeg",
-      "pronunciation": "ˈbʊkˌʃelf",
+      "pronunciation": "ˈbʊkˌʃɛlf",
       "senses": [
         {
           "definition": "‌a board connected to a wall or a piece of furniture on which books are kept",
@@ -317,12 +306,13 @@
       ]
     },
     {
+      "id": "e942cebe-2183-43d1-8d4e-81c1b5002401",
       "word": "pigeonhole",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGlnZW9uaG9sZQ&hash=f7e9c7b785430b98bc6f8e4328748da32ed94c9b&lang=en&cache-only=0",
-      "phonetic_text": "pɪʤənhoʊl",
+      "phonetic_text": "pɪ.ʤən.hoʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=cGlnZW9uaG9sZQ&hash=f7e9c7b785430b98bc6f8e4328748da32ed94c9b&lang=en&cache-only=0",
-      "phonetic_am_text": "pijēnhowl",
+      "phonetic_am_text": "pi.jēn.hoool",
       "img": "",
       "pronunciation": "ˈpɪdʒənˌhoʊɫ",
       "senses": [
@@ -350,12 +340,13 @@
       ]
     },
     {
+      "id": "47698847-cfad-4333-ab67-cb440ac0e085",
       "word": "locker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9ja2Vy&hash=1f9af20addd540f9335b8be4423b7f44d2cdb1e2&lang=en&cache-only=0",
-      "phonetic_text": "lɑ:kər",
+      "phonetic_text": "lɑ.kɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9ja2Vy&hash=1f9af20addd540f9335b8be4423b7f44d2cdb1e2&lang=en&cache-only=0",
-      "phonetic_am_text": "laakēr",
+      "phonetic_am_text": "laa.kēr",
       "img": "https://cdn.langeek.co/photo/21895/original/?type=jpeg",
       "pronunciation": "ˈɫɑkɝ",
       "senses": [
@@ -387,12 +378,13 @@
       ]
     },
     {
+      "id": "4bdf1b7f-b63b-432d-9d2c-c9202927f2f3",
       "word": "file cabinet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmlsZSBjYWJpbmV0&hash=8993bbbd4cc1e92dfe82c732da0527913c7e6637&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "faɪl kæ.bɪ.nɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmlsZSBjYWJpbmV0&hash=8993bbbd4cc1e92dfe82c732da0527913c7e6637&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fail kā.bi.nit",
       "img": "https://cdn.langeek.co/photo/39065/original/drawer?type=jpeg",
       "pronunciation": "fˈaɪl kˈæbᵻnət",
       "senses": [
@@ -424,14 +416,15 @@
       ]
     },
     {
+      "id": "dffba1db-dab5-4ceb-83ab-94f769754ada",
       "word": "projector",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvamVjdG9y&hash=40e988f0acfed4701688b32f178f19284609fa57&lang=en&cache-only=0",
-      "phonetic_text": "prəʤɛktər",
+      "phonetic_text": "prə.ʤɛk.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvamVjdG9y&hash=40e988f0acfed4701688b32f178f19284609fa57&lang=en&cache-only=0",
-      "phonetic_am_text": "prējektēr",
+      "phonetic_am_text": "prē.jek.tēr",
       "img": "https://cdn.langeek.co/photo/35679/original/?type=jpeg",
-      "pronunciation": "pɹəˈdʒɛktɝ",
+      "pronunciation": "prəˈʤɛktɚ",
       "senses": [
         {
           "definition": "a device used for making images or videos appear on a screen, wall, or other flat surfaces",
@@ -461,12 +454,13 @@
       ]
     },
     {
+      "id": "7b8256b4-41ee-4458-885d-44d5ef537aaa",
       "word": "projection screen",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvamVjdGlvbiBzY3JlZW4&hash=11b8b705e9f9a2be03ae043454fcb4705264917d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "prə.ʤɛk.ʃən skri:n",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvamVjdGlvbiBzY3JlZW4&hash=11b8b705e9f9a2be03ae043454fcb4705264917d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "prē.jek.shēn skrin",
       "img": "https://cdn.langeek.co/photo/33723/original/?type=jpeg",
       "pronunciation": "pɹədʒˈɛkʃən skɹˈiːn",
       "senses": [
@@ -498,12 +492,13 @@
       ]
     },
     {
+      "id": "1361e412-7856-4043-857a-63c2335b7b35",
       "word": "overhead projector",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3ZlcmhlYWQgcHJvamVjdG9y&hash=06082d048d8bc1e90ae0342e4edca54bda98dc07&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "oʊ.vɜr.hɛd prə.ʤɛk.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=b3ZlcmhlYWQgcHJvamVjdG9y&hash=06082d048d8bc1e90ae0342e4edca54bda98dc07&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ooo.vēr.hed prē.jek.tēr",
       "img": "",
       "pronunciation": "ˌoʊvɚhˈɛd pɹədʒˈɛktɚ",
       "senses": [
@@ -535,12 +530,13 @@
       ]
     },
     {
+      "id": "e8ce1d55-9951-416f-81b8-6e3088dfaf18",
       "word": "school bus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Nob29sIGJ1cw&hash=9fc7f93edc6b380b2482f9f8478671068c529ae6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sku:l bʌs",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Nob29sIGJ1cw&hash=9fc7f93edc6b380b2482f9f8478671068c529ae6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skool bas",
       "img": "https://cdn.langeek.co/photo/33547/original/?type=jpeg",
       "pronunciation": "skˈuːl bˈʌs",
       "senses": [
@@ -572,12 +568,13 @@
       ]
     },
     {
+      "id": "da608286-6ef4-4b4f-9892-0002959737d3",
       "word": "school bell",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Nob29sIGJlbGw&hash=6e6e4f4aea61e4be4585779d4b29633d9e3d30b3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sku:l bel",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Nob29sIGJlbGw&hash=6e6e4f4aea61e4be4585779d4b29633d9e3d30b3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skool bel",
       "img": "",
       "pronunciation": "skˈuːl bˈɛl",
       "senses": [

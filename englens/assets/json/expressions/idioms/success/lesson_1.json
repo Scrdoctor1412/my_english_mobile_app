@@ -1,13 +1,15 @@
 {
+  "id": "fdcee45d-6b8a-4552-b098-dce2e165ebbf",
   "topic": "success",
   "title": "Opportunities",
   "lesson": "lesson_1",
   "word_list": [
     {
-      "word": "[miss] a trick",
+      "id": "18e00528-606d-444e-be99-df90b3ed07de",
+      "word": "to [miss] a trick",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWlzcyBhIHRyaWNr&hash=422b3f28b69ad643e668aca12111b6fc0e4796aa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWlzcyBhIHRyaWNr&hash=422b3f28b69ad643e668aca12111b6fc0e4796aa&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40371/original/?type=jpeg",
@@ -29,10 +31,11 @@
       ]
     },
     {
+      "id": "b359ae63-bde2-476f-9afc-f74abd8c1715",
       "word": "second bite (at|to) the cherry",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=c2Vjb25kIGJpdGUgYXQgdGhlIGNoZXJyeQ&hash=b2a795e62d0928417c7bf8ad445f8f154d07c026&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Vjb25kIGJpdGUgYXQgdGhlIGNoZXJyeQ&hash=b2a795e62d0928417c7bf8ad445f8f154d07c026&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40605/original/?type=jpeg",
@@ -40,28 +43,16 @@
       "senses": [
         {
           "definition": "another opportunity for one to do or achieve something one previously failed at",
-          "examples": [
-            {
-              "cf": "",
-              "x": "James didn't do well in his first job interview, but he got a second bite at the cherry when the company offered him a second interview, which he aced."
-            },
-            {
-              "cf": "",
-              "x": "Mark wasn't happy with his first draft of the book, but he's grateful for the chance to take a second bite at the cherry and revise it before submitting it to publishers."
-            },
-            {
-              "cf": "",
-              "x": "The team is hoping to win the championship this year, after losing in the finals last season, they're excited to have a second bite at the cherry."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[leave] the door open for {sth}",
+      "id": "72cbfaf8-5b82-49c6-b334-f89b8bd6322f",
+      "word": "to [leave] the door open for {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGVhdmUgdGhlIGRvb3Igb3BlbiBmb3Igc29tZXRoaW5n&hash=f9e47e6d0023353f28097e119b04d61eb23092f6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGVhdmUgdGhlIGRvb3Igb3BlbiBmb3Igc29tZXRoaW5n&hash=f9e47e6d0023353f28097e119b04d61eb23092f6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40367/original/?type=jpeg",
@@ -83,10 +74,11 @@
       ]
     },
     {
-      "word": "[grease] the skids",
+      "id": "7463420a-4924-4c2b-9249-a64a7319360d",
+      "word": "to [grease] the skids",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ3JlYXNlIHRoZSBza2lkcw&hash=6b1134d2b543d866941d4a5eaa52dbd654d36e40&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ3JlYXNlIHRoZSBza2lkcw&hash=6b1134d2b543d866941d4a5eaa52dbd654d36e40&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40373/original/?type=jpeg",
@@ -108,10 +100,11 @@
       ]
     },
     {
-      "word": "[prepare] the [ground] for {sth}",
+      "id": "5b5739e0-c297-4cc3-9232-2c2b746afd7f",
+      "word": "to [prepare] the [ground] for {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJlcGFyZSB0aGUgZ3JvdW5kIGZvciBzb21ldGhpbmc&hash=06f278f7a325b7942dc7f31b1adcc1e657bce82d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJlcGFyZSB0aGUgZ3JvdW5kIGZvciBzb21ldGhpbmc&hash=06f278f7a325b7942dc7f31b1adcc1e657bce82d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40365/original/?type=jpeg",
@@ -119,24 +112,16 @@
       "senses": [
         {
           "definition": "to make the necessary preparations for an event or situation",
-          "examples": [
-            {
-              "cf": "",
-              "x": "John prepared the ground for his upcoming job interview by researching the company and practicing his responses to potential interview questions."
-            },
-            {
-              "cf": "",
-              "x": "The organization is preparing the ground for future growth by investing in new technology and expanding its product line."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "201ef94e-43ee-42a9-ab71-f6f4ad6f0dbf",
       "word": "the streets of {sw} [are] paved with gold",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIHN0cmVldHMgb2Ygc3cgYXJlIHBhdmVkIHdpdGggZ29sZA&hash=b45189d6952c1ccd34e949821d48e910df4ba337&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIHN0cmVldHMgb2Ygc3cgYXJlIHBhdmVkIHdpdGggZ29sZA&hash=b45189d6952c1ccd34e949821d48e910df4ba337&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40423/original/?type=jpeg",
@@ -149,12 +134,13 @@
       ]
     },
     {
+      "id": "a4786cc8-a51c-436b-8294-8db91c714d18",
       "word": "gravy train",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JhdnkgdHJhaW4&hash=bdf5c0f35823a35a40a6d070163cc372046a4e78&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "greɪ.vi treɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JhdnkgdHJhaW4&hash=bdf5c0f35823a35a40a6d070163cc372046a4e78&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "grei.vi trein",
       "img": "https://cdn.langeek.co/photo/40363/original/?type=jpeg",
       "pronunciation": "ɡɹˈeɪvi tɹˈeɪn",
       "senses": [

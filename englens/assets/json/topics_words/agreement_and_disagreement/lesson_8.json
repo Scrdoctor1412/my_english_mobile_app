@@ -1,15 +1,17 @@
 {
+  "id": "101a7a28-9f0e-4e35-b4a6-5a59b374e80d",
   "topic": "agreement_and_disagreement",
   "title": "Breach of Contract or Cancellation",
   "lesson": "lesson_8",
   "word_list": [
     {
-      "word": "abrogate",
+      "id": "14333f1c-16eb-421e-bb86-f569ff0bb4d0",
+      "word": "to abrogate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWJyb2dhdGU&hash=f3d89fd3f21e5c731d690eda38083e10f0d87b86&lang=en&cache-only=0",
-      "phonetic_text": "æbrəgeɪt",
+      "phonetic_text": "æb.rə.geɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWJyb2dhdGU&hash=f3d89fd3f21e5c731d690eda38083e10f0d87b86&lang=en&cache-only=0",
-      "phonetic_am_text": "ābrēgeit",
+      "phonetic_am_text": "āb.rē.geit",
       "img": "",
       "pronunciation": "ˈæbɹəˌɡeɪt",
       "senses": [
@@ -41,12 +43,13 @@
       ]
     },
     {
+      "id": "fe468516-bf06-4865-bbbc-e60e2d11f683",
       "word": "abrogation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWJyb2dhdGlvbg&hash=d29799ae619d527190c25b8c85078a6813485e81&lang=en&cache-only=0",
-      "phonetic_text": "æbrəgeɪʃən",
+      "phonetic_text": "æb.rə.geɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=YWJyb2dhdGlvbg&hash=d29799ae619d527190c25b8c85078a6813485e81&lang=en&cache-only=0",
-      "phonetic_am_text": "ābrēgeishēn",
+      "phonetic_am_text": "āb.rē.gei.shēn",
       "img": "",
       "pronunciation": "ˌæbɹəˈɡeɪʃən",
       "senses": [
@@ -78,14 +81,15 @@
       ]
     },
     {
+      "id": "5c29dcd4-c5d6-4a94-8716-ff289dc80061",
       "word": "breach",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJlYWNo&hash=e5dc7931384c1d9eedbf998ed17160c1934f39a6&lang=en&cache-only=0",
-      "phonetic_text": "bri:ʧ",
+      "phonetic_text": "briʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJlYWNo&hash=e5dc7931384c1d9eedbf998ed17160c1934f39a6&lang=en&cache-only=0",
-      "phonetic_am_text": "breech",
+      "phonetic_am_text": "brich",
       "img": "",
-      "pronunciation": "ˈbɹitʃ",
+      "pronunciation": "briːʧ",
       "senses": [
         {
           "definition": "an act that violates an agreement, law, etc.",
@@ -111,14 +115,15 @@
       ]
     },
     {
-      "word": "breach",
+      "id": "45062190-8e95-4812-b5dc-1fc71f7ea049",
+      "word": "to breach",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJlYWNo&hash=e6ce0e01be065671ffe9f97b465ff423de006727&lang=en&cache-only=0",
-      "phonetic_text": "bri:ʧ",
+      "phonetic_text": "briʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJlYWNo&hash=e6ce0e01be065671ffe9f97b465ff423de006727&lang=en&cache-only=0",
-      "phonetic_am_text": "breech",
-      "img": "",
-      "pronunciation": "ˈbɹitʃ",
+      "phonetic_am_text": "brich",
+      "img": "https://cdn.langeek.co/photo/60037/original/?type=jpeg",
+      "pronunciation": "briːʧ",
       "senses": [
         {
           "definition": "to break an agreement, law, etc.",
@@ -148,12 +153,13 @@
       ]
     },
     {
+      "id": "adc89275-ced7-49f4-8981-af45e4b2155f",
       "word": "breach of contract",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJlYWNoIG9mIGNvbnRyYWN0&hash=26bd71872a05c85c964b7a9a732fde91569d4127&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "briʧ ʌv kɑnt.rækt",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJlYWNoIG9mIGNvbnRyYWN0&hash=26bd71872a05c85c964b7a9a732fde91569d4127&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "brich av kaant.rākt",
       "img": "",
       "pronunciation": "bɹˈiːtʃ ʌv kˈɑːntɹækt",
       "senses": [
@@ -164,14 +170,15 @@
       ]
     },
     {
-      "word": "cancel",
+      "id": "d22e6ada-1c09-475e-b6c7-9e6b959c9402",
+      "word": "to cancel",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2FuY2Vs&hash=aa46a6c54dbd56f93b79fdc5c1bd8b5e71abde8f&lang=en&cache-only=0",
-      "phonetic_text": "kænsəl",
+      "phonetic_text": "kæn.səl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2FuY2Vs&hash=aa46a6c54dbd56f93b79fdc5c1bd8b5e71abde8f&lang=en&cache-only=0",
-      "phonetic_am_text": "kānsēl",
+      "phonetic_am_text": "kān.sēl",
       "img": "https://cdn.langeek.co/photo/59428/original/?type=jpeg",
-      "pronunciation": "ˈkænsəɫ",
+      "pronunciation": "ˈkænsəl",
       "senses": [
         {
           "definition": "to end a formal agreement or arrangement",
@@ -201,14 +208,15 @@
       ]
     },
     {
+      "id": "9807ade5-b6b2-4ff2-893f-8402b5901184",
       "word": "cancelation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FuY2VsYXRpb24&hash=9ba50d0d0343fea43a067cdf0b53498ca18522b7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kæn.sə.leɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FuY2VsYXRpb24&hash=9ba50d0d0343fea43a067cdf0b53498ca18522b7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kān.sē.lei.shēn",
       "img": "",
-      "pronunciation": "kˌænsɪlˈeɪʃən",
+      "pronunciation": "ˌkænsəˈleɪʃən",
       "senses": [
         {
           "definition": "the ending of an agreement, particularly a legal one",
@@ -217,12 +225,13 @@
       ]
     },
     {
-      "word": "dishonor",
+      "id": "2a3e19b2-c4c5-40b1-8e31-aa323a805f87",
+      "word": "to dishonor",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlzaG9ub3I&hash=a57a8182cc275f07187eb919fd483c10e9c98b87&lang=en&cache-only=0",
-      "phonetic_text": "dɪsɑ:nər",
+      "phonetic_text": "dɪs.ɑ.nɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlzaG9ub3I&hash=a57a8182cc275f07187eb919fd483c10e9c98b87&lang=en&cache-only=0",
-      "phonetic_am_text": "disaanēr",
+      "phonetic_am_text": "dis.aa.nēr",
       "img": "",
       "pronunciation": "dɪˈsɑnɝ",
       "senses": [
@@ -233,12 +242,13 @@
       ]
     },
     {
+      "id": "7ab55ffa-ed4e-43fa-843c-c6e88d976d6b",
       "word": "dissolution",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzc29sdXRpb24&hash=f9acbf06b8fb6199cc138dd6a797c0f2b1a35cd7&lang=en&cache-only=0",
-      "phonetic_text": "dɪsəlu:ʃən",
+      "phonetic_text": "dɪs.sə.lu.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzc29sdXRpb24&hash=f9acbf06b8fb6199cc138dd6a797c0f2b1a35cd7&lang=en&cache-only=0",
-      "phonetic_am_text": "disēlooshēn",
+      "phonetic_am_text": "dis.sē.loo.shēn",
       "img": "",
       "pronunciation": "ˌdɪsəˈɫuʃən",
       "senses": [
@@ -270,12 +280,13 @@
       ]
     },
     {
-      "word": "dissolve",
+      "id": "1120fbf4-d624-4995-ae71-1693f6efecf6",
+      "word": "to dissolve",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlzc29sdmU&hash=be1fac6ece36f2f12a8c051d5ed408536d215a5d&lang=en&cache-only=0",
-      "phonetic_text": "dɪzɑ:lv",
+      "phonetic_text": "dɪs.sɑ:lv",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlzc29sdmU&hash=be1fac6ece36f2f12a8c051d5ed408536d215a5d&lang=en&cache-only=0",
-      "phonetic_am_text": "dizaalv",
+      "phonetic_am_text": "dis.saalv",
       "img": "",
       "pronunciation": "dɪˈzɑɫv",
       "senses": [
@@ -307,7 +318,8 @@
       ]
     },
     {
-      "word": "end",
+      "id": "16c18485-2a9c-4d16-a289-f13f64a677b7",
+      "word": "to end",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZW5k&hash=a97a23c77ba25e3906ffad29682ee64155a6d060&lang=en&cache-only=0",
       "phonetic_text": "ɛnd",
@@ -344,12 +356,13 @@
       ]
     },
     {
-      "word": "expire",
+      "id": "d78fcbc4-8859-4e08-9f15-daad968dc929",
+      "word": "to expire",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZXhwaXJl&hash=aefdd9ff9f5b6a78ef3464b0808aa7457ef6e07c&lang=en&cache-only=0",
-      "phonetic_text": "ɪkspaɪr",
+      "phonetic_text": "ɪk.spaɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZXhwaXJl&hash=aefdd9ff9f5b6a78ef3464b0808aa7457ef6e07c&lang=en&cache-only=0",
-      "phonetic_am_text": "ikspair",
+      "phonetic_am_text": "ik.spair",
       "img": "",
       "pronunciation": "ɪkˈspaɪɹ",
       "senses": [
@@ -381,12 +394,13 @@
       ]
     },
     {
+      "id": "ec472731-9206-4ec0-8fe4-deb015b3f166",
       "word": "expiry",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXhwaXJ5&hash=8277863096a161209faa136be672aa3e46206650&lang=en&cache-only=0",
-      "phonetic_text": "ɛkspaɪri",
+      "phonetic_text": "ɛk.spaɪ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXhwaXJ5&hash=8277863096a161209faa136be672aa3e46206650&lang=en&cache-only=0",
-      "phonetic_am_text": "ekspairi",
+      "phonetic_am_text": "ek.spai.ri",
       "img": "",
       "pronunciation": "ˌɛkˈspaɪɹi",
       "senses": [
@@ -397,12 +411,13 @@
       ]
     },
     {
-      "word": "nullify",
+      "id": "a9201774-10bc-4791-b203-280674cce29f",
+      "word": "to nullify",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbnVsbGlmeQ&hash=b476a2f68a88dc715e063140ba639acb2da6af13&lang=en&cache-only=0",
-      "phonetic_text": "nʌləfaɪ",
+      "phonetic_text": "nə.lə.faɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbnVsbGlmeQ&hash=b476a2f68a88dc715e063140ba639acb2da6af13&lang=en&cache-only=0",
-      "phonetic_am_text": "nalēfai",
+      "phonetic_am_text": "nē.lē.fai",
       "img": "",
       "pronunciation": "ˈnəɫəˌfaɪ",
       "senses": [
@@ -434,12 +449,13 @@
       ]
     },
     {
-      "word": "renege",
+      "id": "d233d159-d87d-4ad5-9486-58e6a9ac80ba",
+      "word": "to renege",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVuZWdl&hash=2ad224389cf956e1ffea442cdf13861493c381da&lang=en&cache-only=0",
-      "phonetic_text": "rɪnɪg",
+      "phonetic_text": "rɪ.nɪg",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVuZWdl&hash=2ad224389cf956e1ffea442cdf13861493c381da&lang=en&cache-only=0",
-      "phonetic_am_text": "rinig",
+      "phonetic_am_text": "ri.nig",
       "img": "",
       "pronunciation": "ɹɪˈnɪɡ",
       "senses": [
@@ -450,13 +466,14 @@
       ]
     },
     {
-      "word": "repeal",
+      "id": "92742e75-4823-426e-b3c7-3716ae602812",
+      "word": "to repeal",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVwZWFs&hash=b5909af1f2dc0c3986f0be7e0969e8e41c6fbeda&lang=en&cache-only=0",
-      "phonetic_text": "rɪpi:l",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVwZWFs&hash=b5909af1f2dc0c3986f0be7e0969e8e41c6fbeda&lang=en&cache-only=0",
-      "phonetic_am_text": "ripeel",
-      "img": "",
+      "phonetic_am_text": null,
+      "img": "https://cdn.langeek.co/photo/60081/original/?type=jpeg",
       "pronunciation": "ɹiˈpiɫ/, /ɹɪˈpiɫ",
       "senses": [
         {
@@ -487,12 +504,13 @@
       ]
     },
     {
-      "word": "rescind",
+      "id": "a1f656b2-0e37-4650-b995-13ae5ec83d64",
+      "word": "to rescind",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVzY2luZA&hash=92b748688f526eaf5769bcc9fe61a9963a403f5f&lang=en&cache-only=0",
-      "phonetic_text": "rɪsɪnd",
+      "phonetic_text": "ris.ɪnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVzY2luZA&hash=92b748688f526eaf5769bcc9fe61a9963a403f5f&lang=en&cache-only=0",
-      "phonetic_am_text": "risind",
+      "phonetic_am_text": "ris.ind",
       "img": "",
       "pronunciation": "ɹiˈsɪnd/, /ɹɪˈsɪnd",
       "senses": [
@@ -524,12 +542,13 @@
       ]
     },
     {
+      "id": "7a0351cc-3658-42b3-add6-bf921bb10d1e",
       "word": "rescission",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVzY2lzc2lvbg&hash=95836ac6d4cab1a07fa8a249249138f75eab885d&lang=en&cache-only=0",
-      "phonetic_text": "rɪsɪʒən",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVzY2lzc2lvbg&hash=95836ac6d4cab1a07fa8a249249138f75eab885d&lang=en&cache-only=0",
-      "phonetic_am_text": "risizhēn",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ɹɪˈsɪʒən",
       "senses": [
@@ -540,12 +559,13 @@
       ]
     },
     {
+      "id": "3437cde9-5c56-44cf-9936-18e1b878b4a6",
       "word": "revocation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmV2b2NhdGlvbg&hash=5b0823de2d2540de1b6a22c8ad1d27f044ef4a17&lang=en&cache-only=0",
-      "phonetic_text": "rɛvəkeɪʃən",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cmV2b2NhdGlvbg&hash=5b0823de2d2540de1b6a22c8ad1d27f044ef4a17&lang=en&cache-only=0",
-      "phonetic_am_text": "revēkeishēn",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˌɹɛvəˈkeɪʃən",
       "senses": [
@@ -556,12 +576,13 @@
       ]
     },
     {
-      "word": "run out",
+      "id": "80752bef-ec8d-480c-8d64-5f0ed14524a4",
+      "word": "to run out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcnVuIG91dA&hash=34a7aa04d0d40eeec029192a0209d2e0ccb31994&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rʌn aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcnVuIG91dA&hash=34a7aa04d0d40eeec029192a0209d2e0ccb31994&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ran aoot",
       "img": "",
       "pronunciation": "ɹˈʌn ˈaʊt",
       "senses": [
@@ -572,12 +593,13 @@
       ]
     },
     {
+      "id": "09322063-a04c-431f-a3ad-1d39d4a0507c",
       "word": "rupture",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cnVwdHVyZQ&hash=c169b096731c3f712df46a4b47da8f5eef0aaec5&lang=en&cache-only=0",
-      "phonetic_text": "rʌpʧər",
+      "phonetic_text": "rəp.ʧɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cnVwdHVyZQ&hash=c169b096731c3f712df46a4b47da8f5eef0aaec5&lang=en&cache-only=0",
-      "phonetic_am_text": "rapchēr",
+      "phonetic_am_text": "rēp.chēr",
       "img": "",
       "pronunciation": "ˈɹəptʃɝ",
       "senses": [
@@ -588,12 +610,13 @@
       ]
     },
     {
-      "word": "rupture",
+      "id": "081bbbff-4b88-4ed8-9ea5-23d29ea3a75a",
+      "word": "to rupture",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcnVwdHVyZQ&hash=864f0ab84a84f7544c4bf97f0d6da05aa28b9f17&lang=en&cache-only=0",
-      "phonetic_text": "rʌpʧər",
+      "phonetic_text": "rəp.ʧɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcnVwdHVyZQ&hash=864f0ab84a84f7544c4bf97f0d6da05aa28b9f17&lang=en&cache-only=0",
-      "phonetic_am_text": "rapchēr",
+      "phonetic_am_text": "rēp.chēr",
       "img": "",
       "pronunciation": "ˈɹəptʃɝ",
       "senses": [
@@ -625,6 +648,7 @@
       ]
     },
     {
+      "id": "03fea7b0-3f64-437d-ac41-93c3d4c85787",
       "word": "term",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVybQ&hash=b6232b16f89220b984216bf1365c378977db0a9a&lang=en&cache-only=0",
@@ -632,7 +656,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=dGVybQ&hash=b6232b16f89220b984216bf1365c378977db0a9a&lang=en&cache-only=0",
       "phonetic_am_text": "tērm",
       "img": "",
-      "pronunciation": "ˈtɝm",
+      "pronunciation": "tɝm",
       "senses": [
         {
           "definition": "the end of a specific period of time, particularly one that is expected to last",
@@ -641,12 +665,13 @@
       ]
     },
     {
+      "id": "b1284ef1-94e1-406e-94ab-de194cfbd88f",
       "word": "termination",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVybWluYXRpb24&hash=1484595d8d3e36286f5b87f08580138b6aa6bab6&lang=en&cache-only=0",
-      "phonetic_text": "tərməneɪʃən",
+      "phonetic_text": "tɜr.mə.neɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVybWluYXRpb24&hash=1484595d8d3e36286f5b87f08580138b6aa6bab6&lang=en&cache-only=0",
-      "phonetic_am_text": "tērmēneishēn",
+      "phonetic_am_text": "tēr.mē.nei.shēn",
       "img": "",
       "pronunciation": "tɝməˈneɪʃən",
       "senses": [
@@ -657,14 +682,15 @@
       ]
     },
     {
-      "word": "violate",
+      "id": "c2d6bbbc-0544-4945-9516-633c7f2a6e88",
+      "word": "to violate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdmlvbGF0ZQ&hash=1653afd3f29d06563525a9b967c968679c651014&lang=en&cache-only=0",
-      "phonetic_text": "vaɪəleɪt",
+      "phonetic_text": "vaɪə.leɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdmlvbGF0ZQ&hash=1653afd3f29d06563525a9b967c968679c651014&lang=en&cache-only=0",
-      "phonetic_am_text": "vaiēleit",
+      "phonetic_am_text": "vaiē.leit",
       "img": "https://cdn.langeek.co/photo/46511/original/?type=jpeg",
-      "pronunciation": "ˈvaɪəɫeɪt",
+      "pronunciation": "ˈvaɪəˌleɪt",
       "senses": [
         {
           "definition": "to disobey or break a regulation, an agreement, etc.",
@@ -694,12 +720,13 @@
       ]
     },
     {
+      "id": "260a9cea-792c-44a2-b215-8b42db276a59",
       "word": "violation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmlvbGF0aW9u&hash=a970d4fcd3f09d141eddcec0ed9bad39ec0c5672&lang=en&cache-only=0",
-      "phonetic_text": "vaɪəleɪʃən",
+      "phonetic_text": "vaɪə.leɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=dmlvbGF0aW9u&hash=a970d4fcd3f09d141eddcec0ed9bad39ec0c5672&lang=en&cache-only=0",
-      "phonetic_am_text": "vaiēleishēn",
+      "phonetic_am_text": "vaiē.lei.shēn",
       "img": "",
       "pronunciation": "vaɪəˈɫeɪʃən",
       "senses": [
@@ -710,12 +737,13 @@
       ]
     },
     {
+      "id": "b4b16f3c-9216-4967-92d3-4f6c08b0f4d8",
       "word": "violator",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmlvbGF0b3I&hash=c7883f14cf3d9314ceafbc3df27e9e0111a7851c&lang=en&cache-only=0",
-      "phonetic_text": "vaɪəleɪtər",
+      "phonetic_text": "vaɪə.leɪ.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dmlvbGF0b3I&hash=c7883f14cf3d9314ceafbc3df27e9e0111a7851c&lang=en&cache-only=0",
-      "phonetic_am_text": "vaiēleitēr",
+      "phonetic_am_text": "vaiē.lei.tēr",
       "img": "",
       "pronunciation": "ˈvaɪəˌɫeɪtɝ",
       "senses": [
@@ -726,12 +754,13 @@
       ]
     },
     {
-      "word": "rat on",
+      "id": "f9c9a42f-4c8b-4278-8f26-8d19fcd48117",
+      "word": "to rat on",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmF0IG9u&hash=9c45ae93a88ec3f6fc9194d4ee88b09a154a8d08&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ræt ɑ:n",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmF0IG9u&hash=9c45ae93a88ec3f6fc9194d4ee88b09a154a8d08&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rāt aan",
       "img": "https://cdn.langeek.co/photo/52995/original/?type=jpeg",
       "pronunciation": "ɹˈæt ˈɑːn",
       "senses": [
@@ -763,12 +792,13 @@
       ]
     },
     {
-      "word": "back out",
+      "id": "d3f5e6af-14d7-4ad5-8094-2b4d8f9ae08b",
+      "word": "to back out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmFjayBvdXQ&hash=c494c0e3af7d43a425ae70b4e2f8f66ec47140c1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæk aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmFjayBvdXQ&hash=c494c0e3af7d43a425ae70b4e2f8f66ec47140c1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bāk aoot",
       "img": "https://cdn.langeek.co/photo/52439/original/?type=jpeg",
       "pronunciation": "bˈæk ˈaʊt",
       "senses": [

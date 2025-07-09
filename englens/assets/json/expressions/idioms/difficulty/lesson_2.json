@@ -1,13 +1,15 @@
 {
+  "id": "7f2827a2-5445-4e09-8125-33ba191a4478",
   "topic": "difficulty",
   "title": "Causing Difficulty",
   "lesson": "lesson_2",
   "word_list": [
     {
+      "id": "ec1a0fd2-04bf-40d3-9fc0-facbf88eabe0",
       "word": "a pain in the (ass|butt)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YSBwYWluIGluIHRoZSBhc3M&hash=d111e9261ab7a642774a6def1e6063c73b0d87b1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YSBwYWluIGluIHRoZSBhc3M&hash=d111e9261ab7a642774a6def1e6063c73b0d87b1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46324/original/?type=jpeg",
@@ -29,10 +31,11 @@
       ]
     },
     {
+      "id": "0f0bb005-5649-4369-80ad-6a65dcf17d16",
       "word": "a victim of {one's} own success",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YSB2aWN0aW0gb2Ygb25lJ3Mgb3duIHN1Y2Nlc3M&hash=6f029b7c134e227de235d4bb05d7a68fe59c9318&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YSB2aWN0aW0gb2Ygb25lJ3Mgb3duIHN1Y2Nlc3M&hash=6f029b7c134e227de235d4bb05d7a68fe59c9318&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46408/original/?type=jpeg",
@@ -40,34 +43,18 @@
       "senses": [
         {
           "definition": "a situation in which an individual or organization faces negative consequences or difficulties as a result of their own achievements or accomplishments",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After the release of their hit album, the band became a victim of their own success as they struggled to maintain their creative freedom and deal with the pressures of fame."
-            },
-            {
-              "cf": "",
-              "x": "The company's rapid expansion led to logistical issues and overwhelmed staff, making them a victim of their own success."
-            },
-            {
-              "cf": "",
-              "x": "He started a small business that grew rapidly, but he soon realized he had become a victim of his own success when he couldn't keep up with the increased demand."
-            },
-            {
-              "cf": "",
-              "x": "The athlete's exceptional performance in previous matches raised expectations, and she ultimately became a victim of her own success when she couldn't replicate her earlier achievements."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "27a338c8-2719-4a8b-a255-99d9b4f19a34",
       "word": "a pain in the neck",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YSBwYWluIGluIHRoZSBuZWNr&hash=7c33a2b5e83f855a2f62c03da9c80889f3e9796a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ə peɪn ɪn ðə nɛk",
       "phonetic_am": "https://tts.langeek.co/read?text=YSBwYWluIGluIHRoZSBuZWNr&hash=7c33a2b5e83f855a2f62c03da9c80889f3e9796a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ē pein in dhē nek",
       "img": "https://cdn.langeek.co/photo/42114/original/?type=jpeg",
       "pronunciation": "ɐ pˈeɪn ɪnðə nˈɛk",
       "senses": [
@@ -87,10 +74,11 @@
       ]
     },
     {
-      "word": "[be|go|get] beyond a joke",
+      "id": "fb9bb4e4-8622-4548-9b16-906adaf658ab",
+      "word": "to [be|go|get] beyond a joke",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgYmV5b25kIGEgam9rZQ&hash=daae2b047cee6e7c63122929942ca6741eb8313a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgYmV5b25kIGEgam9rZQ&hash=daae2b047cee6e7c63122929942ca6741eb8313a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45341/original/?type=jpeg",
@@ -98,36 +86,16 @@
       "senses": [
         {
           "definition": "to start becoming a source of trouble or worry",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The constant pranks from my coworkers were funny at first, but it has now gone beyond a joke."
-            },
-            {
-              "cf": "",
-              "x": "The noise from the construction site next door was tolerable for a while, but now it's getting beyond a joke."
-            },
-            {
-              "cf": "",
-              "x": "The delays in the public transportation system have been going on for months, and it's getting beyond a joke."
-            },
-            {
-              "cf": "",
-              "x": "His constant teasing and mocking have reached the point of being beyond a joke."
-            },
-            {
-              "cf": "",
-              "x": "The recurring technical issues with the software are beyond a joke."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[get] in the way of {sb/sth}",
+      "id": "20c54b2b-47d0-4b09-9603-5facc876d91a",
+      "word": "to [get] in the way of {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IGluIHRoZSB3YXkgb2Ygc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=46a1e2d4409d7b58370d09b2ab4c40078d715ebd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IGluIHRoZSB3YXkgb2Ygc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=46a1e2d4409d7b58370d09b2ab4c40078d715ebd&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44354/original/?type=jpeg",
@@ -135,38 +103,18 @@
       "senses": [
         {
           "definition": "to not let someone do something or to prevent something from getting done by causing problems",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She had a job which never got in the way of her leisure interests."
-            },
-            {
-              "cf": "",
-              "x": "Sarah's fear of failure often gets in the way of her pursuing new opportunities in her career."
-            },
-            {
-              "cf": "",
-              "x": "The heavy traffic got in the way of us reaching the airport on time for our flight."
-            },
-            {
-              "cf": "",
-              "x": "The constant interruptions during the meeting got in the way of productive discussions."
-            },
-            {
-              "cf": "",
-              "x": "Jack's lack of focus often gets in the way of him completing his assignments on time."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "7c0163f2-237b-467f-bddc-d6e60e17f0b1",
       "word": "long haul",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9uZyBoYXVs&hash=abcc57bb314bc731f90c3e0201b589eabe5d1e48&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɑ:ng hɔl",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9uZyBoYXVs&hash=abcc57bb314bc731f90c3e0201b589eabe5d1e48&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "laang hawl",
       "img": "https://cdn.langeek.co/photo/43056/original/?type=jpeg",
       "pronunciation": "lˈɑːŋ hˈɔːl",
       "senses": [
@@ -198,12 +146,13 @@
       ]
     },
     {
+      "id": "b37d96a3-8407-4a2a-aaf6-5827416359ff",
       "word": "stumbling block",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3R1bWJsaW5nIGJsb2Nr&hash=6abc30936df480108be52a4a3f7735cfc6bab8c2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stəm.bə.lɪng blɑk",
       "phonetic_am": "https://tts.langeek.co/read?text=c3R1bWJsaW5nIGJsb2Nr&hash=6abc30936df480108be52a4a3f7735cfc6bab8c2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "stēm.bē.ling blaak",
       "img": "https://cdn.langeek.co/photo/46531/original/?type=jpeg",
       "pronunciation": "stˈʌmblɪŋ blˈɑːk",
       "senses": [
@@ -235,10 +184,11 @@
       ]
     },
     {
-      "word": "[take] a lot out of {sb}",
+      "id": "9951558d-ea28-470c-8eb7-24b96f685cc4",
+      "word": "to [take] a lot out of {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIGxvdCBvdXQgb2Ygc29tZWJvZHk&hash=2d63e179fe6fdf5579eb4d1875eda7a17a63fbe0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIGxvdCBvdXQgb2Ygc29tZWJvZHk&hash=2d63e179fe6fdf5579eb4d1875eda7a17a63fbe0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/23545/original/?type=jpeg",
@@ -246,24 +196,16 @@
       "senses": [
         {
           "definition": "to exhaust one mentally or physically in order to be done or achieved",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The stress of managing a high-pressure job can take a lot out of employees, leading to burnout."
-            },
-            {
-              "cf": "",
-              "x": "Studying for long hours during exam season can take a lot out of students, leaving them feeling drained and in need of rest."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "b87dd42b-3ba6-41fd-b653-fc17e5af6bb3",
       "word": "the (last|final) straw",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIGxhc3Qgc3RyYXc&hash=9fe754dec2dcc6ddfaa4b9c7ebd6fcabc0416335&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIGxhc3Qgc3RyYXc&hash=9fe754dec2dcc6ddfaa4b9c7ebd6fcabc0416335&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46416/original/?type=jpeg",
@@ -297,10 +239,11 @@
       ]
     },
     {
+      "id": "52f0be06-9cdd-4064-b317-efaf75fcffab",
       "word": "a monkey on {one's} back",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YSBtb25rZXkgb24gb25lJ3MgYmFjaw&hash=a2c14ef8f3dc9d556e7a328d41e0be0f8ba65cea&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YSBtb25rZXkgb24gb25lJ3MgYmFjaw&hash=a2c14ef8f3dc9d556e7a328d41e0be0f8ba65cea&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45623/original/?type=jpeg",
@@ -308,32 +251,16 @@
       "senses": [
         {
           "definition": "a problem that is in no way easy to solve or get rid of",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The constant pressure to meet unrealistic deadlines has become a monkey on her back, leading to stress and burnout."
-            },
-            {
-              "cf": "",
-              "x": "The secret guilt from his past actions is a monkey on his back, haunting him and preventing him from finding peace."
-            },
-            {
-              "cf": "",
-              "x": "Her chronic health condition has been a monkey on her back, requiring ongoing treatment and impacting her quality of life."
-            },
-            {
-              "cf": "",
-              "x": "The fear of failure has become a monkey on his back, preventing him from taking risks and pursuing his dreams."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "1a26befb-3513-4159-9701-45eae0087de6",
       "word": "like kicking (dead|) whales down the beach",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bGlrZSBraWNraW5nIGRlYWQgd2hhbGVzIGRvd24gdGhlIGJlYWNo&hash=01ca52298a1d15a67fb924d880e598d41e48af05&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlrZSBraWNraW5nIGRlYWQgd2hhbGVzIGRvd24gdGhlIGJlYWNo&hash=01ca52298a1d15a67fb924d880e598d41e48af05&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40835/original/?type=jpeg",
@@ -341,36 +268,16 @@
       "senses": [
         {
           "definition": "used to refer to a task or activity that is completely pointless and illogical",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Spending hours trying to convince him to change his opinion is like kicking dead whales down the beach."
-            },
-            {
-              "cf": "",
-              "x": "Arguing with her about politics is like kicking whales down the beach - it won't change anything."
-            },
-            {
-              "cf": "",
-              "x": "Trying to fix a leaking faucet without the right tools is like kicking dead whales down the beach."
-            },
-            {
-              "cf": "",
-              "x": "He kept trying to find his keys in the dark, but it was like kicking whales down the beach; they were nowhere to be found."
-            },
-            {
-              "cf": "",
-              "x": "Writing an essay without doing any research is like kicking dead whales down the beach - it won't lead to a well-informed or compelling piece of writing."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[get] {one's} hands dirty",
+      "id": "c0ee4819-837d-4528-b632-359ee2cdc5ec",
+      "word": "to [get] {one's} hands dirty",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IG9uZSdzIGhhbmRzIGRpcnR5&hash=818e1337a4f5b3398e1eb3069f67c5779867d49d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IG9uZSdzIGhhbmRzIGRpcnR5&hash=818e1337a4f5b3398e1eb3069f67c5779867d49d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43046/original/?type=jpeg",
@@ -404,10 +311,11 @@
       ]
     },
     {
+      "id": "3f7e0ddf-316f-43be-b76d-1610d3d1f821",
       "word": "thorn in {one's} (side|flesh)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhvcm4gaW4gb25lJ3Mgc2lkZQ&hash=aa8a6829014a1001cd775a6000a238c60e6fd82b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhvcm4gaW4gb25lJ3Mgc2lkZQ&hash=aa8a6829014a1001cd775a6000a238c60e6fd82b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46420/original/?type=jpeg",
@@ -425,10 +333,11 @@
       ]
     },
     {
+      "id": "d6f2be9e-bdd4-4123-a339-88283327de54",
       "word": "the chill wind of {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIGNoaWxsIHdpbmQgb2Ygc29tZXRoaW5n&hash=f459e8aa343fd6a215476c91b4c7053aebbff839&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIGNoaWxsIHdpbmQgb2Ygc29tZXRoaW5n&hash=f459e8aa343fd6a215476c91b4c7053aebbff839&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46410/original/?type=jpeg",
@@ -436,28 +345,16 @@
       "senses": [
         {
           "definition": "a collection of problems that are caused by something",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Many more businesses are feeling the chill wind of the recession."
-            },
-            {
-              "cf": "",
-              "x": "When the company announced the impending layoffs, the employees felt the chill wind of uncertainty."
-            },
-            {
-              "cf": "",
-              "x": "As the economic crisis deepened, many families began to feel the chill wind of financial hardship."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "e6d7da41-5295-48cb-bb01-c0803d2a98b5",
       "word": "milestone around {one's} neck",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bWlsZXN0b25lIGFyb3VuZCBvbmUncyBuZWNr&hash=0f82b93707da13c29733c07cf6f61abe7ec12f4f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bWlsZXN0b25lIGFyb3VuZCBvbmUncyBuZWNr&hash=0f82b93707da13c29733c07cf6f61abe7ec12f4f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46471/original/?type=jpeg",
@@ -487,12 +384,13 @@
       ]
     },
     {
+      "id": "d03d974c-09ce-4d54-bd19-f5ce1518765b",
       "word": "tar baby",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFyIGJhYnk&hash=7feab8460755b6caaa7a4b5162b6baeddbfca535&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɑr beɪ.bi",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFyIGJhYnk&hash=7feab8460755b6caaa7a4b5162b6baeddbfca535&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "taar bei.bi",
       "img": "https://cdn.langeek.co/photo/46475/original/?type=jpeg",
       "pronunciation": "tˈɑːɹ bˈeɪbi",
       "senses": [
@@ -524,10 +422,11 @@
       ]
     },
     {
+      "id": "bf957f3a-0d2b-4c45-b929-3b0543d72038",
       "word": "the straw that [break] the (camel's|donkey's) back",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIHN0cmF3IHRoYXQgYnJlYWsgdGhlIGNhbWVsJ3MncyBiYWNr&hash=e5ffc9b1005960e95ad68bdf65845b67863495bd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIHN0cmF3IHRoYXQgYnJlYWsgdGhlIGNhbWVsJ3MncyBiYWNr&hash=e5ffc9b1005960e95ad68bdf65845b67863495bd&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46473/original/?type=jpeg",
@@ -535,24 +434,16 @@
       "senses": [
         {
           "definition": "one of several difficulties happening after one another that finally makes it intolerable for someone to continue something",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I'm already fed up with your lazy, selfish behavior, Jim, but if you can't be bothered to come with me to my own mother's funeral, that will be the straw that breaks the donkey's back!"
-            },
-            {
-              "cf": "",
-              "x": "It had been a difficult week, so when the car broke down, it was the straw that broke the camel's back."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[be] drown (in|with) {sth}",
+      "id": "49e7aec0-133e-499d-9b8b-23422732f119",
+      "word": "to [be] drown (in|with) {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgZHJvd24gaW4gc29tZXRoaW5n&hash=d47eb51e31272cc01472b0a2a1e26e674ef68c3d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgZHJvd24gaW4gc29tZXRoaW5n&hash=d47eb51e31272cc01472b0a2a1e26e674ef68c3d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41706/original/?type=jpeg",

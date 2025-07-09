@@ -1,13 +1,15 @@
 {
+  "id": "65ad9070-e042-4104-83c5-e261c503d5ec",
   "topic": "interactions",
   "title": "Mockery & Ridicule",
   "lesson": "lesson_12",
   "word_list": [
     {
-      "word": "[make] a monkey (out|) of {sb}",
+      "id": "e564a5b4-3280-4dff-a177-903dcf4dd1f5",
+      "word": "to [make] a monkey (out|) of {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZSBhIG1vbmtleSBvdXQgb2Ygc29tZWJvZHk&hash=593410db757b8dbd3ed72a0f265d6ee13557423b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFrZSBhIG1vbmtleSBvdXQgb2Ygc29tZWJvZHk&hash=593410db757b8dbd3ed72a0f265d6ee13557423b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42812/original/?type=jpeg",
@@ -33,10 +35,11 @@
       ]
     },
     {
-      "word": "[poke] fun at {sb/sth}",
+      "id": "ac164c99-02c9-4ceb-a362-22662b360f01",
+      "word": "to [poke] fun at {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcG9rZSBmdW4gYXQgc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=41e799d37731e28a33e610895b38575b8ea5f8e1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcG9rZSBmdW4gYXQgc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=41e799d37731e28a33e610895b38575b8ea5f8e1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44740/original/?type=jpeg",
@@ -62,10 +65,11 @@
       ]
     },
     {
-      "word": "[take] the (mick|mickey) out of {sb}",
+      "id": "5a40a0d7-0bdb-4bd4-9b59-ffde7f42cec5",
+      "word": "to [take] the (mick|mickey) out of {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSB0aGUgbWljayBvdXQgb2Ygc29tZWJvZHk&hash=6f7a91492a9b3502e7bb61646012b018ac80ef6f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSB0aGUgbWljayBvdXQgb2Ygc29tZWJvZHk&hash=6f7a91492a9b3502e7bb61646012b018ac80ef6f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44712/original/?type=jpeg",
@@ -73,22 +77,18 @@
       "senses": [
         {
           "definition": "to tease a person by copying what they do, trick them into believing something, etc., often in a way that is not friendly",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Don't take the mickey out of him; he's just trying to learn."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "7bd7e9f6-6e21-4c6f-a8a4-4d64676ed0c3",
       "word": "laughing stock",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGF1Z2hpbmcgc3RvY2s&hash=bcc3449693544a0f11f8710ba9a69f5a57c6fe23&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lng stɑk",
       "phonetic_am": "https://tts.langeek.co/read?text=bGF1Z2hpbmcgc3RvY2s&hash=bcc3449693544a0f11f8710ba9a69f5a57c6fe23&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lng staak",
       "img": "https://cdn.langeek.co/photo/44706/original/?type=jpeg",
       "pronunciation": "ɐ lˈæfɪŋ stˈɑːk",
       "senses": [
@@ -120,10 +120,11 @@
       ]
     },
     {
+      "id": "f90efe32-d861-4ef3-bd3a-7bef74617b10",
       "word": "at {one's} expense",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXQgb25lJ3MgZXhwZW5zZQ&hash=df8e88cfa592627e28f75e793bf0c99578db7f6c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXQgb25lJ3MgZXhwZW5zZQ&hash=df8e88cfa592627e28f75e793bf0c99578db7f6c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/27898/original/?type=jpeg",
@@ -157,10 +158,11 @@
       ]
     },
     {
-      "word": "[make] a crack",
+      "id": "6dcdc73b-691c-439e-8f9c-2ec6bf360cae",
+      "word": "to [make] a crack",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZSBhIGNyYWNr&hash=cd1d7512c78f3835f4da01134f9f04be83d459d1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFrZSBhIGNyYWNr&hash=cd1d7512c78f3835f4da01134f9f04be83d459d1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44708/original/?type=jpeg",
@@ -168,32 +170,16 @@
       "senses": [
         {
           "definition": "to offer a humorous or witty comment, often with the aim of ridiculing disrespecting someone or something",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She always knows how to make a crack that lightens the mood during tense meetings."
-            },
-            {
-              "cf": "",
-              "x": "John can't resist making a crack about the weather whenever it starts raining during our picnics."
-            },
-            {
-              "cf": "",
-              "x": "Even in serious situations, he manages to make a crack to ease the tension."
-            },
-            {
-              "cf": "",
-              "x": "When he's in a good mood, he'll make a crack about anything and everything, keeping us entertained all day."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[break] {one's} (stones|balls)",
+      "id": "86223f90-f6d6-40f2-b7f1-b70ed1656d47",
+      "word": "to [break] {one's} (stones|balls)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJlYWsgb25lJ3Mgc3RvbmVz&hash=f7591d33be3cc5268b0b36d18c5f39b064fd30ac&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJlYWsgb25lJ3Mgc3RvbmVz&hash=f7591d33be3cc5268b0b36d18c5f39b064fd30ac&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42798/original/?type=jpeg",
@@ -201,28 +187,7 @@
       "senses": [
         {
           "definition": "to persistently and relentlessly bother, tease, or annoy someone, often in a playful or mocking manner",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I wish my coworker would stop criticizing everything I do; he's really breaking my stones."
-            },
-            {
-              "cf": "",
-              "x": "Why does he always have to break my balls about being five minutes late?"
-            },
-            {
-              "cf": "",
-              "x": "She keeps asking me the same question over and over, and it's starting to break my stones."
-            },
-            {
-              "cf": "",
-              "x": "The constant nagging and complaining from my neighbor are really breaking my balls."
-            },
-            {
-              "cf": "",
-              "x": "I can't stand it when he's always trying to break my stones with his sarcastic remarks."
-            }
-          ]
+          "examples": []
         }
       ]
     }

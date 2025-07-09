@@ -1,13 +1,15 @@
 {
+  "id": "f3b78535-765b-4226-b039-d35c75f36d15",
   "topic": "truth_secrecy_deception",
   "title": "Trust & Honesty",
   "lesson": "lesson_8",
   "word_list": [
     {
-      "word": "[walk] the walk",
+      "id": "cbb59623-9c53-40fb-84cd-f2d9666ec78c",
+      "word": "to [walk] the walk",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2FsayB0aGUgd2Fsaw&hash=000516635126ba24ae99958796baa01f7f31e95f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2FsayB0aGUgd2Fsaw&hash=000516635126ba24ae99958796baa01f7f31e95f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -15,36 +17,16 @@
       "senses": [
         {
           "definition": "to take action based on one's words or beliefs and living up to the standards that one talks about",
-          "examples": [
-            {
-              "cf": "",
-              "x": "It's not enough to talk about environmental conservation; you need to walk the walk by reducing your own carbon footprint."
-            },
-            {
-              "cf": "",
-              "x": "Leaders should not only talk about integrity but also walk the walk by demonstrating ethical behavior in their actions."
-            },
-            {
-              "cf": "",
-              "x": "She doesn't just talk about the importance of volunteering; she actively walks the walk by dedicating her time to community service."
-            },
-            {
-              "cf": "",
-              "x": "A true advocate for equality doesn't just talk the talk; they also walk the walk by actively promoting inclusivity in their daily life."
-            },
-            {
-              "cf": "",
-              "x": "To be an effective mentor, you need to not only talk the talk but also walk the walk by setting a positive example for your mentees."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[give] {one's} word",
+      "id": "8578d8a9-6f23-426c-92d9-cf2d209aeb31",
+      "word": "to [give] {one's} word",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBvbmUncyB3b3Jk&hash=cf081b8c193981fea651767f2a48d76865a5f499&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBvbmUncyB3b3Jk&hash=cf081b8c193981fea651767f2a48d76865a5f499&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -52,36 +34,16 @@
       "senses": [
         {
           "definition": "to make a firm promise to someone",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He gave his word that he would be there for the meeting, so we can rely on him to attend."
-            },
-            {
-              "cf": "",
-              "x": "She gave her word to keep the secret, assuring her friend that she would not disclose the information to anyone else."
-            },
-            {
-              "cf": "",
-              "x": "The politician gave his word to address the concerns of the community and work towards finding a solution."
-            },
-            {
-              "cf": "",
-              "x": "They gave their word to complete the project by the deadline, instilling confidence in the client that it would be delivered on time."
-            },
-            {
-              "cf": "",
-              "x": "The witness gave their word to tell the truth during the trial, pledging to provide accurate and honest testimony."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[take] {one's} word for it",
+      "id": "d239b5f9-a275-4942-8afb-df73dd0f54b0",
+      "word": "to [take] {one's} word for it",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBvbmUncyB3b3JkIGZvciBpdA&hash=93c99b78b0e3db5b4ca9b3565b4fadb78657c441&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBvbmUncyB3b3JkIGZvciBpdA&hash=93c99b78b0e3db5b4ca9b3565b4fadb78657c441&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -115,12 +77,13 @@
       ]
     },
     {
+      "id": "72c63d6a-5ca0-4037-b400-ca2cb8c6235b",
       "word": "benefit of the doubt",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YmVuZWZpdCBvZiB0aGUgZG91YnQ&hash=ac6f2596e1f4426cfdbdabe13001e92ee81a180b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɛ.nə.fɪt ʌv ðə daʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVuZWZpdCBvZiB0aGUgZG91YnQ&hash=ac6f2596e1f4426cfdbdabe13001e92ee81a180b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "be.nē.fit av dhē daoot",
       "img": "",
       "pronunciation": "bˈɛnɪfˌɪt ʌvðə dˈaʊt",
       "senses": [
@@ -152,10 +115,11 @@
       ]
     },
     {
+      "id": "0b4334f0-640c-4ec5-9fd5-8ebfbbb24121",
       "word": "from (the bottom of|) {one's} heart",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZnJvbSB0aGUgYm90dG9tIG9mIG9uZSdzIGhlYXJ0&hash=fec9efcdbd331942274ca4f3ef44856ae2e85cbc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJvbSB0aGUgYm90dG9tIG9mIG9uZSdzIGhlYXJ0&hash=fec9efcdbd331942274ca4f3ef44856ae2e85cbc&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -185,10 +149,11 @@
       ]
     },
     {
-      "word": "[shoot] from the hip",
+      "id": "e0e9f8a2-e21e-4898-9416-3eaf208ab87b",
+      "word": "to [shoot] from the hip",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2hvb3QgZnJvbSB0aGUgaGlw&hash=3e93f3fc68bf045fedddea7a124483263cb5c553&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2hvb3QgZnJvbSB0aGUgaGlw&hash=3e93f3fc68bf045fedddea7a124483263cb5c553&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -196,36 +161,16 @@
       "senses": [
         {
           "definition": "to not think carefully before saying something or reacting to a situation",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He tends to shoot from the hip during debates, often expressing his opinions without considering the consequences."
-            },
-            {
-              "cf": "",
-              "x": "The CEO's decision to launch the new product was a classic example of shooting from the hip, as it was made without thoroughly evaluating market demand."
-            },
-            {
-              "cf": "",
-              "x": "She always shoots from the hip when giving feedback, providing honest and direct criticism, even if it may be uncomfortable to hear."
-            },
-            {
-              "cf": "",
-              "x": "His impulsive decision to quit his job and start a business was a result of shooting from the hip, driven by a desire for change without a detailed plan."
-            },
-            {
-              "cf": "",
-              "x": "The politician's controversial remarks during the interview showed his tendency to shoot from the hip, often making provocative statements without considering their impact."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[make] no bones about {sth}",
+      "id": "96575ff1-2697-4a67-8d7e-c7cb45923fbd",
+      "word": "to [make] no bones about {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZSBubyBib25lcyBhYm91dCBzb21ldGhpbmc&hash=dc02f9344e55291fd36bf96d2836a3baf688e8a0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFrZSBubyBib25lcyBhYm91dCBzb21ldGhpbmc&hash=dc02f9344e55291fd36bf96d2836a3baf688e8a0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -259,10 +204,11 @@
       ]
     },
     {
-      "word": "[lay] it on the line",
+      "id": "9c599f94-9280-4776-bed1-ff68fda6805f",
+      "word": "to [lay] it on the line",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGF5IGl0IG9uIHRoZSBsaW5l&hash=af95355cf945902aa691c5f2c10b64a13f69bab8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGF5IGl0IG9uIHRoZSBsaW5l&hash=af95355cf945902aa691c5f2c10b64a13f69bab8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -296,10 +242,11 @@
       ]
     },
     {
-      "word": "[give] it to {sb} straight",
+      "id": "26a609bd-6b48-4f94-8d11-f2df4fba728b",
+      "word": "to [give] it to {sb} straight",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBpdCB0byBzb21lYm9keSBzdHJhaWdodA&hash=01d42e65300fd19f2da2c89336b7b82d789c7dc7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBpdCB0byBzb21lYm9keSBzdHJhaWdodA&hash=01d42e65300fd19f2da2c89336b7b82d789c7dc7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -307,20 +254,16 @@
       "senses": [
         {
           "definition": "to directly tell a person a fact, usually one that is unpleasant",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I appreciate when my friends give it to me straight and offer their honest opinions, even if it's not what I want to hear."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[talk] turkey",
+      "id": "69b7936b-35ae-417e-9fb9-1ed7934bd757",
+      "word": "to [talk] turkey",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFsayB0dXJrZXk&hash=11c9d46868b802707c003b8ecf0c1c27ee28b8d1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFsayB0dXJrZXk&hash=11c9d46868b802707c003b8ecf0c1c27ee28b8d1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -354,10 +297,11 @@
       ]
     },
     {
-      "word": "[pull] no punches",
+      "id": "8f57b4ae-5d34-403e-89d2-1732f7967349",
+      "word": "to [pull] no punches",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHVsbCBubyBwdW5jaGVz&hash=9219f397236e3fe698a2ffafa9c9127827721e34&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHVsbCBubyBwdW5jaGVz&hash=9219f397236e3fe698a2ffafa9c9127827721e34&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -365,26 +309,18 @@
       "senses": [
         {
           "definition": "to show one's criticism or disapproval without considering other people's feelings",
-          "examples": [
-            {
-              "cf": "",
-              "x": "My father is very direct and pulls no punches."
-            },
-            {
-              "cf": "",
-              "x": "In the review, the manager pulled no punches when discussing the employee's underperformance."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "c5ecd337-8929-41db-9d0c-ac9c23fafa7e",
       "word": "man to man",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bWFuIHRvIG1hbg&hash=00e7c39515474edac4b0f0e12347d4387f97552f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mæn tu: mæn",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFuIHRvIG1hbg&hash=00e7c39515474edac4b0f0e12347d4387f97552f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mān too mān",
       "img": "",
       "pronunciation": "mˈæn tə mˈæn",
       "senses": [
@@ -412,10 +348,11 @@
       ]
     },
     {
+      "id": "5e81d92e-4723-4c0e-b2df-56ee952579e1",
       "word": "in (so|as) many words",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aW4gc28gbWFueSB3b3Jkcw&hash=07532b947d25ec7865b21ca7a4861cce624665b1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gc28gbWFueSB3b3Jkcw&hash=07532b947d25ec7865b21ca7a4861cce624665b1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -449,10 +386,11 @@
       ]
     },
     {
+      "id": "07aa0dab-8d73-4c79-a713-1558e3a0ce4c",
       "word": "gentleman's agreement",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Z2VudGxlbWFuJ3MgYWdyZWVtZW50&hash=91bc7990558958c4bf3f7c92d8a4ea6facadbcbe&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2VudGxlbWFuJ3MgYWdyZWVtZW50&hash=91bc7990558958c4bf3f7c92d8a4ea6facadbcbe&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -486,10 +424,11 @@
       ]
     },
     {
-      "word": "[wear|have] {one's} heart on {one's} sleeve",
+      "id": "5dee1d35-b9db-4a37-9cb7-a5e4a33ad6a7",
+      "word": "to [wear|have] {one's} heart on {one's} sleeve",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2VhciBvbmUncyBoZWFydCBvbiBvbmUncyBzbGVldmU&hash=5c658ca8299acacef3c2d6b9d950d4aab27ec0e4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2VhciBvbmUncyBoZWFydCBvbiBvbmUncyBzbGVldmU&hash=5c658ca8299acacef3c2d6b9d950d4aab27ec0e4&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -497,36 +436,16 @@
       "senses": [
         {
           "definition": "to make no effort to hide one's true feelings and intentions",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She wears her heart on her sleeve and is always quick to show her excitement and joy."
-            },
-            {
-              "cf": "",
-              "x": "He is not one to wear his heart on his sleeve, preferring to keep his emotions private."
-            },
-            {
-              "cf": "",
-              "x": "The poet's verses reveal that he wears his heart on his sleeve, pouring his deepest emotions onto the page."
-            },
-            {
-              "cf": "",
-              "x": "Despite his tough exterior, he wears his heart on his sleeve when it comes to his family, expressing his love and concern openly."
-            },
-            {
-              "cf": "",
-              "x": "She wore her heart on her sleeve during the heartfelt speech, moving the audience with her sincerity and passion."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[open] {one's} [heart] to {sb/sth}",
+      "id": "f7daa3dc-e011-4821-9d90-f81038640810",
+      "word": "to [open] {one's} [heart] to {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gb3BlbiBvbmUncyBoZWFydCB0byBzb21lYm9keSBvciBzb21ldGhpbmc&hash=25704f22c6ca8d6d692a78b207faf84c0de5d564&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gb3BlbiBvbmUncyBoZWFydCB0byBzb21lYm9keSBvciBzb21ldGhpbmc&hash=25704f22c6ca8d6d692a78b207faf84c0de5d564&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -534,32 +453,16 @@
       "senses": [
         {
           "definition": "to reveal to a person, an organization, etc. what one truly feels or thinks",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After years of secrecy, she finally opened her heart to her closest friend, sharing the pain she had been carrying."
-            },
-            {
-              "cf": "",
-              "x": "He opened his heart to the idea of forgiveness and decided to give his estranged family member a second chance."
-            },
-            {
-              "cf": "",
-              "x": "The children's book opened their hearts to the magic of imagination and sparked a lifelong love for reading."
-            },
-            {
-              "cf": "",
-              "x": "He opened his heart to his partner, revealing his fears and insecurities, and they grew closer as a result."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[open] the kimono",
+      "id": "0d6e93d5-2fda-4aed-8e2a-0a4fc58ac2d4",
+      "word": "to [open] the kimono",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gb3BlbiB0aGUga2ltb25v&hash=be6df35b2cdc6c984730fcd0750828ca0efe1640&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gb3BlbiB0aGUga2ltb25v&hash=be6df35b2cdc6c984730fcd0750828ca0efe1640&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -567,36 +470,16 @@
       "senses": [
         {
           "definition": "(of a business) to share confidential or sensitive information to a business partner or colleague",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The CEO decided to open the kimono and share the company's financial challenges with the board of directors."
-            },
-            {
-              "cf": "",
-              "x": "During the merger negotiations, both companies agreed to open the kimono and exchange detailed financial data."
-            },
-            {
-              "cf": "",
-              "x": "The consultant requested that the client open the kimono and provide access to their internal processes for a thorough analysis."
-            },
-            {
-              "cf": "",
-              "x": "The team leader urged the team members to open the kimono and share their ideas and concerns during the brainstorming session."
-            },
-            {
-              "cf": "",
-              "x": "The government official promised to open the kimono and provide full transparency in addressing the public's concerns about the controversial policy."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[bare] {one's} [heart|soul]",
+      "id": "8f20df6d-25bc-4763-b6b6-ecd92af9e8fb",
+      "word": "to [bare] {one's} [heart|soul]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmFyZSBvbmUncyBoZWFydA&hash=da8f101ba5e317bbfd693186c053573d257c2ad3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmFyZSBvbmUncyBoZWFydA&hash=da8f101ba5e317bbfd693186c053573d257c2ad3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -604,36 +487,16 @@
       "senses": [
         {
           "definition": "to start to talk about what one truly feels or thinks",
-          "examples": [
-            {
-              "cf": "",
-              "x": "In her memoir, the author bared her soul, recounting her personal struggles and triumphs with raw honesty."
-            },
-            {
-              "cf": "",
-              "x": "After years of hiding his true self, he finally found the courage to bare his heart to his closest friends, embracing his authentic identity."
-            },
-            {
-              "cf": "",
-              "x": "The therapy session provided a safe space for him to bare his soul, exploring the underlying issues that had been holding him back."
-            },
-            {
-              "cf": "",
-              "x": "During the heartfelt conversation, she bared her heart to her partner, expressing her deepest fears, hopes, and dreams."
-            },
-            {
-              "cf": "",
-              "x": "The artist's paintings were a way for her to bare her soul to the world, channeling her emotions and experiences onto the canvas."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[pour] {one's} [heart] out",
+      "id": "f3400dd1-548b-494f-b462-6e8a846a3318",
+      "word": "to [pour] {one's} [heart] out",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcG91ciBvbmUncyBoZWFydCBvdXQ&hash=a1d5a16ee93ad95d80c5d8388405ff280eb8040e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcG91ciBvbmUncyBoZWFydCBvdXQ&hash=a1d5a16ee93ad95d80c5d8388405ff280eb8040e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -641,24 +504,16 @@
       "senses": [
         {
           "definition": "to openly share one's thoughts and feelings with someone",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She sat with her best friend and poured her heart out, sharing the pain and sorrow she had been carrying for so long."
-            },
-            {
-              "cf": "",
-              "x": "The singer poured her heart out on stage, delivering a powerful performance that moved the audience to tears."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[spill] {one's} guts (out|)",
+      "id": "b6aaf87d-b450-4344-aa0f-c54057e7e689",
+      "word": "to [spill] {one's} guts (out|)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3BpbGwgb25lJ3MgZ3V0cyBvdXQ&hash=814a6b3e79863246214af5be44f276b2d49e60e6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3BpbGwgb25lJ3MgZ3V0cyBvdXQ&hash=814a6b3e79863246214af5be44f276b2d49e60e6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -666,20 +521,7 @@
       "senses": [
         {
           "definition": "to share with someone all one's feelings, most private thoughts, and secrets",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Despite his initial hesitation, John eventually decided to spill his guts out and share his deepest fears with his therapist."
-            },
-            {
-              "cf": "",
-              "x": "It took a few glasses of wine, but eventually, Mark loosened up and started spilling his guts to his friends about his recent breakup."
-            },
-            {
-              "cf": "",
-              "x": "Sarah and Jessica are best friends, and they always spill their guts to each other about everything."
-            }
-          ]
+          "examples": []
         }
       ]
     }

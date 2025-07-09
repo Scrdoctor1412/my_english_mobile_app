@@ -1,17 +1,19 @@
 {
+  "id": "674e389e-388d-42ab-9ff2-c8cc8ccc9ad1",
   "topic": "c1_level",
   "title": "Language Components",
   "lesson": "lesson_16",
   "word_list": [
     {
+      "id": "260307d9-d534-47c0-a64b-d18ac37e24c9",
       "word": "linguistic",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bGluZ3Vpc3RpYw&hash=13e8f7e0a41028a02d4239095a5bf884651773a0&lang=en&cache-only=0",
-      "phonetic_text": "lɪngwɪstɪk",
+      "phonetic_text": "lɪng.wɪs.tɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=bGluZ3Vpc3RpYw&hash=13e8f7e0a41028a02d4239095a5bf884651773a0&lang=en&cache-only=0",
-      "phonetic_am_text": "lingwistik",
+      "phonetic_am_text": "ling.vis.tik",
       "img": "https://cdn.langeek.co/photo/19396/original/linguistics?type=jpeg",
-      "pronunciation": "ɫɪŋˈɡwɪstɪk",
+      "pronunciation": "lɪŋˈɡwɪstɪk",
       "senses": [
         {
           "definition": "related to the science of language, including its structure, usage, and evolution",
@@ -41,14 +43,15 @@
       ]
     },
     {
+      "id": "29ec9427-3a44-4827-a3f7-302f332faeaf",
       "word": "infinitive",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5maW5pdGl2ZQ&hash=1c3321f3af9bacb83933b4728c3a69a4aaaa4cf3&lang=en&cache-only=0",
-      "phonetic_text": "ɪnfɪnɪtɪv",
+      "phonetic_text": "ɪn.fɪ.nɪ.tɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5maW5pdGl2ZQ&hash=1c3321f3af9bacb83933b4728c3a69a4aaaa4cf3&lang=en&cache-only=0",
-      "phonetic_am_text": "infinitiv",
+      "phonetic_am_text": "in.fi.ni.tiv",
       "img": "",
-      "pronunciation": "ˌɪnˈfɪnɪtɪv",
+      "pronunciation": "ɪnˈfɪnɪtɪv",
       "senses": [
         {
           "definition": "(grammar) the root form of a verb",
@@ -74,14 +77,15 @@
       ]
     },
     {
+      "id": "460a8dee-134c-4bfa-8545-c6aee4178ca8",
       "word": "gerund",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2VydW5k&hash=bbfc4bf3db714ac9f0c0175918d22209def88ec6&lang=en&cache-only=0",
-      "phonetic_text": "ʤɛrənd",
+      "phonetic_text": "ʤɛ.rənd",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2VydW5k&hash=bbfc4bf3db714ac9f0c0175918d22209def88ec6&lang=en&cache-only=0",
-      "phonetic_am_text": "jerēnd",
+      "phonetic_am_text": "je.rēnd",
       "img": "",
-      "pronunciation": "ˈdʒɛɹənd",
+      "pronunciation": "ˈʤɛrənd",
       "senses": [
         {
           "definition": "(grammar) a form of a verb that functions as a noun and is formed by adding the suffix -ing to the base form of the verb",
@@ -111,14 +115,15 @@
       ]
     },
     {
+      "id": "d312c1a7-2b02-41cf-bdd2-0c327fd85199",
       "word": "transitive verb",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhbnNpdGl2ZSB2ZXJi&hash=2b72591689294ddc340628067f590f783478b821&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "træn.sɪ.tɪv vɜrb",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhbnNpdGl2ZSB2ZXJi&hash=2b72591689294ddc340628067f590f783478b821&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trān.si.tiv vērb",
       "img": "",
-      "pronunciation": "tɹˈænsɪtˌɪv vˈɜːb",
+      "pronunciation": "ˈtrænsɪtɪv vɝːb",
       "senses": [
         {
           "definition": "(grammar) a verb that needs a direct object",
@@ -144,14 +149,15 @@
       ]
     },
     {
+      "id": "e2649a76-48c0-4231-a8fc-87117f9147e2",
       "word": "intransitive verb",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW50cmFuc2l0aXZlIHZlcmI&hash=9f8ee354c5e6aa1912f4fa6b91b56777d7bce296&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪnt.ræn.sɪ.tɪv vɜrb",
       "phonetic_am": "https://tts.langeek.co/read?text=aW50cmFuc2l0aXZlIHZlcmI&hash=9f8ee354c5e6aa1912f4fa6b91b56777d7bce296&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "int.rān.si.tiv vērb",
       "img": "",
-      "pronunciation": "ɪntɹˈænsɪtˌɪv vˈɜːb",
+      "pronunciation": "ɪnˈtrænsɪtɪv vɝːb",
       "senses": [
         {
           "definition": "(grammar) a verb without a direct object",
@@ -177,14 +183,15 @@
       ]
     },
     {
+      "id": "d86f4247-ec9d-4cdf-ad58-57a7908acef1",
       "word": "number",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bnVtYmVy&hash=7d74c4e0274e06f9518a58887aa30ec3e91f1969&lang=en&cache-only=0",
-      "phonetic_text": "nʌmbər",
+      "phonetic_text": "nʌm.bər",
       "phonetic_am": "https://tts.langeek.co/read?text=bnVtYmVy&hash=7d74c4e0274e06f9518a58887aa30ec3e91f1969&lang=en&cache-only=0",
-      "phonetic_am_text": "nambēr",
+      "phonetic_am_text": "nam.bēr",
       "img": "",
-      "pronunciation": "ˈnəmbɝ",
+      "pronunciation": "ˈnʌmbɚ",
       "senses": [
         {
           "definition": "(grammar) the form of a word that indicates whether one, two, or more things or people are being referred to",
@@ -214,12 +221,13 @@
       ]
     },
     {
+      "id": "2a7ed619-6527-48ef-851b-a69c3dbf216b",
       "word": "person",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVyc29u&hash=14b6595ab0bee56098bce452501c69097ba0c105&lang=en&cache-only=0",
-      "phonetic_text": "pɜrsən",
+      "phonetic_text": "pɜr.sən",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVyc29u&hash=14b6595ab0bee56098bce452501c69097ba0c105&lang=en&cache-only=0",
-      "phonetic_am_text": "pērsēn",
+      "phonetic_am_text": "pēr.sēn",
       "img": "",
       "pronunciation": "ˈpɝsən",
       "senses": [
@@ -239,12 +247,13 @@
       ]
     },
     {
+      "id": "9422eac5-b813-4a29-a565-0aa3667e6e66",
       "word": "voice",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dm9pY2U&hash=2d837e39112a19291355bd3fb17d48f4f76a110f&lang=en&cache-only=0",
       "phonetic_text": "vɔɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=dm9pY2U&hash=2d837e39112a19291355bd3fb17d48f4f76a110f&lang=en&cache-only=0",
-      "phonetic_am_text": "voys",
+      "phonetic_am_text": "vawis",
       "img": "",
       "pronunciation": "vɔɪs",
       "senses": [
@@ -255,14 +264,15 @@
       ]
     },
     {
+      "id": "839bcad4-beb2-4153-a1ae-a2358766b06c",
       "word": "gender",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2VuZGVy&hash=0d3b9ad4ab2a44f5c4ade99485fac8d4d9f66be0&lang=en&cache-only=0",
-      "phonetic_text": "ʤɛndər",
+      "phonetic_text": "ʤɛn.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2VuZGVy&hash=0d3b9ad4ab2a44f5c4ade99485fac8d4d9f66be0&lang=en&cache-only=0",
-      "phonetic_am_text": "jendēr",
+      "phonetic_am_text": "jen.dēr",
       "img": "",
-      "pronunciation": "ˈdʒɛndɝ",
+      "pronunciation": "ˈʤɛndɚ",
       "senses": [
         {
           "definition": "(grammar) a class of words indicating whether they are feminine, masculine, or neuter",
@@ -292,14 +302,15 @@
       ]
     },
     {
+      "id": "de47dd92-afc2-4128-9c15-3ef300eb58ba",
       "word": "feminine",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZmVtaW5pbmU&hash=98ed090719b6fe0eb83c15daab33f14f050c66d9&lang=en&cache-only=0",
-      "phonetic_text": "fɛmənən",
+      "phonetic_text": "fɛ.mə.nən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmVtaW5pbmU&hash=98ed090719b6fe0eb83c15daab33f14f050c66d9&lang=en&cache-only=0",
-      "phonetic_am_text": "femēnēn",
+      "phonetic_am_text": "fe.mē.nēn",
       "img": "",
-      "pronunciation": "ˈfɛmənən",
+      "pronunciation": "ˈfɛmɪnɪn",
       "senses": [
         {
           "definition": "(of a language's grammar) referring to females",
@@ -329,14 +340,15 @@
       ]
     },
     {
+      "id": "05cc31b7-e18c-4c69-9e6b-778ea1525179",
       "word": "masculine",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bWFzY3VsaW5l&hash=80ede030fc845c660d7ff054337a4884d7e85e28&lang=en&cache-only=0",
-      "phonetic_text": "mæskjələn",
+      "phonetic_text": "mæsk.jə.lən",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFzY3VsaW5l&hash=80ede030fc845c660d7ff054337a4884d7e85e28&lang=en&cache-only=0",
-      "phonetic_am_text": "māskyēlēn",
+      "phonetic_am_text": "māsk.yē.lēn",
       "img": "",
-      "pronunciation": "ˈmæskjəɫən",
+      "pronunciation": "ˈmæskjəlɪn",
       "senses": [
         {
           "definition": "(of a language's grammar) referring to males",
@@ -350,14 +362,15 @@
       ]
     },
     {
+      "id": "3206494a-65d0-4b7e-90ed-72f5177dcaac",
       "word": "subjunctive",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c3VianVuY3RpdmU&hash=6b5fcbecb4cdae132bb0a3a4d6b3b104316bf753&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sʌb.ʤənk.tɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=c3VianVuY3RpdmU&hash=6b5fcbecb4cdae132bb0a3a4d6b3b104316bf753&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sab.jēnk.tiv",
       "img": "",
-      "pronunciation": "sˈʌbdʒəŋktˌɪv",
+      "pronunciation": "səbˈʤʌŋktɪv",
       "senses": [
         {
           "definition": "(grammar) related to verbs that express wishes, possibility, or doubt",
@@ -366,12 +379,13 @@
       ]
     },
     {
+      "id": "3f2bcecc-b752-466b-9922-d08621724b7e",
       "word": "phonetics",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGhvbmV0aWNz&hash=a227ebbdbcffcf1dd27c9926d2a4703394a5d0d1&lang=en&cache-only=0",
-      "phonetic_text": "fənɛtɪks",
+      "phonetic_text": "fə.nɛ.tɪks",
       "phonetic_am": "https://tts.langeek.co/read?text=cGhvbmV0aWNz&hash=a227ebbdbcffcf1dd27c9926d2a4703394a5d0d1&lang=en&cache-only=0",
-      "phonetic_am_text": "fēnetiks",
+      "phonetic_am_text": "fē.ne.tiks",
       "img": "",
       "pronunciation": "fəˈnɛtɪks",
       "senses": [
@@ -399,12 +413,13 @@
       ]
     },
     {
+      "id": "3cb9b2ba-bada-4a84-944e-145339844ff2",
       "word": "intonation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW50b25hdGlvbg&hash=3e72571bc75d2c3b8569d9356ef64e23f08084f3&lang=en&cache-only=0",
-      "phonetic_text": "ɪntəneɪʃən",
+      "phonetic_text": "ɪn.tə.neɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=aW50b25hdGlvbg&hash=3e72571bc75d2c3b8569d9356ef64e23f08084f3&lang=en&cache-only=0",
-      "phonetic_am_text": "intēneishēn",
+      "phonetic_am_text": "in.tē.nei.shēn",
       "img": "",
       "pronunciation": "ˌɪntəˈneɪʃən",
       "senses": [
@@ -432,14 +447,15 @@
       ]
     },
     {
+      "id": "ac965420-20eb-4672-9d2d-6bb49f539526",
       "word": "dialect",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlhbGVjdA&hash=75983c4ea233416731097e36f6d908fab8ab19d5&lang=en&cache-only=0",
-      "phonetic_text": "daɪəlɛkt",
+      "phonetic_text": "daɪə.lɛkt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlhbGVjdA&hash=75983c4ea233416731097e36f6d908fab8ab19d5&lang=en&cache-only=0",
-      "phonetic_am_text": "daiēlekt",
+      "phonetic_am_text": "daiē.lekt",
       "img": "",
-      "pronunciation": "ˈdaɪəˌɫɛkt",
+      "pronunciation": "ˈdaɪəˌlɛkt",
       "senses": [
         {
           "definition": "the spoken form of a language specific to a certain region or people which is slightly different from the standard form in words and grammar",
@@ -461,14 +477,15 @@
       ]
     },
     {
+      "id": "4bd29aee-0b81-40fb-a9ca-95943f047948",
       "word": "proverb",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvdmVyYg&hash=0632e9965417e95e7a48c91dfd8fbf439d4c1d25&lang=en&cache-only=0",
-      "phonetic_text": "prɑ:vərb",
+      "phonetic_text": "proʊ.vɜrb",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvdmVyYg&hash=0632e9965417e95e7a48c91dfd8fbf439d4c1d25&lang=en&cache-only=0",
-      "phonetic_am_text": "praavērb",
+      "phonetic_am_text": "prooo.vērb",
       "img": "",
-      "pronunciation": "ˈpɹɑvɝb",
+      "pronunciation": "ˈprɑvɝb",
       "senses": [
         {
           "definition": "a well-known statement or phrase that expresses a general truth or gives advice",
@@ -498,12 +515,13 @@
       ]
     },
     {
+      "id": "944ea39c-df98-49ae-9c6f-1403a49fed67",
       "word": "idiom",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aWRpb20&hash=73abd6c22ed7ee07a425335b14e326d7c65eca68&lang=en&cache-only=0",
-      "phonetic_text": "ɪdiəm",
+      "phonetic_text": "ɪ.diəm",
       "phonetic_am": "https://tts.langeek.co/read?text=aWRpb20&hash=73abd6c22ed7ee07a425335b14e326d7c65eca68&lang=en&cache-only=0",
-      "phonetic_am_text": "idiēm",
+      "phonetic_am_text": "i.diēm",
       "img": "",
       "pronunciation": "ˈɪdiəm",
       "senses": [
@@ -535,14 +553,15 @@
       ]
     },
     {
+      "id": "2b71ede7-6530-4c5a-b19e-82475ce218e8",
       "word": "jargon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=amFyZ29u&hash=ad8b097ee5dc47c4786e6c7cc87f2edce177f583&lang=en&cache-only=0",
-      "phonetic_text": "ʤɑ:rgən",
+      "phonetic_text": "ʤɑr.gən",
       "phonetic_am": "https://tts.langeek.co/read?text=amFyZ29u&hash=ad8b097ee5dc47c4786e6c7cc87f2edce177f583&lang=en&cache-only=0",
-      "phonetic_am_text": "jaargēn",
+      "phonetic_am_text": "jaar.gēn",
       "img": "",
-      "pronunciation": "ˈdʒɑɹɡən",
+      "pronunciation": "ˈʤɑrɡən",
       "senses": [
         {
           "definition": "words, phrases, and expressions used by a specific group or profession, which are incomprehensible to others",
@@ -568,6 +587,7 @@
       ]
     },
     {
+      "id": "626f4559-d1ba-4b73-9209-c56f6f42acb6",
       "word": "slang",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2xhbmc&hash=19ada109d2c0f19653d8cdecd289a17e77586e4c&lang=en&cache-only=0",
@@ -575,7 +595,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=c2xhbmc&hash=19ada109d2c0f19653d8cdecd289a17e77586e4c&lang=en&cache-only=0",
       "phonetic_am_text": "slāng",
       "img": "",
-      "pronunciation": "ˈsɫæŋ",
+      "pronunciation": "slæŋ",
       "senses": [
         {
           "definition": "words or expressions that are very informal and more common in spoken form, used especially by a particular group of people, such as criminals, children, etc.",
@@ -601,14 +621,15 @@
       ]
     },
     {
+      "id": "bb3d4cb1-2041-4474-a336-bac95ae59e96",
       "word": "euphemism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXVwaGVtaXNt&hash=138610bc1eb2dcc1dd95b6cca0b738688c83a3e9&lang=en&cache-only=0",
-      "phonetic_text": "ju:fəmɪzəm",
+      "phonetic_text": "ju.fə.mɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXVwaGVtaXNt&hash=138610bc1eb2dcc1dd95b6cca0b738688c83a3e9&lang=en&cache-only=0",
-      "phonetic_am_text": "yoofēmizēm",
+      "phonetic_am_text": "yoo.fē.mi.zēm",
       "img": "https://cdn.langeek.co/photo/49772/original/?type=jpeg",
-      "pronunciation": "ˈjufəˌmɪzəm",
+      "pronunciation": "ˈjuːfəˌmɪzəm",
       "senses": [
         {
           "definition": "a word or expression that is used instead of a harsh or insulting one in order to be more tactful and polite",
@@ -638,14 +659,15 @@
       ]
     },
     {
-      "word": "punctuate",
+      "id": "1a700976-6217-4eff-bbf4-24d58545cb4e",
+      "word": "to punctuate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHVuY3R1YXRl&hash=043c4e71346810f459f0fd6ed3e3b22897eee80d&lang=en&cache-only=0",
-      "phonetic_text": "pʌnkʧueɪt",
+      "phonetic_text": "pənk.ʧueɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHVuY3R1YXRl&hash=043c4e71346810f459f0fd6ed3e3b22897eee80d&lang=en&cache-only=0",
-      "phonetic_am_text": "pankchueit",
+      "phonetic_am_text": "pēnk.chooeit",
       "img": "",
-      "pronunciation": "ˈpəŋktʃuˌeɪt",
+      "pronunciation": "ˈpʌŋktʃuˌeɪt",
       "senses": [
         {
           "definition": "to use punctuation marks in a text in order to make it more understandable",
@@ -675,14 +697,15 @@
       ]
     },
     {
+      "id": "e39f998b-2d64-4827-a413-201de537d292",
       "word": "colon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29sb24&hash=c85d2fd08ad9f012e602cb6d24a39c4dd6b90bb4&lang=en&cache-only=0",
-      "phonetic_text": "koʊlən",
+      "phonetic_text": "koʊ.lən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29sb24&hash=c85d2fd08ad9f012e602cb6d24a39c4dd6b90bb4&lang=en&cache-only=0",
-      "phonetic_am_text": "kowlēn",
+      "phonetic_am_text": "kooo.lēn",
       "img": "https://cdn.langeek.co/photo/27465/original/?type=jpeg",
-      "pronunciation": "ˈkoʊɫən",
+      "pronunciation": "ˈkoʊlən",
       "senses": [
         {
           "definition": "the punctuation mark : used to introduce a quotation, explanation, or list of items",
@@ -712,14 +735,15 @@
       ]
     },
     {
+      "id": "fef14477-04c2-4356-aee9-21be0662a5cc",
       "word": "semicolon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VtaWNvbG9u&hash=ce792ab484abfb64997bddad78aec5c153180e38&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛ.mi.koʊ.lən",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VtaWNvbG9u&hash=ce792ab484abfb64997bddad78aec5c153180e38&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "se.mi.kooo.lēn",
       "img": "https://cdn.langeek.co/photo/27487/original/?type=jpeg",
-      "pronunciation": "sˌɛmɪkˈoʊlən",
+      "pronunciation": "ˈsɛmiˌkoʊlən",
       "senses": [
         {
           "definition": "the punctuation mark ; used to separate the items in a list or to indicate a pause between two main clauses in a compound sentence",
@@ -749,14 +773,15 @@
       ]
     },
     {
+      "id": "0e50e438-af4b-45ac-93fb-c692d4dc4518",
       "word": "parenthesis",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFyZW50aGVzaXM&hash=cd505d57c6f78b05f45ffa8db77908acf83e5ce2&lang=en&cache-only=0",
-      "phonetic_text": "pərɛnθəsɪs",
+      "phonetic_text": "pɜ.rɛn.θə.sɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFyZW50aGVzaXM&hash=cd505d57c6f78b05f45ffa8db77908acf83e5ce2&lang=en&cache-only=0",
-      "phonetic_am_text": "pērenthēsis",
+      "phonetic_am_text": "pē.ren.thē.sis",
       "img": "https://cdn.langeek.co/photo/27477/original/?type=jpeg",
-      "pronunciation": "pɝˈɛnθəsɪs",
+      "pronunciation": "pəˈrɛnθəsɪs",
       "senses": [
         {
           "definition": "either of the symbols ( ) used in writing to enclose extra information that is given or to group a symbolic unit in logic or mathematics",
@@ -786,12 +811,13 @@
       ]
     },
     {
+      "id": "f854496f-8bcd-48b2-8da9-3b2052d68300",
       "word": "hyphen",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aHlwaGVu&hash=71b9e499b814d5164ab03d44aba3aea8586b6cbd&lang=en&cache-only=0",
-      "phonetic_text": "haɪfən",
+      "phonetic_text": "haɪ.fən",
       "phonetic_am": "https://tts.langeek.co/read?text=aHlwaGVu&hash=71b9e499b814d5164ab03d44aba3aea8586b6cbd&lang=en&cache-only=0",
-      "phonetic_am_text": "haifēn",
+      "phonetic_am_text": "hai.fēn",
       "img": "https://cdn.langeek.co/photo/27467/original/?type=jpeg",
       "pronunciation": "ˈhaɪfən",
       "senses": [
@@ -823,6 +849,7 @@
       ]
     },
     {
+      "id": "b5660a34-6b8b-44c8-804b-d502ca66d560",
       "word": "slash",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2xhc2g&hash=96a696705938132de4c1c1e5df24a691f95f0c48&lang=en&cache-only=0",
@@ -830,7 +857,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=c2xhc2g&hash=96a696705938132de4c1c1e5df24a691f95f0c48&lang=en&cache-only=0",
       "phonetic_am_text": "slāsh",
       "img": "",
-      "pronunciation": "ˈsɫæʃ",
+      "pronunciation": "slæʃ",
       "senses": [
         {
           "definition": "the symbol / used in print or writing to indicate alternatives or fractions, etc.",
@@ -860,14 +887,15 @@
       ]
     },
     {
+      "id": "2f996c91-88c7-4268-b49a-f819c059c7f7",
       "word": "interjection",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW50ZXJqZWN0aW9u&hash=2dbaff5c56f2b1642f93857fe7aac39294213eac&lang=en&cache-only=0",
-      "phonetic_text": "ɪntərʤɛkʃən",
+      "phonetic_text": "ɪn.tɜr.ʤɛk.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=aW50ZXJqZWN0aW9u&hash=2dbaff5c56f2b1642f93857fe7aac39294213eac&lang=en&cache-only=0",
-      "phonetic_am_text": "intērjekshēn",
+      "phonetic_am_text": "in.tēr.jek.shēn",
       "img": "",
-      "pronunciation": "ˌɪntɝˈdʒɛkʃən",
+      "pronunciation": "ˌɪntɚˈʤɛkʃən",
       "senses": [
         {
           "definition": "(grammar) a phrase or word used suddenly to express a particular emotion",
@@ -897,14 +925,15 @@
       ]
     },
     {
+      "id": "c8de5c99-80b7-4779-87d3-9328471daaed",
       "word": "particle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFydGljbGU&hash=56659d1c2c2e9c4ae2135f70a475b35664d9a33a&lang=en&cache-only=0",
-      "phonetic_text": "pɑ:rtəkəl",
+      "phonetic_text": "pɑr.tə.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFydGljbGU&hash=56659d1c2c2e9c4ae2135f70a475b35664d9a33a&lang=en&cache-only=0",
-      "phonetic_am_text": "paartēkēl",
+      "phonetic_am_text": "paar.tē.kēl",
       "img": "",
-      "pronunciation": "ˈpɑɹtəkəɫ/, /ˈpɑɹtɪkəɫ",
+      "pronunciation": "ˈpɑrtɪkəl",
       "senses": [
         {
           "definition": "(grammar) an adverb or preposition that is used with a verb to form a phrasal verb",
@@ -934,14 +963,15 @@
       ]
     },
     {
+      "id": "aed453a8-7296-483d-908a-f0aef2e7ca5f",
       "word": "e.g.",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=ZS5nLg&hash=6f4b678125d42257a873e938714d30cd2c4c655f&lang=en&cache-only=0",
-      "phonetic_text": "igi:",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZS5nLg&hash=6f4b678125d42257a873e938714d30cd2c4c655f&lang=en&cache-only=0",
-      "phonetic_am_text": "igee",
+      "phonetic_am_text": null,
       "img": "",
-      "pronunciation": "ˌiˈɡi",
+      "pronunciation": "ˌiːˈʤiː",
       "senses": [
         {
           "definition": "used before providing an example",
@@ -971,14 +1001,15 @@
       ]
     },
     {
+      "id": "98a3d538-62f7-492e-89e9-406dc44e3b16",
       "word": "ungrammatical",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dW5ncmFtbWF0aWNhbA&hash=34f370295848c3eda421c37eb0f5a3f21475e7c6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʌn.grə.mæ.tə.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5ncmFtbWF0aWNhbA&hash=34f370295848c3eda421c37eb0f5a3f21475e7c6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "an.grē.mā.tē.kēl",
       "img": "",
-      "pronunciation": "ʌnɡɹɐmˈæɾɪkəl",
+      "pronunciation": "ˌʌnɡrəˈmætɪkəl",
       "senses": [
         {
           "definition": "not conforming with the rules of grammar",

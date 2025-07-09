@@ -1,15 +1,17 @@
 {
+  "id": "32645479-7f5d-427c-ba00-99cb245e1c11",
   "topic": "music",
   "title": "Musical Performances",
   "lesson": "lesson_26",
   "word_list": [
     {
+      "id": "30152140-48b4-42c1-81c3-fa528938617d",
       "word": "concert",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29uY2VydA&hash=e2b093d292c0b7a39794233b677554f3e3fa201f&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:nsərt",
+      "phonetic_text": "kɑ:n.sərt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uY2VydA&hash=e2b093d292c0b7a39794233b677554f3e3fa201f&lang=en&cache-only=0",
-      "phonetic_am_text": "kaansērt",
+      "phonetic_am_text": "kaan.sērt",
       "img": "https://cdn.langeek.co/photo/52875/original/?type=jpeg",
       "pronunciation": "ˈkɑːnsɚt/ , /ˈkɑːnsɜːrt",
       "senses": [
@@ -37,6 +39,7 @@
       ]
     },
     {
+      "id": "f83206ce-f9e1-4e2c-8fa7-73fed02adb79",
       "word": "gig",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2ln&hash=d61be7498b42d4373af852b5832e145fb5c71aab&lang=en&cache-only=0",
@@ -74,6 +77,7 @@
       ]
     },
     {
+      "id": "af0bf8ac-2c6a-45a7-80a1-3f71d6055935",
       "word": "act",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWN0&hash=d10ed3d22c6a6059856fc532b5a4379580ed5df5&lang=en&cache-only=0",
@@ -81,7 +85,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=YWN0&hash=d10ed3d22c6a6059856fc532b5a4379580ed5df5&lang=en&cache-only=0",
       "phonetic_am_text": "ākt",
       "img": "",
-      "pronunciation": "ˈækt",
+      "pronunciation": "ækt",
       "senses": [
         {
           "definition": "a performance or segment within an event, featuring one or more artists presenting their music to an audience",
@@ -111,28 +115,51 @@
       ]
     },
     {
+      "id": "ccd9a66c-7a92-4987-b051-eec5a1a51312",
       "word": "jam session",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=amFtIHNlc3Npb24&hash=9273648c2c53dab1ce730ce72adf25a0ecf92353&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤæm sɛ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=amFtIHNlc3Npb24&hash=9273648c2c53dab1ce730ce72adf25a0ecf92353&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "jām se.shēn",
       "img": "",
       "pronunciation": "dʒˈæm sˈɛʃən",
       "senses": [
         {
           "definition": "an informal gathering of musicians who come together to play music spontaneously",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The musicians gathered in the basement for an jam session, trading solos and feeding off each other's energy."
+            },
+            {
+              "cf": "",
+              "x": "At the music school, students often organize jam sessions to practice their improvisation skills and explore different genres."
+            },
+            {
+              "cf": "",
+              "x": "After the concert, the band members invited fellow musicians backstage for a late-night jam session, jamming into the early hours of the morning."
+            },
+            {
+              "cf": "",
+              "x": "The local cafe hosts a weekly open mic night that often turns into a lively jam session as musicians join in to jam together."
+            },
+            {
+              "cf": "",
+              "x": "During the summer festival, the park becomes a hub for jam sessions, with musicians of all ages and skill levels coming together to make music under the sun."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "9933aa41-f66a-4d65-a2ff-479cd0ef7d7c",
       "word": "production number",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvZHVjdGlvbiBudW1iZXI&hash=ce9be2adaad12c01dd94a48fec7de89874bf6b03&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɜr.dək.ʃən nʌm.bər",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvZHVjdGlvbiBudW1iZXI&hash=ce9be2adaad12c01dd94a48fec7de89874bf6b03&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pēr.dēk.shēn nam.bēr",
       "img": "",
       "pronunciation": "pɹədˈʌkʃən nˈʌmbɚ",
       "senses": [
@@ -143,12 +170,13 @@
       ]
     },
     {
+      "id": "2a441127-e580-4e5d-9a5d-205781e1152f",
       "word": "recital",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVjaXRhbA&hash=32130323bacd30e02afb8c398d0cd4c523412dbe&lang=en&cache-only=0",
-      "phonetic_text": "rəsaɪtəl",
+      "phonetic_text": "rə.saɪ.təl",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVjaXRhbA&hash=32130323bacd30e02afb8c398d0cd4c523412dbe&lang=en&cache-only=0",
-      "phonetic_am_text": "rēsaitēl",
+      "phonetic_am_text": "rē.sai.tēl",
       "img": "https://cdn.langeek.co/photo/42408/original/pianist?type=jpeg",
       "pronunciation": "ɹəˈsaɪtəɫ",
       "senses": [
@@ -180,12 +208,13 @@
       ]
     },
     {
+      "id": "8fd4c4bb-c2b0-49bb-b639-76ea639e7669",
       "word": "festival",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmVzdGl2YWw&hash=84f0b3eae7209de02daca4bca05b88d8035a2441&lang=en&cache-only=0",
-      "phonetic_text": "fɛstəvəl",
+      "phonetic_text": "fɛs.tə.vəl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmVzdGl2YWw&hash=84f0b3eae7209de02daca4bca05b88d8035a2441&lang=en&cache-only=0",
-      "phonetic_am_text": "festēvēl",
+      "phonetic_am_text": "fes.tē.vēl",
       "img": "",
       "pronunciation": "ˈfɛstəvəl",
       "senses": [
@@ -209,14 +238,15 @@
       ]
     },
     {
+      "id": "2e9d0cc5-d37b-4f04-b694-4b1c6b26e4b7",
       "word": "tour",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dG91cg&hash=adc662d3308e6df2c2260604b0c1e52f6f773811&lang=en&cache-only=0",
       "phonetic_text": "tʊr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG91cg&hash=adc662d3308e6df2c2260604b0c1e52f6f773811&lang=en&cache-only=0",
-      "phonetic_am_text": "tur",
+      "phonetic_am_text": "toor",
       "img": "https://cdn.langeek.co/photo/17067/original/tour?type=jpeg",
-      "pronunciation": "tʊr/ , /tɔːr",
+      "pronunciation": "tʊr",
       "senses": [
         {
           "definition": "a series of concerts held in different locations",
@@ -246,12 +276,13 @@
       ]
     },
     {
+      "id": "d8413d2f-eead-481e-b977-4c68f5bd2256",
       "word": "promenade concert",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvbWVuYWRlIGNvbmNlcnQ&hash=dabf21aadb34bf3db43aa895bd5a55505d587d9d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "prɑ.mə.neɪd kɑ:n.sərt",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvbWVuYWRlIGNvbmNlcnQ&hash=dabf21aadb34bf3db43aa895bd5a55505d587d9d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "praa.mē.neid kaan.sērt",
       "img": "",
       "pronunciation": "pɹˌɑːmənˈɑːd kˈɑːnsɜːt",
       "senses": [
@@ -262,12 +293,13 @@
       ]
     },
     {
+      "id": "7cbce08d-7a34-4793-9386-ccf6d131fa6c",
       "word": "rock concert",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9jayBjb25jZXJ0&hash=29823dfb080fb1c57d9317f8e1d12866d6b1e299&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɑk kɑ:n.sərt",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9jayBjb25jZXJ0&hash=29823dfb080fb1c57d9317f8e1d12866d6b1e299&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "raak kaan.sērt",
       "img": "https://cdn.langeek.co/photo/28217/original/?type=jpeg",
       "pronunciation": "ɹˈɑːk kˈɑːnsɜːt",
       "senses": [
@@ -299,14 +331,15 @@
       ]
     },
     {
+      "id": "bf6a7686-e3d3-4637-a228-c2d046104133",
       "word": "interpretation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW50ZXJwcmV0YXRpb24&hash=c235d9a5e609e6eb5d79af3b26efc5c804a361c0&lang=en&cache-only=0",
-      "phonetic_text": "ɪntɜrprɪteɪʃən",
+      "phonetic_text": "ɪn.tɜrp.rɪ.teɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=aW50ZXJwcmV0YXRpb24&hash=c235d9a5e609e6eb5d79af3b26efc5c804a361c0&lang=en&cache-only=0",
-      "phonetic_am_text": "intērpriteishēn",
+      "phonetic_am_text": "in.tērp.ri.tei.shēn",
       "img": "",
-      "pronunciation": "ˌɪnˌtɝpɹɪˈteɪʃən",
+      "pronunciation": "ɪnˌtɝːprɪˈteɪʃən",
       "senses": [
         {
           "definition": "a representation that an actor or a performer gives of an artistic or musical piece that shows their understanding and feeling toward it",

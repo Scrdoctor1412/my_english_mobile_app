@@ -1,13 +1,15 @@
 {
+  "id": "0efd99d5-0387-43fa-93aa-adba6a1ba0dc",
   "topic": "certainty_possibility",
   "title": "Likelihood",
   "lesson": "lesson_6",
   "word_list": [
     {
-      "word": "[lie] in wait",
+      "id": "853f08a2-5277-4a49-8031-5be713f4f85c",
+      "word": "to [lie] in wait",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGllIGluIHdhaXQ&hash=f4ede28da4b056bbf4c01921981d5ea98d4ff9a6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGllIGluIHdhaXQ&hash=f4ede28da4b056bbf4c01921981d5ea98d4ff9a6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/47316/original/?type=jpeg",
@@ -20,12 +22,13 @@
       ]
     },
     {
+      "id": "f67d1daf-6145-48ae-aad6-c8a4d479e3ff",
       "word": "on the off chance",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gdGhlIG9mZiBjaGFuY2U&hash=480514ac35d58fc4aa94b3b93788b8bf41109f0b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n ðə ɑf ʧæns",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gdGhlIG9mZiBjaGFuY2U&hash=480514ac35d58fc4aa94b3b93788b8bf41109f0b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan dhē aaf chāns",
       "img": "https://cdn.langeek.co/photo/47322/original/?type=jpeg",
       "pronunciation": "ɑːnðɪ ˈɔf tʃˈæns",
       "senses": [
@@ -36,26 +39,41 @@
       ]
     },
     {
+      "id": "81ccf485-5d70-40fc-928b-cdd3edb3d5be",
       "word": "safe bet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FmZSBiZXQ&hash=38c7ec3913212f019e8249549e17396ee7066519&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "seɪf bet",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FmZSBiZXQ&hash=38c7ec3913212f019e8249549e17396ee7066519&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "seif bet",
       "img": "https://cdn.langeek.co/photo/44202/original/?type=jpeg",
       "pronunciation": "sˈeɪf bˈɛt",
       "senses": [
         {
           "definition": "‌a thing that is extremely likely to be true or happen",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Investing in government bonds is often seen as a safe bet for long-term financial stability."
+            },
+            {
+              "cf": "",
+              "x": "Choosing the well-established brand is usually a safe bet when it comes to quality."
+            },
+            {
+              "cf": "",
+              "x": "In a competitive job market, having a strong educational background is a safe bet for career advancement."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[be] in the cards",
+      "id": "2608046b-27c9-4b29-b1f8-2cb92b6f4559",
+      "word": "to [be] in the cards",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgaW4gdGhlIGNhcmRz&hash=41e5f680f8552659776659b19f352e602896fd47&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgaW4gdGhlIGNhcmRz&hash=41e5f680f8552659776659b19f352e602896fd47&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46670/original/?type=jpeg",
@@ -68,26 +86,37 @@
       ]
     },
     {
+      "id": "0d46b677-2e32-4792-9ad3-089745e0a505",
       "word": "down to earth",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZG93biB0byBlYXJ0aA&hash=fefdd1c1a1d75579b2f2c07a46d68a9630e006c1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "daʊn tu: ɜrθ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG93biB0byBlYXJ0aA&hash=fefdd1c1a1d75579b2f2c07a46d68a9630e006c1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "daoon too ērth",
       "img": "https://cdn.langeek.co/photo/23051/original/?type=jpeg",
       "pronunciation": "dˌaʊn tʊ ˈɜːθ",
       "senses": [
         {
           "definition": "according to what is real or can be done",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Her down to earth approach to problem-solving makes her an effective leader."
+            },
+            {
+              "cf": "",
+              "x": "He provides down to earth advice that is based on years of experience in the industry."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0c5dc028-5a78-4744-ab7a-75c499c725d0",
       "word": "[be] in line for {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YmUgaW4gbGluZSBmb3Igc29tZXRoaW5n&hash=8ff506607d6763300f9d3b2b8a77f5330c6ebe44&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YmUgaW4gbGluZSBmb3Igc29tZXRoaW5n&hash=8ff506607d6763300f9d3b2b8a77f5330c6ebe44&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40353/original/?type=jpeg",
@@ -95,23 +124,46 @@
       "senses": [
         {
           "definition": "to be very close or likely to achieve something, particularly something very good or desirable",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I'm pretty sure I'm in line for Connie's position once she retires."
+            },
+            {
+              "cf": "",
+              "x": "My daughter is a great student, so she's in line for many academic awards at graduation."
+            },
+            {
+              "cf": "",
+              "x": "With her experience and qualifications, she's in line for a promotion at work."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0e9556b3-cb4d-46a7-9475-18b43b52a02f",
       "word": "fat chance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmF0IGNoYW5jZQ&hash=41f72a28baff1bbe058d400b8aad12ae8a7c8302&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fæt ʧæns",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmF0IGNoYW5jZQ&hash=41f72a28baff1bbe058d400b8aad12ae8a7c8302&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fāt chāns",
       "img": "https://cdn.langeek.co/photo/46243/original/?type=jpeg",
       "pronunciation": "fˈæt tʃˈæns",
       "senses": [
         {
           "definition": "used to say that one doubts that something can ever happen or be true",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Fat chance you'll win the lottery, but it's fun to dream."
+            },
+            {
+              "cf": "",
+              "x": "Fat chance he'll admit he was wrong; he's too stubborn."
+            }
+          ]
         }
       ]
     }

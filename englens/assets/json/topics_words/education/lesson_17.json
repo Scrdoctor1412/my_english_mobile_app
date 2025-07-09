@@ -1,201 +1,467 @@
 {
+  "id": "5330ae46-f1ca-4b5d-a7e6-a2fe0d5f9a1d",
   "topic": "education",
   "title": "Environments and Spaces",
   "lesson": "lesson_17",
   "word_list": [
     {
+      "id": "0546b214-6446-4b6b-b555-33c809c9466d",
       "word": "classroom",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xhc3Nyb29t&hash=544ec172ec6129b6fd0c4af9817aeb1b526df2f7&lang=en&cache-only=0",
-      "phonetic_text": "klæsrum",
+      "phonetic_text": "klæs.ru:m",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xhc3Nyb29t&hash=544ec172ec6129b6fd0c4af9817aeb1b526df2f7&lang=en&cache-only=0",
-      "phonetic_am_text": "klāsrum",
-      "img": "https://cdn.langeek.co/photo/28758/original/classroom?type=jpeg",
+      "phonetic_am_text": "klās.room",
+      "img": "https://cdn.langeek.co/photo/61312/original/?type=jpeg",
       "pronunciation": "ˈklæsˌruːm",
       "senses": [
         {
           "definition": "a room that students are taught in, particularly in a college, school, or university",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I keep my school supplies organized in my backpack for the classroom."
+            },
+            {
+              "cf": "",
+              "x": "She enjoys decorating the classroom with colorful artwork."
+            },
+            {
+              "cf": "",
+              "x": "The classroom is filled with desks, chairs, and a chalkboard."
+            },
+            {
+              "cf": "",
+              "x": "They work on group projects together in the classroom."
+            },
+            {
+              "cf": "",
+              "x": "We have a class discussion in the classroom to share our ideas."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c5d3309f-777c-4f4e-9512-660334685a9d",
       "word": "staffroom",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RhZmZyb29t&hash=8f383c098c27fcbe1ff1aeabe3849b27b01bef81&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stæf.ru:m",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RhZmZyb29t&hash=8f383c098c27fcbe1ff1aeabe3849b27b01bef81&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "stāf.room",
       "img": "",
       "pronunciation": "stˈæfɹuːm",
       "senses": [
         {
           "definition": "a room for all teachers of a school to go to take a break, relax, and socialize with their colleagues",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The staffroom is where I go when I need to catch up on paperwork during free periods."
+            },
+            {
+              "cf": "",
+              "x": "I accidentally left my lunch in the staffroom fridge and had to go back to get it."
+            },
+            {
+              "cf": "",
+              "x": "The staffroom is often crowded in the mornings as everyone prepares for the day ahead."
+            },
+            {
+              "cf": "",
+              "x": "She always takes her coffee break in the staffroom with the other school employees."
+            },
+            {
+              "cf": "",
+              "x": "We hold our monthly meetings in the staffroom to discuss school-wide issues."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "8f0de9bf-8573-44b6-b2d1-c5ff9b602f8c",
       "word": "faculty lounge",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFjdWx0eSBsb3VuZ2U&hash=b4eadb28bbec3719941f372f391771cea8561e93&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fæ.kəl.ti laʊnʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFjdWx0eSBsb3VuZ2U&hash=b4eadb28bbec3719941f372f391771cea8561e93&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fā.kēl.ti laoonj",
       "img": "",
       "pronunciation": "fˈækəlti lˈaʊndʒ",
       "senses": [
         {
           "definition": "a special room in a school where teachers can relax and socialize when they are not teaching",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The faculty lounge serves as a hub for intellectual exchange and camaraderie among educators."
+            },
+            {
+              "cf": "",
+              "x": "She frequents the faculty lounge to engage in stimulating conversations with her colleagues."
+            },
+            {
+              "cf": "",
+              "x": "The inviting ambiance of the faculty lounge fosters a sense of community and collaboration among the teaching staff."
+            },
+            {
+              "cf": "",
+              "x": "He finds solace in the serene environment of the faculty lounge, allowing him to recharge between classes."
+            },
+            {
+              "cf": "",
+              "x": "The faculty lounge provides a sanctuary for educators to decompress and recharge amidst their demanding schedules."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "30fb35f1-4b82-4cfd-9e52-9caeb4e0ee9c",
       "word": "locker room",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9ja2VyIHJvb20&hash=f2b5fbbc91315c2dc724208f8727a4fa2db9e13c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɑ.kɜr ru:m",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9ja2VyIHJvb20&hash=f2b5fbbc91315c2dc724208f8727a4fa2db9e13c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "laa.kēr room",
       "img": "https://cdn.langeek.co/photo/21895/original/?type=jpeg",
       "pronunciation": "lˈɑːkɚ ɹˈuːm",
       "senses": [
         {
           "definition": "a room in a school, etc. that contains lockers in which people can change their clothes",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The football players gathered in the locker room to discuss strategy before the big game."
+            },
+            {
+              "cf": "",
+              "x": "She left her gym bag in the locker room while she worked out on the treadmill."
+            },
+            {
+              "cf": "",
+              "x": "The coach gave a motivational speech to the team in the locker room during halftime."
+            },
+            {
+              "cf": "",
+              "x": "Athletes are expected to keep the locker room clean and tidy at all times."
+            },
+            {
+              "cf": "",
+              "x": "The basketball team celebrated their victory in the locker room after the championship game."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "dbd1b14f-9a7d-4250-999c-7e04e0826201",
       "word": "common room",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29tbW9uIHJvb20&hash=189eb00885222c41c6ff01559ecd9c0a3da5a51a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑ.mən ru:m",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tbW9uIHJvb20&hash=189eb00885222c41c6ff01559ecd9c0a3da5a51a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaa.mēn room",
       "img": "",
       "pronunciation": "kˈɑːmən ɹˈuːm",
       "senses": [
         {
           "definition": "a shared space in a building, like a school or residence, where people gather for socializing or relaxing",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The common room provided a comfortable space for residents to watch movies or play games together."
+            },
+            {
+              "cf": "",
+              "x": "Teachers occasionally used the common room for informal meetings or discussions with students."
+            },
+            {
+              "cf": "",
+              "x": "The common room was furnished with sofas, tables, and vending machines for convenience."
+            },
+            {
+              "cf": "",
+              "x": "During study breaks, students often grabbed snacks from the common room before returning to their work."
+            },
+            {
+              "cf": "",
+              "x": "Students gathered in the common room between classes to chat and unwind."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7f5aa995-a341-4a38-8552-52d806b96ea8",
       "word": "hall",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFsbA&hash=214a901d40d1e7d71c21e91bbdc9168a7f3a3137&lang=en&cache-only=0",
-      "phonetic_text": "hɔ:l",
+      "phonetic_text": "hɑ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFsbA&hash=214a901d40d1e7d71c21e91bbdc9168a7f3a3137&lang=en&cache-only=0",
-      "phonetic_am_text": "haawl",
+      "phonetic_am_text": "haal",
       "img": "",
       "pronunciation": "hɑːl",
       "senses": [
         {
           "definition": "a large room or building within a school or university used for assemblies, lectures, performances, or dining",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The school assembly was held in the main hall every Monday morning."
+            },
+            {
+              "cf": "",
+              "x": "Students gathered in the hall for the annual talent show, showcasing their musical and artistic talents."
+            },
+            {
+              "cf": "",
+              "x": "The university hall was equipped with audiovisual technology for lectures and presentations."
+            },
+            {
+              "cf": "",
+              "x": "The dining hall served nutritious meals to students and staff throughout the school day."
+            },
+            {
+              "cf": "",
+              "x": "Graduation ceremonies were held in the grand hall, filled with proud parents and faculty."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "99bfd49a-9aa1-41e3-9d9b-2c4ae25c3058",
       "word": "study hall",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3R1ZHkgaGFsbA&hash=153000752bd0cc36ad57d20c72954cc5399188df&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stʌ.di hɑ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=c3R1ZHkgaGFsbA&hash=153000752bd0cc36ad57d20c72954cc5399188df&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sta.di haal",
       "img": "",
       "pronunciation": "stˈʌdi hˈɔːl",
       "senses": [
         {
           "definition": "a designated space within a school where students can work on homework or study independently under supervision",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The study hall provided a quiet environment for students to concentrate on their assignments and readings."
+            },
+            {
+              "cf": "",
+              "x": "Students filed into the study hall after lunch, taking their seats at individual desks arranged in rows."
+            },
+            {
+              "cf": "",
+              "x": "The study hall was equipped with ample lighting and comfortable seating to facilitate focused study sessions."
+            },
+            {
+              "cf": "",
+              "x": "During study hall, students were expected to refrain from talking and remain focused on their academic tasks."
+            },
+            {
+              "cf": "",
+              "x": "The teacher on duty circulated around the study hall, ensuring that students were engaged in productive study activities."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "bd7609b2-acdc-4b0c-8e87-db43f4051c10",
       "word": "lecture hall",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGVjdHVyZSBoYWxs&hash=2944915ed7983ec43f5b175c7d084a421bbb5b7d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɛk.ʧɜr hɑ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVjdHVyZSBoYWxs&hash=2944915ed7983ec43f5b175c7d084a421bbb5b7d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lek.chēr haal",
       "img": "",
       "pronunciation": "lˈɛktʃɚ hˈɔːl",
       "senses": [
         {
           "definition": "a large classroom in a school or university where teachers give lessons or presentations to many students at once",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Students attend lectures in the university's lecture hall, which can seat hundreds of people."
+            },
+            {
+              "cf": "",
+              "x": "She listens to her professor's lectures on history in the lecture hall every week."
+            },
+            {
+              "cf": "",
+              "x": "The lecture hall is equipped with audiovisual aids to enhance teaching."
+            },
+            {
+              "cf": "",
+              "x": "He presented his research findings to an audience of students and faculty in the lecture hall."
+            },
+            {
+              "cf": "",
+              "x": "The school renovated the lecture hall to improve comfort and technology for students and teachers."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e9f8e5ac-7250-4201-b852-b4fa74830eaa",
       "word": "library",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGlicmFyeQ&hash=d6807e6488f505253b10cfa3a567d8dcb70e8e76&lang=en&cache-only=0",
-      "phonetic_text": "laɪbrɛri",
+      "phonetic_text": "laɪb.rɛ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlicmFyeQ&hash=d6807e6488f505253b10cfa3a567d8dcb70e8e76&lang=en&cache-only=0",
-      "phonetic_am_text": "laibreri",
+      "phonetic_am_text": "laib.re.ri",
       "img": "https://cdn.langeek.co/photo/46294/original/library?type=jpeg",
-      "pronunciation": "ˈɫaɪbɹɛˌɹi",
+      "pronunciation": "ˈlaɪˌbrəri",
       "senses": [
         {
           "definition": "a place in which collections of books and sometimes newspapers, movies, music, etc. are kept for people to read or borrow",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I spent the afternoon studying at the local library."
+            },
+            {
+              "cf": "",
+              "x": "You can borrow novels, DVDs, and magazines from the library."
+            },
+            {
+              "cf": "",
+              "x": "The university library has an extensive collection of academic journals."
+            },
+            {
+              "cf": "",
+              "x": "I returned the books I borrowed to the library yesterday."
+            },
+            {
+              "cf": "",
+              "x": "The library hosts regular storytelling sessions for children."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7ff20455-9505-4cf5-b188-d15b0c02cea9",
       "word": "laboratory",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFib3JhdG9yeQ&hash=804edaf617b85ccdb6337b75b18084eb354b180f&lang=en&cache-only=0",
-      "phonetic_text": "læbrətɔri",
+      "phonetic_text": "læb.rə.tɔ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFib3JhdG9yeQ&hash=804edaf617b85ccdb6337b75b18084eb354b180f&lang=en&cache-only=0",
-      "phonetic_am_text": "lābrētawri",
-      "img": "https://cdn.langeek.co/photo/22706/original/?type=jpeg",
-      "pronunciation": "ˈɫæbɹəˌtɔɹi",
+      "phonetic_am_text": "lāb.rē.taw.ri",
+      "img": "https://cdn.langeek.co/photo/61192/original/?type=jpeg",
+      "pronunciation": "ˈlæbrəˌtɔri",
       "senses": [
         {
           "definition": "a place where people do scientific experiments, manufacture drugs, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The chemistry students conducted experiments in the laboratory to study chemical reactions."
+            },
+            {
+              "cf": "",
+              "x": "Pharmaceutical companies use laboratories to develop and test new medications."
+            },
+            {
+              "cf": "",
+              "x": "Forensic laboratories analyze evidence collected from crime scenes to aid in investigations."
+            },
+            {
+              "cf": "",
+              "x": "Environmental scientists monitor water quality in their laboratory to assess pollution levels."
+            },
+            {
+              "cf": "",
+              "x": "Food scientists work in laboratories to develop new food products and improve food safety standards."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a50b9f52-0469-4d9b-8317-b832593ab65d",
       "word": "language laboratory",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFuZ3VhZ2UgbGFib3JhdG9yeQ&hash=a8c7908f7f56fa83dfa6d62b4f438323068d394c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "læng.wɪʤ læb.rə.tɔ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFuZ3VhZ2UgbGFib3JhdG9yeQ&hash=a8c7908f7f56fa83dfa6d62b4f438323068d394c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lāng.vij lāb.rē.taw.ri",
       "img": "",
       "pronunciation": "lˈæŋɡwɪdʒ lˈæbɹətˌɔːɹi",
       "senses": [
         {
           "definition": "a specialized facility equipped with audio and visual aids, used for language learning and practice",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The university's language laboratory offers interactive exercises for students to improve their language skills."
+            },
+            {
+              "cf": "",
+              "x": "The language laboratory provides resources such as language software and multimedia materials for self-study."
+            },
+            {
+              "cf": "",
+              "x": "He spends time in the language laboratory to work on pronunciation and listening comprehension."
+            },
+            {
+              "cf": "",
+              "x": "The school upgraded its language laboratory with digital language learning tools and online resources."
+            },
+            {
+              "cf": "",
+              "x": "Students utilize the language laboratory to enhance their proficiency through immersive language exercises and conversation practice."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "6d122619-8831-42fc-ace1-a6bc878b1095",
       "word": "auditorium",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXVkaXRvcml1bQ&hash=bde50442406714bf72a1da270c0451f0af1581cd&lang=en&cache-only=0",
-      "phonetic_text": "ɔdətɔ:riəm",
+      "phonetic_text": "ɔ.də.tɔ.riəm",
       "phonetic_am": "https://tts.langeek.co/read?text=YXVkaXRvcml1bQ&hash=bde50442406714bf72a1da270c0451f0af1581cd&lang=en&cache-only=0",
-      "phonetic_am_text": "awdētaawriēm",
+      "phonetic_am_text": "aw.dē.taw.riēm",
       "img": "https://cdn.langeek.co/photo/30614/original/?type=jpeg",
       "pronunciation": "ˌɔdəˈtɔɹiəm",
       "senses": [
         {
           "definition": "the part of a theater, concert hall, or other venue where the audience sits to watch a performance",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The auditorium was filled to capacity with eager spectators awaiting the start of the theatrical production."
+            },
+            {
+              "cf": "",
+              "x": "The speaker's voice reverberated throughout the vast auditorium as they addressed the audience on important matters."
+            },
+            {
+              "cf": "",
+              "x": "The school assembly was held in the auditorium, where students gathered to listen to announcements and performances."
+            },
+            {
+              "cf": "",
+              "x": "The orchestra performed a mesmerizing concert in the acoustically excellent auditorium, captivating the audience with their music."
+            },
+            {
+              "cf": "",
+              "x": "The company's annual conference took place in the modern auditorium, equipped with state-of-the-art audiovisual technology for presentations."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f8d8bef2-e67d-4c88-bcbe-a0058db213f2",
       "word": "gym",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3lt&hash=ea5757af149cd2ed903365097cb771efca0ef480&lang=en&cache-only=0",
@@ -203,21 +469,43 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Z3lt&hash=ea5757af149cd2ed903365097cb771efca0ef480&lang=en&cache-only=0",
       "phonetic_am_text": "jim",
       "img": "https://cdn.langeek.co/photo/20481/original/gym?type=jpeg",
-      "pronunciation": "ˈdʒɪm",
+      "pronunciation": "ʤɪm",
       "senses": [
         {
           "definition": "a place with special equipment that people go to exercise or play sports",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He goes to the gym five times a week."
+            },
+            {
+              "cf": "",
+              "x": "The gym was crowded with people after work."
+            },
+            {
+              "cf": "",
+              "x": "She joined a new gym near her house."
+            },
+            {
+              "cf": "",
+              "x": "They offer yoga classes at the gym."
+            },
+            {
+              "cf": "",
+              "x": "I saw her lifting weights at the gym yesterday."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7078ffb5-ecf7-4d34-b0b1-d7322d4cc33c",
       "word": "chapel",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hhcGVs&hash=5223dc53ed689574e3a32c00fe3dd53b07d20baa&lang=en&cache-only=0",
-      "phonetic_text": "ʧæpəl",
+      "phonetic_text": "ʧæ.pəl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hhcGVs&hash=5223dc53ed689574e3a32c00fe3dd53b07d20baa&lang=en&cache-only=0",
-      "phonetic_am_text": "chāpēl",
+      "phonetic_am_text": "chā.pēl",
       "img": "",
       "pronunciation": "ˈtʃæpəɫ",
       "senses": [
@@ -228,10 +516,11 @@
       ]
     },
     {
+      "id": "749f2d22-5801-4bed-a911-e25ca59c93c3",
       "word": "computer lab",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29tcHV0ZXIgbGFi&hash=94602be5407318f153bd65c6b14c6eba31260bb2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tcHV0ZXIgbGFi&hash=94602be5407318f153bd65c6b14c6eba31260bb2&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -239,15 +528,37 @@
       "senses": [
         {
           "definition": "a space equipped with computers and technology for educational or training purposes",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Students use the computer lab to complete assignments and research."
+            },
+            {
+              "cf": "",
+              "x": "She attends programming classes in the computer lab."
+            },
+            {
+              "cf": "",
+              "x": "The university's computer lab offers resources for students to develop digital skills."
+            },
+            {
+              "cf": "",
+              "x": "Employees undergo software training in the company's computer lab."
+            },
+            {
+              "cf": "",
+              "x": "The computer lab is available for community members to access technology and learn new skills."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "8ec828a2-8e7b-4d9c-bb24-8dc2092c6494",
       "word": "VLE",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VkxF&hash=899130a43ce251884d87a4b29607765e7d1ae456&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=VkxF&hash=899130a43ce251884d87a4b29607765e7d1ae456&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -260,14 +571,15 @@
       ]
     },
     {
+      "id": "e1792613-a902-4ec7-9b0d-08168ff7c08d",
       "word": "residence hall",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVzaWRlbmNlIGhhbGw&hash=9e1e41aa65d8558a415c843b8cceba54c58eef80&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɛ.zɪ.dəns hɑ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVzaWRlbmNlIGhhbGw&hash=9e1e41aa65d8558a415c843b8cceba54c58eef80&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "re.zi.dēns haal",
       "img": "https://cdn.langeek.co/photo/32802/original/?type=jpeg",
-      "pronunciation": "ɹˈɛzɪdəns hˈɔːl",
+      "pronunciation": "ˈrɛzɪdəns ˌhɔl",
       "senses": [
         {
           "definition": "a college or university building in which students can reside",
@@ -297,12 +609,13 @@
       ]
     },
     {
+      "id": "23dfb9b2-8e80-4c74-b895-f21fbf46fa28",
       "word": "dormitory",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZG9ybWl0b3J5&hash=7f6f79805937468c8d20ddf878af696a7a0919ef&lang=en&cache-only=0",
-      "phonetic_text": "dɔ:rmətɔri",
+      "phonetic_text": "dɔr.mə.tɔ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG9ybWl0b3J5&hash=7f6f79805937468c8d20ddf878af696a7a0919ef&lang=en&cache-only=0",
-      "phonetic_am_text": "daawrmētawri",
+      "phonetic_am_text": "dawr.mē.taw.ri",
       "img": "https://cdn.langeek.co/photo/32802/original/?type=jpeg",
       "pronunciation": "ˈdɔɹməˌtɔɹi",
       "senses": [
@@ -322,12 +635,13 @@
       ]
     },
     {
+      "id": "8b233bfa-d904-432d-9bfe-c4957f1b8d74",
       "word": "schoolyard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Nob29seWFyZA&hash=3e11c904b6cce3235bfe11c3ce231e9f2de1a059&lang=en&cache-only=0",
-      "phonetic_text": "sku:ljɑrd",
+      "phonetic_text": "sku:l.jɑrd",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Nob29seWFyZA&hash=3e11c904b6cce3235bfe11c3ce231e9f2de1a059&lang=en&cache-only=0",
-      "phonetic_am_text": "skoolyɑrd",
+      "phonetic_am_text": "skool.yaard",
       "img": "",
       "pronunciation": "ˈskuɫˌjɑɹd",
       "senses": [
@@ -359,14 +673,15 @@
       ]
     },
     {
+      "id": "a3a5659c-56ad-468d-a6a1-446e43e639a6",
       "word": "playground",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGxheWdyb3VuZA&hash=a8c9eff8a10617bc67ed3bccb4c38c9eb5cc26bc&lang=en&cache-only=0",
-      "phonetic_text": "pleɪgraʊnd",
+      "phonetic_text": "pleɪ.graʊnd",
       "phonetic_am": "https://tts.langeek.co/read?text=cGxheWdyb3VuZA&hash=a8c9eff8a10617bc67ed3bccb4c38c9eb5cc26bc&lang=en&cache-only=0",
-      "phonetic_am_text": "pleigrawnd",
+      "phonetic_am_text": "plei.graoond",
       "img": "https://cdn.langeek.co/photo/19196/original/playground?type=jpeg",
-      "pronunciation": "ˈpɫeɪˌɡɹaʊn/, /ˈpɫeɪˌɡɹaʊnd",
+      "pronunciation": "ˈpleɪˌɡraʊnd",
       "senses": [
         {
           "definition": "a playing area built outdoors for children, particularly inside parks or schools",
@@ -396,76 +711,133 @@
       ]
     },
     {
+      "id": "91b290f0-14cd-4fc3-9abb-530a92e0bef5",
       "word": "infirmary",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5maXJtYXJ5&hash=46a5c226636cf0444c1a35e30af7976cfd2835dd&lang=en&cache-only=0",
-      "phonetic_text": "ɪnfɜrməri",
+      "phonetic_text": "ɪn.fɜr.mɜ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5maXJtYXJ5&hash=46a5c226636cf0444c1a35e30af7976cfd2835dd&lang=en&cache-only=0",
-      "phonetic_am_text": "infērmēri",
+      "phonetic_am_text": "in.fēr.mē.ri",
       "img": "",
       "pronunciation": "ɪnˈfɝmɝi",
       "senses": [
         {
           "definition": "a facility within an institution, such as a school or hospital, where medical treatment and care are provided to patients who are ill or injured",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Sarah volunteered at the local infirmary every weekend, assisting the nurses with basic tasks."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "91bcce8d-4646-467d-b3e3-3e3e58584b67",
       "word": "university counseling center",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dW5pdmVyc2l0eSBjb3Vuc2VsaW5nIGNlbnRlcg&hash=88b884ff7cbd9348030fa553c3a269f412d6ea61&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ju:.nɪ.vɜr.sɪ.ti kaʊn.sə.lɪng sɛn.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5pdmVyc2l0eSBjb3Vuc2VsaW5nIGNlbnRlcg&hash=88b884ff7cbd9348030fa553c3a269f412d6ea61&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "yoo.ni.vēr.si.ti kaoon.sē.ling sen.tēr",
       "img": "",
       "pronunciation": "jˌuːnɪvˈɜːsɪɾi kˈaʊnsəlɪŋ sˈɛntɚ",
       "senses": [
         {
           "definition": "a department within a university that provides mental health services, including therapy and support, to students dealing with emotional, psychological, or academic challenges",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The university counseling center offers individual and group therapy sessions to students struggling with anxiety and depression."
+            },
+            {
+              "cf": "",
+              "x": "She visited the university counseling center for guidance on managing academic stress and improving study habits."
+            },
+            {
+              "cf": "",
+              "x": "He sought assistance from the university counseling center to navigate personal relationships and enhance communication skills."
+            },
+            {
+              "cf": "",
+              "x": "The university counseling center offers crisis intervention services for students in urgent need of mental health support."
+            },
+            {
+              "cf": "",
+              "x": "Students can schedule confidential appointments at the university counseling center to discuss a wide range of concerns, from homesickness to identity exploration."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "963885a2-e54e-4cef-8f75-767792e1bd8d",
       "word": "department",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVwYXJ0bWVudA&hash=3b908088eada0a96c823c8975e77411e3c4e284e&lang=en&cache-only=0",
-      "phonetic_text": "dɪpɑ:rtmənt",
+      "phonetic_text": "dɪ.pɑrt.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVwYXJ0bWVudA&hash=3b908088eada0a96c823c8975e77411e3c4e284e&lang=en&cache-only=0",
-      "phonetic_am_text": "dipaartmēnt",
+      "phonetic_am_text": "di.paart.mēnt",
       "img": "",
-      "pronunciation": "dɪˈpɑɹtmənt",
+      "pronunciation": "dɪˈpɑrtmənt",
       "senses": [
         {
           "definition": "a part of an organization such as a university, government, etc. that deals with a particular task",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The health department issued a warning about the flu outbreak."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0eef06c8-1fa4-4127-97a3-822b04f01b04",
       "word": "school district",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Nob29sIGRpc3RyaWN0&hash=0db28396a060177eac8c7f66e46626212ad053d6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sku:l dɪst.rɪkt",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Nob29sIGRpc3RyaWN0&hash=0db28396a060177eac8c7f66e46626212ad053d6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skool dist.rikt",
       "img": "",
       "pronunciation": "skˈuːl dˈɪstɹɪkt",
       "senses": [
         {
           "definition": "a geographical area served by a single school system, typically overseen by a local government or educational authority",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The school district implemented new policies to improve academic performance and student outcomes."
+            },
+            {
+              "cf": "",
+              "x": "Parents attended a meeting to discuss proposed changes to school district boundaries."
+            },
+            {
+              "cf": "",
+              "x": "The school district provided transportation services to students residing in remote areas."
+            },
+            {
+              "cf": "",
+              "x": "The superintendent of the school district announced plans for constructing a new elementary school to accommodate population growth."
+            },
+            {
+              "cf": "",
+              "x": "The school district's board of education voted on budget allocations for various educational programs and initiatives."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c73a5942-4fe4-42b6-a980-e04dd97ef7ae",
       "word": "quadrangle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cXVhZHJhbmdsZQ&hash=a4fdd785aa32da92e06a8a7da7c8cffb4c05d2da&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kwɑ:d.ræn.gəl",
       "phonetic_am": "https://tts.langeek.co/read?text=cXVhZHJhbmdsZQ&hash=a4fdd785aa32da92e06a8a7da7c8cffb4c05d2da&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kvaad.rān.gēl",
       "img": "",
       "pronunciation": "kwˈɑːdɹæŋɡəl",
       "senses": [
@@ -476,6 +848,7 @@
       ]
     },
     {
+      "id": "0082b541-fccb-40d2-8e27-fedbdaddb5cf",
       "word": "school",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Nob29s&hash=aa43afe44c159e58dab84a8e13fbc414dccf25ae&lang=en&cache-only=0",
@@ -513,12 +886,13 @@
       ]
     },
     {
+      "id": "24f0099e-d886-4a8b-935a-15d84318a6f9",
       "word": "campus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FtcHVz&hash=64bfdf7e792d7faa0e2e0501fcc4ae4900bb3a8b&lang=en&cache-only=0",
-      "phonetic_text": "kæmpəs",
+      "phonetic_text": "kæm.pəs",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FtcHVz&hash=64bfdf7e792d7faa0e2e0501fcc4ae4900bb3a8b&lang=en&cache-only=0",
-      "phonetic_am_text": "kāmpēs",
+      "phonetic_am_text": "kām.pēs",
       "img": "https://cdn.langeek.co/photo/20019/original/campus?type=jpeg",
       "pronunciation": "ˈkæmpəs",
       "senses": [
@@ -550,12 +924,13 @@
       ]
     },
     {
+      "id": "1daad7bd-f9bf-49eb-8171-cd0efcc97ef4",
       "word": "academy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWNhZGVteQ&hash=448d4426bff5765721588259fb5d0bafb7948495&lang=en&cache-only=0",
-      "phonetic_text": "əkædəmi",
+      "phonetic_text": "ə.kæ.də.mi",
       "phonetic_am": "https://tts.langeek.co/read?text=YWNhZGVteQ&hash=448d4426bff5765721588259fb5d0bafb7948495&lang=en&cache-only=0",
-      "phonetic_am_text": "ēkādēmi",
+      "phonetic_am_text": "ē.kā.dē.mi",
       "img": "https://cdn.langeek.co/photo/48963/original/university?type=jpeg",
       "pronunciation": "əˈkædəmi",
       "senses": [
@@ -566,10 +941,11 @@
       ]
     },
     {
+      "id": "f92f4352-5069-427e-a913-368ec7e3551f",
       "word": "Department of Music",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBNdXNpYw&hash=cd2e994ef64b626ee47fccfe80411ebd65a8326b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBNdXNpYw&hash=cd2e994ef64b626ee47fccfe80411ebd65a8326b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -603,10 +979,11 @@
       ]
     },
     {
+      "id": "52d963c0-2853-49a6-a6e1-8047bfdd5d2d",
       "word": "Department of Sociology",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBTb2Npb2xvZ3k&hash=53e24ac87e7722cebfda78511c5f7334e9356be0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBTb2Npb2xvZ3k&hash=53e24ac87e7722cebfda78511c5f7334e9356be0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -640,10 +1017,11 @@
       ]
     },
     {
+      "id": "ce147aa2-4767-40af-a76e-44b8ab553e59",
       "word": "Department of Anthropology",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBBbnRocm9wb2xvZ3k&hash=172c70e8713d3cb22822a12eeca50b8efd3dcc85&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBBbnRocm9wb2xvZ3k&hash=172c70e8713d3cb22822a12eeca50b8efd3dcc85&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -677,10 +1055,11 @@
       ]
     },
     {
+      "id": "1811c46a-83cd-4058-92ab-4e38be7e5e05",
       "word": "Department of Biology",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBCaW9sb2d5&hash=6662de1c7bd78b385b0579e3f8281101e27efcd2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBCaW9sb2d5&hash=6662de1c7bd78b385b0579e3f8281101e27efcd2&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -714,10 +1093,11 @@
       ]
     },
     {
+      "id": "6fed0348-4c80-4aec-8a74-3bf78c36835c",
       "word": "Department of Chemistry",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBDaGVtaXN0cnk&hash=40a17b25a6ab84dd834066815f9bd227c1cb8825&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBDaGVtaXN0cnk&hash=40a17b25a6ab84dd834066815f9bd227c1cb8825&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -751,10 +1131,11 @@
       ]
     },
     {
+      "id": "7ee04b9e-2463-4cf0-9174-99b2fde9ae29",
       "word": "Department of Computer Science",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBDb21wdXRlciBTY2llbmNl&hash=8e460f10a126be3d233c31418440444c905a8f56&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBDb21wdXRlciBTY2llbmNl&hash=8e460f10a126be3d233c31418440444c905a8f56&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -788,10 +1169,11 @@
       ]
     },
     {
+      "id": "a53ca1be-0a90-454a-90bc-732504b535fc",
       "word": "Department of English",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBFbmdsaXNo&hash=62b7aedf10051635e694ae7eae75b24836bd3b07&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBFbmdsaXNo&hash=62b7aedf10051635e694ae7eae75b24836bd3b07&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -821,10 +1203,11 @@
       ]
     },
     {
+      "id": "c7e19fbe-a0d5-47c0-bda5-ed3ed76d3df8",
       "word": "Department of History",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBIaXN0b3J5&hash=99b0ca5c12705710ad1ccb0030828be26351b19d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBIaXN0b3J5&hash=99b0ca5c12705710ad1ccb0030828be26351b19d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -858,10 +1241,11 @@
       ]
     },
     {
+      "id": "eb387430-ecb4-465c-a610-8e959bc1fd55",
       "word": "Department of Mathematics",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBNYXRoZW1hdGljcw&hash=5719234c3c1da01f51440a2178c7e44907f066cc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBNYXRoZW1hdGljcw&hash=5719234c3c1da01f51440a2178c7e44907f066cc&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -895,10 +1279,11 @@
       ]
     },
     {
+      "id": "d0738dd7-43bd-4e69-bbf3-7185e9bcd110",
       "word": "Department of Linguistics",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBMaW5ndWlzdGljcw&hash=3dfbd969415e0564c9ed4fa07b9b600470d79a7e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBMaW5ndWlzdGljcw&hash=3dfbd969415e0564c9ed4fa07b9b600470d79a7e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -932,10 +1317,11 @@
       ]
     },
     {
+      "id": "ceb05ace-a1dd-4d00-bbdc-43e0821cf1fc",
       "word": "Department of Physics",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBQaHlzaWNz&hash=d69d5d9c474014c142862f2ce2eed829727a1b92&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBQaHlzaWNz&hash=d69d5d9c474014c142862f2ce2eed829727a1b92&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -969,10 +1355,11 @@
       ]
     },
     {
+      "id": "7a0bf2f5-100d-4b3e-9ae0-93ecf4135659",
       "word": "Department of Economics",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBFY29ub21pY3M&hash=78ccaed139234718af8cbad7b62b03418383ae1e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBFY29ub21pY3M&hash=78ccaed139234718af8cbad7b62b03418383ae1e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -1006,10 +1393,11 @@
       ]
     },
     {
+      "id": "c844c491-e879-4954-bab9-dd1535fdf59c",
       "word": "Department of Philosophy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBQaGlsb3NvcGh5&hash=99ddec93a20ac8c57fd59121368b387dfec4edf5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBQaGlsb3NvcGh5&hash=99ddec93a20ac8c57fd59121368b387dfec4edf5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -1043,10 +1431,11 @@
       ]
     },
     {
+      "id": "ab424b7a-6d73-486c-85ac-b555a2c7f46b",
       "word": "Department of Psychology",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBQc3ljaG9sb2d5&hash=8968f8b55d3cf2413e503157e4f2707ee5d6d9fa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RGVwYXJ0bWVudCBvZiBQc3ljaG9sb2d5&hash=8968f8b55d3cf2413e503157e4f2707ee5d6d9fa&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

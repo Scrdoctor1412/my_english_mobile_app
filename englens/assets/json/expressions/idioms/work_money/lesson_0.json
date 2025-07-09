@@ -1,15 +1,17 @@
 {
+  "id": "9822cd9a-3669-43a8-9ef1-f20e558c9188",
   "topic": "work_money",
   "title": "The Business World",
   "lesson": "lesson_0",
   "word_list": [
     {
+      "id": "5b94a02f-ffde-4fa6-92f7-2b7c0067b6c4",
       "word": "shotgun approach",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2hvdGd1biBhcHByb2FjaA&hash=7b27807c8c176d8f6829de0c9d7f4e894e435e12&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʃɑt.gʌn əp.roʊʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hvdGd1biBhcHByb2FjaA&hash=7b27807c8c176d8f6829de0c9d7f4e894e435e12&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "shaat.gan ēp.roooch",
       "img": "https://cdn.langeek.co/photo/41446/original/?type=jpeg",
       "pronunciation": "ʃˈɑːtɡʌn ɐpɹˈoʊtʃ",
       "senses": [
@@ -20,26 +22,37 @@
       ]
     },
     {
+      "id": "dfea6144-7dba-4eb7-920f-d359c3a35c6b",
       "word": "going concern",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29pbmcgY29uY2Vybg&hash=ca7b6307505e6b4a706632ad104eccf177a0613f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "goʊɪn kən.sɜrn",
       "phonetic_am": "https://tts.langeek.co/read?text=Z29pbmcgY29uY2Vybg&hash=ca7b6307505e6b4a706632ad104eccf177a0613f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "goooin kēn.sērn",
       "img": "https://cdn.langeek.co/photo/40651/original/?type=jpeg",
       "pronunciation": "ɡˌoʊɪŋ kənsˈɜːn",
       "senses": [
         {
           "definition": "a business that produces a great deal of profit",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The bankruptcy proceedings were initiated after the company ceased to be a going concern."
+            },
+            {
+              "cf": "",
+              "x": "The company is a going concern, with a stable financial position and positive growth prospects."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[do] a roaring (trade|business)",
+      "id": "883b7477-2c43-46a6-9601-c603b5480c9e",
+      "word": "to [do] a roaring (trade|business)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZG8gYSByb2FyaW5nIHRyYWRl&hash=d5d0c0ecd6f563a600f3affe1fe0d548faf578e0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZG8gYSByb2FyaW5nIHRyYWRl&hash=d5d0c0ecd6f563a600f3affe1fe0d548faf578e0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40603/original/?type=jpeg",
@@ -52,12 +65,13 @@
       ]
     },
     {
+      "id": "8e137343-9825-4b1f-bcec-3425f4bce3e4",
       "word": "in the black",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aW4gdGhlIGJsYWNr&hash=3f77cbfc6fead1500b4286db77e7e394014f0635&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn ðə blæk",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gdGhlIGJsYWNr&hash=3f77cbfc6fead1500b4286db77e7e394014f0635&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in dhē blāk",
       "img": "https://cdn.langeek.co/photo/40493/original/?type=jpeg",
       "pronunciation": "ɪnðə blˈæk",
       "senses": [
@@ -68,26 +82,49 @@
       ]
     },
     {
+      "id": "933f41cf-181e-409f-a0ab-802454c829cd",
       "word": "bottom line",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym90dG9tIGxpbmU&hash=8e031e011d428891edae895f04e32a119bc8ec40&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɔt.tɑm laɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym90dG9tIGxpbmU&hash=8e031e011d428891edae895f04e32a119bc8ec40&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bawt.taam lain",
       "img": "https://cdn.langeek.co/photo/41434/original/?type=jpeg",
       "pronunciation": "bˈɑːɾəm lˈaɪn",
       "senses": [
         {
           "definition": "the amount that was profited or lost in an organization or company after everything was calculated",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "After a difficult year, the company's bottom line showed a small profit."
+            },
+            {
+              "cf": "",
+              "x": "The new cost-cutting measures have helped to improve the company's bottom line over the past few months."
+            },
+            {
+              "cf": "",
+              "x": "The company's bottom line improved significantly after implementing cost-cutting measures."
+            },
+            {
+              "cf": "",
+              "x": "Management is focused on maximizing profits to boost the company's bottom line."
+            },
+            {
+              "cf": "",
+              "x": "Increasing revenue and reducing expenses are essential strategies for improving the bottom line."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[turn] a trick",
+      "id": "de0fbbd6-6763-48e1-8471-a0521664c228",
+      "word": "to [turn] a trick",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHVybiBhIHRyaWNr&hash=63cbd105e263b956fee702e4e541b8c268f40afa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHVybiBhIHRyaWNr&hash=63cbd105e263b956fee702e4e541b8c268f40afa&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41450/original/?type=jpeg",
@@ -95,31 +132,47 @@
       "senses": [
         {
           "definition": "to engage in sexual activities in exchange for money",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Unless you turned a trick, you have no other specialties that could have earned you that much."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7d490a76-4ae6-4794-8554-70ab466f82b3",
       "word": "pay dirt",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGF5IGRpcnQ&hash=488ea2952bb811d705331637a47471ec64b72ff1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "peɪ dɜrt",
       "phonetic_am": "https://tts.langeek.co/read?text=cGF5IGRpcnQ&hash=488ea2952bb811d705331637a47471ec64b72ff1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pei dērt",
       "img": "https://cdn.langeek.co/photo/16389/original/promotion?type=jpeg",
       "pronunciation": "pˈeɪ dˈɜːt",
       "senses": [
         {
           "definition": "a valuable or significant discovery, often resulting in financial gain or success",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "After months of searching, the archeologist finally hit pay dirt and discovered an ancient artifact."
+            },
+            {
+              "cf": "",
+              "x": "The company has hit pay dirt with its new product line, which is selling like hotcakes"
+            }
+          ]
         }
       ]
     },
     {
+      "id": "9eb63246-2aad-487e-a1ec-a3845e02028e",
       "word": "bricks and mortar",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YnJpY2tzIGFuZCBtb3J0YXI&hash=78de0a8d80f1e7a6c3a01b23d8cbdd2888eb5822&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJpY2tzIGFuZCBtb3J0YXI&hash=78de0a8d80f1e7a6c3a01b23d8cbdd2888eb5822&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/21078/original/?type=jpeg",
@@ -127,15 +180,25 @@
       "senses": [
         {
           "definition": "used to describe traditional physical buildings or structures, typically referring to businesses or establishments that have a physical presence in a specific location rather than operating solely online or virtually",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The company has both an online store and bricks and mortar locations in several cities."
+            },
+            {
+              "cf": "",
+              "x": "The retailer invested heavily in bricks and mortar stores in the 1990s, but has since shifted its focus to e-commerce."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "8b0c5064-6f24-45d1-9601-ff8053c10877",
       "word": "skeleton (staff‌|crew)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=c2tlbGV0b24gc3RhZmbigIw&hash=48e87449d6dfebc6dd0a50cda67e7f80fe0887ea&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=c2tlbGV0b24gc3RhZmbigIw&hash=48e87449d6dfebc6dd0a50cda67e7f80fe0887ea&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41448/original/?type=jpeg",
@@ -143,55 +206,98 @@
       "senses": [
         {
           "definition": "the minimum staff required for a business to run at a basic level",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "By the time the new employees were hired, the department had been operating with a skeleton crew for several months."
+            },
+            {
+              "cf": "",
+              "x": "During the holidays, the store operates with a skeleton crew to save on payroll costs."
+            },
+            {
+              "cf": "",
+              "x": "If the strike continues, the airline will have to operate with a skeleton crew to keep some flights running."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "cbf31330-ac51-4430-bc6b-beead9a4c6b3",
       "word": "skeleton service",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2tlbGV0b24gc2VydmljZQ&hash=0f5bc0bd2a5e04382d3291347a6e13ddd981b1c5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skɛ.lə.tən sɜr.vɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=c2tlbGV0b24gc2VydmljZQ&hash=0f5bc0bd2a5e04382d3291347a6e13ddd981b1c5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ske.lē.tēn sēr.vis",
       "img": "https://cdn.langeek.co/photo/51176/original/?type=jpeg",
       "pronunciation": "skˈɛlᵻtən sˈɜːvɪs",
       "senses": [
         {
           "definition": "the service that is available only at certain times or under certain conditions",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Due to staffing shortages, the DMV has been offering only a skeleton service, with long wait times and limited availability."
+            },
+            {
+              "cf": "",
+              "x": "During the pandemic, the library is only providing a skeleton service, with limited hours and reduced capacity."
+            },
+            {
+              "cf": "",
+              "x": "When the power went out, the grocery store was only able to offer a skeleton service, selling perishable items at discounted prices."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "bfc45140-134a-4fa5-b695-beef2eb057af",
       "word": "money spinner",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9uZXkgc3Bpbm5lcg&hash=61419e8472b92fb1eab68d089fa05e4cab71fd60&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mʌ.ni spɪ.nɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9uZXkgc3Bpbm5lcg&hash=61419e8472b92fb1eab68d089fa05e4cab71fd60&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ma.ni spi.nēr",
       "img": "https://cdn.langeek.co/photo/41460/original/?type=jpeg",
       "pronunciation": "mˈʌni spˈɪnɚ",
       "senses": [
         {
           "definition": "something that produces a great deal of profit",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The band's latest album has been a real money spinner, selling out shows across the country and topping the charts."
+            },
+            {
+              "cf": "",
+              "x": "The new app has been a real money spinner for the developer, bringing in thousands of dollars in revenue every day."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "452abc8b-1160-44ba-9a91-949cb84df2c6",
       "word": "in pocket",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aW4gcG9ja2V0&hash=7862858f973f844e2e2daf23de11e069129ac273&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn pɑ:.kɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gcG9ja2V0&hash=7862858f973f844e2e2daf23de11e069129ac273&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in paa.kit",
       "img": "",
       "pronunciation": "ɪn pˈɑːkɪt",
       "senses": [
         {
           "definition": "used for saying that one has more than enough money, usually gained in a transaction",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "We're in pocket on that deal."
+            }
+          ]
         }
       ]
     }

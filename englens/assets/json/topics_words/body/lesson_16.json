@@ -1,15 +1,17 @@
 {
+  "id": "9824ac6b-ceb4-4edb-b5ec-6f01bb248a5d",
   "topic": "body",
   "title": "The Nose",
   "lesson": "lesson_16",
   "word_list": [
     {
+      "id": "027bf097-c290-45f8-9e2c-1e4a712c84c1",
       "word": "nostril",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bm9zdHJpbA&hash=117290df8ae8e0b83eace82d844bdd0d615a9cd6&lang=en&cache-only=0",
-      "phonetic_text": "nɑ:strɪl",
+      "phonetic_text": "nɑst.rɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=bm9zdHJpbA&hash=117290df8ae8e0b83eace82d844bdd0d615a9cd6&lang=en&cache-only=0",
-      "phonetic_am_text": "naastril",
+      "phonetic_am_text": "naast.ril",
       "img": "https://cdn.langeek.co/photo/20757/original/nostril?type=jpeg",
       "pronunciation": "ˈnɑstɹɪɫ",
       "senses": [
@@ -41,12 +43,13 @@
       ]
     },
     {
+      "id": "20369b99-9fcf-4e49-8433-bac272520b32",
       "word": "septum",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VwdHVt&hash=340af0ed6381d06e110ad21284e9da959cb87fa0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛp.təm",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VwdHVt&hash=340af0ed6381d06e110ad21284e9da959cb87fa0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sep.tēm",
       "img": "https://cdn.langeek.co/photo/30359/original/?type=jpeg",
       "pronunciation": "sˈɛptəm",
       "senses": [
@@ -57,14 +60,15 @@
       ]
     },
     {
+      "id": "2091ffc2-f0bc-4992-a7c2-780725ddd021",
       "word": "turbinate",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHVyYmluYXRl&hash=e3ba97cfdad5f08cc78751e7b726c55f279dd9b2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɜr.bɪ.nət",
       "phonetic_am": "https://tts.langeek.co/read?text=dHVyYmluYXRl&hash=e3ba97cfdad5f08cc78751e7b726c55f279dd9b2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tēr.bi.nēt",
       "img": "https://cdn.langeek.co/photo/30367/original/?type=jpeg",
-      "pronunciation": "tˈɜːbᵻnˌeɪt",
+      "pronunciation": "ˈtɝːbɪnət",
       "senses": [
         {
           "definition": "a bony structure inside the nasal cavity that helps filter, humidify, and regulate airflow",
@@ -73,12 +77,13 @@
       ]
     },
     {
+      "id": "1c198867-2473-4305-96c3-7050a8c4eab8",
       "word": "sinus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2ludXM&hash=35db4dd4e7ac8c241a81ff236f6ff5148e291528&lang=en&cache-only=0",
-      "phonetic_text": "saɪnəs",
+      "phonetic_text": "saɪ.nəs",
       "phonetic_am": "https://tts.langeek.co/read?text=c2ludXM&hash=35db4dd4e7ac8c241a81ff236f6ff5148e291528&lang=en&cache-only=0",
-      "phonetic_am_text": "sainēs",
+      "phonetic_am_text": "sai.nēs",
       "img": "https://cdn.langeek.co/photo/30363/original/?type=jpeg",
       "pronunciation": "ˈsaɪnəs",
       "senses": [
@@ -95,6 +100,10 @@
             },
             {
               "cf": "",
+              "x": "The maxillary sinuses are the largest of the paranasal sinuses, situated in the cheekbones on either side of the nose."
+            },
+            {
+              "cf": "",
               "x": "Chronic sinus infections may require treatment with antibiotics or sinus surgery to improve drainage and alleviate symptoms."
             }
           ]
@@ -102,12 +111,13 @@
       ]
     },
     {
+      "id": "bb2f704b-6d15-4694-867a-f4332dcc5538",
       "word": "frontal sinus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnJvbnRhbCBzaW51cw&hash=844d36de620d52b6872dfb2e83b07a8fe6de80e6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "frən.təl saɪ.nəs",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJvbnRhbCBzaW51cw&hash=844d36de620d52b6872dfb2e83b07a8fe6de80e6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "frēn.tēl sai.nēs",
       "img": "",
       "pronunciation": "fɹˈʌntəl sˈaɪnəs",
       "senses": [
@@ -118,10 +128,11 @@
       ]
     },
     {
+      "id": "44fc35c0-1735-4d7e-8639-a4de256139ea",
       "word": "ethmoidal sinus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXRobW9pZGFsIHNpbnVz&hash=006e89c172321e78daa199a7fd53302374375e6f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXRobW9pZGFsIHNpbnVz&hash=006e89c172321e78daa199a7fd53302374375e6f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -134,12 +145,13 @@
       ]
     },
     {
+      "id": "bb118429-fbf3-4551-9bc0-f5ec7f209983",
       "word": "maxillary sinus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWF4aWxsYXJ5IHNpbnVz&hash=d341caa0a04202cab70f8e6241c76f78bb6ae1fd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mæk.sɪ.lə.ri saɪ.nəs",
       "phonetic_am": "https://tts.langeek.co/read?text=bWF4aWxsYXJ5IHNpbnVz&hash=d341caa0a04202cab70f8e6241c76f78bb6ae1fd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "māk.si.lē.ri sai.nēs",
       "img": "",
       "pronunciation": "mˈæksɪlɚɹi sˈaɪnəs",
       "senses": [
@@ -150,12 +162,13 @@
       ]
     },
     {
+      "id": "7ba06cd2-4c02-4f68-a908-69e439c5e8ae",
       "word": "sphenoid sinus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BoZW5vaWQgc2ludXM&hash=8bd55edccee2f791b73037f0251e42da7a3a3302&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sfɛ.nɔɪd saɪ.nəs",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BoZW5vaWQgc2ludXM&hash=8bd55edccee2f791b73037f0251e42da7a3a3302&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sfe.nawid sai.nēs",
       "img": "",
       "pronunciation": "sfˈɛnɔɪd sˈaɪnəs",
       "senses": [
@@ -166,12 +179,13 @@
       ]
     },
     {
+      "id": "67166e7d-1e47-4d06-904e-beb546968ed9",
       "word": "nasion",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmFzaW9u&hash=eb33d6a24859a5c97ff7b8be76916fdf5ff30baa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "neɪ.ʒən",
       "phonetic_am": "https://tts.langeek.co/read?text=bmFzaW9u&hash=eb33d6a24859a5c97ff7b8be76916fdf5ff30baa&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nei.zhēn",
       "img": "",
       "pronunciation": "nˈeɪʒən",
       "senses": [
@@ -182,12 +196,13 @@
       ]
     },
     {
+      "id": "e4e2e74a-0a31-450f-a4d4-0c5461b5f90c",
       "word": "rhinion",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmhpbmlvbg&hash=6b75a6efcd716feda967ebcc4b862533a50b30aa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "raɪ.niən",
       "phonetic_am": "https://tts.langeek.co/read?text=cmhpbmlvbg&hash=6b75a6efcd716feda967ebcc4b862533a50b30aa&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rai.niēn",
       "img": "",
       "pronunciation": "ɹˈaɪniən",
       "senses": [
@@ -198,6 +213,7 @@
       ]
     },
     {
+      "id": "d53d7c94-9349-4c19-8e18-f08cb6baf26c",
       "word": "bridge",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJpZGdl&hash=aa3a1de665607f96791a2091b80ffdef472aa568&lang=en&cache-only=0",
@@ -205,7 +221,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=YnJpZGdl&hash=aa3a1de665607f96791a2091b80ffdef472aa568&lang=en&cache-only=0",
       "phonetic_am_text": "brij",
       "img": "",
-      "pronunciation": "ˈbɹɪdʒ",
+      "pronunciation": "brɪʤ",
       "senses": [
         {
           "definition": "the bony part at the top of the nose",
@@ -214,10 +230,11 @@
       ]
     },
     {
+      "id": "8bc7a11e-ece6-4eec-9401-05933c6c910d",
       "word": "dorsum nasi",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZG9yc3VtIG5hc2k&hash=8557e545c0a600d28dc5910fd64bd89c2d072bd1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG9yc3VtIG5hc2k&hash=8557e545c0a600d28dc5910fd64bd89c2d072bd1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -230,12 +247,13 @@
       ]
     },
     {
+      "id": "980e5bc4-e984-4397-bfc3-e81a8ee28921",
       "word": "apex",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXBleA&hash=fa146b323d5c2c450fd739452038c361206a72aa&lang=en&cache-only=0",
-      "phonetic_text": "eɪpɛks",
+      "phonetic_text": "eɪ.pɛks",
       "phonetic_am": "https://tts.langeek.co/read?text=YXBleA&hash=fa146b323d5c2c450fd739452038c361206a72aa&lang=en&cache-only=0",
-      "phonetic_am_text": "eipeks",
+      "phonetic_am_text": "ei.peks",
       "img": "",
       "pronunciation": "ˈeɪˌpɛks",
       "senses": [
@@ -246,12 +264,13 @@
       ]
     },
     {
+      "id": "77774dc2-e7dd-4fce-b2ba-9ba75271b918",
       "word": "nasal meatus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmFzYWwgbWVhdHVz&hash=e595d9317a3eca17653ccf43b9d26825cf20afd6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "neɪ.zəl mi:.təs",
       "phonetic_am": "https://tts.langeek.co/read?text=bmFzYWwgbWVhdHVz&hash=e595d9317a3eca17653ccf43b9d26825cf20afd6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nei.zēl mi.tēs",
       "img": "",
       "pronunciation": "nˈeɪzəl mˈiːɾəs",
       "senses": [
@@ -262,12 +281,13 @@
       ]
     },
     {
+      "id": "f1190370-e6ee-419a-bb3d-a57dd3b703a6",
       "word": "inferior meatus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5mZXJpb3IgbWVhdHVz&hash=3b0777151f6dc899d76cd5320e1958b0bf988116&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn.fɪ.riɜr mi:.təs",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5mZXJpb3IgbWVhdHVz&hash=3b0777151f6dc899d76cd5320e1958b0bf988116&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in.fi.riēr mi.tēs",
       "img": "",
       "pronunciation": "ɪnfˈiəɹɪɚ mˈiːɾəs",
       "senses": [
@@ -278,12 +298,13 @@
       ]
     },
     {
+      "id": "82f163b8-0034-4393-9030-b234820cb695",
       "word": "middle meatus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWlkZGxlIG1lYXR1cw&hash=7df573cb39da9034eda68ea44df2921211870eec&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mɪ.dəl mi:.təs",
       "phonetic_am": "https://tts.langeek.co/read?text=bWlkZGxlIG1lYXR1cw&hash=7df573cb39da9034eda68ea44df2921211870eec&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mi.dēl mi.tēs",
       "img": "",
       "pronunciation": "mˈɪdəl mˈiːɾəs",
       "senses": [
@@ -294,10 +315,11 @@
       ]
     },
     {
+      "id": "d615d04e-f362-4116-b583-1a3b3f872685",
       "word": "sphenoethmoidal recess",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BoZW5vZXRobW9pZGFsIHJlY2Vzcw&hash=eae9317c28465169ecd0ac053b85715b841b9f69&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BoZW5vZXRobW9pZGFsIHJlY2Vzcw&hash=eae9317c28465169ecd0ac053b85715b841b9f69&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -310,12 +332,13 @@
       ]
     },
     {
+      "id": "e1ba1645-3f71-4480-873f-cd4392be553f",
       "word": "nasal cavity",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmFzYWwgY2F2aXR5&hash=9505b7e6ec0ac49a08b93df98e4fda5c05f35088&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "neɪ.zəl kæ.və.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=bmFzYWwgY2F2aXR5&hash=9505b7e6ec0ac49a08b93df98e4fda5c05f35088&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nei.zēl kā.vē.ti",
       "img": "https://cdn.langeek.co/photo/30357/original/?type=jpeg",
       "pronunciation": "nˈeɪzəl kˈævɪɾi",
       "senses": [
@@ -326,12 +349,13 @@
       ]
     },
     {
+      "id": "29ab967d-fe4a-4853-ab82-f69bda40a8e3",
       "word": "nasal ala",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmFzYWwgYWxh&hash=fa7eebb89f54dea581d6be95824489816a0a1916&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "neɪ.zəl æ.lə",
       "phonetic_am": "https://tts.langeek.co/read?text=bmFzYWwgYWxh&hash=fa7eebb89f54dea581d6be95824489816a0a1916&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nei.zēl ā.lē",
       "img": "",
       "pronunciation": "nˈeɪzəl ɐlˈæ",
       "senses": [
@@ -342,12 +366,13 @@
       ]
     },
     {
+      "id": "73df615a-d6da-491a-97fc-9116d330ea38",
       "word": "nasal",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmFzYWw&hash=45c2cec53a60277c462c02b759c6cdacba55294d&lang=en&cache-only=0",
-      "phonetic_text": "neɪzəl",
+      "phonetic_text": "neɪ.zəl",
       "phonetic_am": "https://tts.langeek.co/read?text=bmFzYWw&hash=45c2cec53a60277c462c02b759c6cdacba55294d&lang=en&cache-only=0",
-      "phonetic_am_text": "neizēl",
+      "phonetic_am_text": "nei.zēl",
       "img": "",
       "pronunciation": "ˈneɪzəɫ",
       "senses": [

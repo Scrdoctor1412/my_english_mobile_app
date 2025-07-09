@@ -1,13 +1,15 @@
 {
+  "id": "2971b850-1856-46ea-9054-64dd85f25b6e",
   "topic": "collocations_of_give_keep_come",
   "title": "Monitoring & Maintaining (Keep)",
   "lesson": "lesson_2",
   "word_list": [
     {
-      "word": "[keep] an animal",
+      "id": "f7fbe2b9-c04c-4810-960b-5ef5d819db22",
+      "word": "to [keep] an animal",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCBhbiBhbmltYWw&hash=fbf7b865cac05dd39761296acc05db276b0d49c1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCBhbiBhbmltYWw&hash=fbf7b865cac05dd39761296acc05db276b0d49c1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -29,10 +31,11 @@
       ]
     },
     {
-      "word": "[keep] (a|the) balance",
+      "id": "1106516f-c67a-497b-8c3e-19cee9d2c3ac",
+      "word": "to [keep] (a|the) balance",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCBhIGJhbGFuY2U&hash=7a353534cda7098d952a6074e5ca1f230123f89d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCBhIGJhbGFuY2U&hash=7a353534cda7098d952a6074e5ca1f230123f89d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -66,10 +69,11 @@
       ]
     },
     {
-      "word": "[keep] a record",
+      "id": "1e54b841-0179-4b69-8d18-452d201432fc",
+      "word": "to [keep] a record",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCBhIHJlY29yZA&hash=86d7227aca8946bd841022726ef57ce76e4b68e3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCBhIHJlY29yZA&hash=86d7227aca8946bd841022726ef57ce76e4b68e3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -77,32 +81,16 @@
       "senses": [
         {
           "definition": "to maintain a written or digital account of information, events, or data for future reference",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The accountant needs to keep a record of all financial transactions."
-            },
-            {
-              "cf": "",
-              "x": "Students are encouraged to keep a record of their study hours and progress."
-            },
-            {
-              "cf": "",
-              "x": "The library keeps a record of all the books borrowed by its patrons."
-            },
-            {
-              "cf": "",
-              "x": "To track your fitness journey, it's essential to keep a record of your workouts."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[keep] score",
+      "id": "e7d4ea09-4fcb-4e1a-bdf8-9ead404dc1d4",
+      "word": "to [keep] score",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCBzY29yZQ&hash=e5b0b123b2205f98b076b347d8bca5943c0bf532&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCBzY29yZQ&hash=e5b0b123b2205f98b076b347d8bca5943c0bf532&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -136,10 +124,11 @@
       ]
     },
     {
-      "word": "[keep] tabs on {sb/sth}",
+      "id": "a8fe3f1c-7388-4300-b8f7-03d0cab8ba13",
+      "word": "to [keep] tabs on {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCB0YWJzIG9uIHNvbWVib2R5IG9yIHNvbWV0aGluZw&hash=d7e61e64e7495d35cb53d3e9a46bcd5eafb6f8df&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCB0YWJzIG9uIHNvbWVib2R5IG9yIHNvbWV0aGluZw&hash=d7e61e64e7495d35cb53d3e9a46bcd5eafb6f8df&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44252/original/?type=jpeg",
@@ -169,10 +158,11 @@
       ]
     },
     {
-      "word": "[keep] track of {sb/sth}",
+      "id": "ec8cc9a8-0e37-4f7c-a155-0cfa65200599",
+      "word": "to [keep] track of {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCB0cmFjayBvZiBzb21lYm9keSBvciBzb21ldGhpbmc&hash=b8f88cb163e7e41e771e9de3b9453956e5296310&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCB0cmFjayBvZiBzb21lYm9keSBvciBzb21ldGhpbmc&hash=b8f88cb163e7e41e771e9de3b9453956e5296310&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -206,10 +196,11 @@
       ]
     },
     {
+      "id": "682a9805-ed58-43b4-aa12-a159d233b06e",
       "word": "[keep] up the good work",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=a2VlcCB1cCB0aGUgZ29vZCB3b3Jr&hash=3bc8cb216c41c7e2e94261c81ba78deee3728597&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=a2VlcCB1cCB0aGUgZ29vZCB3b3Jr&hash=3bc8cb216c41c7e2e94261c81ba78deee3728597&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -217,28 +208,16 @@
       "senses": [
         {
           "definition": "used to praise someone for their efforts and encouraging them to continue performing well",
-          "examples": [
-            {
-              "cf": "",
-              "x": "In his performance review, he was commended for his dedication and told to keep up the good work."
-            },
-            {
-              "cf": "",
-              "x": "You've been doing an excellent job on this project, so keep up the good work."
-            },
-            {
-              "cf": "",
-              "x": "The coach reminded his players to stay focused and keep up the good work as they headed into the championship game."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[keep] a distance",
+      "id": "c5932303-dc9b-4dd7-bb1e-64fe523c45a0",
+      "word": "to [keep] a distance",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCBhIGRpc3RhbmNl&hash=0420e3e64af932345e3d2631b3457946bc6680fc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCBhIGRpc3RhbmNl&hash=0420e3e64af932345e3d2631b3457946bc6680fc&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -264,10 +243,11 @@
       ]
     },
     {
-      "word": "[keep] a diary",
+      "id": "2db9e32b-9db3-4616-9fab-afa42c250040",
+      "word": "to [keep] a diary",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCBhIGRpYXJ5&hash=28f5b272c1f2b038a3a4a7cd8098c200215d6cbe&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCBhIGRpYXJ5&hash=28f5b272c1f2b038a3a4a7cd8098c200215d6cbe&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -275,36 +255,16 @@
       "senses": [
         {
           "definition": "to regularly write and maintain a personal journal or record of one's thoughts, experiences, and daily activities",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Many writers keep a diary to capture their creative ideas and life experiences."
-            },
-            {
-              "cf": "",
-              "x": "She decided to keep a diary during her travels to document her adventures."
-            },
-            {
-              "cf": "",
-              "x": "Keeping a diary can be a therapeutic way to express emotions and reflect on life."
-            },
-            {
-              "cf": "",
-              "x": "As a teenager, I used to keep a diary to record my feelings and experiences."
-            },
-            {
-              "cf": "",
-              "x": "To preserve family memories, some individuals keep a diary of their family's history."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[keep] a journal",
+      "id": "17a6a1af-cd2d-495c-a81e-cd375ece0c14",
+      "word": "to [keep] a journal",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCBhIGpvdXJuYWw&hash=c3d4f8f9f39eab40bb5d414660adb95ee5b60ce4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCBhIGpvdXJuYWw&hash=c3d4f8f9f39eab40bb5d414660adb95ee5b60ce4&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -330,10 +290,11 @@
       ]
     },
     {
-      "word": "[keep] a lookout",
+      "id": "e5e2bf11-32ab-4368-8c23-e81ab86b7cd1",
+      "word": "to [keep] a lookout",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCBhIGxvb2tvdXQ&hash=b0b80d3cfd21fd8ac8ec9e8cf457267d19907d7b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCBhIGxvb2tvdXQ&hash=b0b80d3cfd21fd8ac8ec9e8cf457267d19907d7b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -367,10 +328,11 @@
       ]
     },
     {
-      "word": "[keep] in shape",
+      "id": "9066f446-bdd0-473b-86ae-7323a95ba872",
+      "word": "to [keep] in shape",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCBpbiBzaGFwZQ&hash=38694d1c815d22349a0ce6af30365054ff3a0d5d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCBpbiBzaGFwZQ&hash=38694d1c815d22349a0ce6af30365054ff3a0d5d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -400,10 +362,11 @@
       ]
     },
     {
-      "word": "[keep] pace",
+      "id": "1ca2ff1d-3bb9-42ca-a1d4-b7871e3111ed",
+      "word": "to [keep] pace",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCBwYWNl&hash=4ac3c9f9a44da039e5514f76dfe0bb2d908934a8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCBwYWNl&hash=4ac3c9f9a44da039e5514f76dfe0bb2d908934a8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -411,36 +374,16 @@
       "senses": [
         {
           "definition": "to maintain a similar speed or level of progress as something or someone else",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She had to walk quickly to keep pace with her friends."
-            },
-            {
-              "cf": "",
-              "x": "The company is striving to innovate and keep pace with industry changes."
-            },
-            {
-              "cf": "",
-              "x": "She keeps pace with the rest of the team during training."
-            },
-            {
-              "cf": "",
-              "x": "They are keeping pace with the market's changing trends."
-            },
-            {
-              "cf": "",
-              "x": "While studying for the exam, she was keeping pace with the class assignments."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[keep] afloat",
+      "id": "a6dbd71c-2c14-4103-a299-ca05568e459e",
+      "word": "to [keep] afloat",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCBhZmxvYXQ&hash=e088b3de937f88a5ac8594c8904351b692f30bf3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCBhZmxvYXQ&hash=e088b3de937f88a5ac8594c8904351b692f30bf3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -448,28 +391,7 @@
       "senses": [
         {
           "definition": "to maintain financial stability or solvency",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Despite the economic downturn, the company managed to keep afloat by cutting costs and diversifying its revenue streams."
-            },
-            {
-              "cf": "",
-              "x": "The government provided emergency funding to help struggling businesses keep afloat during the pandemic."
-            },
-            {
-              "cf": "",
-              "x": "The nonprofit organization relies on donations to keep afloat and continue its important work in the community."
-            },
-            {
-              "cf": "",
-              "x": "The small bookstore struggled to keep afloat in the era of online retail giants."
-            },
-            {
-              "cf": "",
-              "x": "During tough times, it's important to find ways to keep afloat and weather the storm."
-            }
-          ]
+          "examples": []
         }
       ]
     }

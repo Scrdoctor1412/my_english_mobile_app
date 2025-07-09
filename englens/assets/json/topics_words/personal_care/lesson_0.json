@@ -1,15 +1,17 @@
 {
+  "id": "12363956-0b10-4e96-ae75-44fcf1017f12",
   "topic": "personal_care",
   "title": "Body Care",
   "lesson": "lesson_0",
   "word_list": [
     {
+      "id": "e4db02ec-9a2e-487c-9d13-f8ea1e28eddb",
       "word": "ablution",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWJsdXRpb24&hash=870263ce2fe1ea8d130b43ffd70074b057c6b73a&lang=en&cache-only=0",
-      "phonetic_text": "əblu:ʃən",
+      "phonetic_text": "əb.lu.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=YWJsdXRpb24&hash=870263ce2fe1ea8d130b43ffd70074b057c6b73a&lang=en&cache-only=0",
-      "phonetic_am_text": "ēblooshēn",
+      "phonetic_am_text": "ēb.loo.shēn",
       "img": "https://cdn.langeek.co/photo/27071/original/bathe?type=jpeg",
       "pronunciation": "əˈbɫuʃən",
       "senses": [
@@ -20,6 +22,7 @@
       ]
     },
     {
+      "id": "e568892d-20bf-4571-ae06-abe5101bb465",
       "word": "bath",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmF0aA&hash=144594cdccd90573389226f6b830e9cbdcc19af6&lang=en&cache-only=0",
@@ -27,23 +30,45 @@
       "phonetic_am": "https://tts.langeek.co/read?text=YmF0aA&hash=144594cdccd90573389226f6b830e9cbdcc19af6&lang=en&cache-only=0",
       "phonetic_am_text": "bāth",
       "img": "https://cdn.langeek.co/photo/27071/original/bathe?type=jpeg",
-      "pronunciation": "ˈbæθ",
+      "pronunciation": "bæθ",
       "senses": [
         {
           "definition": "the action of washing our body in a bathtub by putting it into water",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "After a hard day, a warm bath can be soothing."
+            },
+            {
+              "cf": "",
+              "x": "He always has a bath before bedtime."
+            },
+            {
+              "cf": "",
+              "x": "My sister loves taking a long, relaxing bath."
+            },
+            {
+              "cf": "",
+              "x": "Our cat hates having a bath."
+            },
+            {
+              "cf": "",
+              "x": "She wrapped herself in a bathrobe after the bath."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "bath",
+      "id": "6db2b83a-b1fd-49a1-9694-8d70c68cf1f2",
+      "word": "to bath",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmF0aA&hash=344601e744f7f8daa4431b53a216deeeebfd742e&lang=en&cache-only=0",
       "phonetic_text": "bæθ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmF0aA&hash=344601e744f7f8daa4431b53a216deeeebfd742e&lang=en&cache-only=0",
       "phonetic_am_text": "bāth",
       "img": "",
-      "pronunciation": "ˈbæθ",
+      "pronunciation": "bæθ",
       "senses": [
         {
           "definition": "to wash another person by immersing the body in water or applying water to the body using a cloth, sponge, or similar means",
@@ -52,7 +77,8 @@
       ]
     },
     {
-      "word": "bathe",
+      "id": "8258bd07-b735-443a-9149-1ee4bab4bf64",
+      "word": "to bathe",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmF0aGU&hash=1627273160f06717130236af7248f58f5bbf7f19&lang=en&cache-only=0",
       "phonetic_text": "beɪð",
@@ -63,17 +89,39 @@
       "senses": [
         {
           "definition": "to wash or clean the body by putting it in water or pouring water over it",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Every evening, she likes to bathe in a warm bubble bath to relax."
+            },
+            {
+              "cf": "",
+              "x": "The children eagerly run to the lake to bathe on hot summer days."
+            },
+            {
+              "cf": "",
+              "x": "In some cultures, it is customary to bathe in cold water for health benefits."
+            },
+            {
+              "cf": "",
+              "x": "After a long day at the beach, they return home to bathe and remove the sand."
+            },
+            {
+              "cf": "",
+              "x": "He prefers to bathe in the morning to start his day feeling refreshed."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1e795384-0031-48fc-a882-f77476691ee4",
       "word": "body odor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9keSBvZG9y&hash=84ee6eac6e8d362befcd02bcb1eaf2c9b2cbd097&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɑ:.di oʊ.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9keSBvZG9y&hash=84ee6eac6e8d362befcd02bcb1eaf2c9b2cbd097&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baa.di ooo.dēr",
       "img": "",
       "pronunciation": "bˈɑːdi ˈoʊdɚ",
       "senses": [
@@ -84,44 +132,81 @@
       ]
     },
     {
+      "id": "276b6d54-204b-41cd-becd-5294b610f9f9",
       "word": "bubble bath",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnViYmxlIGJhdGg&hash=6586e110de6670806916ab30a8d5fd8373502fff&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bʌ.bəl bæθ",
       "phonetic_am": "https://tts.langeek.co/read?text=YnViYmxlIGJhdGg&hash=6586e110de6670806916ab30a8d5fd8373502fff&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ba.bēl bāth",
       "img": "https://cdn.langeek.co/photo/51374/original/?type=jpeg",
       "pronunciation": "bˈʌbəl bˈæθ",
       "senses": [
         {
           "definition": "a bath with a special soap added to the water to make it foamy and scented",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "After a long day, she enjoyed a relaxing bubble bath with her favorite lavender-scented soap."
+            },
+            {
+              "cf": "",
+              "x": "The kids love to have a bubble bath on weekends, with bubbles floating all around the tub."
+            },
+            {
+              "cf": "",
+              "x": "I always treat myself to a bubble bath when I need to unwind after a stressful week."
+            },
+            {
+              "cf": "",
+              "x": "The scent of the bubble bath filled the room, adding to the peaceful atmosphere."
+            },
+            {
+              "cf": "",
+              "x": "She smiled as she dipped her toes into the bubble bath, enjoying the softness of the foam."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "clean up",
+      "id": "4ffd9a78-0437-4596-8e9b-26a446e671a6",
+      "word": "to clean up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2xlYW4gdXA&hash=69e6dca054dbeca2c63205e7ff0d7110dc8e7a28&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kli:n ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2xlYW4gdXA&hash=69e6dca054dbeca2c63205e7ff0d7110dc8e7a28&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "klin ap",
       "img": "https://cdn.langeek.co/photo/44246/original/?type=jpeg",
       "pronunciation": "klˈiːn ˈʌp",
       "senses": [
         {
           "definition": "to make oneself neat or clean",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The custodian worked diligently to clean up the spilled coffee in the office breakroom."
+            },
+            {
+              "cf": "",
+              "x": "After the party, everyone pitched in to clean up the decorations and leftover food."
+            },
+            {
+              "cf": "",
+              "x": "The environmental activists are urging residents to help clean up local parks and green spaces."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "delouse",
+      "id": "92082faf-35c5-484a-a564-1a9c5169562e",
+      "word": "to delouse",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVsb3VzZQ&hash=95af0cf3b65e607751a0e7619e89b68fad9567ca&lang=en&cache-only=0",
-      "phonetic_text": "dilaʊz",
+      "phonetic_text": "di.laʊz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVsb3VzZQ&hash=95af0cf3b65e607751a0e7619e89b68fad9567ca&lang=en&cache-only=0",
-      "phonetic_am_text": "dilawz",
+      "phonetic_am_text": "di.laooz",
       "img": "",
       "pronunciation": "ˌdiˈɫaʊz",
       "senses": [
@@ -132,28 +217,39 @@
       ]
     },
     {
-      "word": "freshen up",
+      "id": "a1db3679-3340-4af6-a2ce-7354ce6e32a2",
+      "word": "to freshen up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZnJlc2hlbiB1cA&hash=05d86357b3efbfecd9c331be3b143da5f8f6a0a4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "frɛ.ʃən ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZnJlc2hlbiB1cA&hash=05d86357b3efbfecd9c331be3b143da5f8f6a0a4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fre.shēn ap",
       "img": "https://cdn.langeek.co/photo/26128/original/?type=jpeg",
       "pronunciation": "fɹˈɛʃən ˈʌp",
       "senses": [
         {
           "definition": "to improve one's appearance, energy, or smell, usually by washing, grooming, or getting refreshed",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "A quick shower is an excellent way to freshen up in the morning."
+            },
+            {
+              "cf": "",
+              "x": "Before the party, they freshened up their appearances by getting dressed and styling their hair."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c2c6fd47-eff9-4267-bbaf-18165dd2836b",
       "word": "grooming",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3Jvb21pbmc&hash=ed5af81ff29cfc3e9b770d614ad4c7bb1872f690&lang=en&cache-only=0",
-      "phonetic_text": "gru:mɪng",
+      "phonetic_text": "gru.mɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3Jvb21pbmc&hash=ed5af81ff29cfc3e9b770d614ad4c7bb1872f690&lang=en&cache-only=0",
-      "phonetic_am_text": "grooming",
+      "phonetic_am_text": "groo.ming",
       "img": "https://cdn.langeek.co/photo/26128/original/?type=jpeg",
       "pronunciation": "ˈɡɹumɪŋ",
       "senses": [
@@ -164,12 +260,13 @@
       ]
     },
     {
+      "id": "020b0fc3-b009-4cf9-b131-30fa1f632534",
       "word": "rubdown",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cnViZG93bg&hash=797258d628298135d6292b82578f2b81af668e24&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rəb.daʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=cnViZG93bg&hash=797258d628298135d6292b82578f2b81af668e24&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rēb.daoon",
       "img": "",
       "pronunciation": "ɹˈʌbdaʊn",
       "senses": [
@@ -180,12 +277,13 @@
       ]
     },
     {
-      "word": "scrub up",
+      "id": "c2b6493b-6774-4ea4-87f1-3dfbfe7fb0a1",
+      "word": "to scrub up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NydWIgdXA&hash=0b2001aa85afc65e2f341732e29caa0c00f372ad&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skrəb ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NydWIgdXA&hash=0b2001aa85afc65e2f341732e29caa0c00f372ad&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skrēb ap",
       "img": "",
       "pronunciation": "skɹˈʌb ˈʌp",
       "senses": [
@@ -196,14 +294,15 @@
       ]
     },
     {
+      "id": "cbfaee24-ba17-4030-b88a-69e41ad7aaf8",
       "word": "shower",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2hvd2Vy&hash=3a5e5601d6e0bd6f31c0d75bc06db736a3a23bb8&lang=en&cache-only=0",
       "phonetic_text": "ʃaʊər",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hvd2Vy&hash=3a5e5601d6e0bd6f31c0d75bc06db736a3a23bb8&lang=en&cache-only=0",
-      "phonetic_am_text": "shawēr",
+      "phonetic_am_text": "shaooēr",
       "img": "https://cdn.langeek.co/photo/39071/original/shower?type=jpeg",
-      "pronunciation": "ˈʃaʊɝ",
+      "pronunciation": "ˈʃaʊɚ",
       "senses": [
         {
           "definition": "an act of washing our body while standing under a stream of water",
@@ -212,44 +311,89 @@
       ]
     },
     {
-      "word": "shower",
+      "id": "884a01f3-64cc-41f8-8d45-6841533e2050",
+      "word": "to shower",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2hvd2Vy&hash=2d1035e67ba757bd7370640a2c3f4ac6b811c1ff&lang=en&cache-only=0",
       "phonetic_text": "ʃaʊər",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2hvd2Vy&hash=2d1035e67ba757bd7370640a2c3f4ac6b811c1ff&lang=en&cache-only=0",
-      "phonetic_am_text": "shawēr",
+      "phonetic_am_text": "shaooēr",
       "img": "https://cdn.langeek.co/photo/39071/original/shower?type=jpeg",
-      "pronunciation": "ˈʃaʊɝ",
+      "pronunciation": "ˈʃaʊɚ",
       "senses": [
         {
           "definition": "to bathe under a continuous flow of water, typically for cleansing the body",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She showers every morning before going to work."
+            },
+            {
+              "cf": "",
+              "x": "After a long day of hiking, they were eager to shower and relax."
+            },
+            {
+              "cf": "",
+              "x": "He prefers to shower in the evening to unwind before bed."
+            },
+            {
+              "cf": "",
+              "x": "Please remember to shower before entering the swimming pool."
+            },
+            {
+              "cf": "",
+              "x": "The athletes showered quickly after the game to freshen up."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "soak",
+      "id": "ddaccf98-a861-469e-b24c-ad324c5a34d3",
+      "word": "to soak",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc29haw&hash=2e6570f5946dde29c8fead6a9e0b786a2890858f&lang=en&cache-only=0",
       "phonetic_text": "soʊk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc29haw&hash=2e6570f5946dde29c8fead6a9e0b786a2890858f&lang=en&cache-only=0",
-      "phonetic_am_text": "sowk",
+      "phonetic_am_text": "soook",
       "img": "https://cdn.langeek.co/photo/47444/original/?type=jpeg",
-      "pronunciation": "ˈsoʊk",
+      "pronunciation": "soʊk",
       "senses": [
         {
           "definition": "to put something in a liquid for a period of time to allow it to absorb or become saturated",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She soaked her feet in warm water after a long day of walking."
+            },
+            {
+              "cf": "",
+              "x": "The chef soaked the beans overnight before cooking them."
+            },
+            {
+              "cf": "",
+              "x": "He soaked the stained shirt in soapy water to remove the dirt."
+            },
+            {
+              "cf": "",
+              "x": "She soaked the fabric in a dye solution to change its color."
+            },
+            {
+              "cf": "",
+              "x": "He soaked the wooden plank in water to prevent it from drying out."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0dd286a6-b5c3-4939-a4e8-6fc5e61e1280",
       "word": "toilette",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dG9pbGV0dGU&hash=1f5b0c0a2b2ab1d1360ef6dd4a47b2e7e9de9f00&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɔɪ.lɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG9pbGV0dGU&hash=1f5b0c0a2b2ab1d1360ef6dd4a47b2e7e9de9f00&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tawi.let",
       "img": "https://cdn.langeek.co/photo/26128/original/?type=jpeg",
       "pronunciation": "tɔɪlˈɛt",
       "senses": [
@@ -260,14 +404,15 @@
       ]
     },
     {
-      "word": "towel",
+      "id": "e5d7c0ef-37e9-4915-9794-adf9ebcc616d",
+      "word": "to towel",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdG93ZWw&hash=9948a7ac4425e037f3e254270df1c37115ea90dc&lang=en&cache-only=0",
       "phonetic_text": "taʊəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdG93ZWw&hash=9948a7ac4425e037f3e254270df1c37115ea90dc&lang=en&cache-only=0",
-      "phonetic_am_text": "tawēl",
+      "phonetic_am_text": "taooēl",
       "img": "https://cdn.langeek.co/photo/32800/original/?type=jpeg",
-      "pronunciation": "ˈtaʊəɫ/, /ˈtaʊɫ",
+      "pronunciation": "ˈtaʊəl/ , /ˈtaʊl",
       "senses": [
         {
           "definition": "to dry or clean something or someone using a towel by rubbing or patting",
@@ -276,44 +421,89 @@
       ]
     },
     {
-      "word": "wash",
+      "id": "a328c9f8-62b1-4852-a93b-372fa50833b9",
+      "word": "to wash",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2FzaA&hash=b6c0c541d6ad0e5002efdb1f2aea0c00f2d9a6e9&lang=en&cache-only=0",
       "phonetic_text": "wɑ:ʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2FzaA&hash=b6c0c541d6ad0e5002efdb1f2aea0c00f2d9a6e9&lang=en&cache-only=0",
-      "phonetic_am_text": "waash",
+      "phonetic_am_text": "vaash",
       "img": "https://cdn.langeek.co/photo/51376/original/?type=jpeg",
       "pronunciation": "wɑːʃ/ , /wɒʃ",
       "senses": [
         {
           "definition": "to cleanse oneself or part of one's body with water and often soap or other cleaning product",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She always washes her hands thoroughly before meals."
+            },
+            {
+              "cf": "",
+              "x": "He washed his face with cold water to wake up."
+            },
+            {
+              "cf": "",
+              "x": "After playing outside, the children needed to wash their feet before entering the house."
+            },
+            {
+              "cf": "",
+              "x": "She likes to wash her hair every other day to keep it healthy."
+            },
+            {
+              "cf": "",
+              "x": "Before performing surgery, doctors must wash their hands and arms extensively."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "wash up",
+      "id": "a2f33150-024f-4c35-ab40-afb105ff38c2",
+      "word": "to wash up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2FzaCB1cA&hash=f494541541efa6dc400c000864ec7aad74638814&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɑ:ʃ ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2FzaCB1cA&hash=f494541541efa6dc400c000864ec7aad74638814&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vaash ap",
       "img": "https://cdn.langeek.co/photo/51828/original/?type=jpeg",
       "pronunciation": "wˈɑːʃ ˈʌp",
       "senses": [
         {
           "definition": "to clean one's hands, face, or body, typically using water and soap",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "We should wash up before sitting down for dinner."
+            },
+            {
+              "cf": "",
+              "x": "The mechanic needed to wash up after fixing the car engine."
+            },
+            {
+              "cf": "",
+              "x": "She always washes up after playing with her pet."
+            },
+            {
+              "cf": "",
+              "x": "It's essential to wash up before handling food to maintain proper hygiene."
+            },
+            {
+              "cf": "",
+              "x": "They washed up quickly and headed out for the evening."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "soap",
+      "id": "04aac84f-2c8e-4dfe-bc94-7f29df4a53a5",
+      "word": "to soap",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc29hcA&hash=d93d0cb4e012742d4d5b53be9dc66c9b6d7f21b0&lang=en&cache-only=0",
       "phonetic_text": "soʊp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc29hcA&hash=d93d0cb4e012742d4d5b53be9dc66c9b6d7f21b0&lang=en&cache-only=0",
-      "phonetic_am_text": "sowp",
+      "phonetic_am_text": "sooop",
       "img": "https://cdn.langeek.co/photo/34981/original/?type=jpeg",
       "pronunciation": "soʊp",
       "senses": [
@@ -324,12 +514,13 @@
       ]
     },
     {
+      "id": "8c3f8794-90e1-4f90-94bc-a6cf19ea0a78",
       "word": "sponge bath",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BvbmdlIGJhdGg&hash=cdfdcbf7af5054df2da27fd54702fd19e4c5b4ec&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spənʤ bæθ",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BvbmdlIGJhdGg&hash=cdfdcbf7af5054df2da27fd54702fd19e4c5b4ec&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "spēnj bāth",
       "img": "",
       "pronunciation": "spˈʌndʒ bˈæθ",
       "senses": [
@@ -340,23 +531,46 @@
       ]
     },
     {
-      "word": "scrub",
+      "id": "e8f5dd8f-27d3-4077-a64a-4813bf880aa5",
+      "word": "to scrub",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NydWI&hash=085b53d4964908167489ab0f6277fa9a99b0b4a8&lang=en&cache-only=0",
-      "phonetic_text": "skrʌb",
+      "phonetic_text": "skrəb",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NydWI&hash=085b53d4964908167489ab0f6277fa9a99b0b4a8&lang=en&cache-only=0",
-      "phonetic_am_text": "skrab",
+      "phonetic_am_text": "skrēb",
       "img": "https://cdn.langeek.co/photo/20984/original/?type=jpeg",
       "pronunciation": "ˈskɹəb",
       "senses": [
         {
           "definition": "to clean a surface by rubbing it very hard using a brush, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She scrubs the bathtub to remove soap scum and stains."
+            },
+            {
+              "cf": "",
+              "x": "The maid scrubs the kitchen floor to ensure it's spotless."
+            },
+            {
+              "cf": "",
+              "x": "He scrubs the outdoor patio furniture to remove dirt and grime."
+            },
+            {
+              "cf": "",
+              "x": "Before painting, they scrub the walls to remove any dirt or grease."
+            },
+            {
+              "cf": "",
+              "x": "After a day of gardening, she scrubs her hands to remove soil and stains."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "rinse",
+      "id": "3ac5b47e-04f6-4107-83b3-5e5557c18ecf",
+      "word": "to rinse",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmluc2U&hash=b0f2339028f718cabe4f47ab7dd16d7abd413f7f&lang=en&cache-only=0",
       "phonetic_text": "rɪns",
@@ -367,33 +581,65 @@
       "senses": [
         {
           "definition": "to wash or clean something with water or another liquid to remove dirt, soap, or other substances",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "After washing the dishes, make sure to rinse them with warm water."
+            },
+            {
+              "cf": "",
+              "x": "I rinsed the fruit to remove any pesticides before eating."
+            },
+            {
+              "cf": "",
+              "x": "He rinsed the towel under the tap to remove the detergent."
+            },
+            {
+              "cf": "",
+              "x": "After scrubbing the floor, he rinsed it with clean water."
+            },
+            {
+              "cf": "",
+              "x": "After washing the car, they rinsed it with a hose to remove soap residue."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "shampoo",
+      "id": "fa5e4dc0-58d6-472c-a37d-1c87743fed19",
+      "word": "to shampoo",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2hhbXBvbw&hash=f349537de63c9b248c8b2eddf80014b92dfeddd8&lang=en&cache-only=0",
-      "phonetic_text": "ʃæmpu:",
+      "phonetic_text": "ʃæm.pu",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2hhbXBvbw&hash=f349537de63c9b248c8b2eddf80014b92dfeddd8&lang=en&cache-only=0",
-      "phonetic_am_text": "shāmpoo",
+      "phonetic_am_text": "shām.poo",
       "img": "https://cdn.langeek.co/photo/51767/original/?type=jpeg",
       "pronunciation": "ʃæmˈpu",
       "senses": [
         {
           "definition": "to wash something, like hair or carpets, using a special cleaning solution",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He shampoos his dog's fur to keep it clean and smelling good."
+            },
+            {
+              "cf": "",
+              "x": "He shampoos the carpets in the living room to remove stains and odors."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "8657eca0-f3df-4704-b9cc-93885dec32d0",
       "word": "body scrub",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9keSBzY3J1Yg&hash=3362bbfe19b8146dd446698a5aec0a8b965b8acc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɑ:.di skrəb",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9keSBzY3J1Yg&hash=3362bbfe19b8146dd446698a5aec0a8b965b8acc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baa.di skrēb",
       "img": "https://cdn.langeek.co/photo/34969/original/?type=jpeg",
       "pronunciation": "bɑːdi skɹʌb",
       "senses": [
@@ -404,12 +650,13 @@
       ]
     },
     {
+      "id": "7dcb18c8-f7fa-49b7-b0f7-20fc21f42246",
       "word": "foam bath",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9hbSBiYXRo&hash=2850d44326e0ac7644523d03cbd035519ffea86d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "foʊm bæθ",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9hbSBiYXRo&hash=2850d44326e0ac7644523d03cbd035519ffea86d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fooom bāth",
       "img": "https://cdn.langeek.co/photo/51374/original/?type=jpeg",
       "pronunciation": "foʊm bæθ",
       "senses": [
@@ -420,12 +667,13 @@
       ]
     },
     {
+      "id": "c92c999d-79d5-4443-9a4d-e8e844b8ddb8",
       "word": "body polish",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9keSBwb2xpc2g&hash=f7fc23df0ceb8478525503d515d053af8d513568&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɑ:.di poʊ.lɪʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9keSBwb2xpc2g&hash=f7fc23df0ceb8478525503d515d053af8d513568&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baa.di pooo.lish",
       "img": "",
       "pronunciation": "bɑːdi pɑːlɪʃ",
       "senses": [
@@ -436,12 +684,13 @@
       ]
     },
     {
+      "id": "274759b5-840e-42d4-a961-c8c6a457e721",
       "word": "power shower",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG93ZXIgc2hvd2Vy&hash=b287522aaa60ed53c4d885811eb850a4edc5a73a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "paʊər ʃaʊər",
       "phonetic_am": "https://tts.langeek.co/read?text=cG93ZXIgc2hvd2Vy&hash=b287522aaa60ed53c4d885811eb850a4edc5a73a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "paooēr shaooēr",
       "img": "",
       "pronunciation": "paʊɚ ʃaʊɚ",
       "senses": [
@@ -452,10 +701,11 @@
       ]
     },
     {
+      "id": "15d35e89-e531-4594-be85-2baeed8c0eb4",
       "word": "spa",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3Bh&hash=0d1a79fcb163c4ede034597f2025403fc1141f28&lang=en&cache-only=0",
-      "phonetic_text": "spɑ:",
+      "phonetic_text": "spɑ",
       "phonetic_am": "https://tts.langeek.co/read?text=c3Bh&hash=0d1a79fcb163c4ede034597f2025403fc1141f28&lang=en&cache-only=0",
       "phonetic_am_text": "spaa",
       "img": "https://cdn.langeek.co/photo/37381/original/?type=jpeg",
@@ -463,17 +713,39 @@
       "senses": [
         {
           "definition": "a commercial establishment that offers a range of services related to health, beauty, and relaxation, such as massages, facials, saunas, and hot tubs",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She booked a relaxing weekend at the spa to unwind."
+            },
+            {
+              "cf": "",
+              "x": "They spent the afternoon at the spa, enjoying the sauna and steam rooms."
+            },
+            {
+              "cf": "",
+              "x": "After a long week of work, he treated himself to a day at the spa."
+            },
+            {
+              "cf": "",
+              "x": "The luxury spa provides a tranquil atmosphere with soothing music and soft lighting."
+            },
+            {
+              "cf": "",
+              "x": "The spa offers a variety of treatments, including aromatherapy and hot stone massages."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7f612cd6-8303-4609-a1eb-5d4d4f45c1ba",
       "word": "mud bath",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXVkIGJhdGg&hash=8a2d937a6e40e69778a3bf0d8b9669b0f3de6a99&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "məd bæθ",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVkIGJhdGg&hash=8a2d937a6e40e69778a3bf0d8b9669b0f3de6a99&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mēd bāth",
       "img": "",
       "pronunciation": "mˈʌd bˈæθ",
       "senses": [
@@ -484,10 +756,11 @@
       ]
     },
     {
+      "id": "1809cd0f-bc14-4400-a5cd-c7d3c1b01d41",
       "word": "turkish bath",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHVya2lzaCBiYXRo&hash=d6d5457cc50288bbf7416f182d59a17aa760a822&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dHVya2lzaCBiYXRo&hash=d6d5457cc50288bbf7416f182d59a17aa760a822&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -500,12 +773,13 @@
       ]
     },
     {
+      "id": "0b7919ab-287a-4fd4-93d1-bdd341de0f13",
       "word": "whirlpool",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2hpcmxwb29s&hash=5723d7f1bfb9c5883a41afbae79813395a9c09e0&lang=en&cache-only=0",
-      "phonetic_text": "wɜrlpul",
+      "phonetic_text": "wɜrl.pu:l",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hpcmxwb29s&hash=5723d7f1bfb9c5883a41afbae79813395a9c09e0&lang=en&cache-only=0",
-      "phonetic_am_text": "wērlpul",
+      "phonetic_am_text": "vērl.pool",
       "img": "",
       "pronunciation": "ˈhwɝɫˌpuɫ/, /ˈwɝɫˌpuɫ",
       "senses": [
@@ -516,12 +790,13 @@
       ]
     },
     {
-      "word": "lather",
+      "id": "c82fb230-7940-49a0-a02f-244a18027467",
+      "word": "to lather",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGF0aGVy&hash=2081eeff92c95d244c1f5729336d07876051855e&lang=en&cache-only=0",
-      "phonetic_text": "læðər",
+      "phonetic_text": "læ.ðɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGF0aGVy&hash=2081eeff92c95d244c1f5729336d07876051855e&lang=en&cache-only=0",
-      "phonetic_am_text": "lādhēr",
+      "phonetic_am_text": "lā.dhēr",
       "img": "https://cdn.langeek.co/photo/34981/original/?type=jpeg",
       "pronunciation": "ˈɫæðɝ",
       "senses": [

@@ -1,50 +1,32 @@
 {
+  "id": "1e2220c7-9168-4c34-9bdf-75f1de2e766c",
   "topic": "hobbies_games",
   "title": "Types of Video Games",
   "lesson": "lesson_13",
   "word_list": [
     {
+      "id": "27ce245b-a659-48b5-b124-02cad2f8716b",
       "word": "hero shooter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGVybyBzaG9vdGVy&hash=f5c4318f62f34dce65abb37685436b61cd1e4411&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɪ.roʊ ʃu.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=aGVybyBzaG9vdGVy&hash=f5c4318f62f34dce65abb37685436b61cd1e4411&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hi.rooo shoo.tēr",
       "img": "",
       "pronunciation": "hˈiəɹoʊ ʃˈuːɾɚ",
       "senses": [
         {
           "definition": "a type of multiplayer video game where players control distinct characters, each with unique abilities or skills, and compete in team-based battles",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I spent the afternoon playing a hero shooter with my friends."
-            },
-            {
-              "cf": "",
-              "x": "In a hero shooter, each player can choose a different character with special abilities."
-            },
-            {
-              "cf": "",
-              "x": "If you enjoy fast-paced action games, you might like playing a hero shooter."
-            },
-            {
-              "cf": "",
-              "x": "The new hero shooter update added several new characters to choose from."
-            },
-            {
-              "cf": "",
-              "x": "Hero shooters require a lot of teamwork, as each character plays a unique role in the game."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "cfc8b6ed-c895-4cae-828b-b37fea9212c7",
       "word": "beat 'em up",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVhdCAnZW0gdXA&hash=3f67292aa9d85e4a6e14392d7e49c5b79121c9b7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVhdCAnZW0gdXA&hash=3f67292aa9d85e4a6e14392d7e49c5b79121c9b7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -52,38 +34,18 @@
       "senses": [
         {
           "definition": "a genre of video games where players control a character who fights numerous enemies in hand-to-hand combat",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I spent the whole afternoon playing a beat 'em up game with my friends."
-            },
-            {
-              "cf": "",
-              "x": "He loves old-school arcade games, especially the classic beat 'em ups from the 90s."
-            },
-            {
-              "cf": "",
-              "x": "She picked up a new beat 'em up and couldn't put it down until she beat all the levels."
-            },
-            {
-              "cf": "",
-              "x": "They had a blast playing the beat 'em up on the console during the weekend gathering."
-            },
-            {
-              "cf": "",
-              "x": "After a long day, I like to unwind by playing a few rounds of a beat 'em up game."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "434c8c4a-efaf-40ba-a814-b6113cd5097c",
       "word": "adventure game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWR2ZW50dXJlIGdhbWU&hash=7626bbc36e4101e3fb165ca831d236bf85b66768&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "əd.vɛn.ʧər geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=YWR2ZW50dXJlIGdhbWU&hash=7626bbc36e4101e3fb165ca831d236bf85b66768&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ēd.ven.chēr geim",
       "img": "",
       "pronunciation": "ɐdvˈɛntʃɚ ɡˈeɪm",
       "senses": [
@@ -115,12 +77,13 @@
       ]
     },
     {
+      "id": "29a2ddb8-dd67-4007-9a32-24faccd09365",
       "word": "first-person shooter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zmlyc3QtcGVyc29uIHNob290ZXI&hash=adaef68edb913943ccb044b3325d579005a13eb0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɜrst-pɜr.sən ʃu.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmlyc3QtcGVyc29uIHNob290ZXI&hash=adaef68edb913943ccb044b3325d579005a13eb0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fērst-pēr.sēn shoo.tēr",
       "img": "",
       "pronunciation": "fˈɜːstpˈɜːsən ʃˈuːɾɚ",
       "senses": [
@@ -152,12 +115,13 @@
       ]
     },
     {
+      "id": "5fa204ae-6fc9-4131-8332-9b55a23af3ec",
       "word": "simulation video game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2ltdWxhdGlvbiB2aWRlbyBnYW1l&hash=fe198010837e956f15194b966a2df7a8e4d3c90c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɪm.jə.leɪ.ʃən vɪ.dioʊ geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=c2ltdWxhdGlvbiB2aWRlbyBnYW1l&hash=fe198010837e956f15194b966a2df7a8e4d3c90c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sim.yē.lei.shēn vi.diooo geim",
       "img": "",
       "pronunciation": "ˈsɪm",
       "senses": [
@@ -189,12 +153,13 @@
       ]
     },
     {
-      "word": "multi user dungeon",
+      "id": "b51726f8-0322-4612-835f-899df4912237",
+      "word": "multi-user dungeon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXVsdGktdXNlciBkdW5nZW9u&hash=8dd35dd8e53c96c1473f649a7f32a466415ab4de&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mʌl.ti-ju.zɜr dən.ʤən",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVsdGktdXNlciBkdW5nZW9u&hash=8dd35dd8e53c96c1473f649a7f32a466415ab4de&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mal.ti-yoo.zēr dēn.jēn",
       "img": "",
       "pronunciation": "mˈʌltaɪjˈuːzɚ dˈʌndʒən",
       "senses": [
@@ -210,12 +175,13 @@
       ]
     },
     {
+      "id": "849ad77f-a634-48fc-ba1d-79f55cceeb70",
       "word": "platform game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGxhdGZvcm0gZ2FtZQ&hash=7243340c3b57cf0b5a6bbc7d0a607eaff4baf9dd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "plæt.fɔrm geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=cGxhdGZvcm0gZ2FtZQ&hash=7243340c3b57cf0b5a6bbc7d0a607eaff4baf9dd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "plāt.fawrm geim",
       "img": "",
       "pronunciation": "plˈætfɔːɹm ɡˈeɪm",
       "senses": [
@@ -247,14 +213,15 @@
       ]
     },
     {
+      "id": "d61cda00-28a6-4bd9-ab82-ff71be36dcac",
       "word": "exergame",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXhlcmdhbWU&hash=af71b77a21ab8003a8cdcfc0d52e99557a543cbb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛk.sɜr.geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXhlcmdhbWU&hash=af71b77a21ab8003a8cdcfc0d52e99557a543cbb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ek.sēr.geim",
       "img": "",
-      "pronunciation": "ɛɡzˈɜːɡeɪm",
+      "pronunciation": "ˈɛksɝˌɡeɪm",
       "senses": [
         {
           "definition": "a video game or interactive system that combines physical exercise and gameplay, typically using motion tracking sensors or other input devices to track the player's movements and translate them into in-game actions",
@@ -280,12 +247,13 @@
       ]
     },
     {
+      "id": "0a067e37-66c6-4379-baf7-80a0b3bf7fa8",
       "word": "massively multiplayer online role-playing game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFzc2l2ZWx5IG11bHRpcGxheWVyIG9ubGluZSByb2xlLXBsYXlpbmcgZ2FtZQ&hash=d69c02c848d9b5f037edd19b08d6a5b5c5c2b480&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mæ.sɪv.li məl.tip.leɪɜr ɑ:n.laɪn roʊl-pleɪɪng geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFzc2l2ZWx5IG11bHRpcGxheWVyIG9ubGluZSByb2xlLXBsYXlpbmcgZ2FtZQ&hash=d69c02c848d9b5f037edd19b08d6a5b5c5c2b480&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mā.siv.li mēl.tip.leiēr aan.lain roool-pleiing geim",
       "img": "",
       "pronunciation": "ˌɛmˌɛmˈoʊˌɑːɹpˌiːdʒˈiː",
       "senses": [
@@ -301,12 +269,13 @@
       ]
     },
     {
+      "id": "f7af6f3b-4885-440b-9031-7f5fae71efe5",
       "word": "season pass",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Vhc29uIHBhc3M&hash=df4b5569c472de779e500dd44c15f63fef10bbda&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "si:.sʌn pæs",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Vhc29uIHBhc3M&hash=df4b5569c472de779e500dd44c15f63fef10bbda&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "si.san pās",
       "img": "",
       "pronunciation": "sˈiːzən pˈæs",
       "senses": [
@@ -334,33 +303,30 @@
       ]
     },
     {
+      "id": "91b6057f-6897-4920-b535-c0e4e1e37eb7",
       "word": "multiplayer online battle arena",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXVsdGlwbGF5ZXIgb25saW5lIGJhdHRsZSBhcmVuYQ&hash=af58f1e38ba3e1af1801fb0a04d601c14650deab&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "məl.tip.leɪɜr ɑ:n.laɪn bæ.təl ɜ.ri.nə",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVsdGlwbGF5ZXIgb25saW5lIGJhdHRsZSBhcmVuYQ&hash=af58f1e38ba3e1af1801fb0a04d601c14650deab&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mēl.tip.leiēr aan.lain bā.tēl ē.ri.nē",
       "img": "",
       "pronunciation": "mˈoʊbə",
       "senses": [
         {
           "definition": "a type of online video game that typically involves two teams of players battling against each other in a large symmetrical map",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I spent the afternoon playing a multiplayer online battle arena with some friends, and we managed to win the match after a tough fight."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "aa0d8b7f-9486-490e-8fcf-42480b20c70d",
       "word": "online game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b25saW5lIGdhbWU&hash=df3bb65a3130c671db57ccb966fc6185b4334184&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n.laɪn geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=b25saW5lIGdhbWU&hash=df3bb65a3130c671db57ccb966fc6185b4334184&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan.lain geim",
       "img": "",
       "pronunciation": "ˈɑːnlaɪn ɡˈeɪm",
       "senses": [
@@ -392,12 +358,13 @@
       ]
     },
     {
+      "id": "d4924ae1-d2cf-457d-a6a6-9c0ab81ab6c4",
       "word": "single-player video game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2luZ2xlLXBsYXllciB2aWRlbyBnYW1l&hash=65765f4b4b46683399d3e1d25cec689d2acd792b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɪn.gəl-pleɪər vɪ.dioʊ geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=c2luZ2xlLXBsYXllciB2aWRlbyBnYW1l&hash=65765f4b4b46683399d3e1d25cec689d2acd792b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sin.gēl-pleiēr vi.diooo geim",
       "img": "",
       "pronunciation": "sˈɪŋɡəlplˈeɪɚ vˈɪdɪoʊ ɡˈeɪm",
       "senses": [
@@ -429,12 +396,13 @@
       ]
     },
     {
+      "id": "68735b03-77fa-46dc-8f6d-342c50699397",
       "word": "racing game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFjaW5nIGdhbWU&hash=09df2e8327e79d10a5d5387b99f80c5383824e69&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "reɪ.sɪng geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=cmFjaW5nIGdhbWU&hash=09df2e8327e79d10a5d5387b99f80c5383824e69&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rei.sing geim",
       "img": "",
       "pronunciation": "ɹˈeɪsɪŋ ɡˈeɪm",
       "senses": [
@@ -466,74 +434,47 @@
       ]
     },
     {
+      "id": "5d9c5fdd-1c42-4b6c-b1a5-f816f737c06f",
       "word": "sandbox game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FuZGJveCBnYW1l&hash=f64628153dfa5185da7f2d5d081ee0362d036d5f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sænd.bɑ:ks geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FuZGJveCBnYW1l&hash=f64628153dfa5185da7f2d5d081ee0362d036d5f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sānd.baaks geim",
       "img": "",
       "pronunciation": "sˈændbɑːks ɡˈeɪm",
       "senses": [
         {
           "definition": "a type of video game that allows players significant freedom and open-world exploration, often featuring nonlinear gameplay and interactive environments where players can shape the game world and create their own experiences",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She spent hours in the sandbox game, creating a detailed city from scratch."
-            },
-            {
-              "cf": "",
-              "x": "He enjoys playing sandbox games because they allow him to be creative and imaginative."
-            },
-            {
-              "cf": "",
-              "x": "Sandbox games are great for players who like to make their own stories and adventures."
-            },
-            {
-              "cf": "",
-              "x": "The sandbox game offered endless possibilities, from farming and fishing to fighting monsters."
-            },
-            {
-              "cf": "",
-              "x": "One of the best things about a sandbox game is the freedom to do whatever you want."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "fec17c23-1183-4284-99ed-209aeb9807ef",
       "word": "real-time strategy game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVhbC10aW1lIHN0cmF0ZWd5IGdhbWU&hash=793464a7758e1eb1b0b4f007a792b5a4fa5154b0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "riəl-taɪm stræ.tə.ʤi geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVhbC10aW1lIHN0cmF0ZWd5IGdhbWU&hash=793464a7758e1eb1b0b4f007a792b5a4fa5154b0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "riēl-taim strā.tē.ji geim",
       "img": "",
       "pronunciation": "ɹˈiːəltˈaɪm stɹˈæɾədʒi ɡˈeɪm",
       "senses": [
         {
           "definition": "a type of video game where players control and manage resources, units, and structures in real-time to achieve objectives and defeat opponents",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After school, I enjoy playing a real-time strategy game to relax and challenge my mind."
-            },
-            {
-              "cf": "",
-              "x": "We spent the weekend competing in a real-time strategy game tournament with friends."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "b8181d16-acd5-4b87-bc56-dd5d4b8e18a5",
       "word": "multiplayer video game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXVsdGlwbGF5ZXIgdmlkZW8gZ2FtZQ&hash=fd374fdb569f4c16f46222450a5b0028597524b4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "məl.tip.leɪɜr vɪ.dioʊ geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVsdGlwbGF5ZXIgdmlkZW8gZ2FtZQ&hash=fd374fdb569f4c16f46222450a5b0028597524b4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mēl.tip.leiēr vi.diooo geim",
       "img": "",
       "pronunciation": "mˈʌltɪplˌeɪɚ vˈɪdɪoʊ ɡˈeɪm",
       "senses": [
@@ -565,12 +506,13 @@
       ]
     },
     {
+      "id": "58c81107-a173-4416-9d67-ab252416c4a5",
       "word": "action game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWN0aW9uIGdhbWU&hash=3b12497a9eaaffdf978517f283a4b390fb055364&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æk.ʃən geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=YWN0aW9uIGdhbWU&hash=3b12497a9eaaffdf978517f283a4b390fb055364&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "āk.shēn geim",
       "img": "",
       "pronunciation": "ˈækʃən ɡˈeɪm",
       "senses": [
@@ -602,49 +544,30 @@
       ]
     },
     {
+      "id": "148ad459-ad4b-4aa0-85cd-b8370391cb1f",
       "word": "fighting game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmlnaHRpbmcgZ2FtZQ&hash=3ec37c817be766cde717f5656a2a0befbe5af1e2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "faɪ.tɪng geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmlnaHRpbmcgZ2FtZQ&hash=3ec37c817be766cde717f5656a2a0befbe5af1e2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fai.ting geim",
       "img": "",
       "pronunciation": "fˈaɪɾɪŋ ɡˈeɪm",
       "senses": [
         {
           "definition": "a game that heavily focuses on close combat between in-game characters, wherein each player chooses a character or a team of characters from the game's roster to compete against other players",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I always pick the strongest character from the list when I play fighting games."
-            },
-            {
-              "cf": "",
-              "x": "In a fighting game, timing your attacks correctly is key to winning."
-            },
-            {
-              "cf": "",
-              "x": "She spent hours practicing in the fighting game to learn new moves."
-            },
-            {
-              "cf": "",
-              "x": "My brother prefers playing fighting games over other types of video games."
-            },
-            {
-              "cf": "",
-              "x": "They played a fighting game for hours, trying to beat each other’s scores."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "ef499b2e-06fd-43a8-a1a5-4c98a6f83128",
       "word": "shooter video game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2hvb3RlciB2aWRlbyBnYW1l&hash=895186eea4d8fceb80fafd5c3a103a186f0a6bc8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʃu.tɜr vɪ.dioʊ geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hvb3RlciB2aWRlbyBnYW1l&hash=895186eea4d8fceb80fafd5c3a103a186f0a6bc8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "shoo.tēr vi.diooo geim",
       "img": "",
       "pronunciation": "ʃˈuːɾɚ vˈɪdɪoʊ ɡˈeɪm",
       "senses": [
@@ -664,12 +587,13 @@
       ]
     },
     {
+      "id": "a9c99f7b-a7bb-456b-b3db-afd5b41f8c3d",
       "word": "puzzle video game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHV6emxlIHZpZGVvIGdhbWU&hash=22c78686b829c496ec704ebdb377b7bbc34f041c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pə.zəl vɪ.dioʊ geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=cHV6emxlIHZpZGVvIGdhbWU&hash=22c78686b829c496ec704ebdb377b7bbc34f041c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pē.zēl vi.diooo geim",
       "img": "",
       "pronunciation": "pˈʌzəl vˈɪdɪoʊ ɡˈeɪm",
       "senses": [
@@ -701,49 +625,30 @@
       ]
     },
     {
+      "id": "9f1dd4da-5fb0-4a00-8d43-6cfa6f3aafb0",
       "word": "sport video game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BvcnQgdmlkZW8gZ2FtZQ&hash=4e5e988c8fc62df1881a96c86c33596885082313&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spɔ:rt vɪ.dioʊ geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BvcnQgdmlkZW8gZ2FtZQ&hash=4e5e988c8fc62df1881a96c86c33596885082313&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "spawrt vi.diooo geim",
       "img": "",
       "pronunciation": "spˈoːɹt vˈɪdɪoʊ ɡˈeɪm",
       "senses": [
         {
           "definition": "a genre that simulates real-world sports and allows players to compete in virtual versions of various sports activities",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I love playing sport video games with my friends on weekends."
-            },
-            {
-              "cf": "",
-              "x": "My little brother spends hours playing his favorite sport video game."
-            },
-            {
-              "cf": "",
-              "x": "We played a sport video game last night, and I scored the winning goal."
-            },
-            {
-              "cf": "",
-              "x": "I bought a new sport video game that lets you play soccer online with others."
-            },
-            {
-              "cf": "",
-              "x": "She is really good at sport video games, especially basketball."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "7a0d3936-56be-4e24-a39f-23dbe56bbbba",
       "word": "strategy video game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RyYXRlZ3kgdmlkZW8gZ2FtZQ&hash=f2a28746c253c540f3c77685b8b9288522da92cd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stræ.tə.ʤi vɪ.dioʊ geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyYXRlZ3kgdmlkZW8gZ2FtZQ&hash=f2a28746c253c540f3c77685b8b9288522da92cd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "strā.tē.ji vi.diooo geim",
       "img": "",
       "pronunciation": "stɹˈæɾədʒi vˈɪdɪoʊ ɡˈeɪm",
       "senses": [
@@ -771,35 +676,19 @@
       ]
     },
     {
+      "id": "16ec03a3-4ea5-4ae4-a0b7-185c368a8abf",
       "word": "third-person shooter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhpcmQtcGVyc29uIHNob290ZXI&hash=780eda78e2bc3945af2fae05ee86f60295ad804d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "θɜrd-pɜr.sən ʃu.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhpcmQtcGVyc29uIHNob290ZXI&hash=780eda78e2bc3945af2fae05ee86f60295ad804d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "thērd-pēr.sēn shoo.tēr",
       "img": "",
       "pronunciation": "θˈɜːdpˈɜːsən ʃˈuːɾɚ",
       "senses": [
         {
           "definition": "a video game genre where the player's character is visible on the screen, and the gameplay primarily involves shooting at enemies from a third-person perspective",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She spent hours playing her favorite third-person shooter, trying to beat her high score."
-            },
-            {
-              "cf": "",
-              "x": "They are releasing a new third-person shooter next month, and fans are excited to try it out."
-            },
-            {
-              "cf": "",
-              "x": "I enjoy playing third-person shooters because I like having a clear view of my character and the action around me."
-            },
-            {
-              "cf": "",
-              "x": "My friend and I played a third-person shooter together, teaming up to defeat enemies in a virtual world."
-            }
-          ]
+          "examples": []
         }
       ]
     }

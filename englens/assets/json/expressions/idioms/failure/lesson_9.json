@@ -1,15 +1,17 @@
 {
+  "id": "cc16be50-8fee-4d0b-959d-979dc5d8cfb2",
   "topic": "failure",
   "title": "Lose or Win",
   "lesson": "lesson_9",
   "word_list": [
     {
+      "id": "7a2cee89-38f9-489b-93c9-17b7e3a0e1f2",
       "word": "close call",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xvc2UgY2FsbA&hash=3c27a6b977b9ef3aeeb7838a2c9574a2f7dfdf8b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kloʊs kɔ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xvc2UgY2FsbA&hash=3c27a6b977b9ef3aeeb7838a2c9574a2f7dfdf8b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "klooos kawl",
       "img": "https://cdn.langeek.co/photo/40489/original/?type=jpeg",
       "pronunciation": "klˈoʊs kˈɔːl",
       "senses": [
@@ -37,10 +39,11 @@
       ]
     },
     {
-      "word": "[go|stand|be] toe to toe",
+      "id": "56f60644-5978-4197-b41a-9a944bcafe1d",
+      "word": "to [go|stand|be] toe-to-toe",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ28gdG9lLXRvLXRvZQ&hash=241a2957adedca6378ec13c64192579b21ee9416&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ28gdG9lLXRvLXRvZQ&hash=241a2957adedca6378ec13c64192579b21ee9416&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42954/original/?type=jpeg",
@@ -66,10 +69,11 @@
       ]
     },
     {
-      "word": "[look] to {one's} laurels",
+      "id": "3369c25a-7932-4b6b-b3cb-fd79777dd513",
+      "word": "to [look] to {one's} laurels",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbG9vayB0byBvbmUncyBsYXVyZWxz&hash=8f90504ef3b020f91af4730948c8c5857c39d4b5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbG9vayB0byBvbmUncyBsYXVyZWxz&hash=8f90504ef3b020f91af4730948c8c5857c39d4b5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/39233/original/?type=jpeg",
@@ -99,10 +103,11 @@
       ]
     },
     {
-      "word": "[meet|find] {one's} match",
+      "id": "a520502d-ac60-4a4d-8571-b6915951ccac",
+      "word": "to [meet|find] {one's} match",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWVldCBvbmUncyBtYXRjaA&hash=fb6478fd915467c4be1d9259b3ef7944d3f8746d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWVldCBvbmUncyBtYXRjaA&hash=fb6478fd915467c4be1d9259b3ef7944d3f8746d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/18231/original/opponent?type=jpeg",
@@ -110,36 +115,16 @@
       "senses": [
         {
           "definition": "to be challenged by someone as equally good or slightly better than one",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After years of being the top performer, he finally found his match in the new recruit."
-            },
-            {
-              "cf": "",
-              "x": "I heard that the chess champion is coming to town, I wonder if anyone will find their match."
-            },
-            {
-              "cf": "",
-              "x": "I've played against many opponents, but I've yet to meet my match."
-            },
-            {
-              "cf": "",
-              "x": "The debate team is competing against the best in the state, and they're nervous that they might finally meet their match."
-            },
-            {
-              "cf": "",
-              "x": "The two boxers are in the ring, and it looks like one of them might finally meet their match."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[take] up the gauntlet",
+      "id": "e61ea778-5897-454b-8c37-7874e41e594b",
+      "word": "to [take] up the gauntlet",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSB1cCB0aGUgZ2F1bnRsZXQ&hash=caf7977a5a07f97000acbdf3a05cedf0ffd1c5d9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSB1cCB0aGUgZ2F1bnRsZXQ&hash=caf7977a5a07f97000acbdf3a05cedf0ffd1c5d9&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/49431/original/?type=jpeg",
@@ -147,28 +132,16 @@
       "senses": [
         {
           "definition": "to agree to undertake  a challenge",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He has been waiting for a worthy opponent to take up the gauntlet for months."
-            },
-            {
-              "cf": "",
-              "x": "If you think you can beat me in a race, I'll take up the gauntlet."
-            },
-            {
-              "cf": "",
-              "x": "When the challenge was issued, she immediately took up the gauntlet and proved her skills."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[throw] down the gauntlet",
+      "id": "60ce9d01-f842-478b-995d-ed7a23b96b2d",
+      "word": "to [throw] down the gauntlet",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGhyb3cgZG93biB0aGUgZ2F1bnRsZXQ&hash=ad033fabd66964ac5266934dc4b47d87e1671ea4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGhyb3cgZG93biB0aGUgZ2F1bnRsZXQ&hash=ad033fabd66964ac5266934dc4b47d87e1671ea4&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41354/original/?type=jpeg",
@@ -176,59 +149,35 @@
       "senses": [
         {
           "definition": "to challenge someone to a fight or competition",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He has been waiting for a chance to throw down the gauntlet and prove his superiority."
-            },
-            {
-              "cf": "",
-              "x": "If you're not afraid to lose, why don't you throw down the gauntlet and challenge me?"
-            },
-            {
-              "cf": "",
-              "x": "The two teams have been exchanging words, and it looks like one of them is about to throw down the gauntlet."
-            },
-            {
-              "cf": "",
-              "x": "When she heard the insults, she threw down the gauntlet and challenged the other person to a fight."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "8d1fb9fd-2d54-44b0-8c70-6b800339f45d",
       "word": "bring it on",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YnJpbmcgaXQgb24&hash=c45902a114fe23a3a15cb67e66a5e33be39f893c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "brɪng ʌɪti: ɑ:n",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJpbmcgaXQgb24&hash=c45902a114fe23a3a15cb67e66a5e33be39f893c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bring aiti aan",
       "img": "https://cdn.langeek.co/photo/41344/original/?type=jpeg",
       "pronunciation": "bɹˈɪŋ ɪt ˈɑːn",
       "senses": [
         {
           "definition": "used to demonstrate confidence in one's skills and abilities when challenging someone",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I'm not afraid to face your team, bring it on!"
-            },
-            {
-              "cf": "",
-              "x": "If you think you can beat me, let's have a match - bring it on!"
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "cfe59a7f-5b9e-4092-9b51-d3d5ab769ed0",
       "word": "playing field",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGxheWluZyBmaWVsZA&hash=a2e85bcf88217e98506bdeb8e134bf327a918da9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pleɪɪng fild",
       "phonetic_am": "https://tts.langeek.co/read?text=cGxheWluZyBmaWVsZA&hash=a2e85bcf88217e98506bdeb8e134bf327a918da9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pleiing fild",
       "img": "https://cdn.langeek.co/photo/41375/original/?type=jpeg",
       "pronunciation": "plˈeɪɪŋ fˈiːld",
       "senses": [
@@ -252,12 +201,13 @@
       ]
     },
     {
+      "id": "a2713b8a-e333-4ace-bca0-b223def31021",
       "word": "zero-sum game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=emVyby1zdW0gZ2FtZQ&hash=4489211eadbbfadd9dbdcc082fc7f528eedb7396&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "zi:.roʊ-sʌm geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=emVyby1zdW0gZ2FtZQ&hash=4489211eadbbfadd9dbdcc082fc7f528eedb7396&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "zi.rooo-sam geim",
       "img": "https://cdn.langeek.co/photo/41377/original/?type=jpeg",
       "pronunciation": "zˈiəɹoʊsˈʌm ɡˈeɪm",
       "senses": [
@@ -285,12 +235,13 @@
       ]
     },
     {
+      "id": "48396f11-a108-4191-bbc7-835ebac809e8",
       "word": "dog eat dog",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZG9nIGVhdCBkb2c&hash=6c9abbaf2391be35a7498c5203e7f60c8924eadd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɔ:g i:t dɔ:g",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG9nIGVhdCBkb2c&hash=6c9abbaf2391be35a7498c5203e7f60c8924eadd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dawg it dawg",
       "img": "https://cdn.langeek.co/photo/41369/original/?type=jpeg",
       "pronunciation": "dˈɑːɡ ˈiːt dˈɑːɡ",
       "senses": [

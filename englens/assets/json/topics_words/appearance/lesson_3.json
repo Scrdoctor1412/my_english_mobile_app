@@ -1,9 +1,11 @@
 {
+  "id": "ba7c9bf4-5702-4459-8b53-eba1f64cae69",
   "topic": "appearance",
   "title": "Unattractiveness",
   "lesson": "lesson_3",
   "word_list": [
     {
+      "id": "9e08a6ff-ad88-4b68-b2bf-3f82aa4cd713",
       "word": "hag",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFn&hash=3b64ef9446fe5bba18a3a48e9033b09a05625ada&lang=en&cache-only=0",
@@ -20,12 +22,13 @@
       ]
     },
     {
+      "id": "37d03b17-c198-4f48-beb7-7db04fd39ca6",
       "word": "dog",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZG9n&hash=9c76ede62c83ccf5a858995731637f8190ae4301&lang=en&cache-only=0",
       "phonetic_text": "dɔ:g",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG9n&hash=9c76ede62c83ccf5a858995731637f8190ae4301&lang=en&cache-only=0",
-      "phonetic_am_text": "daawg",
+      "phonetic_am_text": "dawg",
       "img": "",
       "pronunciation": "dɔːɡ",
       "senses": [
@@ -36,44 +39,77 @@
       ]
     },
     {
+      "id": "92e5e421-1ecd-44a7-8dff-85cfe7728579",
       "word": "ugly duckling",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dWdseSBkdWNrbGluZw&hash=e482ff8f9da4d52a1d19a4af8d0b48138d548355&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʌg.li dək.lɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=dWdseSBkdWNrbGluZw&hash=e482ff8f9da4d52a1d19a4af8d0b48138d548355&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ag.li dēk.ling",
       "img": "https://cdn.langeek.co/photo/40533/original/?type=jpeg",
       "pronunciation": "ˈʌɡli dˈʌklɪŋ",
       "senses": [
         {
           "definition": "an unattractive or unsuccessful person or thing that later turns attractive or successful",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "As a child, Jane was awkward and shy, but in her teenage years she blossomed into a beautiful young woman - a true \"ugly duckling\" story."
+            },
+            {
+              "cf": "",
+              "x": "The small, struggling startup was once dismissed as an \"ugly duckling\", but after securing major funding and hiring top talent it's now seen as a rising star in the industry."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "995cd26c-0760-4073-acd7-4eb29565fff4",
       "word": "grotesque",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Z3JvdGVzcXVl&hash=45592915e6ebd52bdebee383eb951b4bf23fbb3a&lang=en&cache-only=0",
-      "phonetic_text": "groʊtɛsk",
+      "phonetic_text": "groʊ.tɛsk",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JvdGVzcXVl&hash=45592915e6ebd52bdebee383eb951b4bf23fbb3a&lang=en&cache-only=0",
-      "phonetic_am_text": "growtesk",
+      "phonetic_am_text": "grooo.tesk",
       "img": "https://cdn.langeek.co/photo/48165/original/ugly?type=jpeg",
-      "pronunciation": "ɡɹoʊˈtɛsk",
+      "pronunciation": "ɡroʊˈtɛsk",
       "senses": [
         {
           "definition": "very ugly in a strange or funny way",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She recoiled in horror at the sight of the grotesque creature lurking in the shadows."
+            },
+            {
+              "cf": "",
+              "x": "The artist created a series of grotesque sculptures, with twisted forms and contorted faces."
+            },
+            {
+              "cf": "",
+              "x": "The mask he wore at the masquerade ball was grotesque, with exaggerated features and sinister eyes."
+            },
+            {
+              "cf": "",
+              "x": "The abandoned doll had a grotesque appearance, with missing limbs and cracked porcelain."
+            },
+            {
+              "cf": "",
+              "x": "The grotesque painting depicted a nightmarish scene with distorted faces and contorted bodies."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "bce36f37-a418-41cf-ab00-98df89cb55ce",
       "word": "minger",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWluZ2Vy&hash=dee38496ab60ac7625d42086f4e65b3c88379933&lang=en&cache-only=0",
-      "phonetic_text": "mɪngər",
+      "phonetic_text": "mɪn.gɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bWluZ2Vy&hash=dee38496ab60ac7625d42086f4e65b3c88379933&lang=en&cache-only=0",
-      "phonetic_am_text": "mingēr",
+      "phonetic_am_text": "min.gēr",
       "img": "",
       "pronunciation": "mɪŋɝ",
       "senses": [
@@ -89,22 +125,45 @@
       ]
     },
     {
+      "id": "9a184b7f-f9d0-4f11-81b6-068fc79933a5",
       "word": "ugly",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dWdseQ&hash=e3fbaa6654ed79f3f6302e7364ef289087ca99dd&lang=en&cache-only=0",
-      "phonetic_text": "ʌgli",
+      "phonetic_text": "ʌg.li",
       "phonetic_am": "https://tts.langeek.co/read?text=dWdseQ&hash=e3fbaa6654ed79f3f6302e7364ef289087ca99dd&lang=en&cache-only=0",
-      "phonetic_am_text": "agli",
+      "phonetic_am_text": "ag.li",
       "img": "https://cdn.langeek.co/photo/48165/original/ugly?type=jpeg",
       "pronunciation": "ˈʌɡli",
       "senses": [
         {
           "definition": "not pleasant to the mind or senses",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Don't be so mean, calling someone ugly is not nice."
+            },
+            {
+              "cf": "",
+              "x": "He drew an ugly picture that didn't resemble anything recognizable."
+            },
+            {
+              "cf": "",
+              "x": "She received an ugly haircut that she immediately regretted."
+            },
+            {
+              "cf": "",
+              "x": "The makeup made her look ugly, she looked much better without it."
+            },
+            {
+              "cf": "",
+              "x": "The old, torn sweater she wore was ugly and outdated."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "85e392d9-adf3-427b-aabc-c77476194118",
       "word": "grim",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Z3JpbQ&hash=95bb200d0ae2ce30375e649037b060bf89127376&lang=en&cache-only=0",
@@ -121,70 +180,147 @@
       ]
     },
     {
+      "id": "96066ebe-f73a-4694-9ab8-e03b43f59632",
       "word": "unattractive",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dW5hdHRyYWN0aXZl&hash=a2e14f8109bf1c1e46bf0974814c4bfbe9f56759&lang=en&cache-only=0",
-      "phonetic_text": "ʌnətræktɪv",
+      "phonetic_text": "ʌn.ət.ræk.tɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5hdHRyYWN0aXZl&hash=a2e14f8109bf1c1e46bf0974814c4bfbe9f56759&lang=en&cache-only=0",
-      "phonetic_am_text": "anētrāktiv",
+      "phonetic_am_text": "an.ēt.rāk.tiv",
       "img": "https://cdn.langeek.co/photo/48165/original/ugly?type=jpeg",
-      "pronunciation": "ˌənəˈtɹæktɪv",
+      "pronunciation": "ˌʌnəˈtræktɪv",
       "senses": [
         {
           "definition": "not pleasing to the eye",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The unattractive building stood out among the elegant architecture of the city."
+            },
+            {
+              "cf": "",
+              "x": "The unattractive color combination of the room made it feel gloomy."
+            },
+            {
+              "cf": "",
+              "x": "His unattractive hairstyle did not complement his features."
+            },
+            {
+              "cf": "",
+              "x": "The unattractive packaging of the product failed to attract customers."
+            },
+            {
+              "cf": "",
+              "x": "The unattractive design of the website deterred visitors from exploring further."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "2ef37e54-f153-432c-ab39-de0f1cee534f",
       "word": "hideous",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aGlkZW91cw&hash=a1f552e756a6c2749bfd6463457cf1642382a829&lang=en&cache-only=0",
-      "phonetic_text": "hɪdiəs",
+      "phonetic_text": "hɪ.diəs",
       "phonetic_am": "https://tts.langeek.co/read?text=aGlkZW91cw&hash=a1f552e756a6c2749bfd6463457cf1642382a829&lang=en&cache-only=0",
-      "phonetic_am_text": "hidiēs",
+      "phonetic_am_text": "hi.diēs",
       "img": "https://cdn.langeek.co/photo/45814/original/?type=jpeg",
       "pronunciation": "ˈhɪdiəs",
       "senses": [
         {
           "definition": "ugly and extremely unpleasant to the sight",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The painting depicted a hideous monster with twisted features and glowing eyes, sending shivers down the viewers' spines."
+            },
+            {
+              "cf": "",
+              "x": "She wore a hideous outfit that clashed horribly, drawing unwanted attention wherever she went."
+            },
+            {
+              "cf": "",
+              "x": "The sculpture was meant to be abstract, but many found its distorted form to be downright hideous."
+            },
+            {
+              "cf": "",
+              "x": "The villain in the movie had a hideous scar running down his face, adding to his menacing appearance."
+            },
+            {
+              "cf": "",
+              "x": "The creature emerging from the swamp was hideous, with slimy tentacles and jagged teeth."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "78896be0-e301-4974-b797-646116607061",
       "word": "unsightly",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dW5zaWdodGx5&hash=aedc4cd84db897a22df043d7e49191f2dfabaef1&lang=en&cache-only=0",
-      "phonetic_text": "ənsaɪtli",
+      "phonetic_text": "ʌn.saɪt.li",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5zaWdodGx5&hash=aedc4cd84db897a22df043d7e49191f2dfabaef1&lang=en&cache-only=0",
-      "phonetic_am_text": "ēnsaitli",
+      "phonetic_am_text": "an.sait.li",
       "img": "",
       "pronunciation": "ənˈsaɪtɫi",
       "senses": [
         {
           "definition": "unpleasant or unattractive in appearance",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The unsightly pile of garbage in the alley needed to be cleaned up."
+            },
+            {
+              "cf": "",
+              "x": "The abandoned building had an unsightly appearance with broken windows and graffiti."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f0c7ea08-ad76-4535-b8c3-f3e038d18821",
       "word": "monstrous",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bW9uc3Ryb3Vz&hash=0371ad3e35348077d72acc0a297f7ab4fec493d4&lang=en&cache-only=0",
-      "phonetic_text": "mɑ:nstrəs",
+      "phonetic_text": "mɑns.trəs",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9uc3Ryb3Vz&hash=0371ad3e35348077d72acc0a297f7ab4fec493d4&lang=en&cache-only=0",
-      "phonetic_am_text": "maanstrēs",
+      "phonetic_am_text": "maans.trēs",
       "img": "https://cdn.langeek.co/photo/45814/original/?type=jpeg",
       "pronunciation": "ˈmɑnstɹəs",
       "senses": [
         {
           "definition": "very ugly to an extent of being unnatural or frightening",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The monstrous creature in the horror movie terrified the audience."
+            },
+            {
+              "cf": "",
+              "x": "The monstrous face of the villain in the story haunted the protagonist's dreams."
+            },
+            {
+              "cf": "",
+              "x": "The monstrous appearance of the ancient statue sent chills down the archaeologist's spine."
+            },
+            {
+              "cf": "",
+              "x": "The monstrous claws of the predator left deep gouges in the forest floor."
+            },
+            {
+              "cf": "",
+              "x": "The monstrous shadow cast by the towering mountain obscured the landscape below."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1e1e5f26-d265-42dd-97a4-0f37b3df6d63",
       "word": "plain",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cGxhaW4&hash=297285cfcf6ded6b7701f0ec45e97f0c86fd5959&lang=en&cache-only=0",
@@ -192,53 +328,107 @@
       "phonetic_am": "https://tts.langeek.co/read?text=cGxhaW4&hash=297285cfcf6ded6b7701f0ec45e97f0c86fd5959&lang=en&cache-only=0",
       "phonetic_am_text": "plein",
       "img": "https://cdn.langeek.co/photo/28830/original/plain?type=jpeg",
-      "pronunciation": "ˈpɫeɪn",
+      "pronunciation": "pleɪn",
       "senses": [
         {
           "definition": "(of a person) unattractive and ordinary",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He was often described as plain, with no remarkable features to draw attention."
+            },
+            {
+              "cf": "",
+              "x": "She had a plain look, but her kind personality made her stand out."
+            },
+            {
+              "cf": "",
+              "x": "In a room full of glamorous people, she felt plain and unremarkable."
+            },
+            {
+              "cf": "",
+              "x": "Despite being plain, he had a certain charm that others found appealing."
+            },
+            {
+              "cf": "",
+              "x": "The model's plain appearance was a contrast to the extravagant styles of her peers."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b457d483-39a6-4a9d-962a-55854b4951e9",
       "word": "unappealing",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dW5hcHBlYWxpbmc&hash=a69e02c651c46a79d1c71cc6b025f63061fff505&lang=en&cache-only=0",
-      "phonetic_text": "ʌnəpi:lɪng",
+      "phonetic_text": "ʌn.ə.pi.lɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5hcHBlYWxpbmc&hash=a69e02c651c46a79d1c71cc6b025f63061fff505&lang=en&cache-only=0",
-      "phonetic_am_text": "anēpeeling",
+      "phonetic_am_text": "an.ē.pi.ling",
       "img": "",
       "pronunciation": "ˌənəˈpiɫɪŋ",
       "senses": [
         {
           "definition": "having features or qualities that are not aesthetically pleasing or attractive",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The food looked unappealing due to its dull color."
+            },
+            {
+              "cf": "",
+              "x": "The hotel’s unappealing design discouraged visitors."
+            },
+            {
+              "cf": "",
+              "x": "The idea seemed unappealing, so no one supported it."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "6186c265-3324-4569-9e7d-a52e0f3cf092",
       "word": "homely",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aG9tZWx5&hash=3cd18f184b52dee537173c3431bf8a98c18eb739&lang=en&cache-only=0",
-      "phonetic_text": "hoʊmli",
+      "phonetic_text": "hoʊm.li",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9tZWx5&hash=3cd18f184b52dee537173c3431bf8a98c18eb739&lang=en&cache-only=0",
-      "phonetic_am_text": "howmli",
+      "phonetic_am_text": "hooom.li",
       "img": "https://cdn.langeek.co/photo/28830/original/plain?type=jpeg",
-      "pronunciation": "ˈhoʊmɫi",
+      "pronunciation": "ˈhoʊmli",
       "senses": [
         {
           "definition": "(of a person) not very attractive",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Despite her homely appearance, she had a warm and engaging personality that drew people to her."
+            },
+            {
+              "cf": "",
+              "x": "She was not the most homely woman in the world, but she was certainly not beautiful."
+            },
+            {
+              "cf": "",
+              "x": "He was a homely child, but he grew up to be quite handsome."
+            },
+            {
+              "cf": "",
+              "x": "The homely girl stood out in a crowd with her simple dress and unassuming demeanor."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e88bdfc9-672e-4d91-875f-017991535a7a",
       "word": "sexless",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c2V4bGVzcw&hash=7aad0c3b95978396422b4c159223be989a8294e5&lang=en&cache-only=0",
-      "phonetic_text": "sɛkslɪs",
+      "phonetic_text": "sɛk.slɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=c2V4bGVzcw&hash=7aad0c3b95978396422b4c159223be989a8294e5&lang=en&cache-only=0",
-      "phonetic_am_text": "sekslis",
+      "phonetic_am_text": "sek.slis",
       "img": "",
       "pronunciation": "ˈsɛksɫɪs",
       "senses": [
@@ -249,12 +439,13 @@
       ]
     },
     {
+      "id": "a289e288-3076-434d-8827-e250fe9ca10d",
       "word": "sordid",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c29yZGlk&hash=cbe3c9046ffd9e504da2dfef5c8c886390d4dd91&lang=en&cache-only=0",
-      "phonetic_text": "sɔ:rdəd",
+      "phonetic_text": "sɔr.dəd",
       "phonetic_am": "https://tts.langeek.co/read?text=c29yZGlk&hash=cbe3c9046ffd9e504da2dfef5c8c886390d4dd91&lang=en&cache-only=0",
-      "phonetic_am_text": "saawrdēd",
+      "phonetic_am_text": "sawr.dēd",
       "img": "",
       "pronunciation": "ˈsɔɹdəd",
       "senses": [
@@ -265,12 +456,13 @@
       ]
     },
     {
+      "id": "f69ab7a1-03f6-439c-ac10-db35e2151148",
       "word": "unflattering",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dW5mbGF0dGVyaW5n&hash=6acd78ffddc750d27fdd6ae76df0a5c9248d2d00&lang=en&cache-only=0",
-      "phonetic_text": "ənflætərɪng",
+      "phonetic_text": "ʌn.flæ.tɜ.rɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5mbGF0dGVyaW5n&hash=6acd78ffddc750d27fdd6ae76df0a5c9248d2d00&lang=en&cache-only=0",
-      "phonetic_am_text": "ēnflātēring",
+      "phonetic_am_text": "an.flā.tē.ring",
       "img": "https://cdn.langeek.co/photo/34089/original/?type=jpeg",
       "pronunciation": "ənˈfɫætɝɪŋ",
       "senses": [
@@ -281,12 +473,13 @@
       ]
     },
     {
+      "id": "a16b5926-a8cd-468a-ad5f-f097991d1527",
       "word": "unlovable",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dW5sb3ZhYmxl&hash=53ae69d6b9a120fe925d5e88cd30cf43c8f889b7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʌn.lə.və.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5sb3ZhYmxl&hash=53ae69d6b9a120fe925d5e88cd30cf43c8f889b7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "an.lē.vē.bēl",
       "img": "",
       "pronunciation": "ʌnlˈʌvəbəl",
       "senses": [
@@ -297,12 +490,13 @@
       ]
     },
     {
+      "id": "6712d306-88c4-42f3-a189-2e750604ead1",
       "word": "unlovely",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dW5sb3ZlbHk&hash=2b37bc38a704e5688a717ef8c8ce60b967df6461&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʌn.ləv.li",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5sb3ZlbHk&hash=2b37bc38a704e5688a717ef8c8ce60b967df6461&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "an.lēv.li",
       "img": "https://cdn.langeek.co/photo/48165/original/ugly?type=jpeg",
       "pronunciation": "ʌnlˈʌvli",
       "senses": [
@@ -313,12 +507,13 @@
       ]
     },
     {
+      "id": "e3655687-4e8e-4c67-a456-f65cad210bd0",
       "word": "unprepossessing",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dW5wcmVwb3NzZXNzaW5n&hash=e16f73a007c7f6952c3ff64a77e8d4b8c3f57133&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʌn.prɪp.sɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5wcmVwb3NzZXNzaW5n&hash=e16f73a007c7f6952c3ff64a77e8d4b8c3f57133&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "an.prip.sing",
       "img": "",
       "pronunciation": "ʌnpɹɪpəzˈɛsɪŋ",
       "senses": [
@@ -329,28 +524,55 @@
       ]
     },
     {
+      "id": "f5b58cc8-e370-4e32-9f7d-f99ae5ba8507",
       "word": "yucky",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=eXVja3k&hash=68738ca7d4bd84f0b476b37f4675fc05bdd71332&lang=en&cache-only=0",
-      "phonetic_text": "jʌki",
+      "phonetic_text": "jə.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=eXVja3k&hash=68738ca7d4bd84f0b476b37f4675fc05bdd71332&lang=en&cache-only=0",
-      "phonetic_am_text": "yaki",
+      "phonetic_am_text": "yē.ki",
       "img": "https://cdn.langeek.co/photo/49522/original/?type=jpeg",
       "pronunciation": "ˈjəki",
       "senses": [
         {
           "definition": "unpleasant or distasteful in appearance, taste, or smell",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She wrinkled her nose at the yucky smell coming from the garbage bin."
+            },
+            {
+              "cf": "",
+              "x": "The yucky taste of the medicine made it difficult for the child to swallow."
+            },
+            {
+              "cf": "",
+              "x": "The sandwich had a yucky texture that made it unappetizing."
+            },
+            {
+              "cf": "",
+              "x": "The yucky sight of the bug crawling across the floor sent shivers down her spine."
+            },
+            {
+              "cf": "",
+              "x": "The thought of eating the slimy, yucky food made her feel nauseous."
+            },
+            {
+              "cf": "",
+              "x": "The yucky smell coming from the garbage made me cover my nose."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "5b49691c-a52d-4b01-bd5e-63d6fc5de2f1",
       "word": "severity",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2V2ZXJpdHk&hash=3e5a6262f00bf7175628f607a1b06393b2035159&lang=en&cache-only=0",
-      "phonetic_text": "sɪvɛrɪti",
+      "phonetic_text": "sɪ.vɛ.rɪ.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=c2V2ZXJpdHk&hash=3e5a6262f00bf7175628f607a1b06393b2035159&lang=en&cache-only=0",
-      "phonetic_am_text": "siveriti",
+      "phonetic_am_text": "si.ve.ri.ti",
       "img": "",
       "pronunciation": "sɪˈvɛɹɪti",
       "senses": [
@@ -361,12 +583,13 @@
       ]
     },
     {
+      "id": "2692af86-3e47-420e-9e11-5517983702c4",
       "word": "eyesore",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXllc29yZQ&hash=97f3fac830b0e52aacf28c64c844c370e7af2e13&lang=en&cache-only=0",
-      "phonetic_text": "aɪsɔr",
+      "phonetic_text": "aɪ.sɔ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXllc29yZQ&hash=97f3fac830b0e52aacf28c64c844c370e7af2e13&lang=en&cache-only=0",
-      "phonetic_am_text": "aisawr",
+      "phonetic_am_text": "ai.sawr",
       "img": "",
       "pronunciation": "ˈaɪˌsɔɹ",
       "senses": [
@@ -377,34 +600,82 @@
       ]
     },
     {
+      "id": "26260a37-9791-4086-84d7-f816b3551df9",
       "word": "repugnant",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cmVwdWduYW50&hash=af83f5fd07ec01734be05bd9a395674ae7b41d2c&lang=en&cache-only=0",
-      "phonetic_text": "rɪpʌgnənt",
+      "phonetic_text": "ri.pəg.nənt",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVwdWduYW50&hash=af83f5fd07ec01734be05bd9a395674ae7b41d2c&lang=en&cache-only=0",
-      "phonetic_am_text": "ripagnēnt",
+      "phonetic_am_text": "ri.pēg.nēnt",
       "img": "https://cdn.langeek.co/photo/23433/original/?type=jpeg",
       "pronunciation": "ɹiˈpəɡnənt/, /ɹɪˈpəɡnənt",
       "senses": [
         {
           "definition": "extremely unpleasant and disgusting",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The very thought of cruelty to animals is repugnant to me."
+            },
+            {
+              "cf": "",
+              "x": "His repugnant behavior towards others earned him a reputation as a bully."
+            },
+            {
+              "cf": "",
+              "x": "The repugnant remarks made by the politician sparked outrage among the public."
+            },
+            {
+              "cf": "",
+              "x": "The repugnant conditions of the prison prompted a human rights investigation."
+            },
+            {
+              "cf": "",
+              "x": "The repugnant comments made in the discussion revealed deep-seated biases that were hard to ignore."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1270f40b-5ce9-451b-aa25-a58e1d3a9b5b",
       "word": "repulsive",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cmVwdWxzaXZl&hash=f60d8e68e9cf8ca9c48d53cc24a4063940b6e86c&lang=en&cache-only=0",
-      "phonetic_text": "ripʌlsɪv",
+      "phonetic_text": "ri.pəl.sɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVwdWxzaXZl&hash=f60d8e68e9cf8ca9c48d53cc24a4063940b6e86c&lang=en&cache-only=0",
-      "phonetic_am_text": "ripalsiv",
+      "phonetic_am_text": "ri.pēl.siv",
       "img": "https://cdn.langeek.co/photo/23433/original/?type=jpeg",
       "pronunciation": "ɹiˈpəɫsɪv",
       "senses": [
         {
           "definition": "causing a strong feeling of disgust or dislike",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The repulsive smell emanating from the garbage can made her feel nauseated."
+            },
+            {
+              "cf": "",
+              "x": "The repulsive sight of the decaying carcass turned her stomach."
+            },
+            {
+              "cf": "",
+              "x": "The repulsive taste of the spoiled milk made her spit it out immediately."
+            },
+            {
+              "cf": "",
+              "x": "The repulsive sensation of touching the slimy slug made her recoil in horror."
+            },
+            {
+              "cf": "",
+              "x": "His repulsive behavior towards his colleagues made them want to distance themselves from him."
+            },
+            {
+              "cf": "",
+              "x": "They found the idea of eating insects completely repulsive."
+            }
+          ]
         }
       ]
     }

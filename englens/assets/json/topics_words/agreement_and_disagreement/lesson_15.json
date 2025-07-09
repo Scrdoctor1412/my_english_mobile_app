@@ -1,15 +1,17 @@
 {
+  "id": "d7e233fb-6eba-444a-a0fc-2ec752fa237d",
   "topic": "agreement_and_disagreement",
   "title": "Mediation and Influence",
   "lesson": "lesson_15",
   "word_list": [
     {
+      "id": "9c7295bc-1bdd-40b5-a6f7-525142825a49",
       "word": "appeal",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXBwZWFs&hash=4c750f77badaf63f204f67dee720f45b6293fe78&lang=en&cache-only=0",
-      "phonetic_text": "əpi:l",
+      "phonetic_text": "ə.pil",
       "phonetic_am": "https://tts.langeek.co/read?text=YXBwZWFs&hash=4c750f77badaf63f204f67dee720f45b6293fe78&lang=en&cache-only=0",
-      "phonetic_am_text": "ēpeel",
+      "phonetic_am_text": "ē.pil",
       "img": "",
       "pronunciation": "əˈpiɫ",
       "senses": [
@@ -20,92 +22,191 @@
       ]
     },
     {
-      "word": "appeal",
+      "id": "ce5fc690-cb01-413c-a735-ecdcbce2c7c6",
+      "word": "to appeal",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYXBwZWFs&hash=3c29dc0b97d7c95d3ca4ba51cd33b7152a57dff6&lang=en&cache-only=0",
-      "phonetic_text": "əpi:l",
+      "phonetic_text": "ə.pil",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYXBwZWFs&hash=3c29dc0b97d7c95d3ca4ba51cd33b7152a57dff6&lang=en&cache-only=0",
-      "phonetic_am_text": "ēpeel",
+      "phonetic_am_text": "ē.pil",
       "img": "",
       "pronunciation": "əˈpiɫ",
       "senses": [
         {
           "definition": "to attempt to persuade someone to do something by saying to them that it is reasonable or fair",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The politician appealed to voters' sense of patriotism during the campaign speech."
+            },
+            {
+              "cf": "",
+              "x": "The charity organization appealed to donors' generosity by highlighting the plight of starving children."
+            },
+            {
+              "cf": "",
+              "x": "The coach appealed to the team's competitive spirit by reminding them of their goal to win the championship."
+            },
+            {
+              "cf": "",
+              "x": "The parent appealed to their child's sense of fairness by explaining why it's important to share with others."
+            },
+            {
+              "cf": "",
+              "x": "The mentor appealed to the mentee's ambition by encouraging them to pursue their dreams."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "arbitrate",
+      "id": "821e66c1-7bf1-4d94-a9d5-07d4caaf8a29",
+      "word": "to arbitrate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYXJiaXRyYXRl&hash=833edb24ecefb4ffcaca33e44c996f9ab5e3b70c&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:rbətreɪt",
+      "phonetic_text": "ɑr.bət.reɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYXJiaXRyYXRl&hash=833edb24ecefb4ffcaca33e44c996f9ab5e3b70c&lang=en&cache-only=0",
-      "phonetic_am_text": "aarbētreit",
+      "phonetic_am_text": "aar.bēt.reit",
       "img": "https://cdn.langeek.co/photo/55140/original/?type=jpeg",
       "pronunciation": "ˈɑɹbəˌtɹeɪt",
       "senses": [
         {
           "definition": "to officially resolve a disagreement between people",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The two companies, unable to reach an agreement, decided to have a third party arbitrate their dispute."
+            },
+            {
+              "cf": "",
+              "x": "To avoid a lengthy court trial, they chose to arbitrate their differences through mediation."
+            },
+            {
+              "cf": "",
+              "x": "The HR manager was called upon to arbitrate the dispute between two employees."
+            },
+            {
+              "cf": "",
+              "x": "The judge was asked to arbitrate the disagreement between the two parties involved in the business contract."
+            },
+            {
+              "cf": "",
+              "x": "The parents asked their older child to arbitrate the argument between their younger siblings."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "d88abafb-45be-4a60-b3c8-cff509b67be0",
       "word": "arbitration",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJiaXRyYXRpb24&hash=bbf35f7489ab57e9359327b5e3ce33caf3bb9bb6&lang=en&cache-only=0",
-      "phonetic_text": "ɑrbɪtreɪʃən",
+      "phonetic_text": "ɑr.bɪt.reɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJiaXRyYXRpb24&hash=bbf35f7489ab57e9359327b5e3ce33caf3bb9bb6&lang=en&cache-only=0",
-      "phonetic_am_text": "ɑrbitreishēn",
+      "phonetic_am_text": "aar.bit.rei.shēn",
       "img": "",
       "pronunciation": "ˌɑɹbɪˈtɹeɪʃən",
       "senses": [
         {
           "definition": "the process in which a person is officially appointed to act as a judge and settle an argument",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The dispute was resolved through arbitration rather than a lengthy court trial."
+            },
+            {
+              "cf": "",
+              "x": "They chose arbitration to settle their contractual disagreement efficiently."
+            },
+            {
+              "cf": "",
+              "x": "Arbitration allowed the parties to resolve their disagreement quickly and avoid the lengthy process of going to trial."
+            },
+            {
+              "cf": "",
+              "x": "In complex commercial disputes, arbitration is often preferred for its efficiency and confidentiality."
+            },
+            {
+              "cf": "",
+              "x": "After months of negotiation failed to resolve the issue, the parties agreed to arbitration to settle their differences."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "11435835-4d69-48a2-ae49-488db5deb5ba",
       "word": "arbitrator",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJiaXRyYXRvcg&hash=bd19cd367d23297a9d89a3beac9b04eb493e0c9c&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:rbɪtreɪtər",
+      "phonetic_text": "ɑr.bɪt.reɪ.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJiaXRyYXRvcg&hash=bd19cd367d23297a9d89a3beac9b04eb493e0c9c&lang=en&cache-only=0",
-      "phonetic_am_text": "aarbitreitēr",
+      "phonetic_am_text": "aar.bit.rei.tēr",
       "img": "",
       "pronunciation": "ˈɑɹbɪˌtɹeɪtɝ",
       "senses": [
         {
           "definition": "someone who is appointed to resolve a disagreement",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "After the initial mediation failed, an experienced arbitrator was called upon to facilitate a resolution."
+            },
+            {
+              "cf": "",
+              "x": "Finding a fair arbitrator, who had no vested interest in the outcome, was crucial for the credibility of the decision-making process."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "argue",
+      "id": "558ede55-da14-4535-8355-af2132ba9728",
+      "word": "to argue",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYXJndWU&hash=9a444fc8d1250de576887a53ca15bd9f5a14c7a4&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:rgju",
+      "phonetic_text": "ɑ:r.gju:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYXJndWU&hash=9a444fc8d1250de576887a53ca15bd9f5a14c7a4&lang=en&cache-only=0",
-      "phonetic_am_text": "aargyu",
+      "phonetic_am_text": "aar.gyoo",
       "img": "",
       "pronunciation": "ˈɑːrɡjuː",
       "senses": [
         {
           "definition": "to provide reasons when saying something is the case, particularly to persuade others that one is right",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He argued that increasing funding for education would lead to long-term benefits for society."
+            },
+            {
+              "cf": "",
+              "x": "They argued convincingly that climate change poses a serious threat to the planet."
+            },
+            {
+              "cf": "",
+              "x": "The environmentalist argued for the preservation of the rainforest to protect biodiversity."
+            },
+            {
+              "cf": "",
+              "x": "The student argued for the inclusion of diverse perspectives in the curriculum."
+            },
+            {
+              "cf": "",
+              "x": "He argued against the proposal, citing potential negative consequences for the economy."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "argue into",
+      "id": "901a987a-02c9-4f11-ab60-b52e428a5cef",
+      "word": "to argue into",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYXJndWUgaW50bw&hash=c8d73cf232f832991ae93b334c112e20bc6c15fa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:r.gju: ɪn.tu",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYXJndWUgaW50bw&hash=c8d73cf232f832991ae93b334c112e20bc6c15fa&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aar.gyoo in.too",
       "img": "",
       "pronunciation": "ˈɑːɹɡjuː ˌɪntʊ",
       "senses": [
@@ -116,12 +217,13 @@
       ]
     },
     {
-      "word": "argue out",
+      "id": "8543af3c-2033-4a6e-a7e4-480a7ed03116",
+      "word": "to argue out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYXJndWUgb3V0&hash=29a99c5d0a77538cfc9623027eef53e24b76eed5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:r.gju: aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYXJndWUgb3V0&hash=29a99c5d0a77538cfc9623027eef53e24b76eed5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aar.gyoo aoot",
       "img": "",
       "pronunciation": "ˈɑːɹɡjuː ˈaʊt",
       "senses": [
@@ -132,12 +234,13 @@
       ]
     },
     {
+      "id": "15255df8-877a-4c17-bbd5-d378469c1dc6",
       "word": "arm-twisting",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJtLXR3aXN0aW5n&hash=529310fdf67ef1301a47d48a50f3da2bdbed09f3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:rm-twɪs.tɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJtLXR3aXN0aW5n&hash=529310fdf67ef1301a47d48a50f3da2bdbed09f3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aarm-tvis.ting",
       "img": "",
       "pronunciation": "ˈɑːɹmtwˈɪstɪŋ",
       "senses": [
@@ -148,28 +251,43 @@
       ]
     },
     {
-      "word": "beat down",
+      "id": "e80b6a3b-6b53-4cc0-8b17-643bdca7fae1",
+      "word": "to beat down",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmVhdCBkb3du&hash=558f6d969ecb684bf3b924476021c16ae2b27f38&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bit daʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmVhdCBkb3du&hash=558f6d969ecb684bf3b924476021c16ae2b27f38&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bit daoon",
       "img": "",
       "pronunciation": "bˈiːt dˈaʊn",
       "senses": [
         {
           "definition": "to persuade a person to lower the price of something particular",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The art of beating down prices is a valuable skill in the world of business."
+            },
+            {
+              "cf": "",
+              "x": "The customer tried to beat down the vendor for a better deal on the electronics."
+            },
+            {
+              "cf": "",
+              "x": "They successfully beat down the cost of the catering service for the event."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b6ac6172-406c-4ebf-9f10-36211908e212",
       "word": "blandishments",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmxhbmRpc2htZW50cw&hash=969aa0575a832e695eb376c5f04fafbe456f7c32&lang=en&cache-only=0",
-      "phonetic_text": "blændɪʃmənts",
+      "phonetic_text": "blæn.dɪʃ.mənts",
       "phonetic_am": "https://tts.langeek.co/read?text=YmxhbmRpc2htZW50cw&hash=969aa0575a832e695eb376c5f04fafbe456f7c32&lang=en&cache-only=0",
-      "phonetic_am_text": "blāndishmēnts",
+      "phonetic_am_text": "blān.dish.mēnts",
       "img": "",
       "pronunciation": "ˈbɫændɪʃmənts",
       "senses": [
@@ -180,6 +298,7 @@
       ]
     },
     {
+      "id": "0e4afc43-d0b9-4636-88f7-c6bfb4d32442",
       "word": "bribe",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJpYmU&hash=7e1451adcd1760a72ebf0a25732fbabba0611b22&lang=en&cache-only=0",
@@ -191,12 +310,34 @@
       "senses": [
         {
           "definition": "an amount of money or something of value given to someone in order to persuade them to do something that is illegal",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The politician was caught accepting a bribe from a construction company in exchange for favorable contracts."
+            },
+            {
+              "cf": "",
+              "x": "The businessman offered a bribe to the customs official to expedite the shipment of his goods."
+            },
+            {
+              "cf": "",
+              "x": "He offered a large bribe to the official to expedite his application."
+            },
+            {
+              "cf": "",
+              "x": "The investigation uncovered evidence of cash bribes paid to local officials."
+            },
+            {
+              "cf": "",
+              "x": "Accepting a bribe is a criminal offense punishable by law."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "bribe",
+      "id": "ec581b86-1023-4606-bb93-2cc684e16c34",
+      "word": "to bribe",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJpYmU&hash=2e6a76a8be57191a927e3eb32bc6d2c83a6bc123&lang=en&cache-only=0",
       "phonetic_text": "braɪb",
@@ -207,33 +348,69 @@
       "senses": [
         {
           "definition": "to persuade someone to do something, often illegal, by giving them an amount of money or something of value",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Businesses were fined for attempting to bribe government officials for favorable contracts."
+            },
+            {
+              "cf": "",
+              "x": "Law enforcement arrested individuals attempting to bribe witnesses in an ongoing investigation."
+            },
+            {
+              "cf": "",
+              "x": "The contractor was accused of trying to bribe inspectors to overlook building code violations."
+            },
+            {
+              "cf": "",
+              "x": "The businessman resorted to bribing competitors' employees to gain insider information."
+            },
+            {
+              "cf": "",
+              "x": "The whistleblower came forward with information about a scheme to bribe public officials for construction permits."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "bring around",
+      "id": "2b820020-3db1-4d66-b367-94497ad69904",
+      "word": "to bring around",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJpbmcgYXJvdW5k&hash=705320943cfd34ce7fc3dc37b915996ded85b5aa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "brɪng ə.raʊnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJpbmcgYXJvdW5k&hash=705320943cfd34ce7fc3dc37b915996ded85b5aa&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bring ē.raoond",
       "img": "",
       "pronunciation": "bɹˈɪŋ ɐɹˈaʊnd",
       "senses": [
         {
           "definition": "to help someone to become conscious again",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The gentle application of cold compresses can help bring around someone who has fainted."
+            },
+            {
+              "cf": "",
+              "x": "Training in CPR can be invaluable in bringing around individuals in distress."
+            },
+            {
+              "cf": "",
+              "x": "The use of a defibrillator played a vital role in bringing around the heart attack victim."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "bring together",
+      "id": "3676708e-084f-4309-a0c8-43709d8fb1ba",
+      "word": "to bring together",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJpbmcgdG9nZXRoZXI&hash=f4167b7fe964e72af3eef0c18e291e73b7b9ff77&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "brɪng tə.gɛ.ðər",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJpbmcgdG9nZXRoZXI&hash=f4167b7fe964e72af3eef0c18e291e73b7b9ff77&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bring tē.ge.dhēr",
       "img": "https://cdn.langeek.co/photo/44258/original/?type=jpeg",
       "pronunciation": "bɹˈɪŋ təɡˈɛðɚ",
       "senses": [
@@ -244,12 +421,13 @@
       ]
     },
     {
+      "id": "c2981cb0-eefa-4625-beca-1f44ec7a5f41",
       "word": "carrot",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2Fycm90&hash=74b6a414604c499b3431465ef5c996c902682544&lang=en&cache-only=0",
-      "phonetic_text": "kærət",
+      "phonetic_text": "kɑ:r.rɑt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2Fycm90&hash=74b6a414604c499b3431465ef5c996c902682544&lang=en&cache-only=0",
-      "phonetic_am_text": "kārēt",
+      "phonetic_am_text": "kaar.raat",
       "img": "",
       "pronunciation": "ˈkærət",
       "senses": [
@@ -260,28 +438,51 @@
       ]
     },
     {
-      "word": "coax",
+      "id": "254f5bce-6927-45c6-9606-7c08da10d04b",
+      "word": "to coax",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29heA&hash=1118794894ab25ab506308029ae3e08f3e6b0894&lang=en&cache-only=0",
       "phonetic_text": "koʊks",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29heA&hash=1118794894ab25ab506308029ae3e08f3e6b0894&lang=en&cache-only=0",
-      "phonetic_am_text": "kowks",
+      "phonetic_am_text": "koooks",
       "img": "https://cdn.langeek.co/photo/51688/original/?type=jpeg",
       "pronunciation": "ˈkoʊks",
       "senses": [
         {
           "definition": "to persuade someone to do something by being kind and gentle, especially when they may be unwilling",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Parents often have to coax their children into eating vegetables by making it seem enjoyable or interesting."
+            },
+            {
+              "cf": "",
+              "x": "She had to coax her shy friend to join the party, assuring them it would be a fun and comfortable experience."
+            },
+            {
+              "cf": "",
+              "x": "The owner had to coax the reluctant cat to take its medicine by mixing it with a favorite treat."
+            },
+            {
+              "cf": "",
+              "x": "The interviewer tried to coax the interviewee into sharing more details about their experiences."
+            },
+            {
+              "cf": "",
+              "x": "The team leader tried to coax a quieter coworker into expressing their ideas during the meeting."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "5d96e34c-1fd1-4a55-8179-16f3e7d494f2",
       "word": "coaxing",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y29heGluZw&hash=17ab19e71472fa7302a336c339c7391f4386aabb&lang=en&cache-only=0",
-      "phonetic_text": "koʊksɪng",
+      "phonetic_text": "koʊk.sɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29heGluZw&hash=17ab19e71472fa7302a336c339c7391f4386aabb&lang=en&cache-only=0",
-      "phonetic_am_text": "kowksing",
+      "phonetic_am_text": "koook.sing",
       "img": "",
       "pronunciation": "ˈkoʊksɪŋ",
       "senses": [
@@ -292,12 +493,13 @@
       ]
     },
     {
+      "id": "98312127-b4c7-4a84-bf13-33e9ade9e892",
       "word": "coaxing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29heGluZw&hash=17ab19e71472fa7302a336c339c7391f4386aabb&lang=en&cache-only=0",
-      "phonetic_text": "koʊksɪng",
+      "phonetic_text": "koʊk.sɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29heGluZw&hash=17ab19e71472fa7302a336c339c7391f4386aabb&lang=en&cache-only=0",
-      "phonetic_am_text": "kowksing",
+      "phonetic_am_text": "koook.sing",
       "img": "",
       "pronunciation": "ˈkoʊksɪŋ",
       "senses": [
@@ -308,44 +510,85 @@
       ]
     },
     {
-      "word": "convince",
+      "id": "50ac7485-4f44-42f9-9495-633ea0ccd739",
+      "word": "to convince",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29udmluY2U&hash=64d35a80099fe1f334ce64b61a5097ecbaa3aac4&lang=en&cache-only=0",
-      "phonetic_text": "kənvɪns",
+      "phonetic_text": "kən.vɪns",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29udmluY2U&hash=64d35a80099fe1f334ce64b61a5097ecbaa3aac4&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnvins",
+      "phonetic_am_text": "kēn.vins",
       "img": "",
       "pronunciation": "kənˈvɪns",
       "senses": [
         {
           "definition": "to make someone feel certain about the truth of something",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The politician attempted to convince voters of the benefits of her policy proposals."
+            },
+            {
+              "cf": "",
+              "x": "The lawyer was able to convince the jury of her client's innocence."
+            },
+            {
+              "cf": "",
+              "x": "The teacher used real-life examples to convince her students of the importance of mathematics in everyday life."
+            },
+            {
+              "cf": "",
+              "x": "The scientist presented her research findings at the conference in an attempt to convince her peers of the validity and significance of her discoveries."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "d115ddb7-d29d-4fa1-84b8-0776b14b70bb",
       "word": "convincing",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y29udmluY2luZw&hash=29382ede0b0ed52b21e93937bcdd0e0c3ebb29f0&lang=en&cache-only=0",
-      "phonetic_text": "kənvɪnsɪng",
+      "phonetic_text": "kən.vɪn.sɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29udmluY2luZw&hash=29382ede0b0ed52b21e93937bcdd0e0c3ebb29f0&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnvinsing",
+      "phonetic_am_text": "kēn.vin.sing",
       "img": "https://cdn.langeek.co/photo/49596/original/?type=jpeg",
       "pronunciation": "kənˈvɪnsɪŋ",
       "senses": [
         {
           "definition": "able to make someone believe that something is right or true",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The convincing evidence presented by the prosecutor left no doubt of the defendant's guilt."
+            },
+            {
+              "cf": "",
+              "x": "Her convincing explanation clarified the situation and alleviated any concerns."
+            },
+            {
+              "cf": "",
+              "x": "His convincing arguments persuaded the jury to vote in favor of his client."
+            },
+            {
+              "cf": "",
+              "x": "The convincing statistics supported the researcher's hypothesis and strengthened their findings."
+            },
+            {
+              "cf": "",
+              "x": "The convincing logic of her proposal won over the skeptical members of the committee."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1c31974a-f09b-4c5c-980a-9ec1637c292a",
       "word": "cooling-off period",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29vbGluZy1vZmYgcGVyaW9k&hash=12075a43b0816dfc8d1a4a892ae345042f69ba8d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ku.lɪng-ɑf pɪ.riəd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29vbGluZy1vZmYgcGVyaW9k&hash=12075a43b0816dfc8d1a4a892ae345042f69ba8d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "koo.ling-aaf pi.riēd",
       "img": "",
       "pronunciation": "kˈuːlɪŋˈɔf pˈiəɹɪəd",
       "senses": [
@@ -356,12 +599,13 @@
       ]
     },
     {
-      "word": "dangle",
+      "id": "087ea84c-f33a-424b-9240-97b9e4176be1",
+      "word": "to dangle",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGFuZ2xl&hash=b0bee8f6b34983bab80042060fb54ad1a62c437d&lang=en&cache-only=0",
-      "phonetic_text": "dængəl",
+      "phonetic_text": "dæn.gəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGFuZ2xl&hash=b0bee8f6b34983bab80042060fb54ad1a62c437d&lang=en&cache-only=0",
-      "phonetic_am_text": "dāngēl",
+      "phonetic_am_text": "dān.gēl",
       "img": "",
       "pronunciation": "ˈdæŋɡəɫ",
       "senses": [
@@ -372,76 +616,165 @@
       ]
     },
     {
-      "word": "dissuade",
+      "id": "08182b18-266c-42fe-9e1d-4c891366b53b",
+      "word": "to dissuade",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlzc3VhZGU&hash=5aa89babfe9298f8256dec7f86dbcddfc93aa8fe&lang=en&cache-only=0",
-      "phonetic_text": "dɪsweɪd",
+      "phonetic_text": "dɪs.weɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlzc3VhZGU&hash=5aa89babfe9298f8256dec7f86dbcddfc93aa8fe&lang=en&cache-only=0",
-      "phonetic_am_text": "disweid",
+      "phonetic_am_text": "dis.veid",
       "img": "https://cdn.langeek.co/photo/58209/original/?type=jpeg",
       "pronunciation": "dɪˈsweɪd",
       "senses": [
         {
           "definition": "to make someone not to do something",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I dissuaded him from making a hasty decision."
+            },
+            {
+              "cf": "",
+              "x": "The warnings from experts dissuade many people from smoking."
+            },
+            {
+              "cf": "",
+              "x": "The campaign aims to dissuade youth from experimenting with drugs."
+            },
+            {
+              "cf": "",
+              "x": "She is dissuading her friend from joining an unreliable investment scheme."
+            },
+            {
+              "cf": "",
+              "x": "They were dissuading their colleagues from participating in the risky venture."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "encourage",
+      "id": "9ac61cb0-7b54-40cd-af5b-d475f70b3374",
+      "word": "to encourage",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZW5jb3VyYWdl&hash=7bb12ae7715247ce3824e65680000eaccd0b888b&lang=en&cache-only=0",
-      "phonetic_text": "ɛnkɜrɪʤ",
+      "phonetic_text": "ɛn.kɜ.rɪʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZW5jb3VyYWdl&hash=7bb12ae7715247ce3824e65680000eaccd0b888b&lang=en&cache-only=0",
-      "phonetic_am_text": "enkērij",
+      "phonetic_am_text": "en.kē.rij",
       "img": "",
-      "pronunciation": "ɛnˈkɝɪdʒ/, /ɪnˈkɝədʒ",
+      "pronunciation": "ɪnˈkɝːɪʤ",
       "senses": [
         {
           "definition": "to persuade a person to do something by making them think it is good for them or by making it easier",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The school’s programs are meant to encourage children to read more often."
+            },
+            {
+              "cf": "",
+              "x": "His parents encouraged him to pursue his dreams, even though they seemed difficult."
+            },
+            {
+              "cf": "",
+              "x": "The advertising campaign encourages people to adopt healthier lifestyles."
+            },
+            {
+              "cf": "",
+              "x": "The community garden project encourages local residents to grow their own food."
+            },
+            {
+              "cf": "",
+              "x": "The manager’s feedback encouraged the team to improve their performance."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "entice",
+      "id": "20fadbf5-f573-4120-9308-357045488c33",
+      "word": "to entice",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZW50aWNl&hash=220e84affbeaa1b53abdf19b0f9bd7a98c8f31a9&lang=en&cache-only=0",
-      "phonetic_text": "ɪntaɪs",
+      "phonetic_text": "ɪn.taɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZW50aWNl&hash=220e84affbeaa1b53abdf19b0f9bd7a98c8f31a9&lang=en&cache-only=0",
-      "phonetic_am_text": "intais",
+      "phonetic_am_text": "in.tais",
       "img": "https://cdn.langeek.co/photo/58739/original/?type=jpeg",
       "pronunciation": "ɪnˈtaɪs",
       "senses": [
         {
           "definition": "to make someone do something specific, often by offering something attractive",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Advertisers hoped colorful displays would entice shoppers to browse their selection."
+            },
+            {
+              "cf": "",
+              "x": "The sweet aroma of baking cookies enticed me into the kitchen."
+            },
+            {
+              "cf": "",
+              "x": "The company enticed customers to sign up for their loyalty program by offering a 20% discount on their first purchase."
+            },
+            {
+              "cf": "",
+              "x": "The restaurant enticed diners to try their new menu items by offering a free appetizer with every main course."
+            },
+            {
+              "cf": "",
+              "x": "The restaurant enticed diners downtown with its unique fusion cuisine and lively atmosphere."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "exhort",
+      "id": "bc9d9f26-015c-4bbf-ba0e-f76b3302c489",
+      "word": "to exhort",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZXhob3J0&hash=750fa99918e1acd07d2eade8c41d64a23511606e&lang=en&cache-only=0",
-      "phonetic_text": "ɪgzɔ:rt",
+      "phonetic_text": "ɪgz.ɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZXhob3J0&hash=750fa99918e1acd07d2eade8c41d64a23511606e&lang=en&cache-only=0",
-      "phonetic_am_text": "igzaawrt",
+      "phonetic_am_text": "igz.awrt",
       "img": "https://cdn.langeek.co/photo/58591/original/?type=jpeg",
       "pronunciation": "ɪɡˈzɔɹt",
       "senses": [
         {
           "definition": "to strongly and enthusiastically encourage someone who is doing something",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The teacher exhorted the students to embrace challenges as opportunities for growth and learning."
+            },
+            {
+              "cf": "",
+              "x": "The motivational speaker exhorted the audience to pursue their dreams with passion and determination."
+            },
+            {
+              "cf": "",
+              "x": "In his inspiring speech, the president exhorted the nation to come together for the common good, fostering unity and progress."
+            },
+            {
+              "cf": "",
+              "x": "The leader is currently exhorting the group to stay focused on their mission."
+            },
+            {
+              "cf": "",
+              "x": "Tomorrow, the speaker will be exhorting attendees to make a positive impact."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c7504bf5-4a2b-4263-82fd-dcc2e5ec6e2f",
       "word": "exhortation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXhob3J0YXRpb24&hash=e16b6d4ecb23a5e2847725d784d1974b6de44581&lang=en&cache-only=0",
-      "phonetic_text": "ɛgzɔrteɪʃən",
+      "phonetic_text": "ɛgz.ɔr.teɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXhob3J0YXRpb24&hash=e16b6d4ecb23a5e2847725d784d1974b6de44581&lang=en&cache-only=0",
-      "phonetic_am_text": "egzawrteishēn",
+      "phonetic_am_text": "egz.awr.tei.shēn",
       "img": "",
       "pronunciation": "ˌɛɡˌzɔɹˈteɪʃən",
       "senses": [
@@ -452,12 +785,13 @@
       ]
     },
     {
+      "id": "cd9d8eee-b906-4943-970b-385c52053c8c",
       "word": "fence-mending",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmVuY2UtbWVuZGluZw&hash=144d71a366e499dc9621e692c5443f528cfa3aa0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɛns-mɛn.dɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmVuY2UtbWVuZGluZw&hash=144d71a366e499dc9621e692c5443f528cfa3aa0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fens-men.ding",
       "img": "",
       "pronunciation": "fˈɛnsmˈɛndɪŋ",
       "senses": [
@@ -468,7 +802,8 @@
       ]
     },
     {
-      "word": "get",
+      "id": "20b0391c-b2b0-4bba-92d8-ff544a43f933",
+      "word": "to get",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0&hash=fc37dd4b71d4e5666f034fc38ef8ee6d00dcf928&lang=en&cache-only=0",
       "phonetic_text": "gɛt",
@@ -479,49 +814,115 @@
       "senses": [
         {
           "definition": "to force or convince someone to do something",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I managed to get my friend to join me for the weekend getaway."
+            },
+            {
+              "cf": "",
+              "x": "She got her parents to support her decision to study abroad."
+            },
+            {
+              "cf": "",
+              "x": "He got the committee to approve his innovative idea."
+            },
+            {
+              "cf": "",
+              "x": "Can you get your colleagues to attend the training session next week?"
+            },
+            {
+              "cf": "",
+              "x": "The manager got the staff to embrace the new company policies."
+            },
+            {
+              "cf": "",
+              "x": "I'm trying to get my sister to try out the new restaurant with me."
+            },
+            {
+              "cf": "",
+              "x": "The parents got their children to finish their homework before playtime."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "get around",
+      "id": "e01df8c0-a51a-43a0-a0aa-1c0f656ef1ec",
+      "word": "to get around",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IGFyb3VuZA&hash=777b9736fbf2d7f9b46c4724b31908b9f179527a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gɛt ə.raʊnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IGFyb3VuZA&hash=777b9736fbf2d7f9b46c4724b31908b9f179527a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "get ē.raoond",
       "img": "https://cdn.langeek.co/photo/53087/original/?type=jpeg",
       "pronunciation": "ɡɛt ɐɹˈaʊnd",
       "senses": [
         {
           "definition": "to persuade someone or something to agree to what one wants, often by doing things they like",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Sarah knows how to get around her parents and convince them to extend her curfew."
+            },
+            {
+              "cf": "",
+              "x": "He can easily get around his colleagues and get them to help with his projects."
+            },
+            {
+              "cf": "",
+              "x": "Teens can be quite adept at getting around their teachers and avoiding homework."
+            },
+            {
+              "cf": "",
+              "x": "By being persistent and charming, he got around the committee and secured their approval."
+            },
+            {
+              "cf": "",
+              "x": "The charity organization is skilled at getting around donors and securing contributions."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "get out",
+      "id": "d3c919fc-6383-4d1c-8097-43b6a23a4268",
+      "word": "to get out",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IG91dA&hash=6993c1e533277ef98590ed4416cb2575cf4c5bad&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gɛt aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IG91dA&hash=6993c1e533277ef98590ed4416cb2575cf4c5bad&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "get aoot",
       "img": "",
       "pronunciation": "ɡɛt ˈaʊt",
       "senses": [
         {
           "definition": "‌to get someone to say or do something through using force",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The interrogator used various tactics to get out the truth from the suspect."
+            },
+            {
+              "cf": "",
+              "x": "He tried to get out a confession from the witness under intense questioning."
+            },
+            {
+              "cf": "",
+              "x": "The bully attempted to get out a confession from the scared student."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "97ea8ef2-dc48-4a08-9fb2-7ea49738cea4",
       "word": "the gift of the gab",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIGdpZnQgb2YgdGhlIGdhYg&hash=67037e0adde0fbd0258c9ad0581139b4fddc37ac&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ðə gɪft ʌv ðə gæb",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIGdpZnQgb2YgdGhlIGdhYg&hash=67037e0adde0fbd0258c9ad0581139b4fddc37ac&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dhē gift av dhē gāb",
       "img": "",
       "pronunciation": "ðə ɡˈɪft ʌvðə ɡˈæb",
       "senses": [
@@ -532,28 +933,51 @@
       ]
     },
     {
-      "word": "harangue",
+      "id": "92dd26a6-452f-4f3c-bb1b-d8d5eecfbc8a",
+      "word": "to harangue",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGFyYW5ndWU&hash=300564dc11d78a3be2873c654782abd7aba21b2b&lang=en&cache-only=0",
-      "phonetic_text": "həræng",
+      "phonetic_text": "hɜ.ræng",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGFyYW5ndWU&hash=300564dc11d78a3be2873c654782abd7aba21b2b&lang=en&cache-only=0",
-      "phonetic_am_text": "hērāng",
+      "phonetic_am_text": "hē.rāng",
       "img": "",
       "pronunciation": "hɝˈæŋ",
       "senses": [
         {
           "definition": "to give a speech that is lengthy, loud, and angry intending to either persuade or criticize",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The politician harangued the crowd about the need for reform during the rally."
+            },
+            {
+              "cf": "",
+              "x": "The protest leader is haranguing the crowd to raise awareness about the issue."
+            },
+            {
+              "cf": "",
+              "x": "Every week, the coach harangues the players after their losses."
+            },
+            {
+              "cf": "",
+              "x": "She will harangue the committee if they do not address her concerns."
+            },
+            {
+              "cf": "",
+              "x": "By next week, she will have harangued everyone about the new policies."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7924053e-b641-4f16-9857-fb3c63bbd7e8",
       "word": "harangue",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFyYW5ndWU&hash=24cf2ffdd94d96abf16f051302ef19846adf1439&lang=en&cache-only=0",
-      "phonetic_text": "həræng",
+      "phonetic_text": "hɜ.ræng",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFyYW5ndWU&hash=24cf2ffdd94d96abf16f051302ef19846adf1439&lang=en&cache-only=0",
-      "phonetic_am_text": "hērāng",
+      "phonetic_am_text": "hē.rāng",
       "img": "",
       "pronunciation": "hɝˈæŋ",
       "senses": [
@@ -564,12 +988,13 @@
       ]
     },
     {
+      "id": "a5a7b30b-16a4-46c2-989b-e7e5c1778d3e",
       "word": "honest broker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG9uZXN0IGJyb2tlcg&hash=c39a9a825d34babc4d4892dcbb8b5a4edc6a7aa7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ.nəst broʊ.kɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9uZXN0IGJyb2tlcg&hash=c39a9a825d34babc4d4892dcbb8b5a4edc6a7aa7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aa.nēst brooo.kēr",
       "img": "",
       "pronunciation": "ˈɑːnɪst bɹˈoʊkɚ",
       "senses": [
@@ -580,108 +1005,233 @@
       ]
     },
     {
-      "word": "induce",
+      "id": "6996e37f-4170-4cf8-af49-c5c2571159f9",
+      "word": "to induce",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW5kdWNl&hash=433c9a064bdce9188e828897b0d441c78cf20ee6&lang=en&cache-only=0",
-      "phonetic_text": "ɪndu:s",
+      "phonetic_text": "ɪn.dus",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW5kdWNl&hash=433c9a064bdce9188e828897b0d441c78cf20ee6&lang=en&cache-only=0",
-      "phonetic_am_text": "indoos",
+      "phonetic_am_text": "in.doos",
       "img": "https://cdn.langeek.co/photo/58741/original/?type=jpeg",
       "pronunciation": "ˌɪnˈdus",
       "senses": [
         {
           "definition": "to influence someone to do something particular",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Management used a cash bonus to induce workers to take on risky offshore assignments."
+            },
+            {
+              "cf": "",
+              "x": "Protesters were inducing bystanders to join their demonstration as politicians debated inside."
+            },
+            {
+              "cf": "",
+              "x": "Her persuasive personality has been inducing people to participate in community projects for years."
+            },
+            {
+              "cf": "",
+              "x": "Had they offered better benefits, management might have induced unions to accept concessions."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1d85392a-23dd-402e-adac-aa62f19d9eb8",
       "word": "inducement",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5kdWNlbWVudA&hash=086c429e14681849c13889cdd5ae8e14e629ff03&lang=en&cache-only=0",
-      "phonetic_text": "ɪndu:smənt",
+      "phonetic_text": "ɪn.dus.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5kdWNlbWVudA&hash=086c429e14681849c13889cdd5ae8e14e629ff03&lang=en&cache-only=0",
-      "phonetic_am_text": "indoosmēnt",
+      "phonetic_am_text": "in.doos.mēnt",
       "img": "",
       "pronunciation": "ˌɪnˈdusmənt",
       "senses": [
         {
           "definition": "something given to someone in order to persuade or encourage them to do something particular",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The charity provided a small gift as an inducement to encourage donations."
+            },
+            {
+              "cf": "",
+              "x": "The CEO used a performance bonus as an inducement to motivate the team."
+            },
+            {
+              "cf": "",
+              "x": "The special discount acted as an inducement for customers to make a purchase."
+            },
+            {
+              "cf": "",
+              "x": "The school offered a scholarship as an inducement for high academic performance."
+            },
+            {
+              "cf": "",
+              "x": "They provided a free vacation as an inducement for signing the long-term contract."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "intercede",
+      "id": "2675025f-46dc-4925-8d97-908ffc9c0998",
+      "word": "to intercede",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW50ZXJjZWRl&hash=e83eba9411c595e1b36ce0d39169514c88280ddc&lang=en&cache-only=0",
-      "phonetic_text": "ɪntərsi:d",
+      "phonetic_text": "ɪn.tɜr.sid",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW50ZXJjZWRl&hash=e83eba9411c595e1b36ce0d39169514c88280ddc&lang=en&cache-only=0",
-      "phonetic_am_text": "intērseed",
+      "phonetic_am_text": "in.tēr.sid",
       "img": "",
       "pronunciation": "ˌɪntɝˈsid",
       "senses": [
         {
           "definition": "to talk to someone and convince them to help settle an argument or spare someone from punishment",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The ambassador chose to intercede on behalf of the imprisoned journalist, hoping to secure his release."
+            },
+            {
+              "cf": "",
+              "x": "When the two colleagues got into a heated argument, Sarah tried to intercede before things got out of hand."
+            },
+            {
+              "cf": "",
+              "x": "She decided to intercede on behalf of her friend and spoke to the school administration about the unfair treatment."
+            },
+            {
+              "cf": "",
+              "x": "He bravely interceded to stop the fight and prevent further escalation of violence."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b83d89fa-9ea6-4e16-9545-2c3bbd564df2",
       "word": "intercession",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW50ZXJjZXNzaW9u&hash=d56a534f7450bd0b4962b9584d026efad6eb6bb0&lang=en&cache-only=0",
-      "phonetic_text": "ɪntərsɛʃən",
+      "phonetic_text": "ɪn.ɜr.sɛ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=aW50ZXJjZXNzaW9u&hash=d56a534f7450bd0b4962b9584d026efad6eb6bb0&lang=en&cache-only=0",
-      "phonetic_am_text": "intērseshēn",
+      "phonetic_am_text": "in.ēr.se.shēn",
       "img": "",
       "pronunciation": "ˌɪnɝˈsɛʃən/, /ˌɪntɝˈsɛʃən",
       "senses": [
         {
           "definition": "the action of talking to someone so that they help settle an argument or show kindness to someone else",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The community requested the mayor's intercession when the local park was threatened with closure."
+            },
+            {
+              "cf": "",
+              "x": "The principal made an intercession on behalf of the troubled student, asking for one more chance."
+            },
+            {
+              "cf": "",
+              "x": "Her intercession with the manager helped resolve the dispute between the employees."
+            },
+            {
+              "cf": "",
+              "x": "They hoped for the intercession of a senior colleague to expedite their promotion."
+            },
+            {
+              "cf": "",
+              "x": "The diplomat's intercession prevented the escalation of the international conflict."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "interest",
+      "id": "15c3d371-80a3-4752-bcbd-63e2ab70f1fa",
+      "word": "to interest",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW50ZXJlc3Q&hash=fe6c75f1fea4c541f0be128851e526606879ba03&lang=en&cache-only=0",
-      "phonetic_text": "ɪntrəst",
+      "phonetic_text": "ɪn.trəst",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW50ZXJlc3Q&hash=fe6c75f1fea4c541f0be128851e526606879ba03&lang=en&cache-only=0",
-      "phonetic_am_text": "intrēst",
+      "phonetic_am_text": "in.trēst",
       "img": "",
-      "pronunciation": "ˈɪntɝəst/, /ˈɪntɝɪst/, /ˈɪntɹəst/, /ˈɪntɹɪst",
+      "pronunciation": "ˈɪntrəst",
       "senses": [
         {
           "definition": "to try to persuade someone to do, eat, or buy something specific",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The salesperson tried to interest the customer in the latest smartphone model, highlighting its advanced features and benefits."
+            },
+            {
+              "cf": "",
+              "x": "The chef went out of his way to interest the guests in trying the new dish on the menu, describing its unique flavors and ingredients."
+            },
+            {
+              "cf": "",
+              "x": "The fitness trainer sought to interest clients in a personalized workout plan tailored to their fitness goals and preferences."
+            },
+            {
+              "cf": "",
+              "x": "During the presentation, the speaker aimed to interest the audience in supporting a charitable cause by emphasizing its positive impact on the community."
+            },
+            {
+              "cf": "",
+              "x": "The marketing team worked hard to interest consumers in the new product, creating engaging campaigns to highlight its advantages."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "06cab83f-0f54-42e3-a841-150ec0b186b5",
       "word": "intermediary",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW50ZXJtZWRpYXJ5&hash=5e4f7d226d73c198598772c916a047b59aff9f7a&lang=en&cache-only=0",
-      "phonetic_text": "ɪnərmi:diɛri",
+      "phonetic_text": "ɪn.ɜr.mi.diɛ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=aW50ZXJtZWRpYXJ5&hash=5e4f7d226d73c198598772c916a047b59aff9f7a&lang=en&cache-only=0",
-      "phonetic_am_text": "inērmeedieri",
+      "phonetic_am_text": "in.ēr.mi.die.ri",
       "img": "",
       "pronunciation": "ˌɪnɝˈmidiɛɹi/, /ˌɪntɝˈmidiɛɹi",
       "senses": [
         {
           "definition": "an organization or someone who helps others to reach an agreement",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The mediator acted as an intermediary between the two disputing parties."
+            },
+            {
+              "cf": "",
+              "x": "The company hired an intermediary to facilitate the merger negotiations."
+            },
+            {
+              "cf": "",
+              "x": "The lawyer served as an intermediary to help resolve the contract dispute."
+            },
+            {
+              "cf": "",
+              "x": "The diplomat played a key role as an intermediary in the international negotiations."
+            },
+            {
+              "cf": "",
+              "x": "The real estate agent acted as an intermediary in the property transaction."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "6bad5c9b-15b7-4cca-851c-e15a7d03c6cf",
       "word": "intermediary",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aW50ZXJtZWRpYXJ5&hash=5e4f7d226d73c198598772c916a047b59aff9f7a&lang=en&cache-only=0",
-      "phonetic_text": "ɪnərmi:diɛri",
+      "phonetic_text": "ɪn.ɜr.mi.diɛ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=aW50ZXJtZWRpYXJ5&hash=5e4f7d226d73c198598772c916a047b59aff9f7a&lang=en&cache-only=0",
-      "phonetic_am_text": "inērmeedieri",
+      "phonetic_am_text": "in.ēr.mi.die.ri",
       "img": "",
       "pronunciation": "ˌɪnɝˈmidiɛɹi/, /ˌɪntɝˈmidiɛɹi",
       "senses": [
@@ -692,14 +1242,15 @@
       ]
     },
     {
-      "word": "intervene",
+      "id": "c27bd9a8-89b5-44f4-a645-3a9fdf094b99",
+      "word": "to intervene",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW50ZXJ2ZW5l&hash=d2fa38548725488d0d82e4cf41e32e91fd5dfe7f&lang=en&cache-only=0",
-      "phonetic_text": "ɪntərvi:n",
+      "phonetic_text": "ɪn.tɜr.vin",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW50ZXJ2ZW5l&hash=d2fa38548725488d0d82e4cf41e32e91fd5dfe7f&lang=en&cache-only=0",
-      "phonetic_am_text": "intērveen",
+      "phonetic_am_text": "in.tēr.vin",
       "img": "",
-      "pronunciation": "ˌɪntɝˈvin",
+      "pronunciation": "ˌɪntɚˈviːn",
       "senses": [
         {
           "definition": "to intentionally become involved in a difficult situation in order to improve it or prevent it from getting worse",
@@ -733,28 +1284,51 @@
       ]
     },
     {
+      "id": "9e4b8781-bfa6-4fb3-be32-6e1600ddd970",
       "word": "intervention",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW50ZXJ2ZW50aW9u&hash=3379d5e5e5108e6f1c26ef75ccb79d8c95ee46e5&lang=en&cache-only=0",
-      "phonetic_text": "ɪntərvɛnʃən",
+      "phonetic_text": "ɪn.tɜr.vɛn.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=aW50ZXJ2ZW50aW9u&hash=3379d5e5e5108e6f1c26ef75ccb79d8c95ee46e5&lang=en&cache-only=0",
-      "phonetic_am_text": "intērvenshēn",
+      "phonetic_am_text": "in.tēr.ven.shēn",
       "img": "",
       "pronunciation": "ˌɪntɝˈvɛnʃən",
       "senses": [
         {
           "definition": "the involvement in a difficult situation in order to improve it or prevent it from getting worse",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The teacher's intervention helped the struggling student improve their grades."
+            },
+            {
+              "cf": "",
+              "x": "Timely intervention by the coach turned the team's performance around."
+            },
+            {
+              "cf": "",
+              "x": "The counselor's intervention was key in improving communication within the team."
+            },
+            {
+              "cf": "",
+              "x": "Effective intervention by the fire department contained the blaze before it spread."
+            },
+            {
+              "cf": "",
+              "x": "The government called for international intervention to address the humanitarian crisis."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "jolly into",
+      "id": "0ee252db-1acb-44ca-969d-4f5aab6b1a3d",
+      "word": "to jolly into",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gam9sbHkgaW50bw&hash=cd3a2845dfdbd9cb65273b0664bb016f517fa557&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤɑ.li ɪn.tu",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gam9sbHkgaW50bw&hash=cd3a2845dfdbd9cb65273b0664bb016f517fa557&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "jaa.li in.too",
       "img": "",
       "pronunciation": "dʒˈɑːli ˌɪntʊ",
       "senses": [
@@ -765,14 +1339,15 @@
       ]
     },
     {
-      "word": "lobby",
+      "id": "9434795a-74a9-4632-95bb-c3a0d88507b2",
+      "word": "to lobby",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbG9iYnk&hash=9c8349f0c5744c5f3709fc74b8843282a5aef2bb&lang=en&cache-only=0",
-      "phonetic_text": "lɑ:bi",
+      "phonetic_text": "lɑ.bi",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbG9iYnk&hash=9c8349f0c5744c5f3709fc74b8843282a5aef2bb&lang=en&cache-only=0",
-      "phonetic_am_text": "laabi",
-      "img": "",
-      "pronunciation": "ˈɫɑbi",
+      "phonetic_am_text": "laa.bi",
+      "img": "https://cdn.langeek.co/photo/59987/original/?type=jpeg",
+      "pronunciation": "ˈlɑbi",
       "senses": [
         {
           "definition": "to make an attempt to persuade politicians to agree or disagree with a law being made or changed",
@@ -802,12 +1377,13 @@
       ]
     },
     {
+      "id": "df2380d7-80c3-4bb0-af64-bbbc9ded0162",
       "word": "lobbyist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9iYnlpc3Q&hash=fcd6027bd2320773c9bacacb3d090d617e60f19d&lang=en&cache-only=0",
-      "phonetic_text": "lɑ:biəst",
+      "phonetic_text": "lɑ.biəst",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9iYnlpc3Q&hash=fcd6027bd2320773c9bacacb3d090d617e60f19d&lang=en&cache-only=0",
-      "phonetic_am_text": "laabiēst",
+      "phonetic_am_text": "laa.biēst",
       "img": "",
       "pronunciation": "ˈɫɑbiəst",
       "senses": [
@@ -818,12 +1394,13 @@
       ]
     },
     {
-      "word": "lure",
+      "id": "2a043b39-8bca-40fe-ba63-f7c93295295e",
+      "word": "to lure",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbHVyZQ&hash=7b90141dbd495ea60f561ecbf80387512adf66b6&lang=en&cache-only=0",
       "phonetic_text": "lʊr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbHVyZQ&hash=7b90141dbd495ea60f561ecbf80387512adf66b6&lang=en&cache-only=0",
-      "phonetic_am_text": "lur",
+      "phonetic_am_text": "loor",
       "img": "https://cdn.langeek.co/photo/58739/original/?type=jpeg",
       "pronunciation": "ˈɫʊɹ",
       "senses": [

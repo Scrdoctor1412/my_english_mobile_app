@@ -1,15 +1,17 @@
 {
+  "id": "bb427252-50c9-4578-ae60-f6e6777b5e96",
   "topic": "food_and_drinks",
   "title": "Beer",
   "lesson": "lesson_40",
   "word_list": [
     {
+      "id": "a4939cc1-52e5-4ba1-8d27-a1c43e8a0196",
       "word": "lager",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFnZXI&hash=eb98312d757f17cae8a1728b7d9bade1b9ac9feb&lang=en&cache-only=0",
-      "phonetic_text": "lɑ:gər",
+      "phonetic_text": "lɑ.gɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFnZXI&hash=eb98312d757f17cae8a1728b7d9bade1b9ac9feb&lang=en&cache-only=0",
-      "phonetic_am_text": "laagēr",
+      "phonetic_am_text": "laa.gēr",
       "img": "https://cdn.langeek.co/photo/18339/original/beer?type=jpeg",
       "pronunciation": "ˈɫɑɡɝ",
       "senses": [
@@ -20,6 +22,7 @@
       ]
     },
     {
+      "id": "ece6e625-f0fc-4664-b00c-b08e1054343e",
       "word": "ale",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWxl&hash=33ebb8d78a46deb8c3d22bea29dbe68705ef5582&lang=en&cache-only=0",
@@ -57,14 +60,15 @@
       ]
     },
     {
+      "id": "28f3e6f3-9d66-40af-b3bd-c74e03de038b",
       "word": "bitter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Yml0dGVy&hash=a4c043a9f3b714360345d1ec0a09235cf6cf1627&lang=en&cache-only=0",
-      "phonetic_text": "bɪtər",
+      "phonetic_text": "bɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=Yml0dGVy&hash=a4c043a9f3b714360345d1ec0a09235cf6cf1627&lang=en&cache-only=0",
-      "phonetic_am_text": "bitēr",
+      "phonetic_am_text": "bi.tēr",
       "img": "https://cdn.langeek.co/photo/18339/original/beer?type=jpeg",
-      "pronunciation": "ˈbɪtər",
+      "pronunciation": "ˈbɪtɚ",
       "senses": [
         {
           "definition": "a type of beer with a prominent hoppy flavor and noticeable bitterness",
@@ -86,10 +90,11 @@
       ]
     },
     {
+      "id": "61338c1c-5e8e-43ee-b81e-d26f7eec8f74",
       "word": "Guinness",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=R3Vpbm5lc3M&hash=77ec7cc40518dda8197c1256231eb3ff3271899b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=R3Vpbm5lc3M&hash=77ec7cc40518dda8197c1256231eb3ff3271899b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -102,12 +107,13 @@
       ]
     },
     {
+      "id": "6fd391aa-8664-444b-a4b8-16aab7cc2452",
       "word": "home brew",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG9tZSBicmV3&hash=52840cc08aab6b3863b4c99f0f8c4313a8795701&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hoʊm bru",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9tZSBicmV3&hash=52840cc08aab6b3863b4c99f0f8c4313a8795701&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hooom broo",
       "img": "",
       "pronunciation": "hˈoʊm bɹˈuː",
       "senses": [
@@ -118,12 +124,13 @@
       ]
     },
     {
+      "id": "a17aaf4d-bd4d-47ae-8c72-ea7a3ee6c07b",
       "word": "pale ale",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFsZSBhbGU&hash=d063bd6af4996b526d11198f96ea6d83f7476015&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "peɪl eɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFsZSBhbGU&hash=d063bd6af4996b526d11198f96ea6d83f7476015&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "peil eil",
       "img": "",
       "pronunciation": "pˈeɪl ˈeɪl",
       "senses": [
@@ -155,14 +162,15 @@
       ]
     },
     {
+      "id": "b894c052-d2cc-45e0-9772-51bb857c5664",
       "word": "stout",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RvdXQ&hash=ae114009df5728edd5e10fe1fb8aece1530e3bd1&lang=en&cache-only=0",
       "phonetic_text": "staʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RvdXQ&hash=ae114009df5728edd5e10fe1fb8aece1530e3bd1&lang=en&cache-only=0",
-      "phonetic_am_text": "stawt",
+      "phonetic_am_text": "staoot",
       "img": "",
-      "pronunciation": "ˈstaʊt",
+      "pronunciation": "staʊt",
       "senses": [
         {
           "definition": "a type of dark beer that is characterized by its roasted malt flavor, full body, and creamy head",
@@ -171,12 +179,13 @@
       ]
     },
     {
+      "id": "f3390783-cd00-4ad8-9697-6e47e08aef1f",
       "word": "session beer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Vzc2lvbiBiZWVy&hash=20e855865aef41e27002fcd72df78b49fe22d042&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛ.ʃən bɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Vzc2lvbiBiZWVy&hash=20e855865aef41e27002fcd72df78b49fe22d042&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "se.shēn bir",
       "img": "",
       "pronunciation": "sɛʃən bɪɹ",
       "senses": [
@@ -187,12 +196,13 @@
       ]
     },
     {
+      "id": "98d6107e-5db2-42f4-b3a6-4012bd03beb3",
       "word": "guest beer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3Vlc3QgYmVlcg&hash=dd391b1bd61cc6561cfdb458d0ec84c8f94eab49&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gɛst bɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3Vlc3QgYmVlcg&hash=dd391b1bd61cc6561cfdb458d0ec84c8f94eab49&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gest bir",
       "img": "",
       "pronunciation": "ɡɛst bɪɹ",
       "senses": [
@@ -203,12 +213,13 @@
       ]
     },
     {
+      "id": "d55a39e9-bf5d-4873-ad13-6e9c5626aaa3",
       "word": "brown ale",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJvd24gYWxl&hash=5c142265e1bff00420fbb84b0c0d0bfeffa03db0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "braʊn eɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJvd24gYWxl&hash=5c142265e1bff00420fbb84b0c0d0bfeffa03db0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "braoon eil",
       "img": "",
       "pronunciation": "bɹaʊn eɪl",
       "senses": [
@@ -219,12 +230,13 @@
       ]
     },
     {
+      "id": "2c378a2b-c624-44e8-9055-22e52ddeebd6",
       "word": "amber fluid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW1iZXIgZmx1aWQ&hash=ec979e2d71e1d2cc311c26c9a33927f6ed0c3d55&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æm.bɜr fluəd",
       "phonetic_am": "https://tts.langeek.co/read?text=YW1iZXIgZmx1aWQ&hash=ec979e2d71e1d2cc311c26c9a33927f6ed0c3d55&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ām.bēr flooēd",
       "img": "",
       "pronunciation": "æmbɚ fluːɪd",
       "senses": [
@@ -235,12 +247,13 @@
       ]
     },
     {
+      "id": "d3e325da-4a4e-4e69-8dd3-bb8a4fb1d8d1",
       "word": "rice beer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmljZSBiZWVy&hash=8a3b094731b64c9dc8e0c70cf722d922a025e6d3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "raɪs bɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=cmljZSBiZWVy&hash=8a3b094731b64c9dc8e0c70cf722d922a025e6d3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rais bir",
       "img": "https://cdn.langeek.co/photo/31821/original/?type=jpeg",
       "pronunciation": "ɹˈaɪs bˈɪɹ",
       "senses": [
@@ -251,12 +264,13 @@
       ]
     },
     {
+      "id": "427da40f-f1d0-44d0-b75e-12dd23ee7d5b",
       "word": "craft beer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3JhZnQgYmVlcg&hash=789c7ef5248f9433f554603a04baef515fb57199&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kræft bɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3JhZnQgYmVlcg&hash=789c7ef5248f9433f554603a04baef515fb57199&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "krāft bir",
       "img": "https://cdn.langeek.co/photo/18339/original/beer?type=jpeg",
       "pronunciation": "kɹˈæft bˈɪɹ",
       "senses": [
@@ -267,12 +281,13 @@
       ]
     },
     {
+      "id": "d79147b2-332b-4e84-808d-d8c11d290a4b",
       "word": "white beer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2hpdGUgYmVlcg&hash=f73a09295f7caf681a3ef626d7c59be2f088dda0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "waɪt bɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hpdGUgYmVlcg&hash=f73a09295f7caf681a3ef626d7c59be2f088dda0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vait bir",
       "img": "",
       "pronunciation": "wˈaɪt bˈɪɹ",
       "senses": [
@@ -283,12 +298,13 @@
       ]
     },
     {
+      "id": "d25026df-0524-4ed8-aae3-f1e0bc82f2f6",
       "word": "spruce beer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BydWNlIGJlZXI&hash=9514f31612bf42c7f47dd86b781ad6e2e8f0dac5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sprus bɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BydWNlIGJlZXI&hash=9514f31612bf42c7f47dd86b781ad6e2e8f0dac5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sproos bir",
       "img": "",
       "pronunciation": "spɹˈuːs bˈɪɹ",
       "senses": [
@@ -299,12 +315,13 @@
       ]
     },
     {
+      "id": "790b7d8b-7b5a-42ae-9cdb-92ff114fce24",
       "word": "porter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9ydGVy&hash=6fa4778f265c2d15c99cd655194c160095e98ec7&lang=en&cache-only=0",
-      "phonetic_text": "pɔ:rtər",
+      "phonetic_text": "pɔr.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9ydGVy&hash=6fa4778f265c2d15c99cd655194c160095e98ec7&lang=en&cache-only=0",
-      "phonetic_am_text": "paawrtēr",
+      "phonetic_am_text": "pawr.tēr",
       "img": "",
       "pronunciation": "ˈpɔɹtɝ",
       "senses": [
@@ -315,10 +332,11 @@
       ]
     },
     {
+      "id": "a6e63f9e-c3ac-49d9-a9d9-67369d55ee18",
       "word": "Munchener",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=TXVuY2hlbmVy&hash=dd25f05c2b700663ecb52e24f4515bb16b243e70&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=TXVuY2hlbmVy&hash=dd25f05c2b700663ecb52e24f4515bb16b243e70&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -331,12 +349,13 @@
       ]
     },
     {
+      "id": "6e1408a4-ceeb-41cf-a7ff-5cb384a3a5de",
       "word": "light beer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGlnaHQgYmVlcg&hash=c879c9361cbc74063e839580ed7487456a695b15&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "laɪt bɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlnaHQgYmVlcg&hash=c879c9361cbc74063e839580ed7487456a695b15&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lait bir",
       "img": "",
       "pronunciation": "lˈaɪt bˈɪɹ",
       "senses": [
@@ -347,12 +366,13 @@
       ]
     },
     {
+      "id": "01aa7207-86f6-48a8-be79-53f409db5e0b",
       "word": "draft beer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJhZnQgYmVlcg&hash=5338396fba0c9974165bf6211ac26046bdefad40&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dræft bɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJhZnQgYmVlcg&hash=5338396fba0c9974165bf6211ac26046bdefad40&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "drāft bir",
       "img": "",
       "pronunciation": "dɹˈæft bˈɪɹ",
       "senses": [
@@ -363,10 +383,11 @@
       ]
     },
     {
+      "id": "1773c5fb-d168-4647-96e5-49187aa92a18",
       "word": "bock",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9jaw&hash=e7af9f79ab22cd2760b4956c4ef0f946d794e96d&lang=en&cache-only=0",
-      "phonetic_text": "bɑ:k",
+      "phonetic_text": "bɑk",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9jaw&hash=e7af9f79ab22cd2760b4956c4ef0f946d794e96d&lang=en&cache-only=0",
       "phonetic_am_text": "baak",
       "img": "",
@@ -379,12 +400,13 @@
       ]
     },
     {
+      "id": "447191a6-8e6e-4005-8e9b-619784ab3d17",
       "word": "birch beer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmlyY2ggYmVlcg&hash=1b81cd63d5a903d5a958d1e6aa26f18e5b7b3c73&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɜrʧ bɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=YmlyY2ggYmVlcg&hash=1b81cd63d5a903d5a958d1e6aa26f18e5b7b3c73&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bērch bir",
       "img": "",
       "pronunciation": "bˈɜːtʃ bˈɪɹ",
       "senses": [
@@ -395,12 +417,13 @@
       ]
     },
     {
+      "id": "5b98f028-d700-4149-9ae6-d01fa6de88fe",
       "word": "barley wine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFybGV5IHdpbmU&hash=d2c4cbf28a0a351d83d9d055b874d81097cca2b7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɑr.li waɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFybGV5IHdpbmU&hash=d2c4cbf28a0a351d83d9d055b874d81097cca2b7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baar.li vain",
       "img": "",
       "pronunciation": "bˈɑːɹli wˈaɪn",
       "senses": [
@@ -411,10 +434,11 @@
       ]
     },
     {
+      "id": "377a15bd-a5ca-4264-be9e-a50a9cb59427",
       "word": "biere de garde",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmllcmUgZGUgZ2FyZGU&hash=aa651f69504470f098814ab92a51df43182cb353&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YmllcmUgZGUgZ2FyZGU&hash=aa651f69504470f098814ab92a51df43182cb353&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -427,12 +451,13 @@
       ]
     },
     {
+      "id": "8fc151ea-b8ea-4340-bf0a-cc83535a9ce4",
       "word": "black and tan",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmxhY2sgYW5kIHRhbg&hash=93a7d75e236150b703e072e778c0b1b3e496d168&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "blæk ænd tæn",
       "phonetic_am": "https://tts.langeek.co/read?text=YmxhY2sgYW5kIHRhbg&hash=93a7d75e236150b703e072e778c0b1b3e496d168&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "blāk ānd tān",
       "img": "",
       "pronunciation": "blˈæk ænd tˈæn",
       "senses": [
@@ -443,12 +468,13 @@
       ]
     },
     {
+      "id": "f4040c9e-53eb-476e-bba0-4c9ded68f560",
       "word": "boilermaker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9pbGVybWFrZXI&hash=d6fae642af6cd8e93bcf0bda4e2f5efab74ec2ec&lang=en&cache-only=0",
-      "phonetic_text": "bɔɪlərmeɪkər",
+      "phonetic_text": "bɔɪ.lər.meɪ.kər",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9pbGVybWFrZXI&hash=d6fae642af6cd8e93bcf0bda4e2f5efab74ec2ec&lang=en&cache-only=0",
-      "phonetic_am_text": "boylērmeikēr",
+      "phonetic_am_text": "bawi.lēr.mei.kēr",
       "img": "",
       "pronunciation": "ˈbɔɪlərˌmeɪkər",
       "senses": [
@@ -459,12 +485,13 @@
       ]
     },
     {
+      "id": "33077843-32c3-45c7-a3ce-362e6f158bd3",
       "word": "draught beer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJhdWdodCBiZWVy&hash=f953662ed0a9a7a3e75e8d54d2bdfc1bd4b0249d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dræft bɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJhdWdodCBiZWVy&hash=f953662ed0a9a7a3e75e8d54d2bdfc1bd4b0249d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "drāft bir",
       "img": "",
       "pronunciation": "dɹˈæft bˈɪɹ",
       "senses": [
@@ -475,12 +502,13 @@
       ]
     },
     {
+      "id": "effb26d7-7307-4410-ac64-940aad3d0a05",
       "word": "gueuze",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3VldXpl&hash=a94d2482a1dd102288a495480ac19b765f101ce9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gju:z",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3VldXpl&hash=a94d2482a1dd102288a495480ac19b765f101ce9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gyooz",
       "img": "",
       "pronunciation": "ɡjˈuːz",
       "senses": [
@@ -491,12 +519,13 @@
       ]
     },
     {
+      "id": "d871f486-5bf4-4d15-9b71-793e958849a5",
       "word": "heavy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGVhdnk&hash=35f2737e54017ea38f0052324518c98a6a47c1e4&lang=en&cache-only=0",
-      "phonetic_text": "hɛvi",
+      "phonetic_text": "hɛ.vi",
       "phonetic_am": "https://tts.langeek.co/read?text=aGVhdnk&hash=35f2737e54017ea38f0052324518c98a6a47c1e4&lang=en&cache-only=0",
-      "phonetic_am_text": "hevi",
+      "phonetic_am_text": "he.vi",
       "img": "",
       "pronunciation": "ˈhɛvi",
       "senses": [
@@ -507,6 +536,7 @@
       ]
     },
     {
+      "id": "7b0c2602-e60e-4f8f-9a5d-7836927b7ee9",
       "word": "keg",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2Vn&hash=cb11d47979726722745e11203ff5fa9195cbd785&lang=en&cache-only=0",
@@ -523,12 +553,13 @@
       ]
     },
     {
+      "id": "dfba9da6-43c4-46e7-9c0f-ba14b1385f66",
       "word": "pilsner",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGlsc25lcg&hash=30101d5bb395fc4aadac4b7a6e0da68474eca3c7&lang=en&cache-only=0",
-      "phonetic_text": "pɪlznər",
+      "phonetic_text": "pɪlz.nɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cGlsc25lcg&hash=30101d5bb395fc4aadac4b7a6e0da68474eca3c7&lang=en&cache-only=0",
-      "phonetic_am_text": "pilznēr",
+      "phonetic_am_text": "pilz.nēr",
       "img": "",
       "pronunciation": "ˈpɪɫznɝ",
       "senses": [

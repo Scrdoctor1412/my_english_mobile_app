@@ -1,17 +1,19 @@
 {
+  "id": "3f6b85ef-6676-4e9e-85de-922ff8573d5a",
   "topic": "animals",
   "title": "Canines",
   "lesson": "lesson_1",
   "word_list": [
     {
+      "id": "2ef237c8-856c-4e7c-b43d-e2370d498c47",
       "word": "wolf",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d29sZg&hash=6be53fb6519a48c41e02f4e04884f1fa8ed86859&lang=en&cache-only=0",
       "phonetic_text": "wʊlf",
       "phonetic_am": "https://tts.langeek.co/read?text=d29sZg&hash=6be53fb6519a48c41e02f4e04884f1fa8ed86859&lang=en&cache-only=0",
-      "phonetic_am_text": "wulf",
+      "phonetic_am_text": "voolf",
       "img": "https://cdn.langeek.co/photo/17917/original/wolf?type=jpeg",
-      "pronunciation": "ˈwʊɫf",
+      "pronunciation": "wʊlf",
       "senses": [
         {
           "definition": "a big and wild animal from the same family as dogs that hunts for food in groups",
@@ -19,18 +21,27 @@
             {
               "cf": "",
               "x": "Legends often depict the cunning and mysterious nature of the mythical werewolf, part human, part wolf."
+            },
+            {
+              "cf": "",
+              "x": "The red wolf, with its rusty coat, is a symbol of conservation efforts in the Southeast."
+            },
+            {
+              "cf": "",
+              "x": "Timber wolves, or gray wolves, are found in North America, Eurasia, and the Middle East."
             }
           ]
         }
       ]
     },
     {
+      "id": "d8056950-36c4-4ae6-abb0-0a0d51d3f8e0",
       "word": "gray wolf",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JheSB3b2xm&hash=3b57d1bc19f3b83431aac5f315d95d8cc9f5d209&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "greɪ wʊlf",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JheSB3b2xm&hash=3b57d1bc19f3b83431aac5f315d95d8cc9f5d209&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "grei voolf",
       "img": "",
       "pronunciation": "ɡɹˈeɪ wˈʊlf",
       "senses": [
@@ -41,10 +52,11 @@
       ]
     },
     {
+      "id": "4a04cd9c-ca5d-4870-8348-b57ba6784bc1",
       "word": "maned wolf",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFuZWQgd29sZg&hash=0d3d00453ab32b38ff18c6729be8a4db733241be&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFuZWQgd29sZg&hash=0d3d00453ab32b38ff18c6729be8a4db733241be&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/33991/original/?type=jpeg",
@@ -57,10 +69,11 @@
       ]
     },
     {
+      "id": "722d1cc4-c376-44e6-9ced-9f87b94b49b3",
       "word": "Arctic wolf",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QXJjdGljIHdvbGY&hash=c1204340498d3a60b25a0f3a36f8e4b0ac32ee1b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QXJjdGljIHdvbGY&hash=c1204340498d3a60b25a0f3a36f8e4b0ac32ee1b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/20623/original/pack?type=jpeg",
@@ -73,10 +86,11 @@
       ]
     },
     {
+      "id": "7cd70445-c2ad-4145-9819-fe58c738074b",
       "word": "Ethiopian wolf",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RXRoaW9waWFuIHdvbGY&hash=c0253a7eecb107c2c0ae11e42e060e718dc93213&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RXRoaW9waWFuIHdvbGY&hash=c0253a7eecb107c2c0ae11e42e060e718dc93213&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/33985/original/?type=jpeg",
@@ -89,6 +103,7 @@
       ]
     },
     {
+      "id": "740aab5a-e75b-4164-8b32-bee7aae217e4",
       "word": "fox",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm94&hash=6dbc18df7f7b616f8e32fc6924313ed401ec5551&lang=en&cache-only=0",
@@ -122,12 +137,13 @@
       ]
     },
     {
+      "id": "e2cde910-9329-4cb9-acda-01e9a6029f0d",
       "word": "red fox",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVkIGZveA&hash=4c507bcb5e6febee94f6a3ef2b0027d30f1413cc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɛd fɑ:ks",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVkIGZveA&hash=4c507bcb5e6febee94f6a3ef2b0027d30f1413cc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "red faaks",
       "img": "https://cdn.langeek.co/photo/50078/original/fox?type=jpeg",
       "pronunciation": "ɹˈɛd fˈɑːks",
       "senses": [
@@ -138,12 +154,13 @@
       ]
     },
     {
+      "id": "20078606-6f4a-405f-84db-8cabf4e00e53",
       "word": "gray fox",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JheSBmb3g&hash=3f17e9ef345f91bae7aa40e8335291915143e213&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "greɪ fɑ:ks",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JheSBmb3g&hash=3f17e9ef345f91bae7aa40e8335291915143e213&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "grei faaks",
       "img": "https://cdn.langeek.co/photo/33987/original/?type=jpeg",
       "pronunciation": "ɡɹˈeɪ fˈɑːks",
       "senses": [
@@ -154,10 +171,11 @@
       ]
     },
     {
+      "id": "ba91cdb0-1c09-40a3-bfea-7337806bb0bb",
       "word": "Tibetan fox",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VGliZXRhbiBmb3g&hash=c19dd86cfdd39a2c135e2cee9e4dfd6cac4330a3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=VGliZXRhbiBmb3g&hash=c19dd86cfdd39a2c135e2cee9e4dfd6cac4330a3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/33993/original/?type=jpeg",
@@ -170,12 +188,13 @@
       ]
     },
     {
+      "id": "94c0a018-b3e7-48fa-a9e3-ad70c49af9ec",
       "word": "crab-eating fox",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3JhYi1lYXRpbmcgZm94&hash=2b6dedddade2e87391adb2c1c6f9766c7ab4641d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kræb-i.tɪng fɑ:ks",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3JhYi1lYXRpbmcgZm94&hash=2b6dedddade2e87391adb2c1c6f9766c7ab4641d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "krāb-i.ting faaks",
       "img": "",
       "pronunciation": "kɹˈæbˈiːɾɪŋ fˈɑːks",
       "senses": [
@@ -186,12 +205,13 @@
       ]
     },
     {
+      "id": "f63c8819-2009-4dfb-b400-812365b64a38",
       "word": "kit fox",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2l0IGZveA&hash=e876c29537e237d1e0e05f36fb1138aec54567f2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɪt fɑ:ks",
       "phonetic_am": "https://tts.langeek.co/read?text=a2l0IGZveA&hash=e876c29537e237d1e0e05f36fb1138aec54567f2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kit faaks",
       "img": "https://cdn.langeek.co/photo/33989/original/?type=jpeg",
       "pronunciation": "kˈɪt fˈɑːks",
       "senses": [
@@ -202,10 +222,11 @@
       ]
     },
     {
+      "id": "85bf0f73-5609-41ce-ad1a-2b88bec5c2dc",
       "word": "fennec fox",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmVubmVjIGZveA&hash=2e85ab20999cd6a0c4a0627b1906252f804c0ccd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmVubmVjIGZveA&hash=2e85ab20999cd6a0c4a0627b1906252f804c0ccd&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34029/original/?type=jpeg",
@@ -218,10 +239,11 @@
       ]
     },
     {
+      "id": "a329971f-a523-4d83-8e31-51a012338e17",
       "word": "corsac fox",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29yc2FjIGZveA&hash=6556b667dac89e6ee119e093320a4c638446bd85&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29yc2FjIGZveA&hash=6556b667dac89e6ee119e093320a4c638446bd85&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34023/original/?type=jpeg",
@@ -234,10 +256,11 @@
       ]
     },
     {
+      "id": "2b52598b-088f-4235-8987-f655b9700174",
       "word": "Cape fox",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q2FwZSBmb3g&hash=05d27a1aa0014e2666a32105621057d0d0e3f447&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Q2FwZSBmb3g&hash=05d27a1aa0014e2666a32105621057d0d0e3f447&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34021/original/?type=jpeg",
@@ -250,12 +273,13 @@
       ]
     },
     {
+      "id": "0b1422c3-4e84-4f23-8909-c49deba6b0bc",
       "word": "silver fox",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2lsdmVyIGZveA&hash=d54c5ecf17722a55b43aa0335b3ab04f3e3fdcd4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɪl.vər fɑ:ks",
       "phonetic_am": "https://tts.langeek.co/read?text=c2lsdmVyIGZveA&hash=d54c5ecf17722a55b43aa0335b3ab04f3e3fdcd4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sil.vēr faaks",
       "img": "https://cdn.langeek.co/photo/34294/original/?type=jpeg",
       "pronunciation": "sˈɪlvɚ fˈɑːks",
       "senses": [
@@ -266,12 +290,13 @@
       ]
     },
     {
+      "id": "7960ce0c-6d03-4928-9386-ff8288f0c1c2",
       "word": "hoary fox",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG9hcnkgZm94&hash=b5fd296e7b5d9cf80ab151c206c0754ef7a72d17&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɔ.ri fɑ:ks",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9hcnkgZm94&hash=b5fd296e7b5d9cf80ab151c206c0754ef7a72d17&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "haw.ri faaks",
       "img": "",
       "pronunciation": "ˈhɔːri fɑːks",
       "senses": [
@@ -282,12 +307,13 @@
       ]
     },
     {
+      "id": "9abf928a-8426-48d4-a61c-7d8fdc91b965",
       "word": "jackal",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=amFja2Fs&hash=ded8297832ae566ac68d21d0058b19c9bcd998c3&lang=en&cache-only=0",
-      "phonetic_text": "ʤækəl",
+      "phonetic_text": "ʤæ.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=amFja2Fs&hash=ded8297832ae566ac68d21d0058b19c9bcd998c3&lang=en&cache-only=0",
-      "phonetic_am_text": "jākēl",
+      "phonetic_am_text": "jā.kēl",
       "img": "https://cdn.langeek.co/photo/24190/original/?type=jpeg",
       "pronunciation": "ˈdʒækəɫ",
       "senses": [
@@ -298,12 +324,13 @@
       ]
     },
     {
+      "id": "7f238e9f-3f3e-4c91-8ff3-e9fc10aaa0b7",
       "word": "dhole",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGhvbGU&hash=11e41351f92ff8a22b8e98fac75c6a594a18c7fa&lang=en&cache-only=0",
       "phonetic_text": "doʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGhvbGU&hash=11e41351f92ff8a22b8e98fac75c6a594a18c7fa&lang=en&cache-only=0",
-      "phonetic_am_text": "dowl",
+      "phonetic_am_text": "doool",
       "img": "https://cdn.langeek.co/photo/34027/original/?type=jpeg",
       "pronunciation": "ˈdoʊɫ",
       "senses": [
@@ -314,12 +341,13 @@
       ]
     },
     {
+      "id": "c416f552-b9cd-41d2-9966-ca4efd77db15",
       "word": "dingo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGluZ28&hash=8d5e89b3ca060fe52d6f9825bf56bd0fb01cb456&lang=en&cache-only=0",
-      "phonetic_text": "dɪngoʊ",
+      "phonetic_text": "dɪn.goʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGluZ28&hash=8d5e89b3ca060fe52d6f9825bf56bd0fb01cb456&lang=en&cache-only=0",
-      "phonetic_am_text": "dingow",
+      "phonetic_am_text": "din.gooo",
       "img": "https://cdn.langeek.co/photo/24106/original/?type=jpeg",
       "pronunciation": "ˈdɪŋɡoʊ",
       "senses": [
@@ -330,14 +358,15 @@
       ]
     },
     {
+      "id": "d369d5e5-6a20-4695-af5d-b91ed4ed6bf7",
       "word": "coyote",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y295b3Rl&hash=00d2e53946d1191a04dfeaa31b0456bc174c75fc&lang=en&cache-only=0",
-      "phonetic_text": "kaɪoʊti",
+      "phonetic_text": "kaɪoʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y295b3Rl&hash=00d2e53946d1191a04dfeaa31b0456bc174c75fc&lang=en&cache-only=0",
-      "phonetic_am_text": "kaiowti",
+      "phonetic_am_text": "kaiooot",
       "img": "https://cdn.langeek.co/photo/24104/original/?type=jpeg",
-      "pronunciation": "ˈkaɪoʊt/, /kaɪˈoʊti",
+      "pronunciation": "kaɪˈoʊti/ , /ˈkaɪoʊt",
       "senses": [
         {
           "definition": "a North American wild animal that resembles a small wolf",
@@ -367,12 +396,13 @@
       ]
     },
     {
-      "word": "culpeo",
+      "id": "485d670f-545c-428a-a172-68f74efb2502",
+      "word": "Culpeo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q3VscGVv&hash=5b32f35846d4fd9ec2f41eb9f911e3587e7c189c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kʊl.peɪəʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=Q3VscGVv&hash=5b32f35846d4fd9ec2f41eb9f911e3587e7c189c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kool.peiēoo",
       "img": "https://cdn.langeek.co/photo/34025/original/?type=jpeg",
       "pronunciation": "kʊlˈpeɪəʊ",
       "senses": [
@@ -383,12 +413,13 @@
       ]
     },
     {
+      "id": "80ba1079-cd6b-451d-9906-4ad5c452b5ae",
       "word": "raccoon dog",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFjY29vbiBkb2c&hash=4f381aa6924208c4bba100d325dcd6d400b53107&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ræ.kun dɔ:g",
       "phonetic_am": "https://tts.langeek.co/read?text=cmFjY29vbiBkb2c&hash=4f381aa6924208c4bba100d325dcd6d400b53107&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rā.koon dawg",
       "img": "https://cdn.langeek.co/photo/34031/original/?type=jpeg",
       "pronunciation": "ɹækˈuːn dˈɑːɡ",
       "senses": [
@@ -399,12 +430,13 @@
       ]
     },
     {
+      "id": "8a531219-0469-4a35-a8b7-0aa6d77cc578",
       "word": "short-eared dog",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2hvcnQtZWFyZWQgZG9n&hash=998a5dd0fdf0e0e2fdd990ddfc8d251c8a1f2fd3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʃɔrt-ɪrd dɔ:g",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hvcnQtZWFyZWQgZG9n&hash=998a5dd0fdf0e0e2fdd990ddfc8d251c8a1f2fd3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "shawrt-ird dawg",
       "img": "https://cdn.langeek.co/photo/34303/original/?type=jpeg",
       "pronunciation": "ʃɔːrtˈɪəd dɒːɡ",
       "senses": [
@@ -415,12 +447,13 @@
       ]
     },
     {
+      "id": "39c121b2-1551-49f9-bca8-8176443687d7",
       "word": "bush dog",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVzaCBkb2c&hash=7117727cf0979afc89b7e12ef9e35066f4d1c190&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bʊʃ dɔ:g",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVzaCBkb2c&hash=7117727cf0979afc89b7e12ef9e35066f4d1c190&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "boosh dawg",
       "img": "https://cdn.langeek.co/photo/34296/original/?type=jpeg",
       "pronunciation": "bʊʃ dɒːɡ",
       "senses": [
@@ -431,12 +464,13 @@
       ]
     },
     {
+      "id": "dd135beb-4101-4248-918d-fc329ca263ff",
       "word": "hyena",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aHllbmE&hash=b5b63abf39eaf9f6c488898bc33323b8425c05cd&lang=en&cache-only=0",
-      "phonetic_text": "haɪi:nə",
+      "phonetic_text": "haɪi.nə",
       "phonetic_am": "https://tts.langeek.co/read?text=aHllbmE&hash=b5b63abf39eaf9f6c488898bc33323b8425c05cd&lang=en&cache-only=0",
-      "phonetic_am_text": "haieenē",
+      "phonetic_am_text": "haii.nē",
       "img": "https://cdn.langeek.co/photo/24184/original/?type=jpeg",
       "pronunciation": "haɪˈinə",
       "senses": [
@@ -447,12 +481,13 @@
       ]
     },
     {
+      "id": "30d63803-9e48-4f31-83f9-4caaab05aac6",
       "word": "brown hyena",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJvd24gaHllbmE&hash=e8cc83a214c7d0a3f213e17113088caa9eea9019&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "braʊn haɪi.nə",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJvd24gaHllbmE&hash=e8cc83a214c7d0a3f213e17113088caa9eea9019&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "braoon haii.nē",
       "img": "https://cdn.langeek.co/photo/34301/original/?type=jpeg",
       "pronunciation": "bɹˈaʊn haɪˈiːnə",
       "senses": [
@@ -463,12 +498,13 @@
       ]
     },
     {
+      "id": "1734ee5b-36a5-4488-bf74-76606f9e859c",
       "word": "striped hyena",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RyaXBlZCBoeWVuYQ&hash=1ac2badb9b5fffae8c879206052cb7185849a0e7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "straɪpt haɪi.nə",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyaXBlZCBoeWVuYQ&hash=1ac2badb9b5fffae8c879206052cb7185849a0e7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "straipt haii.nē",
       "img": "https://cdn.langeek.co/photo/34349/original/?type=jpeg",
       "pronunciation": "stɹˈaɪpt haɪˈiːnə",
       "senses": [
@@ -479,12 +515,13 @@
       ]
     },
     {
+      "id": "b62a46df-e110-47a1-9594-d54bce01fa36",
       "word": "spotted hyena",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BvdHRlZCBoeWVuYQ&hash=e5b8f2d6f4193a129fc130707bb0bc29615a1087&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spɑ.tɪd haɪi.nə",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BvdHRlZCBoeWVuYQ&hash=e5b8f2d6f4193a129fc130707bb0bc29615a1087&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "spaa.tid haii.nē",
       "img": "https://cdn.langeek.co/photo/24184/original/?type=jpeg",
       "pronunciation": "spˈɑːɾᵻd haɪˈiːnə",
       "senses": [
@@ -495,10 +532,11 @@
       ]
     },
     {
+      "id": "ac03866b-0fb9-4acf-b2c3-1ad3b7fb881a",
       "word": "African wild dog",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QWZyaWNhbiB3aWxkIGRvZw&hash=4c6c4a2760cc8d9058e6698129bd65b55b995798&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QWZyaWNhbiB3aWxkIGRvZw&hash=4c6c4a2760cc8d9058e6698129bd65b55b995798&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34033/original/?type=jpeg",
@@ -511,12 +549,13 @@
       ]
     },
     {
+      "id": "86fbaa4e-baa9-4298-a46c-e51f2ad871f3",
       "word": "island fox",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aXNsYW5kIGZveA&hash=c985fc1c10baf039ac3e58b2f77a053397399f57&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aɪ.lənd fɑ:ks",
       "phonetic_am": "https://tts.langeek.co/read?text=aXNsYW5kIGZveA&hash=c985fc1c10baf039ac3e58b2f77a053397399f57&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ai.lēnd faaks",
       "img": "",
       "pronunciation": "ˈaɪlənd fˈɑːks",
       "senses": [
@@ -527,12 +566,13 @@
       ]
     },
     {
+      "id": "825c7857-f0a8-4ec3-9c18-944ff7691c7b",
       "word": "swift fox",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3dpZnQgZm94&hash=b26a3a08fcc8291048183f5c4bd627d9aec85925&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "swɪft fɑ:ks",
       "phonetic_am": "https://tts.langeek.co/read?text=c3dpZnQgZm94&hash=b26a3a08fcc8291048183f5c4bd627d9aec85925&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "svift faaks",
       "img": "",
       "pronunciation": "swˈɪft fˈɑːks",
       "senses": [
@@ -543,12 +583,13 @@
       ]
     },
     {
+      "id": "0dcc05b4-5d48-4015-b3da-fda76667f2e4",
       "word": "bat-eared fox",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmF0LWVhcmVkIGZveA&hash=bd7518e104715a75d6822c2a71530361ad30efbf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæt-ɪrd fɑ:ks",
       "phonetic_am": "https://tts.langeek.co/read?text=YmF0LWVhcmVkIGZveA&hash=bd7518e104715a75d6822c2a71530361ad30efbf&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bāt-ird faaks",
       "img": "",
       "pronunciation": "bˈætˈɪɹd fˈɑːks",
       "senses": [
@@ -559,12 +600,13 @@
       ]
     },
     {
+      "id": "c9875466-bd53-4c65-b5ba-e993ee0ccb73",
       "word": "aardwolf",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWFyZHdvbGY&hash=2c5a978c4c915edd27d96bcd70d3fc53b45c4e06&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:rd.wʊlf",
       "phonetic_am": "https://tts.langeek.co/read?text=YWFyZHdvbGY&hash=2c5a978c4c915edd27d96bcd70d3fc53b45c4e06&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aard.voolf",
       "img": "",
       "pronunciation": "ˈɑːɹdwʊlf",
       "senses": [

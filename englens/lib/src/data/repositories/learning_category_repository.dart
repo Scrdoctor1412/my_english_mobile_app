@@ -166,60 +166,60 @@ class LearningCategoryRepositoryImpl extends GetxController
 
     for (var item in topics) {
       for (var lesson in item.lessons!) {
-        lesson.id = uuid.v4();
-        for (var word in lesson.wordList!) {
-          word.id = uuid.v4();
-        }
+        // lesson.id = uuid.v4();
+        // for (var word in lesson.wordList!) {
+        //   word.id = uuid.v4();
+        // }
         topicsWords.addAll(lesson.wordList!);
       }
     }
 
     for (var item in levelBased) {
       for (var lesson in item.lessons!) {
-        lesson.id = uuid.v4();
-        for (var word in lesson.wordList!) {
-          word.id = uuid.v4();
-        }
+        // lesson.id = uuid.v4();
+        // for (var word in lesson.wordList!) {
+        //   word.id = uuid.v4();
+        // }
         levelBasedWords.addAll(lesson.wordList!);
       }
     }
 
     for (var item in idioms) {
       for (var lesson in item.lessons!) {
-        lesson.id = uuid.v4();
-        for (var word in lesson.wordList!) {
-          word.id = uuid.v4();
-        }
+        // lesson.id = uuid.v4();
+        // for (var word in lesson.wordList!) {
+        //   word.id = uuid.v4();
+        // }
         idiomsWords.addAll(lesson.wordList!);
       }
     }
 
     for (var item in collocations) {
       for (var lesson in item.lessons!) {
-        lesson.id = uuid.v4();
-        for (var word in lesson.wordList!) {
-          word.id = uuid.v4();
-        }
+        // lesson.id = uuid.v4();
+        // for (var word in lesson.wordList!) {
+        //   word.id = uuid.v4();
+        // }
         collocaitonsWords.addAll(lesson.wordList!);
       }
     }
 
     for (var item in engProverbs) {
       for (var lesson in item.lessons!) {
-        lesson.id = uuid.v4();
-        for (var word in lesson.wordList!) {
-          word.id = uuid.v4();
-        }
+        // lesson.id = uuid.v4();
+        // for (var word in lesson.wordList!) {
+        //   word.id = uuid.v4();
+        // }
         engProverbsWords.addAll(lesson.wordList!);
       }
     }
 
     for (var item in phrasalVerbs) {
       for (var lesson in item.lessons!) {
-        lesson.id = uuid.v4();
-        for (var word in lesson.wordList!) {
-          word.id = uuid.v4();
-        }
+        // lesson.id = uuid.v4();
+        // for (var word in lesson.wordList!) {
+        //   word.id = uuid.v4();
+        // }
         phrasalVerbsWords.addAll(lesson.wordList!);
       }
     }

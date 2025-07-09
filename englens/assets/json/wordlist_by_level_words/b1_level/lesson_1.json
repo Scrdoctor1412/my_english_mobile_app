@@ -1,17 +1,19 @@
 {
+  "id": "92760564-5f9a-4e7f-950a-dbc08a9fab0a",
   "topic": "b1_level",
   "title": "The Animal Kingdom",
   "lesson": "lesson_1",
   "word_list": [
     {
+      "id": "4ed0b075-8a4b-46dd-9ad2-053085b194b9",
       "word": "alligator",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWxsaWdhdG9y&hash=ec5eb23fc6ad40723b85f91a349204662d52ee07&lang=en&cache-only=0",
-      "phonetic_text": "æləgeɪtər",
+      "phonetic_text": "æ.lɪ.geɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxsaWdhdG9y&hash=ec5eb23fc6ad40723b85f91a349204662d52ee07&lang=en&cache-only=0",
-      "phonetic_am_text": "ālēgeitēr",
+      "phonetic_am_text": "ā.li.gei.tēr",
       "img": "https://cdn.langeek.co/photo/17969/original/alligator?type=jpeg",
-      "pronunciation": "ˈæləˌgeɪtər",
+      "pronunciation": "ˈælɪˌɡeɪtɚ",
       "senses": [
         {
           "definition": "a large animal living in both water and on land which has strong jaws, a long tail, and sharp teeth",
@@ -41,6 +43,7 @@
       ]
     },
     {
+      "id": "2673b7e7-5dfe-4c75-8871-f977bbe3cdb4",
       "word": "ant",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW50&hash=53839514638f8168c2da4cc93dd93e055365f49d&lang=en&cache-only=0",
@@ -48,7 +51,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=YW50&hash=53839514638f8168c2da4cc93dd93e055365f49d&lang=en&cache-only=0",
       "phonetic_am_text": "ānt",
       "img": "https://cdn.langeek.co/photo/17971/original/ant?type=jpeg",
-      "pronunciation": "ˈænt",
+      "pronunciation": "ænt",
       "senses": [
         {
           "definition": "a small insect that lives in a colony",
@@ -78,6 +81,7 @@
       ]
     },
     {
+      "id": "4e519329-54c2-4851-8da7-8a966f071023",
       "word": "bat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmF0&hash=4147aa6df285da69481cbec7bb1bdcf271413692&lang=en&cache-only=0",
@@ -85,7 +89,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=YmF0&hash=4147aa6df285da69481cbec7bb1bdcf271413692&lang=en&cache-only=0",
       "phonetic_am_text": "bāt",
       "img": "https://cdn.langeek.co/photo/18013/original/bat?type=jpeg",
-      "pronunciation": "ˈbæt",
+      "pronunciation": "bæt",
       "senses": [
         {
           "definition": "a small flying creature that comes out at night",
@@ -111,6 +115,7 @@
       ]
     },
     {
+      "id": "417b0404-eabe-4ec2-a1ba-57bc2c91b0bd",
       "word": "rat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmF0&hash=b23ce0e5d8273a9c0208df072d816f0eae33d452&lang=en&cache-only=0",
@@ -118,7 +123,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=cmF0&hash=b23ce0e5d8273a9c0208df072d816f0eae33d452&lang=en&cache-only=0",
       "phonetic_am_text": "rāt",
       "img": "https://cdn.langeek.co/photo/50182/original/rat?type=jpeg",
-      "pronunciation": "ˈɹæt",
+      "pronunciation": "ræt",
       "senses": [
         {
           "definition": "a large mouse-like animal with a long tail, which spreads diseases",
@@ -148,14 +153,15 @@
       ]
     },
     {
+      "id": "a67e0b92-4aba-4f91-86bd-b4b94a9ba1d2",
       "word": "wolf",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d29sZg&hash=6be53fb6519a48c41e02f4e04884f1fa8ed86859&lang=en&cache-only=0",
       "phonetic_text": "wʊlf",
       "phonetic_am": "https://tts.langeek.co/read?text=d29sZg&hash=6be53fb6519a48c41e02f4e04884f1fa8ed86859&lang=en&cache-only=0",
-      "phonetic_am_text": "wulf",
+      "phonetic_am_text": "voolf",
       "img": "https://cdn.langeek.co/photo/17917/original/wolf?type=jpeg",
-      "pronunciation": "ˈwʊɫf",
+      "pronunciation": "wʊlf",
       "senses": [
         {
           "definition": "a big and wild animal from the same family as dogs that hunts for food in groups",
@@ -163,20 +169,29 @@
             {
               "cf": "",
               "x": "Legends often depict the cunning and mysterious nature of the mythical werewolf, part human, part wolf."
+            },
+            {
+              "cf": "",
+              "x": "The red wolf, with its rusty coat, is a symbol of conservation efforts in the Southeast."
+            },
+            {
+              "cf": "",
+              "x": "Timber wolves, or gray wolves, are found in North America, Eurasia, and the Middle East."
             }
           ]
         }
       ]
     },
     {
+      "id": "3ddf1be8-18c4-4b5a-9b4d-df29ef3edeca",
       "word": "turtle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHVydGxl&hash=b6d2f1b30204fccf50f6ae1b6d766f995fc0d55e&lang=en&cache-only=0",
-      "phonetic_text": "tɜrtəl",
+      "phonetic_text": "tɜrtl",
       "phonetic_am": "https://tts.langeek.co/read?text=dHVydGxl&hash=b6d2f1b30204fccf50f6ae1b6d766f995fc0d55e&lang=en&cache-only=0",
-      "phonetic_am_text": "tērtēl",
+      "phonetic_am_text": "tērtl",
       "img": "https://cdn.langeek.co/photo/18169/original/turtle?type=jpeg",
-      "pronunciation": "ˈtɝtəɫ",
+      "pronunciation": "ˈtɝtl",
       "senses": [
         {
           "definition": "an animal that has a hard shell around its body and lives mainly in water",
@@ -206,14 +221,15 @@
       ]
     },
     {
+      "id": "58697362-cf81-480d-8df7-dbde2885342f",
       "word": "goldfish",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29sZGZpc2g&hash=6f9739af29024d1bdeddd6e7eca2a37cf34a70aa&lang=en&cache-only=0",
-      "phonetic_text": "goʊldfɪʃ",
+      "phonetic_text": "goʊld.fɪʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=Z29sZGZpc2g&hash=6f9739af29024d1bdeddd6e7eca2a37cf34a70aa&lang=en&cache-only=0",
-      "phonetic_am_text": "gowldfish",
+      "phonetic_am_text": "gooold.fish",
       "img": "https://cdn.langeek.co/photo/17983/original/goldfish?type=jpeg",
-      "pronunciation": "ˈɡoʊɫdˌfɪʃ",
+      "pronunciation": "ˈɡoʊldˌfɪʃ",
       "senses": [
         {
           "definition": "a small red or orange fish often kept as a pet",
@@ -235,14 +251,15 @@
       ]
     },
     {
+      "id": "6cc1f72c-3749-4c99-96a0-7a21819f011e",
       "word": "bull",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVsbA&hash=3b62dc9fcab682ee86b24aa98b3571c0f21c5f09&lang=en&cache-only=0",
       "phonetic_text": "bʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVsbA&hash=3b62dc9fcab682ee86b24aa98b3571c0f21c5f09&lang=en&cache-only=0",
-      "phonetic_am_text": "bul",
+      "phonetic_am_text": "bool",
       "img": "https://cdn.langeek.co/photo/17973/original/bull?type=jpeg",
-      "pronunciation": "ˈbʊɫ",
+      "pronunciation": "bʊl",
       "senses": [
         {
           "definition": "any male member of the cow family",
@@ -272,14 +289,15 @@
       ]
     },
     {
+      "id": "47f67341-08f1-4ac8-9afa-43cf160d65fa",
       "word": "chimpanzee",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hpbXBhbnplZQ&hash=f0279f4411b14199c5fff216b403024b3394d360&lang=en&cache-only=0",
-      "phonetic_text": "ʧɪmpænzi",
+      "phonetic_text": "ʧɪm.pæn.zi",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hpbXBhbnplZQ&hash=f0279f4411b14199c5fff216b403024b3394d360&lang=en&cache-only=0",
-      "phonetic_am_text": "chimpānzi",
+      "phonetic_am_text": "chim.pān.zi",
       "img": "https://cdn.langeek.co/photo/17975/original/chimpanzee?type=jpeg",
-      "pronunciation": "tʃɪmˈpænzi",
+      "pronunciation": "ˌʧɪmpænˈziː",
       "senses": [
         {
           "definition": "an intelligent ape, with mainly black fur, which has no tail and is native to the forests of western and central Africa",
@@ -305,14 +323,15 @@
       ]
     },
     {
+      "id": "bfad6e22-91fd-4717-9765-4e67994bb46e",
       "word": "donkey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZG9ua2V5&hash=797ffc28bb73d3530127b734cbda3c2ccb730a74&lang=en&cache-only=0",
-      "phonetic_text": "dɑ:nki",
+      "phonetic_text": "dɑn.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG9ua2V5&hash=797ffc28bb73d3530127b734cbda3c2ccb730a74&lang=en&cache-only=0",
-      "phonetic_am_text": "daanki",
+      "phonetic_am_text": "daan.ki",
       "img": "https://cdn.langeek.co/photo/50209/original/donkey?type=jpeg",
-      "pronunciation": "ˈdɑŋki/, /ˈdɔŋki",
+      "pronunciation": "ˈdɑŋki/ , /ˈdɔŋki",
       "senses": [
         {
           "definition": "an animal that is like a horse but has shorter legs and longer ears, and is used for carrying things and riding",
@@ -342,14 +361,15 @@
       ]
     },
     {
+      "id": "5fa94f76-932d-4012-9286-764074857eac",
       "word": "giraffe",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2lyYWZmZQ&hash=a9b94e44e1cc4accd0fbe2aed659fb014ada71db&lang=en&cache-only=0",
-      "phonetic_text": "ʤəræf",
+      "phonetic_text": "ʤə.ræf",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2lyYWZmZQ&hash=a9b94e44e1cc4accd0fbe2aed659fb014ada71db&lang=en&cache-only=0",
-      "phonetic_am_text": "jērāf",
+      "phonetic_am_text": "jē.rāf",
       "img": "https://cdn.langeek.co/photo/50168/original/giraffe?type=jpeg",
-      "pronunciation": "dʒɝˈæf",
+      "pronunciation": "ʤəˈræf",
       "senses": [
         {
           "definition": "a tall animal with a very long neck and long legs that has brown spots on its yellow fur",
@@ -379,14 +399,15 @@
       ]
     },
     {
+      "id": "d9529249-e209-4ff0-a18e-b71d4531413f",
       "word": "gorilla",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29yaWxsYQ&hash=010537f173750599bb324ab399953e652cc85767&lang=en&cache-only=0",
-      "phonetic_text": "gərɪlə",
+      "phonetic_text": "gə.rɪ.lə",
       "phonetic_am": "https://tts.langeek.co/read?text=Z29yaWxsYQ&hash=010537f173750599bb324ab399953e652cc85767&lang=en&cache-only=0",
-      "phonetic_am_text": "gērilē",
+      "phonetic_am_text": "gē.ri.lē",
       "img": "https://cdn.langeek.co/photo/50203/original/gorilla?type=jpeg",
-      "pronunciation": "ɡɝˈɪɫə",
+      "pronunciation": "ɡəˈrɪlə",
       "senses": [
         {
           "definition": "an African ape which has a large head and short neck that looks like a monkey with no tail",
@@ -416,14 +437,15 @@
       ]
     },
     {
+      "id": "f27563dc-6f7c-4d38-955b-ce53e9e33343",
       "word": "rooster",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9vc3Rlcg&hash=2b1044ae06e241ce5e7590853b514cbb3a967077&lang=en&cache-only=0",
-      "phonetic_text": "ru:stər",
+      "phonetic_text": "ru:s.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9vc3Rlcg&hash=2b1044ae06e241ce5e7590853b514cbb3a967077&lang=en&cache-only=0",
-      "phonetic_am_text": "roostēr",
+      "phonetic_am_text": "roos.tēr",
       "img": "https://cdn.langeek.co/photo/17999/original/rooster?type=jpeg",
-      "pronunciation": "ˈɹustɝ",
+      "pronunciation": "ˈruːstɚ",
       "senses": [
         {
           "definition": "an adult male chicken",
@@ -453,14 +475,15 @@
       ]
     },
     {
+      "id": "a9dcde23-88cc-455d-b9af-96d468c491e2",
       "word": "kangaroo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2FuZ2Fyb28&hash=b95e1128da5fdd6cd56d46d053220f11e7fffc31&lang=en&cache-only=0",
-      "phonetic_text": "kængəru:",
+      "phonetic_text": "kæn.gɜ.ru",
       "phonetic_am": "https://tts.langeek.co/read?text=a2FuZ2Fyb28&hash=b95e1128da5fdd6cd56d46d053220f11e7fffc31&lang=en&cache-only=0",
-      "phonetic_am_text": "kāngēroo",
+      "phonetic_am_text": "kān.gē.roo",
       "img": "https://cdn.langeek.co/photo/17987/original/kangaroo?type=jpeg",
-      "pronunciation": "ˌkæŋɡɝˈu",
+      "pronunciation": "ˌkæŋɡəˈruː",
       "senses": [
         {
           "definition": "a large Australian animal with a long tail and two strong legs that moves by leaping, female of which can carry its babies in its stomach pocket which is called a pouch",
@@ -490,6 +513,7 @@
       ]
     },
     {
+      "id": "1706c1d7-dcdf-4df0-ba85-ce070f6b38ba",
       "word": "snail",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c25haWw&hash=172d68964d3aba03bcf998295d102b94208ea0b3&lang=en&cache-only=0",
@@ -497,7 +521,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=c25haWw&hash=172d68964d3aba03bcf998295d102b94208ea0b3&lang=en&cache-only=0",
       "phonetic_am_text": "sneil",
       "img": "https://cdn.langeek.co/photo/50142/original/snail?type=jpeg",
-      "pronunciation": "ˈsneɪɫ",
+      "pronunciation": "sneɪl",
       "senses": [
         {
           "definition": "a small, soft creature which carries a hard shell on its back and moves very slowly",
@@ -523,14 +547,15 @@
       ]
     },
     {
+      "id": "792b8230-f922-4884-990b-3beb4400e91a",
       "word": "lizard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGl6YXJk&hash=311713b552fefde2ca18b4902d0ee7e13c7505b7&lang=en&cache-only=0",
-      "phonetic_text": "lɪzərd",
+      "phonetic_text": "lɪ.zərd",
       "phonetic_am": "https://tts.langeek.co/read?text=bGl6YXJk&hash=311713b552fefde2ca18b4902d0ee7e13c7505b7&lang=en&cache-only=0",
-      "phonetic_am_text": "lizērd",
+      "phonetic_am_text": "li.zērd",
       "img": "https://cdn.langeek.co/photo/18021/original/lizard?type=jpeg",
-      "pronunciation": "ˈɫɪzɝd",
+      "pronunciation": "ˈlɪzɚd",
       "senses": [
         {
           "definition": "a group of animals with a long body and tail, a rough skin and two pairs of short legs",
@@ -560,14 +585,15 @@
       ]
     },
     {
+      "id": "9eb9ec7b-117a-44fb-8185-cd296f93d4d4",
       "word": "guinea pig",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3VpbmVhIHBpZw&hash=0fab9975f7e1edb07fc6685d14b6ea6a1b252961&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gɪ.ni pɪg",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3VpbmVhIHBpZw&hash=0fab9975f7e1edb07fc6685d14b6ea6a1b252961&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gi.ni pig",
       "img": "https://cdn.langeek.co/photo/17995/original/guinea-pig?type=jpeg",
-      "pronunciation": "ɡˈɪni pˈɪɡ",
+      "pronunciation": "ˈɡɪni ˌpɪɡ",
       "senses": [
         {
           "definition": "a small furry animal with rounded ears, short legs and no tail, which is often kept as a pet or for research",
@@ -597,12 +623,13 @@
       ]
     },
     {
+      "id": "87077f3b-bb69-4741-8a41-174198914c6e",
       "word": "octopus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b2N0b3B1cw&hash=6c279c53b6f147b928d3281ba6646462febd314c&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:ktəpʊs",
+      "phonetic_text": "ɑk.tə.pʊs",
       "phonetic_am": "https://tts.langeek.co/read?text=b2N0b3B1cw&hash=6c279c53b6f147b928d3281ba6646462febd314c&lang=en&cache-only=0",
-      "phonetic_am_text": "aaktēpus",
+      "phonetic_am_text": "aak.tē.poos",
       "img": "https://cdn.langeek.co/photo/17991/original/octopus?type=jpeg",
       "pronunciation": "ˈɑktəˌpʊs",
       "senses": [
@@ -634,12 +661,13 @@
       ]
     },
     {
+      "id": "585a50c6-05fd-44c3-98f1-ecbd3c2f0861",
       "word": "salmon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FsbW9u&hash=8eb4d4062dc8e892a69e86fdfed2f8cedced8679&lang=en&cache-only=0",
-      "phonetic_text": "sæmən",
+      "phonetic_text": "sæ.mən",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FsbW9u&hash=8eb4d4062dc8e892a69e86fdfed2f8cedced8679&lang=en&cache-only=0",
-      "phonetic_am_text": "sāmēn",
+      "phonetic_am_text": "sā.mēn",
       "img": "https://cdn.langeek.co/photo/50317/original/salmon?type=jpeg",
       "pronunciation": "ˈsæmən",
       "senses": [
@@ -663,14 +691,15 @@
       ]
     },
     {
+      "id": "de778654-cca8-47b9-be92-10a6a18c21c1",
       "word": "lobster",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9ic3Rlcg&hash=f80df0c8e92db1bacb1968a8a1c27dda190def01&lang=en&cache-only=0",
-      "phonetic_text": "lɑ:bstər",
+      "phonetic_text": "lɑ:bs.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9ic3Rlcg&hash=f80df0c8e92db1bacb1968a8a1c27dda190def01&lang=en&cache-only=0",
-      "phonetic_am_text": "laabstēr",
+      "phonetic_am_text": "laabs.tēr",
       "img": "https://cdn.langeek.co/photo/17989/original/lobster?type=jpeg",
-      "pronunciation": "ˈɫɑbstɝ",
+      "pronunciation": "ˈlɑːbstɚ",
       "senses": [
         {
           "definition": "a sea animal with a shell, a pair of strong, large claws and eight legs",
@@ -696,14 +725,15 @@
       ]
     },
     {
+      "id": "c33209d2-5b3e-4207-8401-ee7d22173973",
       "word": "swan",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3dhbg&hash=20faa5f3f361fbb17bfa73fe6899f77267b86e2b&lang=en&cache-only=0",
-      "phonetic_text": "swɑ:n",
+      "phonetic_text": "swɑn",
       "phonetic_am": "https://tts.langeek.co/read?text=c3dhbg&hash=20faa5f3f361fbb17bfa73fe6899f77267b86e2b&lang=en&cache-only=0",
-      "phonetic_am_text": "swaan",
+      "phonetic_am_text": "svaan",
       "img": "https://cdn.langeek.co/photo/18007/original/swan?type=jpeg",
-      "pronunciation": "ˈswɑn/, /ˈswɔn",
+      "pronunciation": "swɑn",
       "senses": [
         {
           "definition": "a large bird that is normally white, has a long neck and lives on or around water",
@@ -733,14 +763,15 @@
       ]
     },
     {
+      "id": "d72635a6-22c9-4a2e-bc9c-8f1f5d11f0ed",
       "word": "cobra",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29icmE&hash=cdab7bb4a740702ad74d1073c2bd48e6bed456e8&lang=en&cache-only=0",
-      "phonetic_text": "koʊbrə",
+      "phonetic_text": "koʊb.rə",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29icmE&hash=cdab7bb4a740702ad74d1073c2bd48e6bed456e8&lang=en&cache-only=0",
-      "phonetic_am_text": "kowbrē",
+      "phonetic_am_text": "kooob.rē",
       "img": "https://cdn.langeek.co/photo/17977/original/cobra?type=jpeg",
-      "pronunciation": "ˈkoʊbɹə",
+      "pronunciation": "ˈkoʊbrə",
       "senses": [
         {
           "definition": "a highly venomous kind of snake that can flatten its neck when in danger or to scare other animals",
@@ -770,14 +801,15 @@
       ]
     },
     {
+      "id": "0bbe89fd-790d-4bdd-ab74-8bdcb56661ff",
       "word": "raccoon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFjY29vbg&hash=355a7b341109335d9aa682c30269f72f8e567095&lang=en&cache-only=0",
-      "phonetic_text": "ræku:n",
+      "phonetic_text": "ræ.kun",
       "phonetic_am": "https://tts.langeek.co/read?text=cmFjY29vbg&hash=355a7b341109335d9aa682c30269f72f8e567095&lang=en&cache-only=0",
-      "phonetic_am_text": "rākoon",
+      "phonetic_am_text": "rā.koon",
       "img": "https://cdn.langeek.co/photo/50227/original/raccoon?type=jpeg",
-      "pronunciation": "ɹæˈkun",
+      "pronunciation": "ræˈkun/ , /rəˈkun",
       "senses": [
         {
           "definition": "a small animal with a thick tail, gray-brown fur and black marks on its face",
@@ -803,14 +835,15 @@
       ]
     },
     {
+      "id": "3ed312fb-019c-43c5-987d-b5dde5d3fbe5",
       "word": "zebra",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=emVicmE&hash=a15024fa5bb6c038497e29c410a8d2f80110bc79&lang=en&cache-only=0",
-      "phonetic_text": "zi:brə",
+      "phonetic_text": "zib.rə",
       "phonetic_am": "https://tts.langeek.co/read?text=emVicmE&hash=a15024fa5bb6c038497e29c410a8d2f80110bc79&lang=en&cache-only=0",
-      "phonetic_am_text": "zeebrē",
+      "phonetic_am_text": "zib.rē",
       "img": "https://cdn.langeek.co/photo/18011/original/zebra?type=jpeg",
-      "pronunciation": "ˈzibɹə",
+      "pronunciation": "ˈzibrə",
       "senses": [
         {
           "definition": "a wild animal that lives in Africa, which is like a horse, with black-and-white stripes on its body",
@@ -840,14 +873,15 @@
       ]
     },
     {
+      "id": "7f5cd14c-33f1-487b-99ef-1a791d14f224",
       "word": "seal",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VhbA&hash=a55579c8abf3ef776555e5c235e37a73fca9e927&lang=en&cache-only=0",
       "phonetic_text": "si:l",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VhbA&hash=a55579c8abf3ef776555e5c235e37a73fca9e927&lang=en&cache-only=0",
-      "phonetic_am_text": "seel",
+      "phonetic_am_text": "sil",
       "img": "https://cdn.langeek.co/photo/50319/original/seal?type=jpeg",
-      "pronunciation": "ˈsiɫ",
+      "pronunciation": "siːl",
       "senses": [
         {
           "definition": "a large sea animal with flippers that eats fish, can live on land and in water, and is hunted by humans for its fur",
@@ -877,14 +911,15 @@
       ]
     },
     {
+      "id": "4ae0a3cd-3497-408c-b025-50c169a80fba",
       "word": "porcupine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9yY3VwaW5l&hash=7f50b7400d839438b0f478a15955dd3ed764bb9f&lang=en&cache-only=0",
-      "phonetic_text": "pɔ:rkjəpaɪn",
+      "phonetic_text": "pɔrk.jə.paɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9yY3VwaW5l&hash=7f50b7400d839438b0f478a15955dd3ed764bb9f&lang=en&cache-only=0",
-      "phonetic_am_text": "paawrkyēpain",
+      "phonetic_am_text": "pawrk.yē.pain",
       "img": "https://cdn.langeek.co/photo/17993/original/porcupine?type=jpeg",
-      "pronunciation": "ˈpɔɹkjəˌpaɪn",
+      "pronunciation": "ˈpɔrkjuˌpaɪn",
       "senses": [
         {
           "definition": "an animal with sharp needle-like parts on its body and tail, used for protection",
@@ -898,12 +933,13 @@
       ]
     },
     {
+      "id": "6276251b-bba4-4b97-863d-b02075016ea7",
       "word": "turkey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHVya2V5&hash=aa06d314b6d2c0d1fd749eb9ee25422e6d33b78d&lang=en&cache-only=0",
-      "phonetic_text": "tɜrki",
+      "phonetic_text": "tɜr.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=dHVya2V5&hash=aa06d314b6d2c0d1fd749eb9ee25422e6d33b78d&lang=en&cache-only=0",
-      "phonetic_am_text": "tērki",
+      "phonetic_am_text": "tēr.ki",
       "img": "https://cdn.langeek.co/photo/37539/original/turkey?type=jpeg",
       "pronunciation": "ˈtɝki",
       "senses": [
@@ -931,6 +967,7 @@
       ]
     },
     {
+      "id": "b9c1762e-5e5c-4ef8-9bf3-aab279241b3b",
       "word": "goose",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29vc2U&hash=8a8d4d1e39486d8c1e807c0bd1e25c8d447662ff&lang=en&cache-only=0",
@@ -938,7 +975,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Z29vc2U&hash=8a8d4d1e39486d8c1e807c0bd1e25c8d447662ff&lang=en&cache-only=0",
       "phonetic_am_text": "goos",
       "img": "https://cdn.langeek.co/photo/18019/original/goose?type=jpeg",
-      "pronunciation": "ˈɡus",
+      "pronunciation": "ɡuːs",
       "senses": [
         {
           "definition": "a waterbird with webbed feet, a long neck, and short beak, which is like a large duck",
@@ -964,14 +1001,15 @@
       ]
     },
     {
+      "id": "d47680a5-98c2-47ff-a6e6-2b160b6db82e",
       "word": "crow",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3Jvdw&hash=d9f9b9cd83bffc8ae57e1aa024af0dd994cfe776&lang=en&cache-only=0",
       "phonetic_text": "kroʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3Jvdw&hash=d9f9b9cd83bffc8ae57e1aa024af0dd994cfe776&lang=en&cache-only=0",
-      "phonetic_am_text": "krow",
+      "phonetic_am_text": "krooo",
       "img": "https://cdn.langeek.co/photo/18017/original/crow?type=jpeg",
-      "pronunciation": "ˈkɹoʊ",
+      "pronunciation": "kroʊ",
       "senses": [
         {
           "definition": "a large bird with black feathers and a loud unpleasant call",
@@ -1001,14 +1039,15 @@
       ]
     },
     {
+      "id": "edc2cca2-fd76-4358-b9a9-f8a01aaa5c3b",
       "word": "pigeon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGlnZW9u&hash=e3e79f802a57a0a3a75cc88023df093c28b66b3a&lang=en&cache-only=0",
-      "phonetic_text": "pɪʤən",
+      "phonetic_text": "pɪ.ʤən",
       "phonetic_am": "https://tts.langeek.co/read?text=cGlnZW9u&hash=e3e79f802a57a0a3a75cc88023df093c28b66b3a&lang=en&cache-only=0",
-      "phonetic_am_text": "pijēn",
+      "phonetic_am_text": "pi.jēn",
       "img": "https://cdn.langeek.co/photo/18023/original/pigeon?type=jpeg",
-      "pronunciation": "ˈpɪdʒən/, /ˈpɪdʒɪn",
+      "pronunciation": "ˈpɪʤən",
       "senses": [
         {
           "definition": "a bird with short legs and a short beak which typically has gray and white feathers",
@@ -1038,14 +1077,15 @@
       ]
     },
     {
+      "id": "806a17d0-2620-437a-9cff-f4736600416b",
       "word": "cricket",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3JpY2tldA&hash=224d9919ad3d1dc625616f0e3a1e8e41b5f67e8d&lang=en&cache-only=0",
-      "phonetic_text": "krɪkət",
+      "phonetic_text": "krɪ.kɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3JpY2tldA&hash=224d9919ad3d1dc625616f0e3a1e8e41b5f67e8d&lang=en&cache-only=0",
-      "phonetic_am_text": "krikēt",
+      "phonetic_am_text": "kri.kit",
       "img": "https://cdn.langeek.co/photo/18015/original/cricket?type=jpeg",
-      "pronunciation": "ˈkɹɪkət/, /ˈkɹɪkɪt",
+      "pronunciation": "ˈkrɪkɪt",
       "senses": [
         {
           "definition": "an insect known for its chirping sound, found in grassy areas, mostly active at night",
@@ -1071,14 +1111,15 @@
       ]
     },
     {
+      "id": "c4a933bb-88ce-47d6-9ed5-4e290074f71a",
       "word": "creature",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3JlYXR1cmU&hash=b6da05cde5537220a67c75e49f772c2c4d132485&lang=en&cache-only=0",
-      "phonetic_text": "kri:ʧər",
+      "phonetic_text": "kri.ʧɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3JlYXR1cmU&hash=b6da05cde5537220a67c75e49f772c2c4d132485&lang=en&cache-only=0",
-      "phonetic_am_text": "kreechēr",
-      "img": "https://cdn.langeek.co/photo/27345/original/animal?type=jpeg",
-      "pronunciation": "ˈkɹitʃɝ",
+      "phonetic_am_text": "kri.chēr",
+      "img": "https://cdn.langeek.co/photo/60736/original/animal?type=jpeg",
+      "pronunciation": "ˈkriːʧɚ",
       "senses": [
         {
           "definition": "any living thing that is able to move on its own, such as an animal, fish, etc.",
@@ -1108,14 +1149,15 @@
       ]
     },
     {
-      "word": "bite",
+      "id": "1f8ae804-8e6e-4c25-9353-b9014aa7303b",
+      "word": "to bite",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYml0ZQ&hash=ee9210b097ea1df8f23f7ae644c185769cba91a6&lang=en&cache-only=0",
       "phonetic_text": "baɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYml0ZQ&hash=ee9210b097ea1df8f23f7ae644c185769cba91a6&lang=en&cache-only=0",
       "phonetic_am_text": "bait",
       "img": "https://cdn.langeek.co/photo/18089/original/bite?type=jpeg",
-      "pronunciation": "ˈbaɪt",
+      "pronunciation": "baɪt",
       "senses": [
         {
           "definition": "to cut into flesh, food, etc. using the teeth",
@@ -1145,6 +1187,7 @@
       ]
     },
     {
+      "id": "86b2847b-c1d9-4515-bc40-8becc1791519",
       "word": "trap",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhcA&hash=e74b145b984a6e73dee43469a83c3b953bd95320&lang=en&cache-only=0",
@@ -1152,7 +1195,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhcA&hash=e74b145b984a6e73dee43469a83c3b953bd95320&lang=en&cache-only=0",
       "phonetic_am_text": "trāp",
       "img": "https://cdn.langeek.co/photo/20686/original/capture?type=jpeg",
-      "pronunciation": "ˈtɹæp",
+      "pronunciation": "træp",
       "senses": [
         {
           "definition": "an object that can be used to catch an animal",
@@ -1182,14 +1225,15 @@
       ]
     },
     {
+      "id": "30c1a90a-d0e4-4f8a-b4b4-12838130299d",
       "word": "bull shark",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVsbCBzaGFyaw&hash=59775dfa65ad9038c9492a195bed404aac85f02d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bʊl ʃɑ:rk",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVsbCBzaGFyaw&hash=59775dfa65ad9038c9492a195bed404aac85f02d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bool shaark",
       "img": "https://cdn.langeek.co/photo/50331/original/?type=jpeg",
-      "pronunciation": "bˈʊl ʃˈɑːɹk",
+      "pronunciation": "ˈbʊl ˌʃɑrk",
       "senses": [
         {
           "definition": "an aggressive type of shark that lives in warm and shallow waters near coastlines",

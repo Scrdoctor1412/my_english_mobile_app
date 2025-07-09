@@ -1,31 +1,55 @@
 {
+  "id": "47cc0dc6-4238-4b1b-bf03-07b64eed127d",
   "topic": "animals",
   "title": "Marsupials and Monotremes",
   "lesson": "lesson_6",
   "word_list": [
     {
+      "id": "16607ddb-adf9-40ea-9a48-4752d12ace07",
       "word": "kangaroo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2FuZ2Fyb28&hash=b95e1128da5fdd6cd56d46d053220f11e7fffc31&lang=en&cache-only=0",
-      "phonetic_text": "kængəru:",
+      "phonetic_text": "kæn.gɜ.ru",
       "phonetic_am": "https://tts.langeek.co/read?text=a2FuZ2Fyb28&hash=b95e1128da5fdd6cd56d46d053220f11e7fffc31&lang=en&cache-only=0",
-      "phonetic_am_text": "kāngēroo",
+      "phonetic_am_text": "kān.gē.roo",
       "img": "https://cdn.langeek.co/photo/17987/original/kangaroo?type=jpeg",
-      "pronunciation": "ˌkæŋɡɝˈu",
+      "pronunciation": "ˌkæŋɡəˈruː",
       "senses": [
         {
           "definition": "a large Australian animal with a long tail and two strong legs that moves by leaping, female of which can carry its babies in its stomach pocket which is called a pouch",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The kangaroo bounded effortlessly across the Australian outback, its powerful legs propelling it forward."
+            },
+            {
+              "cf": "",
+              "x": "Tourists were thrilled to spot kangaroos grazing in the grasslands, their agile movements captivating observers."
+            },
+            {
+              "cf": "",
+              "x": "Kangaroos use their muscular tails for balance while hopping and as a powerful counterbalance when moving slowly or standing upright."
+            },
+            {
+              "cf": "",
+              "x": "Female kangaroos carry their young, called joeys, in their pouches, providing warmth and protection until they are fully developed."
+            },
+            {
+              "cf": "",
+              "x": "Kangaroos are herbivores, feeding on grasses, leaves, and shrubs found in their natural habitat."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c0ca7412-a0d4-4a89-921d-16ed684b6d24",
       "word": "koala",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a29hbGE&hash=4f1cb2a0678477b52981fdce44647d4541edf244&lang=en&cache-only=0",
-      "phonetic_text": "koʊɑ:lə",
+      "phonetic_text": "koʊɑ.lə",
       "phonetic_am": "https://tts.langeek.co/read?text=a29hbGE&hash=4f1cb2a0678477b52981fdce44647d4541edf244&lang=en&cache-only=0",
-      "phonetic_am_text": "kowaalē",
+      "phonetic_am_text": "koooaa.lē",
       "img": "https://cdn.langeek.co/photo/50205/original/?type=jpeg",
       "pronunciation": "koʊˈɑɫə",
       "senses": [
@@ -36,12 +60,13 @@
       ]
     },
     {
+      "id": "c16eb434-6123-4906-9952-dd4fcb0ae839",
       "word": "possum",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9zc3Vt&hash=10c682ad4b72d4840d54ecc06364920dc3229f7f&lang=en&cache-only=0",
-      "phonetic_text": "pɑ:səm",
+      "phonetic_text": "pɑ.səm",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9zc3Vt&hash=10c682ad4b72d4840d54ecc06364920dc3229f7f&lang=en&cache-only=0",
-      "phonetic_am_text": "paasēm",
+      "phonetic_am_text": "paa.sēm",
       "img": "https://cdn.langeek.co/photo/24278/original/?type=jpeg",
       "pronunciation": "ˈpɑsəm",
       "senses": [
@@ -52,12 +77,13 @@
       ]
     },
     {
+      "id": "19d28890-5eb5-4cb2-baae-5d8d9b0e948e",
       "word": "opossum",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3Bvc3N1bQ&hash=fc056630d766110d5da7e8394ab0217ee3a659cb&lang=en&cache-only=0",
-      "phonetic_text": "oʊpɑ:səm",
+      "phonetic_text": "oʊ.pɑ.səm",
       "phonetic_am": "https://tts.langeek.co/read?text=b3Bvc3N1bQ&hash=fc056630d766110d5da7e8394ab0217ee3a659cb&lang=en&cache-only=0",
-      "phonetic_am_text": "owpaasēm",
+      "phonetic_am_text": "ooo.paa.sēm",
       "img": "https://cdn.langeek.co/photo/24278/original/?type=jpeg",
       "pronunciation": "oʊˈpɑsəm",
       "senses": [
@@ -68,12 +94,13 @@
       ]
     },
     {
+      "id": "e70b5543-7028-45eb-b024-93ffc396517d",
       "word": "platypus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGxhdHlwdXM&hash=5c138bd4dadc1f433b8a44715e0a49f1cbe72330&lang=en&cache-only=0",
-      "phonetic_text": "plætəpʊs",
+      "phonetic_text": "plæ.tə.pʊs",
       "phonetic_am": "https://tts.langeek.co/read?text=cGxhdHlwdXM&hash=5c138bd4dadc1f433b8a44715e0a49f1cbe72330&lang=en&cache-only=0",
-      "phonetic_am_text": "plātēpus",
+      "phonetic_am_text": "plā.tē.poos",
       "img": "https://cdn.langeek.co/photo/24110/original/?type=jpeg",
       "pronunciation": "ˈpɫætəˌpʊs",
       "senses": [
@@ -84,12 +111,13 @@
       ]
     },
     {
+      "id": "e6a96073-f44f-42d8-a5e4-4bf7c20e8515",
       "word": "wallaby",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2FsbGFieQ&hash=6ecc4ebe81caafc2cde79f9439f9bafcbfdc64e2&lang=en&cache-only=0",
-      "phonetic_text": "wɑ:ləbi",
+      "phonetic_text": "wɔ:l.a.baɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=d2FsbGFieQ&hash=6ecc4ebe81caafc2cde79f9439f9bafcbfdc64e2&lang=en&cache-only=0",
-      "phonetic_am_text": "waalēbi",
+      "phonetic_am_text": "vawl.a.bai",
       "img": "https://cdn.langeek.co/photo/24346/original/?type=jpeg",
       "pronunciation": "ˈwɑɫəˌbi",
       "senses": [
@@ -100,12 +128,13 @@
       ]
     },
     {
+      "id": "f7913c15-8bda-4ca7-a246-29d57a0507c0",
       "word": "wombat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d29tYmF0&hash=ad38ba00ea7354f7c21874a17a5fe9e8636a8e44&lang=en&cache-only=0",
-      "phonetic_text": "wɑ:mbæt",
+      "phonetic_text": "wɑm.bæt",
       "phonetic_am": "https://tts.langeek.co/read?text=d29tYmF0&hash=ad38ba00ea7354f7c21874a17a5fe9e8636a8e44&lang=en&cache-only=0",
-      "phonetic_am_text": "waambāt",
+      "phonetic_am_text": "vaam.bāt",
       "img": "https://cdn.langeek.co/photo/24380/original/?type=jpeg",
       "pronunciation": "ˈwɑmˌbæt",
       "senses": [
@@ -116,12 +145,13 @@
       ]
     },
     {
+      "id": "84a8c9de-fec5-4753-bdcd-f5fda59400af",
       "word": "numbat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bnVtYmF0&hash=4b531b44e6a4c840a07d6f45067174ac788ce4f7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nʌm.bæt",
       "phonetic_am": "https://tts.langeek.co/read?text=bnVtYmF0&hash=4b531b44e6a4c840a07d6f45067174ac788ce4f7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nam.bāt",
       "img": "https://cdn.langeek.co/photo/34371/original/?type=jpeg",
       "pronunciation": "nˈʌmbæt",
       "senses": [
@@ -132,12 +162,13 @@
       ]
     },
     {
+      "id": "9eb129be-9421-4ce4-8167-0961ec74fc71",
       "word": "glider",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2xpZGVy&hash=84e536f22496a36b4bbd54096ed000a5c32df3c3&lang=en&cache-only=0",
-      "phonetic_text": "glaɪdər",
+      "phonetic_text": "glaɪ.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2xpZGVy&hash=84e536f22496a36b4bbd54096ed000a5c32df3c3&lang=en&cache-only=0",
-      "phonetic_am_text": "glaidēr",
+      "phonetic_am_text": "glai.dēr",
       "img": "",
       "pronunciation": "ˈɡɫaɪdɝ",
       "senses": [
@@ -148,10 +179,11 @@
       ]
     },
     {
+      "id": "b945dd3c-41d4-4ac1-8f62-3ab6f8a4274e",
       "word": "Tasmanian devil",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VGFzbWFuaWFuIGRldmls&hash=0ae8a3761291b9862208c2563b99e9e0ace7649d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=VGFzbWFuaWFuIGRldmls&hash=0ae8a3761291b9862208c2563b99e9e0ace7649d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34393/original/?type=jpeg",
@@ -164,12 +196,13 @@
       ]
     },
     {
+      "id": "d607ddd6-8632-4ba6-a522-61016292c3b8",
       "word": "bandicoot",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFuZGljb290&hash=03383da72b1aaa1807b0c42ce6d605764c60386d&lang=en&cache-only=0",
-      "phonetic_text": "bændɪkut",
+      "phonetic_text": "bæn.di.kut",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFuZGljb290&hash=03383da72b1aaa1807b0c42ce6d605764c60386d&lang=en&cache-only=0",
-      "phonetic_am_text": "bāndikut",
+      "phonetic_am_text": "bān.di.koot",
       "img": "https://cdn.langeek.co/photo/24044/original/?type=jpeg",
       "pronunciation": "ˈbændiˌkut/, /ˈbændɪˌkut",
       "senses": [
@@ -180,12 +213,13 @@
       ]
     },
     {
+      "id": "13cc5197-6323-4375-807b-eecdd2643173",
       "word": "quoll",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cXVvbGw&hash=ad3fb5fa29e5822ec8f9b8e32ff4ac4bef40e30b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kl",
       "phonetic_am": "https://tts.langeek.co/read?text=cXVvbGw&hash=ad3fb5fa29e5822ec8f9b8e32ff4ac4bef40e30b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kl",
       "img": "https://cdn.langeek.co/photo/34441/original/?type=jpeg",
       "pronunciation": "kvɔl",
       "senses": [
@@ -196,14 +230,15 @@
       ]
     },
     {
+      "id": "1bb56ee9-4e56-4470-bb57-a1f789f43aef",
       "word": "dunnart",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHVubmFydA&hash=4985d62fa6d2c0923e46132748b548ae0840fc79&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dʌ.nɑ:rt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHVubmFydA&hash=4985d62fa6d2c0923e46132748b548ae0840fc79&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "da.naart",
       "img": "https://cdn.langeek.co/photo/34433/original/?type=jpeg",
-      "pronunciation": "ˈdʌnɑːt",
+      "pronunciation": "ˈdʌnɑːrt",
       "senses": [
         {
           "definition": "a small, nocturnal marsupial species found in Australia, known for their insectivorous diet and distinctive long snout",
@@ -212,12 +247,13 @@
       ]
     },
     {
+      "id": "ac848bb5-4bba-459c-8d63-d7b4250980de",
       "word": "echidna",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWNoaWRuYQ&hash=b1f07f75b3e679175fafba42cde7922c219ff936&lang=en&cache-only=0",
-      "phonetic_text": "ɪkɪdnə",
+      "phonetic_text": "ɪ.kɪd.nə",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWNoaWRuYQ&hash=b1f07f75b3e679175fafba42cde7922c219ff936&lang=en&cache-only=0",
-      "phonetic_am_text": "ikidnē",
+      "phonetic_am_text": "i.kid.nē",
       "img": "https://cdn.langeek.co/photo/24130/original/?type=jpeg",
       "pronunciation": "ɪˈkɪdnə",
       "senses": [
@@ -228,10 +264,11 @@
       ]
     },
     {
+      "id": "3497d4ff-059f-4167-9d11-5f70db750383",
       "word": "long-tailed planigale",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9uZy10YWlsZWQgcGxhbmlnYWxl&hash=de6e15a05ba6ccd8d18ea5c745556b4f4b96adc4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9uZy10YWlsZWQgcGxhbmlnYWxl&hash=de6e15a05ba6ccd8d18ea5c745556b4f4b96adc4&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -244,12 +281,13 @@
       ]
     },
     {
+      "id": "ed0021f6-6363-4447-8f2d-3d83eac53b81",
       "word": "red kangaroo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVkIGthbmdhcm9v&hash=93122e8ca57fb35675e458378939646ea1f27fd8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɛd kæn.gɜ.ru",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVkIGthbmdhcm9v&hash=93122e8ca57fb35675e458378939646ea1f27fd8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "red kān.gē.roo",
       "img": "https://cdn.langeek.co/photo/34443/original/?type=jpeg",
       "pronunciation": "ˈrɛd ˌkæŋɡɝˈu",
       "senses": [
@@ -260,12 +298,13 @@
       ]
     },
     {
+      "id": "411cfe6a-0f9c-4dfd-9500-64c3be064748",
       "word": "bilby",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmlsYnk&hash=dd6b1284b84b8cb13708fdec2ea03bb0c6990864&lang=en&cache-only=0",
-      "phonetic_text": "bɪlbi",
+      "phonetic_text": "bɪl.bi",
       "phonetic_am": "https://tts.langeek.co/read?text=YmlsYnk&hash=dd6b1284b84b8cb13708fdec2ea03bb0c6990864&lang=en&cache-only=0",
-      "phonetic_am_text": "bilbi",
+      "phonetic_am_text": "bil.bi",
       "img": "https://cdn.langeek.co/photo/24062/original/?type=jpeg",
       "pronunciation": "ˈbɪɫbi",
       "senses": [
@@ -276,12 +315,13 @@
       ]
     },
     {
+      "id": "b6b93c81-5e4e-4bfc-a347-b886affd54d4",
       "word": "caenolestidae",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2Flbm9sZXN0aWRhZQ&hash=0e17ce9542cb80faa3259a438b1552473bf3eb44&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ki:.noʊl.stɪ.di:",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2Flbm9sZXN0aWRhZQ&hash=0e17ce9542cb80faa3259a438b1552473bf3eb44&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ki.noool.sti.di",
       "img": "",
       "pronunciation": "kˈiːnoʊlstˌɪdiː",
       "senses": [
@@ -292,12 +332,13 @@
       ]
     },
     {
+      "id": "83a08616-0b3b-4a4b-9b4d-a9620b74baed",
       "word": "native cat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmF0aXZlIGNhdA&hash=6e897de2ae7a5f152185c384b996801aafb4cdfa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "neɪ.tɪv kæt",
       "phonetic_am": "https://tts.langeek.co/read?text=bmF0aXZlIGNhdA&hash=6e897de2ae7a5f152185c384b996801aafb4cdfa&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nei.tiv kāt",
       "img": "",
       "pronunciation": "nˈeɪɾɪv kˈæt",
       "senses": [
@@ -308,12 +349,13 @@
       ]
     },
     {
+      "id": "36ebb299-798b-458f-82d0-5048ac0f67f7",
       "word": "kangaroo mouse",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2FuZ2Fyb28gbW91c2U&hash=a0d2df2a6300cdffa445a62b57f5627e0bae7d93&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kæn.gɜ.ru maʊs",
       "phonetic_am": "https://tts.langeek.co/read?text=a2FuZ2Fyb28gbW91c2U&hash=a0d2df2a6300cdffa445a62b57f5627e0bae7d93&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kān.gē.roo maoos",
       "img": "",
       "pronunciation": "kˈæŋɡɐɹˌuː mˈaʊs",
       "senses": [
@@ -324,12 +366,13 @@
       ]
     },
     {
+      "id": "6d3ce7c0-ae88-4d65-85af-89dac75909ef",
       "word": "tree kangaroo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJlZSBrYW5nYXJvbw&hash=94297a374a6685a1717928573032b1db685bc0b6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tri: kæn.gɜ.ru",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJlZSBrYW5nYXJvbw&hash=94297a374a6685a1717928573032b1db685bc0b6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tri kān.gē.roo",
       "img": "https://cdn.langeek.co/photo/39713/original/?type=jpeg",
       "pronunciation": "tɹˈiː kˈæŋɡɐɹˌuː",
       "senses": [
@@ -340,12 +383,13 @@
       ]
     },
     {
+      "id": "982d3ab9-cab5-4f2b-8c5f-5572ae1269ba",
       "word": "rock wallaby",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9jayB3YWxsYWJ5&hash=681672b4e32c3ba819f123fbaca68f017a7b3e2c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɑk wɔ:l.a.baɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9jayB3YWxsYWJ5&hash=681672b4e32c3ba819f123fbaca68f017a7b3e2c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "raak vawl.a.bai",
       "img": "https://cdn.langeek.co/photo/34445/original/?type=jpeg",
       "pronunciation": "ɹˈɑːk wˈɑːlæbi",
       "senses": [
@@ -356,12 +400,13 @@
       ]
     },
     {
+      "id": "fd12ad26-3e5d-4e24-8173-3000ba016bd7",
       "word": "nail-tailed wallaby",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmFpbC10YWlsZWQgd2FsbGFieQ&hash=aba2f5275a6d38f18589695bd72d705df8a5e559&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "neɪl-teɪld wɔ:l.a.baɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=bmFpbC10YWlsZWQgd2FsbGFieQ&hash=aba2f5275a6d38f18589695bd72d705df8a5e559&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "neil-teild vawl.a.bai",
       "img": "",
       "pronunciation": "nˈeɪltˈeɪld wˈɑːlæbi",
       "senses": [
@@ -372,12 +417,13 @@
       ]
     },
     {
+      "id": "f326ac8c-c96f-40fd-aa82-1517bcc2643d",
       "word": "musk kangaroo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXVzayBrYW5nYXJvbw&hash=3896fb84fb6215aeb942beb8abd056d6b019c47e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "məsk kæn.gɜ.ru",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVzayBrYW5nYXJvbw&hash=3896fb84fb6215aeb942beb8abd056d6b019c47e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mēsk kān.gē.roo",
       "img": "",
       "pronunciation": "mˈʌsk kˈæŋɡɐɹˌuː",
       "senses": [
@@ -388,12 +434,13 @@
       ]
     },
     {
-      "word": "great grey kangaroo",
+      "id": "9ac4bfb3-863b-4da0-8fdc-d10d41f268ac",
+      "word": "giant kangaroo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2lhbnQga2FuZ2Fyb28&hash=7c039305a5c60e685c732eb799fb6177cff0ae40&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤaɪənt kæn.gɜ.ru",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2lhbnQga2FuZ2Fyb28&hash=7c039305a5c60e685c732eb799fb6177cff0ae40&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "jaiēnt kān.gē.roo",
       "img": "https://cdn.langeek.co/photo/39707/original/?type=jpeg",
       "pronunciation": "dʒˈaɪənt kˈæŋɡɐɹˌuː",
       "senses": [
@@ -404,12 +451,13 @@
       ]
     },
     {
+      "id": "b26648d7-d4f6-40e8-a812-37b8f3799cb5",
       "word": "quokka",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cXVva2th&hash=817abb4edf49b32c26a82d71b9156fe686960490&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kwɑ:.kə",
       "phonetic_am": "https://tts.langeek.co/read?text=cXVva2th&hash=817abb4edf49b32c26a82d71b9156fe686960490&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kvaa.kē",
       "img": "",
       "pronunciation": "kwˈɑːkə",
       "senses": [
@@ -420,12 +468,13 @@
       ]
     },
     {
+      "id": "952ab005-f4d7-4c43-8161-aad98d177d6a",
       "word": "potoroo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG90b3Jvbw&hash=eaa82c2d1131a328c2d5fb35c6d6caefaf6d9d82&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɑ:.to:.ru:",
       "phonetic_am": "https://tts.langeek.co/read?text=cG90b3Jvbw&hash=eaa82c2d1131a328c2d5fb35c6d6caefaf6d9d82&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "paa.to.roo",
       "img": "",
       "pronunciation": "pˈɑːɾoːɹˌuː",
       "senses": [
@@ -436,12 +485,13 @@
       ]
     },
     {
+      "id": "02adb22a-1015-400c-9167-8f6177dd1679",
       "word": "pademelon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFkZW1lbG9u&hash=9c4a2254d45a03e1ee4043dd57178f1a3a190aea&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "peɪd.mɛ.lən",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFkZW1lbG9u&hash=9c4a2254d45a03e1ee4043dd57178f1a3a190aea&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "peid.me.lēn",
       "img": "https://cdn.langeek.co/photo/39993/original/?type=jpeg",
       "pronunciation": "pˈeɪdmɛlən",
       "senses": [
@@ -452,12 +502,13 @@
       ]
     },
     {
+      "id": "1e978f7c-2a24-4976-92f6-820944716308",
       "word": "cuscus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3VzY3Vz&hash=caa8578cb7c6e22f9b65b599a714b909e9e90c0a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kʌs.kəs",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3VzY3Vz&hash=caa8578cb7c6e22f9b65b599a714b909e9e90c0a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kas.kēs",
       "img": "",
       "pronunciation": "kˈʌskəs",
       "senses": [
@@ -468,12 +519,13 @@
       ]
     },
     {
+      "id": "0b980a89-9cc0-48a9-a124-9ea27ff9570c",
       "word": "wallaroo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2FsbGFyb28&hash=854886d8453c59c43580520230a2ea5c54ec5fc5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɑ:.la.ru:",
       "phonetic_am": "https://tts.langeek.co/read?text=d2FsbGFyb28&hash=854886d8453c59c43580520230a2ea5c54ec5fc5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vaa.la.roo",
       "img": "",
       "pronunciation": "wˈɑːlɐɹˌuː",
       "senses": [
@@ -484,10 +536,11 @@
       ]
     },
     {
+      "id": "072cc6b9-1bd2-4243-b000-3ca44188ab6c",
       "word": "bettong",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmV0dG9uZw&hash=94de0ab0acdf9257a210b3e9e31106aa6e7b487a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YmV0dG9uZw&hash=94de0ab0acdf9257a210b3e9e31106aa6e7b487a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -500,12 +553,13 @@
       ]
     },
     {
+      "id": "034958f7-1700-40fe-9e89-ee11eba9e74c",
       "word": "boodie",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9vZGll&hash=11c314a41a096966f5bdd2bf7e356bd4c4c891a0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bu:.di",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9vZGll&hash=11c314a41a096966f5bdd2bf7e356bd4c4c891a0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "boo.di",
       "img": "",
       "pronunciation": "bˈuːdi",
       "senses": [
@@ -516,12 +570,13 @@
       ]
     },
     {
+      "id": "fcfcaa8d-98d4-4539-8d9a-bf3cb8866513",
       "word": "mulgara",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXVsZ2FyYQ&hash=1a04ea5fcaba1afc30a6ad48ae4802713eb05825&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mʌl.gɑ:.rə",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVsZ2FyYQ&hash=1a04ea5fcaba1afc30a6ad48ae4802713eb05825&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mal.gaa.rē",
       "img": "",
       "pronunciation": "mʌlɡˈɑːɹɹə",
       "senses": [
@@ -532,12 +587,13 @@
       ]
     },
     {
+      "id": "d754f43d-90b5-47a7-bae8-e9f271ee59c8",
       "word": "antechinus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW50ZWNoaW51cw&hash=4906ae077ea22a4fbbf39b2c919c9ac880e0bc3a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æn.tɪ.ʧɪ.nəs",
       "phonetic_am": "https://tts.langeek.co/read?text=YW50ZWNoaW51cw&hash=4906ae077ea22a4fbbf39b2c919c9ac880e0bc3a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ān.ti.chi.nēs",
       "img": "",
       "pronunciation": "ˈæntɪtʃˌɪnəs",
       "senses": [
@@ -548,12 +604,13 @@
       ]
     },
     {
+      "id": "ac9727a0-470c-4bf4-8c7a-5aa72d60f242",
       "word": "kowari",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a293YXJp&hash=ed63c9627e5e15fef9df14d79f86d19a895ec272&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kaʊɛ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=a293YXJp&hash=ed63c9627e5e15fef9df14d79f86d19a895ec272&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaooe.ri",
       "img": "",
       "pronunciation": "kˈaʊɛɹi",
       "senses": [
@@ -564,12 +621,13 @@
       ]
     },
     {
+      "id": "c6c401bc-fb7f-4961-a235-794cdcb0ba3c",
       "word": "woylie",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d295bGll&hash=7c94cbe8eb16c6f64a4df5d9c73d490b928eeff6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɔɪ.li",
       "phonetic_am": "https://tts.langeek.co/read?text=d295bGll&hash=7c94cbe8eb16c6f64a4df5d9c73d490b928eeff6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vawi.li",
       "img": "",
       "pronunciation": "wˈɔɪli",
       "senses": [

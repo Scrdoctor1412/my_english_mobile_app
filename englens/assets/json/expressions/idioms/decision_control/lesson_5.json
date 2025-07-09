@@ -1,13 +1,15 @@
 {
+  "id": "73d46ff3-53d4-4905-945e-268fdde8787e",
   "topic": "decision_control",
   "title": "Obedience",
   "lesson": "lesson_5",
   "word_list": [
     {
-      "word": "[dance] to {one's} tune",
+      "id": "82a8cb97-bbaf-4556-8aa2-d94efd99a0ad",
+      "word": "to [dance] to {one's} tune",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGFuY2UgdG8gb25lJ3MgdHVuZQ&hash=9b22fbdf66268ab110997c0ee1d1aebf252d4167&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGFuY2UgdG8gb25lJ3MgdHVuZQ&hash=9b22fbdf66268ab110997c0ee1d1aebf252d4167&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44390/original/?type=jpeg",
@@ -15,20 +17,16 @@
       "senses": [
         {
           "definition": "to do things as desired or required by someone else",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The company's shareholders expected the CEO to dance to their tune and prioritize short-term profits over long-term sustainability."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[have] {sb} by the balls",
+      "id": "1ca2391a-69f6-43e5-86a9-7f04c6a8ba63",
+      "word": "to [have] {sb} by the balls",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGF2ZSBzb21lYm9keSBieSB0aGUgYmFsbHM&hash=58110e4db14b44cf2db11b3d2e69223375f21361&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGF2ZSBzb21lYm9keSBieSB0aGUgYmFsbHM&hash=58110e4db14b44cf2db11b3d2e69223375f21361&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44392/original/?type=jpeg",
@@ -41,47 +39,28 @@
       ]
     },
     {
+      "id": "317482dc-06bd-4ee2-a1bf-0016233d32bb",
       "word": "like sheep",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bGlrZSBzaGVlcA&hash=69db042406e83ecb5bd4ad030963377d3e1820e4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "laɪk ʃi:p",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlrZSBzaGVlcA&hash=69db042406e83ecb5bd4ad030963377d3e1820e4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "laik ship",
       "img": "https://cdn.langeek.co/photo/43969/original/?type=jpeg",
       "pronunciation": "lˈaɪk ʃˈiːp",
       "senses": [
         {
           "definition": "in a way that closely imitates what the others are doing in an unquestioning manner",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The protesters marched in unison, following their leaders like sheep, without questioning the cause they were advocating for."
-            },
-            {
-              "cf": "",
-              "x": "Despite the questionable decisions made by their manager, the team blindly followed along like sheep, afraid to voice their concerns."
-            },
-            {
-              "cf": "",
-              "x": "The fashion industry often dictates trends, and consumers follow them like sheep, without considering their own personal style or preferences."
-            },
-            {
-              "cf": "",
-              "x": "In the face of peer pressure, many teenagers conform to fit in with their social groups, behaving like sheep rather than expressing their true selves."
-            },
-            {
-              "cf": "",
-              "x": "The cult leader manipulated his followers, who unquestioningly followed his every command like sheep, relinquishing their own judgment and autonomy."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "e507016b-1f96-4a96-980e-6ff5ce9ba3e7",
       "word": "{one's} (wish|word) [is] {one's} command",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b25lJ3Mgd2lzaCBpcyBvbmUncyBjb21tYW5k&hash=39425962bc127dd5d2c4fa7ce5bce8e3574de56e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b25lJ3Mgd2lzaCBpcyBvbmUncyBjb21tYW5k&hash=39425962bc127dd5d2c4fa7ce5bce8e3574de56e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40191/original/?type=jpeg",
@@ -94,10 +73,11 @@
       ]
     },
     {
-      "word": "[have] {sb} (in the palm|eating out) of {one's} hand",
+      "id": "2855dd61-0eaa-4642-b8c6-fef7589c2839",
+      "word": "to [have] {sb} (in the palm|eating out) of {one's} hand",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGF2ZSBzb21lYm9keSBpbiB0aGUgcGFsbSBvdXQgb2Ygb25lJ3MgaGFuZA&hash=21677ef831ccf4c3e04172544050405892773bde&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGF2ZSBzb21lYm9keSBpbiB0aGUgcGFsbSBvdXQgb2Ygb25lJ3MgaGFuZA&hash=21677ef831ccf4c3e04172544050405892773bde&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44348/original/?type=jpeg",
@@ -110,10 +90,11 @@
       ]
     },
     {
+      "id": "d087f0a8-a542-449f-ae95-3abb25d9c2f8",
       "word": "under {one's} thumb",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dW5kZXIgb25lJ3MgdGh1bWI&hash=36ff06ebdc55b351c2efe0ba590216b241ee2ec1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5kZXIgb25lJ3MgdGh1bWI&hash=36ff06ebdc55b351c2efe0ba590216b241ee2ec1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/27692/original/?type=jpeg",
@@ -121,24 +102,16 @@
       "senses": [
         {
           "definition": "completely under one's direct control",
-          "examples": [
-            {
-              "cf": "",
-              "x": "And that's the way you keep her, right under your thumb."
-            },
-            {
-              "cf": "",
-              "x": "He has his employees under his thumb, making every decision for them."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[wrap|twist|wind] {sb} around {one's} (little|) finger",
+      "id": "e7ee774b-bf4e-441a-9f32-0859ae1fea05",
+      "word": "to [wrap|twist|wind] {sb} around {one's} (little|) finger",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd3JhcCBzb21lYm9keSBhcm91bmQgb25lJ3MgbGl0dGxlIGZpbmdlcg&hash=29ba4df70d54097a183ab212029d7fc8989b8251&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd3JhcCBzb21lYm9keSBhcm91bmQgb25lJ3MgbGl0dGxlIGZpbmdlcg&hash=29ba4df70d54097a183ab212029d7fc8989b8251&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44396/original/?type=jpeg",
@@ -146,20 +119,16 @@
       "senses": [
         {
           "definition": "to manage to convince someone to do whatever one asks of them out of love or respect that they have for one",
-          "examples": [
-            {
-              "cf": "",
-              "x": "With her charming personality and persuasive skills, she could twist anyone around her finger, getting them to do whatever she desired."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "c947c5ea-a671-4554-a271-73827ed0a18a",
       "word": "at  {one's} beck and call",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXQgIG9uZSdzIGJlY2sgYW5kIGNhbGw&hash=23dfad7ba215b741e32d238e3e393720db54aba6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXQgIG9uZSdzIGJlY2sgYW5kIGNhbGw&hash=23dfad7ba215b741e32d238e3e393720db54aba6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44384/original/?type=jpeg",
@@ -185,10 +154,11 @@
       ]
     },
     {
-      "word": "[come] to heel",
+      "id": "5b8cfd3f-93b2-43fd-9e36-eff8071c9e6f",
+      "word": "to [come] to heel",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29tZSB0byBoZWVs&hash=996fb624c7ffc7339cc2cdb2682391169a5625c7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29tZSB0byBoZWVs&hash=996fb624c7ffc7339cc2cdb2682391169a5625c7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44388/original/?type=jpeg",
@@ -222,10 +192,11 @@
       ]
     },
     {
-      "word": "[say|give] the word {~noun}",
+      "id": "bc7cc21b-3684-4aaa-a294-163ba314f0bb",
+      "word": "to [say|give] the word {~noun}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2F5IHRoZSB3b3JkIA&hash=f79447b7cba2624676e260752442da04f8e85dee&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2F5IHRoZSB3b3JkIA&hash=f79447b7cba2624676e260752442da04f8e85dee&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43110/original/?type=jpeg",
@@ -238,10 +209,11 @@
       ]
     },
     {
-      "word": "[bring] {sb} to heel",
+      "id": "b790a67b-49a4-4b74-bb27-2a0382047eb1",
+      "word": "to [bring] {sb} to heel",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJpbmcgc29tZWJvZHkgdG8gaGVlbA&hash=ebd9ba7203593721b77713f2618291661b55ca27&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJpbmcgc29tZWJvZHkgdG8gaGVlbA&hash=ebd9ba7203593721b77713f2618291661b55ca27&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41638/original/?type=jpeg",
@@ -254,10 +226,11 @@
       ]
     },
     {
+      "id": "cab59419-9435-493c-823f-efbd9e80a260",
       "word": "[have] {sb} by the short hairs",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aGF2ZSBzb21lYm9keSBieSB0aGUgc2hvcnQgaGFpcnM&hash=1ce4a44629c941ca930d9679ff567bf028decfd5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aGF2ZSBzb21lYm9keSBieSB0aGUgc2hvcnQgaGFpcnM&hash=1ce4a44629c941ca930d9679ff567bf028decfd5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44416/original/?type=jpeg",
@@ -270,10 +243,11 @@
       ]
     },
     {
-      "word": "[toe] the line",
+      "id": "7269ee18-0cb9-4f3d-8a7d-18279674a965",
+      "word": "to [toe] the line",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdG9lIHRoZSBsaW5l&hash=6af08312f8f410c10ad3f122a45823108cf651d7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdG9lIHRoZSBsaW5l&hash=6af08312f8f410c10ad3f122a45823108cf651d7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44422/original/?type=jpeg",

@@ -1,13 +1,15 @@
 {
+  "id": "e11ab98d-8216-40b2-b69f-d06feda02cb9",
   "topic": "decision_control",
   "title": "Being in Charge",
   "lesson": "lesson_3",
   "word_list": [
     {
+      "id": "a6227863-897a-463b-bb52-8b48df06e07a",
       "word": "{one's} life [is] in {one's} hands",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b25lJ3MgbGlmZSBpcyBpbiBvbmUncyBoYW5kcw&hash=498443a2ef88aab3d4d9d086e0d3512235a4406f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b25lJ3MgbGlmZSBpcyBpbiBvbmUncyBoYW5kcw&hash=498443a2ef88aab3d4d9d086e0d3512235a4406f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44316/original/?type=jpeg",
@@ -20,10 +22,11 @@
       ]
     },
     {
-      "word": "[throw] {one's} weight around",
+      "id": "5dc5d886-727b-4316-9e40-1f1d31f2dd2e",
+      "word": "to [throw] {one's} weight around",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGhyb3cgb25lJ3Mgd2VpZ2h0IGFyb3VuZA&hash=316b900c5fbe5df54bbaab67f09cfebea2d67d79&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGhyb3cgb25lJ3Mgd2VpZ2h0IGFyb3VuZA&hash=316b900c5fbe5df54bbaab67f09cfebea2d67d79&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44318/original/?type=jpeg",
@@ -31,36 +34,16 @@
       "senses": [
         {
           "definition": "to use one's power or influence  in order to get what one wants, particularly by behaving in an aggressive and dominating manner",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The new manager immediately started throwing his weight around, making arbitrary decisions without consulting the team."
-            },
-            {
-              "cf": "",
-              "x": "The wealthy businessman was known for throwing his weight around in the industry, often using his influence to get what he wanted."
-            },
-            {
-              "cf": "",
-              "x": "The politician tried to throw her weight around during the debate, speaking over others and disregarding opposing viewpoints."
-            },
-            {
-              "cf": "",
-              "x": "The bully in school enjoyed throwing his weight around, intimidating others with his physical size and aggressive demeanor."
-            },
-            {
-              "cf": "",
-              "x": "The senior executive was notorious for throwing his weight around in meetings, silencing dissenting voices and imposing his ideas on others."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[lay] down the law",
+      "id": "5e261c70-3960-46aa-b47a-ad49a0954baf",
+      "word": "to [lay] down the law",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGF5IGRvd24gdGhlIGxhdw&hash=500c80bf2498b6331a14a54722f36b07a49edb9d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGF5IGRvd24gdGhlIGxhdw&hash=500c80bf2498b6331a14a54722f36b07a49edb9d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43971/original/?type=jpeg",
@@ -68,36 +51,16 @@
       "senses": [
         {
           "definition": "to tell people what to do in a forceful and authoritative manner",
-          "examples": [
-            {
-              "cf": "",
-              "x": "As the team captain, she laid down the law and set strict guidelines for practice and discipline."
-            },
-            {
-              "cf": "",
-              "x": "The new supervisor wasted no time in laying down the law, making it clear that punctuality and productivity were non-negotiable."
-            },
-            {
-              "cf": "",
-              "x": "The teacher had to lay down the law in the classroom to maintain order and ensure that students followed the rules."
-            },
-            {
-              "cf": "",
-              "x": "The judge laid down the law in the courtroom, delivering a stern verdict and sentencing the defendant accordingly."
-            },
-            {
-              "cf": "",
-              "x": "The parents decided it was time to lay down the law and establish clear boundaries for their teenager's behavior."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[wear] the pants",
+      "id": "adffbf8e-fb80-4121-ad5c-87ad9758a3bb",
+      "word": "to [wear] the pants",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2VhciB0aGUgcGFudHM&hash=c848d74637945f450ec88ea44b2b1a1e67a6d029&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2VhciB0aGUgcGFudHM&hash=c848d74637945f450ec88ea44b2b1a1e67a6d029&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40215/original/?type=jpeg",
@@ -105,32 +68,16 @@
       "senses": [
         {
           "definition": "to be the one who makes important decisions and is in complete control and of a relationship or family",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Despite being in a traditional society, she clearly wears the pants in her marriage, making all the major decisions."
-            },
-            {
-              "cf": "",
-              "x": "In their business partnership, John may be the face of the company, but it's clear that Sarah wears the pants when it comes to strategic planning and decision-making."
-            },
-            {
-              "cf": "",
-              "x": "He may come across as tough, but everyone knows that in their friendship, it's Jane who wears the pants and calls the shots."
-            },
-            {
-              "cf": "",
-              "x": "Although Jack is the more easygoing of the two, everyone knows that Emily wears the pants in their relationship."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "9775627b-b3d4-4f98-82d0-86272e197c5c",
       "word": "at the helm of {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXQgdGhlIGhlbG0gb2Ygc29tZXRoaW5n&hash=75a809749e474589c1d8c06c06dbaad54354a936&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXQgdGhlIGhlbG0gb2Ygc29tZXRoaW5n&hash=75a809749e474589c1d8c06c06dbaad54354a936&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44312/original/?type=jpeg",
@@ -164,10 +111,11 @@
       ]
     },
     {
+      "id": "81b5a753-64b8-4f80-8312-a8e9415060fb",
       "word": "on {one's} watch",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gb25lJ3Mgd2F0Y2g&hash=d2732f645fdac54fc560cb7b355f985375313209&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gb25lJ3Mgd2F0Y2g&hash=d2732f645fdac54fc560cb7b355f985375313209&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43666/original/?type=jpeg",
@@ -175,20 +123,16 @@
       "senses": [
         {
           "definition": "as long as one has the power and authority or is responsible for something",
-          "examples": [
-            {
-              "cf": "",
-              "x": "As the project manager, it's on my watch to ensure that we meet our deadlines and deliver quality work."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[call] the (shots|tune)",
+      "id": "42ff095c-ef06-40e9-b714-30991dee23c3",
+      "word": "to [call] the (shots|tune)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2FsbCB0aGUgc2hvdHM&hash=d3be3df79a64d490e73283e812a7503aab177c8a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2FsbCB0aGUgc2hvdHM&hash=d3be3df79a64d490e73283e812a7503aab177c8a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44350/original/?type=jpeg",
@@ -222,12 +166,13 @@
       ]
     },
     {
+      "id": "8363503c-7334-4693-93f8-b79348dcf7fb",
       "word": "upper hand",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dXBwZXIgaGFuZA&hash=1fdd5b57b9db91ec63a4ca30f38a68c7b33eb164&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ə.pɜr hænd",
       "phonetic_am": "https://tts.langeek.co/read?text=dXBwZXIgaGFuZA&hash=1fdd5b57b9db91ec63a4ca30f38a68c7b33eb164&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ē.pēr hānd",
       "img": "https://cdn.langeek.co/photo/44360/original/?type=jpeg",
       "pronunciation": "ˌʌpɚ hˈænd",
       "senses": [
@@ -263,10 +208,11 @@
       ]
     },
     {
-      "word": "[rule] the roost",
+      "id": "dd187559-d2d5-4e47-a788-e3693caffd9c",
+      "word": "to [rule] the roost",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcnVsZSB0aGUgcm9vc3Q&hash=f55ae17af1978dccb40d78a366bbff057daac33d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcnVsZSB0aGUgcm9vc3Q&hash=f55ae17af1978dccb40d78a366bbff057daac33d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40702/original/?type=jpeg",
@@ -300,12 +246,13 @@
       ]
     },
     {
+      "id": "0e93e00e-2ec2-47a8-94b2-3344a83356ed",
       "word": "big brother",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmlnIGJyb3RoZXI&hash=8e0e3b7bb66e94d62b1d63210c07b8628022b33a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɪg brʌ.ðər",
       "phonetic_am": "https://tts.langeek.co/read?text=YmlnIGJyb3RoZXI&hash=8e0e3b7bb66e94d62b1d63210c07b8628022b33a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "big bra.dhēr",
       "img": "https://cdn.langeek.co/photo/44348/original/?type=jpeg",
       "pronunciation": "bˈɪɡ bɹˈʌðɚ",
       "senses": [
@@ -337,10 +284,11 @@
       ]
     },
     {
+      "id": "0a4b5949-1af4-4533-a908-d5b44c10eef2",
       "word": "(last|final) word",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bGFzdCB3b3Jk&hash=88a3ff003f68de4b29eb7e2596ed7ca9ed6c9467&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFzdCB3b3Jk&hash=88a3ff003f68de4b29eb7e2596ed7ca9ed6c9467&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44358/original/?type=jpeg",
@@ -374,10 +322,11 @@
       ]
     },
     {
-      "word": "[get] {one's} hooks into {sb/sth}",
+      "id": "2c7551a5-f74e-4b88-b421-fd813851c1b2",
+      "word": "to [get] {one's} hooks into {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IG9uZSdzIGhvb2tzIGludG8gc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=ddca46c4c59416f6e19326258290187319743ef6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IG9uZSdzIGhvb2tzIGludG8gc29tZWJvZHkgb3Igc29tZXRoaW5n&hash=ddca46c4c59416f6e19326258290187319743ef6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44356/original/?type=jpeg",
@@ -385,36 +334,16 @@
       "senses": [
         {
           "definition": "to get complete control of or to heavily influence someone or something",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The manipulative salesperson managed to get his hooks into the vulnerable customer, persuading them to purchase unnecessary products."
-            },
-            {
-              "cf": "",
-              "x": "The cunning politician aimed to get her hooks into the influential committee, hoping to sway their decisions in her favor."
-            },
-            {
-              "cf": "",
-              "x": "The charismatic cult leader used psychological tactics to get his hooks into his followers, gaining complete control over their lives."
-            },
-            {
-              "cf": "",
-              "x": "The addictive nature of social media platforms often succeeds in getting its hooks into users, keeping them engaged for hours on end."
-            },
-            {
-              "cf": "",
-              "x": "The ambitious employee strategically worked to get her hooks into the upper management, positioning herself for a promotion."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[hold] the reins",
+      "id": "16d844c6-0c4e-4688-a470-9b6fbb785708",
+      "word": "to [hold] the reins",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaG9sZCB0aGUgcmVpbnM&hash=1d87fd9c348ff42085f8a47613e832750aadcc1f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaG9sZCB0aGUgcmVpbnM&hash=1d87fd9c348ff42085f8a47613e832750aadcc1f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/19166/original/management?type=jpeg",
@@ -422,36 +351,16 @@
       "senses": [
         {
           "definition": "to be in charge of a particular company, organization, etc.",
-          "examples": [
-            {
-              "cf": "",
-              "x": "As the CEO, she holds the reins of the company, guiding its strategic direction and ensuring its success."
-            },
-            {
-              "cf": "",
-              "x": "The coach firmly holds the reins of the team, implementing effective training programs and leading them to victory."
-            },
-            {
-              "cf": "",
-              "x": "With his expertise and experience, he holds the reins of the project, overseeing its execution and ensuring its timely completion."
-            },
-            {
-              "cf": "",
-              "x": "As the parent, it is important to hold the reins of discipline and guidance, shaping the development of your children."
-            },
-            {
-              "cf": "",
-              "x": "The conductor skillfully holds the reins of the orchestra, directing the musicians to create a harmonious symphony."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "2649a869-19cb-4ed3-8917-eb251cf59cc1",
       "word": "in {one's} hands",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aW4gb25lJ3MgaGFuZHM&hash=f90ab123878f8c96921423b83d46d85975bb7990&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gb25lJ3MgaGFuZHM&hash=f90ab123878f8c96921423b83d46d85975bb7990&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44096/original/?type=jpeg",
@@ -477,10 +386,11 @@
       ]
     },
     {
+      "id": "bed27ea6-aa33-44f5-b120-d628b954db2c",
       "word": "captain of {one's} own ship",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Y2FwdGFpbiBvZiBvbmUncyBvd24gc2hpcA&hash=91431f2c8a9840434912ab463858082928fb54f9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FwdGFpbiBvZiBvbmUncyBvd24gc2hpcA&hash=91431f2c8a9840434912ab463858082928fb54f9&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44352/original/?type=jpeg",
@@ -488,28 +398,7 @@
       "senses": [
         {
           "definition": "used to refer to an individual who has authority and control over their own life and decisions",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After years of working for others, she decided to start her own business and become the captain of her own ship."
-            },
-            {
-              "cf": "",
-              "x": "Despite facing challenges, he embraced entrepreneurship and became the captain of his own ship, forging his own path to success."
-            },
-            {
-              "cf": "",
-              "x": "She refused to be dictated by societal expectations and chose to be the captain of her own ship, pursuing her passions and dreams."
-            },
-            {
-              "cf": "",
-              "x": "After retiring from his corporate job, he set sail on a new adventure, becoming the captain of his own ship and exploring the world."
-            },
-            {
-              "cf": "",
-              "x": "With a strong sense of independence, she took control of her career and became the captain of her own ship, navigating her way to professional fulfillment."
-            }
-          ]
+          "examples": []
         }
       ]
     }

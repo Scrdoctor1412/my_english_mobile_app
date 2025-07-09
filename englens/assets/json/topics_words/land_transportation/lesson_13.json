@@ -1,10 +1,12 @@
 {
+  "id": "4fc0440c-1b2b-40b4-8983-bf4773f7d27c",
   "topic": "land_transportation",
   "title": "Transit Actions",
   "lesson": "lesson_13",
   "word_list": [
     {
-      "word": "drive",
+      "id": "19ba25c6-51e0-4acd-9bd4-ba0a3f64ddb5",
+      "word": "to drive",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJpdmU&hash=704a8f2ae7dbeafb5fcb21f996d425b92f21e83b&lang=en&cache-only=0",
       "phonetic_text": "draɪv",
@@ -41,14 +43,15 @@
       ]
     },
     {
-      "word": "bike",
+      "id": "0d00d45d-a070-41f5-84fb-c21c523bae7c",
+      "word": "to bike",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmlrZQ&hash=468083b4cee429f886bcf78dbd9948e78cfccdf5&lang=en&cache-only=0",
       "phonetic_text": "baɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmlrZQ&hash=468083b4cee429f886bcf78dbd9948e78cfccdf5&lang=en&cache-only=0",
       "phonetic_am_text": "baik",
       "img": "https://cdn.langeek.co/photo/51065/original/cycling?type=jpeg",
-      "pronunciation": "ˈbaɪk",
+      "pronunciation": "baɪk",
       "senses": [
         {
           "definition": "to use a bicycle to reach one's destination",
@@ -78,7 +81,8 @@
       ]
     },
     {
-      "word": "ride",
+      "id": "3dca290c-c33f-49cc-823a-89a6ca1a7f7d",
+      "word": "to ride",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmlkZQ&hash=4eb6c47aab74b4b0205b5b14e90f3e4ba357c72f&lang=en&cache-only=0",
       "phonetic_text": "raɪd",
@@ -115,12 +119,13 @@
       ]
     },
     {
-      "word": "motor",
+      "id": "35ebdc01-af8a-4e09-815a-1be0fca9402a",
+      "word": "to motor",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbW90b3I&hash=2001550667f645688e656f6498aae357e55b62b5&lang=en&cache-only=0",
-      "phonetic_text": "moʊtər",
+      "phonetic_text": "moʊ.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbW90b3I&hash=2001550667f645688e656f6498aae357e55b62b5&lang=en&cache-only=0",
-      "phonetic_am_text": "mowtēr",
+      "phonetic_am_text": "mooo.tēr",
       "img": "",
       "pronunciation": "ˈmoʊtɝ",
       "senses": [
@@ -152,7 +157,8 @@
       ]
     },
     {
-      "word": "truck",
+      "id": "738f63c6-72f4-4a68-9bd7-4327039eef37",
+      "word": "to truck",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHJ1Y2s&hash=c0f655367f1cf31b7bc9360be2b00e23c0fa50bd&lang=en&cache-only=0",
       "phonetic_text": "trʌk",
@@ -185,7 +191,8 @@
       ]
     },
     {
-      "word": "run",
+      "id": "102c3cb7-9a54-4648-9f01-d20424820fba",
+      "word": "to run",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcnVu&hash=a89561462897e0e7118780b949d5a04c57c3f8c0&lang=en&cache-only=0",
       "phonetic_text": "rʌn",
@@ -218,6 +225,7 @@
       ]
     },
     {
+      "id": "98d9bf43-8f76-4ddd-a2d7-e9c8f1b3818f",
       "word": "lift",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGlmdA&hash=31502daa13576263f8c8f951528a638bd9a7a0af&lang=en&cache-only=0",
@@ -225,7 +233,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=bGlmdA&hash=31502daa13576263f8c8f951528a638bd9a7a0af&lang=en&cache-only=0",
       "phonetic_am_text": "lift",
       "img": "",
-      "pronunciation": "ˈɫɪft",
+      "pronunciation": "lɪft",
       "senses": [
         {
           "definition": "a ride in a vehicle that takes someone from one place to another",
@@ -255,14 +263,15 @@
       ]
     },
     {
-      "word": "pick up",
+      "id": "9d9b01fe-9803-4cf5-b153-2911bc346c1b",
+      "word": "to pick up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGljayB1cA&hash=d255d49be38c203f8498afac14a082c089eb1faa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɪk ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGljayB1cA&hash=d255d49be38c203f8498afac14a082c089eb1faa&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pik ap",
       "img": "https://cdn.langeek.co/photo/35864/original/?type=jpeg",
-      "pronunciation": "pˈɪk ˈʌp",
+      "pronunciation": "ˈpɪk ˈʌp",
       "senses": [
         {
           "definition": "to let a person waiting by a road or street to get inside one's vehicle and give them a ride",
@@ -284,14 +293,15 @@
       ]
     },
     {
-      "word": "drop",
+      "id": "b3d9c99e-1b10-4185-8c89-1f96c3a68ede",
+      "word": "to drop",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJvcA&hash=24c443d5d505717b98d94e9d3892d099774b1bab&lang=en&cache-only=0",
-      "phonetic_text": "drɑ:p",
+      "phonetic_text": "drɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZHJvcA&hash=24c443d5d505717b98d94e9d3892d099774b1bab&lang=en&cache-only=0",
       "phonetic_am_text": "draap",
       "img": "",
-      "pronunciation": "ˈdɹɑp/, /ˈdɹɔp",
+      "pronunciation": "drɑp",
       "senses": [
         {
           "definition": "to release or unload people or cargo from a vehicle",
@@ -325,14 +335,15 @@
       ]
     },
     {
-      "word": "commute",
+      "id": "3574626c-003b-44ec-acbc-0307b3c2b742",
+      "word": "to commute",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29tbXV0ZQ&hash=40f27d5368239c273302d7a6f43e76df1ebcfdff&lang=en&cache-only=0",
-      "phonetic_text": "kəmju:t",
+      "phonetic_text": "kə.mjut",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29tbXV0ZQ&hash=40f27d5368239c273302d7a6f43e76df1ebcfdff&lang=en&cache-only=0",
-      "phonetic_am_text": "kēmyoot",
+      "phonetic_am_text": "kē.myoot",
       "img": "https://cdn.langeek.co/photo/20471/original/commute?type=jpeg",
-      "pronunciation": "kəmˈjut",
+      "pronunciation": "kəˈmjut",
       "senses": [
         {
           "definition": "to regularly travel to one's place of work and home by different means",
@@ -362,49 +373,30 @@
       ]
     },
     {
-      "word": "bypass",
+      "id": "7dffbb13-7627-488f-99d6-2aa442aed268",
+      "word": "to bypass",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnlwYXNz&hash=0f74f3da1b43953fbb558eb2727e082a36bc6c42&lang=en&cache-only=0",
-      "phonetic_text": "baɪpæs",
+      "phonetic_text": "baɪ.pæs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnlwYXNz&hash=0f74f3da1b43953fbb558eb2727e082a36bc6c42&lang=en&cache-only=0",
-      "phonetic_am_text": "baipās",
+      "phonetic_am_text": "bai.pās",
       "img": "https://cdn.langeek.co/photo/53537/original/?type=jpeg",
       "pronunciation": "ˈbaɪˌpæs",
       "senses": [
         {
           "definition": "to navigate around or avoid something by taking an alternative route or direction",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Due to road construction, drivers had to bypass the usual route."
-            },
-            {
-              "cf": "",
-              "x": "To save time during rush hour, commuters often bypass the busy intersection by using a less congested side street."
-            },
-            {
-              "cf": "",
-              "x": "Hikers were forced to bypass the closed trail and find an alternative way to reach the summit."
-            },
-            {
-              "cf": "",
-              "x": "Seeking solitude on the beach, he chose to bypass the crowded areas and walked toward a more secluded spot."
-            },
-            {
-              "cf": "",
-              "x": "With the bridge closed for repairs, pedestrians had to bypass it by taking a ferry across the river."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "hitchhike",
+      "id": "6eb60fc8-e005-47e5-bf85-8477961d37df",
+      "word": "to hitchhike",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGl0Y2hoaWtl&hash=2f73f749a3ae634ac1619eff8b39eb3f2028f538&lang=en&cache-only=0",
-      "phonetic_text": "hɪʧhaɪk",
+      "phonetic_text": "hɪʧ.haɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGl0Y2hoaWtl&hash=2f73f749a3ae634ac1619eff8b39eb3f2028f538&lang=en&cache-only=0",
-      "phonetic_am_text": "hichhaik",
+      "phonetic_am_text": "hich.haik",
       "img": "https://cdn.langeek.co/photo/46938/original/?type=jpeg",
       "pronunciation": "ˈhɪtʃˌhaɪk",
       "senses": [
@@ -436,12 +428,13 @@
       ]
     },
     {
-      "word": "alight",
+      "id": "1c0d26cb-53ac-4d9b-8be0-b13536080f14",
+      "word": "to alight",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWxpZ2h0&hash=08766ae0b8e9cc1cd4c582d594f8607903afab2e&lang=en&cache-only=0",
-      "phonetic_text": "əlaɪt",
+      "phonetic_text": "ə.laɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWxpZ2h0&hash=08766ae0b8e9cc1cd4c582d594f8607903afab2e&lang=en&cache-only=0",
-      "phonetic_am_text": "ēlait",
+      "phonetic_am_text": "ē.lait",
       "img": "",
       "pronunciation": "əˈɫaɪt",
       "senses": [
@@ -473,12 +466,13 @@
       ]
     },
     {
-      "word": "board",
+      "id": "cd961182-3eb3-47c9-b785-7f5192d49f0f",
+      "word": "to board",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYm9hcmQ&hash=03b143adfc984319dd7cf56ff92860de360e0b99&lang=en&cache-only=0",
       "phonetic_text": "bɔ:rd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYm9hcmQ&hash=03b143adfc984319dd7cf56ff92860de360e0b99&lang=en&cache-only=0",
-      "phonetic_am_text": "baawrd",
+      "phonetic_am_text": "bawrd",
       "img": "https://cdn.langeek.co/photo/18585/original/board?type=jpeg",
       "pronunciation": "bɔːrd",
       "senses": [
@@ -510,14 +504,15 @@
       ]
     },
     {
-      "word": "catch",
+      "id": "a93dbad3-8752-4186-a4fc-92da6172d86d",
+      "word": "to catch",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2F0Y2g&hash=c01bfa7d58d709a9444848b1b3e370244b69aa67&lang=en&cache-only=0",
       "phonetic_text": "kæʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2F0Y2g&hash=c01bfa7d58d709a9444848b1b3e370244b69aa67&lang=en&cache-only=0",
       "phonetic_am_text": "kāch",
       "img": "https://cdn.langeek.co/photo/18585/original/board?type=jpeg",
-      "pronunciation": "ˈkætʃ",
+      "pronunciation": "kætʃ",
       "senses": [
         {
           "definition": "to reach and get on a bus, aircraft, or train in time",
@@ -547,13 +542,14 @@
       ]
     },
     {
-      "word": "change",
+      "id": "4097dbde-c118-4b22-a252-959fe637bb94",
+      "word": "to change",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hhbmdl&hash=cfe58ecdbdf274fe64af4fdf5332fe5608faf329&lang=en&cache-only=0",
       "phonetic_text": "ʧeɪnʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2hhbmdl&hash=cfe58ecdbdf274fe64af4fdf5332fe5608faf329&lang=en&cache-only=0",
       "phonetic_am_text": "cheinj",
-      "img": "https://cdn.langeek.co/photo/17849/original/change?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/61602/original/change?type=jpeg",
       "pronunciation": "tʃeɪndʒ",
       "senses": [
         {
@@ -580,7 +576,8 @@
       ]
     },
     {
-      "word": "get",
+      "id": "18e6ff55-3494-4445-966c-8bfd265b1e9b",
+      "word": "to get",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0&hash=fc37dd4b71d4e5666f034fc38ef8ee6d00dcf928&lang=en&cache-only=0",
       "phonetic_text": "gɛt",
@@ -591,44 +588,20 @@
       "senses": [
         {
           "definition": "to use a taxi, bus, train, plane, etc. for transportation",
-          "examples": [
-            {
-              "cf": "",
-              "x": "We need to get a taxi to the airport for our early morning flight."
-            },
-            {
-              "cf": "",
-              "x": "Let's get the bus to downtown and explore the city."
-            },
-            {
-              "cf": "",
-              "x": "Let's get a ferry to the nearby island for a day trip."
-            },
-            {
-              "cf": "",
-              "x": "He got a flight to Paris for his business meeting."
-            },
-            {
-              "cf": "",
-              "x": "I usually get the subway to get to my language class."
-            },
-            {
-              "cf": "",
-              "x": "He got a plane from New York to Los Angeles for the film shoot."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "hail",
+      "id": "f030d157-88ff-4595-b8a9-d217f9c72eb6",
+      "word": "to hail",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGFpbA&hash=c03e6e462c98416056bf20463105bff08b89ec41&lang=en&cache-only=0",
       "phonetic_text": "heɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGFpbA&hash=c03e6e462c98416056bf20463105bff08b89ec41&lang=en&cache-only=0",
       "phonetic_am_text": "heil",
       "img": "",
-      "pronunciation": "ˈheɪɫ",
+      "pronunciation": "heɪl",
       "senses": [
         {
           "definition": "to signal an approaching taxi or bus to stop",
@@ -658,10 +631,11 @@
       ]
     },
     {
-      "word": "hop",
+      "id": "1945e385-fe90-41d4-92e1-d57bf948d3b2",
+      "word": "to hop",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaG9w&hash=f0b1fa0f7b971d49eacc7530bbbb1586e0dbfe61&lang=en&cache-only=0",
-      "phonetic_text": "hɑ:p",
+      "phonetic_text": "hɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaG9w&hash=f0b1fa0f7b971d49eacc7530bbbb1586e0dbfe61&lang=en&cache-only=0",
       "phonetic_am_text": "haap",
       "img": "",
@@ -695,7 +669,8 @@
       ]
     },
     {
-      "word": "take",
+      "id": "9fb40aa8-6b9b-437f-9d32-cce1e6d5446b",
+      "word": "to take",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZQ&hash=218a7b24f2f9192973800c7366909ef3421d1aec&lang=en&cache-only=0",
       "phonetic_text": "teɪk",
@@ -732,12 +707,13 @@
       ]
     },
     {
-      "word": "terminate",
+      "id": "9fb68ee8-d15f-442e-94f8-38a7957c59a9",
+      "word": "to terminate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGVybWluYXRl&hash=9a0f0774b48c4102ae8cac3c297271ddfe48cfef&lang=en&cache-only=0",
-      "phonetic_text": "tɜrməneɪt",
+      "phonetic_text": "tɜr.mə.neɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGVybWluYXRl&hash=9a0f0774b48c4102ae8cac3c297271ddfe48cfef&lang=en&cache-only=0",
-      "phonetic_am_text": "tērmēneit",
+      "phonetic_am_text": "tēr.mē.neit",
       "img": "",
       "pronunciation": "ˈtɝməˌneɪt",
       "senses": [
@@ -769,12 +745,13 @@
       ]
     },
     {
-      "word": "get in",
+      "id": "8c9dfa05-bacd-44ff-b631-775ebb63e299",
+      "word": "to get in",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IGlu&hash=41c715507397434f4526881f251ca4ee8510eb3f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gɛt ɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IGlu&hash=41c715507397434f4526881f251ca4ee8510eb3f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "get in",
       "img": "",
       "pronunciation": "ɡɛt ˈɪn",
       "senses": [
@@ -806,10 +783,11 @@
       ]
     },
     {
-      "word": "detrain",
+      "id": "5ec87788-2b97-4cb5-b015-2c0218bb87dd",
+      "word": "to detrain",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGV0cmFpbg&hash=bbb02ee646601576e8c264dd0923788c6b1d1eae&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGV0cmFpbg&hash=bbb02ee646601576e8c264dd0923788c6b1d1eae&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -843,7 +821,8 @@
       ]
     },
     {
-      "word": "ply",
+      "id": "e7122c85-59ae-4bdf-b0e0-83ea5582d23a",
+      "word": "to ply",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGx5&hash=278d68308a4e2814bd7542d8a20df0c438c38036&lang=en&cache-only=0",
       "phonetic_text": "plaɪ",
@@ -880,14 +859,15 @@
       ]
     },
     {
-      "word": "transport",
+      "id": "10f74e69-d14c-4796-8109-01049c9b90c2",
+      "word": "to transport",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHJhbnNwb3J0&hash=464b8d2ea8e80dd2fe1919b43587e392e553dead&lang=en&cache-only=0",
-      "phonetic_text": "trænspɔ:rt",
+      "phonetic_text": "træns.pɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHJhbnNwb3J0&hash=464b8d2ea8e80dd2fe1919b43587e392e553dead&lang=en&cache-only=0",
-      "phonetic_am_text": "trānspaawrt",
+      "phonetic_am_text": "trāns.pawrt",
       "img": "https://cdn.langeek.co/photo/18599/original/transport?type=jpeg",
-      "pronunciation": "ˈtɹænspɔɹt/, /tɹænˈspɔɹt",
+      "pronunciation": "trænˈspɔrt",
       "senses": [
         {
           "definition": "to take people, goods, etc. from one place to another using a vehicle, ship, or aircraft",
@@ -917,12 +897,13 @@
       ]
     },
     {
-      "word": "embark",
+      "id": "501c439e-54be-4980-9205-d17dc454d1e1",
+      "word": "to embark",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZW1iYXJr&hash=ee8f903194156f9793365c7f327a545b3abd98ca&lang=en&cache-only=0",
-      "phonetic_text": "ɛmbɑ:rk",
+      "phonetic_text": "ɛm.bɑrk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZW1iYXJr&hash=ee8f903194156f9793365c7f327a545b3abd98ca&lang=en&cache-only=0",
-      "phonetic_am_text": "embaark",
+      "phonetic_am_text": "em.baark",
       "img": "https://cdn.langeek.co/photo/18585/original/board?type=jpeg",
       "pronunciation": "ɛmˈbɑɹk/, /ɪmˈbɑɹk",
       "senses": [
@@ -950,12 +931,13 @@
       ]
     },
     {
-      "word": "disembark",
+      "id": "9f56bff9-a0eb-4a65-84a2-dad2f0fd6893",
+      "word": "to disembark",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlzZW1iYXJr&hash=4c9165dfbb58a1c27da3a6f6ec1c851fa25bda80&lang=en&cache-only=0",
-      "phonetic_text": "dɪsɛmbɑ:rk",
+      "phonetic_text": "dɪs.ɛm.bɑrk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlzZW1iYXJr&hash=4c9165dfbb58a1c27da3a6f6ec1c851fa25bda80&lang=en&cache-only=0",
-      "phonetic_am_text": "disembaark",
+      "phonetic_am_text": "dis.em.baark",
       "img": "",
       "pronunciation": "dɪsɛmˈbɑɹk",
       "senses": [
@@ -966,28 +948,39 @@
       ]
     },
     {
+      "id": "3a640571-7a6d-4f40-aeb6-1effa7602f3e",
       "word": "aboard",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YWJvYXJk&hash=2f3e129a101a74c7a6b83810eddd9f54686be213&lang=en&cache-only=0",
-      "phonetic_text": "əbɔ:rd",
+      "phonetic_text": "ə.bɔrd",
       "phonetic_am": "https://tts.langeek.co/read?text=YWJvYXJk&hash=2f3e129a101a74c7a6b83810eddd9f54686be213&lang=en&cache-only=0",
-      "phonetic_am_text": "ēbaawrd",
+      "phonetic_am_text": "ē.bawrd",
       "img": "https://cdn.langeek.co/photo/18585/original/board?type=jpeg",
       "pronunciation": "əˈbɔɹd",
       "senses": [
         {
           "definition": "on or into a vehicle such as a bus, train, plane, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Everyone was aboard before the plane began taxiing down the runway."
+            },
+            {
+              "cf": "",
+              "x": "Once the children were safely aboard, the bus pulled away from the curb."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "37e6e129-3aa5-4fc4-ad1c-173a1a39a0cc",
       "word": "road trip",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9hZCB0cmlw&hash=947cb338d50ff7c7b3de5becaac25ee4c5723d1b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "roʊd trɪp",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9hZCB0cmlw&hash=947cb338d50ff7c7b3de5becaac25ee4c5723d1b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "roood trip",
       "img": "",
       "pronunciation": "ɹˈoʊd tɹˈɪp",
       "senses": [
@@ -1019,12 +1012,13 @@
       ]
     },
     {
+      "id": "62aec6bf-1013-49f8-9605-238220e5cabb",
       "word": "round trip",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm91bmQgdHJpcA&hash=812ef1955c6dd35c42fbdfce3f91445cfdb417f6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "raʊnd trɪp",
       "phonetic_am": "https://tts.langeek.co/read?text=cm91bmQgdHJpcA&hash=812ef1955c6dd35c42fbdfce3f91445cfdb417f6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "raoond trip",
       "img": "https://cdn.langeek.co/photo/17325/original/round-trip-ticket?type=jpeg",
       "pronunciation": "ɹˈaʊnd tɹˈɪp",
       "senses": [

@@ -1,31 +1,55 @@
 {
+  "id": "a255ee7b-508a-4239-83ff-fb730060579e",
   "topic": "music",
   "title": "Musical Pieces",
   "lesson": "lesson_19",
   "word_list": [
     {
+      "id": "90678e8d-ca15-4e77-845e-92f74e220b71",
       "word": "adagio",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWRhZ2lv&hash=0006161e5ad2fcee9ceb350f9dcc617655f5a0e3&lang=en&cache-only=0",
-      "phonetic_text": "ədɑ:ʒioʊ",
+      "phonetic_text": "ə.dɑ.ʒioʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=YWRhZ2lv&hash=0006161e5ad2fcee9ceb350f9dcc617655f5a0e3&lang=en&cache-only=0",
-      "phonetic_am_text": "ēdaazhiow",
+      "phonetic_am_text": "ē.daa.zhiooo",
       "img": "",
       "pronunciation": "əˈdɑʒiˌoʊ",
       "senses": [
         {
           "definition": "a movement or composition intended to be played at a slow tempo",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The adagio in the opera highlighted the soprano's lyrical voice."
+            },
+            {
+              "cf": "",
+              "x": "Musicians appreciate the adagio for its ability to convey subtle emotions through music."
+            },
+            {
+              "cf": "",
+              "x": "The composer's adagio was known for its delicate melodies and emotional depth."
+            },
+            {
+              "cf": "",
+              "x": "The adagio in the ballet showcased the dancers' grace and control."
+            },
+            {
+              "cf": "",
+              "x": "Students practiced the adagio in their music class to perfect their timing and expression."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e6a55019-bec3-49eb-8fc0-c03f7a638ea6",
       "word": "allegro",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWxsZWdybw&hash=f9cd0768e969b2104a06e4965554d91c6f2a12ee&lang=en&cache-only=0",
-      "phonetic_text": "əlɛgroʊ",
+      "phonetic_text": "ə.lɛg.roʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxsZWdybw&hash=f9cd0768e969b2104a06e4965554d91c6f2a12ee&lang=en&cache-only=0",
-      "phonetic_am_text": "ēlegrow",
+      "phonetic_am_text": "ē.leg.rooo",
       "img": "",
       "pronunciation": "əˈɫɛˌɡɹoʊ",
       "senses": [
@@ -36,12 +60,13 @@
       ]
     },
     {
+      "id": "1bcb2132-2c38-416b-aa4e-7d02f47979f7",
       "word": "andante",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW5kYW50ZQ&hash=8bfd461a26780ba16d959d36f09ee1e8e3dd9562&lang=en&cache-only=0",
-      "phonetic_text": "ɑndɑ:nteɪ",
+      "phonetic_text": "ɑn.dɑn.teɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=YW5kYW50ZQ&hash=8bfd461a26780ba16d959d36f09ee1e8e3dd9562&lang=en&cache-only=0",
-      "phonetic_am_text": "ɑndaantei",
+      "phonetic_am_text": "aan.daan.tei",
       "img": "",
       "pronunciation": "ɑnˈdɑnteɪ",
       "senses": [
@@ -52,44 +77,89 @@
       ]
     },
     {
+      "id": "90f06ab5-fb81-4e56-a304-3279ec59504c",
       "word": "concerto",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29uY2VydG8&hash=4b0f02eba31226b01cc901e16c8c6caa606b24dd&lang=en&cache-only=0",
-      "phonetic_text": "kənʧɛrtoʊ",
+      "phonetic_text": "kən.ʧɛr.toʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uY2VydG8&hash=4b0f02eba31226b01cc901e16c8c6caa606b24dd&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnchertow",
+      "phonetic_am_text": "kēn.cher.tooo",
       "img": "",
-      "pronunciation": "kənˈtʃɛɹtoʊ",
+      "pronunciation": "kənˈʧɛrtoʊ",
       "senses": [
         {
           "definition": "a musical composition that is written for one or more solo instruments and accompanied by an orchestra with three movements",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The orchestra performed a beautiful concerto by Mozart, featuring a talented soloist on the piano."
+            },
+            {
+              "cf": "",
+              "x": "He composed a new concerto for violin and orchestra, which premiered at the music festival."
+            },
+            {
+              "cf": "",
+              "x": "The cellist's performance of the concerto was met with enthusiastic applause from the audience."
+            },
+            {
+              "cf": "",
+              "x": "She practiced diligently to master the challenging passages in the concerto for her upcoming audition."
+            },
+            {
+              "cf": "",
+              "x": "The concerto showcased the virtuosity of the trumpet player, who dazzled the audience with intricate melodies."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "712ab1cb-bb02-4517-a7aa-705d39ce0d67",
       "word": "duet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHVldA&hash=9e17120bdb24ff93cc1fa2a13c300026327de09d&lang=en&cache-only=0",
-      "phonetic_text": "duɛt",
+      "phonetic_text": "djuɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHVldA&hash=9e17120bdb24ff93cc1fa2a13c300026327de09d&lang=en&cache-only=0",
-      "phonetic_am_text": "duet",
+      "phonetic_am_text": "dyooet",
       "img": "https://cdn.langeek.co/photo/30271/original/?type=jpeg",
       "pronunciation": "djuˈɛt/, /duˈɛt",
       "senses": [
         {
           "definition": "a piece of music written for two performers",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The pianist and violinist performed a beautiful duet at the concert."
+            },
+            {
+              "cf": "",
+              "x": "Their vocal duet harmonized perfectly, captivating the audience."
+            },
+            {
+              "cf": "",
+              "x": "She looked forward to singing a duet with her favorite artist."
+            },
+            {
+              "cf": "",
+              "x": "The siblings practiced their piano duet for the upcoming recital."
+            },
+            {
+              "cf": "",
+              "x": "The guitar duet added a lively touch to the evening's performance."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a9c22d35-971c-4bee-b226-971a94d18434",
       "word": "trio",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJpbw&hash=b713218ba266d3fc6a56964e567f43888aa0a3cb&lang=en&cache-only=0",
-      "phonetic_text": "tri:oʊ",
+      "phonetic_text": "trioʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJpbw&hash=b713218ba266d3fc6a56964e567f43888aa0a3cb&lang=en&cache-only=0",
-      "phonetic_am_text": "treeow",
+      "phonetic_am_text": "triooo",
       "img": "",
       "pronunciation": "ˈtɹiˌoʊ",
       "senses": [
@@ -100,28 +170,43 @@
       ]
     },
     {
+      "id": "c2c5c584-4e21-4355-befe-e4e7cdd6b1fc",
       "word": "quartet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cXVhcnRldA&hash=a47e2a35fac225dc560e66eb9ef47a04b41dce12&lang=en&cache-only=0",
-      "phonetic_text": "kwɔrtɛt",
+      "phonetic_text": "kwɔr.tɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=cXVhcnRldA&hash=a47e2a35fac225dc560e66eb9ef47a04b41dce12&lang=en&cache-only=0",
-      "phonetic_am_text": "kwawrtet",
+      "phonetic_am_text": "kvawr.tet",
       "img": "",
       "pronunciation": "kwɔɹˈtɛt",
       "senses": [
         {
           "definition": "a musical piece written for four singers or instruments",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The piano quartet was the highlight of the evening's performance."
+            },
+            {
+              "cf": "",
+              "x": "Their vocal quartet harmonized beautifully in the concert."
+            },
+            {
+              "cf": "",
+              "x": "The jazz quartet featured a saxophone, trumpet, bass, and drums."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "ce9c81d7-e5eb-4fed-916c-3a0893ea8e6c",
       "word": "quintet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cXVpbnRldA&hash=5cd3296df72561c475237a60fd634442506e1fd0&lang=en&cache-only=0",
-      "phonetic_text": "kwɪntɛt",
+      "phonetic_text": "kwɪn.tɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=cXVpbnRldA&hash=5cd3296df72561c475237a60fd634442506e1fd0&lang=en&cache-only=0",
-      "phonetic_am_text": "kwintet",
+      "phonetic_am_text": "kvin.tet",
       "img": "",
       "pronunciation": "kwɪnˈtɛt",
       "senses": [
@@ -153,28 +238,51 @@
       ]
     },
     {
+      "id": "474e7f88-ea5c-4810-b084-8cb8d2440a7a",
       "word": "sextet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2V4dGV0&hash=fffb0c195b88bf181a08e723f4cad244bc32bf63&lang=en&cache-only=0",
-      "phonetic_text": "sɛkstɛt",
+      "phonetic_text": "sɛk.stɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=c2V4dGV0&hash=fffb0c195b88bf181a08e723f4cad244bc32bf63&lang=en&cache-only=0",
-      "phonetic_am_text": "sekstet",
+      "phonetic_am_text": "sek.stet",
       "img": "",
       "pronunciation": "ˌsɛkˈstɛt",
       "senses": [
         {
           "definition": "a musical piece written for six singers or instruments",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The composer plans to write a sextet that incorporates both traditional and modern elements of classical music."
+            },
+            {
+              "cf": "",
+              "x": "The orchestra is practicing a beautiful sextet that will be performed at the concert tomorrow."
+            },
+            {
+              "cf": "",
+              "x": "Composing a sextet requires careful attention to how each instrument or voice interacts with the others."
+            },
+            {
+              "cf": "",
+              "x": "The composer was inspired to write a sextet after attending a small chamber music concert in Vienna."
+            },
+            {
+              "cf": "",
+              "x": "Their sextet was performed for the first time in a grand concert hall, and it received a standing ovation."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "577e13f0-1316-4fb2-8e3a-0ba533f1e41b",
       "word": "septet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VwdGV0&hash=e8d24084809495aee15d27f893462dcd19963800&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛp.tɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VwdGV0&hash=e8d24084809495aee15d27f893462dcd19963800&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sep.tet",
       "img": "",
       "pronunciation": "sɛptˈɛt",
       "senses": [
@@ -185,12 +293,13 @@
       ]
     },
     {
+      "id": "2392c4e1-16c5-4442-9a8b-750bbccb07e6",
       "word": "octet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b2N0ZXQ&hash=a62c3546fa92a965e4b66a53e7bf4cf7febd457a&lang=en&cache-only=0",
-      "phonetic_text": "ɑktɛt",
+      "phonetic_text": "ɑk.tɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=b2N0ZXQ&hash=a62c3546fa92a965e4b66a53e7bf4cf7febd457a&lang=en&cache-only=0",
-      "phonetic_am_text": "ɑktet",
+      "phonetic_am_text": "aak.tet",
       "img": "",
       "pronunciation": "ɑkˈtɛt",
       "senses": [
@@ -201,12 +310,13 @@
       ]
     },
     {
+      "id": "19dda84e-2e41-4f7e-a32d-baafac3a1098",
       "word": "nonet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bm9uZXQ&hash=e71ccfe1886751bbfb9f090ed05dfb50845d9fcd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nɑ:.nɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=bm9uZXQ&hash=e71ccfe1886751bbfb9f090ed05dfb50845d9fcd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "naa.net",
       "img": "",
       "pronunciation": "nˌɑːnˈɛt",
       "senses": [
@@ -217,12 +327,13 @@
       ]
     },
     {
+      "id": "57dde406-a109-4650-82f6-f268ea565a6f",
       "word": "decet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVjZXQ&hash=c775c7e0b78906e7568ff9ead86c5ec49de3838d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "di.sɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVjZXQ&hash=c775c7e0b78906e7568ff9ead86c5ec49de3838d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "di.set",
       "img": "https://cdn.langeek.co/photo/39461/original/?type=jpeg",
       "pronunciation": "dᵻsˈɛt",
       "senses": [
@@ -233,12 +344,13 @@
       ]
     },
     {
+      "id": "7ce2c390-3479-4272-b8da-62e154deb77d",
       "word": "fantasia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFudGFzaWE&hash=d09ee7412d328d3a26a8423933f527117c97243a&lang=en&cache-only=0",
-      "phonetic_text": "fænteɪʒə",
+      "phonetic_text": "fæn.teɪ.ʒə",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFudGFzaWE&hash=d09ee7412d328d3a26a8423933f527117c97243a&lang=en&cache-only=0",
-      "phonetic_am_text": "fānteizhē",
+      "phonetic_am_text": "fān.tei.zhē",
       "img": "",
       "pronunciation": "fænˈteɪʒə",
       "senses": [
@@ -249,12 +361,13 @@
       ]
     },
     {
+      "id": "8c45858e-8cff-4a40-9d6c-edf2cc5b31dd",
       "word": "forte",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9ydGU&hash=9265f5537c4f26bb30bf985ca3a6c65d40139b9b&lang=en&cache-only=0",
-      "phonetic_text": "fɔ:rteɪ",
+      "phonetic_text": "fɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9ydGU&hash=9265f5537c4f26bb30bf985ca3a6c65d40139b9b&lang=en&cache-only=0",
-      "phonetic_am_text": "faawrtei",
+      "phonetic_am_text": "fawrt",
       "img": "",
       "pronunciation": "ˈfɔɹt/, /ˈfɔɹteɪ",
       "senses": [
@@ -286,10 +399,11 @@
       ]
     },
     {
+      "id": "9e50cdde-fc14-4e56-ae43-48f4fe178b82",
       "word": "fugue",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnVndWU&hash=0ad98d123740c5e8cfa602969a97a0b62d37dbc1&lang=en&cache-only=0",
-      "phonetic_text": "fju:g",
+      "phonetic_text": "fjug",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnVndWU&hash=0ad98d123740c5e8cfa602969a97a0b62d37dbc1&lang=en&cache-only=0",
       "phonetic_am_text": "fyoog",
       "img": "",
@@ -315,10 +429,11 @@
       ]
     },
     {
+      "id": "fd76c10c-8e2e-49b4-b162-b9e8fed1a1f8",
       "word": "march",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFyY2g&hash=3cfe31a6317f7cee32a46c3659f598d51daf7c3a&lang=en&cache-only=0",
-      "phonetic_text": "mɑ:rʧ",
+      "phonetic_text": "mɑrʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFyY2g&hash=3cfe31a6317f7cee32a46c3659f598d51daf7c3a&lang=en&cache-only=0",
       "phonetic_am_text": "maarch",
       "img": "",
@@ -331,12 +446,13 @@
       ]
     },
     {
+      "id": "a53f4cd5-7524-423d-b7ae-910f737683ac",
       "word": "voluntary",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dm9sdW50YXJ5&hash=911ec64bb2a0c6940fc0f481869cc85c66d58282&lang=en&cache-only=0",
-      "phonetic_text": "vɑ:ləntɛri",
+      "phonetic_text": "vɑ.lən.tɛ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=dm9sdW50YXJ5&hash=911ec64bb2a0c6940fc0f481869cc85c66d58282&lang=en&cache-only=0",
-      "phonetic_am_text": "vaalēnteri",
+      "phonetic_am_text": "vaa.lēn.te.ri",
       "img": "",
       "pronunciation": "ˈvɑɫəntɛɹi",
       "senses": [
@@ -347,12 +463,13 @@
       ]
     },
     {
+      "id": "082ef6ef-8632-48c6-b1ba-fd6c6017e45c",
       "word": "chaconne",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hhY29ubmU&hash=888e97367984339b15c2f8fea03cd6d3e84dadc9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧæ.kɑ:n",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hhY29ubmU&hash=888e97367984339b15c2f8fea03cd6d3e84dadc9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chā.kaan",
       "img": "",
       "pronunciation": "tʃˈækɑːn",
       "senses": [
@@ -380,12 +497,13 @@
       ]
     },
     {
+      "id": "edd25baf-96de-4793-9c80-c43f702a0984",
       "word": "aubade",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXViYWRl&hash=1d4beb8aa06ae021e0063750860891e29866ec29&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɔ:.beɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=YXViYWRl&hash=1d4beb8aa06ae021e0063750860891e29866ec29&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aw.beid",
       "img": "",
       "pronunciation": "ˈɔːbeɪd",
       "senses": [
@@ -396,12 +514,13 @@
       ]
     },
     {
+      "id": "103a32c2-5ab8-4641-b19d-03c21bb5d779",
       "word": "canon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2Fub24&hash=7f203c983c00fea10b8a9e5dd32b105597bbd2d7&lang=en&cache-only=0",
-      "phonetic_text": "kænən",
+      "phonetic_text": "kæ.nən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2Fub24&hash=7f203c983c00fea10b8a9e5dd32b105597bbd2d7&lang=en&cache-only=0",
-      "phonetic_am_text": "kānēn",
+      "phonetic_am_text": "kā.nēn",
       "img": "",
       "pronunciation": "ˈkænən",
       "senses": [
@@ -412,12 +531,13 @@
       ]
     },
     {
+      "id": "5ee1fbc8-d0aa-4d3f-b243-91d6ca5fde44",
       "word": "chorale",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hvcmFsZQ&hash=5cd4f1c6a8dea7a4ca0d3b8e9476b95a699a276a&lang=en&cache-only=0",
-      "phonetic_text": "kəræl",
+      "phonetic_text": "kɜ.ræl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hvcmFsZQ&hash=5cd4f1c6a8dea7a4ca0d3b8e9476b95a699a276a&lang=en&cache-only=0",
-      "phonetic_am_text": "kērāl",
+      "phonetic_am_text": "kē.rāl",
       "img": "",
       "pronunciation": "kɝˈæɫ",
       "senses": [
@@ -428,12 +548,13 @@
       ]
     },
     {
+      "id": "fba397b3-5e4d-4649-b6c6-6b0eb9be6ca0",
       "word": "composition",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29tcG9zaXRpb24&hash=33d4c528f69845edb96728e03fd2d09a076b7fbf&lang=en&cache-only=0",
-      "phonetic_text": "kɑmpəzɪʃən",
+      "phonetic_text": "kɑm.pə.zɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tcG9zaXRpb24&hash=33d4c528f69845edb96728e03fd2d09a076b7fbf&lang=en&cache-only=0",
-      "phonetic_am_text": "kɑmpēzishēn",
+      "phonetic_am_text": "kaam.pē.zi.shēn",
       "img": "",
       "pronunciation": "ˌkɑmpəˈzɪʃən",
       "senses": [
@@ -444,12 +565,13 @@
       ]
     },
     {
+      "id": "0e9cd860-565e-4745-958d-183f1136a343",
       "word": "divertimento",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGl2ZXJ0aW1lbnRv&hash=a846625195fba56544ba95d5327fd2c8be4a7246&lang=en&cache-only=0",
-      "phonetic_text": "dɪvɜrtəmɛntoʊ",
+      "phonetic_text": "dɪ.vɜr.tə.mɛn.toʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGl2ZXJ0aW1lbnRv&hash=a846625195fba56544ba95d5327fd2c8be4a7246&lang=en&cache-only=0",
-      "phonetic_am_text": "divērtēmentow",
+      "phonetic_am_text": "di.vēr.tē.men.tooo",
       "img": "",
       "pronunciation": "dɪˌvɝtəˈmɛnˌtoʊ",
       "senses": [
@@ -460,12 +582,13 @@
       ]
     },
     {
+      "id": "e42cf999-2b13-4da3-abf9-d6f096c49412",
       "word": "etude",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXR1ZGU&hash=8d4801735e1a96d6d76bd3a3866655d366ac583b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛ.tu:d",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXR1ZGU&hash=8d4801735e1a96d6d76bd3a3866655d366ac583b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "e.tood",
       "img": "",
       "pronunciation": "ˈɛɾuːd",
       "senses": [
@@ -497,12 +620,13 @@
       ]
     },
     {
+      "id": "a831aeaa-bb5a-4967-94f8-4c24cabee7a4",
       "word": "gavotte",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2F2b3R0ZQ&hash=c7a444a0f17a3b2c5e27037dc866f9493c656e72&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gæ.vɑ:t",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2F2b3R0ZQ&hash=c7a444a0f17a3b2c5e27037dc866f9493c656e72&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gā.vaat",
       "img": "",
       "pronunciation": "ɡˈævɑːt",
       "senses": [
@@ -513,12 +637,13 @@
       ]
     },
     {
+      "id": "adeda35a-c96c-4b68-9d5a-58dea7def287",
       "word": "intermezzo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW50ZXJtZXp6bw&hash=a4dc30e989ea1595accb85f43598b0d1f46fa535&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn.tər.mɛ.zoʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=aW50ZXJtZXp6bw&hash=a4dc30e989ea1595accb85f43598b0d1f46fa535&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in.tēr.me.zooo",
       "img": "",
       "pronunciation": "ˌɪntɚmˈɛzoʊ",
       "senses": [
@@ -529,12 +654,13 @@
       ]
     },
     {
+      "id": "e6f3b254-076f-48f7-89c2-3e813737056d",
       "word": "largo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFyZ28&hash=06ea9473167c6d7579c6d9439082f60f208eba58&lang=en&cache-only=0",
-      "phonetic_text": "lɑ:rgoʊ",
+      "phonetic_text": "lɑr.goʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFyZ28&hash=06ea9473167c6d7579c6d9439082f60f208eba58&lang=en&cache-only=0",
-      "phonetic_am_text": "laargow",
+      "phonetic_am_text": "laar.gooo",
       "img": "",
       "pronunciation": "ˈɫɑɹɡoʊ",
       "senses": [
@@ -545,12 +671,13 @@
       ]
     },
     {
+      "id": "4853c1da-d60a-41fd-85cc-92e1d51bcec4",
       "word": "minuet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWludWV0&hash=a3e1c382d66d2b8f5a6b698b260f3c1088c9bd3f&lang=en&cache-only=0",
-      "phonetic_text": "mɪnjuɛt",
+      "phonetic_text": "mɪ.njuɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=bWludWV0&hash=a3e1c382d66d2b8f5a6b698b260f3c1088c9bd3f&lang=en&cache-only=0",
-      "phonetic_am_text": "minyuet",
+      "phonetic_am_text": "mi.nyooet",
       "img": "",
       "pronunciation": "mɪnˌjuˈɛt",
       "senses": [
@@ -561,7 +688,8 @@
       ]
     },
     {
-      "word": "mass",
+      "id": "0715fb27-d578-48d6-99f1-f39cd6bd0c5e",
+      "word": "Mass",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=TWFzcw&hash=c55816748f32161af93ccaafdb59338011d0b961&lang=en&cache-only=0",
       "phonetic_text": "mæs",
@@ -577,12 +705,13 @@
       ]
     },
     {
+      "id": "ec3dbead-e00e-47af-8168-4825d505aa89",
       "word": "medley",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWVkbGV5&hash=6bfcaf0f3b3022a6d51201865e9a34002c66485f&lang=en&cache-only=0",
-      "phonetic_text": "mɛdli",
+      "phonetic_text": "mɛd.li",
       "phonetic_am": "https://tts.langeek.co/read?text=bWVkbGV5&hash=6bfcaf0f3b3022a6d51201865e9a34002c66485f&lang=en&cache-only=0",
-      "phonetic_am_text": "medli",
+      "phonetic_am_text": "med.li",
       "img": "",
       "pronunciation": "ˈmɛdɫi",
       "senses": [
@@ -593,14 +722,15 @@
       ]
     },
     {
+      "id": "6e5c4daa-2042-4118-83ba-6608ff73b1e3",
       "word": "nocturne",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bm9jdHVybmU&hash=cc902bc76291490e87c32e87494993190afe50f1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nɑ:k.tɜ:rn",
       "phonetic_am": "https://tts.langeek.co/read?text=bm9jdHVybmU&hash=cc902bc76291490e87c32e87494993190afe50f1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "naak.tērn",
       "img": "",
-      "pronunciation": "nˈɑːktɜːn",
+      "pronunciation": "ˈnɑːktɜːrn",
       "senses": [
         {
           "definition": "a romantic or dreamy composition written for the piano, dealing with night or evening",
@@ -609,12 +739,13 @@
       ]
     },
     {
+      "id": "f4b19f4c-2a04-4be7-ab38-66dd7b8a76b7",
       "word": "opus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3B1cw&hash=dae12d63af79dc2547d48722cb8f43fe2257af83&lang=en&cache-only=0",
-      "phonetic_text": "oʊpəs",
+      "phonetic_text": "oʊ.pəs",
       "phonetic_am": "https://tts.langeek.co/read?text=b3B1cw&hash=dae12d63af79dc2547d48722cb8f43fe2257af83&lang=en&cache-only=0",
-      "phonetic_am_text": "owpēs",
+      "phonetic_am_text": "ooo.pēs",
       "img": "",
       "pronunciation": "ˈoʊpəs",
       "senses": [
@@ -625,12 +756,13 @@
       ]
     },
     {
+      "id": "d24a049a-6690-4950-988d-34dbd6649436",
       "word": "oratorio",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3JhdG9yaW8&hash=fdec7983d955f80bfebeb350ed4bd3869f30aff4&lang=en&cache-only=0",
-      "phonetic_text": "ɑrətɔ:rioʊ",
+      "phonetic_text": "ɑ.rə.tɔ.rioʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=b3JhdG9yaW8&hash=fdec7983d955f80bfebeb350ed4bd3869f30aff4&lang=en&cache-only=0",
-      "phonetic_am_text": "ɑrētaawriow",
+      "phonetic_am_text": "aa.rē.taw.riooo",
       "img": "",
       "pronunciation": "ˌɑɹəˈtɔɹioʊ",
       "senses": [
@@ -654,12 +786,13 @@
       ]
     },
     {
+      "id": "159975ba-4373-41ce-bf2e-d287e746c263",
       "word": "raga",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFnYQ&hash=f86b6b0c3998ad2fb1bf0f9f39140da4946edc0b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɑ:.gə",
       "phonetic_am": "https://tts.langeek.co/read?text=cmFnYQ&hash=f86b6b0c3998ad2fb1bf0f9f39140da4946edc0b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "raa.gē",
       "img": "",
       "pronunciation": "ɹˈɑːɡə",
       "senses": [
@@ -670,12 +803,13 @@
       ]
     },
     {
+      "id": "993d0beb-92ca-49ad-bacf-cead02acf60e",
       "word": "rhapsody",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmhhcHNvZHk&hash=0f5fe12149d37c33e1423819cf6ed58542da7121&lang=en&cache-only=0",
-      "phonetic_text": "ræpsədi",
+      "phonetic_text": "ræp.sə.di",
       "phonetic_am": "https://tts.langeek.co/read?text=cmhhcHNvZHk&hash=0f5fe12149d37c33e1423819cf6ed58542da7121&lang=en&cache-only=0",
-      "phonetic_am_text": "rāpsēdi",
+      "phonetic_am_text": "rāp.sē.di",
       "img": "",
       "pronunciation": "ˈɹæpsədi",
       "senses": [
@@ -699,14 +833,15 @@
       ]
     },
     {
+      "id": "6ee8ae65-9fe4-4edf-b540-48f92670bbd2",
       "word": "scherzo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2NoZXJ6bw&hash=443d7185966d12ae11fb094d2a99500dfbe762e3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skɛrt",
       "phonetic_am": "https://tts.langeek.co/read?text=c2NoZXJ6bw&hash=443d7185966d12ae11fb094d2a99500dfbe762e3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skert",
       "img": "",
-      "pronunciation": "ʃˈɜːzoʊ",
+      "pronunciation": "ˈskɛrtsoʊ",
       "senses": [
         {
           "definition": "a light and short instrumental piece of music in rapid triple time that is usually part of a symphony or sonata",
@@ -715,12 +850,13 @@
       ]
     },
     {
+      "id": "182783a7-9b26-4093-bfaa-843c966deae8",
       "word": "signature tune",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2lnbmF0dXJlIHR1bmU&hash=86b1281ae142798877e4fc2b991bc97817acd731&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɪg.nə.ʧɜr tun",
       "phonetic_am": "https://tts.langeek.co/read?text=c2lnbmF0dXJlIHR1bmU&hash=86b1281ae142798877e4fc2b991bc97817acd731&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sig.nē.chēr toon",
       "img": "",
       "pronunciation": "sˈɪɡnɪtʃɚ tˈuːn",
       "senses": [
@@ -731,12 +867,13 @@
       ]
     },
     {
+      "id": "c319d370-f647-4c1a-b6f5-4d4d2037b806",
       "word": "solo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c29sbw&hash=d7f125cd7d417c69bf04c30ade7afac1a472bce2&lang=en&cache-only=0",
-      "phonetic_text": "soʊloʊ",
+      "phonetic_text": "soʊ.loʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=c29sbw&hash=d7f125cd7d417c69bf04c30ade7afac1a472bce2&lang=en&cache-only=0",
-      "phonetic_am_text": "sowlow",
+      "phonetic_am_text": "sooo.looo",
       "img": "",
       "pronunciation": "ˈsoʊˌɫoʊ",
       "senses": [
@@ -768,12 +905,13 @@
       ]
     },
     {
+      "id": "bbe9ff10-990b-4582-99e0-3d38dead07d6",
       "word": "sonata",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c29uYXRh&hash=740575ff5716d18c8a996355d2782af21053e886&lang=en&cache-only=0",
-      "phonetic_text": "sənɑ:tə",
+      "phonetic_text": "sə.nɑ.tə",
       "phonetic_am": "https://tts.langeek.co/read?text=c29uYXRh&hash=740575ff5716d18c8a996355d2782af21053e886&lang=en&cache-only=0",
-      "phonetic_am_text": "sēnaatē",
+      "phonetic_am_text": "sē.naa.tē",
       "img": "",
       "pronunciation": "səˈnɑtə",
       "senses": [
@@ -784,28 +922,51 @@
       ]
     },
     {
+      "id": "5895c173-03d9-4b6d-8722-3116cf7943c1",
       "word": "song",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c29uZw&hash=453d40d9a834f06c0bb84685374bcd6a451d5210&lang=en&cache-only=0",
       "phonetic_text": "sɔ:ng",
       "phonetic_am": "https://tts.langeek.co/read?text=c29uZw&hash=453d40d9a834f06c0bb84685374bcd6a451d5210&lang=en&cache-only=0",
-      "phonetic_am_text": "saawng",
+      "phonetic_am_text": "sawng",
       "img": "https://cdn.langeek.co/photo/26190/original/?type=jpeg",
       "pronunciation": "sɔːŋ",
       "senses": [
         {
           "definition": "a piece of music that has words",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Her lullaby is a sweet song that soothes her baby to sleep."
+            },
+            {
+              "cf": "",
+              "x": "She sang a beautiful song at the talent show."
+            },
+            {
+              "cf": "",
+              "x": "The band is known for their rock songs with powerful lyrics."
+            },
+            {
+              "cf": "",
+              "x": "The radio station played the hit song every hour."
+            },
+            {
+              "cf": "",
+              "x": "The song's melody is simple yet captivating."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "07d8a9b9-4789-484f-921b-58c429d9829d",
       "word": "string quartet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RyaW5nIHF1YXJ0ZXQ&hash=e71f896630b92302a09dd037ea3934af4370f3ea&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "strɪng kwɔr.tɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyaW5nIHF1YXJ0ZXQ&hash=e71f896630b92302a09dd037ea3934af4370f3ea&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "string kvawr.tet",
       "img": "https://cdn.langeek.co/photo/39555/original/?type=jpeg",
       "pronunciation": "stɹˈɪŋ kwɔːɹtˈɛt",
       "senses": [
@@ -816,28 +977,43 @@
       ]
     },
     {
+      "id": "198f0eae-8e01-4639-bd32-eaae537fced6",
       "word": "symphony",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3ltcGhvbnk&hash=314f5ae988537f382244500e68da923fc5edb92b&lang=en&cache-only=0",
-      "phonetic_text": "sɪmfəni",
+      "phonetic_text": "sɪm.fə.ni",
       "phonetic_am": "https://tts.langeek.co/read?text=c3ltcGhvbnk&hash=314f5ae988537f382244500e68da923fc5edb92b&lang=en&cache-only=0",
-      "phonetic_am_text": "simfēni",
+      "phonetic_am_text": "sim.fē.ni",
       "img": "",
       "pronunciation": "ˈsɪmfəni",
       "senses": [
         {
           "definition": "a long and sophisticated musical composition written for a large orchestra, in three or four movements",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The gentle chirping of the crickets became a nighttime symphony in the quiet countryside."
+            },
+            {
+              "cf": "",
+              "x": "He studied the symphony's score meticulously, analyzing each movement's intricate details."
+            },
+            {
+              "cf": "",
+              "x": "The composer's latest work was a symphony that blended traditional melodies with modern harmonies."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "bc10dffa-149f-4293-b341-c2afe6e35100",
       "word": "tone poem",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dG9uZSBwb2Vt&hash=5b0bc278f09e0f14d5fe541455849d5033b3d39e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "toʊn poʊəm",
       "phonetic_am": "https://tts.langeek.co/read?text=dG9uZSBwb2Vt&hash=5b0bc278f09e0f14d5fe541455849d5033b3d39e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tooon poooēm",
       "img": "",
       "pronunciation": "tˈoʊn pˈoʊɪm",
       "senses": [
@@ -848,6 +1024,7 @@
       ]
     },
     {
+      "id": "b8fd6331-7277-4042-bd62-c68bd7acc1fc",
       "word": "track",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhY2s&hash=3caf52dcf15a9f7eb708059bc9a4fb5db17b74c4&lang=en&cache-only=0",
@@ -855,37 +1032,81 @@
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhY2s&hash=3caf52dcf15a9f7eb708059bc9a4fb5db17b74c4&lang=en&cache-only=0",
       "phonetic_am_text": "trāk",
       "img": "https://cdn.langeek.co/photo/16045/original/record?type=jpeg",
-      "pronunciation": "ˈtɹæk",
+      "pronunciation": "træk",
       "senses": [
         {
           "definition": "a musical piece or song recorded on a CD, tape, or vinyl record",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The album features ten tracks, each showcasing a different style of music."
+            },
+            {
+              "cf": "",
+              "x": "She added the latest track from her favorite artist to her playlist."
+            },
+            {
+              "cf": "",
+              "x": "The track was a hit, with its catchy melody and upbeat rhythm."
+            },
+            {
+              "cf": "",
+              "x": "He spent hours listening to each track on the vinyl record."
+            },
+            {
+              "cf": "",
+              "x": "The new track was released as a single before the full album came out."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "25cd9918-52a5-482e-933b-a374c61964f1",
       "word": "wedding march",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2VkZGluZyBtYXJjaA&hash=deb0214a145bb1a9bff7b4b165091819d1d37e92&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɛ.dɪng mɑrʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=d2VkZGluZyBtYXJjaA&hash=deb0214a145bb1a9bff7b4b165091819d1d37e92&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ve.ding maarch",
       "img": "",
       "pronunciation": "wˈɛdɪŋ mˈɑːɹtʃ",
       "senses": [
         {
           "definition": "a piece of music traditionally played during a wedding ceremony",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The organist played a joyful wedding march as the newlyweds exited the church."
+            },
+            {
+              "cf": "",
+              "x": "The couple chose a lively and upbeat wedding march to reflect their joyous celebration."
+            },
+            {
+              "cf": "",
+              "x": "In many cultures, the wedding march is a cherished tradition that symbolizes the beginning of a new chapter in life."
+            },
+            {
+              "cf": "",
+              "x": "The orchestra rehearsed the wedding march, ensuring every note was played with precision and elegance."
+            },
+            {
+              "cf": "",
+              "x": "The string quartet performed a beautiful rendition of the wedding march, setting a romantic atmosphere for the ceremony."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0fb0a0b1-c1b6-4fbc-8965-2f3c6ec6d7a4",
       "word": "suite",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3VpdGU&hash=8f31f4ac886fab3b196eba9508e2c70be9e0e405&lang=en&cache-only=0",
-      "phonetic_text": "swi:t",
+      "phonetic_text": "swit",
       "phonetic_am": "https://tts.langeek.co/read?text=c3VpdGU&hash=8f31f4ac886fab3b196eba9508e2c70be9e0e405&lang=en&cache-only=0",
-      "phonetic_am_text": "sweet",
+      "phonetic_am_text": "svit",
       "img": "",
       "pronunciation": "ˈswit",
       "senses": [
@@ -896,12 +1117,13 @@
       ]
     },
     {
+      "id": "ed7ae4a9-2156-48c4-a171-c88b132bc114",
       "word": "vocal",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dm9jYWw&hash=b943d47b916d36a364b99b9c44562e44c6afaad4&lang=en&cache-only=0",
-      "phonetic_text": "voʊkəl",
+      "phonetic_text": "voʊ.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dm9jYWw&hash=b943d47b916d36a364b99b9c44562e44c6afaad4&lang=en&cache-only=0",
-      "phonetic_am_text": "vowkēl",
+      "phonetic_am_text": "vooo.kēl",
       "img": "",
       "pronunciation": "ˈvoʊkəɫ",
       "senses": [
@@ -912,12 +1134,13 @@
       ]
     },
     {
+      "id": "fc4e115c-3136-4656-b1a8-794e990172b2",
       "word": "interlude",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW50ZXJsdWRl&hash=b356888c901157e60ea4bf854dfad5b0e2619a34&lang=en&cache-only=0",
-      "phonetic_text": "ɪntərlud",
+      "phonetic_text": "ɪn.tɜr.lud",
       "phonetic_am": "https://tts.langeek.co/read?text=aW50ZXJsdWRl&hash=b356888c901157e60ea4bf854dfad5b0e2619a34&lang=en&cache-only=0",
-      "phonetic_am_text": "intērlud",
+      "phonetic_am_text": "in.tēr.lood",
       "img": "",
       "pronunciation": "ˈɪntɝˌɫud",
       "senses": [
@@ -949,12 +1172,13 @@
       ]
     },
     {
+      "id": "9e553cd8-125b-4ac6-90fc-74069ec28ec0",
       "word": "intro",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW50cm8&hash=81510e8e163c4818af74977c2f0059d07f0858b9&lang=en&cache-only=0",
-      "phonetic_text": "ɪntroʊ",
+      "phonetic_text": "ɪnt.roʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=aW50cm8&hash=81510e8e163c4818af74977c2f0059d07f0858b9&lang=en&cache-only=0",
-      "phonetic_am_text": "introw",
+      "phonetic_am_text": "int.rooo",
       "img": "",
       "pronunciation": "ˈɪntɹoʊ",
       "senses": [
@@ -965,14 +1189,15 @@
       ]
     },
     {
+      "id": "1c3a09d6-e601-4cec-ab1c-9b856338f25e",
       "word": "score",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2NvcmU&hash=16b419b67f161fc8f07e9a549dd3968b06684565&lang=en&cache-only=0",
-      "phonetic_text": "skɔ:r",
+      "phonetic_text": "skɔr",
       "phonetic_am": "https://tts.langeek.co/read?text=c2NvcmU&hash=16b419b67f161fc8f07e9a549dd3968b06684565&lang=en&cache-only=0",
-      "phonetic_am_text": "skaawr",
+      "phonetic_am_text": "skawr",
       "img": "",
-      "pronunciation": "ˈskɔɹ",
+      "pronunciation": "skɔr",
       "senses": [
         {
           "definition": "a written or printed version of a musical composition consisting of all the vocal and instrumental sections",
@@ -981,12 +1206,13 @@
       ]
     },
     {
+      "id": "a1cd160f-61a0-42f0-abad-065216426490",
       "word": "piano concerto",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGlhbm8gY29uY2VydG8&hash=f3d8864a62cc421422e7b1fe31f0f7832d413d1f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "piæ.noʊ kən.ʧɛr.toʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=cGlhbm8gY29uY2VydG8&hash=f3d8864a62cc421422e7b1fe31f0f7832d413d1f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "piā.nooo kēn.cher.tooo",
       "img": "",
       "pronunciation": "pɪˈænoʊ kəntʃˈɛɹɾoʊ",
       "senses": [
@@ -997,12 +1223,13 @@
       ]
     },
     {
+      "id": "ba6d2246-1437-4cc8-898d-6490810e4b77",
       "word": "vivace",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dml2YWNl&hash=675d670683d5cacbf958dc386c033dd3b751d5f5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "vɪ.veɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=dml2YWNl&hash=675d670683d5cacbf958dc386c033dd3b751d5f5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vi.veis",
       "img": "",
       "pronunciation": "vˈɪveɪs",
       "senses": [
@@ -1013,10 +1240,11 @@
       ]
     },
     {
+      "id": "af7acb78-dd01-480c-bb48-e2c10066ebee",
       "word": "concerto grosso",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29uY2VydG8gZ3Jvc3Nv&hash=61016362cfcf337f12472e44be6391c9c9d7d156&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uY2VydG8gZ3Jvc3Nv&hash=61016362cfcf337f12472e44be6391c9c9d7d156&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -1024,33 +1252,73 @@
       "senses": [
         {
           "definition": "a musical composition typically from the Baroque period, featuring a small group of solo instruments contrasted with a larger ensemble",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Bach's Brandenburg Concerto No . 6 is a masterful example of the concerto grosso genre, with its rich textures and virtuosic writing for multiple solo instruments."
+            },
+            {
+              "cf": "",
+              "x": "The concert showcased the intricate interplay between the soloists and the orchestra in a mesmerizing concerto grosso."
+            },
+            {
+              "cf": "",
+              "x": "Baroque composers often experimented with the concerto grosso form, creating dynamic contrasts between the small group of soloists and the larger ensemble."
+            },
+            {
+              "cf": "",
+              "x": "Students in the music theory class studied the structural elements and harmonic innovations of the concerto grosso form, analyzing its use of thematic development and counterpoint."
+            },
+            {
+              "cf": "",
+              "x": "The ensemble's performance of a newly discovered concerto grosso captivated audiences with its expressive melodies and intricate contrapuntal textures."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7bd3fe54-d951-43bc-847e-90009fc7e526",
       "word": "opera",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3BlcmE&hash=4d999be367e287f88c3a094e6eccbe77d51bccab&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:prə",
+      "phonetic_text": "ɑ:p.rə",
       "phonetic_am": "https://tts.langeek.co/read?text=b3BlcmE&hash=4d999be367e287f88c3a094e6eccbe77d51bccab&lang=en&cache-only=0",
-      "phonetic_am_text": "aaprē",
+      "phonetic_am_text": "aap.rē",
       "img": "https://cdn.langeek.co/photo/36355/original/opera?type=jpeg",
       "pronunciation": "ˈɑːprə/ , /ˈɑːpərə",
       "senses": [
         {
           "definition": "a musical play sung and performed by singers",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Mozart's operas are known for their beautiful music and complex characters."
+            },
+            {
+              "cf": "",
+              "x": "She's an opera critic, writing reviews for a popular music magazine."
+            },
+            {
+              "cf": "",
+              "x": "The children's choir was invited to perform in the opera."
+            },
+            {
+              "cf": "",
+              "x": "The opera tells a tragic story of love and betrayal."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "229672ac-0861-4423-9c36-46ff120763f2",
       "word": "pavane",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGF2YW5l&hash=18768f4cb26123bc9fd69bca3aee8d3bd2d3b305&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pæ.veɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=cGF2YW5l&hash=18768f4cb26123bc9fd69bca3aee8d3bd2d3b305&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pā.vein",
       "img": "",
       "pronunciation": "pˈæveɪn",
       "senses": [
@@ -1061,12 +1329,13 @@
       ]
     },
     {
+      "id": "de03e2d2-f907-4c80-92f2-738e356ed5c7",
       "word": "saraband",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FyYWJhbmQ&hash=7fbef27969d3ae76ba92ca7835f4d7a56c281354&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sæ.ra.bænd",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FyYWJhbmQ&hash=7fbef27969d3ae76ba92ca7835f4d7a56c281354&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sā.ra.bānd",
       "img": "",
       "pronunciation": "sˈæɹɐbˌænd",
       "senses": [
@@ -1077,18 +1346,40 @@
       ]
     },
     {
+      "id": "3c1acae9-1fb1-410a-bf83-0064bb0d180f",
       "word": "gigue",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2lndWU&hash=9183482949e7c62b31f348da9dcae41784b34289&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤi:g",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2lndWU&hash=9183482949e7c62b31f348da9dcae41784b34289&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "jig",
       "img": "",
       "pronunciation": "dʒˈiːɡ",
       "senses": [
         {
           "definition": "a type of composition or movement characterized by its lively and energetic rhythm, often featuring intricate melodic and contrapuntal elements",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The suite concluded with a jubilant gigue, showcasing the ensemble's agility and precision."
+            },
+            {
+              "cf": "",
+              "x": "Bach's Partita No. 3 in E major features a vibrant gigue movement, characterized by its playful melodies and rhythmic drive."
+            },
+            {
+              "cf": "",
+              "x": "The gigue is often performed with buoyant energy, inviting listeners to tap their feet and join in the dance."
+            },
+            {
+              "cf": "",
+              "x": "The violinist performed the gigue with nimble fingers, executing the intricate runs and trills with effortless grace."
+            },
+            {
+              "cf": "",
+              "x": "Baroque composers frequently composed gigues as the final movement of their suites, providing a lively and exhilarating conclusion to the musical journey."
+            }
+          ]
         }
       ]
     }

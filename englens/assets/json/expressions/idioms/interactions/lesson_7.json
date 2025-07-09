@@ -1,13 +1,15 @@
 {
+  "id": "de303c19-dc49-48b5-9b22-b6f379b05149",
   "topic": "interactions",
   "title": "Retaliation",
   "lesson": "lesson_7",
   "word_list": [
     {
-      "word": "[kill] {sb} with kindness",
+      "id": "adaaee2a-112b-4c34-87a5-383ac64c7a8c",
+      "word": "to [kill] {sb} with kindness",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2lsbCBzb21lYm9keSB3aXRoIGtpbmRuZXNz&hash=d8aa3797341846606cb1303b1eca3843c52bf531&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2lsbCBzb21lYm9keSB3aXRoIGtpbmRuZXNz&hash=d8aa3797341846606cb1303b1eca3843c52bf531&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44662/original/?type=jpeg",
@@ -15,20 +17,16 @@
       "senses": [
         {
           "definition": "to make someone feel extreme discomfort by helping them, being really generous, or by treating them too kindly, particularly someone who did one wrong",
-          "examples": [
-            {
-              "cf": "",
-              "x": "When faced with a difficult customer, the experienced waitress chose to kill them with kindness, ensuring their dining experience was impeccable despite the initial complaints."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[be] after {one's} blood",
+      "id": "b15e199f-fbd0-457d-8fda-7dc3c7acd27c",
+      "word": "to [be] after {one's} blood",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgYWZ0ZXIgb25lJ3MgYmxvb2Q&hash=80623f37ed8913533d996a445a5d65f9bdcbda2e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgYWZ0ZXIgb25lJ3MgYmxvb2Q&hash=80623f37ed8913533d996a445a5d65f9bdcbda2e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44658/original/?type=jpeg",
@@ -41,10 +39,11 @@
       ]
     },
     {
-      "word": "[fight] fire with fire",
+      "id": "4f982d50-e405-4e21-b3a4-80efd3f4c758",
+      "word": "to [fight] fire with fire",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmlnaHQgZmlyZSB3aXRoIGZpcmU&hash=cbd16d6ee7ef9e8c49caac154db1967f3bf07a24&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmlnaHQgZmlyZSB3aXRoIGZpcmU&hash=cbd16d6ee7ef9e8c49caac154db1967f3bf07a24&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44660/original/?type=jpeg",
@@ -78,10 +77,11 @@
       ]
     },
     {
-      "word": "[pay] {sb} back in {one's} own (coin|crown)",
+      "id": "997a485f-edd0-4f29-8b05-051632516e89",
+      "word": "to [pay] {sb} back in {one's} own (coin|crown)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGF5IHNvbWVib2R5IGJhY2sgaW4gb25lJ3Mgb3duIGNvaW4&hash=37d2b5bddb4584788c1b5342de424f6570ab1cc5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGF5IHNvbWVib2R5IGJhY2sgaW4gb25lJ3Mgb3duIGNvaW4&hash=37d2b5bddb4584788c1b5342de424f6570ab1cc5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44664/original/?type=jpeg",
@@ -89,71 +89,35 @@
       "senses": [
         {
           "definition": "to retaliate by treating others in the same negative manner they treated one",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After enduring years of criticism from her coworker, Jane decided to pay her back in her own coin by providing honest feedback during a team meeting."
-            },
-            {
-              "cf": "",
-              "x": "Mark felt that his neighbor was being excessively noisy late at night, so he decided to pay him back in his own coin by playing loud music in the morning."
-            },
-            {
-              "cf": "",
-              "x": "When the rival company launched an aggressive advertising campaign against them, the business retaliated by using similar tactics to pay them back in their own coin."
-            },
-            {
-              "cf": "",
-              "x": "Tired of his friend's constant teasing, Tom decided to pay him back in his own coin by poking fun at him in a lighthearted way."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "0110d9df-e496-45c5-acef-5be075339129",
       "word": "an eye for an eye",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YW4gZXllIGZvciBhbiBleWU&hash=341e6b97d7f5289facd8c1d77bec53c974d38df2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æn aɪ fɔ:r æn aɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=YW4gZXllIGZvciBhbiBleWU&hash=341e6b97d7f5289facd8c1d77bec53c974d38df2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ān ai fawr ān ai",
       "img": "https://cdn.langeek.co/photo/44654/original/?type=jpeg",
       "pronunciation": "ɐn ˈaɪ fɚɹən ˈaɪ",
       "senses": [
         {
           "definition": "a concept in which if someone harms one, one should harm them back in the same way",
-          "examples": [
-            {
-              "cf": "",
-              "x": "In the courtroom, the lawyer argued that the defendant should receive an eye for an eye punishment, mirroring the harm they had caused."
-            },
-            {
-              "cf": "",
-              "x": "Some people believe that responding to bullying with kindness is better than an eye for an eye approach."
-            },
-            {
-              "cf": "",
-              "x": "The community leaders stressed the importance of forgiveness and reconciliation instead of seeking an eye for an eye after the conflict."
-            },
-            {
-              "cf": "",
-              "x": "The manager's decision to reduce an employee's pay as retaliation felt like an eye for an eye response to their disagreement."
-            },
-            {
-              "cf": "",
-              "x": "Many countries have moved away from the concept of an eye for an eye in their legal systems, opting for more humane and rehabilitative approaches to justice."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "25acebaf-5882-4751-9408-bbff01fa7011",
       "word": "ax to grind",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXggdG8gZ3JpbmQ&hash=ca76b48c8b865201502aa30a23a5c846a63187d5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æks tu: graɪnd",
       "phonetic_am": "https://tts.langeek.co/read?text=YXggdG8gZ3JpbmQ&hash=ca76b48c8b865201502aa30a23a5c846a63187d5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "āks too graind",
       "img": "https://cdn.langeek.co/photo/44656/original/?type=jpeg",
       "pronunciation": "ˈæks tə ɡɹˈaɪnd",
       "senses": [
@@ -189,10 +153,11 @@
       ]
     },
     {
-      "word": "[bay] for blood",
+      "id": "be65bd68-7484-4387-a8e4-71e0ff12f079",
+      "word": "to [bay] for blood",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmF5IGZvciBibG9vZA&hash=8d5d77d4a10741710e4df7235c7607cb1cd761ad&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmF5IGZvciBibG9vZA&hash=8d5d77d4a10741710e4df7235c7607cb1cd761ad&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44682/original/?type=jpeg",
@@ -200,20 +165,16 @@
       "senses": [
         {
           "definition": "to angrily ask for a person or group to be punished or hurt",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The fans were baying for blood after their team lost the championship game."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[beat] {sb} at {one's} own game",
+      "id": "c4c67e41-333f-4419-95c8-86d1debe476a",
+      "word": "to [beat] {sb} at {one's} own game",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmVhdCBzb21lYm9keSBhdCBvbmUncyBvd24gZ2FtZQ&hash=cd79d7932e772a263d72b69e1c9eb8c8fb0d9f32&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmVhdCBzb21lYm9keSBhdCBvbmUncyBvd24gZ2FtZQ&hash=cd79d7932e772a263d72b69e1c9eb8c8fb0d9f32&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44684/original/?type=jpeg",
@@ -239,10 +200,11 @@
       ]
     },
     {
-      "word": "[get] {one's} own back",
+      "id": "8457e1bb-10cc-4146-a298-5e196d4c5b6b",
+      "word": "to [get] {one's} own back",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IG9uZSdzIG93biBiYWNr&hash=0a4af2f1e82e3181654fceb1bf61087ac03de99f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IG9uZSdzIG93biBiYWNr&hash=0a4af2f1e82e3181654fceb1bf61087ac03de99f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44686/original/?type=jpeg",
@@ -250,36 +212,16 @@
       "senses": [
         {
           "definition": "to seek to harm or punish someone who has wronged or harmed one",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After her coworker played a prank on her, she decided to get her own back by pulling an even bigger prank in return."
-            },
-            {
-              "cf": "",
-              "x": "In the movie, the protagonist spends the entire plot trying to get his own back against the villain who wronged him in the past."
-            },
-            {
-              "cf": "",
-              "x": "He patiently waited for the right moment to get his own back on the school bully who had been tormenting him for months."
-            },
-            {
-              "cf": "",
-              "x": "Rather than seeking revenge, she chose to get her own back by excelling in her career and proving her worth to those who doubted her."
-            },
-            {
-              "cf": "",
-              "x": "The team was determined to get their own back after losing to their rivals in the previous championship game."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[give] as good as {sb} [get]",
+      "id": "2f359656-95c9-4c37-95dc-05d7eef69991",
+      "word": "to [give] as good as {sb} [get]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBhcyBnb29kIGFzIHNvbWVib2R5IGdldA&hash=ffa74635260e8969220b5320239b25b9a35fb188&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBhcyBnb29kIGFzIHNvbWVib2R5IGdldA&hash=ffa74635260e8969220b5320239b25b9a35fb188&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44688/original/?type=jpeg",
@@ -287,34 +229,18 @@
       "senses": [
         {
           "definition": "to have enough strength and confidence to match others' ferocity and intensity during an argument or a fight",
-          "examples": [
-            {
-              "cf": "",
-              "x": "When faced with unfair criticism, she gave as good as she got, calmly defending her point of view."
-            },
-            {
-              "cf": "",
-              "x": "During the intense debate, both candidates gave as good as they got, exchanging strong arguments."
-            },
-            {
-              "cf": "",
-              "x": "In the competitive business world, it's essential to give as good as you get to maintain your position."
-            },
-            {
-              "cf": "",
-              "x": "Despite the harsh critique, the author gave as good as he got by responding with well-reasoned explanations for his work."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "a0cd1c75-15fd-4859-aeb6-6c7b1c52c2ab",
       "word": "out for blood",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b3V0IGZvciBibG9vZA&hash=456e643e5aa760dacda2bc83b95a623f4aeae435&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aʊt fɔ:r blʌd",
       "phonetic_am": "https://tts.langeek.co/read?text=b3V0IGZvciBibG9vZA&hash=456e643e5aa760dacda2bc83b95a623f4aeae435&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aoot fawr blad",
       "img": "https://cdn.langeek.co/photo/44692/original/?type=jpeg",
       "pronunciation": "ˈaʊt fɔːɹ blˈʌd",
       "senses": [
@@ -346,10 +272,11 @@
       ]
     },
     {
+      "id": "b3f931ea-fc52-483a-a7dd-a2bc1e75dfd9",
       "word": "a (taste|dose) of {one's} own medicine",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YSB0YXN0ZSBvZiBvbmUncyBvd24gbWVkaWNpbmU&hash=e2a2d0172922e9de4371fc353a41e4312cd5c26f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YSB0YXN0ZSBvZiBvbmUncyBvd24gbWVkaWNpbmU&hash=e2a2d0172922e9de4371fc353a41e4312cd5c26f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44704/original/?type=jpeg",
@@ -357,36 +284,16 @@
       "senses": [
         {
           "definition": "a harsh or unpleasant way of treating someone that is almost identical to the manner in which they treated one",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After years of lying to his friends, John got a taste of his own medicine when they discovered his deception."
-            },
-            {
-              "cf": "",
-              "x": "The company's dishonest practices finally caught up with them, and they had a dose of their own medicine when their reputation suffered."
-            },
-            {
-              "cf": "",
-              "x": "Sarah realized the importance of empathy when she found herself in a challenging situation, experiencing a taste of her own medicine from the past."
-            },
-            {
-              "cf": "",
-              "x": "The politician, known for spreading false information about his opponents, received a dose of his own medicine when the media exposed his lies."
-            },
-            {
-              "cf": "",
-              "x": "Tim had a taste of his own medicine when his colleagues ignored him during a critical project, mirroring his previous behavior of exclusion."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[teach] {sb} a lesson",
+      "id": "6be8719f-03d5-411e-8130-427c8a612a3d",
+      "word": "to [teach] {sb} a lesson",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGVhY2ggc29tZWJvZHkgYSBsZXNzb24&hash=4ae0d8022ba26dfb6cfe2a43f92c90591e96a62e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGVhY2ggc29tZWJvZHkgYSBsZXNzb24&hash=4ae0d8022ba26dfb6cfe2a43f92c90591e96a62e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43550/original/?type=jpeg",
@@ -394,20 +301,16 @@
       "senses": [
         {
           "definition": "to hurt or punish someone in a way that ensures one they will never repeat their past behavior",
-          "examples": [
-            {
-              "cf": "",
-              "x": "When the athlete violated team rules, the coach benched him to teach him a lesson about discipline."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "59b19c95-c210-46e5-9192-4679dcfd798a",
       "word": "two (can|could) play (that|this|the) game",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dHdvIGNhbiBwbGF5IHRoYXQgZ2FtZQ&hash=b27a5de277d51b7f840b12d4bc4cdaa3e2368a02&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dHdvIGNhbiBwbGF5IHRoYXQgZ2FtZQ&hash=b27a5de277d51b7f840b12d4bc4cdaa3e2368a02&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44716/original/?type=jpeg",
@@ -415,30 +318,18 @@
       "senses": [
         {
           "definition": "used to show one's confidence in dealing with another person's behavior and using it to their disadvantage",
-          "examples": [
-            {
-              "cf": "",
-              "x": "When Sarah realized her coworker was spreading rumors about her, she decided that two could play that game and started sharing some of her own about him."
-            },
-            {
-              "cf": "",
-              "x": "After being constantly challenged by his rival, Mark finally decided that two could play this game and started competing even harder."
-            },
-            {
-              "cf": "",
-              "x": "When Sarah realized her coworker was spreading rumors about her, she decided that two could play the game and started sharing her own positive achievements."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "6a14b871-2a0e-4998-8bdc-e22d0cdaea25",
       "word": "tit for tat",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGl0IGZvciB0YXQ&hash=3f3d6bbbd32caa2b941b518ba29551709d470397&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɪt fɔ:r tæt",
       "phonetic_am": "https://tts.langeek.co/read?text=dGl0IGZvciB0YXQ&hash=3f3d6bbbd32caa2b941b518ba29551709d470397&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tit fawr tāt",
       "img": "https://cdn.langeek.co/photo/44714/original/?type=jpeg",
       "pronunciation": "tˈɪt fɔːɹ tˈæt",
       "senses": [
@@ -470,10 +361,11 @@
       ]
     },
     {
-      "word": "[wipe] (the|that) (smile|grin|smirk) off {one's} [face]",
+      "id": "add013bd-24dd-40a8-bc8a-83caec6113d3",
+      "word": "to [wipe] (the|that) (smile|grin|smirk) off {one's} [face]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2lwZSB0aGUgc21pbGUgb2ZmIG9uZSdzIGZhY2U&hash=fe082b2a49116dfd6b75c8a1621d1461f925d534&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2lwZSB0aGUgc21pbGUgb2ZmIG9uZSdzIGZhY2U&hash=fe082b2a49116dfd6b75c8a1621d1461f925d534&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44702/original/?type=jpeg",
@@ -481,24 +373,16 @@
       "senses": [
         {
           "definition": "to destroy someone's happiness or self-assurance through a remark, action, or event",
-          "examples": [
-            {
-              "cf": "",
-              "x": "They've been laughing at their victim's expense, but the judge will wipe the smile off their faces."
-            },
-            {
-              "cf": "",
-              "x": "When Susan found out about her surprise birthday party, her friends managed to wipe the smile off her face with their creative ruse."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "d476fa7c-c94e-4838-89a8-c2c9b8598a6f",
       "word": "the joke [is] on {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIGpva2UgaXMgb24gc29tZWJvZHk&hash=25f95cfa7db34c54e82bdaea3123b892c60b13ee&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIGpva2UgaXMgb24gc29tZWJvZHk&hash=25f95cfa7db34c54e82bdaea3123b892c60b13ee&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44698/original/?type=jpeg",
@@ -511,10 +395,11 @@
       ]
     },
     {
-      "word": "[call] it quits",
+      "id": "7bc5a185-1dc4-418f-9f4b-1a9ef7b40a09",
+      "word": "to [call] it quits",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2FsbCBpdCBxdWl0cw&hash=9fa4708be98c3c11ef3c0e30db9d8c083096fa8a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2FsbCBpdCBxdWl0cw&hash=9fa4708be98c3c11ef3c0e30db9d8c083096fa8a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/21278/original/?type=jpeg",
@@ -548,10 +433,11 @@
       ]
     },
     {
-      "word": "[put] {sb} in {one's} place",
+      "id": "30262fc3-5d6a-402b-abbc-466257680286",
+      "word": "to [put] {sb} in {one's} place",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IHNvbWVib2R5IGluIG9uZSdzIHBsYWNl&hash=cbe27776b69eef8e0588079f239ff47cc229105f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IHNvbWVib2R5IGluIG9uZSdzIHBsYWNl&hash=cbe27776b69eef8e0588079f239ff47cc229105f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44678/original/?type=jpeg",
@@ -559,24 +445,16 @@
       "senses": [
         {
           "definition": "to make someone feel less important or influential by showing that their claims are not true",
-          "examples": [
-            {
-              "cf": "",
-              "x": "When the new employee challenged the manager's decision, the manager put them in their place by explaining company policies."
-            },
-            {
-              "cf": "",
-              "x": "She tried to dominate the discussion, but her colleagues quickly put her in her place by presenting stronger arguments."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[even] the score",
+      "id": "828b91fa-3076-4584-803a-30e3f22350c9",
+      "word": "to [even] the score",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZXZlbiB0aGUgc2NvcmU&hash=32e0e39a1feca79ae9afd6c4b44886991e342759&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZXZlbiB0aGUgc2NvcmU&hash=32e0e39a1feca79ae9afd6c4b44886991e342759&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44096/original/?type=jpeg",

@@ -1,15 +1,17 @@
 {
+  "id": "de0becd5-f82b-4db1-8baf-6162e2e96694",
   "topic": "words_related_to_medical_science",
   "title": "Pregnancy",
   "lesson": "lesson_24",
   "word_list": [
     {
+      "id": "b5e40f2a-9a7a-4300-8cd6-3e3d1af995e2",
       "word": "abortion",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWJvcnRpb24&hash=4285239c2341688c8cd09cc43e167a0547b2615b&lang=en&cache-only=0",
-      "phonetic_text": "əbɔ:rʃən",
+      "phonetic_text": "ə.bɔr.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=YWJvcnRpb24&hash=4285239c2341688c8cd09cc43e167a0547b2615b&lang=en&cache-only=0",
-      "phonetic_am_text": "ēbaawrshēn",
+      "phonetic_am_text": "ē.bawr.shēn",
       "img": "",
       "pronunciation": "əˈbɔɹʃən",
       "senses": [
@@ -20,60 +22,127 @@
       ]
     },
     {
-      "word": "abort",
+      "id": "01867d53-878c-4eef-8e22-84f0027db708",
+      "word": "to abort",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWJvcnQ&hash=f597a62649a68959e4aac0438ceb6cfbc0627727&lang=en&cache-only=0",
-      "phonetic_text": "əbɔ:rt",
+      "phonetic_text": "ə.bɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWJvcnQ&hash=f597a62649a68959e4aac0438ceb6cfbc0627727&lang=en&cache-only=0",
-      "phonetic_am_text": "ēbaawrt",
+      "phonetic_am_text": "ē.bawrt",
       "img": "",
       "pronunciation": "əˈbɔɹt",
       "senses": [
         {
           "definition": "to terminate an undesired pregnancy before the fetus reaches a viable age",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The couple sought counseling before making the decision to abort the pregnancy."
+            },
+            {
+              "cf": "",
+              "x": "In some countries, it is legal for a woman to choose to abort a pregnancy within a certain timeframe."
+            },
+            {
+              "cf": "",
+              "x": "The clinic provides support for those who choose to abort a pregnancy."
+            },
+            {
+              "cf": "",
+              "x": "She had to abort the pregnancy due to serious health risks."
+            },
+            {
+              "cf": "",
+              "x": "Advances in medical care have made it safer to abort a pregnancy early."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7f171d13-6587-48b7-a2e9-97d440f4aa6a",
       "word": "afterbirth",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWZ0ZXJiaXJ0aA&hash=2c69ba01dc996d02cd5fd534a486b48ad54f037f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æf.tər.bɜrθ",
       "phonetic_am": "https://tts.langeek.co/read?text=YWZ0ZXJiaXJ0aA&hash=2c69ba01dc996d02cd5fd534a486b48ad54f037f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "āf.tēr.bērth",
       "img": "",
-      "pronunciation": "ˈæftɚbˌɜːθ",
+      "pronunciation": "ˈæftɚbɝθ",
       "senses": [
         {
           "definition": "the placenta and associated tissues expelled from the uterus after the baby is born",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "After the baby was born, the doctor took care of delivering the afterbirth."
+            },
+            {
+              "cf": "",
+              "x": "The nurse examined the afterbirth to confirm a healthy delivery."
+            },
+            {
+              "cf": "",
+              "x": "The medical staff disposed of the afterbirth according to proper protocols."
+            },
+            {
+              "cf": "",
+              "x": "The delivery room team ensured a smooth process for both the baby and the afterbirth."
+            },
+            {
+              "cf": "",
+              "x": "Once the baby was in the mother's arms, the focus shifted to managing the afterbirth."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7025e4c2-49fd-44b3-a118-e74fab3ca4fc",
       "word": "amniotic fluid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW1uaW90aWMgZmx1aWQ&hash=ab169f4e61eb64c51fd8ccfee02a78f205d0a410&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æm.niɔ.tɪk fluəd",
       "phonetic_am": "https://tts.langeek.co/read?text=YW1uaW90aWMgZmx1aWQ&hash=ab169f4e61eb64c51fd8ccfee02a78f205d0a410&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ām.niaw.tik flooēd",
       "img": "",
       "pronunciation": "ˌæmnɪˈɑːɾɪk flˈuːɪd",
       "senses": [
         {
           "definition": "the clear, watery fluid surrounding and protecting the fetus within the amniotic sac during pregnancy",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The doctor checked the levels of amniotic fluid during the prenatal appointment."
+            },
+            {
+              "cf": "",
+              "x": "The ultrasound revealed a healthy amount of amniotic fluid around the baby."
+            },
+            {
+              "cf": "",
+              "x": "Amniotic fluid helps maintain a stable environment for the developing fetus."
+            },
+            {
+              "cf": "",
+              "x": "The baby floats in the amniotic fluid, providing protection and cushioning."
+            },
+            {
+              "cf": "",
+              "x": "Adequate levels of amniotic fluid are essential for the baby's lung development."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "be9dfc3f-32ee-47a4-ac20-a047c11caeef",
       "word": "baby blues",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFieSBibHVlcw&hash=653ffb461d92450035c19ae7fa864944848b8297&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "beɪ.bi bluz",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFieSBibHVlcw&hash=653ffb461d92450035c19ae7fa864944848b8297&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bei.bi blooz",
       "img": "",
       "pronunciation": "bˈeɪbi blˈuːz",
       "senses": [
@@ -84,7 +153,8 @@
       ]
     },
     {
-      "word": "bear",
+      "id": "cad3aebe-cc52-44de-821c-cf052e684f7a",
+      "word": "to bear",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmVhcg&hash=de6bec203986eaad3638653f0c494a9c4ed50a74&lang=en&cache-only=0",
       "phonetic_text": "bɛr",
@@ -95,11 +165,29 @@
       "senses": [
         {
           "definition": "to bring forth or give birth to a living being, such as a human or animal offspring",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The midwife helped the mother bear her child in a safe and comfortable environment."
+            },
+            {
+              "cf": "",
+              "x": "She chose to bear her children at home with the assistance of a skilled doula."
+            },
+            {
+              "cf": "",
+              "x": "The doctor decided to induce labor to bear the premature baby."
+            },
+            {
+              "cf": "",
+              "x": "The hospital has state-of-the-art facilities to help mothers bear their babies under the best possible conditions."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "820bc114-d106-4767-b1fe-b7a4554db828",
       "word": "birth",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmlydGg&hash=d2e87e1cd23d5fca48d1a52d3a8b6655b379fb70&lang=en&cache-only=0",
@@ -107,23 +195,45 @@
       "phonetic_am": "https://tts.langeek.co/read?text=YmlydGg&hash=d2e87e1cd23d5fca48d1a52d3a8b6655b379fb70&lang=en&cache-only=0",
       "phonetic_am_text": "bērth",
       "img": "https://cdn.langeek.co/photo/18694/original/birth?type=jpeg",
-      "pronunciation": "ˈbɜːrθ",
+      "pronunciation": "bɝθ",
       "senses": [
         {
           "definition": "the event or process of a baby being born",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The birth of their first child brought immense joy to the whole family."
+            },
+            {
+              "cf": "",
+              "x": "The midwife stayed by her side throughout the entire birth process."
+            },
+            {
+              "cf": "",
+              "x": "They celebrated the baby's birth with a small gathering of close friends and family."
+            },
+            {
+              "cf": "",
+              "x": "The hospital recorded the exact time and weight of the birth."
+            },
+            {
+              "cf": "",
+              "x": "Witnessing the birth of a new life was a profoundly moving experience for everyone present."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "38b86748-dcb5-4fb7-8515-c22752bffd46",
       "word": "born",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Ym9ybg&hash=530113a97065cc443765172c426b72269664ba87&lang=en&cache-only=0",
-      "phonetic_text": "bɔ:rn",
+      "phonetic_text": "bɔrn",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9ybg&hash=530113a97065cc443765172c426b72269664ba87&lang=en&cache-only=0",
-      "phonetic_am_text": "baawrn",
+      "phonetic_am_text": "bawrn",
       "img": "https://cdn.langeek.co/photo/19817/original/born?type=jpeg",
-      "pronunciation": "ˈbɔɹn",
+      "pronunciation": "bɔrn",
       "senses": [
         {
           "definition": "brought to this world through birth",
@@ -132,26 +242,49 @@
       ]
     },
     {
+      "id": "5a308b58-37bb-4ff9-848a-a169523e00fb",
       "word": "breech birth",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJlZWNoIGJpcnRo&hash=1734437a609db627b1dc104a7f397d256c9b38ee&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "briʧ bɜrθ",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJlZWNoIGJpcnRo&hash=1734437a609db627b1dc104a7f397d256c9b38ee&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "brich bērth",
       "img": "",
       "pronunciation": "bɹˈiːtʃ bˈɜːθ",
       "senses": [
         {
           "definition": "the delivery of a baby with the buttocks or feet positioned to emerge first, rather than the head, during childbirth",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The doctor identified a breech birth when the baby's feet were positioned downward."
+            },
+            {
+              "cf": "",
+              "x": "Breech births may require special delivery techniques to ensure a safe birth."
+            },
+            {
+              "cf": "",
+              "x": "Some babies naturally turn head-down, avoiding the need for a breech birth."
+            },
+            {
+              "cf": "",
+              "x": "During prenatal checkups, healthcare providers assess the likelihood of a breech birth."
+            },
+            {
+              "cf": "",
+              "x": "In certain cases, a healthcare team may attempt to manually reposition the baby to avoid a breech birth."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "cesarean",
+      "id": "d803de01-5281-4183-9e87-6f3e5733522b",
+      "word": "caesarean section",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2Flc2FyZWFuIHNlY3Rpb24&hash=a902a38190c6cd6db7db8b637fd10628add8e306&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2Flc2FyZWFuIHNlY3Rpb24&hash=a902a38190c6cd6db7db8b637fd10628add8e306&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -164,28 +297,47 @@
       ]
     },
     {
+      "id": "82944684-df48-4f37-8141-28d6746a1ffa",
       "word": "childbearing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hpbGRiZWFyaW5n&hash=a7ba5820f61ddc5155f244be07ba9d23f40c7bef&lang=en&cache-only=0",
-      "phonetic_text": "ʧaɪldbɛrɪng",
+      "phonetic_text": "ʧaɪld.bɛ.rɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hpbGRiZWFyaW5n&hash=a7ba5820f61ddc5155f244be07ba9d23f40c7bef&lang=en&cache-only=0",
-      "phonetic_am_text": "chaildbering",
+      "phonetic_am_text": "chaild.be.ring",
       "img": "",
       "pronunciation": "ˈtʃaɪɫdˌbɛɹɪŋ",
       "senses": [
         {
           "definition": "the process or activity of giving birth to and raising children",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Childbearing is a significant aspect of many people's lives."
+            },
+            {
+              "cf": "",
+              "x": "The couple decided to start their childbearing journey after getting married."
+            },
+            {
+              "cf": "",
+              "x": "Parents often seek advice on nutrition and wellness during childbearing."
+            },
+            {
+              "cf": "",
+              "x": "The community provided resources to support healthy childbearing practices."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "da09dd7f-5955-419a-801a-cbf846422317",
       "word": "childbirth",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hpbGRiaXJ0aA&hash=87504b8c10789aae0d2fdf963f5e5b1e4b579151&lang=en&cache-only=0",
-      "phonetic_text": "ʧaɪldbɜrθ",
+      "phonetic_text": "ʧaɪld.bɜrθ",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hpbGRiaXJ0aA&hash=87504b8c10789aae0d2fdf963f5e5b1e4b579151&lang=en&cache-only=0",
-      "phonetic_am_text": "chaildbērth",
+      "phonetic_am_text": "chaild.bērth",
       "img": "https://cdn.langeek.co/photo/18694/original/birth?type=jpeg",
       "pronunciation": "ˈtʃaɪɫdˌbɝθ",
       "senses": [
@@ -196,60 +348,127 @@
       ]
     },
     {
+      "id": "2cbcb0af-5c15-46f0-b449-4f1d4ea4e780",
       "word": "contraction",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29udHJhY3Rpb24&hash=c6bef29a90618d4400ef7c31246a73b4d7b798b8&lang=en&cache-only=0",
-      "phonetic_text": "kəntrækʃən",
+      "phonetic_text": "kənt.ræk.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29udHJhY3Rpb24&hash=c6bef29a90618d4400ef7c31246a73b4d7b798b8&lang=en&cache-only=0",
-      "phonetic_am_text": "kēntrākshēn",
+      "phonetic_am_text": "kēnt.rāk.shēn",
       "img": "",
       "pronunciation": "kənˈtɹækʃən",
       "senses": [
         {
           "definition": "the periodic tightening and releasing of the uterine muscles during labor, facilitating the gradual opening of the cervix for childbirth",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "During labor, contractions help the cervix dilate for childbirth."
+            },
+            {
+              "cf": "",
+              "x": "The nurse monitored the frequency and intensity of contractions."
+            },
+            {
+              "cf": "",
+              "x": "Contractions are a natural part of the process leading to delivery."
+            },
+            {
+              "cf": "",
+              "x": "Contractions become more frequent and powerful as labor advances."
+            },
+            {
+              "cf": "",
+              "x": "The birthing coach coached rhythmic breathing to cope with contractions."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "deliver",
+      "id": "8b6a93a4-ed3e-49d7-82e8-1b00874138c6",
+      "word": "to deliver",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVsaXZlcg&hash=ad19193c90a860a93d2861ab2609f47304f9e999&lang=en&cache-only=0",
-      "phonetic_text": "dɪlɪvər",
+      "phonetic_text": "dɪ.lɪ.vɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVsaXZlcg&hash=ad19193c90a860a93d2861ab2609f47304f9e999&lang=en&cache-only=0",
-      "phonetic_am_text": "dilivēr",
+      "phonetic_am_text": "di.li.vēr",
       "img": "",
-      "pronunciation": "dɪˈɫɪvɝ",
+      "pronunciation": "dɪˈlɪvɚ",
       "senses": [
         {
           "definition": "to give birth to a baby or offspring",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The expectant mother was admitted to the hospital, where she would deliver her first child."
+            },
+            {
+              "cf": "",
+              "x": "After hours of labor, she finally delivered a healthy baby girl."
+            },
+            {
+              "cf": "",
+              "x": "The zookeepers eagerly awaited the moment when the giraffe would deliver her calf."
+            },
+            {
+              "cf": "",
+              "x": "Despite the stormy weather, the mare successfully delivered a foal in the barn."
+            },
+            {
+              "cf": "",
+              "x": "The surrogate mother agreed to carry the couple's embryo and deliver their child."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "52463c0a-03e8-4e09-9835-0ea226f96b0c",
       "word": "delivery",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVsaXZlcnk&hash=1ccdc475fa96de09a744fc3a15b12781ed0e52ed&lang=en&cache-only=0",
-      "phonetic_text": "dɪlɪvəri",
+      "phonetic_text": "dɪ.lɪ.vɜ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVsaXZlcnk&hash=1ccdc475fa96de09a744fc3a15b12781ed0e52ed&lang=en&cache-only=0",
-      "phonetic_am_text": "dilivēri",
+      "phonetic_am_text": "di.li.vē.ri",
       "img": "",
       "pronunciation": "dɪˈɫɪvɝi",
       "senses": [
         {
           "definition": "the act of giving birth to a baby",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The hospital room was prepared for the imminent delivery."
+            },
+            {
+              "cf": "",
+              "x": "The doctor and the midwife assisted in the smooth delivery of the baby."
+            },
+            {
+              "cf": "",
+              "x": "Nurses provided comfort during the final stages of the delivery."
+            },
+            {
+              "cf": "",
+              "x": "The birthing process involves labor, contractions, and ultimately, delivery."
+            },
+            {
+              "cf": "",
+              "x": "The new parents rejoiced at the successful delivery of their healthy baby."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "626d3368-3d7a-49aa-9e9d-45beb59475f1",
       "word": "eclampsia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWNsYW1wc2lh&hash=bea6c65fd46aa288bd462086c225cf2755d81593&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪk.læmp.siə",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWNsYW1wc2lh&hash=bea6c65fd46aa288bd462086c225cf2755d81593&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ik.lāmp.siē",
       "img": "",
       "pronunciation": "ɪklˈæmpsiə",
       "senses": [
@@ -260,60 +479,127 @@
       ]
     },
     {
+      "id": "2a075de6-1dab-436b-97ed-2a5a4c74cc7c",
       "word": "ectopic pregnancy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWN0b3BpYyBwcmVnbmFuY3k&hash=a5df160d683050b22a9588106470f5c4f354b0dd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛk.tɑ:.pɪk prɛg.nən.si",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWN0b3BpYyBwcmVnbmFuY3k&hash=a5df160d683050b22a9588106470f5c4f354b0dd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ek.taa.pik preg.nēn.si",
       "img": "",
       "pronunciation": "ɛktˈɑːpɪk pɹˈɛɡnənsi",
       "senses": [
         {
           "definition": "a condition where a fertilized egg implants and begins to develop outside the uterus, most commonly in a fallopian tube, instead of the uterus itself",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "An ectopic pregnancy requires medical attention as it can pose serious risks."
+            },
+            {
+              "cf": "",
+              "x": "The doctor diagnosed the ectopic pregnancy through ultrasound."
+            },
+            {
+              "cf": "",
+              "x": "Ectopic pregnancies cannot develop normally and need to be addressed promptly."
+            },
+            {
+              "cf": "",
+              "x": "Severe abdominal pain is a potential symptom of an ectopic pregnancy."
+            },
+            {
+              "cf": "",
+              "x": "Surgery is often necessary to address an ectopic pregnancy and prevent complications."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "8c92fbbe-ee7b-4fb0-bc29-9a6019b141f1",
       "word": "fetus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmV0dXM&hash=49b6d6f99e970862ae5bbe86918eed1a930e2118&lang=en&cache-only=0",
-      "phonetic_text": "fi:təs",
+      "phonetic_text": "fi.təs",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmV0dXM&hash=49b6d6f99e970862ae5bbe86918eed1a930e2118&lang=en&cache-only=0",
-      "phonetic_am_text": "feetēs",
+      "phonetic_am_text": "fi.tēs",
       "img": "https://cdn.langeek.co/photo/29577/original/?type=jpeg",
       "pronunciation": "ˈfitəs",
       "senses": [
         {
           "definition": "an offspring of a human or animal that is not born yet, particularly a human aged more than eight weeks after conception",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The ultrasound showed that the fetus was developing normally."
+            },
+            {
+              "cf": "",
+              "x": "At twelve weeks, the fetus's heartbeat could be detected."
+            },
+            {
+              "cf": "",
+              "x": "The mother was excited to see her fetus in the ultrasound image."
+            },
+            {
+              "cf": "",
+              "x": "The fetus had started to move by the end of the first trimester."
+            },
+            {
+              "cf": "",
+              "x": "Genetic testing was conducted to check for any abnormalities in the fetus."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "40e7d339-f8a6-4978-a0f8-0e16424c22f4",
       "word": "fetal",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZmV0YWw&hash=bf6a809e567964d8574f3aca2e8fd6ca2b05d348&lang=en&cache-only=0",
-      "phonetic_text": "fi:təl",
+      "phonetic_text": "fi.təl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmV0YWw&hash=bf6a809e567964d8574f3aca2e8fd6ca2b05d348&lang=en&cache-only=0",
-      "phonetic_am_text": "feetēl",
+      "phonetic_am_text": "fi.tēl",
       "img": "",
       "pronunciation": "ˈfitəɫ",
       "senses": [
         {
           "definition": "associated with anything related to the developing fetus during pregnancy",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The doctor conducted a fetal ultrasound to check the baby's development."
+            },
+            {
+              "cf": "",
+              "x": "Adequate prenatal care is essential for ensuring optimal fetal health."
+            },
+            {
+              "cf": "",
+              "x": "The fetal heartbeat is a crucial indicator of the baby's well-being."
+            },
+            {
+              "cf": "",
+              "x": "The fetal stage is a critical period for organ formation."
+            },
+            {
+              "cf": "",
+              "x": "Regular check-ups monitor the fetal growth and detect any abnormalities."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "9db1ac19-d10a-4c76-8220-edb1892d72ca",
       "word": "miscarriage",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWlzY2FycmlhZ2U&hash=af997682c9e837a3b5cb9c454b25684e42d6e6cb&lang=en&cache-only=0",
-      "phonetic_text": "mɪskɛrəʤ",
+      "phonetic_text": "mɪs.kæ.rɪʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=bWlzY2FycmlhZ2U&hash=af997682c9e837a3b5cb9c454b25684e42d6e6cb&lang=en&cache-only=0",
-      "phonetic_am_text": "miskerēj",
+      "phonetic_am_text": "mis.kā.rij",
       "img": "",
       "pronunciation": "mɪˈskɛɹədʒ",
       "senses": [
@@ -324,74 +610,155 @@
       ]
     },
     {
-      "word": "miscarry",
+      "id": "06289a4e-7318-4589-9bc6-37b233f93967",
+      "word": "to miscarry",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWlzY2Fycnk&hash=01a592ef5a948ece3734d21b2420928d3a5c4f13&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mɪs.kæ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWlzY2Fycnk&hash=01a592ef5a948ece3734d21b2420928d3a5c4f13&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mis.kā.ri",
       "img": "",
       "pronunciation": "mɪskˈæɹi",
       "senses": [
         {
           "definition": "to spontaneously lose the pregnancy before reaching viability, typically within the first 20 weeks",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Unfortunately, she had to miscarry the pregnancy in its early stages."
+            },
+            {
+              "cf": "",
+              "x": "The woman experienced severe pain and bleeding, indicating a potential to miscarry."
+            },
+            {
+              "cf": "",
+              "x": "Doctors offer support and guidance to those who may miscarry."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "399c71a7-e3a7-44f8-9700-a53e049086e9",
       "word": "morning sickness",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9ybmluZyBzaWNrbmVzcw&hash=d172570ef6ab8caeb25ab827cfe71cdcb4ea1bd2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mɔr.nɪng sɪk.nəs",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9ybmluZyBzaWNrbmVzcw&hash=d172570ef6ab8caeb25ab827cfe71cdcb4ea1bd2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mawr.ning sik.nēs",
       "img": "",
       "pronunciation": "mˈɔːɹnɪŋ sˈɪknəs",
       "senses": [
         {
           "definition": "a common pregnancy symptom characterized by nausea and vomiting, typically occurring during the first trimester",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Many pregnant women experience morning sickness in the early stages of pregnancy."
+            },
+            {
+              "cf": "",
+              "x": "Morning sickness can occur at any time of the day, not just in the morning."
+            },
+            {
+              "cf": "",
+              "x": "Eating small, frequent meals can help alleviate morning sickness symptoms."
+            },
+            {
+              "cf": "",
+              "x": "Morning sickness usually improves as the pregnancy progresses."
+            },
+            {
+              "cf": "",
+              "x": "Adequate hydration is important to manage morning sickness."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0fa7d54c-de63-475d-859c-f6b1da40e095",
       "word": "natural childbirth",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmF0dXJhbCBjaGlsZGJpcnRo&hash=6592452fec9a1b761c6bf89518b369302c7fe0a8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "næ.ʧə.rəl ʧaɪld.bɜrθ",
       "phonetic_am": "https://tts.langeek.co/read?text=bmF0dXJhbCBjaGlsZGJpcnRo&hash=6592452fec9a1b761c6bf89518b369302c7fe0a8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nā.chē.rēl chaild.bērth",
       "img": "",
       "pronunciation": "nˈætʃɚɹəl tʃˈaɪldbɜːθ",
       "senses": [
         {
           "definition": "the process of delivering a baby without medical interventions, emphasizing the body's natural processes",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Sarah opted for natural childbirth without pain medication."
+            },
+            {
+              "cf": "",
+              "x": "Breathing exercises are commonly used in natural childbirth."
+            },
+            {
+              "cf": "",
+              "x": "Some women choose natural childbirth to avoid medical interventions."
+            },
+            {
+              "cf": "",
+              "x": "Natural childbirth involves relying on the body's ability to give birth."
+            },
+            {
+              "cf": "",
+              "x": "The birthing center specializes in facilitating natural childbirth."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "2d1fe4e9-91a1-49dd-ba45-a1e832d6cd6e",
       "word": "prenatal",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cHJlbmF0YWw&hash=ed00107b5d18ce83521550381e0994d2f7099fa6&lang=en&cache-only=0",
-      "phonetic_text": "prineɪtəl",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJlbmF0YWw&hash=ed00107b5d18ce83521550381e0994d2f7099fa6&lang=en&cache-only=0",
-      "phonetic_am_text": "prineitēl",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "pɹiˈneɪtəɫ",
       "senses": [
         {
           "definition": "related to the period occurring or existing before birth, specifically in relation to the development and care of the fetus during pregnancy",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Prenatal vitamins are recommended for expectant mothers to support fetal development"
+            },
+            {
+              "cf": "",
+              "x": "The doctor monitors the baby's health through regular prenatal checkups."
+            },
+            {
+              "cf": "",
+              "x": "Proper prenatal care contributes to the overall well-being of both mother and baby."
+            },
+            {
+              "cf": "",
+              "x": "The healthcare provider discussed important prenatal guidelines with the mother."
+            },
+            {
+              "cf": "",
+              "x": "Prenatal yoga classes provide gentle exercises suitable for pregnant women"
+            }
+          ]
         }
       ]
     },
     {
+      "id": "65a977c9-d777-410b-8995-8f748c7c956a",
       "word": "preeclampsia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJlZWNsYW1wc2lh&hash=f1069f15cc7b2fd948fb65d8b9c2a3efd74de1a7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJlZWNsYW1wc2lh&hash=f1069f15cc7b2fd948fb65d8b9c2a3efd74de1a7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -404,28 +771,51 @@
       ]
     },
     {
+      "id": "9074a7ce-87c2-4b1e-a2f4-8bae9cd1ecc3",
       "word": "stillbirth",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RpbGxiaXJ0aA&hash=8e3879557965828d58f64fa2469e6d69e1fe29b9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stɪl.bɜrθ",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RpbGxiaXJ0aA&hash=8e3879557965828d58f64fa2469e6d69e1fe29b9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "stil.bērth",
       "img": "",
-      "pronunciation": "stˈɪlbɜːθ",
+      "pronunciation": "ˈstɪlbɝθ",
       "senses": [
         {
           "definition": "the loss of a baby after 20 weeks of gestation, occurring before or during delivery",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "A stillbirth is the heartbreaking loss of a baby before or during delivery."
+            },
+            {
+              "cf": "",
+              "x": "The doctor discussed the possible causes of stillbirth with the grieving parents."
+            },
+            {
+              "cf": "",
+              "x": "Stillbirths can occur after 20 weeks of pregnancy."
+            },
+            {
+              "cf": "",
+              "x": "The hospital staff offered support to the couple after the stillbirth."
+            },
+            {
+              "cf": "",
+              "x": "ome stillbirths occur without warning signs."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c432244e-e2b8-45a4-a55e-217c08e4296d",
       "word": "surrogacy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3Vycm9nYWN5&hash=0f740107f635a0f02c1b8278dd3d5a63f4496853&lang=en&cache-only=0",
-      "phonetic_text": "sɜrəgəsi",
+      "phonetic_text": "sɜ.rə.gə.si",
       "phonetic_am": "https://tts.langeek.co/read?text=c3Vycm9nYWN5&hash=0f740107f635a0f02c1b8278dd3d5a63f4496853&lang=en&cache-only=0",
-      "phonetic_am_text": "sērēgēsi",
+      "phonetic_am_text": "sē.rē.gē.si",
       "img": "",
       "pronunciation": "ˈsɝəɡəsi",
       "senses": [
@@ -436,92 +826,191 @@
       ]
     },
     {
+      "id": "0181914b-869d-41a1-8bcf-2b7b75c00880",
       "word": "surrogate mother",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3Vycm9nYXRlIG1vdGhlcg&hash=8931b1a7384bbe98edf27304a697ed9e75ca5864&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɜ.rə.geɪt mʌ.ðər",
       "phonetic_am": "https://tts.langeek.co/read?text=c3Vycm9nYXRlIG1vdGhlcg&hash=8931b1a7384bbe98edf27304a697ed9e75ca5864&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sē.rē.geit ma.dhēr",
       "img": "",
       "pronunciation": "sˈɜːɹəɡət mˈʌðɚ",
       "senses": [
         {
           "definition": "a woman who agrees to carry and take the responsibility of another couple's child",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "After years of struggling with infertility, they decided to seek the help of a surrogate mother to carry their child."
+            },
+            {
+              "cf": "",
+              "x": "The surrogate mother formed a close bond with the couple, sharing updates and experiences throughout the pregnancy."
+            },
+            {
+              "cf": "",
+              "x": "Choosing a surrogate mother was a deeply personal decision that required careful consideration and trust."
+            },
+            {
+              "cf": "",
+              "x": "The surrogate mother gave birth to healthy twins, bringing immense joy to the intended parents."
+            },
+            {
+              "cf": "",
+              "x": "The laws surrounding the rights of a surrogate mother vary significantly from one country to another."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "8b68e855-b18d-401c-adff-8c3f776244e7",
       "word": "term infant",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVybSBpbmZhbnQ&hash=4158300b1e16308acf118ec9838449b18fb960cd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɜrm ɪn.fənt",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVybSBpbmZhbnQ&hash=4158300b1e16308acf118ec9838449b18fb960cd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tērm in.fēnt",
       "img": "",
       "pronunciation": "tˈɜːm ˈɪnfənt",
       "senses": [
         {
           "definition": "a newborn who is born at or near the expected due date, typically between 37 and 42 weeks of gestation",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Adequate prenatal care contributes to the well-being of a term infant."
+            },
+            {
+              "cf": "",
+              "x": "Term infants are considered full-term and generally have a lower risk of complications."
+            },
+            {
+              "cf": "",
+              "x": "The doctor confirmed that the baby was a term infant based on the due date."
+            },
+            {
+              "cf": "",
+              "x": "Term infants often exhibit strong sucking and feeding reflexes."
+            },
+            {
+              "cf": "",
+              "x": "The nurse measured the growth and development of the term infant."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "2c238f1c-2786-46a0-a2c2-1e5a72d42c50",
       "word": "trimester",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJpbWVzdGVy&hash=13abf1843d3a53ed4c8794cfa73bc13b1d06940c&lang=en&cache-only=0",
-      "phonetic_text": "traɪmɛstər",
+      "phonetic_text": "traɪ.mɛs.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJpbWVzdGVy&hash=13abf1843d3a53ed4c8794cfa73bc13b1d06940c&lang=en&cache-only=0",
-      "phonetic_am_text": "traimestēr",
+      "phonetic_am_text": "trai.mes.tēr",
       "img": "",
       "pronunciation": "tɹaɪˈmɛstɝ",
       "senses": [
         {
           "definition": "one of the three roughly three-month periods, each marking different stages of fetal development and maternal changes",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The first trimester is crucial for early fetal development."
+            },
+            {
+              "cf": "",
+              "x": "The healthcare provider monitors maternal and fetal health throughout the trimesters."
+            },
+            {
+              "cf": "",
+              "x": "Symptoms like morning sickness are common in the early trimesters."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "03118226-bd9e-4ae1-b64d-7d4a33c3dff8",
       "word": "umbilical cord",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dW1iaWxpY2FsIGNvcmQ&hash=05619cb161a285fc3670711f71c31bc69efbd47c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "əm.bɪ.lɪ.kəl kɔrd",
       "phonetic_am": "https://tts.langeek.co/read?text=dW1iaWxpY2FsIGNvcmQ&hash=05619cb161a285fc3670711f71c31bc69efbd47c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ēm.bi.li.kēl kawrd",
       "img": "",
       "pronunciation": "ʌmbˈɪlɪkəl kˈoːɹd",
       "senses": [
         {
           "definition": "a flexible tube connecting the fetus to the placenta, facilitating the exchange of nutrients and oxygen during pregnancy",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The doctor examined the umbilical cord to ensure proper fetal development."
+            },
+            {
+              "cf": "",
+              "x": "Nutrients from the mother pass through the umbilical cord to nourish the baby."
+            },
+            {
+              "cf": "",
+              "x": "The umbilical cord is cut shortly after childbirth, separating the baby from the placenta."
+            },
+            {
+              "cf": "",
+              "x": "Ultrasound scans monitor the health and function of the umbilical cord during pregnancy."
+            },
+            {
+              "cf": "",
+              "x": "The baby's heartbeat is often checked through the umbilical cord."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "ba986c8d-8b00-4189-bdd6-d0ebc438e757",
       "word": "unborn",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dW5ib3Ju&hash=8a534ce0b582e7ea2b1d6a50cc08a55ab9db5a70&lang=en&cache-only=0",
-      "phonetic_text": "ʌnbɔ:rn",
+      "phonetic_text": "ʌn.bɔrn",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5ib3Ju&hash=8a534ce0b582e7ea2b1d6a50cc08a55ab9db5a70&lang=en&cache-only=0",
-      "phonetic_am_text": "anbaawrn",
+      "phonetic_am_text": "an.bawrn",
       "img": "",
       "pronunciation": "ˈənˈbɔɹn",
       "senses": [
         {
           "definition": "not yet having been born or brought to life, typically referring to a developing fetus during pregnancy",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The ultrasound revealed the features of the unborn baby."
+            },
+            {
+              "cf": "",
+              "x": "Prenatal care is essential for the health of the unborn baby."
+            },
+            {
+              "cf": "",
+              "x": "Feeling the kicks and movements is a special connection with the unborn."
+            },
+            {
+              "cf": "",
+              "x": "Various tests can provide insights into the health of the unborn."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "9dff8652-545d-4d83-961e-b34b5fb54625",
       "word": "barrier method",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFycmllciBtZXRob2Q&hash=531f0885bd5d9682c181a31cc16cc0bacf5b2b00&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæ.riɜr mɛ.θəd",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFycmllciBtZXRob2Q&hash=531f0885bd5d9682c181a31cc16cc0bacf5b2b00&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bā.riēr me.thēd",
       "img": "",
       "pronunciation": "bˈæɹɪɚ mˈɛθəd",
       "senses": [
@@ -532,28 +1021,51 @@
       ]
     },
     {
+      "id": "258deeb8-09b2-4d17-912a-38a1a7c392b3",
       "word": "birth control device",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmlydGggY29udHJvbCBkZXZpY2U&hash=9b128132770d7e10f517ed50fddc36122e15f58f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɜrθ kənt.roʊl dɪ.vaɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=YmlydGggY29udHJvbCBkZXZpY2U&hash=9b128132770d7e10f517ed50fddc36122e15f58f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bērth kēnt.roool di.vais",
       "img": "",
       "pronunciation": "bˈɜːθ kəntɹˈoʊl dɪvˈaɪs",
       "senses": [
         {
           "definition": "a tool or method, like condoms or contraceptive pills, used to prevent pregnancy",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Condoms are a widely used and effective birth control device."
+            },
+            {
+              "cf": "",
+              "x": "Birth control pills are a popular hormonal birth control device."
+            },
+            {
+              "cf": "",
+              "x": "Couples often discuss and choose a suitable birth control device."
+            },
+            {
+              "cf": "",
+              "x": "The doctor provided information on various birth control devices."
+            },
+            {
+              "cf": "",
+              "x": "Choosing the right birth control device depends on personal preferences."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "ce7a74eb-770a-46a2-b4a0-22c80a3a24ff",
       "word": "contraceptive",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29udHJhY2VwdGl2ZQ&hash=85a548eb0370f35811724ab30fc45e0d75235272&lang=en&cache-only=0",
-      "phonetic_text": "kɑntrəsɛptɪv",
+      "phonetic_text": "kɑnt.rə.sɛp.tɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29udHJhY2VwdGl2ZQ&hash=85a548eb0370f35811724ab30fc45e0d75235272&lang=en&cache-only=0",
-      "phonetic_am_text": "kɑntrēseptiv",
+      "phonetic_am_text": "kaant.rē.sep.tiv",
       "img": "",
       "pronunciation": "ˌkɑntɹəˈsɛptɪv",
       "senses": [
@@ -564,60 +1076,115 @@
       ]
     },
     {
+      "id": "c0a0be56-870b-4bd7-bf45-9c27c04c0210",
       "word": "contraceptive",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y29udHJhY2VwdGl2ZQ&hash=85a548eb0370f35811724ab30fc45e0d75235272&lang=en&cache-only=0",
-      "phonetic_text": "kɑntrəsɛptɪv",
+      "phonetic_text": "kɑnt.rə.sɛp.tɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29udHJhY2VwdGl2ZQ&hash=85a548eb0370f35811724ab30fc45e0d75235272&lang=en&cache-only=0",
-      "phonetic_am_text": "kɑntrēseptiv",
+      "phonetic_am_text": "kaant.rē.sep.tiv",
       "img": "",
       "pronunciation": "ˌkɑntɹəˈsɛptɪv",
       "senses": [
         {
           "definition": "(of methods, devices, or medications) capable of preventing conception or pregnancy",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The healthcare provider discussed various contraceptive options with the patient."
+            },
+            {
+              "cf": "",
+              "x": "Contraceptive choices depend on individual preferences and health considerations."
+            },
+            {
+              "cf": "",
+              "x": "Contraceptive awareness is crucial for maintaining reproductive health."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "65374fe3-530c-4c75-a22b-a83d2fbf0b78",
       "word": "contraception",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29udHJhY2VwdGlvbg&hash=f96a356140b9ad6cd6e0e601beaf536dcdcb5575&lang=en&cache-only=0",
-      "phonetic_text": "kɑntrəsɛpʃən",
+      "phonetic_text": "kɑnt.rə.sɛp.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29udHJhY2VwdGlvbg&hash=f96a356140b9ad6cd6e0e601beaf536dcdcb5575&lang=en&cache-only=0",
-      "phonetic_am_text": "kɑntrēsepshēn",
+      "phonetic_am_text": "kaant.rē.sep.shēn",
       "img": "",
       "pronunciation": "ˌkɑntɹəˈsɛpʃən",
       "senses": [
         {
           "definition": "the intentional prevention of pregnancy using various methods or devices",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Contraception involves methods to avoid unintended pregnancies."
+            },
+            {
+              "cf": "",
+              "x": "Many couples use contraception to plan and space their children."
+            },
+            {
+              "cf": "",
+              "x": "Couples may decide together on the most suitable contraception for them."
+            },
+            {
+              "cf": "",
+              "x": "Education on contraception is essential for making informed choices."
+            },
+            {
+              "cf": "",
+              "x": "Contraception helps individuals have control over their family planning."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "3a6fdd5a-c035-4e46-97b8-a34dc03a52ec",
       "word": "diaphragm",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlhcGhyYWdt&hash=33f827f66d79e3d3eca914c4815d808d290c7d55&lang=en&cache-only=0",
-      "phonetic_text": "daɪəfræm",
+      "phonetic_text": "daɪəf.ræm",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlhcGhyYWdt&hash=33f827f66d79e3d3eca914c4815d808d290c7d55&lang=en&cache-only=0",
-      "phonetic_am_text": "daiēfrām",
+      "phonetic_am_text": "daiēf.rām",
       "img": "",
       "pronunciation": "ˈdaɪəˌfɹæm",
       "senses": [
         {
           "definition": "a dome-shaped contraceptive device that blocks sperm from reaching the uterus",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The diaphragm is a barrier method of contraception used to prevent pregnancy."
+            },
+            {
+              "cf": "",
+              "x": "Women insert the diaphragm before intercourse to block sperm."
+            },
+            {
+              "cf": "",
+              "x": "The diaphragm covers the cervix, preventing sperm from entering the uterus."
+            },
+            {
+              "cf": "",
+              "x": "Correct sizing is crucial for the effectiveness of a diaphragm."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "facf93ff-ca9c-4baa-8e1a-a8929996eb77",
       "word": "termination",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVybWluYXRpb24&hash=1484595d8d3e36286f5b87f08580138b6aa6bab6&lang=en&cache-only=0",
-      "phonetic_text": "tərməneɪʃən",
+      "phonetic_text": "tɜr.mə.neɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVybWluYXRpb24&hash=1484595d8d3e36286f5b87f08580138b6aa6bab6&lang=en&cache-only=0",
-      "phonetic_am_text": "tērmēneishēn",
+      "phonetic_am_text": "tēr.mē.nei.shēn",
       "img": "",
       "pronunciation": "tɝməˈneɪʃən",
       "senses": [
@@ -628,10 +1195,11 @@
       ]
     },
     {
-      "word": "cesarean",
+      "id": "8e5ad98e-512a-40a6-bc68-043409d8f4f6",
+      "word": "caesarean section",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y2Flc2FyZWFuIHNlY3Rpb24&hash=a902a38190c6cd6db7db8b637fd10628add8e306&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2Flc2FyZWFuIHNlY3Rpb24&hash=a902a38190c6cd6db7db8b637fd10628add8e306&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -644,76 +1212,157 @@
       ]
     },
     {
+      "id": "749b4f27-1ba0-4314-8da6-99b1a355f408",
       "word": "episiotomy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXBpc2lvdG9teQ&hash=cf710a5345a1cd52e00049664aeb7a78d701ce63&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛ.pɪ.sɪɑ:.tə.mi",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXBpc2lvdG9teQ&hash=cf710a5345a1cd52e00049664aeb7a78d701ce63&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "e.pi.siaa.tē.mi",
       "img": "",
       "pronunciation": "ˌɛpɪsɪˈɑːɾəmi",
       "senses": [
         {
           "definition": "a surgical cut to widen the vaginal opening during childbirth",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The doctor performed an episiotomy to assist in a difficult delivery."
+            },
+            {
+              "cf": "",
+              "x": "Episiotomies were more common in the past but are now used selectively."
+            },
+            {
+              "cf": "",
+              "x": "Healing time after an episiotomy varies from woman to woman."
+            },
+            {
+              "cf": "",
+              "x": "Episiotomies were more common in the past but are now used selectively."
+            },
+            {
+              "cf": "",
+              "x": "Healthcare providers consider the benefits and risks before recommending an episiotomy."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "8edc7547-8cbf-48a1-959d-75ce29f5c01e",
       "word": "labor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFib3I&hash=08cc87831e2ef5d59271e8b68914a0346c96e13e&lang=en&cache-only=0",
-      "phonetic_text": "leɪbər",
+      "phonetic_text": "leɪ.bɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFib3I&hash=08cc87831e2ef5d59271e8b68914a0346c96e13e&lang=en&cache-only=0",
-      "phonetic_am_text": "leibēr",
+      "phonetic_am_text": "lei.bēr",
       "img": "",
       "pronunciation": "ˈɫeɪbɝ",
       "senses": [
         {
           "definition": "the process of contractions and cervical dilation that leads to childbirth",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Labor involves the uterus contracting to deliver the baby."
+            },
+            {
+              "cf": "",
+              "x": "The expectant mother felt the onset of labor with rhythmic contractions."
+            },
+            {
+              "cf": "",
+              "x": "The doctor monitored the progress of labor during regular checkups."
+            },
+            {
+              "cf": "",
+              "x": "Breathing exercises help women cope with the pain during labor."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "abb56fec-33c7-4220-a774-f66d2db5f0f7",
       "word": "condom",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29uZG9t&hash=b192664593d401d44ebe1c9a4ba4c4f8732cde81&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:ndəm",
+      "phonetic_text": "kɑn.dəm",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uZG9t&hash=b192664593d401d44ebe1c9a4ba4c4f8732cde81&lang=en&cache-only=0",
-      "phonetic_am_text": "kaandēm",
+      "phonetic_am_text": "kaan.dēm",
       "img": "",
       "pronunciation": "ˈkɑndəm",
       "senses": [
         {
           "definition": "a thin barrier used during sex to prevent the exchange of bodily fluids and reduce the risk of STIs and unintended pregnancies",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Using a condom is a responsible choice for sexually active individuals."
+            },
+            {
+              "cf": "",
+              "x": "The couple decided to use a condom to ensure safer intercourse."
+            },
+            {
+              "cf": "",
+              "x": "Always check the expiration date before using a condom."
+            },
+            {
+              "cf": "",
+              "x": "Properly using a condom requires correct storage and application."
+            },
+            {
+              "cf": "",
+              "x": "Condoms come in various sizes and materials for personal preference."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "29bae937-8e6a-43e4-9eb4-210daefd5089",
       "word": "intrauterine device",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW50cmF1dGVyaW5lIGRldmljZQ&hash=1b9562e37e6d968550734601db624ad16d342ec9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪnt.rəju.tɜ.rɪn dɪ.vaɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=aW50cmF1dGVyaW5lIGRldmljZQ&hash=1b9562e37e6d968550734601db624ad16d342ec9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "int.rēyoo.tē.rin di.vais",
       "img": "",
       "pronunciation": "ˈɪntɹəjˌuːɾɚɹˌiːn dɪvˈaɪs",
       "senses": [
         {
           "definition": "a T-shaped contraceptive device placed in the uterus to prevent pregnancy",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "An intrauterine device is a small contraceptive device placed in the uterus to prevent pregnancy."
+            },
+            {
+              "cf": "",
+              "x": "Many women choose an intrauterine device as a reliable form of birth control."
+            },
+            {
+              "cf": "",
+              "x": "The doctor recommended an intrauterine device for long-term contraception."
+            },
+            {
+              "cf": "",
+              "x": "Intrauterine devices work by altering the uterus environment to discourage pregnancy."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "674011c7-bead-47f0-8902-fa8a57fa6afa",
       "word": "contraceptive implant",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29udHJhY2VwdGl2ZSBpbXBsYW50&hash=a73a37c2833a733cb9b8997f896afb4120aca3c6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑnt.rə.sɛp.tɪv ɪmp.lænt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29udHJhY2VwdGl2ZSBpbXBsYW50&hash=a73a37c2833a733cb9b8997f896afb4120aca3c6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaant.rē.sep.tiv imp.lānt",
       "img": "",
       "pronunciation": "kˌɑːntɹəsˈɛptɪv ˈɪmplænt",
       "senses": [
@@ -724,12 +1373,13 @@
       ]
     },
     {
+      "id": "42a248e3-88a9-4500-a2c2-078b72a514e2",
       "word": "vaginal ring",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmFnaW5hbCByaW5n&hash=ed5d3b2ca128a9a177f9636a6203b8c39408682a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "və.ʤaɪ.nəl rɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=dmFnaW5hbCByaW5n&hash=ed5d3b2ca128a9a177f9636a6203b8c39408682a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vē.jai.nēl ring",
       "img": "",
       "pronunciation": "vˈædʒɪnəl ɹˈɪŋ",
       "senses": [
@@ -740,12 +1390,13 @@
       ]
     },
     {
+      "id": "31466a09-830a-40f5-8bc9-c22f99e36ffb",
       "word": "contraceptive injection",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29udHJhY2VwdGl2ZSBpbmplY3Rpb24&hash=030c171c29d7031d66da9c3670ccbecd165b6a65&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑnt.rə.sɛp.tɪv ɪn.ʤɛk.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29udHJhY2VwdGl2ZSBpbmplY3Rpb24&hash=030c171c29d7031d66da9c3670ccbecd165b6a65&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaant.rē.sep.tiv in.jek.shēn",
       "img": "",
       "pronunciation": "kˌɑːntɹəsˈɛptɪv ɪndʒˈɛkʃən",
       "senses": [

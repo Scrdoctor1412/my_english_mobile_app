@@ -1,15 +1,17 @@
 {
+  "id": "dfc3f597-c6cc-4856-a94c-62b5dc822cd1",
   "topic": "b2_level",
   "title": "Fairy Tales",
   "lesson": "lesson_32",
   "word_list": [
     {
-      "word": "bewitch",
+      "id": "7b58a3da-a97f-4394-8d83-9fd43aefac5c",
+      "word": "to bewitch",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmV3aXRjaA&hash=9e9a6d1dc8ccba407cb97463beec1f0828c16bd4&lang=en&cache-only=0",
-      "phonetic_text": "bɪwɪʧ",
+      "phonetic_text": "bi:.wɪʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmV3aXRjaA&hash=9e9a6d1dc8ccba407cb97463beec1f0828c16bd4&lang=en&cache-only=0",
-      "phonetic_am_text": "biwich",
+      "phonetic_am_text": "bi.vich",
       "img": "",
       "pronunciation": "bɪˈwɪtʃ",
       "senses": [
@@ -41,10 +43,11 @@
       ]
     },
     {
-      "word": "charm",
+      "id": "7c52655d-a861-43be-b4cb-eecc1dc86517",
+      "word": "to charm",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hhcm0&hash=811b49b7f8c4fe31035742d87b3ce87e91c75519&lang=en&cache-only=0",
-      "phonetic_text": "ʧɑ:rm",
+      "phonetic_text": "ʧɑrm",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2hhcm0&hash=811b49b7f8c4fe31035742d87b3ce87e91c75519&lang=en&cache-only=0",
       "phonetic_am_text": "chaarm",
       "img": "",
@@ -78,7 +81,8 @@
       ]
     },
     {
-      "word": "curse",
+      "id": "9fd55be1-005d-4031-b600-d65951d7036a",
+      "word": "to curse",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3Vyc2U&hash=7b9f57bbf12cb6be2e65b39c68e83b89e16ea02c&lang=en&cache-only=0",
       "phonetic_text": "kɜrs",
@@ -115,12 +119,13 @@
       ]
     },
     {
-      "word": "enchant",
+      "id": "3d357bec-4d1b-41e8-a2f4-8a58711759ad",
+      "word": "to enchant",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZW5jaGFudA&hash=953c43aaa9e5f59437b1609fead7e03fed3fd74f&lang=en&cache-only=0",
-      "phonetic_text": "ɛnʧænt",
+      "phonetic_text": "ɛn.ʧænt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZW5jaGFudA&hash=953c43aaa9e5f59437b1609fead7e03fed3fd74f&lang=en&cache-only=0",
-      "phonetic_am_text": "enchānt",
+      "phonetic_am_text": "en.chānt",
       "img": "",
       "pronunciation": "ɛnˈtʃænt",
       "senses": [
@@ -152,12 +157,13 @@
       ]
     },
     {
-      "word": "haunt",
+      "id": "32013b9b-c9dc-415a-adf3-54331eea7b38",
+      "word": "to haunt",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGF1bnQ&hash=54f836dc6a30819091f47f20b351e2dd1285bf86&lang=en&cache-only=0",
-      "phonetic_text": "hɔ:nt",
+      "phonetic_text": "hɔnt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGF1bnQ&hash=54f836dc6a30819091f47f20b351e2dd1285bf86&lang=en&cache-only=0",
-      "phonetic_am_text": "haawnt",
+      "phonetic_am_text": "hawnt",
       "img": "https://cdn.langeek.co/photo/47532/original/?type=jpeg",
       "pronunciation": "ˈhɔnt",
       "senses": [
@@ -189,12 +195,13 @@
       ]
     },
     {
+      "id": "21a52ca5-3f47-40f1-b475-24b8bae21591",
       "word": "demon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVtb24&hash=167d2845cc3d25d16da897912af67e7850583fda&lang=en&cache-only=0",
-      "phonetic_text": "di:mən",
+      "phonetic_text": "di.mən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVtb24&hash=167d2845cc3d25d16da897912af67e7850583fda&lang=en&cache-only=0",
-      "phonetic_am_text": "deemēn",
+      "phonetic_am_text": "di.mēn",
       "img": "https://cdn.langeek.co/photo/27509/original/bad?type=jpeg",
       "pronunciation": "ˈdimən",
       "senses": [
@@ -222,12 +229,13 @@
       ]
     },
     {
+      "id": "51755aab-1727-45d4-8e14-64ab46e40a48",
       "word": "dragon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJhZ29u&hash=a93cfef6757f2c1d7defe6c2ee25e9fca4b859f3&lang=en&cache-only=0",
-      "phonetic_text": "drægən",
+      "phonetic_text": "dræ.gən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJhZ29u&hash=a93cfef6757f2c1d7defe6c2ee25e9fca4b859f3&lang=en&cache-only=0",
-      "phonetic_am_text": "drāgēn",
+      "phonetic_am_text": "drā.gēn",
       "img": "https://cdn.langeek.co/photo/29783/original/?type=jpeg",
       "pronunciation": "ˈdɹæɡən",
       "senses": [
@@ -259,12 +267,13 @@
       ]
     },
     {
+      "id": "4b78a265-d045-49b5-b706-0f4af1beaf29",
       "word": "dwarf",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHdhcmY&hash=ccd94b36ac70aa797cc551962f01ed0d5c8807f3&lang=en&cache-only=0",
-      "phonetic_text": "dwɔ:rf",
+      "phonetic_text": "dwɔrf",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHdhcmY&hash=ccd94b36ac70aa797cc551962f01ed0d5c8807f3&lang=en&cache-only=0",
-      "phonetic_am_text": "dwaawrf",
+      "phonetic_am_text": "dvawrf",
       "img": "",
       "pronunciation": "ˈdwɔɹf",
       "senses": [
@@ -296,12 +305,13 @@
       ]
     },
     {
+      "id": "8abedcf3-20df-467c-b94a-feaf0998d39e",
       "word": "fairy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFpcnk&hash=238cfeed852ce700f18bf037ecf23bd4cbbacd2a&lang=en&cache-only=0",
-      "phonetic_text": "fɛri",
+      "phonetic_text": "fɛ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFpcnk&hash=238cfeed852ce700f18bf037ecf23bd4cbbacd2a&lang=en&cache-only=0",
-      "phonetic_am_text": "feri",
+      "phonetic_am_text": "fe.ri",
       "img": "",
       "pronunciation": "ˈfɛɹi",
       "senses": [
@@ -329,12 +339,13 @@
       ]
     },
     {
+      "id": "b9ce28b6-c716-475c-8fed-95fd2377c402",
       "word": "genie",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2VuaWU&hash=fbbea5108122f5a2dfcc907527d0b6b83860f463&lang=en&cache-only=0",
-      "phonetic_text": "ʤi:ni",
+      "phonetic_text": "ʤi.ni",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2VuaWU&hash=fbbea5108122f5a2dfcc907527d0b6b83860f463&lang=en&cache-only=0",
-      "phonetic_am_text": "jeeni",
+      "phonetic_am_text": "ji.ni",
       "img": "",
       "pronunciation": "ˈdʒini",
       "senses": [
@@ -366,12 +377,13 @@
       ]
     },
     {
+      "id": "64fb5576-5797-47f8-a604-bfc6ab0afc36",
       "word": "ghost",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2hvc3Q&hash=bdd206d901e0b9bc45aeadbb7dcb4a46e81f683f&lang=en&cache-only=0",
       "phonetic_text": "goʊst",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2hvc3Q&hash=bdd206d901e0b9bc45aeadbb7dcb4a46e81f683f&lang=en&cache-only=0",
-      "phonetic_am_text": "gowst",
+      "phonetic_am_text": "gooost",
       "img": "",
       "pronunciation": "ˈɡoʊst",
       "senses": [
@@ -399,6 +411,7 @@
       ]
     },
     {
+      "id": "2b6729d9-b8dc-41f7-a91f-71139cf58061",
       "word": "giant",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2lhbnQ&hash=ed4333d0dff91c101d3d6bfd6fa754ab87004c11&lang=en&cache-only=0",
@@ -436,10 +449,11 @@
       ]
     },
     {
+      "id": "be92ed15-8f11-4f47-9234-140dfa60e9ee",
       "word": "ghoul",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2hvdWw&hash=7d556ea580108e93377a597e71ac7ad6834f4064&lang=en&cache-only=0",
-      "phonetic_text": "gu:l",
+      "phonetic_text": "gul",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2hvdWw&hash=7d556ea580108e93377a597e71ac7ad6834f4064&lang=en&cache-only=0",
       "phonetic_am_text": "gool",
       "img": "",
@@ -465,12 +479,13 @@
       ]
     },
     {
+      "id": "a3fa9f2a-1ed3-4794-bb2d-b489e3c483aa",
       "word": "goblin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29ibGlu&hash=0b4c3848df9dbba90b37641ac4736f4f1bbfe0e7&lang=en&cache-only=0",
-      "phonetic_text": "gɑ:blɪn",
+      "phonetic_text": "gɑb.lɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=Z29ibGlu&hash=0b4c3848df9dbba90b37641ac4736f4f1bbfe0e7&lang=en&cache-only=0",
-      "phonetic_am_text": "gaablin",
+      "phonetic_am_text": "gaab.lin",
       "img": "",
       "pronunciation": "ˈɡɑbɫɪn",
       "senses": [
@@ -498,12 +513,13 @@
       ]
     },
     {
+      "id": "82d170b0-fc5e-43f8-80af-8e82cb57bec5",
       "word": "golem",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29sZW0&hash=bfc02c5901ec0f139dc3d0fff5e75f766bf60f59&lang=en&cache-only=0",
-      "phonetic_text": "goʊləm",
+      "phonetic_text": "goʊ.ləm",
       "phonetic_am": "https://tts.langeek.co/read?text=Z29sZW0&hash=bfc02c5901ec0f139dc3d0fff5e75f766bf60f59&lang=en&cache-only=0",
-      "phonetic_am_text": "gowlēm",
+      "phonetic_am_text": "gooo.lēm",
       "img": "",
       "pronunciation": "ˈɡoʊɫəm",
       "senses": [
@@ -531,12 +547,13 @@
       ]
     },
     {
+      "id": "bddb4d5a-8292-45b2-96ad-5cfe0d597039",
       "word": "goddess",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29kZGVzcw&hash=a44aaa42dddb7270f6a1526a485bce819a3b18f9&lang=en&cache-only=0",
-      "phonetic_text": "gɑ:dəs",
+      "phonetic_text": "gɑ.dəs",
       "phonetic_am": "https://tts.langeek.co/read?text=Z29kZGVzcw&hash=a44aaa42dddb7270f6a1526a485bce819a3b18f9&lang=en&cache-only=0",
-      "phonetic_am_text": "gaadēs",
+      "phonetic_am_text": "gaa.dēs",
       "img": "",
       "pronunciation": "ˈɡɑdəs",
       "senses": [
@@ -568,12 +585,13 @@
       ]
     },
     {
+      "id": "8661ec25-83ef-41c2-986b-4c086fe2d0c6",
       "word": "leprechaun",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGVwcmVjaGF1bg&hash=4c97cc1f7c4127014ae6adf638efad7d114abc6d&lang=en&cache-only=0",
-      "phonetic_text": "lɛpərkaʊn",
+      "phonetic_text": "lɛpɜr.kaʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVwcmVjaGF1bg&hash=4c97cc1f7c4127014ae6adf638efad7d114abc6d&lang=en&cache-only=0",
-      "phonetic_am_text": "lepērkawn",
+      "phonetic_am_text": "lepēr.kaoon",
       "img": "",
       "pronunciation": "ˈɫɛpɝkaʊn",
       "senses": [
@@ -605,12 +623,13 @@
       ]
     },
     {
+      "id": "3398f78d-0d12-4342-aa65-1dcb698b1cbb",
       "word": "mermaid",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWVybWFpZA&hash=c5e3e72a90d90c97367985b53998954abbdd3ebc&lang=en&cache-only=0",
-      "phonetic_text": "mɜrmeɪd",
+      "phonetic_text": "mɜr.meɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=bWVybWFpZA&hash=c5e3e72a90d90c97367985b53998954abbdd3ebc&lang=en&cache-only=0",
-      "phonetic_am_text": "mērmeid",
+      "phonetic_am_text": "mēr.meid",
       "img": "https://cdn.langeek.co/photo/29633/original/?type=jpeg",
       "pronunciation": "ˈmɝˌmeɪd",
       "senses": [
@@ -638,12 +657,13 @@
       ]
     },
     {
+      "id": "1cb4a711-bf1e-43cc-8b97-2ff46ec2f677",
       "word": "monster",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9uc3Rlcg&hash=c7e2512877b0550d3d2d25554ed1fc597fa3d445&lang=en&cache-only=0",
-      "phonetic_text": "mɑ:nstər",
+      "phonetic_text": "mɑns.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9uc3Rlcg&hash=c7e2512877b0550d3d2d25554ed1fc597fa3d445&lang=en&cache-only=0",
-      "phonetic_am_text": "maanstēr",
+      "phonetic_am_text": "maans.tēr",
       "img": "",
       "pronunciation": "ˈmɑnstɝ",
       "senses": [
@@ -675,6 +695,7 @@
       ]
     },
     {
+      "id": "74b38fb8-dbe0-4abf-85c4-8cafa1a72795",
       "word": "nymph",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bnltcGg&hash=246646581ef6c5f3885847430d7c43533cc05c8d&lang=en&cache-only=0",
@@ -712,12 +733,13 @@
       ]
     },
     {
+      "id": "68fede28-3349-47b9-a4a1-9ec7be8189cc",
       "word": "ogre",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b2dyZQ&hash=5f0ff81eaaec370842c01a768e6e9ad7b565ab8e&lang=en&cache-only=0",
-      "phonetic_text": "oʊgər",
+      "phonetic_text": "oʊgɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=b2dyZQ&hash=5f0ff81eaaec370842c01a768e6e9ad7b565ab8e&lang=en&cache-only=0",
-      "phonetic_am_text": "owgēr",
+      "phonetic_am_text": "ooogēr",
       "img": "",
       "pronunciation": "ˈoʊɡɝ",
       "senses": [
@@ -749,12 +771,13 @@
       ]
     },
     {
+      "id": "0c3a36b1-b504-4d04-809c-d04af0570455",
       "word": "phoenix",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGhvZW5peA&hash=5761e7228b03d3de386cb5de714a416d9550b6fe&lang=en&cache-only=0",
-      "phonetic_text": "fi:nɪks",
+      "phonetic_text": "fi.nɪks",
       "phonetic_am": "https://tts.langeek.co/read?text=cGhvZW5peA&hash=5761e7228b03d3de386cb5de714a416d9550b6fe&lang=en&cache-only=0",
-      "phonetic_am_text": "feeniks",
+      "phonetic_am_text": "fi.niks",
       "img": "https://cdn.langeek.co/photo/29940/original/?type=jpeg",
       "pronunciation": "ˈfinɪks",
       "senses": [
@@ -786,12 +809,13 @@
       ]
     },
     {
+      "id": "dbe80d11-2105-4d90-918b-3b5801d53818",
       "word": "siren",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2lyZW4&hash=b8f8d4be148bc4761c882c9c3a47f4bad4ee6fc0&lang=en&cache-only=0",
-      "phonetic_text": "saɪrən",
+      "phonetic_text": "saɪ.rən",
       "phonetic_am": "https://tts.langeek.co/read?text=c2lyZW4&hash=b8f8d4be148bc4761c882c9c3a47f4bad4ee6fc0&lang=en&cache-only=0",
-      "phonetic_am_text": "sairēn",
+      "phonetic_am_text": "sai.rēn",
       "img": "",
       "pronunciation": "ˈsaɪɹən",
       "senses": [
@@ -823,12 +847,13 @@
       ]
     },
     {
+      "id": "aaf7707c-f33e-4086-a7d8-2f5edecfb416",
       "word": "sorcerer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c29yY2VyZXI&hash=837624f421a6410564d258e3c3cddab6f8a158ed&lang=en&cache-only=0",
-      "phonetic_text": "sɔ:rsərər",
+      "phonetic_text": "sɔr.sɜ.rɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c29yY2VyZXI&hash=837624f421a6410564d258e3c3cddab6f8a158ed&lang=en&cache-only=0",
-      "phonetic_am_text": "saawrsērēr",
+      "phonetic_am_text": "sawr.sē.rēr",
       "img": "https://cdn.langeek.co/photo/29641/original/?type=jpeg",
       "pronunciation": "ˈsɔɹsɝɝ",
       "senses": [
@@ -856,12 +881,13 @@
       ]
     },
     {
+      "id": "89d0680b-2642-49c5-930c-9d7b8721bdc5",
       "word": "sorceress",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c29yY2VyZXNz&hash=335406b4675bec3c6f3a91b3f4f519f3e86e3714&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "so:r.sə.rəs",
       "phonetic_am": "https://tts.langeek.co/read?text=c29yY2VyZXNz&hash=335406b4675bec3c6f3a91b3f4f519f3e86e3714&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sor.sē.rēs",
       "img": "",
       "pronunciation": "sˈoːɹsɚɹəs",
       "senses": [
@@ -889,12 +915,13 @@
       ]
     },
     {
+      "id": "1849e580-5dbb-4701-b819-93a86ca92762",
       "word": "spirit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3Bpcml0&hash=79db5cf8241ad2f572ee7b98f460a3cea75064ff&lang=en&cache-only=0",
-      "phonetic_text": "spɪrət",
+      "phonetic_text": "spɪ.rət",
       "phonetic_am": "https://tts.langeek.co/read?text=c3Bpcml0&hash=79db5cf8241ad2f572ee7b98f460a3cea75064ff&lang=en&cache-only=0",
-      "phonetic_am_text": "spirēt",
+      "phonetic_am_text": "spi.rēt",
       "img": "https://cdn.langeek.co/photo/23615/original/?type=jpeg",
       "pronunciation": "ˈspɪɹət/, /ˈspɪɹɪt",
       "senses": [
@@ -922,12 +949,13 @@
       ]
     },
     {
+      "id": "75f16683-7075-4d42-b572-ef949411245a",
       "word": "tooth fairy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dG9vdGggZmFpcnk&hash=f78c8af1d24e6e78ba79ea62523c2334adf450bb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tu:θ fɛ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=dG9vdGggZmFpcnk&hash=f78c8af1d24e6e78ba79ea62523c2334adf450bb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tooth fe.ri",
       "img": "",
       "pronunciation": "tˈuːθ fˈɛɹi",
       "senses": [
@@ -959,12 +987,13 @@
       ]
     },
     {
+      "id": "729a4d29-c975-4d9b-9d84-07581671583f",
       "word": "troll",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJvbGw&hash=541af4dd194d01dd6897ccb5ae7d82661195003a&lang=en&cache-only=0",
       "phonetic_text": "troʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJvbGw&hash=541af4dd194d01dd6897ccb5ae7d82661195003a&lang=en&cache-only=0",
-      "phonetic_am_text": "trowl",
+      "phonetic_am_text": "troool",
       "img": "",
       "pronunciation": "ˈtɹoʊɫ",
       "senses": [
@@ -996,12 +1025,13 @@
       ]
     },
     {
+      "id": "547d1c52-9698-4ddd-a555-3682ed67f769",
       "word": "unicorn",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dW5pY29ybg&hash=e4a9b3a1481749a63ad9ee2438ae4e1997686bc4&lang=en&cache-only=0",
-      "phonetic_text": "ju:nɪkɔrn",
+      "phonetic_text": "ju.nɪ.kɔrn",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5pY29ybg&hash=e4a9b3a1481749a63ad9ee2438ae4e1997686bc4&lang=en&cache-only=0",
-      "phonetic_am_text": "yoonikawrn",
+      "phonetic_am_text": "yoo.ni.kawrn",
       "img": "https://cdn.langeek.co/photo/29637/original/?type=jpeg",
       "pronunciation": "ˈjunɪˌkɔɹn",
       "senses": [
@@ -1033,12 +1063,13 @@
       ]
     },
     {
+      "id": "f76d3e9b-97e7-43f3-81ef-c7ecde98e034",
       "word": "voodoo doll",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dm9vZG9vIGRvbGw&hash=c0f37849cf2a085d76055683bf0be899ebc2e363&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "vu.du dɑ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=dm9vZG9vIGRvbGw&hash=c0f37849cf2a085d76055683bf0be899ebc2e363&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "voo.doo daal",
       "img": "",
       "pronunciation": "vˈuːduː dˈɑːl",
       "senses": [
@@ -1070,12 +1101,13 @@
       ]
     },
     {
+      "id": "657397de-5fac-4651-9e7f-fd06d64da920",
       "word": "werewolf",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2VyZXdvbGY&hash=7b0359849fe63d8d3df3dbb3d664fa037e947712&lang=en&cache-only=0",
-      "phonetic_text": "wɛrwʊlf",
+      "phonetic_text": "wɛr.wʊlf",
       "phonetic_am": "https://tts.langeek.co/read?text=d2VyZXdvbGY&hash=7b0359849fe63d8d3df3dbb3d664fa037e947712&lang=en&cache-only=0",
-      "phonetic_am_text": "werwulf",
+      "phonetic_am_text": "ver.voolf",
       "img": "",
       "pronunciation": "ˈwɛɹˌwʊɫf",
       "senses": [
@@ -1107,12 +1139,13 @@
       ]
     },
     {
+      "id": "9b7cb221-f530-4b4b-9cb3-a6d3917241bc",
       "word": "zombie",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=em9tYmll&hash=d78a50754c4403d2aec3dde01cf5d9aad701258d&lang=en&cache-only=0",
-      "phonetic_text": "zɑ:mbi",
+      "phonetic_text": "zɑm.bi",
       "phonetic_am": "https://tts.langeek.co/read?text=em9tYmll&hash=d78a50754c4403d2aec3dde01cf5d9aad701258d&lang=en&cache-only=0",
-      "phonetic_am_text": "zaambi",
+      "phonetic_am_text": "zaam.bi",
       "img": "",
       "pronunciation": "ˈzɑmbi",
       "senses": [
@@ -1144,14 +1177,15 @@
       ]
     },
     {
+      "id": "bdb65ee5-b504-4f47-8734-90edc40d8aad",
       "word": "demigod",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVtaWdvZA&hash=5147ddbc955f07a230c16c92f7d3ff6a7fa5c159&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɛ.mɪ.gɑ:d",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVtaWdvZA&hash=5147ddbc955f07a230c16c92f7d3ff6a7fa5c159&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "de.mi.gaad",
       "img": "",
-      "pronunciation": "dˈɛmɪɡˌɑːd",
+      "pronunciation": "ˈdɛmiˌɡɑd",
       "senses": [
         {
           "definition": "a mythological figure that is half-god and half-human, often possessing extraordinary abilities or powers",
@@ -1173,12 +1207,13 @@
       ]
     },
     {
+      "id": "999fe02d-5b77-4455-a96d-63e675492a07",
       "word": "fabled",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZmFibGVk&hash=3687b41cd95c05e9e094ac82a38018c539a3644f&lang=en&cache-only=0",
-      "phonetic_text": "feɪbəld",
+      "phonetic_text": "feɪ.bəld",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFibGVk&hash=3687b41cd95c05e9e094ac82a38018c539a3644f&lang=en&cache-only=0",
-      "phonetic_am_text": "feibēld",
+      "phonetic_am_text": "fei.bēld",
       "img": "",
       "pronunciation": "ˈfeɪbəɫd",
       "senses": [

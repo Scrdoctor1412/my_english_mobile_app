@@ -1,15 +1,17 @@
 {
+  "id": "0a0402ad-b729-40cd-8071-65c6594a4e67",
   "topic": "sports",
   "title": "Sports Fields and Areas",
   "lesson": "lesson_1",
   "word_list": [
     {
+      "id": "646808f3-095f-494f-af25-0b3d9e160ec8",
       "word": "gridiron",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JpZGlyb24&hash=ef05682b543965d40cc9b00178a4b5c28414baf0&lang=en&cache-only=0",
-      "phonetic_text": "grɪdaɪərn",
+      "phonetic_text": "grɪd.aɪərn",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JpZGlyb24&hash=ef05682b543965d40cc9b00178a4b5c28414baf0&lang=en&cache-only=0",
-      "phonetic_am_text": "gridaiērn",
+      "phonetic_am_text": "grid.aiērn",
       "img": "",
       "pronunciation": "ˈɡɹɪˌdaɪɝn",
       "senses": [
@@ -41,6 +43,7 @@
       ]
     },
     {
+      "id": "e00577cf-0090-4da7-959a-360ebe3a3497",
       "word": "ring",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmluZw&hash=e2581860aa6bbe29eb165ecffc216be23ad2c920&lang=en&cache-only=0",
@@ -57,6 +60,7 @@
       ]
     },
     {
+      "id": "c6ed8b20-1267-41db-84e7-116eab96fa09",
       "word": "range",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFuZ2U&hash=d6384dbb890bf95be7da62a4fb065ed7f141de48&lang=en&cache-only=0",
@@ -90,14 +94,15 @@
       ]
     },
     {
+      "id": "c09336e3-2345-4a60-aa19-e20653d5a2cc",
       "word": "court",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291cnQ&hash=ee233c1bed336836a237563bba8c6bbf8eed92c0&lang=en&cache-only=0",
-      "phonetic_text": "kɔ:rt",
+      "phonetic_text": "kɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291cnQ&hash=ee233c1bed336836a237563bba8c6bbf8eed92c0&lang=en&cache-only=0",
-      "phonetic_am_text": "kaawrt",
+      "phonetic_am_text": "kawrt",
       "img": "https://cdn.langeek.co/photo/37356/original/?type=jpeg",
-      "pronunciation": "ˈkɔɹt",
+      "pronunciation": "kɔrt",
       "senses": [
         {
           "definition": "an area where people can play basketball, tennis, etc.",
@@ -115,12 +120,13 @@
       ]
     },
     {
+      "id": "238e894b-d47c-4b48-89d2-99403caba1d5",
       "word": "diamond",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlhbW9uZA&hash=cbf71b911e6bcbf5cefdf645e81e841d93178443&lang=en&cache-only=0",
-      "phonetic_text": "daɪmənd",
+      "phonetic_text": "daɪ.mənd",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlhbW9uZA&hash=cbf71b911e6bcbf5cefdf645e81e841d93178443&lang=en&cache-only=0",
-      "phonetic_am_text": "daimēnd",
+      "phonetic_am_text": "dai.mēnd",
       "img": "https://cdn.langeek.co/photo/33757/original/?type=jpeg",
       "pronunciation": "ˈdaɪmənd",
       "senses": [
@@ -152,12 +158,13 @@
       ]
     },
     {
+      "id": "2f92c260-b655-424e-8333-12f4e082c6d0",
       "word": "bunny slope",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVubnkgc2xvcGU&hash=e2fc05ffbbb8465da02d00c40f4f08024e5c923b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bə.ni sloʊp",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVubnkgc2xvcGU&hash=e2fc05ffbbb8465da02d00c40f4f08024e5c923b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bē.ni slooop",
       "img": "",
       "pronunciation": "bˈʌni slˈoʊp",
       "senses": [
@@ -189,49 +196,30 @@
       ]
     },
     {
+      "id": "3e5bc001-838e-462c-b74d-28ff9b9ff50f",
       "word": "ski slope",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2tpIHNsb3Bl&hash=01688b7d396988327022aeb080d3d79a2ed029fb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ski: sloʊp",
       "phonetic_am": "https://tts.langeek.co/read?text=c2tpIHNsb3Bl&hash=01688b7d396988327022aeb080d3d79a2ed029fb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ski slooop",
       "img": "https://cdn.langeek.co/photo/35998/original/?type=jpeg",
       "pronunciation": "skˈiː slˈoʊp",
       "senses": [
         {
           "definition": "the area on a mountain or hill where people are allowed to ski",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The ski slope was bustling with activity as families and friends enjoyed a day of skiing and snowboarding in the fresh powder."
-            },
-            {
-              "cf": "",
-              "x": "After a few practice runs on the beginner ski slope, she felt confident enough to tackle the more challenging trails."
-            },
-            {
-              "cf": "",
-              "x": "The ski slope offered breathtaking views of the surrounding mountains, making it a favorite spot for both skiers and photographers."
-            },
-            {
-              "cf": "",
-              "x": "He took a spill on the steep ski slope but quickly got back up, determined to improve his technique before the end of the day."
-            },
-            {
-              "cf": "",
-              "x": "The resort's ski slope was well-groomed and maintained, ensuring a smooth and enjoyable experience for all visitors."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "d0b2273b-a560-4904-9410-cca11ff86c2c",
       "word": "dugout",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHVnb3V0&hash=25a95d8bc5cd2b918ed4ee83527bd2e9f36544c1&lang=en&cache-only=0",
-      "phonetic_text": "dʌgaʊt",
+      "phonetic_text": "dəg.aʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHVnb3V0&hash=25a95d8bc5cd2b918ed4ee83527bd2e9f36544c1&lang=en&cache-only=0",
-      "phonetic_am_text": "dagawt",
+      "phonetic_am_text": "dēg.aoot",
       "img": "",
       "pronunciation": "ˈdəˌɡaʊt",
       "senses": [
@@ -263,12 +251,13 @@
       ]
     },
     {
+      "id": "cd6a7612-baa5-427f-8f25-d9a719019ec7",
       "word": "bullpen",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVsbHBlbg&hash=67fed98f3141f09ceb2597757e8acf66b65d527c&lang=en&cache-only=0",
-      "phonetic_text": "bʊlpɛn",
+      "phonetic_text": "bʊl.pen",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVsbHBlbg&hash=67fed98f3141f09ceb2597757e8acf66b65d527c&lang=en&cache-only=0",
-      "phonetic_am_text": "bulpen",
+      "phonetic_am_text": "bool.pen",
       "img": "",
       "pronunciation": "ˈbʊlˌpen",
       "senses": [
@@ -300,14 +289,15 @@
       ]
     },
     {
+      "id": "8c80e84d-0c89-40ae-8724-088632918da2",
       "word": "course",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291cnNl&hash=276da89157b3e2a579185bbd8bd39607aea0fde9&lang=en&cache-only=0",
       "phonetic_text": "kɔ:rs",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291cnNl&hash=276da89157b3e2a579185bbd8bd39607aea0fde9&lang=en&cache-only=0",
-      "phonetic_am_text": "kaawrs",
+      "phonetic_am_text": "kawrs",
       "img": "https://cdn.langeek.co/photo/33014/original/?type=jpeg",
-      "pronunciation": "kɔːrs",
+      "pronunciation": "kɔrs",
       "senses": [
         {
           "definition": "an area of land or water used for races, sports, and other similar activities",
@@ -329,12 +319,13 @@
       ]
     },
     {
+      "id": "825d2014-d533-4c3f-8b3c-88628742fe6a",
       "word": "courtside",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291cnRzaWRl&hash=e810738fd3081adc2ad7491fadd996580c37bfb8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɔrt.saɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291cnRzaWRl&hash=e810738fd3081adc2ad7491fadd996580c37bfb8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kawrt.said",
       "img": "",
       "pronunciation": "kˈoːɹtsaɪd",
       "senses": [
@@ -354,12 +345,13 @@
       ]
     },
     {
+      "id": "3d838005-f899-48bf-b69d-6904d331145b",
       "word": "piste",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGlzdGU&hash=05d0fd00fab5b09b8e3b54b224a70f2c66853a65&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=cGlzdGU&hash=05d0fd00fab5b09b8e3b54b224a70f2c66853a65&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pist",
       "img": "",
       "pronunciation": "pˈɪst",
       "senses": [
@@ -391,49 +383,30 @@
       ]
     },
     {
+      "id": "bd002f89-fd66-4e5b-80b2-e2093018bb39",
       "word": "ski run",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2tpIHJ1bg&hash=19c78e96cff4a62385286f5fb058a327412bc109&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ski: rʌn",
       "phonetic_am": "https://tts.langeek.co/read?text=c2tpIHJ1bg&hash=19c78e96cff4a62385286f5fb058a327412bc109&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ski ran",
       "img": "",
       "pronunciation": "skˈiː ɹˈʌn",
       "senses": [
         {
           "definition": "a marked trail or slope for skiing, ranging in difficulty from beginner to advanced",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The ski resort has several challenging ski runs."
-            },
-            {
-              "cf": "",
-              "x": "We started on the easiest ski run to warm up."
-            },
-            {
-              "cf": "",
-              "x": "The bunny slope is the perfect ski run for kids."
-            },
-            {
-              "cf": "",
-              "x": "They raced down the ski run together."
-            },
-            {
-              "cf": "",
-              "x": "The ski runs were groomed overnight for smooth skiing."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "7b1ab0e8-ce02-420a-81fb-62cb4035f557",
       "word": "fairway",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFpcndheQ&hash=5c85a9d6e3bea8f43aed1b3d3ab555b72c1866b2&lang=en&cache-only=0",
-      "phonetic_text": "fɛrweɪ",
+      "phonetic_text": "fɛr.weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFpcndheQ&hash=5c85a9d6e3bea8f43aed1b3d3ab555b72c1866b2&lang=en&cache-only=0",
-      "phonetic_am_text": "ferwei",
+      "phonetic_am_text": "fer.vei",
       "img": "",
       "pronunciation": "ˈfɛɹˌweɪ",
       "senses": [
@@ -465,6 +438,7 @@
       ]
     },
     {
+      "id": "37436316-4417-4be4-9fd6-be5b96405118",
       "word": "links",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGlua3M&hash=0e1f6cffcf09e9c84a91a717c53a5d2fc95ebc91&lang=en&cache-only=0",
@@ -490,12 +464,13 @@
       ]
     },
     {
+      "id": "bac9284f-e25b-4815-82cb-c5c14c9ad90c",
       "word": "putting green",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHV0dGluZyBncmVlbg&hash=46136a3c8f5ba0697ec79a30222fc7b1be0140d7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pə.tɪng gri:n",
       "phonetic_am": "https://tts.langeek.co/read?text=cHV0dGluZyBncmVlbg&hash=46136a3c8f5ba0697ec79a30222fc7b1be0140d7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pē.ting grin",
       "img": "",
       "pronunciation": "pˈʊɾɪŋ ɡɹˈiːn",
       "senses": [
@@ -527,12 +502,13 @@
       ]
     },
     {
+      "id": "2b3f9fe4-0f85-4864-a799-dc5e3bc09b4d",
       "word": "clay court",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xheSBjb3VydA&hash=b3191f1ca81825ab79e6bcd416e09ae883b028f4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kleɪ kɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xheSBjb3VydA&hash=b3191f1ca81825ab79e6bcd416e09ae883b028f4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "klei kawrt",
       "img": "",
       "pronunciation": "klˈeɪ kˈoːɹt",
       "senses": [
@@ -564,12 +540,13 @@
       ]
     },
     {
+      "id": "1454a61a-4e39-4651-bddf-cd21825469ff",
       "word": "ringside",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmluZ3NpZGU&hash=7af85229b60e99f202634667d931e989425ca61a&lang=en&cache-only=0",
-      "phonetic_text": "rɪngsaɪd",
+      "phonetic_text": "rɪng.saɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=cmluZ3NpZGU&hash=7af85229b60e99f202634667d931e989425ca61a&lang=en&cache-only=0",
-      "phonetic_am_text": "ringsaid",
+      "phonetic_am_text": "ring.said",
       "img": "",
       "pronunciation": "ˈɹɪŋˌsaɪd",
       "senses": [
@@ -601,12 +578,13 @@
       ]
     },
     {
+      "id": "6adc4a85-9baf-4625-bdf6-b71d582f64a6",
       "word": "ringside seat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmluZ3NpZGUgc2VhdA&hash=79dbb0095f8f10ea672b008d0519d458d91b58bf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɪng.saɪd si:t",
       "phonetic_am": "https://tts.langeek.co/read?text=cmluZ3NpZGUgc2VhdA&hash=79dbb0095f8f10ea672b008d0519d458d91b58bf&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ring.said sit",
       "img": "",
       "pronunciation": "ɹˈɪŋsaɪd sˈiːt",
       "senses": [
@@ -638,12 +616,13 @@
       ]
     },
     {
+      "id": "32c1b53a-7020-488e-aaf6-bc9bc890fdd4",
       "word": "hard court",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFyZCBjb3VydA&hash=d329e0f5268fb62605807079a00d6f7728026396&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɑrd kɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFyZCBjb3VydA&hash=d329e0f5268fb62605807079a00d6f7728026396&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "haard kawrt",
       "img": "",
       "pronunciation": "hˈɑːɹd kˈoːɹt",
       "senses": [
@@ -675,12 +654,13 @@
       ]
     },
     {
+      "id": "4daf6856-f8e0-445b-9590-7f66d9203189",
       "word": "paddock",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFkZG9jaw&hash=d563455cc48203ded790754656b90610bd77a299&lang=en&cache-only=0",
-      "phonetic_text": "pædək",
+      "phonetic_text": "pæd.dɑk",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFkZG9jaw&hash=d563455cc48203ded790754656b90610bd77a299&lang=en&cache-only=0",
-      "phonetic_am_text": "pādēk",
+      "phonetic_am_text": "pād.daak",
       "img": "",
       "pronunciation": "ˈpædək",
       "senses": [
@@ -712,49 +692,30 @@
       ]
     },
     {
+      "id": "810fa040-dc86-4ec9-bc57-bb2e7b185acb",
       "word": "out of bounds",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b3V0IG9mIGJvdW5kcw&hash=bf5e544ab82faf731b5163aa0a5a161f6ad74a03&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aʊt ʌv baʊndz",
       "phonetic_am": "https://tts.langeek.co/read?text=b3V0IG9mIGJvdW5kcw&hash=bf5e544ab82faf731b5163aa0a5a161f6ad74a03&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aoot av baoondz",
       "img": "",
       "pronunciation": "ˌaʊɾəv bˈaʊndz",
       "senses": [
         {
           "definition": "areas outside the playing boundaries where the game cannot be played",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He was penalized for throwing the discus out of bounds."
-            },
-            {
-              "cf": "",
-              "x": "The referee blew the whistle when the puck went out of bounds."
-            },
-            {
-              "cf": "",
-              "x": "The tennis player's serve was ruled out of bounds, costing her the point."
-            },
-            {
-              "cf": "",
-              "x": "The golfer's shot sailed out of bounds and into the rough."
-            },
-            {
-              "cf": "",
-              "x": "He caught the football just before it went out of bounds."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "2bb554e4-3874-4591-870c-99b55b3ae098",
       "word": "center field",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2VudGVyIGZpZWxk&hash=a0a8a6edab0e5b974ba44c6d0609890b6baf9cb1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛn.tər fild",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2VudGVyIGZpZWxk&hash=a0a8a6edab0e5b974ba44c6d0609890b6baf9cb1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sen.tēr fild",
       "img": "",
       "pronunciation": "sˈɛntɚ fˈiːld",
       "senses": [
@@ -786,12 +747,13 @@
       ]
     },
     {
+      "id": "c8d12cb7-d1e3-4030-b822-da8967629c3a",
       "word": "right field",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmlnaHQgZmllbGQ&hash=623555b7709b45853e53f6fb6d9fe8f5f86ba1e2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "raɪt fild",
       "phonetic_am": "https://tts.langeek.co/read?text=cmlnaHQgZmllbGQ&hash=623555b7709b45853e53f6fb6d9fe8f5f86ba1e2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rait fild",
       "img": "",
       "pronunciation": "ɹˈaɪt fˈiːld",
       "senses": [
@@ -823,12 +785,13 @@
       ]
     },
     {
+      "id": "d8edfe9a-093b-4562-871f-8ebd68a92605",
       "word": "left field",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGVmdCBmaWVsZA&hash=3dd60e09af531445a3999227d3367ee845394f86&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɛft fild",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVmdCBmaWVsZA&hash=3dd60e09af531445a3999227d3367ee845394f86&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "left fild",
       "img": "",
       "pronunciation": "lˈɛft fˈiːld",
       "senses": [
@@ -860,12 +823,13 @@
       ]
     },
     {
+      "id": "c70be603-39d1-4964-9908-740ee1049ba8",
       "word": "corner",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29ybmVy&hash=4f776087be337df47b6a2f64946ec1b55b97c625&lang=en&cache-only=0",
-      "phonetic_text": "kɔ:rnər",
+      "phonetic_text": "kɔr.nɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29ybmVy&hash=4f776087be337df47b6a2f64946ec1b55b97c625&lang=en&cache-only=0",
-      "phonetic_am_text": "kaawrnēr",
+      "phonetic_am_text": "kawr.nēr",
       "img": "",
       "pronunciation": "ˈkɔɹnɝ",
       "senses": [
@@ -897,45 +861,30 @@
       ]
     },
     {
+      "id": "7799ac71-a9b0-4d8a-97f0-4cf6fda57f31",
       "word": "outfield",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3V0ZmllbGQ&hash=61168623b5e41032f379b91f874303f29ce5a9e3&lang=en&cache-only=0",
-      "phonetic_text": "aʊtfild",
+      "phonetic_text": "aʊt.fild",
       "phonetic_am": "https://tts.langeek.co/read?text=b3V0ZmllbGQ&hash=61168623b5e41032f379b91f874303f29ce5a9e3&lang=en&cache-only=0",
-      "phonetic_am_text": "awtfild",
+      "phonetic_am_text": "aoot.fild",
       "img": "",
       "pronunciation": "ˈaʊtˌfiɫd",
       "senses": [
         {
           "definition": "the area where the outfielders play to catch fly balls and field hits",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The outfield fence was padded to protect players from collisions."
-            },
-            {
-              "cf": "",
-              "x": "The sun set behind the outfield wall, casting long shadows on the field."
-            },
-            {
-              "cf": "",
-              "x": "He threw a perfect strike from the outfield to home plate to get the runner out."
-            },
-            {
-              "cf": "",
-              "x": "The outfield area offers a panoramic view of the entire baseball field."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "6073d109-c6b7-4b63-8f66-0757ac0f4df5",
       "word": "infield",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5maWVsZA&hash=822e48d4ea0a0577a957ec39066c7d79a41762bc&lang=en&cache-only=0",
-      "phonetic_text": "ɪnfild",
+      "phonetic_text": "ɪn.fild",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5maWVsZA&hash=822e48d4ea0a0577a957ec39066c7d79a41762bc&lang=en&cache-only=0",
-      "phonetic_am_text": "infild",
+      "phonetic_am_text": "in.fild",
       "img": "",
       "pronunciation": "ˈɪnˌfiɫd",
       "senses": [
@@ -963,45 +912,30 @@
       ]
     },
     {
+      "id": "75dcdb81-2628-431e-9fc2-bd4e43eadaeb",
       "word": "crease",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3JlYXNl&hash=6e1005cfc2f468f38e11c580eed3aac441e4f971&lang=en&cache-only=0",
-      "phonetic_text": "kri:s",
+      "phonetic_text": "kris",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3JlYXNl&hash=6e1005cfc2f468f38e11c580eed3aac441e4f971&lang=en&cache-only=0",
-      "phonetic_am_text": "krees",
+      "phonetic_am_text": "kris",
       "img": "",
       "pronunciation": "ˈkɹis",
       "senses": [
         {
           "definition": "a marked area near the goal, especially in hockey or lacrosse",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The goalie stayed within the crease to block the shot."
-            },
-            {
-              "cf": "",
-              "x": "The player scored from just outside the crease."
-            },
-            {
-              "cf": "",
-              "x": "The crease was clearly marked on the ice."
-            },
-            {
-              "cf": "",
-              "x": "He celebrated his goal right in front of the crease."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "92cbf6cb-b953-447b-a573-2ebb05f2ec90",
       "word": "backcourt",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFja2NvdXJ0&hash=7acec365123067208a8fad52c44d54d0a0823fa7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæk.kɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFja2NvdXJ0&hash=7acec365123067208a8fad52c44d54d0a0823fa7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bāk.kawrt",
       "img": "",
       "pronunciation": "bˈækkoːɹt",
       "senses": [
@@ -1033,12 +967,13 @@
       ]
     },
     {
+      "id": "ea248500-6282-4397-bdf6-ad2110902f37",
       "word": "forecourt",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9yZWNvdXJ0&hash=33d477a77d9ad368d161281d5ed8284f89f52c18&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɔr.kɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9yZWNvdXJ0&hash=33d477a77d9ad368d161281d5ed8284f89f52c18&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fawr.kawrt",
       "img": "",
       "pronunciation": "fˈɔːɹkoːɹt",
       "senses": [
@@ -1070,12 +1005,13 @@
       ]
     },
     {
+      "id": "9bc5540b-25a8-41cc-a759-9cf880b5d7ac",
       "word": "service court",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VydmljZSBjb3VydA&hash=c189dbacce8f4d87cd5b49db1b304c7d21579e6e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɜr.vɪs kɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VydmljZSBjb3VydA&hash=c189dbacce8f4d87cd5b49db1b304c7d21579e6e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sēr.vis kawrt",
       "img": "",
       "pronunciation": "sˈɜːvɪs kˈoːɹt",
       "senses": [
@@ -1107,31 +1043,24 @@
       ]
     },
     {
+      "id": "0599269b-9652-4688-81d2-8a3afabebd6f",
       "word": "dry ski slope",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJ5IHNraSBzbG9wZQ&hash=da602da2bb6cdcc79b2c31eca901c27177e598fa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "draɪ ski: sloʊp",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJ5IHNraSBzbG9wZQ&hash=da602da2bb6cdcc79b2c31eca901c27177e598fa&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "drai ski slooop",
       "img": "",
       "pronunciation": "dɹˈaɪ skˈiː slˈoʊp",
       "senses": [
         {
           "definition": "an artificial surface designed to simulate the experience of skiing without the need for snow",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The dry ski slope allowed them to train even during the summer months."
-            },
-            {
-              "cf": "",
-              "x": "She mastered her turns on the dry ski slope before hitting the mountains."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "8876beb9-2bfe-41de-a097-acbf31ae877b",
       "word": "stand",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RhbmQ&hash=2cd7d84798307f24d22258519ae1d057f7c59234&lang=en&cache-only=0",
@@ -1169,12 +1098,13 @@
       ]
     },
     {
+      "id": "cddaa8c8-c787-497a-b2c6-7d476e3fac2d",
       "word": "end zone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZW5kIHpvbmU&hash=efda4cbee5963cb7c64135ef54e790650053303e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛnd zoʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=ZW5kIHpvbmU&hash=efda4cbee5963cb7c64135ef54e790650053303e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "end zooon",
       "img": "",
       "pronunciation": "ˈɛnd zˈoʊn",
       "senses": [
@@ -1202,12 +1132,13 @@
       ]
     },
     {
+      "id": "40383297-ff47-4504-8ad7-6a10fb95e8b0",
       "word": "neutral zone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmV1dHJhbCB6b25l&hash=3d8f8ab03cffba46629a48db19266260bfb748f2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nut.rəl zoʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=bmV1dHJhbCB6b25l&hash=3d8f8ab03cffba46629a48db19266260bfb748f2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "noot.rēl zooon",
       "img": "",
       "pronunciation": "nˈuːtɹəl zˈoʊn",
       "senses": [
@@ -1239,12 +1170,13 @@
       ]
     },
     {
+      "id": "7aee8603-2c2d-4c89-bbe9-4142df5974fb",
       "word": "red zone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVkIHpvbmU&hash=04f578fd7a3cef4af2edefb877fd0225de404db9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɛd zoʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVkIHpvbmU&hash=04f578fd7a3cef4af2edefb877fd0225de404db9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "red zooon",
       "img": "",
       "pronunciation": "ɹˈɛd zˈoʊn",
       "senses": [
@@ -1276,12 +1208,13 @@
       ]
     },
     {
+      "id": "8c8b624d-f62c-4c7c-a327-8b523a63ca2b",
       "word": "penalty spot",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVuYWx0eSBzcG90&hash=7fdcaa3b7f452afe43b5446153ba449d0450a1ec&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɛ.nəl.ti spɑt",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVuYWx0eSBzcG90&hash=7fdcaa3b7f452afe43b5446153ba449d0450a1ec&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pe.nēl.ti spaat",
       "img": "",
       "pronunciation": "pˈɛnəlɾi spˈɑːt",
       "senses": [
@@ -1313,12 +1246,13 @@
       ]
     },
     {
+      "id": "57820bf7-ae11-4ec1-8cab-378ed00776da",
       "word": "tennis court",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVubmlzIGNvdXJ0&hash=e1a0259cab9c934ca8ccd342a67d5739391f3a8c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɛ.nɪs kɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVubmlzIGNvdXJ0&hash=e1a0259cab9c934ca8ccd342a67d5739391f3a8c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "te.nis kawrt",
       "img": "",
       "pronunciation": "tˈɛnᵻs kˈoːɹt",
       "senses": [
@@ -1350,12 +1284,13 @@
       ]
     },
     {
+      "id": "dc914e01-118b-4879-a6af-8555a0adc406",
       "word": "basketball court",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFza2V0YmFsbCBjb3VydA&hash=35076b549e0baabaec7eb2bfcf88c963eb223099&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæs.kət.bɔ:l kɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFza2V0YmFsbCBjb3VydA&hash=35076b549e0baabaec7eb2bfcf88c963eb223099&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bās.kēt.bawl kawrt",
       "img": "https://cdn.langeek.co/photo/36002/original/?type=jpeg",
       "pronunciation": "bˈæskɪtbˌɔːl kˈoːɹt",
       "senses": [
@@ -1387,12 +1322,13 @@
       ]
     },
     {
+      "id": "9b48dda9-5e45-425a-87c9-1a029b9f9a3d",
       "word": "badminton court",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFkbWludG9uIGNvdXJ0&hash=5124ad6a7244ad3cda6d6ac198d2028080347c06&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæd.mɪn.tən kɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFkbWludG9uIGNvdXJ0&hash=5124ad6a7244ad3cda6d6ac198d2028080347c06&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bād.min.tēn kawrt",
       "img": "",
       "pronunciation": "bˈædmɪntən kˈoːɹt",
       "senses": [
@@ -1424,12 +1360,13 @@
       ]
     },
     {
+      "id": "b416ddfd-0ccc-43dd-a820-a5c66f1f2a17",
       "word": "center ice",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2VudGVyIGljZQ&hash=efd0df648f7d51b24844ece446e1ca4a2894904c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛn.tər aɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2VudGVyIGljZQ&hash=efd0df648f7d51b24844ece446e1ca4a2894904c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sen.tēr ais",
       "img": "",
       "pronunciation": "sˈɛntɚɹ ˈaɪs",
       "senses": [
@@ -1461,49 +1398,30 @@
       ]
     },
     {
+      "id": "b8542673-9e63-4c2b-8d7c-c092511618be",
       "word": "drop zone",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJvcCB6b25l&hash=10cf02258815743fb8d9af1c5a93651b64a7ce6c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "drɑp zoʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJvcCB6b25l&hash=10cf02258815743fb8d9af1c5a93651b64a7ce6c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "draap zooon",
       "img": "",
       "pronunciation": "dɹˈɑːp zˈoʊn",
       "senses": [
         {
           "definition": "the designated area on the ground where skydivers land after their parachute descent",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The instructor pointed out the drop zone before the jump."
-            },
-            {
-              "cf": "",
-              "x": "They circled above the drop zone before deploying their parachutes."
-            },
-            {
-              "cf": "",
-              "x": "He aimed for the center of the drop zone as he descended."
-            },
-            {
-              "cf": "",
-              "x": "Skydivers practiced their landing techniques at the drop zone."
-            },
-            {
-              "cf": "",
-              "x": "The skydivers gathered their parachutes after landing in the drop zone."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "e3ac7300-ffdf-4f07-813c-ffbc14c92211",
       "word": "poolside",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9vbHNpZGU&hash=ffbc0aeb9664d9f07e2007f7d6a662e6e000ddcd&lang=en&cache-only=0",
-      "phonetic_text": "pu:lsaɪd",
+      "phonetic_text": "pu:l.saɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9vbHNpZGU&hash=ffbc0aeb9664d9f07e2007f7d6a662e6e000ddcd&lang=en&cache-only=0",
-      "phonetic_am_text": "poolsaid",
+      "phonetic_am_text": "pool.said",
       "img": "",
       "pronunciation": "ˈpuɫˌsaɪd",
       "senses": [
@@ -1531,12 +1449,13 @@
       ]
     },
     {
+      "id": "fffe32a3-f8ce-44e1-808a-d6f0f5963a39",
       "word": "goal area",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29hbCBhcmVh&hash=ca5c6ab7e322a40e09ecc56c7fffed37b2f9aa3e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "goʊl ɛ.riə",
       "phonetic_am": "https://tts.langeek.co/read?text=Z29hbCBhcmVh&hash=ca5c6ab7e322a40e09ecc56c7fffed37b2f9aa3e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "goool e.riē",
       "img": "",
       "pronunciation": "ɡˈoʊl ˈɛɹiə",
       "senses": [
@@ -1568,12 +1487,13 @@
       ]
     },
     {
+      "id": "f53ba6a8-4549-454b-85c6-8228c9a81731",
       "word": "fifty-yard line",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmlmdHkteWFyZCBsaW5l&hash=acafd7b2272f026c35cfd727ffc15c1de88c650e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɪf.ti-jɑrd laɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmlmdHkteWFyZCBsaW5l&hash=acafd7b2272f026c35cfd727ffc15c1de88c650e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fif.ti-yaard lain",
       "img": "",
       "pronunciation": "fˈɪftijˈɑːɹd lˈaɪn",
       "senses": [
@@ -1584,12 +1504,13 @@
       ]
     },
     {
+      "id": "0b9dc8a9-ebbc-41f0-83fa-6a64e2dc98af",
       "word": "weak side",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2VhayBzaWRl&hash=92e3390be5e86c602cbce2cfcc22f0d1e715946e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wi:k saɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=d2VhayBzaWRl&hash=92e3390be5e86c602cbce2cfcc22f0d1e715946e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vik said",
       "img": "",
       "pronunciation": "wˈiːk sˈaɪd",
       "senses": [
@@ -1621,6 +1542,7 @@
       ]
     },
     {
+      "id": "e03190f2-d579-4ffd-b74b-094237b9e3bc",
       "word": "base",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFzZQ&hash=9abc9059c059fd5c45e3c439ed2de8b40932ae22&lang=en&cache-only=0",
@@ -1637,12 +1559,13 @@
       ]
     },
     {
+      "id": "2ca19e29-02ea-4de1-9e12-1a1bc1aa9646",
       "word": "second base",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Vjb25kIGJhc2U&hash=61698b95a4dc3e31c457d32968aece0fa450b856&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛ.kənd beɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Vjb25kIGJhc2U&hash=61698b95a4dc3e31c457d32968aece0fa450b856&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "se.kēnd beis",
       "img": "",
       "pronunciation": "sˈɛkənd bˈeɪs",
       "senses": [
@@ -1674,12 +1597,13 @@
       ]
     },
     {
+      "id": "4f395686-3082-441a-8205-fa93b5478b10",
       "word": "third base",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhpcmQgYmFzZQ&hash=905b353b240df5fb6f55fc75c0f0476a19c78b2d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "θɜrd beɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhpcmQgYmFzZQ&hash=905b353b240df5fb6f55fc75c0f0476a19c78b2d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "thērd beis",
       "img": "",
       "pronunciation": "θˈɜːd bˈeɪs",
       "senses": [
@@ -1711,12 +1635,13 @@
       ]
     },
     {
+      "id": "bf9e95c9-805e-45e8-a87d-b493f08019f0",
       "word": "raceway",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFjZXdheQ&hash=b2d6de81683513e2ab5cdc74d42d46ffeecd28b7&lang=en&cache-only=0",
-      "phonetic_text": "reɪsweɪ",
+      "phonetic_text": "reɪs.weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=cmFjZXdheQ&hash=b2d6de81683513e2ab5cdc74d42d46ffeecd28b7&lang=en&cache-only=0",
-      "phonetic_am_text": "reiswei",
+      "phonetic_am_text": "reis.vei",
       "img": "",
       "pronunciation": "ˈɹeɪˌsweɪ",
       "senses": [
@@ -1748,6 +1673,7 @@
       ]
     },
     {
+      "id": "728d879a-24c3-49e5-898a-a625d7f508c8",
       "word": "pit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGl0&hash=035687216e26765064e9989a72552278f6fdb505&lang=en&cache-only=0",
@@ -1781,12 +1707,13 @@
       ]
     },
     {
+      "id": "765da892-028a-4cf0-925b-5905a9c6bb2b",
       "word": "sideline",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2lkZWxpbmU&hash=f742dd643eb224c20d1c65d52cee66463f9746ba&lang=en&cache-only=0",
-      "phonetic_text": "saɪdlaɪn",
+      "phonetic_text": "saɪd.laɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=c2lkZWxpbmU&hash=f742dd643eb224c20d1c65d52cee66463f9746ba&lang=en&cache-only=0",
-      "phonetic_am_text": "saidlain",
+      "phonetic_am_text": "said.lain",
       "img": "",
       "pronunciation": "ˈsaɪdˌɫaɪn",
       "senses": [
@@ -1818,49 +1745,30 @@
       ]
     },
     {
+      "id": "d26ff392-0d33-4b45-bde9-2deab7af2a1c",
       "word": "leg side",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGVnIHNpZGU&hash=2aad2fd54cd1c1dcade3afd001c1760c6c52147a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɛg saɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVnIHNpZGU&hash=2aad2fd54cd1c1dcade3afd001c1760c6c52147a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "leg said",
       "img": "",
       "pronunciation": "lˈɛɡ sˈaɪd",
       "senses": [
         {
           "definition": "(cricket) the half of the field behind the batsman's legs, toward the left from the batsman's viewpoint for a right-handed batsman",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The bowler consistently targeted the leg side to exploit the batsman's weakness."
-            },
-            {
-              "cf": "",
-              "x": "The fielder positioned himself deep on the leg side boundary."
-            },
-            {
-              "cf": "",
-              "x": "The batsman flicked the ball effortlessly to the leg side for a boundary."
-            },
-            {
-              "cf": "",
-              "x": "The wicketkeeper dived to his left to take a stunning catch down the leg side."
-            },
-            {
-              "cf": "",
-              "x": "The spinner deceived the batsman with a delivery that turned sharply into the leg side."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "1dd64972-5fd7-4a21-8f1f-7179782c5e92",
       "word": "approach",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXBwcm9hY2g&hash=5dfcb0f4bc8d375d0feac39f0ae79332900d2cb1&lang=en&cache-only=0",
-      "phonetic_text": "əproʊʧ",
+      "phonetic_text": "əp.roʊʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=YXBwcm9hY2g&hash=5dfcb0f4bc8d375d0feac39f0ae79332900d2cb1&lang=en&cache-only=0",
-      "phonetic_am_text": "ēprowch",
+      "phonetic_am_text": "ēp.roooch",
       "img": "",
       "pronunciation": "əˈpɹoʊtʃ",
       "senses": [
@@ -1892,12 +1800,13 @@
       ]
     },
     {
+      "id": "7859e018-f193-4a6a-9781-cdb0ae53b502",
       "word": "dahyo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGFoeW8&hash=ff5ccf97112d973999a30d7d55a7df18e9702cf9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɑ:.ɪoʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGFoeW8&hash=ff5ccf97112d973999a30d7d55a7df18e9702cf9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "daa.iooo",
       "img": "",
       "pronunciation": "dˈɑːɪˌoʊ",
       "senses": [
@@ -1908,12 +1817,13 @@
       ]
     },
     {
+      "id": "f543f958-f344-4e82-99e2-940f12a8eedd",
       "word": "green",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JlZW4&hash=814f2870faa764c58019b1be535f603d5b799eee&lang=en&cache-only=0",
       "phonetic_text": "gri:n",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JlZW4&hash=814f2870faa764c58019b1be535f603d5b799eee&lang=en&cache-only=0",
-      "phonetic_am_text": "green",
+      "phonetic_am_text": "grin",
       "img": "",
       "pronunciation": "ɡriːn",
       "senses": [
@@ -1945,12 +1855,13 @@
       ]
     },
     {
+      "id": "46abfd4a-9aeb-4c39-a6b1-be3643bc7bb1",
       "word": "tee",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVl&hash=6306bcff6d6a32eed190e7474dfcca13608aba5c&lang=en&cache-only=0",
-      "phonetic_text": "ti:",
+      "phonetic_text": "ti",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVl&hash=6306bcff6d6a32eed190e7474dfcca13608aba5c&lang=en&cache-only=0",
-      "phonetic_am_text": "tee",
+      "phonetic_am_text": "ti",
       "img": "",
       "pronunciation": "ˈti",
       "senses": [
@@ -1982,12 +1893,13 @@
       ]
     },
     {
+      "id": "3d9b62cf-2f1a-403d-af98-2079e7c96760",
       "word": "circuit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2lyY3VpdA&hash=da9cc28027fd979aa58556027786909e69231bc4&lang=en&cache-only=0",
-      "phonetic_text": "sɜrkət",
+      "phonetic_text": "sɜr.kət",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2lyY3VpdA&hash=da9cc28027fd979aa58556027786909e69231bc4&lang=en&cache-only=0",
-      "phonetic_am_text": "sērkēt",
+      "phonetic_am_text": "sēr.kēt",
       "img": "",
       "pronunciation": "ˈsɝkət",
       "senses": [
@@ -2019,6 +1931,7 @@
       ]
     },
     {
+      "id": "a0a6e273-12dc-406d-b620-3cad98b8542e",
       "word": "track",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhY2s&hash=3caf52dcf15a9f7eb708059bc9a4fb5db17b74c4&lang=en&cache-only=0",
@@ -2026,7 +1939,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhY2s&hash=3caf52dcf15a9f7eb708059bc9a4fb5db17b74c4&lang=en&cache-only=0",
       "phonetic_am_text": "trāk",
       "img": "https://cdn.langeek.co/photo/37320/original/?type=jpeg",
-      "pronunciation": "ˈtɹæk",
+      "pronunciation": "træk",
       "senses": [
         {
           "definition": "a course that is used for racing, usually round, and with multiple lanes",
@@ -2056,12 +1969,13 @@
       ]
     },
     {
+      "id": "f0a3760d-a7bb-4bfa-a451-408807129c0f",
       "word": "running track",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cnVubmluZyB0cmFjaw&hash=1c75c29fa5f7182703add7122058e27676b24ee9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rə.nɪng træk",
       "phonetic_am": "https://tts.langeek.co/read?text=cnVubmluZyB0cmFjaw&hash=1c75c29fa5f7182703add7122058e27676b24ee9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rē.ning trāk",
       "img": "",
       "pronunciation": "ɹˈʌnɪŋ tɹˈæk",
       "senses": [
@@ -2093,12 +2007,13 @@
       ]
     },
     {
+      "id": "37366898-b070-4c36-8136-3d8cb174016e",
       "word": "piste",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGlzdGU&hash=05d0fd00fab5b09b8e3b54b224a70f2c66853a65&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=cGlzdGU&hash=05d0fd00fab5b09b8e3b54b224a70f2c66853a65&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pist",
       "img": "",
       "pronunciation": "pˈɪst",
       "senses": [
@@ -2130,12 +2045,13 @@
       ]
     },
     {
+      "id": "faaa56c2-2c60-457f-8fc0-7126eda43f60",
       "word": "speedway",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BlZWR3YXk&hash=c85d6668bdc4df293549690a6ef620cfa413b8e2&lang=en&cache-only=0",
-      "phonetic_text": "spi:dweɪ",
+      "phonetic_text": "spid.weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BlZWR3YXk&hash=c85d6668bdc4df293549690a6ef620cfa413b8e2&lang=en&cache-only=0",
-      "phonetic_am_text": "speedwei",
+      "phonetic_am_text": "spid.vei",
       "img": "",
       "pronunciation": "ˈspidˌweɪ",
       "senses": [

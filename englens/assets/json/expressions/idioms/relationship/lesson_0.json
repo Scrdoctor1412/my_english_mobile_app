@@ -1,79 +1,49 @@
 {
+  "id": "646d6061-08bc-4a0f-83d6-4fd94d059736",
   "topic": "relationship",
   "title": "Friendship & Reconciliation",
   "lesson": "lesson_0",
   "word_list": [
     {
+      "id": "b38648d7-4819-44c7-8879-154ba26d44ab",
       "word": "through thick and thin",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhyb3VnaCB0aGljayBhbmQgdGhpbg&hash=8d5b98274ba5129c79efa10bb04b4bf2f1bc1931&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "θru: θɪk ænd θɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhyb3VnaCB0aGljayBhbmQgdGhpbg&hash=8d5b98274ba5129c79efa10bb04b4bf2f1bc1931&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "throo thik ānd thin",
       "img": "https://cdn.langeek.co/photo/39919/original/?type=jpeg",
       "pronunciation": "θɹuː θˈɪk ænd θˈɪn",
       "senses": [
         {
           "definition": "regardless of the difficulty or circumstances",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She promised to stand by him through thick and thin."
-            },
-            {
-              "cf": "",
-              "x": "True friends are those who support you through thick and thin."
-            },
-            {
-              "cf": "",
-              "x": "They stayed together through thick and thin, no matter what life threw at them."
-            },
-            {
-              "cf": "",
-              "x": "He supported his family through thick and thin, even during tough financial times."
-            },
-            {
-              "cf": "",
-              "x": "They endured through thick and thin to build their successful business."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "646e6a49-a6c7-426a-aebc-6b7797242182",
       "word": "speaking terms",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BlYWtpbmcgdGVybXM&hash=0da8a1b4c5a60b9c3a7cdcb8e33192abce219365&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spi.kɪng tɜrmz",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BlYWtpbmcgdGVybXM&hash=0da8a1b4c5a60b9c3a7cdcb8e33192abce219365&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "spi.king tērmz",
       "img": "https://cdn.langeek.co/photo/51502/original/?type=jpeg",
       "pronunciation": "spˈiːkɪŋ tˈɜːmz",
       "senses": [
         {
           "definition": "a two-sided relationship in which two people greet each other or have casual conversations",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After their argument, Sarah and John are no longer on speaking terms."
-            },
-            {
-              "cf": "",
-              "x": "Despite their differences, they managed to maintain speaking terms throughout the project."
-            },
-            {
-              "cf": "",
-              "x": "It took some time, but eventually, they were able to establish speaking terms again."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "7c1bc129-b2e7-4257-8cc9-07539272761b",
       "word": "on (good|friendly) terms",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gZ29vZCB0ZXJtcw&hash=96f435609b45a8a98c4643e6abad7713d983ccaf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gZ29vZCB0ZXJtcw&hash=96f435609b45a8a98c4643e6abad7713d983ccaf&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/36880/original/?type=jpeg",
@@ -86,10 +56,11 @@
       ]
     },
     {
-      "word": "[mend] {one's} fences",
+      "id": "da8a7147-5bc3-413c-b92c-8a751f9c22fe",
+      "word": "to [mend] {one's} fences",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWVuZCBvbmUncyBmZW5jZXM&hash=eabe21f62fe41c50b96180efd04a6a0b7122aded&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWVuZCBvbmUncyBmZW5jZXM&hash=eabe21f62fe41c50b96180efd04a6a0b7122aded&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40015/original/?type=jpeg",
@@ -97,15 +68,25 @@
       "senses": [
         {
           "definition": "to repair or restore one's relationships, especially after a period of tension or conflict",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "After their argument, Jack realized he needed to mend his fences with his sister."
+            },
+            {
+              "cf": "",
+              "x": "Liza mended her fences by making amends with his family."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[make] {oneself} at home",
+      "id": "7883ab2c-ab01-43a3-8aba-d6f5ac8f8c6c",
+      "word": "to [make] {oneself} at home",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZSBvbmVzZWxmIGF0IGhvbWU&hash=4dd3b7751f4312449acd71c287b17261c106af34&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFrZSBvbmVzZWxmIGF0IGhvbWU&hash=4dd3b7751f4312449acd71c287b17261c106af34&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40063/original/?type=jpeg",
@@ -118,10 +99,11 @@
       ]
     },
     {
-      "word": "[make] it up to {sb}",
+      "id": "5d5dde1c-8ed0-4de2-a158-b8de8af97b70",
+      "word": "to [make] it up to {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZSBpdCB1cCB0byBzb21lYm9keQ&hash=08bbd9da50c440c4b44267ce3604ccce5a4224f1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFrZSBpdCB1cCB0byBzb21lYm9keQ&hash=08bbd9da50c440c4b44267ce3604ccce5a4224f1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40013/original/?type=jpeg",
@@ -129,15 +111,25 @@
       "senses": [
         {
           "definition": "to do something to compensate for a previous mistake, offense, or wrongdoing and to attempt to regain the person's trust or forgiveness",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Jake missed his friend's birthday party, but he made it up to her by organizing a surprise gathering with their mutual friends the following week."
+            },
+            {
+              "cf": "",
+              "x": "Lisa accidentally spilled coffee on her friend's favorite shirt, so she promises to make it up to him by buying him a new one."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[kiss] and [make] up",
+      "id": "b5f21c9f-8ad6-441f-b1d8-5fa073b7ae18",
+      "word": "to [kiss] and [make] up",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2lzcyBhbmQgbWFrZSB1cA&hash=b9e711c595a73f609370c89a34cec7591a3cb20d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2lzcyBhbmQgbWFrZSB1cA&hash=b9e711c595a73f609370c89a34cec7591a3cb20d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40011/original/?type=jpeg",
@@ -150,12 +142,13 @@
       ]
     },
     {
+      "id": "895f2068-7103-4025-ab85-607f7efacbc2",
       "word": "joined at the hip",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=am9pbmVkIGF0IHRoZSBoaXA&hash=fb0db943bb0448cee73a99b4691db99076d28437&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤɔɪnd æt ðə hɪp",
       "phonetic_am": "https://tts.langeek.co/read?text=am9pbmVkIGF0IHRoZSBoaXA&hash=fb0db943bb0448cee73a99b4691db99076d28437&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "jawind āt dhē hip",
       "img": "https://cdn.langeek.co/photo/40009/original/?type=jpeg",
       "pronunciation": "dʒˈɔɪndætðəhˈɪp",
       "senses": [
@@ -166,10 +159,11 @@
       ]
     },
     {
-      "word": "[go] back a long way",
+      "id": "e3d83ca0-ce5d-4788-96e6-566fef9b81e1",
+      "word": "to [go] back a long way",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ28gYmFjayBhIGxvbmcgd2F5&hash=5acbe017cae73345fa13253a8a142b1138e0e722&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ28gYmFjayBhIGxvbmcgd2F5&hash=5acbe017cae73345fa13253a8a142b1138e0e722&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -177,65 +171,33 @@
       "senses": [
         {
           "definition": "to have been present for a long time, as in conflicts or business",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The traditions of this small town go back a long way, with the annual festival tracing its roots to a century-old celebration."
-            },
-            {
-              "cf": "",
-              "x": "The family-owned business goes back a long way, with the current owner being the fourth generation to run it."
-            },
-            {
-              "cf": "",
-              "x": "The historic building goes back a long way, serving as a landmark in the city for generations."
-            },
-            {
-              "cf": "",
-              "x": "The cultural traditions of the indigenous community go back a long way, preserving their heritage for centuries."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "ca596c41-cd7c-4b47-93c4-6eaac6b3ccd8",
       "word": "give and take",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Z2l2ZSBhbmQgdGFrZQ&hash=ddfd11bb42452f76624ca6c45dda0af144a8da4c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gɪv ænd teɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2l2ZSBhbmQgdGFrZQ&hash=ddfd11bb42452f76624ca6c45dda0af144a8da4c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "giv ānd teik",
       "img": "https://cdn.langeek.co/photo/40059/original/?type=jpeg",
       "pronunciation": "ɡˈɪv ænd tˈeɪk",
       "senses": [
         {
           "definition": "a situation where both sides are willing to make compromises to reach a mutual agreement or understanding",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The negotiations were a give and take."
-            },
-            {
-              "cf": "",
-              "x": "The two sides were able to reach an agreement after some give and take."
-            },
-            {
-              "cf": "",
-              "x": "A successful marriage requires a lot of give and take, where both partners contribute to building a strong and supportive relationship."
-            },
-            {
-              "cf": "",
-              "x": "Effective communication in a relationship involves a constant give and take, with both individuals actively listening and expressing their thoughts."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[give] and [take]",
+      "id": "253a47b9-a01d-40c1-8781-fc17cbe19abe",
+      "word": "to [give] and [take]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBhbmQgdGFrZQ&hash=81aa7f95250ef64d21f98aeff80a898c539ce7a5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBhbmQgdGFrZQ&hash=81aa7f95250ef64d21f98aeff80a898c539ce7a5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40061/original/?type=jpeg",
@@ -261,39 +223,28 @@
       ]
     },
     {
+      "id": "144c04e9-333c-40a3-95b3-3fc7d70f4752",
       "word": "for company",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Zm9yIGNvbXBhbnk&hash=86a00fb1db759913f9b549e4024d2e4a0db80bab&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɔ:r kʌm.pə.ni",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9yIGNvbXBhbnk&hash=86a00fb1db759913f9b549e4024d2e4a0db80bab&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fawr kam.pē.ni",
       "img": "https://cdn.langeek.co/photo/40057/original/?type=jpeg",
       "pronunciation": "fɔːɹ kˈʌmpəni",
       "senses": [
         {
           "definition": "used to refer to something that is done just to make one feel less alone",
-          "examples": [
-            {
-              "cf": "",
-              "x": "David is considering adopting a pet for company, as he believes having a furry friend will make his home feel less empty."
-            },
-            {
-              "cf": "",
-              "x": "John enjoys going to coffee shops for company, as being around people provides him a sense of companionship."
-            },
-            {
-              "cf": "",
-              "x": "Nina often watches movies for company, as it helps her feel less lonely in her apartment."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[build] bridges",
+      "id": "ee6a374c-bc15-4125-95fd-cedb1bd41583",
+      "word": "to [build] bridges",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnVpbGQgYnJpZGdlcw&hash=306d8479d096e51fae92181968d873b07c95c240&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnVpbGQgYnJpZGdlcw&hash=306d8479d096e51fae92181968d873b07c95c240&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40055/original/?type=jpeg",
@@ -301,24 +252,16 @@
       "senses": [
         {
           "definition": "to establish a friendship between people or parties",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After a heated debate, the politicians realized the importance of building bridges and finding common ground for the benefit of the nation."
-            },
-            {
-              "cf": "",
-              "x": "Alex is trying to build bridges with his colleague after their disagreement at the meeting."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[be|live] in each other's [pocket]",
+      "id": "a8dc5699-20fd-444e-9d96-890c5bf43a56",
+      "word": "to [be|live] in each other's [pocket]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgaW4gZWFjaCBvdGhlcidzIHBvY2tldA&hash=56d4dd726bbb9de809447ff06338d17d1dbdce4c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgaW4gZWFjaCBvdGhlcidzIHBvY2tldA&hash=56d4dd726bbb9de809447ff06338d17d1dbdce4c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40097/original/?type=jpeg",
@@ -326,24 +269,16 @@
       "senses": [
         {
           "definition": "to be very close to someone and spend most of one's time with them",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The CEO and the marketing director are in each other's pocket, resulting in biased and unbalanced strategies for the company."
-            },
-            {
-              "cf": "",
-              "x": "The friends have become inseparable, living in each other's pocket and rarely interacting with others."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "aff5344b-1527-464c-a17b-d4f6ccb9238d",
       "word": "(as|) thick as thieves",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXMgdGhpY2sgYXMgdGhpZXZlcw&hash=ec8bf3793cd20f36103633c0d64ecf63b0d1db6c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXMgdGhpY2sgYXMgdGhpZXZlcw&hash=ec8bf3793cd20f36103633c0d64ecf63b0d1db6c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40019/original/?type=jpeg",
@@ -377,10 +312,11 @@
       ]
     },
     {
-      "word": "[wipe] the slate clean",
+      "id": "9eb2c517-c3ef-41ff-a2eb-b21181ec49ba",
+      "word": "to [wipe] the slate clean",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2lwZSB0aGUgc2xhdGUgY2xlYW4&hash=8ed773a5eb890408a95333bdb0ce36c1155a108e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2lwZSB0aGUgc2xhdGUgY2xlYW4&hash=8ed773a5eb890408a95333bdb0ce36c1155a108e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40105/original/?type=jpeg",
@@ -406,10 +342,11 @@
       ]
     },
     {
-      "word": "[get|start] off on the right foot",
+      "id": "f0b5a6fe-d8e7-4729-977a-3ed8cd368c3b",
+      "word": "to [get|start] off on the right foot",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2V0IG9mZiBvbiB0aGUgcmlnaHQgZm9vdA&hash=66365576d6801c79f7fec2218317e7626e48138f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2V0IG9mZiBvbiB0aGUgcmlnaHQgZm9vdA&hash=66365576d6801c79f7fec2218317e7626e48138f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40555/original/?type=jpeg",
@@ -431,12 +368,13 @@
       ]
     },
     {
+      "id": "74a2f8a0-32c4-4f7b-b355-c76ec87ce25d",
       "word": "no hard feelings",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bm8gaGFyZCBmZWVsaW5ncw&hash=704d79de4873691a2ff3fe0da1fa7ae659630c69&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "noʊ hɑrd fi.lɪngz",
       "phonetic_am": "https://tts.langeek.co/read?text=bm8gaGFyZCBmZWVsaW5ncw&hash=704d79de4873691a2ff3fe0da1fa7ae659630c69&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nooo haard fi.lingz",
       "img": "https://cdn.langeek.co/photo/40659/original/?type=jpeg",
       "pronunciation": "nˈoʊ hˈɑːɹd fˈiːlɪŋz",
       "senses": [
@@ -452,18 +390,28 @@
       ]
     },
     {
+      "id": "409304f9-f9b0-4f2e-9403-81a21eeac62e",
       "word": "on nodding terms",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gbm9kZGluZyB0ZXJtcw&hash=a0198b8bd96aad7d5d024171c0d6e2b9ff65ab10&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n nɑ.dɪng tɜrmz",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gbm9kZGluZyB0ZXJtcw&hash=a0198b8bd96aad7d5d024171c0d6e2b9ff65ab10&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan naa.ding tērmz",
       "img": "https://cdn.langeek.co/photo/40101/original/?type=jpeg",
       "pronunciation": "ˌɑːn nˈɑːdɪŋ tˈɜːmz",
       "senses": [
         {
           "definition": "used when a relationship is limited to simple greetings",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Despite their faded friendship, Emily and Alex remained on nodding terms, acknowledging each other with a friendly nod whenever they crossed paths."
+            },
+            {
+              "cf": "",
+              "x": "John and Mary are on nodding terms."
+            }
+          ]
         }
       ]
     }

@@ -1,15 +1,17 @@
 {
+  "id": "6623a098-ff94-4204-90e5-1aaaa2a30ea6",
   "topic": "food_and_drinks",
   "title": "Wine",
   "lesson": "lesson_39",
   "word_list": [
     {
-      "word": "champagne",
+      "id": "0298caeb-dcae-4739-b7b5-fcfb68b6c7b6",
+      "word": "Champagne",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q2hhbXBhZ25l&hash=a47fd39500097e25ec652cf237d2c4541d21b9f3&lang=en&cache-only=0",
-      "phonetic_text": "ʃæmpeɪn",
+      "phonetic_text": "ʃæm.peɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=Q2hhbXBhZ25l&hash=a47fd39500097e25ec652cf237d2c4541d21b9f3&lang=en&cache-only=0",
-      "phonetic_am_text": "shāmpein",
+      "phonetic_am_text": "shām.pein",
       "img": "https://cdn.langeek.co/photo/18345/original/champagne?type=jpeg",
       "pronunciation": "ʃæmˈpeɪn",
       "senses": [
@@ -41,10 +43,11 @@
       ]
     },
     {
+      "id": "79b0e14d-0fc8-4be2-b5c2-58c4e8a8f9a0",
       "word": "Bordeaux",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Qm9yZGVhdXg&hash=ff34176da6d66540cc9652b4f71e66e80ebd726e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Qm9yZGVhdXg&hash=ff34176da6d66540cc9652b4f71e66e80ebd726e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -57,14 +60,15 @@
       ]
     },
     {
-      "word": "burgundy",
+      "id": "62a1c871-0507-4137-bbf9-7da7e34aee4c",
+      "word": "Burgundy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QnVyZ3VuZHk&hash=19507233e87e2232e66718f5550147d82af46072&lang=en&cache-only=0",
-      "phonetic_text": "bɜrgəndi",
+      "phonetic_text": "bɜr.gən.di",
       "phonetic_am": "https://tts.langeek.co/read?text=QnVyZ3VuZHk&hash=19507233e87e2232e66718f5550147d82af46072&lang=en&cache-only=0",
-      "phonetic_am_text": "bērgēndi",
+      "phonetic_am_text": "bēr.gēn.di",
       "img": "https://cdn.langeek.co/photo/18365/original/wine?type=jpeg",
-      "pronunciation": "ˈbɝɡəndi",
+      "pronunciation": "ˈbɝːɡəndi",
       "senses": [
         {
           "definition": "a white or red wine from Burgundy, France",
@@ -73,10 +77,11 @@
       ]
     },
     {
+      "id": "84f2a8d0-db07-48dd-8811-1fe7a4da6848",
       "word": "Riesling",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Umllc2xpbmc&hash=6506ba71a87ea718593f755c296442617176a639&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Umllc2xpbmc&hash=6506ba71a87ea718593f755c296442617176a639&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -89,12 +94,13 @@
       ]
     },
     {
+      "id": "77dd5011-513c-4539-abb4-f7d4e7ebb059",
       "word": "vermouth",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmVybW91dGg&hash=29b769bda90f57361ab2488912e196e78e95f554&lang=en&cache-only=0",
-      "phonetic_text": "vərmu:θ",
+      "phonetic_text": "vɜr.muθ",
       "phonetic_am": "https://tts.langeek.co/read?text=dmVybW91dGg&hash=29b769bda90f57361ab2488912e196e78e95f554&lang=en&cache-only=0",
-      "phonetic_am_text": "vērmooth",
+      "phonetic_am_text": "vēr.mooth",
       "img": "",
       "pronunciation": "vɝˈmuθ",
       "senses": [
@@ -105,10 +111,11 @@
       ]
     },
     {
+      "id": "c59b6df2-c215-49c7-b48a-2d91a5ff55be",
       "word": "Beaujolais",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QmVhdWpvbGFpcw&hash=7a221e197a02dec5250661fce8b913b72d439379&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QmVhdWpvbGFpcw&hash=7a221e197a02dec5250661fce8b913b72d439379&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -121,14 +128,15 @@
       ]
     },
     {
+      "id": "d7047545-7ed3-4c52-af80-e4df4d4d1e2d",
       "word": "port",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9ydA&hash=102c34a158f1e8ceb7a0010a81869b78639838b2&lang=en&cache-only=0",
-      "phonetic_text": "pɔ:rt",
+      "phonetic_text": "pɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9ydA&hash=102c34a158f1e8ceb7a0010a81869b78639838b2&lang=en&cache-only=0",
-      "phonetic_am_text": "paawrt",
+      "phonetic_am_text": "pawrt",
       "img": "https://cdn.langeek.co/photo/18365/original/wine?type=jpeg",
-      "pronunciation": "ˈpɔɹt",
+      "pronunciation": "pɔrt",
       "senses": [
         {
           "definition": "a type of dark-red wine with a sweet taste, originated in Portugal",
@@ -158,10 +166,11 @@
       ]
     },
     {
+      "id": "1838c21e-81dd-410a-a07d-f1e0010c9d49",
       "word": "Prosecco",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=UHJvc2VjY28&hash=4cf4d1b29c820e07f4b9ce1fff1df467677df1d0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=UHJvc2VjY28&hash=4cf4d1b29c820e07f4b9ce1fff1df467677df1d0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -174,12 +183,13 @@
       ]
     },
     {
+      "id": "2a53e8f4-f9e8-4606-9976-9905026d4645",
       "word": "sherry",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2hlcnJ5&hash=8b0cd8c0b6de80ab8da0b29b2dfa731ad63c2d5f&lang=en&cache-only=0",
-      "phonetic_text": "ʃɛri",
+      "phonetic_text": "ʃɛ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hlcnJ5&hash=8b0cd8c0b6de80ab8da0b29b2dfa731ad63c2d5f&lang=en&cache-only=0",
-      "phonetic_am_text": "sheri",
+      "phonetic_am_text": "she.ri",
       "img": "https://cdn.langeek.co/photo/50431/original/?type=jpeg",
       "pronunciation": "ˈʃɛɹi",
       "senses": [
@@ -190,12 +200,13 @@
       ]
     },
     {
+      "id": "17825270-df50-409b-88d0-bd7f2bfb1773",
       "word": "bubbly",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnViYmx5&hash=28301cc0f11dd6927a3f006f1ffd9ec11b56234a&lang=en&cache-only=0",
-      "phonetic_text": "bʌbli",
+      "phonetic_text": "bə.bə.li",
       "phonetic_am": "https://tts.langeek.co/read?text=YnViYmx5&hash=28301cc0f11dd6927a3f006f1ffd9ec11b56234a&lang=en&cache-only=0",
-      "phonetic_am_text": "babli",
+      "phonetic_am_text": "bē.bē.li",
       "img": "https://cdn.langeek.co/photo/18345/original/champagne?type=jpeg",
       "pronunciation": "ˈbəbəɫi/, /ˈbəbɫi",
       "senses": [
@@ -206,10 +217,11 @@
       ]
     },
     {
+      "id": "75395696-1192-4b1a-a86c-bc73f409e182",
       "word": "Chablis",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q2hhYmxpcw&hash=8503748345c40dfd60f6d6321f4d50b02229435f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Q2hhYmxpcw&hash=8503748345c40dfd60f6d6321f4d50b02229435f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -222,10 +234,11 @@
       ]
     },
     {
+      "id": "b0885a42-4458-47ac-bddb-f3c808f0206b",
       "word": "Chardonnay",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q2hhcmRvbm5heQ&hash=7c4c74c39db5532fdf07f6ab5236c20f8dbcd599&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Q2hhcmRvbm5heQ&hash=7c4c74c39db5532fdf07f6ab5236c20f8dbcd599&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/31849/original/?type=jpeg",
@@ -238,10 +251,11 @@
       ]
     },
     {
+      "id": "7db90349-d310-41fd-aba3-b38a97df0ed5",
       "word": "Chianti",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q2hpYW50aQ&hash=9ab35e27223a8b52a5da44f8ea3d4576feead23e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Q2hpYW50aQ&hash=9ab35e27223a8b52a5da44f8ea3d4576feead23e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -254,12 +268,13 @@
       ]
     },
     {
+      "id": "96b107b6-5174-44c4-acad-93309e82b964",
       "word": "claret",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xhcmV0&hash=a84427b466f907b37030ec1139aba2cbaee3b022&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "klæ.rət",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xhcmV0&hash=a84427b466f907b37030ec1139aba2cbaee3b022&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "klā.rēt",
       "img": "https://cdn.langeek.co/photo/18365/original/wine?type=jpeg",
       "pronunciation": "klˈæɹət",
       "senses": [
@@ -270,12 +285,13 @@
       ]
     },
     {
+      "id": "c7d6f91b-a734-4284-bbf9-ec8bf7cfd0c6",
       "word": "dessert wine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVzc2VydCB3aW5l&hash=2c2654195e2066728f0445323e8ecde2a11292dc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "drt waɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVzc2VydCB3aW5l&hash=2c2654195e2066728f0445323e8ecde2a11292dc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "drt vain",
       "img": "",
       "pronunciation": "dɪzˈɜːt wˈaɪn",
       "senses": [
@@ -286,12 +302,13 @@
       ]
     },
     {
+      "id": "d3c5a99d-17ca-4a2e-a05e-01c90d501cd9",
       "word": "fortified wine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9ydGlmaWVkIHdpbmU&hash=ab4d8f1590bf45168ff24ce84bc56cb75f3f2148&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɔr.tə.faɪd waɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9ydGlmaWVkIHdpbmU&hash=ab4d8f1590bf45168ff24ce84bc56cb75f3f2148&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fawr.tē.faid vain",
       "img": "",
       "pronunciation": "fˈɔːɹɾɪfˌaɪd wˈaɪn",
       "senses": [
@@ -302,10 +319,11 @@
       ]
     },
     {
+      "id": "1206e96f-b8fe-4de3-8448-e206495150ca",
       "word": "hock",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG9jaw&hash=2ba60306da9b2623be4422390caeb755c151f806&lang=en&cache-only=0",
-      "phonetic_text": "hɑ:k",
+      "phonetic_text": "hɑk",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9jaw&hash=2ba60306da9b2623be4422390caeb755c151f806&lang=en&cache-only=0",
       "phonetic_am_text": "haak",
       "img": "",
@@ -327,12 +345,13 @@
       ]
     },
     {
+      "id": "d3f59787-9b54-4d00-84c4-b3537fea0a84",
       "word": "house wine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG91c2Ugd2luZQ&hash=c56ffdff6aeff7853622934c296c87987ab4a7e6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "haʊs waɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=aG91c2Ugd2luZQ&hash=c56ffdff6aeff7853622934c296c87987ab4a7e6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "haoos vain",
       "img": "",
       "pronunciation": "haʊs waɪn",
       "senses": [
@@ -343,10 +362,11 @@
       ]
     },
     {
+      "id": "d045cc59-a527-4bb0-bc9f-146b7c9e8b6a",
       "word": "Madeira",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=TWFkZWlyYQ&hash=e598897b89d39b9097e936807aa7c4add333ac35&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=TWFkZWlyYQ&hash=e598897b89d39b9097e936807aa7c4add333ac35&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -359,12 +379,13 @@
       ]
     },
     {
+      "id": "f667a5b4-094c-495c-96ea-8cdcfe96721d",
       "word": "merlot",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWVybG90&hash=6fd732e13edc8a2e02c6543d32eeaf6d39a271d1&lang=en&cache-only=0",
-      "phonetic_text": "mɜrlət",
+      "phonetic_text": "mɜr.lət",
       "phonetic_am": "https://tts.langeek.co/read?text=bWVybG90&hash=6fd732e13edc8a2e02c6543d32eeaf6d39a271d1&lang=en&cache-only=0",
-      "phonetic_am_text": "mērlēt",
+      "phonetic_am_text": "mēr.lēt",
       "img": "",
       "pronunciation": "ˈmɝɫət",
       "senses": [
@@ -375,10 +396,11 @@
       ]
     },
     {
+      "id": "e25bb829-3c93-44af-9f72-f8a760c4b826",
       "word": "mulled wine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXVsbGVkIHdpbmU&hash=ba1a101c030a2f321b1b7347c54b674bbec97257&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVsbGVkIHdpbmU&hash=ba1a101c030a2f321b1b7347c54b674bbec97257&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -391,12 +413,13 @@
       ]
     },
     {
+      "id": "ad2c1946-1a92-4087-9686-7af00d6c1e5a",
       "word": "plonk",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGxvbms&hash=694c6024eba57c93148c46aa63eca21c30af4681&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "plɑ:nk",
       "phonetic_am": "https://tts.langeek.co/read?text=cGxvbms&hash=694c6024eba57c93148c46aa63eca21c30af4681&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "plaank",
       "img": "",
       "pronunciation": "plˈɑːŋk",
       "senses": [
@@ -407,12 +430,13 @@
       ]
     },
     {
+      "id": "d26653df-a579-4f37-b3bb-6600abc2c6b8",
       "word": "red wine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVkIHdpbmU&hash=b2793a2821fbf46d162ae9095f7c73b3bd701884&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɛd waɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVkIHdpbmU&hash=b2793a2821fbf46d162ae9095f7c73b3bd701884&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "red vain",
       "img": "https://cdn.langeek.co/photo/18365/original/wine?type=jpeg",
       "pronunciation": "ɹˈɛd wˈaɪn",
       "senses": [
@@ -423,12 +447,13 @@
       ]
     },
     {
+      "id": "71c87724-05fe-43e8-a5c5-723f716137a7",
       "word": "white wine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2hpdGUgd2luZQ&hash=742e73657f751619f2f1d070be0ccc6674be4f69&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "waɪt waɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hpdGUgd2luZQ&hash=742e73657f751619f2f1d070be0ccc6674be4f69&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vait vain",
       "img": "https://cdn.langeek.co/photo/31849/original/?type=jpeg",
       "pronunciation": "wˈaɪt wˈaɪn",
       "senses": [
@@ -439,12 +464,13 @@
       ]
     },
     {
+      "id": "cfec027e-cc8e-49d0-8adf-f8a0ad2dd573",
       "word": "rose",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9zZQ&hash=3132e209386b4805b68c8abfbb4a64eec5c33a0a&lang=en&cache-only=0",
       "phonetic_text": "roʊz",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9zZQ&hash=3132e209386b4805b68c8abfbb4a64eec5c33a0a&lang=en&cache-only=0",
-      "phonetic_am_text": "rowz",
+      "phonetic_am_text": "roooz",
       "img": "https://cdn.langeek.co/photo/31817/original/?type=jpeg",
       "pronunciation": "ɹəseɪ",
       "senses": [
@@ -455,12 +481,13 @@
       ]
     },
     {
+      "id": "0e637dbd-4a62-4228-b5a1-bddc617c529f",
       "word": "retsina",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmV0c2luYQ&hash=fdb165ace1217b08f019dd0ecdac0c6af47478dd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɪt.sɪ.nə",
       "phonetic_am": "https://tts.langeek.co/read?text=cmV0c2luYQ&hash=fdb165ace1217b08f019dd0ecdac0c6af47478dd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rit.si.nē",
       "img": "",
       "pronunciation": "ɹɪtsˈɪnə",
       "senses": [
@@ -471,12 +498,13 @@
       ]
     },
     {
+      "id": "45aa7800-d436-499a-9d50-d12c27361f36",
       "word": "vino",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmlubw&hash=a2dd06101b057a6a2a5a4f7261d87c22bcee0e30&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "vi:.noʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=dmlubw&hash=a2dd06101b057a6a2a5a4f7261d87c22bcee0e30&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vi.nooo",
       "img": "https://cdn.langeek.co/photo/18365/original/wine?type=jpeg",
       "pronunciation": "vˈiːnoʊ",
       "senses": [
@@ -508,12 +536,67 @@
       ]
     },
     {
+      "id": "0d7ffd0d-f6c2-4510-8f7e-3563bf3e75d0",
+      "word": "vintage",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=dmludGFnZQ&hash=4713ae7d26166e18407755f5656c0bc4decadd65&lang=en&cache-only=0",
+      "phonetic_text": "vɪn.tɪʤ",
+      "phonetic_am": "https://tts.langeek.co/read?text=dmludGFnZQ&hash=4713ae7d26166e18407755f5656c0bc4decadd65&lang=en&cache-only=0",
+      "phonetic_am_text": "vin.tij",
+      "img": "",
+      "pronunciation": "ˈvɪntɪdʒ",
+      "senses": [
+        {
+          "definition": "wine in general",
+          "examples": [
+            {
+              "cf": "",
+              "x": "They raised glasses of fine vintage to toast the evening’s success."
+            },
+            {
+              "cf": "",
+              "x": "The 1985 vintage from Bordeaux is considered exceptional among wine collectors."
+            },
+            {
+              "cf": "",
+              "x": "The cellar held bottles of the finest vintage, stored for special occasions."
+            },
+            {
+              "cf": "",
+              "x": "Sommeliers regard 2010 as a standout vintage for Napa Valley wines."
+            },
+            {
+              "cf": "",
+              "x": "The travelers enjoyed the local vintage, tasting the region’s best offerings."
+            },
+            {
+              "cf": "",
+              "x": "The winery's best vintage comes from Tuscany in 2007."
+            },
+            {
+              "cf": "",
+              "x": "He savored each sip of the rich vintage, appreciating its aged complexity."
+            },
+            {
+              "cf": "",
+              "x": "Many experts agree that the 2005 vintage is one of the finest in recent decades."
+            },
+            {
+              "cf": "",
+              "x": "She poured a glass of red vintage, its aroma filling the room."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f71bc652-fa16-4193-9522-53407e2cddd5",
       "word": "sparkling wine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BhcmtsaW5nIHdpbmU&hash=1d68bdbb5fc3399419acdcd0a9a55b18ad127797&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spɑr.kə.lɪng waɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BhcmtsaW5nIHdpbmU&hash=1d68bdbb5fc3399419acdcd0a9a55b18ad127797&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "spaar.kē.ling vain",
       "img": "",
       "pronunciation": "spˈɑːɹklɪŋ wˈaɪn",
       "senses": [
@@ -524,10 +607,11 @@
       ]
     },
     {
+      "id": "b72590ec-2526-44d8-8e2b-dedc22c78475",
       "word": "May wine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=TWF5IHdpbmU&hash=22f721c6899b5ff4243492b88eb4b633e4d62732&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=TWF5IHdpbmU&hash=22f721c6899b5ff4243492b88eb4b633e4d62732&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -540,12 +624,13 @@
       ]
     },
     {
+      "id": "a3faa75d-c4a6-41a0-9be9-fa93fa314fb4",
       "word": "jug wine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=anVnIHdpbmU&hash=580c35f6453595a11e394bfa64e60b95f95ecd79&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤəg waɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=anVnIHdpbmU&hash=580c35f6453595a11e394bfa64e60b95f95ecd79&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "jēg vain",
       "img": "",
       "pronunciation": "dʒˈʌɡ wˈaɪn",
       "senses": [
@@ -556,7 +641,8 @@
       ]
     },
     {
-      "word": "age",
+      "id": "70b15dde-2d80-4272-85f9-b7708f9b65a7",
+      "word": "to age",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWdl&hash=3c3f13ee277de34ea193abd2b57fc5827992354a&lang=en&cache-only=0",
       "phonetic_text": "eɪʤ",
@@ -593,14 +679,15 @@
       ]
     },
     {
-      "word": "breathe",
+      "id": "245cf92e-e5e1-4007-be13-2d8a4eaf1f7a",
+      "word": "to breathe",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJlYXRoZQ&hash=a5ff09cce9d723c530f4aeab3d6f580fda0712f8&lang=en&cache-only=0",
-      "phonetic_text": "bri:ð",
+      "phonetic_text": "brið",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJlYXRoZQ&hash=a5ff09cce9d723c530f4aeab3d6f580fda0712f8&lang=en&cache-only=0",
-      "phonetic_am_text": "breedh",
+      "phonetic_am_text": "bridh",
       "img": "",
-      "pronunciation": "ˈbɹið",
+      "pronunciation": "briːð",
       "senses": [
         {
           "definition": "(of wine) to interact with oxygen after it has been opened, usually by decanting or swirling in the glass",
@@ -626,12 +713,13 @@
       ]
     },
     {
-      "word": "decant",
+      "id": "0e65a2f8-0153-4595-87fb-7ab12557cb24",
+      "word": "to decant",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVjYW50&hash=f132e641987fc43780c7f118cba54d61b409783b&lang=en&cache-only=0",
-      "phonetic_text": "dəkænt",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVjYW50&hash=f132e641987fc43780c7f118cba54d61b409783b&lang=en&cache-only=0",
-      "phonetic_am_text": "dēkānt",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "dəˈkænt",
       "senses": [
@@ -642,12 +730,13 @@
       ]
     },
     {
+      "id": "363b51d4-dc43-46eb-9e3b-e803fb9050f5",
       "word": "lees",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGVlcw&hash=45ed4ef950bbf826e8e918350f4f930706aae850&lang=en&cache-only=0",
-      "phonetic_text": "li:z",
+      "phonetic_text": "liz",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVlcw&hash=45ed4ef950bbf826e8e918350f4f930706aae850&lang=en&cache-only=0",
-      "phonetic_am_text": "leez",
+      "phonetic_am_text": "liz",
       "img": "",
       "pronunciation": "ˈɫiz",
       "senses": [
@@ -658,12 +747,13 @@
       ]
     },
     {
-      "word": "distill",
+      "id": "5f0bccaf-2677-416a-b8e1-caf671848ef8",
+      "word": "to distill",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlzdGlsbA&hash=b9b4469834697d380ff9139ab5de8fe70ee5a15c&lang=en&cache-only=0",
-      "phonetic_text": "dɪstɪl",
+      "phonetic_text": "dɪs.tɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlzdGlsbA&hash=b9b4469834697d380ff9139ab5de8fe70ee5a15c&lang=en&cache-only=0",
-      "phonetic_am_text": "distil",
+      "phonetic_am_text": "dis.til",
       "img": "",
       "pronunciation": "dɪˈstɪɫ",
       "senses": [
@@ -687,12 +777,13 @@
       ]
     },
     {
+      "id": "d28b16a7-f457-4f3e-b48a-340ccd5225b8",
       "word": "viticulture",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dml0aWN1bHR1cmU&hash=fc8d510ddeb9a0e8195d8fd8425becb3758bae6f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "vɪ.tɪ.kʌl.ʧər",
       "phonetic_am": "https://tts.langeek.co/read?text=dml0aWN1bHR1cmU&hash=fc8d510ddeb9a0e8195d8fd8425becb3758bae6f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vi.ti.kal.chēr",
       "img": "",
       "pronunciation": "vˈɪɾɪkˌʌltʃɚ",
       "senses": [
@@ -703,12 +794,13 @@
       ]
     },
     {
+      "id": "3822cec4-7969-4582-9968-af9d017ba882",
       "word": "winery",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2luZXJ5&hash=12a1b48b66ac21196e8fa680c87a6cc7e22dcf1f&lang=en&cache-only=0",
-      "phonetic_text": "waɪnəri",
+      "phonetic_text": "waɪ.nɜ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luZXJ5&hash=12a1b48b66ac21196e8fa680c87a6cc7e22dcf1f&lang=en&cache-only=0",
-      "phonetic_am_text": "wainēri",
+      "phonetic_am_text": "vai.nē.ri",
       "img": "",
       "pronunciation": "ˈwaɪnɝi",
       "senses": [

@@ -1,77 +1,127 @@
 {
+  "id": "c2950b2c-58cd-45a1-b136-6d4d36894567",
   "topic": "food_ingredients",
   "title": "Pome Fruits",
   "lesson": "lesson_3",
   "word_list": [
     {
+      "id": "f935cbb0-5d26-47e8-86d4-9f404f75cb58",
       "word": "apple",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXBwbGU&hash=0dc781364e082247f121222a7a988201127bea75&lang=en&cache-only=0",
-      "phonetic_text": "æpəl",
+      "phonetic_text": "æ.pəl",
       "phonetic_am": "https://tts.langeek.co/read?text=YXBwbGU&hash=0dc781364e082247f121222a7a988201127bea75&lang=en&cache-only=0",
-      "phonetic_am_text": "āpēl",
+      "phonetic_am_text": "ā.pēl",
       "img": "https://cdn.langeek.co/photo/48867/original/apple?type=jpeg",
       "pronunciation": "ˈæpəl",
       "senses": [
         {
           "definition": "a fruit that is round and has thin yellow, red, or green skin",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Can you please pass me that shiny red apple?"
+            },
+            {
+              "cf": "",
+              "x": "I ate a delicious apple for a healthy snack."
+            },
+            {
+              "cf": "",
+              "x": "I placed the shiny red apple in the basket."
+            },
+            {
+              "cf": "",
+              "x": "My daughter was trying to pick a ripe apple from the tree."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "5cf5fe6b-788a-4b11-a5ac-6e2cb63b245c",
       "word": "eating apple",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWF0aW5nIGFwcGxl&hash=a43aa26e3530fd67b900ad970ce4b4578fbd86d8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "i.tɪng æ.pəl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWF0aW5nIGFwcGxl&hash=a43aa26e3530fd67b900ad970ce4b4578fbd86d8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "i.ting ā.pēl",
       "img": "https://cdn.langeek.co/photo/48867/original/apple?type=jpeg",
       "pronunciation": "ˈiːɾɪŋ ˈæpəl",
       "senses": [
         {
           "definition": "a variety of apple that is specifically cultivated for its crisp and juicy texture",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "During the summer, my sister and I love picking fresh eating apples from the tree."
+            },
+            {
+              "cf": "",
+              "x": "I enjoy biting into a crisp eating apple for a healthy and refreshing snack."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "9239acce-1d88-40d9-8bd4-bd448864c9d3",
       "word": "crab apple",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3JhYiBhcHBsZQ&hash=37d2fb01ef6b107ca4799caceb919090505576f3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kræb æ.pəl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3JhYiBhcHBsZQ&hash=37d2fb01ef6b107ca4799caceb919090505576f3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "krāb ā.pēl",
       "img": "https://cdn.langeek.co/photo/30120/original/?type=jpeg",
       "pronunciation": "kɹˈæb ˈæpəl",
       "senses": [
         {
           "definition": "a small bitter apple fruit that could be wild or cultivated",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Grandma's crab apple sauce is really delicious."
+            },
+            {
+              "cf": "",
+              "x": "I made a delicious crab apple jelly using fresh crab apples from my garden."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c350a007-2781-4c89-95a2-167859dc7be6",
       "word": "cooking apple",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29va2luZyBhcHBsZQ&hash=800da3a4e17405ed6773b1eb3f53da41bff06d9a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kʊ.kɪng æ.pəl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29va2luZyBhcHBsZQ&hash=800da3a4e17405ed6773b1eb3f53da41bff06d9a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "koo.king ā.pēl",
       "img": "https://cdn.langeek.co/photo/48867/original/apple?type=jpeg",
       "pronunciation": "kˈʊkɪŋ ˈæpəl",
       "senses": [
         {
           "definition": "a variety of apple that is commonly used for baking, cooking, or making sauces due to its tart flavor and firm texture",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I can't wait to learn the technique of caramelizing the cooking apples."
+            },
+            {
+              "cf": "",
+              "x": "I made a classic apple pie using cooking apples."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "46a01af6-af78-4a32-8c53-dcba2fc2c026",
       "word": "Red Delicious",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=UmVkIERlbGljaW91cw&hash=77b7c11096c32aec5a8beb0e57b88019b2e16f9c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=UmVkIERlbGljaW91cw&hash=77b7c11096c32aec5a8beb0e57b88019b2e16f9c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34785/original/?type=jpeg",
@@ -79,15 +129,25 @@
       "senses": [
         {
           "definition": "a type of apple known for its vibrant red color and sweet flavor",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I like to slice up a Red Delicious apple and dip it in peanut butter."
+            },
+            {
+              "cf": "",
+              "x": "Red Delicious apples are a popular choice for making homemade applesauce or apple butter."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c866e024-65e3-47f3-9c33-ed65f36892f8",
       "word": "Golden Delicious",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=R29sZGVuIERlbGljaW91cw&hash=6fbcb7b98311cd92ce2e5d3b38adff4a22f28e3a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=R29sZGVuIERlbGljaW91cw&hash=6fbcb7b98311cd92ce2e5d3b38adff4a22f28e3a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34779/original/?type=jpeg",
@@ -109,10 +169,11 @@
       ]
     },
     {
+      "id": "2d461e10-9b74-4028-ad29-0bae65b47bac",
       "word": "Honeycrisp",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=SG9uZXljcmlzcA&hash=963a613dba55b42e713191c92f69c7459601ddae&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=SG9uZXljcmlzcA&hash=963a613dba55b42e713191c92f69c7459601ddae&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/50445/original/?type=jpeg",
@@ -134,10 +195,11 @@
       ]
     },
     {
+      "id": "e9220872-9eed-4b2c-b334-4fb88f5b82f1",
       "word": "McIntosh",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=TWNJbnRvc2g&hash=df5ba363ea133416ea9493d131d784c18fb90405&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=TWNJbnRvc2g&hash=df5ba363ea133416ea9493d131d784c18fb90405&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34783/original/?type=jpeg",
@@ -159,10 +221,11 @@
       ]
     },
     {
+      "id": "8fe80953-1377-4d7e-9ac8-6fa7f65ba6e0",
       "word": "Granny Smith",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=R3Jhbm55IFNtaXRo&hash=7a6515f76a200641ba959bbd9cc1c2bc92fc39e0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=R3Jhbm55IFNtaXRo&hash=7a6515f76a200641ba959bbd9cc1c2bc92fc39e0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34781/original/?type=jpeg",
@@ -170,17 +233,27 @@
       "senses": [
         {
           "definition": "a tart and crisp green apple variety originating from Australia",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "A Granny Smith apple is a popular choice for juicing."
+            },
+            {
+              "cf": "",
+              "x": "I love the vibrant green color of Granny Smith apples."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "fuji",
+      "id": "05c923d1-dd42-40f8-914d-179f872d0e40",
+      "word": "Fuji",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RnVqaQ&hash=47c7e1e3892f236b1d06ea4ba7aef6338bd72b0d&lang=en&cache-only=0",
-      "phonetic_text": "fu:ʤi",
+      "phonetic_text": "fu.ʤi",
       "phonetic_am": "https://tts.langeek.co/read?text=RnVqaQ&hash=47c7e1e3892f236b1d06ea4ba7aef6338bd72b0d&lang=en&cache-only=0",
-      "phonetic_am_text": "fooji",
+      "phonetic_am_text": "foo.ji",
       "img": "https://cdn.langeek.co/photo/34777/original/?type=jpeg",
       "pronunciation": "ˈfudʒi",
       "senses": [
@@ -191,12 +264,13 @@
       ]
     },
     {
-      "word": "empire",
+      "id": "37310ce5-5ed9-4938-93d9-6ab769aefa81",
+      "word": "Empire",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RW1waXJl&hash=2ee32e65eb7d3d493b2d6bca5f0066829aa423e3&lang=en&cache-only=0",
-      "phonetic_text": "ɛmpaɪər",
+      "phonetic_text": "ɛm.paɪɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=RW1waXJl&hash=2ee32e65eb7d3d493b2d6bca5f0066829aa423e3&lang=en&cache-only=0",
-      "phonetic_am_text": "empaiēr",
+      "phonetic_am_text": "em.paiēr",
       "img": "https://cdn.langeek.co/photo/34738/original/?type=jpeg",
       "pronunciation": "ˈɛmpaɪɝ",
       "senses": [
@@ -207,10 +281,11 @@
       ]
     },
     {
+      "id": "64f35df7-ab8f-468b-be14-300921b5ab66",
       "word": "Cripps Pink",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q3JpcHBzIFBpbms&hash=c9e1455bd039fd64b92d94d2d02ccff49fb3c4a1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Q3JpcHBzIFBpbms&hash=c9e1455bd039fd64b92d94d2d02ccff49fb3c4a1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34688/original/?type=jpeg",
@@ -223,6 +298,7 @@
       ]
     },
     {
+      "id": "b79ab855-b3b5-48ca-8ab6-3a57fc21fa31",
       "word": "pear",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVhcg&hash=66a01ebb51f910a3886f699e5d5b4432f8c43db3&lang=en&cache-only=0",
@@ -230,35 +306,67 @@
       "phonetic_am": "https://tts.langeek.co/read?text=cGVhcg&hash=66a01ebb51f910a3886f699e5d5b4432f8c43db3&lang=en&cache-only=0",
       "phonetic_am_text": "per",
       "img": "https://cdn.langeek.co/photo/35918/original/pear?type=jpeg",
-      "pronunciation": "ˈpɛɹ",
+      "pronunciation": "pɛr",
       "senses": [
         {
           "definition": "a sweet yellow or green bell-shaped fruit with a lot of juice",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "A juicy pear is a refreshing treat on a hot summer day."
+            },
+            {
+              "cf": "",
+              "x": "He picked a pear from the tree and bit into it."
+            },
+            {
+              "cf": "",
+              "x": "I like to bake a pear tart with a buttery crust and a sweet pear filling."
+            },
+            {
+              "cf": "",
+              "x": "Pears are a good source of dietary fiber and vitamin C."
+            },
+            {
+              "cf": "",
+              "x": "The recipe calls for three ripe pears, peeled and sliced."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e73a62e0-b0ad-4ccd-bee7-bf245241837f",
       "word": "prickly pear",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJpY2tseSBwZWFy&hash=17268ecd4acae5827f311404e017e56b5d3e9ec6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "prɪk.li pɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJpY2tseSBwZWFy&hash=17268ecd4acae5827f311404e017e56b5d3e9ec6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "prik.li per",
       "img": "https://cdn.langeek.co/photo/26914/original/?type=jpeg",
       "pronunciation": "pɹˈɪkli pˈɛɹ",
       "senses": [
         {
           "definition": "the edible fruit of cactus plant that is yellow and pink and is covered with prickles",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I tried a prickly pear for the first time and was pleasantly surprised by its sweet and tangy flavor."
+            },
+            {
+              "cf": "",
+              "x": "Prickly pears are rich in vitamins and antioxidants."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "2cb33740-55fa-4990-a388-f1342bb2313c",
       "word": "Asian pear",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QXNpYW4gcGVhcg&hash=21b5523b447ac314c8d30b6febf3b02b32e10700&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QXNpYW4gcGVhcg&hash=21b5523b447ac314c8d30b6febf3b02b32e10700&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34678/original/?type=jpeg",
@@ -271,12 +379,13 @@
       ]
     },
     {
+      "id": "647722c9-ebf3-4be8-bd94-302501783452",
       "word": "almond-leaved pear",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWxtb25kLWxlYXZlZCBwZWFy&hash=37d5e4c23e3265d62958621ac5e584760bd056e4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:l.mənd-li:vd pɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxtb25kLWxlYXZlZCBwZWFy&hash=37d5e4c23e3265d62958621ac5e584760bd056e4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aal.mēnd-livd per",
       "img": "https://cdn.langeek.co/photo/34676/original/?type=jpeg",
       "pronunciation": "ˈɑːlməndlˈiːvd pɛɹ",
       "senses": [
@@ -296,10 +405,11 @@
       ]
     },
     {
+      "id": "21acc5ad-9af3-444e-97d4-62f4b0a727db",
       "word": "cerrado pear",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2VycmFkbyBwZWFy&hash=a08d008be5fa3126e16bcb9aa90889005f115ca3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2VycmFkbyBwZWFy&hash=a08d008be5fa3126e16bcb9aa90889005f115ca3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34682/original/?type=jpeg",
@@ -321,12 +431,13 @@
       ]
     },
     {
+      "id": "ab003922-a417-4538-94c5-f76cd98ce6bd",
       "word": "seckel pear",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Vja2VsIHBlYXI&hash=6082227176836f5dfb7e23071eaf5ab325fab8d9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛ.kəl pɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Vja2VsIHBlYXI&hash=6082227176836f5dfb7e23071eaf5ab325fab8d9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "se.kēl per",
       "img": "https://cdn.langeek.co/photo/34787/original/?type=jpeg",
       "pronunciation": "sˈɛkəl pˈɛɹ",
       "senses": [
@@ -346,10 +457,11 @@
       ]
     },
     {
+      "id": "f79f04a1-bce7-48f2-9035-3590585cea2a",
       "word": "d'Anjou",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZCdBbmpvdQ&hash=884b6a16e67bb7ab2fbc57e4085143be97d7efe5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZCdBbmpvdQ&hash=884b6a16e67bb7ab2fbc57e4085143be97d7efe5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34690/original/?type=jpeg",
@@ -371,10 +483,11 @@
       ]
     },
     {
+      "id": "dd90b277-2d13-4616-9157-e4f56985e117",
       "word": "Concorde pear",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q29uY29yZGUgcGVhcg&hash=f96de462de16e740b573594b7fbf1097ee3f6ba9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Q29uY29yZGUgcGVhcg&hash=f96de462de16e740b573594b7fbf1097ee3f6ba9&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34686/original/?type=jpeg",
@@ -392,10 +505,11 @@
       ]
     },
     {
+      "id": "330bf34e-0448-498c-b618-8c35cdc3e7f4",
       "word": "Comice",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q29taWNl&hash=b12940ca5ed3016adc9d1d868b34768d0a1d5bbb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Q29taWNl&hash=b12940ca5ed3016adc9d1d868b34768d0a1d5bbb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34684/original/?type=jpeg",
@@ -417,10 +531,11 @@
       ]
     },
     {
+      "id": "505c645b-88ad-4013-b062-1f30d525bb13",
       "word": "Bosc",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Qm9zYw&hash=cfe85bb1b058a84d0c10c545e323440307c8920f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Qm9zYw&hash=cfe85bb1b058a84d0c10c545e323440307c8920f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34680/original/?type=jpeg",
@@ -438,14 +553,15 @@
       ]
     },
     {
+      "id": "c08d906c-e3e6-4b43-9295-a21fcda52851",
       "word": "quince",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cXVpbmNl&hash=b2d493ee4d28133f17715aa60988ccd86e8686b3&lang=en&cache-only=0",
       "phonetic_text": "kwɪns",
       "phonetic_am": "https://tts.langeek.co/read?text=cXVpbmNl&hash=b2d493ee4d28133f17715aa60988ccd86e8686b3&lang=en&cache-only=0",
-      "phonetic_am_text": "kwins",
+      "phonetic_am_text": "kvins",
       "img": "https://cdn.langeek.co/photo/26916/original/?type=jpeg",
-      "pronunciation": "ˈkwɪns",
+      "pronunciation": "kwɪns",
       "senses": [
         {
           "definition": "a yellow and hard fruit that looks like a pear and has a sweet smell, particularly used for making jam or jelly",
@@ -467,12 +583,13 @@
       ]
     },
     {
+      "id": "628e323f-63df-4565-b3e1-a27282af697f",
       "word": "anchovy pear",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW5jaG92eSBwZWFy&hash=6c16eec30a8e61c46b241acb41cc08794abdb5fd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æn.ʧoʊ.vi pɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=YW5jaG92eSBwZWFy&hash=6c16eec30a8e61c46b241acb41cc08794abdb5fd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ān.chooo.vi per",
       "img": "",
       "pronunciation": "ˈæntʃɑːvi pˈɛɹ",
       "senses": [
@@ -492,12 +609,13 @@
       ]
     },
     {
+      "id": "441375e4-52dc-406d-9e2d-a10b55cecd5d",
       "word": "medlar",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWVkbGFy&hash=24d138f567017bdd6f3bc0f7ed26519a612dfe8b&lang=en&cache-only=0",
-      "phonetic_text": "mɛdlər",
+      "phonetic_text": "mɛd.lɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bWVkbGFy&hash=24d138f567017bdd6f3bc0f7ed26519a612dfe8b&lang=en&cache-only=0",
-      "phonetic_am_text": "medlēr",
+      "phonetic_am_text": "med.lēr",
       "img": "",
       "pronunciation": "ˈmɛdɫɝ",
       "senses": [

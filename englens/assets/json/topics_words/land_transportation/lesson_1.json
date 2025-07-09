@@ -1,15 +1,17 @@
 {
+  "id": "833a6c72-45dc-4ea8-88de-6fa6949b7f9b",
   "topic": "land_transportation",
   "title": "Vehicle Body Types",
   "lesson": "lesson_1",
   "word_list": [
     {
+      "id": "1e04c3c6-b7d3-45dd-bb3f-2d385d4c4cc4",
       "word": "convertible",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29udmVydGlibGU&hash=87f0471bdf37825492b2954f37268381ba933124&lang=en&cache-only=0",
-      "phonetic_text": "kənvɜrtəbəl",
+      "phonetic_text": "kən.vɜr.tə.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29udmVydGlibGU&hash=87f0471bdf37825492b2954f37268381ba933124&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnvērtēbēl",
+      "phonetic_am_text": "kēn.vēr.tē.bēl",
       "img": "https://cdn.langeek.co/photo/33422/original/?type=jpeg",
       "pronunciation": "kənˈvɝtəbəɫ",
       "senses": [
@@ -25,28 +27,51 @@
       ]
     },
     {
+      "id": "beb4a5ba-4406-40c6-a8f1-3fed5b152190",
       "word": "cabriolet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FicmlvbGV0&hash=d356975eb9f6f1004059be6a2a8d04983a06705f&lang=en&cache-only=0",
-      "phonetic_text": "kæbrioʊleɪ",
+      "phonetic_text": "kæb.rioʊ.leɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FicmlvbGV0&hash=d356975eb9f6f1004059be6a2a8d04983a06705f&lang=en&cache-only=0",
-      "phonetic_am_text": "kābriowlei",
+      "phonetic_am_text": "kāb.riooo.lei",
       "img": "",
       "pronunciation": "ˌkæbɹioʊˈɫeɪ/, /ˌkæbɹioʊˈɫɛt",
       "senses": [
         {
           "definition": "a car with a roof that can be folded or removed",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "They enjoyed driving along the coast in their sleek cabriolet."
+            },
+            {
+              "cf": "",
+              "x": "The cabriolet's convertible top allowed them to feel the breeze on warm summer days."
+            },
+            {
+              "cf": "",
+              "x": "He bought a classic cabriolet and restored it to its original beauty."
+            },
+            {
+              "cf": "",
+              "x": "The luxury cabriolet featured leather seats and advanced technology."
+            },
+            {
+              "cf": "",
+              "x": "She rented a sporty cabriolet for her weekend getaway to the mountains."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c11dc38c-2c09-4b74-95f0-166381ef41f9",
       "word": "coupe",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291cGU&hash=969aaddfb20205c64223a0daebf0ac8c6eaeb85b&lang=en&cache-only=0",
-      "phonetic_text": "ku:p",
+      "phonetic_text": "ku:.peɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291cGU&hash=969aaddfb20205c64223a0daebf0ac8c6eaeb85b&lang=en&cache-only=0",
-      "phonetic_am_text": "koop",
+      "phonetic_am_text": "koo.pei",
       "img": "https://cdn.langeek.co/photo/33416/original/?type=jpeg",
       "pronunciation": "kuːpˈeɪ",
       "senses": [
@@ -57,60 +82,127 @@
       ]
     },
     {
+      "id": "6e2f2172-3b88-424e-9798-226e2b8d5d9b",
       "word": "drophead coupe",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJvcGhlYWQgY291cGU&hash=fed0f9fea5f3f36e95f46a2683b815aad9a975f3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "drɑp.hɛd ku:.peɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJvcGhlYWQgY291cGU&hash=fed0f9fea5f3f36e95f46a2683b815aad9a975f3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "draap.hed koo.pei",
       "img": "",
       "pronunciation": "dɹˈɑːfɛd kˈuːp",
       "senses": [
         {
           "definition": "a luxury two-door car characterized by a retractable soft top roof",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "They cruised along the coast in their elegant drophead coupe."
+            },
+            {
+              "cf": "",
+              "x": "The drophead coupe's roof folded down effortlessly with the push of a button."
+            },
+            {
+              "cf": "",
+              "x": "He admired the classic lines of the drophead coupe parked in front of the hotel."
+            },
+            {
+              "cf": "",
+              "x": "She preferred the drophead coupe for its combination of sportiness and open-air driving."
+            },
+            {
+              "cf": "",
+              "x": "The drophead coupe's leather interior exuded luxury and comfort."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "67b38b6a-d149-48ea-9e51-dacf70a96551",
       "word": "fastback",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFzdGJhY2s&hash=7084afb0ca19ef6d01c91770bf83d70ce691f72a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fæst.bæk",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFzdGJhY2s&hash=7084afb0ca19ef6d01c91770bf83d70ce691f72a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fāst.bāk",
       "img": "",
       "pronunciation": "fˈæstbæk",
       "senses": [
         {
           "definition": "a car body style featuring a sloping rear roofline that smoothly transitions into the trunk lid",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The new sports car model boasted a sleek fastback design."
+            },
+            {
+              "cf": "",
+              "x": "She admired the classic Mustang's iconic fastback silhouette."
+            },
+            {
+              "cf": "",
+              "x": "The aerodynamic fastback improves fuel efficiency compared to traditional sedan designs."
+            },
+            {
+              "cf": "",
+              "x": "He preferred the fastback style for its unique blend of sportiness and practicality."
+            },
+            {
+              "cf": "",
+              "x": "The automotive designer incorporated a modern fastback profile into the concept car."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "6fd27cdb-370f-4afb-94ff-33c485a0132a",
       "word": "flower car",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zmxvd2VyIGNhcg&hash=5490c56e5ae812d4aa2b7e3394bbfee8dd745495&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "flaʊər kɑ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmxvd2VyIGNhcg&hash=5490c56e5ae812d4aa2b7e3394bbfee8dd745495&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "flaooēr kaar",
       "img": "",
       "pronunciation": "flˈaʊɚ kˈɑːɹ",
       "senses": [
         {
           "definition": "a vehicle designed with an open rear platform for displaying floral arrangements",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The flower car led the funeral procession with solemn elegance."
+            },
+            {
+              "cf": "",
+              "x": "They hired a flower car to deliver bouquets for the wedding ceremony."
+            },
+            {
+              "cf": "",
+              "x": "The local florist purchased a new flower car to expand their delivery services."
+            },
+            {
+              "cf": "",
+              "x": "The funeral director arranged for a flower car adorned with white lilies."
+            },
+            {
+              "cf": "",
+              "x": "The vintage flower car was a beautiful addition to the parade."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "99c4301b-d137-4970-8148-b66b1006c351",
       "word": "hatchback",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGF0Y2hiYWNr&hash=7ec13a6ea125beef59351f712e3c1a4400502101&lang=en&cache-only=0",
-      "phonetic_text": "hæʧbæk",
+      "phonetic_text": "hæʧ.bæk",
       "phonetic_am": "https://tts.langeek.co/read?text=aGF0Y2hiYWNr&hash=7ec13a6ea125beef59351f712e3c1a4400502101&lang=en&cache-only=0",
-      "phonetic_am_text": "hāchbāk",
+      "phonetic_am_text": "hāch.bāk",
       "img": "https://cdn.langeek.co/photo/44982/original/?type=jpeg",
       "pronunciation": "ˈhætʃˌbæk",
       "senses": [
@@ -121,28 +213,51 @@
       ]
     },
     {
+      "id": "d5cf7f6c-b252-432a-81e1-c38dba105ba9",
       "word": "notchback",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bm90Y2hiYWNr&hash=c2bb47b1d866c0259e8058932c176ce5f16b6c61&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nɑʧ.bæk",
       "phonetic_am": "https://tts.langeek.co/read?text=bm90Y2hiYWNr&hash=c2bb47b1d866c0259e8058932c176ce5f16b6c61&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "naach.bāk",
       "img": "",
       "pronunciation": "nˈɑːtʃbæk",
       "senses": [
         {
           "definition": "a car with a rear section that has a sharp angle, creating a clear separation between the trunk and the rest of the vehicle",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The notchback design gives the car a sleek and aerodynamic appearance."
+            },
+            {
+              "cf": "",
+              "x": "He preferred the notchback model over the hatchback for its classic styling."
+            },
+            {
+              "cf": "",
+              "x": "This sports car is available in both coupe and notchback variants."
+            },
+            {
+              "cf": "",
+              "x": "The notchback silhouette of the vehicle distinguishes it from other models on the road."
+            },
+            {
+              "cf": "",
+              "x": "The notchback's design enhances the car's stability at high speeds."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "05d1be1d-68ce-44c6-9d84-2528b80bed6b",
       "word": "liftback",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGlmdGJhY2s&hash=8a0bfb954a69bca7a57ee59ea502e2731b9737f6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɪft.bæk",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlmdGJhY2s&hash=8a0bfb954a69bca7a57ee59ea502e2731b9737f6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lift.bāk",
       "img": "",
       "pronunciation": "lˈɪftbæk",
       "senses": [
@@ -153,138 +268,311 @@
       ]
     },
     {
+      "id": "d0e535fb-bfb7-4776-957f-383827183cec",
       "word": "limousine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGltb3VzaW5l&hash=503b5700e095f45b304afcc21b885a0d9de7a1e0&lang=en&cache-only=0",
-      "phonetic_text": "lɪməzin",
+      "phonetic_text": "lɪ.mə.zin",
       "phonetic_am": "https://tts.langeek.co/read?text=bGltb3VzaW5l&hash=503b5700e095f45b304afcc21b885a0d9de7a1e0&lang=en&cache-only=0",
-      "phonetic_am_text": "limēzin",
+      "phonetic_am_text": "li.mē.zin",
       "img": "https://cdn.langeek.co/photo/18557/original/limousine?type=jpeg",
       "pronunciation": "ˈɫɪməˌzin",
       "senses": [
         {
           "definition": "a large, luxurious, and expensive car with a partition between the passengers and the driver",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Business executives prefer traveling in limousines for their comfort and privacy during meetings on the go."
+            },
+            {
+              "cf": "",
+              "x": "The limousine service offered airport transfers, ensuring VIP clients arrived at their destinations in style."
+            },
+            {
+              "cf": "",
+              "x": "Prom night was unforgettable as they rode in a sleek black limousine with their friends."
+            },
+            {
+              "cf": "",
+              "x": "Celebrities often hire limousines for red carpet events, arriving in elegance and sophistication."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "992bdc3e-2fbb-44fc-8edc-082b0da1af56",
       "word": "stretch limousine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RyZXRjaCBsaW1vdXNpbmU&hash=cee7c2336c6cc5c2de162606111008e66b481740&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "strɛʧ lɪ.mə.zin",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyZXRjaCBsaW1vdXNpbmU&hash=cee7c2336c6cc5c2de162606111008e66b481740&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "strech li.mē.zin",
       "img": "",
       "pronunciation": "stɹˈɛtʃ lˈɪməzˌiːn",
       "senses": [
         {
           "definition": "a large luxury vehicle with an extended passenger compartment",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The celebrities arrived at the awards ceremony in a sleek stretch limousine."
+            },
+            {
+              "cf": "",
+              "x": "The wedding party hired a stretch limousine for transportation to the reception."
+            },
+            {
+              "cf": "",
+              "x": "The company executive traveled to the airport in a black stretch limousine."
+            },
+            {
+              "cf": "",
+              "x": "Prom-goers rented a stretch limousine to make a grand entrance at the dance."
+            },
+            {
+              "cf": "",
+              "x": "The presidential inauguration featured a parade with several stretch limousines carrying dignitaries."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "50e45da7-d07c-4dcb-b7f8-d13922fa1721",
       "word": "roadster",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9hZHN0ZXI&hash=0779b1446be22eed0ca53e0a0b00864b2c7ad99d&lang=en&cache-only=0",
-      "phonetic_text": "roʊdstər",
+      "phonetic_text": "roʊds.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9hZHN0ZXI&hash=0779b1446be22eed0ca53e0a0b00864b2c7ad99d&lang=en&cache-only=0",
-      "phonetic_am_text": "rowdstēr",
+      "phonetic_am_text": "rooods.tēr",
       "img": "",
       "pronunciation": "ˈɹoʊdstɝ",
       "senses": [
         {
           "definition": "a small, sporty car with an open top, usually seating two people",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The new roadster glided down the highway with its top down."
+            },
+            {
+              "cf": "",
+              "x": "She always dreamed of owning a sleek, red roadster."
+            },
+            {
+              "cf": "",
+              "x": "During the summer, they love driving their roadster along the coast."
+            },
+            {
+              "cf": "",
+              "x": "The vintage roadster at the car show drew everyone's attention."
+            },
+            {
+              "cf": "",
+              "x": "The roadster's lightweight design makes it perfect for quick accelerations."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "51b4cedc-827d-4dfe-96d7-a3a3b470e33f",
       "word": "sedan",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VkYW4&hash=aeaaa10ede584eb45734be8b1eb04e79f1bc7ef8&lang=en&cache-only=0",
-      "phonetic_text": "sədæn",
+      "phonetic_text": "sə.dæn",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VkYW4&hash=aeaaa10ede584eb45734be8b1eb04e79f1bc7ef8&lang=en&cache-only=0",
-      "phonetic_am_text": "sēdān",
+      "phonetic_am_text": "sē.dān",
       "img": "https://cdn.langeek.co/photo/51296/original/?type=jpeg",
       "pronunciation": "səˈdæn",
       "senses": [
         {
-          "definition": "a car having a closed body with two or four doors and a separated boot in the back",
-          "examples": []
+          "definition": "a car having a closed body with two or four doors and a separated trunk in the back",
+          "examples": [
+            {
+              "cf": "",
+              "x": "He purchased a sedan for his daily commute to work."
+            },
+            {
+              "cf": "",
+              "x": "The sedan had plenty of legroom for passengers in the back seat."
+            },
+            {
+              "cf": "",
+              "x": "The sedan's boot is spacious enough to fit several suitcases."
+            },
+            {
+              "cf": "",
+              "x": "He opened the sedan's boot to load the groceries."
+            },
+            {
+              "cf": "",
+              "x": "The dealership offers sedans in a variety of colors and models."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "287bfdf7-f4aa-412b-8fd3-edaa8067d800",
       "word": "brougham",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJvdWdoYW0&hash=1aa8041d42fe9894c234748a080b2d256fe8cbd5&lang=en&cache-only=0",
-      "phonetic_text": "bru:gəm",
+      "phonetic_text": "bru.gəm",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJvdWdoYW0&hash=1aa8041d42fe9894c234748a080b2d256fe8cbd5&lang=en&cache-only=0",
-      "phonetic_am_text": "broogēm",
+      "phonetic_am_text": "broo.gēm",
       "img": "",
       "pronunciation": "ˈbɹuɡəm",
       "senses": [
         {
           "definition": "a type of luxurious, enclosed car often used for formal occasions, originally designed in the 19th century",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The elegant brougham arrived at the wedding venue, drawing many admiring glances."
+            },
+            {
+              "cf": "",
+              "x": "They chose a vintage brougham for their anniversary celebration."
+            },
+            {
+              "cf": "",
+              "x": "The brougham's plush interior made for a very comfortable ride."
+            },
+            {
+              "cf": "",
+              "x": "At the car show, the restored brougham was a highlight for many enthusiasts."
+            },
+            {
+              "cf": "",
+              "x": "For the gala, they rented a brougham to make a grand entrance."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "25acf468-65f8-49f5-8735-6fd51c602f5e",
       "word": "station wagon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RhdGlvbiB3YWdvbg&hash=6ab4520dfcefede2e06269efddce00857c00731e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "steɪ.ʃən wæ.gən",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RhdGlvbiB3YWdvbg&hash=6ab4520dfcefede2e06269efddce00857c00731e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "stei.shēn vā.gēn",
       "img": "https://cdn.langeek.co/photo/33483/original/?type=jpeg",
       "pronunciation": "stˈeɪʃən wˈæɡən",
       "senses": [
         {
           "definition": "a longer-bodied vehicle with a rear cargo area that is part of the passenger compartment, often with a rear hatchback or tailgate for cargo access",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "They loaded the station wagon with camping gear for the trip."
+            },
+            {
+              "cf": "",
+              "x": "The station wagon had plenty of room for the whole family."
+            },
+            {
+              "cf": "",
+              "x": "He drove a classic station wagon that reminded him of his childhood."
+            },
+            {
+              "cf": "",
+              "x": "The station wagon's spacious trunk was perfect for long road trips."
+            },
+            {
+              "cf": "",
+              "x": "They rented a station wagon for their cross-country drive."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7368c25a-738e-475d-81ab-5bec0840e709",
       "word": "shooting brake",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2hvb3RpbmcgYnJha2U&hash=47d58477ae30665ccb0a2d2d0582f74197bc3a3e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʃu.tɪng breɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hvb3RpbmcgYnJha2U&hash=47d58477ae30665ccb0a2d2d0582f74197bc3a3e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "shoo.ting breik",
       "img": "",
       "pronunciation": "ʃˈuːɾɪŋ bɹˈeɪk",
       "senses": [
         {
           "definition": "a type of car that combines the features of a sports car and a station wagon",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The new shooting brake model offers both performance and practicality."
+            },
+            {
+              "cf": "",
+              "x": "The shooting brake's sporty look turned heads wherever it went."
+            },
+            {
+              "cf": "",
+              "x": "The shooting brake seamlessly blends style and utility."
+            },
+            {
+              "cf": "",
+              "x": "The shooting brake's sleek lines and powerful engine make it a unique choice."
+            },
+            {
+              "cf": "",
+              "x": "They chose a shooting brake for their road trip to have extra room for luggage."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7a7dfd46-7ead-4e7e-a008-173da653a0da",
       "word": "estate car",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXN0YXRlIGNhcg&hash=139758ed6c52982cc457acf840cc21da3a660d1f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪs.teɪt kɑ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXN0YXRlIGNhcg&hash=139758ed6c52982cc457acf840cc21da3a660d1f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "is.teit kaar",
       "img": "https://cdn.langeek.co/photo/33483/original/?type=jpeg",
       "pronunciation": "ɪstˈeɪt kˈɑːɹ",
       "senses": [
         {
           "definition": "a type of automobile with a spacious interior designed for carrying passengers and cargo",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The family rented an estate car for their road trip, so they had plenty of room for luggage and snacks."
+            },
+            {
+              "cf": "",
+              "x": "The estate car’s large trunk made it easy to carry all the camping equipment for the weekend getaway."
+            },
+            {
+              "cf": "",
+              "x": "We decided to buy an estate car because we need extra space for our kids and their sports gear."
+            },
+            {
+              "cf": "",
+              "x": "If you are planning to carry a lot of bags, an estate car would be more practical than a smaller vehicle."
+            },
+            {
+              "cf": "",
+              "x": "He loaded up the estate car with boxes before heading to the new house."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "888f503d-2bd7-4c73-906e-34d5345f378a",
       "word": "targa top",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFyZ2EgdG9w&hash=0f1f92b3ada0f3069ddbeda3965d59fe334ec7df&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFyZ2EgdG9w&hash=0f1f92b3ada0f3069ddbeda3965d59fe334ec7df&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -318,79 +606,104 @@
       ]
     },
     {
+      "id": "5cd9ba62-8703-4bff-b28a-e7ae222aa0f8",
       "word": "coupe utility",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291cGUgdXRpbGl0eQ&hash=e1156950cf7a82207ddd27580cd14eafb7c5b900&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ku:.peɪ ju.tɪ.lə.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291cGUgdXRpbGl0eQ&hash=e1156950cf7a82207ddd27580cd14eafb7c5b900&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "koo.pei yoo.ti.lē.ti",
       "img": "",
       "pronunciation": "kˈuːp juːtˈɪlɪɾi",
       "senses": [
         {
           "definition": "a vehicle with a passenger cabin like a coupe and a cargo bed like a pickup truck",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "id": "89aeaf65-bc87-40ad-8d9a-2b0efa3f32a9",
+      "word": "barchetta",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=YmFyY2hldHRh&hash=c3c7837d19fa93bf25ab6692ca80de46c6d5bcf4&lang=en&cache-only=0",
+      "phonetic_text": "bɑ:r.ʧɛ.tə",
+      "phonetic_am": "https://tts.langeek.co/read?text=YmFyY2hldHRh&hash=c3c7837d19fa93bf25ab6692ca80de46c6d5bcf4&lang=en&cache-only=0",
+      "phonetic_am_text": "baar.che.tē",
+      "img": "",
+      "pronunciation": "bɑːɹtʃˈɛɾə",
+      "senses": [
+        {
+          "definition": "a small, two-seater sports car without a roof or with a convertible top, typically with a focus on lightweight design and performance",
           "examples": [
             {
               "cf": "",
-              "x": "He admired the sleek lines of the coupe utility as it parked beside him."
+              "x": "The classic Italian barchetta was admired for its sleek lines and agility on the race track."
             },
             {
               "cf": "",
-              "x": "The coupe utility's cargo bed made it easy to transport his tools to the job site."
+              "x": "He dreamt of owning a vintage barchetta like the ones he saw in old movies."
             },
             {
               "cf": "",
-              "x": "She chose the coupe utility for its sporty appearance and practicality."
+              "x": "The barchetta's open-air driving experience appealed to enthusiasts of minimalist design."
             },
             {
               "cf": "",
-              "x": "The coupe utility's dual nature appealed to those needing both a stylish car and utility."
+              "x": "The company unveiled a modern barchetta model at the international auto show."
             },
             {
               "cf": "",
-              "x": "The coupe utility's design blended the elegance of a coupe with the functionality of a pickup truck."
+              "x": "She took a leisurely drive along the coast in her barchetta, enjoying the wind in her hair."
             }
           ]
         }
       ]
     },
     {
-      "word": "barchetta",
-      "pos": "noun",
-      "phonetic": "https://tts.langeek.co/read?text=YmFyY2hldHRh&hash=c3c7837d19fa93bf25ab6692ca80de46c6d5bcf4&lang=en&cache-only=0",
-      "phonetic_text": null,
-      "phonetic_am": "https://tts.langeek.co/read?text=YmFyY2hldHRh&hash=c3c7837d19fa93bf25ab6692ca80de46c6d5bcf4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
-      "img": "",
-      "pronunciation": "bɑːɹtʃˈɛɾə",
-      "senses": [
-        {
-          "definition": "a small, two-seater sports car without a roof or with a convertible top, typically with a focus on lightweight design and performance",
-          "examples": []
-        }
-      ]
-    },
-    {
+      "id": "2a9291c9-60b9-454e-b82e-6715bbf8b003",
       "word": "berlinetta",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVybGluZXR0YQ&hash=0abb9706ad4ef3b2c636c8802e2079b0b9b85099&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɜr.lɪ.nɛ.tə",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVybGluZXR0YQ&hash=0abb9706ad4ef3b2c636c8802e2079b0b9b85099&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bēr.li.ne.tē",
       "img": "",
-      "pronunciation": "bɜːlɪnˈɛɾə",
+      "pronunciation": "ˌbɝlɪˈnɛtə",
       "senses": [
         {
           "definition": "a two-seater sports car with a sleek, coupe-style body",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He purchased a vintage berlinetta at the car auction."
+            },
+            {
+              "cf": "",
+              "x": "The new sports car features a sleek berlinetta design."
+            },
+            {
+              "cf": "",
+              "x": "She enjoyed the smooth ride of the berlinetta on winding roads."
+            },
+            {
+              "cf": "",
+              "x": "The berlinetta's engine roared as he accelerated down the highway."
+            },
+            {
+              "cf": "",
+              "x": "They admired the craftsmanship of the berlinetta's leather interior."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1d6ce8e6-f913-4284-8d95-5968f3216076",
       "word": "cabrio coach",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FicmlvIGNvYWNo&hash=6c0f457bee39521b2c7e8b9a911a572510f28d15&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FicmlvIGNvYWNo&hash=6c0f457bee39521b2c7e8b9a911a572510f28d15&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -398,15 +711,37 @@
       "senses": [
         {
           "definition": "a type of car characterized by a retractable or removable roof that can be folded away",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He loved cruising in his cabrio coach with the top down."
+            },
+            {
+              "cf": "",
+              "x": "The cabrio coach provided a unique driving experience with its convertible roof."
+            },
+            {
+              "cf": "",
+              "x": "They enjoyed the sunny weather by driving their cabrio coach along the coast."
+            },
+            {
+              "cf": "",
+              "x": "The cabrio coach was the perfect choice for a romantic evening drive."
+            },
+            {
+              "cf": "",
+              "x": "She decided to buy a cabrio coach for its stylish design and convertible roof."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c39f0a43-ecda-4ce5-b433-d75108bab5ff",
       "word": "coupe de ville",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291cGUgZGUgdmlsbGU&hash=b7cf6fb7360d6a03d597d6520335a24e1da41d03&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291cGUgZGUgdmlsbGU&hash=b7cf6fb7360d6a03d597d6520335a24e1da41d03&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -414,33 +749,73 @@
       "senses": [
         {
           "definition": "a vintage car with a closed driver's compartment and an open or convertible rear section for passengers, known for its elegance and historical significance in automotive design",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The coupe de ville's unique design features a closed driver's compartment and an open rear section."
+            },
+            {
+              "cf": "",
+              "x": "Collectors appreciate the classic lines and luxurious interiors of coupe de villes from the early 20th century."
+            },
+            {
+              "cf": "",
+              "x": "The coupe de ville was a status symbol among affluent families during the mid-20th century."
+            },
+            {
+              "cf": "",
+              "x": "Restoring a coupe de ville requires meticulous attention to detail and craftsmanship."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "d2bf5dc0-4a71-4cd9-a55f-e222d479ac22",
       "word": "hardtop",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFyZHRvcA&hash=69ef52b1deb7fba604c084ad670e4191030624b1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɑrd.tɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFyZHRvcA&hash=69ef52b1deb7fba604c084ad670e4191030624b1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "haard.taap",
       "img": "",
       "pronunciation": "hˈɑːɹdtɑːp",
       "senses": [
         {
           "definition": "a car with a solid, fixed roof that can be taken off or folded back, making it look like a convertible without a soft top",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The classic car featured a stylish hardtop that could be removed for open-air driving."
+            },
+            {
+              "cf": "",
+              "x": "They admired the vintage hardtop at the car show for its elegant design."
+            },
+            {
+              "cf": "",
+              "x": "The hardtop provided extra security and insulation compared to a soft top."
+            },
+            {
+              "cf": "",
+              "x": "On sunny days, they loved driving with the hardtop down."
+            },
+            {
+              "cf": "",
+              "x": "With the hardtop in place, the car looked like a traditional sedan."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "3c65533b-e480-45ce-92cf-168e30492de6",
       "word": "landaulet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFuZGF1bGV0&hash=126c36242e1ed485efeb727131091763f31e11d4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "læn.dɔ:.lət",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFuZGF1bGV0&hash=126c36242e1ed485efeb727131091763f31e11d4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lān.daw.lēt",
       "img": "",
       "pronunciation": "lˈændɔːlət",
       "senses": [
@@ -451,44 +826,89 @@
       ]
     },
     {
+      "id": "252cb332-d419-4a4b-9ab2-67b51771ce48",
       "word": "phaeton",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGhhZXRvbg&hash=54fe626b5cbc09ea61ff6fd07ea0fad9cb37bc9e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fi:.tən",
       "phonetic_am": "https://tts.langeek.co/read?text=cGhhZXRvbg&hash=54fe626b5cbc09ea61ff6fd07ea0fad9cb37bc9e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fi.tēn",
       "img": "",
       "pronunciation": "fˈiːtən",
       "senses": [
         {
           "definition": "a type of open car with no fixed roof, typically having four wheels, two seats, and sometimes a folding or removable top",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The phaeton's lightweight construction made it nimble on country roads."
+            },
+            {
+              "cf": "",
+              "x": "The phaeton's simple yet elegant lines were typical of its era."
+            },
+            {
+              "cf": "",
+              "x": "The phaeton was a popular choice among early automobile enthusias"
+            },
+            {
+              "cf": "",
+              "x": "The phaeton's lightweight construction made it nimble on country roads."
+            },
+            {
+              "cf": "",
+              "x": "Owners of phaetons often appreciate the connection to early motoring traditions."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "58d18efc-c7c8-407d-8725-535de5ce955c",
       "word": "roadster utility",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9hZHN0ZXIgdXRpbGl0eQ&hash=4460deb72f460ab9a58c50ae9b0e7a109cfca0a0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "roʊds.tɜr ju.tɪ.lə.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9hZHN0ZXIgdXRpbGl0eQ&hash=4460deb72f460ab9a58c50ae9b0e7a109cfca0a0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rooods.tēr yoo.ti.lē.ti",
       "img": "",
       "pronunciation": "ɹˈoʊdstɚ juːtˈɪlɪɾi",
       "senses": [
         {
           "definition": "a vehicle that combines the sporty and open-top design of a roadster with practical utility features",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The roadster utility seamlessly blends the thrill of a convertible with the convenience of ample storage space."
+            },
+            {
+              "cf": "",
+              "x": "This roadster utility is perfect for weekend getaways, offering both style and functionality for adventurous trips."
+            },
+            {
+              "cf": "",
+              "x": "He preferred the roadster utility for its sporty handling and the ability to carry outdoor gear without compromising on performance."
+            },
+            {
+              "cf": "",
+              "x": "The market for roadster utility cars has been growing, appealing to drivers who seek versatility along with driving enjoyment."
+            },
+            {
+              "cf": "",
+              "x": "Their new roadster utility model caters to urban commuters who want a compact, agile car with enough room for their daily essentials."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c57e89ea-14ba-4b38-85ea-bc3d667f8a46",
       "word": "torpedo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dG9ycGVkbw&hash=610306815270dae158804fb3e5e0902256185605&lang=en&cache-only=0",
-      "phonetic_text": "tɔrpi:doʊ",
+      "phonetic_text": "tɔr.pi.doʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG9ycGVkbw&hash=610306815270dae158804fb3e5e0902256185605&lang=en&cache-only=0",
-      "phonetic_am_text": "tawrpeedow",
+      "phonetic_am_text": "tawr.pi.dooo",
       "img": "",
       "pronunciation": "tɔɹˈpiˌdoʊ",
       "senses": [
@@ -499,74 +919,155 @@
       ]
     },
     {
+      "id": "6db1b3bc-8837-43e7-9489-1743d1e6d0c9",
       "word": "touring car",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dG91cmluZyBjYXI&hash=9dbefbe292c9a0eb1792af9109f8cb5db57cf134&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tʊ.rɪng kɑ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=dG91cmluZyBjYXI&hash=9dbefbe292c9a0eb1792af9109f8cb5db57cf134&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "too.ring kaar",
       "img": "",
       "pronunciation": "tˈʊɹɪŋ kˈɑːɹ",
       "senses": [
         {
           "definition": "a type of vehicle designed for comfortable long-distance travel, typically featuring a spacious interior, multiple seats, and amenities for passengers",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "They chose a touring car for their cross-country road trip due to its comfort and reliability."
+            },
+            {
+              "cf": "",
+              "x": "The touring car's spacious cabin accommodated their entire family comfortably."
+            },
+            {
+              "cf": "",
+              "x": "The vintage touring car was meticulously restored to its original grandeur."
+            },
+            {
+              "cf": "",
+              "x": "The touring car's suspension was specially tuned for smooth highway driving."
+            },
+            {
+              "cf": "",
+              "x": "He admired the touring car's luxurious interior, complete with leather seats and wood trim."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "2ef2b7f3-fb3a-4e98-b594-4638ded90007",
       "word": "soft-top",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c29mdC10b3A&hash=a03744916e5206720ab27a51d37db51b1d8a24b8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɑft-tɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=c29mdC10b3A&hash=a03744916e5206720ab27a51d37db51b1d8a24b8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "saaft-taap",
       "img": "",
       "pronunciation": "sˈɔfttˈɑːp",
       "senses": [
         {
           "definition": "a convertible car with a fabric roof that can be folded down or removed",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "They decided to rent a soft-top for their vacation in California to fully experience the beautiful weather."
+            },
+            {
+              "cf": "",
+              "x": "During summer, he always enjoyed cruising around in his soft-top, enjoying the sun."
+            },
+            {
+              "cf": "",
+              "x": "The soft-top was perfect for off-road adventures while still offering an open-air driving experience."
+            },
+            {
+              "cf": "",
+              "x": "The soft-top roof of the vintage Volkswagen Beetle added to its charm and nostalgic appeal."
+            },
+            {
+              "cf": "",
+              "x": "She loved driving her soft-top along the coastal highway with the wind in her hair."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "2df8b44b-eac2-4971-8491-bb3f615eabcc",
       "word": "compact car",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29tcGFjdCBjYXI&hash=6b0d6e5b367a9b9209d9732425aeebfde603b30f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑm.pækt kɑ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tcGFjdCBjYXI&hash=6b0d6e5b367a9b9209d9732425aeebfde603b30f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaam.pākt kaar",
       "img": "https://cdn.langeek.co/photo/51292/original/?type=jpeg",
       "pronunciation": "kəmpˈækt kˈɑːɹ",
       "senses": [
         {
           "definition": "an automobile that is smaller than a full-sized car, making it easier to drive and park in tight spaces",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The compact car was ideal for navigating through crowded city streets, its small size making parking a breeze."
+            },
+            {
+              "cf": "",
+              "x": "They opted for a compact car for their road trip, prioritizing fuel efficiency and easy maneuverability."
+            },
+            {
+              "cf": "",
+              "x": "The compact car zipped along the winding mountain roads, handling curves with agility and precision."
+            },
+            {
+              "cf": "",
+              "x": "With its sleek design and modern features, the compact car offered a stylish and practical option for urban commuters."
+            },
+            {
+              "cf": "",
+              "x": "She opted for a compact car for its fuel efficiency and easy maneuverability in city traffic."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e7e9f97b-61e2-4e8e-a088-9121baca0ff2",
       "word": "subcompact",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3ViY29tcGFjdA&hash=80b9ca9dc5fa111ccc58ec9169eccf2d5c49a271&lang=en&cache-only=0",
-      "phonetic_text": "səbkɑ:mpækt",
+      "phonetic_text": "sʌb.kɑm.pækt",
       "phonetic_am": "https://tts.langeek.co/read?text=c3ViY29tcGFjdA&hash=80b9ca9dc5fa111ccc58ec9169eccf2d5c49a271&lang=en&cache-only=0",
-      "phonetic_am_text": "sēbkaampākt",
+      "phonetic_am_text": "sab.kaam.pākt",
       "img": "",
       "pronunciation": "səbˈkɑmpækt",
       "senses": [
         {
           "definition": "a small-sized car that is smaller than a compact car, typically known for its efficiency and affordability",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The subcompact's compact size made parking in tight spaces easy."
+            },
+            {
+              "cf": "",
+              "x": "He traded his larger car for a subcompact to save on gas expenses."
+            },
+            {
+              "cf": "",
+              "x": "The subcompact hatchback was ideal for their daily commute to work."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0264f750-63c0-46c7-b598-184fb79a0a4d",
       "word": "two-seater",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHdvLXNlYXRlcg&hash=378ef5c2cfd8afb380b7743b80b039da81d3179b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dHdvLXNlYXRlcg&hash=378ef5c2cfd8afb380b7743b80b039da81d3179b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -574,17 +1075,35 @@
       "senses": [
         {
           "definition": "a type of vehicle designed to accommodate only two occupants, typically with a compact and sporty design",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He chose a two-seater for its intimate feel and responsive handling."
+            },
+            {
+              "cf": "",
+              "x": "The classic two-seater roadster was a favorite among enthusiasts at the car show."
+            },
+            {
+              "cf": "",
+              "x": "They took the two-seater out for a romantic evening drive along the coast."
+            },
+            {
+              "cf": "",
+              "x": "In the showroom, the sleek lines of the two-seater caught his attention immediately."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e4384131-2c71-4720-9016-f1d667e30fd8",
       "word": "microcar",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWljcm9jYXI&hash=a9d63a9e15dd70f3a2005f45d5828504579d5c3b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "maɪk.roʊ.kɑ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=bWljcm9jYXI&hash=a9d63a9e15dd70f3a2005f45d5828504579d5c3b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "maik.rooo.kaar",
       "img": "",
       "pronunciation": "mˈaɪkɹoʊkˌɑːɹ",
       "senses": [
@@ -595,12 +1114,13 @@
       ]
     },
     {
+      "id": "919e928d-5a35-42e5-8011-e555cafded31",
       "word": "voiturette",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dm9pdHVyZXR0ZQ&hash=e9dc596699b49f03bd7c24cddade1d13ddffecfb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "vɔɪ.ʧə.rɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=dm9pdHVyZXR0ZQ&hash=e9dc596699b49f03bd7c24cddade1d13ddffecfb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vawi.chē.ret",
       "img": "",
       "pronunciation": "vˌɔɪtʃɚɹˈɛt",
       "senses": [
@@ -611,12 +1131,13 @@
       ]
     },
     {
+      "id": "28c57f9d-1177-48db-9e76-0f8b739eadf3",
       "word": "crossover",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3Jvc3NvdmVy&hash=730402d191a001986dcccfcebc02508dcdc5627a&lang=en&cache-only=0",
-      "phonetic_text": "krɔ:soʊvər",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3Jvc3NvdmVy&hash=730402d191a001986dcccfcebc02508dcdc5627a&lang=en&cache-only=0",
-      "phonetic_am_text": "kraawsowvēr",
+      "phonetic_am_text": null,
       "img": "",
       "pronunciation": "ˈkɹɔˌsoʊvɝ",
       "senses": [
@@ -627,12 +1148,13 @@
       ]
     },
     {
+      "id": "372f3799-d39e-41d8-a7b2-00e1f895a7b6",
       "word": "open-top",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3Blbi10b3A&hash=0f6b6e23cac633bba19560e4de12488abbdcf52f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "oʊ.pən-tɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=b3Blbi10b3A&hash=0f6b6e23cac633bba19560e4de12488abbdcf52f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ooo.pēn-taap",
       "img": "",
       "pronunciation": "ˈoʊpəntˈɑːp bˈʌs",
       "senses": [

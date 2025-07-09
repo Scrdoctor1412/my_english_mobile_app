@@ -1,17 +1,19 @@
 {
+  "id": "54fa31b6-27ea-4ea7-9342-1a9c5156ed16",
   "topic": "words_related_to_architecture_and_construction",
   "title": "Fastening Tools",
   "lesson": "lesson_27",
   "word_list": [
     {
+      "id": "fd7d8dc8-14cb-4afc-847e-c0ba15576885",
       "word": "screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2NyZXc&hash=7cee55ecdeebd79ed748398765e3be7674bdf3da&lang=en&cache-only=0",
-      "phonetic_text": "skru:",
+      "phonetic_text": "skru",
       "phonetic_am": "https://tts.langeek.co/read?text=c2NyZXc&hash=7cee55ecdeebd79ed748398765e3be7674bdf3da&lang=en&cache-only=0",
       "phonetic_am_text": "skroo",
       "img": "https://cdn.langeek.co/photo/22542/original/?type=jpeg",
-      "pronunciation": "ˈskɹu",
+      "pronunciation": "skruː",
       "senses": [
         {
           "definition": "a small pointy piece of metal that can be fasten into wooden or metal objects using a screwdriver to hold things together",
@@ -41,12 +43,13 @@
       ]
     },
     {
+      "id": "1aa6686c-27a7-457d-8181-75dee6526c71",
       "word": "bolt",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9sdA&hash=a66f4b67ed39c6b064c158bc2ea153af1212e1ae&lang=en&cache-only=0",
       "phonetic_text": "boʊlt",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9sdA&hash=a66f4b67ed39c6b064c158bc2ea153af1212e1ae&lang=en&cache-only=0",
-      "phonetic_am_text": "bowlt",
+      "phonetic_am_text": "booolt",
       "img": "https://cdn.langeek.co/photo/22596/original/?type=jpeg",
       "pronunciation": "ˈboʊɫt",
       "senses": [
@@ -78,12 +81,13 @@
       ]
     },
     {
+      "id": "82519521-8b04-4099-8f0f-c4613afceba3",
       "word": "toggle bolt",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dG9nZ2xlIGJvbHQ&hash=4a7497a42aaf6943415fcf343e2fc6a07c780401&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɑ.gəl boʊlt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG9nZ2xlIGJvbHQ&hash=4a7497a42aaf6943415fcf343e2fc6a07c780401&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "taa.gēl booolt",
       "img": "https://cdn.langeek.co/photo/41498/original/?type=jpeg",
       "pronunciation": "tˈɑːɡəl bˈoʊlt",
       "senses": [
@@ -115,49 +119,30 @@
       ]
     },
     {
+      "id": "92d6fe0d-708f-4b54-bac3-2df5e1658ffe",
       "word": "wood screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d29vZCBzY3Jldw&hash=5d6551765b11da8442ac97c3ca92e19bb1a187ea&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wʊd skru",
       "phonetic_am": "https://tts.langeek.co/read?text=d29vZCBzY3Jldw&hash=5d6551765b11da8442ac97c3ca92e19bb1a187ea&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vood skroo",
       "img": "",
       "pronunciation": "wˈʊd skɹˈuː",
       "senses": [
         {
           "definition": "a threaded fastener with a pointed tip and helical threads along its shank, specifically designed for securely joining pieces of wood together by creating a threaded hole in the wood as it is driven in, offering strong and reliable fastening in woodworking projects",
-          "examples": [
-            {
-              "cf": "",
-              "x": "To build the bookshelf, I used wood screws to secure the shelves to the frame."
-            },
-            {
-              "cf": "",
-              "x": "The carpenter recommended using wood screws for attaching the panels to the wooden door."
-            },
-            {
-              "cf": "",
-              "x": "I had to replace a few wood screws in the old chair to make it stable again."
-            },
-            {
-              "cf": "",
-              "x": "When assembling the cabinet, make sure to use wood screws for a secure fit."
-            },
-            {
-              "cf": "",
-              "x": "The DIY project required several wood screws to attach the wooden pieces firmly."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "0f481e4b-d39a-49e8-b594-65c7bf0789f9",
       "word": "machine screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFjaGluZSBzY3Jldw&hash=672e6f06cafda1f92f1190fe8d9a6e4738ca9389&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mə.ʃin skru",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFjaGluZSBzY3Jldw&hash=672e6f06cafda1f92f1190fe8d9a6e4738ca9389&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mē.shin skroo",
       "img": "",
       "pronunciation": "məʃˈiːn skɹˈuː",
       "senses": [
@@ -189,49 +174,30 @@
       ]
     },
     {
+      "id": "d1ef6934-2bae-4efc-985b-86e97ebd5c4f",
       "word": "sheet metal screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2hlZXQgbWV0YWwgc2NyZXc&hash=eed23cb3e3a4ce8ad07ccdca7872b7d4443976af&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʃit mɛ.təl skru",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hlZXQgbWV0YWwgc2NyZXc&hash=eed23cb3e3a4ce8ad07ccdca7872b7d4443976af&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "shit me.tēl skroo",
       "img": "",
       "pronunciation": "ʃˈiːt mˈɛɾəl skɹˈuː",
       "senses": [
         {
           "definition": "a special screw used for attaching thin metal sheets together, with sharp threads for a strong grip, commonly used in metalwork, construction, cars, and electrical projects",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The sheet metal screw secured the metal plate firmly to the frame."
-            },
-            {
-              "cf": "",
-              "x": "To attach the vent cover, use a sheet metal screw to fasten it to the duct."
-            },
-            {
-              "cf": "",
-              "x": "The contractor used sheet metal screws to join the panels together."
-            },
-            {
-              "cf": "",
-              "x": "After drilling the holes, she tightened the sheet metal screws to hold the pieces in place."
-            },
-            {
-              "cf": "",
-              "x": "When assembling the metal cabinet, make sure to use sheet metal screws for a strong hold."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "ade80fc1-f76d-468a-8ad5-7d5e4f39a0dd",
       "word": "self-tapping screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VsZi10YXBwaW5nIHNjcmV3&hash=cbc8cb2758efcdffa63e0a5dee8c84293b94c8b5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛlf-tæ.pɪng skru",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VsZi10YXBwaW5nIHNjcmV3&hash=cbc8cb2758efcdffa63e0a5dee8c84293b94c8b5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "self-tā.ping skroo",
       "img": "",
       "pronunciation": "sˈɛlftˈæpɪŋ skɹˈuː",
       "senses": [
@@ -263,12 +229,13 @@
       ]
     },
     {
+      "id": "73e2a1ff-3562-4304-b9aa-997497f2e568",
       "word": "drywall screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJ5d2FsbCBzY3Jldw&hash=b52b120feb9d5c1c0c2909b6da99a3e59e2349b1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "draɪ.wɔ:l skru",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJ5d2FsbCBzY3Jldw&hash=b52b120feb9d5c1c0c2909b6da99a3e59e2349b1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "drai.vawl skroo",
       "img": "",
       "pronunciation": "dɹˈaɪwɔːl skɹˈuː",
       "senses": [
@@ -300,12 +267,13 @@
       ]
     },
     {
+      "id": "5e17d32c-8ffd-407a-b89b-331fd6894111",
       "word": "concrete screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29uY3JldGUgc2NyZXc&hash=5bcd247a9aee1ac3038921087811375c34bbf1f0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑnk.rit skru",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uY3JldGUgc2NyZXc&hash=5bcd247a9aee1ac3038921087811375c34bbf1f0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaank.rit skroo",
       "img": "https://cdn.langeek.co/photo/41420/original/?type=jpeg",
       "pronunciation": "kˈɑːŋkɹiːt skɹˈuː",
       "senses": [
@@ -337,12 +305,13 @@
       ]
     },
     {
+      "id": "25ea4085-993a-4208-a695-3a0678f3d9de",
       "word": "lag screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFnIHNjcmV3&hash=c22149cb289ee2965a36ab4c9440b8932caf863e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "læg skru",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFnIHNjcmV3&hash=c22149cb289ee2965a36ab4c9440b8932caf863e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lāg skroo",
       "img": "",
       "pronunciation": "lˈæɡ skɹˈuː",
       "senses": [
@@ -370,12 +339,13 @@
       ]
     },
     {
+      "id": "e03ee7fc-3af4-4afd-9e62-8d8dbf4ff8e1",
       "word": "deck screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVjayBzY3Jldw&hash=5c4f6f3dafaf742504b7254f5360d819aa1db054&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɛk skru",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVjayBzY3Jldw&hash=5c4f6f3dafaf742504b7254f5360d819aa1db054&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dek skroo",
       "img": "https://cdn.langeek.co/photo/41660/original/?type=jpeg",
       "pronunciation": "dˈɛk skɹˈuː",
       "senses": [
@@ -407,12 +377,13 @@
       ]
     },
     {
+      "id": "6a94702b-e1b5-4182-841f-54922e6d6447",
       "word": "particle board screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFydGljbGUgYm9hcmQgc2NyZXc&hash=d3219ed7aacfc5f56fefcbed3e23ba3480e9fd4f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɑr.tə.kəl bɔ:rd skru",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFydGljbGUgYm9hcmQgc2NyZXc&hash=d3219ed7aacfc5f56fefcbed3e23ba3480e9fd4f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "paar.tē.kēl bawrd skroo",
       "img": "",
       "pronunciation": "pˈɑːɹɾɪkəl bˈoːɹd skɹˈuː",
       "senses": [
@@ -444,12 +415,13 @@
       ]
     },
     {
+      "id": "df1f5bbc-9ba5-4e39-8535-7004a52af35e",
       "word": "security screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VjdXJpdHkgc2NyZXc&hash=baad8ba257e984aa82b4f847ed5f5f5b4e59ad1f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɪ.kjʊ.rɪ.ti skru",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VjdXJpdHkgc2NyZXc&hash=baad8ba257e984aa82b4f847ed5f5f5b4e59ad1f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "si.kyoo.ri.ti skroo",
       "img": "",
       "pronunciation": "sɪkjˈʊɹɪɾi skɹˈuː",
       "senses": [
@@ -481,12 +453,13 @@
       ]
     },
     {
+      "id": "f5f8ef96-492c-429c-8178-e0960812a060",
       "word": "eye screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXllIHNjcmV3&hash=b5b695810204dc6a21e6e85b29e75b0417d02dd6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aɪ skru",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXllIHNjcmV3&hash=b5b695810204dc6a21e6e85b29e75b0417d02dd6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ai skroo",
       "img": "https://cdn.langeek.co/photo/41426/original/?type=jpeg",
       "pronunciation": "ˈaɪ skɹˈuː",
       "senses": [
@@ -518,12 +491,13 @@
       ]
     },
     {
+      "id": "fc2756ee-5f3b-441e-8c5d-ebd1b640dc76",
       "word": "wing screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2luZyBzY3Jldw&hash=37a79ed9803be88f1796711f46dfa0b857117cf3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɪng skru",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luZyBzY3Jldw&hash=37a79ed9803be88f1796711f46dfa0b857117cf3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ving skroo",
       "img": "https://cdn.langeek.co/photo/41682/original/?type=jpeg",
       "pronunciation": "wˈɪŋ skɹˈuː",
       "senses": [
@@ -551,12 +525,13 @@
       ]
     },
     {
+      "id": "8e56d9c3-a14c-4c86-8a5d-89e85c69004e",
       "word": "hex head screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGV4IGhlYWQgc2NyZXc&hash=e428499fb14c33d890ad8c3ba39669e4819770d6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɛks hɛd skru",
       "phonetic_am": "https://tts.langeek.co/read?text=aGV4IGhlYWQgc2NyZXc&hash=e428499fb14c33d890ad8c3ba39669e4819770d6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "heks hed skroo",
       "img": "https://cdn.langeek.co/photo/41482/original/?type=jpeg",
       "pronunciation": "hˈɛks hˈɛd skɹˈuː",
       "senses": [
@@ -588,12 +563,13 @@
       ]
     },
     {
+      "id": "3922281d-b6dc-4f1b-8815-8cf5d6c4e98f",
       "word": "square drive screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3F1YXJlIGRyaXZlIHNjcmV3&hash=b52e6f2d48741117a09403723259e92920a85ecc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skwɛr draɪv skru",
       "phonetic_am": "https://tts.langeek.co/read?text=c3F1YXJlIGRyaXZlIHNjcmV3&hash=b52e6f2d48741117a09403723259e92920a85ecc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skver draiv skroo",
       "img": "https://cdn.langeek.co/photo/41432/original/?type=jpeg",
       "pronunciation": "skwˈɛɹ dɹˈaɪv skɹˈuː",
       "senses": [
@@ -621,12 +597,13 @@
       ]
     },
     {
+      "id": "a80221b8-7f44-490a-a508-e824aeadcb70",
       "word": "one-way screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b25lLXdheSBzY3Jldw&hash=e5450d66279c78e8f753044f15e83c0af1eeee3d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "n-weɪ skru",
       "phonetic_am": "https://tts.langeek.co/read?text=b25lLXdheSBzY3Jldw&hash=e5450d66279c78e8f753044f15e83c0af1eeee3d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "n-vei skroo",
       "img": "https://cdn.langeek.co/photo/41490/original/?type=jpeg",
       "pronunciation": "wˈʌnwˈeɪ skɹˈuː",
       "senses": [
@@ -654,12 +631,13 @@
       ]
     },
     {
+      "id": "aca4e7b9-2698-40d6-995d-32c68a780a0c",
       "word": "thumb screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGh1bWIgc2NyZXc&hash=eeec264fed9f5618b25d61a0338017d80789f028&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "θʌm skru",
       "phonetic_am": "https://tts.langeek.co/read?text=dGh1bWIgc2NyZXc&hash=eeec264fed9f5618b25d61a0338017d80789f028&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tham skroo",
       "img": "https://cdn.langeek.co/photo/41674/original/?type=jpeg",
       "pronunciation": "θˈʌm skɹˈuː",
       "senses": [
@@ -687,12 +665,13 @@
       ]
     },
     {
+      "id": "bd101bc5-e2df-4bcc-ae73-53604887bb54",
       "word": "captive panel screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FwdGl2ZSBwYW5lbCBzY3Jldw&hash=8673acf827bdadac83a63c9194d45457dbc86c38&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kæp.tɪv pæ.nəl skru",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FwdGl2ZSBwYW5lbCBzY3Jldw&hash=8673acf827bdadac83a63c9194d45457dbc86c38&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kāp.tiv pā.nēl skroo",
       "img": "https://cdn.langeek.co/photo/41416/original/?type=jpeg",
       "pronunciation": "kˈæptɪv pˈænəl skɹˈuː",
       "senses": [
@@ -720,10 +699,11 @@
       ]
     },
     {
+      "id": "b8a30adf-4b38-43ea-a105-2e446e98e980",
       "word": "Phillips screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=UGhpbGxpcHMgc2NyZXc&hash=b6a0f1db9b518f6d7c3f4828f6ade228578809c7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=UGhpbGxpcHMgc2NyZXc&hash=b6a0f1db9b518f6d7c3f4828f6ade228578809c7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41428/original/?type=jpeg",
@@ -741,10 +721,11 @@
       ]
     },
     {
+      "id": "dc03e794-9614-45a0-a1aa-e59aa89172a2",
       "word": "Pozidriv screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=UG96aWRyaXYgc2NyZXc&hash=2f4c252e3bbff32e7c3ee393f486f74ffe7aa3fb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=UG96aWRyaXYgc2NyZXc&hash=2f4c252e3bbff32e7c3ee393f486f74ffe7aa3fb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41662/original/?type=jpeg",
@@ -778,12 +759,13 @@
       ]
     },
     {
+      "id": "4641d8c9-1881-49ff-a1a2-d888f07a568a",
       "word": "tamper-resistant screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFtcGVyLXJlc2lzdGFudCBzY3Jldw&hash=99f7757eba84908d7efb42e8a5449eae738676b6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tæm.pɜr-ri.zɪs.tənt skru",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFtcGVyLXJlc2lzdGFudCBzY3Jldw&hash=99f7757eba84908d7efb42e8a5449eae738676b6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tām.pēr-ri.zis.tēnt skroo",
       "img": "https://cdn.langeek.co/photo/41676/original/?type=jpeg",
       "pronunciation": "tˈæmpɚɹɪsˈɪstənt skɹˈuː",
       "senses": [
@@ -811,12 +793,13 @@
       ]
     },
     {
+      "id": "ed5e7f15-577d-4d2f-965d-536f5077abfd",
       "word": "dowel screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZG93ZWwgc2NyZXc&hash=d738fe86bf8023f622ca76c2ac5c8873d61acbed&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "daʊəl skru",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG93ZWwgc2NyZXc&hash=d738fe86bf8023f622ca76c2ac5c8873d61acbed&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "daooēl skroo",
       "img": "https://cdn.langeek.co/photo/41422/original/?type=jpeg",
       "pronunciation": "dˈaʊəl skɹˈuː",
       "senses": [
@@ -848,12 +831,13 @@
       ]
     },
     {
+      "id": "b33d9bec-10c3-4a93-a639-abcf86561cf4",
       "word": "tri-wing screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJpLXdpbmcgc2NyZXc&hash=45f67781f91a4ae30eff809839bc2ba1d5a1cff6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "traɪ-wɪng skru",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJpLXdpbmcgc2NyZXc&hash=45f67781f91a4ae30eff809839bc2ba1d5a1cff6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trai-ving skroo",
       "img": "https://cdn.langeek.co/photo/41500/original/?type=jpeg",
       "pronunciation": "tɹˈaɪwˈɪŋ skɹˈuː",
       "senses": [
@@ -881,10 +865,11 @@
       ]
     },
     {
+      "id": "ce9b14ad-6b8b-42fc-ad6a-d8209c574fe7",
       "word": "Torx screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VG9yeCBzY3Jldw&hash=834aecec2c1934d9329da5ec553fdd5b71bca49f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=VG9yeCBzY3Jldw&hash=834aecec2c1934d9329da5ec553fdd5b71bca49f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41430/original/?type=jpeg",
@@ -906,12 +891,13 @@
       ]
     },
     {
+      "id": "4248f943-f299-4644-9e22-73a428c3853d",
       "word": "snake eye screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c25ha2UgZXllIHNjcmV3&hash=741b4bff562442e979cb8e35a53a28f9c9162dbd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sneɪk aɪ skru",
       "phonetic_am": "https://tts.langeek.co/read?text=c25ha2UgZXllIHNjcmV3&hash=741b4bff562442e979cb8e35a53a28f9c9162dbd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sneik ai skroo",
       "img": "https://cdn.langeek.co/photo/41494/original/?type=jpeg",
       "pronunciation": "snˈeɪk ˈaɪ skɹˈuː",
       "senses": [
@@ -943,10 +929,11 @@
       ]
     },
     {
-      "word": "Chicago Screw",
+      "id": "7f7f8346-4682-471e-b18d-14dd0922399f",
+      "word": "Chicago screw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q2hpY2FnbyBzY3Jldw&hash=7aa421eefd79a5e0719f570728d4db5b11e569de&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Q2hpY2FnbyBzY3Jldw&hash=7aa421eefd79a5e0719f570728d4db5b11e569de&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41418/original/?type=jpeg",
@@ -954,17 +941,27 @@
       "senses": [
         {
           "definition": "a fastener with a threaded post and a screw head, commonly used for binding or securing materials",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The designer used a Chicago screw to attach the leather straps to the bag, ensuring a secure yet removable connection."
+            },
+            {
+              "cf": "",
+              "x": "The bookbinder replaced the damaged binding with a Chicago screw for a durable and adjustable fastening."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "58c809fc-1fee-4325-9951-a417ab72ff3c",
       "word": "screwdriver",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2NyZXdkcml2ZXI&hash=d28e77978a5088c770f87ffa54609aa7a322c76a&lang=en&cache-only=0",
-      "phonetic_text": "skru:draɪvər",
+      "phonetic_text": "skru.draɪ.vər",
       "phonetic_am": "https://tts.langeek.co/read?text=c2NyZXdkcml2ZXI&hash=d28e77978a5088c770f87ffa54609aa7a322c76a&lang=en&cache-only=0",
-      "phonetic_am_text": "skroodraivēr",
+      "phonetic_am_text": "skroo.drai.vēr",
       "img": "https://cdn.langeek.co/photo/22544/original/?type=jpeg",
       "pronunciation": "ˈskɹuˌdɹaɪvɝ",
       "senses": [
@@ -992,12 +989,13 @@
       ]
     },
     {
+      "id": "6ee3ea3b-d85f-4ab8-8d18-357f66db2e7a",
       "word": "flathead screwdriver",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmxhdGhlYWQgc2NyZXdkcml2ZXI&hash=3a42f963f2c08fac9dea33bd42af80297f14b09f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "flæt.hɛd skru.draɪ.vər",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmxhdGhlYWQgc2NyZXdkcml2ZXI&hash=3a42f963f2c08fac9dea33bd42af80297f14b09f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "flāt.hed skroo.drai.vēr",
       "img": "https://cdn.langeek.co/photo/41504/original/?type=jpeg",
       "pronunciation": "flˈæthɛd skɹˈuːdɹaɪvɚ",
       "senses": [
@@ -1029,10 +1027,11 @@
       ]
     },
     {
+      "id": "cc1313e0-1bff-4f8e-9378-1f20bf22258b",
       "word": "Phillips screwdriver",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=UGhpbGxpcHMgc2NyZXdkcml2ZXI&hash=f691fcc63c2e5afc3721f030445bf926bcb8c0cd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=UGhpbGxpcHMgc2NyZXdkcml2ZXI&hash=f691fcc63c2e5afc3721f030445bf926bcb8c0cd&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -1066,10 +1065,11 @@
       ]
     },
     {
-      "word": "Pozidriv Screwdriver",
+      "id": "9b5e1713-f9a0-46c5-a3e7-37dad5d5de68",
+      "word": "Pozidriv screwdriver",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=UG96aWRyaXYgc2NyZXdkcml2ZXI&hash=b688b0831330229d3df3998250de070f8542f42e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=UG96aWRyaXYgc2NyZXdkcml2ZXI&hash=b688b0831330229d3df3998250de070f8542f42e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41664/original/?type=jpeg",
@@ -1099,10 +1099,11 @@
       ]
     },
     {
+      "id": "a452185b-3f6c-41e2-ac55-5827a501dc58",
       "word": "Torx screwdriver",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VG9yeCBzY3Jld2RyaXZlcg&hash=ba4f70ef8ac4e24c1a9585a0f2a614542ccd9198&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=VG9yeCBzY3Jld2RyaXZlcg&hash=ba4f70ef8ac4e24c1a9585a0f2a614542ccd9198&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41680/original/?type=jpeg",
@@ -1132,10 +1133,11 @@
       ]
     },
     {
+      "id": "0d040be8-4bef-44b3-a775-a8d8c223df67",
       "word": "Robertson screwdriver",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Um9iZXJ0c29uIHNjcmV3ZHJpdmVy&hash=8c2cf72675a6e5971246cc1edc35224d6e27ec19&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Um9iZXJ0c29uIHNjcmV3ZHJpdmVy&hash=8c2cf72675a6e5971246cc1edc35224d6e27ec19&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41670/original/?type=jpeg",
@@ -1169,12 +1171,13 @@
       ]
     },
     {
+      "id": "94d4ef9b-5785-4aa7-bdfe-f3b798c02a9a",
       "word": "tri-wing screwdriver",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJpLXdpbmcgc2NyZXdkcml2ZXI&hash=3e3126e9b69f5e3fdf3897a3725cc38aa23a784c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "traɪ-wɪng skru.draɪ.vər",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJpLXdpbmcgc2NyZXdkcml2ZXI&hash=3e3126e9b69f5e3fdf3897a3725cc38aa23a784c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trai-ving skroo.drai.vēr",
       "img": "https://cdn.langeek.co/photo/41496/original/?type=jpeg",
       "pronunciation": "tɹˈaɪwˈɪŋ skɹˈuːdɹaɪvɚ",
       "senses": [
@@ -1202,12 +1205,13 @@
       ]
     },
     {
+      "id": "1ed786ef-4449-4b18-8c9a-30e9de0dc90b",
       "word": "spanner screwdriver",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3Bhbm5lciBzY3Jld2RyaXZlcg&hash=9d7455e5a11d54ba92b3f54ab8ca6ada8b7cbabd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spæ.nɜr skru.draɪ.vər",
       "phonetic_am": "https://tts.langeek.co/read?text=c3Bhbm5lciBzY3Jld2RyaXZlcg&hash=9d7455e5a11d54ba92b3f54ab8ca6ada8b7cbabd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "spā.nēr skroo.drai.vēr",
       "img": "https://cdn.langeek.co/photo/41672/original/?type=jpeg",
       "pronunciation": "spˈænɚ skɹˈuːdɹaɪvɚ",
       "senses": [
@@ -1239,12 +1243,13 @@
       ]
     },
     {
+      "id": "2b184db0-dbfa-4657-812d-5af664c1a8b6",
       "word": "torque screwdriver",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dG9ycXVlIHNjcmV3ZHJpdmVy&hash=becb2040344d108dd3921aab1f67bc629081c1ab&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɔrk skru.draɪ.vər",
       "phonetic_am": "https://tts.langeek.co/read?text=dG9ycXVlIHNjcmV3ZHJpdmVy&hash=becb2040344d108dd3921aab1f67bc629081c1ab&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tawrk skroo.drai.vēr",
       "img": "https://cdn.langeek.co/photo/41678/original/?type=jpeg",
       "pronunciation": "tˈoːɹk skɹˈuːdɹaɪvɚ",
       "senses": [
@@ -1276,12 +1281,13 @@
       ]
     },
     {
+      "id": "beed6e59-72bc-40a7-b43a-f6d1de83c41e",
       "word": "precision screwdriver set",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJlY2lzaW9uIHNjcmV3ZHJpdmVyIHNldA&hash=3707f22d03934297644d3328a232588e8c527156&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pri.sɪ.ʒən skru.draɪ.vər sɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJlY2lzaW9uIHNjcmV3ZHJpdmVyIHNldA&hash=3707f22d03934297644d3328a232588e8c527156&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pri.si.zhēn skroo.drai.vēr set",
       "img": "https://cdn.langeek.co/photo/41666/original/?type=jpeg",
       "pronunciation": "pɹɪsˈɪʒən skɹˈuːdɹaɪvɚ sˈɛt",
       "senses": [
@@ -1313,12 +1319,13 @@
       ]
     },
     {
+      "id": "b6d06610-ea75-4db9-837a-fb5215a5ad67",
       "word": "ratchet screwdriver",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmF0Y2hldCBzY3Jld2RyaXZlcg&hash=f505de608c6d64a5ded6c7f4d6e948007b5b9ed9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ræ.ʧət skru.draɪ.vər",
       "phonetic_am": "https://tts.langeek.co/read?text=cmF0Y2hldCBzY3Jld2RyaXZlcg&hash=f505de608c6d64a5ded6c7f4d6e948007b5b9ed9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rā.chēt skroo.drai.vēr",
       "img": "https://cdn.langeek.co/photo/41492/original/?type=jpeg",
       "pronunciation": "ɹˈætʃɪt skɹˈuːdɹaɪvɚ",
       "senses": [
@@ -1342,12 +1349,13 @@
       ]
     },
     {
+      "id": "4f901c97-897f-4a54-91d6-fdd085933eaa",
       "word": "insulated screwdriver",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5zdWxhdGVkIHNjcmV3ZHJpdmVy&hash=a2ecdf5a38b1afadaf70b3bdd29035648b985118&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn.sə.leɪ.təd skru.draɪ.vər",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5zdWxhdGVkIHNjcmV3ZHJpdmVy&hash=a2ecdf5a38b1afadaf70b3bdd29035648b985118&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in.sē.lei.tēd skroo.drai.vēr",
       "img": "https://cdn.langeek.co/photo/41486/original/?type=jpeg",
       "pronunciation": "ˈɪnsjʊlˌeɪɾᵻd skɹˈuːdɹaɪvɚ",
       "senses": [
@@ -1375,12 +1383,13 @@
       ]
     },
     {
+      "id": "9d57fa85-60a5-4f5a-aa71-cb752e462af6",
       "word": "magnetic screwdriver",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFnbmV0aWMgc2NyZXdkcml2ZXI&hash=e7b99ba1f7fa7630a84280841db43e7c4282bac1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mæg.nɛ.tɪk skru.draɪ.vər",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFnbmV0aWMgc2NyZXdkcml2ZXI&hash=e7b99ba1f7fa7630a84280841db43e7c4282bac1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "māg.ne.tik skroo.drai.vēr",
       "img": "https://cdn.langeek.co/photo/41488/original/?type=jpeg",
       "pronunciation": "mæɡnˈɛɾɪk skɹˈuːdɹaɪvɚ",
       "senses": [
@@ -1408,6 +1417,7 @@
       ]
     },
     {
+      "id": "921ddf95-c4c4-4a79-b98b-dfec06811dbe",
       "word": "nut",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bnV0&hash=a83d2898669f2afef7bfd7b3bfdbf561e11d8e50&lang=en&cache-only=0",
@@ -1437,12 +1447,13 @@
       ]
     },
     {
+      "id": "522911c8-4bac-48b4-8170-f55978203e9d",
       "word": "washer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2FzaGVy&hash=03245c4d147c869e486646bad579e0a0683913a1&lang=en&cache-only=0",
-      "phonetic_text": "wɑ:ʃər",
+      "phonetic_text": "wɑ.ʃɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=d2FzaGVy&hash=03245c4d147c869e486646bad579e0a0683913a1&lang=en&cache-only=0",
-      "phonetic_am_text": "waashēr",
+      "phonetic_am_text": "vaa.shēr",
       "img": "https://cdn.langeek.co/photo/22604/original/?type=jpeg",
       "pronunciation": "ˈwɑʃɝ",
       "senses": [
@@ -1474,12 +1485,13 @@
       ]
     },
     {
+      "id": "16de2f02-11b5-40ea-9404-9de9d6f513cf",
       "word": "eye bolt",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXllIGJvbHQ&hash=af4139880c4948eaeb87c412f11048c69d9588ee&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aɪ boʊlt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXllIGJvbHQ&hash=af4139880c4948eaeb87c412f11048c69d9588ee&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ai booolt",
       "img": "https://cdn.langeek.co/photo/41424/original/?type=jpeg",
       "pronunciation": "ˈaɪ bˈoʊlt",
       "senses": [
@@ -1511,12 +1523,13 @@
       ]
     },
     {
+      "id": "152f4be0-31b7-4d88-87b4-bfcd95cd65a5",
       "word": "staple gun",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RhcGxlIGd1bg&hash=484bd769bc25464c1c0bd2d5a74e4df77b0d29c0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "steɪ.pəl gʌn",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RhcGxlIGd1bg&hash=484bd769bc25464c1c0bd2d5a74e4df77b0d29c0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "stei.pēl gan",
       "img": "https://cdn.langeek.co/photo/22748/original/?type=jpeg",
       "pronunciation": "stˈeɪpəl ɡˈʌn",
       "senses": [
@@ -1548,12 +1561,13 @@
       ]
     },
     {
+      "id": "526e83b4-c060-471a-8ee0-7a2f6b4489ed",
       "word": "cable staple",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FibGUgc3RhcGxl&hash=bfbf29ee17a06eb29e83e84723f41744ca21d5a5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "keɪ.bəl steɪ.pəl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FibGUgc3RhcGxl&hash=bfbf29ee17a06eb29e83e84723f41744ca21d5a5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kei.bēl stei.pēl",
       "img": "https://cdn.langeek.co/photo/40739/original/?type=jpeg",
       "pronunciation": "kˈeɪbəl stˈeɪpəl",
       "senses": [
@@ -1585,12 +1599,13 @@
       ]
     },
     {
+      "id": "5b1d9e2d-db3c-4b50-adef-a2f165b61af4",
       "word": "rivet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cml2ZXQ&hash=c0fe30b6770783064d6c93d3e7b8c642d02cef79&lang=en&cache-only=0",
-      "phonetic_text": "rɪvət",
+      "phonetic_text": "rɪ.vət",
       "phonetic_am": "https://tts.langeek.co/read?text=cml2ZXQ&hash=c0fe30b6770783064d6c93d3e7b8c642d02cef79&lang=en&cache-only=0",
-      "phonetic_am_text": "rivēt",
+      "phonetic_am_text": "ri.vēt",
       "img": "https://cdn.langeek.co/photo/41668/original/?type=jpeg",
       "pronunciation": "ˈɹɪvət",
       "senses": [
@@ -1622,12 +1637,13 @@
       ]
     },
     {
+      "id": "668ab647-370b-46c9-9bea-faf018aecf89",
       "word": "wall plug",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2FsbCBwbHVn&hash=5c1860ecf943c0d1d5c3e7667fc988c5af530989&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɔ:l pləg",
       "phonetic_am": "https://tts.langeek.co/read?text=d2FsbCBwbHVn&hash=5c1860ecf943c0d1d5c3e7667fc988c5af530989&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vawl plēg",
       "img": "https://cdn.langeek.co/photo/41502/original/?type=jpeg",
       "pronunciation": "wˈɔːl plˈʌɡ",
       "senses": [
@@ -1638,49 +1654,30 @@
       ]
     },
     {
+      "id": "3c2b91ec-ae42-4fe7-912a-01bda2b6dfc4",
       "word": "hog ring",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG9nIHJpbmc&hash=f7f94902f939733d891e37dbf817cf0cd026bd09&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɑg rɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9nIHJpbmc&hash=f7f94902f939733d891e37dbf817cf0cd026bd09&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "haag ring",
       "img": "https://cdn.langeek.co/photo/41484/original/?type=jpeg",
       "pronunciation": "hˈɑːɡ ɹˈɪŋ",
       "senses": [
         {
           "definition": "a small metal fastener or ring typically made of galvanized steel or other durable material, commonly used in upholstery, fencing, and automotive applications to secure materials together",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The farmer used a hog ring to attach the wire mesh to the fence."
-            },
-            {
-              "cf": "",
-              "x": "The upholstery technician secured the fabric tightly to the frame using hog rings."
-            },
-            {
-              "cf": "",
-              "x": "To repair the chicken coop, he used a hog ring to fasten the wire netting."
-            },
-            {
-              "cf": "",
-              "x": "The worker attached the metal netting with a hog ring to keep the area secure."
-            },
-            {
-              "cf": "",
-              "x": "She used a hog ring to ensure the mesh was firmly connected to the wooden frame."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "1c8f99c9-ee47-4d99-873f-6970043f44a4",
       "word": "anchor bolt",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW5jaG9yIGJvbHQ&hash=8de1eea9e9a1178d878688090e078e0455a34d81&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æn.kɜr boʊlt",
       "phonetic_am": "https://tts.langeek.co/read?text=YW5jaG9yIGJvbHQ&hash=8de1eea9e9a1178d878688090e078e0455a34d81&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ān.kēr booolt",
       "img": "https://cdn.langeek.co/photo/41414/original/?type=jpeg",
       "pronunciation": "ˈænkɚ bˈoʊlt",
       "senses": [

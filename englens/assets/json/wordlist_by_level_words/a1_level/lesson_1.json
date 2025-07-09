@@ -1,16 +1,18 @@
 {
+  "id": "30bde326-10d8-4f88-8423-178b9bbf50cd",
   "topic": "a1_level",
   "title": "People",
   "lesson": "lesson_1",
   "word_list": [
     {
+      "id": "a87fff3f-98d3-4ab4-b3cf-7592421ecbe1",
       "word": "man",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFu&hash=7aa9ac9bf19048ae58a18f50f8d2ebc2b76dd978&lang=en&cache-only=0",
       "phonetic_text": "mæn",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFu&hash=7aa9ac9bf19048ae58a18f50f8d2ebc2b76dd978&lang=en&cache-only=0",
       "phonetic_am_text": "mān",
-      "img": "https://cdn.langeek.co/photo/28165/original/man?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60877/original/man?type=jpeg",
       "pronunciation": "mæn",
       "senses": [
         {
@@ -41,13 +43,14 @@
       ]
     },
     {
+      "id": "35186119-ec38-460f-9629-e90672e9294f",
       "word": "woman",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d29tYW4&hash=8065fd98df0a3feba869e80d720b4f3cfb2a0c23&lang=en&cache-only=0",
-      "phonetic_text": "wʊmən",
+      "phonetic_text": "wʊ.mən",
       "phonetic_am": "https://tts.langeek.co/read?text=d29tYW4&hash=8065fd98df0a3feba869e80d720b4f3cfb2a0c23&lang=en&cache-only=0",
-      "phonetic_am_text": "wumēn",
-      "img": "https://cdn.langeek.co/photo/28169/original/woman?type=jpeg",
+      "phonetic_am_text": "voo.mēn",
+      "img": "https://cdn.langeek.co/photo/60919/original/woman?type=jpeg",
       "pronunciation": "ˈwʊmən",
       "senses": [
         {
@@ -78,13 +81,14 @@
       ]
     },
     {
+      "id": "e348aa41-83c8-4542-88a5-ef7bc71ad890",
       "word": "boy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym95&hash=364d1e5c79e892c8583f1302e15c187b6d0f0189&lang=en&cache-only=0",
       "phonetic_text": "bɔɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym95&hash=364d1e5c79e892c8583f1302e15c187b6d0f0189&lang=en&cache-only=0",
-      "phonetic_am_text": "boy",
-      "img": "https://cdn.langeek.co/photo/28175/original/boy?type=jpeg",
+      "phonetic_am_text": "bawi",
+      "img": "https://cdn.langeek.co/photo/60862/original/boy?type=jpeg",
       "pronunciation": "bɔɪ",
       "senses": [
         {
@@ -115,13 +119,14 @@
       ]
     },
     {
+      "id": "17c9bcdd-a9d0-4f4d-b08a-5567cd71114b",
       "word": "girl",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2lybA&hash=2b3842253bcd0500eb69f12e697a4e820e528fac&lang=en&cache-only=0",
       "phonetic_text": "gɜrl",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2lybA&hash=2b3842253bcd0500eb69f12e697a4e820e528fac&lang=en&cache-only=0",
       "phonetic_am_text": "gērl",
-      "img": "https://cdn.langeek.co/photo/28177/original/girl?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60869/original/girl?type=jpeg",
       "pronunciation": "ɡɝl",
       "senses": [
         {
@@ -152,6 +157,7 @@
       ]
     },
     {
+      "id": "d7b1b1b1-ef52-41dc-91d9-e409acbe56a6",
       "word": "friend",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnJpZW5k&hash=5e74cc46adc85945ef3be3fac90f3f092f8114c9&lang=en&cache-only=0",
@@ -162,7 +168,7 @@
       "pronunciation": "frɛnd",
       "senses": [
         {
-          "definition": "someone we know well and trust, but normally they are not part of our family",
+          "definition": "someone we like and trust",
           "examples": [
             {
               "cf": "",
@@ -181,12 +187,13 @@
       ]
     },
     {
+      "id": "63f0b81b-a6ea-4584-b847-d64d3f022d05",
       "word": "boyfriend",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym95ZnJpZW5k&hash=f5ce6f62035a674e2815ce5105f4bde368479ce1&lang=en&cache-only=0",
-      "phonetic_text": "bɔɪfrɛnd",
+      "phonetic_text": "bɔɪ.frɛnd",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym95ZnJpZW5k&hash=f5ce6f62035a674e2815ce5105f4bde368479ce1&lang=en&cache-only=0",
-      "phonetic_am_text": "boyfrend",
+      "phonetic_am_text": "bawi.frend",
       "img": "https://cdn.langeek.co/photo/47905/original/boyfriend?type=jpeg",
       "pronunciation": "ˈbɔɪfrɛnd",
       "senses": [
@@ -218,12 +225,13 @@
       ]
     },
     {
+      "id": "c1397a68-fad2-43a3-8070-74a0c15c63b4",
       "word": "girlfriend",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2lybGZyaWVuZA&hash=cebf6aebce5bee24f38532e8aecd176c052d4830&lang=en&cache-only=0",
-      "phonetic_text": "gɜrlfrɛnd",
+      "phonetic_text": "gɜrl.frɛnd",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2lybGZyaWVuZA&hash=cebf6aebce5bee24f38532e8aecd176c052d4830&lang=en&cache-only=0",
-      "phonetic_am_text": "gērlfrend",
+      "phonetic_am_text": "gērl.frend",
       "img": "https://cdn.langeek.co/photo/47907/original/girlfriend?type=jpeg",
       "pronunciation": "ˈɡɝlfrɛnd",
       "senses": [
@@ -255,17 +263,18 @@
       ]
     },
     {
+      "id": "95062a50-642c-4cfc-84bb-46c980d94193",
       "word": "person",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVyc29u&hash=14b6595ab0bee56098bce452501c69097ba0c105&lang=en&cache-only=0",
-      "phonetic_text": "pɜrsən",
+      "phonetic_text": "pɜr.sən",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVyc29u&hash=14b6595ab0bee56098bce452501c69097ba0c105&lang=en&cache-only=0",
-      "phonetic_am_text": "pērsēn",
+      "phonetic_am_text": "pēr.sēn",
       "img": "https://cdn.langeek.co/photo/47909/original/person?type=jpeg",
       "pronunciation": "ˈpɝsən",
       "senses": [
         {
-          "definition": "one human being, when gender or age is not relevant",
+          "definition": "one human",
           "examples": [
             {
               "cf": "",
@@ -292,17 +301,18 @@
       ]
     },
     {
+      "id": "2196b579-388d-4ef1-ac1a-0526e062b1b9",
       "word": "people",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVvcGxl&hash=59fc81c0ae933325aec600b53720799632579932&lang=en&cache-only=0",
-      "phonetic_text": "pi:pəl",
+      "phonetic_text": "pi:.pəl",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVvcGxl&hash=59fc81c0ae933325aec600b53720799632579932&lang=en&cache-only=0",
-      "phonetic_am_text": "peepēl",
+      "phonetic_am_text": "pi.pēl",
       "img": "https://cdn.langeek.co/photo/47911/original/public?type=jpeg",
       "pronunciation": "ˈpi:pəl",
       "senses": [
         {
-          "definition": "human beings as a group, including men, women, and children",
+          "definition": "a group of humans",
           "examples": [
             {
               "cf": "",
@@ -329,13 +339,14 @@
       ]
     },
     {
+      "id": "be20aefa-6e6f-43c8-933d-18b593e194e0",
       "word": "adult",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWR1bHQ&hash=878a5acee56a1bfca62bc06ae5f1d7ef5e310b6f&lang=en&cache-only=0",
-      "phonetic_text": "ədʌlt",
+      "phonetic_text": "ə.dʌlt",
       "phonetic_am": "https://tts.langeek.co/read?text=YWR1bHQ&hash=878a5acee56a1bfca62bc06ae5f1d7ef5e310b6f&lang=en&cache-only=0",
-      "phonetic_am_text": "ēdalt",
-      "img": "https://cdn.langeek.co/photo/28824/original/adult?type=jpeg",
+      "phonetic_am_text": "ē.dalt",
+      "img": "https://cdn.langeek.co/photo/60843/original/adult?type=jpeg",
       "pronunciation": "əˈdʌlt/, /ˈædʌlt",
       "senses": [
         {
@@ -366,17 +377,18 @@
       ]
     },
     {
+      "id": "8ec93270-7c24-494f-ab29-db4f70c3b054",
       "word": "baby",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFieQ&hash=2b55d6a775fba83df38e1d8aeeb3fd98f723ab6f&lang=en&cache-only=0",
-      "phonetic_text": "beɪbi",
+      "phonetic_text": "beɪ.bi",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFieQ&hash=2b55d6a775fba83df38e1d8aeeb3fd98f723ab6f&lang=en&cache-only=0",
-      "phonetic_am_text": "beibi",
-      "img": "https://cdn.langeek.co/photo/19823/original/baby?type=jpeg",
+      "phonetic_am_text": "bei.bi",
+      "img": "https://cdn.langeek.co/photo/60857/original/baby?type=jpeg",
       "pronunciation": "ˈbeɪbi",
       "senses": [
         {
-          "definition": "a child who is very young, usually too young to walk or speak",
+          "definition": "a very young child",
           "examples": [
             {
               "cf": "",
@@ -403,49 +415,52 @@
       ]
     },
     {
+      "id": "cc9f54db-729f-4f9f-ad0c-952572cfd76d",
       "word": "Mr",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=TXI&hash=f2c5e043900da5117a2057160eed12fbb98d900d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=TXI&hash=f2c5e043900da5117a2057160eed12fbb98d900d&lang=en&cache-only=0",
       "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/28930/original/mr-?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60889/original/mr-?type=jpeg",
       "pronunciation": "ˈmɪstɚ",
       "senses": [
         {
-          "definition": "a title used before a man's name to address or refer to him politely or formally",
+          "definition": "a formal title for a man",
           "examples": []
         }
       ]
     },
     {
+      "id": "86b0093b-36bf-4091-9158-0a85a31e755e",
       "word": "Mrs",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=TXJz&hash=d398370f7385888d2f38d6304535c7029634f9f5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=TXJz&hash=d398370f7385888d2f38d6304535c7029634f9f5&lang=en&cache-only=0",
       "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/28928/original/mrs-?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60901/original/mrs-?type=jpeg",
       "pronunciation": "ˈmɪsɪz",
       "senses": [
         {
-          "definition": "a title used before a woman's surname or full name to address or refer to a married woman",
+          "definition": "a formal title for a married woman",
           "examples": []
         }
       ]
     },
     {
+      "id": "d97d6d2b-dea9-4317-92e0-7d2cd34cd662",
       "word": "miss",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWlzcw&hash=e38ea028c0f512528b8a11e4a587e3b666a486b4&lang=en&cache-only=0",
       "phonetic_text": "mɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=bWlzcw&hash=e38ea028c0f512528b8a11e4a587e3b666a486b4&lang=en&cache-only=0",
       "phonetic_am_text": "mis",
-      "img": "https://cdn.langeek.co/photo/28932/original/miss?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60879/original/miss?type=jpeg",
       "pronunciation": "mɪs",
       "senses": [
         {
-          "definition": "a title we use before an unmarried woman's family name or full name to address or refer to her",
+          "definition": "a formal title for an unmarried woman",
           "examples": []
         }
       ]

@@ -1,25 +1,49 @@
 {
+  "id": "7ed752cc-16ff-4d51-b6bf-e3adc51d9039",
   "topic": "land_transportation",
   "title": "Public Transportation",
   "lesson": "lesson_6",
   "word_list": [
     {
+      "id": "9f3e451b-4139-43f7-9440-5b0ad2525452",
       "word": "passenger vehicle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFzc2VuZ2VyIHZlaGljbGU&hash=e952d1721176300f845c108570382c38df686ee1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pæ.sən.ʤər viɪ.əkl",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFzc2VuZ2VyIHZlaGljbGU&hash=e952d1721176300f845c108570382c38df686ee1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pā.sēn.jēr vii.ēkl",
       "img": "https://cdn.langeek.co/photo/49484/original/bus?type=jpeg",
       "pronunciation": "pˈæsɪndʒɚ vˈiəkəl",
       "senses": [
         {
           "definition": "a vehicle designed to transport people rather than goods",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The passenger vehicle had seating for up to five adults."
+            },
+            {
+              "cf": "",
+              "x": "He rented a comfortable passenger vehicle for his family's road trip."
+            },
+            {
+              "cf": "",
+              "x": "They parked their passenger vehicle in the designated area at the airport."
+            },
+            {
+              "cf": "",
+              "x": "She preferred traveling by passenger vehicle rather than taking public transit."
+            },
+            {
+              "cf": "",
+              "x": "The city's regulations required all passenger vehicles to undergo regular inspections."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "296a74f8-34e1-49fa-a7b6-38769253d737",
       "word": "bus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVz&hash=ece33930deb035075822c0942b6b8026fb15fe25&lang=en&cache-only=0",
@@ -31,255 +55,563 @@
       "senses": [
         {
           "definition": "a large vehicle that carries many passengers by road",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I prefer sitting near the window when I'm on the bus."
+            },
+            {
+              "cf": "",
+              "x": "The bus arrived just in time, so I didn't have to wait long."
+            },
+            {
+              "cf": "",
+              "x": "The bus took us to the city center where we explored the shops and attractions."
+            },
+            {
+              "cf": "",
+              "x": "The bus was full, so I had to stand for the entire journey."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "74aa90fb-6655-41cb-8938-07a0af45be23",
       "word": "bus rapid transit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVzIHJhcGlkIHRyYW5zaXQ&hash=6a56cfc6f81145adc072dabae4cc0a8ae5210942&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bʌs ræ.pəd træn.zɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVzIHJhcGlkIHRyYW5zaXQ&hash=6a56cfc6f81145adc072dabae4cc0a8ae5210942&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bas rā.pēd trān.zit",
       "img": "",
       "pronunciation": "bˈʌs ɹˈæpɪd tɹˈænsɪt",
       "senses": [
         {
           "definition": "a fast and efficient public transportation system with dedicated lanes for buses, modern stations, and streamlined fare collection",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Many cities around the world are investing in bus rapid transit to improve urban transportation."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "23ea7d9a-8018-4b41-9e5d-48318acb35c6",
       "word": "electric bus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWxlY3RyaWMgYnVz&hash=a8af00983039d6b68833600db4904fd22c652d30&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪ.lɛkt.rɪk bʌs",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWxlY3RyaWMgYnVz&hash=a8af00983039d6b68833600db4904fd22c652d30&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "i.lekt.rik bas",
       "img": "",
       "pronunciation": "ɪlˈɛktɹɪk bˈʌs",
       "senses": [
         {
           "definition": "a public transportation vehicle powered by electricity, typically with batteries or overhead lines, emitting zero tailpipe emissions",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The city council decided to replace its diesel fleet with electric buses to reduce air pollution."
+            },
+            {
+              "cf": "",
+              "x": "The new electric bus route connects the downtown area with the suburbs, promoting sustainable commuting."
+            },
+            {
+              "cf": "",
+              "x": "Passengers on the electric bus enjoyed a quieter ride compared to traditional diesel-powered vehicles."
+            },
+            {
+              "cf": "",
+              "x": "The government's initiative includes incentives for municipalities to adopt electric buses as part of their green transportation strategy."
+            },
+            {
+              "cf": "",
+              "x": "Electric buses are gaining popularity worldwide due to their lower operational costs and environmental benefits."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f3bb9274-ebbf-46e1-9371-aa89bb382e81",
       "word": "omnibus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b21uaWJ1cw&hash=cfcf0361498112d344bf273e6877f6e191e4a7cf&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:mnəbəs",
+      "phonetic_text": "ɑm.nə.bəs",
       "phonetic_am": "https://tts.langeek.co/read?text=b21uaWJ1cw&hash=cfcf0361498112d344bf273e6877f6e191e4a7cf&lang=en&cache-only=0",
-      "phonetic_am_text": "aamnēbēs",
+      "phonetic_am_text": "aam.nē.bēs",
       "img": "https://cdn.langeek.co/photo/49484/original/bus?type=jpeg",
       "pronunciation": "ˈɑmnəbəs",
       "senses": [
         {
           "definition": "a large public transportation vehicle designed to carry many passengers, typically a bus",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The omnibus stopped at multiple locations along the route."
+            },
+            {
+              "cf": "",
+              "x": "She boarded the omnibus to commute to work downtown."
+            },
+            {
+              "cf": "",
+              "x": "They installed new seats in the omnibus for added comfort."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "d123b1f2-25db-46e8-b1ce-1f940cdc305b",
       "word": "minicoach",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWluaWNvYWNo&hash=4fc5ed50fa74215619a146fdf46685e1c8e587e6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mɪ.ni.koʊʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=bWluaWNvYWNo&hash=4fc5ed50fa74215619a146fdf46685e1c8e587e6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mi.ni.koooch",
       "img": "",
       "pronunciation": "mˈɪnɪkˌoʊtʃ",
       "senses": [
         {
           "definition": "a small bus designed to transport a small number of passengers, typically ranging from around 15 to 30 people",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The company rented a minicoach to shuttle employees to the conference venue."
+            },
+            {
+              "cf": "",
+              "x": "We hired a minicoach for our family trip to comfortably accommodate everyone."
+            },
+            {
+              "cf": "",
+              "x": "The school arranged for a minicoach to transport the students to the museum for their field trip."
+            },
+            {
+              "cf": "",
+              "x": "The sports team traveled in a minicoach to their away game."
+            },
+            {
+              "cf": "",
+              "x": "The tour group boarded a minicoach for a guided excursion around the city."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a08635a9-20d0-4167-b662-96c1639bb995",
       "word": "minibus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWluaWJ1cw&hash=72c83f7f960536c814576daec35c2d9d9cb62164&lang=en&cache-only=0",
-      "phonetic_text": "mɪnibʌs",
+      "phonetic_text": "mɪ.ni.bʌs",
       "phonetic_am": "https://tts.langeek.co/read?text=bWluaWJ1cw&hash=72c83f7f960536c814576daec35c2d9d9cb62164&lang=en&cache-only=0",
-      "phonetic_am_text": "minibas",
+      "phonetic_am_text": "mi.ni.bas",
       "img": "https://cdn.langeek.co/photo/29557/original/?type=jpeg",
       "pronunciation": "ˈmɪniˌbəs",
       "senses": [
         {
           "definition": "a small passenger-carrying vehicle that is larger than a typical car but smaller than a full-sized bus",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The airport shuttle service uses minibuses to transport passengers between the airport terminals and nearby hotels."
+            },
+            {
+              "cf": "",
+              "x": "Many schools use minibuses to safely transport students to and from school or for field trips, accommodating a smaller group of students compared to a larger bus."
+            },
+            {
+              "cf": "",
+              "x": "The school hired a minibus to transport students on their field trip to the science museum."
+            },
+            {
+              "cf": "",
+              "x": "A minibus shuttles passengers between the airport and the nearby hotels, providing a convenient travel option."
+            },
+            {
+              "cf": "",
+              "x": "The tour company offers guided city tours in a comfortable, air-conditioned minibus."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "65be848c-d33e-4496-9e9f-c0f98dd5ef97",
       "word": "jitney",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aml0bmV5&hash=ebe0a7922f9761116365d7a2a0eac5bd82b410ff&lang=en&cache-only=0",
-      "phonetic_text": "ʤɪtni",
+      "phonetic_text": "ʤɪt.ni",
       "phonetic_am": "https://tts.langeek.co/read?text=aml0bmV5&hash=ebe0a7922f9761116365d7a2a0eac5bd82b410ff&lang=en&cache-only=0",
-      "phonetic_am_text": "jitni",
+      "phonetic_am_text": "jit.ni",
       "img": "https://cdn.langeek.co/photo/49484/original/bus?type=jpeg",
       "pronunciation": "ˈdʒɪtni",
       "senses": [
         {
           "definition": "a small bus or van that operates on a flexible route and often picks up passengers at irregular intervals",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The jitney service provided transportation to remote areas not served by regular buses."
+            },
+            {
+              "cf": "",
+              "x": "She hailed a jitney to get to the market on time."
+            },
+            {
+              "cf": "",
+              "x": "They used a jitney to shuttle guests between the hotel and the wedding venue."
+            },
+            {
+              "cf": "",
+              "x": "He appreciated the jitney's convenient schedule for his evening commute."
+            },
+            {
+              "cf": "",
+              "x": "The jitney driver announced each stop loudly for passengers."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "17cf9533-e0d0-48fc-8454-5d7244b15835",
       "word": "streetcar",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RyZWV0Y2Fy&hash=540dd422a552d841c72e1b14363d3d07b44d9098&lang=en&cache-only=0",
-      "phonetic_text": "stri:tkɑr",
+      "phonetic_text": "stri:t.kɑ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyZWV0Y2Fy&hash=540dd422a552d841c72e1b14363d3d07b44d9098&lang=en&cache-only=0",
-      "phonetic_am_text": "streetkɑr",
+      "phonetic_am_text": "strit.kaar",
       "img": "https://cdn.langeek.co/photo/36319/original/?type=jpeg",
       "pronunciation": "ˈstɹitˌkɑɹ",
       "senses": [
         {
           "definition": "a public transportation vehicle that runs on tracks embedded in city streets",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The streetcar rattled along the tracks, stopping frequently to pick up passengers."
+            },
+            {
+              "cf": "",
+              "x": "He used the streetcar to travel downtown for meetings."
+            },
+            {
+              "cf": "",
+              "x": "The streetcar system expanded to cover more neighborhoods."
+            },
+            {
+              "cf": "",
+              "x": "Tourists enjoy riding the historic streetcar through the city."
+            },
+            {
+              "cf": "",
+              "x": "The streetcar provides convenient transportation across urban areas."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e12ae1e1-9039-413e-86c7-dad210e9ccd3",
       "word": "trolleybus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJvbGxleWJ1cw&hash=abf2fa80fe98c130fbd092165baefc92823efd23&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "trɑ.li.bʌs",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJvbGxleWJ1cw&hash=abf2fa80fe98c130fbd092165baefc92823efd23&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "traa.li.bas",
       "img": "",
       "pronunciation": "tɹˈɑːlɪbəs",
       "senses": [
         {
           "definition": "a bus that operates using electricity from overhead wires rather than an internal combustion engine",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The trolleybus glided silently along the city streets."
+            },
+            {
+              "cf": "",
+              "x": "He rode the trolleybus to work every day to avoid traffic congestion."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a9eb30b4-d160-49e1-82ef-f38ff37a5663",
       "word": "trackless trolley",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhY2tsZXNzIHRyb2xsZXk&hash=47144cb819c06f321fbcdab4d3a9cbed5893291f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "træk.ləs trɑ.li",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhY2tsZXNzIHRyb2xsZXk&hash=47144cb819c06f321fbcdab4d3a9cbed5893291f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trāk.lēs traa.li",
       "img": "",
       "pronunciation": "tɹˈækləs tɹˈɑːli",
       "senses": [
         {
           "definition": "a trolleybus that operates without tracks, using rubber tires on regular roadways",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The trackless trolley maneuvered easily through narrow streets."
+            },
+            {
+              "cf": "",
+              "x": "She rode the trackless trolley to visit her friend across town."
+            },
+            {
+              "cf": "",
+              "x": "He admired the efficiency of the trackless trolley system."
+            },
+            {
+              "cf": "",
+              "x": "They upgraded the trackless trolley fleet with quieter engines."
+            },
+            {
+              "cf": "",
+              "x": "The trackless trolley stopped at each intersection to pick up passengers."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "41cbfb4b-5be0-42fb-90ae-afb716ae5539",
       "word": "land train",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFuZCB0cmFpbg&hash=f07eb3da0d6f808a62d7b52c23386a80a7e43cae&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lænd treɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFuZCB0cmFpbg&hash=f07eb3da0d6f808a62d7b52c23386a80a7e43cae&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lānd trein",
       "img": "",
       "pronunciation": "lˈænd tɹˈeɪn",
       "senses": [
         {
           "definition": "a road-going vehicle consisting of a series of connected trailers or carriages, often used for transporting passengers in tourist areas",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The land train took tourists on a scenic tour around the historic city center."
+            },
+            {
+              "cf": "",
+              "x": "During peak season, the land train operates daily to shuttle visitors between the museum and the beach."
+            },
+            {
+              "cf": "",
+              "x": "The local park introduced a new land train service to make it easier for families to explore the extensive grounds."
+            },
+            {
+              "cf": "",
+              "x": "We hopped on the land train for a leisurely ride through the botanical gardens."
+            },
+            {
+              "cf": "",
+              "x": "The land train's route was specially designed to showcase the town's most famous landmarks."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a2653d63-6c78-443f-9c7d-b75acf6c05fb",
       "word": "airport bus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWlycG9ydCBidXM&hash=8a48e2a8803ea501d5e8f1dcfbd217efe0337c66&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛr.pɔrt bʌs",
       "phonetic_am": "https://tts.langeek.co/read?text=YWlycG9ydCBidXM&hash=8a48e2a8803ea501d5e8f1dcfbd217efe0337c66&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "er.pawrt bas",
       "img": "",
       "pronunciation": "ˈɛɹpoːɹt bˈʌs",
       "senses": [
         {
           "definition": "a public transportation service that shuttles passengers between an airport and designated locations",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The airport bus arrived promptly at Terminal 3 to transport passengers downtown."
+            },
+            {
+              "cf": "",
+              "x": "Passengers can save money by taking the airport bus instead of a taxi."
+            },
+            {
+              "cf": "",
+              "x": "The airport bus service operates 24 hours a day for travelers' convenience."
+            },
+            {
+              "cf": "",
+              "x": "She took the airport bus to the hotel after landing late at night."
+            },
+            {
+              "cf": "",
+              "x": "The airport bus stop is located just outside the arrivals hall for easy access."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "73164014-0a6c-484e-8ab5-c2e122b64c1d",
       "word": "single-decker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2luZ2xlLWRlY2tlcg&hash=98df15ea24371e33d1f8573784f03fa7c5d5934d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɪn.gəl-dɛ.kɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c2luZ2xlLWRlY2tlcg&hash=98df15ea24371e33d1f8573784f03fa7c5d5934d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sin.gēl-de.kēr",
       "img": "",
       "pronunciation": "sˈɪŋɡəldˈɛkɚ",
       "senses": [
         {
           "definition": "a type of bus that has only one floor",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The single-decker bus arrived right on time to take passengers to the station."
+            },
+            {
+              "cf": "",
+              "x": "We decided to ride the single-decker because it was less crowded than the double-decker."
+            },
+            {
+              "cf": "",
+              "x": "The children were excited to board the single-decker for their school trip."
+            },
+            {
+              "cf": "",
+              "x": "The tour guide told us that the single-decker was more comfortable for the winding road."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b91e370a-53b3-4fe8-815f-1172b95591c2",
       "word": "double-decker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZG91YmxlLWRlY2tlcg&hash=9d3693e437e9cdd674a5c1af76197ffe33cdf214&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "də.bəl-dɛ.kɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG91YmxlLWRlY2tlcg&hash=9d3693e437e9cdd674a5c1af76197ffe33cdf214&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dē.bēl-de.kēr",
       "img": "https://cdn.langeek.co/photo/29547/original/?type=jpeg",
       "pronunciation": "dˈʌbəldˈɛkɚ",
       "senses": [
         {
           "definition": "a vehicle such as a bus, train, or ship with two levels on top of one another, providing additional seating capacity",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The double-decker bus offered tourists a panoramic view of the city from its upper deck."
+            },
+            {
+              "cf": "",
+              "x": "In London, double-decker buses are an iconic part of the city's public transportation system."
+            },
+            {
+              "cf": "",
+              "x": "The double-decker train was packed with commuters during rush hour, utilizing space efficiently."
+            },
+            {
+              "cf": "",
+              "x": "The cruise ship featured a double-decker design with restaurants and lounges on the upper level."
+            },
+            {
+              "cf": "",
+              "x": "Double-decker airplanes are used for long-haul flights, accommodating more passengers and offering additional amenities."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f3572490-b7f7-494c-a0ad-9355b1c98716",
       "word": "rail replacement bus service",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFpbCByZXBsYWNlbWVudCBidXMgc2VydmljZQ&hash=610d51b56fa3625fb7cfc78c3f7546febf0daacd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "reɪl rɪp.leɪs.mənt bʌs sɜr.vɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=cmFpbCByZXBsYWNlbWVudCBidXMgc2VydmljZQ&hash=610d51b56fa3625fb7cfc78c3f7546febf0daacd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "reil rip.leis.mēnt bas sēr.vis",
       "img": "",
       "pronunciation": "ɹˈeɪl ɹɪplˈeɪsmənt bˈʌs sˈɜːvɪs",
       "senses": [
         {
           "definition": "a temporary bus service replacing trains on a route due to maintenance or disruptions",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Due to track maintenance, a rail replacement bus service will operate between Station A and Station B this weekend."
+            },
+            {
+              "cf": "",
+              "x": "Passengers should use the rail replacement bus service between 9 PM and 5 AM while upgrade works are carried out on the railway line."
+            },
+            {
+              "cf": "",
+              "x": "The train service is suspended today; please take the rail replacement bus service from here to your destination."
+            },
+            {
+              "cf": "",
+              "x": "Heavy snowfall has disrupted the train schedule; commuters are advised to use the rail replacement bus service until further notice."
+            },
+            {
+              "cf": "",
+              "x": "Engineering works mean there will be a rail replacement bus service operating between major stations next Saturday and Sunday."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "d5241648-9d01-4d34-8880-d94b5a44ab00",
       "word": "cycle rickshaw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3ljbGUgcmlja3NoYXc&hash=3e1a63f31852f603f87b182725ca8268aa4670a9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "saɪ.kəl rɪk.ʃɔ:",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3ljbGUgcmlja3NoYXc&hash=3e1a63f31852f603f87b182725ca8268aa4670a9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sai.kēl rik.shaw",
       "img": "",
       "pronunciation": "sˈaɪkəl ɹˈɪkʃɔː",
       "senses": [
         {
           "definition": "a small passenger vehicle pulled by a bicycle, commonly used in densely populated urban areas",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The cycle rickshaw weaved through traffic, transporting tourists to local attractions."
+            },
+            {
+              "cf": "",
+              "x": "She negotiated the fare with the cycle rickshaw driver before starting the journey."
+            },
+            {
+              "cf": "",
+              "x": "He hired a cycle rickshaw to explore the bustling market."
+            },
+            {
+              "cf": "",
+              "x": "They promoted cycle rickshaws as a sustainable transportation option."
+            },
+            {
+              "cf": "",
+              "x": "The cycle rickshaw driver pedaled steadily through the crowded streets."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "caaf7c88-de76-4ca4-b874-93e9ab5f1ac4",
       "word": "autorickshaw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXV0b3JpY2tzaGF3&hash=6b233c0f8309a26c9d40f630bdf5d9841f27c40d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXV0b3JpY2tzaGF3&hash=6b233c0f8309a26c9d40f630bdf5d9841f27c40d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/51158/original/?type=jpeg",
@@ -287,11 +619,29 @@
       "senses": [
         {
           "definition": "a three-wheeled, motorized vehicle used for public transportation in many countries, especially in South and Southeast Asia",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The autorickshaw driver navigated through the crowded streets of Delhi with expert skill."
+            },
+            {
+              "cf": "",
+              "x": "We took an autorickshaw to the market to avoid the heavy traffic."
+            },
+            {
+              "cf": "",
+              "x": "The autorickshaw sputtered to a stop outside the train station, its engine overheated."
+            },
+            {
+              "cf": "",
+              "x": "The autorickshaw's colorful decorations and bright lights made it stand out among the other vehicles on the road."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "385758a4-83dd-4f21-9010-dc4f78598f1a",
       "word": "train",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhaW4&hash=c1b4f01b274baa72abf82f56f006c02cb4003696&lang=en&cache-only=0",
@@ -303,33 +653,77 @@
       "senses": [
         {
           "definition": "a series of connected carriages that travel on a railroad, often pulled by a locomotive",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I always enjoy listening to music while traveling on the train."
+            },
+            {
+              "cf": "",
+              "x": "I missed my train, so I had to catch the next one."
+            },
+            {
+              "cf": "",
+              "x": "He prefers traveling by train because it’s more relaxing than driving."
+            },
+            {
+              "cf": "",
+              "x": "They waved goodbye from the platform as the train departed."
+            },
+            {
+              "cf": "",
+              "x": "The train traveled through beautiful countryside."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7956b309-8ad3-4eb9-9a22-5e818925e3dc",
       "word": "street running train",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RyZWV0IHJ1bm5pbmcgdHJhaW4&hash=d1f142b9f23006ab4bbcd1a4e5b79394a82a4a86&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stri:t rə.nɪng treɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyZWV0IHJ1bm5pbmcgdHJhaW4&hash=d1f142b9f23006ab4bbcd1a4e5b79394a82a4a86&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "strit rē.ning trein",
       "img": "",
       "pronunciation": "stɹˈiːt ɹˈʌnɪŋ tɹˈeɪn",
       "senses": [
         {
           "definition": "a type of railway operation where trains run directly on urban streets shared with road traffic",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The city council debated the safety implications of having a street running train in downtown."
+            },
+            {
+              "cf": "",
+              "x": "Drivers often have to wait at crossings for the street running train to pass."
+            },
+            {
+              "cf": "",
+              "x": "Residents appreciate the convenience of the street running train for commuting."
+            },
+            {
+              "cf": "",
+              "x": "The street running train adds to the urban character of the neighborhood."
+            },
+            {
+              "cf": "",
+              "x": "Pedestrians must be cautious when crossing streets with a street running train nearby."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "820062cc-7aaa-4296-9f97-e8d991aca07c",
       "word": "subway",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3Vid2F5&hash=61972b7d10cff235e44115242a189533d6d86d40&lang=en&cache-only=0",
-      "phonetic_text": "sʌbweɪ",
+      "phonetic_text": "sʌb.weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=c3Vid2F5&hash=61972b7d10cff235e44115242a189533d6d86d40&lang=en&cache-only=0",
-      "phonetic_am_text": "sabwei",
+      "phonetic_am_text": "sab.vei",
       "img": "https://cdn.langeek.co/photo/49490/original/subway?type=jpeg",
       "pronunciation": "ˈsʌbˌweɪ",
       "senses": [
@@ -340,28 +734,47 @@
       ]
     },
     {
+      "id": "6ade3e21-4cd6-469a-815b-4d0ff18f9ac0",
       "word": "metro",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWV0cm8&hash=a20cbaecc98858e0da6aef13a01c3b9b1e2089cd&lang=en&cache-only=0",
-      "phonetic_text": "mɛtroʊ",
+      "phonetic_text": "mɛt.roʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=bWV0cm8&hash=a20cbaecc98858e0da6aef13a01c3b9b1e2089cd&lang=en&cache-only=0",
-      "phonetic_am_text": "metrow",
+      "phonetic_am_text": "met.rooo",
       "img": "https://cdn.langeek.co/photo/49490/original/subway?type=jpeg",
       "pronunciation": "ˈmɛˌtɹoʊ",
       "senses": [
         {
           "definition": "an underground railway system designed for public transportation within a city",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He used an app to check the metro schedule."
+            },
+            {
+              "cf": "",
+              "x": "Using the metro is often the fastest way to travel across large urban centers."
+            },
+            {
+              "cf": "",
+              "x": "The metro is an eco-friendly alternative to driving a car in the city."
+            },
+            {
+              "cf": "",
+              "x": "The metro was crowded during the morning rush hour."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "6767cfa7-9d73-4d8e-9b9f-01406fd54466",
       "word": "transit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhbnNpdA&hash=f9681a12e23a6422abe71d882bea2972def1b2fe&lang=en&cache-only=0",
-      "phonetic_text": "trænzɪt",
+      "phonetic_text": "træn.zɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhbnNpdA&hash=f9681a12e23a6422abe71d882bea2972def1b2fe&lang=en&cache-only=0",
-      "phonetic_am_text": "trānzit",
+      "phonetic_am_text": "trān.zit",
       "img": "",
       "pronunciation": "ˈtɹænzɪt",
       "senses": [
@@ -372,126 +785,273 @@
       ]
     },
     {
+      "id": "240f2b68-0d24-4eb2-a8b4-44a4e91f76f9",
       "word": "mass transit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFzcyB0cmFuc2l0&hash=a6ee2e8bc5599c583d9914a8dd67d342e78e34f7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mæs træn.zɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFzcyB0cmFuc2l0&hash=a6ee2e8bc5599c583d9914a8dd67d342e78e34f7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mās trān.zit",
       "img": "",
       "pronunciation": "mˈæs tɹˈænsɪt",
       "senses": [
         {
           "definition": "public transportation systems designed to move large numbers of people efficiently, typically including buses, trains, subways, and light rail",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The city's mass transit system includes an extensive network of buses and subways."
+            },
+            {
+              "cf": "",
+              "x": "Many commuters prefer using mass transit to avoid traffic congestion."
+            },
+            {
+              "cf": "",
+              "x": "The government is investing in expanding the light rail as part of its mass transit initiative."
+            },
+            {
+              "cf": "",
+              "x": "Mass transit plays a crucial role in reducing carbon emissions in urban areas."
+            },
+            {
+              "cf": "",
+              "x": "High-speed trains are becoming increasingly popular as a sustainable form of mass transit."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "abd41bb8-a61e-4eb4-9010-6c136f2a6e7a",
       "word": "rapid transit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFwaWQgdHJhbnNpdA&hash=770506c14002efe181e97b34866e64495afbe7ee&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ræ.pəd træn.zɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=cmFwaWQgdHJhbnNpdA&hash=770506c14002efe181e97b34866e64495afbe7ee&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rā.pēd trān.zit",
       "img": "",
       "pronunciation": "ɹˈæpɪd tɹˈænsɪt",
       "senses": [
         {
           "definition": "a high-capacity public transportation system designed for fast, efficient travel within urban areas, such as subways or elevated trains",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The rapid transit train whisked commuters across the city in minutes."
+            },
+            {
+              "cf": "",
+              "x": "She relied on rapid transit to avoid traffic jams during rush hour."
+            },
+            {
+              "cf": "",
+              "x": "He used the rapid transit system to attend meetings downtown."
+            },
+            {
+              "cf": "",
+              "x": "They expanded the rapid transit network with new subway lines."
+            },
+            {
+              "cf": "",
+              "x": "The rapid transit station was crowded with passengers during peak times."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0177470f-acda-45d5-9960-8dd9404b46c8",
       "word": "light rail transit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGlnaHQgcmFpbCB0cmFuc2l0&hash=88203c883e28ef25ccd40f01d1c66832ae65336d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "laɪt reɪl træn.zɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlnaHQgcmFpbCB0cmFuc2l0&hash=88203c883e28ef25ccd40f01d1c66832ae65336d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lait reil trān.zit",
       "img": "",
       "pronunciation": "lˈaɪt ɹˈeɪl tɹˈænsɪt",
       "senses": [
         {
           "definition": "a form of urban passenger transportation with electrically powered trains on dedicated tracks, featuring smaller vehicles and shorter trains than heavy rail systems",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The new light rail transit line will connect suburbs to downtown."
+            },
+            {
+              "cf": "",
+              "x": "The light rail transit system in San Diego is widely used by commuters."
+            },
+            {
+              "cf": "",
+              "x": "Cities like Calgary and Denver have successful light rail transit networks."
+            },
+            {
+              "cf": "",
+              "x": "Plans are underway to expand the light rail transit system in Minneapolis."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1b4b6679-849a-4024-b145-ab2fb57dacaf",
       "word": "park and ride",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFyayBhbmQgcmlkZQ&hash=06aac583655a86b653b4e68562807be9c4e95aec&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɑ:rk ænd raɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFyayBhbmQgcmlkZQ&hash=06aac583655a86b653b4e68562807be9c4e95aec&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "paark ānd raid",
       "img": "",
       "pronunciation": "pˈɑːɹk ænd ɹˈaɪd",
       "senses": [
         {
           "definition": "a facility where people can park their cars and then use public transportation",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Park and ride facilities are convenient for commuters who prefer to avoid city traffic."
+            },
+            {
+              "cf": "",
+              "x": "The park and ride system helps reduce congestion in urban areas by encouraging carpooling."
+            },
+            {
+              "cf": "",
+              "x": "Many cities around the world have implemented park and ride schemes to promote sustainable transportation options."
+            },
+            {
+              "cf": "",
+              "x": "Using a park and ride service can save both time and money for daily commuters."
+            },
+            {
+              "cf": "",
+              "x": "The effectiveness of a park and ride setup depends on its location and accessibility to public transit routes."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "40b73d3d-4a24-4b98-a051-747f286b1aa3",
       "word": "route",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm91dGU&hash=de1b580b0b04c8492e08075c6fe3d8e6aad5dd60&lang=en&cache-only=0",
       "phonetic_text": "ru:t",
       "phonetic_am": "https://tts.langeek.co/read?text=cm91dGU&hash=de1b580b0b04c8492e08075c6fe3d8e6aad5dd60&lang=en&cache-only=0",
       "phonetic_am_text": "root",
-      "img": "https://cdn.langeek.co/photo/17849/original/change?type=jpeg",
-      "pronunciation": "ˈɹaʊt/, /ˈɹut",
+      "img": "https://cdn.langeek.co/photo/61602/original/change?type=jpeg",
+      "pronunciation": "ruːt/ , /raʊt",
       "senses": [
         {
           "definition": "a fixed way between two places, along which a bus, plane, ship, etc. regularly travels",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She looked at the route map before her road trip."
+            },
+            {
+              "cf": "",
+              "x": "The airline launched a new route to Tokyo last month."
+            },
+            {
+              "cf": "",
+              "x": "The bus followed its usual route despite the heavy snow."
+            },
+            {
+              "cf": "",
+              "x": "The cruise ship followed a route along the Mediterranean coast."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "889444f6-eecd-445b-a923-a7cd0353c990",
       "word": "bus lane",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVzIGxhbmU&hash=e3742de03df71c2f4fe1426a94fbb2a9c23d567b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bʌs leɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVzIGxhbmU&hash=e3742de03df71c2f4fe1426a94fbb2a9c23d567b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bas lein",
       "img": "",
       "pronunciation": "bˈʌs lˈeɪn",
       "senses": [
         {
           "definition": "a special lane on a road only for buses, allowing them to move faster and more easily through traffic",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Cars are not allowed to drive in the bus lane."
+            },
+            {
+              "cf": "",
+              "x": "The city added a new bus lane to reduce traffic."
+            },
+            {
+              "cf": "",
+              "x": "He got a ticket for using the bus lane illegally."
+            },
+            {
+              "cf": "",
+              "x": "The bus lane was empty during rush hour."
+            },
+            {
+              "cf": "",
+              "x": "Cyclists sometimes use the bus lane."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7b91990b-56e4-4fc4-bc45-c66ed2b13500",
       "word": "transitway",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhbnNpdHdheQ&hash=7377ed0267441dddc195bf4dc95fe2730170259f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "træn.zɪt.weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhbnNpdHdheQ&hash=7377ed0267441dddc195bf4dc95fe2730170259f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trān.zit.vei",
       "img": "",
       "pronunciation": "tɹˈænsɪtwˌeɪ",
       "senses": [
         {
           "definition": "a dedicated route or corridor reserved exclusively for public transportation vehicles",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The city introduced a new transitway to speed up bus routes and reduce traffic congestion."
+            },
+            {
+              "cf": "",
+              "x": "Cyclists are not allowed on the transitway, which is reserved exclusively for public transport."
+            },
+            {
+              "cf": "",
+              "x": "The transitway features dedicated lanes and priority signals to ensure faster travel for buses."
+            },
+            {
+              "cf": "",
+              "x": "Commuters appreciate the reliability and efficiency of the new transitway system."
+            },
+            {
+              "cf": "",
+              "x": "Transitways are crucial in cities aiming to improve public transit and reduce car dependency."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "deb685cb-b22d-4a15-aeb8-46dcc0be4310",
       "word": "express",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXhwcmVzcw&hash=cb83968170dad2612c047dadaee9ccdd44bf4fa3&lang=en&cache-only=0",
-      "phonetic_text": "ɪksprɛs",
+      "phonetic_text": "ɪksp.rɛs",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXhwcmVzcw&hash=cb83968170dad2612c047dadaee9ccdd44bf4fa3&lang=en&cache-only=0",
-      "phonetic_am_text": "ikspres",
+      "phonetic_am_text": "iksp.res",
       "img": "https://cdn.langeek.co/photo/49496/original/train?type=jpeg",
-      "pronunciation": "ɪksˈpɹɛs",
+      "pronunciation": "ɪkˈsprɛs",
       "senses": [
         {
           "definition": "a train or bus that travels more quickly than usual because it only makes a few stops",
@@ -500,12 +1060,13 @@
       ]
     },
     {
+      "id": "9cef595d-bcdb-4f67-aaab-e1895dd5f92c",
       "word": "shuttle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2h1dHRsZQ&hash=a0e8e9d58d7a635fe0f15c5df6ca50f759e09c52&lang=en&cache-only=0",
-      "phonetic_text": "ʃʌtəl",
+      "phonetic_text": "ʃə.təl",
       "phonetic_am": "https://tts.langeek.co/read?text=c2h1dHRsZQ&hash=a0e8e9d58d7a635fe0f15c5df6ca50f759e09c52&lang=en&cache-only=0",
-      "phonetic_am_text": "shatēl",
+      "phonetic_am_text": "shē.tēl",
       "img": "",
       "pronunciation": "ˈʃətəɫ",
       "senses": [
@@ -516,14 +1077,15 @@
       ]
     },
     {
+      "id": "f219f22f-749b-4b01-bd80-9585bd2554e8",
       "word": "local",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9jYWw&hash=fad67a4768875e64649aa985601d0be715f76cfa&lang=en&cache-only=0",
-      "phonetic_text": "loʊkəl",
+      "phonetic_text": "loʊ.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9jYWw&hash=fad67a4768875e64649aa985601d0be715f76cfa&lang=en&cache-only=0",
-      "phonetic_am_text": "lowkēl",
+      "phonetic_am_text": "looo.kēl",
       "img": "https://cdn.langeek.co/photo/43318/original/bus-stop?type=jpeg",
-      "pronunciation": "ˈɫoʊkəɫ",
+      "pronunciation": "ˈloʊkəl",
       "senses": [
         {
           "definition": "a bus, train, etc. that makes all or most of the regular stops, allowing people to get on or off",
@@ -532,6 +1094,7 @@
       ]
     },
     {
+      "id": "0923a61d-8bea-4d7c-85a7-ff1c679a89dc",
       "word": "through",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dGhyb3VnaA&hash=01c4254b818d5e080dba2686f04d3730b8dfd980&lang=en&cache-only=0",
@@ -542,35 +1105,51 @@
       "pronunciation": "θruː",
       "senses": [
         {
-          "definition": "of a public transportation route that connects two distant points without requiring a transfer",
-          "examples": []
+          "definition": "(of public transport or ticket) continuing to the end point without requiring change",
+          "examples": [
+            {
+              "cf": "",
+              "x": "He purchased a through ticket to San Francisco."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c954293c-b5c7-4c5a-b1b4-a62273f5b7f0",
       "word": "nonstop",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bm9uc3RvcA&hash=fb137e3b0d6e004f1c5fb77d127cd4c7a5b32bd4&lang=en&cache-only=0",
-      "phonetic_text": "nɑnstɑ:p",
+      "phonetic_text": "nɑns.tɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=bm9uc3RvcA&hash=fb137e3b0d6e004f1c5fb77d127cd4c7a5b32bd4&lang=en&cache-only=0",
-      "phonetic_am_text": "nɑnstaap",
+      "phonetic_am_text": "naans.taap",
       "img": "https://cdn.langeek.co/photo/31466/original/?type=jpeg",
       "pronunciation": "ˌnɑnˈstɑp",
       "senses": [
         {
           "definition": "(of a flight, train, journey etc.) having or making no stops",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The nonstop bus service between the two cities runs every two hours."
+            },
+            {
+              "cf": "",
+              "x": "They completed a nonstop drive across the country without taking any long breaks."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "72aac00c-1210-4e1b-a2f0-94921ab5e903",
       "word": "connection",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29ubmVjdGlvbg&hash=c363c03f00cddb696421cef85f2edf151f07dc75&lang=en&cache-only=0",
-      "phonetic_text": "kənɛkʃən",
+      "phonetic_text": "kə.nɛk.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29ubmVjdGlvbg&hash=c363c03f00cddb696421cef85f2edf151f07dc75&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnekshēn",
-      "img": "https://cdn.langeek.co/photo/17849/original/change?type=jpeg",
+      "phonetic_am_text": "kē.nek.shēn",
+      "img": "https://cdn.langeek.co/photo/61602/original/change?type=jpeg",
       "pronunciation": "kəˈnɛkʃən",
       "senses": [
         {
@@ -580,30 +1159,53 @@
       ]
     },
     {
+      "id": "fa676dd6-3636-4741-9ff2-8b20f140470a",
       "word": "departure",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVwYXJ0dXJl&hash=44cd5590e103c04bba503ce1c2de3c6aa2ed3f92&lang=en&cache-only=0",
-      "phonetic_text": "dɪpɑ:rʧər",
+      "phonetic_text": "dɪ.pɑr.ʧər",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVwYXJ0dXJl&hash=44cd5590e103c04bba503ce1c2de3c6aa2ed3f92&lang=en&cache-only=0",
-      "phonetic_am_text": "dipaarchēr",
+      "phonetic_am_text": "di.paar.chēr",
       "img": "https://cdn.langeek.co/photo/18595/original/set-off?type=jpeg",
-      "pronunciation": "dɪˈpɑɹtʃɝ",
+      "pronunciation": "dɪˈpɑrtʃɚ",
       "senses": [
         {
           "definition": "the act of leaving, usually to begin a journey",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The departure of the train was delayed by half an hour."
+            },
+            {
+              "cf": "",
+              "x": "She bid farewell to her family before her departure for college."
+            },
+            {
+              "cf": "",
+              "x": "The departure of the ship from the harbor marked the beginning of their cruise vacation."
+            },
+            {
+              "cf": "",
+              "x": "They gathered at the airport to see off their friend before her departure for overseas."
+            },
+            {
+              "cf": "",
+              "x": "He packed his bags in anticipation of his departure for the backpacking trip."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "25413a86-c6c5-487e-8179-596c41482ef1",
       "word": "stop",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RvcA&hash=0df0d6c66a73747d05e93597c6dc179379b978ef&lang=en&cache-only=0",
-      "phonetic_text": "stɑ:p",
+      "phonetic_text": "stɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RvcA&hash=0df0d6c66a73747d05e93597c6dc179379b978ef&lang=en&cache-only=0",
       "phonetic_am_text": "staap",
       "img": "https://cdn.langeek.co/photo/49548/original/?type=jpeg",
-      "pronunciation": "stɑːp",
+      "pronunciation": "stɑp",
       "senses": [
         {
           "definition": "a place where a train or bus usually stops for passengers to get on or off",
@@ -612,28 +1214,51 @@
       ]
     },
     {
+      "id": "d4f9907f-5309-463e-bd3f-d9f4ac8def33",
       "word": "bus station",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVzIHN0YXRpb24&hash=49fe56f9b51c73ef4e9ec685e1ed53c81f6362db&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bʌs steɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVzIHN0YXRpb24&hash=49fe56f9b51c73ef4e9ec685e1ed53c81f6362db&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bas stei.shēn",
       "img": "",
       "pronunciation": "bˈʌs stˈeɪʃən",
       "senses": [
         {
           "definition": "a place where multiple buses begin and end their journeys, particularly a journey between towns or cites",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She arrived at the bus station early to ensure she wouldn’t miss her bus to the city."
+            },
+            {
+              "cf": "",
+              "x": "The bus station was crowded with travelers, all waiting for their buses to arrive."
+            },
+            {
+              "cf": "",
+              "x": "He bought a ticket at the bus station for a trip that would take him across the country."
+            },
+            {
+              "cf": "",
+              "x": "The city plans to upgrade the bus station, making it more comfortable and accessible for passengers."
+            },
+            {
+              "cf": "",
+              "x": "After missing her bus, she decided to wait at the bus station for the next one to arrive."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "90cb75dd-826d-45e4-96e0-2a8528bfa560",
       "word": "bus stop",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVzIHN0b3A&hash=ae269ba94511bdd5f4cb7b9c8af5ab8f9d25b5a0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bʌs stɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVzIHN0b3A&hash=ae269ba94511bdd5f4cb7b9c8af5ab8f9d25b5a0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bas staap",
       "img": "https://cdn.langeek.co/photo/43318/original/bus-stop?type=jpeg",
       "pronunciation": "bˈʌs stˈɑːp",
       "senses": [
@@ -665,12 +1290,13 @@
       ]
     },
     {
+      "id": "9ea059d1-0335-4b5e-b29e-5f5e17d76a92",
       "word": "request stop",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVxdWVzdCBzdG9w&hash=2f887246f2921675b755c081a860c0f0e3b31607&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rik.wɛst stɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVxdWVzdCBzdG9w&hash=2f887246f2921675b755c081a860c0f0e3b31607&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rik.vest staap",
       "img": "",
       "pronunciation": "ɹɪkwˈɛst stˈɑːp",
       "senses": [
@@ -702,12 +1328,13 @@
       ]
     },
     {
+      "id": "adc5f5e0-4f44-42fe-bcdf-9571c4e9f3eb",
       "word": "terminus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVybWludXM&hash=06f21457b367708257ecd6b4a6c4d3ccb0815d5f&lang=en&cache-only=0",
-      "phonetic_text": "tɜrmɪnəs",
+      "phonetic_text": "tɜr.mɪ.nəs",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVybWludXM&hash=06f21457b367708257ecd6b4a6c4d3ccb0815d5f&lang=en&cache-only=0",
-      "phonetic_am_text": "tērminēs",
+      "phonetic_am_text": "tēr.mi.nēs",
       "img": "https://cdn.langeek.co/photo/49548/original/?type=jpeg",
       "pronunciation": "ˈtɝmɪnəs",
       "senses": [
@@ -731,12 +1358,13 @@
       ]
     },
     {
+      "id": "7ce05ffa-fa65-4240-854a-f6964e0ade02",
       "word": "terminal",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVybWluYWw&hash=a723d2925375f0970c007adef99a896f875a8ae5&lang=en&cache-only=0",
-      "phonetic_text": "tɜrmənəl",
+      "phonetic_text": "tɜr.mə.nəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVybWluYWw&hash=a723d2925375f0970c007adef99a896f875a8ae5&lang=en&cache-only=0",
-      "phonetic_am_text": "tērmēnēl",
+      "phonetic_am_text": "tēr.mē.nēl",
       "img": "https://cdn.langeek.co/photo/49548/original/?type=jpeg",
       "pronunciation": "ˈtɝmənəɫ",
       "senses": [
@@ -760,12 +1388,13 @@
       ]
     },
     {
+      "id": "62333e57-e7d2-4b97-8b70-4138910c3b47",
       "word": "station",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RhdGlvbg&hash=b7a59ac64128127dd332f6a8909991884dc05a30&lang=en&cache-only=0",
-      "phonetic_text": "steɪʃən",
+      "phonetic_text": "steɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RhdGlvbg&hash=b7a59ac64128127dd332f6a8909991884dc05a30&lang=en&cache-only=0",
-      "phonetic_am_text": "steishēn",
+      "phonetic_am_text": "stei.shēn",
       "img": "https://cdn.langeek.co/photo/49548/original/?type=jpeg",
       "pronunciation": "ˈsteɪʃən",
       "senses": [
@@ -781,12 +1410,13 @@
       ]
     },
     {
+      "id": "69b1c620-74c7-483b-8425-44ddaf16c993",
       "word": "depot",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVwb3Q&hash=775f22c9ad8e4b86592439f6549b70ff4b3fcf6b&lang=en&cache-only=0",
-      "phonetic_text": "di:poʊ",
+      "phonetic_text": "di.poʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVwb3Q&hash=775f22c9ad8e4b86592439f6549b70ff4b3fcf6b&lang=en&cache-only=0",
-      "phonetic_am_text": "deepow",
+      "phonetic_am_text": "di.pooo",
       "img": "https://cdn.langeek.co/photo/49548/original/?type=jpeg",
       "pronunciation": "ˈdipoʊ",
       "senses": [
@@ -797,12 +1427,13 @@
       ]
     },
     {
+      "id": "31862469-e42a-4be2-aab4-dcbb036cb86d",
       "word": "rush hour",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cnVzaCBob3Vy&hash=a32b65dbd3e9892fe5d2a9ab09ab9c557d3759c5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rʌʃ aʊr",
       "phonetic_am": "https://tts.langeek.co/read?text=cnVzaCBob3Vy&hash=a32b65dbd3e9892fe5d2a9ab09ab9c557d3759c5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rash aoor",
       "img": "https://cdn.langeek.co/photo/21432/original/?type=jpeg",
       "pronunciation": "ɹˈʌʃ ˈaɪʊɹ",
       "senses": [
@@ -834,12 +1465,13 @@
       ]
     },
     {
+      "id": "5dd9196c-a3d2-4b41-9149-167c13e09153",
       "word": "peak hour",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVhayBob3Vy&hash=228b1a80ab96dc2890fc0aaea0310efa7b8260ce&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pik aʊr",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVhayBob3Vy&hash=228b1a80ab96dc2890fc0aaea0310efa7b8260ce&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pik aoor",
       "img": "",
       "pronunciation": "pˈiːk ˈaɪʊɹ",
       "senses": [
@@ -871,14 +1503,15 @@
       ]
     },
     {
+      "id": "359c7b08-e1d4-43a9-aca3-e53233aadc3c",
       "word": "schedule",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2NoZWR1bGU&hash=4eb89f5236d2dbc2119d14203da078b4a8e624b2&lang=en&cache-only=0",
-      "phonetic_text": "skɛʤʊl",
+      "phonetic_text": "skɛ.ʤul",
       "phonetic_am": "https://tts.langeek.co/read?text=c2NoZWR1bGU&hash=4eb89f5236d2dbc2119d14203da078b4a8e624b2&lang=en&cache-only=0",
-      "phonetic_am_text": "skejul",
-      "img": "https://cdn.langeek.co/photo/17841/original/schedule?type=jpeg",
-      "pronunciation": "ˈskɛdʒuɫ/, /ˈskɛdʒʊɫ",
+      "phonetic_am_text": "ske.jool",
+      "img": "https://cdn.langeek.co/photo/61650/original/schedule?type=jpeg",
+      "pronunciation": "ˈskɛdʒuˌl",
       "senses": [
         {
           "definition": "a list or chart that shows the times at which trains, buses, planes, etc. leave and arrive",
@@ -904,13 +1537,14 @@
       ]
     },
     {
+      "id": "434e8168-8eb7-4637-b4e6-26f0977e7639",
       "word": "timetable",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGltZXRhYmxl&hash=9f5f4f243f82365cf8ce7e51fa74a812ce99d0e0&lang=en&cache-only=0",
-      "phonetic_text": "taɪmteɪbəl",
+      "phonetic_text": "taɪm.teɪ.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dGltZXRhYmxl&hash=9f5f4f243f82365cf8ce7e51fa74a812ce99d0e0&lang=en&cache-only=0",
-      "phonetic_am_text": "taimteibēl",
-      "img": "https://cdn.langeek.co/photo/17841/original/schedule?type=jpeg",
+      "phonetic_am_text": "taim.tei.bēl",
+      "img": "https://cdn.langeek.co/photo/61650/original/schedule?type=jpeg",
       "pronunciation": "ˈtaɪmˌteɪbəɫ",
       "senses": [
         {
@@ -941,12 +1575,13 @@
       ]
     },
     {
+      "id": "9bd7be29-9480-40aa-a757-e6de25ac481b",
       "word": "ticket office",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGlja2V0IG9mZmljZQ&hash=471af4b88a275063dd852ca4f37518345e80696b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɪ.kɪt ɑf.aɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=dGlja2V0IG9mZmljZQ&hash=471af4b88a275063dd852ca4f37518345e80696b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ti.kit aaf.ais",
       "img": "https://cdn.langeek.co/photo/19076/original/box-office?type=jpeg",
       "pronunciation": "tˈɪkɪt ˈɑːfɪs",
       "senses": [
@@ -978,12 +1613,13 @@
       ]
     },
     {
+      "id": "48eb2cdf-aef5-44b4-88e2-754f02ec1765",
       "word": "ticket",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGlja2V0&hash=366f2e76c0c68d0e0f393d4f2c9fd540cec5028c&lang=en&cache-only=0",
-      "phonetic_text": "tɪkət",
+      "phonetic_text": "tɪ.kɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dGlja2V0&hash=366f2e76c0c68d0e0f393d4f2c9fd540cec5028c&lang=en&cache-only=0",
-      "phonetic_am_text": "tikēt",
+      "phonetic_am_text": "ti.kit",
       "img": "https://cdn.langeek.co/photo/49492/original/ticket?type=jpeg",
       "pronunciation": "ˈtɪkɪt",
       "senses": [
@@ -1015,10 +1651,11 @@
       ]
     },
     {
+      "id": "14584f54-4bea-4b96-a435-eed8422393f7",
       "word": "E-ticket",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RS10aWNrZXQ&hash=4dc6e215238c519b2fd17b24bd27847527fbd552&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RS10aWNrZXQ&hash=4dc6e215238c519b2fd17b24bd27847527fbd552&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/23113/original/?type=jpeg",
@@ -1052,12 +1689,13 @@
       ]
     },
     {
+      "id": "f0d59137-b9f9-42c0-a47d-75ec86d5b856",
       "word": "transfer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhbnNmZXI&hash=9df5ebe0ddf4bbe69fcb2e18bbccf49196ba0d6b&lang=en&cache-only=0",
-      "phonetic_text": "trænsfɜr",
+      "phonetic_text": "træns.fɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhbnNmZXI&hash=9df5ebe0ddf4bbe69fcb2e18bbccf49196ba0d6b&lang=en&cache-only=0",
-      "phonetic_am_text": "trānsfēr",
+      "phonetic_am_text": "trāns.fēr",
       "img": "",
       "pronunciation": "ˈtɹænsfɝ/, /tɹænsˈfɝ",
       "senses": [
@@ -1068,12 +1706,13 @@
       ]
     },
     {
+      "id": "dcd2fd07-57cf-4006-8aec-487783a54b09",
       "word": "season ticket",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Vhc29uIHRpY2tldA&hash=038ce00f5c96337aa908a16aa929ac9243ffd682&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "si:.sʌn tɪ.kɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Vhc29uIHRpY2tldA&hash=038ce00f5c96337aa908a16aa929ac9243ffd682&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "si.san ti.kit",
       "img": "",
       "pronunciation": "sˈiːzən tˈɪkɪt",
       "senses": [
@@ -1105,12 +1744,13 @@
       ]
     },
     {
+      "id": "02a95172-8054-48bc-9662-6c834ec60152",
       "word": "bus pass",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVzIHBhc3M&hash=5b54270ba8a59397522da4c8725472b8364f1657&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bʌs pæs",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVzIHBhc3M&hash=5b54270ba8a59397522da4c8725472b8364f1657&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bas pās",
       "img": "",
       "pronunciation": "bˈʌs pˈæs",
       "senses": [
@@ -1142,12 +1782,13 @@
       ]
     },
     {
+      "id": "9889afff-2285-410e-83a1-b965871e0c97",
       "word": "one-way",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=b25lLXdheQ&hash=65163e17d23ff0a24cd03eae6291928cddc235c5&lang=en&cache-only=0",
-      "phonetic_text": "wʌnweɪ",
+      "phonetic_text": "n-weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=b25lLXdheQ&hash=65163e17d23ff0a24cd03eae6291928cddc235c5&lang=en&cache-only=0",
-      "phonetic_am_text": "wanwei",
+      "phonetic_am_text": "n-vei",
       "img": "https://cdn.langeek.co/photo/17323/original/one-way-ticket?type=jpeg",
       "pronunciation": "ˈwənˈweɪ",
       "senses": [
@@ -1171,12 +1812,13 @@
       ]
     },
     {
+      "id": "7a44f23c-8393-40e0-895d-148ec3e61bd9",
       "word": "hold-up",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG9sZC11cA&hash=c36cc0df847c152f58c789d64fee154a801e1695&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hoʊld-ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9sZC11cA&hash=c36cc0df847c152f58c789d64fee154a801e1695&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hooold-ap",
       "img": "",
       "pronunciation": "hˈoʊldˈʌp",
       "senses": [
@@ -1208,49 +1850,30 @@
       ]
     },
     {
+      "id": "61bec788-b4c3-4dfb-af80-9d2128fa9504",
       "word": "dwell time",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHdlbGwgdGltZQ&hash=d0ccd1100d9e9561174da6f4a64215e5e271a3ee&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dwɛl taɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHdlbGwgdGltZQ&hash=d0ccd1100d9e9561174da6f4a64215e5e271a3ee&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dvel taim",
       "img": "",
       "pronunciation": "dwˈɛl tˈaɪm",
       "senses": [
         {
           "definition": "the period a vehicle, such as a bus or train, remains stationary at a stop to allow passengers to board and alight",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Transit agencies aim to reduce dwell time to improve overall service efficiency."
-            },
-            {
-              "cf": "",
-              "x": "Excessive dwell time at busy stations can cause delays and disrupt schedules."
-            },
-            {
-              "cf": "",
-              "x": "Passengers' boarding and alighting speed significantly influences the dwell time at each stop."
-            },
-            {
-              "cf": "",
-              "x": "Design features like wide doors and low floors can help minimize dwell time for public transport vehicles."
-            },
-            {
-              "cf": "",
-              "x": "Accurate data on dwell time can aid in optimizing transit operations and scheduling."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "dbc3a33c-bec0-4624-a04c-a99df3a8bbf8",
       "word": "drive-time",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZHJpdmUtdGltZQ&hash=07919c149c4158826398815b6df1c5db6c8a8308&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "draɪv-taɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJpdmUtdGltZQ&hash=07919c149c4158826398815b6df1c5db6c8a8308&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "draiv-taim",
       "img": "",
       "pronunciation": "dɹˈaɪvtˈaɪm",
       "senses": [
@@ -1282,12 +1905,13 @@
       ]
     },
     {
+      "id": "2a226e12-5c68-4d6a-9493-457ab9b1fb95",
       "word": "level of service",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGV2ZWwgb2Ygc2VydmljZQ&hash=286021c8eb587876d6f98b81e788e9bd81853542&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "le.vəl ʌv sɜr.vɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=bGV2ZWwgb2Ygc2VydmljZQ&hash=286021c8eb587876d6f98b81e788e9bd81853542&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "le.vēl av sēr.vis",
       "img": "",
       "pronunciation": "lˈɛvəl ʌv sˈɜːvɪs",
       "senses": [

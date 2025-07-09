@@ -1,15 +1,17 @@
 {
+  "id": "9f021528-bfa4-490e-8d97-83f1f9b437a4",
   "topic": "knowledge_understanding",
   "title": "Logic & Wisdom",
   "lesson": "lesson_1",
   "word_list": [
     {
+      "id": "b8f6c6cd-cb0e-4e56-9a3c-168cc0bd3b43",
       "word": "horse sense",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG9yc2Ugc2Vuc2U&hash=cdc6c1bcf22e281807646cfef6691d57b3fffe56&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɔ:rs sɛns",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9yc2Ugc2Vuc2U&hash=cdc6c1bcf22e281807646cfef6691d57b3fffe56&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hawrs sens",
       "img": "https://cdn.langeek.co/photo/23051/original/?type=jpeg",
       "pronunciation": "hˈɔːɹs sˈɛns",
       "senses": [
@@ -41,10 +43,11 @@
       ]
     },
     {
-      "word": "[hold] water",
+      "id": "363fd7b6-fa42-4280-82ff-e2d96ab8afbd",
+      "word": "to [hold] water",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaG9sZCB3YXRlcg&hash=c139fb3c61dd1534020a8d41949fd14412f9ad98&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaG9sZCB3YXRlcg&hash=c139fb3c61dd1534020a8d41949fd14412f9ad98&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44766/original/?type=jpeg",
@@ -78,12 +81,13 @@
       ]
     },
     {
-      "word": "grey matter",
+      "id": "710414c5-eb58-49e0-a798-5a543aac518a",
+      "word": "gray matter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JheSBtYXR0ZXI&hash=6d4eae57b78e696412c77f40336c67aa7fc73c69&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "greɪ mæ.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JheSBtYXR0ZXI&hash=6d4eae57b78e696412c77f40336c67aa7fc73c69&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "grei mā.tēr",
       "img": "https://cdn.langeek.co/photo/42388/original/?type=jpeg",
       "pronunciation": "ɡɹˈeɪ mˈæɾɚ",
       "senses": [
@@ -92,19 +96,32 @@
           "examples": [
             {
               "cf": "",
-              "x": "Try using your grey matter and you might find the answer."
+              "x": "The professor's extensive knowledge is a result of years of exercising his gray matter."
+            },
+            {
+              "cf": "",
+              "x": "We need to put our collective gray matter to work in order to find a solution to this challenge."
+            },
+            {
+              "cf": "",
+              "x": "It's not just about memorization; you need to engage your gray matter to truly understand the subject."
+            },
+            {
+              "cf": "",
+              "x": "The team's creative ideas demonstrate their exceptional gray matter."
             }
           ]
         }
       ]
     },
     {
+      "id": "8fc7c71d-7537-4548-9483-79853c753070",
       "word": "mother wit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW90aGVyIHdpdA&hash=6013127258acbd6170acf870d587914daef50c63&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mʌ.ðər wɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=bW90aGVyIHdpdA&hash=6013127258acbd6170acf870d587914daef50c63&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ma.dhēr vit",
       "img": "https://cdn.langeek.co/photo/42392/original/?type=jpeg",
       "pronunciation": "mˈʌðɚ wˈɪt",
       "senses": [
@@ -136,10 +153,11 @@
       ]
     },
     {
+      "id": "4d6eea44-3d7c-43f1-aa79-483d8f204e43",
       "word": "against {one's} better judgment",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YWdhaW5zdCBvbmUncyBiZXR0ZXIganVkZ21lbnQ&hash=40e9b9df7dd8be945bb544f424d34eebbb1d6e3c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YWdhaW5zdCBvbmUncyBiZXR0ZXIganVkZ21lbnQ&hash=40e9b9df7dd8be945bb544f424d34eebbb1d6e3c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44762/original/?type=jpeg",
@@ -173,10 +191,11 @@
       ]
     },
     {
-      "word": "[talk] sense",
+      "id": "ee0f346b-bf23-4acd-910e-7f2c85921ea5",
+      "word": "to [talk] sense",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFsayBzZW5zZQ&hash=337e1bea20e4871fea0b0d8715f22f3a768b1203&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFsayBzZW5zZQ&hash=337e1bea20e4871fea0b0d8715f22f3a768b1203&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41468/original/?type=jpeg",
@@ -184,34 +203,18 @@
       "senses": [
         {
           "definition": "to speak in a clear and reasonable manner",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Please, talk sense!"
-            },
-            {
-              "cf": "",
-              "x": "Instead of making wild accusations, try to talk sense and provide evidence to support your claims."
-            },
-            {
-              "cf": "",
-              "x": "He needs to talk sense to the team and explain why this strategy is the best choice."
-            },
-            {
-              "cf": "",
-              "x": "When discussing important matters, it's crucial to talk sense and avoid emotional responses."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "7a2f7c72-8bc0-4d39-8017-0da47bfca039",
       "word": "thinking cap",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhpbmtpbmcgY2Fw&hash=48c7210e977b14f467411fd7031982b4afb06fc4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "θɪn.kɪng kæp",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhpbmtpbmcgY2Fw&hash=48c7210e977b14f467411fd7031982b4afb06fc4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "thin.king kāp",
       "img": "https://cdn.langeek.co/photo/44770/original/?type=jpeg",
       "pronunciation": "θˈɪŋkɪŋ kˈæp",
       "senses": [
@@ -243,10 +246,11 @@
       ]
     },
     {
-      "word": "[take] leave of {one's} senses",
+      "id": "2b897f1e-89af-423d-8265-cc36a3c9912b",
+      "word": "to [take] leave of {one's} senses",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBsZWF2ZSBvZiBvbmUncyBzZW5zZXM&hash=1d2a98e4b2012bdf423b225ade0f7a16427f8a71&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBsZWF2ZSBvZiBvbmUncyBzZW5zZXM&hash=1d2a98e4b2012bdf423b225ade0f7a16427f8a71&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42148/original/?type=jpeg",
@@ -276,10 +280,11 @@
       ]
     },
     {
+      "id": "4ff15827-1dc4-4b98-9254-26a0a740b682",
       "word": "(an old|a wise) head on young shoulders",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YW4gb2xkIHdpc2UgaGVhZCBvbiB5b3VuZyBzaG91bGRlcnM&hash=67c4a48921a590ea30b661750d668430ee959e09&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YW4gb2xkIHdpc2UgaGVhZCBvbiB5b3VuZyBzaG91bGRlcnM&hash=67c4a48921a590ea30b661750d668430ee959e09&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42390/original/?type=jpeg",
@@ -313,10 +318,11 @@
       ]
     },
     {
+      "id": "38617981-3f4e-4599-b77e-a84b3da6bd0d",
       "word": "wise (beyond|for) {one's} years",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=d2lzZSBiZXlvbmQgb25lJ3MgeWVhcnM&hash=3fda58c028ad8ac1ee6159cb211ef0b81f950033&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=d2lzZSBiZXlvbmQgb25lJ3MgeWVhcnM&hash=3fda58c028ad8ac1ee6159cb211ef0b81f950033&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42426/original/?type=jpeg",
@@ -324,20 +330,7 @@
       "senses": [
         {
           "definition": "exceptionally wise compared to most people at one's age",
-          "examples": [
-            {
-              "cf": "",
-              "x": "His knowledge of classical literature is impressive; he's truly wise for his years."
-            },
-            {
-              "cf": "",
-              "x": "Sarah's ability to analyze complex issues demonstrates that she is wise beyond her years."
-            },
-            {
-              "cf": "",
-              "x": "Though he's only 25, his financial acumen suggests he is wise beyond his years."
-            }
-          ]
+          "examples": []
         }
       ]
     }

@@ -1,13 +1,15 @@
 {
+  "id": "12b1c3c5-16a2-410d-8f7d-a91bc0dcca92",
   "topic": "feelings",
   "title": "Losing One's Temper",
   "lesson": "lesson_6",
   "word_list": [
     {
-      "word": "[throw] a (wobbly|wobbler)",
+      "id": "78f0b190-1d31-4a8a-837a-32251ea2e539",
+      "word": "to [throw] a (wobbly|wobbler)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGhyb3cgYSB3b2JibHk&hash=b16c5aeeda38726e4d2d7dd11c8ce5ded92826b8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGhyb3cgYSB3b2JibHk&hash=b16c5aeeda38726e4d2d7dd11c8ce5ded92826b8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42582/original/?type=jpeg",
@@ -41,10 +43,11 @@
       ]
     },
     {
-      "word": "[rant] and [rave]",
+      "id": "a099b348-8fd6-48cd-888c-0f12f5a9bea5",
+      "word": "to [rant] and [rave]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmFudCBhbmQgcmF2ZQ&hash=edbb97d48d2d82eefb167ab78cd116696f5bce96&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmFudCBhbmQgcmF2ZQ&hash=edbb97d48d2d82eefb167ab78cd116696f5bce96&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42578/original/?type=jpeg",
@@ -82,10 +85,11 @@
       ]
     },
     {
-      "word": "[scream|shout] (blue|bloody) murder",
+      "id": "4229274b-058a-46f7-b6fe-8c8a75a49457",
+      "word": "to [scream|shout] (blue|bloody) murder",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NyZWFtIGJsdWUgbXVyZGVy&hash=f8ce3d87d2946f339b8129428ba56d8cff3ce462&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NyZWFtIGJsdWUgbXVyZGVy&hash=f8ce3d87d2946f339b8129428ba56d8cff3ce462&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42602/original/?type=jpeg",
@@ -123,55 +127,28 @@
       ]
     },
     {
+      "id": "e67bef91-09e3-48d0-a327-2d97a4b04d64",
       "word": "a short fuse",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YSBzaG9ydCBmdXNl&hash=19c87ee9d1666a7dfcad13436d2dbcd29fdf5fa4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ə ʃɔrt fjuz",
       "phonetic_am": "https://tts.langeek.co/read?text=YSBzaG9ydCBmdXNl&hash=19c87ee9d1666a7dfcad13436d2dbcd29fdf5fa4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ē shawrt fyooz",
       "img": "https://cdn.langeek.co/photo/42720/original/?type=jpeg",
       "pronunciation": "ɐ ʃˈɔːɹt fjˈuːz",
       "senses": [
         {
           "definition": "one's tendency to suddenly become enraged due to having low tolerance",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He has a short fuse and often snaps at others for minor mistakes."
-            },
-            {
-              "cf": "",
-              "x": "She tends to have a short fuse when she's under a lot of stress."
-            },
-            {
-              "cf": "",
-              "x": "Yesterday, he had a short fuse and got into an argument with his coworker over a small disagreement."
-            },
-            {
-              "cf": "",
-              "x": "She had a short fuse during the family gathering and ended up storming out of the room."
-            },
-            {
-              "cf": "",
-              "x": "If he doesn't get enough sleep, he will likely have a short fuse and be easily irritated."
-            },
-            {
-              "cf": "",
-              "x": "I'm concerned that she will have a short fuse during the exam due to the pressure."
-            },
-            {
-              "cf": "",
-              "x": "She's got a reputation for a short fuse, so it's best to approach her with caution."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[go] through the roof",
+      "id": "ee2a256c-4d66-4e72-a76c-2ef17153b2c4",
+      "word": "to [go] through the roof",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ28gdGhyb3VnaCB0aGUgcm9vZg&hash=3dd565e8413edb7dca0affa52d9852a1c31b331b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ28gdGhyb3VnaCB0aGUgcm9vZg&hash=3dd565e8413edb7dca0affa52d9852a1c31b331b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42580/original/?type=jpeg",
@@ -179,36 +156,16 @@
       "senses": [
         {
           "definition": "to become extremely angry, agitated, or upset",
-          "examples": [
-            {
-              "cf": "",
-              "x": "When he heard the news, he went through the roof and started yelling."
-            },
-            {
-              "cf": "",
-              "x": "Her boss's criticism made her go through the roof with anger."
-            },
-            {
-              "cf": "",
-              "x": "He went through the roof when he found out about the betrayal."
-            },
-            {
-              "cf": "",
-              "x": "Their parents went through the roof when they discovered the broken vase."
-            },
-            {
-              "cf": "",
-              "x": "I'm afraid she will go through the roof if she doesn't get a promotion."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "5e37cb96-1f02-47c9-bc40-80a6f555283b",
       "word": "worked up",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=d29ya2VkIHVw&hash=db68e22f5b531ec49f276b8646e569240647b684&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=d29ya2VkIHVw&hash=db68e22f5b531ec49f276b8646e569240647b684&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42616/original/?type=jpeg",
@@ -242,10 +199,11 @@
       ]
     },
     {
+      "id": "1cfe53d6-db07-4b6f-9cef-7f82d2c6d195",
       "word": "(as|) red as a cherry",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXMgcmVkIGFzIGEgY2hlcnJ5&hash=028e928cb9f3a8b4fe37a070003db6f2c5d2874f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXMgcmVkIGFzIGEgY2hlcnJ5&hash=028e928cb9f3a8b4fe37a070003db6f2c5d2874f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42576/original/?type=jpeg",
@@ -283,10 +241,11 @@
       ]
     },
     {
-      "word": "[make] {one's} hackles rise",
+      "id": "42b869f3-d9dd-484f-b16a-a26e6881f250",
+      "word": "to [make] {one's} hackles rise",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZSBvbmUncyBoYWNrbGVzIHJpc2U&hash=80b70dd9ce817257d55638fb0d7ba1ea6a05ff50&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFrZSBvbmUncyBoYWNrbGVzIHJpc2U&hash=80b70dd9ce817257d55638fb0d7ba1ea6a05ff50&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42588/original/?type=jpeg",
@@ -294,40 +253,16 @@
       "senses": [
         {
           "definition": "to do something that makes someone become extremely angry",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Every time he interrupts her, it makes her hackles rise in frustration."
-            },
-            {
-              "cf": "",
-              "x": "The offensive comment they made always makes his hackles rise."
-            },
-            {
-              "cf": "",
-              "x": "When she heard the false accusation, it made her hackles rise with anger."
-            },
-            {
-              "cf": "",
-              "x": "Their disrespectful behavior made his hackles rise during the meeting."
-            },
-            {
-              "cf": "",
-              "x": "If they continue to ignore her input, it will make her hackles rise."
-            },
-            {
-              "cf": "",
-              "x": "I have a feeling their insincere apologies will make his hackles rise even more."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[see] red",
+      "id": "f9edc01b-39c1-43da-a6ce-547e9dbf8d41",
+      "word": "to [see] red",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2VlIHJlZA&hash=3ef7cfb4daaa53c0ed27bb812b6bb31dd27c334d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2VlIHJlZA&hash=3ef7cfb4daaa53c0ed27bb812b6bb31dd27c334d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/52143/original/anger?type=jpeg",
@@ -361,10 +296,11 @@
       ]
     },
     {
+      "id": "8377f750-4aee-4e65-9458-d6b6104a4b16",
       "word": "(as|) mad as a hornet",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXMgbWFkIGFzIGEgaG9ybmV0&hash=d45e5b18a74f3d57ba888c6312e96b5324f98d62&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YXMgbWFkIGFzIGEgaG9ybmV0&hash=d45e5b18a74f3d57ba888c6312e96b5324f98d62&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42584/original/?type=jpeg",
@@ -402,10 +338,11 @@
       ]
     },
     {
-      "word": "[fly] off the handle",
+      "id": "6ba907ac-89ae-49e0-a496-afc20b8c99c0",
+      "word": "to [fly] off the handle",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmx5IG9mZiB0aGUgaGFuZGxl&hash=07fe63d13a1d45e1635f855c09601be32ed18f65&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmx5IG9mZiB0aGUgaGFuZGxl&hash=07fe63d13a1d45e1635f855c09601be32ed18f65&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42630/original/?type=jpeg",
@@ -443,10 +380,11 @@
       ]
     },
     {
-      "word": "[blow] a (fuse|gasket)",
+      "id": "5a09bce8-4142-48c0-935b-eb3fa55f1b7d",
+      "word": "to [blow] a (fuse|gasket)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmxvdyBhIGZ1c2U&hash=0b1ffb1ab07ad2cb9dcc2b92074f4f77f2134ee3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmxvdyBhIGZ1c2U&hash=0b1ffb1ab07ad2cb9dcc2b92074f4f77f2134ee3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42532/original/?type=jpeg",
@@ -476,13 +414,14 @@
       ]
     },
     {
-      "word": "[foam|froth] at the mouth",
+      "id": "86a37611-c2d5-4b9c-822a-987a0b44c338",
+      "word": "to [foam|froth] at the mouth",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZm9hbSBhdCB0aGUgbW91dGg&hash=ad92c468c6de1dec1eb8099ab9f58278095206b6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZm9hbSBhdCB0aGUgbW91dGg&hash=ad92c468c6de1dec1eb8099ab9f58278095206b6&lang=en&cache-only=0",
       "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/28812/original/angry?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60628/original/angry?type=jpeg",
       "pronunciation": "fˈoʊm fɹˈɑːθ æt ðə mˈaʊθ",
       "senses": [
         {
@@ -517,10 +456,11 @@
       ]
     },
     {
+      "id": "134a00dc-52e1-4756-8343-56a29faa9950",
       "word": "hot under the collar",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aG90IHVuZGVyIHRoZSBjb2xsYXI&hash=3176fbbec5f9f63caea012b56782c52b35bed73a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aG90IHVuZGVyIHRoZSBjb2xsYXI&hash=3176fbbec5f9f63caea012b56782c52b35bed73a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/52145/original/hate?type=jpeg",
@@ -558,12 +498,13 @@
       ]
     },
     {
+      "id": "ff2e5647-5e4b-4f57-ae96-15cb36b78570",
       "word": "fit to be tied",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Zml0IHRvIGJlIHRpZWQ&hash=df882e7fb24964c1744670e90336576f067c6f29&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɪt tu: bi: taɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=Zml0IHRvIGJlIHRpZWQ&hash=df882e7fb24964c1744670e90336576f067c6f29&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fit too bi taid",
       "img": "https://cdn.langeek.co/photo/42528/original/?type=jpeg",
       "pronunciation": "fˈɪt təbi tˈaɪd",
       "senses": [
@@ -599,10 +540,11 @@
       ]
     },
     {
-      "word": "[go] ballistic",
+      "id": "6f4f4206-4ae0-4393-b548-11200384443f",
+      "word": "to [go] ballistic",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ28gYmFsbGlzdGlj&hash=0ae5dd33cad2e8af899970f63623981762a68a7b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ28gYmFsbGlzdGlj&hash=0ae5dd33cad2e8af899970f63623981762a68a7b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/51198/original/?type=jpeg",
@@ -640,10 +582,11 @@
       ]
     },
     {
-      "word": "[do] {one's} nut",
+      "id": "cfd30879-87b6-4994-9935-911d917bc08a",
+      "word": "to [do] {one's} nut",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZG8gb25lJ3MgbnV0&hash=03a403eb83519178bb827805cef31736efb3d8d8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZG8gb25lJ3MgbnV0&hash=03a403eb83519178bb827805cef31736efb3d8d8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/26776/original/?type=jpeg",
@@ -651,20 +594,7 @@
       "senses": [
         {
           "definition": "to become really angry in a way that causes one to act uncontrollably",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Whenever he sees people littering, he does his nut and starts lecturing them about environmental responsibility."
-            },
-            {
-              "cf": "",
-              "x": "Yesterday, he did his nut when he discovered that his car had been towed without any warning."
-            },
-            {
-              "cf": "",
-              "x": "If they cancel the concert at the last minute, he will do his nut and demand a refund."
-            }
-          ]
+          "examples": []
         }
       ]
     }

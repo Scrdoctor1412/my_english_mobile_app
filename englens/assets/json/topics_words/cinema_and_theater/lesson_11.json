@@ -1,15 +1,17 @@
 {
+  "id": "c4a5de29-4a22-4c4a-91b5-504c83f269e3",
   "topic": "cinema_and_theater",
   "title": "The Film Industry",
   "lesson": "lesson_11",
   "word_list": [
     {
-      "word": "big screen",
+      "id": "e96f5eb2-4f8b-4af7-a996-5c6c38474fbf",
+      "word": "the big screen",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIGJpZyBzY3JlZW4&hash=3ec6ebb4a3c44035a53456d42a0dafb6ce25dc8b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɪg skri:n",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIGJpZyBzY3JlZW4&hash=3ec6ebb4a3c44035a53456d42a0dafb6ce25dc8b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "big skrin",
       "img": "",
       "pronunciation": "bˈɪɡ skɹˈiːn",
       "senses": [
@@ -41,14 +43,15 @@
       ]
     },
     {
+      "id": "16a1b202-d39b-4556-a754-c4276f270c4e",
       "word": "Bollywood",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Qm9sbHl3b29k&hash=c71c67f25725288a904b182d687038197583978c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Qm9sbHl3b29k&hash=c71c67f25725288a904b182d687038197583978c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
-      "pronunciation": "bˈɑːliwˌʊd",
+      "pronunciation": "ˈbɑliˌwʊd",
       "senses": [
         {
           "definition": "the film industry of India, based in the city of Mumbai",
@@ -78,10 +81,11 @@
       ]
     },
     {
+      "id": "04deef02-7f98-4597-9b79-bbc6e7d13d99",
       "word": "Hollywood",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=SG9sbHl3b29k&hash=625799623d5253140d0acd4fa3abd7ed02c10865&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=SG9sbHl3b29k&hash=625799623d5253140d0acd4fa3abd7ed02c10865&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -89,15 +93,37 @@
       "senses": [
         {
           "definition": "the American film industry, involving celebrities, its lifestyle, etc. as a whole",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Hollywood has a significant influence on global culture."
+            },
+            {
+              "cf": "",
+              "x": "Hollywood is known worldwide for its film industry."
+            },
+            {
+              "cf": "",
+              "x": "Many actors dream of working in Hollywood."
+            },
+            {
+              "cf": "",
+              "x": "She visited Hollywood to see the famous Walk of Fame."
+            },
+            {
+              "cf": "",
+              "x": "The documentary provided a behind-the-scenes look at Hollywood."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "dd0d1f4d-0b17-4433-8da1-05f1dc150cc5",
       "word": "Academy Award",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QWNhZGVteSBBd2FyZA&hash=fffda135aff396b01f52d8003e91e5d6f852f9a8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QWNhZGVteSBBd2FyZA&hash=fffda135aff396b01f52d8003e91e5d6f852f9a8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/37293/original/?type=jpeg",
@@ -110,10 +136,11 @@
       ]
     },
     {
+      "id": "899bb546-b931-4b18-9ffb-7ac4e3e0cd90",
       "word": "cinema verite",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2luZW1hIHZlcml0ZQ&hash=156452ba778660445b438271acb3597649fad630&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2luZW1hIHZlcml0ZQ&hash=156452ba778660445b438271acb3597649fad630&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -126,10 +153,11 @@
       ]
     },
     {
+      "id": "d6cc94d6-131a-4e85-b8e8-b73444b75042",
       "word": "Nollywood",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Tm9sbHl3b29k&hash=8304414ce8d60938125a780b6d77d073ce175ce6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Tm9sbHl3b29k&hash=8304414ce8d60938125a780b6d77d073ce175ce6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -142,12 +170,13 @@
       ]
     },
     {
+      "id": "bdc1f4fb-0342-46ae-8524-f68362f6773e",
       "word": "red carpet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVkIGNhcnBldA&hash=7703689beb6c56b36d28b20f82e3da2c3cbf646a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɛd kɑ:r.pɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVkIGNhcnBldA&hash=7703689beb6c56b36d28b20f82e3da2c3cbf646a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "red kaar.pit",
       "img": "https://cdn.langeek.co/photo/32056/original/?type=jpeg",
       "pronunciation": "ɹˈɛd kˈɑːɹpɪt",
       "senses": [
@@ -158,12 +187,13 @@
       ]
     },
     {
+      "id": "579348eb-b16a-40ae-875d-bd20891f1638",
       "word": "blockbuster",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmxvY2tidXN0ZXI&hash=0782d696061d96c8a54e6139a76eb96f5a26554d&lang=en&cache-only=0",
-      "phonetic_text": "blɑ:kbʌstər",
+      "phonetic_text": "blɑk.bʌs.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=YmxvY2tidXN0ZXI&hash=0782d696061d96c8a54e6139a76eb96f5a26554d&lang=en&cache-only=0",
-      "phonetic_am_text": "blaakbastēr",
+      "phonetic_am_text": "blaak.bas.tēr",
       "img": "",
       "pronunciation": "ˈbɫɑkˌbəstɝ",
       "senses": [
@@ -183,14 +213,15 @@
       ]
     },
     {
+      "id": "ff9afb5b-efad-46c9-b942-258c800b1825",
       "word": "box office",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym94IG9mZmljZQ&hash=a924e5aaf9347541a502a429e11ea386fd01c997&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɑ:ks ɑf.aɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym94IG9mZmljZQ&hash=a924e5aaf9347541a502a429e11ea386fd01c997&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baaks aaf.ais",
       "img": "",
-      "pronunciation": "bˈɑːks ˈɑːfɪs",
+      "pronunciation": "bɑks ˈɑːfɪs",
       "senses": [
         {
           "definition": "the total income a movie makes by selling tickets",
@@ -216,12 +247,13 @@
       ]
     },
     {
+      "id": "bf355be3-742d-456f-8d6a-431dab570eb1",
       "word": "production company",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvZHVjdGlvbiBjb21wYW55&hash=4fdc3de74ff4e741ca5628880fb8b9495a6b7a38&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɜr.dək.ʃən kʌm.pə.ni",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvZHVjdGlvbiBjb21wYW55&hash=4fdc3de74ff4e741ca5628880fb8b9495a6b7a38&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pēr.dēk.shēn kam.pē.ni",
       "img": "",
       "pronunciation": "pɹədˈʌkʃən kˈʌmpəni",
       "senses": [
@@ -232,12 +264,13 @@
       ]
     },
     {
+      "id": "bd58389f-546e-4333-b163-466637dc1d99",
       "word": "independent cinema",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5kZXBlbmRlbnQgY2luZW1h&hash=e5da727d1698c09247b62bc500f5e3ae9188455c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn.dɪ.pɛn.dənt sɪ.nə.mə",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5kZXBlbmRlbnQgY2luZW1h&hash=e5da727d1698c09247b62bc500f5e3ae9188455c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in.di.pen.dēnt si.nē.mē",
       "img": "",
       "pronunciation": "ˌɪndɪpˈɛndənt sˈɪnəmə",
       "senses": [
@@ -248,12 +281,13 @@
       ]
     },
     {
+      "id": "42d132c2-1131-45d7-ae38-878b53dd7977",
       "word": "experimental cinema",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXhwZXJpbWVudGFsIGNpbmVtYQ&hash=cf08e1013fcfac3e023e69196b5a3bbe2fb0323f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪk.spɛ.rɪ.mɛn.təl sɪ.nə.mə",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXhwZXJpbWVudGFsIGNpbmVtYQ&hash=cf08e1013fcfac3e023e69196b5a3bbe2fb0323f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ik.spe.ri.men.tēl si.nē.mē",
       "img": "",
       "pronunciation": "ɛkspˌɛɹɪmˈɛntəl sˈɪnəmə",
       "senses": [
@@ -264,10 +298,11 @@
       ]
     },
     {
+      "id": "8905b2d6-a02b-4852-9744-9db13510196e",
       "word": "Dogme 95",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RG9nbWUgOTU&hash=737bc01b6c3c117f4c19a365ff91f2ece705e5b4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RG9nbWUgOTU&hash=737bc01b6c3c117f4c19a365ff91f2ece705e5b4&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -280,12 +315,13 @@
       ]
     },
     {
+      "id": "67135781-85af-42f9-beaf-0d90d3623f45",
       "word": "silver screen",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2lsdmVyIHNjcmVlbg&hash=0940571584f9d34ff81a9664e1016fbc149d62ec&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɪl.vər skri:n",
       "phonetic_am": "https://tts.langeek.co/read?text=c2lsdmVyIHNjcmVlbg&hash=0940571584f9d34ff81a9664e1016fbc149d62ec&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sil.vēr skrin",
       "img": "",
       "pronunciation": "sˈɪlvɚ skɹˈiːn",
       "senses": [
@@ -296,12 +332,13 @@
       ]
     },
     {
+      "id": "c54bdde6-5fc7-4ab7-bad2-a521c6eae316",
       "word": "cinematic virtual reality",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2luZW1hdGljIHZpcnR1YWwgcmVhbGl0eQ&hash=8a041cb231b46cecb07b28a8d9cbc41813718a45&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɪ.nə.mæ.tɪk vɜr.ʧuəl riæ.lə.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2luZW1hdGljIHZpcnR1YWwgcmVhbGl0eQ&hash=8a041cb231b46cecb07b28a8d9cbc41813718a45&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "si.nē.mā.tik vēr.chooēl riā.lē.ti",
       "img": "",
       "pronunciation": "sˌɪnɪmˈæɾɪk vˈɜːtʃuːəl ɹɪˈælɪɾi",
       "senses": [
@@ -312,14 +349,15 @@
       ]
     },
     {
+      "id": "64387c1b-80cf-4b35-af64-5b9a58221269",
       "word": "feature film",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmVhdHVyZSBmaWxt&hash=e12ae0b0467cba3a237c303985d75a798bd5c3db&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fi.ʧɜr fɪlm",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmVhdHVyZSBmaWxt&hash=e12ae0b0467cba3a237c303985d75a798bd5c3db&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fi.chēr film",
       "img": "",
-      "pronunciation": "fˈiːtʃɚ fˈɪlm",
+      "pronunciation": "ˈfiːʧɚ ˈfɪlm",
       "senses": [
         {
           "definition": "a full-length movie that has a story",
@@ -349,12 +387,13 @@
       ]
     },
     {
+      "id": "40a3830d-efe5-4a44-b986-29ef95bcf1f0",
       "word": "short film",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2hvcnQgZmlsbQ&hash=b3399773e4f2c3c55e0bb9a5811d678da8971e73&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʃɔrt fɪlm",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hvcnQgZmlsbQ&hash=b3399773e4f2c3c55e0bb9a5811d678da8971e73&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "shawrt film",
       "img": "",
       "pronunciation": "ʃˈɔːɹt fˈɪlm",
       "senses": [
@@ -365,12 +404,13 @@
       ]
     },
     {
+      "id": "80a8f7ee-7625-4884-8419-e3593d28774b",
       "word": "world cinema",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d29ybGQgY2luZW1h&hash=615fc3d6fa9c0213c2f4c4da4a8d1668ab85694e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɜrld sɪ.nə.mə",
       "phonetic_am": "https://tts.langeek.co/read?text=d29ybGQgY2luZW1h&hash=615fc3d6fa9c0213c2f4c4da4a8d1668ab85694e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vērld si.nē.mē",
       "img": "",
       "pronunciation": "wˈɜːld sˈɪnəmə",
       "senses": [
@@ -381,12 +421,13 @@
       ]
     },
     {
+      "id": "ea8cf407-9ff8-44a1-8cc1-1f50f869ffc5",
       "word": "narrative film",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmFycmF0aXZlIGZpbG0&hash=a38857ffc41c7d13628cecb2a474e6e4dc58e9f7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "næ.rə.tɪv fɪlm",
       "phonetic_am": "https://tts.langeek.co/read?text=bmFycmF0aXZlIGZpbG0&hash=a38857ffc41c7d13628cecb2a474e6e4dc58e9f7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nā.rē.tiv film",
       "img": "",
       "pronunciation": "nˈæɹətˌɪv fˈɪlm",
       "senses": [
@@ -397,14 +438,15 @@
       ]
     },
     {
+      "id": "b555e578-a3ff-460d-97f1-034cecff0e69",
       "word": "special effects",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BlY2lhbCBlZmZlY3Rz&hash=e44d043c4c43d6c93308a9d26c02bcda97cc2872&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spɛ.ʃəl i.fɛkts",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BlY2lhbCBlZmZlY3Rz&hash=e44d043c4c43d6c93308a9d26c02bcda97cc2872&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "spe.shēl i.fekts",
       "img": "",
-      "pronunciation": "spˈɛʃəl ɪfˈɛkts",
+      "pronunciation": "ˈspɛʃəl ɪˈfɛkts",
       "senses": [
         {
           "definition": "techniques used in movies and other media to create cool visuals or sounds using computers or filmmaking tricks to add excitement",
@@ -434,12 +476,13 @@
       ]
     },
     {
+      "id": "27cc03d7-4a22-406e-9055-fa70bd854389",
       "word": "film crew",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmlsbSBjcmV3&hash=5f1dc280b753be9b4d9e41ef77386e89308704f2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɪlm kru",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmlsbSBjcmV3&hash=5f1dc280b753be9b4d9e41ef77386e89308704f2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "film kroo",
       "img": "",
       "pronunciation": "fˈɪlm kɹˈuː",
       "senses": [
@@ -450,10 +493,11 @@
       ]
     },
     {
+      "id": "a467e223-9ab6-4299-8446-184920a7da21",
       "word": "Hollywood ending",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=SG9sbHl3b29kIGVuZGluZw&hash=18491c90eda26ac2fdb27f12ba931747348eb876&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=SG9sbHl3b29kIGVuZGluZw&hash=18491c90eda26ac2fdb27f12ba931747348eb876&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -466,12 +510,13 @@
       ]
     },
     {
+      "id": "1832e425-14dc-409e-b221-6b5a0a29dc16",
       "word": "multiplex",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXVsdGlwbGV4&hash=f895235314c59b6e8f6ffe9a1c65220e3a0635ff&lang=en&cache-only=0",
-      "phonetic_text": "mʌltiplɛks",
+      "phonetic_text": "məl.tip.lɛks",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVsdGlwbGV4&hash=f895235314c59b6e8f6ffe9a1c65220e3a0635ff&lang=en&cache-only=0",
-      "phonetic_am_text": "maltipleks",
+      "phonetic_am_text": "mēl.tip.leks",
       "img": "",
       "pronunciation": "ˈməɫtiˌpɫɛks",
       "senses": [
@@ -482,14 +527,15 @@
       ]
     },
     {
+      "id": "ac7f002d-3306-41e8-bd6d-1c182cd72ce0",
       "word": "silent movie",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2lsZW50IG1vdmll&hash=4168b11066e02df76f6c09d1e74815979566a581&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "saɪ.lənt mu:.vi",
       "phonetic_am": "https://tts.langeek.co/read?text=c2lsZW50IG1vdmll&hash=4168b11066e02df76f6c09d1e74815979566a581&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sai.lēnt moo.vi",
       "img": "https://cdn.langeek.co/photo/19082/original/silent-movie?type=jpeg",
-      "pronunciation": "sˈaɪlənt mˈuːvi",
+      "pronunciation": "ˈsaɪlənt ˈmuːvi",
       "senses": [
         {
           "definition": "a movie with no spoken dialogue",
@@ -498,12 +544,13 @@
       ]
     },
     {
+      "id": "d01cabd6-252d-4a91-a56c-2bd481a4177d",
       "word": "movies",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW92aWVz&hash=56ba9e4a5999325343e21eca2f0b3da4760d9b5d&lang=en&cache-only=0",
-      "phonetic_text": "mu:viz",
+      "phonetic_text": "mu.viz",
       "phonetic_am": "https://tts.langeek.co/read?text=bW92aWVz&hash=56ba9e4a5999325343e21eca2f0b3da4760d9b5d&lang=en&cache-only=0",
-      "phonetic_am_text": "mooviz",
+      "phonetic_am_text": "moo.viz",
       "img": "",
       "pronunciation": "ˈmuviz",
       "senses": [
@@ -519,14 +566,15 @@
       ]
     },
     {
+      "id": "f44f0ca8-0688-4791-9630-5669ba4cfe33",
       "word": "classic",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xhc3NpYw&hash=d7ddca8ab7f20f5274b046601b38e54508288cf2&lang=en&cache-only=0",
-      "phonetic_text": "klæsɪk",
+      "phonetic_text": "klæ.sɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xhc3NpYw&hash=d7ddca8ab7f20f5274b046601b38e54508288cf2&lang=en&cache-only=0",
-      "phonetic_am_text": "klāsik",
+      "phonetic_am_text": "klā.sik",
       "img": "",
-      "pronunciation": "ˈkɫæsɪk",
+      "pronunciation": "ˈklæsɪk",
       "senses": [
         {
           "definition": "a well-known and highly respected piece of writing, music, or movie that is considered valuable and of high quality",
@@ -548,12 +596,13 @@
       ]
     },
     {
+      "id": "18e77572-ae3b-482a-bc2f-a35793526242",
       "word": "soundtrack",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c291bmR0cmFjaw&hash=7fd98991e7a2444a10c7b9e8930d8c148e30a9ad&lang=en&cache-only=0",
-      "phonetic_text": "saʊndtræk",
+      "phonetic_text": "saʊnd.træk",
       "phonetic_am": "https://tts.langeek.co/read?text=c291bmR0cmFjaw&hash=7fd98991e7a2444a10c7b9e8930d8c148e30a9ad&lang=en&cache-only=0",
-      "phonetic_am_text": "sawndtrāk",
+      "phonetic_am_text": "saoond.trāk",
       "img": "",
       "pronunciation": "ˈsaʊnˌtɹæk/, /ˈsaʊndˌtɹæk",
       "senses": [
@@ -585,13 +634,14 @@
       ]
     },
     {
+      "id": "fe6508d2-8e1b-44f0-b767-aac759602b5f",
       "word": "movie theater",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW92aWUgdGhlYXRlcg&hash=b87a45d6edf8ebf2ab92072383518dddf576b712&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mu:.vi θi:ə.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=bW92aWUgdGhlYXRlcg&hash=b87a45d6edf8ebf2ab92072383518dddf576b712&lang=en&cache-only=0",
-      "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/28778/original/movie-theater?type=jpeg",
+      "phonetic_am_text": "moo.vi thiē.tēr",
+      "img": "https://cdn.langeek.co/photo/60680/original/movie-theater?type=jpeg",
       "pronunciation": "ˈmuːvi ˈθiːətɚ",
       "senses": [
         {
@@ -622,12 +672,13 @@
       ]
     },
     {
+      "id": "9fca87ea-0a6f-42f2-82f5-5fae2fc1ff82",
       "word": "first-look",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zmlyc3QtbG9vaw&hash=96e2e4acca4898aacd5eb2798be3e32f8a565aa7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɜrst-lʊk",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmlyc3QtbG9vaw&hash=96e2e4acca4898aacd5eb2798be3e32f8a565aa7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fērst-look",
       "img": "",
       "pronunciation": "fˈɜːstlˈʊk",
       "senses": [
@@ -638,12 +689,13 @@
       ]
     },
     {
+      "id": "b0919175-d0b7-4c58-b70b-fd80b50a0898",
       "word": "housekeeping deal",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG91c2VrZWVwaW5nIGRlYWw&hash=74d7d414ccf8000165d74540289716b466543e38&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "haʊs.ki.pɪng di:l",
       "phonetic_am": "https://tts.langeek.co/read?text=aG91c2VrZWVwaW5nIGRlYWw&hash=74d7d414ccf8000165d74540289716b466543e38&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "haoos.ki.ping dil",
       "img": "",
       "pronunciation": "hˈaʊskiːpɪŋ dˈiːl",
       "senses": [

@@ -1,13 +1,15 @@
 {
+  "id": "ec39c5f3-1a5a-40ff-ae98-64bf620123fa",
   "topic": "describing_qualities",
   "title": "Nature",
   "lesson": "lesson_13",
   "word_list": [
     {
+      "id": "421e3dea-ac03-4380-82e7-3eefc42021cf",
       "word": "Adam's ale",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QWRhbSdzIGFsZQ&hash=b6f578a56f7cb3cd3c76d2dfa956390afb07a97b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QWRhbSdzIGFsZQ&hash=b6f578a56f7cb3cd3c76d2dfa956390afb07a97b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -20,10 +22,11 @@
       ]
     },
     {
+      "id": "1cfe77d3-38c0-4050-95e3-fdfb179b99b8",
       "word": "act of God",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YWN0IG9mIEdvZA&hash=ce7bb0ddb219d38d64549f6ef822f40e509c4c1c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YWN0IG9mIEdvZA&hash=ce7bb0ddb219d38d64549f6ef822f40e509c4c1c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -45,10 +48,11 @@
       ]
     },
     {
-      "word": "[rain] cats and dogs",
+      "id": "e7703890-b9f4-45da-ba4b-216060f88670",
+      "word": "to [rain] cats and dogs",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmFpbiBjYXRzIGFuZCBkb2dz&hash=b1f0b4e1ce1675afc40b7eee825505519f0ad402&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmFpbiBjYXRzIGFuZCBkb2dz&hash=b1f0b4e1ce1675afc40b7eee825505519f0ad402&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -82,10 +86,11 @@
       ]
     },
     {
+      "id": "7f973c2b-fda4-4f92-8266-970912611f73",
       "word": "(chilled|frozen) to the bone",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Y2hpbGxlZCB0byB0aGUgYm9uZQ&hash=afbc577042aeb72198eb513d317b4876b0cfe4d0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hpbGxlZCB0byB0aGUgYm9uZQ&hash=afbc577042aeb72198eb513d317b4876b0cfe4d0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -93,36 +98,16 @@
       "senses": [
         {
           "definition": "extremely or uncomfortably cold",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After walking for hours in the snowstorm without proper protection, I was chilled to the bone and desperately sought warmth."
-            },
-            {
-              "cf": "",
-              "x": "The icy wind cut through their clothing, leaving them frozen to the bone and longing for shelter."
-            },
-            {
-              "cf": "",
-              "x": "She stood outside in the freezing rain, shivering and chilled to the bone within minutes."
-            },
-            {
-              "cf": "",
-              "x": "The mountaineers reached the summit, where the biting cold air left them frozen to the bone despite their layered clothing."
-            },
-            {
-              "cf": "",
-              "x": "The winter night was so frigid that even with a heavy coat, I felt chilled to the bone within moments of stepping outside."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "d7a990be-3f4c-4e66-aad5-45042e9e66dc",
       "word": "(chilled|frozen) to the marrow",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Y2hpbGxlZCB0byB0aGUgbWFycm93&hash=3cce7d86e2e5e0d3a933500ca5dbda4ba57bd2d7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hpbGxlZCB0byB0aGUgbWFycm93&hash=3cce7d86e2e5e0d3a933500ca5dbda4ba57bd2d7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -130,38 +115,18 @@
       "senses": [
         {
           "definition": "(of temperature) falling below the freezing point",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After standing outside in the freezing wind, I was chilled to the marrow and couldn't stop shivering."
-            },
-            {
-              "cf": "",
-              "x": "They ventured into the icy wilderness without proper gear and soon found themselves frozen to the marrow."
-            },
-            {
-              "cf": "",
-              "x": "The blizzard was so severe that even with multiple layers of clothing, I felt chilled to the marrow."
-            },
-            {
-              "cf": "",
-              "x": "The swimmer emerged from the frigid water, chilled to the marrow, but exhilarated by the experience."
-            },
-            {
-              "cf": "",
-              "x": "The mountaineers traversed the treacherous peaks, their bodies becoming frozen to the marrow from the biting cold."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "c16882b1-c8bb-494c-832f-a6e09775dc05",
       "word": "dog days",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZG9nIGRheXM&hash=1f565520baa1f9b8d89e3a922017d9e9811f9fa8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɔ:g deɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG9nIGRheXM&hash=1f565520baa1f9b8d89e3a922017d9e9811f9fa8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dawg deiz",
       "img": "",
       "pronunciation": "dˈɑːɡ dˈeɪz",
       "senses": [
@@ -172,12 +137,13 @@
       ]
     },
     {
+      "id": "e122cd32-d486-4af2-b4cb-3cb7531c6093",
       "word": "dry spell",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJ5IHNwZWxs&hash=507d85b17e9c9817e7bd217317b70248f9bdd796&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "draɪ spɛl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJ5IHNwZWxs&hash=507d85b17e9c9817e7bd217317b70248f9bdd796&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "drai spel",
       "img": "",
       "pronunciation": "dɹˈaɪ spˈɛl",
       "senses": [
@@ -209,47 +175,28 @@
       ]
     },
     {
+      "id": "4ed91213-97d1-499b-a383-f7b9bf118987",
       "word": "come rain or come shine",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Y29tZSByYWluIG9yIGNvbWUgc2hpbmU&hash=9de5c04056d268d5a525ec43a2f3119d616bd25a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kʌm reɪn ɔ:r kʌm ʃaɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tZSByYWluIG9yIGNvbWUgc2hpbmU&hash=9de5c04056d268d5a525ec43a2f3119d616bd25a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kam rein awr kam shain",
       "img": "",
       "pronunciation": "kˈʌm ɹˈeɪn ɔːɹ kˈʌm ʃˈaɪn",
       "senses": [
         {
           "definition": "used for saying that one does something regardless of how bad the weather is",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The mail carrier delivers the letters to our doorstep, come rain or come shine."
-            },
-            {
-              "cf": "",
-              "x": "The dedicated gardener tends to her plants every day, come rain or come shine."
-            },
-            {
-              "cf": "",
-              "x": "The outdoor concert will go on as scheduled, come rain or come shine, with proper arrangements for the audience's comfort."
-            },
-            {
-              "cf": "",
-              "x": "The soccer team practices diligently, come rain or come shine, to prepare for the upcoming tournament."
-            },
-            {
-              "cf": "",
-              "x": "We enjoy our weekly family picnic in the park, come rain or come shine, with umbrellas and raincoats as necessary."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "fa3ea0a4-4f4a-47f6-845f-8a14ccffd0f3",
       "word": "white Christmas",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2hpdGUgQ2hyaXN0bWFz&hash=6658c34cdd68d7d1d39b2a372e4d6c3f1f4dc6e1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hpdGUgQ2hyaXN0bWFz&hash=6658c34cdd68d7d1d39b2a372e4d6c3f1f4dc6e1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -279,10 +226,11 @@
       ]
     },
     {
+      "id": "d5a08efa-bd9b-4cfb-9e27-38829d518506",
       "word": "Indian summer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=SW5kaWFuIHN1bW1lcg&hash=984c6fe3956b3c58bf57fbf153f1feaddf94c5c1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=SW5kaWFuIHN1bW1lcg&hash=984c6fe3956b3c58bf57fbf153f1feaddf94c5c1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -295,10 +243,11 @@
       ]
     },
     {
+      "id": "8af47fa2-54d4-4b99-a74b-0318180d2265",
       "word": "the heavens [open]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIGhlYXZlbnMgb3Blbg&hash=a11934795547adaf17f66655662c276a55febd87&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIGhlYXZlbnMgb3Blbg&hash=a11934795547adaf17f66655662c276a55febd87&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

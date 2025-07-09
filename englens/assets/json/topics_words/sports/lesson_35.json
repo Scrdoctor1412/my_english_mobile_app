@@ -1,84 +1,72 @@
 {
+  "id": "e6b1cabb-0c38-43e4-8881-a7170285fd90",
   "topic": "sports",
   "title": "Skiing",
   "lesson": "lesson_35",
   "word_list": [
     {
-      "word": "alpine skiing",
-      "pos": "noun",
-      "phonetic": "https://tts.langeek.co/read?text=YWxwaW5lIHNraWluZw&hash=f399a23d8142512ec605399431b72447696d2d40&lang=en&cache-only=0",
-      "phonetic_text": null,
-      "phonetic_am": "https://tts.langeek.co/read?text=YWxwaW5lIHNraWluZw&hash=f399a23d8142512ec605399431b72447696d2d40&lang=en&cache-only=0",
-      "phonetic_am_text": null,
-      "img": "",
-      "pronunciation": "ˈælpaɪn skˈiːɪŋ",
-      "senses": [
-        {
-          "definition": "a type of skiing that involves sliding down snow-covered slopes using skis, with the feet attached to the skis, usually using fixed-heel bindings",
-          "examples": []
-        }
-      ]
-    },
-    {
+      "id": "f7faf310-2cff-4a51-bbd4-47a69d18a660",
       "word": "freestyle skiing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnJlZXN0eWxlIHNraWluZw&hash=a08e5543276b3ddf2c9a35513bd5b026404f8ce0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fri:.staɪl ski:ɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJlZXN0eWxlIHNraWluZw&hash=a08e5543276b3ddf2c9a35513bd5b026404f8ce0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fri.stail skiing",
       "img": "",
       "pronunciation": "fɹˈiːstaɪl skˈiːɪŋ",
       "senses": [
         {
           "definition": "a discipline where skiers perform tricks, jumps, and maneuvers on various terrain, emphasizing creativity and style",
-          "examples": []
-        }
-      ]
-    },
-    {
-      "word": "ski jumping",
-      "pos": "noun",
-      "phonetic": "https://tts.langeek.co/read?text=c2tpIGp1bXBpbmc&hash=a6b30208ee32fea6c974ce71046d745c290a0b40&lang=en&cache-only=0",
-      "phonetic_text": null,
-      "phonetic_am": "https://tts.langeek.co/read?text=c2tpIGp1bXBpbmc&hash=a6b30208ee32fea6c974ce71046d745c290a0b40&lang=en&cache-only=0",
-      "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/37193/original/?type=jpeg",
-      "pronunciation": "skˈiː dʒˈʌmpɪŋ",
-      "senses": [
-        {
-          "definition": "a type of skiing where skiers slide down a specially built slope and jump into the air to see who can go the farthest",
           "examples": [
             {
               "cf": "",
-              "x": "Ski jumping takes skill and bravery to jump far and land safely."
+              "x": "He's training for freestyle skiing competitions."
             },
             {
               "cf": "",
-              "x": "Her technique in ski jumping impressed everyone at the competition."
+              "x": "She's competing in freestyle skiing at the Winter Olympics."
             },
             {
               "cf": "",
-              "x": "He practiced ski jumping to improve his flying distance."
+              "x": "She loves the adrenaline rush of freestyle skiing."
             },
             {
               "cf": "",
-              "x": "Spectators cheered as skiers soared through the sky in ski jumping."
+              "x": "The freestyle skiing team practices jumps and spins."
             },
             {
               "cf": "",
-              "x": "She set a new personal record for distance in ski jumping."
+              "x": "The freestyle skiing event drew a large crowd."
             }
           ]
         }
       ]
     },
     {
+      "id": "bdd70c30-38b5-408b-bcdc-05d3487af1e4",
+      "word": "ski jumping",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=c2tpIGp1bXBpbmc&hash=a6b30208ee32fea6c974ce71046d745c290a0b40&lang=en&cache-only=0",
+      "phonetic_text": "ski: ʤəm.pɪng",
+      "phonetic_am": "https://tts.langeek.co/read?text=c2tpIGp1bXBpbmc&hash=a6b30208ee32fea6c974ce71046d745c290a0b40&lang=en&cache-only=0",
+      "phonetic_am_text": "ski jēm.ping",
+      "img": "https://cdn.langeek.co/photo/37193/original/?type=jpeg",
+      "pronunciation": "skˈiː dʒˈʌmpɪŋ",
+      "senses": [
+        {
+          "definition": "a type of skiing where skiers slide down a specially built slope and jump into the air to see who can go the farthest",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "id": "f596f148-0204-423a-80e4-ca8085e14ed9",
       "word": "cross-country skiing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3Jvc3MtY291bnRyeSBza2lpbmc&hash=456f95b297e468cda3f83807685a2fea9038e82c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "krɑ:s-kʌnt.ri ski:ɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3Jvc3MtY291bnRyeSBza2lpbmc&hash=456f95b297e468cda3f83807685a2fea9038e82c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kraas-kant.ri skiing",
       "img": "https://cdn.langeek.co/photo/33878/original/?type=jpeg",
       "pronunciation": "kɹˈɔskˈʌntɹi skˈiːɪŋ",
       "senses": [
@@ -106,10 +94,11 @@
       ]
     },
     {
+      "id": "4824356b-cd2f-45f6-baf3-4f66c38b94f2",
       "word": "Telemark skiing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VGVsZW1hcmsgc2tpaW5n&hash=3c9617b139065f527d95fd05df62303460ee8ec3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=VGVsZW1hcmsgc2tpaW5n&hash=3c9617b139065f527d95fd05df62303460ee8ec3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -117,17 +106,31 @@
       "senses": [
         {
           "definition": "a skiing technique where the skier's heel is free, allowing for a deep-knee bend and a turn",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He's been practicing Telemark skiing for years."
+            },
+            {
+              "cf": "",
+              "x": "He's competing in a Telemark skiing competition."
+            },
+            {
+              "cf": "",
+              "x": "He enjoys the freedom of Telemark skiing."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "890980f7-0a4e-4da9-b823-54c12dbec09b",
       "word": "heliskiing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGVsaXNraWluZw&hash=1cac636ada915fadcedad08fdf52110b013b10e5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɛ.lɪs.kɪɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=aGVsaXNraWluZw&hash=1cac636ada915fadcedad08fdf52110b013b10e5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "he.lis.kiing",
       "img": "",
       "pronunciation": "hɛlˈɪskɪɪŋ",
       "senses": [
@@ -143,12 +146,13 @@
       ]
     },
     {
+      "id": "1e16755f-44b6-4ae7-bc62-7b221658216b",
       "word": "skibobbing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2tpYm9iYmluZw&hash=c3de0d5413675bb2b96fbc6c7a3ef84b99835dee&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skɪ.bɑ:.bɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=c2tpYm9iYmluZw&hash=c3de0d5413675bb2b96fbc6c7a3ef84b99835dee&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ski.baa.bing",
       "img": "",
       "pronunciation": "skˈɪbɑːbɪŋ",
       "senses": [
@@ -180,10 +184,11 @@
       ]
     },
     {
+      "id": "3e2cee85-62d7-41e5-9c57-3b17ce5ead09",
       "word": "Nordic skiing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Tm9yZGljIHNraWluZw&hash=438bda5e75d3bc48380bab4fa336b4b821325232&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Tm9yZGljIHNraWluZw&hash=438bda5e75d3bc48380bab4fa336b4b821325232&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -196,12 +201,13 @@
       ]
     },
     {
+      "id": "8c01cedd-1dab-4dae-bee3-7dd2c0028c95",
       "word": "extreme skiing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXh0cmVtZSBza2lpbmc&hash=688e064778fc91ef73d28e1e5b02218074ce881c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛkst.rim ski:ɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXh0cmVtZSBza2lpbmc&hash=688e064778fc91ef73d28e1e5b02218074ce881c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ekst.rim skiing",
       "img": "",
       "pronunciation": "ɛkstɹˈiːm skˈiːɪŋ",
       "senses": [
@@ -233,12 +239,13 @@
       ]
     },
     {
+      "id": "58ea21d5-4bf0-4021-bc08-b66dee6022c7",
       "word": "backcountry skiing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFja2NvdW50cnkgc2tpaW5n&hash=69f9e9b4add5f8bf5845b0b1ecb7816580f7485c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæk.kʌnt.ri ski:ɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFja2NvdW50cnkgc2tpaW5n&hash=69f9e9b4add5f8bf5845b0b1ecb7816580f7485c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bāk.kant.ri skiing",
       "img": "",
       "pronunciation": "bˈækkʌntɹi skˈiːɪŋ",
       "senses": [
@@ -270,12 +277,13 @@
       ]
     },
     {
+      "id": "70b7cbca-3e2c-4dcd-99d9-986ceebd4f67",
       "word": "parallel skiing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFyYWxsZWwgc2tpaW5n&hash=4162b1947b591418fb5bf76b98ce1929f22e2f57&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɛ.rə.lɛl ski:ɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFyYWxsZWwgc2tpaW5n&hash=4162b1947b591418fb5bf76b98ce1929f22e2f57&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pe.rē.lel skiing",
       "img": "",
       "pronunciation": "pˈæɹəlˌɛl skˈiːɪŋ",
       "senses": [
@@ -307,12 +315,13 @@
       ]
     },
     {
+      "id": "fb27bb7b-f273-4aae-ac82-d61cc458ea48",
       "word": "snowplow",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c25vd3Bsb3c&hash=67522bf51a4d03cb57f490af4e3ea6082f3e5b1d&lang=en&cache-only=0",
-      "phonetic_text": "snoʊplaʊ",
+      "phonetic_text": "snoʊ.plaʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=c25vd3Bsb3c&hash=67522bf51a4d03cb57f490af4e3ea6082f3e5b1d&lang=en&cache-only=0",
-      "phonetic_am_text": "snowplaw",
+      "phonetic_am_text": "snooo.plaoo",
       "img": "",
       "pronunciation": "ˈsnoʊˌpɫaʊ",
       "senses": [
@@ -344,10 +353,11 @@
       ]
     },
     {
+      "id": "6829c9f2-c71d-4986-96e3-3fa74eb7233d",
       "word": "para cross-country skiing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFyYSBjcm9zcy1jb3VudHJ5IHNraWluZw&hash=c4f92429b1ec2f67f67716bb6b1aac61fbcfde0f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFyYSBjcm9zcy1jb3VudHJ5IHNraWluZw&hash=c4f92429b1ec2f67f67716bb6b1aac61fbcfde0f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -381,10 +391,11 @@
       ]
     },
     {
+      "id": "35ea062e-90e9-45cc-a2d5-6603f7a16902",
       "word": "para alpine skiing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFyYSBhbHBpbmUgc2tpaW5n&hash=225cbfbdcef480bc18a5d340e9069b270b4ff656&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFyYSBhbHBpbmUgc2tpaW5n&hash=225cbfbdcef480bc18a5d340e9069b270b4ff656&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -418,10 +429,11 @@
       ]
     },
     {
-      "word": "para nordic skiing",
+      "id": "1e46a679-5711-45b5-a35e-0951260e3884",
+      "word": "para Nordic skiing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFyYSBOb3JkaWMgc2tpaW5n&hash=2bbc263bd4ccf85b4a01f0044314434d5ad17124&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFyYSBOb3JkaWMgc2tpaW5n&hash=2bbc263bd4ccf85b4a01f0044314434d5ad17124&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -429,34 +441,18 @@
       "senses": [
         {
           "definition": "the cross-country skiing and biathlon events designed for athletes with physical disabilities",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Para Nordic skiing is an adaptive sport for athletes with disabilities."
-            },
-            {
-              "cf": "",
-              "x": "She competed in para Nordic skiing at the Paralympic Games."
-            },
-            {
-              "cf": "",
-              "x": "Para Nordic skiing includes both cross-country skiing and biathlon events."
-            },
-            {
-              "cf": "",
-              "x": "Para Nordic skiing requires strength, endurance, and technique."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "582e4446-c809-477b-805b-05e9d2402439",
       "word": "parallel turn",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFyYWxsZWwgdHVybg&hash=cd30780122a9cfd58d2cadf494bb95d8123be43c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɛ.rə.lɛl tɜrn",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFyYWxsZWwgdHVybg&hash=cd30780122a9cfd58d2cadf494bb95d8123be43c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pe.rē.lel tērn",
       "img": "",
       "pronunciation": "pˈæɹəlˌɛl tˈɜːn",
       "senses": [
@@ -488,12 +484,13 @@
       ]
     },
     {
+      "id": "64f9b0d0-7896-47cf-bd1f-5f90ad170fa8",
       "word": "jump turn",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=anVtcCB0dXJu&hash=2ca235c4fb6e2990a3b1f6df4153e933e170b709&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤʌmp tɜrn",
       "phonetic_am": "https://tts.langeek.co/read?text=anVtcCB0dXJu&hash=2ca235c4fb6e2990a3b1f6df4153e933e170b709&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "jamp tērn",
       "img": "",
       "pronunciation": "dʒˈʌmp tˈɜːn",
       "senses": [
@@ -525,14 +522,15 @@
       ]
     },
     {
+      "id": "d282b909-c8b5-401c-b81c-d75c70eb3e34",
       "word": "stem turn",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RlbSB0dXJu&hash=8604e852f8879610f6dc4e61f8023043619a0064&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stem tɜrn",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RlbSB0dXJu&hash=8604e852f8879610f6dc4e61f8023043619a0064&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "stem tērn",
       "img": "",
-      "pronunciation": "stˈɛm tˈɜːn",
+      "pronunciation": "stˈɛm ˈtɝn",
       "senses": [
         {
           "definition": "a basic skiing technique where a skier turns by pushing their heels out and their toes in",
@@ -562,12 +560,13 @@
       ]
     },
     {
+      "id": "c8792ad2-b957-4bc8-8930-4ef474c8b394",
       "word": "pole plant",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9sZSBwbGFudA&hash=a424a351c97347c5d48aee11f8e08d660486c3cb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "poʊl plænt",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9sZSBwbGFudA&hash=a424a351c97347c5d48aee11f8e08d660486c3cb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "poool plānt",
       "img": "",
       "pronunciation": "pˈoʊl plˈænt",
       "senses": [
@@ -599,39 +598,19 @@
       ]
     },
     {
-      "word": "pitch",
+      "id": "185a18e4-489b-4970-a7a2-6d466070df8b",
+      "word": "to pitch",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGl0Y2g&hash=89efb30eeb8cf26ec334223b2837e6d1540f3b57&lang=en&cache-only=0",
       "phonetic_text": "pɪʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGl0Y2g&hash=89efb30eeb8cf26ec334223b2837e6d1540f3b57&lang=en&cache-only=0",
       "phonetic_am_text": "pich",
       "img": "",
-      "pronunciation": "ˈpɪtʃ",
+      "pronunciation": "pɪʧ",
       "senses": [
         {
           "definition": "to tilt or slope in a particular direction",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The hiking trail pitched steeply upward as it ascended the mountain."
-            },
-            {
-              "cf": "",
-              "x": "The deck of the ship pitched and rolled with the rough waves of the ocean."
-            },
-            {
-              "cf": "",
-              "x": "As the airplane descended, its nose pitched downward toward the runway."
-            },
-            {
-              "cf": "",
-              "x": "The ski slope pitched downward, inviting skiers to glide down its snowy slopes."
-            },
-            {
-              "cf": "",
-              "x": "The bicycle path pitched gently upward, making it an easy ride for cyclists."
-            }
-          ]
+          "examples": []
         }
       ]
     }

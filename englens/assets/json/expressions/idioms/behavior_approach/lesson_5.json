@@ -1,13 +1,15 @@
 {
+  "id": "6959cd5e-9bad-4e45-8795-7d9c95efbd10",
   "topic": "behavior_approach",
   "title": "Behaving Politely",
   "lesson": "lesson_5",
   "word_list": [
     {
-      "word": "[mind] {one's} p's and q's",
+      "id": "84d7e911-a1ae-4518-b933-d93d483413e8",
+      "word": "to [mind] {one's} p's and q's",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWluZCBvbmUncyBwJ3MgYW5kIHEncw&hash=0e1a02723fc64cd1e4f68ef525c8cd288a3b1a3b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWluZCBvbmUncyBwJ3MgYW5kIHEncw&hash=0e1a02723fc64cd1e4f68ef525c8cd288a3b1a3b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46069/original/?type=jpeg",
@@ -15,20 +17,16 @@
       "senses": [
         {
           "definition": "to do one's best to be as proper and polite as one is capable of",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The children were reminded by their parents to mind their P's and Q's when visiting their grandparents."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[mind|watch] {one's} (language|tongue)",
+      "id": "a643351f-0a4d-4ff5-a706-c416359546f8",
+      "word": "to [mind|watch] {one's} (language|tongue)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWluZCBvbmUncyBsYW5ndWFnZQ&hash=1fee5226390defae9b2046f98094642aa6e9e531&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWluZCBvbmUncyBsYW5ndWFnZQ&hash=1fee5226390defae9b2046f98094642aa6e9e531&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46067/original/?type=jpeg",
@@ -36,32 +34,16 @@
       "senses": [
         {
           "definition": "to speak in a manner that is not inappropriate, vulgar, or offensive",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After being threatened with expulsion for my vulgar remarks in class, I knew I had to watch my tongue for the rest of the semester."
-            },
-            {
-              "cf": "",
-              "x": "I never allowed my kids to swear but I also never watched my language in front of them so it's probably the worst of both worlds."
-            },
-            {
-              "cf": "",
-              "x": "The referee told the players to mind their language."
-            },
-            {
-              "cf": "",
-              "x": "Please mind your language when talking to your grandparents; they appreciate respectful speech."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "cc0a23b7-676a-425b-a269-59967dc9478b",
       "word": "on {one's} best behavior",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gb25lJ3MgYmVzdCBiZWhhdmlvcg&hash=5ca20bb243699aa125cd23ecdab88a5eb9a0218d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gb25lJ3MgYmVzdCBiZWhhdmlvcg&hash=5ca20bb243699aa125cd23ecdab88a5eb9a0218d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -69,38 +51,18 @@
       "senses": [
         {
           "definition": "as polite and well-mannered as one can be",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The 1,400 fans were on their best behavior and filed out peacefully at the end."
-            },
-            {
-              "cf": "",
-              "x": "At the company's annual gala, all employees are expected to be on their best behavior and represent the organization professionally."
-            },
-            {
-              "cf": "",
-              "x": "When meeting her partner's parents for the first time, she was on her best behavior, trying to make a favorable impression."
-            },
-            {
-              "cf": "",
-              "x": "During the job interview, it's crucial to be on your best behavior to demonstrate your professionalism and suitability for the position."
-            },
-            {
-              "cf": "",
-              "x": "The children were told to be on their best behavior while visiting the museum to show respect for the exhibits and other visitors."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "4c9ab4a7-c044-479d-84bd-f5f603b74565",
       "word": "politically correct",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=cG9saXRpY2FsbHkgY29ycmVjdA&hash=5fab2621ea9c026af0085f070f8251e8d8ba4dfc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "plɪ.tɪk.li kə.rɛkt",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9saXRpY2FsbHkgY29ycmVjdA&hash=5fab2621ea9c026af0085f070f8251e8d8ba4dfc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pli.tik.li kē.rekt",
       "img": "https://cdn.langeek.co/photo/17551/original/polite?type=jpeg",
       "pronunciation": "pəlˈɪɾɪkli kɚɹˈɛkt",
       "senses": [
@@ -132,10 +94,11 @@
       ]
     },
     {
+      "id": "99ea5aa4-abb3-439a-a65c-9b17535fdba6",
       "word": "Queensberry rules",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=UXVlZW5zYmVycnkgcnVsZXM&hash=52c292c020411defa082fe657f1459fcc2c89a3a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=UXVlZW5zYmVycnkgcnVsZXM&hash=52c292c020411defa082fe657f1459fcc2c89a3a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46073/original/?type=jpeg",
@@ -143,36 +106,16 @@
       "senses": [
         {
           "definition": "behavior that is acceptable and considered to be appropriate within a certain setting",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Despite the fact he was knowledgeable and dedicated towards his work, the company fired him because he didn’t follow the Queensberry rules in the office."
-            },
-            {
-              "cf": "",
-              "x": "Each organisation has Queensberry rules for its members to follow."
-            },
-            {
-              "cf": "",
-              "x": "In this company, we follow the Queensberry rules of conduct, which means treating colleagues with respect and professionalism."
-            },
-            {
-              "cf": "",
-              "x": "The school has its own Queensberry rules for student behavior, which include no bullying and respectful communication."
-            },
-            {
-              "cf": "",
-              "x": "At the formal dinner, it's essential to adhere to the Queensberry rules of etiquette, such as using the correct utensils and maintaining polite conversation."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[put] {one's} best foot forward",
+      "id": "f940e9ac-04e1-4a27-bbcf-afd18baa92a8",
+      "word": "to [put] {one's} best foot forward",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IG9uZSdzIGJlc3QgZm9vdCBmb3J3YXJk&hash=827939d474fb2cdbbf79b56ff86f7dae6ecfb72a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IG9uZSdzIGJlc3QgZm9vdCBmb3J3YXJk&hash=827939d474fb2cdbbf79b56ff86f7dae6ecfb72a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42370/original/?type=jpeg",
@@ -180,24 +123,16 @@
       "senses": [
         {
           "definition": "to try to behave in the best way possible so as to make a good impression or gain approval",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He puts his best foot forward at parties."
-            },
-            {
-              "cf": "",
-              "x": "When I visited my girlfriend's parents I tried to be very polite and put my best foot forward."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[stand] on ceremony",
+      "id": "34a21e01-bc19-422c-84ad-2f2ac1a03187",
+      "word": "to [stand] on ceremony",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RhbmQgb24gY2VyZW1vbnk&hash=d2733d7c12f6816ac2597c1aff633ee5b8aef8eb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RhbmQgb24gY2VyZW1vbnk&hash=d2733d7c12f6816ac2597c1aff633ee5b8aef8eb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46077/original/?type=jpeg",
@@ -205,32 +140,16 @@
       "senses": [
         {
           "definition": "to behave in an overly polite and formal manner",
-          "examples": [
-            {
-              "cf": "",
-              "x": "But I wouldn't dream of standing on ceremony with people I know so well as the Musgroves."
-            },
-            {
-              "cf": "",
-              "x": "Despite being close relatives, the cousins always stood on ceremony with each other."
-            },
-            {
-              "cf": "",
-              "x": "Men of our generation never stood on ceremony."
-            },
-            {
-              "cf": "",
-              "x": "He doesn't like to stand on ceremony when hosting friends at his home, preferring a laid-back atmosphere."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "a863133a-5a15-4452-8968-55d887047fd7",
       "word": "watch {one's} [mouth]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=d2F0Y2ggb25lJ3MgbW91dGg&hash=8eb0a181f29eb443957dd7551e13a0deadeaf640&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=d2F0Y2ggb25lJ3MgbW91dGg&hash=8eb0a181f29eb443957dd7551e13a0deadeaf640&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46081/original/?type=jpeg",
@@ -264,10 +183,11 @@
       ]
     },
     {
-      "word": "(pardon|excuse) {one's} (French|language)",
+      "id": "8e074e8c-042a-4c77-adef-e4969e1c288a",
+      "word": "to (pardon|excuse) {one's} (French|language)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGFyZG9uIG9uZSdzIEZyZW5jaA&hash=ac69e0ca3a21ee78edbb50725223dafa3c11b199&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGFyZG9uIG9uZSdzIEZyZW5jaA&hash=ac69e0ca3a21ee78edbb50725223dafa3c11b199&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46071/original/?type=jpeg",
@@ -275,30 +195,18 @@
       "senses": [
         {
           "definition": "used to apologize for swearing or using offensive words",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Mr. Secretary, pardon my language, but I think that's a lot of crap."
-            },
-            {
-              "cf": "",
-              "x": "They were taking one hell of a risk, if you'll excuse my language."
-            },
-            {
-              "cf": "",
-              "x": "You gotta excuse my French, but I bloody hate the guts of your son."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "3687ee5f-9d4c-49e0-8224-defc8a14250c",
       "word": "as a matter of form",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YXMgYSBtYXR0ZXIgb2YgZm9ybQ&hash=c2fbee31e0174ed547eb73e859790d046b4ddd74&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æz ə mæ.tɜr ʌv fɔrm",
       "phonetic_am": "https://tts.langeek.co/read?text=YXMgYSBtYXR0ZXIgb2YgZm9ybQ&hash=c2fbee31e0174ed547eb73e859790d046b4ddd74&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "āz ē mā.tēr av fawrm",
       "img": "https://cdn.langeek.co/photo/46061/original/?type=jpeg",
       "pronunciation": "æz ɐ mˈæɾɚɹ ʌv fˈɔːɹm",
       "senses": [
@@ -330,10 +238,11 @@
       ]
     },
     {
-      "word": "[show] {sb} the door",
+      "id": "ebe383b7-8378-4167-8cf2-5ff1d31b60cf",
+      "word": "to [show] {sb} the door",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2hvdyBzb21lYm9keSB0aGUgZG9vcg&hash=dce0494bdf80c85c209b41b3947b5860b7e72d1b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2hvdyBzb21lYm9keSB0aGUgZG9vcg&hash=dce0494bdf80c85c209b41b3947b5860b7e72d1b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46075/original/?type=jpeg",
@@ -346,10 +255,11 @@
       ]
     },
     {
-      "word": "[keep] a civil tongue",
+      "id": "592829bb-df8b-4400-93e1-8bc146889daf",
+      "word": "to [keep] a civil tongue",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCBhIGNpdmlsIHRvbmd1ZQ&hash=232a8cd69e33ceebc0e937a88996605055b09d6a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCBhIGNpdmlsIHRvbmd1ZQ&hash=232a8cd69e33ceebc0e937a88996605055b09d6a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46085/original/?type=jpeg",
@@ -357,36 +267,16 @@
       "senses": [
         {
           "definition": "to speak in a manner marked by politeness and dignity",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Although she was angry, she kept a civil tongue."
-            },
-            {
-              "cf": "",
-              "x": "During the family gathering, it's essential to keep a civil tongue and avoid heated arguments."
-            },
-            {
-              "cf": "",
-              "x": "The teacher told the students to keep a civil tongue when discussing their differing opinions in the classroom."
-            },
-            {
-              "cf": "",
-              "x": "Even in a disagreement, it's possible to keep a civil tongue and engage in a constructive conversation."
-            },
-            {
-              "cf": "",
-              "x": "She asked her colleagues to keep a civil tongue when addressing workplace issues to maintain a harmonious atmosphere."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[mince] {one's} words",
+      "id": "bb7f58ef-ca26-4bb0-8774-9dd8475759f2",
+      "word": "to [mince] {one's} words",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWluY2Ugb25lJ3Mgd29yZHM&hash=50d4099e9f8957550438b8fe5258b6cc584c6795&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWluY2Ugb25lJ3Mgd29yZHM&hash=50d4099e9f8957550438b8fe5258b6cc584c6795&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45481/original/?type=jpeg",
@@ -394,36 +284,16 @@
       "senses": [
         {
           "definition": "to choose words carefully so as to avoid offense or give an impression different from the truth",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He will be remembered as a principled journalist, who expressed his views without mincing his words and enjoyed respect of his community."
-            },
-            {
-              "cf": "",
-              "x": "She didn't mince her words when describing the flaws in the proposal, but she did it in a constructive way."
-            },
-            {
-              "cf": "",
-              "x": "During the review, the manager didn't mince his words, offering direct and honest feedback to the employee."
-            },
-            {
-              "cf": "",
-              "x": "It's important to be straightforward but not hurtful; you can express your opinion without mincing your words."
-            },
-            {
-              "cf": "",
-              "x": "The counselor knew how to deliver difficult advice without mincing her words, helping clients understand and address their issues."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[pull] {one's} punches",
+      "id": "e558210b-a3de-4279-8c30-e5bdb371814a",
+      "word": "to [pull] {one's} punches",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHVsbCBvbmUncyBwdW5jaGVz&hash=7a2d2f9ac1c41d68c5cf3ef1c64c00ec2d2b12f6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHVsbCBvbmUncyBwdW5jaGVz&hash=7a2d2f9ac1c41d68c5cf3ef1c64c00ec2d2b12f6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42238/original/?type=jpeg",
@@ -431,38 +301,18 @@
       "senses": [
         {
           "definition": "to deliberately hold back or lessen the force or impact of one's actions, often to avoid causing harm or offense",
-          "examples": [
-            {
-              "cf": "",
-              "x": "In the world we live in, you don't get anywhere by pulling your punches."
-            },
-            {
-              "cf": "",
-              "x": "During the presentation, he didn't pull his punches and gave a straightforward critique of the project's flaws."
-            },
-            {
-              "cf": "",
-              "x": "She decided not to pull her punches when discussing the issues with her co-worker's performance to ensure improvement."
-            },
-            {
-              "cf": "",
-              "x": "It's not always easy to pull your punches in a debate, especially when you feel passionately about a topic."
-            },
-            {
-              "cf": "",
-              "x": "He tried not to pull his punches when offering advice to the aspiring writers, aiming to help them improve their work."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "make up for",
+      "id": "fe2af095-0086-4692-98a3-c73b93b73768",
+      "word": "to make up for",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZSB1cCBmb3I&hash=27d6fe35eae664f84d57f5fe3c91c65e7ad0f5b4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "meɪk ʌp fɔ:r",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFrZSB1cCBmb3I&hash=27d6fe35eae664f84d57f5fe3c91c65e7ad0f5b4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "meik ap fawr",
       "img": "https://cdn.langeek.co/photo/43212/original/?type=jpeg",
       "pronunciation": "mˌeɪk ˌʌp fɔːɹ",
       "senses": [

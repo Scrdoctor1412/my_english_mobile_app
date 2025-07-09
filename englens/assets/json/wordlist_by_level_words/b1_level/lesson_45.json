@@ -1,17 +1,19 @@
 {
+  "id": "e8ee735e-d831-42b4-a171-a86fe4c82bc7",
   "topic": "b1_level",
   "title": "Ambition and Achievement",
   "lesson": "lesson_45",
   "word_list": [
     {
-      "word": "wish",
+      "id": "d23d669f-8dc3-4ef4-a891-246e03c772ff",
+      "word": "to wish",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2lzaA&hash=d6fee71f3d1838f3709de4922a445bf04ca66844&lang=en&cache-only=0",
       "phonetic_text": "wɪʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2lzaA&hash=d6fee71f3d1838f3709de4922a445bf04ca66844&lang=en&cache-only=0",
-      "phonetic_am_text": "wish",
+      "phonetic_am_text": "vish",
       "img": "https://cdn.langeek.co/photo/23647/original/?type=jpeg",
-      "pronunciation": "ˈwɪʃ",
+      "pronunciation": "wɪʃ",
       "senses": [
         {
           "definition": "to desire something to occur or to be true even though it is improbable or not possible",
@@ -41,14 +43,15 @@
       ]
     },
     {
+      "id": "32460b89-01f6-4e5f-b446-da59d0e57f19",
       "word": "achievement",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWNoaWV2ZW1lbnQ&hash=6bf3d7a9cf6d5b9a2f17876b79a631df2ce8fd67&lang=en&cache-only=0",
-      "phonetic_text": "əʧi:vmənt",
+      "phonetic_text": "ə.ʧiv.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=YWNoaWV2ZW1lbnQ&hash=6bf3d7a9cf6d5b9a2f17876b79a631df2ce8fd67&lang=en&cache-only=0",
-      "phonetic_am_text": "ēcheevmēnt",
+      "phonetic_am_text": "ē.chiv.mēnt",
       "img": "https://cdn.langeek.co/photo/26353/original/?type=jpeg",
-      "pronunciation": "əˈtʃivmənt",
+      "pronunciation": "əˈʧiːvmənt",
       "senses": [
         {
           "definition": "the action or process of reaching a particular thing",
@@ -78,6 +81,7 @@
       ]
     },
     {
+      "id": "e088d46e-6b4e-4d74-bad9-c9fed1c3d207",
       "word": "aim",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWlt&hash=79797aab86e9dc1f94af255f11d5768014f92f40&lang=en&cache-only=0",
@@ -85,7 +89,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=YWlt&hash=79797aab86e9dc1f94af255f11d5768014f92f40&lang=en&cache-only=0",
       "phonetic_am_text": "eim",
       "img": "https://cdn.langeek.co/photo/47935/original/?type=jpeg",
-      "pronunciation": "ˈeɪm",
+      "pronunciation": "eɪm",
       "senses": [
         {
           "definition": "a specific, concrete objective that a person or group actively works toward, believing it to be realistically achievable",
@@ -115,14 +119,15 @@
       ]
     },
     {
-      "word": "aim",
+      "id": "9da2a1b6-6d1a-42a4-b97e-8b8254a67797",
+      "word": "to aim",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWlt&hash=1baf657694697b08c61aa7fa127108d3be73fd44&lang=en&cache-only=0",
       "phonetic_text": "eɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWlt&hash=1baf657694697b08c61aa7fa127108d3be73fd44&lang=en&cache-only=0",
       "phonetic_am_text": "eim",
       "img": "",
-      "pronunciation": "ˈeɪm",
+      "pronunciation": "eɪm",
       "senses": [
         {
           "definition": "to intend or attempt to achieve something",
@@ -148,12 +153,13 @@
       ]
     },
     {
+      "id": "a32f211f-12a4-4302-8f97-639c07343672",
       "word": "ambition",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW1iaXRpb24&hash=4834381ca3ef8d1f9f14510c2a57ed31315719de&lang=en&cache-only=0",
-      "phonetic_text": "æmbɪʃən",
+      "phonetic_text": "æm.bɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=YW1iaXRpb24&hash=4834381ca3ef8d1f9f14510c2a57ed31315719de&lang=en&cache-only=0",
-      "phonetic_am_text": "āmbishēn",
+      "phonetic_am_text": "ām.bi.shēn",
       "img": "",
       "pronunciation": "æmˈbɪʃən",
       "senses": [
@@ -185,6 +191,7 @@
       ]
     },
     {
+      "id": "edf0725f-f235-4113-8175-65276c64e495",
       "word": "bright",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YnJpZ2h0&hash=5b30cf51f59f4df2ad4691f35f8297c732316732&lang=en&cache-only=0",
@@ -196,40 +203,20 @@
       "senses": [
         {
           "definition": "(of someone or something's future) likely to be successful and very good",
-          "examples": [
-            {
-              "cf": "",
-              "x": "With his talent and dedication, his future in the company looks bright."
-            },
-            {
-              "cf": "",
-              "x": "The young athlete's bright future in professional sports was obvious to everyone."
-            },
-            {
-              "cf": "",
-              "x": "After securing a major investor, the startup's prospects became much brighter."
-            },
-            {
-              "cf": "",
-              "x": "Her academic achievements suggest a bright future in medicine."
-            },
-            {
-              "cf": "",
-              "x": "The economy is recovering, and the outlook for new businesses is bright."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "85d83435-5afc-4409-956a-d531f466b615",
       "word": "effective",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZWZmZWN0aXZl&hash=e4ec01a3e2ceb8bf42f009b66d5458ca655d0152&lang=en&cache-only=0",
-      "phonetic_text": "ɪfɛktɪv",
+      "phonetic_text": "i.fɛk.tɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWZmZWN0aXZl&hash=e4ec01a3e2ceb8bf42f009b66d5458ca655d0152&lang=en&cache-only=0",
-      "phonetic_am_text": "ifektiv",
+      "phonetic_am_text": "i.fek.tiv",
       "img": "https://cdn.langeek.co/photo/43422/original/?type=jpeg",
-      "pronunciation": "ˈifɛktɪv/, /ɪˈfɛktɪv",
+      "pronunciation": "ɪˈfɛktɪv",
       "senses": [
         {
           "definition": "achieving the intended or desired result",
@@ -259,14 +246,15 @@
       ]
     },
     {
+      "id": "1a03c011-4d74-4f65-ab0a-f20c7b6365ca",
       "word": "effort",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWZmb3J0&hash=ae93f4420e6250e6ec5e47993551d90356c0f0c1&lang=en&cache-only=0",
-      "phonetic_text": "ɛfərt",
+      "phonetic_text": "ɛ.fɜrt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWZmb3J0&hash=ae93f4420e6250e6ec5e47993551d90356c0f0c1&lang=en&cache-only=0",
-      "phonetic_am_text": "efērt",
+      "phonetic_am_text": "e.fērt",
       "img": "",
-      "pronunciation": "ˈɛfɝt",
+      "pronunciation": "ˈɛfɚt",
       "senses": [
         {
           "definition": "an attempt to do something, particularly something demanding",
@@ -296,14 +284,15 @@
       ]
     },
     {
+      "id": "433b0a30-ab54-4c74-8a54-ec4ede6cde6a",
       "word": "wish",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2lzaA&hash=84080bba1b6a92c46ec26221208e2fca4295e0a6&lang=en&cache-only=0",
       "phonetic_text": "wɪʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=d2lzaA&hash=84080bba1b6a92c46ec26221208e2fca4295e0a6&lang=en&cache-only=0",
-      "phonetic_am_text": "wish",
+      "phonetic_am_text": "vish",
       "img": "https://cdn.langeek.co/photo/23647/original/?type=jpeg",
-      "pronunciation": "ˈwɪʃ",
+      "pronunciation": "wɪʃ",
       "senses": [
         {
           "definition": "a feeling of desire for something or of wanting something to happen",
@@ -312,14 +301,15 @@
       ]
     },
     {
-      "word": "manage",
+      "id": "4f5a7879-4fbc-4f67-98ed-3b8b74ca7ee2",
+      "word": "to manage",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFuYWdl&hash=bce449726539553cd81ce023cc0ab1aa86ba9b8d&lang=en&cache-only=0",
-      "phonetic_text": "mænəʤ",
+      "phonetic_text": "mæ.nɪʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFuYWdl&hash=bce449726539553cd81ce023cc0ab1aa86ba9b8d&lang=en&cache-only=0",
-      "phonetic_am_text": "mānēj",
+      "phonetic_am_text": "mā.nij",
       "img": "https://cdn.langeek.co/photo/43038/original/?type=jpeg",
-      "pronunciation": "ˈmænədʒ",
+      "pronunciation": "ˈmænɪʤ",
       "senses": [
         {
           "definition": "to do something difficult successfully",
@@ -373,14 +363,15 @@
       ]
     },
     {
+      "id": "9fd8d4cd-b554-493b-b8c3-a3cd2fdcff3f",
       "word": "practical",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cHJhY3RpY2Fs&hash=5b7747ced4b46fc74c9ea8ae1fe2d2318972a4da&lang=en&cache-only=0",
-      "phonetic_text": "præktəkəl",
+      "phonetic_text": "præk.tə.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJhY3RpY2Fs&hash=5b7747ced4b46fc74c9ea8ae1fe2d2318972a4da&lang=en&cache-only=0",
-      "phonetic_am_text": "prāktēkēl",
+      "phonetic_am_text": "prāk.tē.kēl",
       "img": "https://cdn.langeek.co/photo/23877/original/?type=jpeg",
-      "pronunciation": "ˈpɹæktəkəɫ/, /ˈpɹæktɪkəɫ",
+      "pronunciation": "ˈpræktɪkəl",
       "senses": [
         {
           "definition": "(of a method, idea, or plan) likely to be successful or effective",
@@ -410,12 +401,13 @@
       ]
     },
     {
+      "id": "21bab2eb-983a-4082-92d3-62954c996ea2",
       "word": "positive",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cG9zaXRpdmU&hash=7b0e13c8ef0095c5a4870f016efef36834b94539&lang=en&cache-only=0",
-      "phonetic_text": "pɑ:zətɪv",
+      "phonetic_text": "pɑ.zə.tɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9zaXRpdmU&hash=7b0e13c8ef0095c5a4870f016efef36834b94539&lang=en&cache-only=0",
-      "phonetic_am_text": "paazētiv",
+      "phonetic_am_text": "paa.zē.tiv",
       "img": "",
       "pronunciation": "ˈpɑzətɪv",
       "senses": [
@@ -432,27 +424,28 @@
             },
             {
               "cf": "",
-              "x": "The feedback from customers was overwhelmingly positive, boosting morale among the staff."
-            },
-            {
-              "cf": "",
               "x": "Despite initial setbacks, the project eventually had a positive outcome."
             },
             {
               "cf": "",
-              "x": "The positive impact of volunteering was felt throughout the community."
+              "x": "The company experienced a positive increase in revenue this year."
+            },
+            {
+              "cf": "",
+              "x": "The city saw a positive shift in public opinion following the new policy."
             }
           ]
         }
       ]
     },
     {
+      "id": "2826db75-c382-4ef1-824e-ed8c6e8affa4",
       "word": "negative",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bmVnYXRpdmU&hash=9366ae80b0e8e63533a522e8e4ab41afba3fa926&lang=en&cache-only=0",
-      "phonetic_text": "nɛgətɪv",
+      "phonetic_text": "nɛ.gə.tɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=bmVnYXRpdmU&hash=9366ae80b0e8e63533a522e8e4ab41afba3fa926&lang=en&cache-only=0",
-      "phonetic_am_text": "negētiv",
+      "phonetic_am_text": "ne.gē.tiv",
       "img": "https://cdn.langeek.co/photo/49970/original/?type=jpeg",
       "pronunciation": "ˈnɛɡətɪv",
       "senses": [
@@ -484,14 +477,15 @@
       ]
     },
     {
-      "word": "promote",
+      "id": "4f00010f-9387-4f45-a415-6b502828c4cf",
+      "word": "to promote",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJvbW90ZQ&hash=7dba87889c98394425dc25652d5ddf86de23c73a&lang=en&cache-only=0",
-      "phonetic_text": "prəmoʊt",
+      "phonetic_text": "prə.moʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJvbW90ZQ&hash=7dba87889c98394425dc25652d5ddf86de23c73a&lang=en&cache-only=0",
-      "phonetic_am_text": "prēmowt",
+      "phonetic_am_text": "prē.mooot",
       "img": "https://cdn.langeek.co/photo/55218/original/?type=jpeg",
-      "pronunciation": "pɹəˈmoʊt",
+      "pronunciation": "prəˈmoʊt",
       "senses": [
         {
           "definition": "to help or support the progress or development of something",
@@ -517,14 +511,15 @@
       ]
     },
     {
+      "id": "a49eb639-72f6-4d47-9287-357b1daf2a7e",
       "word": "respect",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVzcGVjdA&hash=7d63b6f5d47027dcd0ea7823060903870cfe5770&lang=en&cache-only=0",
-      "phonetic_text": "rɪspɛkt",
+      "phonetic_text": "ris.pɛkt",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVzcGVjdA&hash=7d63b6f5d47027dcd0ea7823060903870cfe5770&lang=en&cache-only=0",
-      "phonetic_am_text": "rispekt",
+      "phonetic_am_text": "ris.pekt",
       "img": "",
-      "pronunciation": "ɹiˈspɛkt/, /ɹɪˈspɛkt",
+      "pronunciation": "rɪˈspɛkt",
       "senses": [
         {
           "definition": "admiration for someone or something because of their achievements, qualities, etc.",
@@ -533,14 +528,15 @@
       ]
     },
     {
-      "word": "respect",
+      "id": "b45be971-61dd-4c2b-a36f-c13d7abed5f0",
+      "word": "to respect",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVzcGVjdA&hash=09e62f5cbd47a6fd139cbd1c960f9f7a0638c207&lang=en&cache-only=0",
-      "phonetic_text": "rɪspɛkt",
+      "phonetic_text": "ris.pɛkt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVzcGVjdA&hash=09e62f5cbd47a6fd139cbd1c960f9f7a0638c207&lang=en&cache-only=0",
-      "phonetic_am_text": "rispekt",
+      "phonetic_am_text": "ris.pekt",
       "img": "https://cdn.langeek.co/photo/27979/original/?type=jpeg",
-      "pronunciation": "ɹiˈspɛkt/, /ɹɪˈspɛkt",
+      "pronunciation": "rɪˈspɛkt",
       "senses": [
         {
           "definition": "to admire someone because of their achievements, qualities, etc.",
@@ -570,14 +566,15 @@
       ]
     },
     {
+      "id": "4bf672f0-5b4d-40bf-a59c-988a8b869294",
       "word": "secret",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VjcmV0&hash=51add7b658675f819d28def5bcd096ad36de96a4&lang=en&cache-only=0",
-      "phonetic_text": "si:krət",
+      "phonetic_text": "sik.rət",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VjcmV0&hash=51add7b658675f819d28def5bcd096ad36de96a4&lang=en&cache-only=0",
-      "phonetic_am_text": "seekrēt",
+      "phonetic_am_text": "sik.rēt",
       "img": "",
-      "pronunciation": "ˈsikɹət/, /ˈsikɹɪt",
+      "pronunciation": "ˈsiːkrɪt",
       "senses": [
         {
           "definition": "the most effective or proven method of achieving something",
@@ -599,14 +596,15 @@
       ]
     },
     {
-      "word": "support",
+      "id": "428bce29-2b0f-467b-9c30-547b562c92b4",
+      "word": "to support",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3VwcG9ydA&hash=b290a4229650625d570821073641ea9a7a322b09&lang=en&cache-only=0",
-      "phonetic_text": "səpɔ:rt",
+      "phonetic_text": "sə.pɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3VwcG9ydA&hash=b290a4229650625d570821073641ea9a7a322b09&lang=en&cache-only=0",
-      "phonetic_am_text": "sēpaawrt",
+      "phonetic_am_text": "sē.pawrt",
       "img": "https://cdn.langeek.co/photo/26383/original/?type=jpeg",
-      "pronunciation": "səˈpɔɹt",
+      "pronunciation": "səˈpɔrt",
       "senses": [
         {
           "definition": "to provide someone or something with encouragement or help",
@@ -636,14 +634,15 @@
       ]
     },
     {
-      "word": "work on",
+      "id": "50624ade-82d0-41b2-9d24-df817c57f293",
+      "word": "to work on",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd29yayBvbg&hash=59a688dd034a63b283cffd6bfbb268bf70422489&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɜrk ɑ:n",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd29yayBvbg&hash=59a688dd034a63b283cffd6bfbb268bf70422489&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vērk aan",
       "img": "https://cdn.langeek.co/photo/44954/original/?type=jpeg",
-      "pronunciation": "wˈɜːk ˈɑːn",
+      "pronunciation": "wɝːk ɑn",
       "senses": [
         {
           "definition": "to focus one's effort, time, or attention on something in order to achieve a particular goal",
@@ -665,14 +664,15 @@
       ]
     },
     {
-      "word": "dream",
+      "id": "906aa161-1971-42b1-9399-4c5dc0036bba",
+      "word": "to dream",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJlYW0&hash=b17c1e9f5d1e4f44c940244df0b268079e2d8138&lang=en&cache-only=0",
       "phonetic_text": "dri:m",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZHJlYW0&hash=b17c1e9f5d1e4f44c940244df0b268079e2d8138&lang=en&cache-only=0",
-      "phonetic_am_text": "dreem",
+      "phonetic_am_text": "drim",
       "img": "https://cdn.langeek.co/photo/42668/original/?type=jpeg",
-      "pronunciation": "ˈdɹim",
+      "pronunciation": "driːm",
       "senses": [
         {
           "definition": "to think about something that one desires very much",
@@ -702,14 +702,15 @@
       ]
     },
     {
+      "id": "9407991f-3366-4964-b1fb-5bd94cee8e5a",
       "word": "hopeful",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aG9wZWZ1bA&hash=8144795f89b123b396dde9d240a3f21f181e98d7&lang=en&cache-only=0",
-      "phonetic_text": "hoʊpfəl",
+      "phonetic_text": "hoʊp.fəl",
       "phonetic_am": "https://tts.langeek.co/read?text=aG9wZWZ1bA&hash=8144795f89b123b396dde9d240a3f21f181e98d7&lang=en&cache-only=0",
-      "phonetic_am_text": "howpfēl",
+      "phonetic_am_text": "hooop.fēl",
       "img": "https://cdn.langeek.co/photo/19616/original/positive?type=jpeg",
-      "pronunciation": "ˈhoʊpfəɫ",
+      "pronunciation": "ˈhoʊpfəl",
       "senses": [
         {
           "definition": "(of a person) having a positive attitude and believing that good things are likely to happen",
@@ -735,14 +736,15 @@
       ]
     },
     {
+      "id": "9f48c2b6-4120-4660-8b59-0035e83c4429",
       "word": "progress",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvZ3Jlc3M&hash=0f69a0a90bc8338d1b0caf1e3806e89a283672a1&lang=en&cache-only=0",
-      "phonetic_text": "prɑ:grɛs",
+      "phonetic_text": "prɑg.rɛs",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvZ3Jlc3M&hash=0f69a0a90bc8338d1b0caf1e3806e89a283672a1&lang=en&cache-only=0",
-      "phonetic_am_text": "praagres",
+      "phonetic_am_text": "praag.res",
       "img": "https://cdn.langeek.co/photo/23425/original/?type=jpeg",
-      "pronunciation": "ˈpɹɑˌɡɹɛs/, /pɹəˈɡɹɛs/, /pɹoʊˈɡɹɛs",
+      "pronunciation": "ˈprɑːɡrɛs/ , /ˈproʊɡrɛs",
       "senses": [
         {
           "definition": "gradual movement toward a goal or a desired state",
@@ -768,14 +770,15 @@
       ]
     },
     {
-      "word": "intend",
+      "id": "a486bad1-df9f-495b-a2d2-9bc8b2acdde0",
+      "word": "to intend",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW50ZW5k&hash=95ff5b358deb751e257cb7765ee1f45f54c46039&lang=en&cache-only=0",
-      "phonetic_text": "ɪntɛnd",
+      "phonetic_text": "ɪn.tɛnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW50ZW5k&hash=95ff5b358deb751e257cb7765ee1f45f54c46039&lang=en&cache-only=0",
-      "phonetic_am_text": "intend",
+      "phonetic_am_text": "in.tend",
       "img": "https://cdn.langeek.co/photo/51777/original/?type=jpeg",
-      "pronunciation": "ˌɪnˈtɛnd",
+      "pronunciation": "ɪnˈtɛnd",
       "senses": [
         {
           "definition": "to have something in mind as a plan or purpose",
@@ -805,12 +808,13 @@
       ]
     },
     {
-      "word": "go",
+      "id": "cb01968e-5365-4714-939b-51419a563593",
+      "word": "to go",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ28&hash=a29af22a99b2c4ebaab92563d163caf4ad74d7f9&lang=en&cache-only=0",
       "phonetic_text": "goʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ28&hash=a29af22a99b2c4ebaab92563d163caf4ad74d7f9&lang=en&cache-only=0",
-      "phonetic_am_text": "gow",
+      "phonetic_am_text": "gooo",
       "img": "",
       "pronunciation": "ɡoʊ",
       "senses": [
@@ -842,6 +846,7 @@
       ]
     },
     {
+      "id": "cf22df85-c482-46bf-87a2-6a2b30b06c18",
       "word": "fight",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmlnaHQ&hash=ed67fd79d3b87b56e1ee3065bb7e35e72cc75a59&lang=en&cache-only=0",
@@ -875,14 +880,15 @@
       ]
     },
     {
+      "id": "07c03d33-76a2-4707-a728-95dd04faafa5",
       "word": "fortunately",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=Zm9ydHVuYXRlbHk&hash=69649c695c7a52e38cc25583a87a156d4f9cecf8&lang=en&cache-only=0",
-      "phonetic_text": "fɔ:rʧənətli",
+      "phonetic_text": "fɔr.ʧə.nət.li",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9ydHVuYXRlbHk&hash=69649c695c7a52e38cc25583a87a156d4f9cecf8&lang=en&cache-only=0",
-      "phonetic_am_text": "faawrchēnētli",
+      "phonetic_am_text": "fawr.chē.nēt.li",
       "img": "",
-      "pronunciation": "ˈfɔɹtʃənətɫi/, /ˈfɔɹtʃunətɫi",
+      "pronunciation": "ˈfɔrtʃənətli",
       "senses": [
         {
           "definition": "used to express that something positive or favorable has happened or is happening by chance",
@@ -912,14 +918,15 @@
       ]
     },
     {
+      "id": "439d65ff-7158-4e25-968e-5361eaefcca6",
       "word": "unfortunately",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=dW5mb3J0dW5hdGVseQ&hash=fdd8e07d43400ac08556115864a65dcaf90b0527&lang=en&cache-only=0",
-      "phonetic_text": "ənfɔ:rʧənətli",
+      "phonetic_text": "ʌn.fɔr.ʧə.nət.li",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5mb3J0dW5hdGVseQ&hash=fdd8e07d43400ac08556115864a65dcaf90b0527&lang=en&cache-only=0",
-      "phonetic_am_text": "ēnfaawrchēnētli",
+      "phonetic_am_text": "an.fawr.chē.nēt.li",
       "img": "https://cdn.langeek.co/photo/43576/original/?type=jpeg",
-      "pronunciation": "ənˈfɔɹtʃənətɫi/, /ənˈfɔɹtʃunətɫi",
+      "pronunciation": "ʌnˈfɔrtʃənətli",
       "senses": [
         {
           "definition": "used to express regret or say that something is disappointing or sad",
@@ -949,51 +956,32 @@
       ]
     },
     {
+      "id": "deb12392-ccc5-41c9-b809-26a870cd42ab",
       "word": "successfully",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=c3VjY2Vzc2Z1bGx5&hash=3091002ce0eafee09d95f17de5c8564552190ae1&lang=en&cache-only=0",
-      "phonetic_text": "səksɛsfəli",
+      "phonetic_text": "sək.sɛs.fə.li",
       "phonetic_am": "https://tts.langeek.co/read?text=c3VjY2Vzc2Z1bGx5&hash=3091002ce0eafee09d95f17de5c8564552190ae1&lang=en&cache-only=0",
-      "phonetic_am_text": "sēksesfēli",
+      "phonetic_am_text": "sēk.ses.fē.li",
       "img": "https://cdn.langeek.co/photo/50116/original/?type=jpeg",
-      "pronunciation": "səkˈsɛsfəɫi",
+      "pronunciation": "səkˈsɛsfəli",
       "senses": [
         {
           "definition": "in a manner that achieves what is desired or expected",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After months of hard work and dedication, she successfully completed her research project."
-            },
-            {
-              "cf": "",
-              "x": "The team collaborated effectively and successfully launched the new product ahead of schedule."
-            },
-            {
-              "cf": "",
-              "x": "Despite initial challenges, the negotiations were handled diplomatically and successfully reached a resolution."
-            },
-            {
-              "cf": "",
-              "x": "He applied for the job and successfully secured a position with the company."
-            },
-            {
-              "cf": "",
-              "x": "The students worked together on the group project and were able to present it successfully to their peers and instructors."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "result",
+      "id": "49ddb053-e08b-4a7c-9c1f-2585a67e01b4",
+      "word": "to result",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVzdWx0&hash=be7171ad775b0586ddc75e8a32fe2dbedef8b069&lang=en&cache-only=0",
-      "phonetic_text": "rɪzʌlt",
+      "phonetic_text": "rɪ.zʌlt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVzdWx0&hash=be7171ad775b0586ddc75e8a32fe2dbedef8b069&lang=en&cache-only=0",
-      "phonetic_am_text": "rizalt",
+      "phonetic_am_text": "ri.zalt",
       "img": "https://cdn.langeek.co/photo/44110/original/?type=jpeg",
-      "pronunciation": "ɹiˈzəɫt/, /ɹɪˈzəɫt",
+      "pronunciation": "rɪˈzʌlt",
       "senses": [
         {
           "definition": "to directly cause something",
@@ -1002,14 +990,15 @@
       ]
     },
     {
-      "word": "secure",
+      "id": "c27ba59a-017c-4cc6-a6d6-986de68ce415",
+      "word": "to secure",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2VjdXJl&hash=05a20f7ace904c2d503bdaf65e7f0282509907d3&lang=en&cache-only=0",
-      "phonetic_text": "sɪkjʊr",
+      "phonetic_text": "sɪ.kjʊr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2VjdXJl&hash=05a20f7ace904c2d503bdaf65e7f0282509907d3&lang=en&cache-only=0",
-      "phonetic_am_text": "sikyur",
+      "phonetic_am_text": "si.kyoor",
       "img": "",
-      "pronunciation": "sɪkˈjʊɹ",
+      "pronunciation": "sɪˈkjʊr",
       "senses": [
         {
           "definition": "to reach or gain a particular thing, typically requiring significant amount of effort",

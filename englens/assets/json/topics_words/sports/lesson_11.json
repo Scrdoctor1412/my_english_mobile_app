@@ -1,15 +1,17 @@
 {
+  "id": "20fdca90-ee04-4f58-b158-8583bd546d60",
   "topic": "sports",
   "title": "Terms in Team Sports",
   "lesson": "lesson_11",
   "word_list": [
     {
+      "id": "75e78f7e-3ffc-4872-9517-83a116231ef8",
       "word": "free kick",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnJlZSBraWNr&hash=07a8bead8435a9a2bcebf9707fd9f719692f7c7b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fri: kɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJlZSBraWNr&hash=07a8bead8435a9a2bcebf9707fd9f719692f7c7b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fri kik",
       "img": "https://cdn.langeek.co/photo/31689/original/?type=jpeg",
       "pronunciation": "fɹˈiː kˈɪk",
       "senses": [
@@ -37,12 +39,13 @@
       ]
     },
     {
+      "id": "924c2d8f-1fed-4c75-85f8-69632f6447b9",
       "word": "punt",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHVudA&hash=3f6e5b9709f0be258d06335d52780ea6b152ecf5&lang=en&cache-only=0",
-      "phonetic_text": "pʌnt",
+      "phonetic_text": "pənt",
       "phonetic_am": "https://tts.langeek.co/read?text=cHVudA&hash=3f6e5b9709f0be258d06335d52780ea6b152ecf5&lang=en&cache-only=0",
-      "phonetic_am_text": "pant",
+      "phonetic_am_text": "pēnt",
       "img": "",
       "pronunciation": "ˈpənt",
       "senses": [
@@ -74,12 +77,13 @@
       ]
     },
     {
+      "id": "f5c93fff-bbb8-48b7-94fd-9fb3daf167ce",
       "word": "place kick",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGxhY2Uga2ljaw&hash=31009157f8d093526088f6cea15326c3be282bb9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pleɪs kɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=cGxhY2Uga2ljaw&hash=31009157f8d093526088f6cea15326c3be282bb9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pleis kik",
       "img": "",
       "pronunciation": "plˈeɪs kˈɪk",
       "senses": [
@@ -101,17 +105,14 @@
             {
               "cf": "",
               "x": "His powerful place kick sent the ball through the uprights."
-            },
-            {
-              "cf": "",
-              "x": "The coach emphasized the importance of accuracy in place kicks."
             }
           ]
         }
       ]
     },
     {
-      "word": "drive",
+      "id": "f5c0b5e7-e018-428b-865b-33cc190d2e83",
+      "word": "to drive",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJpdmU&hash=704a8f2ae7dbeafb5fcb21f996d425b92f21e83b&lang=en&cache-only=0",
       "phonetic_text": "draɪv",
@@ -144,12 +145,13 @@
       ]
     },
     {
+      "id": "d0378cee-bd91-4ccf-83de-6b9c25cef71b",
       "word": "assist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXNzaXN0&hash=71c0295a6e9230f6b1c7bd10f77b7659596e504d&lang=en&cache-only=0",
-      "phonetic_text": "əsɪst",
+      "phonetic_text": "ə.sɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=YXNzaXN0&hash=71c0295a6e9230f6b1c7bd10f77b7659596e504d&lang=en&cache-only=0",
-      "phonetic_am_text": "ēsist",
+      "phonetic_am_text": "ē.sist",
       "img": "",
       "pronunciation": "əˈsɪst",
       "senses": [
@@ -181,12 +183,13 @@
       ]
     },
     {
+      "id": "15d1e7be-e18b-45ee-88dc-4d0d7f900e3a",
       "word": "goalkeeping",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29hbGtlZXBpbmc&hash=938c03d8464f8c11d1bdad22932c46d2963c8f98&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "goʊl.ki.pɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Z29hbGtlZXBpbmc&hash=938c03d8464f8c11d1bdad22932c46d2963c8f98&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "goool.ki.ping",
       "img": "",
       "pronunciation": "ɡˈoʊlkiːpɪŋ",
       "senses": [
@@ -210,12 +213,13 @@
       ]
     },
     {
+      "id": "0c7b6a08-0bb1-4d78-befd-a6c0b1bb9653",
       "word": "center",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2VudGVy&hash=371bdae808e19bbfbab81e6949f2ea0fc267edf0&lang=en&cache-only=0",
-      "phonetic_text": "sɛntər",
+      "phonetic_text": "sɛn.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2VudGVy&hash=371bdae808e19bbfbab81e6949f2ea0fc267edf0&lang=en&cache-only=0",
-      "phonetic_am_text": "sentēr",
+      "phonetic_am_text": "sen.tēr",
       "img": "",
       "pronunciation": "ˈsɛntɚ",
       "senses": [
@@ -247,12 +251,13 @@
       ]
     },
     {
-      "word": "tackle",
+      "id": "1756cfbd-673a-4cfa-9685-85830e33f892",
+      "word": "to tackle",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFja2xl&hash=4871f2c18c3f87d6cb67e838e61260da8f5173fa&lang=en&cache-only=0",
-      "phonetic_text": "tækəl",
+      "phonetic_text": "tæ.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFja2xl&hash=4871f2c18c3f87d6cb67e838e61260da8f5173fa&lang=en&cache-only=0",
-      "phonetic_am_text": "tākēl",
+      "phonetic_am_text": "tā.kēl",
       "img": "",
       "pronunciation": "ˈtækəɫ",
       "senses": [
@@ -284,12 +289,13 @@
       ]
     },
     {
-      "word": "tackle",
+      "id": "286ff546-78a3-4954-8195-e989b4c5a8d6",
+      "word": "to tackle",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFja2xl&hash=4871f2c18c3f87d6cb67e838e61260da8f5173fa&lang=en&cache-only=0",
-      "phonetic_text": "tækəl",
+      "phonetic_text": "tæ.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFja2xl&hash=4871f2c18c3f87d6cb67e838e61260da8f5173fa&lang=en&cache-only=0",
-      "phonetic_am_text": "tākēl",
+      "phonetic_am_text": "tā.kēl",
       "img": "https://cdn.langeek.co/photo/31701/original/?type=jpeg",
       "pronunciation": "ˈtækəɫ",
       "senses": [
@@ -317,12 +323,13 @@
       ]
     },
     {
+      "id": "3b0162eb-b883-488c-ad8f-969defb5533b",
       "word": "goal line",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29hbCBsaW5l&hash=95a5d811dd7142dbda963e82c57298aa49700b0a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "goʊl laɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=Z29hbCBsaW5l&hash=95a5d811dd7142dbda963e82c57298aa49700b0a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "goool lain",
       "img": "",
       "pronunciation": "ɡˈoʊl lˈaɪn",
       "senses": [
@@ -354,12 +361,13 @@
       ]
     },
     {
+      "id": "2006190a-2bb5-450c-a1bd-5c39308d24ce",
       "word": "fielding",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmllbGRpbmc&hash=6cbb6a2a1e2b02e0079163fdef824bb31bb9621c&lang=en&cache-only=0",
-      "phonetic_text": "fi:ldɪng",
+      "phonetic_text": "fil.dɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmllbGRpbmc&hash=6cbb6a2a1e2b02e0079163fdef824bb31bb9621c&lang=en&cache-only=0",
-      "phonetic_am_text": "feelding",
+      "phonetic_am_text": "fil.ding",
       "img": "",
       "pronunciation": "ˈfiɫdɪŋ",
       "senses": [
@@ -391,12 +399,13 @@
       ]
     },
     {
-      "word": "defend",
+      "id": "5d8f5be9-8ca3-4fac-afb5-32a5e08fc785",
+      "word": "to defend",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVmZW5k&hash=6afe66bbc14bf369d68d6748cf4232b2fd6a195e&lang=en&cache-only=0",
-      "phonetic_text": "dɪfɛnd",
+      "phonetic_text": "dɪ.fɛnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVmZW5k&hash=6afe66bbc14bf369d68d6748cf4232b2fd6a195e&lang=en&cache-only=0",
-      "phonetic_am_text": "difend",
+      "phonetic_am_text": "di.fend",
       "img": "https://cdn.langeek.co/photo/31689/original/?type=jpeg",
       "pronunciation": "dɪˈfɛnd",
       "senses": [
@@ -428,12 +437,13 @@
       ]
     },
     {
+      "id": "08e21bd3-cc13-40c2-873e-c418d361c1cb",
       "word": "touchline",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dG91Y2hsaW5l&hash=ed8c4b99b6c0b0bfe51f6f37c447c6d42d4d15c4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tʌʧ.laɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG91Y2hsaW5l&hash=ed8c4b99b6c0b0bfe51f6f37c447c6d42d4d15c4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tach.lain",
       "img": "",
       "pronunciation": "tˈʌtʃlaɪn",
       "senses": [
@@ -465,12 +475,13 @@
       ]
     },
     {
+      "id": "885a64b4-46c1-49cc-b4f8-024c0f85b73d",
       "word": "clearance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xlYXJhbmNl&hash=e46d22d8c57b2d76b94cc14f833aa1e31615af54&lang=en&cache-only=0",
-      "phonetic_text": "klɪrəns",
+      "phonetic_text": "klɪ.rəns",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xlYXJhbmNl&hash=e46d22d8c57b2d76b94cc14f833aa1e31615af54&lang=en&cache-only=0",
-      "phonetic_am_text": "klirēns",
+      "phonetic_am_text": "kli.rēns",
       "img": "",
       "pronunciation": "ˈkɫɪɹəns",
       "senses": [
@@ -502,12 +513,13 @@
       ]
     },
     {
+      "id": "40be1685-6fe8-4aa1-a4f4-bfda6a2c89da",
       "word": "fast break",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFzdCBicmVhaw&hash=23866fb9da90c81c50d18de025c6146ec64d4fb1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fæst breɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFzdCBicmVhaw&hash=23866fb9da90c81c50d18de025c6146ec64d4fb1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fāst breik",
       "img": "",
       "pronunciation": "fˈæst bɹˈeɪk",
       "senses": [
@@ -539,12 +551,13 @@
       ]
     },
     {
+      "id": "2d7805b0-523e-4a0a-8f58-acf3fc9c2517",
       "word": "dribble",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJpYmJsZQ&hash=52f4e5f82e25fb3c5c4e8d5337ce1873cc73d003&lang=en&cache-only=0",
-      "phonetic_text": "drɪbəl",
+      "phonetic_text": "drɪ.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJpYmJsZQ&hash=52f4e5f82e25fb3c5c4e8d5337ce1873cc73d003&lang=en&cache-only=0",
-      "phonetic_am_text": "dribēl",
+      "phonetic_am_text": "dri.bēl",
       "img": "",
       "pronunciation": "ˈdɹɪbəɫ",
       "senses": [
@@ -555,14 +568,15 @@
       ]
     },
     {
-      "word": "save",
+      "id": "09f7c7a3-a385-4d92-bb17-9ff1a3372d8a",
+      "word": "to save",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2F2ZQ&hash=89a06fa419a9dc559941b967d3dcb789909a7b1c&lang=en&cache-only=0",
       "phonetic_text": "seɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2F2ZQ&hash=89a06fa419a9dc559941b967d3dcb789909a7b1c&lang=en&cache-only=0",
       "phonetic_am_text": "seiv",
       "img": "",
-      "pronunciation": "ˈseɪv",
+      "pronunciation": "seɪv",
       "senses": [
         {
           "definition": "(in sports) to block or prevent an opponent from scoring a goal or point in a game",
@@ -596,14 +610,15 @@
       ]
     },
     {
+      "id": "452ae05d-8a19-4535-9a65-d96e437b9c4a",
       "word": "bomb",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9tYg&hash=b3bb2503d50b801d940a1e7fd6deefa7cb672e95&lang=en&cache-only=0",
-      "phonetic_text": "bɑ:m",
+      "phonetic_text": "bɑm",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9tYg&hash=b3bb2503d50b801d940a1e7fd6deefa7cb672e95&lang=en&cache-only=0",
       "phonetic_am_text": "baam",
       "img": "",
-      "pronunciation": "ˈbɑm/, /ˈbɔm",
+      "pronunciation": "bɑːm",
       "senses": [
         {
           "definition": "a deep, forward pass or hit in a ball game, typically covering a significant distance down the field",
@@ -633,6 +648,7 @@
       ]
     },
     {
+      "id": "3eddcc86-125e-46b8-a2db-e511330fa0c8",
       "word": "cut",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3V0&hash=d16f1388479dd1933f1fbaa7dbf36f5a5619c760&lang=en&cache-only=0",
@@ -670,12 +686,13 @@
       ]
     },
     {
-      "word": "kick off",
+      "id": "dc87e819-880e-439f-93fa-a76b8c9e067a",
+      "word": "to kick off",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2ljayBvZmY&hash=e1cded18661d8189e4f0a007a388578c8d9c117c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɪk ɑf",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2ljayBvZmY&hash=e1cded18661d8189e4f0a007a388578c8d9c117c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kik aaf",
       "img": "",
       "pronunciation": "kˈɪk ˈɔf",
       "senses": [
@@ -707,12 +724,13 @@
       ]
     },
     {
+      "id": "74f2f37f-f7c3-4f89-9076-9e94dd8973f4",
       "word": "dropkick",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJvcGtpY2s&hash=2dfd1ff90fba255225109b5840cc2b0647e1fab3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "drɑp.kɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJvcGtpY2s&hash=2dfd1ff90fba255225109b5840cc2b0647e1fab3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "draap.kik",
       "img": "",
       "pronunciation": "dɹˈɑːpkɪk",
       "senses": [
@@ -744,12 +762,13 @@
       ]
     },
     {
+      "id": "f39843ba-fd58-4591-adea-cb3285d6afc4",
       "word": "throw-in",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhyb3ctaW4&hash=a0975455e783a857c31f6d33c6b1b246aa58676b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "θroʊ-ɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhyb3ctaW4&hash=a0975455e783a857c31f6d33c6b1b246aa58676b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "throoo-in",
       "img": "",
       "pronunciation": "θɹˈoʊˈɪn",
       "senses": [
@@ -781,12 +800,13 @@
       ]
     },
     {
-      "word": "field",
+      "id": "3e9931ee-5950-4077-a910-7c1757d87ee0",
+      "word": "to field",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmllbGQ&hash=845bfc09e679b8c1d1c9fa07bd38c9448f5ef659&lang=en&cache-only=0",
-      "phonetic_text": "fi:ld",
+      "phonetic_text": "fild",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmllbGQ&hash=845bfc09e679b8c1d1c9fa07bd38c9448f5ef659&lang=en&cache-only=0",
-      "phonetic_am_text": "feeld",
+      "phonetic_am_text": "fild",
       "img": "",
       "pronunciation": "fild",
       "senses": [
@@ -818,14 +838,15 @@
       ]
     },
     {
-      "word": "kick",
+      "id": "589ae02b-b8a6-4fff-b476-1579cfb18230",
+      "word": "to kick",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2ljaw&hash=da42a81e8cfa492976b0039cc16337caa23849a8&lang=en&cache-only=0",
       "phonetic_text": "kɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2ljaw&hash=da42a81e8cfa492976b0039cc16337caa23849a8&lang=en&cache-only=0",
       "phonetic_am_text": "kik",
       "img": "",
-      "pronunciation": "ˈkɪk",
+      "pronunciation": "kɪk",
       "senses": [
         {
           "definition": "(in sports such as soccer) to score a goal by kicking the ball",
@@ -851,12 +872,13 @@
       ]
     },
     {
+      "id": "b1e0040c-70ac-4451-b199-7da964f80b38",
       "word": "stroke",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3Ryb2tl&hash=cdfb0a15ee9fb4c35fa7f9391ad99725cacc3165&lang=en&cache-only=0",
       "phonetic_text": "stroʊk",
       "phonetic_am": "https://tts.langeek.co/read?text=c3Ryb2tl&hash=cdfb0a15ee9fb4c35fa7f9391ad99725cacc3165&lang=en&cache-only=0",
-      "phonetic_am_text": "strowk",
+      "phonetic_am_text": "stroook",
       "img": "",
       "pronunciation": "ˈstɹoʊk",
       "senses": [
@@ -867,14 +889,15 @@
       ]
     },
     {
-      "word": "shoot",
+      "id": "cdf53f64-dfe3-4124-a30b-b3bd4e934de8",
+      "word": "to shoot",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2hvb3Q&hash=1f12a6de2ae7bd1be2d2eeb0f9e09517bd119691&lang=en&cache-only=0",
       "phonetic_text": "ʃu:t",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2hvb3Q&hash=1f12a6de2ae7bd1be2d2eeb0f9e09517bd119691&lang=en&cache-only=0",
       "phonetic_am_text": "shoot",
       "img": "",
-      "pronunciation": "ˈʃut",
+      "pronunciation": "ʃuːt",
       "senses": [
         {
           "definition": "to achieve a particular score in a round of golf",
@@ -904,7 +927,8 @@
       ]
     },
     {
-      "word": "pass",
+      "id": "d2057991-12e4-4054-9b78-a161e5cfcbf8",
+      "word": "to pass",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGFzcw&hash=3b50cf4d62c7b70b80079db2e60f59421a6ea54d&lang=en&cache-only=0",
       "phonetic_text": "pæs",
@@ -937,12 +961,13 @@
       ]
     },
     {
-      "word": "volley",
+      "id": "44b3016c-8f14-4243-a46f-50f482396a19",
+      "word": "to volley",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdm9sbGV5&hash=c3fc3c650fece720e78e312362cd82bcb469ec58&lang=en&cache-only=0",
-      "phonetic_text": "vɑ:li",
+      "phonetic_text": "vɑ.li",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdm9sbGV5&hash=c3fc3c650fece720e78e312362cd82bcb469ec58&lang=en&cache-only=0",
-      "phonetic_am_text": "vaali",
+      "phonetic_am_text": "vaa.li",
       "img": "",
       "pronunciation": "ˈvɑɫi",
       "senses": [
@@ -974,12 +999,13 @@
       ]
     },
     {
+      "id": "c31df7c3-99a6-493e-8cbf-ed0aaee740cd",
       "word": "shotmaking",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2hvdG1ha2luZw&hash=0cfcef919857980472c6cd08bf1c10b0704bd2b0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʃɑt.meɪ.kɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hvdG1ha2luZw&hash=0cfcef919857980472c6cd08bf1c10b0704bd2b0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "shaat.mei.king",
       "img": "",
       "pronunciation": "ʃˈɑːtmeɪkɪŋ",
       "senses": [
@@ -1011,12 +1037,13 @@
       ]
     },
     {
+      "id": "19170363-1543-4dcd-afa5-d2a8e8830f92",
       "word": "strike rate",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RyaWtlIHJhdGU&hash=38e91f8d42dbfcab5f7bd4803579299103b8ba08&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "straɪk reɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyaWtlIHJhdGU&hash=38e91f8d42dbfcab5f7bd4803579299103b8ba08&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "straik reit",
       "img": "",
       "pronunciation": "stɹˈaɪk ɹˈeɪt",
       "senses": [
@@ -1048,12 +1075,13 @@
       ]
     },
     {
+      "id": "90b2e7db-083c-485c-a704-60f56f275db4",
       "word": "loose ball",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9vc2UgYmFsbA&hash=da3c026e3895e918eff3cbc7f3156346f289ae8e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lu:s bɔ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9vc2UgYmFsbA&hash=da3c026e3895e918eff3cbc7f3156346f289ae8e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "loos bawl",
       "img": "",
       "pronunciation": "lˈuːs bˈɔːl",
       "senses": [
@@ -1085,12 +1113,13 @@
       ]
     },
     {
+      "id": "e217ac8b-a3f6-4ba6-a281-1135a1972f8e",
       "word": "half-volley",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFsZi12b2xsZXk&hash=fb9b6b83fe32f029c338584a5128bdeba34973a0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hæf-vɑ.li",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFsZi12b2xsZXk&hash=fb9b6b83fe32f029c338584a5128bdeba34973a0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hāf-vaa.li",
       "img": "",
       "pronunciation": "hˈæfvˈɑːli",
       "senses": [
@@ -1122,12 +1151,13 @@
       ]
     },
     {
+      "id": "d1dfa3f2-a8c7-43ee-8fb1-4488f4896b09",
       "word": "give-and-go",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2l2ZS1hbmQtZ28&hash=ad0cd15984708a43a84cc2034e29c85cf5ba59da&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gɪv-ænd-goʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2l2ZS1hbmQtZ28&hash=ad0cd15984708a43a84cc2034e29c85cf5ba59da&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "giv-ānd-gooo",
       "img": "",
       "pronunciation": "ɡˈɪvændɡˈoʊ",
       "senses": [
@@ -1159,12 +1189,13 @@
       ]
     },
     {
+      "id": "dd1739ee-c44a-410d-8164-76bbe0c91142",
       "word": "short pass",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2hvcnQgcGFzcw&hash=8f35a80d135d46bcc9785a7637ed5be418239573&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʃɔrt pæs",
       "phonetic_am": "https://tts.langeek.co/read?text=c2hvcnQgcGFzcw&hash=8f35a80d135d46bcc9785a7637ed5be418239573&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "shawrt pās",
       "img": "",
       "pronunciation": "ʃˈɔːɹt pˈæs",
       "senses": [
@@ -1196,12 +1227,13 @@
       ]
     },
     {
+      "id": "d8c52f74-1ef6-49a7-a5ee-428bf16f5b9c",
       "word": "follow-through",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9sbG93LXRocm91Z2g&hash=7ca03f8a753b5e18a21467ebf5613500b1ff1233&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɑ.loʊ-θru:",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9sbG93LXRocm91Z2g&hash=7ca03f8a753b5e18a21467ebf5613500b1ff1233&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "faa.looo-throo",
       "img": "",
       "pronunciation": "fˈɑːloʊθɹˈuː",
       "senses": [
@@ -1233,12 +1265,13 @@
       ]
     },
     {
-      "word": "screen",
+      "id": "21af4eef-ded7-4669-82cf-985dfe6fcba3",
+      "word": "to screen",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NyZWVu&hash=5ffa74e12f91a716fc6af40922d155b1fbb865d8&lang=en&cache-only=0",
       "phonetic_text": "skri:n",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NyZWVu&hash=5ffa74e12f91a716fc6af40922d155b1fbb865d8&lang=en&cache-only=0",
-      "phonetic_am_text": "skreen",
+      "phonetic_am_text": "skrin",
       "img": "",
       "pronunciation": "skriːn",
       "senses": [
@@ -1270,14 +1303,15 @@
       ]
     },
     {
+      "id": "89544809-fd59-4551-828f-fa65550bff37",
       "word": "steal",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RlYWw&hash=3b081595fb433e0510801fb04ace1c19222f7ea2&lang=en&cache-only=0",
       "phonetic_text": "sti:l",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RlYWw&hash=3b081595fb433e0510801fb04ace1c19222f7ea2&lang=en&cache-only=0",
-      "phonetic_am_text": "steel",
+      "phonetic_am_text": "stil",
       "img": "",
-      "pronunciation": "ˈstiɫ",
+      "pronunciation": "stiːl",
       "senses": [
         {
           "definition": "the act of gaining possession of the ball from an opponent through legal means",
@@ -1307,12 +1341,13 @@
       ]
     },
     {
+      "id": "388052ec-5fd7-47f5-892f-f5bc0744d3cd",
       "word": "zone defense",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=em9uZSBkZWZlbnNl&hash=d9d425446bf7079531d7814c77368000448b0a6d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "zoʊn dɪ.fɛns",
       "phonetic_am": "https://tts.langeek.co/read?text=em9uZSBkZWZlbnNl&hash=d9d425446bf7079531d7814c77368000448b0a6d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "zooon di.fens",
       "img": "",
       "pronunciation": "zˈoʊn dɪfˈɛns",
       "senses": [
@@ -1344,14 +1379,15 @@
       ]
     },
     {
-      "word": "turn over",
+      "id": "2101181d-b49f-4dec-a893-df469581d599",
+      "word": "to turn over",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHVybiBvdmVy&hash=5ea3062492064702920ae974614606b915ed3150&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHVybiBvdmVy&hash=5ea3062492064702920ae974614606b915ed3150&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
-      "pronunciation": "tˈɜːn ˈoʊvɚ",
+      "pronunciation": "ˈtɝn ˈoʊvɚ",
       "senses": [
         {
           "definition": "(of ball games) to lose control of the ball, resulting in a missed opportunity to score",
@@ -1377,12 +1413,13 @@
       ]
     },
     {
+      "id": "1cc55022-0ba9-4be4-b76c-866a02114310",
       "word": "mishit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWlzaGl0&hash=7de24077c6fb403d826ec2f5bb08b8fcc24f09ff&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mɪs.hɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=bWlzaGl0&hash=7de24077c6fb403d826ec2f5bb08b8fcc24f09ff&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mis.hit",
       "img": "",
       "pronunciation": "mɪshˈɪt",
       "senses": [
@@ -1406,12 +1443,13 @@
       ]
     },
     {
+      "id": "13149cab-5d29-4bbf-b9a9-6fbfa8cc3dad",
       "word": "pump fake",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHVtcCBmYWtl&hash=a0bf377b77941f2b815ecac690c9493b60cdc55e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pəmp feɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=cHVtcCBmYWtl&hash=a0bf377b77941f2b815ecac690c9493b60cdc55e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pēmp feik",
       "img": "",
       "pronunciation": "pˈʌmp fˈeɪk",
       "senses": [
@@ -1443,14 +1481,15 @@
       ]
     },
     {
-      "word": "block",
+      "id": "927673a4-3836-42bc-905e-3a0c6f68fbc0",
+      "word": "to block",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmxvY2s&hash=4681320f781fb51e1c8d51bb10a3955f43c39d9d&lang=en&cache-only=0",
-      "phonetic_text": "blɑ:k",
+      "phonetic_text": "blɑk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmxvY2s&hash=4681320f781fb51e1c8d51bb10a3955f43c39d9d&lang=en&cache-only=0",
       "phonetic_am_text": "blaak",
       "img": "",
-      "pronunciation": "ˈbɫɑk",
+      "pronunciation": "blɑk",
       "senses": [
         {
           "definition": "to obstruct or hinder the progress or action of an opponent, typically in sports or competitive activities",
@@ -1480,7 +1519,8 @@
       ]
     },
     {
-      "word": "run",
+      "id": "485380fe-71f5-49d7-bb60-763bfca32b4e",
+      "word": "to run",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcnVu&hash=a89561462897e0e7118780b949d5a04c57c3f8c0&lang=en&cache-only=0",
       "phonetic_text": "rʌn",
@@ -1509,10 +1549,11 @@
       ]
     },
     {
+      "id": "c032433b-19ae-4db1-a58e-322d38331f98",
       "word": "Jokgu",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Sm9rZ3U&hash=2c3cf34f7893a748754fac4148d12027989cb368&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Sm9rZ3U&hash=2c3cf34f7893a748754fac4148d12027989cb368&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -1542,12 +1583,13 @@
       ]
     },
     {
+      "id": "2bc78caf-1e23-4d12-a2b9-28275d22ab73",
       "word": "kabaddi",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2FiYWRkaQ&hash=6156845a9cbbcd24133de7e815f9e749939aa496&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kæ.bæ.di",
       "phonetic_am": "https://tts.langeek.co/read?text=a2FiYWRkaQ&hash=6156845a9cbbcd24133de7e815f9e749939aa496&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kā.bā.di",
       "img": "",
       "pronunciation": "kæbˈædi",
       "senses": [
@@ -1579,12 +1621,13 @@
       ]
     },
     {
+      "id": "4431e351-12ae-4838-8a51-8c7a57cfc73f",
       "word": "own goal",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3duIGdvYWw&hash=2b44287b22eba6d21f3fdc7d4f8c283d97f7232e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "oʊn goʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=b3duIGdvYWw&hash=2b44287b22eba6d21f3fdc7d4f8c283d97f7232e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ooon goool",
       "img": "",
       "pronunciation": "ˈoʊn ɡˈoʊl",
       "senses": [
@@ -1616,12 +1659,13 @@
       ]
     },
     {
+      "id": "f1d37bc6-cb89-404c-90be-6ac60f014c03",
       "word": "lateral pass",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGF0ZXJhbCBwYXNz&hash=ec3bd7e840c3bbb41352863cbf997de63ff05e6c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "læ.tɜ.rəl pæs",
       "phonetic_am": "https://tts.langeek.co/read?text=bGF0ZXJhbCBwYXNz&hash=ec3bd7e840c3bbb41352863cbf997de63ff05e6c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lā.tē.rēl pās",
       "img": "",
       "pronunciation": "lˈæɾɚɹəl pˈæs",
       "senses": [
@@ -1653,14 +1697,15 @@
       ]
     },
     {
-      "word": "snap",
+      "id": "8fbd37e3-6ac1-4003-a728-20aa1ba9e214",
+      "word": "to snap",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc25hcA&hash=c80a60cd7d220f3459cd0d92615f3042118000a5&lang=en&cache-only=0",
       "phonetic_text": "snæp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc25hcA&hash=c80a60cd7d220f3459cd0d92615f3042118000a5&lang=en&cache-only=0",
       "phonetic_am_text": "snāp",
       "img": "",
-      "pronunciation": "ˈsnæp",
+      "pronunciation": "snæp",
       "senses": [
         {
           "definition": "to initiate play by quickly moving the ball into play from a stationary position",
@@ -1686,7 +1731,8 @@
       ]
     },
     {
-      "word": "drive",
+      "id": "1ebd703d-75d2-4532-a851-ce0a180f9102",
+      "word": "to drive",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJpdmU&hash=704a8f2ae7dbeafb5fcb21f996d425b92f21e83b&lang=en&cache-only=0",
       "phonetic_text": "draɪv",
@@ -1723,6 +1769,7 @@
       ]
     },
     {
+      "id": "ce35d745-5c82-4f00-b3c0-15708c035e21",
       "word": "catch",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2F0Y2g&hash=fd1994eae39614afa518e1a1035ad90606ceb342&lang=en&cache-only=0",
@@ -1730,7 +1777,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Y2F0Y2g&hash=fd1994eae39614afa518e1a1035ad90606ceb342&lang=en&cache-only=0",
       "phonetic_am_text": "kāch",
       "img": "https://cdn.langeek.co/photo/17565/original/catch?type=jpeg",
-      "pronunciation": "ˈkætʃ",
+      "pronunciation": "kætʃ",
       "senses": [
         {
           "definition": "the act of capturing something that has been thrown through the air",

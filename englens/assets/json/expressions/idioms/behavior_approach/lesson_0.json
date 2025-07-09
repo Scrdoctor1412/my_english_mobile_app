@@ -1,13 +1,15 @@
 {
+  "id": "99aeddc7-5f45-4841-aa98-680a5898daba",
   "topic": "behavior_approach",
   "title": "Foresight & Prudence",
   "lesson": "lesson_0",
   "word_list": [
     {
+      "id": "0c9a23a2-7f54-49a5-9590-e67a3f0a2a2b",
       "word": "[ace|card] up {one's} sleeve",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YWNlIHVwIG9uZSdzIHNsZWV2ZQ&hash=77e3ff4a591ed16a98043d4bd3c75b322c17c405&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YWNlIHVwIG9uZSdzIHNsZWV2ZQ&hash=77e3ff4a591ed16a98043d4bd3c75b322c17c405&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45279/original/?type=jpeg",
@@ -37,10 +39,11 @@
       ]
     },
     {
-      "word": "[cover] {one's} [ass]",
+      "id": "dfcbe63b-2321-4713-accc-cb2a351d3cfd",
+      "word": "to [cover] {one's} [ass]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY292ZXIgb25lJ3MgYXNz&hash=9b635c93291f483ee41bcc3588dd9a21fb673684&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY292ZXIgb25lJ3MgYXNz&hash=9b635c93291f483ee41bcc3588dd9a21fb673684&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44510/original/?type=jpeg",
@@ -48,32 +51,16 @@
       "senses": [
         {
           "definition": "to save a person from receiving criticism, punishment, blame, etc.",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Politicians don't care about the outcome of the vote, they just care about covering their asses."
-            },
-            {
-              "cf": "",
-              "x": "After the project failed, he tried to cover his ass by blaming his team and documenting their alleged mistakes."
-            },
-            {
-              "cf": "",
-              "x": "She sent a confirming email to the client to cover her ass in case there were any misunderstandings."
-            },
-            {
-              "cf": "",
-              "x": "The politician issued a statement to cover his ass after the controversial policy decision."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[cover] {one's} back",
+      "id": "d05bb956-e139-41e5-ac9e-33c99fa5bdd5",
+      "word": "to [cover] {one's} back",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY292ZXIgb25lJ3MgYmFjaw&hash=89d2d7ea4809eb76cd1939df51e7dfd67a0a258e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY292ZXIgb25lJ3MgYmFjaw&hash=89d2d7ea4809eb76cd1939df51e7dfd67a0a258e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/27405/original/?type=jpeg",
@@ -99,10 +86,11 @@
       ]
     },
     {
-      "word": "[cut] {one's} losses",
+      "id": "c3b6578b-d1fe-421b-916e-039649eb48e0",
+      "word": "to [cut] {one's} losses",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3V0IG9uZSdzIGxvc3Nlcw&hash=daa1cdaf1f3b4c6acbea415ded2e23cc420f10b4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3V0IG9uZSdzIGxvc3Nlcw&hash=daa1cdaf1f3b4c6acbea415ded2e23cc420f10b4&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45281/original/?type=jpeg",
@@ -136,12 +124,13 @@
       ]
     },
     {
+      "id": "9eec7ce8-c20c-4ab9-aa44-a67a67963a06",
       "word": "a rainy day",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YSByYWlueSBkYXk&hash=b78eee34dd52c36dd69cb1873ec91bdc0c3e2e00&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ə reɪ.ni deɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=YSByYWlueSBkYXk&hash=b78eee34dd52c36dd69cb1873ec91bdc0c3e2e00&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ē rei.ni dei",
       "img": "https://cdn.langeek.co/photo/45277/original/?type=jpeg",
       "pronunciation": "ɐ ɹˈeɪni dˈeɪ",
       "senses": [
@@ -173,10 +162,11 @@
       ]
     },
     {
+      "id": "f05494ae-b17e-4857-a86e-9bc7a22848ee",
       "word": "eye (on|to|for) the main chance",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZXllIG9uIHRoZSBtYWluIGNoYW5jZQ&hash=bc1514a6bb13146a634afca6e3aee9be4c288084&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXllIG9uIHRoZSBtYWluIGNoYW5jZQ&hash=bc1514a6bb13146a634afca6e3aee9be4c288084&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/49431/original/?type=jpeg",
@@ -184,36 +174,16 @@
       "senses": [
         {
           "definition": "a willingness to use any given opportunity or situation to one's advantage",
-          "examples": [
-            {
-              "cf": "",
-              "x": "New York has always been a place where individuals with an eye for the main chance could make their fortunes."
-            },
-            {
-              "cf": "",
-              "x": "One must have an eye on the main chance in order to succeed."
-            },
-            {
-              "cf": "",
-              "x": "The empire is riddled with factions, all with an eye on the main chance"
-            },
-            {
-              "cf": "",
-              "x": "These people are not proper lawyers, they are simply marketeers with an eye to the main chance."
-            },
-            {
-              "cf": "",
-              "x": "This company tends to employ young women have an eye to the main chance."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[nip] {sth} in the bud",
+      "id": "06ce3c10-c3b7-4f09-91bc-59cddc4efbd5",
+      "word": "to [nip] {sth} in the bud",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbmlwIHNvbWV0aGluZyBpbiB0aGUgYnVk&hash=3c09237c6399d98fcccad75a76113eea1d14a8a6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbmlwIHNvbWV0aGluZyBpbiB0aGUgYnVk&hash=3c09237c6399d98fcccad75a76113eea1d14a8a6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/21278/original/?type=jpeg",
@@ -226,10 +196,11 @@
       ]
     },
     {
-      "word": "[stop] the rot",
+      "id": "6da462f7-edec-42fe-9556-cd0a133f5585",
+      "word": "to [stop] the rot",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RvcCB0aGUgcm90&hash=b1f7e2408f430c996794611aea996a0e4f897316&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RvcCB0aGUgcm90&hash=b1f7e2408f430c996794611aea996a0e4f897316&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45283/original/?type=jpeg",
@@ -237,15 +208,37 @@
       "senses": [
         {
           "definition": "to prevent something from developing into something worse",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The company's new management team took drastic measures to stop the rot and turn the company around."
+            },
+            {
+              "cf": "",
+              "x": "When they noticed a decline in customer satisfaction, the business decided to stop the rot by improving their products and services."
+            },
+            {
+              "cf": "",
+              "x": "The government implemented policies to stop the rot in the economy after a period of recession."
+            },
+            {
+              "cf": "",
+              "x": "Recognizing the team's poor performance, the coach made changes to stop the rot and get back on the winning track."
+            },
+            {
+              "cf": "",
+              "x": "To save their relationship, they decided to seek counseling to stop the rot of constant arguments and misunderstandings."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[strike] while the iron [is] hot",
+      "id": "a6c11752-2d47-450a-8b37-72c68e1ff763",
+      "word": "to [strike] while the iron [is] hot",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RyaWtlIHdoaWxlIHRoZSBpcm9uIGlzIGhvdA&hash=6df8e11fb85b48ba60dbbb8ef38df4cc7fc2f283&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RyaWtlIHdoaWxlIHRoZSBpcm9uIGlzIGhvdA&hash=6df8e11fb85b48ba60dbbb8ef38df4cc7fc2f283&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45315/original/?type=jpeg",
@@ -258,10 +251,11 @@
       ]
     },
     {
-      "word": "[take] stock of {sth}",
+      "id": "abf105a7-cf13-4246-848e-a695f4d7d295",
+      "word": "to [take] stock of {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBzdG9jayBvZiBzb21ldGhpbmc&hash=d9a7d327e51f5311809a4e6153c51a7d6d30fdef&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBzdG9jayBvZiBzb21ldGhpbmc&hash=d9a7d327e51f5311809a4e6153c51a7d6d30fdef&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45317/original/?type=jpeg",
@@ -269,15 +263,33 @@
       "senses": [
         {
           "definition": "to carefully examine a situation before making a final decision",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Before making any decisions, the project manager decided to take stock of the team's progress and resources."
+            },
+            {
+              "cf": "",
+              "x": "The beginning of a new year is a great time to take stock of your personal goals and achievements from the previous year."
+            },
+            {
+              "cf": "",
+              "x": "In times of crisis, it's essential to take stock of available supplies and resources to ensure a coordinated response."
+            },
+            {
+              "cf": "",
+              "x": "Before starting a new project, it's wise to take stock of your skills and resources to plan effectively."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "27e87ba6-53e7-4987-8b8b-9aee7bd00b19",
       "word": "[know|see|find out] which (way|direction) the wind [blow]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=a25vdyBvdXQgd2hpY2ggd2F5IHRoZSB3aW5kIGJsb3c&hash=2ac564305a6f9ee6e920b10b7c0d9d53db019d24&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=a25vdyBvdXQgd2hpY2ggd2F5IHRoZSB3aW5kIGJsb3c&hash=2ac564305a6f9ee6e920b10b7c0d9d53db019d24&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44408/original/?type=jpeg",
@@ -290,10 +302,11 @@
       ]
     },
     {
-      "word": "[think] twice",
+      "id": "06a11f35-fbec-43ff-89b3-830fffd6b104",
+      "word": "to [think] twice",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGhpbmsgdHdpY2U&hash=cee559c0fe5dec7047f218e0e1dec3909259d7c6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGhpbmsgdHdpY2U&hash=cee559c0fe5dec7047f218e0e1dec3909259d7c6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/22568/original/?type=jpeg",
@@ -301,7 +314,28 @@
       "senses": [
         {
           "definition": "to think about something very carefully before doing it",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "These foods are potentially dangerous, yet nobody thinks twice before handing them out to their loved ones."
+            },
+            {
+              "cf": "",
+              "x": "Why are women thinking twice about motherhood?"
+            },
+            {
+              "cf": "",
+              "x": "Before quitting your job, you should think twice about the financial implications."
+            },
+            {
+              "cf": "",
+              "x": "I had to think twice about buying that expensive car; it would have drained my savings."
+            },
+            {
+              "cf": "",
+              "x": "When offering criticism, it's essential to think twice to ensure your words are constructive."
+            }
+          ]
         }
       ]
     }

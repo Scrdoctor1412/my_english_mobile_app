@@ -1,13 +1,15 @@
 {
+  "id": "375ef642-f375-4e12-8fb6-e9e5bc3e15d0",
   "topic": "collocations_of_make_take_have",
   "title": "Non-Physical Actions (Take)",
   "lesson": "lesson_5",
   "word_list": [
     {
-      "word": "[take] a nap",
+      "id": "aff0ad4a-470f-48cb-822d-b21e46deacf6",
+      "word": "to [take] a nap",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIG5hcA&hash=70da60c997e94a71096f07aa056cc8d7d1333d28&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIG5hcA&hash=70da60c997e94a71096f07aa056cc8d7d1333d28&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -37,10 +39,11 @@
       ]
     },
     {
-      "word": "[take] a (class|course)",
+      "id": "5d91261e-3b1d-4f2e-8cb6-f9e5969ec29d",
+      "word": "to [take] a (class|course)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIGNsYXNz&hash=e6115a85d009374de7302fe002170fd365d51a65&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIGNsYXNz&hash=e6115a85d009374de7302fe002170fd365d51a65&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -62,10 +65,11 @@
       ]
     },
     {
-      "word": "[take] a decision",
+      "id": "ff76e41f-40c6-46d3-b1e5-6979ac6fce9e",
+      "word": "to [take] a decision",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIGRlY2lzaW9u&hash=e72dc2c1fdc3958de0f216dc70af96147fa3f8ff&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIGRlY2lzaW9u&hash=e72dc2c1fdc3958de0f216dc70af96147fa3f8ff&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -99,10 +103,11 @@
       ]
     },
     {
-      "word": "[take] a holiday",
+      "id": "887a9650-9d5b-4b6d-91fb-9427d90bbb8d",
+      "word": "to [take] a holiday",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIGhvbGlkYXk&hash=dc5bbee7f445cbc7f223c9b933badc00201172d8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIGhvbGlkYXk&hash=dc5bbee7f445cbc7f223c9b933badc00201172d8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -110,28 +115,16 @@
       "senses": [
         {
           "definition": "to go on vacation or take time off from work or daily activities to relax and enjoy leisure activities",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She hasn't taken a holiday in years, so she really needs a break."
-            },
-            {
-              "cf": "",
-              "x": "We will take a holiday during the summer to explore new destinations."
-            },
-            {
-              "cf": "",
-              "x": "I took a holiday last month and traveled to Europe for a cultural experience"
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[take] a lesson",
+      "id": "b525e9c5-774e-4041-a175-a9d2d9dbdd3d",
+      "word": "to [take] a lesson",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIGxlc3Nvbg&hash=a496c3f59983956e783281efaac72b96c332347b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIGxlc3Nvbg&hash=a496c3f59983956e783281efaac72b96c332347b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -153,39 +146,28 @@
       ]
     },
     {
-      "word": "[take] a (picture|photo)",
+      "id": "7bc7b796-68b9-40bd-b5d3-b1dc5bc5bf56",
+      "word": "to [take] a picture",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIHBpY3R1cmU&hash=6596f76d752c9df00ace77266f7ab592ed0d07cd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIHBpY3R1cmU&hash=6596f76d752c9df00ace77266f7ab592ed0d07cd&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/47436/original/photographer?type=jpeg",
-      "pronunciation": "tˈeɪk ɐ pˈɪktʃɚ ɔːɹ fˈoʊɾoʊ",
+      "pronunciation": "tˈeɪk ɐ pˈɪktʃɚ",
       "senses": [
         {
           "definition": "to use a device like a camera or cellphone to capture an image of something or someone",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I took a picture of the stunning sunset at the beach."
-            },
-            {
-              "cf": "",
-              "x": "They will take a picture to remember this special moment."
-            },
-            {
-              "cf": "",
-              "x": "We took a photo together to commemorate our friendship."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[take] a rest",
+      "id": "c39afd71-cb34-4458-bdc1-6b11e94727ae",
+      "word": "to [take] a rest",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIHJlc3Q&hash=c91bca00e991378a3d3708e74606fa6e035d5618&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIHJlc3Q&hash=c91bca00e991378a3d3708e74606fa6e035d5618&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -211,10 +193,11 @@
       ]
     },
     {
-      "word": "[take] a survey",
+      "id": "1e85ead7-90be-4cf9-b383-8384a582f222",
+      "word": "to [take] a survey",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIHN1cnZleQ&hash=0b243321340167ccd95840c45e344357ae42fed8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIHN1cnZleQ&hash=0b243321340167ccd95840c45e344357ae42fed8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -236,10 +219,11 @@
       ]
     },
     {
-      "word": "[take] a break",
+      "id": "ac8127b0-2b41-49f6-ab4b-f200ada322a8",
+      "word": "to [take] a break",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIGJyZWFr&hash=a767c4cb18a98b8373b5c060e47b79fa7c22138c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIGJyZWFr&hash=a767c4cb18a98b8373b5c060e47b79fa7c22138c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -247,28 +231,16 @@
       "senses": [
         {
           "definition": "to stop working or doing an activity temporarily in order to rest, relax, etc.",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After hours of studying, she decided to take a break and go for a walk."
-            },
-            {
-              "cf": "",
-              "x": "I need to take a break from studying; my brain is exhausted."
-            },
-            {
-              "cf": "",
-              "x": "He took a break after finishing the first part of the project."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[take] a trip",
+      "id": "c7e62ba1-e60a-4171-ba4c-8acc725b84c1",
+      "word": "to [take] a trip",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIHRyaXA&hash=f46025215e36b5028df5175d6fca53517da45d7d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIHRyaXA&hash=f46025215e36b5028df5175d6fca53517da45d7d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -294,10 +266,11 @@
       ]
     },
     {
-      "word": "[take] {sb/sth} to court",
+      "id": "1f064fa2-7d39-461f-b7bd-5bed9e3a0b4f",
+      "word": "to [take] {sb/sth} to court",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBzb21lYm9keSBvciBzb21ldGhpbmcgdG8gY291cnQ&hash=88f6ebad4497a81d8cea4c0bec2cc8acc731ce54&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBzb21lYm9keSBvciBzb21ldGhpbmcgdG8gY291cnQ&hash=88f6ebad4497a81d8cea4c0bec2cc8acc731ce54&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -305,36 +278,16 @@
       "senses": [
         {
           "definition": "to start a legal process against someone or something to resolve a dispute",
-          "examples": [
-            {
-              "cf": "",
-              "x": "They took their former business partner to court over a breach of contract."
-            },
-            {
-              "cf": "",
-              "x": "She decides to take her landlord to court for refusing to make necessary repairs."
-            },
-            {
-              "cf": "",
-              "x": "The company threatened to take the competitor to court for copyright infringement."
-            },
-            {
-              "cf": "",
-              "x": "In cases of discrimination, individuals often take their employers to court to seek justice."
-            },
-            {
-              "cf": "",
-              "x": "He took the matter to court to resolve the ongoing property dispute with his neighbor."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[take] turns",
+      "id": "3c39d125-1fcd-4646-9a84-057c262626f5",
+      "word": "to [take] turns",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSB0dXJucw&hash=33f1b064b145665ee363f703fb981bcf87ed7efe&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSB0dXJucw&hash=33f1b064b145665ee363f703fb981bcf87ed7efe&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -368,10 +321,11 @@
       ]
     },
     {
-      "word": "[take] a (stand|stance)",
+      "id": "2a58910a-fd8e-42d0-a9f0-768fc665d7a3",
+      "word": "to [take] a (stand|stance)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIHN0YW5k&hash=640322cae7e30b0532cd3760efacb6a125336319&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIHN0YW5k&hash=640322cae7e30b0532cd3760efacb6a125336319&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -405,10 +359,11 @@
       ]
     },
     {
-      "word": "[take] a guess",
+      "id": "307f8ab8-aa2d-4b8c-9de7-714bc7bf04b9",
+      "word": "to [take] a guess",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIGd1ZXNz&hash=c6ee9a63024d46291ad4cfe50c60f18835d882cb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIGd1ZXNz&hash=c6ee9a63024d46291ad4cfe50c60f18835d882cb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -416,32 +371,16 @@
       "senses": [
         {
           "definition": "to make a rough estimate or prediction, especially when one does not have complete or precise information",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Take a guess at how old I am."
-            },
-            {
-              "cf": "",
-              "x": "I'm not sure what the answer is, but I'll take a guess."
-            },
-            {
-              "cf": "",
-              "x": "She took a guess about the price of the antique, even though she wasn't certain."
-            },
-            {
-              "cf": "",
-              "x": "Can you take a guess at what's in the box?"
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[take|have] a gander",
+      "id": "1d8dacba-9583-4326-9d44-bf7db37ac526",
+      "word": "to [take|have] a gander",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIGdhbmRlcg&hash=773e2a58d5846105ba44458930a83b22e730a8ae&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIGdhbmRlcg&hash=773e2a58d5846105ba44458930a83b22e730a8ae&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -449,34 +388,18 @@
       "senses": [
         {
           "definition": "to look at something for a brief time",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I love having a gander at other people's homes - it gives me ideas."
-            },
-            {
-              "cf": "",
-              "x": "I was surprised to hear about such expensive watches and took a gander on their website."
-            },
-            {
-              "cf": "",
-              "x": "I heard there's something interesting happening down the street; let's take a gander and see what's going on."
-            },
-            {
-              "cf": "",
-              "x": "Before we buy the book, let's take a gander at the first few pages to see if it's engaging."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "4a229ee3-e622-4236-bf4b-c78b0b8f6007",
       "word": "take it or leave it",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGFrZSBpdCBvciBsZWF2ZSBpdA&hash=bccab3a1fd7b55c00d0cb5996440f65684627480&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "teɪk ʌɪti: ɔ:r liv ʌɪti:",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFrZSBpdCBvciBsZWF2ZSBpdA&hash=bccab3a1fd7b55c00d0cb5996440f65684627480&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "teik aiti awr liv aiti",
       "img": "",
       "pronunciation": "tˈeɪk ɪt ɔːɹ lˈiːv ɪt",
       "senses": [
@@ -504,10 +427,11 @@
       ]
     },
     {
-      "word": "[take] a tumble",
+      "id": "74df159a-2307-4e40-9ba1-efff50cf4079",
+      "word": "to [take] a tumble",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIHR1bWJsZQ&hash=574970f6c90ca362dc1baea874c4347e454a1609&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIHR1bWJsZQ&hash=574970f6c90ca362dc1baea874c4347e454a1609&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40839/original/?type=jpeg",
@@ -541,10 +465,11 @@
       ]
     },
     {
-      "word": "[take] liberties",
+      "id": "f5b5ae4a-ea80-4ed2-a4a4-941c1a1c4a69",
+      "word": "to [take] liberties",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBsaWJlcnRpZXM&hash=dd3650599ce964bea53d53df5df7fa78a24c9b50&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBsaWJlcnRpZXM&hash=dd3650599ce964bea53d53df5df7fa78a24c9b50&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -578,10 +503,11 @@
       ]
     },
     {
-      "word": "[take] time off",
+      "id": "9da0d0ee-7f93-4340-99cc-c9207aa2cc47",
+      "word": "to [take] time (off|out)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSB0aW1lIG9mZg&hash=63f81f8e31e2beb9f14014c4dfc3bf5046e7c776&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSB0aW1lIG9mZg&hash=63f81f8e31e2beb9f14014c4dfc3bf5046e7c776&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -615,10 +541,11 @@
       ]
     },
     {
-      "word": "[take] out a loan",
+      "id": "6bbb74b1-d8bf-486c-bc20-725bb218e90e",
+      "word": "to [take] out a loan",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZSBvdXQgYSBsb2Fu&hash=a5fd7d77618d0bb9ffc6251981104fee0630f26a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFrZSBvdXQgYSBsb2Fu&hash=a5fd7d77618d0bb9ffc6251981104fee0630f26a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -626,28 +553,7 @@
       "senses": [
         {
           "definition": "to borrow money from a bank or financial institution that must be paid back, usually with an extra amount added",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He decided to take out a loan to buy a new car."
-            },
-            {
-              "cf": "",
-              "x": "They took out a loan to renovate their house."
-            },
-            {
-              "cf": "",
-              "x": "They were approved to take out a loan for their small business."
-            },
-            {
-              "cf": "",
-              "x": "He took out a loan to cover unexpected medical expenses."
-            },
-            {
-              "cf": "",
-              "x": "She had to take out a loan to pay for her education."
-            }
-          ]
+          "examples": []
         }
       ]
     }

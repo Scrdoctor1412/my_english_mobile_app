@@ -1,13 +1,15 @@
 {
+  "id": "d5b914b8-7c4f-462a-8eb8-d7419332e0d8",
   "topic": "animals",
   "title": "Cattle Breeds",
   "lesson": "lesson_15",
   "word_list": [
     {
+      "id": "e8301281-bd30-4f1a-8fa7-3f6f9a086237",
       "word": "Highland cattle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=SGlnaGxhbmQgY2F0dGxl&hash=0236b350a0ed4a59695379d368e38d702e95816e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=SGlnaGxhbmQgY2F0dGxl&hash=0236b350a0ed4a59695379d368e38d702e95816e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/24458/original/?type=jpeg",
@@ -20,10 +22,11 @@
       ]
     },
     {
+      "id": "c4351c4c-d103-4a9c-b846-4472f8919a61",
       "word": "Holstein",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=SG9sc3RlaW4&hash=70dc996a60112d5b6a8c86a7810c6d2a312307d7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=SG9sc3RlaW4&hash=70dc996a60112d5b6a8c86a7810c6d2a312307d7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/51358/original/?type=jpeg",
@@ -36,10 +39,11 @@
       ]
     },
     {
+      "id": "ef00cd22-92aa-41d8-9495-8f1f31ee309e",
       "word": "Shorthorn",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=U2hvcnRob3Ju&hash=5cf936df3d58e175a7411a8639ff89d9248d92bb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=U2hvcnRob3Ju&hash=5cf936df3d58e175a7411a8639ff89d9248d92bb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/30666/original/?type=jpeg",
@@ -52,14 +56,15 @@
       ]
     },
     {
-      "word": "jersey",
+      "id": "fbe29ef2-5fa1-46d4-a054-86e825d19bef",
+      "word": "Jersey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=SmVyc2V5&hash=795e542534d9d1404e3eed2b27b95ce0eb746b19&lang=en&cache-only=0",
-      "phonetic_text": "ʤɜrzi",
+      "phonetic_text": "ʤɜr.zi",
       "phonetic_am": "https://tts.langeek.co/read?text=SmVyc2V5&hash=795e542534d9d1404e3eed2b27b95ce0eb746b19&lang=en&cache-only=0",
-      "phonetic_am_text": "jērzi",
+      "phonetic_am_text": "jēr.zi",
       "img": "https://cdn.langeek.co/photo/24460/original/?type=jpeg",
-      "pronunciation": "ˈdʒɝzi",
+      "pronunciation": "ˈʤɝːzi",
       "senses": [
         {
           "definition": "a breed of dairy cow with yellowish color that is native to Jersey in Channel Island",
@@ -68,10 +73,11 @@
       ]
     },
     {
+      "id": "229e7b60-de6d-4a65-ba19-8a9c376b99f0",
       "word": "Guernsey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=R3Vlcm5zZXk&hash=f3aba1ede56cc862e3e9783cbb11735682d81f4f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=R3Vlcm5zZXk&hash=f3aba1ede56cc862e3e9783cbb11735682d81f4f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/24436/original/?type=jpeg",
@@ -84,12 +90,13 @@
       ]
     },
     {
+      "id": "eea40c36-0ccc-4371-9803-04e3509fa9a2",
       "word": "zebu",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=emVidQ&hash=49781ffa047f75f54de962e9f7b1c7c3d1855e3f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "zɛ.bu:",
       "phonetic_am": "https://tts.langeek.co/read?text=emVidQ&hash=49781ffa047f75f54de962e9f7b1c7c3d1855e3f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ze.boo",
       "img": "https://cdn.langeek.co/photo/24490/original/?type=jpeg",
       "pronunciation": "zˈɛbuː",
       "senses": [
@@ -100,10 +107,11 @@
       ]
     },
     {
+      "id": "cd540f40-c1f5-4540-9f56-dce3b8c7a329",
       "word": "Longhorn",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=TG9uZ2hvcm4&hash=44787de014e6931099b207b4a278329fe1f18c2b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=TG9uZ2hvcm4&hash=44787de014e6931099b207b4a278329fe1f18c2b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/24462/original/?type=jpeg",
@@ -116,10 +124,11 @@
       ]
     },
     {
+      "id": "8dab4b4a-ddf5-4bd2-869b-52f6dbd78100",
       "word": "Aberdeen Angus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QWJlcmRlZW4gQW5ndXM&hash=a0694a903a8f9dc14a7c5452fdd91485340beeb8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QWJlcmRlZW4gQW5ndXM&hash=a0694a903a8f9dc14a7c5452fdd91485340beeb8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/39747/original/?type=jpeg",
@@ -132,10 +141,11 @@
       ]
     },
     {
+      "id": "f45c06ba-34b8-4a62-a290-e8dd7d5d2884",
       "word": "Hereford",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=SGVyZWZvcmQ&hash=d8fad7da1ee5f2515c8922b7d0315e998e7bfb2e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=SGVyZWZvcmQ&hash=d8fad7da1ee5f2515c8922b7d0315e998e7bfb2e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34449/original/?type=jpeg",
@@ -148,10 +158,11 @@
       ]
     },
     {
+      "id": "bdaded41-6e09-4594-9f28-6de8f5eb6d6d",
       "word": "Charolais",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q2hhcm9sYWlz&hash=44d88e4e9da7842be6fc101aa232d4e572358682&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Q2hhcm9sYWlz&hash=44d88e4e9da7842be6fc101aa232d4e572358682&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/39805/original/?type=jpeg",
@@ -164,10 +175,11 @@
       ]
     },
     {
+      "id": "0a91a873-d2a7-4a6d-b2d7-5cdddd8bfb9c",
       "word": "Brahman",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QnJhaG1hbg&hash=e7790efafd3c50a447bd12b66a53a36055a18e45&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QnJhaG1hbg&hash=e7790efafd3c50a447bd12b66a53a36055a18e45&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34476/original/?type=jpeg",
@@ -180,10 +192,11 @@
       ]
     },
     {
+      "id": "1eb9d706-d5ca-4737-ae79-fe5d7abbe736",
       "word": "Santa Gertrudis",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=U2FudGEgR2VydHJ1ZGlz&hash=2bc8160812c8590f48410d6599fed8db44c8078e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=U2FudGEgR2VydHJ1ZGlz&hash=2bc8160812c8590f48410d6599fed8db44c8078e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/34466/original/?type=jpeg",
@@ -196,12 +209,13 @@
       ]
     },
     {
+      "id": "bbdc495d-06ed-47c7-89ad-2fd2fbf90ad2",
       "word": "beef cattle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVlZiBjYXR0bGU&hash=af0a11721003cc9b12f0978c64667c6b17aa6ab9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bif kæ.təl",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVlZiBjYXR0bGU&hash=af0a11721003cc9b12f0978c64667c6b17aa6ab9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bif kā.tēl",
       "img": "",
       "pronunciation": "bˈiːf kˈæɾəl",
       "senses": [
@@ -212,12 +226,13 @@
       ]
     },
     {
+      "id": "e0cff7da-b398-45ed-83e8-9d93b7e833a3",
       "word": "dairy cattle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGFpcnkgY2F0dGxl&hash=177a8e92dab91624108998af984c11c4ca21bcd6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɛ.ri kæ.təl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGFpcnkgY2F0dGxl&hash=177a8e92dab91624108998af984c11c4ca21bcd6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "de.ri kā.tēl",
       "img": "https://cdn.langeek.co/photo/39809/original/?type=jpeg",
       "pronunciation": "dˈɛɹi kˈæɾəl",
       "senses": [
@@ -228,10 +243,11 @@
       ]
     },
     {
+      "id": "17f974fb-7759-4483-89a9-1dee1776a1a5",
       "word": "Simmental",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=U2ltbWVudGFs&hash=98cd3302aae9c72959959a8f660104192c2c58e2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=U2ltbWVudGFs&hash=98cd3302aae9c72959959a8f660104192c2c58e2&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/39759/original/?type=jpeg",
@@ -244,10 +260,11 @@
       ]
     },
     {
+      "id": "ea28a0e5-4c02-4462-b71d-dbd1603d2302",
       "word": "Red Angus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=UmVkIEFuZ3Vz&hash=ab0e390426c4f1bf19d76b22ab5cdb2f3a44978c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=UmVkIEFuZ3Vz&hash=ab0e390426c4f1bf19d76b22ab5cdb2f3a44978c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -260,10 +277,11 @@
       ]
     },
     {
+      "id": "8735480a-edf8-4a24-9cc1-fbafd9051ed0",
       "word": "Limousin",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=TGltb3VzaW4&hash=d5686d39c84cb9765ea25131a1a27722081f2ff8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=TGltb3VzaW4&hash=d5686d39c84cb9765ea25131a1a27722081f2ff8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -276,10 +294,11 @@
       ]
     },
     {
+      "id": "92fdff23-3099-4d80-ace5-8f8d544d4a4b",
       "word": "Gelbvieh",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=R2VsYnZpZWg&hash=d184c995dd74d0a0a5a03522aa5e83166aa7bdec&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=R2VsYnZpZWg&hash=d184c995dd74d0a0a5a03522aa5e83166aa7bdec&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/39761/original/?type=jpeg",
@@ -292,10 +311,11 @@
       ]
     },
     {
+      "id": "89bb86e8-d5d0-4a80-887d-facd6b934c0c",
       "word": "Brangus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QnJhbmd1cw&hash=8c7be990e6ab45e83dac40551f94f895c27a1856&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QnJhbmd1cw&hash=8c7be990e6ab45e83dac40551f94f895c27a1856&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40169/original/?type=jpeg",
@@ -308,10 +328,11 @@
       ]
     },
     {
+      "id": "0c529d34-3472-40cc-b840-56d34f51d0c0",
       "word": "Beefmaster",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QmVlZm1hc3Rlcg&hash=f46bdbb11c02ebddb062f81d7dbbb535bb97efa3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QmVlZm1hc3Rlcg&hash=f46bdbb11c02ebddb062f81d7dbbb535bb97efa3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40107/original/?type=jpeg",
@@ -324,10 +345,11 @@
       ]
     },
     {
+      "id": "f2cafd2f-b26d-4997-b0aa-8cadc68385b8",
       "word": "Salers",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=U2FsZXJz&hash=1bf40e27bb25b5f14e38311f22e81e8d5688cb82&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=U2FsZXJz&hash=1bf40e27bb25b5f14e38311f22e81e8d5688cb82&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40179/original/?type=jpeg",
@@ -340,10 +362,11 @@
       ]
     },
     {
+      "id": "c4b2bc14-36c0-427e-8a86-2a59bedd01c9",
       "word": "Maine-Anjou",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=TWFpbmUtQW5qb3U&hash=744fe6c5fa7730fc09bbbc5ce45b1ae9f9ca7574&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=TWFpbmUtQW5qb3U&hash=744fe6c5fa7730fc09bbbc5ce45b1ae9f9ca7574&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -356,10 +379,11 @@
       ]
     },
     {
+      "id": "77cd868e-48a2-4143-9f13-0f78a5f34a45",
       "word": "Chianina",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q2hpYW5pbmE&hash=2fc95def7b54bd2b5e3b0f7758a44dceac9b78fa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Q2hpYW5pbmE&hash=2fc95def7b54bd2b5e3b0f7758a44dceac9b78fa&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40175/original/?type=jpeg",
@@ -372,10 +396,11 @@
       ]
     },
     {
+      "id": "98c16a6d-ef86-4a19-88c7-3a5fda9e3222",
       "word": "Braunvieh",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QnJhdW52aWVo&hash=056a25464487a8281e588ac76d2983a761cfe954&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QnJhdW52aWVo&hash=056a25464487a8281e588ac76d2983a761cfe954&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40171/original/?type=jpeg",
@@ -388,10 +413,11 @@
       ]
     },
     {
+      "id": "bbe85d60-bfa5-4ede-aa8d-28dd195e56f6",
       "word": "Corriente",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q29ycmllbnRl&hash=d8c11ff00bb6e2fc9b39db7fc9de13c1da6dd17c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Q29ycmllbnRl&hash=d8c11ff00bb6e2fc9b39db7fc9de13c1da6dd17c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40177/original/?type=jpeg",
@@ -404,10 +430,11 @@
       ]
     },
     {
+      "id": "aca6bd49-7858-44b7-a66b-aba98259704f",
       "word": "Tarentaise",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VGFyZW50YWlzZQ&hash=c7f47e0c4980a9afd0133fc8d288f4c4bf219643&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=VGFyZW50YWlzZQ&hash=c7f47e0c4980a9afd0133fc8d288f4c4bf219643&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40181/original/?type=jpeg",
@@ -420,12 +447,13 @@
       ]
     },
     {
+      "id": "cab7ebf2-fd50-48a7-b054-364120ea54f1",
       "word": "water buffalo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2F0ZXIgYnVmZmFsbw&hash=19a999c1b21d95622925cf2c53bdf9bb00c772cc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɑ:.tər bʌ.fə.loʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=d2F0ZXIgYnVmZmFsbw&hash=19a999c1b21d95622925cf2c53bdf9bb00c772cc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vaa.tēr ba.fē.looo",
       "img": "https://cdn.langeek.co/photo/24486/original/?type=jpeg",
       "pronunciation": "wˈɔːɾɚ bˈʌfəlˌoʊ",
       "senses": [
@@ -436,10 +464,11 @@
       ]
     },
     {
+      "id": "613bec95-e3b8-4a38-a4ec-b6fe88a0202d",
       "word": "Welsh black cattle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=V2Vsc2ggYmxhY2sgY2F0dGxl&hash=1cefe82c80c5e5865c63eb285f6786c5f31f2711&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=V2Vsc2ggYmxhY2sgY2F0dGxl&hash=1cefe82c80c5e5865c63eb285f6786c5f31f2711&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

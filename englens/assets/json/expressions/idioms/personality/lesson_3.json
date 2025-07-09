@@ -1,13 +1,15 @@
 {
+  "id": "0b8945d2-7dd9-4eee-80e5-501c5aad189a",
   "topic": "personality",
   "title": "Talkative",
   "lesson": "lesson_3",
   "word_list": [
     {
-      "word": "[go] on (and on|) about {sb/sth}",
+      "id": "187442ca-d413-4048-b1b3-8209e42aa9fc",
+      "word": "to [go] on (and on|) about {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ28gb24gYW5kIG9uIGFib3V0IHNvbWVib2R5IG9yIHNvbWV0aGluZw&hash=f46dc720b9b2d097cc35ba523b3e1a8a5837b123&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ28gb24gYW5kIG9uIGFib3V0IHNvbWVib2R5IG9yIHNvbWV0aGluZw&hash=f46dc720b9b2d097cc35ba523b3e1a8a5837b123&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42264/original/?type=jpeg",
@@ -41,10 +43,11 @@
       ]
     },
     {
-      "word": "[run] off at the mouth",
+      "id": "af9cc921-2c79-4b82-b85b-190405028b66",
+      "word": "to [run] off at the mouth",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcnVuIG9mZiBhdCB0aGUgbW91dGg&hash=5f451babfe82d1d3eac962d13615995f83a34372&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcnVuIG9mZiBhdCB0aGUgbW91dGg&hash=5f451babfe82d1d3eac962d13615995f83a34372&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42266/original/?type=jpeg",
@@ -52,24 +55,16 @@
       "senses": [
         {
           "definition": "to enjoy having lengthy and non-sensical conversations with people",
-          "examples": [
-            {
-              "cf": "",
-              "x": "There's some guy at the other end of the bar running off at the mouth about how far he can throw a football."
-            },
-            {
-              "cf": "",
-              "x": "Tom runs off at the mouth too much."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[talk] {one's} [ear] off",
+      "id": "77416bdd-30fb-477f-a891-60aef46f2a55",
+      "word": "to [talk] {one's} [ear] off",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFsayBvbmUncyBlYXIgb2Zm&hash=61dcf350822ea3270425099a3dd4728431f84b6a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFsayBvbmUncyBlYXIgb2Zm&hash=61dcf350822ea3270425099a3dd4728431f84b6a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42270/original/?type=jpeg",
@@ -77,32 +72,16 @@
       "senses": [
         {
           "definition": "to talk to someone for an extended period of time, particularly in a way that annoys them",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I've been on the phone with my aunt for an hour and she hasn't stopped talking, she's talked my ear off!"
-            },
-            {
-              "cf": "",
-              "x": "If my grandpa gets going on his old war stories, he'll talk my ear off for at least an hour at Thanksgiving dinner."
-            },
-            {
-              "cf": "",
-              "x": "My mom talks my ear off every time I visit, telling stories from my childhood for hours."
-            },
-            {
-              "cf": "",
-              "x": "My neighbor talked my ear off for 20 minutes yesterday about his plants and garden."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[talk] a blue streak",
+      "id": "c0e19e91-a413-4955-a6f9-0da1cfc1c8c3",
+      "word": "to [talk] a blue streak",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFsayBhIGJsdWUgc3RyZWFr&hash=3cb681b69cc887d0860d461d90c61cca538f2d95&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFsayBhIGJsdWUgc3RyZWFr&hash=3cb681b69cc887d0860d461d90c61cca538f2d95&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42268/original/?type=jpeg",
@@ -110,28 +89,16 @@
       "senses": [
         {
           "definition": "to speak in a manner that is lengthy, continuous, and annoying",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He is talking a blue streak about his new project."
-            },
-            {
-              "cf": "",
-              "x": "She talked a blue streak during the entire meeting."
-            },
-            {
-              "cf": "",
-              "x": "She talks a blue streak whenever she gets excited."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[love|like|enjoy] the sound of {one's} own voice",
+      "id": "59d59cb1-5593-4393-9339-859b1b5114d2",
+      "word": "to [love|like|enjoy] the sound of {one's} own voice",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbG92ZSB0aGUgc291bmQgb2Ygb25lJ3Mgb3duIHZvaWNl&hash=765f4b59349ff1c07741067a981bf05d4d6f6611&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbG92ZSB0aGUgc291bmQgb2Ygb25lJ3Mgb3duIHZvaWNl&hash=765f4b59349ff1c07741067a981bf05d4d6f6611&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42298/original/?type=jpeg",
@@ -144,64 +111,45 @@
       ]
     },
     {
+      "id": "63c799f8-8f9e-4225-a2d0-add4a4f56aba",
       "word": "big mouth",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmlnIG1vdXRo&hash=09b3b5be27cae5a4cacdb85d089fb80e6840f791&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɪg maʊθ",
       "phonetic_am": "https://tts.langeek.co/read?text=YmlnIG1vdXRo&hash=09b3b5be27cae5a4cacdb85d089fb80e6840f791&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "big maooth",
       "img": "https://cdn.langeek.co/photo/42292/original/?type=jpeg",
       "pronunciation": "bˈɪɡ mˈaʊθ",
       "senses": [
         {
           "definition": "someone who shares someone's secrets and private matters with others",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Don't tell Sarah any secrets; she has a big mouth and can't keep anything confidential."
-            },
-            {
-              "cf": "",
-              "x": "John's big mouth got him into trouble again when he revealed sensitive company information to a competitor."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[chew] {one's} [ear] (off|)",
+      "id": "603d8da1-004d-454e-80d7-5e2abc989b58",
+      "word": "to [chew] {one's} [ear] (off|)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hldyBvbmUncyBlYXIgb2Zm&hash=be19f0ac48e707e7c9e44184638e299eaadd7f20&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2hldyBvbmUncyBlYXIgb2Zm&hash=be19f0ac48e707e7c9e44184638e299eaadd7f20&lang=en&cache-only=0",
       "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/17835/original/talkative?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/61736/original/talkative?type=jpeg",
       "pronunciation": "tʃjˈuː wˈʌnz ˈɪɹ ˈɔf",
       "senses": [
         {
           "definition": "to make others tired by talking too much",
-          "examples": [
-            {
-              "cf": "",
-              "x": "At the party, Mark cornered me and chewed my ear off about his latest hobby, leaving me desperately searching for an escape route."
-            },
-            {
-              "cf": "",
-              "x": "I made the mistake of asking my aunt about her favorite TV show, and she proceeded to chew my ear off for hours with episode recaps and character analysis."
-            },
-            {
-              "cf": "",
-              "x": "I met my neighbor at the grocery store, and she proceeded to chew my ear off with a long-winded story about her cat's adventures."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[bend] {one's} ear",
+      "id": "33aeba21-666d-4325-832e-03ad6b6a1156",
+      "word": "to [bend] {one's} ear",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmVuZCBvbmUncyBlYXI&hash=854182067321d0f0b95c0108a3bc77b5cfcfb75f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmVuZCBvbmUncyBlYXI&hash=854182067321d0f0b95c0108a3bc77b5cfcfb75f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42290/original/?type=jpeg",
@@ -209,32 +157,16 @@
       "senses": [
         {
           "definition": "to speak to someone who is unwilling to listen for an extended period of time",
-          "examples": [
-            {
-              "cf": "",
-              "x": "At the party, John bent my ear about his recent travel adventures, sharing every detail and leaving me longing for my own vacation."
-            },
-            {
-              "cf": "",
-              "x": "I bumped into my neighbor on the street, and he proceeded to bend my ear with complaints about the local government's policies."
-            },
-            {
-              "cf": "",
-              "x": "My colleague always bends my ear about his latest business ideas, going into great detail and expecting my full attention."
-            },
-            {
-              "cf": "",
-              "x": "Whenever I visit my grandmother, she loves to bend my ear with stories from her childhood, and I happily listen to her reminisce."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[flap] {one's} gums",
+      "id": "f03ce3a7-6f4e-471f-9124-bc8aa59ba32b",
+      "word": "to [flap] {one's} gums",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmxhcCBvbmUncyBndW1z&hash=6c16edbf8e457d312ed6df4847f24209501649cb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmxhcCBvbmUncyBndW1z&hash=6c16edbf8e457d312ed6df4847f24209501649cb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42226/original/?type=jpeg",
@@ -242,32 +174,16 @@
       "senses": [
         {
           "definition": "to talk in great length without mentioning anything important or of high value",
-          "examples": [
-            {
-              "cf": "",
-              "x": "During the meeting, she just kept flapping her gums without offering any concrete solutions to the problem."
-            },
-            {
-              "cf": "",
-              "x": "He loves to flap his gums about his grand plans, but I've never seen him take any action."
-            },
-            {
-              "cf": "",
-              "x": "I tried to have a meaningful conversation with him, but all he did was flap his gums about trivial matters."
-            },
-            {
-              "cf": "",
-              "x": "The politician is known for flapping his gums during speeches, but his words rarely translate into actual policies or actions."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[talk] the hind [leg] off a donkey",
+      "id": "e1d88926-f4be-494e-baae-1e7cc34fd5a9",
+      "word": "to [talk] the hind [leg] off a donkey",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFsayB0aGUgaGluZCBsZWcgb2ZmIGEgZG9ua2V5&hash=7eb6d6571dcd85556dfbd0011c0a5a7b9e81ee23&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFsayB0aGUgaGluZCBsZWcgb2ZmIGEgZG9ua2V5&hash=7eb6d6571dcd85556dfbd0011c0a5a7b9e81ee23&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42236/original/?type=jpeg",

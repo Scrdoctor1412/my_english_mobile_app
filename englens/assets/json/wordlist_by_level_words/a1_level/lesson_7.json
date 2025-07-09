@@ -1,9 +1,11 @@
 {
+  "id": "1542b8e0-12d6-47ea-ac9d-5928abb38506",
   "topic": "a1_level",
   "title": "Personal Information",
   "lesson": "lesson_7",
   "word_list": [
     {
+      "id": "9147ec22-6d11-4f3d-bfef-2829587f3027",
       "word": "name",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmFtZQ&hash=0b834f14e9299877e2401249cc0a8ecde40834ac&lang=en&cache-only=0",
@@ -14,7 +16,7 @@
       "pronunciation": "neɪm",
       "senses": [
         {
-          "definition": "the word someone or something is called or known by",
+          "definition": "the word we call a person or thing",
           "examples": [
             {
               "cf": "",
@@ -37,12 +39,13 @@
       ]
     },
     {
+      "id": "7b120ded-7876-4cae-b122-2b1ff281d221",
       "word": "last name",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFzdCBuYW1l&hash=f3f7f2f634aa434b8077fde40d44fc02a9be138d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "læst neɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFzdCBuYW1l&hash=f3f7f2f634aa434b8077fde40d44fc02a9be138d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lāst neim",
       "img": "https://cdn.langeek.co/photo/29036/original/last-name?type=jpeg",
       "pronunciation": "læst neɪm",
       "senses": [
@@ -74,6 +77,7 @@
       ]
     },
     {
+      "id": "5c26de41-4b80-4c9a-bfe1-ecd808f99980",
       "word": "age",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWdl&hash=57d486634b28dd4a6280a3cb637ee654c3e33e43&lang=en&cache-only=0",
@@ -111,17 +115,18 @@
       ]
     },
     {
+      "id": "4500ba25-d3b9-415d-b915-f232f5c155b4",
       "word": "address",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWRkcmVzcw&hash=9b2c92352b350afc2846ab17c3d74ea685022e5b&lang=en&cache-only=0",
-      "phonetic_text": "ædrɛs",
+      "phonetic_text": "æd.rɛs",
       "phonetic_am": "https://tts.langeek.co/read?text=YWRkcmVzcw&hash=9b2c92352b350afc2846ab17c3d74ea685022e5b&lang=en&cache-only=0",
-      "phonetic_am_text": "ādres",
+      "phonetic_am_text": "ād.res",
       "img": "https://cdn.langeek.co/photo/29040/original/address?type=jpeg",
       "pronunciation": "ˈædˌrɛs/, /əˈdrɛs",
       "senses": [
         {
-          "definition": "the information that helps us find a place so we can go there or send a letter or package to that place",
+          "definition": "the place where someone lives or where something is sent",
           "examples": [
             {
               "cf": "",
@@ -148,12 +153,13 @@
       ]
     },
     {
+      "id": "f4e74643-e5ba-49bd-a906-983d3e9a54b1",
       "word": "birthday",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmlydGhkYXk&hash=d075ebdcf63d712d632dd25890c2056ceab3b4a8&lang=en&cache-only=0",
-      "phonetic_text": "bɜrθdeɪ",
+      "phonetic_text": "bɜrθ.deɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=YmlydGhkYXk&hash=d075ebdcf63d712d632dd25890c2056ceab3b4a8&lang=en&cache-only=0",
-      "phonetic_am_text": "bērthdei",
+      "phonetic_am_text": "bērth.dei",
       "img": "https://cdn.langeek.co/photo/48429/original/birthday?type=jpeg",
       "pronunciation": "ˈbɝːθˌdeɪ",
       "senses": [
@@ -177,17 +183,18 @@
       ]
     },
     {
+      "id": "ed82a9b3-06a6-43cf-adea-a07c78cadf2b",
       "word": "birthdate",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmlydGhkYXRl&hash=140f3b8316180276e4a4d79eb87564947cabce05&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɜrθ.deɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=YmlydGhkYXRl&hash=140f3b8316180276e4a4d79eb87564947cabce05&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bērth.deit",
       "img": "https://cdn.langeek.co/photo/48257/original/?type=jpeg",
       "pronunciation": "ˈbɝːθˌdeɪt",
       "senses": [
         {
-          "definition": "the date, including the day, month, and year, on which someone was born",
+          "definition": "the full date of our birth (day, month, year)",
           "examples": [
             {
               "cf": "",
@@ -214,13 +221,14 @@
       ]
     },
     {
+      "id": "48b7a4cf-e45a-4cb9-ac1e-0ef2c960a657",
       "word": "single",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c2luZ2xl&hash=255e2ec142d9d57ed562bcdb2001fb7c60d885c4&lang=en&cache-only=0",
-      "phonetic_text": "sɪngəl",
+      "phonetic_text": "sɪn.gəl",
       "phonetic_am": "https://tts.langeek.co/read?text=c2luZ2xl&hash=255e2ec142d9d57ed562bcdb2001fb7c60d885c4&lang=en&cache-only=0",
-      "phonetic_am_text": "singēl",
-      "img": "https://cdn.langeek.co/photo/48415/original/single?type=jpeg",
+      "phonetic_am_text": "sin.gēl",
+      "img": "https://cdn.langeek.co/photo/60915/original/single?type=jpeg",
       "pronunciation": "ˈsɪŋɡəl",
       "senses": [
         {
@@ -251,13 +259,14 @@
       ]
     },
     {
+      "id": "c4be8a7d-d6e9-421b-9cc6-2288919b7ec8",
       "word": "married",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bWFycmllZA&hash=088ccb5d3d6530da549e6c3b95fd45d2ced17f48&lang=en&cache-only=0",
-      "phonetic_text": "mɛrid",
+      "phonetic_text": "mæ.rid",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFycmllZA&hash=088ccb5d3d6530da549e6c3b95fd45d2ced17f48&lang=en&cache-only=0",
-      "phonetic_am_text": "merid",
-      "img": "https://cdn.langeek.co/photo/48417/original/married?type=jpeg",
+      "phonetic_am_text": "mā.rid",
+      "img": "https://cdn.langeek.co/photo/60788/original/married?type=jpeg",
       "pronunciation": "ˈmæˌrid",
       "senses": [
         {
@@ -284,17 +293,18 @@
       ]
     },
     {
+      "id": "27745245-44a7-4f03-8cf4-d986379851d3",
       "word": "passport",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFzc3BvcnQ&hash=37f685bac0b77a8956de7f236c056d6ffd4643d0&lang=en&cache-only=0",
-      "phonetic_text": "pæspɔrt",
+      "phonetic_text": "pæs.pɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFzc3BvcnQ&hash=37f685bac0b77a8956de7f236c056d6ffd4643d0&lang=en&cache-only=0",
-      "phonetic_am_text": "pāspawrt",
+      "phonetic_am_text": "pās.pawrt",
       "img": "https://cdn.langeek.co/photo/48123/original/passport?type=jpeg",
       "pronunciation": "ˈpæˌspɔrt",
       "senses": [
         {
-          "definition": "an official document issued by a government that identifies someone as a citizen of a particular country, which is needed when leaving a country and entering another one",
+          "definition": "a document for traveling between countries",
           "examples": [
             {
               "cf": "",
@@ -321,12 +331,13 @@
       ]
     },
     {
+      "id": "c548b28e-8787-41b9-93f8-3b377fd3540b",
       "word": "phone number",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGhvbmUgbnVtYmVy&hash=6634164a794cab9f1fd9df18e72459af326302c7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "foʊn nʌm.bər",
       "phonetic_am": "https://tts.langeek.co/read?text=cGhvbmUgbnVtYmVy&hash=6634164a794cab9f1fd9df18e72459af326302c7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fooon nam.bēr",
       "img": "https://cdn.langeek.co/photo/48125/original/phone-number?type=jpeg",
       "pronunciation": "foʊn ˈnʌmbɚ",
       "senses": [
@@ -358,12 +369,13 @@
       ]
     },
     {
+      "id": "b7a1ae93-ee2b-487e-98ac-af6241a03a4f",
       "word": "question",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cXVlc3Rpb24&hash=c009ad894a710c93bb6e077d28cc37ec2ea50464&lang=en&cache-only=0",
-      "phonetic_text": "kwɛsʧən",
+      "phonetic_text": "kwɛs.ʧən",
       "phonetic_am": "https://tts.langeek.co/read?text=cXVlc3Rpb24&hash=c009ad894a710c93bb6e077d28cc37ec2ea50464&lang=en&cache-only=0",
-      "phonetic_am_text": "kweschēn",
+      "phonetic_am_text": "kves.chēn",
       "img": "https://cdn.langeek.co/photo/28802/original/question?type=jpeg",
       "pronunciation": "ˈkwɛsʧən",
       "senses": [
@@ -395,12 +407,13 @@
       ]
     },
     {
+      "id": "3369d1dd-6221-4c77-960b-6e99f17af0b9",
       "word": "answer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW5zd2Vy&hash=3520dca4d74311edcfce9d0dcebada50b1e99c2f&lang=en&cache-only=0",
-      "phonetic_text": "ænsər",
+      "phonetic_text": "æn.sər",
       "phonetic_am": "https://tts.langeek.co/read?text=YW5zd2Vy&hash=3520dca4d74311edcfce9d0dcebada50b1e99c2f&lang=en&cache-only=0",
-      "phonetic_am_text": "ānsēr",
+      "phonetic_am_text": "ān.sēr",
       "img": "https://cdn.langeek.co/photo/28089/original/answer?type=jpeg",
       "pronunciation": "ˈænsɚ",
       "senses": [

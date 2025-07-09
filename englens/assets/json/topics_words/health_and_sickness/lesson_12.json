@@ -1,31 +1,55 @@
 {
+  "id": "82363301-99c8-4f2f-96bc-60b3ee748c11",
   "topic": "health_and_sickness",
   "title": "Disability",
   "lesson": "lesson_12",
   "word_list": [
     {
+      "id": "97c921cc-baf7-4dea-b5c3-ec8a2ac7d00f",
       "word": "blindness",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmxpbmRuZXNz&hash=50c415931870eec07fb20e76f4eea05f1fe666ab&lang=en&cache-only=0",
-      "phonetic_text": "blaɪndnəs",
+      "phonetic_text": "blaɪnd.nəs",
       "phonetic_am": "https://tts.langeek.co/read?text=YmxpbmRuZXNz&hash=50c415931870eec07fb20e76f4eea05f1fe666ab&lang=en&cache-only=0",
-      "phonetic_am_text": "blaindnēs",
+      "phonetic_am_text": "blaind.nēs",
       "img": "https://cdn.langeek.co/photo/23685/original/?type=jpeg",
       "pronunciation": "ˈbɫaɪndnəs",
       "senses": [
         {
           "definition": "the condition or state of being completely or partially unable to see",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He was born with congenital blindness and has never seen light or color."
+            },
+            {
+              "cf": "",
+              "x": "Temporary blindness can occur as a side effect of some medications."
+            },
+            {
+              "cf": "",
+              "x": "The organization aims to raise awareness about the challenges faced by people living with blindness."
+            },
+            {
+              "cf": "",
+              "x": "Her sudden onset of blindness was caused by a severe infection in both eyes."
+            },
+            {
+              "cf": "",
+              "x": "The doctor explained that cataracts can lead to gradual blindness if left untreated."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "fdf9276f-b098-4485-8f96-a8e3337dcb57",
       "word": "locked-in syndrome",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9ja2VkLWluIHN5bmRyb21l&hash=30ed0212a16ad1a274bbae427f135381cfd5d17d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɑkt-ɪn sɪnd.roʊm",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9ja2VkLWluIHN5bmRyb21l&hash=30ed0212a16ad1a274bbae427f135381cfd5d17d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "laakt-in sind.rooom",
       "img": "",
       "pronunciation": "lˈɑːktɪn sˈɪndɹoʊm",
       "senses": [
@@ -36,28 +60,47 @@
       ]
     },
     {
+      "id": "941202d8-6880-4da1-970b-a47b980973a0",
       "word": "deafness",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVhZm5lc3M&hash=cea3ff67dc4ab29c348411ed97be7ae689ad7610&lang=en&cache-only=0",
-      "phonetic_text": "dɛfnəs",
+      "phonetic_text": "dɛf.nəs",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVhZm5lc3M&hash=cea3ff67dc4ab29c348411ed97be7ae689ad7610&lang=en&cache-only=0",
-      "phonetic_am_text": "defnēs",
+      "phonetic_am_text": "def.nēs",
       "img": "https://cdn.langeek.co/photo/28624/original/?type=jpeg",
       "pronunciation": "ˈdɛfnəs",
       "senses": [
         {
           "definition": "the state or condition of being totally or partially unable to hear",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Deafness can occur at any stage of life."
+            },
+            {
+              "cf": "",
+              "x": "Deafness does not stop people from leading successful lives."
+            },
+            {
+              "cf": "",
+              "x": "Scientists are working on treatments to reverse certain types of deafness."
+            },
+            {
+              "cf": "",
+              "x": "Early detection of deafness is essential for better outcomes."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e2707de7-7ce8-4e47-a122-e9a5dae6c7dc",
       "word": "autism spectrum disorder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXV0aXNtIHNwZWN0cnVtIGRpc29yZGVy&hash=f45ac527dcdf1e81a33e1efcf3120ae5ac70451c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɔ.tɪ.zəm spɛkt.rəm dɪ.sɔr.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YXV0aXNtIHNwZWN0cnVtIGRpc29yZGVy&hash=f45ac527dcdf1e81a33e1efcf3120ae5ac70451c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aw.ti.zēm spekt.rēm di.sawr.dēr",
       "img": "",
       "pronunciation": "ˈɔːtɪzəm spˈɛktɹəm dɪsˈoːɹdɚ",
       "senses": [
@@ -68,28 +111,51 @@
       ]
     },
     {
+      "id": "ca26c124-3b9a-4885-8c0b-a77ebe6bd4b9",
       "word": "disability",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlzYWJpbGl0eQ&hash=2d1b8be4cf8ef0d54790e290e7f4400468d6048a&lang=en&cache-only=0",
-      "phonetic_text": "dɪsəbɪlɪti",
+      "phonetic_text": "dɪs.ə.bɪ.lə.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlzYWJpbGl0eQ&hash=2d1b8be4cf8ef0d54790e290e7f4400468d6048a&lang=en&cache-only=0",
-      "phonetic_am_text": "disēbiliti",
+      "phonetic_am_text": "dis.ē.bi.lē.ti",
       "img": "https://cdn.langeek.co/photo/31564/original/?type=jpeg",
       "pronunciation": "ˌdɪsəˈbɪɫɪti/, /dɪsəˈbɪɫɪtiz",
       "senses": [
         {
           "definition": "a physical or mental condition that prevents a person from using some part of their body completely or learning something easily",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He was born with a disability that affects his ability to walk."
+            },
+            {
+              "cf": "",
+              "x": "The organization provides support for people with disabilities."
+            },
+            {
+              "cf": "",
+              "x": "She overcame her disability to become a successful artist."
+            },
+            {
+              "cf": "",
+              "x": "Many public places are not accessible to people with disabilities."
+            },
+            {
+              "cf": "",
+              "x": "Disability should not prevent someone from achieving their goals."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b5de4715-675b-4108-9daf-63b377df8894",
       "word": "amputation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW1wdXRhdGlvbg&hash=047ba46225c7e452b1b169018bcd0f3e7ea33bfe&lang=en&cache-only=0",
-      "phonetic_text": "æmpjəteɪʃən",
+      "phonetic_text": "æmp.jə.teɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=YW1wdXRhdGlvbg&hash=047ba46225c7e452b1b169018bcd0f3e7ea33bfe&lang=en&cache-only=0",
-      "phonetic_am_text": "āmpyēteishēn",
+      "phonetic_am_text": "āmp.yē.tei.shēn",
       "img": "https://cdn.langeek.co/photo/32044/original/?type=jpeg",
       "pronunciation": "ˌæmpjəˈteɪʃən",
       "senses": [
@@ -100,10 +166,11 @@
       ]
     },
     {
+      "id": "41a16f53-a074-4b84-a5a5-83f8d5944898",
       "word": "spina bifida",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BpbmEgYmlmaWRh&hash=4abe92c83c2b3766407809d76e3312ee743cc6b5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BpbmEgYmlmaWRh&hash=4abe92c83c2b3766407809d76e3312ee743cc6b5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -111,33 +178,77 @@
       "senses": [
         {
           "definition": "a congenital condition where the neural tube, which forms the spinal cord and backbone, does not close properly during fetal development",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Folic acid intake during pregnancy can help reduce the risk of spina bifida."
+            },
+            {
+              "cf": "",
+              "x": "Spina bifida is a birth defect that occurs when the spinal cord does not fully close, leaving an opening in the backbone."
+            },
+            {
+              "cf": "",
+              "x": "Depending on the severity, individuals with spina bifida may experience varying degrees of disability."
+            },
+            {
+              "cf": "",
+              "x": "Individuals with spina bifida may require surgeries, therapies, and assistive devices to manage the condition."
+            },
+            {
+              "cf": "",
+              "x": "With proper care and interventions, many individuals with spina bifida lead fulfilling and active lives."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "29767dd3-103e-4219-b984-b3c03cb6a473",
       "word": "cerebral palsy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2VyZWJyYWwgcGFsc3k&hash=0ccb165f084daf662fbb688b88e368bb6276a240&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛ.rəb.rəl pɔl.zi",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2VyZWJyYWwgcGFsc3k&hash=0ccb165f084daf662fbb688b88e368bb6276a240&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "se.rēb.rēl pawl.zi",
       "img": "",
       "pronunciation": "sɚɹˈiːbɹəl pˈɔːlzi",
       "senses": [
         {
           "definition": "a neurological disorder affecting movement and coordination due to brain damage during pregnancy, childbirth, or early childhood",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Cerebral palsy results from brain damage, impacting muscle control."
+            },
+            {
+              "cf": "",
+              "x": "Severity and symptoms of cerebral palsy vary among individuals."
+            },
+            {
+              "cf": "",
+              "x": "Supportive interventions are crucial for optimal development in cerebral palsy."
+            },
+            {
+              "cf": "",
+              "x": "Challenges in motor skills and coordination are common in cerebral palsy."
+            },
+            {
+              "cf": "",
+              "x": "Early diagnosis improves outcomes for individuals with cerebral palsy."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "94a5cf04-acd3-43e0-93cb-1c4f04fdd66f",
       "word": "epilepsy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXBpbGVwc3k&hash=bf5a6bb2ef17c61efa9b4b8426ea186a62ee6b5e&lang=en&cache-only=0",
-      "phonetic_text": "ɛpəlɛpsi",
+      "phonetic_text": "ɛ.pə.lɛp.si",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXBpbGVwc3k&hash=bf5a6bb2ef17c61efa9b4b8426ea186a62ee6b5e&lang=en&cache-only=0",
-      "phonetic_am_text": "epēlepsi",
+      "phonetic_am_text": "e.pē.lep.si",
       "img": "",
       "pronunciation": "ˈɛpəˌɫɛpsi",
       "senses": [
@@ -148,12 +259,13 @@
       ]
     },
     {
+      "id": "ad189459-8150-4abd-bc47-13bf674f4143",
       "word": "echolalia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWNob2xhbGlh&hash=e5855b106853e86cb92cb425179e09eddf06ae8b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛ.kə.leɪ.liə",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWNob2xhbGlh&hash=e5855b106853e86cb92cb425179e09eddf06ae8b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "e.kē.lei.liē",
       "img": "",
       "pronunciation": "ˌɛkəlˈeɪliə",
       "senses": [
@@ -164,12 +276,13 @@
       ]
     },
     {
+      "id": "6dd32878-1dac-4ed8-8720-c9938a132793",
       "word": "aphantasia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXBoYW50YXNpYQ&hash=36da99f1a4b844c13aa1eb40bc2ba7101cae0d41&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "a.fan.teɪ.ʒə",
       "phonetic_am": "https://tts.langeek.co/read?text=YXBoYW50YXNpYQ&hash=36da99f1a4b844c13aa1eb40bc2ba7101cae0d41&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "a.fan.tei.zhē",
       "img": "",
       "pronunciation": "ɐfɐntˈeɪʒə",
       "senses": [
@@ -180,12 +293,13 @@
       ]
     },
     {
+      "id": "ed906f5d-d195-41a0-96c4-51057fddeec1",
       "word": "dyslexia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHlzbGV4aWE&hash=2498759cd3b1d0c8882db4f6efee06931200b4fa&lang=en&cache-only=0",
-      "phonetic_text": "dɪslɛksiə",
+      "phonetic_text": "dɪs.lɛk.siə",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHlzbGV4aWE&hash=2498759cd3b1d0c8882db4f6efee06931200b4fa&lang=en&cache-only=0",
-      "phonetic_am_text": "disleksiē",
+      "phonetic_am_text": "dis.lek.siē",
       "img": "",
       "pronunciation": "dɪˈsɫɛksiə",
       "senses": [
@@ -196,12 +310,13 @@
       ]
     },
     {
+      "id": "5448073b-fe80-4625-b08b-77d8e704175a",
       "word": "dwarfism",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHdhcmZpc20&hash=56cf6f93a31c4038952b4c3581aa5bbaa2903ec1&lang=en&cache-only=0",
-      "phonetic_text": "dwɔ:rfɪzəm",
+      "phonetic_text": "dwɔr.fɪ.zəm",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHdhcmZpc20&hash=56cf6f93a31c4038952b4c3581aa5bbaa2903ec1&lang=en&cache-only=0",
-      "phonetic_am_text": "dwaawrfizēm",
+      "phonetic_am_text": "dvawr.fi.zēm",
       "img": "https://cdn.langeek.co/photo/29920/original/?type=jpeg",
       "pronunciation": "ˈdwɔɹfɪzəm",
       "senses": [
@@ -233,12 +348,13 @@
       ]
     },
     {
+      "id": "395cff76-14e2-4c52-b6fc-7c7c96ef627c",
       "word": "hard of hearing",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aGFyZCBvZiBoZWFyaW5n&hash=0f4dfb35470da220524910d2f74c3fe36893a5da&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɑrd ʌv hɪ.rɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFyZCBvZiBoZWFyaW5n&hash=0f4dfb35470da220524910d2f74c3fe36893a5da&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "haard av hi.ring",
       "img": "https://cdn.langeek.co/photo/28624/original/?type=jpeg",
       "pronunciation": "hˈɑːɹd ʌv hˈɪɹɪŋ",
       "senses": [
@@ -270,28 +386,43 @@
       ]
     },
     {
+      "id": "84da7e5a-6094-49be-8942-0f92cabc5d6e",
       "word": "impairment",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW1wYWlybWVudA&hash=087f40a4d837ef3a73187fecf80006315aba0c37&lang=en&cache-only=0",
-      "phonetic_text": "ɪmpɛrmənt",
+      "phonetic_text": "ɪm.pɛr.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=aW1wYWlybWVudA&hash=087f40a4d837ef3a73187fecf80006315aba0c37&lang=en&cache-only=0",
-      "phonetic_am_text": "impermēnt",
+      "phonetic_am_text": "im.per.mēnt",
       "img": "https://cdn.langeek.co/photo/31564/original/?type=jpeg",
       "pronunciation": "ˌɪmˈpɛɹmənt",
       "senses": [
         {
           "definition": "a state or condition in which a part of one's body or brain does not work properly",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The accident resulted in a significant impairment of his mobility."
+            },
+            {
+              "cf": "",
+              "x": "The stroke caused an impairment in his ability to speak clearly."
+            },
+            {
+              "cf": "",
+              "x": "Her cognitive impairment made it difficult for her to process complex information."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "cec93e74-cbf8-4aa4-9c5b-32230ef0b406",
       "word": "learning disability",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGVhcm5pbmcgZGlzYWJpbGl0eQ&hash=acc4445a4b128d1ea647dce7d0c910ac3ae654d5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɜr.nɪng dɪ.sə.bɪ.lɪ.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVhcm5pbmcgZGlzYWJpbGl0eQ&hash=acc4445a4b128d1ea647dce7d0c910ac3ae654d5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lēr.ning di.sē.bi.li.ti",
       "img": "",
       "pronunciation": "lˈɜːnɪŋ dˌɪsɐbˈɪləɾi",
       "senses": [
@@ -302,12 +433,13 @@
       ]
     },
     {
+      "id": "837fb577-dda9-430b-b812-1b5067108731",
       "word": "paraplegia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFyYXBsZWdpYQ&hash=fb4f9de0cb172a7b581573840fa6abd05dee4a69&lang=en&cache-only=0",
-      "phonetic_text": "pɛrəpli:ʤiə",
+      "phonetic_text": "pɛ.rəp.li.ʤiə",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFyYXBsZWdpYQ&hash=fb4f9de0cb172a7b581573840fa6abd05dee4a69&lang=en&cache-only=0",
-      "phonetic_am_text": "perēpleejiē",
+      "phonetic_am_text": "pe.rēp.li.jiē",
       "img": "https://cdn.langeek.co/photo/32054/original/?type=jpeg",
       "pronunciation": "ˌpɛɹəˈpɫidʒiə",
       "senses": [
@@ -339,12 +471,13 @@
       ]
     },
     {
+      "id": "01b1d51f-e5b9-43cf-b5e9-b3ef6f0c00eb",
       "word": "quadriplegia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cXVhZHJpcGxlZ2lh&hash=9ec0123f1d11fc85d68ee214c0b681df0c68d2d7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kwɑ:d.rɪp.li:.ʤə",
       "phonetic_am": "https://tts.langeek.co/read?text=cXVhZHJpcGxlZ2lh&hash=9ec0123f1d11fc85d68ee214c0b681df0c68d2d7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kvaad.rip.li.jē",
       "img": "",
       "pronunciation": "kwˌɑːdɹɪplˈiːdʒə",
       "senses": [
@@ -355,12 +488,13 @@
       ]
     },
     {
+      "id": "63e87c06-ac09-4cd4-aa60-e97466e3e266",
       "word": "longsightedness",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9uZ3NpZ2h0ZWRuZXNz&hash=5411a1953870844a06d4d67827012a9ddcfde0b8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɑ:ng.saɪ.tid.nəs",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9uZ3NpZ2h0ZWRuZXNz&hash=5411a1953870844a06d4d67827012a9ddcfde0b8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "laang.sai.tid.nēs",
       "img": "",
       "pronunciation": "lˈɑːŋsaɪɾᵻdnəs",
       "senses": [

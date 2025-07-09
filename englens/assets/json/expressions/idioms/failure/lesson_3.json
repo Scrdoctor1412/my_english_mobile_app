@@ -1,13 +1,15 @@
 {
+  "id": "85533247-1328-4a06-8fe4-f38262f5bf54",
   "topic": "failure",
   "title": "Wastefulness",
   "lesson": "lesson_3",
   "word_list": [
     {
-      "word": "[cry] over spilled milk",
+      "id": "2a39a190-bc81-496f-9e0f-735d884525c3",
+      "word": "to [cry] over spilled milk",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3J5IG92ZXIgc3BpbGxlZCBtaWxr&hash=0e62a2db19321878ad92b51bc6fb641a3a395cb9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3J5IG92ZXIgc3BpbGxlZCBtaWxr&hash=0e62a2db19321878ad92b51bc6fb641a3a395cb9&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40991/original/?type=jpeg",
@@ -20,10 +22,11 @@
       ]
     },
     {
-      "word": "[cast|throw] pearls before swine",
+      "id": "f4d4b763-c844-441c-9269-0f2e18fb6002",
+      "word": "to [cast|throw] pearls before swine",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2FzdCBwZWFybHMgYmVmb3JlIHN3aW5l&hash=ecd0989fde4d72693bb265a36c3700fd0e68ccc7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2FzdCBwZWFybHMgYmVmb3JlIHN3aW5l&hash=ecd0989fde4d72693bb265a36c3700fd0e68ccc7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40961/original/?type=jpeg",
@@ -36,10 +39,11 @@
       ]
     },
     {
-      "word": "[break] even",
+      "id": "a4fbdcbf-12c8-44be-a489-605c991d9bb1",
+      "word": "to [break] even",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJlYWsgZXZlbg&hash=eecbcbb0e0c994754be258982687c2aedab52a76&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJlYWsgZXZlbg&hash=eecbcbb0e0c994754be258982687c2aedab52a76&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40919/original/?type=jpeg",
@@ -47,15 +51,37 @@
       "senses": [
         {
           "definition": "(of a business) to reach a point that yields no success due to the profit being almost as equal as the costs",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "After months of losses, the company finally broke even last quarter."
+            },
+            {
+              "cf": "",
+              "x": "The small café struggled but managed to break even after a year."
+            },
+            {
+              "cf": "",
+              "x": "He invested heavily, hoping to break even before turning a profit."
+            },
+            {
+              "cf": "",
+              "x": "With higher expenses this month, we might not break even."
+            },
+            {
+              "cf": "",
+              "x": "The business plan was designed to break even within six months."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "[chase] {one's} (own|) tail",
+      "id": "91d70479-7974-4c65-a9a8-0c0563aafe17",
+      "word": "to [chase] {one's} (own|) tail",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hhc2Ugb25lJ3Mgb3duIHRhaWw&hash=eba2ee12442d084f76b329fe214b57cf8096bfb1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2hhc2Ugb25lJ3Mgb3duIHRhaWw&hash=eba2ee12442d084f76b329fe214b57cf8096bfb1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40989/original/?type=jpeg",
@@ -73,10 +99,11 @@
       ]
     },
     {
-      "word": "[save] {one's} breath",
+      "id": "e68b26e6-c7c4-4a1d-b0af-819dcc82ac21",
+      "word": "to [save] {one's} breath",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2F2ZSBvbmUncyBicmVhdGg&hash=2e99936a8b856ce0e2d91e1883d2adf9afce8c33&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2F2ZSBvbmUncyBicmVhdGg&hash=2e99936a8b856ce0e2d91e1883d2adf9afce8c33&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40965/original/?type=jpeg",
@@ -84,24 +111,16 @@
       "senses": [
         {
           "definition": "to avoid wasting one's time and energy by not trying to persuade or convince someone who is unlikely to change their opinion or behavior",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I knew that, so I saved my breath, and offered no explanations."
-            },
-            {
-              "cf": "",
-              "x": "Save your breath, Tom."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[close|shut|lock] the (stable|barn) door after the horse (has bolted|is stolen)",
+      "id": "b01b7e71-0b61-4a09-8001-f35a8ad07eea",
+      "word": "to [close|shut|lock] the (stable|barn) door after the horse (has bolted|is stolen)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2xvc2UgdGhlIHN0YWJsZSBkb29yIGFmdGVyIHRoZSBob3JzZSBoYXMgYm9sdGVkIHN0b2xlbg&hash=7b89692d309ad12b215f1751a0abed16ba9f01a7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2xvc2UgdGhlIHN0YWJsZSBkb29yIGFmdGVyIHRoZSBob3JzZSBoYXMgYm9sdGVkIHN0b2xlbg&hash=7b89692d309ad12b215f1751a0abed16ba9f01a7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40963/original/?type=jpeg",
@@ -114,12 +133,13 @@
       ]
     },
     {
+      "id": "bdd6e0d8-cc48-4e79-a7d0-46b53be6d93c",
       "word": "square one",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3F1YXJlIG9uZQ&hash=0fc42c5fbdce47782a1b8b2096a68acbb8812928&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skwɛr n",
       "phonetic_am": "https://tts.langeek.co/read?text=c3F1YXJlIG9uZQ&hash=0fc42c5fbdce47782a1b8b2096a68acbb8812928&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skver n",
       "img": "https://cdn.langeek.co/photo/40967/original/?type=jpeg",
       "pronunciation": "skwˈɛɹ wˌʌn",
       "senses": [
@@ -151,12 +171,13 @@
       ]
     },
     {
+      "id": "cff69baf-a325-476a-8842-b3d671113303",
       "word": "back to the drawing board",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YmFjayB0byB0aGUgZHJhd2luZyBib2FyZA&hash=fd9fdd953d3167426a6daac6fb1a826bf0989d1c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæk tu: ðə drɔ:ɪng bɔ:rd",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFjayB0byB0aGUgZHJhd2luZyBib2FyZA&hash=fd9fdd953d3167426a6daac6fb1a826bf0989d1c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bāk too dhē drawing bawrd",
       "img": "https://cdn.langeek.co/photo/40957/original/?type=jpeg",
       "pronunciation": "bˈæk tə ðə dɹˈɔːɪŋ bˈoːɹd",
       "senses": [
@@ -167,12 +188,13 @@
       ]
     },
     {
+      "id": "25b7a494-ca57-48c6-90b6-00a55f77ee65",
       "word": "from pillar to post",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZnJvbSBwaWxsYXIgdG8gcG9zdA&hash=7579d7a98e0abe8957ca011c8137fd5f845a4ff5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "frʌm pɪ.lɜr tu: poʊst",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJvbSBwaWxsYXIgdG8gcG9zdA&hash=7579d7a98e0abe8957ca011c8137fd5f845a4ff5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fram pi.lēr too pooost",
       "img": "https://cdn.langeek.co/photo/41164/original/?type=jpeg",
       "pronunciation": "fɹʌm pˈɪlɚ tə pˈoʊst",
       "senses": [
@@ -196,10 +218,11 @@
       ]
     },
     {
-      "word": "[paint|gild] the lily",
+      "id": "47f1c7e6-d0f7-40cb-9f3f-bdc42f665175",
+      "word": "to [paint|gild] the lily",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGFpbnQgdGhlIGxpbHk&hash=537dc1a7682ddf91ca35b76c1f31cef8fb1f0cc4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGFpbnQgdGhlIGxpbHk&hash=537dc1a7682ddf91ca35b76c1f31cef8fb1f0cc4&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41054/original/?type=jpeg",
@@ -229,10 +252,11 @@
       ]
     },
     {
-      "word": "[face|come to|hit] (a|the) (brick|) wall",
+      "id": "01164d37-9463-4d1a-8782-42f7ba34ab69",
+      "word": "to [face|come to|hit] (a|the) (brick|) wall",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmFjZSB0byBhIGJyaWNrIHdhbGw&hash=eae2f64bbd1497845fc8325a2bfcc6b7b3e548a7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmFjZSB0byBhIGJyaWNrIHdhbGw&hash=eae2f64bbd1497845fc8325a2bfcc6b7b3e548a7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40993/original/?type=jpeg",
@@ -240,40 +264,16 @@
       "senses": [
         {
           "definition": "to reach a point where it is unlikely or too difficult to make any progress",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Despite their best efforts, the researchers hit a brick wall in trying to find a cure for the disease."
-            },
-            {
-              "cf": "",
-              "x": "The team's efforts to implement a new strategy hit a brick wall due to resistance from key stakeholders."
-            },
-            {
-              "cf": "",
-              "x": "The company's attempts to enter the competitive market faced a brick wall due to strong competition and market saturation."
-            },
-            {
-              "cf": "",
-              "x": "The aspiring author faced a brick wall in getting their manuscript published, receiving rejection after rejection from publishers."
-            },
-            {
-              "cf": "",
-              "x": "The company's expansion plans hit a wall when economic downturns affected the availability of investment capital."
-            },
-            {
-              "cf": "",
-              "x": "After weeks of rapid progress, the research team suddenly hit a wall when they encountered unexpected technical challenges."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[bark] at the moon",
+      "id": "91977433-21a7-4142-9786-c27cd2a77cf2",
+      "word": "to [bark] at the moon",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmFyayBhdCB0aGUgbW9vbg&hash=1374890453b6a1c87faa6931b13a2b7ee848e40c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmFyayBhdCB0aGUgbW9vbg&hash=1374890453b6a1c87faa6931b13a2b7ee848e40c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/39675/original/?type=jpeg",
@@ -295,10 +295,11 @@
       ]
     },
     {
-      "word": "[bark] up the wrong tree",
+      "id": "3906b2e1-25e8-4100-8ede-ab5a89895008",
+      "word": "to [bark] up the wrong tree",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmFyayB1cCB0aGUgd3JvbmcgdHJlZQ&hash=c6e98e0100d1638263682eb3224007a5b0fa9079&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmFyayB1cCB0aGUgd3JvbmcgdHJlZQ&hash=c6e98e0100d1638263682eb3224007a5b0fa9079&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40959/original/?type=jpeg",
@@ -332,10 +333,11 @@
       ]
     },
     {
-      "word": "[beat] a dead horse",
+      "id": "388f8047-31b9-4535-9006-d272a2205cde",
+      "word": "to [beat] a dead horse",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmVhdCBhIGRlYWQgaG9yc2U&hash=f5ca443d0038a89e8abbc0d98d9d797a6f52019c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmVhdCBhIGRlYWQgaG9yc2U&hash=f5ca443d0038a89e8abbc0d98d9d797a6f52019c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41048/original/?type=jpeg",
@@ -357,10 +359,11 @@
       ]
     },
     {
-      "word": "[bring] sand to the beach",
+      "id": "3b332cfc-bbd8-48e0-86ba-35eaeaea46c1",
+      "word": "to [bring] sand to the beach",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJpbmcgc2FuZCB0byB0aGUgYmVhY2g&hash=c29f947928c45eb2ac76e217e76f34d2ab73eac3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJpbmcgc2FuZCB0byB0aGUgYmVhY2g&hash=c29f947928c45eb2ac76e217e76f34d2ab73eac3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41108/original/?type=jpeg",
@@ -368,24 +371,16 @@
       "senses": [
         {
           "definition": "to do something that is considered to be redundant or useless",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Buying more drinks for the party is like bringing sand to the beach - there's already plenty to go around."
-            },
-            {
-              "cf": "",
-              "x": "The company's attempt to create a new product that was already available from many competitors was like bringing sand to the beach."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[come|go|turn] full circle",
+      "id": "55af282f-cb74-4610-b7e2-77558160fea3",
+      "word": "to [come|go|turn] full circle",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29tZSBmdWxsIGNpcmNsZQ&hash=947cc174bf7aed9d12380781055ef7e054f46b9e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29tZSBmdWxsIGNpcmNsZQ&hash=947cc174bf7aed9d12380781055ef7e054f46b9e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40995/original/?type=jpeg",
@@ -393,36 +388,16 @@
       "senses": [
         {
           "definition": "to go through a series of efforts or actions only to end up back where one started, highlighting the lack of progress or meaningful change",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After years of traveling and living abroad, she came full circle and returned to her hometown to start a family."
-            },
-            {
-              "cf": "",
-              "x": "The artist's work had gone full circle, as they had returned to the style and themes that they had explored early in their career."
-            },
-            {
-              "cf": "",
-              "x": "The city had turned full circle, as it had undergone a revitalization that had brought it back to its former glory as a cultural center."
-            },
-            {
-              "cf": "",
-              "x": "The company's focus on customer service had come full circle, as they returned to the original values that had made them successful in the first place."
-            },
-            {
-              "cf": "",
-              "x": "The political party had gone full circle, as it had returned to the original principles and values that had guided it in its early days."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "0c30c2d2-ef15-45f2-9a25-c74e7742a3a1",
       "word": "toing and froing",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG9pbmcgYW5kIGZyb2luZw&hash=54c4adb0c41f96f604030a0cd88b430bb180ef9e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG9pbmcgYW5kIGZyb2luZw&hash=54c4adb0c41f96f604030a0cd88b430bb180ef9e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41114/original/?type=jpeg",
@@ -430,28 +405,16 @@
       "senses": [
         {
           "definition": "the act of repeatedly talking or thinking about something without reaching a clear conclusion",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The boss was toing and froing between two candidates for the job, unable to decide which one was the better fit."
-            },
-            {
-              "cf": "",
-              "x": "The couple was toing and froing about where to go on vacation, unable to make a decision on a destination."
-            },
-            {
-              "cf": "",
-              "x": "The student was toing and froing between different majors, unsure of what career path to take."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "2004b391-eb1f-46e7-99de-556b731ec79f",
       "word": "like nailing Jell-O to the wall",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bGlrZSBuYWlsaW5nIEplbGwtTyB0byB0aGUgd2FsbA&hash=7ab082202f3be82cf5051883afeed5798764c0c3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlrZSBuYWlsaW5nIEplbGwtTyB0byB0aGUgd2FsbA&hash=7ab082202f3be82cf5051883afeed5798764c0c3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41110/original/?type=jpeg",
@@ -469,10 +432,11 @@
       ]
     },
     {
+      "id": "1614e964-0811-4efe-858c-3fc3a7316056",
       "word": "like pouring water (in|into) a sieve",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bGlrZSBwb3VyaW5nIHdhdGVyIGluIGEgc2lldmU&hash=a510aa5d17fcc48a1200c25de7b156e49474a909&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlrZSBwb3VyaW5nIHdhdGVyIGluIGEgc2lldmU&hash=a510aa5d17fcc48a1200c25de7b156e49474a909&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40835/original/?type=jpeg",
@@ -490,10 +454,11 @@
       ]
     },
     {
+      "id": "5c57b468-f7ef-4c82-ad91-a4bb7efd0936",
       "word": "like talking to a (brick|) wall",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bGlrZSB0YWxraW5nIHRvIGEgYnJpY2sgd2FsbA&hash=1ffa495e5a191b598eafbda62c1edc0c09d9ff12&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlrZSB0YWxraW5nIHRvIGEgYnJpY2sgd2FsbA&hash=1ffa495e5a191b598eafbda62c1edc0c09d9ff12&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41112/original/?type=jpeg",
@@ -515,10 +480,11 @@
       ]
     },
     {
+      "id": "a2c70e32-e0c1-49a7-ae2f-9400897f665e",
       "word": "the (cake|game) [is] not worth the candle",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIGNha2UgaXMgbm90IHdvcnRoIHRoZSBjYW5kbGU&hash=e544c88f5e16280967b300395c17a4a53ea607c0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIGNha2UgaXMgbm90IHdvcnRoIHRoZSBjYW5kbGU&hash=e544c88f5e16280967b300395c17a4a53ea607c0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41924/original/?type=jpeg",
@@ -531,10 +497,11 @@
       ]
     },
     {
-      "word": "[tread] water",
+      "id": "c0fa56ef-9592-48c6-99fc-49a219d1051a",
+      "word": "to [tread] water",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHJlYWQgd2F0ZXI&hash=b903f6e4d760669d8946d22dddf939c93db1d1f6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHJlYWQgd2F0ZXI&hash=b903f6e4d760669d8946d22dddf939c93db1d1f6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40999/original/?type=jpeg",

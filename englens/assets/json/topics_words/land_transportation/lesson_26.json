@@ -1,15 +1,17 @@
 {
+  "id": "2f40952e-8711-40ed-968d-94b24626f7fc",
   "topic": "land_transportation",
   "title": "Urban Roads and Spaces",
   "lesson": "lesson_26",
   "word_list": [
     {
+      "id": "f95d6d0a-4b28-4375-a5b1-4f9bb17f3098",
       "word": "street",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RyZWV0&hash=605f3456837790aa20ed16432bf60b50eabb9f6a&lang=en&cache-only=0",
       "phonetic_text": "stri:t",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyZWV0&hash=605f3456837790aa20ed16432bf60b50eabb9f6a&lang=en&cache-only=0",
-      "phonetic_am_text": "street",
+      "phonetic_am_text": "strit",
       "img": "https://cdn.langeek.co/photo/51300/original/street?type=jpeg",
       "pronunciation": "striːt",
       "senses": [
@@ -33,14 +35,15 @@
       ]
     },
     {
+      "id": "e40aeac6-ca8d-4fab-89c3-99c884b4699b",
       "word": "boulevard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym91bGV2YXJk&hash=6611c8130a616b50d7dcd7ab8ac9d6247d4d8889&lang=en&cache-only=0",
-      "phonetic_text": "bʊləvɑrd",
+      "phonetic_text": "bʊ.lə.vɑrd",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym91bGV2YXJk&hash=6611c8130a616b50d7dcd7ab8ac9d6247d4d8889&lang=en&cache-only=0",
-      "phonetic_am_text": "bulēvɑrd",
-      "img": "https://cdn.langeek.co/photo/17220/original/boulevard?type=jpeg",
-      "pronunciation": "ˈbʊɫəˌvɑɹd",
+      "phonetic_am_text": "boo.lē.vaard",
+      "img": "https://cdn.langeek.co/photo/61606/original/boulevard?type=jpeg",
+      "pronunciation": "ˈbʊləˌvɑrd",
       "senses": [
         {
           "definition": "a wide street in a town or city, typically with trees on each side or in the middle",
@@ -70,12 +73,13 @@
       ]
     },
     {
+      "id": "1182932c-c672-4240-a898-90a374f1739b",
       "word": "bicycle boulevard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmljeWNsZSBib3VsZXZhcmQ&hash=d85c8fc9c7d6a667c27433af31a5f14c5d8da0a5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "baɪ.sɪkl bʊ.lə.vɑrd",
       "phonetic_am": "https://tts.langeek.co/read?text=YmljeWNsZSBib3VsZXZhcmQ&hash=d85c8fc9c7d6a667c27433af31a5f14c5d8da0a5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bai.sikl boo.lē.vaard",
       "img": "",
       "pronunciation": "bˈaɪsɪkəl bˈuːlɪvˌɑːɹd",
       "senses": [
@@ -107,49 +111,30 @@
       ]
     },
     {
+      "id": "30419a7c-2299-44de-a16f-d89f5f246e65",
       "word": "stravenue",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RyYXZlbnVl&hash=19a2fd9e246895b58a9164f08d4c8982a5c8a458&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "streɪv.nu:",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyYXZlbnVl&hash=19a2fd9e246895b58a9164f08d4c8982a5c8a458&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "streiv.noo",
       "img": "",
       "pronunciation": "stɹˈeɪvnuː",
       "senses": [
         {
           "definition": "a road that combines features of a street and an avenue, mainly used in some U.S. cities such as Tucson, Arizona",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The store is located on a stravenue near downtown."
-            },
-            {
-              "cf": "",
-              "x": "He took a shortcut through the stravenue to avoid traffic."
-            },
-            {
-              "cf": "",
-              "x": "The city's grid system includes several stravenues for better navigation."
-            },
-            {
-              "cf": "",
-              "x": "New street signs were installed along the stravenue for clarity."
-            },
-            {
-              "cf": "",
-              "x": "The real estate listing mentioned that the house was on a quiet stravenue."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "8185440b-20fd-43c2-9711-1ec0fe71dcb0",
       "word": "main drag",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFpbiBkcmFn&hash=f27eaed2d3922a1acc56ff1f4ff13a0dddee1593&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "meɪn dræg",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFpbiBkcmFn&hash=f27eaed2d3922a1acc56ff1f4ff13a0dddee1593&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mein drāg",
       "img": "",
       "pronunciation": "mˈeɪn dɹˈæɡ",
       "senses": [
@@ -181,10 +166,11 @@
       ]
     },
     {
-      "word": "main street",
+      "id": "fd4a5d17-0ce2-4812-a7dc-9d5bc79d239a",
+      "word": "Main Street",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=TWFpbiBTdHJlZXQ&hash=bb2456ab821cdbb5fbd440437657e6184724efcd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=TWFpbiBTdHJlZXQ&hash=bb2456ab821cdbb5fbd440437657e6184724efcd&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/51300/original/street?type=jpeg",
@@ -192,17 +178,35 @@
       "senses": [
         {
           "definition": "the most important street with many shops and stores in a town",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The new bakery opened on Main Street last week."
+            },
+            {
+              "cf": "",
+              "x": "She strolled down Main Street, admiring the holiday decorations."
+            },
+            {
+              "cf": "",
+              "x": "Many small businesses thrive on Main Street."
+            },
+            {
+              "cf": "",
+              "x": "He parked his car along Main Street and walked to the diner."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "9eec3bca-cfb6-4d89-9a5c-6d5e9f3a777f",
       "word": "side street",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2lkZSBzdHJlZXQ&hash=118488eabbdfa4164b4a21c4eb494b6c4df16610&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "saɪd stri:t",
       "phonetic_am": "https://tts.langeek.co/read?text=c2lkZSBzdHJlZXQ&hash=118488eabbdfa4164b4a21c4eb494b6c4df16610&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "said strit",
       "img": "https://cdn.langeek.co/photo/36860/original/?type=jpeg",
       "pronunciation": "sˈaɪd stɹˈiːt",
       "senses": [
@@ -234,10 +238,11 @@
       ]
     },
     {
+      "id": "ecf48ab9-8e32-4eec-a28a-7cf54092edbd",
       "word": "Fore Street",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Rm9yZSBTdHJlZXQ&hash=e9e11f7f14b5e6af2f3f99a32725372ac1a59051&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Rm9yZSBTdHJlZXQ&hash=e9e11f7f14b5e6af2f3f99a32725372ac1a59051&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -271,49 +276,30 @@
       ]
     },
     {
+      "id": "2754e7d5-c9a0-4e4b-a05d-51acd5892aa2",
       "word": "superstreet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3VwZXJzdHJlZXQ&hash=a7b86349522fd93e08eeda0c3fc60da2007b888c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "su.pɜr.stri:t",
       "phonetic_am": "https://tts.langeek.co/read?text=c3VwZXJzdHJlZXQ&hash=a7b86349522fd93e08eeda0c3fc60da2007b888c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "soo.pēr.strit",
       "img": "",
       "pronunciation": "sˈuːpɚstɹˌiːt",
       "senses": [
         {
           "definition": "an advanced roadway design that aims to improve traffic flow and safety by reducing conflict points",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The city council approved the construction of a new superstreet to alleviate congestion on the main thoroughfare."
-            },
-            {
-              "cf": "",
-              "x": "Drivers unfamiliar with the superstreet design may initially find it confusing due to the unconventional intersection setup."
-            },
-            {
-              "cf": "",
-              "x": "Traffic engineers believe that implementing superstreets could decrease the number of accidents caused by left-turning vehicles."
-            },
-            {
-              "cf": "",
-              "x": "The superstreet project received funding from both state and federal sources to promote efficient transportation infrastructure."
-            },
-            {
-              "cf": "",
-              "x": "Communities considering the installation of superstreets often conduct public hearings to gather feedback from local residents."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "2d56cbc5-a98c-4c11-9a53-65f708707ab7",
       "word": "thoroughfare",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhvcm91Z2hmYXJl&hash=d32cd04545bb0691f6121a574f365964d327fed0&lang=en&cache-only=0",
-      "phonetic_text": "θɜroʊfɛr",
+      "phonetic_text": "θɜ.roʊ.fɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhvcm91Z2hmYXJl&hash=d32cd04545bb0691f6121a574f365964d327fed0&lang=en&cache-only=0",
-      "phonetic_am_text": "thērowfer",
+      "phonetic_am_text": "thē.rooo.fer",
       "img": "https://cdn.langeek.co/photo/51526/original/road?type=jpeg",
       "pronunciation": "ˈθɝoʊˌfɛɹ",
       "senses": [
@@ -345,12 +331,13 @@
       ]
     },
     {
+      "id": "d6c96a71-5a68-4f0f-8038-570bc81cabf2",
       "word": "one-way street",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b25lLXdheSBzdHJlZXQ&hash=e26c6578d6a46e203507b0043d77834a12f1231d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "n-weɪ stri:t",
       "phonetic_am": "https://tts.langeek.co/read?text=b25lLXdheSBzdHJlZXQ&hash=e26c6578d6a46e203507b0043d77834a12f1231d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "n-vei strit",
       "img": "",
       "pronunciation": "wˈʌnwˈeɪ stɹˈiːt",
       "senses": [
@@ -382,10 +369,11 @@
       ]
     },
     {
-      "word": "high street",
+      "id": "2e8962d4-c7be-408c-a7c7-c403a552d7dc",
+      "word": "High Street",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=SGlnaCBTdHJlZXQ&hash=118268d38625e0bc595e9bb9efb45f7682588a22&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=SGlnaCBTdHJlZXQ&hash=118268d38625e0bc595e9bb9efb45f7682588a22&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -393,17 +381,39 @@
       "senses": [
         {
           "definition": "the most important street with a lot of shops and businesses in a town",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "High Street was bustling with shoppers on Saturday morning."
+            },
+            {
+              "cf": "",
+              "x": "She rented a flat near High Street to stay close to the shops."
+            },
+            {
+              "cf": "",
+              "x": "The parade will pass through High Street this afternoon."
+            },
+            {
+              "cf": "",
+              "x": "Tourists often visit High Street for unique souvenirs."
+            },
+            {
+              "cf": "",
+              "x": "Many small businesses on High Street struggled during the economic downturn."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "01000347-22a4-41b8-9659-2687d3886fa3",
       "word": "off-street",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=b2ZmLXN0cmVldA&hash=237ce1fd69a87e988fec7e1232c296837a7a0d33&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑf-stri:t",
       "phonetic_am": "https://tts.langeek.co/read?text=b2ZmLXN0cmVldA&hash=237ce1fd69a87e988fec7e1232c296837a7a0d33&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aaf-strit",
       "img": "",
       "pronunciation": "ˈɔfstɹˈiːt",
       "senses": [
@@ -431,12 +441,13 @@
       ]
     },
     {
+      "id": "8d961649-f766-4c27-8ac1-01f5e0e145ad",
       "word": "living street",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGl2aW5nIHN0cmVldA&hash=e8eb6ee7b1b3671ad165f1ffc46d1266b1782f82&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɪ.vɪng stri:t",
       "phonetic_am": "https://tts.langeek.co/read?text=bGl2aW5nIHN0cmVldA&hash=e8eb6ee7b1b3671ad165f1ffc46d1266b1782f82&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "li.ving strit",
       "img": "",
       "pronunciation": "lˈɪvɪŋ stɹˈiːt",
       "senses": [
@@ -468,14 +479,15 @@
       ]
     },
     {
+      "id": "ba3077cd-6b0a-4eac-bbab-0046beadc9a4",
       "word": "expressway",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXhwcmVzc3dheQ&hash=408d54562565772c039b68e1c27cf54122efcf6b&lang=en&cache-only=0",
-      "phonetic_text": "ɪksprɛsweɪ",
+      "phonetic_text": "ɪksp.rɛs.weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXhwcmVzc3dheQ&hash=408d54562565772c039b68e1c27cf54122efcf6b&lang=en&cache-only=0",
-      "phonetic_am_text": "ikspreswei",
+      "phonetic_am_text": "iksp.res.vei",
       "img": "https://cdn.langeek.co/photo/51630/original/expressway?type=jpeg",
-      "pronunciation": "ɪksˈpɹɛsˌweɪ",
+      "pronunciation": "ɪkˈsprɛsˌweɪ",
       "senses": [
         {
           "definition": "a divided highway designed for high-speed traffic, typically with multiple lanes and limited access points",
@@ -505,12 +517,13 @@
       ]
     },
     {
+      "id": "439234d2-2ca0-47a4-86cb-a39850671ca2",
       "word": "cross street",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3Jvc3Mgc3RyZWV0&hash=de969b3ab36997b0d387d87ed3a2896290fc6eb4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "krɑ:s stri:t",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3Jvc3Mgc3RyZWV0&hash=de969b3ab36997b0d387d87ed3a2896290fc6eb4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kraas strit",
       "img": "",
       "pronunciation": "kɹˈɔs stɹˈiːt",
       "senses": [
@@ -542,12 +555,13 @@
       ]
     },
     {
+      "id": "5d3cb101-24aa-4b2e-a40f-99dca28da962",
       "word": "crosswalk",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3Jvc3N3YWxr&hash=1d089eb918b397fb5623911fa793344f5805c917&lang=en&cache-only=0",
-      "phonetic_text": "krɑ:swɑk",
+      "phonetic_text": "krɑ:s.wɑ:k",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3Jvc3N3YWxr&hash=1d089eb918b397fb5623911fa793344f5805c917&lang=en&cache-only=0",
-      "phonetic_am_text": "kraaswɑk",
+      "phonetic_am_text": "kraas.vaak",
       "img": "https://cdn.langeek.co/photo/28762/original/crosswalk?type=jpeg",
       "pronunciation": "ˈkɹɑˌswɑk",
       "senses": [
@@ -579,12 +593,13 @@
       ]
     },
     {
+      "id": "94af0522-836c-4c8a-81b6-1aff3ae4e922",
       "word": "pedestrian crossing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVkZXN0cmlhbiBjcm9zc2luZw&hash=2160358aaebff383d8f7d1f88046e71991520707&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pə.dɛst.riən krɔ.sɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVkZXN0cmlhbiBjcm9zc2luZw&hash=2160358aaebff383d8f7d1f88046e71991520707&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pē.dest.riēn kraw.sing",
       "img": "https://cdn.langeek.co/photo/28762/original/crosswalk?type=jpeg",
       "pronunciation": "pədˈɛstɹiən kɹˈɔsɪŋ",
       "senses": [
@@ -616,12 +631,13 @@
       ]
     },
     {
+      "id": "43faec64-5560-459c-ae00-305118745c95",
       "word": "crossing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3Jvc3Npbmc&hash=fe825106a82b6447c1c4a9b4f2c4ad37cc511445&lang=en&cache-only=0",
-      "phonetic_text": "krɔ:sɪng",
+      "phonetic_text": "krɔ.sɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3Jvc3Npbmc&hash=fe825106a82b6447c1c4a9b4f2c4ad37cc511445&lang=en&cache-only=0",
-      "phonetic_am_text": "kraawsing",
+      "phonetic_am_text": "kraw.sing",
       "img": "https://cdn.langeek.co/photo/28762/original/crosswalk?type=jpeg",
       "pronunciation": "ˈkɹɔsɪŋ",
       "senses": [
@@ -645,6 +661,7 @@
       ]
     },
     {
+      "id": "a1f7edf1-65fe-408d-bc38-f527ec7f7fb6",
       "word": "xing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=eGluZw&hash=065323b9a79a89c687d12b65721731cb480e325f&lang=en&cache-only=0",
@@ -682,14 +699,15 @@
       ]
     },
     {
+      "id": "a3549c5b-d01a-433c-b4b5-801b693eb7ec",
       "word": "sidewalk",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2lkZXdhbGs&hash=aecb433a2cdf708492d7f5914e2e9026a8f204a0&lang=en&cache-only=0",
-      "phonetic_text": "saɪdwɔk",
+      "phonetic_text": "saɪd.wɑ:k",
       "phonetic_am": "https://tts.langeek.co/read?text=c2lkZXdhbGs&hash=aecb433a2cdf708492d7f5914e2e9026a8f204a0&lang=en&cache-only=0",
-      "phonetic_am_text": "saidwawk",
+      "phonetic_am_text": "said.vaak",
       "img": "https://cdn.langeek.co/photo/28760/original/sidewalk?type=jpeg",
-      "pronunciation": "ˈsaɪdˌwɔk",
+      "pronunciation": "ˈsaɪdˌwɑk",
       "senses": [
         {
           "definition": "a pathway typically made of concrete or asphalt at the side of a street for people to walk on",
@@ -719,12 +737,13 @@
       ]
     },
     {
+      "id": "b7aa9d85-775f-48f1-99d3-8b7a31c6769d",
       "word": "traffic island",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhZmZpYyBpc2xhbmQ&hash=70d08ae57d2f68e0274a2bfd11b7ce7fec3d5868&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "træ.fɪk aɪ.lənd",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhZmZpYyBpc2xhbmQ&hash=70d08ae57d2f68e0274a2bfd11b7ce7fec3d5868&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trā.fik ai.lēnd",
       "img": "",
       "pronunciation": "tɹˈæfɪk ˈaɪlənd",
       "senses": [
@@ -756,12 +775,13 @@
       ]
     },
     {
+      "id": "99187e23-8fe7-4c1c-8609-de2a16092607",
       "word": "access road",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWNjZXNzIHJvYWQ&hash=62996a87962e709c834b5a8bcd34219b569951a0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æk.sɛs roʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=YWNjZXNzIHJvYWQ&hash=62996a87962e709c834b5a8bcd34219b569951a0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "āk.ses roood",
       "img": "https://cdn.langeek.co/photo/36858/original/?type=jpeg",
       "pronunciation": "ˈæksɛs ɹˈoʊd",
       "senses": [
@@ -793,12 +813,13 @@
       ]
     },
     {
+      "id": "a9d35ed6-4d35-4bc4-b011-5d2425623d0f",
       "word": "strip mall",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RyaXAgbWFsbA&hash=cb9808951a460b5155233bed0bd372b0453a4a49&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "strɪp mɑ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyaXAgbWFsbA&hash=cb9808951a460b5155233bed0bd372b0453a4a49&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "strip maal",
       "img": "",
       "pronunciation": "stɹˈɪp mˈɔːl",
       "senses": [
@@ -830,12 +851,13 @@
       ]
     },
     {
+      "id": "9275d570-f8f9-46bc-be90-8908686c9061",
       "word": "beltway",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVsdHdheQ&hash=5cbe374b9e530a52498c68514bbd80343183ee34&lang=en&cache-only=0",
-      "phonetic_text": "bɛltweɪ",
+      "phonetic_text": "bɛlt.weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVsdHdheQ&hash=5cbe374b9e530a52498c68514bbd80343183ee34&lang=en&cache-only=0",
-      "phonetic_am_text": "beltwei",
+      "phonetic_am_text": "belt.vei",
       "img": "https://cdn.langeek.co/photo/31454/original/?type=jpeg",
       "pronunciation": "ˈbeltˌweɪ",
       "senses": [
@@ -867,12 +889,13 @@
       ]
     },
     {
+      "id": "1bc0c6dc-2177-435f-a762-f380d0938fae",
       "word": "outer belt",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3V0ZXIgYmVsdA&hash=fd3581ae42c08eaae2e2e420e5f81811122c8035&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aʊ.tɜr bɛlt",
       "phonetic_am": "https://tts.langeek.co/read?text=b3V0ZXIgYmVsdA&hash=fd3581ae42c08eaae2e2e420e5f81811122c8035&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aoo.tēr belt",
       "img": "",
       "pronunciation": "ˈaʊɾɚ bˈɛlt",
       "senses": [
@@ -904,12 +927,13 @@
       ]
     },
     {
+      "id": "db4f4ab7-857e-4915-8933-956746bb2cd2",
       "word": "bypass",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnlwYXNz&hash=9100db0dabe4ce3e92944002daf63139698da032&lang=en&cache-only=0",
-      "phonetic_text": "baɪpæs",
+      "phonetic_text": "baɪ.pæs",
       "phonetic_am": "https://tts.langeek.co/read?text=YnlwYXNz&hash=9100db0dabe4ce3e92944002daf63139698da032&lang=en&cache-only=0",
-      "phonetic_am_text": "baipās",
+      "phonetic_am_text": "bai.pās",
       "img": "https://cdn.langeek.co/photo/31454/original/?type=jpeg",
       "pronunciation": "ˈbaɪˌpæs",
       "senses": [
@@ -920,12 +944,13 @@
       ]
     },
     {
+      "id": "23a3a097-9479-4c7a-92d5-be578e2403be",
       "word": "arterial road",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJ0ZXJpYWwgcm9hZA&hash=c96e0798a75917d375a200e609f3891bcf329213&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑr.tɪ.riəl roʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJ0ZXJpYWwgcm9hZA&hash=c96e0798a75917d375a200e609f3891bcf329213&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aar.ti.riēl roood",
       "img": "",
       "pronunciation": "ɑːɹtˈiəɹɪəl ɹˈoʊd",
       "senses": [
@@ -957,12 +982,13 @@
       ]
     },
     {
+      "id": "49a13258-e8ee-42e6-92fc-0685eebda556",
       "word": "frontage road",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnJvbnRhZ2Ugcm9hZA&hash=5b6035ee906815d1880cb51c51690b3f1d15ef5f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "frən.tɪʤ roʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJvbnRhZ2Ugcm9hZA&hash=5b6035ee906815d1880cb51c51690b3f1d15ef5f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "frēn.tij roood",
       "img": "",
       "pronunciation": "fɹˈʌntɪdʒ ɹˈoʊd",
       "senses": [
@@ -994,86 +1020,47 @@
       ]
     },
     {
+      "id": "91d29748-2349-441f-9a85-294313598852",
       "word": "couplet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291cGxldA&hash=929f4f685a986521310952684ecb71b1e351e517&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kʌp.lət",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291cGxldA&hash=929f4f685a986521310952684ecb71b1e351e517&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kap.lēt",
       "img": "",
       "pronunciation": "kˈʌplət",
       "senses": [
         {
           "definition": "a pair of parallel, one-way streets that run in opposite directions to help manage traffic flow in urban areas",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The city's new traffic plan includes a couplet to ease congestion during rush hour."
-            },
-            {
-              "cf": "",
-              "x": "Drivers find it easier to navigate downtown since the couplet was implemented."
-            },
-            {
-              "cf": "",
-              "x": "The couplet allows for smoother traffic flow, with one street handling northbound and the other southbound traffic."
-            },
-            {
-              "cf": "",
-              "x": "Pedestrians appreciate the safer crosswalks created by the couplet system."
-            },
-            {
-              "cf": "",
-              "x": "The couplet design has significantly reduced travel time through the busy commercial district."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "fa7ed47f-6e47-450d-8a4d-fa1b421ca251",
       "word": "business route",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVzaW5lc3Mgcm91dGU&hash=6e9a7b263322e983337fe354a784b1d889d85714&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɪz.nɪs ru:t",
       "phonetic_am": "https://tts.langeek.co/read?text=YnVzaW5lc3Mgcm91dGU&hash=6e9a7b263322e983337fe354a784b1d889d85714&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "biz.nis root",
       "img": "",
       "pronunciation": "bˈɪznəs ɹˈaʊt",
       "senses": [
         {
           "definition": "a section of a highway that passes through the center of a town or city, providing access to local businesses and services",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The business route was clearly marked, guiding travelers through the historic downtown area."
-            },
-            {
-              "cf": "",
-              "x": "Many shops and restaurants are located along the business route, making it a popular stop for tourists."
-            },
-            {
-              "cf": "",
-              "x": "Drivers often take the business route to avoid the busy interstate and enjoy the local scenery."
-            },
-            {
-              "cf": "",
-              "x": "The city council plans to improve the signage along the business route to help visitors find their way more easily."
-            },
-            {
-              "cf": "",
-              "x": "Traffic on the business route can be slow during rush hour, but it provides convenient access to all the main attractions."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "cad62cea-e2a6-4ba5-8d9b-725480dbb054",
       "word": "service road",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VydmljZSByb2Fk&hash=895952be73450b3038a37713a935bb25509ecd27&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɜr.vɪs roʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VydmljZSByb2Fk&hash=895952be73450b3038a37713a935bb25509ecd27&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sēr.vis roood",
       "img": "",
       "pronunciation": "sˈɜːvɪs ɹˈoʊd",
       "senses": [
@@ -1105,49 +1092,30 @@
       ]
     },
     {
+      "id": "4125bda7-e67e-4c31-87cc-964a2af48d8e",
       "word": "through road",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhyb3VnaCByb2Fk&hash=7caa5fe8f33f0def334ce28ebaf6e416ce2517b1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "θru: roʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhyb3VnaCByb2Fk&hash=7caa5fe8f33f0def334ce28ebaf6e416ce2517b1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "throo roood",
       "img": "",
       "pronunciation": "θɹuː ɹˈoʊd",
       "senses": [
         {
           "definition": "a main road that goes through an area and connects with other main roads",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The new supermarket is located on a through road, making it easy for shoppers to reach it from different parts of the city."
-            },
-            {
-              "cf": "",
-              "x": "Heavy trucks are not allowed on residential streets and must use the through road to avoid disturbing the neighborhood."
-            },
-            {
-              "cf": "",
-              "x": "Traffic is usually busy on the through road during rush hour because many commuters use it to get to work."
-            },
-            {
-              "cf": "",
-              "x": "The city council plans to improve lighting and signage along the through road to enhance safety for drivers at night."
-            },
-            {
-              "cf": "",
-              "x": "Because the through road connects several small towns, it is often used by travelers heading to the countryside for the weekend."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "9e4ee2f9-3e7f-46af-9d35-eb67fee98ff4",
       "word": "complete street",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29tcGxldGUgc3RyZWV0&hash=d242dbd7afc5b8a183310bf2951a30a882e3fc4e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kəmp.lit stri:t",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tcGxldGUgc3RyZWV0&hash=d242dbd7afc5b8a183310bf2951a30a882e3fc4e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kēmp.lit strit",
       "img": "",
       "pronunciation": "kəmplˈiːt stɹˈiːt",
       "senses": [
@@ -1179,51 +1147,32 @@
       ]
     },
     {
+      "id": "30fae0ce-a2cc-4f0c-a4d6-4bf0b4321f50",
       "word": "grid plan",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JpZCBwbGFu&hash=9341e706e6a883dd565d3870148014ed2661506c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "grɪd plæn",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JpZCBwbGFu&hash=9341e706e6a883dd565d3870148014ed2661506c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "grid plān",
       "img": "",
       "pronunciation": "ɡɹˈɪd plˈæn",
       "senses": [
         {
           "definition": "a type of city design where streets run at right angles to each other, forming a pattern of squares or rectangles",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The new urban development follows a grid plan, making navigation simple and straightforward."
-            },
-            {
-              "cf": "",
-              "x": "Many ancient cities, such as those in Greece, were designed with a grid plan for better organization and access."
-            },
-            {
-              "cf": "",
-              "x": "The grid plan of Manhattan allows for easy numbering and locating of streets and avenues."
-            },
-            {
-              "cf": "",
-              "x": "Planners decided to use a grid plan to ensure that every block had equal access to utilities and services."
-            },
-            {
-              "cf": "",
-              "x": "The city council chose a grid plan to help reduce traffic congestion and improve public transportation routes."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "85505c13-2dfd-4b4f-aa9c-b2bab7341f88",
       "word": "parking lot",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFya2luZyBsb3Q&hash=4f348fed5f560287fd6283f8f0465a41a3523973&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɑr.kɪng lɑ:t",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFya2luZyBsb3Q&hash=4f348fed5f560287fd6283f8f0465a41a3523973&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "paar.king laat",
       "img": "https://cdn.langeek.co/photo/19224/original/parking-lot?type=jpeg",
-      "pronunciation": "pˈɑːɹkɪŋ lˈɑːt",
+      "pronunciation": "ˈpɑrkɪŋ ˌlɑt",
       "senses": [
         {
           "definition": "an area in which people leave their vehicles",
@@ -1253,12 +1202,13 @@
       ]
     },
     {
+      "id": "24eb538a-9ffe-4f00-a5ce-1d0ab21fe192",
       "word": "pedestrian mall",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVkZXN0cmlhbiBtYWxs&hash=e189a30bfbd60bec786ba5f042eb95df11d03b93&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pə.dɛst.riən mɑ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVkZXN0cmlhbiBtYWxs&hash=e189a30bfbd60bec786ba5f042eb95df11d03b93&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pē.dest.riēn maal",
       "img": "",
       "pronunciation": "pədˈɛstɹiən mˈɔːl",
       "senses": [
@@ -1290,12 +1240,13 @@
       ]
     },
     {
-      "word": "pedestrianize",
+      "id": "3e6d80f4-249d-4e5b-9fbf-0c2d34e77b69",
+      "word": "to pedestrianize",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGVkZXN0cmlhbml6ZQ&hash=1b9332527da4efb009f6be64cd58a02b115b9258&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɛ.dɪst.riə.naɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGVkZXN0cmlhbml6ZQ&hash=1b9332527da4efb009f6be64cd58a02b115b9258&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pe.dist.riē.naiz",
       "img": "",
       "pronunciation": "pˈɛdɪstɹˌiənaɪz",
       "senses": [
@@ -1327,12 +1278,13 @@
       ]
     },
     {
+      "id": "6d678c28-f9ef-4cce-8a20-e895921031dd",
       "word": "on-street",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=b24tc3RyZWV0&hash=a0b3460d19658e83740f091683e76bfd5286081f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n-stri:t",
       "phonetic_am": "https://tts.langeek.co/read?text=b24tc3RyZWV0&hash=a0b3460d19658e83740f091683e76bfd5286081f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aan-strit",
       "img": "",
       "pronunciation": "ˌɑːnstɹˈiːt",
       "senses": [

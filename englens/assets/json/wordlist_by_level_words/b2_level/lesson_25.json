@@ -1,17 +1,19 @@
 {
+  "id": "c5c37709-9088-4cd7-b6af-9321863767e4",
   "topic": "b2_level",
   "title": "Monarchy",
   "lesson": "lesson_25",
   "word_list": [
     {
-      "word": "border",
+      "id": "af742de9-997d-4af8-8148-fa664c1cfb9f",
+      "word": "to border",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYm9yZGVy&hash=b6b19198950cbd0a05ff5aeb30dcb8dc52f00a59&lang=en&cache-only=0",
-      "phonetic_text": "bɔ:rdər",
+      "phonetic_text": "bɔ:r.dər",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYm9yZGVy&hash=b6b19198950cbd0a05ff5aeb30dcb8dc52f00a59&lang=en&cache-only=0",
-      "phonetic_am_text": "baawrdēr",
+      "phonetic_am_text": "bawr.dēr",
       "img": "",
-      "pronunciation": "ˈbɔːrdər",
+      "pronunciation": "ˈbɔrdɚ",
       "senses": [
         {
           "definition": "to be the neighboring country or region next to another, sharing a line",
@@ -33,12 +35,13 @@
       ]
     },
     {
-      "word": "honor",
+      "id": "c03e8600-0c1d-4fdb-8f56-37a04cb8e1bf",
+      "word": "to honor",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaG9ub3I&hash=d518a677c860ca716ed27da822b308ab5147ad01&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:nər",
+      "phonetic_text": "ɑ.nɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaG9ub3I&hash=d518a677c860ca716ed27da822b308ab5147ad01&lang=en&cache-only=0",
-      "phonetic_am_text": "aanēr",
+      "phonetic_am_text": "aa.nēr",
       "img": "https://cdn.langeek.co/photo/58607/original/?type=jpeg",
       "pronunciation": "ˈɑnɝ",
       "senses": [
@@ -70,12 +73,13 @@
       ]
     },
     {
+      "id": "dd03d882-e0df-4c97-9411-3f8a1e67d353",
       "word": "aristocracy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJpc3RvY3JhY3k&hash=2a17210b1772d8647b1e8e4b8a3089c206a8d505&lang=en&cache-only=0",
-      "phonetic_text": "ɛrəstɑ:krəsi",
+      "phonetic_text": "ɛ.rəs.tɑk.rə.si",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJpc3RvY3JhY3k&hash=2a17210b1772d8647b1e8e4b8a3089c206a8d505&lang=en&cache-only=0",
-      "phonetic_am_text": "erēstaakrēsi",
+      "phonetic_am_text": "e.rēs.taak.rē.si",
       "img": "",
       "pronunciation": "ˌɛɹəˈstɑkɹəsi",
       "senses": [
@@ -107,12 +111,13 @@
       ]
     },
     {
+      "id": "0e772fae-d376-4447-9911-811e21c7d6f7",
       "word": "dynasty",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHluYXN0eQ&hash=5d109cc28740bb086c37e1ad07772d49ab3570a0&lang=en&cache-only=0",
-      "phonetic_text": "daɪnəsti",
+      "phonetic_text": "daɪ.nəs.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHluYXN0eQ&hash=5d109cc28740bb086c37e1ad07772d49ab3570a0&lang=en&cache-only=0",
-      "phonetic_am_text": "dainēsti",
+      "phonetic_am_text": "dai.nēs.ti",
       "img": "",
       "pronunciation": "ˈdaɪnəsti",
       "senses": [
@@ -136,12 +141,13 @@
       ]
     },
     {
+      "id": "03f174b6-3bdf-4d6d-b2fc-a9d8cb3a7759",
       "word": "empire",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZW1waXJl&hash=5b0debe0c74f3efb3e9349fc3cd2cca9b10b0094&lang=en&cache-only=0",
-      "phonetic_text": "ɛmpaɪər",
+      "phonetic_text": "ɛm.paɪɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZW1waXJl&hash=5b0debe0c74f3efb3e9349fc3cd2cca9b10b0094&lang=en&cache-only=0",
-      "phonetic_am_text": "empaiēr",
+      "phonetic_am_text": "em.paiēr",
       "img": "",
       "pronunciation": "ˈɛmpaɪɝ",
       "senses": [
@@ -161,10 +167,11 @@
       ]
     },
     {
+      "id": "ba88f6cb-e63d-4193-af39-64d2615c4830",
       "word": "Renaissance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=UmVuYWlzc2FuY2U&hash=f8f027f536149476656c0aa94a3af3a3f65ecd10&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=UmVuYWlzc2FuY2U&hash=f8f027f536149476656c0aa94a3af3a3f65ecd10&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -198,10 +205,11 @@
       ]
     },
     {
+      "id": "f88b1588-4b31-4d02-a696-6e4f9ea6bd33",
       "word": "the Middle Ages",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIE1pZGRsZSBBZ2Vz&hash=364bd85b4f958395f3748494db511b1b010ac76e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIE1pZGRsZSBBZ2Vz&hash=364bd85b4f958395f3748494db511b1b010ac76e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -227,12 +235,13 @@
       ]
     },
     {
+      "id": "1ef0a5cd-1c6f-4cef-b80d-ac504c90de64",
       "word": "castle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FzdGxl&hash=6d39a50dbda32dc445d2db7b83d3d032100383c9&lang=en&cache-only=0",
-      "phonetic_text": "kæsəl",
+      "phonetic_text": "kæ.səl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FzdGxl&hash=6d39a50dbda32dc445d2db7b83d3d032100383c9&lang=en&cache-only=0",
-      "phonetic_am_text": "kāsēl",
+      "phonetic_am_text": "kā.sēl",
       "img": "https://cdn.langeek.co/photo/27209/original/?type=jpeg",
       "pronunciation": "ˈkæsəɫ",
       "senses": [
@@ -264,12 +273,13 @@
       ]
     },
     {
+      "id": "e43595dd-79aa-434a-8fb2-97fec6d945a3",
       "word": "fortress",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9ydHJlc3M&hash=bcb8648e701f5b72364a7f9f5192aa4097e9a312&lang=en&cache-only=0",
-      "phonetic_text": "fɔ:rtrəs",
+      "phonetic_text": "fɔrt.rəs",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9ydHJlc3M&hash=bcb8648e701f5b72364a7f9f5192aa4097e9a312&lang=en&cache-only=0",
-      "phonetic_am_text": "faawrtrēs",
+      "phonetic_am_text": "fawrt.rēs",
       "img": "",
       "pronunciation": "ˈfɔɹtɹəs",
       "senses": [
@@ -301,12 +311,13 @@
       ]
     },
     {
+      "id": "383afbbc-c901-4f5a-bd10-ca9102ebbcb7",
       "word": "armor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJtb3I&hash=f8b425c32c103796926cc33a97f3b33c54f1c104&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:rmər",
+      "phonetic_text": "ɑr.mər",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJtb3I&hash=f8b425c32c103796926cc33a97f3b33c54f1c104&lang=en&cache-only=0",
-      "phonetic_am_text": "aarmēr",
+      "phonetic_am_text": "aar.mēr",
       "img": "https://cdn.langeek.co/photo/30042/original/?type=jpeg",
       "pronunciation": "ˈɑrmər",
       "senses": [
@@ -334,12 +345,13 @@
       ]
     },
     {
+      "id": "90962c10-8663-4e9a-8451-8f9320be1152",
       "word": "coat of arms",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29hdCBvZiBhcm1z&hash=d0e99f5ffe5981eb530d10fec2642ff965fd6e8d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "koʊt ʌv ɑrmz",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29hdCBvZiBhcm1z&hash=d0e99f5ffe5981eb530d10fec2642ff965fd6e8d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kooot av aarmz",
       "img": "https://cdn.langeek.co/photo/30046/original/?type=jpeg",
       "pronunciation": "kˈoʊt ʌv ˈɑːɹmz",
       "senses": [
@@ -371,12 +383,13 @@
       ]
     },
     {
+      "id": "0af1e42a-7519-4582-b99f-b2c72c25bf50",
       "word": "crown",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3Jvd24&hash=4937186d35a7b5e92759b11e06d9d3d7843428d5&lang=en&cache-only=0",
       "phonetic_text": "kraʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3Jvd24&hash=4937186d35a7b5e92759b11e06d9d3d7843428d5&lang=en&cache-only=0",
-      "phonetic_am_text": "krawn",
+      "phonetic_am_text": "kraoon",
       "img": "https://cdn.langeek.co/photo/25633/original/?type=jpeg",
       "pronunciation": "ˈkɹaʊn",
       "senses": [
@@ -404,12 +417,13 @@
       ]
     },
     {
+      "id": "a6a7a679-305f-4619-ad45-303c01c65581",
       "word": "arrow",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJyb3c&hash=6e185fd3eab4eead30075efccbdc100e9de137a9&lang=en&cache-only=0",
-      "phonetic_text": "æroʊ",
+      "phonetic_text": "æ.roʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJyb3c&hash=6e185fd3eab4eead30075efccbdc100e9de137a9&lang=en&cache-only=0",
-      "phonetic_am_text": "ārow",
+      "phonetic_am_text": "ā.rooo",
       "img": "https://cdn.langeek.co/photo/29769/original/?type=jpeg",
       "pronunciation": "ˈæroʊ/, /ˈer.oʊ",
       "senses": [
@@ -433,12 +447,13 @@
       ]
     },
     {
+      "id": "6aa17f6f-8a34-4363-9152-5f2cd2728c82",
       "word": "sword",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3dvcmQ&hash=e43946d96dc9afc94348f3205b9f74acc3fdf586&lang=en&cache-only=0",
-      "phonetic_text": "sɔ:rd",
+      "phonetic_text": "sɔrd",
       "phonetic_am": "https://tts.langeek.co/read?text=c3dvcmQ&hash=e43946d96dc9afc94348f3205b9f74acc3fdf586&lang=en&cache-only=0",
-      "phonetic_am_text": "saawrd",
+      "phonetic_am_text": "sawrd",
       "img": "",
       "pronunciation": "ˈsɔɹd",
       "senses": [
@@ -466,12 +481,13 @@
       ]
     },
     {
+      "id": "2c82ce44-d21c-480c-8c7e-9fb7cbf42f6c",
       "word": "emblem",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZW1ibGVt&hash=55c8767f8ecf8af7db7e7a1329d14e95a3f2ac1d&lang=en&cache-only=0",
-      "phonetic_text": "ɛmbləm",
+      "phonetic_text": "ɛmb.ləm",
       "phonetic_am": "https://tts.langeek.co/read?text=ZW1ibGVt&hash=55c8767f8ecf8af7db7e7a1329d14e95a3f2ac1d&lang=en&cache-only=0",
-      "phonetic_am_text": "emblēm",
+      "phonetic_am_text": "emb.lēm",
       "img": "",
       "pronunciation": "ˈɛmbɫəm",
       "senses": [
@@ -499,12 +515,13 @@
       ]
     },
     {
+      "id": "2b7b374e-0749-4448-a4de-2d0fe8dbcca4",
       "word": "royal",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cm95YWw&hash=f75b1129f18e95b10a99deb6ee1ebac71c4b9bf4&lang=en&cache-only=0",
       "phonetic_text": "rɔɪəl",
       "phonetic_am": "https://tts.langeek.co/read?text=cm95YWw&hash=f75b1129f18e95b10a99deb6ee1ebac71c4b9bf4&lang=en&cache-only=0",
-      "phonetic_am_text": "royēl",
+      "phonetic_am_text": "rawiēl",
       "img": "https://cdn.langeek.co/photo/45245/original/?type=jpeg",
       "pronunciation": "ˈɹɔɪəɫ",
       "senses": [
@@ -528,12 +545,13 @@
       ]
     },
     {
+      "id": "38d61f1a-0ace-43d9-842e-52544ed00f6c",
       "word": "royalty",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm95YWx0eQ&hash=497f4e4d97f2184c6a49e6d85ea6268d0902cafe&lang=en&cache-only=0",
-      "phonetic_text": "rɔɪəlti",
+      "phonetic_text": "rɔɪəl.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=cm95YWx0eQ&hash=497f4e4d97f2184c6a49e6d85ea6268d0902cafe&lang=en&cache-only=0",
-      "phonetic_am_text": "royēlti",
+      "phonetic_am_text": "rawiēl.ti",
       "img": "",
       "pronunciation": "ˈɹɔɪəɫti",
       "senses": [
@@ -561,14 +579,15 @@
       ]
     },
     {
+      "id": "8fa43b20-407d-4163-b7b3-4ceee251ab1e",
       "word": "noble",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bm9ibGU&hash=3e7a7ed6137d5039e2269b0988edbf1167e602dd&lang=en&cache-only=0",
-      "phonetic_text": "noʊbəl",
+      "phonetic_text": "noʊ.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=bm9ibGU&hash=3e7a7ed6137d5039e2269b0988edbf1167e602dd&lang=en&cache-only=0",
-      "phonetic_am_text": "nowbēl",
+      "phonetic_am_text": "nooo.bēl",
       "img": "",
-      "pronunciation": "ˈnoʊbəɫ",
+      "pronunciation": "ˈnoʊbəl",
       "senses": [
         {
           "definition": "belonging to the highest social or political class",
@@ -598,12 +617,13 @@
       ]
     },
     {
+      "id": "15e0822f-556c-471f-9719-d8c9feb67733",
       "word": "nobility",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bm9iaWxpdHk&hash=c6a1b3a3edba42a5aa853d39e8a58e123ef2499c&lang=en&cache-only=0",
-      "phonetic_text": "noʊbɪləti",
+      "phonetic_text": "noʊ.bɪ.lə.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=bm9iaWxpdHk&hash=c6a1b3a3edba42a5aa853d39e8a58e123ef2499c&lang=en&cache-only=0",
-      "phonetic_am_text": "nowbilēti",
+      "phonetic_am_text": "nooo.bi.lē.ti",
       "img": "",
       "pronunciation": "noʊˈbɪɫəti",
       "senses": [
@@ -635,14 +655,15 @@
       ]
     },
     {
+      "id": "d8e5b252-bfa6-4681-bbf6-c200000572dd",
       "word": "count",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291bnQ&hash=99a813dcc976069d15bba72b74e23a54427a3e66&lang=en&cache-only=0",
       "phonetic_text": "kaʊnt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291bnQ&hash=99a813dcc976069d15bba72b74e23a54427a3e66&lang=en&cache-only=0",
-      "phonetic_am_text": "kawnt",
+      "phonetic_am_text": "kaoont",
       "img": "",
-      "pronunciation": "ˈkaʊnt",
+      "pronunciation": "kaʊnt",
       "senses": [
         {
           "definition": "a noble title in European countries, ranking below a marquess and above a viscount",
@@ -672,12 +693,13 @@
       ]
     },
     {
+      "id": "563eca01-492a-487f-ac92-91afa13ff743",
       "word": "countess",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291bnRlc3M&hash=2ba855b1b173eb9c3c2da5e97e8afb0e72b90102&lang=en&cache-only=0",
-      "phonetic_text": "kaʊntəs",
+      "phonetic_text": "kaʊn.təs",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291bnRlc3M&hash=2ba855b1b173eb9c3c2da5e97e8afb0e72b90102&lang=en&cache-only=0",
-      "phonetic_am_text": "kawntēs",
+      "phonetic_am_text": "kaoon.tēs",
       "img": "",
       "pronunciation": "ˈkaʊntəs",
       "senses": [
@@ -701,6 +723,7 @@
       ]
     },
     {
+      "id": "a2a40b28-ce9b-437b-a071-8ba0066ec856",
       "word": "knight",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a25pZ2h0&hash=84b5f8e374b092f3f78f22972ca720bb58b362e8&lang=en&cache-only=0",
@@ -734,12 +757,13 @@
       ]
     },
     {
+      "id": "ceaa4f57-df73-4da4-93df-5c46de433428",
       "word": "duchess",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHVjaGVzcw&hash=763a0beb7cb95ab0c6794d982f73806631562dfe&lang=en&cache-only=0",
-      "phonetic_text": "dʌʧəs",
+      "phonetic_text": "də.ʧəs",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHVjaGVzcw&hash=763a0beb7cb95ab0c6794d982f73806631562dfe&lang=en&cache-only=0",
-      "phonetic_am_text": "dachēs",
+      "phonetic_am_text": "dē.chēs",
       "img": "",
       "pronunciation": "ˈdətʃəs",
       "senses": [
@@ -755,13 +779,14 @@
       ]
     },
     {
+      "id": "9f03a5f2-3abe-4465-bc67-13792a8255fc",
       "word": "king",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2luZw&hash=03552ac31d8d95fe0fe9875811b1f2a0f4daabc8&lang=en&cache-only=0",
       "phonetic_text": "kɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=a2luZw&hash=03552ac31d8d95fe0fe9875811b1f2a0f4daabc8&lang=en&cache-only=0",
       "phonetic_am_text": "king",
-      "img": "https://cdn.langeek.co/photo/26335/original/?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60027/original/?type=jpeg",
       "pronunciation": "ˈkɪŋ",
       "senses": [
         {
@@ -792,13 +817,14 @@
       ]
     },
     {
+      "id": "775b5e7e-a6b6-4521-8615-0a3e5d432f12",
       "word": "queen",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cXVlZW4&hash=cba0192d01ad075cc2dab59e2f67644a081cf753&lang=en&cache-only=0",
-      "phonetic_text": "kwi:n",
+      "phonetic_text": "kwin",
       "phonetic_am": "https://tts.langeek.co/read?text=cXVlZW4&hash=cba0192d01ad075cc2dab59e2f67644a081cf753&lang=en&cache-only=0",
-      "phonetic_am_text": "kween",
-      "img": "https://cdn.langeek.co/photo/26333/original/?type=jpeg",
+      "phonetic_am_text": "kvin",
+      "img": "https://cdn.langeek.co/photo/60069/original/?type=jpeg",
       "pronunciation": "ˈkwin",
       "senses": [
         {
@@ -825,12 +851,13 @@
       ]
     },
     {
+      "id": "6a8c6ab3-d83d-4661-9597-ab055736e948",
       "word": "kingdom",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2luZ2RvbQ&hash=b9ccdca76ecd1e66cd0efd2ede68194c443ab67c&lang=en&cache-only=0",
-      "phonetic_text": "kɪngdəm",
+      "phonetic_text": "kɪng.dəm",
       "phonetic_am": "https://tts.langeek.co/read?text=a2luZ2RvbQ&hash=b9ccdca76ecd1e66cd0efd2ede68194c443ab67c&lang=en&cache-only=0",
-      "phonetic_am_text": "kingdēm",
+      "phonetic_am_text": "king.dēm",
       "img": "",
       "pronunciation": "ˈkɪŋdəm",
       "senses": [
@@ -862,12 +889,13 @@
       ]
     },
     {
+      "id": "f417473a-6d03-4996-af16-13a5916ffe43",
       "word": "lady",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFkeQ&hash=17d34aef01d7aef72d760dccab0199791e9ea314&lang=en&cache-only=0",
-      "phonetic_text": "leɪdi",
+      "phonetic_text": "leɪ.di",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFkeQ&hash=17d34aef01d7aef72d760dccab0199791e9ea314&lang=en&cache-only=0",
-      "phonetic_am_text": "leidi",
+      "phonetic_am_text": "lei.di",
       "img": "",
       "pronunciation": "ˈɫeɪdi",
       "senses": [
@@ -883,12 +911,13 @@
       ]
     },
     {
+      "id": "f668d3e2-868f-4a20-a48c-fa92c1c642be",
       "word": "majesty",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFqZXN0eQ&hash=129d1cb7a3230999e407dfe279d234b591effcf9&lang=en&cache-only=0",
-      "phonetic_text": "mæʤəsti",
+      "phonetic_text": "mæ.ʤəs.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFqZXN0eQ&hash=129d1cb7a3230999e407dfe279d234b591effcf9&lang=en&cache-only=0",
-      "phonetic_am_text": "mājēsti",
+      "phonetic_am_text": "mā.jēs.ti",
       "img": "",
       "pronunciation": "ˈmædʒəsti",
       "senses": [
@@ -899,12 +928,13 @@
       ]
     },
     {
+      "id": "5c3b5eb7-aabc-4a46-954e-7fe7c3fd2bc9",
       "word": "lord",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9yZA&hash=9bfbafcc1f6157dbc6ca6d904517adb457de05e4&lang=en&cache-only=0",
-      "phonetic_text": "lɔ:rd",
+      "phonetic_text": "lɔrd",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9yZA&hash=9bfbafcc1f6157dbc6ca6d904517adb457de05e4&lang=en&cache-only=0",
-      "phonetic_am_text": "laawrd",
+      "phonetic_am_text": "lawrd",
       "img": "",
       "pronunciation": "ˈɫɔɹd",
       "senses": [
@@ -932,13 +962,14 @@
       ]
     },
     {
+      "id": "ece9fd51-c8d3-46f8-aa40-e1e385372312",
       "word": "monarch",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9uYXJjaA&hash=6845a7c7a32a59a2cf86feae986b9e60437218e7&lang=en&cache-only=0",
-      "phonetic_text": "mɑ:nɑrk",
+      "phonetic_text": "mɑ.nɑrk",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9uYXJjaA&hash=6845a7c7a32a59a2cf86feae986b9e60437218e7&lang=en&cache-only=0",
-      "phonetic_am_text": "maanɑrk",
-      "img": "https://cdn.langeek.co/photo/26335/original/?type=jpeg",
+      "phonetic_am_text": "maa.naark",
+      "img": "https://cdn.langeek.co/photo/60027/original/?type=jpeg",
       "pronunciation": "ˈmɑˌnɑɹk",
       "senses": [
         {
@@ -965,6 +996,7 @@
       ]
     },
     {
+      "id": "26b1d636-e0e2-49d2-8dcd-c5ceb17df3da",
       "word": "prince",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJpbmNl&hash=7de18494917b86890fe91d3749e874307c7811cf&lang=en&cache-only=0",
@@ -1002,12 +1034,13 @@
       ]
     },
     {
+      "id": "4dd89145-93c7-43cf-9bd0-7d09b3bce434",
       "word": "princess",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJpbmNlc3M&hash=f3b8aae8da7c9dd8d596c51763ed65e04885554c&lang=en&cache-only=0",
-      "phonetic_text": "prɪnsɛs",
+      "phonetic_text": "prɪn.sɛs",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJpbmNlc3M&hash=f3b8aae8da7c9dd8d596c51763ed65e04885554c&lang=en&cache-only=0",
-      "phonetic_am_text": "prinses",
+      "phonetic_am_text": "prin.ses",
       "img": "https://cdn.langeek.co/photo/29789/original/?type=jpeg",
       "pronunciation": "ˈpɹɪnsɛs",
       "senses": [
@@ -1039,10 +1072,11 @@
       ]
     },
     {
+      "id": "7d11593d-1647-4b85-bb9a-19045fc06160",
       "word": "Duke",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RHVrZQ&hash=a1d4a1a0ae47063b146f2045fb04881b9ce590ab&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RHVrZQ&hash=a1d4a1a0ae47063b146f2045fb04881b9ce590ab&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -1060,12 +1094,13 @@
       ]
     },
     {
+      "id": "f964a3bc-26ac-41a7-976f-e35630f7bdfa",
       "word": "slavery",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2xhdmVyeQ&hash=081327704b7992d14be5be0b6b80e3ee6e771762&lang=en&cache-only=0",
-      "phonetic_text": "sleɪvəri",
+      "phonetic_text": "sleɪ.vɜ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=c2xhdmVyeQ&hash=081327704b7992d14be5be0b6b80e3ee6e771762&lang=en&cache-only=0",
-      "phonetic_am_text": "sleivēri",
+      "phonetic_am_text": "slei.vē.ri",
       "img": "",
       "pronunciation": "ˈsɫeɪvɝi",
       "senses": [

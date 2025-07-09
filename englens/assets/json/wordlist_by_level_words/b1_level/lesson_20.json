@@ -1,9 +1,11 @@
 {
+  "id": "858b4be5-76f2-4bb5-a6a9-3dcbe4793db9",
   "topic": "b1_level",
   "title": "Games and Toys",
   "lesson": "lesson_20",
   "word_list": [
     {
+      "id": "ed45baeb-d1e9-419e-896d-0dff2cdb4689",
       "word": "dice",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGljZQ&hash=194a78ca0f23bbb4066febbcb6e5a4ec87289c0b&lang=en&cache-only=0",
@@ -11,7 +13,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=ZGljZQ&hash=194a78ca0f23bbb4066febbcb6e5a4ec87289c0b&lang=en&cache-only=0",
       "phonetic_am_text": "dais",
       "img": "https://cdn.langeek.co/photo/26934/original/?type=jpeg",
-      "pronunciation": "ˈdaɪs",
+      "pronunciation": "daɪs",
       "senses": [
         {
           "definition": "a small cube used in games of chance with six sides each having one to six spots representing numbers",
@@ -20,6 +22,7 @@
       ]
     },
     {
+      "id": "208b3f1e-7e86-4fbb-9af2-e7545eb280e2",
       "word": "tie",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGll&hash=34ff36d031fc054b7082e34d21e5b5051fd386a7&lang=en&cache-only=0",
@@ -36,7 +39,8 @@
       ]
     },
     {
-      "word": "tie",
+      "id": "1e482ba6-72cb-4d73-af0d-0f126ec735be",
+      "word": "to tie",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGll&hash=69f3e3e6606bcba5793efbb026ee60d5ed95a406&lang=en&cache-only=0",
       "phonetic_text": "taɪ",
@@ -47,33 +51,65 @@
       "senses": [
         {
           "definition": "(of two players or teams) to finish a game or competition with even scores",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The soccer match tied after both teams scored two goals each in the second half."
+            },
+            {
+              "cf": "",
+              "x": "The chess match tied as neither player could secure a checkmate, resulting in a stalemate."
+            },
+            {
+              "cf": "",
+              "x": "Despite their best efforts, the tennis players tied with six games apiece, leading to a tiebreaker."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "cheat",
+      "id": "10979688-acda-4e5b-9b2e-ef65e9444d87",
+      "word": "to cheat",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hlYXQ&hash=478cbbc67d037654cf6c1d17b2fd63db65d43ece&lang=en&cache-only=0",
       "phonetic_text": "ʧi:t",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2hlYXQ&hash=478cbbc67d037654cf6c1d17b2fd63db65d43ece&lang=en&cache-only=0",
-      "phonetic_am_text": "cheet",
+      "phonetic_am_text": "chit",
       "img": "https://cdn.langeek.co/photo/19775/original/cheat?type=jpeg",
-      "pronunciation": "ˈtʃit",
+      "pronunciation": "ʧiːt",
       "senses": [
         {
           "definition": "to win or gain an advantage in a game, competition, etc. by breaking rules or acting unfairly",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He cheats during card games by secretly looking at other players' hands."
+            },
+            {
+              "cf": "",
+              "x": "The team is cheating in the game by communicating with each other through secret signals."
+            },
+            {
+              "cf": "",
+              "x": "She has cheated in multiple competitions and has never been caught."
+            },
+            {
+              "cf": "",
+              "x": "Last night, he cheated in the poker game by marking cards."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "go",
+      "id": "f01ac26d-786d-4cfb-9772-6a59b106a4a0",
+      "word": "to go",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ28&hash=a29af22a99b2c4ebaab92563d163caf4ad74d7f9&lang=en&cache-only=0",
       "phonetic_text": "goʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ28&hash=a29af22a99b2c4ebaab92563d163caf4ad74d7f9&lang=en&cache-only=0",
-      "phonetic_am_text": "gow",
+      "phonetic_am_text": "gooo",
       "img": "https://cdn.langeek.co/photo/18613/original/move?type=jpeg",
       "pronunciation": "ɡoʊ",
       "senses": [
@@ -93,6 +129,7 @@
       ]
     },
     {
+      "id": "5f32df88-48f5-4e94-89b7-b38ae530aad1",
       "word": "turn",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHVybg&hash=2da06d1927fb62690c21a37d2c6c3763ed514212&lang=en&cache-only=0",
@@ -100,7 +137,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=dHVybg&hash=2da06d1927fb62690c21a37d2c6c3763ed514212&lang=en&cache-only=0",
       "phonetic_am_text": "tērn",
       "img": "https://cdn.langeek.co/photo/18613/original/move?type=jpeg",
-      "pronunciation": "tɝːn",
+      "pronunciation": "tɝn",
       "senses": [
         {
           "definition": "the time when someone has the opportunity, obligation, or right to do a certain thing that everyone in a group does one after the other",
@@ -130,6 +167,7 @@
       ]
     },
     {
+      "id": "d383c1af-9310-4090-86f5-0858161b5389",
       "word": "play",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGxheQ&hash=892965475b3d8de28659d6efc3daa9fc268f45db&lang=en&cache-only=0",
@@ -163,6 +201,7 @@
       ]
     },
     {
+      "id": "b2ea1198-839a-47c5-8ecb-7b84391f2c2e",
       "word": "chess",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hlc3M&hash=deadab9f6d78fba941a3a9ea85a72545d559280f&lang=en&cache-only=0",
@@ -170,7 +209,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hlc3M&hash=deadab9f6d78fba941a3a9ea85a72545d559280f&lang=en&cache-only=0",
       "phonetic_am_text": "ches",
       "img": "https://cdn.langeek.co/photo/18629/original/?type=jpeg",
-      "pronunciation": "ˈtʃɛs",
+      "pronunciation": "ʧɛs",
       "senses": [
         {
           "definition": "a strategic two-player board game where players move pieces with different abilities across a board with the objective of capturing the opponent's king",
@@ -200,14 +239,15 @@
       ]
     },
     {
+      "id": "31f4fed3-1dae-4b1b-8fd4-d0df946963c0",
       "word": "crossword",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3Jvc3N3b3Jk&hash=0700f8d27d96de09af15793e167121ce1e6432fc&lang=en&cache-only=0",
-      "phonetic_text": "krɔ:swɜrd",
+      "phonetic_text": "krɑ:s.wɜrd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3Jvc3N3b3Jk&hash=0700f8d27d96de09af15793e167121ce1e6432fc&lang=en&cache-only=0",
-      "phonetic_am_text": "kraawswērd",
+      "phonetic_am_text": "kraas.vērd",
       "img": "https://cdn.langeek.co/photo/18619/original/crossword?type=jpeg",
-      "pronunciation": "ˈkɹɔˌswɝd",
+      "pronunciation": "ˈkrɑːsˌwɝd",
       "senses": [
         {
           "definition": "a puzzle game in which one writes the answers to the clues in numbered boxes",
@@ -221,14 +261,15 @@
       ]
     },
     {
+      "id": "e074fd8c-b958-4972-bb8c-1c0145e90bdd",
       "word": "dollhouse",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZG9sbGhvdXNl&hash=5171dee3da3f11dac18782daadcf9f3a697df720&lang=en&cache-only=0",
-      "phonetic_text": "dɑ:lhaʊs",
+      "phonetic_text": "dɑ:l.haʊs",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG9sbGhvdXNl&hash=5171dee3da3f11dac18782daadcf9f3a697df720&lang=en&cache-only=0",
-      "phonetic_am_text": "daalhaws",
+      "phonetic_am_text": "daal.haoos",
       "img": "https://cdn.langeek.co/photo/18579/original/dollhouse?type=jpeg",
-      "pronunciation": "ˈdɑɫˌhaʊs",
+      "pronunciation": "ˈdɑlˌhaʊs",
       "senses": [
         {
           "definition": "a small toy house often containing tiny furniture and small dolls as well",
@@ -237,13 +278,14 @@
       ]
     },
     {
+      "id": "7275aabc-2745-42d5-8c06-31210fadadfb",
       "word": "winning",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=d2lubmluZw&hash=67a0c7e43a197dcfb284601559c16f44b34823d1&lang=en&cache-only=0",
-      "phonetic_text": "wɪnɪng",
+      "phonetic_text": "wɪ.nɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=d2lubmluZw&hash=67a0c7e43a197dcfb284601559c16f44b34823d1&lang=en&cache-only=0",
-      "phonetic_am_text": "wining",
-      "img": "https://cdn.langeek.co/photo/39211/original/win?type=jpeg",
+      "phonetic_am_text": "vi.ning",
+      "img": "https://cdn.langeek.co/photo/61638/original/win?type=jpeg",
       "pronunciation": "ˈwɪnɪŋ",
       "senses": [
         {
@@ -253,14 +295,15 @@
       ]
     },
     {
+      "id": "82f47a5a-2b6e-4bd2-b145-9d1ccc0eb01f",
       "word": "puzzle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHV6emxl&hash=6caeae61cd255a82fef54f8296ce900cb16f28a2&lang=en&cache-only=0",
-      "phonetic_text": "pʌzəl",
+      "phonetic_text": "pə.zəl",
       "phonetic_am": "https://tts.langeek.co/read?text=cHV6emxl&hash=6caeae61cd255a82fef54f8296ce900cb16f28a2&lang=en&cache-only=0",
-      "phonetic_am_text": "pazēl",
+      "phonetic_am_text": "pē.zēl",
       "img": "https://cdn.langeek.co/photo/51694/original/puzzle?type=jpeg",
-      "pronunciation": "ˈpəzəɫ",
+      "pronunciation": "ˈpʌzəl",
       "senses": [
         {
           "definition": "a game that needs a lot of thinking in order to be finished or done",
@@ -278,6 +321,7 @@
       ]
     },
     {
+      "id": "8d385af4-208a-497d-bfdf-0d338e9e24ba",
       "word": "trick",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJpY2s&hash=a715b0cb8958c1d07dc656f58fcf3248152d2b60&lang=en&cache-only=0",
@@ -285,7 +329,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=dHJpY2s&hash=a715b0cb8958c1d07dc656f58fcf3248152d2b60&lang=en&cache-only=0",
       "phonetic_am_text": "trik",
       "img": "https://cdn.langeek.co/photo/19438/original/trick?type=jpeg",
-      "pronunciation": "ˈtɹɪk",
+      "pronunciation": "trɪk",
       "senses": [
         {
           "definition": "an act performed to amuse people who might consider it magical",
@@ -294,14 +338,15 @@
       ]
     },
     {
+      "id": "806e54b3-1dd2-4f2d-a25d-9618cb07bdb6",
       "word": "move",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW92ZQ&hash=6ae80e3cac6d4d9849ba5b0bf3693a458a61be71&lang=en&cache-only=0",
-      "phonetic_text": "mu:v",
+      "phonetic_text": "muv",
       "phonetic_am": "https://tts.langeek.co/read?text=bW92ZQ&hash=6ae80e3cac6d4d9849ba5b0bf3693a458a61be71&lang=en&cache-only=0",
       "phonetic_am_text": "moov",
       "img": "https://cdn.langeek.co/photo/18613/original/move?type=jpeg",
-      "pronunciation": "ˈmuv",
+      "pronunciation": "muv",
       "senses": [
         {
           "definition": "a change made by a player in the position of a piece in a board game",
@@ -310,14 +355,15 @@
       ]
     },
     {
-      "word": "deal",
+      "id": "458c4f9c-7fa5-4776-889a-934aa12ab7f0",
+      "word": "to deal",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVhbA&hash=9966501df58ee682e56abedd0f60b66f086b3676&lang=en&cache-only=0",
       "phonetic_text": "di:l",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVhbA&hash=9966501df58ee682e56abedd0f60b66f086b3676&lang=en&cache-only=0",
-      "phonetic_am_text": "deel",
+      "phonetic_am_text": "dil",
       "img": "https://cdn.langeek.co/photo/31831/original/?type=jpeg",
-      "pronunciation": "ˈdiɫ",
+      "pronunciation": "diːl",
       "senses": [
         {
           "definition": "to give out playing cards to all the players in a game",
@@ -347,14 +393,15 @@
       ]
     },
     {
+      "id": "2ddd431a-1b6e-4659-971a-98636a4a398f",
       "word": "computer game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29tcHV0ZXIgZ2FtZQ&hash=1ca247227659f5f67498a2fade32a885ceaa97b2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kəm.pju:.tər geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tcHV0ZXIgZ2FtZQ&hash=1ca247227659f5f67498a2fade32a885ceaa97b2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kēm.pyoo.tēr geim",
       "img": "https://cdn.langeek.co/photo/35780/original/?type=jpeg",
-      "pronunciation": "kəmpjˈuːɾɚ ɡˈeɪm",
+      "pronunciation": "kəmˈpjuːtɚ ˌɡeɪm",
       "senses": [
         {
           "definition": "a game designed to be played on a computer",
@@ -384,14 +431,15 @@
       ]
     },
     {
+      "id": "45a87561-c01c-4b2f-bfa5-bc8ea2945974",
       "word": "rule",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cnVsZQ&hash=341256b83dcc6186031278bdffcd025adced5313&lang=en&cache-only=0",
-      "phonetic_text": "ru:l",
+      "phonetic_text": "rul",
       "phonetic_am": "https://tts.langeek.co/read?text=cnVsZQ&hash=341256b83dcc6186031278bdffcd025adced5313&lang=en&cache-only=0",
       "phonetic_am_text": "rool",
       "img": "",
-      "pronunciation": "ˈɹuɫ",
+      "pronunciation": "ruːl",
       "senses": [
         {
           "definition": "an instruction that says what is or is not allowed in a given situation or while playing a game",
@@ -421,14 +469,15 @@
       ]
     },
     {
+      "id": "af5ffebe-b91f-4103-bfbe-62039129b313",
       "word": "bowling",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym93bGluZw&hash=0df6993e1e78f619b9c8ab44ce2f99e91ad0b949&lang=en&cache-only=0",
-      "phonetic_text": "boʊlɪng",
+      "phonetic_text": "boʊ.lɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym93bGluZw&hash=0df6993e1e78f619b9c8ab44ce2f99e91ad0b949&lang=en&cache-only=0",
-      "phonetic_am_text": "bowling",
+      "phonetic_am_text": "booo.ling",
       "img": "https://cdn.langeek.co/photo/51078/original/bowling?type=jpeg",
-      "pronunciation": "ˈboʊɫɪŋ",
+      "pronunciation": "ˈboʊlɪŋ",
       "senses": [
         {
           "definition": "a sport or game in which a player rolls a ball down a lane with the aim of knocking over as many pins as possible at the other end of the lane",
@@ -446,14 +495,15 @@
       ]
     },
     {
+      "id": "4656e2b3-5c5f-43e4-990c-425e7d85388e",
       "word": "guessing game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3Vlc3NpbmcgZ2FtZQ&hash=2bbd950e32deecf739695a1c576310365f5723a6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gɛ.sɪng geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3Vlc3NpbmcgZ2FtZQ&hash=2bbd950e32deecf739695a1c576310365f5723a6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ge.sing geim",
       "img": "",
-      "pronunciation": "ɡˈɛsɪŋ ɡˈeɪm",
+      "pronunciation": "ˈɡɛsɪŋ ˌɡeɪm",
       "senses": [
         {
           "definition": "a game in which a player is required to make a number of guesses in order to find the right answer",
@@ -462,10 +512,11 @@
       ]
     },
     {
+      "id": "c875ccc8-d4fa-476b-a0fb-e412fa6ffa68",
       "word": "Ping-Pong",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=UGluZy1Qb25n&hash=1285843d629ae1687972941d7adddd2342ddc2e0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=UGluZy1Qb25n&hash=1285843d629ae1687972941d7adddd2342ddc2e0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/51073/original/table-tennis?type=jpeg",
@@ -478,14 +529,15 @@
       ]
     },
     {
+      "id": "90127c55-8436-430f-b0f7-683e5fbf8b1a",
       "word": "balloon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFsbG9vbg&hash=719ce710c9b8b6c8111ee43b4b8a6b7bf9e81d80&lang=en&cache-only=0",
-      "phonetic_text": "bəlu:n",
+      "phonetic_text": "bə.lu:n",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFsbG9vbg&hash=719ce710c9b8b6c8111ee43b4b8a6b7bf9e81d80&lang=en&cache-only=0",
-      "phonetic_am_text": "bēloon",
+      "phonetic_am_text": "bē.loon",
       "img": "https://cdn.langeek.co/photo/18627/original/?type=jpeg",
-      "pronunciation": "bəˈɫun",
+      "pronunciation": "bəˈluːn",
       "senses": [
         {
           "definition": "a thin and small rubber bag with a hole into which air is blown and is used as a toy or decoration",
@@ -515,6 +567,7 @@
       ]
     },
     {
+      "id": "b8d7cab0-1cd9-44a1-a88e-0e858d969714",
       "word": "fun",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZnVu&hash=463c2bb17cc0bd02fb9f650fbd4e0fa0f05ee006&lang=en&cache-only=0",
@@ -522,7 +575,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=ZnVu&hash=463c2bb17cc0bd02fb9f650fbd4e0fa0f05ee006&lang=en&cache-only=0",
       "phonetic_am_text": "fan",
       "img": "https://cdn.langeek.co/photo/52115/original/amusement?type=jpeg",
-      "pronunciation": "ˈfən",
+      "pronunciation": "fʌn",
       "senses": [
         {
           "definition": "providing entertainment or amusement",
@@ -552,28 +605,55 @@
       ]
     },
     {
+      "id": "83a06b27-b69d-4f42-8283-db71e68a39e6",
       "word": "amusing",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YW11c2luZw&hash=1ccf59e16df74a9da0df71d4f844cd96768c3b3a&lang=en&cache-only=0",
-      "phonetic_text": "əmju:zɪng",
+      "phonetic_text": "ə.mju.zɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=YW11c2luZw&hash=1ccf59e16df74a9da0df71d4f844cd96768c3b3a&lang=en&cache-only=0",
-      "phonetic_am_text": "ēmyoozing",
+      "phonetic_am_text": "ē.myoo.zing",
       "img": "https://cdn.langeek.co/photo/52115/original/amusement?type=jpeg",
-      "pronunciation": "əmˈjuzɪŋ",
+      "pronunciation": "əˈmjuːzɪŋ",
       "senses": [
         {
           "definition": "providing enjoyment or laughter",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The amusing antics of the clown made the children laugh uncontrollably."
+            },
+            {
+              "cf": "",
+              "x": "She found the amusing story so entertaining that she couldn't stop laughing."
+            },
+            {
+              "cf": "",
+              "x": "Playing board games with friends is always an amusing way to spend an evening."
+            },
+            {
+              "cf": "",
+              "x": "The amusing movie kept the audience engaged with its clever jokes and lighthearted humor."
+            },
+            {
+              "cf": "",
+              "x": "Reading funny comics is an amusing hobby that helps relieve stress."
+            },
+            {
+              "cf": "",
+              "x": "His amusing antics during the party kept everyone entertained."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0175e6c4-f1fb-40c9-8547-56a469428aec",
       "word": "playtime",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGxheXRpbWU&hash=ff3dd318731d010f14348dbc722900f8fe52c548&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pleɪ.taɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=cGxheXRpbWU&hash=ff3dd318731d010f14348dbc722900f8fe52c548&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "plei.taim",
       "img": "",
       "pronunciation": "plˈeɪtaɪm",
       "senses": [
@@ -584,6 +664,7 @@
       ]
     },
     {
+      "id": "9c4435e0-8e80-4732-8a3a-2bbd987853a4",
       "word": "kite",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2l0ZQ&hash=926482001f70d99512fc775b517eab66b460ed6d&lang=en&cache-only=0",
@@ -591,7 +672,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=a2l0ZQ&hash=926482001f70d99512fc775b517eab66b460ed6d&lang=en&cache-only=0",
       "phonetic_am_text": "kait",
       "img": "https://cdn.langeek.co/photo/18615/original/kite?type=jpeg",
-      "pronunciation": "ˈkaɪt",
+      "pronunciation": "kaɪt",
       "senses": [
         {
           "definition": "a diamond shape frame covered with a paper or cloth with a string attached to it that can fly in the wind",
@@ -600,44 +681,73 @@
       ]
     },
     {
+      "id": "7d52f50c-3dc1-4ef5-b072-31f326d82cfe",
       "word": "darts",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGFydHM&hash=5e2d538e01e18375fc50f17a44d14e07c30184fd&lang=en&cache-only=0",
-      "phonetic_text": "dɑ:rts",
+      "phonetic_text": "dɑrts",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGFydHM&hash=5e2d538e01e18375fc50f17a44d14e07c30184fd&lang=en&cache-only=0",
       "phonetic_am_text": "daarts",
       "img": "https://cdn.langeek.co/photo/18617/original/darts?type=jpeg",
-      "pronunciation": "ˈdɑɹts",
+      "pronunciation": "dɑrts",
       "senses": [
         {
           "definition": "a game in which small pointy objects are thrown at a board to achieve points",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "We played darts at the pub last night and I won three games in a row."
+            },
+            {
+              "cf": "",
+              "x": "I’ve been practicing darts every day to improve my aim."
+            },
+            {
+              "cf": "",
+              "x": "The kids had fun playing darts at the family gathering, though they were using plastic darts."
+            },
+            {
+              "cf": "",
+              "x": "She spent the afternoon watching darts on TV, cheering for her favorite player."
+            },
+            {
+              "cf": "",
+              "x": "They set up a darts competition for the office party, and everyone participated."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "17e3ab6e-231f-44f0-bc4a-306e6d73d717",
       "word": "card",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FyZA&hash=46e72e3b98defa53190cc5a83926db709a93de6e&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:rd",
+      "phonetic_text": "kɑrd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FyZA&hash=46e72e3b98defa53190cc5a83926db709a93de6e&lang=en&cache-only=0",
       "phonetic_am_text": "kaard",
       "img": "https://cdn.langeek.co/photo/29224/original/?type=jpeg",
-      "pronunciation": "ˈkɑɹd",
+      "pronunciation": "kɑrd",
       "senses": [
         {
           "definition": "any of the 52 stiff rectangular pieces of paper that are each characterized by their signs and numbers or pictures on one side, used in playing different card games",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The rules state that if you draw a matching card, you win the turn."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "94255b5a-2857-40ea-b454-72f83a8f62da",
       "word": "hide-and-seek",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGlkZS1hbmQtc2Vlaw&hash=a52702c1f1a2ff8f2f99049938bf5a849c063d51&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "haɪd-ænd-sik",
       "phonetic_am": "https://tts.langeek.co/read?text=aGlkZS1hbmQtc2Vlaw&hash=a52702c1f1a2ff8f2f99049938bf5a849c063d51&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "haid-ānd-sik",
       "img": "https://cdn.langeek.co/photo/51731/original/hide-and-go-seek?type=jpeg",
       "pronunciation": "hˈaɪdændsˈiːk",
       "senses": [
@@ -648,12 +758,13 @@
       ]
     },
     {
+      "id": "c175a554-4d1b-4716-b000-3836ca60b2d0",
       "word": "checkmate",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hlY2ttYXRl&hash=600b51b89c8773c8903b6693c6b850a2c7133f0a&lang=en&cache-only=0",
-      "phonetic_text": "ʧɛkmeɪt",
+      "phonetic_text": "ʧɛk.meɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hlY2ttYXRl&hash=600b51b89c8773c8903b6693c6b850a2c7133f0a&lang=en&cache-only=0",
-      "phonetic_am_text": "chekmeit",
+      "phonetic_am_text": "chek.meit",
       "img": "https://cdn.langeek.co/photo/18623/original/checkmate?type=jpeg",
       "pronunciation": "ˈtʃɛkˌmeɪt",
       "senses": [
@@ -664,18 +775,36 @@
       ]
     },
     {
+      "id": "e1621053-b28b-4e08-8522-55c79e346be2",
       "word": "video game console",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmlkZW8gZ2FtZSBjb25zb2xl&hash=8f6fb9953a4080a13a37497d182fd175d0fd7bf8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "vɪ.dioʊ geɪm kɑn.soʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=dmlkZW8gZ2FtZSBjb25zb2xl&hash=8f6fb9953a4080a13a37497d182fd175d0fd7bf8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vi.diooo geim kaan.soool",
       "img": "https://cdn.langeek.co/photo/49469/original/console?type=jpeg",
       "pronunciation": "vˈɪdɪoʊ ɡˈeɪm kˈɑːnsoʊl",
       "senses": [
         {
           "definition": "an electronic device on which video games can be played",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The new video game console has amazing graphics and features."
+            },
+            {
+              "cf": "",
+              "x": "Popular video game consoles include PlayStation, Xbox, and Nintendo Switch."
+            },
+            {
+              "cf": "",
+              "x": "The video game console came with two controllers and a free game."
+            },
+            {
+              "cf": "",
+              "x": "Some video game consoles also double as streaming devices for movies."
+            }
+          ]
         }
       ]
     }

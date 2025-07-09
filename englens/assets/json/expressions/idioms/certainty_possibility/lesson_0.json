@@ -1,13 +1,15 @@
 {
+  "id": "51e8bc52-affc-4f4b-92d9-6695475b168a",
   "topic": "certainty_possibility",
   "title": "Certainty",
   "lesson": "lesson_0",
   "word_list": [
     {
-      "word": "[bet] {one's} (life|boots|bottom dollar)",
+      "id": "4cd12b33-1f50-488a-b272-a735bbe83952",
+      "word": "to [bet] {one's} (life|boots|bottom dollar)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmV0IG9uZSdzIGxpZmUgZG9sbGFy&hash=ecaca43eec91000e45dd795ef077001e104f74c0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmV0IG9uZSdzIGxpZmUgZG9sbGFy&hash=ecaca43eec91000e45dd795ef077001e104f74c0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46670/original/?type=jpeg",
@@ -49,10 +51,11 @@
       ]
     },
     {
-      "word": "{not} [count] {one's} chickens",
+      "id": "9fc53bd4-ac7e-4c00-89b5-458b66755b94",
+      "word": "to {not} [count] {one's} chickens",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbm90IGNvdW50IG9uZSdzIGNoaWNrZW5z&hash=d0b40899c91c4dc37b7904627c07fd7692e9c294&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbm90IGNvdW50IG9uZSdzIGNoaWNrZW5z&hash=d0b40899c91c4dc37b7904627c07fd7692e9c294&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46672/original/?type=jpeg",
@@ -74,13 +77,14 @@
       ]
     },
     {
+      "id": "b2a7d5e6-458d-4d49-9772-ff90730d7647",
       "word": "beyond a shadow of a doubt",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YmV5b25kIGEgc2hhZG93IG9mIGEgZG91YnQ&hash=14e58783d71b4bad985d2d809b85018c43a3cb76&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "biɔnd ə ʃæ.doʊ ʌv ə daʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=YmV5b25kIGEgc2hhZG93IG9mIGEgZG91YnQ&hash=14e58783d71b4bad985d2d809b85018c43a3cb76&lang=en&cache-only=0",
-      "phonetic_am_text": null,
-      "img": "",
+      "phonetic_am_text": "biawnd ē shā.dooo av ē daoot",
+      "img": "https://cdn.langeek.co/photo/46734/original/?type=jpeg",
       "pronunciation": "bɪjˌɑːnd ɐ ʃˈædoʊ əvə dˈaʊt",
       "senses": [
         {
@@ -111,10 +115,11 @@
       ]
     },
     {
+      "id": "2521f5dc-419b-4585-977f-cb45a56783d1",
       "word": "dollars to doughnuts",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZG9sbGFycyB0byBkb3VnaG51dHM&hash=8b4ff85ca0e00f1ec5166fb2f93f7bf8dcd83422&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG9sbGFycyB0byBkb3VnaG51dHM&hash=8b4ff85ca0e00f1ec5166fb2f93f7bf8dcd83422&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46736/original/?type=jpeg",
@@ -122,73 +127,33 @@
       "senses": [
         {
           "definition": "used to show one's utmost certainty about something",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I'd bet dollars to doughnuts that the experienced team will win the tournament."
-            },
-            {
-              "cf": "",
-              "x": "Given the state of the housing market, I'd bet dollars to doughnuts that property prices will continue to rise."
-            },
-            {
-              "cf": "",
-              "x": "He was so sure of his guess that he'd bet dollars to doughnuts that the next song on the radio would be his favorite."
-            },
-            {
-              "cf": "",
-              "x": "After examining the evidence, the detective would bet dollars to doughnuts that the suspect was at the scene of the crime."
-            },
-            {
-              "cf": "",
-              "x": "With her culinary skills, she'd bet dollars to doughnuts that her pie will be the tastiest at the bake-off."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "d43100df-624b-4ccc-acb6-80ba7f3a518a",
       "word": "hands down",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aGFuZHMgZG93bg&hash=921dc814474556abf3f91502c68f656a4a4c0182&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hændz daʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFuZHMgZG93bg&hash=921dc814474556abf3f91502c68f656a4a4c0182&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hāndz daoon",
       "img": "https://cdn.langeek.co/photo/46740/original/?type=jpeg",
       "pronunciation": "hˈændz dˈaʊn",
       "senses": [
         {
           "definition": "in a way that is free of all ambiguity or uncertainty",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Leslie is hands down the nicest person"
-            },
-            {
-              "cf": "",
-              "x": "She won the chess tournament hands down; her strategic skills are unmatched."
-            },
-            {
-              "cf": "",
-              "x": "The team played exceptionally well and won the game hands down."
-            },
-            {
-              "cf": "",
-              "x": "In the debate, he defeated his opponent hands down with his compelling arguments."
-            },
-            {
-              "cf": "",
-              "x": "Her artwork was the best in the exhibition, winning the top prize hands down."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[go] without saying",
+      "id": "4b1dde22-ad09-45ea-9a60-0dca364e2d64",
+      "word": "to [go] without saying",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ28gd2l0aG91dCBzYXlpbmc&hash=a436e5cfb266b2702bbbf6d60245943957dafc0a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ28gd2l0aG91dCBzYXlpbmc&hash=a436e5cfb266b2702bbbf6d60245943957dafc0a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46738/original/?type=jpeg",
@@ -218,10 +183,11 @@
       ]
     },
     {
+      "id": "752b4e2f-3385-41df-ac04-59834a387bab",
       "word": "mark my [word]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bWFyayBteSB3b3Jk&hash=94074e83255bf170d86f24626116acada318ee4e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFyayBteSB3b3Jk&hash=94074e83255bf170d86f24626116acada318ee4e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41468/original/?type=jpeg",
@@ -229,32 +195,16 @@
       "senses": [
         {
           "definition": "used when one is certain that something will happen at some point in the future",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I've never seen a more talented athlete; mark my word, she'll be an Olympic champion someday."
-            },
-            {
-              "cf": "",
-              "x": "Mark my words, the weather forecast is calling for a severe storm later today."
-            },
-            {
-              "cf": "",
-              "x": "Despite the odds, I believe we'll succeed in this endeavor; mark my word, we'll prove the doubters wrong."
-            },
-            {
-              "cf": "",
-              "x": "Mark my word, this novel will become a bestseller; the story is captivating and unique."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[seal] {one's} fate",
+      "id": "a3bd8a01-603b-46bf-a1c7-01dd366a713a",
+      "word": "to [seal] {one's} fate",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2VhbCBvbmUncyBmYXRl&hash=d9ffaab8a34daa2d2ba5acdb58c8447ec6634e44&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2VhbCBvbmUncyBmYXRl&hash=d9ffaab8a34daa2d2ba5acdb58c8447ec6634e44&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46742/original/?type=jpeg",
@@ -262,26 +212,18 @@
       "senses": [
         {
           "definition": "to do something that ensures that someone or something fails or something unpleasant happens to them",
-          "examples": [
-            {
-              "cf": "",
-              "x": "His refusal to wear a helmet while riding his motorcycle may seal his fate in the event of an accident."
-            },
-            {
-              "cf": "",
-              "x": "Neglecting your health and well-being can seal your fate, potentially leading to long-term health issues."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "46cca4af-f653-4e28-ac6d-1d60aaac9933",
       "word": "tried and true",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dHJpZWQgYW5kIHRydWU&hash=0a6e447607cdaaf843c1c3f2831ad91e3bfb2d1f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "traɪd ænd tru:",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJpZWQgYW5kIHRydWU&hash=0a6e447607cdaaf843c1c3f2831ad91e3bfb2d1f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "traid ānd troo",
       "img": "https://cdn.langeek.co/photo/46744/original/?type=jpeg",
       "pronunciation": "tɹˈaɪd ænd tɹˈuː",
       "senses": [
@@ -305,12 +247,13 @@
       ]
     },
     {
+      "id": "8814518a-7220-489e-8253-09f6d5e48f42",
       "word": "acid test",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWNpZCB0ZXN0&hash=9cef9883fca84d83b4b8f763d6ef9c7bf728e556&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æ.səd tɛst",
       "phonetic_am": "https://tts.langeek.co/read?text=YWNpZCB0ZXN0&hash=9cef9883fca84d83b4b8f763d6ef9c7bf728e556&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ā.sēd test",
       "img": "https://cdn.langeek.co/photo/46756/original/?type=jpeg",
       "pronunciation": "ˈæsɪd tˈɛst",
       "senses": [
@@ -342,47 +285,28 @@
       ]
     },
     {
+      "id": "cb56709a-102f-4445-99c7-1a445fca9b75",
       "word": "a backward glance",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YSBiYWNrd2FyZCBnbGFuY2U&hash=3ce32b1e256271354e2e24a6af47d5f8999677e3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ə bæk.wɔrd glæns",
       "phonetic_am": "https://tts.langeek.co/read?text=YSBiYWNrd2FyZCBnbGFuY2U&hash=3ce32b1e256271354e2e24a6af47d5f8999677e3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ē bāk.vawrd glāns",
       "img": "https://cdn.langeek.co/photo/42624/original/?type=jpeg",
       "pronunciation": "ɐ bˈækwɚd ɡlˈæns",
       "senses": [
         {
           "definition": "a feeling of remorse, and reservation that one gets upon facing a challenge or finding oneself in an unexpected situation",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After graduating from college, she paused to take a backward glance at her academic journey and the challenges she had overcome."
-            },
-            {
-              "cf": "",
-              "x": "As she walked away from her childhood home, she couldn't help but take a backward glance, reminiscing about the memories made there."
-            },
-            {
-              "cf": "",
-              "x": "The old photo album offered a chance for a backward glance into his family's history and traditions."
-            },
-            {
-              "cf": "",
-              "x": "On his last day at the company, he took a backward glance at the years of hard work and dedication he had invested."
-            },
-            {
-              "cf": "",
-              "x": "The anniversary of their first meeting prompted a backward glance at the milestones they had achieved in their relationship."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[feel] {sth} in {one's} bones",
+      "id": "22a05091-09fd-4e37-b40d-6b2cfb1b2cf1",
+      "word": "to [feel] {sth} in {one's} bones",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmVlbCBzb21ldGhpbmcgaW4gb25lJ3MgYm9uZXM&hash=90413583c4eaeb236e96cfc155bd4075124fb6ab&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmVlbCBzb21ldGhpbmcgaW4gb25lJ3MgYm9uZXM&hash=90413583c4eaeb236e96cfc155bd4075124fb6ab&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46670/original/?type=jpeg",
@@ -395,12 +319,13 @@
       ]
     },
     {
+      "id": "4a84bab0-0ead-4201-b015-3e486d613433",
       "word": "foregone conclusion",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9yZWdvbmUgY29uY2x1c2lvbg&hash=57e177254ca250bd2b96865b52b843c2d4e0e09e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɔr.gɔn kənk.lu.ʒən",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9yZWdvbmUgY29uY2x1c2lvbg&hash=57e177254ca250bd2b96865b52b843c2d4e0e09e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fawr.gawn kēnk.loo.zhēn",
       "img": "https://cdn.langeek.co/photo/46762/original/?type=jpeg",
       "pronunciation": "foːɹɡˈɑːn kənklˈuːʒən",
       "senses": [
@@ -432,84 +357,45 @@
       ]
     },
     {
+      "id": "6de00bec-9b50-48c8-bdce-ebeef1ed9518",
       "word": "in no uncertain terms",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aW4gbm8gdW5jZXJ0YWluIHRlcm1z&hash=a2804237dcdd8ba4a972e521c88c8a8513c6a6f3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn noʊ ən.sɜr.tən tɜrmz",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gbm8gdW5jZXJ0YWluIHRlcm1z&hash=a2804237dcdd8ba4a972e521c88c8a8513c6a6f3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in nooo ēn.sēr.tēn tērmz",
       "img": "https://cdn.langeek.co/photo/46764/original/?type=jpeg",
       "pronunciation": "ɪn nˈoʊ ʌnsˈɜːtən tˈɜːmz",
       "senses": [
         {
           "definition": "in a way that is most clear or direct",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She was told in no uncertain terms that the magazine had no interest in her short stories."
-            },
-            {
-              "cf": "",
-              "x": "She told him in no uncertain terms that his behavior was unacceptable and needed to change immediately."
-            },
-            {
-              "cf": "",
-              "x": "The boss informed the team in no uncertain terms that the project's success was crucial and required their full dedication."
-            },
-            {
-              "cf": "",
-              "x": "When discussing their expectations for the new employee, the manager outlined the job requirements in no uncertain terms."
-            },
-            {
-              "cf": "",
-              "x": "The warning was issued in no uncertain terms, alerting residents to evacuate due to the approaching hurricane."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "6bb4a6ca-2b85-4f3b-bfc1-cd987c66d7a1",
       "word": "a one-way ticket",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YSBvbmUtd2F5IHRpY2tldA&hash=cefdca131eabbc1d6262a5be6d01fbf7918a8af6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ə n-weɪ tɪ.kɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=YSBvbmUtd2F5IHRpY2tldA&hash=cefdca131eabbc1d6262a5be6d01fbf7918a8af6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ē n-vei ti.kit",
       "img": "https://cdn.langeek.co/photo/46746/original/?type=jpeg",
       "pronunciation": "ɐ wˈʌnwˈeɪ tˈɪkɪt",
       "senses": [
         {
           "definition": "a situation in which any decision made cannot be undone",
-          "examples": [
-            {
-              "cf": "",
-              "x": "When he left his hometown to pursue his artistic career, it felt like a one-way ticket to a new life in the city."
-            },
-            {
-              "cf": "",
-              "x": "Their choice to invest all their savings in the startup was a one-way ticket to entrepreneurial success or financial loss."
-            },
-            {
-              "cf": "",
-              "x": "Dropping out of college and pursuing a career in music was a one-way ticket to following his passion."
-            },
-            {
-              "cf": "",
-              "x": "Deciding to have a child is often seen as a one-way ticket to parenthood, with no option to return to a childless life."
-            },
-            {
-              "cf": "",
-              "x": "She viewed her decision to accept the job offer in another country as a one-way ticket to an exciting new adventure and cultural experience."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[be] (only|just|) a matter of time",
+      "id": "90dad30b-06f0-4d99-8a9b-dc760dcc0dcd",
+      "word": "to [be] (only|just|) a matter of time",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgb25seSBhIG1hdHRlciBvZiB0aW1l&hash=51398caae3debd0bef44c7900b311ddf0a80c83e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgb25seSBhIG1hdHRlciBvZiB0aW1l&hash=51398caae3debd0bef44c7900b311ddf0a80c83e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46748/original/?type=jpeg",
@@ -543,10 +429,11 @@
       ]
     },
     {
+      "id": "c3f4173e-1e48-4fd0-a07c-6cd0bc8037b2",
       "word": "{sb} can take {sth} to the bank",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=c29tZWJvZHkgY2FuIHRha2Ugc29tZXRoaW5nIHRvIHRoZSBiYW5r&hash=a36ec2ad5ed429df707240d226bee0616626c3ee&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=c29tZWJvZHkgY2FuIHRha2Ugc29tZXRoaW5nIHRvIHRoZSBiYW5r&hash=a36ec2ad5ed429df707240d226bee0616626c3ee&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46750/original/?type=jpeg",
@@ -554,28 +441,7 @@
       "senses": [
         {
           "definition": "used to imply that something is reliable, certain, and can be trusted completely",
-          "examples": [
-            {
-              "cf": "",
-              "x": "When he gives his word, you can take it to the bank; he always keeps his promises."
-            },
-            {
-              "cf": "",
-              "x": "Her track record for accuracy in predicting market trends is impeccable, so you can take her analysis to the bank."
-            },
-            {
-              "cf": "",
-              "x": "If she says the project will be completed on time, you can take it to the bank because she's known for delivering results."
-            },
-            {
-              "cf": "",
-              "x": "The company's commitment to quality and customer satisfaction is unwavering; you can take it to the bank that their products are top-notch."
-            },
-            {
-              "cf": "",
-              "x": "When the seasoned journalist reports a story, you can take it to the bank that the facts are well-researched and accurate."
-            }
-          ]
+          "examples": []
         }
       ]
     }

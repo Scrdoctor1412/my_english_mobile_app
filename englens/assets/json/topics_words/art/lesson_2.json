@@ -1,15 +1,17 @@
 {
+  "id": "c8646c96-8393-4b97-b56c-ae50ea0e4450",
   "topic": "art",
   "title": "Art Equipment",
   "lesson": "lesson_2",
   "word_list": [
     {
+      "id": "58606112-bb47-4f08-890b-9d3f4270c8fe",
       "word": "ballpoint pen",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFsbHBvaW50IHBlbg&hash=be8d0a45e005151dfef72b36c486133d002061d1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɔ:l.pɔɪnt pen",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFsbHBvaW50IHBlbg&hash=be8d0a45e005151dfef72b36c486133d002061d1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bawl.pawint pen",
       "img": "https://cdn.langeek.co/photo/24005/original/pen?type=jpeg",
       "pronunciation": "bˈɔːlpɔɪnt pˈɛn",
       "senses": [
@@ -20,28 +22,51 @@
       ]
     },
     {
+      "id": "690e7750-3e63-4d79-9bbd-c03819e248b9",
       "word": "canvas",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FudmFz&hash=21a6e2ede7d2a69b976fda590c118bb9002da0ff&lang=en&cache-only=0",
-      "phonetic_text": "kænvəs",
+      "phonetic_text": "kæn.væs",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FudmFz&hash=21a6e2ede7d2a69b976fda590c118bb9002da0ff&lang=en&cache-only=0",
-      "phonetic_am_text": "kānvēs",
+      "phonetic_am_text": "kān.vās",
       "img": "https://cdn.langeek.co/photo/47238/original/?type=jpeg",
       "pronunciation": "ˈkænvəs",
       "senses": [
         {
           "definition": "a piece of cloth that artists paint on, especially with oil paints",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The artist stretched a large piece of canvas across a wooden frame, preparing it for an ambitious oil painting that would capture the beauty of the sunset."
+            },
+            {
+              "cf": "",
+              "x": "During the art class, students learned various techniques for painting on canvas, experimenting with colors and brush strokes to create their own masterpieces."
+            },
+            {
+              "cf": "",
+              "x": "After weeks of hard work, the painter finally completed her canvas, a vibrant depiction of a bustling city scene that conveyed the energy of urban life."
+            },
+            {
+              "cf": "",
+              "x": "The gallery featured an exhibition of abstract art, showcasing several large canvases that challenged viewers to interpret their bold shapes and colors."
+            },
+            {
+              "cf": "",
+              "x": "As he stood in front of the blank canvas, the artist felt a rush of inspiration, eager to translate his emotions onto the fabric with each brushstroke."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "01269a3d-8ed3-4e39-836e-a25de6cec40f",
       "word": "card stock",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FyZCBzdG9jaw&hash=bf0a2b16e95a9d04aff7158588453a7c429b5f97&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑrd stɑk",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FyZCBzdG9jaw&hash=bf0a2b16e95a9d04aff7158588453a7c429b5f97&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaard staak",
       "img": "https://cdn.langeek.co/photo/46990/original/?type=jpeg",
       "pronunciation": "kˈɑːɹd stˈɑːk",
       "senses": [
@@ -52,10 +77,11 @@
       ]
     },
     {
+      "id": "b5378afe-c313-458c-8dee-0c0c5537c549",
       "word": "Steinbach",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=U3RlaW5iYWNo&hash=6f551c9878712e893f7183957d3a53b60488f47e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=U3RlaW5iYWNo&hash=6f551c9878712e893f7183957d3a53b60488f47e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/47120/original/?type=jpeg",
@@ -68,10 +94,11 @@
       ]
     },
     {
+      "id": "5ec17325-693e-4550-984f-97f2e4642367",
       "word": "claude glass",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xhdWRlIGdsYXNz&hash=9a82e4f6471326046311304dda28a899f360c255&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xhdWRlIGdsYXNz&hash=9a82e4f6471326046311304dda28a899f360c255&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/47170/original/?type=jpeg",
@@ -84,12 +111,13 @@
       ]
     },
     {
+      "id": "af292eec-1a86-4126-958a-a15a3ec65bd9",
       "word": "crepe paper",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3JlcGUgcGFwZXI&hash=d7a93a834cf36fbbf6b81a840f863ef29e916735&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "krɛ:p peɪ.pɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3JlcGUgcGFwZXI&hash=d7a93a834cf36fbbf6b81a840f863ef29e916735&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "krep pei.pēr",
       "img": "https://cdn.langeek.co/photo/47106/original/?type=jpeg",
       "pronunciation": "kɹˈɛːp pˈeɪpɚ",
       "senses": [
@@ -100,12 +128,13 @@
       ]
     },
     {
+      "id": "4c79294d-4883-495c-8710-6960721a2256",
       "word": "dipper",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlwcGVy&hash=c5b50c4740f5e766bc21f389f72e82cbf206c38e&lang=en&cache-only=0",
-      "phonetic_text": "dɪpər",
+      "phonetic_text": "dɪ.pɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlwcGVy&hash=c5b50c4740f5e766bc21f389f72e82cbf206c38e&lang=en&cache-only=0",
-      "phonetic_am_text": "dipēr",
+      "phonetic_am_text": "di.pēr",
       "img": "https://cdn.langeek.co/photo/47108/original/?type=jpeg",
       "pronunciation": "ˈdɪpɝ",
       "senses": [
@@ -116,12 +145,13 @@
       ]
     },
     {
+      "id": "77729a77-9549-4e99-84d9-9e56bd4dab65",
       "word": "drawdown card",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJhd2Rvd24gY2FyZA&hash=4b2ed0a9c0098078c66b9bb6e9c638ba229e1e05&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "drɔ:.daʊn kɑrd",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJhd2Rvd24gY2FyZA&hash=4b2ed0a9c0098078c66b9bb6e9c638ba229e1e05&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "draw.daoon kaard",
       "img": "https://cdn.langeek.co/photo/47196/original/?type=jpeg",
       "pronunciation": "dɹˈɔːdaʊn kˈɑːɹd",
       "senses": [
@@ -132,12 +162,13 @@
       ]
     },
     {
+      "id": "bc9c0f95-2ca2-4270-b2ca-8f8aba9b06fa",
       "word": "drawing paper",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJhd2luZyBwYXBlcg&hash=579f5616a680d215cc94166e4c52b7d360db67b0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "drɔ:ɪng peɪ.pɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJhd2luZyBwYXBlcg&hash=579f5616a680d215cc94166e4c52b7d360db67b0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "drawing pei.pēr",
       "img": "https://cdn.langeek.co/photo/31311/original/?type=jpeg",
       "pronunciation": "dɹˈɔːɪŋ pˈeɪpɚ",
       "senses": [
@@ -148,12 +179,13 @@
       ]
     },
     {
+      "id": "7f88395c-544e-4579-8624-f03a1336eff0",
       "word": "easel",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWFzZWw&hash=b9fb5911e95f9eb0e11f0a20a0ee73943c0f6c3f&lang=en&cache-only=0",
-      "phonetic_text": "i:zəl",
+      "phonetic_text": "i.zəl",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWFzZWw&hash=b9fb5911e95f9eb0e11f0a20a0ee73943c0f6c3f&lang=en&cache-only=0",
-      "phonetic_am_text": "eezēl",
+      "phonetic_am_text": "i.zēl",
       "img": "https://cdn.langeek.co/photo/25531/original/?type=jpeg",
       "pronunciation": "ˈizəɫ",
       "senses": [
@@ -164,12 +196,13 @@
       ]
     },
     {
+      "id": "56ece89d-5cb2-4098-a79b-80e2646ea3de",
       "word": "egbert",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWdiZXJ0&hash=4f00a5a4135a1b4932d0a9f25c09ea94e7c7560f&lang=en&cache-only=0",
-      "phonetic_text": "ɛgbərt",
+      "phonetic_text": "ɛg.bɜrt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWdiZXJ0&hash=4f00a5a4135a1b4932d0a9f25c09ea94e7c7560f&lang=en&cache-only=0",
-      "phonetic_am_text": "egbērt",
+      "phonetic_am_text": "eg.bērt",
       "img": "https://cdn.langeek.co/photo/47172/original/?type=jpeg",
       "pronunciation": "ˈɛɡbɝt",
       "senses": [
@@ -180,12 +213,13 @@
       ]
     },
     {
+      "id": "0228ed67-9168-4579-a620-ecb0dfc8dae2",
       "word": "eraser",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXJhc2Vy&hash=ac701d17ae59213ab9136759458dcead2bf96412&lang=en&cache-only=0",
-      "phonetic_text": "ɪreɪsər",
+      "phonetic_text": "ɪ.reɪ.sər",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXJhc2Vy&hash=ac701d17ae59213ab9136759458dcead2bf96412&lang=en&cache-only=0",
-      "phonetic_am_text": "ireisēr",
+      "phonetic_am_text": "i.rei.sēr",
       "img": "https://cdn.langeek.co/photo/49181/original/eraser?type=jpeg",
       "pronunciation": "ɪˈreɪsɚ",
       "senses": [
@@ -217,10 +251,11 @@
       ]
     },
     {
+      "id": "1e8e2428-6674-4fe6-ac98-3a21a0079bda",
       "word": "erasing shield",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXJhc2luZyBzaGllbGQ&hash=be047d5d9273e0183cedbecb400f509354a75b1e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXJhc2luZyBzaGllbGQ&hash=be047d5d9273e0183cedbecb400f509354a75b1e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46954/original/?type=jpeg",
@@ -233,12 +268,13 @@
       ]
     },
     {
+      "id": "9a436b8b-7499-4559-b421-8974aae79fdc",
       "word": "ferrule",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmVycnVsZQ&hash=fffd86a2cfc77a25a58e37bb2ceb3fa595bb9c22&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɛ.ru:l",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmVycnVsZQ&hash=fffd86a2cfc77a25a58e37bb2ceb3fa595bb9c22&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fe.rool",
       "img": "https://cdn.langeek.co/photo/47198/original/?type=jpeg",
       "pronunciation": "fˈɛɹuːl",
       "senses": [
@@ -249,12 +285,13 @@
       ]
     },
     {
+      "id": "8d982e1f-87f5-46c4-a28e-b0cc4a6eb170",
       "word": "fountain pen",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm91bnRhaW4gcGVu&hash=6b885527a52734593de4be16d709b702c6c328e4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "faʊn.tən pen",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm91bnRhaW4gcGVu&hash=6b885527a52734593de4be16d709b702c6c328e4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "faoon.tēn pen",
       "img": "https://cdn.langeek.co/photo/29533/original/?type=jpeg",
       "pronunciation": "fˈaʊntɪn pˈɛn",
       "senses": [
@@ -286,12 +323,13 @@
       ]
     },
     {
+      "id": "742df89d-aa50-4930-8445-ddaa4d29c301",
       "word": "gel pen",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2VsIHBlbg&hash=afd4ebdfd6b2c7bbffc135d55d2434503757ce6e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤɛl pen",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2VsIHBlbg&hash=afd4ebdfd6b2c7bbffc135d55d2434503757ce6e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "jel pen",
       "img": "https://cdn.langeek.co/photo/47110/original/?type=jpeg",
       "pronunciation": "dʒˈɛl pˈɛn",
       "senses": [
@@ -302,10 +340,11 @@
       ]
     },
     {
+      "id": "9f4597c2-c94a-4458-9784-ef3a6651b627",
       "word": "kneaded eraser",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a25lYWRlZCBlcmFzZXI&hash=49768605fe68d837674e72354f48991e13422241&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=a25lYWRlZCBlcmFzZXI&hash=49768605fe68d837674e72354f48991e13422241&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46960/original/?type=jpeg",
@@ -318,12 +357,13 @@
       ]
     },
     {
+      "id": "47bd8551-9f08-441c-b592-a7d8225988c8",
       "word": "lay figure",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGF5IGZpZ3VyZQ&hash=2c7d2226514f75c64686d4bd1f11814f2f59ac4c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "leɪ fɪg.jər",
       "phonetic_am": "https://tts.langeek.co/read?text=bGF5IGZpZ3VyZQ&hash=2c7d2226514f75c64686d4bd1f11814f2f59ac4c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lei fig.yēr",
       "img": "https://cdn.langeek.co/photo/25539/original/?type=jpeg",
       "pronunciation": "lˈeɪ fˈɪɡjɚ",
       "senses": [
@@ -334,12 +374,13 @@
       ]
     },
     {
+      "id": "b3826d85-16ab-4280-b878-cc3315c4b760",
       "word": "marker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFya2Vy&hash=80ed2cc9088880c2039d4b5dca55ca7e566ac882&lang=en&cache-only=0",
-      "phonetic_text": "mɑ:rkər",
+      "phonetic_text": "mɑ:r.kər",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFya2Vy&hash=80ed2cc9088880c2039d4b5dca55ca7e566ac882&lang=en&cache-only=0",
-      "phonetic_am_text": "maarkēr",
+      "phonetic_am_text": "maar.kēr",
       "img": "https://cdn.langeek.co/photo/23979/original/?type=jpeg",
       "pronunciation": "ˈmɑːrkɚ",
       "senses": [
@@ -363,12 +404,13 @@
       ]
     },
     {
+      "id": "e1e90ece-27a4-432f-b263-3371c8be440c",
       "word": "maulstick",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWF1bHN0aWNr&hash=50da35522cd6085d37e46f54251d4a192f587de4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mɔl.stɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=bWF1bHN0aWNr&hash=50da35522cd6085d37e46f54251d4a192f587de4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mawl.stik",
       "img": "https://cdn.langeek.co/photo/46962/original/?type=jpeg",
       "pronunciation": "mˈɔːlstɪk",
       "senses": [
@@ -379,12 +421,13 @@
       ]
     },
     {
+      "id": "7f2ad05d-950a-4e7c-9362-2ca81a21680d",
       "word": "mechanical pencil",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWVjaGFuaWNhbCBwZW5jaWw&hash=bf12a091c6eeafa0b6bad640f8a347b0c4ce5035&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mə.kæ.nɪ.kəl pɛnsl",
       "phonetic_am": "https://tts.langeek.co/read?text=bWVjaGFuaWNhbCBwZW5jaWw&hash=bf12a091c6eeafa0b6bad640f8a347b0c4ce5035&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mē.kā.ni.kēl pensl",
       "img": "https://cdn.langeek.co/photo/29537/original/?type=jpeg",
       "pronunciation": "mɪkˈænɪkəl pˈɛnsəl",
       "senses": [
@@ -416,28 +459,51 @@
       ]
     },
     {
+      "id": "c366402c-49f7-488e-9c34-fbf00697a969",
       "word": "medium",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWVkaXVt&hash=61ba707d49bfb75abffb837b8343f7da4143353c&lang=en&cache-only=0",
-      "phonetic_text": "mi:diəm",
+      "phonetic_text": "mi:.diəm",
       "phonetic_am": "https://tts.langeek.co/read?text=bWVkaXVt&hash=61ba707d49bfb75abffb837b8343f7da4143353c&lang=en&cache-only=0",
-      "phonetic_am_text": "meediēm",
+      "phonetic_am_text": "mi.diēm",
       "img": "https://cdn.langeek.co/photo/47022/original/?type=jpeg",
-      "pronunciation": "ˈmidiəm",
+      "pronunciation": "ˈmiːdiəm",
       "senses": [
         {
           "definition": "the material or substance used by the artist to create the artwork, such as oil, acrylic, watercolor, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The artist chose acrylic as the medium for its quick drying time and vibrant colors."
+            },
+            {
+              "cf": "",
+              "x": "She experimented with different mediums to achieve the desired texture in her painting."
+            },
+            {
+              "cf": "",
+              "x": "Oil paint is a traditional medium that allows for rich, layered brushstrokes."
+            },
+            {
+              "cf": "",
+              "x": "Watercolor is a delicate medium known for its transparency and fluid effects."
+            },
+            {
+              "cf": "",
+              "x": "The sculptor used clay as the medium to shape and mold their intricate designs."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "17dc8583-20ad-456a-aac2-e301f9f744fc",
       "word": "paint roller",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFpbnQgcm9sbGVy&hash=c02d079caf34e0ed0dbfc5fbdc023eda0d60b940&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "peɪnt roʊ.lɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFpbnQgcm9sbGVy&hash=c02d079caf34e0ed0dbfc5fbdc023eda0d60b940&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "peint rooo.lēr",
       "img": "https://cdn.langeek.co/photo/41401/original/?type=jpeg",
       "pronunciation": "pˈeɪnt ɹˈoʊlɚ",
       "senses": [
@@ -448,12 +514,13 @@
       ]
     },
     {
+      "id": "04a6f6ae-ed9a-4b45-83a3-00f41b0bb5dc",
       "word": "paint pad",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFpbnQgcGFk&hash=1c3bf697c00a9b27c646913ec6814027e49129fe&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "peɪnt pæd",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFpbnQgcGFk&hash=1c3bf697c00a9b27c646913ec6814027e49129fe&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "peint pād",
       "img": "https://cdn.langeek.co/photo/47024/original/?type=jpeg",
       "pronunciation": "pˈeɪnt pˈæd",
       "senses": [
@@ -464,12 +531,13 @@
       ]
     },
     {
+      "id": "7240f41b-9b2e-433f-b0c7-10c1dec71b87",
       "word": "paintbox",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFpbnRib3g&hash=a785e853648c441b522a77e087b0108a59919e71&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "peɪnt.bɑ:ks",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFpbnRib3g&hash=a785e853648c441b522a77e087b0108a59919e71&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "peint.baaks",
       "img": "https://cdn.langeek.co/photo/25543/original/?type=jpeg",
       "pronunciation": "pˈeɪntbɑːks",
       "senses": [
@@ -480,12 +548,13 @@
       ]
     },
     {
+      "id": "30a2f394-eae1-415b-9a54-31b5b34893ac",
       "word": "painting knife",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFpbnRpbmcga25pZmU&hash=7c95dba2253ffe64cc9fe9b7a40fe503222607a8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "peɪn.tɪng naɪf",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFpbnRpbmcga25pZmU&hash=7c95dba2253ffe64cc9fe9b7a40fe503222607a8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pein.ting naif",
       "img": "https://cdn.langeek.co/photo/47026/original/?type=jpeg",
       "pronunciation": "pˈeɪntɪŋ nˈaɪf",
       "senses": [
@@ -496,12 +565,13 @@
       ]
     },
     {
+      "id": "33b031ae-b952-4cd6-a4e8-522ab1e56023",
       "word": "palette knife",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFsZXR0ZSBrbmlmZQ&hash=2bdb88953405013544e52ed65913bc2f7de638f7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pæ.lət naɪf",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFsZXR0ZSBrbmlmZQ&hash=2bdb88953405013544e52ed65913bc2f7de638f7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pā.lēt naif",
       "img": "https://cdn.langeek.co/photo/25649/original/?type=jpeg",
       "pronunciation": "pˈælət nˈaɪf",
       "senses": [
@@ -512,12 +582,13 @@
       ]
     },
     {
+      "id": "3369fbd9-43e6-44cb-915f-f1a0e547e4f2",
       "word": "palette",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFsZXR0ZQ&hash=98026d4468b5dad2a4bb61602d9fcb8089b87402&lang=en&cache-only=0",
-      "phonetic_text": "pælət",
+      "phonetic_text": "pæ.lət",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFsZXR0ZQ&hash=98026d4468b5dad2a4bb61602d9fcb8089b87402&lang=en&cache-only=0",
-      "phonetic_am_text": "pālēt",
+      "phonetic_am_text": "pā.lēt",
       "img": "https://cdn.langeek.co/photo/25651/original/?type=jpeg",
       "pronunciation": "ˈpæɫət",
       "senses": [
@@ -549,12 +620,13 @@
       ]
     },
     {
+      "id": "5ce13668-c977-4d33-86ca-4825c1dd42a8",
       "word": "paper",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFwZXI&hash=d8c259b9d4ae370f5f3b49bcefce22049e6cabad&lang=en&cache-only=0",
-      "phonetic_text": "peɪpər",
+      "phonetic_text": "peɪ.pɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFwZXI&hash=d8c259b9d4ae370f5f3b49bcefce22049e6cabad&lang=en&cache-only=0",
-      "phonetic_am_text": "peipēr",
+      "phonetic_am_text": "pei.pēr",
       "img": "https://cdn.langeek.co/photo/26242/original/?type=jpeg",
       "pronunciation": "ˈpeɪpɝ",
       "senses": [
@@ -586,12 +658,13 @@
       ]
     },
     {
+      "id": "d44e9ae3-973e-43a9-b5dc-6d2d2420c530",
       "word": "paperboard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFwZXJib2FyZA&hash=35670ecba6f8d603559fb94243d107df6e3a43db&lang=en&cache-only=0",
-      "phonetic_text": "peɪpərbɔrd",
+      "phonetic_text": "peɪ.pɜr.bɔ:rd",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFwZXJib2FyZA&hash=35670ecba6f8d603559fb94243d107df6e3a43db&lang=en&cache-only=0",
-      "phonetic_am_text": "peipērbawrd",
+      "phonetic_am_text": "pei.pēr.bawrd",
       "img": "https://cdn.langeek.co/photo/47028/original/?type=jpeg",
       "pronunciation": "ˈpeɪpɝˌbɔɹd",
       "senses": [
@@ -602,10 +675,11 @@
       ]
     },
     {
+      "id": "2219301d-7155-4b93-94b2-3d3ecc921e28",
       "word": "pen",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVu&hash=5db5a7133a558c002488f6ef55b678716abe830b&lang=en&cache-only=0",
-      "phonetic_text": "pɛn",
+      "phonetic_text": "pen",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVu&hash=5db5a7133a558c002488f6ef55b678716abe830b&lang=en&cache-only=0",
       "phonetic_am_text": "pen",
       "img": "https://cdn.langeek.co/photo/24005/original/pen?type=jpeg",
@@ -639,28 +713,51 @@
       ]
     },
     {
+      "id": "efec2977-dd64-4525-8ebb-c05a9fb7a0b8",
       "word": "pencil",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVuY2ls&hash=4681a51f215323b30f7d7dbf435d947e24b22ae6&lang=en&cache-only=0",
-      "phonetic_text": "pɛnsəl",
+      "phonetic_text": "pɛnsl",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVuY2ls&hash=4681a51f215323b30f7d7dbf435d947e24b22ae6&lang=en&cache-only=0",
-      "phonetic_am_text": "pensēl",
+      "phonetic_am_text": "pensl",
       "img": "https://cdn.langeek.co/photo/49197/original/pencil?type=jpeg",
       "pronunciation": "ˈpɛnsl",
       "senses": [
         {
           "definition": "a tool with a slim piece of wood and a thin, colored part in the middle, that we use for writing or drawing",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He uses a pencil to shade and create different tones in his artwork."
+            },
+            {
+              "cf": "",
+              "x": "I use a pencil to sketch and draw."
+            },
+            {
+              "cf": "",
+              "x": "She lends her pencil to a classmate who forgot to bring one."
+            },
+            {
+              "cf": "",
+              "x": "She sharpens her pencil before starting her math homework."
+            },
+            {
+              "cf": "",
+              "x": "We mark important passages in a book with a pencil underline."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "925059f8-e29f-4351-8cd5-2f695aaeda0e",
       "word": "ratchet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmF0Y2hldA&hash=1479ec18be50a50b0d9a7dd3b1914ff82ca0ea64&lang=en&cache-only=0",
-      "phonetic_text": "ræʧət",
+      "phonetic_text": "ræ.ʧət",
       "phonetic_am": "https://tts.langeek.co/read?text=cmF0Y2hldA&hash=1479ec18be50a50b0d9a7dd3b1914ff82ca0ea64&lang=en&cache-only=0",
-      "phonetic_am_text": "rāchēt",
+      "phonetic_am_text": "rā.chēt",
       "img": "https://cdn.langeek.co/photo/47176/original/?type=jpeg",
       "pronunciation": "ˈɹætʃət/, /ɹættʃət",
       "senses": [
@@ -671,12 +768,13 @@
       ]
     },
     {
+      "id": "b0f0c674-8b60-4cbe-bb88-329b27441bdc",
       "word": "scratchboard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2NyYXRjaGJvYXJk&hash=48e011292472f3ff18c3953fcbbad924e111608b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skræʧ.bɔ:rd",
       "phonetic_am": "https://tts.langeek.co/read?text=c2NyYXRjaGJvYXJk&hash=48e011292472f3ff18c3953fcbbad924e111608b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skrāch.bawrd",
       "img": "https://cdn.langeek.co/photo/47200/original/?type=jpeg",
       "pronunciation": "skɹˈætʃboːɹd",
       "senses": [
@@ -687,14 +785,15 @@
       ]
     },
     {
+      "id": "d910c1a4-2a09-428e-980d-c615146d5c0e",
       "word": "spatula",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BhdHVsYQ&hash=4e35788a41cc2416f5ecdc6168e0ac06caf1a63d&lang=en&cache-only=0",
-      "phonetic_text": "spæʧʊlə",
+      "phonetic_text": "spæ.ʧə.lə",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BhdHVsYQ&hash=4e35788a41cc2416f5ecdc6168e0ac06caf1a63d&lang=en&cache-only=0",
-      "phonetic_am_text": "spāchulē",
+      "phonetic_am_text": "spā.chē.lē",
       "img": "https://cdn.langeek.co/photo/47202/original/?type=jpeg",
-      "pronunciation": "ˈspæˌtʃʊɫə",
+      "pronunciation": "ˈspætʃələ",
       "senses": [
         {
           "definition": "a flat, blade-like tool used by artists to mix paints, spread materials evenly, and scrape paint from surfaces",
@@ -703,12 +802,13 @@
       ]
     },
     {
+      "id": "5040d474-ce4b-48a3-a0ac-657fd5abfd18",
       "word": "sponge",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3Bvbmdl&hash=2d23c52b1f1b1f8b8b11ca6b9a07f58bcc5c6658&lang=en&cache-only=0",
-      "phonetic_text": "spʌnʤ",
+      "phonetic_text": "spənʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=c3Bvbmdl&hash=2d23c52b1f1b1f8b8b11ca6b9a07f58bcc5c6658&lang=en&cache-only=0",
-      "phonetic_am_text": "spanj",
+      "phonetic_am_text": "spēnj",
       "img": "https://cdn.langeek.co/photo/47032/original/?type=jpeg",
       "pronunciation": "ˈspəndʒ",
       "senses": [
@@ -719,12 +819,13 @@
       ]
     },
     {
+      "id": "6ad91521-b022-463f-93f3-99ebde8dae90",
       "word": "spray gun",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3ByYXkgZ3Vu&hash=0b37bed8acaa43da12b524aa00d758773da44f4c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spreɪ gʌn",
       "phonetic_am": "https://tts.langeek.co/read?text=c3ByYXkgZ3Vu&hash=0b37bed8acaa43da12b524aa00d758773da44f4c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sprei gan",
       "img": "https://cdn.langeek.co/photo/25659/original/?type=jpeg",
       "pronunciation": "spɹˈeɪ ɡˈʌn",
       "senses": [
@@ -735,12 +836,13 @@
       ]
     },
     {
+      "id": "81af1f00-96b7-45a7-9bbf-333ccba1900b",
       "word": "spray paint",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3ByYXkgcGFpbnQ&hash=bf4341e1bc52f67e63c903f76f2e0955778a1b89&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spreɪ peɪnt",
       "phonetic_am": "https://tts.langeek.co/read?text=c3ByYXkgcGFpbnQ&hash=bf4341e1bc52f67e63c903f76f2e0955778a1b89&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sprei peint",
       "img": "https://cdn.langeek.co/photo/47116/original/?type=jpeg",
       "pronunciation": "spɹˈeɪ pˈeɪnt",
       "senses": [
@@ -751,12 +853,13 @@
       ]
     },
     {
+      "id": "c316d945-f7d3-43fb-ab41-376f8abab7b0",
       "word": "staple wire",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RhcGxlIHdpcmU&hash=b32ee0f94b6742c9e8d2e7dac63c7925159ad2a7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "steɪ.pəl waɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RhcGxlIHdpcmU&hash=b32ee0f94b6742c9e8d2e7dac63c7925159ad2a7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "stei.pēl vair",
       "img": "https://cdn.langeek.co/photo/47118/original/?type=jpeg",
       "pronunciation": "stˈeɪpəl wˈaɪɚ",
       "senses": [
@@ -767,12 +870,13 @@
       ]
     },
     {
+      "id": "b6128457-20e3-472c-9ade-2fcab4738f80",
       "word": "stencil",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RlbmNpbA&hash=44e376f094c62b3ca55034f35a835bc529bafce4&lang=en&cache-only=0",
-      "phonetic_text": "stɛnsɪl",
+      "phonetic_text": "stɛn.sɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RlbmNpbA&hash=44e376f094c62b3ca55034f35a835bc529bafce4&lang=en&cache-only=0",
-      "phonetic_am_text": "stensil",
+      "phonetic_am_text": "sten.sil",
       "img": "https://cdn.langeek.co/photo/25661/original/?type=jpeg",
       "pronunciation": "ˈstɛnsɪɫ",
       "senses": [
@@ -783,12 +887,13 @@
       ]
     },
     {
+      "id": "d9cb3e5d-44b9-49f4-abe8-a68801e8a2cf",
       "word": "strainer bar",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RyYWluZXIgYmFy&hash=5b42a6b9a806d5bd9733574eb649a4ba8a3a368b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "streɪ.nər bɑr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyYWluZXIgYmFy&hash=5b42a6b9a806d5bd9733574eb649a4ba8a3a368b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "strei.nēr baar",
       "img": "",
       "pronunciation": "stɹˈeɪnɚ bˈɑːɹ",
       "senses": [
@@ -799,12 +904,13 @@
       ]
     },
     {
+      "id": "f2d175f7-dafd-4b57-a8ae-d3d1e6fa6039",
       "word": "stretcher bar",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RyZXRjaGVyIGJhcg&hash=410e05fa1f626c2e6ff3a77429bed73707d8117b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "strɛ.ʧɜr bɑr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RyZXRjaGVyIGJhcg&hash=410e05fa1f626c2e6ff3a77429bed73707d8117b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "stre.chēr baar",
       "img": "https://cdn.langeek.co/photo/47206/original/?type=jpeg",
       "pronunciation": "stɹˈɛtʃɚ bˈɑːɹ",
       "senses": [
@@ -815,12 +921,13 @@
       ]
     },
     {
+      "id": "42db0021-1c0c-4748-9f99-9d456c384b29",
       "word": "stylus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3R5bHVz&hash=0d767fde5fd79d911a7359c8e8cab7a3a7bcb554&lang=en&cache-only=0",
-      "phonetic_text": "staɪləs",
+      "phonetic_text": "staɪ.ləs",
       "phonetic_am": "https://tts.langeek.co/read?text=c3R5bHVz&hash=0d767fde5fd79d911a7359c8e8cab7a3a7bcb554&lang=en&cache-only=0",
-      "phonetic_am_text": "stailēs",
+      "phonetic_am_text": "stai.lēs",
       "img": "https://cdn.langeek.co/photo/47122/original/?type=jpeg",
       "pronunciation": "ˈstaɪɫəs",
       "senses": [
@@ -831,12 +938,13 @@
       ]
     },
     {
+      "id": "0214028b-4786-4ea9-88b1-e219e241ef70",
       "word": "sumi",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3VtaQ&hash=903af0befee6fdf2963250cc2bb30d0c152f73a9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "su:.mi",
       "phonetic_am": "https://tts.langeek.co/read?text=c3VtaQ&hash=903af0befee6fdf2963250cc2bb30d0c152f73a9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "soo.mi",
       "img": "https://cdn.langeek.co/photo/47208/original/?type=jpeg",
       "pronunciation": "sˈuːmi",
       "senses": [
@@ -847,12 +955,13 @@
       ]
     },
     {
+      "id": "cd8e7f39-9de5-4d05-b377-094b65257913",
       "word": "tack cloth",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFjayBjbG90aA&hash=f2446bbea7fbbe552fad35742d1804fe9e5716c8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tæk klɔθ",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFjayBjbG90aA&hash=f2446bbea7fbbe552fad35742d1804fe9e5716c8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tāk klawth",
       "img": "https://cdn.langeek.co/photo/47210/original/?type=jpeg",
       "pronunciation": "tˈæk klˈɔθ",
       "senses": [
@@ -863,12 +972,13 @@
       ]
     },
     {
+      "id": "65757758-80a4-4b1e-995b-e674642c2002",
       "word": "technical pen",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVjaG5pY2FsIHBlbg&hash=1fae6d4984747956b75393a28e24d70bce9736a9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɛk.nɪ.kəl pen",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVjaG5pY2FsIHBlbg&hash=1fae6d4984747956b75393a28e24d70bce9736a9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tek.ni.kēl pen",
       "img": "https://cdn.langeek.co/photo/47212/original/?type=jpeg",
       "pronunciation": "tˈɛknɪkəl pˈɛn",
       "senses": [
@@ -879,12 +989,13 @@
       ]
     },
     {
+      "id": "a1846ada-e56a-41e8-9c33-5a39e313f42a",
       "word": "tightening key",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGlnaHRlbmluZyBrZXk&hash=89e2be0c6f169b41ccf836fb0f8cb67f903d55aa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "taɪ.tə.nɪng ki",
       "phonetic_am": "https://tts.langeek.co/read?text=dGlnaHRlbmluZyBrZXk&hash=89e2be0c6f169b41ccf836fb0f8cb67f903d55aa&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tai.tē.ning ki",
       "img": "https://cdn.langeek.co/photo/47214/original/?type=jpeg",
       "pronunciation": "tˈaɪʔn̩ɪŋ kˈiː",
       "senses": [
@@ -895,12 +1006,13 @@
       ]
     },
     {
+      "id": "3504e647-d743-4241-b716-a2c05551a939",
       "word": "vellum",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmVsbHVt&hash=1280f0d5bdfa8918372d37050bf9bdb87bb78602&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "vɛ.ləm",
       "phonetic_am": "https://tts.langeek.co/read?text=dmVsbHVt&hash=1280f0d5bdfa8918372d37050bf9bdb87bb78602&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ve.lēm",
       "img": "https://cdn.langeek.co/photo/47216/original/?type=jpeg",
       "pronunciation": "vˈɛləm",
       "senses": [
@@ -911,12 +1023,13 @@
       ]
     },
     {
+      "id": "c459f973-fde4-4c84-88f1-2452378f5bd9",
       "word": "airbrush",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWlyYnJ1c2g&hash=694c5139e718f15fb1eb68adabd05ea2a3cc475e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛr.brʌʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=YWlyYnJ1c2g&hash=694c5139e718f15fb1eb68adabd05ea2a3cc475e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "er.brash",
       "img": "https://cdn.langeek.co/photo/25457/original/?type=jpeg",
       "pronunciation": "ˈerbɹʌʃ",
       "senses": [
@@ -927,6 +1040,7 @@
       ]
     },
     {
+      "id": "bf68bdf7-a74f-41fe-929a-2896f805b801",
       "word": "brush",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJ1c2g&hash=0ef91612497960ef0d5242d999cf04f9a9ffd3e6&lang=en&cache-only=0",
@@ -943,49 +1057,30 @@
       ]
     },
     {
+      "id": "56e1b675-1065-4aed-a2c2-4e5287c3f445",
       "word": "fan brush",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmFuIGJydXNo&hash=3730c84c73e7c7b4d333e6e90efdda9b1778a3dd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fæn brʌʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFuIGJydXNo&hash=3730c84c73e7c7b4d333e6e90efdda9b1778a3dd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fān brash",
       "img": "",
       "pronunciation": "fæn bɹʌʃ",
       "senses": [
         {
           "definition": "a brush with bristles spread out in a fan shape, often used for blending colors and creating textured effects like foliage or clouds",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The artist used a fan brush to softly blend the colors of the sunset, creating a smooth gradient."
-            },
-            {
-              "cf": "",
-              "x": "With a flick of the fan brush, she added delicate wisps of clouds to the sky, giving the painting a sense of depth."
-            },
-            {
-              "cf": "",
-              "x": "Using the fan brush loaded with different shades of green, he effortlessly created the lush foliage in the foreground of his landscape."
-            },
-            {
-              "cf": "",
-              "x": "The painter employed a fan brush to add intricate details to the feathers of the bird, achieving a lifelike texture."
-            },
-            {
-              "cf": "",
-              "x": "The art teacher showcased using a fan brush for blending colors and adding texture to landscapes."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "8570ca3d-e5c6-4ed6-be15-a1349a8b754a",
       "word": "filbert",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmlsYmVydA&hash=08270a4b94fa0a74f9242c21c64306243502c803&lang=en&cache-only=0",
-      "phonetic_text": "fɪlbərt",
+      "phonetic_text": "fɪl.bɜrt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmlsYmVydA&hash=08270a4b94fa0a74f9242c21c64306243502c803&lang=en&cache-only=0",
-      "phonetic_am_text": "filbērt",
+      "phonetic_am_text": "fil.bērt",
       "img": "https://cdn.langeek.co/photo/46964/original/?type=jpeg",
       "pronunciation": "ˈfɪɫbɝt",
       "senses": [
@@ -996,12 +1091,13 @@
       ]
     },
     {
+      "id": "ada21004-0f55-473f-9229-7f5da2ad5e87",
       "word": "flat brush",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmxhdCBicnVzaA&hash=2ec8bca72bef671e9bd91266e9f9a1a1ca8fcac2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "flæt brʌʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmxhdCBicnVzaA&hash=2ec8bca72bef671e9bd91266e9f9a1a1ca8fcac2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "flāt brash",
       "img": "https://cdn.langeek.co/photo/46956/original/?type=jpeg",
       "pronunciation": "flˈæt bɹˈʌʃ",
       "senses": [
@@ -1012,6 +1108,7 @@
       ]
     },
     {
+      "id": "d1ae4e30-692b-47a3-ba4f-4d17d103fdaf",
       "word": "hake",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFrZQ&hash=038b74b079034be93050f7cb64a8f6ff52132e8d&lang=en&cache-only=0",
@@ -1028,12 +1125,13 @@
       ]
     },
     {
+      "id": "21413f34-ec7c-46f4-a256-ac3f533bac3b",
       "word": "ink brush",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5rIGJydXNo&hash=0b5172f22344f78d1f69e9472b6ccf25c761509a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪnk brʌʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5rIGJydXNo&hash=0b5172f22344f78d1f69e9472b6ccf25c761509a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ink brash",
       "img": "https://cdn.langeek.co/photo/47112/original/?type=jpeg",
       "pronunciation": "ˈɪŋk bɹˈʌʃ",
       "senses": [
@@ -1044,12 +1142,13 @@
       ]
     },
     {
+      "id": "452868c2-1b97-4fdb-8d4b-79068dc595ab",
       "word": "liner",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGluZXI&hash=f7a45c9a8b1332c2e34eb70e4cbb9b0ca062540c&lang=en&cache-only=0",
-      "phonetic_text": "laɪnər",
+      "phonetic_text": "laɪ.nɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bGluZXI&hash=f7a45c9a8b1332c2e34eb70e4cbb9b0ca062540c&lang=en&cache-only=0",
-      "phonetic_am_text": "lainēr",
+      "phonetic_am_text": "lai.nēr",
       "img": "https://cdn.langeek.co/photo/47114/original/?type=jpeg",
       "pronunciation": "ˈɫaɪnɝ",
       "senses": [
@@ -1060,12 +1159,13 @@
       ]
     },
     {
+      "id": "475545fd-1cba-427a-a36a-43c026606ea4",
       "word": "mop brush",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9wIGJydXNo&hash=b755f2de1c4ace9dd309e1b06e96ed8ad09e73ec&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mɑp brʌʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9wIGJydXNo&hash=b755f2de1c4ace9dd309e1b06e96ed8ad09e73ec&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "maap brash",
       "img": "https://cdn.langeek.co/photo/47174/original/?type=jpeg",
       "pronunciation": "mˈɑːp bɹˈʌʃ",
       "senses": [
@@ -1076,28 +1176,51 @@
       ]
     },
     {
+      "id": "031316d7-a317-4537-8eaf-b4ff21762b0a",
       "word": "paintbrush",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFpbnRicnVzaA&hash=7cfa394f80fbfe139b4867e0054fedca00e19ac1&lang=en&cache-only=0",
-      "phonetic_text": "peɪntbrʌʃ",
+      "phonetic_text": "peɪnt.brʌʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFpbnRicnVzaA&hash=7cfa394f80fbfe139b4867e0054fedca00e19ac1&lang=en&cache-only=0",
-      "phonetic_am_text": "peintbrash",
+      "phonetic_am_text": "peint.brash",
       "img": "https://cdn.langeek.co/photo/23899/original/?type=jpeg",
       "pronunciation": "ˈpeɪntˌbɹəʃ",
       "senses": [
         {
           "definition": "a brush used by a painter to apply paint to a surface",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The artist dipped the paintbrush into the blue paint and began to create a sky on the canvas."
+            },
+            {
+              "cf": "",
+              "x": "She used a fine paintbrush to add delicate details to her watercolor painting."
+            },
+            {
+              "cf": "",
+              "x": "He grabbed a wide paintbrush to quickly cover the wall with a fresh coat of paint."
+            },
+            {
+              "cf": "",
+              "x": "The paintbrushes of different sizes and shapes were laid out on the table, ready for use."
+            },
+            {
+              "cf": "",
+              "x": "After finishing the mural, she carefully cleaned her paintbrush to keep it in good condition."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "092ec376-abb3-431d-866b-62ce595152ee",
       "word": "pinstriping brush",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGluc3RyaXBpbmcgYnJ1c2g&hash=8f9f160e0b6eeabc27ec6c9aaec734dd8c256a93&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɪn.straɪ.pɪng brʌʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=cGluc3RyaXBpbmcgYnJ1c2g&hash=8f9f160e0b6eeabc27ec6c9aaec734dd8c256a93&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pin.strai.ping brash",
       "img": "https://cdn.langeek.co/photo/47030/original/?type=jpeg",
       "pronunciation": "pˈɪnstɹaɪpɪŋ bɹˈʌʃ",
       "senses": [
@@ -1108,12 +1231,13 @@
       ]
     },
     {
+      "id": "104d3be3-ec95-443f-9a3c-86ef6a0df940",
       "word": "round brush",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm91bmQgYnJ1c2g&hash=b31a89e459bef0cb5708678ee2dcbde90fa5d90c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "raʊnd brʌʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=cm91bmQgYnJ1c2g&hash=b31a89e459bef0cb5708678ee2dcbde90fa5d90c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "raoond brash",
       "img": "https://cdn.langeek.co/photo/47180/original/?type=jpeg",
       "pronunciation": "ɹaʊnd bɹʌʃ",
       "senses": [
@@ -1124,12 +1248,13 @@
       ]
     },
     {
+      "id": "281c1409-5564-451e-8e17-87af67ed8235",
       "word": "spotter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BvdHRlcg&hash=3f01e3de9e8e6237c67517b4603078e7ec17f70d&lang=en&cache-only=0",
-      "phonetic_text": "spɑ:tər",
+      "phonetic_text": "spɑ.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BvdHRlcg&hash=3f01e3de9e8e6237c67517b4603078e7ec17f70d&lang=en&cache-only=0",
-      "phonetic_am_text": "spaatēr",
+      "phonetic_am_text": "spaa.tēr",
       "img": "",
       "pronunciation": "ˈspɑtɝ",
       "senses": [
@@ -1140,12 +1265,13 @@
       ]
     },
     {
+      "id": "f1849cdd-ab4f-488c-ba22-5e4f01365763",
       "word": "stippler",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RpcHBsZXI&hash=8344c65597c18d10fce7f1d88a66a0675a2e10b2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stɪp.lər",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RpcHBsZXI&hash=8344c65597c18d10fce7f1d88a66a0675a2e10b2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "stip.lēr",
       "img": "https://cdn.langeek.co/photo/47204/original/?type=jpeg",
       "pronunciation": "stˈɪplɚ",
       "senses": [
@@ -1156,12 +1282,13 @@
       ]
     },
     {
+      "id": "dcfd251d-bd89-465c-aa48-bc6791d43026",
       "word": "rigger brush",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmlnZ2VyIGJydXNo&hash=3b5dc97e045f9b786b373acef5c98bf95499ab15&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɪ.gər brʌʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=cmlnZ2VyIGJydXNo&hash=3b5dc97e045f9b786b373acef5c98bf95499ab15&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ri.gēr brash",
       "img": "https://cdn.langeek.co/photo/47178/original/?type=jpeg",
       "pronunciation": "ɹˈɪɡɚ bɹˈʌʃ",
       "senses": [

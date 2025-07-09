@@ -1,99 +1,66 @@
 {
+  "id": "d619f663-2cf5-44b9-baee-cf9e3a62c8ba",
   "topic": "hobbies_games",
   "title": "Games of Skill",
   "lesson": "lesson_21",
   "word_list": [
     {
-      "word": "twister",
+      "id": "f7c99ba3-1dea-43a4-b0be-fcba85ae0677",
+      "word": "Twister",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VHdpc3Rlcg&hash=5d3a9e1dabebb835bf6030b2328172254d9ab82a&lang=en&cache-only=0",
-      "phonetic_text": "twɪstər",
+      "phonetic_text": "twɪs.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=VHdpc3Rlcg&hash=5d3a9e1dabebb835bf6030b2328172254d9ab82a&lang=en&cache-only=0",
-      "phonetic_am_text": "twistēr",
+      "phonetic_am_text": "tvis.tēr",
       "img": "",
       "pronunciation": "ˈtwɪstɝ",
       "senses": [
         {
-          "definition": "a physical game that is played on a large plastic mat with colorful circles, where players take turns spinning a wheel to determine which body part and which circle color to place it on, resulting in a tangled web of limbs and bodies as players contort themselves to avoid falling over",
+          "definition": "a game where players spin a wheel to place body parts on colored circles, creating a tangled challenge",
           "examples": []
         }
       ]
     },
     {
+      "id": "49a211ef-0808-43da-a180-db67b9bb72a2",
       "word": "wire loop game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2lyZSBsb29wIGdhbWU&hash=0ed6fbbd07a729690d3c61ee30dbf7101c7c18aa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "waɪr lup geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=d2lyZSBsb29wIGdhbWU&hash=0ed6fbbd07a729690d3c61ee30dbf7101c7c18aa&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vair loop geim",
       "img": "",
       "pronunciation": "wˈaɪɚ lˈuːp ɡˈeɪm",
       "senses": [
         {
           "definition": "a skill-based amusement game where players use a handheld wand to navigate along a twisted wire without touching it, avoiding triggering a buzzing sound",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She spent the afternoon playing with the wire loop game, trying not to touch the wire."
-            },
-            {
-              "cf": "",
-              "x": "I was so close to finishing the wire loop game, but I accidentally touched the wire."
-            },
-            {
-              "cf": "",
-              "x": "The kids took turns playing the wire loop game at the family gathering."
-            },
-            {
-              "cf": "",
-              "x": "It took a lot of concentration to get through the wire loop game without setting off the buzzer."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "8886591f-8e38-426a-b0e6-6010ff92616e",
       "word": "laser tag",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFzZXIgdGFn&hash=3f45927b188e7ebd87a7b66b9f88e18fa32dd1a4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "leɪ.zɜr tæg",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFzZXIgdGFn&hash=3f45927b188e7ebd87a7b66b9f88e18fa32dd1a4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lei.zēr tāg",
       "img": "",
       "pronunciation": "lˈeɪzɚ tˈæɡ",
       "senses": [
         {
           "definition": "a competitive game where players use handheld infrared-emitting devices to tag opponents' targets, simulating combat scenarios in a safe and fun environment",
-          "examples": [
-            {
-              "cf": "",
-              "x": "We had so much fun playing laser tag at the arcade last weekend."
-            },
-            {
-              "cf": "",
-              "x": "The kids love going to the laser tag arena for their birthday parties."
-            },
-            {
-              "cf": "",
-              "x": "I can't wait to join my friends for a game of laser tag after school."
-            },
-            {
-              "cf": "",
-              "x": "After a long day of work, we decided to unwind with a few rounds of laser tag."
-            },
-            {
-              "cf": "",
-              "x": "He scored the most points in our laser tag game, and we all congratulated him."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "813f0810-1599-4379-b9b4-70250bf76ceb",
       "word": "cat's cradle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2F0J3MgY3JhZGxl&hash=f5508706f8efdd145589b38bb69988866b90b859&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2F0J3MgY3JhZGxl&hash=f5508706f8efdd145589b38bb69988866b90b859&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/31914/original/?type=jpeg",
@@ -106,10 +73,11 @@
       ]
     },
     {
-      "word": "jenga",
+      "id": "daf892fb-0933-419f-956b-14f74f1a440a",
+      "word": "Jenga",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=SmVuZ2E&hash=613a7235bc28920004e77ed7771f46e8877f3f1b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=SmVuZ2E&hash=613a7235bc28920004e77ed7771f46e8877f3f1b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44984/original/?type=jpeg",
@@ -117,17 +85,35 @@
       "senses": [
         {
           "definition": "a physical and mental skill game that was first created in the 1980s, played with a set of 54 wooden blocks, which are stacked in a tower formation at the beginning of the game",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The kids played Jenga all afternoon, laughing every time the tower fell."
+            },
+            {
+              "cf": "",
+              "x": "During the party, we set up a Jenga game to keep everyone entertained."
+            },
+            {
+              "cf": "",
+              "x": "She carefully slid a block from the Jenga tower, hoping it would not fall."
+            },
+            {
+              "cf": "",
+              "x": "The Jenga tower became more unstable as the game went on."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "f257143f-43ec-42ca-a4e1-b346096d95fa",
       "word": "penny in the hole",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=cGVubnkgaW4gdGhlIGhvbGU&hash=ddc8267f710a06aade52654f063b50f3e90628da&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɛ.ni ɪn ðə hoʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVubnkgaW4gdGhlIGhvbGU&hash=ddc8267f710a06aade52654f063b50f3e90628da&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pe.ni in dhē hoool",
       "img": "",
       "pronunciation": "pˈɛni ɪnðə hˈoʊl",
       "senses": [
@@ -138,10 +124,11 @@
       ]
     },
     {
+      "id": "6abcaf85-4ce6-4bcd-842d-6599c7e06992",
       "word": "Aunt Sally",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QXVudCBTYWxseQ&hash=e4fa7e917c131ae507f2a1b4e172b33dbb849c73&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QXVudCBTYWxseQ&hash=e4fa7e917c131ae507f2a1b4e172b33dbb849c73&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -154,12 +141,13 @@
       ]
     },
     {
+      "id": "96343d78-960b-45af-868e-4719bc73d45b",
       "word": "ring toss",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmluZyB0b3Nz&hash=2fa27300b00adedcd6b277c28d49a0d6f3035728&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɪng tɔs",
       "phonetic_am": "https://tts.langeek.co/read?text=cmluZyB0b3Nz&hash=2fa27300b00adedcd6b277c28d49a0d6f3035728&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ring taws",
       "img": "",
       "pronunciation": "ɹˈɪŋ tˈɑːs",
       "senses": [
@@ -170,12 +158,13 @@
       ]
     },
     {
+      "id": "9fc97fcf-5ce6-46f6-91e3-bfe64c0a6111",
       "word": "ring the bull",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=cmluZyB0aGUgYnVsbA&hash=8604c2959b2729e66541c3148d0c7ca04c50ff5a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɪng ðə bʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=cmluZyB0aGUgYnVsbA&hash=8604c2959b2729e66541c3148d0c7ca04c50ff5a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ring dhē bool",
       "img": "",
       "pronunciation": "ɹˈɪŋ ðə bˈʊl",
       "senses": [
@@ -186,74 +175,147 @@
       ]
     },
     {
+      "id": "5982c4d5-9034-47c8-953f-8061b564b888",
       "word": "bar billiards",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFyIGJpbGxpYXJkcw&hash=d72a68789160aa98373be8e9dcc8166b6d8a8bf9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɑr bɪl.jɜrdz",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFyIGJpbGxpYXJkcw&hash=d72a68789160aa98373be8e9dcc8166b6d8a8bf9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "baar bil.yērdz",
       "img": "https://cdn.langeek.co/photo/31237/original/?type=jpeg",
       "pronunciation": "bˈɑːɹ bˈɪlɪɚdz",
       "senses": [
         {
           "definition": "a traditional pub game played on a small table with pockets, combining elements of billiards and bagatelle, providing a social and skill-based pastime in pubs and bars",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "We played bar billiards at the pub last night, and I almost won."
+            },
+            {
+              "cf": "",
+              "x": "Bar billiards is such a fun game, it’s perfect for a casual evening with friends."
+            },
+            {
+              "cf": "",
+              "x": "He is really good at bar billiards, always scoring high points."
+            },
+            {
+              "cf": "",
+              "x": "She spent hours at the pub playing bar billiards with her friends."
+            },
+            {
+              "cf": "",
+              "x": "After a few rounds of bar billiards, we decided to grab a drink and relax."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "73c06e38-e421-4023-a776-acbd77c5e671",
       "word": "darts",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGFydHM&hash=5e2d538e01e18375fc50f17a44d14e07c30184fd&lang=en&cache-only=0",
-      "phonetic_text": "dɑ:rts",
+      "phonetic_text": "dɑrts",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGFydHM&hash=5e2d538e01e18375fc50f17a44d14e07c30184fd&lang=en&cache-only=0",
       "phonetic_am_text": "daarts",
       "img": "https://cdn.langeek.co/photo/18617/original/darts?type=jpeg",
-      "pronunciation": "ˈdɑɹts",
+      "pronunciation": "dɑrts",
       "senses": [
         {
           "definition": "a game in which small pointy objects are thrown at a board to achieve points",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "We played darts at the pub last night and I won three games in a row."
+            },
+            {
+              "cf": "",
+              "x": "I’ve been practicing darts every day to improve my aim."
+            },
+            {
+              "cf": "",
+              "x": "The kids had fun playing darts at the family gathering, though they were using plastic darts."
+            },
+            {
+              "cf": "",
+              "x": "She spent the afternoon watching darts on TV, cheering for her favorite player."
+            },
+            {
+              "cf": "",
+              "x": "They set up a darts competition for the office party, and everyone participated."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "c99ffbec-44fa-4e56-bfac-e20b22e5aa58",
       "word": "shuffleboard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2h1ZmZsZWJvYXJk&hash=14a2326812f5ef727965491bc41858d2f566b66a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʃə.fəl.bɔ:rd",
       "phonetic_am": "https://tts.langeek.co/read?text=c2h1ZmZsZWJvYXJk&hash=14a2326812f5ef727965491bc41858d2f566b66a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "shē.fēl.bawrd",
       "img": "",
       "pronunciation": "ʃˈʌfəlbˌoːɹd",
       "senses": [
         {
           "definition": "a table game where players slide weighted pucks to score points in scoring zones, played for fun and competition",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "We spent the afternoon playing shuffleboard at the beach resort."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a272d428-0f6a-48a1-953c-7987cc7cd403",
       "word": "knucklebones",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a251Y2tsZWJvbmVz&hash=4bd91b75612599ebc0839af2570b3f37e3b780eb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nəəkl.boʊnz",
       "phonetic_am": "https://tts.langeek.co/read?text=a251Y2tsZWJvbmVz&hash=4bd91b75612599ebc0839af2570b3f37e3b780eb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nēēkl.booonz",
       "img": "",
       "pronunciation": "nˈʌklɪbˌoʊnz",
       "senses": [
         {
           "definition": "an ancient game played with small objects, typically sheep's knucklebones or metal jacks, where players toss and pick up the pieces in various sequences, providing a traditional and challenging pastime",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She played knucklebones with her friends during recess."
+            },
+            {
+              "cf": "",
+              "x": "I remember playing knucklebones in the park when I was young."
+            },
+            {
+              "cf": "",
+              "x": "The game of knucklebones was popular in ancient times."
+            },
+            {
+              "cf": "",
+              "x": "He taught me how to play knucklebones using small pebbles."
+            },
+            {
+              "cf": "",
+              "x": "They spent the afternoon playing knucklebones, laughing and competing."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b9b2f054-f7fb-420d-9b56-62a87b3d9827",
       "word": "pick-up sticks",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGljay11cCBzdGlja3M&hash=af9d15c9cdb01e5d6d4ca784c362f4d13cbd21fa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cGljay11cCBzdGlja3M&hash=af9d15c9cdb01e5d6d4ca784c362f4d13cbd21fa&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -261,47 +323,105 @@
       "senses": [
         {
           "definition": "a classic game played with a set of thin sticks or straws, where players take turns trying to remove sticks from a pile without disturbing the others, providing a fun and strategic challenge",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "We played pick-up sticks after dinner, and it was a lot of fun."
+            },
+            {
+              "cf": "",
+              "x": "She was really good at pick-up sticks and always managed to get the most."
+            },
+            {
+              "cf": "",
+              "x": "It was a quiet afternoon, so we decided to sit down and play pick-up sticks."
+            },
+            {
+              "cf": "",
+              "x": "He challenged me to a game of pick-up sticks, and I lost on my first turn."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "bf98d125-3209-4aee-ac24-b8db45e6ad81",
       "word": "foosball",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9vc2JhbGw&hash=07e477e1d1f825c798862a5000ff3fac487367ab&lang=en&cache-only=0",
-      "phonetic_text": "fu:sbɔl",
+      "phonetic_text": "fus.bɔl",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9vc2JhbGw&hash=07e477e1d1f825c798862a5000ff3fac487367ab&lang=en&cache-only=0",
-      "phonetic_am_text": "foosbawl",
+      "phonetic_am_text": "foos.bawl",
       "img": "https://cdn.langeek.co/photo/32068/original/?type=jpeg",
       "pronunciation": "ˈfusˌbɔɫ",
       "senses": [
         {
           "definition": "a table game resembling football in which players attempt to score goals by turning side handles that have figures of football players attached to them",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "My friends and I often play foosball during our lunch breaks at work."
+            },
+            {
+              "cf": "",
+              "x": "I’ve never been great at foosball, but I enjoy playing with my family."
+            },
+            {
+              "cf": "",
+              "x": "He scored the winning goal in foosball with just seconds left on the clock."
+            },
+            {
+              "cf": "",
+              "x": "She challenged me to a foosball match, and I couldn’t turn it down."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "9780ce2c-26a8-4b9e-b3b8-cacd9c2b0690",
       "word": "air hockey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWlyIGhvY2tleQ&hash=bc57cea5f214ebbb1304336c0a24f845b36831d6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛr hɑ.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=YWlyIGhvY2tleQ&hash=bc57cea5f214ebbb1304336c0a24f845b36831d6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "er haa.ki",
       "img": "",
       "pronunciation": "ˈɛɹ hˈɑːki",
       "senses": [
         {
           "definition": "a tabletop game in which two players use paddles to hit a puck back and forth on a low-friction surface, attempting to score goals in each other's net",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "We played air hockey at the arcade and had so much fun."
+            },
+            {
+              "cf": "",
+              "x": "We spent the afternoon at the mall playing air hockey and eating snacks."
+            },
+            {
+              "cf": "",
+              "x": "My brother is really good at air hockey; he always wins when we play."
+            },
+            {
+              "cf": "",
+              "x": "We set up an air hockey tournament with our friends this weekend."
+            },
+            {
+              "cf": "",
+              "x": "She scored a goal with an amazing shot during our air hockey match."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7a677ed8-309c-4922-b204-6e6fcf20f4be",
       "word": "skee-ball",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2tlZS1iYWxs&hash=167c996c6e3f7163e92108342e642956bf181621&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=c2tlZS1iYWxs&hash=167c996c6e3f7163e92108342e642956bf181621&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -314,12 +434,13 @@
       ]
     },
     {
+      "id": "080e9906-73d5-4e1b-b172-314512b2f565",
       "word": "rock-paper-scissors",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9jay1wYXBlci1zY2lzc29ycw&hash=2631ad7da97ef90fae40e2e5c0f99bdc177e0574&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɑk-peɪ.pɜr-sɪrz",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9jay1wYXBlci1zY2lzc29ycw&hash=2631ad7da97ef90fae40e2e5c0f99bdc177e0574&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "raak-pei.pēr-sirz",
       "img": "",
       "pronunciation": "ɹˈɑːkpˈeɪpɚsˈɪsɚz",
       "senses": [
@@ -330,12 +451,13 @@
       ]
     },
     {
+      "id": "96dba363-17f6-44d4-9b64-190c837be6c9",
       "word": "hand clapping game",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFuZCBjbGFwcGluZyBnYW1l&hash=f4a3b0c08c534ae90a159734126e4478cdcd01c5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hænd klæ.pɪng geɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFuZCBjbGFwcGluZyBnYW1l&hash=f4a3b0c08c534ae90a159734126e4478cdcd01c5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hānd klā.ping geim",
       "img": "",
       "pronunciation": "hˈænd klˈæpɪŋ ɡˈeɪm",
       "senses": [
@@ -346,6 +468,7 @@
       ]
     },
     {
+      "id": "2c011d4c-b051-42a1-a889-4dfc8382625d",
       "word": "slide",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2xpZGU&hash=7c75540d0c8ac2d61aa80cf8ad510510ed103da7&lang=en&cache-only=0",
@@ -362,10 +485,11 @@
       ]
     },
     {
+      "id": "0b994871-999e-4af4-b5e3-cf96ef2b2c14",
       "word": "odds and evens",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b2RkcyBhbmQgZXZlbnM&hash=2e4079efa85205a9b6dd2699cb83160bbadb29f1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b2RkcyBhbmQgZXZlbnM&hash=2e4079efa85205a9b6dd2699cb83160bbadb29f1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -378,12 +502,13 @@
       ]
     },
     {
+      "id": "3d44f6dc-89be-480d-a079-4b0e81a1fd42",
       "word": "thumb war",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGh1bWIgd2Fy&hash=db8fd37ed994a6faa8d7b592959ec674ae53c223&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "θʌm wɑr",
       "phonetic_am": "https://tts.langeek.co/read?text=dGh1bWIgd2Fy&hash=db8fd37ed994a6faa8d7b592959ec674ae53c223&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tham vaar",
       "img": "",
       "pronunciation": "θˈʌm wˈɔːɹ",
       "senses": [
@@ -394,55 +519,57 @@
       ]
     },
     {
+      "id": "095f450e-9e1d-4fb3-b9d3-2098b509a928",
       "word": "pat-a-cake",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGF0LWEtY2FrZQ&hash=89c62cfbdfa03f0eb0fc91aa63a6ba097bb5e317&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pæt-ə-keɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=cGF0LWEtY2FrZQ&hash=89c62cfbdfa03f0eb0fc91aa63a6ba097bb5e317&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pāt-ē-keik",
       "img": "",
       "pronunciation": "pˈæɾɐkˈeɪk",
       "senses": [
         {
           "definition": "a hand-clapping game usually accompanied by a rhyme, where two players clap their hands together in a pattern while reciting the rhyme",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The children were laughing as they played pat-a-cake together."
+            },
+            {
+              "cf": "",
+              "x": "My daughter loves when I play pat-a-cake with her before bedtime."
+            },
+            {
+              "cf": "",
+              "x": "She taught her little brother how to do pat-a-cake while they sat on the floor."
+            },
+            {
+              "cf": "",
+              "x": "During the playdate, they spent hours playing pat-a-cake and singing the rhyme."
+            },
+            {
+              "cf": "",
+              "x": "The toddler giggled as we played pat-a-cake, trying to mimic the clapping pattern."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "3f921ccb-f4fb-490a-902c-a82a6a2fb5f1",
       "word": "truth or dare",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJ1dGggb3IgZGFyZQ&hash=522e371bbd11994c4ddd58590607bf6b8863513b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "truθ ɔ:r dɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJ1dGggb3IgZGFyZQ&hash=522e371bbd11994c4ddd58590607bf6b8863513b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trooth awr der",
       "img": "",
       "pronunciation": "tɹˈuːθ ɔːɹ dˈɛɹ",
       "senses": [
         {
           "definition": "a game where players use hand gestures to answer questions or perform dares, often used in conjunction with spoken questions",
-          "examples": [
-            {
-              "cf": "",
-              "x": "We played truth or dare at the party and ended up laughing the whole night."
-            },
-            {
-              "cf": "",
-              "x": "He picked \"truth\" in the game of truth or dare and ended up revealing a funny secret."
-            },
-            {
-              "cf": "",
-              "x": "We sat in a circle, ready to start a game of truth or dare."
-            },
-            {
-              "cf": "",
-              "x": "Truth or dare can get a bit wild, especially when the dares get more creative."
-            },
-            {
-              "cf": "",
-              "x": "At the sleepover, truth or dare was the highlight of the night."
-            }
-          ]
+          "examples": []
         }
       ]
     }

@@ -1,16 +1,18 @@
 {
+  "id": "621d0101-c35e-468f-9116-7eeb2d6ddd97",
   "topic": "personal_care",
   "title": "Hair Care",
   "lesson": "lesson_5",
   "word_list": [
     {
-      "word": "blow-dry",
+      "id": "fb30e576-d415-4a16-a332-6fe57d7acf39",
+      "word": "to blow-dry",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmxvdy1kcnk&hash=ec1d343e29106426f280ee7942f6cf2e18c5bfab&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bloʊ-draɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmxvdy1kcnk&hash=ec1d343e29106426f280ee7942f6cf2e18c5bfab&lang=en&cache-only=0",
-      "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/22496/original/?type=jpeg",
+      "phonetic_am_text": "blooo-drai",
+      "img": "https://cdn.langeek.co/photo/61112/original/?type=jpeg",
       "pronunciation": "blˈoʊdɹˈaɪ",
       "senses": [
         {
@@ -20,7 +22,8 @@
       ]
     },
     {
-      "word": "brush",
+      "id": "56e20ce0-ee6d-464c-8707-8a4ee7cbcfd5",
+      "word": "to brush",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJ1c2g&hash=3064b2af058909b9f8fab8b4f202c646778dd744&lang=en&cache-only=0",
       "phonetic_text": "brʌʃ",
@@ -57,12 +60,13 @@
       ]
     },
     {
-      "word": "condition",
+      "id": "5b67b7e3-15b6-4ffc-a353-0e37d4cb7064",
+      "word": "to condition",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29uZGl0aW9u&hash=606558002553c101a4875caac6ed690b6908055f&lang=en&cache-only=0",
-      "phonetic_text": "kəndɪʃən",
+      "phonetic_text": "kən.dɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29uZGl0aW9u&hash=606558002553c101a4875caac6ed690b6908055f&lang=en&cache-only=0",
-      "phonetic_am_text": "kēndishēn",
+      "phonetic_am_text": "kēn.di.shēn",
       "img": "https://cdn.langeek.co/photo/26114/original/?type=jpeg",
       "pronunciation": "kənˈdɪʃən",
       "senses": [
@@ -94,7 +98,8 @@
       ]
     },
     {
-      "word": "crimp",
+      "id": "38155383-939d-48bc-a766-e9b628fb9f57",
+      "word": "to crimp",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3JpbXA&hash=cae59c9d2af74dd239e07f7a8cdaeacfbb6e1ff1&lang=en&cache-only=0",
       "phonetic_text": "krɪmp",
@@ -131,14 +136,15 @@
       ]
     },
     {
-      "word": "crop",
+      "id": "5cfb9294-a8ac-465f-bca2-e2bec763c985",
+      "word": "to crop",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3JvcA&hash=335340e80780130d51d7ba0c5ffb786c0412e8fb&lang=en&cache-only=0",
-      "phonetic_text": "krɑ:p",
+      "phonetic_text": "krɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3JvcA&hash=335340e80780130d51d7ba0c5ffb786c0412e8fb&lang=en&cache-only=0",
       "phonetic_am_text": "kraap",
       "img": "https://cdn.langeek.co/photo/26116/original/?type=jpeg",
-      "pronunciation": "ˈkɹɑp",
+      "pronunciation": "krɑp",
       "senses": [
         {
           "definition": "to cut someone's hair short",
@@ -168,14 +174,15 @@
       ]
     },
     {
-      "word": "curl",
+      "id": "dd3e8e4b-4efc-45e7-bab0-1bccb6619303",
+      "word": "to curl",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3VybA&hash=f5f4d808110df612f3559bcd86cdce120c679178&lang=en&cache-only=0",
       "phonetic_text": "kɜrl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3VybA&hash=f5f4d808110df612f3559bcd86cdce120c679178&lang=en&cache-only=0",
       "phonetic_am_text": "kērl",
       "img": "https://cdn.langeek.co/photo/26118/original/?type=jpeg",
-      "pronunciation": "ˈkɝɫ",
+      "pronunciation": "kɝːl",
       "senses": [
         {
           "definition": "to form or shape hair into a series of loops or spirals using a curling iron, rollers, or other styling tools",
@@ -205,12 +212,13 @@
       ]
     },
     {
-      "word": "delouse",
+      "id": "f503c2f6-dc9f-4e50-96ba-23b90a80751c",
+      "word": "to delouse",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVsb3VzZQ&hash=95af0cf3b65e607751a0e7619e89b68fad9567ca&lang=en&cache-only=0",
-      "phonetic_text": "dilaʊz",
+      "phonetic_text": "di.laʊz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVsb3VzZQ&hash=95af0cf3b65e607751a0e7619e89b68fad9567ca&lang=en&cache-only=0",
-      "phonetic_am_text": "dilawz",
+      "phonetic_am_text": "di.laooz",
       "img": "",
       "pronunciation": "ˌdiˈɫaʊz",
       "senses": [
@@ -221,7 +229,8 @@
       ]
     },
     {
-      "word": "dye",
+      "id": "28b27ed8-2856-4018-8721-5c8888016c59",
+      "word": "to dye",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHll&hash=3860dfcf2cde18d959fcde366cb639be13edd7b5&lang=en&cache-only=0",
       "phonetic_text": "daɪ",
@@ -258,14 +267,15 @@
       ]
     },
     {
-      "word": "fix",
+      "id": "e909c38b-0b9d-4425-b91b-5873ef49a9ab",
+      "word": "to fix",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZml4&hash=9db26550a6e1fed158f2c8a643452152d27fec85&lang=en&cache-only=0",
       "phonetic_text": "fɪks",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZml4&hash=9db26550a6e1fed158f2c8a643452152d27fec85&lang=en&cache-only=0",
       "phonetic_am_text": "fiks",
       "img": "https://cdn.langeek.co/photo/26120/original/?type=jpeg",
-      "pronunciation": "ˈfɪks",
+      "pronunciation": "fɪks",
       "senses": [
         {
           "definition": "(of hair, makeup, or outfit) to rearrange in order to look nice and tidy",
@@ -295,14 +305,15 @@
       ]
     },
     {
+      "id": "8023529d-523f-41f6-83a2-aeb6e9fa0bd5",
       "word": "haircut",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFpcmN1dA&hash=052be4f709dd2fa8e72d6da2d20b8e21b867069d&lang=en&cache-only=0",
-      "phonetic_text": "hɛrkʌt",
+      "phonetic_text": "hɛr.kʌt",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFpcmN1dA&hash=052be4f709dd2fa8e72d6da2d20b8e21b867069d&lang=en&cache-only=0",
-      "phonetic_am_text": "herkat",
+      "phonetic_am_text": "her.kat",
       "img": "https://cdn.langeek.co/photo/26172/original/?type=jpeg",
-      "pronunciation": "ˈhɛɹˌkət",
+      "pronunciation": "ˈhɛrˌkʌt",
       "senses": [
         {
           "definition": "the act of cutting hair or having our hair cut",
@@ -311,12 +322,13 @@
       ]
     },
     {
+      "id": "d120bc0c-12fb-41dc-814c-c624dbe10d16",
       "word": "hairstyling",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFpcnN0eWxpbmc&hash=6fc08039201c97c114ed62f688bda07ab8382710&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɛr.staɪ.lɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFpcnN0eWxpbmc&hash=6fc08039201c97c114ed62f688bda07ab8382710&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "her.stai.ling",
       "img": "https://cdn.langeek.co/photo/26148/original/?type=jpeg",
       "pronunciation": "hˈɛɹstaɪlɪŋ",
       "senses": [
@@ -327,12 +339,13 @@
       ]
     },
     {
+      "id": "fda6190f-1f9a-49a8-ba97-8f30ca7c4330",
       "word": "styling",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3R5bGluZw&hash=40e46d12b4e91fcf4a86ab65ae1f5e17d07773f8&lang=en&cache-only=0",
-      "phonetic_text": "staɪlɪng",
+      "phonetic_text": "staɪ.lɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=c3R5bGluZw&hash=40e46d12b4e91fcf4a86ab65ae1f5e17d07773f8&lang=en&cache-only=0",
-      "phonetic_am_text": "stailing",
+      "phonetic_am_text": "stai.ling",
       "img": "https://cdn.langeek.co/photo/51700/original/?type=jpeg",
       "pronunciation": "ˈstaɪɫɪŋ",
       "senses": [
@@ -343,7 +356,8 @@
       ]
     },
     {
-      "word": "primp",
+      "id": "d7ed0716-2491-4df8-a1f4-eba6b2b54ce3",
+      "word": "to primp",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJpbXA&hash=8f7733e373528b6d200a7cc79e55fd293b284f8b&lang=en&cache-only=0",
       "phonetic_text": "prɪmp",
@@ -359,14 +373,15 @@
       ]
     },
     {
-      "word": "set",
+      "id": "27039872-e075-44b8-ab9c-c2ebae982ab4",
+      "word": "to set",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2V0&hash=6e48eaf638484e3be1206c21cf243d021ed39f10&lang=en&cache-only=0",
       "phonetic_text": "sɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2V0&hash=6e48eaf638484e3be1206c21cf243d021ed39f10&lang=en&cache-only=0",
       "phonetic_am_text": "set",
       "img": "https://cdn.langeek.co/photo/26120/original/?type=jpeg",
-      "pronunciation": "ˈsɛt",
+      "pronunciation": "sɛt",
       "senses": [
         {
           "definition": "to arrange wet hair in a way that stays the same after being dried",
@@ -396,7 +411,8 @@
       ]
     },
     {
-      "word": "trim",
+      "id": "155133b5-76a3-4a20-b56c-ea27994f9af8",
+      "word": "to trim",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHJpbQ&hash=e9e9f914ed37638954329a70b07a0d7042db1c66&lang=en&cache-only=0",
       "phonetic_text": "trɪm",
@@ -429,12 +445,13 @@
       ]
     },
     {
+      "id": "52e625fe-a595-4e83-a7b1-628e56ee1dc9",
       "word": "grooming",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3Jvb21pbmc&hash=ed5af81ff29cfc3e9b770d614ad4c7bb1872f690&lang=en&cache-only=0",
-      "phonetic_text": "gru:mɪng",
+      "phonetic_text": "gru.mɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3Jvb21pbmc&hash=ed5af81ff29cfc3e9b770d614ad4c7bb1872f690&lang=en&cache-only=0",
-      "phonetic_am_text": "grooming",
+      "phonetic_am_text": "groo.ming",
       "img": "https://cdn.langeek.co/photo/26128/original/?type=jpeg",
       "pronunciation": "ˈɡɹumɪŋ",
       "senses": [
@@ -445,12 +462,13 @@
       ]
     },
     {
+      "id": "4e8a93e3-40f1-4cd4-a536-b81521738c71",
       "word": "hairdo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFpcmRv&hash=70f9380ed00b3a8c38bf975aaea9f8ac2ba20e83&lang=en&cache-only=0",
-      "phonetic_text": "hɛrdu",
+      "phonetic_text": "hɛr.du",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFpcmRv&hash=70f9380ed00b3a8c38bf975aaea9f8ac2ba20e83&lang=en&cache-only=0",
-      "phonetic_am_text": "herdu",
+      "phonetic_am_text": "her.doo",
       "img": "https://cdn.langeek.co/photo/51937/original/haircut?type=jpeg",
       "pronunciation": "ˈhɛɹˌdu",
       "senses": [
@@ -461,12 +479,13 @@
       ]
     },
     {
-      "word": "backcomb",
+      "id": "41e48da0-5099-440a-ad58-dc3068f497f4",
+      "word": "to backcomb",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmFja2NvbWI&hash=40feb8256d208b61100d1816813ebfc354637cd8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæk.koʊm",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmFja2NvbWI&hash=40feb8256d208b61100d1816813ebfc354637cd8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bāk.kooom",
       "img": "https://cdn.langeek.co/photo/26174/original/?type=jpeg",
       "pronunciation": "bˈækkoʊm",
       "senses": [
@@ -477,12 +496,13 @@
       ]
     },
     {
-      "word": "volumize",
+      "id": "717d984c-9c7b-4488-8de7-98e92bbb1d76",
+      "word": "to volumize",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdm9sdW1pemU&hash=e8c91174a688b1a2e3584b67c1835eafc3d953a0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "vɑ:.lu:.maɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdm9sdW1pemU&hash=e8c91174a688b1a2e3584b67c1835eafc3d953a0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vaa.loo.maiz",
       "img": "https://cdn.langeek.co/photo/26136/original/?type=jpeg",
       "pronunciation": "vˈɑːluːmˌaɪz",
       "senses": [
@@ -493,12 +513,13 @@
       ]
     },
     {
-      "word": "untangle",
+      "id": "8c08c87b-af01-4d4f-a568-d94c48dcdd4e",
+      "word": "to untangle",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdW50YW5nbGU&hash=299db11ad2f3463ec68e6a9c9421a06669ad7997&lang=en&cache-only=0",
-      "phonetic_text": "əntængəl",
+      "phonetic_text": "ʌn.tæn.gəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdW50YW5nbGU&hash=299db11ad2f3463ec68e6a9c9421a06669ad7997&lang=en&cache-only=0",
-      "phonetic_am_text": "ēntāngēl",
+      "phonetic_am_text": "an.tān.gēl",
       "img": "https://cdn.langeek.co/photo/17581/original/brush?type=jpeg",
       "pronunciation": "ənˈtæŋɡəɫ",
       "senses": [
@@ -509,12 +530,13 @@
       ]
     },
     {
+      "id": "09548de3-858d-4141-9e87-b6b26e15fd12",
       "word": "coiffure",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29pZmZ1cmU&hash=29bb41bd9c252c9db35ed62c24e942c865296d38&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɔɪ.fjʊr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29pZmZ1cmU&hash=29bb41bd9c252c9db35ed62c24e942c865296d38&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kawi.fyoor",
       "img": "https://cdn.langeek.co/photo/26148/original/?type=jpeg",
       "pronunciation": "kˈɔɪfjʊɹ",
       "senses": [
@@ -525,6 +547,7 @@
       ]
     },
     {
+      "id": "6d00ab74-25c6-4a54-be32-744b705f6d6f",
       "word": "cut",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3V0&hash=d16f1388479dd1933f1fbaa7dbf36f5a5619c760&lang=en&cache-only=0",
@@ -541,7 +564,8 @@
       ]
     },
     {
-      "word": "braid",
+      "id": "53ac34a6-93f0-4ad6-b7cc-6d3168c595a5",
+      "word": "to braid",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJhaWQ&hash=9c2d4f99efa01372a792f8ed4a93076a496d08e7&lang=en&cache-only=0",
       "phonetic_text": "breɪd",
@@ -574,14 +598,15 @@
       ]
     },
     {
-      "word": "comb",
+      "id": "1ae13d2b-7abb-4cd8-b97b-e0d51c6ce89f",
+      "word": "to comb",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29tYg&hash=0f5f08ee9b7dcba5e310c04f2333ad698189c6ac&lang=en&cache-only=0",
       "phonetic_text": "koʊm",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29tYg&hash=0f5f08ee9b7dcba5e310c04f2333ad698189c6ac&lang=en&cache-only=0",
-      "phonetic_am_text": "kowm",
+      "phonetic_am_text": "kooom",
       "img": "https://cdn.langeek.co/photo/47582/original/?type=jpeg",
-      "pronunciation": "ˈkoʊm",
+      "pronunciation": "koʊm",
       "senses": [
         {
           "definition": "to use a tool with narrow, evenly spaced teeth to untangle and arrange hair",
@@ -607,7 +632,8 @@
       ]
     },
     {
-      "word": "gel",
+      "id": "eb845280-5091-4a5f-aad4-2cf98d5e7cac",
+      "word": "to gel",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2Vs&hash=7345ec19464600311c8e07583246876d30fe3102&lang=en&cache-only=0",
       "phonetic_text": "ʤɛl",
@@ -623,12 +649,13 @@
       ]
     },
     {
-      "word": "highlight",
+      "id": "e54e89e1-c14a-42d9-a9ea-c4fde0a0c343",
+      "word": "to highlight",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGlnaGxpZ2h0&hash=0a5f640ec55bb996a340f15369a72d38fe81c695&lang=en&cache-only=0",
-      "phonetic_text": "haɪlaɪt",
+      "phonetic_text": "haɪ.laɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGlnaGxpZ2h0&hash=0a5f640ec55bb996a340f15369a72d38fe81c695&lang=en&cache-only=0",
-      "phonetic_am_text": "hailait",
+      "phonetic_am_text": "hai.lait",
       "img": "https://cdn.langeek.co/photo/26156/original/?type=jpeg",
       "pronunciation": "ˈhaɪˌɫaɪt",
       "senses": [
@@ -660,7 +687,8 @@
       ]
     },
     {
-      "word": "layer",
+      "id": "d080503e-ca21-498d-96f2-3699d2e121f7",
+      "word": "to layer",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGF5ZXI&hash=65004332259049f16674c5a2a20fd0d7a5cedea1&lang=en&cache-only=0",
       "phonetic_text": "leɪər",
@@ -697,7 +725,8 @@
       ]
     },
     {
-      "word": "part",
+      "id": "ad134d80-cd5b-4403-a12c-18ffc6a633f6",
+      "word": "to part",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGFydA&hash=16af9b5e5b97795e300041bb949a3afbcdcc5149&lang=en&cache-only=0",
       "phonetic_text": "pɑ:rt",
@@ -734,14 +763,15 @@
       ]
     },
     {
-      "word": "perm",
+      "id": "16058fa5-e06e-4217-8eac-a8366ace9a37",
+      "word": "to perm",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGVybQ&hash=499b533433995f37e282c6d56f8b668358ce00fe&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɜ:m",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGVybQ&hash=499b533433995f37e282c6d56f8b668358ce00fe&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pēm",
       "img": "https://cdn.langeek.co/photo/26090/original/?type=jpeg",
-      "pronunciation": "pˈɜːm",
+      "pronunciation": "pɝm",
       "senses": [
         {
           "definition": "to make a straight hair become curly for a period of time, using chemicals",
@@ -750,7 +780,8 @@
       ]
     },
     {
-      "word": "plait",
+      "id": "2776f006-df0c-47c7-9c43-7ff33c62deec",
+      "word": "to plait",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGxhaXQ&hash=16af3195c7c45fe576a8babf17eb3f56ca453ea1&lang=en&cache-only=0",
       "phonetic_text": "pleɪt",
@@ -766,12 +797,13 @@
       ]
     },
     {
-      "word": "slick back",
+      "id": "9b94e459-05b5-42df-9bac-0c0b2d9a7e48",
+      "word": "to slick back",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2xpY2sgYmFjaw&hash=b49913706479c63084ad681f02b5c698604a4049&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "slɪk bæk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2xpY2sgYmFjaw&hash=b49913706479c63084ad681f02b5c698604a4049&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "slik bāk",
       "img": "",
       "pronunciation": "slˈɪk bˈæk",
       "senses": [
@@ -782,12 +814,13 @@
       ]
     },
     {
-      "word": "scrunch-dry",
+      "id": "6814c8b9-ad9e-41cb-9cad-16379a7d8729",
+      "word": "to scrunch-dry",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NydW5jaC1kcnk&hash=a17998399b18cd8fe91716f9ec2b9519ddf4ef78&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skrənʧ-draɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NydW5jaC1kcnk&hash=a17998399b18cd8fe91716f9ec2b9519ddf4ef78&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skrēnch-drai",
       "img": "",
       "pronunciation": "skɹʌntʃ-dɹaɪ",
       "senses": [
@@ -798,12 +831,13 @@
       ]
     },
     {
-      "word": "shampoo",
+      "id": "780a3213-2ea9-4170-9150-71da3563285b",
+      "word": "to shampoo",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2hhbXBvbw&hash=f349537de63c9b248c8b2eddf80014b92dfeddd8&lang=en&cache-only=0",
-      "phonetic_text": "ʃæmpu:",
+      "phonetic_text": "ʃæm.pu",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2hhbXBvbw&hash=f349537de63c9b248c8b2eddf80014b92dfeddd8&lang=en&cache-only=0",
-      "phonetic_am_text": "shāmpoo",
+      "phonetic_am_text": "shām.poo",
       "img": "https://cdn.langeek.co/photo/51767/original/?type=jpeg",
       "pronunciation": "ʃæmˈpu",
       "senses": [
@@ -823,12 +857,13 @@
       ]
     },
     {
-      "word": "sleek down",
+      "id": "30d25443-afe3-45a5-9c0e-e19bfd3bc171",
+      "word": "to sleek down",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2xlZWsgZG93bg&hash=56c934935daadc1d249b7fa27fa087e6b94062f6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "slik daʊn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2xlZWsgZG93bg&hash=56c934935daadc1d249b7fa27fa087e6b94062f6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "slik daoon",
       "img": "",
       "pronunciation": "slˈiːk dˈaʊn",
       "senses": [
@@ -860,7 +895,8 @@
       ]
     },
     {
-      "word": "slick",
+      "id": "876d6749-8564-48d5-9b95-ba83eacfdc86",
+      "word": "to slick",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2xpY2s&hash=143dfa7abcb30747660bd30077b979825481d30d&lang=en&cache-only=0",
       "phonetic_text": "slɪk",
@@ -897,12 +933,13 @@
       ]
     },
     {
-      "word": "streak",
+      "id": "de3cdeb5-5ffb-4db4-a640-78ee8eac87f0",
+      "word": "to streak",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RyZWFr&hash=901affa2afc203d766a65e6a8d9bd3d6ccc14d34&lang=en&cache-only=0",
-      "phonetic_text": "stri:k",
+      "phonetic_text": "strik",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RyZWFr&hash=901affa2afc203d766a65e6a8d9bd3d6ccc14d34&lang=en&cache-only=0",
-      "phonetic_am_text": "streek",
+      "phonetic_am_text": "strik",
       "img": "",
       "pronunciation": "ˈstɹik",
       "senses": [
@@ -913,12 +950,13 @@
       ]
     },
     {
-      "word": "tease",
+      "id": "1661dbdc-c0ad-44d8-98ca-f739ff659794",
+      "word": "to tease",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGVhc2U&hash=0076cc593823cddd3beac7258cb0a7b055f6ba99&lang=en&cache-only=0",
-      "phonetic_text": "ti:z",
+      "phonetic_text": "tiz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGVhc2U&hash=0076cc593823cddd3beac7258cb0a7b055f6ba99&lang=en&cache-only=0",
-      "phonetic_am_text": "teez",
+      "phonetic_am_text": "tiz",
       "img": "https://cdn.langeek.co/photo/26134/original/?type=jpeg",
       "pronunciation": "ˈtiz",
       "senses": [
@@ -950,7 +988,8 @@
       ]
     },
     {
-      "word": "tint",
+      "id": "4f3cc1c0-4b81-494b-8f7f-9f95e181d882",
+      "word": "to tint",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGludA&hash=68c6d5a6cfed0cb3e6a8c67fd44a6ea22d50d5ee&lang=en&cache-only=0",
       "phonetic_text": "tɪnt",
@@ -987,12 +1026,13 @@
       ]
     },
     {
-      "word": "tousle",
+      "id": "8ad23f71-fdac-4b6e-8936-d5f46af3e867",
+      "word": "to tousle",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdG91c2xl&hash=0012b7303d62eee11dcb6c9f2668247f552c21b9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "taʊ.səl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdG91c2xl&hash=0012b7303d62eee11dcb6c9f2668247f552c21b9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "taoo.sēl",
       "img": "",
       "pronunciation": "tˈaʊsəl",
       "senses": [
@@ -1003,14 +1043,15 @@
       ]
     },
     {
-      "word": "relax",
+      "id": "3570f73a-ed0e-4c77-8f6f-a33ddda423d2",
+      "word": "to relax",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVsYXg&hash=fe7e5840bc77b43731a7122f8b5d0ba1df6cedf3&lang=en&cache-only=0",
-      "phonetic_text": "rɪlæks",
+      "phonetic_text": "rɪ.læks",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVsYXg&hash=fe7e5840bc77b43731a7122f8b5d0ba1df6cedf3&lang=en&cache-only=0",
-      "phonetic_am_text": "rilāks",
+      "phonetic_am_text": "ri.lāks",
       "img": "",
-      "pronunciation": "ɹiˈɫæks/, /ɹɪˈɫæks",
+      "pronunciation": "rɪˈlæks",
       "senses": [
         {
           "definition": "to loosen or reduce curl or wave pattern in the hair for a straighter or smoother look, often using heat styling tools or techniques",
@@ -1040,14 +1081,15 @@
       ]
     },
     {
-      "word": "mousse",
+      "id": "15b0d0ab-96b3-402e-90ba-ab84273b4aa8",
+      "word": "to mousse",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbW91c3Nl&hash=ec73907a1ddff27a84a56bc24a0d9ed91103eed4&lang=en&cache-only=0",
-      "phonetic_text": "mu:s",
+      "phonetic_text": "mus",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbW91c3Nl&hash=ec73907a1ddff27a84a56bc24a0d9ed91103eed4&lang=en&cache-only=0",
       "phonetic_am_text": "moos",
       "img": "https://cdn.langeek.co/photo/26086/original/?type=jpeg",
-      "pronunciation": "ˈmus",
+      "pronunciation": "muːs",
       "senses": [
         {
           "definition": "to style someone's hair with a light foamy product",
@@ -1056,12 +1098,13 @@
       ]
     },
     {
-      "word": "sweep",
+      "id": "adfde6c6-a546-4bb1-be50-89eea284bed0",
+      "word": "to sweep",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3dlZXA&hash=047f2fa247bb8c300f1c1cde7be2ad1dfc585606&lang=en&cache-only=0",
-      "phonetic_text": "swi:p",
+      "phonetic_text": "swip",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3dlZXA&hash=047f2fa247bb8c300f1c1cde7be2ad1dfc585606&lang=en&cache-only=0",
-      "phonetic_am_text": "sweep",
+      "phonetic_am_text": "svip",
       "img": "https://cdn.langeek.co/photo/26208/original/?type=jpeg",
       "pronunciation": "ˈswip",
       "senses": [
@@ -1093,12 +1136,13 @@
       ]
     },
     {
-      "word": "scrunch",
+      "id": "991bf1dd-3597-4c26-8ebf-3826d607bf2c",
+      "word": "to scrunch",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NydW5jaA&hash=60ceeff0a0c8316a491fa51e3eaf2a55c51fb16c&lang=en&cache-only=0",
-      "phonetic_text": "skrʌnʧ",
+      "phonetic_text": "skrənʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NydW5jaA&hash=60ceeff0a0c8316a491fa51e3eaf2a55c51fb16c&lang=en&cache-only=0",
-      "phonetic_am_text": "skranch",
+      "phonetic_am_text": "skrēnch",
       "img": "https://cdn.langeek.co/photo/26200/original/?type=jpeg",
       "pronunciation": "ˈskɹəntʃ",
       "senses": [
@@ -1130,12 +1174,13 @@
       ]
     },
     {
+      "id": "774ab87e-c173-4867-8bc1-879f25334cc9",
       "word": "haircare",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFpcmNhcmU&hash=f529c12757096a2be1d4e9fd5d833cd53bd4184c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɛr.kɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFpcmNhcmU&hash=f529c12757096a2be1d4e9fd5d833cd53bd4184c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "her.ker",
       "img": "",
       "pronunciation": "hˈɛɹkɛɹ",
       "senses": [
@@ -1146,12 +1191,13 @@
       ]
     },
     {
-      "word": "henna",
+      "id": "711fb652-932c-4314-a85e-5efc53d77b4f",
+      "word": "to henna",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGVubmE&hash=aaf7bbec4cc1ca0c1bad73d8c73e9c698f61cc1d&lang=en&cache-only=0",
-      "phonetic_text": "hɛnə",
+      "phonetic_text": "hɛ.nə",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGVubmE&hash=aaf7bbec4cc1ca0c1bad73d8c73e9c698f61cc1d&lang=en&cache-only=0",
-      "phonetic_am_text": "henē",
+      "phonetic_am_text": "he.nē",
       "img": "",
       "pronunciation": "ˈhɛnə",
       "senses": [
@@ -1162,12 +1208,13 @@
       ]
     },
     {
-      "word": "pomade",
+      "id": "63edff2c-0904-4c92-b34a-cfc3253e50b3",
+      "word": "to pomade",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcG9tYWRl&hash=aa4158fac4150d895d367e888f2b81381dd6eb10&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɑ:.meɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcG9tYWRl&hash=aa4158fac4150d895d367e888f2b81381dd6eb10&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "paa.meid",
       "img": "https://cdn.langeek.co/photo/26164/original/?type=jpeg",
       "pronunciation": "pˈɑːmeɪd",
       "senses": [
@@ -1178,14 +1225,15 @@
       ]
     },
     {
-      "word": "groom",
+      "id": "442a6af7-f8a2-460b-b4c2-ec3644999d19",
+      "word": "to groom",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ3Jvb20&hash=0c2f8d24dd8f0e04d66ec4e6d98fc5a92a3ad693&lang=en&cache-only=0",
-      "phonetic_text": "gru:m",
+      "phonetic_text": "grum",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ3Jvb20&hash=0c2f8d24dd8f0e04d66ec4e6d98fc5a92a3ad693&lang=en&cache-only=0",
       "phonetic_am_text": "groom",
       "img": "https://cdn.langeek.co/photo/26128/original/?type=jpeg",
-      "pronunciation": "ˈɡɹum",
+      "pronunciation": "ɡruːm",
       "senses": [
         {
           "definition": "to make someone look neat and clean by fixing their hair, clothes, or overall appearance",

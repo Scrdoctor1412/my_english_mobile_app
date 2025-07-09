@@ -1,15 +1,17 @@
 {
+  "id": "c2db3467-ce38-4848-a931-8a088c74086e",
   "topic": "food_and_drink_preparation",
   "title": "Food Preservation",
   "lesson": "lesson_15",
   "word_list": [
     {
-      "word": "bottle",
+      "id": "e2a3c8a8-e283-499d-9f69-12c1e9ee21b6",
+      "word": "to bottle",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYm90dGxl&hash=6a9888bd84737a18a92e7c87ef8907728b093af0&lang=en&cache-only=0",
-      "phonetic_text": "bɑ:təl",
+      "phonetic_text": "bɑ:.təl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYm90dGxl&hash=6a9888bd84737a18a92e7c87ef8907728b093af0&lang=en&cache-only=0",
-      "phonetic_am_text": "baatēl",
+      "phonetic_am_text": "baa.tēl",
       "img": "https://cdn.langeek.co/photo/48633/original/bottle?type=jpeg",
       "pronunciation": "ˈbɑːtəl",
       "senses": [
@@ -41,14 +43,15 @@
       ]
     },
     {
-      "word": "can",
+      "id": "4e881e00-2fa1-4e89-a469-02b76a447381",
+      "word": "to can",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2Fu&hash=661c67d77067994821f422ca4c19803876afcdc7&lang=en&cache-only=0",
       "phonetic_text": "kæn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2Fu&hash=661c67d77067994821f422ca4c19803876afcdc7&lang=en&cache-only=0",
       "phonetic_am_text": "kān",
       "img": "",
-      "pronunciation": "ˈkæn/, /kən",
+      "pronunciation": "kæn",
       "senses": [
         {
           "definition": "to preserve food by sealing it in an airtight container, typically made of metal, through sterilization and vacuum sealing",
@@ -78,14 +81,15 @@
       ]
     },
     {
-      "word": "cure",
+      "id": "8d264f5c-4871-4e6b-96e4-a7b5b8313824",
+      "word": "to cure",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3VyZQ&hash=de4757c833353832fc94eb61695e046e19568ed7&lang=en&cache-only=0",
       "phonetic_text": "kjʊr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY3VyZQ&hash=de4757c833353832fc94eb61695e046e19568ed7&lang=en&cache-only=0",
-      "phonetic_am_text": "kyur",
+      "phonetic_am_text": "kyoor",
       "img": "https://cdn.langeek.co/photo/37790/original/?type=jpeg",
-      "pronunciation": "ˈkjʊɹ",
+      "pronunciation": "kjʊr",
       "senses": [
         {
           "definition": "to preserve or flavor food by treating it with salt, sugar, or spices",
@@ -115,12 +119,13 @@
       ]
     },
     {
-      "word": "dehydrate",
+      "id": "b99ea689-3a46-4803-9c83-1835d628b627",
+      "word": "to dehydrate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVoeWRyYXRl&hash=9a2f0217c09b1ac06c41697cd5b1c4e1a009cf63&lang=en&cache-only=0",
-      "phonetic_text": "dɪhaɪdreɪt",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVoeWRyYXRl&hash=9a2f0217c09b1ac06c41697cd5b1c4e1a009cf63&lang=en&cache-only=0",
-      "phonetic_am_text": "dihaidreit",
+      "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/37966/original/?type=jpeg",
       "pronunciation": "dɪˈhaɪdɹeɪt",
       "senses": [
@@ -152,14 +157,15 @@
       ]
     },
     {
-      "word": "dry",
+      "id": "be9460de-bb5b-49de-93a7-1659c1a3c64d",
+      "word": "to dry",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJ5&hash=6ce2c16583e2d04e81a27150d49325b810e66af5&lang=en&cache-only=0",
       "phonetic_text": "draɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZHJ5&hash=6ce2c16583e2d04e81a27150d49325b810e66af5&lang=en&cache-only=0",
       "phonetic_am_text": "drai",
       "img": "",
-      "pronunciation": "ˈdɹaɪ",
+      "pronunciation": "draɪ",
       "senses": [
         {
           "definition": "to remove moisture from something, such as food or flowers, to preserve it, typically by exposing them to air, heat, or both",
@@ -189,12 +195,13 @@
       ]
     },
     {
-      "word": "flash-freeze",
+      "id": "d727fc4f-28aa-4f98-99da-bf017d3d8d7c",
+      "word": "to flash-freeze",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmxhc2gtZnJlZXpl&hash=1ff09817e4c6bab47ea9d22d12ec650d1b74e1bb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "flæʃ-friz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmxhc2gtZnJlZXpl&hash=1ff09817e4c6bab47ea9d22d12ec650d1b74e1bb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "flāsh-friz",
       "img": "",
       "pronunciation": "flˈæʃfɹˈiːz",
       "senses": [
@@ -205,14 +212,15 @@
       ]
     },
     {
-      "word": "freeze",
+      "id": "8a780a99-78ec-4c21-a33a-219c49cd1700",
+      "word": "to freeze",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZnJlZXpl&hash=8194175dffa7d6f8052c0d040b20e7ca987eb2a6&lang=en&cache-only=0",
-      "phonetic_text": "fri:z",
+      "phonetic_text": "friz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZnJlZXpl&hash=8194175dffa7d6f8052c0d040b20e7ca987eb2a6&lang=en&cache-only=0",
-      "phonetic_am_text": "freez",
+      "phonetic_am_text": "friz",
       "img": "https://cdn.langeek.co/photo/19564/original/frozen?type=jpeg",
-      "pronunciation": "ˈfɹiz",
+      "pronunciation": "friːz",
       "senses": [
         {
           "definition": "to cause something to become solid or turn into ice by reducing its temperature",
@@ -242,12 +250,13 @@
       ]
     },
     {
-      "word": "irradiate",
+      "id": "3e27b35d-25f8-423e-a370-368c74622047",
+      "word": "to irradiate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaXJyYWRpYXRl&hash=f63db8fbda993162ff35ea34bc6ba4661142179a&lang=en&cache-only=0",
-      "phonetic_text": "ɪreɪdieɪt",
+      "phonetic_text": "ɪr.reɪ.dieɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaXJyYWRpYXRl&hash=f63db8fbda993162ff35ea34bc6ba4661142179a&lang=en&cache-only=0",
-      "phonetic_am_text": "ireidieit",
+      "phonetic_am_text": "ir.rei.dieit",
       "img": "",
       "pronunciation": "ˌɪˈɹeɪdiˌeɪt",
       "senses": [
@@ -267,14 +276,15 @@
       ]
     },
     {
-      "word": "pack",
+      "id": "aff2caa1-a688-4078-9e7a-ac9d0b760e49",
+      "word": "to pack",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGFjaw&hash=9855eb97cade83cd4fbc2a34c64a4d23a55ae3d6&lang=en&cache-only=0",
       "phonetic_text": "pæk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGFjaw&hash=9855eb97cade83cd4fbc2a34c64a4d23a55ae3d6&lang=en&cache-only=0",
       "phonetic_am_text": "pāk",
       "img": "",
-      "pronunciation": "ˈpæk",
+      "pronunciation": "pæk",
       "senses": [
         {
           "definition": "to place or store items within a container or packaging to protect them from damage, breakage, or contamination",
@@ -300,14 +310,15 @@
       ]
     },
     {
-      "word": "pickle",
+      "id": "d12bf1f7-82ae-4606-af68-75f81b113ac0",
+      "word": "to pickle",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGlja2xl&hash=b4c7b5883a8c0027e395334dde4d110a489ab89f&lang=en&cache-only=0",
-      "phonetic_text": "pɪkəl",
+      "phonetic_text": "pɪ.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGlja2xl&hash=b4c7b5883a8c0027e395334dde4d110a489ab89f&lang=en&cache-only=0",
-      "phonetic_am_text": "pikēl",
+      "phonetic_am_text": "pi.kēl",
       "img": "https://cdn.langeek.co/photo/37752/original/?type=jpeg",
-      "pronunciation": "ˈpɪkəɫ",
+      "pronunciation": "ˈpɪkəl",
       "senses": [
         {
           "definition": "to preserve or flavor food by soaking it in a vinegar or salt water solution",
@@ -333,10 +344,11 @@
       ]
     },
     {
-      "word": "pot",
+      "id": "6db9fd71-8f15-43a8-9c6f-1498d5df63c6",
+      "word": "to pot",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcG90&hash=30885cc1b6f374dc39488155b75dc01618693ce4&lang=en&cache-only=0",
-      "phonetic_text": "pɑ:t",
+      "phonetic_text": "pɑt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcG90&hash=30885cc1b6f374dc39488155b75dc01618693ce4&lang=en&cache-only=0",
       "phonetic_am_text": "paat",
       "img": "",
@@ -370,12 +382,13 @@
       ]
     },
     {
-      "word": "preserve",
+      "id": "72716aa3-dcde-4dbd-a34a-4738ae4e45cc",
+      "word": "to preserve",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJlc2VydmU&hash=8b25eb18daf6195e2ae782e380c16f0c6225d433&lang=en&cache-only=0",
-      "phonetic_text": "prəzɜrv",
+      "phonetic_text": "prə.zɜrv",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJlc2VydmU&hash=8b25eb18daf6195e2ae782e380c16f0c6225d433&lang=en&cache-only=0",
-      "phonetic_am_text": "prēzērv",
+      "phonetic_am_text": "prē.zērv",
       "img": "",
       "pronunciation": "pɹəˈzɝv/, /pɹiˈzɝv/, /pɹɪˈzɝv",
       "senses": [
@@ -407,14 +420,15 @@
       ]
     },
     {
-      "word": "process",
+      "id": "ff6105cb-79a6-4271-a82b-82767a1321e4",
+      "word": "to process",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHJvY2Vzcw&hash=d0b97c5b29351106bfb8a09b690fce11f96f82a1&lang=en&cache-only=0",
-      "phonetic_text": "prɑ:sɛs",
+      "phonetic_text": "prɑ.sɛs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHJvY2Vzcw&hash=d0b97c5b29351106bfb8a09b690fce11f96f82a1&lang=en&cache-only=0",
-      "phonetic_am_text": "praases",
+      "phonetic_am_text": "praa.ses",
       "img": "https://cdn.langeek.co/photo/20772/original/manufacture?type=jpeg",
-      "pronunciation": "ˈpɹɑˌsɛs/, /ˈpɹɔˌsɛs",
+      "pronunciation": "ˈprɑˌsɛs",
       "senses": [
         {
           "definition": "to treat or handle something in a specific way to get it ready for a particular purpose, improve its condition, or fix any issues",
@@ -440,12 +454,13 @@
       ]
     },
     {
-      "word": "quick-freeze",
+      "id": "9011c561-f1ca-49c3-8f5b-d9078e4f49ac",
+      "word": "to quick-freeze",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcXVpY2stZnJlZXpl&hash=fbb33b3c76c7b890edef2a74dc9e4e1f6c23954f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kwɪk-friz",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcXVpY2stZnJlZXpl&hash=fbb33b3c76c7b890edef2a74dc9e4e1f6c23954f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kvik-friz",
       "img": "",
       "pronunciation": "kwˈɪkfɹˈiːz",
       "senses": [
@@ -456,12 +471,13 @@
       ]
     },
     {
-      "word": "refrigerate",
+      "id": "0609dfc6-c2db-4093-a720-e914598f97b2",
+      "word": "to refrigerate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVmcmlnZXJhdGU&hash=088e2fd1b5fa5bc00624be8d5e76a46e4cbfa66d&lang=en&cache-only=0",
-      "phonetic_text": "rɪfrɪʤəreɪt",
+      "phonetic_text": "rɪf.rɪ.ʤɜ.reɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVmcmlnZXJhdGU&hash=088e2fd1b5fa5bc00624be8d5e76a46e4cbfa66d&lang=en&cache-only=0",
-      "phonetic_am_text": "rifrijēreit",
+      "phonetic_am_text": "rif.ri.jē.reit",
       "img": "https://cdn.langeek.co/photo/48251/original/?type=jpeg",
       "pronunciation": "ɹɪˈfɹɪdʒɝˌeɪt",
       "senses": [
@@ -493,6 +509,7 @@
       ]
     },
     {
+      "id": "a987f61e-6784-4dfa-bd72-4d5a59fa3b8b",
       "word": "canned",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y2FubmVk&hash=62352480ac71f5152639618e37baabf9e32bc81d&lang=en&cache-only=0",
@@ -522,12 +539,13 @@
       ]
     },
     {
+      "id": "d229bc7a-457b-404a-b1f4-d62628ab0273",
       "word": "dehydrated",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZGVoeWRyYXRlZA&hash=be8fd8b1a17c08d368ffb7cd12cfd9fe84cb7b31&lang=en&cache-only=0",
-      "phonetic_text": "dɪhaɪdreɪtəd",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVoeWRyYXRlZA&hash=be8fd8b1a17c08d368ffb7cd12cfd9fe84cb7b31&lang=en&cache-only=0",
-      "phonetic_am_text": "dihaidreitēd",
+      "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/37966/original/?type=jpeg",
       "pronunciation": "dɪˈhaɪdɹeɪtəd",
       "senses": [
@@ -555,12 +573,13 @@
       ]
     },
     {
+      "id": "cbf3c766-a019-41cb-b135-e765fbfc39e7",
       "word": "desiccated",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZGVzaWNjYXRlZA&hash=23b3d30268aeb86c0a8f9f7e89655c5cf8a1fa2e&lang=en&cache-only=0",
-      "phonetic_text": "dɛsəkeɪtəd",
+      "phonetic_text": "dɛ.sə.keɪ.təd",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVzaWNjYXRlZA&hash=23b3d30268aeb86c0a8f9f7e89655c5cf8a1fa2e&lang=en&cache-only=0",
-      "phonetic_am_text": "desēkeitēd",
+      "phonetic_am_text": "de.sē.kei.tēd",
       "img": "https://cdn.langeek.co/photo/37966/original/?type=jpeg",
       "pronunciation": "ˈdɛsəkeɪtəd",
       "senses": [
@@ -592,6 +611,7 @@
       ]
     },
     {
+      "id": "8db813e1-625b-4242-b2cf-f2ff4a4bbb2e",
       "word": "dried",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZHJpZWQ&hash=620eca8b40c5e38c976ca70ff3503f8a40a89906&lang=en&cache-only=0",
@@ -617,12 +637,13 @@
       ]
     },
     {
+      "id": "8a2bf36f-d98a-4b87-a523-ee5b30c1f61b",
       "word": "freeze-dried",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZnJlZXplLWRyaWVk&hash=d2eaa681d56ef4929bed4c3b97a8d882a534ea77&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "friz-draɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJlZXplLWRyaWVk&hash=d2eaa681d56ef4929bed4c3b97a8d882a534ea77&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "friz-draid",
       "img": "",
       "pronunciation": "fɹˈiːzdɹˈaɪd",
       "senses": [
@@ -654,14 +675,15 @@
       ]
     },
     {
+      "id": "ae8c29d1-83d3-4b5f-9bf9-5782bab92d6c",
       "word": "frozen",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZnJvemVu&hash=a40a7563210b051d9746e229f9524b76fcb5534e&lang=en&cache-only=0",
-      "phonetic_text": "froʊzən",
+      "phonetic_text": "froʊ.zən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJvemVu&hash=a40a7563210b051d9746e229f9524b76fcb5534e&lang=en&cache-only=0",
-      "phonetic_am_text": "frowzēn",
+      "phonetic_am_text": "frooo.zēn",
       "img": "https://cdn.langeek.co/photo/19570/original/freeze?type=jpeg",
-      "pronunciation": "ˈfɹoʊzən",
+      "pronunciation": "ˈfroʊzən",
       "senses": [
         {
           "definition": "(of food) kept at a very low temperature to preserve freshness",
@@ -691,12 +713,13 @@
       ]
     },
     {
+      "id": "f73d680f-5695-4dc1-8720-0432e9035b02",
       "word": "pickled",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cGlja2xlZA&hash=b9069bb9d5a22963d50fc881984720b972b2076d&lang=en&cache-only=0",
-      "phonetic_text": "pɪkəld",
+      "phonetic_text": "pɪ.kəld",
       "phonetic_am": "https://tts.langeek.co/read?text=cGlja2xlZA&hash=b9069bb9d5a22963d50fc881984720b972b2076d&lang=en&cache-only=0",
-      "phonetic_am_text": "pikēld",
+      "phonetic_am_text": "pi.kēld",
       "img": "https://cdn.langeek.co/photo/37752/original/?type=jpeg",
       "pronunciation": "ˈpɪkəɫd",
       "senses": [
@@ -724,12 +747,13 @@
       ]
     },
     {
+      "id": "65ef72f9-6a51-444a-850a-503233d9f125",
       "word": "potted",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cG90dGVk&hash=8817c17e0926d478f75dfd4048aa8224d5517666&lang=en&cache-only=0",
-      "phonetic_text": "pɑ:tɪd",
+      "phonetic_text": "pɑ.tɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=cG90dGVk&hash=8817c17e0926d478f75dfd4048aa8224d5517666&lang=en&cache-only=0",
-      "phonetic_am_text": "paatid",
+      "phonetic_am_text": "paa.tid",
       "img": "",
       "pronunciation": "ˈpɑtɪd",
       "senses": [
@@ -761,12 +785,13 @@
       ]
     },
     {
+      "id": "becdc755-5d21-4657-8789-f47d02b3e704",
       "word": "tinned",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dGlubmVk&hash=0633c18733513742ebb4a05dec7e266a8d9dd415&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɪnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dGlubmVk&hash=0633c18733513742ebb4a05dec7e266a8d9dd415&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tind",
       "img": "https://cdn.langeek.co/photo/51572/original/?type=jpeg",
       "pronunciation": "tˈɪnd",
       "senses": [
@@ -777,12 +802,13 @@
       ]
     },
     {
+      "id": "66d7edb9-7c5d-4f52-aaf3-39c3ade1ac20",
       "word": "vacuum-packed",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dmFjdXVtLXBhY2tlZA&hash=e45225c010c7a359929dffdf1dedc26fc9cd2c66&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "væ.kjum-pækt",
       "phonetic_am": "https://tts.langeek.co/read?text=dmFjdXVtLXBhY2tlZA&hash=e45225c010c7a359929dffdf1dedc26fc9cd2c66&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vā.kyoom-pākt",
       "img": "",
       "pronunciation": "vˈækjuːmpˈækt",
       "senses": [
@@ -793,12 +819,13 @@
       ]
     },
     {
+      "id": "dc0e74a4-d69f-41a2-ac19-e13acd477870",
       "word": "tinfoil",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGluZm9pbA&hash=bba5b45e7e00b70b86347aa699b7cf19bff2fc42&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɪn.fɔɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=dGluZm9pbA&hash=bba5b45e7e00b70b86347aa699b7cf19bff2fc42&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tin.fawil",
       "img": "https://cdn.langeek.co/photo/32820/original/?type=jpeg",
       "pronunciation": "tˈɪnfɔɪl",
       "senses": [
@@ -830,12 +857,13 @@
       ]
     },
     {
+      "id": "57486eb4-25ef-499b-9faa-c9ddaf496b64",
       "word": "silver paper",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2lsdmVyIHBhcGVy&hash=a50bc19c6588c066b117b6d955a90f505432d52e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɪl.vər peɪ.pɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c2lsdmVyIHBhcGVy&hash=a50bc19c6588c066b117b6d955a90f505432d52e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sil.vēr pei.pēr",
       "img": "https://cdn.langeek.co/photo/32820/original/?type=jpeg",
       "pronunciation": "sˈɪlvɚ pˈeɪpɚ",
       "senses": [
@@ -846,12 +874,13 @@
       ]
     },
     {
+      "id": "ed3c5beb-802e-4a20-9de8-19995f611891",
       "word": "polythene",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9seXRoZW5l&hash=422618fc2840fa15fbb6f8ad4d585b370bb0008e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɑ:.lɪ.θi:n",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9seXRoZW5l&hash=422618fc2840fa15fbb6f8ad4d585b370bb0008e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "paa.li.thin",
       "img": "https://cdn.langeek.co/photo/37670/original/?type=jpeg",
       "pronunciation": "pˈɑːlɪθˌiːn",
       "senses": [
@@ -875,12 +904,13 @@
       ]
     },
     {
+      "id": "29f7b329-213e-44bd-bb65-2b8aef19e4a3",
       "word": "plastic wrap",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGxhc3RpYyB3cmFw&hash=b15b70141437d4222a8942725f129ff258c0e5f1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "plæs.tɪk ræp",
       "phonetic_am": "https://tts.langeek.co/read?text=cGxhc3RpYyB3cmFw&hash=b15b70141437d4222a8942725f129ff258c0e5f1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "plās.tik rāp",
       "img": "https://cdn.langeek.co/photo/26517/original/?type=jpeg",
       "pronunciation": "plˈæstɪk ɹˈæp",
       "senses": [
@@ -891,12 +921,13 @@
       ]
     },
     {
+      "id": "8440a71c-97c3-4b06-a319-3c054e966349",
       "word": "greaseproof paper",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JlYXNlcHJvb2YgcGFwZXI&hash=339fd18c636e85e56a7e8afa7b8345e642583902&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gris.pruf peɪ.pɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JlYXNlcHJvb2YgcGFwZXI&hash=339fd18c636e85e56a7e8afa7b8345e642583902&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gris.proof pei.pēr",
       "img": "https://cdn.langeek.co/photo/30760/original/?type=jpeg",
       "pronunciation": "ɡɹˈiːspɹuːf pˈeɪpɚ",
       "senses": [
@@ -907,12 +938,13 @@
       ]
     },
     {
+      "id": "228b5b82-8a09-4f77-812b-64078716eedc",
       "word": "foil",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9pbA&hash=1067fdd45732aac7517a446324c62e7ede945aaa&lang=en&cache-only=0",
       "phonetic_text": "fɔɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9pbA&hash=1067fdd45732aac7517a446324c62e7ede945aaa&lang=en&cache-only=0",
-      "phonetic_am_text": "foyl",
+      "phonetic_am_text": "fawil",
       "img": "https://cdn.langeek.co/photo/32820/original/?type=jpeg",
       "pronunciation": "ˈfɔɪɫ",
       "senses": [
@@ -944,12 +976,13 @@
       ]
     },
     {
+      "id": "b6b4c3b6-e091-4997-a1c3-991b5dfab4a8",
       "word": "cling film",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xpbmcgZmlsbQ&hash=12205b140f9e583b7d1cce4e877f52c443ed62f9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "klɪng fɪlm",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xpbmcgZmlsbQ&hash=12205b140f9e583b7d1cce4e877f52c443ed62f9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kling film",
       "img": "https://cdn.langeek.co/photo/26517/original/?type=jpeg",
       "pronunciation": "klˈɪŋfɪlm",
       "senses": [
@@ -960,12 +993,13 @@
       ]
     },
     {
+      "id": "3bed0e48-2991-4e63-b8dc-c37504eb4a4a",
       "word": "cellophane",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2VsbG9waGFuZQ&hash=eeef5a78de55a396452e1df7058d36c58d7aebee&lang=en&cache-only=0",
-      "phonetic_text": "sɛləfeɪn",
+      "phonetic_text": "sɛ.lə.feɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2VsbG9waGFuZQ&hash=eeef5a78de55a396452e1df7058d36c58d7aebee&lang=en&cache-only=0",
-      "phonetic_am_text": "selēfein",
+      "phonetic_am_text": "se.lē.fein",
       "img": "https://cdn.langeek.co/photo/26517/original/?type=jpeg",
       "pronunciation": "ˈsɛɫəˌfeɪn",
       "senses": [
@@ -997,12 +1031,13 @@
       ]
     },
     {
+      "id": "226c32ba-e3ea-4010-a97e-8cff997bbce3",
       "word": "expiration date",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXhwaXJhdGlvbiBkYXRl&hash=cf0a285c7511fc87981675406c6711a352133c06&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛk.spɜ.reɪ.ʃən deɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXhwaXJhdGlvbiBkYXRl&hash=cf0a285c7511fc87981675406c6711a352133c06&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ek.spē.rei.shēn deit",
       "img": "",
       "pronunciation": "ɛkspɚɹˈeɪʃən dˈeɪt",
       "senses": [
@@ -1034,12 +1069,13 @@
       ]
     },
     {
+      "id": "ed678188-8c4f-467a-be46-17afcaa621ec",
       "word": "aluminum foil",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWx1bWludW0gZm9pbA&hash=ea161d3c4307b00560690e287f7d91e2328faba9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ə.lu.mə.nəm fɔɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=YWx1bWludW0gZm9pbA&hash=ea161d3c4307b00560690e287f7d91e2328faba9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ē.loo.mē.nēm fawil",
       "img": "https://cdn.langeek.co/photo/32820/original/?type=jpeg",
       "pronunciation": "ɐlˈuːmɪnəm fˈɔɪl",
       "senses": [
@@ -1071,12 +1107,13 @@
       ]
     },
     {
+      "id": "eda378c8-23d0-4c50-9a7e-7a0b7758fd21",
       "word": "candied",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y2FuZGllZA&hash=4157210bed57f474a4d39c988d685adaa4cfaea6&lang=en&cache-only=0",
-      "phonetic_text": "kændid",
+      "phonetic_text": "kæn.did",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FuZGllZA&hash=4157210bed57f474a4d39c988d685adaa4cfaea6&lang=en&cache-only=0",
-      "phonetic_am_text": "kāndid",
+      "phonetic_am_text": "kān.did",
       "img": "https://cdn.langeek.co/photo/37940/original/?type=jpeg",
       "pronunciation": "ˈkændid",
       "senses": [

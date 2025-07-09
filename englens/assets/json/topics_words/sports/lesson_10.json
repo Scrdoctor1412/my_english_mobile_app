@@ -1,29 +1,49 @@
 {
+  "id": "fea0935e-ff52-415a-9701-95e41fb0a5d4",
   "topic": "sports",
   "title": "Team Sports",
   "lesson": "lesson_10",
   "word_list": [
     {
+      "id": "d31cf3b8-e2b7-488e-b0a2-1009366d126c",
       "word": "soccer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c29jY2Vy&hash=24a2afa45571ccb00d2fb2e839f9c484debd54d8&lang=en&cache-only=0",
-      "phonetic_text": "sɑ:kər",
+      "phonetic_text": "sɑ:.kər",
       "phonetic_am": "https://tts.langeek.co/read?text=c29jY2Vy&hash=24a2afa45571ccb00d2fb2e839f9c484debd54d8&lang=en&cache-only=0",
-      "phonetic_am_text": "saakēr",
-      "img": "https://cdn.langeek.co/photo/28754/original/soccer?type=jpeg",
+      "phonetic_am_text": "saa.kēr",
+      "img": "https://cdn.langeek.co/photo/60684/original/soccer?type=jpeg",
       "pronunciation": "ˈsɑːkɚ",
       "senses": [
         {
           "definition": "a type of sport where two teams, with eleven players each, try to kick a ball into a specific area to win points",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "I like to watch soccer matches on TV and support my favorite team."
+            },
+            {
+              "cf": "",
+              "x": "She joined a soccer league to compete against other teams."
+            },
+            {
+              "cf": "",
+              "x": "They practice their soccer skills every day after school."
+            },
+            {
+              "cf": "",
+              "x": "We cheer loudly for our favorite soccer team during the match."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a3d69be1-c402-4b9a-82ef-3aaf802838d3",
       "word": "American football",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QW1lcmljYW4gZm9vdGJhbGw&hash=e8eb400990900372fade80a2cc9fc691eb36bf36&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QW1lcmljYW4gZm9vdGJhbGw&hash=e8eb400990900372fade80a2cc9fc691eb36bf36&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/39203/original/football?type=jpeg",
@@ -36,14 +56,15 @@
       ]
     },
     {
+      "id": "61581a7b-3f99-4774-a8ed-84dd00549e76",
       "word": "rugby",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cnVnYnk&hash=35bd0a996e008204f3862ba70d4d49ac4ea9d28a&lang=en&cache-only=0",
-      "phonetic_text": "rʌgbi",
+      "phonetic_text": "rʌg.bi",
       "phonetic_am": "https://tts.langeek.co/read?text=cnVnYnk&hash=35bd0a996e008204f3862ba70d4d49ac4ea9d28a&lang=en&cache-only=0",
-      "phonetic_am_text": "ragbi",
+      "phonetic_am_text": "rag.bi",
       "img": "https://cdn.langeek.co/photo/45008/original/?type=jpeg",
-      "pronunciation": "ˈɹəɡbi",
+      "pronunciation": "ˈrʌɡbi",
       "senses": [
         {
           "definition": "a game played by two teams of thirteen or fifteen players, who kick or carry an oval ball over the other team’s line to score points",
@@ -73,14 +94,15 @@
       ]
     },
     {
+      "id": "2744f8e6-5cd9-46fa-a0bb-6b4378c86f94",
       "word": "golf",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29sZg&hash=14012c45dd1f6e330589474f2e4907c174e32499&lang=en&cache-only=0",
-      "phonetic_text": "gɑ:lf",
+      "phonetic_text": "gɑlf",
       "phonetic_am": "https://tts.langeek.co/read?text=Z29sZg&hash=14012c45dd1f6e330589474f2e4907c174e32499&lang=en&cache-only=0",
       "phonetic_am_text": "gaalf",
       "img": "https://cdn.langeek.co/photo/39175/original/golf?type=jpeg",
-      "pronunciation": "ˈɡɑɫf/, /ˈɡɔɫf",
+      "pronunciation": "ɡɑlf",
       "senses": [
         {
           "definition": "a game that is mostly played outside where each person uses a special stick to hit a small white ball into a number of holes with the least number of swings",
@@ -106,14 +128,15 @@
       ]
     },
     {
+      "id": "c7923980-23e6-4451-ae07-7fb45664ffe0",
       "word": "basketball",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFza2V0YmFsbA&hash=8f5629badee6a5d55a1022746ef7662d2b0b0cd5&lang=en&cache-only=0",
-      "phonetic_text": "bæskətbɔl",
+      "phonetic_text": "bæs.kət.bɔ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFza2V0YmFsbA&hash=8f5629badee6a5d55a1022746ef7662d2b0b0cd5&lang=en&cache-only=0",
-      "phonetic_am_text": "bāskētbawl",
+      "phonetic_am_text": "bās.kēt.bawl",
       "img": "https://cdn.langeek.co/photo/28756/original/basketball?type=jpeg",
-      "pronunciation": "ˈbæskətˌbɔɫ",
+      "pronunciation": "ˈbæskətˌbɔl",
       "senses": [
         {
           "definition": "a type of sport where two teams, with often five players each, try to throw a ball through a net that is hanging from a ring and gain points",
@@ -143,13 +166,14 @@
       ]
     },
     {
+      "id": "9acea7ac-aa30-4e42-ab3e-9354f8e33a4a",
       "word": "volleyball",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dm9sbGV5YmFsbA&hash=ae33c56a372106eb7c5b2de32b256c0cce3e1cd2&lang=en&cache-only=0",
-      "phonetic_text": "vɑ:libɔl",
+      "phonetic_text": "vɑ.li.bɔ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=dm9sbGV5YmFsbA&hash=ae33c56a372106eb7c5b2de32b256c0cce3e1cd2&lang=en&cache-only=0",
-      "phonetic_am_text": "vaalibawl",
-      "img": "https://cdn.langeek.co/photo/51075/original/volleyball?type=jpeg",
+      "phonetic_am_text": "vaa.li.bawl",
+      "img": "https://cdn.langeek.co/photo/60786/original/volleyball?type=jpeg",
       "pronunciation": "ˈvɑːliˌbɔːl",
       "senses": [
         {
@@ -180,14 +204,15 @@
       ]
     },
     {
+      "id": "6c109520-39d3-4a61-9961-2a9e7b5a2a55",
       "word": "cricket",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3JpY2tldA&hash=224d9919ad3d1dc625616f0e3a1e8e41b5f67e8d&lang=en&cache-only=0",
-      "phonetic_text": "krɪkət",
+      "phonetic_text": "krɪ.kɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3JpY2tldA&hash=224d9919ad3d1dc625616f0e3a1e8e41b5f67e8d&lang=en&cache-only=0",
-      "phonetic_am_text": "krikēt",
+      "phonetic_am_text": "kri.kit",
       "img": "https://cdn.langeek.co/photo/39155/original/cricket?type=jpeg",
-      "pronunciation": "ˈkɹɪkət/, /ˈkɹɪkɪt",
+      "pronunciation": "ˈkrɪkɪt",
       "senses": [
         {
           "definition": "a game played by two teams of eleven players who try to get points by hitting the ball with a wooden bat and running between two sets of vertical wooden sticks",
@@ -209,14 +234,15 @@
       ]
     },
     {
+      "id": "5f9b5c86-69ec-4168-ad55-6f1d010fcb18",
       "word": "field hockey",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmllbGQgaG9ja2V5&hash=203d406a71e408d77667940b5e85ee1dbba70da4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fild hɑ.ki",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmllbGQgaG9ja2V5&hash=203d406a71e408d77667940b5e85ee1dbba70da4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fild haa.ki",
       "img": "https://cdn.langeek.co/photo/39171/original/field-hockey?type=jpeg",
-      "pronunciation": "fˈiːld hˈɑːki",
+      "pronunciation": "ˈfild ˈhɑki",
       "senses": [
         {
           "definition": "a game similar to hockey, played by two teams of eleven players on a field or grass, using sticks and a ball",
@@ -246,12 +272,13 @@
       ]
     },
     {
+      "id": "e19ba30b-5e52-4da9-bdb7-46d9bb71af8e",
       "word": "lacrosse",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFjcm9zc2U&hash=d014516dc92a7e86e4e1b34bd6827a6a5951b540&lang=en&cache-only=0",
-      "phonetic_text": "ləkrɔ:s",
+      "phonetic_text": "lək.rɔs",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFjcm9zc2U&hash=d014516dc92a7e86e4e1b34bd6827a6a5951b540&lang=en&cache-only=0",
-      "phonetic_am_text": "lēkraaws",
+      "phonetic_am_text": "lēk.raws",
       "img": "",
       "pronunciation": "ɫəˈkɹɔs",
       "senses": [
@@ -262,12 +289,13 @@
       ]
     },
     {
+      "id": "74793267-8f9b-426e-bc40-32ede0d7a63c",
       "word": "polo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9sbw&hash=4ba653a0df88bb3b0eb70a5c3c8119c903e20b3f&lang=en&cache-only=0",
-      "phonetic_text": "poʊloʊ",
+      "phonetic_text": "poʊ.loʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9sbw&hash=4ba653a0df88bb3b0eb70a5c3c8119c903e20b3f&lang=en&cache-only=0",
-      "phonetic_am_text": "powlow",
+      "phonetic_am_text": "pooo.looo",
       "img": "",
       "pronunciation": "ˈpoʊɫoʊ",
       "senses": [
@@ -278,14 +306,15 @@
       ]
     },
     {
+      "id": "e8718b0b-6462-4834-9b3e-44e494a65ddf",
       "word": "baseball",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFzZWJhbGw&hash=5259ffcfdcc8d22a5faec81900235a155f54832a&lang=en&cache-only=0",
-      "phonetic_text": "beɪsbɔ:l",
+      "phonetic_text": "beɪs.bɔ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFzZWJhbGw&hash=5259ffcfdcc8d22a5faec81900235a155f54832a&lang=en&cache-only=0",
-      "phonetic_am_text": "beisbaawl",
+      "phonetic_am_text": "beis.bawl",
       "img": "https://cdn.langeek.co/photo/51059/original/baseball?type=jpeg",
-      "pronunciation": "ˈbeɪsˈbɔɫ",
+      "pronunciation": "ˈbeɪsˌbɔl",
       "senses": [
         {
           "definition": "a game played with a bat and ball by two teams of 9 players who try to hit the ball and then run around four bases before the other team can return the ball",
@@ -311,14 +340,15 @@
       ]
     },
     {
+      "id": "2efd3e6a-5245-4a06-a278-83eeec7079d6",
       "word": "bowling",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym93bGluZw&hash=0df6993e1e78f619b9c8ab44ce2f99e91ad0b949&lang=en&cache-only=0",
-      "phonetic_text": "boʊlɪng",
+      "phonetic_text": "boʊ.lɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym93bGluZw&hash=0df6993e1e78f619b9c8ab44ce2f99e91ad0b949&lang=en&cache-only=0",
-      "phonetic_am_text": "bowling",
+      "phonetic_am_text": "booo.ling",
       "img": "https://cdn.langeek.co/photo/51078/original/bowling?type=jpeg",
-      "pronunciation": "ˈboʊɫɪŋ",
+      "pronunciation": "ˈboʊlɪŋ",
       "senses": [
         {
           "definition": "a sport or game in which a player rolls a ball down a lane with the aim of knocking over as many pins as possible at the other end of the lane",
@@ -336,12 +366,13 @@
       ]
     },
     {
+      "id": "4ed2582f-9434-4c79-ae4c-939c7179e1b6",
       "word": "hurling",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aHVybGluZw&hash=6a92122aabb1962a6b4685c9da605ecf35e873cf&lang=en&cache-only=0",
-      "phonetic_text": "hɜrlɪng",
+      "phonetic_text": "hɜr.lɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=aHVybGluZw&hash=6a92122aabb1962a6b4685c9da605ecf35e873cf&lang=en&cache-only=0",
-      "phonetic_am_text": "hērling",
+      "phonetic_am_text": "hēr.ling",
       "img": "",
       "pronunciation": "ˈhɝɫɪŋ",
       "senses": [
@@ -361,49 +392,30 @@
       ]
     },
     {
+      "id": "80386277-90c5-4e14-a93f-cd76ff680f52",
       "word": "floorball",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zmxvb3JiYWxs&hash=985536388a79595e8d165f1a16f00eecb7fd8a29&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "flɔ:r.bɔ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmxvb3JiYWxs&hash=985536388a79595e8d165f1a16f00eecb7fd8a29&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "flawr.bawl",
       "img": "",
       "pronunciation": "flˈoːɹbɔːl",
       "senses": [
         {
           "definition": "a team sport played indoors with plastic sticks and a lightweight ball, resembling indoor hockey",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The floorball team practiced passing drills and shooting exercises to improve their skills and coordination on the court."
-            },
-            {
-              "cf": "",
-              "x": "She joined a recreational floorball league to stay active and have fun playing a sport she enjoyed."
-            },
-            {
-              "cf": "",
-              "x": "Floorball is played with lightweight plastic sticks and a hollow ball on a court with goals at each end, requiring speed, agility, and teamwork."
-            },
-            {
-              "cf": "",
-              "x": "The floorball tournament drew teams from across the region to compete for the championship title in an exciting display of skill and athleticism."
-            },
-            {
-              "cf": "",
-              "x": "He scored a hat trick in the floorball match, leading his team to victory with his precise shooting and strategic playmaking."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "3bc83f26-559b-4b28-863b-c4dc08599920",
       "word": "netball",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmV0YmFsbA&hash=be8b7c677b23a266e71746e974dd397c6f99d775&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "net.bɔ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=bmV0YmFsbA&hash=be8b7c677b23a266e71746e974dd397c6f99d775&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "net.bawl",
       "img": "",
       "pronunciation": "nˈɛtbɔːl",
       "senses": [
@@ -427,12 +439,13 @@
       ]
     },
     {
+      "id": "b6ac5436-f006-4306-aba4-e17f6a8f36dd",
       "word": "handball",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFuZGJhbGw&hash=d9442455fbb408d80797c27a908ccaacd4033f03&lang=en&cache-only=0",
-      "phonetic_text": "hændbɔl",
+      "phonetic_text": "hænd.bɔ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFuZGJhbGw&hash=d9442455fbb408d80797c27a908ccaacd4033f03&lang=en&cache-only=0",
-      "phonetic_am_text": "hāndbawl",
+      "phonetic_am_text": "hānd.bawl",
       "img": "https://cdn.langeek.co/photo/51053/original/?type=jpeg",
       "pronunciation": "ˈhændˌbɔɫ",
       "senses": [
@@ -464,10 +477,11 @@
       ]
     },
     {
+      "id": "09147916-aaee-40af-800b-29b1862684c3",
       "word": "Canadian football",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q2FuYWRpYW4gZm9vdGJhbGw&hash=242451e8ce0a7effbf8afd0b34c5d0744bd6ade9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Q2FuYWRpYW4gZm9vdGJhbGw&hash=242451e8ce0a7effbf8afd0b34c5d0744bd6ade9&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -480,10 +494,11 @@
       ]
     },
     {
+      "id": "37428924-6e89-4dbc-93ad-603d07aecf37",
       "word": "Australian rules football",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=QXVzdHJhbGlhbiBydWxlcyBmb290YmFsbA&hash=ce55120b299a4ae68baf79d08fbbd1f2ff5e3cd9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=QXVzdHJhbGlhbiBydWxlcyBmb290YmFsbA&hash=ce55120b299a4ae68baf79d08fbbd1f2ff5e3cd9&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -496,10 +511,11 @@
       ]
     },
     {
+      "id": "6833a83a-d8d0-4ab1-987f-638bacc65def",
       "word": "sepak takraw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VwYWsgdGFrcmF3&hash=eb9308b1d014d94f1c4d1cc5e0169a8d81b8b90c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VwYWsgdGFrcmF3&hash=eb9308b1d014d94f1c4d1cc5e0169a8d81b8b90c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -533,12 +549,13 @@
       ]
     },
     {
+      "id": "769d2026-dcfe-4d75-a85f-aeea91f440e3",
       "word": "korfball",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a29yZmJhbGw&hash=b04a2fad258dd3c2099ffb181fb9d47497bf8433&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ko:rf.bɔ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=a29yZmJhbGw&hash=b04a2fad258dd3c2099ffb181fb9d47497bf8433&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "korf.bawl",
       "img": "",
       "pronunciation": "kˈoːɹfbɔːl",
       "senses": [
@@ -566,12 +583,13 @@
       ]
     },
     {
+      "id": "7f97b45b-3740-45be-a7a6-fd58aae35da2",
       "word": "tchoukball",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGNob3VrYmFsbA&hash=bc735234b257cef08db0f7a90b4eaec68e154d7b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ti:.ʧaʊk.bɔ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=dGNob3VrYmFsbA&hash=bc735234b257cef08db0f7a90b4eaec68e154d7b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ti.chaook.bawl",
       "img": "",
       "pronunciation": "tˈiːtʃˈaʊkbɔːl",
       "senses": [
@@ -603,12 +621,13 @@
       ]
     },
     {
+      "id": "c3f8e1f3-2117-4b87-852c-0eb41bcf29d4",
       "word": "fistball",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmlzdGJhbGw&hash=e10b718ff11707d6a6c9096d39bf7c36b8085d30&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɪst.bɔ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmlzdGJhbGw&hash=e10b718ff11707d6a6c9096d39bf7c36b8085d30&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fist.bawl",
       "img": "",
       "pronunciation": "fˈɪstbɔːl",
       "senses": [
@@ -632,12 +651,13 @@
       ]
     },
     {
+      "id": "4fa2fd6d-4de8-4379-bbee-5bc805d82cac",
       "word": "goalball",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z29hbGJhbGw&hash=697d9d8c3cf01aa052afe746ea13346927db59b1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "goʊl.bɔ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=Z29hbGJhbGw&hash=697d9d8c3cf01aa052afe746ea13346927db59b1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "goool.bawl",
       "img": "",
       "pronunciation": "ɡˈoʊlbɔːl",
       "senses": [
@@ -665,10 +685,11 @@
       ]
     },
     {
+      "id": "f88e951b-971f-4d40-aaa5-0069ee86f291",
       "word": "Gaelic football",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=R2FlbGljIGZvb3RiYWxs&hash=6cd58b3451d55d7118217979f1f9496f0b23cc0b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=R2FlbGljIGZvb3RiYWxs&hash=6cd58b3451d55d7118217979f1f9496f0b23cc0b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -690,12 +711,13 @@
       ]
     },
     {
+      "id": "c00ca68b-d788-48e7-95ce-3e8493f570d3",
       "word": "long pass",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9uZyBwYXNz&hash=5e551ab738518d8d6d1d2ac63aa57df28dc05ffe&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɑ:ng pæs",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9uZyBwYXNz&hash=5e551ab738518d8d6d1d2ac63aa57df28dc05ffe&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "laang pās",
       "img": "",
       "pronunciation": "lˈɑːŋ pˈæs",
       "senses": [
@@ -727,12 +749,13 @@
       ]
     },
     {
+      "id": "ac399c60-2230-4c75-b1be-4b3856d80e85",
       "word": "speed-ball",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BlZWQtYmFsbA&hash=ff2cb98d9d2b7b479575beb9118e057ff4eb2a4f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spid-bɔ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BlZWQtYmFsbA&hash=ff2cb98d9d2b7b479575beb9118e057ff4eb2a4f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "spid-bawl",
       "img": "",
       "pronunciation": "spˈiːdbˈɔːl",
       "senses": [
@@ -764,14 +787,15 @@
       ]
     },
     {
-      "word": "carry",
+      "id": "a68591b0-3fa2-476f-9a19-9077525c9b95",
+      "word": "to carry",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2Fycnk&hash=483282b2957a8fea0f169999e3ed06ba2cccc9cb&lang=en&cache-only=0",
-      "phonetic_text": "kæri",
+      "phonetic_text": "kæ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2Fycnk&hash=483282b2957a8fea0f169999e3ed06ba2cccc9cb&lang=en&cache-only=0",
-      "phonetic_am_text": "kāri",
+      "phonetic_am_text": "kā.ri",
       "img": "",
-      "pronunciation": "ˈkæɹi/, /ˈkɛɹi",
+      "pronunciation": "ˈkæri",
       "senses": [
         {
           "definition": "to move the ball while maintaining control or possession of it",

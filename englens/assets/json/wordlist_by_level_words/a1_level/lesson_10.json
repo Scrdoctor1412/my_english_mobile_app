@@ -1,25 +1,23 @@
 {
+  "id": "10b4fcd0-d8e1-4549-9076-3fd3451f0af9",
   "topic": "a1_level",
   "title": "Opposite Adjectives",
   "lesson": "lesson_10",
   "word_list": [
     {
+      "id": "c11b1475-029e-4fa0-bf8f-332ba9cfef79",
       "word": "good",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Z29vZA&hash=23dba10598e546d0d581f340c648d497a4e2bcb6&lang=en&cache-only=0",
       "phonetic_text": "gʊd",
       "phonetic_am": "https://tts.langeek.co/read?text=Z29vZA&hash=23dba10598e546d0d581f340c648d497a4e2bcb6&lang=en&cache-only=0",
-      "phonetic_am_text": "gud",
+      "phonetic_am_text": "good",
       "img": "https://cdn.langeek.co/photo/48507/original/?type=jpeg",
       "pronunciation": "ɡʊd",
       "senses": [
         {
           "definition": "having a quality that is satisfying",
           "examples": [
-            {
-              "cf": "",
-              "x": "She felt good after finishing her workout at the gym."
-            },
             {
               "cf": "",
               "x": "She has a good memory and can remember details easily."
@@ -41,6 +39,7 @@
       ]
     },
     {
+      "id": "07f63e1a-5f5b-40dd-809d-0214f34124ee",
       "word": "bad",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YmFk&hash=ba0e7eda3d140656dd10d32c2ec596c38ebb3e1a&lang=en&cache-only=0",
@@ -74,13 +73,14 @@
       ]
     },
     {
+      "id": "11c19869-f55c-48db-afa3-6b3d82be440f",
       "word": "high",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aGlnaA&hash=3cc614658c9a918812534f458ebda7ad9da1df22&lang=en&cache-only=0",
       "phonetic_text": "haɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=aGlnaA&hash=3cc614658c9a918812534f458ebda7ad9da1df22&lang=en&cache-only=0",
       "phonetic_am_text": "hai",
-      "img": "https://cdn.langeek.co/photo/48461/original/high?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60770/original/high?type=jpeg",
       "pronunciation": "haɪ",
       "senses": [
         {
@@ -103,13 +103,14 @@
       ]
     },
     {
+      "id": "754b25bd-bb29-44d0-a0ca-e777b52069e5",
       "word": "low",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bG93&hash=df64a23aeefb5c8ec4ec37d4752f869da3bb93dc&lang=en&cache-only=0",
       "phonetic_text": "loʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=bG93&hash=df64a23aeefb5c8ec4ec37d4752f869da3bb93dc&lang=en&cache-only=0",
-      "phonetic_am_text": "low",
-      "img": "https://cdn.langeek.co/photo/48477/original/low?type=jpeg",
+      "phonetic_am_text": "looo",
+      "img": "https://cdn.langeek.co/photo/60782/original/low?type=jpeg",
       "pronunciation": "loʊ",
       "senses": [
         {
@@ -140,6 +141,7 @@
       ]
     },
     {
+      "id": "2a43c472-edca-4737-b188-44a57929bfcd",
       "word": "big",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Ymln&hash=340cec77523732d5bc33f027cecb19ef75c4678d&lang=en&cache-only=0",
@@ -177,12 +179,13 @@
       ]
     },
     {
+      "id": "556bfb28-8fa6-4b15-b08b-6b43e444df3a",
       "word": "small",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c21hbGw&hash=7df44bdfe670afa5fa2f958b47b2ad3554cee646&lang=en&cache-only=0",
-      "phonetic_text": "smɔ:l",
+      "phonetic_text": "smɔl",
       "phonetic_am": "https://tts.langeek.co/read?text=c21hbGw&hash=7df44bdfe670afa5fa2f958b47b2ad3554cee646&lang=en&cache-only=0",
-      "phonetic_am_text": "smaawl",
+      "phonetic_am_text": "smawl",
       "img": "https://cdn.langeek.co/photo/48163/original/small?type=jpeg",
       "pronunciation": "smɔl",
       "senses": [
@@ -210,12 +213,13 @@
       ]
     },
     {
+      "id": "4757c2fc-7a93-45b4-b473-d6841a899a19",
       "word": "heavy",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aGVhdnk&hash=35f2737e54017ea38f0052324518c98a6a47c1e4&lang=en&cache-only=0",
-      "phonetic_text": "hɛvi",
+      "phonetic_text": "hɛ.vi",
       "phonetic_am": "https://tts.langeek.co/read?text=aGVhdnk&hash=35f2737e54017ea38f0052324518c98a6a47c1e4&lang=en&cache-only=0",
-      "phonetic_am_text": "hevi",
+      "phonetic_am_text": "he.vi",
       "img": "https://cdn.langeek.co/photo/48443/original/heavy?type=jpeg",
       "pronunciation": "ˈhɛvi",
       "senses": [
@@ -247,6 +251,7 @@
       ]
     },
     {
+      "id": "9b7e93c8-b7c3-4e62-b4e4-8b612512ef18",
       "word": "light",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bGlnaHQ&hash=63673c8d6438c2eb063d7052377e05b9d5fe0031&lang=en&cache-only=0",
@@ -258,38 +263,18 @@
       "senses": [
         {
           "definition": "having very little weight and easy to move or pick up",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He carried a light backpack filled with his school supplies."
-            },
-            {
-              "cf": "",
-              "x": "The box was light, so she easily lifted it with one hand."
-            },
-            {
-              "cf": "",
-              "x": "The chair was light and easy to move around the room."
-            },
-            {
-              "cf": "",
-              "x": "The feather was so light that it floated in the air effortlessly."
-            },
-            {
-              "cf": "",
-              "x": "The small toy car was light enough for a child to play with."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "3331bb01-f4f2-4c9b-954f-aecee6697943",
       "word": "expensive",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZXhwZW5zaXZl&hash=49d271dd88283dc21453a8c2f272494ea30d4393&lang=en&cache-only=0",
-      "phonetic_text": "ɪkspɛnsɪv",
+      "phonetic_text": "ɪk.spɛn.sɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXhwZW5zaXZl&hash=49d271dd88283dc21453a8c2f272494ea30d4393&lang=en&cache-only=0",
-      "phonetic_am_text": "ikspensiv",
+      "phonetic_am_text": "ik.spen.siv",
       "img": "https://cdn.langeek.co/photo/28329/original/expensive?type=jpeg",
       "pronunciation": "ɪkˈspɛnsɪv",
       "senses": [
@@ -325,12 +310,13 @@
       ]
     },
     {
+      "id": "1ebf9806-d3b4-4367-8406-ffbb8f2dde1e",
       "word": "cheap",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y2hlYXA&hash=0c343d67b95c937ba68b0929d033fd7c14b0c522&lang=en&cache-only=0",
       "phonetic_text": "ʧi:p",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hlYXA&hash=0c343d67b95c937ba68b0929d033fd7c14b0c522&lang=en&cache-only=0",
-      "phonetic_am_text": "cheep",
+      "phonetic_am_text": "chip",
       "img": "https://cdn.langeek.co/photo/28327/original/cheap?type=jpeg",
       "pronunciation": "tʃiːp",
       "senses": [
@@ -362,12 +348,13 @@
       ]
     },
     {
+      "id": "486bc423-3b5f-486b-b0b9-a84aa188c70b",
       "word": "old",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=b2xk&hash=4760358aa3bbca48929cb4bab31f6097e8c8fea0&lang=en&cache-only=0",
       "phonetic_text": "oʊld",
       "phonetic_am": "https://tts.langeek.co/read?text=b2xk&hash=4760358aa3bbca48929cb4bab31f6097e8c8fea0&lang=en&cache-only=0",
-      "phonetic_am_text": "owld",
+      "phonetic_am_text": "ooold",
       "img": "https://cdn.langeek.co/photo/17447/original/old?type=jpeg",
       "pronunciation": "oʊld",
       "senses": [
@@ -395,12 +382,13 @@
       ]
     },
     {
+      "id": "ad29134d-ae7f-44c2-9d5c-a339ea774f97",
       "word": "new",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bmV3&hash=8de84aac1cb818e84e240f22c1368fe30795b5c0&lang=en&cache-only=0",
-      "phonetic_text": "nu:",
+      "phonetic_text": "n",
       "phonetic_am": "https://tts.langeek.co/read?text=bmV3&hash=8de84aac1cb818e84e240f22c1368fe30795b5c0&lang=en&cache-only=0",
-      "phonetic_am_text": "noo",
+      "phonetic_am_text": "n",
       "img": "https://cdn.langeek.co/photo/17449/original/new?type=jpeg",
       "pronunciation": "njuː/, /nuː",
       "senses": [
@@ -436,13 +424,14 @@
       ]
     },
     {
+      "id": "df8102cf-10ef-49d6-bc2e-0538b98aebb5",
       "word": "beautiful",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=YmVhdXRpZnVs&hash=31230419dcdf7c3ceb4454c2419b954eaee422e9&lang=en&cache-only=0",
-      "phonetic_text": "bju:təfəl",
+      "phonetic_text": "bju:.tɪ.fəl",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVhdXRpZnVs&hash=31230419dcdf7c3ceb4454c2419b954eaee422e9&lang=en&cache-only=0",
-      "phonetic_am_text": "byootēfēl",
-      "img": "https://cdn.langeek.co/photo/16272/original/pretty?type=jpeg",
+      "phonetic_am_text": "byoo.ti.fēl",
+      "img": "https://cdn.langeek.co/photo/60610/original/pretty?type=jpeg",
       "pronunciation": "ˈbjuːtɪfəl",
       "senses": [
         {
@@ -473,12 +462,13 @@
       ]
     },
     {
+      "id": "950c8bab-6aa2-45dd-9508-eb1b8cad8845",
       "word": "ugly",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dWdseQ&hash=e3fbaa6654ed79f3f6302e7364ef289087ca99dd&lang=en&cache-only=0",
-      "phonetic_text": "ʌgli",
+      "phonetic_text": "ʌg.li",
       "phonetic_am": "https://tts.langeek.co/read?text=dWdseQ&hash=e3fbaa6654ed79f3f6302e7364ef289087ca99dd&lang=en&cache-only=0",
-      "phonetic_am_text": "agli",
+      "phonetic_am_text": "ag.li",
       "img": "https://cdn.langeek.co/photo/48165/original/ugly?type=jpeg",
       "pronunciation": "ˈʌɡli",
       "senses": [
@@ -510,12 +500,13 @@
       ]
     },
     {
+      "id": "28faeb78-3a58-4cc8-a5dd-661e290799dd",
       "word": "clean",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y2xlYW4&hash=a0d18d02811d602beb54e3d34b00f8b29c978faf&lang=en&cache-only=0",
       "phonetic_text": "kli:n",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xlYW4&hash=a0d18d02811d602beb54e3d34b00f8b29c978faf&lang=en&cache-only=0",
-      "phonetic_am_text": "kleen",
+      "phonetic_am_text": "klin",
       "img": "https://cdn.langeek.co/photo/48619/original/clean?type=jpeg",
       "pronunciation": "kliːn",
       "senses": [
@@ -547,13 +538,14 @@
       ]
     },
     {
+      "id": "678702b2-b93b-4880-9bfb-546db0f9d8b3",
       "word": "dirty",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZGlydHk&hash=43deae50b556b211983491c3655570f07bc29014&lang=en&cache-only=0",
-      "phonetic_text": "dɜrti",
+      "phonetic_text": "dɜr.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlydHk&hash=43deae50b556b211983491c3655570f07bc29014&lang=en&cache-only=0",
-      "phonetic_am_text": "dērti",
-      "img": "https://cdn.langeek.co/photo/14952/original/dirty?type=jpeg",
+      "phonetic_am_text": "dēr.ti",
+      "img": "https://cdn.langeek.co/photo/60618/original/dirty?type=jpeg",
       "pronunciation": "ˈdɝːti",
       "senses": [
         {
@@ -584,12 +576,13 @@
       ]
     },
     {
+      "id": "019c8c78-3c0a-4317-852f-cbc86dc18320",
       "word": "easy",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZWFzeQ&hash=625c1df691f722a2783b32160c2c4f235bfed440&lang=en&cache-only=0",
-      "phonetic_text": "i:zi",
+      "phonetic_text": "i:.zi",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWFzeQ&hash=625c1df691f722a2783b32160c2c4f235bfed440&lang=en&cache-only=0",
-      "phonetic_am_text": "eezi",
+      "phonetic_am_text": "i.zi",
       "img": "https://cdn.langeek.co/photo/48611/original/easy?type=jpeg",
       "pronunciation": "ˈiːzi",
       "senses": [
@@ -621,12 +614,13 @@
       ]
     },
     {
+      "id": "0d18f29e-7600-464e-af23-4d093c00614a",
       "word": "difficult",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZGlmZmljdWx0&hash=240fc97e0739c267bc1717fb651dc046f99c4d2b&lang=en&cache-only=0",
-      "phonetic_text": "dɪfəkəlt",
+      "phonetic_text": "dɪ.fɪ.kʌlt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlmZmljdWx0&hash=240fc97e0739c267bc1717fb651dc046f99c4d2b&lang=en&cache-only=0",
-      "phonetic_am_text": "difēkēlt",
+      "phonetic_am_text": "di.fi.kalt",
       "img": "https://cdn.langeek.co/photo/48609/original/difficult?type=jpeg",
       "pronunciation": "ˈdɪfɪˌkʌlt",
       "senses": [
@@ -658,6 +652,7 @@
       ]
     },
     {
+      "id": "bba43ae8-40cb-4d1e-a491-9c6872d14e2c",
       "word": "fast",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZmFzdA&hash=1073443ff3b1f337934c21034bd28a5c6a1c128e&lang=en&cache-only=0",
@@ -699,49 +694,30 @@
       ]
     },
     {
+      "id": "0873385e-0f07-474f-b703-5bf311d01f07",
       "word": "slow",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c2xvdw&hash=0f7b65292fe1032cddd34e63a2f2c3c8ae99d6a3&lang=en&cache-only=0",
       "phonetic_text": "sloʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=c2xvdw&hash=0f7b65292fe1032cddd34e63a2f2c3c8ae99d6a3&lang=en&cache-only=0",
-      "phonetic_am_text": "slow",
+      "phonetic_am_text": "slooo",
       "img": "https://cdn.langeek.co/photo/48411/original/slow?type=jpeg",
       "pronunciation": "sloʊ",
       "senses": [
         {
           "definition": "moving, happening, or being done at a speed that is low",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He had a slow computer that took a long time to start up."
-            },
-            {
-              "cf": "",
-              "x": "She had a slow learning pace but never gave up."
-            },
-            {
-              "cf": "",
-              "x": "The slow elevator took a long time to reach the desired floor."
-            },
-            {
-              "cf": "",
-              "x": "The slow healing process of the wound required regular care."
-            },
-            {
-              "cf": "",
-              "x": "The slow train arrived at the station behind schedule."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "92a81c71-b87a-4ee9-98f5-6791618c4a92",
       "word": "different",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZGlmZmVyZW50&hash=56d0cff4b3443dbeac5dc54ead4efe1093bc4e52&lang=en&cache-only=0",
-      "phonetic_text": "dɪfərənt",
+      "phonetic_text": "dɪ.fɜrnt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlmZmVyZW50&hash=56d0cff4b3443dbeac5dc54ead4efe1093bc4e52&lang=en&cache-only=0",
-      "phonetic_am_text": "difērēnt",
+      "phonetic_am_text": "di.fērnt",
       "img": "https://cdn.langeek.co/photo/47795/original/different?type=jpeg",
       "pronunciation": "ˈdɪfɝːənt",
       "senses": [
@@ -773,6 +749,7 @@
       ]
     },
     {
+      "id": "5067994b-a98b-48a3-9eae-690fcb22b681",
       "word": "same",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c2FtZQ&hash=532d87d13136e2ef2f8e00ff692a6bb88c47758f&lang=en&cache-only=0",
@@ -810,13 +787,14 @@
       ]
     },
     {
+      "id": "bbff5a73-26ad-4881-b99f-fe91f904cb2b",
       "word": "right",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cmlnaHQ&hash=33365bcec53c098a6f39584838658b862008d6fe&lang=en&cache-only=0",
       "phonetic_text": "raɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=cmlnaHQ&hash=33365bcec53c098a6f39584838658b862008d6fe&lang=en&cache-only=0",
       "phonetic_am_text": "rait",
-      "img": "https://cdn.langeek.co/photo/48233/original/correct?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60696/original/?type=jpeg",
       "pronunciation": "raɪt",
       "senses": [
         {
@@ -847,14 +825,15 @@
       ]
     },
     {
+      "id": "0b8d51a0-ac01-4aef-af46-f71b669c2a29",
       "word": "wrong",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=d3Jvbmc&hash=e6795ab587f9d848e27f1ba748f6e1574dd5ef8c&lang=en&cache-only=0",
-      "phonetic_text": "rɔ:ng",
+      "phonetic_text": "rɑng",
       "phonetic_am": "https://tts.langeek.co/read?text=d3Jvbmc&hash=e6795ab587f9d848e27f1ba748f6e1574dd5ef8c&lang=en&cache-only=0",
-      "phonetic_am_text": "raawng",
-      "img": "https://cdn.langeek.co/photo/48231/original/incorrect?type=jpeg",
-      "pronunciation": "rɔːŋ",
+      "phonetic_am_text": "raang",
+      "img": "https://cdn.langeek.co/photo/60700/original/?type=jpeg",
+      "pronunciation": "rɑŋ",
       "senses": [
         {
           "definition": "not based on facts or the truth",
@@ -884,12 +863,13 @@
       ]
     },
     {
+      "id": "cee30dd0-deb7-46b6-ab67-1cf8015a7502",
       "word": "open",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=b3Blbg&hash=34a0e897f6d992598958d195c329d91edce4da65&lang=en&cache-only=0",
-      "phonetic_text": "oʊpən",
+      "phonetic_text": "oʊ.pən",
       "phonetic_am": "https://tts.langeek.co/read?text=b3Blbg&hash=34a0e897f6d992598958d195c329d91edce4da65&lang=en&cache-only=0",
-      "phonetic_am_text": "owpēn",
+      "phonetic_am_text": "ooo.pēn",
       "img": "https://cdn.langeek.co/photo/48495/original/open?type=jpeg",
       "pronunciation": "ˈoʊpən",
       "senses": [
@@ -917,12 +897,13 @@
       ]
     },
     {
+      "id": "b33fef1a-f23b-45ee-aba6-5de07b043247",
       "word": "closed",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y2xvc2Vk&hash=13b5bd50da3f898ec13c184f8b4caccf476f691b&lang=en&cache-only=0",
       "phonetic_text": "kloʊzd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xvc2Vk&hash=13b5bd50da3f898ec13c184f8b4caccf476f691b&lang=en&cache-only=0",
-      "phonetic_am_text": "klowzd",
+      "phonetic_am_text": "klooozd",
       "img": "https://cdn.langeek.co/photo/48431/original/closed?type=jpeg",
       "pronunciation": "kloʊzd",
       "senses": [
@@ -950,13 +931,14 @@
       ]
     },
     {
+      "id": "6312d136-850a-40c8-9074-4a5f4cc80495",
       "word": "true",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dHJ1ZQ&hash=ec1a9b39945f342ee74947cfb7fb356ad67e00f7&lang=en&cache-only=0",
       "phonetic_text": "tru:",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJ1ZQ&hash=ec1a9b39945f342ee74947cfb7fb356ad67e00f7&lang=en&cache-only=0",
       "phonetic_am_text": "troo",
-      "img": "https://cdn.langeek.co/photo/48233/original/correct?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/48227/original/?type=jpeg",
       "pronunciation": "truː",
       "senses": [
         {
@@ -976,20 +958,21 @@
             },
             {
               "cf": "",
-              "x": "I can’t believe it’s true that he got the job he wanted!"
+              "x": "I can't believe it's true that he got the job he wanted!"
             }
           ]
         }
       ]
     },
     {
+      "id": "131d602d-435a-47cd-8c73-1d2d18a321a1",
       "word": "false",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=ZmFsc2U&hash=240fa58cfb536ec3f1cda2e66c3b1a1557c2b419&lang=en&cache-only=0",
-      "phonetic_text": "fɔ:ls",
+      "phonetic_text": "fɔls",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmFsc2U&hash=240fa58cfb536ec3f1cda2e66c3b1a1557c2b419&lang=en&cache-only=0",
-      "phonetic_am_text": "faawls",
-      "img": "https://cdn.langeek.co/photo/48231/original/incorrect?type=jpeg",
+      "phonetic_am_text": "fawls",
+      "img": "https://cdn.langeek.co/photo/48229/original/?type=jpeg",
       "pronunciation": "fɔls",
       "senses": [
         {
@@ -1020,13 +1003,14 @@
       ]
     },
     {
+      "id": "86ccaf30-69e3-4b64-be25-8adac6cd03eb",
       "word": "rich",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cmljaA&hash=5371549ed8826faf60ccbef7166d7e90d1ec9cdb&lang=en&cache-only=0",
       "phonetic_text": "rɪʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=cmljaA&hash=5371549ed8826faf60ccbef7166d7e90d1ec9cdb&lang=en&cache-only=0",
       "phonetic_am_text": "rich",
-      "img": "https://cdn.langeek.co/photo/20774/original/wealthy?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60616/original/wealthy?type=jpeg",
       "pronunciation": "rɪtʃ",
       "senses": [
         {
@@ -1053,10 +1037,11 @@
       ]
     },
     {
+      "id": "4349739b-c223-401e-9cde-ec8c3a7ec34a",
       "word": "poor",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cG9vcg&hash=d44898325ffbbacae019c833d1cd7a97f2baa329&lang=en&cache-only=0",
-      "phonetic_text": "pu:r",
+      "phonetic_text": "pʊr",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9vcg&hash=d44898325ffbbacae019c833d1cd7a97f2baa329&lang=en&cache-only=0",
       "phonetic_am_text": "poor",
       "img": "https://cdn.langeek.co/photo/47761/original/?type=jpeg",
@@ -1090,12 +1075,13 @@
       ]
     },
     {
+      "id": "e7438019-c511-4a61-94db-e41abf9d5301",
       "word": "sure",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c3VyZQ&hash=f73faae01c779f276ccdba58f660a1e197d64697&lang=en&cache-only=0",
       "phonetic_text": "ʃʊr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3VyZQ&hash=f73faae01c779f276ccdba58f660a1e197d64697&lang=en&cache-only=0",
-      "phonetic_am_text": "shur",
+      "phonetic_am_text": "shoor",
       "img": "https://cdn.langeek.co/photo/47765/original/?type=jpeg",
       "pronunciation": "ʃʊr/ , /ʃɔːr",
       "senses": [
@@ -1127,12 +1113,13 @@
       ]
     },
     {
+      "id": "740493be-3e41-434e-a9df-847388bd0539",
       "word": "unsure",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=dW5zdXJl&hash=19a6ef19ee28c3361917e3d884b8f78de7be4d50&lang=en&cache-only=0",
-      "phonetic_text": "ənʃʊr",
+      "phonetic_text": "ʌn.ʃʊr",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5zdXJl&hash=19a6ef19ee28c3361917e3d884b8f78de7be4d50&lang=en&cache-only=0",
-      "phonetic_am_text": "ēnshur",
+      "phonetic_am_text": "an.shoor",
       "img": "https://cdn.langeek.co/photo/47771/original/?type=jpeg",
       "pronunciation": "ʌnˈʃʊr/ , /ʌnˈʃɔːr",
       "senses": [
@@ -1164,13 +1151,14 @@
       ]
     },
     {
+      "id": "78406328-60bc-486c-9b3e-fc9dc0087e16",
       "word": "correct",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y29ycmVjdA&hash=05f1e49321757e0a705bc555a3d2687242d794c9&lang=en&cache-only=0",
-      "phonetic_text": "kərɛkt",
+      "phonetic_text": "kə.rɛkt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29ycmVjdA&hash=05f1e49321757e0a705bc555a3d2687242d794c9&lang=en&cache-only=0",
-      "phonetic_am_text": "kērekt",
-      "img": "https://cdn.langeek.co/photo/48233/original/correct?type=jpeg",
+      "phonetic_am_text": "kē.rekt",
+      "img": "https://cdn.langeek.co/photo/60612/original/?type=jpeg",
       "pronunciation": "kəˈrɛkt",
       "senses": [
         {
@@ -1205,13 +1193,14 @@
       ]
     },
     {
+      "id": "166a57e8-3079-4c7f-aa40-153b713e1fb5",
       "word": "incorrect",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=aW5jb3JyZWN0&hash=d3ec7e5447a2764305296f9c8e574ddd543eb25a&lang=en&cache-only=0",
-      "phonetic_text": "ɪnkərɛkt",
+      "phonetic_text": "ɪn.kə.rɛkt",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5jb3JyZWN0&hash=d3ec7e5447a2764305296f9c8e574ddd543eb25a&lang=en&cache-only=0",
-      "phonetic_am_text": "inkērekt",
-      "img": "https://cdn.langeek.co/photo/48231/original/incorrect?type=jpeg",
+      "phonetic_am_text": "in.kē.rekt",
+      "img": "https://cdn.langeek.co/photo/60614/original/?type=jpeg",
       "pronunciation": "ˌɪnkəˈrɛkt",
       "senses": [
         {
@@ -1219,7 +1208,7 @@
           "examples": [
             {
               "cf": "",
-              "x": "His answer was incorrect, so he didn’t get full marks."
+              "x": "His answer was incorrect, so he didn't get full marks."
             },
             {
               "cf": "",

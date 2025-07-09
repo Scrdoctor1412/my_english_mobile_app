@@ -1,13 +1,15 @@
 {
+  "id": "ee57525c-b6ba-4425-b0ea-37f3c0f8f2d4",
   "topic": "knowledge_understanding",
   "title": "Forgetting",
   "lesson": "lesson_10",
   "word_list": [
     {
-      "word": "[draw] a blank",
+      "id": "d89b21fa-3bed-455f-b3c1-ae5fb02ae268",
+      "word": "to [draw] a blank",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJhdyBhIGJsYW5r&hash=9bcd00fc2dfe27810dd936b6fe7f721d7b45d15b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZHJhdyBhIGJsYW5r&hash=9bcd00fc2dfe27810dd936b6fe7f721d7b45d15b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/29665/original/?type=jpeg",
@@ -37,10 +39,11 @@
       ]
     },
     {
-      "word": "[have] a (memory|mind|head|brain) like a sieve",
+      "id": "3028befb-130c-4e65-b5ec-776631711394",
+      "word": "to [have] a (memory|mind|head|brain) like a sieve",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGF2ZSBhIG1lbW9yeSBsaWtlIGEgc2lldmU&hash=a0c9e7fc0764696d6504e98d3a569f828bf669b1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGF2ZSBhIG1lbW9yeSBsaWtlIGEgc2lldmU&hash=a0c9e7fc0764696d6504e98d3a569f828bf669b1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44924/original/?type=jpeg",
@@ -48,26 +51,18 @@
       "senses": [
         {
           "definition": "to often forget things due to one's exceptionally poor memory",
-          "examples": [
-            {
-              "cf": "",
-              "x": "That bastard has a head like a sieve, acing this test is like a walk in a park for him."
-            },
-            {
-              "cf": "",
-              "x": "I can't believe I forgot your birthday again; I must have a memory like a sieve."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "a9eb540d-4075-4a50-9c32-7d1572edf696",
       "word": "time out of mind",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGltZSBvdXQgb2YgbWluZA&hash=90a776cf415a1367545277123762cffe025522e3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "taɪm aʊt ʌv maɪnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dGltZSBvdXQgb2YgbWluZA&hash=90a776cf415a1367545277123762cffe025522e3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "taim aoot av maind",
       "img": "https://cdn.langeek.co/photo/44918/original/?type=jpeg",
       "pronunciation": "tˈaɪm ˌaʊɾəv mˈaɪnd",
       "senses": [
@@ -99,10 +94,11 @@
       ]
     },
     {
-      "word": "[be] on the tip of {one's} tongue",
+      "id": "36807ba5-add8-4807-a3cf-e14b4c793914",
+      "word": "to [be] on the tip of {one's} tongue",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgb24gdGhlIHRpcCBvZiBvbmUncyB0b25ndWU&hash=efa3d3a84c7baddc3db12110ac872a74ad1e3212&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgb24gdGhlIHRpcCBvZiBvbmUncyB0b25ndWU&hash=efa3d3a84c7baddc3db12110ac872a74ad1e3212&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44910/original/?type=jpeg",
@@ -110,32 +106,16 @@
       "senses": [
         {
           "definition": "to be very close to remembering or saying something but fail nevertheless",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The actor's name is on the tip of my tongue, but I just can't seem to remember it right now."
-            },
-            {
-              "cf": "",
-              "x": "The word I'm looking for is on the tip of my tongue, but it's not coming to me at the moment."
-            },
-            {
-              "cf": "",
-              "x": "The title of the book is on the tip of her tongue, and she's trying hard to recall it."
-            },
-            {
-              "cf": "",
-              "x": "The answer to the question was on the tip of his tongue, but it eluded him at that moment."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[slip] {one's} (mind|memory)",
+      "id": "bf3e881f-b065-486d-85ea-9653e1ae5ef0",
+      "word": "to [slip] {one's} (mind|memory)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2xpcCBvbmUncyBtaW5k&hash=76155302e5c4fd1752e7dc5a70a4d732be1a3d94&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2xpcCBvbmUncyBtaW5k&hash=76155302e5c4fd1752e7dc5a70a4d732be1a3d94&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44916/original/?type=jpeg",
@@ -169,12 +149,13 @@
       ]
     },
     {
-      "word": "forgive and forget",
+      "id": "3583ded5-1027-4c07-99f6-1b0e406cbef2",
+      "word": "to forgive and forget",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZm9yZ2l2ZSBhbmQgZm9yZ2V0&hash=27683b624373580d618c0031037eec1055c36a63&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɜr.gɪv ænd fər.gɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZm9yZ2l2ZSBhbmQgZm9yZ2V0&hash=27683b624373580d618c0031037eec1055c36a63&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fēr.giv ānd fēr.get",
       "img": "https://cdn.langeek.co/photo/40061/original/?type=jpeg",
       "pronunciation": "fəɡˈɪv ænd fɚɡˈɛt",
       "senses": [
@@ -206,10 +187,11 @@
       ]
     },
     {
-      "word": "[go] blank",
+      "id": "0fd1fe2d-f46c-4e2a-ad2d-aab3cefd703c",
+      "word": "to [go] blank",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ28gYmxhbms&hash=9a288598f4367bc83a725d186732f9e9a05f99af&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ28gYmxhbms&hash=9a288598f4367bc83a725d186732f9e9a05f99af&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44912/original/?type=jpeg",
@@ -217,38 +199,18 @@
       "senses": [
         {
           "definition": "to fail to remeber what one previously knew",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The doctor's mind went blank when she realized that the patient's heart had stopped beating."
-            },
-            {
-              "cf": "",
-              "x": "I went blank when the teacher asked me my name."
-            },
-            {
-              "cf": "",
-              "x": "The CEO's mind went blank when the board of directors asked him about the company's financial losses."
-            },
-            {
-              "cf": "",
-              "x": "During the exam, her mind went blank and she couldn't remember any of the answers."
-            },
-            {
-              "cf": "",
-              "x": "The witness's mind went blank when the lawyer asked him about the crime."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "68b5f5eb-e7f0-449f-8385-825036de0f5b",
       "word": "senior moment",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2VuaW9yIG1vbWVudA&hash=b58b0e131c34fbf3e268e8f8640db92a925c2fe0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "si:.niər moʊ.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=c2VuaW9yIG1vbWVudA&hash=b58b0e131c34fbf3e268e8f8640db92a925c2fe0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "si.niēr mooo.mēnt",
       "img": "https://cdn.langeek.co/photo/44914/original/?type=jpeg",
       "pronunciation": "sˈiːnjɚ mˈoʊmənt",
       "senses": [
@@ -280,10 +242,11 @@
       ]
     },
     {
+      "id": "a1883baa-9c23-498d-b10b-5edaaf6ddb68",
       "word": "lost in the mists of time",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bG9zdCBpbiB0aGUgbWlzdHMgb2YgdGltZQ&hash=56e720785cfdac9cfb4f578d415bfcfeaa98a736&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9zdCBpbiB0aGUgbWlzdHMgb2YgdGltZQ&hash=56e720785cfdac9cfb4f578d415bfcfeaa98a736&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44928/original/?type=jpeg",

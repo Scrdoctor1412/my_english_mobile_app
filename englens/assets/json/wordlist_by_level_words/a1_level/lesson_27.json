@@ -1,9 +1,11 @@
 {
+  "id": "f806ceea-f3fb-4607-839b-d41c644b114c",
   "topic": "a1_level",
   "title": "Transportation",
   "lesson": "lesson_27",
   "word_list": [
     {
+      "id": "67c75dff-43aa-4eb5-994d-a3616d130262",
       "word": "car",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2Fy&hash=0c1027a2f9bc8e99b7a34b8784a4165e3b7ffbca&lang=en&cache-only=0",
@@ -41,12 +43,13 @@
       ]
     },
     {
+      "id": "62edc2ea-74f9-4126-9b84-75ba21486591",
       "word": "motorcycle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW90b3JjeWNsZQ&hash=af5d9df0212da28f409f209173ff802240c488c2&lang=en&cache-only=0",
-      "phonetic_text": "moʊtərsaɪkəl",
+      "phonetic_text": "moʊ.tɜr.saɪ.kəl",
       "phonetic_am": "https://tts.langeek.co/read?text=bW90b3JjeWNsZQ&hash=af5d9df0212da28f409f209173ff802240c488c2&lang=en&cache-only=0",
-      "phonetic_am_text": "mowtērsaikēl",
+      "phonetic_am_text": "mooo.tēr.sai.kēl",
       "img": "https://cdn.langeek.co/photo/49488/original/motorcycle?type=jpeg",
       "pronunciation": "ˈmoʊtɚˌsaɪkl",
       "senses": [
@@ -78,6 +81,7 @@
       ]
     },
     {
+      "id": "029a2ee7-9343-43d8-9564-253a74d8a0ce",
       "word": "bus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVz&hash=ece33930deb035075822c0942b6b8026fb15fe25&lang=en&cache-only=0",
@@ -111,6 +115,7 @@
       ]
     },
     {
+      "id": "06dab604-5323-4802-826e-1d3410742f95",
       "word": "truck",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJ1Y2s&hash=ac26a9602c3de3e45b8f6cdbe521b3a72f63931b&lang=en&cache-only=0",
@@ -148,6 +153,7 @@
       ]
     },
     {
+      "id": "997ab1c5-342c-4039-94ac-9664513cfce9",
       "word": "train",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhaW4&hash=c1b4f01b274baa72abf82f56f006c02cb4003696&lang=en&cache-only=0",
@@ -185,12 +191,13 @@
       ]
     },
     {
+      "id": "f2148468-e802-454c-8c34-f9cca4d2f3f2",
       "word": "taxi",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGF4aQ&hash=8e6c3c4d51583e084c5419dbb04887142e5ffa34&lang=en&cache-only=0",
-      "phonetic_text": "tæksi",
+      "phonetic_text": "tæk.si",
       "phonetic_am": "https://tts.langeek.co/read?text=dGF4aQ&hash=8e6c3c4d51583e084c5419dbb04887142e5ffa34&lang=en&cache-only=0",
-      "phonetic_am_text": "tāksi",
+      "phonetic_am_text": "tāk.si",
       "img": "https://cdn.langeek.co/photo/49512/original/taxi?type=jpeg",
       "pronunciation": "ˈtæksi",
       "senses": [
@@ -222,45 +229,30 @@
       ]
     },
     {
+      "id": "9d051603-766f-41bf-9a81-95470b7187e3",
       "word": "subway",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3Vid2F5&hash=61972b7d10cff235e44115242a189533d6d86d40&lang=en&cache-only=0",
-      "phonetic_text": "sʌbweɪ",
+      "phonetic_text": "sʌb.weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=c3Vid2F5&hash=61972b7d10cff235e44115242a189533d6d86d40&lang=en&cache-only=0",
-      "phonetic_am_text": "sabwei",
+      "phonetic_am_text": "sab.vei",
       "img": "https://cdn.langeek.co/photo/49490/original/subway?type=jpeg",
       "pronunciation": "ˈsʌbˌweɪ",
       "senses": [
         {
           "definition": "an underground railroad system, typically in a big city",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I like reading a book during my subway ride."
-            },
-            {
-              "cf": "",
-              "x": "I prefer taking the subway instead of driving in the city."
-            },
-            {
-              "cf": "",
-              "x": "The subway map helped me navigate the different lines."
-            },
-            {
-              "cf": "",
-              "x": "There are designated seats for elderly and pregnant passengers on the subway."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "72e31b74-f3ce-4a52-97f8-920cced8b9da",
       "word": "airplane",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWlycGxhbmU&hash=9f3cf57a0f7012139fdd93a760e9f9194beb9754&lang=en&cache-only=0",
-      "phonetic_text": "ɛrpleɪn",
+      "phonetic_text": "ɛr.pleɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=YWlycGxhbmU&hash=9f3cf57a0f7012139fdd93a760e9f9194beb9754&lang=en&cache-only=0",
-      "phonetic_am_text": "erplein",
+      "phonetic_am_text": "er.plein",
       "img": "https://cdn.langeek.co/photo/49478/original/airplane?type=jpeg",
       "pronunciation": "ˈɛrˌpleɪn",
       "senses": [
@@ -292,12 +284,13 @@
       ]
     },
     {
+      "id": "cf70f476-b771-4afe-af3f-f4aa72534f37",
       "word": "helicopter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGVsaWNvcHRlcg&hash=710aa2a7d56ab4d53589f7b88e41335be2c2c087&lang=en&cache-only=0",
-      "phonetic_text": "hɛlɪkɑptər",
+      "phonetic_text": "hɛ.lɪ.kɑ:p.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=aGVsaWNvcHRlcg&hash=710aa2a7d56ab4d53589f7b88e41335be2c2c087&lang=en&cache-only=0",
-      "phonetic_am_text": "helikɑptēr",
+      "phonetic_am_text": "he.li.kaap.tēr",
       "img": "https://cdn.langeek.co/photo/49486/original/helicopter?type=jpeg",
       "pronunciation": "ˈhɛlɪˌkɑːptɚ",
       "senses": [
@@ -329,6 +322,7 @@
       ]
     },
     {
+      "id": "1a5b9b35-bf93-4166-b3ac-0db74e73f531",
       "word": "ship",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2hpcA&hash=4f13bb7567d81a28e6e015e2593edf795e8737e9&lang=en&cache-only=0",
@@ -366,12 +360,13 @@
       ]
     },
     {
+      "id": "77532ba4-e3b1-45c7-ae1f-568793cc6551",
       "word": "boat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9hdA&hash=24ee2a46bf9999fe99dc2e5a586d7c941089d5a5&lang=en&cache-only=0",
       "phonetic_text": "boʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9hdA&hash=24ee2a46bf9999fe99dc2e5a586d7c941089d5a5&lang=en&cache-only=0",
-      "phonetic_am_text": "bowt",
+      "phonetic_am_text": "booot",
       "img": "https://cdn.langeek.co/photo/49482/original/boat?type=jpeg",
       "pronunciation": "boʊt",
       "senses": [
@@ -399,12 +394,13 @@
       ]
     },
     {
+      "id": "d6632c3c-8a5d-491b-9427-a66b709f5049",
       "word": "ticket",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGlja2V0&hash=366f2e76c0c68d0e0f393d4f2c9fd540cec5028c&lang=en&cache-only=0",
-      "phonetic_text": "tɪkət",
+      "phonetic_text": "tɪ.kɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dGlja2V0&hash=366f2e76c0c68d0e0f393d4f2c9fd540cec5028c&lang=en&cache-only=0",
-      "phonetic_am_text": "tikēt",
+      "phonetic_am_text": "ti.kit",
       "img": "https://cdn.langeek.co/photo/49492/original/ticket?type=jpeg",
       "pronunciation": "ˈtɪkɪt",
       "senses": [
@@ -436,6 +432,7 @@
       ]
     },
     {
+      "id": "d9fe513e-387e-4204-8154-2f611973ac8f",
       "word": "van",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmFu&hash=52850e8ebb847d535d64cae0d7d3de47612d17e7&lang=en&cache-only=0",
@@ -469,12 +466,13 @@
       ]
     },
     {
+      "id": "029336ea-2391-4b5c-9af9-b95b0a976a80",
       "word": "station",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RhdGlvbg&hash=b7a59ac64128127dd332f6a8909991884dc05a30&lang=en&cache-only=0",
-      "phonetic_text": "steɪʃən",
+      "phonetic_text": "steɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RhdGlvbg&hash=b7a59ac64128127dd332f6a8909991884dc05a30&lang=en&cache-only=0",
-      "phonetic_am_text": "steishēn",
+      "phonetic_am_text": "stei.shēn",
       "img": "https://cdn.langeek.co/photo/49548/original/?type=jpeg",
       "pronunciation": "ˈsteɪʃən",
       "senses": [
@@ -490,12 +488,13 @@
       ]
     },
     {
+      "id": "e56b349b-742f-4836-a6e7-9c0f1be0faae",
       "word": "airport",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWlycG9ydA&hash=85636aa0b2a99c38a3d8270814d4021018aef0cd&lang=en&cache-only=0",
-      "phonetic_text": "ɛrpɔrt",
+      "phonetic_text": "ɛr.pɔrt",
       "phonetic_am": "https://tts.langeek.co/read?text=YWlycG9ydA&hash=85636aa0b2a99c38a3d8270814d4021018aef0cd&lang=en&cache-only=0",
-      "phonetic_am_text": "erpawrt",
+      "phonetic_am_text": "er.pawrt",
       "img": "https://cdn.langeek.co/photo/49480/original/airport?type=jpeg",
       "pronunciation": "ˈɛrˌpɔːrt",
       "senses": [
@@ -527,12 +526,13 @@
       ]
     },
     {
+      "id": "c5250973-db69-4e85-85d5-43370d2a251b",
       "word": "train station",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhaW4gc3RhdGlvbg&hash=f541c95e2b16b1f6d309a1ca59793a09664b4535&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "treɪn steɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhaW4gc3RhdGlvbg&hash=f541c95e2b16b1f6d309a1ca59793a09664b4535&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trein stei.shēn",
       "img": "https://cdn.langeek.co/photo/44048/original/train-station?type=jpeg",
       "pronunciation": "ˈtreɪn ˈsteɪʃən",
       "senses": [

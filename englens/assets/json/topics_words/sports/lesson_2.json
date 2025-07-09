@@ -1,41 +1,87 @@
 {
+  "id": "033b107f-bf97-458d-892e-a23736148068",
   "topic": "sports",
   "title": "Sports Establishments",
   "lesson": "lesson_2",
   "word_list": [
     {
+      "id": "7a5baba3-3d4b-4245-9d6d-e65cf4e88c0d",
       "word": "venue",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmVudWU&hash=a1f2f82234c12f928ec8c65cbbb861c0b7c7e0f7&lang=en&cache-only=0",
-      "phonetic_text": "vɛnju",
+      "phonetic_text": "vɛ.nju",
       "phonetic_am": "https://tts.langeek.co/read?text=dmVudWU&hash=a1f2f82234c12f928ec8c65cbbb861c0b7c7e0f7&lang=en&cache-only=0",
-      "phonetic_am_text": "venyu",
+      "phonetic_am_text": "ve.nyoo",
       "img": "",
       "pronunciation": "ˈvɛnju",
       "senses": [
         {
           "definition": "a location where an event or action takes place, such as a meeting or performance",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The concert will be held at a large outdoor venue."
+            },
+            {
+              "cf": "",
+              "x": "The venue for the conference is located in the city center."
+            },
+            {
+              "cf": "",
+              "x": "We need to find a suitable venue for the wedding reception."
+            },
+            {
+              "cf": "",
+              "x": "The venue was packed with fans for the football game."
+            },
+            {
+              "cf": "",
+              "x": "They chose a historic venue for their anniversary celebration."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "23e64035-bec3-4ed5-95dd-14bd9c41e380",
       "word": "velodrome",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmVsb2Ryb21l&hash=ab5b9410fd4baeaecd26937bf6c47602e204abc0&lang=en&cache-only=0",
-      "phonetic_text": "vɛloʊdroʊm",
+      "phonetic_text": "vɛ.loʊd.roʊm",
       "phonetic_am": "https://tts.langeek.co/read?text=dmVsb2Ryb21l&hash=ab5b9410fd4baeaecd26937bf6c47602e204abc0&lang=en&cache-only=0",
-      "phonetic_am_text": "velowdrowm",
+      "phonetic_am_text": "ve.loood.rooom",
       "img": "",
       "pronunciation": "ˌvɛɫoʊˈdɹoʊm",
       "senses": [
         {
           "definition": "a specialized cycling track, typically with steeply banked curves, designed for track cycling events",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The cyclists trained at the velodrome to prepare for the upcoming race."
+            },
+            {
+              "cf": "",
+              "x": "Spectators cheered as the riders zoomed around the velodrome."
+            },
+            {
+              "cf": "",
+              "x": "They installed new lighting at the velodrome for evening training sessions."
+            },
+            {
+              "cf": "",
+              "x": "He set a new record for the fastest lap time at the velodrome"
+            },
+            {
+              "cf": "",
+              "x": "The velodrome was filled with the sound of whirring wheels and cheering fans."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "559538b1-ff98-48d3-a432-cc0b72e0c77a",
       "word": "park",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGFyaw&hash=c376e165829b41f07d765ee0c06c3e2d04a42127&lang=en&cache-only=0",
@@ -43,21 +89,43 @@
       "phonetic_am": "https://tts.langeek.co/read?text=cGFyaw&hash=c376e165829b41f07d765ee0c06c3e2d04a42127&lang=en&cache-only=0",
       "phonetic_am_text": "paark",
       "img": "",
-      "pronunciation": "pɑːrk",
+      "pronunciation": "pɑrk",
       "senses": [
         {
           "definition": "a stadium or field where games, especially baseball, are played, equipped with seating for spectators and facilities for players",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "We cheered from the stands at the park during the baseball game."
+            },
+            {
+              "cf": "",
+              "x": "Players gather at the park for practice sessions."
+            },
+            {
+              "cf": "",
+              "x": "The team won a crucial game at the local park's field."
+            },
+            {
+              "cf": "",
+              "x": "Fans filled the park to watch the championship match."
+            },
+            {
+              "cf": "",
+              "x": "He hit a homer over the park's outfield fence."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "75fda980-3b89-46e1-a7cd-78c4fb2be7ac",
       "word": "skating rink",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2thdGluZyByaW5r&hash=944f9345bf07df625d78698d46033fff37a6eea1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skeɪ.tɪng rɪnk",
       "phonetic_am": "https://tts.langeek.co/read?text=c2thdGluZyByaW5r&hash=944f9345bf07df625d78698d46033fff37a6eea1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skei.ting rink",
       "img": "",
       "pronunciation": "skˈeɪɾɪŋ ɹˈɪŋk",
       "senses": [
@@ -89,14 +157,15 @@
       ]
     },
     {
+      "id": "a8cc764a-1a1b-44b2-adb6-d90d3d4c5d8c",
       "word": "swimming pool",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3dpbW1pbmcgcG9vbA&hash=fe96a68f4a0f4834629a088448fc9ca6a5bc4851&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "swɪ.mɪng pu:l",
       "phonetic_am": "https://tts.langeek.co/read?text=c3dpbW1pbmcgcG9vbA&hash=fe96a68f4a0f4834629a088448fc9ca6a5bc4851&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "svi.ming pool",
       "img": "https://cdn.langeek.co/photo/18063/original/swimming-pool?type=jpeg",
-      "pronunciation": "swˈɪmɪŋ pˈuːl",
+      "pronunciation": "ˈswɪmɪŋ ˌpul",
       "senses": [
         {
           "definition": "a specially designed structure that holds water for people to swim in",
@@ -126,12 +195,13 @@
       ]
     },
     {
+      "id": "1ae3a030-9454-41da-b315-e4ae3b2fb714",
       "word": "racetrack",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFjZXRyYWNr&hash=c4ad96f99745548cc4309395501e3c2ea7fbe349&lang=en&cache-only=0",
-      "phonetic_text": "reɪstræk",
+      "phonetic_text": "reɪs.træk",
       "phonetic_am": "https://tts.langeek.co/read?text=cmFjZXRyYWNr&hash=c4ad96f99745548cc4309395501e3c2ea7fbe349&lang=en&cache-only=0",
-      "phonetic_am_text": "reistrāk",
+      "phonetic_am_text": "reis.trāk",
       "img": "https://cdn.langeek.co/photo/37320/original/?type=jpeg",
       "pronunciation": "ˈɹeɪˌstɹæk",
       "senses": [
@@ -163,10 +233,11 @@
       ]
     },
     {
+      "id": "a1ffcfca-e754-4250-a164-b4c94b86946c",
       "word": "Olympic Village",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=T2x5bXBpYyBWaWxsYWdl&hash=4f67e649cb348774576a87deab253abc6e69471f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=T2x5bXBpYyBWaWxsYWdl&hash=4f67e649cb348774576a87deab253abc6e69471f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -200,12 +271,13 @@
       ]
     },
     {
+      "id": "4aad9ce0-df90-44ed-89b9-2610fab150e6",
       "word": "stadium",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RhZGl1bQ&hash=19c4c9f634a466e1b2d442350ad83d744e55491a&lang=en&cache-only=0",
-      "phonetic_text": "steɪdiəm",
+      "phonetic_text": "steɪ.diəm",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RhZGl1bQ&hash=19c4c9f634a466e1b2d442350ad83d744e55491a&lang=en&cache-only=0",
-      "phonetic_am_text": "steidiēm",
+      "phonetic_am_text": "stei.diēm",
       "img": "https://cdn.langeek.co/photo/51747/original/stadium?type=jpeg",
       "pronunciation": "ˈsteɪdiəm",
       "senses": [
@@ -237,12 +309,13 @@
       ]
     },
     {
+      "id": "5dd426d2-d3ea-4216-8c04-499ba638fb87",
       "word": "arena",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJlbmE&hash=24110ab70e9b8b76e4b6ad0a193d18e5341fb8c1&lang=en&cache-only=0",
-      "phonetic_text": "əri:nə",
+      "phonetic_text": "ɜ.ri.nə",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJlbmE&hash=24110ab70e9b8b76e4b6ad0a193d18e5341fb8c1&lang=en&cache-only=0",
-      "phonetic_am_text": "ēreenē",
+      "phonetic_am_text": "ē.ri.nē",
       "img": "https://cdn.langeek.co/photo/51747/original/stadium?type=jpeg",
       "pronunciation": "ɝˈinə",
       "senses": [
@@ -253,22 +326,45 @@
       ]
     },
     {
+      "id": "d4997b5f-9755-4747-a4d0-e5e7e8c5c972",
       "word": "coliseum",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29saXNldW0&hash=c27a157b439996f596941819a5e2c5999d5fa160&lang=en&cache-only=0",
-      "phonetic_text": "kɑləsi:əm",
+      "phonetic_text": "kɑ.lə.siəm",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29saXNldW0&hash=c27a157b439996f596941819a5e2c5999d5fa160&lang=en&cache-only=0",
-      "phonetic_am_text": "kɑlēseeēm",
+      "phonetic_am_text": "kaa.lē.siēm",
       "img": "https://cdn.langeek.co/photo/27211/original/?type=jpeg",
       "pronunciation": "ˌkɑɫəˈsiəm",
       "senses": [
         {
           "definition": "a large stadium or arena used for sporting events, often characterized by its size and historical significance",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The basketball team played their home games at the ancient coliseum."
+            },
+            {
+              "cf": "",
+              "x": "The gladiator matches were held in the Roman coliseum centuries ago."
+            },
+            {
+              "cf": "",
+              "x": "She attended the tennis match at the modern coliseum downtown."
+            },
+            {
+              "cf": "",
+              "x": "The football coliseum was filled with enthusiastic fans cheering for their team."
+            },
+            {
+              "cf": "",
+              "x": "The coliseum's architecture is a blend of modern amenities and historical charm."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "ac573c77-bc9e-4da4-9a77-c48bb652c59c",
       "word": "gym",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3lt&hash=ea5757af149cd2ed903365097cb771efca0ef480&lang=en&cache-only=0",
@@ -276,15 +372,37 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Z3lt&hash=ea5757af149cd2ed903365097cb771efca0ef480&lang=en&cache-only=0",
       "phonetic_am_text": "jim",
       "img": "https://cdn.langeek.co/photo/20481/original/gym?type=jpeg",
-      "pronunciation": "ˈdʒɪm",
+      "pronunciation": "ʤɪm",
       "senses": [
         {
           "definition": "a place with special equipment that people go to exercise or play sports",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He goes to the gym five times a week."
+            },
+            {
+              "cf": "",
+              "x": "The gym was crowded with people after work."
+            },
+            {
+              "cf": "",
+              "x": "She joined a new gym near her house."
+            },
+            {
+              "cf": "",
+              "x": "They offer yoga classes at the gym."
+            },
+            {
+              "cf": "",
+              "x": "I saw her lifting weights at the gym yesterday."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "6f6ab77c-278f-4c6a-954a-c7ec132565a9",
       "word": "pool",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9vbA&hash=a5953a3bb258d43dbd0592d4b3a534304d81d6d6&lang=en&cache-only=0",
@@ -292,39 +410,83 @@
       "phonetic_am": "https://tts.langeek.co/read?text=cG9vbA&hash=a5953a3bb258d43dbd0592d4b3a534304d81d6d6&lang=en&cache-only=0",
       "phonetic_am_text": "pool",
       "img": "https://cdn.langeek.co/photo/18063/original/swimming-pool?type=jpeg",
-      "pronunciation": "ˈpuɫ",
+      "pronunciation": "puːl",
       "senses": [
         {
           "definition": "a container of water that people can swim in",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The community center has an indoor pool where families can enjoy swimming together regardless of the weather outside."
+            },
+            {
+              "cf": "",
+              "x": "During the summer heatwave, many locals flock to the public pool to cool off and relax in the refreshing water."
+            },
+            {
+              "cf": "",
+              "x": "The hotel boasts a luxurious outdoor pool surrounded by lush tropical gardens, providing guests with a tranquil oasis to unwind."
+            },
+            {
+              "cf": "",
+              "x": "After a long day at work, Sarah likes to unwind by taking a dip in her backyard pool, enjoying the soothing sensation of the water."
+            },
+            {
+              "cf": "",
+              "x": "The Olympic-sized pool at the sports complex is used for competitive swimming events and training sessions by professional athletes."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7ceaa61e-29b5-4684-b4b8-f1740a36fbd8",
       "word": "dojo",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZG9qbw&hash=e25dcc0b56284fdec8a0c6ab3ba054210f0b383b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "doʊ.ʤoʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG9qbw&hash=e25dcc0b56284fdec8a0c6ab3ba054210f0b383b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dooo.jooo",
       "img": "",
       "pronunciation": "dˈoʊdʒoʊ",
       "senses": [
         {
           "definition": "a training facility or space used for martial arts practice and instruction",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Students bow upon entering the dojo as a sign of respect."
+            },
+            {
+              "cf": "",
+              "x": "The dojo walls are adorned with traditional martial arts symbols and inspirational quotes."
+            },
+            {
+              "cf": "",
+              "x": "Beginners are often introduced to basic techniques in the dojo's beginner class."
+            },
+            {
+              "cf": "",
+              "x": "Black belts serve as mentors to lower-ranked students in the dojo."
+            },
+            {
+              "cf": "",
+              "x": "Parents watch proudly from the viewing area as their children practice in the dojo."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "cfa63252-c359-411f-b748-09d9619bf447",
       "word": "stable",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RhYmxl&hash=0e994ae64d736eae6f6f9f6cda6d814939bef921&lang=en&cache-only=0",
-      "phonetic_text": "steɪbəl",
+      "phonetic_text": "steɪ.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RhYmxl&hash=0e994ae64d736eae6f6f9f6cda6d814939bef921&lang=en&cache-only=0",
-      "phonetic_am_text": "steibēl",
+      "phonetic_am_text": "stei.bēl",
       "img": "https://cdn.langeek.co/photo/19154/original/stable?type=jpeg",
-      "pronunciation": "ˈsteɪbəɫ",
+      "pronunciation": "ˈsteɪbəl",
       "senses": [
         {
           "definition": "a building, typically found on a farm, designed to house horses",
@@ -338,12 +500,13 @@
       ]
     },
     {
+      "id": "4d44033d-4645-4863-b2ce-4866aee0152c",
       "word": "poolroom",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9vbHJvb20&hash=8e211b5d7f30d2296f87f5669e71bd449721b4c6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pu:l.ru:m",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9vbHJvb20&hash=8e211b5d7f30d2296f87f5669e71bd449721b4c6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pool.room",
       "img": "",
       "pronunciation": "pˈuːlɹuːm",
       "senses": [
@@ -375,12 +538,13 @@
       ]
     },
     {
+      "id": "29a21338-3955-46f3-82a3-4bebb7539d17",
       "word": "driving range",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJpdmluZyByYW5nZQ&hash=67f7e40b250a802c4b809269da33743869e991d0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "draɪ.vɪng reɪnʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJpdmluZyByYW5nZQ&hash=67f7e40b250a802c4b809269da33743869e991d0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "drai.ving reinj",
       "img": "",
       "pronunciation": "dɹˈaɪvɪŋ ɹˈeɪndʒ",
       "senses": [
@@ -412,12 +576,13 @@
       ]
     },
     {
+      "id": "79d7d3ac-dbd2-4698-82f1-6aaaa7e65f63",
       "word": "skate park",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2thdGUgcGFyaw&hash=e66abad5c7b4125a724b8a820f99697a7af3071b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skeɪt pɑ:rk",
       "phonetic_am": "https://tts.langeek.co/read?text=c2thdGUgcGFyaw&hash=e66abad5c7b4125a724b8a820f99697a7af3071b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skeit paark",
       "img": "",
       "pronunciation": "skˈeɪt pˈɑːɹk",
       "senses": [

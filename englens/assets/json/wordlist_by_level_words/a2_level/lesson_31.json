@@ -1,16 +1,18 @@
 {
+  "id": "cea84c59-9194-4727-8d39-a09f3891e1ab",
   "topic": "a2_level",
   "title": "Food",
   "lesson": "lesson_31",
   "word_list": [
     {
-      "word": "taste",
+      "id": "7d78e5b2-774b-4da7-8236-79252f406b96",
+      "word": "to taste",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFzdGU&hash=0672b74b102981175193991ea74d3a14c5ce71db&lang=en&cache-only=0",
       "phonetic_text": "teɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFzdGU&hash=0672b74b102981175193991ea74d3a14c5ce71db&lang=en&cache-only=0",
       "phonetic_am_text": "teist",
-      "img": "https://cdn.langeek.co/photo/27596/original/?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/61820/original/?type=jpeg",
       "pronunciation": "teɪst",
       "senses": [
         {
@@ -49,14 +51,15 @@
       ]
     },
     {
+      "id": "a7108986-bdc4-40e1-9e0e-b54cd72206ec",
       "word": "pork",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9yaw&hash=23442b0e7ab06d75fdc13703ec50cb5bf725d4a1&lang=en&cache-only=0",
-      "phonetic_text": "pɔ:rk",
+      "phonetic_text": "pɔrk",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9yaw&hash=23442b0e7ab06d75fdc13703ec50cb5bf725d4a1&lang=en&cache-only=0",
-      "phonetic_am_text": "paawrk",
-      "img": "https://cdn.langeek.co/photo/14019/original/pork?type=jpeg",
-      "pronunciation": "ˈpɔɹk",
+      "phonetic_am_text": "pawrk",
+      "img": "https://cdn.langeek.co/photo/61812/original/pork?type=jpeg",
+      "pronunciation": "pɔrk",
       "senses": [
         {
           "definition": "meat from a pig, eaten as food",
@@ -78,14 +81,15 @@
       ]
     },
     {
+      "id": "c5d9908f-b90c-41e1-88fc-34b4131ffd76",
       "word": "beef",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVlZg&hash=db4a70b1b5fee00c4a7f0d420235e2bec1059ab7&lang=en&cache-only=0",
-      "phonetic_text": "bi:f",
+      "phonetic_text": "bif",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVlZg&hash=db4a70b1b5fee00c4a7f0d420235e2bec1059ab7&lang=en&cache-only=0",
-      "phonetic_am_text": "beef",
-      "img": "https://cdn.langeek.co/photo/27075/original/beef?type=jpeg",
-      "pronunciation": "ˈbif",
+      "phonetic_am_text": "bif",
+      "img": "https://cdn.langeek.co/photo/61794/original/beef?type=jpeg",
+      "pronunciation": "bif",
       "senses": [
         {
           "definition": "meat that is from a cow",
@@ -107,13 +111,14 @@
       ]
     },
     {
+      "id": "caf4e60b-0aa2-4ece-99c2-0aa191751c17",
       "word": "lamb",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFtYg&hash=d1881bb6ff7f5fb2c4181ace3e46312552f257ac&lang=en&cache-only=0",
       "phonetic_text": "læm",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFtYg&hash=d1881bb6ff7f5fb2c4181ace3e46312552f257ac&lang=en&cache-only=0",
       "phonetic_am_text": "lām",
-      "img": "https://cdn.langeek.co/photo/15837/original/lamb?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/61804/original/lamb?type=jpeg",
       "pronunciation": "læm",
       "senses": [
         {
@@ -136,14 +141,15 @@
       ]
     },
     {
+      "id": "45290d96-023a-4ec3-9cb5-69235fa1f1de",
       "word": "tuna",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHVuYQ&hash=636581ac01094d08d10de5acbaf0eb0f134b5037&lang=en&cache-only=0",
-      "phonetic_text": "tu:nə",
+      "phonetic_text": "tu:.nə",
       "phonetic_am": "https://tts.langeek.co/read?text=dHVuYQ&hash=636581ac01094d08d10de5acbaf0eb0f134b5037&lang=en&cache-only=0",
-      "phonetic_am_text": "toonē",
+      "phonetic_am_text": "too.nē",
       "img": "https://cdn.langeek.co/photo/51572/original/?type=jpeg",
-      "pronunciation": "ˈtjunə/, /ˈtunə",
+      "pronunciation": "ˈtuːnə",
       "senses": [
         {
           "definition": "the meat of a large fish named tuna that lives in warm waters",
@@ -173,14 +179,15 @@
       ]
     },
     {
+      "id": "a1af63a6-bfe4-4787-9dc8-847a95b2ab46",
       "word": "omelet",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b21lbGV0&hash=1ded6c3a81219a7c96d77c71ca2ac1352e7e9323&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:mlət",
+      "phonetic_text": "ɑm.lɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=b21lbGV0&hash=1ded6c3a81219a7c96d77c71ca2ac1352e7e9323&lang=en&cache-only=0",
-      "phonetic_am_text": "aamlēt",
+      "phonetic_am_text": "aam.lit",
       "img": "https://cdn.langeek.co/photo/50375/original/omelet?type=jpeg",
-      "pronunciation": "ˈɑmɫət",
+      "pronunciation": "ˈɑmlɪt",
       "senses": [
         {
           "definition": "a dish that consists of eggs mixed together and cooked in a frying pan",
@@ -198,13 +205,14 @@
       ]
     },
     {
+      "id": "e766afaa-4939-4d98-b9d9-531cc35d703c",
       "word": "cookbook",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29va2Jvb2s&hash=9b85d1998b3a39566118f98a5f608b21d9a67542&lang=en&cache-only=0",
-      "phonetic_text": "kʊkbʊk",
+      "phonetic_text": "kʊk.bʊk",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29va2Jvb2s&hash=9b85d1998b3a39566118f98a5f608b21d9a67542&lang=en&cache-only=0",
-      "phonetic_am_text": "kukbuk",
-      "img": "https://cdn.langeek.co/photo/17025/original/cookbook?type=jpeg",
+      "phonetic_am_text": "kook.book",
+      "img": "https://cdn.langeek.co/photo/61798/original/cookbook?type=jpeg",
       "pronunciation": "ˈkʊkˌbʊk",
       "senses": [
         {
@@ -235,14 +243,15 @@
       ]
     },
     {
+      "id": "8de09cf5-c52d-4b98-a5ff-c2e9abbeaab4",
       "word": "grocery",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JvY2VyeQ&hash=966743911bd4b65acceb5bb9f7fb266a1e1e9c08&lang=en&cache-only=0",
-      "phonetic_text": "groʊsəri",
+      "phonetic_text": "groʊ.sɜ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JvY2VyeQ&hash=966743911bd4b65acceb5bb9f7fb266a1e1e9c08&lang=en&cache-only=0",
-      "phonetic_am_text": "growsēri",
-      "img": "https://cdn.langeek.co/photo/17017/original/grocery?type=jpeg",
-      "pronunciation": "ˈɡɹoʊsɝi/, /ˈɡɹoʊsɹi",
+      "phonetic_am_text": "grooo.sē.ri",
+      "img": "https://cdn.langeek.co/photo/61802/original/grocery?type=jpeg",
+      "pronunciation": "ˈɡroʊsəri",
       "senses": [
         {
           "definition": "(typically plural) food and other items, typically household goods, that we buy at a supermarket such as eggs, flour, etc.",
@@ -268,14 +277,15 @@
       ]
     },
     {
+      "id": "36515d9e-a7b7-4000-a40b-f1813051cffe",
       "word": "tip",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGlw&hash=abd0bf810fa302d4f8a942c4b2bb39f14d5e51de&lang=en&cache-only=0",
       "phonetic_text": "tɪp",
       "phonetic_am": "https://tts.langeek.co/read?text=dGlw&hash=abd0bf810fa302d4f8a942c4b2bb39f14d5e51de&lang=en&cache-only=0",
       "phonetic_am_text": "tip",
-      "img": "https://cdn.langeek.co/photo/15845/original/tip?type=jpeg",
-      "pronunciation": "ˈtɪp",
+      "img": "https://cdn.langeek.co/photo/61814/original/tip?type=jpeg",
+      "pronunciation": "tɪp",
       "senses": [
         {
           "definition": "the additional money we give someone such as a waiter, driver, etc. to thank them for the services they have given us",
@@ -305,13 +315,14 @@
       ]
     },
     {
+      "id": "d20b264a-cc1d-440d-b69b-1df42cf63c0d",
       "word": "rest",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVzdA&hash=b7fa5dd7d7b7934cadf4cc291d48818b2ae1e53f&lang=en&cache-only=0",
       "phonetic_text": "rɛst",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVzdA&hash=b7fa5dd7d7b7934cadf4cc291d48818b2ae1e53f&lang=en&cache-only=0",
       "phonetic_am_text": "rest",
-      "img": "https://cdn.langeek.co/photo/17483/original/rest?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/61816/original/rest?type=jpeg",
       "pronunciation": "rɛst",
       "senses": [
         {
@@ -342,14 +353,15 @@
       ]
     },
     {
+      "id": "a8de1f79-b547-487c-bdc1-514db42aca78",
       "word": "leftovers",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGVmdG92ZXJz&hash=94cfe758515bacb905c251e9fb193d3302badfad&lang=en&cache-only=0",
-      "phonetic_text": "lɛftoʊvərz",
+      "phonetic_text": "lɛf.toʊ.vərz",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVmdG92ZXJz&hash=94cfe758515bacb905c251e9fb193d3302badfad&lang=en&cache-only=0",
-      "phonetic_am_text": "leftowvērz",
-      "img": "https://cdn.langeek.co/photo/15839/original/leftovers?type=jpeg",
-      "pronunciation": "ˈɫɛfˌtoʊvɝz",
+      "phonetic_am_text": "lef.tooo.vērz",
+      "img": "https://cdn.langeek.co/photo/61808/original/leftovers?type=jpeg",
+      "pronunciation": "ˈlɛftˌoʊvɚz",
       "senses": [
         {
           "definition": "the amount of food that remains uneaten after a meal and is typically saved for later consumption",
@@ -379,14 +391,15 @@
       ]
     },
     {
+      "id": "799ff797-bd05-48c7-a782-99abf92f4930",
       "word": "steak",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RlYWs&hash=a2616c3128d480776dbd1e9424607f63f85407b8&lang=en&cache-only=0",
       "phonetic_text": "steɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RlYWs&hash=a2616c3128d480776dbd1e9424607f63f85407b8&lang=en&cache-only=0",
       "phonetic_am_text": "steik",
-      "img": "https://cdn.langeek.co/photo/27075/original/beef?type=jpeg",
-      "pronunciation": "ˈsteɪk",
+      "img": "https://cdn.langeek.co/photo/61794/original/beef?type=jpeg",
+      "pronunciation": "steɪk",
       "senses": [
         {
           "definition": "a large piece of meat or fish cut into thick slices",
@@ -416,14 +429,15 @@
       ]
     },
     {
+      "id": "2138206b-c08c-4a60-af91-a548c1e1d757",
       "word": "well-done",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=d2VsbC1kb25l&hash=e1f7b2ae59d63af095661202da0ce669b006217b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɛl-dən",
       "phonetic_am": "https://tts.langeek.co/read?text=d2VsbC1kb25l&hash=e1f7b2ae59d63af095661202da0ce669b006217b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vel-dēn",
       "img": "https://cdn.langeek.co/photo/17479/original/well-done?type=jpeg",
-      "pronunciation": "wˈɛldˈʌn",
+      "pronunciation": "ˈwɛl ˈdʌn",
       "senses": [
         {
           "definition": "(of meat) completely cooked in a way that there is not any pink flesh inside",
@@ -453,14 +467,15 @@
       ]
     },
     {
+      "id": "d9d46560-b3c8-4e81-8129-0a217cb3e0cf",
       "word": "medium",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=bWVkaXVt&hash=61ba707d49bfb75abffb837b8343f7da4143353c&lang=en&cache-only=0",
-      "phonetic_text": "mi:diəm",
+      "phonetic_text": "mi:.diəm",
       "phonetic_am": "https://tts.langeek.co/read?text=bWVkaXVt&hash=61ba707d49bfb75abffb837b8343f7da4143353c&lang=en&cache-only=0",
-      "phonetic_am_text": "meediēm",
+      "phonetic_am_text": "mi.diēm",
       "img": "https://cdn.langeek.co/photo/17475/original/medium?type=jpeg",
-      "pronunciation": "ˈmidiəm",
+      "pronunciation": "ˈmiːdiəm",
       "senses": [
         {
           "definition": "(of meat) cooked in a way that there is only a small amount of pink flesh inside",
@@ -482,6 +497,7 @@
       ]
     },
     {
+      "id": "d355c111-94bd-41fa-ac45-dfc13e165a33",
       "word": "rare",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=cmFyZQ&hash=cf5bc4e471c8e5d570cc182f33280d7ba22a2927&lang=en&cache-only=0",
@@ -489,7 +505,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=cmFyZQ&hash=cf5bc4e471c8e5d570cc182f33280d7ba22a2927&lang=en&cache-only=0",
       "phonetic_am_text": "rer",
       "img": "https://cdn.langeek.co/photo/17485/original/rare?type=jpeg",
-      "pronunciation": "ˈɹɛɹ",
+      "pronunciation": "rɛr",
       "senses": [
         {
           "definition": "(of meat) cooked for a short time in a way that the flesh is still red inside",
@@ -519,14 +535,15 @@
       ]
     },
     {
+      "id": "0c560a22-7723-4bd2-a1e3-743e40e2dc6b",
       "word": "watery",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=d2F0ZXJ5&hash=98d2a42d241c12ef6a25f63a82880a24542f19e5&lang=en&cache-only=0",
-      "phonetic_text": "wɔ:təri",
+      "phonetic_text": "wɑ:.tə.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=d2F0ZXJ5&hash=98d2a42d241c12ef6a25f63a82880a24542f19e5&lang=en&cache-only=0",
-      "phonetic_am_text": "waawtēri",
+      "phonetic_am_text": "vaa.tē.ri",
       "img": "https://cdn.langeek.co/photo/39217/original/watery?type=jpeg",
-      "pronunciation": "ˈwɔtɝi",
+      "pronunciation": "ˈwɑːtɚi",
       "senses": [
         {
           "definition": "having too much water and little taste",
@@ -556,12 +573,13 @@
       ]
     },
     {
+      "id": "f0b9f2a3-6a41-4033-9b6f-21d772e1cecc",
       "word": "spicy",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c3BpY3k&hash=9bcc1e7fc6caf538a2b5b0e2af1078ef9c94444b&lang=en&cache-only=0",
-      "phonetic_text": "spaɪsi",
+      "phonetic_text": "spaɪ.si",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BpY3k&hash=9bcc1e7fc6caf538a2b5b0e2af1078ef9c94444b&lang=en&cache-only=0",
-      "phonetic_am_text": "spaisi",
+      "phonetic_am_text": "spai.si",
       "img": "https://cdn.langeek.co/photo/15841/original/spicy?type=jpeg",
       "pronunciation": "ˈspaɪsi",
       "senses": [
@@ -585,14 +603,15 @@
       ]
     },
     {
+      "id": "2791747f-5242-4a79-963f-fdcd04b4f57d",
       "word": "bitter",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Yml0dGVy&hash=a4c043a9f3b714360345d1ec0a09235cf6cf1627&lang=en&cache-only=0",
-      "phonetic_text": "bɪtər",
+      "phonetic_text": "bɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=Yml0dGVy&hash=a4c043a9f3b714360345d1ec0a09235cf6cf1627&lang=en&cache-only=0",
-      "phonetic_am_text": "bitēr",
+      "phonetic_am_text": "bi.tēr",
       "img": "https://cdn.langeek.co/photo/29368/original/?type=jpeg",
-      "pronunciation": "ˈbɪtər",
+      "pronunciation": "ˈbɪtɚ",
       "senses": [
         {
           "definition": "having a strong taste that is unpleasant and not sweet",
@@ -622,14 +641,15 @@
       ]
     },
     {
+      "id": "18e51e53-5c44-4ea0-ad36-790dd8f41a2f",
       "word": "vegetarian",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmVnZXRhcmlhbg&hash=f9bfdbeeb562e7b0f708430d13c745efe7cd116d&lang=en&cache-only=0",
-      "phonetic_text": "vɛʤətɛriən",
+      "phonetic_text": "vɛ.ʤə.tɛ.riən",
       "phonetic_am": "https://tts.langeek.co/read?text=dmVnZXRhcmlhbg&hash=f9bfdbeeb562e7b0f708430d13c745efe7cd116d&lang=en&cache-only=0",
-      "phonetic_am_text": "vejēteriēn",
+      "phonetic_am_text": "ve.jē.te.riēn",
       "img": "https://cdn.langeek.co/photo/48915/original/vegetarian?type=jpeg",
-      "pronunciation": "ˌvɛdʒəˈtɛˌɹiən",
+      "pronunciation": "ˌvɛʤəˈtɛriən",
       "senses": [
         {
           "definition": "someone who avoids eating meat",
@@ -659,12 +679,13 @@
       ]
     },
     {
+      "id": "cb7c9dba-43ed-403b-9a86-2c9eea9060de",
       "word": "vegan",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmVnYW4&hash=ee7c92beae078fde3192ec3d25157019fc534d4a&lang=en&cache-only=0",
-      "phonetic_text": "vɛgən",
+      "phonetic_text": "vi:.gən",
       "phonetic_am": "https://tts.langeek.co/read?text=dmVnYW4&hash=ee7c92beae078fde3192ec3d25157019fc534d4a&lang=en&cache-only=0",
-      "phonetic_am_text": "vegēn",
+      "phonetic_am_text": "vi.gēn",
       "img": "https://cdn.langeek.co/photo/17529/original/vegan?type=jpeg",
       "pronunciation": "ˈviːɡən",
       "senses": [
@@ -696,14 +717,15 @@
       ]
     },
     {
+      "id": "f3847ebd-c9fb-4d9d-8567-d076c4de7f44",
       "word": "broccoli",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJvY2NvbGk&hash=8cfa4a499615e66aedac6f2d5ff2bdc9474f5449&lang=en&cache-only=0",
-      "phonetic_text": "brɑ:kəli",
+      "phonetic_text": "brɑ.kə.li",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJvY2NvbGk&hash=8cfa4a499615e66aedac6f2d5ff2bdc9474f5449&lang=en&cache-only=0",
-      "phonetic_am_text": "braakēli",
+      "phonetic_am_text": "braa.kē.li",
       "img": "https://cdn.langeek.co/photo/50475/original/broccoli?type=jpeg",
-      "pronunciation": "ˈbɹɑkəɫi/, /ˈbɹɑkɫi",
+      "pronunciation": "ˈbrɑkəli",
       "senses": [
         {
           "definition": "a vegetable with a thick stem and clusters of edible flower buds, typically green in color",
@@ -729,14 +751,15 @@
       ]
     },
     {
+      "id": "9b8d77e3-4373-4005-a79c-00b872632e43",
       "word": "celery",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2VsZXJ5&hash=57a0de6466324325f37ceb2ecf48a8aec9935e7d&lang=en&cache-only=0",
-      "phonetic_text": "sɛləri",
+      "phonetic_text": "sɛ.lə.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2VsZXJ5&hash=57a0de6466324325f37ceb2ecf48a8aec9935e7d&lang=en&cache-only=0",
-      "phonetic_am_text": "selēri",
+      "phonetic_am_text": "se.lē.ri",
       "img": "https://cdn.langeek.co/photo/35258/original/celery?type=jpeg",
-      "pronunciation": "ˈsɛɫɝi",
+      "pronunciation": "ˈsɛləri",
       "senses": [
         {
           "definition": "a green vegetable that people eat raw or use in cooking",
@@ -758,14 +781,15 @@
       ]
     },
     {
+      "id": "fd4ebaee-f98f-478d-865f-fbe9d08a1ebf",
       "word": "eggplant",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWdncGxhbnQ&hash=7ba021be410a7e90cc8f322a2b773f7fbdb48498&lang=en&cache-only=0",
-      "phonetic_text": "ɛgplænt",
+      "phonetic_text": "ɛg.plænt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWdncGxhbnQ&hash=7ba021be410a7e90cc8f322a2b773f7fbdb48498&lang=en&cache-only=0",
-      "phonetic_am_text": "egplānt",
+      "phonetic_am_text": "eg.plānt",
       "img": "https://cdn.langeek.co/photo/50451/original/eggplant?type=jpeg",
-      "pronunciation": "ˈɛɡˌpɫænt",
+      "pronunciation": "ˈɛɡˌplænt",
       "senses": [
         {
           "definition": "a vegetable with dark purple skin, which is eaten cooked",
@@ -795,14 +819,15 @@
       ]
     },
     {
+      "id": "e91557a1-a490-4bbd-a74b-5d74c782e42f",
       "word": "cabbage",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FiYmFnZQ&hash=8fe31fb7b50f83f90a458fea13965bf4d3f253f6&lang=en&cache-only=0",
-      "phonetic_text": "kæbəʤ",
+      "phonetic_text": "kæ.bɪʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FiYmFnZQ&hash=8fe31fb7b50f83f90a458fea13965bf4d3f253f6&lang=en&cache-only=0",
-      "phonetic_am_text": "kābēj",
+      "phonetic_am_text": "kā.bij",
       "img": "https://cdn.langeek.co/photo/50513/original/cabbage?type=jpeg",
-      "pronunciation": "ˈkæbədʒ/, /ˈkæbɪdʒ",
+      "pronunciation": "ˈkæbɪʤ",
       "senses": [
         {
           "definition": "a large round vegetable with thick white, green or purple leaves, eaten raw or cooked",
@@ -832,14 +857,15 @@
       ]
     },
     {
+      "id": "34970911-1ba9-4195-ad1f-b43c12c0f5b4",
       "word": "spinach",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BpbmFjaA&hash=9d79fa61cbd8aba27306643dd846655a935b019f&lang=en&cache-only=0",
-      "phonetic_text": "spɪnəʧ",
+      "phonetic_text": "spɪ.nɪʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BpbmFjaA&hash=9d79fa61cbd8aba27306643dd846655a935b019f&lang=en&cache-only=0",
-      "phonetic_am_text": "spinēch",
+      "phonetic_am_text": "spi.nich",
       "img": "https://cdn.langeek.co/photo/26838/original/?type=jpeg",
-      "pronunciation": "ˈspɪnətʃ",
+      "pronunciation": "ˈspɪnɪʧ",
       "senses": [
         {
           "definition": "dark and wide green leaves of an Asian plant that can be eaten cooked or uncooked",
@@ -869,14 +895,15 @@
       ]
     },
     {
-      "word": "tip",
+      "id": "1d50978a-d271-430f-af41-9256a619b61e",
+      "word": "to tip",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGlw&hash=6d48a866e37bd763e7765b13468fd3cf770eb6f4&lang=en&cache-only=0",
       "phonetic_text": "tɪp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGlw&hash=6d48a866e37bd763e7765b13468fd3cf770eb6f4&lang=en&cache-only=0",
       "phonetic_am_text": "tip",
-      "img": "https://cdn.langeek.co/photo/15845/original/tip?type=jpeg",
-      "pronunciation": "ˈtɪp",
+      "img": "https://cdn.langeek.co/photo/61814/original/tip?type=jpeg",
+      "pronunciation": "tɪp",
       "senses": [
         {
           "definition": "to give a small amount of money to a waiter, driver, etc. to thank them for their services",

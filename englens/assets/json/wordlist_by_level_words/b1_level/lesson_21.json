@@ -1,17 +1,19 @@
 {
+  "id": "f8d000bd-9fa7-4b98-9f59-0f0a5f97f60f",
   "topic": "b1_level",
   "title": "Computer",
   "lesson": "lesson_21",
   "word_list": [
     {
-      "word": "access",
+      "id": "40c8e808-97a2-4981-bf9f-17a4b2e99e60",
+      "word": "to access",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWNjZXNz&hash=7b3795e33bbd1f68cc5b66b9425da8eddf4c4c99&lang=en&cache-only=0",
-      "phonetic_text": "æksɛs",
+      "phonetic_text": "æk.sɛs",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWNjZXNz&hash=7b3795e33bbd1f68cc5b66b9425da8eddf4c4c99&lang=en&cache-only=0",
-      "phonetic_am_text": "ākses",
+      "phonetic_am_text": "āk.ses",
       "img": "",
-      "pronunciation": "ˈækˌsɛs",
+      "pronunciation": "ˈæksɛs",
       "senses": [
         {
           "definition": "to be able to use the information from a computer system, network, database, etc.",
@@ -37,14 +39,15 @@
       ]
     },
     {
+      "id": "9732c7bb-43dd-4c46-9659-73337a628782",
       "word": "error",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXJyb3I&hash=03a282b85922f8d5902497af3bf9234b94fadbb5&lang=en&cache-only=0",
-      "phonetic_text": "ɛrər",
+      "phonetic_text": "ɛ.rər",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXJyb3I&hash=03a282b85922f8d5902497af3bf9234b94fadbb5&lang=en&cache-only=0",
-      "phonetic_am_text": "erēr",
+      "phonetic_am_text": "e.rēr",
       "img": "https://cdn.langeek.co/photo/20133/original/error?type=jpeg",
-      "pronunciation": "ˈɛɹɝ",
+      "pronunciation": "ˈɛrɚ",
       "senses": [
         {
           "definition": "a situation where a computer program or process stops working or does not work properly",
@@ -70,14 +73,15 @@
       ]
     },
     {
+      "id": "3f27b1d6-6685-410d-9d3b-4d9f0ee55127",
       "word": "key",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2V5&hash=8a2ad1b59a19375b9569d9dc58ff8b7b76afd159&lang=en&cache-only=0",
-      "phonetic_text": "ki:",
+      "phonetic_text": "ki",
       "phonetic_am": "https://tts.langeek.co/read?text=a2V5&hash=8a2ad1b59a19375b9569d9dc58ff8b7b76afd159&lang=en&cache-only=0",
-      "phonetic_am_text": "kee",
+      "phonetic_am_text": "ki",
       "img": "https://cdn.langeek.co/photo/51458/original/key?type=jpeg",
-      "pronunciation": "ˈki",
+      "pronunciation": "ki",
       "senses": [
         {
           "definition": "one of many buttons that one presses or taps to operate a computer, telephone, or cell phone",
@@ -107,14 +111,15 @@
       ]
     },
     {
-      "word": "log off",
+      "id": "65400183-e9ba-4825-ba69-4af95fdf8bad",
+      "word": "to log off",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbG9nIG9mZg&hash=a7e77b1e5f0c8505013c1ee2bbf5e8eaa87c9de7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "lɑ:g ɑf",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbG9nIG9mZg&hash=a7e77b1e5f0c8505013c1ee2bbf5e8eaa87c9de7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "laag aaf",
       "img": "https://cdn.langeek.co/photo/17823/original/sign-out?type=jpeg",
-      "pronunciation": "lˈɔɡ ˈɔf",
+      "pronunciation": "lɑɡ ˈɑːf",
       "senses": [
         {
           "definition": "to stop a connection to an online account or computer system by doing specific actions",
@@ -136,14 +141,15 @@
       ]
     },
     {
+      "id": "528bf7d8-6e3e-4f37-9a61-4a0c72c06a0a",
       "word": "program",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvZ3JhbQ&hash=18adc23bd2dd516af8c859c9256f8e8070878449&lang=en&cache-only=0",
-      "phonetic_text": "proʊgræm",
+      "phonetic_text": "proʊg.ræm",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvZ3JhbQ&hash=18adc23bd2dd516af8c859c9256f8e8070878449&lang=en&cache-only=0",
-      "phonetic_am_text": "prowgrām",
+      "phonetic_am_text": "prooog.rām",
       "img": "https://cdn.langeek.co/photo/51324/original/?type=jpeg",
-      "pronunciation": "ˈpɹoʊˌɡɹæm",
+      "pronunciation": "ˈproʊɡræm",
       "senses": [
         {
           "definition": "a set of coded instructions that control how a computer, cell phone, etc. works",
@@ -152,14 +158,15 @@
       ]
     },
     {
+      "id": "bfd006bf-0fea-451e-9ef2-0eb7a6b25d7d",
       "word": "software",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c29mdHdhcmU&hash=87070c14140c98b684a8e2934f4725de8686fd41&lang=en&cache-only=0",
-      "phonetic_text": "sɔ:ftwɛr",
+      "phonetic_text": "sɑft.wɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=c29mdHdhcmU&hash=87070c14140c98b684a8e2934f4725de8686fd41&lang=en&cache-only=0",
-      "phonetic_am_text": "saawftwer",
+      "phonetic_am_text": "saaft.ver",
       "img": "https://cdn.langeek.co/photo/15799/original/software?type=jpeg",
-      "pronunciation": "ˈsɔfˌwɛɹ/, /ˈsɔftˌwɛɹ",
+      "pronunciation": "ˈsɑːftˌwer",
       "senses": [
         {
           "definition": "the programs that a computer uses to perform specific tasks",
@@ -189,14 +196,15 @@
       ]
     },
     {
+      "id": "cee59676-651f-4eff-867c-936810cf2ca3",
       "word": "operating system",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3BlcmF0aW5nIHN5c3RlbQ&hash=c6dbaa5ece0c4a5bbed7c353515dea36c6478e71&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=b3BlcmF0aW5nIHN5c3RlbQ&hash=c6dbaa5ece0c4a5bbed7c353515dea36c6478e71&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/20137/original/operating-system?type=jpeg",
-      "pronunciation": "ˈɑːpɚɹˌeɪɾɪŋ sˈɪstəm",
+      "pronunciation": "ˈɑpɚˌreɪtɪŋ ˈsɪstəm",
       "senses": [
         {
           "definition": "the most fundamental software that manages a computer, cell phone, etc., hardware and provides a platform for running applications",
@@ -226,14 +234,15 @@
       ]
     },
     {
-      "word": "install",
+      "id": "722dc4ec-a711-4e26-a7f6-0ad7d1fb8a5d",
+      "word": "to install",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaW5zdGFsbA&hash=7979fca7b7206f01ee07edd9c8287d0f3d2f96fa&lang=en&cache-only=0",
-      "phonetic_text": "ɪnstɔ:l",
+      "phonetic_text": "ɪns.tɔl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaW5zdGFsbA&hash=7979fca7b7206f01ee07edd9c8287d0f3d2f96fa&lang=en&cache-only=0",
-      "phonetic_am_text": "instaawl",
+      "phonetic_am_text": "ins.tawl",
       "img": "https://cdn.langeek.co/photo/20141/original/install?type=jpeg",
-      "pronunciation": "ˌɪnˈstɔɫ",
+      "pronunciation": "ɪnˈstɑːl",
       "senses": [
         {
           "definition": "to add a piece of software to a computer system",
@@ -259,14 +268,15 @@
       ]
     },
     {
+      "id": "fa5fc48d-12c7-45a5-ab75-c2b3f7162d9d",
       "word": "hardware",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aGFyZHdhcmU&hash=e77e17d63c37f3839f4c648d31506e37c3cb5010&lang=en&cache-only=0",
-      "phonetic_text": "hɑ:rdwɛr",
+      "phonetic_text": "hɑrd.wɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=aGFyZHdhcmU&hash=e77e17d63c37f3839f4c648d31506e37c3cb5010&lang=en&cache-only=0",
-      "phonetic_am_text": "haardwer",
+      "phonetic_am_text": "haard.ver",
       "img": "https://cdn.langeek.co/photo/20135/original/hardware?type=jpeg",
-      "pronunciation": "ˈhɑɹdˌwɛɹ",
+      "pronunciation": "ˈhɑrdˌwɛr",
       "senses": [
         {
           "definition": "the physical and electronic parts of a computer or other similar system",
@@ -296,10 +306,11 @@
       ]
     },
     {
+      "id": "2b2ed7fb-287c-43a2-8289-b0d3eaec03f9",
       "word": "Wi-Fi",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=V2ktRmk&hash=ec6467457ad720940dcf22672b6ad83a3687fe5d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=V2ktRmk&hash=ec6467457ad720940dcf22672b6ad83a3687fe5d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/20145/original/wi-fi?type=jpeg",
@@ -333,14 +344,15 @@
       ]
     },
     {
-      "word": "quit",
+      "id": "ebc448d7-044b-4c13-9af0-6167f147c09d",
+      "word": "to quit",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcXVpdA&hash=3b24b89083408dca49b88f8e5e9a6bbd306ca25f&lang=en&cache-only=0",
       "phonetic_text": "kwɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcXVpdA&hash=3b24b89083408dca49b88f8e5e9a6bbd306ca25f&lang=en&cache-only=0",
-      "phonetic_am_text": "kwit",
+      "phonetic_am_text": "kvit",
       "img": "https://cdn.langeek.co/photo/29414/original/?type=jpeg",
-      "pronunciation": "ˈkwɪt",
+      "pronunciation": "kwɪt",
       "senses": [
         {
           "definition": "to close a computer program",
@@ -370,12 +382,13 @@
       ]
     },
     {
+      "id": "9b610981-7e1b-410c-a6ce-728c9d38a578",
       "word": "system",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3lzdGVt&hash=0df03a23dd9b8974e8973a3349a4a7183c0fee7f&lang=en&cache-only=0",
-      "phonetic_text": "sɪstəm",
+      "phonetic_text": "sɪs.təm",
       "phonetic_am": "https://tts.langeek.co/read?text=c3lzdGVt&hash=0df03a23dd9b8974e8973a3349a4a7183c0fee7f&lang=en&cache-only=0",
-      "phonetic_am_text": "sistēm",
+      "phonetic_am_text": "sis.tēm",
       "img": "",
       "pronunciation": "ˈsɪstəm",
       "senses": [
@@ -386,6 +399,7 @@
       ]
     },
     {
+      "id": "87fa6742-cc61-404c-9560-c12a25ec33d9",
       "word": "click",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xpY2s&hash=7be6b3227cc8c0e450b691e1abcb659a790309ad&lang=en&cache-only=0",
@@ -402,14 +416,15 @@
       ]
     },
     {
+      "id": "e3650773-8954-45cf-9d39-b9007db60542",
       "word": "button",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnV0dG9u&hash=2d432cb662d9a50ff1ece8509faedbd391c40fe4&lang=en&cache-only=0",
-      "phonetic_text": "bʌtən",
+      "phonetic_text": "bʌ.tən",
       "phonetic_am": "https://tts.langeek.co/read?text=YnV0dG9u&hash=2d432cb662d9a50ff1ece8509faedbd391c40fe4&lang=en&cache-only=0",
-      "phonetic_am_text": "batēn",
+      "phonetic_am_text": "ba.tēn",
       "img": "https://cdn.langeek.co/photo/19320/original/button?type=jpeg",
-      "pronunciation": "ˈbʌtn",
+      "pronunciation": "ˈbʌtən",
       "senses": [
         {
           "definition": "a small area or part of a machine or electronic device, which when pressed starts working",
@@ -443,7 +458,8 @@
       ]
     },
     {
-      "word": "type",
+      "id": "280f48bd-8e76-4493-bb40-0d4c810dc700",
+      "word": "to type",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHlwZQ&hash=13210a4edc894663c804de4bdcf139d3c3fb1b35&lang=en&cache-only=0",
       "phonetic_text": "taɪp",
@@ -476,12 +492,13 @@
       ]
     },
     {
+      "id": "0b9b419a-7b87-47dc-bc12-c58d41e9055f",
       "word": "window",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2luZG93&hash=b28e4eb8148fc7ea01aba92634e2bc6811a16f72&lang=en&cache-only=0",
-      "phonetic_text": "wɪndoʊ",
+      "phonetic_text": "wɪn.doʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=d2luZG93&hash=b28e4eb8148fc7ea01aba92634e2bc6811a16f72&lang=en&cache-only=0",
-      "phonetic_am_text": "window",
+      "phonetic_am_text": "vin.dooo",
       "img": "https://cdn.langeek.co/photo/20169/original/window?type=jpeg",
       "pronunciation": "ˈwɪndoʊ",
       "senses": [
@@ -509,14 +526,15 @@
       ]
     },
     {
+      "id": "269b70ca-0095-4fb4-8664-efe69e9c9ef9",
       "word": "wireless",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=d2lyZWxlc3M&hash=f3341672db04e4336c6984030378e34365121475&lang=en&cache-only=0",
-      "phonetic_text": "waɪrlɪs",
+      "phonetic_text": "waɪr.lɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=d2lyZWxlc3M&hash=f3341672db04e4336c6984030378e34365121475&lang=en&cache-only=0",
-      "phonetic_am_text": "wairlis",
+      "phonetic_am_text": "vair.lis",
       "img": "https://cdn.langeek.co/photo/20171/original/wireless?type=jpeg",
-      "pronunciation": "ˈwaɪɹɫɪs",
+      "pronunciation": "ˈwaɪrlɪs",
       "senses": [
         {
           "definition": "able to operate without wires",
@@ -542,12 +560,13 @@
       ]
     },
     {
-      "word": "connect",
+      "id": "507d1e87-bb98-47fa-952c-78ba2e8a30ce",
+      "word": "to connect",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29ubmVjdA&hash=a5fb6f86fa95181c14dfe8ac974b319ef204bc83&lang=en&cache-only=0",
-      "phonetic_text": "kənɛkt",
+      "phonetic_text": "kə.nɛkt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29ubmVjdA&hash=a5fb6f86fa95181c14dfe8ac974b319ef204bc83&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnekt",
+      "phonetic_am_text": "kē.nekt",
       "img": "https://cdn.langeek.co/photo/20161/original/connect?type=jpeg",
       "pronunciation": "kəˈnɛkt",
       "senses": [
@@ -579,12 +598,13 @@
       ]
     },
     {
+      "id": "7d653e44-b359-433c-a154-b75a4ac80876",
       "word": "connection",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29ubmVjdGlvbg&hash=c363c03f00cddb696421cef85f2edf151f07dc75&lang=en&cache-only=0",
-      "phonetic_text": "kənɛkʃən",
+      "phonetic_text": "kə.nɛk.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29ubmVjdGlvbg&hash=c363c03f00cddb696421cef85f2edf151f07dc75&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnekshēn",
+      "phonetic_am_text": "kē.nek.shēn",
       "img": "https://cdn.langeek.co/photo/20161/original/connect?type=jpeg",
       "pronunciation": "kəˈnɛkʃən",
       "senses": [
@@ -612,14 +632,15 @@
       ]
     },
     {
+      "id": "a186eda2-682f-498b-8e17-85c96e3050e3",
       "word": "data",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGF0YQ&hash=205599b20d539e05b797861dc91a1f9976963b99&lang=en&cache-only=0",
-      "phonetic_text": "deɪtə",
+      "phonetic_text": "dæ.tə",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGF0YQ&hash=205599b20d539e05b797861dc91a1f9976963b99&lang=en&cache-only=0",
-      "phonetic_am_text": "deitē",
-      "img": "https://cdn.langeek.co/photo/51318/original/?type=jpeg",
-      "pronunciation": "ˈdætə/, /ˈdeɪtə",
+      "phonetic_am_text": "dā.tē",
+      "img": "https://cdn.langeek.co/photo/61184/original/?type=jpeg",
+      "pronunciation": "ˈdeɪtə/ , /ˈdætə",
       "senses": [
         {
           "definition": "information that a computer can use or store",
@@ -649,14 +670,15 @@
       ]
     },
     {
+      "id": "5f3bd4cf-6966-4873-8a8d-f866bb542cef",
       "word": "folder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9sZGVy&hash=2fae57de0985beb2feb70ca1b95b56807559cc79&lang=en&cache-only=0",
-      "phonetic_text": "foʊldər",
+      "phonetic_text": "foʊl.dər",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9sZGVy&hash=2fae57de0985beb2feb70ca1b95b56807559cc79&lang=en&cache-only=0",
-      "phonetic_am_text": "fowldēr",
+      "phonetic_am_text": "foool.dēr",
       "img": "https://cdn.langeek.co/photo/20159/original/folder?type=jpeg",
-      "pronunciation": "ˈfoʊɫdɝ",
+      "pronunciation": "ˈfoʊldɚ",
       "senses": [
         {
           "definition": "a place on a computer system that holds files or other pieces of data together",
@@ -665,14 +687,15 @@
       ]
     },
     {
-      "word": "delete",
+      "id": "15679c72-478a-4c48-8f7d-790ba3f89725",
+      "word": "to delete",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGVsZXRl&hash=a266e76b9d5e1d78f62315527100602752fbe2b5&lang=en&cache-only=0",
-      "phonetic_text": "dɪli:t",
+      "phonetic_text": "dɪ.li:t",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGVsZXRl&hash=a266e76b9d5e1d78f62315527100602752fbe2b5&lang=en&cache-only=0",
-      "phonetic_am_text": "dileet",
+      "phonetic_am_text": "di.lit",
       "img": "https://cdn.langeek.co/photo/20163/original/delete?type=jpeg",
-      "pronunciation": "dɪˈɫit",
+      "pronunciation": "dɪˈliːt",
       "senses": [
         {
           "definition": "to remove a piece of data from a computer or smartphone",
@@ -702,14 +725,15 @@
       ]
     },
     {
-      "word": "drag",
+      "id": "92c92cfb-d524-4a34-908e-a39f7367df2a",
+      "word": "to drag",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJhZw&hash=5c0dfb2b0426a483685c68bfe0eae599d56df8e1&lang=en&cache-only=0",
       "phonetic_text": "dræg",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZHJhZw&hash=5c0dfb2b0426a483685c68bfe0eae599d56df8e1&lang=en&cache-only=0",
       "phonetic_am_text": "drāg",
       "img": "https://cdn.langeek.co/photo/20165/original/drag?type=jpeg",
-      "pronunciation": "ˈdɹæɡ",
+      "pronunciation": "dræɡ",
       "senses": [
         {
           "definition": "to move a piece of computer data, such as an image, across a computer or smartphone screen using the mouse or a finger",
@@ -739,14 +763,15 @@
       ]
     },
     {
-      "word": "scroll",
+      "id": "a6c747b7-706a-4bd3-ab04-fc25b868cdaf",
+      "word": "to scroll",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2Nyb2xs&hash=13667fa933bb2e352550ef8278fdcaf526c719df&lang=en&cache-only=0",
       "phonetic_text": "skroʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2Nyb2xs&hash=13667fa933bb2e352550ef8278fdcaf526c719df&lang=en&cache-only=0",
-      "phonetic_am_text": "skrowl",
+      "phonetic_am_text": "skroool",
       "img": "https://cdn.langeek.co/photo/20167/original/scroll?type=jpeg",
-      "pronunciation": "ˈskɹoʊɫ",
+      "pronunciation": "skroʊl",
       "senses": [
         {
           "definition": "to move what is being displayed on a computer or smartphone screen up or down to see different parts of it",
@@ -776,14 +801,15 @@
       ]
     },
     {
-      "word": "back up",
+      "id": "78d7db3f-7d66-40c7-b375-651d321e839f",
+      "word": "to back up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmFjayB1cA&hash=1bb8102e632d0337f1c1db4ff4fb53baaefec463&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæk ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmFjayB1cA&hash=1bb8102e632d0337f1c1db4ff4fb53baaefec463&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bāk ap",
       "img": "",
-      "pronunciation": "bˈæk ˈʌp",
+      "pronunciation": "bæk ˈʌp",
       "senses": [
         {
           "definition": "to make a copy of computer digital data",
@@ -809,12 +835,13 @@
       ]
     },
     {
+      "id": "c11a5f0d-f47e-4ca7-822c-87569a51566b",
       "word": "desktop",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVza3RvcA&hash=2e51f2da2a9c92fffee4d9373d3c062dacbf13ef&lang=en&cache-only=0",
-      "phonetic_text": "dɛsktɑp",
+      "phonetic_text": "dɛsk.tɑp",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVza3RvcA&hash=2e51f2da2a9c92fffee4d9373d3c062dacbf13ef&lang=en&cache-only=0",
-      "phonetic_am_text": "desktɑp",
+      "phonetic_am_text": "desk.taap",
       "img": "https://cdn.langeek.co/photo/20193/original/desktop?type=jpeg",
       "pronunciation": "ˈdɛskˌtɑp",
       "senses": [
@@ -846,12 +873,13 @@
       ]
     },
     {
+      "id": "fda124fd-043a-4d67-87fd-142aee4254a9",
       "word": "version",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmVyc2lvbg&hash=dd53e2c64b45ed96c19dce3aded4d91b58135385&lang=en&cache-only=0",
-      "phonetic_text": "vɜrʒən",
+      "phonetic_text": "vɜr.ʒən",
       "phonetic_am": "https://tts.langeek.co/read?text=dmVyc2lvbg&hash=dd53e2c64b45ed96c19dce3aded4d91b58135385&lang=en&cache-only=0",
-      "phonetic_am_text": "vērzhēn",
+      "phonetic_am_text": "vēr.zhēn",
       "img": "",
       "pronunciation": "ˈvɝʒən",
       "senses": [
@@ -883,41 +911,13 @@
       ]
     },
     {
-      "word": "application program",
-      "pos": "noun",
-      "phonetic": "https://tts.langeek.co/read?text=YXBwbGljYXRpb24gcHJvZ3JhbQ&hash=485f2a5cf81827ce3b7282f3fe778a4d62c4a886&lang=en&cache-only=0",
-      "phonetic_text": null,
-      "phonetic_am": "https://tts.langeek.co/read?text=YXBwbGljYXRpb24gcHJvZ3JhbQ&hash=485f2a5cf81827ce3b7282f3fe778a4d62c4a886&lang=en&cache-only=0",
-      "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/20131/original/application?type=jpeg",
-      "pronunciation": "ˌæplɪkˈeɪʃən pɹˈoʊɡɹæm",
-      "senses": [
-        {
-          "definition": "a piece of software programed to perform a specific task",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The application program allows users to edit photos easily."
-            },
-            {
-              "cf": "",
-              "x": "He installed an application program to write and format documents."
-            },
-            {
-              "cf": "",
-              "x": "The application program crashed when too many tasks were running at once."
-            }
-          ]
-        }
-      ]
-    },
-    {
+      "id": "ff4c9269-b248-4649-a3bc-e50407663c11",
       "word": "virus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmlydXM&hash=aae268b03c2b0cb687f71654c1be6a13c8be5775&lang=en&cache-only=0",
-      "phonetic_text": "vaɪrəs",
+      "phonetic_text": "vaɪ.rəs",
       "phonetic_am": "https://tts.langeek.co/read?text=dmlydXM&hash=aae268b03c2b0cb687f71654c1be6a13c8be5775&lang=en&cache-only=0",
-      "phonetic_am_text": "vairēs",
+      "phonetic_am_text": "vai.rēs",
       "img": "",
       "pronunciation": "ˈvaɪrəs",
       "senses": [

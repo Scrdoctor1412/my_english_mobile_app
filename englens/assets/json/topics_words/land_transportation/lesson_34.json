@@ -1,9 +1,11 @@
 {
+  "id": "24a408a0-1e2e-4ea7-a24d-c348346a06a9",
   "topic": "land_transportation",
   "title": "Railroad Infrastructure",
   "lesson": "lesson_34",
   "word_list": [
     {
+      "id": "4e52d64b-ae8f-4422-96d8-58b1abf3c417",
       "word": "rail",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFpbA&hash=63ee8e427db39522e535c2279a8f3921baa65957&lang=en&cache-only=0",
@@ -41,6 +43,7 @@
       ]
     },
     {
+      "id": "3d2d205c-e8e0-4932-b0be-c5d81dfaba0c",
       "word": "track",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhY2s&hash=3caf52dcf15a9f7eb708059bc9a4fb5db17b74c4&lang=en&cache-only=0",
@@ -48,7 +51,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhY2s&hash=3caf52dcf15a9f7eb708059bc9a4fb5db17b74c4&lang=en&cache-only=0",
       "phonetic_am_text": "trāk",
       "img": "https://cdn.langeek.co/photo/18565/original/track?type=jpeg",
-      "pronunciation": "ˈtɹæk",
+      "pronunciation": "træk",
       "senses": [
         {
           "definition": "a pair of metal bars that trains use to move",
@@ -74,12 +77,13 @@
       ]
     },
     {
+      "id": "960b365a-1ac6-4e25-8fae-c459800ca926",
       "word": "railroad line",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFpbHJvYWQgbGluZQ&hash=e98629a38d775d29fbe1f7f53140390791154e6e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "reɪl.roʊd laɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=cmFpbHJvYWQgbGluZQ&hash=e98629a38d775d29fbe1f7f53140390791154e6e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "reil.roood lain",
       "img": "",
       "pronunciation": "ɹˈeɪlɹoʊd lˈaɪn",
       "senses": [
@@ -111,12 +115,13 @@
       ]
     },
     {
+      "id": "2c7b6120-3146-43b9-b58d-497cd8b52171",
       "word": "main line",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFpbiBsaW5l&hash=31f1aaf8364ea0dffd56c5ba9e9fc4f7876bbb76&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "meɪn laɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFpbiBsaW5l&hash=31f1aaf8364ea0dffd56c5ba9e9fc4f7876bbb76&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mein lain",
       "img": "https://cdn.langeek.co/photo/23119/original/?type=jpeg",
       "pronunciation": "mˈeɪn lˈaɪn",
       "senses": [
@@ -148,12 +153,13 @@
       ]
     },
     {
+      "id": "e595cec8-edd0-49e4-b3c1-e6ceb3b427e1",
       "word": "branch line",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJhbmNoIGxpbmU&hash=7a2407b51df6100c87aaa5cd34981445ed707851&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "brænʧ laɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJhbmNoIGxpbmU&hash=7a2407b51df6100c87aaa5cd34981445ed707851&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "brānch lain",
       "img": "",
       "pronunciation": "bɹˈæntʃ lˈaɪn",
       "senses": [
@@ -185,12 +191,13 @@
       ]
     },
     {
+      "id": "8214bee2-520b-41e0-8c3d-a3a41607bfd5",
       "word": "siding",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2lkaW5n&hash=c08f5940a32c0e57947b0f69f3fcb491811e9be0&lang=en&cache-only=0",
-      "phonetic_text": "saɪdɪng",
+      "phonetic_text": "saɪ.dɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=c2lkaW5n&hash=c08f5940a32c0e57947b0f69f3fcb491811e9be0&lang=en&cache-only=0",
-      "phonetic_am_text": "saiding",
+      "phonetic_am_text": "sai.ding",
       "img": "",
       "pronunciation": "ˈsaɪdɪŋ",
       "senses": [
@@ -222,6 +229,7 @@
       ]
     },
     {
+      "id": "5df0a582-0e11-41f4-8ac8-04cbee55a4d0",
       "word": "spur",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3B1cg&hash=9742e4aab49b6a80f39281471cb9960becf9e37d&lang=en&cache-only=0",
@@ -259,12 +267,13 @@
       ]
     },
     {
+      "id": "e8faf562-1920-45a0-b6df-5ecea9c61b58",
       "word": "track ballast",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhY2sgYmFsbGFzdA&hash=01ca6856a7471c9895dec61bfc87aad15a79a6db&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "træk bæ.ləst",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhY2sgYmFsbGFzdA&hash=01ca6856a7471c9895dec61bfc87aad15a79a6db&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trāk bā.lēst",
       "img": "",
       "pronunciation": "tɹˈæk bˈæləst",
       "senses": [
@@ -296,12 +305,13 @@
       ]
     },
     {
+      "id": "fedfaba5-3e02-44fa-a5ad-3feeff19db2e",
       "word": "monorail",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9ub3JhaWw&hash=d244c08b8900bd556563a1bd88106ff94b6b26ec&lang=en&cache-only=0",
-      "phonetic_text": "mɑ:nəreɪl",
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9ub3JhaWw&hash=d244c08b8900bd556563a1bd88106ff94b6b26ec&lang=en&cache-only=0",
-      "phonetic_am_text": "maanēreil",
+      "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45295/original/?type=jpeg",
       "pronunciation": "ˈmɑnɝˌeɪɫ",
       "senses": [
@@ -333,14 +343,15 @@
       ]
     },
     {
+      "id": "c37573e4-3439-4807-b4a7-d7c81dc399f6",
       "word": "switch",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3dpdGNo&hash=1da40bba26b5104e9f3b5cf53934e5c22241fcc4&lang=en&cache-only=0",
       "phonetic_text": "swɪʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=c3dpdGNo&hash=1da40bba26b5104e9f3b5cf53934e5c22241fcc4&lang=en&cache-only=0",
-      "phonetic_am_text": "swich",
+      "phonetic_am_text": "svich",
       "img": "",
-      "pronunciation": "ˈswɪtʃ",
+      "pronunciation": "swɪʧ",
       "senses": [
         {
           "definition": "a mechanical installation enabling trains to be guided from one track to another",
@@ -370,12 +381,13 @@
       ]
     },
     {
+      "id": "0e3f6391-c930-4911-af13-6f1f86162df4",
       "word": "funicular",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnVuaWN1bGFy&hash=815b72ed8b43a92a574f46e3e814bca164505397&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fju:.nɪ.kjʊ.lər",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnVuaWN1bGFy&hash=815b72ed8b43a92a574f46e3e814bca164505397&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fyoo.ni.kyoo.lēr",
       "img": "",
       "pronunciation": "fjuːnˈɪkjʊlɚ",
       "senses": [
@@ -399,12 +411,13 @@
       ]
     },
     {
+      "id": "f1fc9352-4f68-4023-874e-ce20f6eb3481",
       "word": "third rail",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGhpcmQgcmFpbA&hash=b17e4eadb7f631a596e1c592efb83860adc250b1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "θɜrd reɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhpcmQgcmFpbA&hash=b17e4eadb7f631a596e1c592efb83860adc250b1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "thērd reil",
       "img": "",
       "pronunciation": "θˈɜːd ɹˈeɪl",
       "senses": [
@@ -436,12 +449,13 @@
       ]
     },
     {
+      "id": "160638c3-7db2-448a-8e73-dddc49bf8ff2",
       "word": "overhead line",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b3ZlcmhlYWQgbGluZQ&hash=0d81e80e17a6772261f7ee1d374d3ef5ddc137a9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "oʊ.vɜr.hɛd laɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=b3ZlcmhlYWQgbGluZQ&hash=0d81e80e17a6772261f7ee1d374d3ef5ddc137a9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ooo.vēr.hed lain",
       "img": "",
       "pronunciation": "ˌoʊvɚhˈɛd lˈaɪn",
       "senses": [
@@ -473,6 +487,7 @@
       ]
     },
     {
+      "id": "984626ad-cd21-435f-a116-653b2d48f39d",
       "word": "tie",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGll&hash=34ff36d031fc054b7082e34d21e5b5051fd386a7&lang=en&cache-only=0",
@@ -510,12 +525,13 @@
       ]
     },
     {
+      "id": "76b95d42-fe03-44ae-8b22-7fa38c515af7",
       "word": "railhead",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFpbGhlYWQ&hash=00150e1549fc6432df3bd615858be97b12aa62ad&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "reɪl.hɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=cmFpbGhlYWQ&hash=00150e1549fc6432df3bd615858be97b12aa62ad&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "reil.hed",
       "img": "",
       "pronunciation": "ɹˈeɪlhɛd",
       "senses": [
@@ -539,12 +555,13 @@
       ]
     },
     {
+      "id": "6e3f9e8a-ddac-4b52-84bc-945ec3d010ce",
       "word": "track bed",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhY2sgYmVk&hash=7294320181f2270802f6c023b0395fdd1bacba0e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "træk bɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhY2sgYmVk&hash=7294320181f2270802f6c023b0395fdd1bacba0e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trāk bed",
       "img": "",
       "pronunciation": "tɹˈæk bˈɛd",
       "senses": [
@@ -576,12 +593,13 @@
       ]
     },
     {
+      "id": "6867d22f-f646-4575-8675-7bd3ba0d44c0",
       "word": "tie plate",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGllIHBsYXRl&hash=38c16e301cde0b40ad0314243fe4d557bf85c544&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "taɪ pleɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dGllIHBsYXRl&hash=38c16e301cde0b40ad0314243fe4d557bf85c544&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tai pleit",
       "img": "",
       "pronunciation": "tˈaɪ plˈeɪt",
       "senses": [
@@ -613,6 +631,7 @@
       ]
     },
     {
+      "id": "515cd85f-c8cc-43f1-abc2-8c8c74f4c10f",
       "word": "gauge",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2F1Z2U&hash=8ab69d8c67772389685e4f4f21cb77ccf100c78f&lang=en&cache-only=0",
@@ -632,18 +651,23 @@
             {
               "cf": "",
               "x": "The gauge ensured the stability of the train."
+            },
+            {
+              "cf": "",
+              "x": "The project involved converting the railway to a broader gauge."
             }
           ]
         }
       ]
     },
     {
+      "id": "8aabde1e-2729-4d6b-ad23-ecdfd4420226",
       "word": "narrow gauge",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmFycm93IGdhdWdl&hash=5c835913cb10c151d56a3f8ffb3cda75a767f668&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nɛ.roʊ geɪʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=bmFycm93IGdhdWdl&hash=5c835913cb10c151d56a3f8ffb3cda75a767f668&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ne.rooo geij",
       "img": "",
       "pronunciation": "nˈæɹoʊ ɡˈeɪdʒ",
       "senses": [
@@ -675,12 +699,13 @@
       ]
     },
     {
+      "id": "57431cc3-7932-4ef5-8bea-0d20d3ccb147",
       "word": "standard gauge",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RhbmRhcmQgZ2F1Z2U&hash=c05e7e1aed36e7f648bf1452a9544f17846112e0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stæn.dɜrd geɪʤ",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RhbmRhcmQgZ2F1Z2U&hash=c05e7e1aed36e7f648bf1452a9544f17846112e0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "stān.dērd geij",
       "img": "",
       "pronunciation": "stˈændɚd ɡˈeɪdʒ",
       "senses": [
@@ -712,12 +737,13 @@
       ]
     },
     {
+      "id": "59cbcf26-1065-499e-bf8d-11193a6bcf61",
       "word": "train station",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhaW4gc3RhdGlvbg&hash=f541c95e2b16b1f6d309a1ca59793a09664b4535&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "treɪn steɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhaW4gc3RhdGlvbg&hash=f541c95e2b16b1f6d309a1ca59793a09664b4535&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trein stei.shēn",
       "img": "https://cdn.langeek.co/photo/44048/original/train-station?type=jpeg",
       "pronunciation": "ˈtreɪn ˈsteɪʃən",
       "senses": [
@@ -749,12 +775,13 @@
       ]
     },
     {
+      "id": "a2a0d581-3528-4fa4-8f23-ad31abd9b124",
       "word": "railroad station",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFpbHJvYWQgc3RhdGlvbg&hash=ce2fd41023c1fe9b0f8a21de85f4b0f82c1ed7c0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "reɪl.roʊd steɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=cmFpbHJvYWQgc3RhdGlvbg&hash=ce2fd41023c1fe9b0f8a21de85f4b0f82c1ed7c0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "reil.roood stei.shēn",
       "img": "https://cdn.langeek.co/photo/44048/original/train-station?type=jpeg",
       "pronunciation": "ɹˈeɪlɹoʊd stˈeɪʃən",
       "senses": [
@@ -786,14 +813,15 @@
       ]
     },
     {
+      "id": "ba0dea5f-c178-418c-ab41-6909abd5bd89",
       "word": "platform",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGxhdGZvcm0&hash=d73fc3e8eea60a84fe18b21b3093b5871d7be0b1&lang=en&cache-only=0",
-      "phonetic_text": "plætfɔrm",
+      "phonetic_text": "plæt.fɔrm",
       "phonetic_am": "https://tts.langeek.co/read?text=cGxhdGZvcm0&hash=d73fc3e8eea60a84fe18b21b3093b5871d7be0b1&lang=en&cache-only=0",
-      "phonetic_am_text": "plātfawrm",
+      "phonetic_am_text": "plāt.fawrm",
       "img": "https://cdn.langeek.co/photo/17364/original/platform?type=jpeg",
-      "pronunciation": "ˈpɫætˌfɔɹm",
+      "pronunciation": "ˈplætˌfɔrm",
       "senses": [
         {
           "definition": "the raised surface in a station next to a railroad track where people can get on and off a train",
@@ -823,12 +851,13 @@
       ]
     },
     {
+      "id": "af2f71b3-ddc3-4797-b4d0-857c4d39774a",
       "word": "concourse",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29uY291cnNl&hash=9f90e0a7387f0cf8eac4305b7f241f3ec0530d4d&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:nkɔrs",
+      "phonetic_text": "kɑn.kɔrs",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uY291cnNl&hash=9f90e0a7387f0cf8eac4305b7f241f3ec0530d4d&lang=en&cache-only=0",
-      "phonetic_am_text": "kaankawrs",
+      "phonetic_am_text": "kaan.kawrs",
       "img": "",
       "pronunciation": "ˈkɑnˌkɔɹs",
       "senses": [
@@ -860,12 +889,13 @@
       ]
     },
     {
+      "id": "5e4d571d-cc41-4a7a-9348-8a2e1e221f4f",
       "word": "signal box",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2lnbmFsIGJveA&hash=7ffcdf7efbaf061d7ee64e8f84d8c941d4fe126c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɪg.nəl bɑ:ks",
       "phonetic_am": "https://tts.langeek.co/read?text=c2lnbmFsIGJveA&hash=7ffcdf7efbaf061d7ee64e8f84d8c941d4fe126c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sig.nēl baaks",
       "img": "",
       "pronunciation": "sˈɪɡnəl bˈɑːks",
       "senses": [
@@ -897,12 +927,13 @@
       ]
     },
     {
+      "id": "e4d1cbd4-50b2-4b6a-a5a7-573591e5ae4f",
       "word": "infill station",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5maWxsIHN0YXRpb24&hash=98cc0be8f41b4bc81e164f1faf6753fb060ef31f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn.fɪl steɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5maWxsIHN0YXRpb24&hash=98cc0be8f41b4bc81e164f1faf6753fb060ef31f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in.fil stei.shēn",
       "img": "",
       "pronunciation": "ˈɪnfɪl stˈeɪʃən",
       "senses": [
@@ -934,12 +965,13 @@
       ]
     },
     {
+      "id": "47d81a7a-7061-4201-80c0-3c3f3ac0d538",
       "word": "railroad terminal",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFpbHJvYWQgdGVybWluYWw&hash=5f264447b407d598af800b8c12c5aa55c1448441&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "reɪl.roʊd tɜr.mə.nəl",
       "phonetic_am": "https://tts.langeek.co/read?text=cmFpbHJvYWQgdGVybWluYWw&hash=5f264447b407d598af800b8c12c5aa55c1448441&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "reil.roood tēr.mē.nēl",
       "img": "",
       "pronunciation": "ɹˈeɪlɹoʊd tˈɜːmɪnəl",
       "senses": [
@@ -971,12 +1003,13 @@
       ]
     },
     {
+      "id": "9cd648da-ab81-4711-ad0c-a72e4316879a",
       "word": "island platform",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aXNsYW5kIHBsYXRmb3Jt&hash=522630fd2011f3762983a11b35920f8b32f977d5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "aɪ.lənd plæt.fɔrm",
       "phonetic_am": "https://tts.langeek.co/read?text=aXNsYW5kIHBsYXRmb3Jt&hash=522630fd2011f3762983a11b35920f8b32f977d5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ai.lēnd plāt.fawrm",
       "img": "",
       "pronunciation": "ˈaɪlənd plˈætfɔːɹm",
       "senses": [
@@ -1008,12 +1041,13 @@
       ]
     },
     {
+      "id": "303f81c7-738f-45f5-a373-5007c5e9edcd",
       "word": "adhesion railway",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWRoZXNpb24gcmFpbHdheQ&hash=9f8f84da43990e34de9ba5011b79a4f8be582c78&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æd.hi.ʒən reɪl.weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=YWRoZXNpb24gcmFpbHdheQ&hash=9f8f84da43990e34de9ba5011b79a4f8be582c78&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ād.hi.zhēn reil.vei",
       "img": "",
       "pronunciation": "ɐdhˈiːʒən ɹˈeɪlweɪ",
       "senses": [
@@ -1045,12 +1079,13 @@
       ]
     },
     {
+      "id": "374ae3c3-d2ec-4037-b826-7e216a600193",
       "word": "cog railway",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29nIHJhaWx3YXk&hash=f77af8974342162c6d40171326cdfb1cd5f8c03b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɔg reɪl.weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29nIHJhaWx3YXk&hash=f77af8974342162c6d40171326cdfb1cd5f8c03b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kawg reil.vei",
       "img": "",
       "pronunciation": "kˈɑːɡ ɹˈeɪlweɪ",
       "senses": [
@@ -1082,12 +1117,13 @@
       ]
     },
     {
+      "id": "798bcaa7-40f8-475c-a12b-dedf2b52ea9f",
       "word": "railway yard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFpbHdheSB5YXJk&hash=72650ef41631f2b17147f4fbac5cdf4a64e151af&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "reɪl.weɪ jɑrd",
       "phonetic_am": "https://tts.langeek.co/read?text=cmFpbHdheSB5YXJk&hash=72650ef41631f2b17147f4fbac5cdf4a64e151af&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "reil.vei yaard",
       "img": "",
       "pronunciation": "ɹˈeɪlweɪ jˈɑːɹd",
       "senses": [
@@ -1119,12 +1155,13 @@
       ]
     },
     {
+      "id": "ad645ea4-7279-48d2-8b97-362d7b27cd9f",
       "word": "classification yard",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xhc3NpZmljYXRpb24geWFyZA&hash=b1f715b94ced8a51c421a39e3983962c2a34a578&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "klæ.sə.fə.keɪ.ʃən jɑrd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xhc3NpZmljYXRpb24geWFyZA&hash=b1f715b94ced8a51c421a39e3983962c2a34a578&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "klā.sē.fē.kei.shēn yaard",
       "img": "",
       "pronunciation": "klˌæsɪfɪkˈeɪʃən jˈɑːɹd",
       "senses": [
@@ -1156,49 +1193,30 @@
       ]
     },
     {
+      "id": "3c5abdd0-2922-4777-809b-683f25df2ee3",
       "word": "balloon loop",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFsbG9vbiBsb29w&hash=1e40925031de3288ad637d5b5442be60b92b434a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bə.lu:n lup",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFsbG9vbiBsb29w&hash=1e40925031de3288ad637d5b5442be60b92b434a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bē.loon loop",
       "img": "",
       "pronunciation": "bəlˈuːn lˈuːp",
       "senses": [
         {
           "definition": "a circular railway track that allows trains to change direction without needing to turn around",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The train traveled along the balloon loop to return to the station after dropping off passengers."
-            },
-            {
-              "cf": "",
-              "x": "Engineers designed the balloon loop to efficiently manage train traffic at the busy junction."
-            },
-            {
-              "cf": "",
-              "x": "Passengers enjoyed the scenic views as the train navigated the gentle curve of the balloon loop."
-            },
-            {
-              "cf": "",
-              "x": "Maintenance crews inspected the tracks of the balloon loop to ensure safe operations."
-            },
-            {
-              "cf": "",
-              "x": "The historic railway museum features a fully restored balloon loop used during the steam era."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "a796389d-4548-4664-9ab5-e6e5406c5794",
       "word": "wye",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d3ll&hash=793a552b17938133c0d2e7ab4253a6cc0524adf7&lang=en&cache-only=0",
       "phonetic_text": "waɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=d3ll&hash=793a552b17938133c0d2e7ab4253a6cc0524adf7&lang=en&cache-only=0",
-      "phonetic_am_text": "wai",
+      "phonetic_am_text": "vai",
       "img": "",
       "pronunciation": "ˈwaɪ",
       "senses": [
@@ -1230,12 +1248,13 @@
       ]
     },
     {
+      "id": "3f14c109-a587-44b7-97ca-0bed54dae5ff",
       "word": "rail profile",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmFpbCBwcm9maWxl&hash=8773b9755600596a177097f7707d78b76f462b9a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "reɪl proʊ.faɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=cmFpbCBwcm9maWxl&hash=8773b9755600596a177097f7707d78b76f462b9a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "reil prooo.fail",
       "img": "",
       "pronunciation": "ɹˈeɪl pɹˈoʊfaɪl",
       "senses": [
@@ -1267,12 +1286,13 @@
       ]
     },
     {
+      "id": "448d22b8-8c1a-4bbe-8e42-7e12be394f45",
       "word": "wayobject",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2F5b2JqZWN0&hash=cbfc5a01621a125ba008c954c52f32d2f74849df&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "weɪ.ɑb.ʤɛkt",
       "phonetic_am": "https://tts.langeek.co/read?text=d2F5b2JqZWN0&hash=cbfc5a01621a125ba008c954c52f32d2f74849df&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vei.aab.jekt",
       "img": "",
       "pronunciation": "wˈeɪəbdʒˌɛkt",
       "senses": [
@@ -1304,12 +1324,13 @@
       ]
     },
     {
+      "id": "32118fc5-eacc-41c6-bffe-1c5470e3924f",
       "word": "traction current pylon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhY3Rpb24gY3VycmVudCBweWxvbg&hash=4a98c2711036ccc1107c55fa028fb811b12af70c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "træk.ʃən kɑ.rənt paɪ.lɑn",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhY3Rpb24gY3VycmVudCBweWxvbg&hash=4a98c2711036ccc1107c55fa028fb811b12af70c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trāk.shēn kaa.rēnt pai.laan",
       "img": "",
       "pronunciation": "tɹˈækʃən kˈɜːɹənt pˈaɪlɑːn",
       "senses": [
@@ -1335,6 +1356,44 @@
             {
               "cf": "",
               "x": "The design of modern traction current pylons focuses on durability and efficiency to sustain heavy electrical loads."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3508a95f-478f-4057-b407-d3642115ed62",
+      "word": "midway",
+      "pos": "noun",
+      "phonetic": "https://tts.langeek.co/read?text=bWlkd2F5&hash=b4e3a681a16e2c33b5faa67ba009a1b928d6663c&lang=en&cache-only=0",
+      "phonetic_text": "mɪd.weɪ",
+      "phonetic_am": "https://tts.langeek.co/read?text=bWlkd2F5&hash=b4e3a681a16e2c33b5faa67ba009a1b928d6663c&lang=en&cache-only=0",
+      "phonetic_am_text": "mid.vei",
+      "img": "",
+      "pronunciation": "ˈmɪdˌweɪ",
+      "senses": [
+        {
+          "definition": "a wide main pathway in facilities like railroad yards or factories, flanked by work buildings or storage areas",
+          "examples": [
+            {
+              "cf": "",
+              "x": "Workers pushed carts of tools down the midway between the repair sheds."
+            },
+            {
+              "cf": "",
+              "x": "The locomotive was parked along the midway for maintenance."
+            },
+            {
+              "cf": "",
+              "x": "Newly built train cars were assembled near the midway for easy access."
+            },
+            {
+              "cf": "",
+              "x": "The factory's midway allowed forklifts to move supplies efficiently."
+            },
+            {
+              "cf": "",
+              "x": "Storage warehouses bordered both sides of the midway in the rail yard."
             }
           ]
         }

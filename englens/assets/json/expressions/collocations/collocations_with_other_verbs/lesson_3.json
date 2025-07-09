@@ -1,13 +1,15 @@
 {
+  "id": "d804784b-6667-4e2c-838f-17ac2f1116c6",
   "topic": "collocations_with_other_verbs",
   "title": "Emotions, Reactions, & Relationships",
   "lesson": "lesson_3",
   "word_list": [
     {
-      "word": "[drive] {sb} (crazy|mad|insane|nuts)",
+      "id": "214d767c-f0f8-41ef-a181-666b2ac7584e",
+      "word": "to [drive] {sb} (crazy|mad|insane|nuts)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJpdmUgc29tZWJvZHkgY3Jhenk&hash=2ad025dea626511ecbbbd23245881ef4183795d3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZHJpdmUgc29tZWJvZHkgY3Jhenk&hash=2ad025dea626511ecbbbd23245881ef4183795d3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42602/original/?type=jpeg",
@@ -15,28 +17,16 @@
       "senses": [
         {
           "definition": "to do something that makes someone extremely upset, annoyed, or angry",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The constant noise from the construction work next door is driving me crazy."
-            },
-            {
-              "cf": "",
-              "x": "The repetitive, loud music from the neighbor's party is driving me nuts."
-            },
-            {
-              "cf": "",
-              "x": "Dealing with the never-ending traffic in this city can drive anyone crazy."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[fall] into a coma",
+      "id": "9539bab3-d323-4d19-9801-b6480136ccbe",
+      "word": "to [fall] into a coma",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmFsbCBpbnRvIGEgY29tYQ&hash=0895d3eac0337855c4ea36007ec3ca2c88cb4969&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmFsbCBpbnRvIGEgY29tYQ&hash=0895d3eac0337855c4ea36007ec3ca2c88cb4969&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -44,36 +34,16 @@
       "senses": [
         {
           "definition": "to enter a state of deep unconsciousness from which a person cannot be easily awakened",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After the accident, the injured motorcyclist fell into a coma."
-            },
-            {
-              "cf": "",
-              "x": "The patient's condition deteriorated, and they fell into a coma."
-            },
-            {
-              "cf": "",
-              "x": "The doctor explained the risks of surgery, including the possibility of falling into a coma."
-            },
-            {
-              "cf": "",
-              "x": "The medical team worked tirelessly to revive the patient who had fallen into a coma."
-            },
-            {
-              "cf": "",
-              "x": "He suffered a massive stroke and subsequently fell into a coma for several weeks."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[spring] a surprise",
+      "id": "7fafefef-7dbb-4b01-b06b-202afcfa9b82",
+      "word": "to [spring] a surprise",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3ByaW5nIGEgc3VycHJpc2U&hash=4e1e9296b7288d9e6e598d2fef5058f804c88587&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3ByaW5nIGEgc3VycHJpc2U&hash=4e1e9296b7288d9e6e598d2fef5058f804c88587&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -81,24 +51,16 @@
       "senses": [
         {
           "definition": "to reveal something surprising or unexpected to someone",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The children sprung a surprise on their parents by cleaning the house while they were away."
-            },
-            {
-              "cf": "",
-              "x": "The team sprung a surprise by unveiling a new product at the conference."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[bite]  {one's} lip",
+      "id": "1d98ebf8-4c97-4cb4-ba62-00cbd73b719d",
+      "word": "to [bite]  {one's} lip",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYml0ZSAgb25lJ3MgbGlw&hash=4de785a6d8833f730f7a48d3155c1af191dcef08&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYml0ZSAgb25lJ3MgbGlw&hash=4de785a6d8833f730f7a48d3155c1af191dcef08&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -124,10 +86,11 @@
       ]
     },
     {
-      "word": "[mean] well",
+      "id": "419f5009-cb32-4fbb-b2ed-7983831491c5",
+      "word": "to [mean] well",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWVhbiB3ZWxs&hash=63a17df23248f1e1d6c90e28a9c45150681af7f3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWVhbiB3ZWxs&hash=63a17df23248f1e1d6c90e28a9c45150681af7f3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -135,36 +98,16 @@
       "senses": [
         {
           "definition": "to have good intentions, with the desire to do something positive or helpful, even if the results may not align with those intentions",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She may have made mistakes, but she genuinely meant well in her efforts to support the community."
-            },
-            {
-              "cf": "",
-              "x": "They meant well when they tried to surprise you, even if it didn't turn out as planned."
-            },
-            {
-              "cf": "",
-              "x": "The parents meant well when they gave their child advice, even if it wasn't what the child wanted to hear."
-            },
-            {
-              "cf": "",
-              "x": "Sometimes people's good intentions lead them to make decisions that don't work out, but they still mean well."
-            },
-            {
-              "cf": "",
-              "x": "It's important to remember that he means well and is trying to make amends for his actions."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[spring] to {one's} defense",
+      "id": "a8fea0a3-7332-4b5f-859e-238c77c0cc9b",
+      "word": "to [spring] to {one's} defense",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3ByaW5nIHRvIG9uZSdzIGRlZmVuc2U&hash=7924f8bbd7063ef2d9c2b7ae2237c95f9720561d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3ByaW5nIHRvIG9uZSdzIGRlZmVuc2U&hash=7924f8bbd7063ef2d9c2b7ae2237c95f9720561d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -172,20 +115,16 @@
       "senses": [
         {
           "definition": "to quickly come to the aid or support of another person when they are under attack, criticism, or facing a difficult situation",
-          "examples": [
-            {
-              "cf": "",
-              "x": "When her friend was falsely accused, she sprang to her defense with evidence to prove her innocence."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[win] {one's} trust",
+      "id": "b3943cdc-2bec-46f1-86df-adf8144dea90",
+      "word": "to [win] {one's} trust",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2luIG9uZSdzIHRydXN0&hash=8cd348c135f36cbbb83e1f22e86b9c716a7a1722&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2luIG9uZSdzIHRydXN0&hash=8cd348c135f36cbbb83e1f22e86b9c716a7a1722&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -193,20 +132,16 @@
       "senses": [
         {
           "definition": "to earn the confidence, belief, or reliance of another person",
-          "examples": [
-            {
-              "cf": "",
-              "x": "It took time and honesty to win her trust after a period of misunderstandings."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[stand] the sight of {sb/sth}",
+      "id": "ef1656ed-6515-418d-8d7a-319b0728b413",
+      "word": "to [stand] the sight of {sb/sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RhbmQgdGhlIHNpZ2h0IG9mIHNvbWVib2R5IG9yIHNvbWV0aGluZw&hash=4d4b20590e2b32feb25d1eb6257e36c93000d166&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3RhbmQgdGhlIHNpZ2h0IG9mIHNvbWVib2R5IG9yIHNvbWV0aGluZw&hash=4d4b20590e2b32feb25d1eb6257e36c93000d166&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -214,32 +149,16 @@
       "senses": [
         {
           "definition": "to tolerate the presence of someone or something one dislikes very much",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Every time I see that messy room, I can't stand the sight of it."
-            },
-            {
-              "cf": "",
-              "x": "The awful smell from the garbage can made him unable to stand the sight of it."
-            },
-            {
-              "cf": "",
-              "x": "John couldn't stand the sight of his rude coworker any longer."
-            },
-            {
-              "cf": "",
-              "x": "His unwavering dedication to his craft allows him to stand the sight of countless hours of rehearsal and still maintain his passion for dance."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[bear] a resemblance",
+      "id": "e394d652-8171-4626-a85b-23e0c4f7eb91",
+      "word": "to [bear] a resemblance",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmVhciBhIHJlc2VtYmxhbmNl&hash=ece8f1b54f7a41463e37394ed64b1f56b9cbc895&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmVhciBhIHJlc2VtYmxhbmNl&hash=ece8f1b54f7a41463e37394ed64b1f56b9cbc895&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -261,10 +180,11 @@
       ]
     },
     {
-      "word": "[gain] {one's} trust",
+      "id": "19f0c909-95fc-49c1-a5a5-c7c490d4c2de",
+      "word": "to [gain] {one's} trust",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2FpbiBvbmUncyB0cnVzdA&hash=be4ed6a3cfddbce0ae35519eb0f3ad4455b8d6af&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2FpbiBvbmUncyB0cnVzdA&hash=be4ed6a3cfddbce0ae35519eb0f3ad4455b8d6af&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -272,20 +192,16 @@
       "senses": [
         {
           "definition": "to earn confidence and belief from another person in one's honesty, reliability, and intentions",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He gained my trust when he consistently kept his promises."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[fall] in love",
+      "id": "3b2937f1-012e-424d-864a-83e5136698a5",
+      "word": "to [fall] in love",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmFsbCBpbiBsb3Zl&hash=ab6f5d3fa6d1088c85ad9f79ca6c11c841f7bb3c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmFsbCBpbiBsb3Zl&hash=ab6f5d3fa6d1088c85ad9f79ca6c11c841f7bb3c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/40147/original/?type=jpeg",
@@ -293,36 +209,16 @@
       "senses": [
         {
           "definition": "to start loving someone deeply",
-          "examples": [
-            {
-              "cf": "",
-              "x": "They met at a coffee shop and quickly fell in love."
-            },
-            {
-              "cf": "",
-              "x": "After many years of friendship, they finally fell in love with each other."
-            },
-            {
-              "cf": "",
-              "x": "The couple fell in love during a summer vacation in Italy."
-            },
-            {
-              "cf": "",
-              "x": "She didn't expect to fall in love while studying abroad, but it happened."
-            },
-            {
-              "cf": "",
-              "x": "Falling in love can be a beautiful and life-changing experience."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[wine] and [dine]",
+      "id": "4370552f-8a1b-4d6a-8cb2-a964835bcdca",
+      "word": "to [wine] and [dine]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2luZSBhbmQgZGluZQ&hash=5bb82a52be960b30397cb81f194e186ba20062dc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2luZSBhbmQgZGluZQ&hash=5bb82a52be960b30397cb81f194e186ba20062dc&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -356,10 +252,11 @@
       ]
     },
     {
-      "word": "[play] a blinder",
+      "id": "f604d670-739e-43c5-bcb5-5176b52d2940",
+      "word": "to [play] a blinder",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGxheSBhIGJsaW5kZXI&hash=b00f20b8615247b5021bc9208892e78ac67324ef&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGxheSBhIGJsaW5kZXI&hash=b00f20b8615247b5021bc9208892e78ac67324ef&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -393,10 +290,11 @@
       ]
     },
     {
-      "word": "[plight] {one's} troth",
+      "id": "36dd0622-5296-4284-a49c-02113829f5a5",
+      "word": "to [plight] {one's} troth",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGxpZ2h0IG9uZSdzIHRyb3Ro&hash=69e252677a99e3e96f52393de5fd274e3335306b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGxpZ2h0IG9uZSdzIHRyb3Ro&hash=69e252677a99e3e96f52393de5fd274e3335306b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/18730/original/engagement?type=jpeg",
@@ -422,12 +320,13 @@
       ]
     },
     {
-      "word": "feel up to",
+      "id": "2b605d68-6799-457d-a03c-5b603f55431b",
+      "word": "to feel up to",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZmVlbCB1cCB0bw&hash=3e42afa19ccbf05436f6a4ea0bdc956aa269b84d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fi:l ʌp tu:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZmVlbCB1cCB0bw&hash=3e42afa19ccbf05436f6a4ea0bdc956aa269b84d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fil ap too",
       "img": "",
       "pronunciation": "fˈiːl ˈʌp tuː",
       "senses": [
@@ -438,10 +337,11 @@
       ]
     },
     {
-      "word": "[die] of {sth}",
+      "id": "cdf98424-8fa9-4212-a476-a92bc6814f68",
+      "word": "to [die] of {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGllIG9mIHNvbWV0aGluZw&hash=eb134e3c865e7d7c19ada049b4b4f699901beb14&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGllIG9mIHNvbWV0aGluZw&hash=eb134e3c865e7d7c19ada049b4b4f699901beb14&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -475,10 +375,11 @@
       ]
     },
     {
-      "word": "[turn] {one's} attention",
+      "id": "92dd83a1-3564-4490-b88d-e62e91dacb69",
+      "word": "to [turn] {one's} attention",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHVybiBvbmUncyBhdHRlbnRpb24&hash=428ba6d07ff90ef47d14ec93da16c89885267078&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHVybiBvbmUncyBhdHRlbnRpb24&hash=428ba6d07ff90ef47d14ec93da16c89885267078&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -508,10 +409,11 @@
       ]
     },
     {
-      "word": "[have|throw] a fit",
+      "id": "bd1e8a53-cec4-4712-a319-ed40a3eb4e25",
+      "word": "to [have|throw] a fit",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGF2ZSBhIGZpdA&hash=c4f0797e63cebef629355613b16fa26029ed3926&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGF2ZSBhIGZpdA&hash=c4f0797e63cebef629355613b16fa26029ed3926&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42582/original/?type=jpeg",
@@ -519,36 +421,16 @@
       "senses": [
         {
           "definition": "to suddenly and uncontrollably express strong emotions, often in a negative way",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Having a fit at work is unprofessional and can harm relationships."
-            },
-            {
-              "cf": "",
-              "x": "She had a fit of rage when she discovered her phone was missing."
-            },
-            {
-              "cf": "",
-              "x": "She had a fit when her car wouldn't start."
-            },
-            {
-              "cf": "",
-              "x": "He threw a fit when he learned the event was canceled."
-            },
-            {
-              "cf": "",
-              "x": "She threw a fit when she couldn't find her phone."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[garner] attention",
+      "id": "746252ad-f72c-489c-afa2-331d3f7a5ac3",
+      "word": "to [garner] attention",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2FybmVyIGF0dGVudGlvbg&hash=38ce825e140bc4e4eadbd8dd6c6cafcc4ca26b53&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2FybmVyIGF0dGVudGlvbg&hash=38ce825e140bc4e4eadbd8dd6c6cafcc4ca26b53&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -556,28 +438,7 @@
       "senses": [
         {
           "definition": "to attract or receive attention, often by means of effort, achievement, or significance",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The new movie garnered attention for its innovative storytelling and stunning visuals."
-            },
-            {
-              "cf": "",
-              "x": "The artist's latest exhibition has garnered attention from critics and art enthusiasts alike."
-            },
-            {
-              "cf": "",
-              "x": "The controversial remarks made by the politician quickly garnered attention from the media."
-            },
-            {
-              "cf": "",
-              "x": "The fashion designer's bold designs have garnered attention on the international runway."
-            },
-            {
-              "cf": "",
-              "x": "The athlete's remarkable performance at the Olympics garnered attention from sports fans worldwide."
-            }
-          ]
+          "examples": []
         }
       ]
     }

@@ -1,9 +1,11 @@
 {
+  "id": "c48e1854-2bd2-42d4-bd4d-7a0511ca523f",
   "topic": "food_and_drinks",
   "title": "Types of Bread",
   "lesson": "lesson_0",
   "word_list": [
     {
+      "id": "9a794602-ab9d-4ef0-938c-f42672281afa",
       "word": "bun",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnVu&hash=adf5c72662827518d435b58dc82ea1b21e4d7420&lang=en&cache-only=0",
@@ -15,15 +17,21 @@
       "senses": [
         {
           "definition": "a small bread roll that is round and flat in shape",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He opted for a veggie burger on a whole wheat bun, choosing a healthier option for lunch."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "ee2a6fb7-d262-48ea-8c38-6d777e5c12f1",
       "word": "French bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RnJlbmNoIGJyZWFk&hash=8ce5d381914161cbe5f1b1757163e4468bf023b5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RnJlbmNoIGJyZWFk&hash=8ce5d381914161cbe5f1b1757163e4468bf023b5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/21302/original/?type=jpeg",
@@ -36,28 +44,47 @@
       ]
     },
     {
+      "id": "5736e1db-f7bf-44c2-ad99-aedcbc5f7192",
       "word": "roll",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9sbA&hash=53ebc833fc607928882c19e9930c8d9c76dc1331&lang=en&cache-only=0",
       "phonetic_text": "roʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9sbA&hash=53ebc833fc607928882c19e9930c8d9c76dc1331&lang=en&cache-only=0",
-      "phonetic_am_text": "rowl",
+      "phonetic_am_text": "roool",
       "img": "https://cdn.langeek.co/photo/19102/original/bread-roll?type=jpeg",
-      "pronunciation": "ˈɹoʊɫ",
+      "pronunciation": "roʊl",
       "senses": [
         {
           "definition": "a loaf of bread that is small and made for one person",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She savored the warm aroma of freshly baked rolls wafting from the bakery."
+            },
+            {
+              "cf": "",
+              "x": "The dinner table was adorned with a basket of soft, golden-brown rolls."
+            },
+            {
+              "cf": "",
+              "x": "Would you like a plain roll or one with raisins for breakfast?"
+            },
+            {
+              "cf": "",
+              "x": "After the meal, they indulged in warm rolls slathered with butter."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "6c25df9e-cb46-4b66-a062-61c40124f24f",
       "word": "rusk",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cnVzaw&hash=7a04f323f2be8159df03fb11d60494d699d4d0fa&lang=en&cache-only=0",
-      "phonetic_text": "rʌsk",
+      "phonetic_text": "rəsk",
       "phonetic_am": "https://tts.langeek.co/read?text=cnVzaw&hash=7a04f323f2be8159df03fb11d60494d699d4d0fa&lang=en&cache-only=0",
-      "phonetic_am_text": "rask",
+      "phonetic_am_text": "rēsk",
       "img": "https://cdn.langeek.co/photo/31225/original/?type=jpeg",
       "pronunciation": "ˈɹəsk",
       "senses": [
@@ -68,12 +95,13 @@
       ]
     },
     {
+      "id": "a22b38ef-dfe4-4a3f-a612-34faad387ecf",
       "word": "rye bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cnllIGJyZWFk&hash=c38c4dfc0082faa474b04756db40c9a16fc09041&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "raɪ brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=cnllIGJyZWFk&hash=c38c4dfc0082faa474b04756db40c9a16fc09041&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rai bred",
       "img": "",
       "pronunciation": "ɹˈaɪ bɹˈɛd",
       "senses": [
@@ -84,12 +112,13 @@
       ]
     },
     {
+      "id": "7d978701-78a5-4cfc-9d26-0e1635de0278",
       "word": "sliced bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2xpY2VkIGJyZWFk&hash=95292993f2092184ee70c5f41426a6ba86cc685b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "slaɪst brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=c2xpY2VkIGJyZWFk&hash=95292993f2092184ee70c5f41426a6ba86cc685b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "slaist bred",
       "img": "https://cdn.langeek.co/photo/26371/original/?type=jpeg",
       "pronunciation": "slaɪst bɹɛd",
       "senses": [
@@ -100,12 +129,13 @@
       ]
     },
     {
+      "id": "96643869-5ca9-4e43-8bbf-9bed43157e74",
       "word": "black bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmxhY2sgYnJlYWQ&hash=3360d4c7ca966b50eabac88e341af99c50a33730&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "blæk brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=YmxhY2sgYnJlYWQ&hash=3360d4c7ca966b50eabac88e341af99c50a33730&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "blāk bred",
       "img": "https://cdn.langeek.co/photo/31223/original/?type=jpeg",
       "pronunciation": "blˈæk bɹˈɛd",
       "senses": [
@@ -116,12 +146,13 @@
       ]
     },
     {
+      "id": "ca85062e-465a-4cf4-b571-60b7925e0063",
       "word": "cornbread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29ybmJyZWFk&hash=c9adcd09b176730e9bb59ca01e8e3b2be17758ab&lang=en&cache-only=0",
-      "phonetic_text": "kɔ:rnbrɛd",
+      "phonetic_text": "kɔrn.brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29ybmJyZWFk&hash=c9adcd09b176730e9bb59ca01e8e3b2be17758ab&lang=en&cache-only=0",
-      "phonetic_am_text": "kaawrnbred",
+      "phonetic_am_text": "kawrn.bred",
       "img": "https://cdn.langeek.co/photo/31157/original/?type=jpeg",
       "pronunciation": "ˈkɔɹnˌbɹɛd",
       "senses": [
@@ -132,12 +163,13 @@
       ]
     },
     {
+      "id": "55a67f3b-0ac2-49b2-80ad-81d2eabb9152",
       "word": "pocket bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9ja2V0IGJyZWFk&hash=d257383e5195a7ffee9d503b7bccd5eec20c1b1b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɑ:.kɪt brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9ja2V0IGJyZWFk&hash=d257383e5195a7ffee9d503b7bccd5eec20c1b1b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "paa.kit bred",
       "img": "https://cdn.langeek.co/photo/27750/original/?type=jpeg",
       "pronunciation": "pˈɑːkɪt bɹˈɛd",
       "senses": [
@@ -148,12 +180,13 @@
       ]
     },
     {
+      "id": "23c8c234-dfe8-4310-8ca5-5692552289ef",
       "word": "crispbread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3Jpc3BicmVhZA&hash=1751e5eb9a6da3a61d85c5de5803856072f12e1b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "krɪsp.brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3Jpc3BicmVhZA&hash=1751e5eb9a6da3a61d85c5de5803856072f12e1b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "krisp.bred",
       "img": "https://cdn.langeek.co/photo/22133/original/?type=jpeg",
       "pronunciation": "kɹˈɪspbɹɛd",
       "senses": [
@@ -164,12 +197,13 @@
       ]
     },
     {
+      "id": "f3fd9a0d-5af1-4e8d-a4f5-92d00b04bc8a",
       "word": "white bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2hpdGUgYnJlYWQ&hash=406377a5da58da55b9e6d64e3ca22cdbae6e40d3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "waɪt brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hpdGUgYnJlYWQ&hash=406377a5da58da55b9e6d64e3ca22cdbae6e40d3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vait bred",
       "img": "https://cdn.langeek.co/photo/23865/original/bread?type=jpeg",
       "pronunciation": "wˈaɪt bɹˈɛd",
       "senses": [
@@ -201,12 +235,13 @@
       ]
     },
     {
+      "id": "261ef423-3943-4220-9e0e-b550e27ee4ea",
       "word": "unleavened bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dW5sZWF2ZW5lZCBicmVhZA&hash=f6c0af4fbe8e60794e8b25832e99acaffbf00fdb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʌn.lɛ.vənd brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=dW5sZWF2ZW5lZCBicmVhZA&hash=f6c0af4fbe8e60794e8b25832e99acaffbf00fdb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "an.le.vēnd bred",
       "img": "https://cdn.langeek.co/photo/27748/original/?type=jpeg",
       "pronunciation": "ʌnlˈɛvənd bɹˈɛd",
       "senses": [
@@ -217,12 +252,13 @@
       ]
     },
     {
+      "id": "e079c7d8-26a2-484f-801c-0a9fc2ed9da3",
       "word": "whole meal bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2hvbGUgbWVhbCBicmVhZA&hash=22f04593120d8b3e7e12b369acdd3dd7ee1518ed&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hoʊl mi:l brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hvbGUgbWVhbCBicmVhZA&hash=22f04593120d8b3e7e12b369acdd3dd7ee1518ed&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hoool mil bred",
       "img": "",
       "pronunciation": "hˈoʊl mˈiːl bɹˈɛd",
       "senses": [
@@ -233,12 +269,13 @@
       ]
     },
     {
+      "id": "833e99dd-1e96-4243-a0c6-9f91193bd612",
       "word": "tea bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGVhIGJyZWFk&hash=1a49dca1109a7c312d14ee8c610aab55d6c6f41f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ti: brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=dGVhIGJyZWFk&hash=1a49dca1109a7c312d14ee8c610aab55d6c6f41f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ti bred",
       "img": "",
       "pronunciation": "tˈiː bɹˈɛd",
       "senses": [
@@ -249,12 +286,13 @@
       ]
     },
     {
+      "id": "64e4ebd1-db0b-42d0-a524-f257d61071e4",
       "word": "sour bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c291ciBicmVhZA&hash=adf35e78482c59ccbe9b9c7384879bec94169f7a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "saʊr brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=c291ciBicmVhZA&hash=adf35e78482c59ccbe9b9c7384879bec94169f7a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "saoor bred",
       "img": "",
       "pronunciation": "sˈaɪʊɹ bɹˈɛd",
       "senses": [
@@ -265,12 +303,13 @@
       ]
     },
     {
+      "id": "6c93ab3f-65c7-43f7-9973-a65a7674d528",
       "word": "skillet bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2tpbGxldCBicmVhZA&hash=00de277d1d187d17903f070507349fe9bed5c21a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skɪ.lət brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=c2tpbGxldCBicmVhZA&hash=00de277d1d187d17903f070507349fe9bed5c21a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ski.lēt bred",
       "img": "",
       "pronunciation": "skˈɪlɪt bɹˈɛd",
       "senses": [
@@ -281,12 +320,13 @@
       ]
     },
     {
+      "id": "9685ab16-79a4-410c-abe4-fababd821241",
       "word": "quick bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cXVpY2sgYnJlYWQ&hash=b98bdce886ae02892d52e91e8a9e37833427e125&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kwɪk brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=cXVpY2sgYnJlYWQ&hash=b98bdce886ae02892d52e91e8a9e37833427e125&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kvik bred",
       "img": "",
       "pronunciation": "kwˈɪk bɹˈɛd",
       "senses": [
@@ -297,12 +337,13 @@
       ]
     },
     {
+      "id": "184ea679-18ee-496f-8ea6-72ad41c0e990",
       "word": "pilot bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGlsb3QgYnJlYWQ&hash=4c5fac7135baf9f0e777bedd71f11f1d7956bce2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "paɪ.lət brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=cGlsb3QgYnJlYWQ&hash=4c5fac7135baf9f0e777bedd71f11f1d7956bce2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pai.lēt bred",
       "img": "",
       "pronunciation": "pˈaɪlət bɹˈɛd",
       "senses": [
@@ -313,12 +354,13 @@
       ]
     },
     {
+      "id": "4fb8116e-9143-4d39-8201-876889eb0d8e",
       "word": "nut bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bnV0IGJyZWFk&hash=3fe8db9e6f31746f5290553e20f17ce9e000ccd7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nʌt brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=bnV0IGJyZWFk&hash=3fe8db9e6f31746f5290553e20f17ce9e000ccd7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "nat bred",
       "img": "",
       "pronunciation": "nˈʌt bɹˈɛd",
       "senses": [
@@ -329,12 +371,13 @@
       ]
     },
     {
+      "id": "0cebb403-1811-42fb-9d17-aafabf0cd7c5",
       "word": "light bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGlnaHQgYnJlYWQ&hash=7360893bedbf2b772aea2126c4469297a2f0e762&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "laɪt brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlnaHQgYnJlYWQ&hash=7360893bedbf2b772aea2126c4469297a2f0e762&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lait bred",
       "img": "",
       "pronunciation": "lˈaɪt bɹˈɛd",
       "senses": [
@@ -345,12 +388,13 @@
       ]
     },
     {
+      "id": "e276057c-8be2-4aad-8b0e-3bc35acb0776",
       "word": "fry bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZnJ5IGJyZWFk&hash=f70551f3e6554e87781c3ce92ae2d5df903e947b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fraɪ brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnJ5IGJyZWFk&hash=f70551f3e6554e87781c3ce92ae2d5df903e947b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "frai bred",
       "img": "",
       "pronunciation": "fɹˈaɪ bɹˈɛd",
       "senses": [
@@ -361,12 +405,13 @@
       ]
     },
     {
+      "id": "b0cc5387-fd7a-46d4-befb-5144303dc1db",
       "word": "dark bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGFyayBicmVhZA&hash=16c8768e2ecad09991dd215eba3b12a0417bcf51&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɑrk brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGFyayBicmVhZA&hash=16c8768e2ecad09991dd215eba3b12a0417bcf51&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "daark bred",
       "img": "",
       "pronunciation": "dˈɑːɹk bɹˈɛd",
       "senses": [
@@ -377,12 +422,13 @@
       ]
     },
     {
+      "id": "8792c295-8141-4f38-aeff-1433a2da5a81",
       "word": "brown bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJvd24gYnJlYWQ&hash=5f604ed9bf10fa7ea1322322cefb837f85166bbb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "braʊn brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJvd24gYnJlYWQ&hash=5f604ed9bf10fa7ea1322322cefb837f85166bbb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "braoon bred",
       "img": "",
       "pronunciation": "bɹˈaʊn bɹˈɛd",
       "senses": [
@@ -393,28 +439,51 @@
       ]
     },
     {
+      "id": "f1532001-a252-4b18-82ee-8c8fbf728665",
       "word": "flatbread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmxhdGJyZWFk&hash=e4b80298cc3bc78299dc7101c3c25012c6c3e8e9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "flæt.brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmxhdGJyZWFk&hash=e4b80298cc3bc78299dc7101c3c25012c6c3e8e9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "flāt.bred",
       "img": "https://cdn.langeek.co/photo/27750/original/?type=jpeg",
       "pronunciation": "flˈætbɹɛd",
       "senses": [
         {
           "definition": "flat and thin type of bread that contains no yeast",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She made flatbread to serve with the hummus and vegetables."
+            },
+            {
+              "cf": "",
+              "x": "The restaurant specializes in flatbread pizzas with various toppings."
+            },
+            {
+              "cf": "",
+              "x": "The recipe for flatbread requires only flour, water, and salt."
+            },
+            {
+              "cf": "",
+              "x": "The flatbread was soft and perfect for wrapping around grilled meat."
+            },
+            {
+              "cf": "",
+              "x": "She served the curry with freshly baked flatbread."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "280ddc5e-86e8-44c8-ae43-2e6a39676382",
       "word": "gluten bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2x1dGVuIGJyZWFk&hash=1dfa0182f41d2266272db8d009ec38a1f02434ce&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "glu.tən brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2x1dGVuIGJyZWFk&hash=1dfa0182f41d2266272db8d009ec38a1f02434ce&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gloo.tēn bred",
       "img": "",
       "pronunciation": "ɡlˈuːʔn̩ bɹˈɛd",
       "senses": [
@@ -425,10 +494,11 @@
       ]
     },
     {
+      "id": "2ac97dd1-2bdd-4694-9d44-92474a0d3b5c",
       "word": "Graham bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=R3JhaGFtIGJyZWFk&hash=19d4f48da1fbdb21e53412594a30554910e75b14&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=R3JhaGFtIGJyZWFk&hash=19d4f48da1fbdb21e53412594a30554910e75b14&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -441,10 +511,11 @@
       ]
     },
     {
+      "id": "484adaf0-e1a1-4d85-a381-e7e748b1cf9d",
       "word": "multigrain bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXVsdGlncmFpbiBicmVhZA&hash=736cf145c85fdfd434971176ca25075e0b951907&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bXVsdGlncmFpbiBicmVhZA&hash=736cf145c85fdfd434971176ca25075e0b951907&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -457,12 +528,13 @@
       ]
     },
     {
+      "id": "726c7b16-bb36-436e-9bd4-beccd4e8b355",
       "word": "salt-rising bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FsdC1yaXNpbmcgYnJlYWQ&hash=dd847fae002e063dcdcc67bab2c3768b997be479&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɔ:lt-raɪ.zɪng brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FsdC1yaXNpbmcgYnJlYWQ&hash=dd847fae002e063dcdcc67bab2c3768b997be479&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sawlt-rai.zing bred",
       "img": "",
       "pronunciation": "sˈɑːltɹˈaɪzɪŋ bɹˈɛd",
       "senses": [
@@ -473,12 +545,13 @@
       ]
     },
     {
+      "id": "af47f066-ab33-44b9-9d5e-1c35ffeed8d5",
       "word": "yeast bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=eWVhc3QgYnJlYWQ&hash=4126148051e7998adfb2f957ebaab2ad254a1282&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "jist brɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=eWVhc3QgYnJlYWQ&hash=4126148051e7998adfb2f957ebaab2ad254a1282&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "yist bred",
       "img": "",
       "pronunciation": "jiːst bɹɛd",
       "senses": [
@@ -489,14 +562,15 @@
       ]
     },
     {
+      "id": "6c216db3-fe58-452d-9498-246e61051bfc",
       "word": "baked goods",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFrZWQgZ29vZHM&hash=7c137a441467dacd1fca0db3ec0097533939909f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "beɪkt gʊdz",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFrZWQgZ29vZHM&hash=7c137a441467dacd1fca0db3ec0097533939909f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "beikt goodz",
       "img": "https://cdn.langeek.co/photo/21420/original/?type=jpeg",
-      "pronunciation": "bˈeɪkt ɡˈʊdz",
+      "pronunciation": "beɪkt ɡʊdz",
       "senses": [
         {
           "definition": "food that is made by baking a batter or dough in an oven",
@@ -526,6 +600,7 @@
       ]
     },
     {
+      "id": "f931a5bc-8879-401d-ac87-e6fa12748bdf",
       "word": "bread",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJlYWQ&hash=887a28d2a7fa3a37ef4a658c95bc7c7bb24e1bac&lang=en&cache-only=0",
@@ -559,12 +634,13 @@
       ]
     },
     {
+      "id": "7c71f5cd-6d69-4edd-a482-bb5d7947a040",
       "word": "breadstick",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJlYWRzdGljaw&hash=5bf80809b11f589ef0dd62e2e8c9b9c271f4e2e0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "brɛd.stɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJlYWRzdGljaw&hash=5bf80809b11f589ef0dd62e2e8c9b9c271f4e2e0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bred.stik",
       "img": "https://cdn.langeek.co/photo/26345/original/bread-stick?type=jpeg",
       "pronunciation": "ˈbredˌstɪk",
       "senses": [

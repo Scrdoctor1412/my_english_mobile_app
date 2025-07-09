@@ -1,13 +1,15 @@
 {
+  "id": "f27d2532-1234-4e5a-a8ca-1a6e936158f0",
   "topic": "behavior_approach",
   "title": "Tact",
   "lesson": "lesson_2",
   "word_list": [
     {
-      "word": "[let] sleeping dogs lie",
+      "id": "8a0c69c8-d54e-4e79-af14-e51cb27f6de3",
+      "word": "to [let] sleeping dogs lie",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGV0IHNsZWVwaW5nIGRvZ3MgbGll&hash=f967a13f8dae84a551a54d64e0d161b5dc7dcafc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGV0IHNsZWVwaW5nIGRvZ3MgbGll&hash=f967a13f8dae84a551a54d64e0d161b5dc7dcafc&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45341/original/?type=jpeg",
@@ -15,24 +17,16 @@
       "senses": [
         {
           "definition": "to ignore a situation, topic, issue, etc. so as not to cause troubles or difficulties",
-          "examples": [
-            {
-              "cf": "",
-              "x": "How about letting sleeping dogs lie huh?"
-            },
-            {
-              "cf": "",
-              "x": "I thought about bringing up my concerns but decided instead to let sleeping dogs lie."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[run] with the hare and [hunt] with the hounds",
+      "id": "a3c8bd40-1f56-4f9f-a6dd-ead5d9550776",
+      "word": "to [run] with the hare and [hunt] with the hounds",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcnVuIHdpdGggdGhlIGhhcmUgYW5kIGh1bnQgd2l0aCB0aGUgaG91bmRz&hash=c4bcb68f565541c1fa5d5bdf88f5a7c8d4cf3c5b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcnVuIHdpdGggdGhlIGhhcmUgYW5kIGh1bnQgd2l0aCB0aGUgaG91bmRz&hash=c4bcb68f565541c1fa5d5bdf88f5a7c8d4cf3c5b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45477/original/?type=jpeg",
@@ -40,24 +34,16 @@
       "senses": [
         {
           "definition": "to simultaneously support two opposing parties, particularly to increase one's gain",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Come on, you can't run with the hare and hunt with the hounds—pick a side!"
-            },
-            {
-              "cf": "",
-              "x": "In our office politics, Sally always tries to run with the hare and hunt with the hounds, telling both the clerical workers and the management that she thinks they should prevail."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[save] the (day|situation)",
+      "id": "630ee706-c3d3-4522-b74d-cf99e02986c2",
+      "word": "to [save] the (day|situation)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2F2ZSB0aGUgZGF5&hash=3fd931a8cde8ccc70802e1ad76055e17dfe90791&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2F2ZSB0aGUgZGF5&hash=3fd931a8cde8ccc70802e1ad76055e17dfe90791&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45479/original/?type=jpeg",
@@ -91,10 +77,11 @@
       ]
     },
     {
+      "id": "09ce167a-7fcb-4d8c-86ac-2d0c2447dfb9",
       "word": "there is a method to {one's} madness",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlcmUgaXMgYSBtZXRob2QgdG8gb25lJ3MgbWFkbmVzcw&hash=ef46e77b9ee83382204544ea5e34ad8d8be2a857&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlcmUgaXMgYSBtZXRob2QgdG8gb25lJ3MgbWFkbmVzcw&hash=ef46e77b9ee83382204544ea5e34ad8d8be2a857&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42314/original/?type=jpeg",
@@ -102,31 +89,19 @@
       "senses": [
         {
           "definition": "used when there is good reasoning behind one's seemingly strange or crazy behavior",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I know you don't understand my motivation for this decision, but after the dust settles you'll see that there is a method to my madness."
-            },
-            {
-              "cf": "",
-              "x": "Now that he's started pushing these wild ideas, I sure hope there's a method to his madness—otherwise, he'll be a laughingstock."
-            },
-            {
-              "cf": "",
-              "x": "Her artistic process seems disorderly, but there's a method to her madness that results in compelling and unique artworks."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[treat|handle] {sb/sth} with kid gloves",
+      "id": "5928b742-a0b0-4bcc-960d-3151c9e424a0",
+      "word": "to [treat|handle] {sb/sth} with kid gloves",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdHJlYXQgc29tZWJvZHkgb3Igc29tZXRoaW5nIHdpdGgga2lkIGdsb3Zlcw&hash=6cf4ef5b0db3ad33f4f6c80d7cccdcf2ecbf6e8f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdHJlYXQgc29tZWJvZHkgb3Igc29tZXRoaW5nIHdpdGgga2lkIGdsb3Zlcw&hash=6cf4ef5b0db3ad33f4f6c80d7cccdcf2ecbf6e8f&lang=en&cache-only=0",
       "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/27307/original/?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/61308/original/?type=jpeg",
       "pronunciation": "tɹˈiːt hˈændəl ˌɛsbˈiː slˈæʃ ˌɛstˌiːˈeɪtʃ wɪð kˈɪd ɡlˈʌvz",
       "senses": [
         {
@@ -149,10 +124,11 @@
       ]
     },
     {
-      "word": "[play] {one's} cards right",
+      "id": "32777e8c-ea28-472a-b405-81452bb7a720",
+      "word": "to [play] {one's} cards right",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGxheSBvbmUncyBjYXJkcyByaWdodA&hash=5a60e23a82f7fb5736678bc8d551464d1cd2baa5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGxheSBvbmUncyBjYXJkcyByaWdodA&hash=5a60e23a82f7fb5736678bc8d551464d1cd2baa5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42534/original/?type=jpeg",
@@ -160,36 +136,16 @@
       "senses": [
         {
           "definition": "to make good use of the things that are at one's disposal so as to succeed or gain something",
-          "examples": [
-            {
-              "cf": "",
-              "x": "If you play your cards right, you could make quite a lot of money out of this."
-            },
-            {
-              "cf": "",
-              "x": "Soon, if she played her cards right, she would be head of the London office."
-            },
-            {
-              "cf": "",
-              "x": "what Jamie just did back there cannot be called luck, it's called playing your cards right."
-            },
-            {
-              "cf": "",
-              "x": "Sarah knew that if she played her cards right in the negotiation, she could secure a better deal."
-            },
-            {
-              "cf": "",
-              "x": "The CEO played his cards right by investing in new technology, which boosted the company's profits."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[know] better",
+      "id": "476f919f-7e4b-493e-a877-1e25868576d1",
+      "word": "to [know] better",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga25vdyBiZXR0ZXI&hash=15306d67ccea253303e9b9f8f3f2612ce1d92cb9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga25vdyBiZXR0ZXI&hash=15306d67ccea253303e9b9f8f3f2612ce1d92cb9&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42510/original/?type=jpeg",
@@ -197,36 +153,16 @@
       "senses": [
         {
           "definition": "to be wise enough to avoid certain behaviors or thoughts",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He knows better than to mess with a good customer."
-            },
-            {
-              "cf": "",
-              "x": "She knew better than to go sailing in stormy weather."
-            },
-            {
-              "cf": "",
-              "x": "Even though he was tempted to skip studying for the test, he knew better and chose to prepare diligently."
-            },
-            {
-              "cf": "",
-              "x": "I used to believe in get-rich-quick schemes, but now I know better and focus on long-term financial planning."
-            },
-            {
-              "cf": "",
-              "x": "The company's executives should have known better than to ignore customer complaints for so long."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[make] the best of a bad bargain",
+      "id": "b4a5ecbc-b52d-4bac-97cf-a8c278cf618f",
+      "word": "to [make] the best of a bad bargain",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZSB0aGUgYmVzdCBvZiBhIGJhZCBiYXJnYWlu&hash=52be0167201a089301423d0fce28ecf7fb33c9b3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFrZSB0aGUgYmVzdCBvZiBhIGJhZCBiYXJnYWlu&hash=52be0167201a089301423d0fce28ecf7fb33c9b3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45473/original/?type=jpeg",
@@ -234,32 +170,16 @@
       "senses": [
         {
           "definition": "to try to achieve the best outcome possible when dealing with a difficult or bad situation",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I know this data entry job isn't what you wanted for a career, but for the time being, try and make the best of a bad bargain."
-            },
-            {
-              "cf": "",
-              "x": "After the car broke down during the road trip, they had to make the best of a bad bargain by exploring the small town while waiting for repairs."
-            },
-            {
-              "cf": "",
-              "x": "Although the job wasn't what he had hoped for, he decided to make the best of a bad bargain and gain as much experience as possible."
-            },
-            {
-              "cf": "",
-              "x": "The restaurant served mediocre food, but they made the best of a bad bargain by enjoying each other's company."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[err] on the right side",
+      "id": "52eb03f4-14ce-4a1c-bbad-b71ce554b9eb",
+      "word": "to [err] on the right side",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZXJyIG9uIHRoZSByaWdodCBzaWRl&hash=978b2995d933ddffb7991bd4f2f9d0256b14af76&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZXJyIG9uIHRoZSByaWdodCBzaWRl&hash=978b2995d933ddffb7991bd4f2f9d0256b14af76&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45469/original/?type=jpeg",
@@ -293,10 +213,11 @@
       ]
     },
     {
-      "word": "{not} [bid] the devil good morrow (until|till) {sb} (actually|) [meet] (with|) him",
+      "id": "290887f7-5160-4af5-9635-4511439260c2",
+      "word": "to {not} [bid] the devil good morrow (until|till) {sb} (actually|) [meet] (with|) him",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbm90IGJpZCB0aGUgZGV2aWwgZ29vZCBtb3Jyb3cgdW50aWwgc29tZWJvZHkgYWN0dWFsbHkgbWVldCB3aXRoIGhpbQ&hash=370af258e7161b46fcad51f39c2ffcc00f783aba&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbm90IGJpZCB0aGUgZGV2aWwgZ29vZCBtb3Jyb3cgdW50aWwgc29tZWJvZHkgYWN0dWFsbHkgbWVldCB3aXRoIGhpbQ&hash=370af258e7161b46fcad51f39c2ffcc00f783aba&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/45475/original/?type=jpeg",
@@ -304,20 +225,16 @@
       "senses": [
         {
           "definition": "used to tell someone to avoid trouble as much as possible",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Just don't bid the devil good morrow till you meet him."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[go] through channels",
+      "id": "1a3f9e9e-1799-45ae-9d0f-449e565d7cdd",
+      "word": "to [go] through channels",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ28gdGhyb3VnaCBjaGFubmVscw&hash=f34d9fd9d747411471a954f3f378bf9be9169dcf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ28gdGhyb3VnaCBjaGFubmVscw&hash=f34d9fd9d747411471a954f3f378bf9be9169dcf&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43304/original/?type=jpeg",
@@ -325,16 +242,7 @@
       "senses": [
         {
           "definition": "to follow the accepted or correct path toward reaching one's goal or desired outcome",
-          "examples": [
-            {
-              "cf": "",
-              "x": "If you went through channels, then they have no reason to turn you away."
-            },
-            {
-              "cf": "",
-              "x": "You need to go through channels to get the job that is opening up at our company."
-            }
-          ]
+          "examples": []
         }
       ]
     }

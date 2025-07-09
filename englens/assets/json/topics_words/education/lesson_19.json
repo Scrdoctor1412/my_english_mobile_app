@@ -1,17 +1,19 @@
 {
+  "id": "9f507aa8-61fe-4af8-a17e-ea5a426aba85",
   "topic": "education",
   "title": "Formal and Natural Sciences",
   "lesson": "lesson_19",
   "word_list": [
     {
+      "id": "47d5974b-7b02-4877-bc2d-ce53d6a5b896",
       "word": "arithmetic",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJpdGhtZXRpYw&hash=387c3ff0ec9ac2b4649aa4aa1978a0f29b8fbee1&lang=en&cache-only=0",
-      "phonetic_text": "ɛrɪθmɛtɪk",
+      "phonetic_text": "ɛ.rɪθ.mɛ.tɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJpdGhtZXRpYw&hash=387c3ff0ec9ac2b4649aa4aa1978a0f29b8fbee1&lang=en&cache-only=0",
-      "phonetic_am_text": "erithmetik",
+      "phonetic_am_text": "e.rith.me.tik",
       "img": "https://cdn.langeek.co/photo/51406/original/?type=jpeg",
-      "pronunciation": "ˌɛɹɪθˈmɛtɪk/, /ɝˈɪθməˌtɪk",
+      "pronunciation": "əˈrɪθmətɪk",
       "senses": [
         {
           "definition": "a branch of mathematics that deals with addition, subtraction, multiplication, etc.",
@@ -20,13 +22,14 @@
       ]
     },
     {
+      "id": "81f945f3-58ae-4a50-ae80-b54f96eaee4e",
       "word": "mathematics",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWF0aGVtYXRpY3M&hash=607b5e7d1216f25f14b1e038b4d7a1c2c8391ba0&lang=en&cache-only=0",
-      "phonetic_text": "mæθəmætɪks",
+      "phonetic_text": "mæ.θə.mæ.tɪks",
       "phonetic_am": "https://tts.langeek.co/read?text=bWF0aGVtYXRpY3M&hash=607b5e7d1216f25f14b1e038b4d7a1c2c8391ba0&lang=en&cache-only=0",
-      "phonetic_am_text": "māthēmātiks",
-      "img": "https://cdn.langeek.co/photo/29302/original/mathematics?type=jpeg",
+      "phonetic_am_text": "mā.thē.mā.tiks",
+      "img": "https://cdn.langeek.co/photo/61230/original/mathematics?type=jpeg",
       "pronunciation": "ˌmæθəˈmætɪks",
       "senses": [
         {
@@ -36,282 +39,597 @@
       ]
     },
     {
+      "id": "f7eda14d-6044-43d5-b275-ae0ef0f43624",
       "word": "algebra",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWxnZWJyYQ&hash=936c19833e360464b9ffc227c38db6c3ac540cf9&lang=en&cache-only=0",
-      "phonetic_text": "ælʤəbrə",
+      "phonetic_text": "æl.ʤəb.rə",
       "phonetic_am": "https://tts.langeek.co/read?text=YWxnZWJyYQ&hash=936c19833e360464b9ffc227c38db6c3ac540cf9&lang=en&cache-only=0",
-      "phonetic_am_text": "āljēbrē",
+      "phonetic_am_text": "āl.jēb.rē",
       "img": "https://cdn.langeek.co/photo/29457/original/?type=jpeg",
-      "pronunciation": "ˈæɫdʒəbɹə",
+      "pronunciation": "ˈælʤɪbrə",
       "senses": [
         {
           "definition": "a branch of mathematics in which abstract letters and symbols represent numbers in order to generalize the arithmetic",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "In high school, students typically begin studying algebra to learn about equations and variables."
+            },
+            {
+              "cf": "",
+              "x": "She struggled with algebra at first but eventually mastered the concepts with extra practice."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "a5edd5e9-1f22-4564-9e67-8d7dff57a8c7",
       "word": "geometry",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2VvbWV0cnk&hash=d568fa028b2797e6dfb31502973793b78fb48768&lang=en&cache-only=0",
-      "phonetic_text": "ʤiɑ:mətri",
+      "phonetic_text": "ʤiɑ.mət.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2VvbWV0cnk&hash=d568fa028b2797e6dfb31502973793b78fb48768&lang=en&cache-only=0",
-      "phonetic_am_text": "jiaamētri",
+      "phonetic_am_text": "jiaa.mēt.ri",
       "img": "https://cdn.langeek.co/photo/37213/original/?type=jpeg",
       "pronunciation": "dʒiˈɑmətɹi",
       "senses": [
         {
           "definition": "the branch of mathematics that deals with the relation between the lines, angles and surfaces or the properties of the space",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She studied geometry to understand the principles of shapes and angles."
+            },
+            {
+              "cf": "",
+              "x": "Geometry is essential for designing buildings and bridges."
+            },
+            {
+              "cf": "",
+              "x": "He struggled with the geometry problems in his math homework."
+            },
+            {
+              "cf": "",
+              "x": "Learning geometry helps improve spatial reasoning skills."
+            },
+            {
+              "cf": "",
+              "x": "Ancient civilizations like the Greeks advanced the study of geometry."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b7ef3ac1-cbbc-4a3c-8aff-63a2e3fa47b1",
       "word": "calculus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FsY3VsdXM&hash=4da1b358eb6c1027ba1424058eaffcf42a059404&lang=en&cache-only=0",
-      "phonetic_text": "kælkjələs",
+      "phonetic_text": "kælk.jə.ləs",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FsY3VsdXM&hash=4da1b358eb6c1027ba1424058eaffcf42a059404&lang=en&cache-only=0",
-      "phonetic_am_text": "kālkyēlēs",
+      "phonetic_am_text": "kālk.yē.lēs",
       "img": "https://cdn.langeek.co/photo/32620/original/?type=jpeg",
       "pronunciation": "ˈkæɫkjəɫəs",
       "senses": [
         {
           "definition": "the branch of mathematics that comprises differentials and integrals",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Calculus is used to find the area under a curve."
+            },
+            {
+              "cf": "",
+              "x": "Students often study calculus to understand rates of change."
+            },
+            {
+              "cf": "",
+              "x": "Calculus helps in solving problems involving motion and growth."
+            },
+            {
+              "cf": "",
+              "x": "The integral in calculus helps calculate total quantities from rates."
+            },
+            {
+              "cf": "",
+              "x": "Differential equations are a key topic within calculus."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e0409b90-dcc3-4d83-93dc-dd918e4ec20c",
       "word": "statistics",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RhdGlzdGljcw&hash=91a5bbbd4932c0fb95726131cdab2dd751c26704&lang=en&cache-only=0",
-      "phonetic_text": "stətɪstɪks",
+      "phonetic_text": "stə.tɪs.tɪks",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RhdGlzdGljcw&hash=91a5bbbd4932c0fb95726131cdab2dd751c26704&lang=en&cache-only=0",
-      "phonetic_am_text": "stētistiks",
+      "phonetic_am_text": "stē.tis.tiks",
       "img": "",
       "pronunciation": "stəˈtɪstɪks",
       "senses": [
         {
           "definition": "a field of science that deals with numerical data collection or analysis",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The teacher taught us how to use statistics to analyze survey results."
+            },
+            {
+              "cf": "",
+              "x": "By studying statistics, we can predict the weather more accurately."
+            },
+            {
+              "cf": "",
+              "x": "Statistics help scientists understand the spread of diseases in different populations."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "d36c9860-574f-4c79-913d-832a05cb89cf",
       "word": "logic",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9naWM&hash=952f49432242b9953a50d4b1dd83fd97669d4634&lang=en&cache-only=0",
-      "phonetic_text": "lɑ:ʤɪk",
+      "phonetic_text": "lɑ.ʤɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9naWM&hash=952f49432242b9953a50d4b1dd83fd97669d4634&lang=en&cache-only=0",
-      "phonetic_am_text": "laajik",
+      "phonetic_am_text": "laa.jik",
       "img": "",
-      "pronunciation": "ˈɫɑdʒɪk",
+      "pronunciation": "ˈlɑʤɪk",
       "senses": [
         {
           "definition": "a field of study that deals with the ways of thinking, explaining, and reasoning",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Many universities offer courses in logic, teaching students how to construct and deconstruct arguments effectively."
+            },
+            {
+              "cf": "",
+              "x": "The ancient Greeks, especially Aristotle, made significant contributions to the field of logic."
+            },
+            {
+              "cf": "",
+              "x": "Some debate topics require a strong foundation in logic to ensure the arguments presented are coherent and valid."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "d3ed970c-4e41-481e-b7fb-f3e0e1c32efd",
       "word": "artificial intelligence",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2U&hash=358c4ce189007957d1fa6666084627cd87ed0ec7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑr.tə.fɪ.ʃəl ɪn.tɛ.lə.ʤəns",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2U&hash=358c4ce189007957d1fa6666084627cd87ed0ec7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aar.tē.fi.shēl in.te.lē.jēns",
       "img": "",
       "pronunciation": "ˌɑːɹɾɪfˈɪʃəl ɪntˈɛlɪdʒəns",
       "senses": [
         {
           "definition": "a field of science that deals with creating programs able to learn or copy human behavior",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "This chatbot is powered by advanced artificial intelligence."
+            },
+            {
+              "cf": "",
+              "x": "Artificial intelligence is transforming industries worldwide."
+            },
+            {
+              "cf": "",
+              "x": "Artificial intelligence has improved the accuracy of weather predictions."
+            },
+            {
+              "cf": "",
+              "x": "Many jobs now require knowledge of artificial intelligence tools."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "35756d89-6ff9-46ff-bf8d-8891885000f0",
       "word": "computer science",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29tcHV0ZXIgc2NpZW5jZQ&hash=23faa48bb9810221fb1afe541f2195195c5e2a35&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kəm.pju:.tər saɪəns",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tcHV0ZXIgc2NpZW5jZQ&hash=23faa48bb9810221fb1afe541f2195195c5e2a35&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kēm.pyoo.tēr saiēns",
       "img": "https://cdn.langeek.co/photo/19392/original/computer-science?type=jpeg",
-      "pronunciation": "kəmpjˈuːɾɚ sˈaɪəns",
+      "pronunciation": "kəmˈpjuːtɚ ˈsaɪəns",
       "senses": [
         {
           "definition": "the field of study that deals with computers and their uses",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He studied computer science to learn how to build his own website."
+            },
+            {
+              "cf": "",
+              "x": "Computer science has made a huge impact on developing artificial intelligence."
+            },
+            {
+              "cf": "",
+              "x": "Learning computer science allows you to create software and solve complex problems."
+            },
+            {
+              "cf": "",
+              "x": "Computer science is used to develop the programs that control self-driving cars."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1d026b37-2103-44cb-b49e-102935003f80",
       "word": "demography",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVtb2dyYXBoeQ&hash=058d156d67459244f6115f0760c50d7664e9f1e4&lang=en&cache-only=0",
-      "phonetic_text": "dɪmɑ:grəfi",
+      "phonetic_text": "dɪ.mɑg.rə.fi",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVtb2dyYXBoeQ&hash=058d156d67459244f6115f0760c50d7664e9f1e4&lang=en&cache-only=0",
-      "phonetic_am_text": "dimaagrēfi",
+      "phonetic_am_text": "di.maag.rē.fi",
       "img": "",
       "pronunciation": "dɪˈmɑɡɹəfi",
       "senses": [
         {
           "definition": "the statistical study of populations, including their size, distribution, composition, and changes over time due to factors such as birth, death, migration, and aging",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The field of demography encompasses a wide range of methods and theories used to study human populations and their dynamics."
+            },
+            {
+              "cf": "",
+              "x": "The demography of the city has been shifting rapidly due to increased immigration and urbanization."
+            },
+            {
+              "cf": "",
+              "x": "Changes in demography can have profound implications for healthcare, education, and social services."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "659cbbc1-d078-4298-aa22-3c65b32fbdea",
       "word": "biology",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmlvbG9neQ&hash=3112015b881b698d671f5fba13edf4db83aae687&lang=en&cache-only=0",
-      "phonetic_text": "baɪɑ:ləʤi",
+      "phonetic_text": "baɪɑ.lə.ʤi",
       "phonetic_am": "https://tts.langeek.co/read?text=YmlvbG9neQ&hash=3112015b881b698d671f5fba13edf4db83aae687&lang=en&cache-only=0",
-      "phonetic_am_text": "baiaalēji",
+      "phonetic_am_text": "baiaa.lē.ji",
       "img": "https://cdn.langeek.co/photo/50495/original/biology?type=jpeg",
       "pronunciation": "baɪˈɑɫədʒi",
       "senses": [
         {
           "definition": "the scientific study of living organisms; the science that studies living organisms",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She developed a keen interest in biology and decided to pursue a career in medicine."
+            },
+            {
+              "cf": "",
+              "x": "The biology textbook covered topics ranging from cell structure to ecosystem dynamics."
+            },
+            {
+              "cf": "",
+              "x": "His biology professor was renowned for research in genetic engineering."
+            },
+            {
+              "cf": "",
+              "x": "They spent the summer conducting biology experiments in the university lab."
+            },
+            {
+              "cf": "",
+              "x": "Understanding biology is crucial for addressing environmental and health-related challenges."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "5449b235-4138-48e4-98a2-708e2d175a9d",
       "word": "astronomy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXN0cm9ub215&hash=c9ed74a87289f8eeef28ce45e2ee37d819a56061&lang=en&cache-only=0",
-      "phonetic_text": "əstrɑ:nəmi",
+      "phonetic_text": "əst.rɑ.nə.mi",
       "phonetic_am": "https://tts.langeek.co/read?text=YXN0cm9ub215&hash=c9ed74a87289f8eeef28ce45e2ee37d819a56061&lang=en&cache-only=0",
-      "phonetic_am_text": "ēstraanēmi",
+      "phonetic_am_text": "ēst.raa.nē.mi",
       "img": "https://cdn.langeek.co/photo/31554/original/?type=jpeg",
       "pronunciation": "əˈstɹɑnəmi",
       "senses": [
         {
           "definition": "a branch of science that studies space, planets, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Advances in astronomy have led to the discovery of exoplanets orbiting other stars in our galaxy."
+            },
+            {
+              "cf": "",
+              "x": "Astronomy helps us understand the origins of the universe and the formation of celestial bodies."
+            },
+            {
+              "cf": "",
+              "x": "Historical records show how ancient civilizations used astronomy to develop calendars and navigate across oceans."
+            },
+            {
+              "cf": "",
+              "x": "The recent discovery of a black hole in a distant galaxy has provided new insights into the field of astronomy."
+            },
+            {
+              "cf": "",
+              "x": "The university offers a course in astronomy for students interested in space exploration."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e680d904-b766-43d8-aaae-820e25601280",
       "word": "oceanography",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b2NlYW5vZ3JhcGh5&hash=47dcb1001c31f51d69a109407f19c8ca616af3d2&lang=en&cache-only=0",
-      "phonetic_text": "oʊʃənɑ:grəfi",
+      "phonetic_text": "oʊ.ʃə.nɑg.rə.fi",
       "phonetic_am": "https://tts.langeek.co/read?text=b2NlYW5vZ3JhcGh5&hash=47dcb1001c31f51d69a109407f19c8ca616af3d2&lang=en&cache-only=0",
-      "phonetic_am_text": "owshēnaagrēfi",
+      "phonetic_am_text": "ooo.shē.naag.rē.fi",
       "img": "",
       "pronunciation": "ˌoʊʃəˈnɑɡɹəfi",
       "senses": [
         {
           "definition": "the scientific study of the oceans, including their physical, chemical, biological, and geological aspects",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Oceanography explores the vast and complex marine environment, encompassing everything from ocean currents to marine life."
+            },
+            {
+              "cf": "",
+              "x": "Researchers in oceanography investigate phenomena such as ocean circulation, marine ecosystems, and the effects of climate change on ocean health."
+            },
+            {
+              "cf": "",
+              "x": "The field of oceanography relies on advanced technology such as satellites, underwater drones, and remote sensing to gather data from the world's oceans."
+            },
+            {
+              "cf": "",
+              "x": "Oceanography plays a crucial role in understanding the Earth's climate system, as oceans act as a major heat reservoir and influence global weather patterns."
+            },
+            {
+              "cf": "",
+              "x": "Oceanography contributes to our understanding of marine resources, helping to manage fisheries and preserve marine biodiversity."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7f52c747-e863-40e1-82f3-5cbc29d23e55",
       "word": "climatology",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xpbWF0b2xvZ3k&hash=5f9160a2c95a171c3fc434b4dd00772e2efed4d7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "klaɪ.ma.tɑ:.lə.ʤi",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xpbWF0b2xvZ3k&hash=5f9160a2c95a171c3fc434b4dd00772e2efed4d7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "klai.ma.taa.lē.ji",
       "img": "",
       "pronunciation": "klˌaɪmɐtˈɑːlədʒi",
       "senses": [
         {
           "definition": "the scientific study of climates, including long-term patterns of temperature, humidity, wind, and other atmospheric conditions",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Climatology explores the average weather conditions in a region over extended periods."
+            },
+            {
+              "cf": "",
+              "x": "The field of climatology investigates the impact of human activities on global weather patterns."
+            },
+            {
+              "cf": "",
+              "x": "Understanding climatology is crucial for developing strategies to mitigate the effects of climate change."
+            },
+            {
+              "cf": "",
+              "x": "Agricultural planning relies on climatology to anticipate growing conditions and optimize crop yields."
+            },
+            {
+              "cf": "",
+              "x": "The study of climatology is essential for assessing the risk of natural disasters such as hurricanes and droughts."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b18ed097-c13d-42ca-9e00-e3f35536f302",
       "word": "meteorology",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWV0ZW9yb2xvZ3k&hash=267138662a23529c1fedb9f231f4981ca5d42786&lang=en&cache-only=0",
-      "phonetic_text": "mitiərɑ:ləʤi",
+      "phonetic_text": "mɛ.tə.o:.rɑ:.lə.ʤi",
       "phonetic_am": "https://tts.langeek.co/read?text=bWV0ZW9yb2xvZ3k&hash=267138662a23529c1fedb9f231f4981ca5d42786&lang=en&cache-only=0",
-      "phonetic_am_text": "mitiēraalēji",
+      "phonetic_am_text": "me.tē.o.raa.lē.ji",
       "img": "",
-      "pronunciation": "ˌmitiɝˈɑɫədʒi",
+      "pronunciation": "ˌmiːtiəˈrɑlədʒi",
       "senses": [
         {
           "definition": "a field of science that deals with the earth's atmosphere, particularly weather forecasting",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She decided to pursue a career in meteorology after developing a fascination with weather patterns and storm systems."
+            },
+            {
+              "cf": "",
+              "x": "Advances in meteorology have greatly improved the accuracy of weather forecasting over the past few decades."
+            },
+            {
+              "cf": "",
+              "x": "The professor of meteorology explained how atmospheric pressure changes can lead to different weather phenomena."
+            },
+            {
+              "cf": "",
+              "x": "Meteorology plays a crucial role in preparing for and responding to natural disasters like hurricanes and tornadoes."
+            },
+            {
+              "cf": "",
+              "x": "The National Weather Service employs experts in meteorology to provide daily weather forecasts and severe weather alerts."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "1fcf9817-199e-4470-a806-0decd731cd7c",
       "word": "chemistry",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hlbWlzdHJ5&hash=a20acb4d23a57f411f33c5ec0960756e9e473962&lang=en&cache-only=0",
-      "phonetic_text": "kɛməstri",
+      "phonetic_text": "kɛ.məst.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hlbWlzdHJ5&hash=a20acb4d23a57f411f33c5ec0960756e9e473962&lang=en&cache-only=0",
-      "phonetic_am_text": "kemēstri",
+      "phonetic_am_text": "ke.mēst.ri",
       "img": "https://cdn.langeek.co/photo/28898/original/chemistry?type=jpeg",
       "pronunciation": "ˈkɛməstɹi/, /ˈkɛmɪstɹi",
       "senses": [
         {
           "definition": "the branch of science that is concerned with studying the structure of substances and the way that they change or combine with each other",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She found the chemistry lesson on chemical reactions absolutely fascinating."
+            },
+            {
+              "cf": "",
+              "x": "Understanding the basics of chemistry is essential for many scientific careers."
+            },
+            {
+              "cf": "",
+              "x": "They conducted a chemistry experiment to observe how different elements react together."
+            },
+            {
+              "cf": "",
+              "x": "His passion for chemistry led him to pursue a degree in chemical engineering."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "9579a5d1-9ea4-49d8-8ff6-7771763d695a",
       "word": "physics",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGh5c2ljcw&hash=7f6a366ff22c76e23debf63d3c6275a156bbc305&lang=en&cache-only=0",
-      "phonetic_text": "fɪzɪks",
+      "phonetic_text": "fɪ.zɪks",
       "phonetic_am": "https://tts.langeek.co/read?text=cGh5c2ljcw&hash=7f6a366ff22c76e23debf63d3c6275a156bbc305&lang=en&cache-only=0",
-      "phonetic_am_text": "fiziks",
+      "phonetic_am_text": "fi.ziks",
       "img": "https://cdn.langeek.co/photo/29265/original/physics?type=jpeg",
       "pronunciation": "ˈfɪzɪks",
       "senses": [
         {
           "definition": "the scientific study of matter and energy and the relationships between them, including the study of natural forces such as light, heat, and movement",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She excelled in physics, particularly enjoying the lessons on electromagnetism and thermodynamics."
+            },
+            {
+              "cf": "",
+              "x": "Understanding physics is essential for careers in engineering and technology."
+            },
+            {
+              "cf": "",
+              "x": "They conducted a physics experiment to study the effects of gravity on different objects."
+            },
+            {
+              "cf": "",
+              "x": "His fascination with physics led him to pursue research in quantum mechanics."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e97d3676-7487-4119-8817-59116fee3bb5",
       "word": "geology",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2VvbG9neQ&hash=cda886a2c105734676f9deec152646001de60148&lang=en&cache-only=0",
-      "phonetic_text": "ʤiɑ:ləʤi",
+      "phonetic_text": "ʤiɑ.lə.ʤi",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2VvbG9neQ&hash=cda886a2c105734676f9deec152646001de60148&lang=en&cache-only=0",
-      "phonetic_am_text": "jiaalēji",
+      "phonetic_am_text": "jiaa.lē.ji",
       "img": "https://cdn.langeek.co/photo/31526/original/?type=jpeg",
-      "pronunciation": "dʒiˈɑɫədʒi",
+      "pronunciation": "ʤiˈɑlədʒi",
       "senses": [
         {
           "definition": "a field of science that studies the structure of the earth and its history",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "Geology explains why mountain ranges exist and how they formed over millions of years."
+            },
+            {
+              "cf": "",
+              "x": "Understanding the principles of geology helps predict earthquakes and volcanic eruptions."
+            },
+            {
+              "cf": "",
+              "x": "Studying geology reveals the history of our planet, from the formation of continents to the evolution of life."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "68b35e29-d515-4684-8c11-2d4000643a6e",
       "word": "zoology",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=em9vbG9neQ&hash=8791a25b50c1c3987f3e0d66dc5ee2a514265f34&lang=en&cache-only=0",
-      "phonetic_text": "zoʊɑ:ləʤi",
+      "phonetic_text": "zoʊɑ.lə.ʤi",
       "phonetic_am": "https://tts.langeek.co/read?text=em9vbG9neQ&hash=8791a25b50c1c3987f3e0d66dc5ee2a514265f34&lang=en&cache-only=0",
-      "phonetic_am_text": "zowaalēji",
+      "phonetic_am_text": "zoooaa.lē.ji",
       "img": "https://cdn.langeek.co/photo/29501/original/?type=jpeg",
-      "pronunciation": "zoʊˈɑɫədʒi",
+      "pronunciation": "zoʊˈɑlədʒi",
       "senses": [
         {
           "definition": "a branch of science that deals with animals",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She decided to major in zoology because of her fascination with animal behavior."
+            },
+            {
+              "cf": "",
+              "x": "The zoology department at the university conducts research on a wide range of animal species."
+            },
+            {
+              "cf": "",
+              "x": "He spent his summers interning at a zoo to gain hands-on experience in zoology."
+            },
+            {
+              "cf": "",
+              "x": "The study of zoology involves learning about the diversity of animal life on Earth."
+            },
+            {
+              "cf": "",
+              "x": "Zoology is a multidisciplinary field that intersects with ecology, genetics, and evolutionary biology."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "04a10aee-37da-4365-b4e0-98bda7c96150",
       "word": "Earth science",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RWFydGggc2NpZW5jZQ&hash=b4064ed093d7038b76d544a4eed569cdf7b5acfa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RWFydGggc2NpZW5jZQ&hash=b4064ed093d7038b76d544a4eed569cdf7b5acfa&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -319,7 +637,20 @@
       "senses": [
         {
           "definition": "the study of the Earth and its processes, including geology, meteorology, oceanography, and astronomy",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The Earth science curriculum covers topics such as plate tectonics, weather patterns, and celestial phenomena."
+            },
+            {
+              "cf": "",
+              "x": "Researchers in Earth science investigate natural hazards such as earthquakes, hurricanes, and volcanic eruptions to better understand their causes and impacts."
+            },
+            {
+              "cf": "",
+              "x": "The field of Earth science provides valuable insights into environmental issues such as climate change, pollution, and habitat loss."
+            }
+          ]
         }
       ]
     }

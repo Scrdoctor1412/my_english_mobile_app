@@ -1,13 +1,15 @@
 {
+  "id": "8bfdd907-72cb-446e-89d0-a425b04c8a65",
   "topic": "truth_secrecy_deception",
   "title": "Lying & Exaggeration",
   "lesson": "lesson_3",
   "word_list": [
     {
-      "word": "[be] full of (shit|crap)",
+      "id": "4c05a004-15dc-4ad5-ac77-7515d6ad4308",
+      "word": "to [be] full of (shit|crap)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgZnVsbCBvZiBzaGl0&hash=017fb81bfefc137fb3d17eb13e8a128db4151861&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgZnVsbCBvZiBzaGl0&hash=017fb81bfefc137fb3d17eb13e8a128db4151861&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -15,20 +17,16 @@
       "senses": [
         {
           "definition": "(of a person) to be perceived as being dishonest or deceptive",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She said her dog ate her homework again; that's just being full of shit."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[be] full of it",
+      "id": "ffebc289-226a-4976-a228-de1ecfc18f21",
+      "word": "to [be] full of it",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgZnVsbCBvZiBpdA&hash=95a9a512dc5dacf96816cdba8eec7791715db524&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgZnVsbCBvZiBpdA&hash=95a9a512dc5dacf96816cdba8eec7791715db524&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -54,10 +52,11 @@
       ]
     },
     {
+      "id": "24a56361-a74c-499c-8cf4-47f504b26dec",
       "word": "pack of lies",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=cGFjayBvZiBsaWVz&hash=825ad2b0e3c77a930e5cfdba74899f6965e23ec0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cGFjayBvZiBsaWVz&hash=825ad2b0e3c77a930e5cfdba74899f6965e23ec0&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -91,12 +90,13 @@
       ]
     },
     {
+      "id": "53b3ae4c-4c83-4644-afea-7bf96214e6ed",
       "word": "tall tale",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFsbCB0YWxl&hash=26201288d2ef25d2386bd618bdab943f4bec8099&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tɔ:l teɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFsbCB0YWxl&hash=26201288d2ef25d2386bd618bdab943f4bec8099&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tawl teil",
       "img": "",
       "pronunciation": "tˈɔːl tˈeɪl",
       "senses": [
@@ -112,10 +112,11 @@
       ]
     },
     {
-      "word": "[talk] through the back of {one's} neck",
+      "id": "5133dde3-4196-407a-b2ee-8c8183e48976",
+      "word": "to [talk] through the back of {one's} neck",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFsayB0aHJvdWdoIHRoZSBiYWNrIG9mIG9uZSdzIG5lY2s&hash=b0b493dd47a3ff2ee2319413468c5ebdde8e63b5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGFsayB0aHJvdWdoIHRoZSBiYWNrIG9mIG9uZSdzIG5lY2s&hash=b0b493dd47a3ff2ee2319413468c5ebdde8e63b5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -123,38 +124,18 @@
       "senses": [
         {
           "definition": "to exaggerate a lot about something",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The politician's speech was filled with empty promises and nonsensical statements; it was as if he was talking through the back of his neck."
-            },
-            {
-              "cf": "",
-              "x": "Don't pay attention to him; he's just talking through the back of his neck, making up stories to sound important."
-            },
-            {
-              "cf": "",
-              "x": "The conspiracy theorist went on for hours, talking through the back of his neck about outlandish theories with no evidence to support them."
-            },
-            {
-              "cf": "",
-              "x": "The self-proclaimed expert had no real knowledge on the subject and was simply talking through the back of his neck, attempting to appear knowledgeable."
-            },
-            {
-              "cf": "",
-              "x": "She was so nervous during the presentation that she started talking through the back of her neck, stumbling over her words and making little sense."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "3eb4796b-864a-4b96-89c2-58d2eff14cf5",
       "word": "white lie",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2hpdGUgbGll&hash=5473fd16f2b005d9efe541015638434dca5d40ef&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "waɪt laɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=d2hpdGUgbGll&hash=5473fd16f2b005d9efe541015638434dca5d40ef&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vait lai",
       "img": "",
       "pronunciation": "wˈaɪt lˈaɪ",
       "senses": [
@@ -186,10 +167,11 @@
       ]
     },
     {
-      "word": "[put] on the dog",
+      "id": "e34ba68b-579a-4d05-8232-963ddaea9b78",
+      "word": "to [put] on the dog",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IG9uIHRoZSBkb2c&hash=81c2e5e2bab69df4f839db31a63f3d95c1767e79&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IG9uIHRoZSBkb2c&hash=81c2e5e2bab69df4f839db31a63f3d95c1767e79&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -202,10 +184,11 @@
       ]
     },
     {
-      "word": "[toot|blow] {one's} (own|) horn",
+      "id": "d7890e85-9f01-4d62-a040-d6c4bdf2a9e3",
+      "word": "to [toot|blow] {one's} (own|) horn",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdG9vdCBvbmUncyBvd24gaG9ybg&hash=8f6c62f371f72496c4540d4cb8ca07a0e8844c9c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdG9vdCBvbmUncyBvd24gaG9ybg&hash=8f6c62f371f72496c4540d4cb8ca07a0e8844c9c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/19282/original/selfish?type=jpeg",
@@ -235,10 +218,11 @@
       ]
     },
     {
-      "word": "[shoot] a line about {sth}",
+      "id": "a598bd33-b3a3-4a6d-aeb6-3744ed5a2d19",
+      "word": "to [shoot] a line about {sth}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2hvb3QgYSBsaW5lIGFib3V0IHNvbWV0aGluZw&hash=8f0a22fa0b85507eea8112d3f13d93804299eb07&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2hvb3QgYSBsaW5lIGFib3V0IHNvbWV0aGluZw&hash=8f0a22fa0b85507eea8112d3f13d93804299eb07&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -272,10 +256,11 @@
       ]
     },
     {
-      "word": "[spin] a (tale|story|yarn)",
+      "id": "67443689-0a33-4c3e-8a3e-e7bdb0b88369",
+      "word": "to [spin] a (tale|story|yarn)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3BpbiBhIHRhbGU&hash=1ac82527aa5b2b2232139c6aff3432bc3e6a57a5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3BpbiBhIHRhbGU&hash=1ac82527aa5b2b2232139c6aff3432bc3e6a57a5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -297,10 +282,11 @@
       ]
     },
     {
-      "word": "[lie] like a (cheap|) rug",
+      "id": "c5885d63-2734-47ce-89e1-534fae73fc46",
+      "word": "to [lie] like a (cheap|) rug",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGllIGxpa2UgYSBjaGVhcCBydWc&hash=aa0934b62d60aa10a8acc26b1f9cacdefeb65b63&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGllIGxpa2UgYSBjaGVhcCBydWc&hash=aa0934b62d60aa10a8acc26b1f9cacdefeb65b63&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -308,36 +294,16 @@
       "senses": [
         {
           "definition": "to tell lies in an obvious way",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He lied like a cheap rug when confronted about his involvement in the scandal, denying any knowledge despite clear evidence against him."
-            },
-            {
-              "cf": "",
-              "x": "The used car salesman was known to lie like a rug, making false claims about the condition and history of the vehicles he sold."
-            },
-            {
-              "cf": "",
-              "x": "She lied like a rug during the job interview, embellishing her qualifications and experience to secure the position."
-            },
-            {
-              "cf": "",
-              "x": "The suspect lied like a cheap rug to the police, providing a detailed alibi that later proved to be completely fabricated."
-            },
-            {
-              "cf": "",
-              "x": "Don't trust him; he can lie like a rug without flinching, making it difficult to discern fact from fiction in his stories."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[lie] through {one's} teeth",
+      "id": "9c03f037-a13e-493a-8931-7c3bbc16183a",
+      "word": "to [lie] through {one's} teeth",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGllIHRocm91Z2ggb25lJ3MgdGVldGg&hash=1e5db4a028243aa6e7d7a25f5af7cc1f71d29e66&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGllIHRocm91Z2ggb25lJ3MgdGVldGg&hash=1e5db4a028243aa6e7d7a25f5af7cc1f71d29e66&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/55150/original/?type=jpeg",
@@ -345,38 +311,18 @@
       "senses": [
         {
           "definition": "to tell something that involves no truth",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He lied through his teeth when confronted about his whereabouts, claiming to have been at home when he was actually out partying."
-            },
-            {
-              "cf": "",
-              "x": "The politician lied through her teeth during the debate, making false promises and distorting facts to gain public support."
-            },
-            {
-              "cf": "",
-              "x": "Despite the evidence against him, the defendant lied through his teeth in court, denying any involvement in the crime."
-            },
-            {
-              "cf": "",
-              "x": "She lied through her teeth to her parents about her grades, fabricating a story of high academic achievement."
-            },
-            {
-              "cf": "",
-              "x": "The used car salesman lied through his teeth about the vehicle's condition, concealing its faults and defects to make a sale."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "c8a5b7ca-bfbb-4a49-b05d-f0d60e99f678",
       "word": "hot air",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aG90IGFpcg&hash=80c3840a0c44ab2eb7222c11a3e93162dc756851&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hɑ:t ɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=aG90IGFpcg&hash=80c3840a0c44ab2eb7222c11a3e93162dc756851&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "haat er",
       "img": "",
       "pronunciation": "hˈɑːt ˈɛɹ",
       "senses": [
@@ -408,10 +354,11 @@
       ]
     },
     {
-      "word": "[blow] smoke up {one's} [ass]",
+      "id": "103030f1-a93f-4280-bcac-69990680e6d0",
+      "word": "to [blow] smoke up {one's} [ass]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmxvdyBzbW9rZSB1cCBvbmUncyBhc3M&hash=83d29b81fefeb252b9b492b1d972d50beb71d27a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmxvdyBzbW9rZSB1cCBvbmUncyBhc3M&hash=83d29b81fefeb252b9b492b1d972d50beb71d27a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -445,10 +392,11 @@
       ]
     },
     {
+      "id": "93010b61-db6c-46a3-8d42-0c5d00ccdaf7",
       "word": "full of beans",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZnVsbCBvZiBiZWFucw&hash=97ef26df726b98931a9787b0df1c47a58146ff93&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZnVsbCBvZiBiZWFucw&hash=97ef26df726b98931a9787b0df1c47a58146ff93&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -482,47 +430,28 @@
       ]
     },
     {
+      "id": "22083f1a-6cd4-45a2-80ec-85f6c49f6dcb",
       "word": "economical with the truth",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZWNvbm9taWNhbCB3aXRoIHRoZSB0cnV0aA&hash=50317d0f3e07f6ff9ee394ebd2150a2a0dc7bf48&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛ.kə.nɑ.mɪ.kəl wɪð ðə truθ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWNvbm9taWNhbCB3aXRoIHRoZSB0cnV0aA&hash=50317d0f3e07f6ff9ee394ebd2150a2a0dc7bf48&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "e.kē.naa.mi.kēl vidh dhē trooth",
       "img": "",
       "pronunciation": "ˌiːkənˈɑːmɪkəl wɪððə tɹˈuːθ",
       "senses": [
         {
           "definition": "telling only part of the truth or being vague in speech",
-          "examples": [
-            {
-              "cf": "",
-              "x": "She suspected her friend was being economical with the truth when he offered a vague explanation for his sudden change in behavior, leaving out important details."
-            },
-            {
-              "cf": "",
-              "x": "The journalist exposed the CEO's tendency to be economical with the truth by uncovering hidden financial transactions that contradicted the company's public statements."
-            },
-            {
-              "cf": "",
-              "x": "The witness's testimony was deemed unreliable as he appeared to be economical with the truth, providing vague and evasive answers during cross-examination."
-            },
-            {
-              "cf": "",
-              "x": "The company's spokesperson was criticized for being economical with the truth by downplaying the severity of the environmental impact caused by their operations."
-            },
-            {
-              "cf": "",
-              "x": "The politician was accused of being economical with the truth when he conveniently omitted his ties to a controversial organization during his campaign speech."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[live] a lie",
+      "id": "08ad24e0-4c9d-4502-946c-50300e3fdd5e",
+      "word": "to [live] a lie",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGl2ZSBhIGxpZQ&hash=f271f43c15447932eb278b3ccd6efee36f3b921c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGl2ZSBhIGxpZQ&hash=f271f43c15447932eb278b3ccd6efee36f3b921c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -530,36 +459,16 @@
       "senses": [
         {
           "definition": "to have a life that is built on lies and deception",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Despite being unhappy in their marriage, she chose to live a lie and pretended everything was perfect to avoid societal judgment."
-            },
-            {
-              "cf": "",
-              "x": "He realized he had been living a lie by pursuing a career that society expected of him, rather than following his true passion."
-            },
-            {
-              "cf": "",
-              "x": "The celebrity's public persona depicted a glamorous lifestyle, but behind the scenes, they were living a lie, battling personal struggles."
-            },
-            {
-              "cf": "",
-              "x": "She couldn't continue living a lie and decided to come out to her family and friends about her true sexual orientation."
-            },
-            {
-              "cf": "",
-              "x": "The protagonist in the novel was tired of living a lie, so they took a leap of faith and embraced their true identity, regardless of societal expectations."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[lie] {one's} way (into|in|) {sth|}",
+      "id": "c61cfc1b-d4ab-4434-bcd4-7b446493853a",
+      "word": "to [lie] {one's} way (into|in|) {sth|}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbGllIG9uZSdzIHdheSBpbnRvIHN0aA&hash=e0daca1cf264a980cc19562d1609bd7be4f8e050&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbGllIG9uZSdzIHdheSBpbnRvIHN0aA&hash=e0daca1cf264a980cc19562d1609bd7be4f8e050&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -577,10 +486,11 @@
       ]
     },
     {
-      "word": "[over-egg] the pudding",
+      "id": "c59af5d5-d552-4fa2-82c9-f1f28ff0a515",
+      "word": "to [over-egg] the pudding",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gb3Zlci1lZ2cgdGhlIHB1ZGRpbmc&hash=bba72ad600012b49c6dec5deae9f601d66e8cb63&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gb3Zlci1lZ2cgdGhlIHB1ZGRpbmc&hash=bba72ad600012b49c6dec5deae9f601d66e8cb63&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

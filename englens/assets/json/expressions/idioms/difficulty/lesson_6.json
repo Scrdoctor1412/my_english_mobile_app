@@ -1,13 +1,15 @@
 {
+  "id": "e952d31d-9c62-42dd-b0de-85767e085b6f",
   "topic": "difficulty",
   "title": "Facing Unpleasantness",
   "lesson": "lesson_6",
   "word_list": [
     {
+      "id": "cd26208a-d9c0-4741-9b4d-40425633ef9e",
       "word": "yoke around {one’s} neck",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=eW9rZSBhcm91bmQgb25l4oCZcyBuZWNr&hash=667b4ba12b15c8864265356bdbfbd5afbbe412eb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=eW9rZSBhcm91bmQgb25l4oCZcyBuZWNr&hash=667b4ba12b15c8864265356bdbfbd5afbbe412eb&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46533/original/?type=jpeg",
@@ -20,10 +22,11 @@
       ]
     },
     {
-      "word": "[bat|be] on a sticky wicket",
+      "id": "e503a847-85cd-4787-9f83-e7a797134910",
+      "word": "to [bat|be] on a sticky wicket",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmF0IG9uIGEgc3RpY2t5IHdpY2tldA&hash=2c7a9c9e6a62751f27fbc7501994e9077539fd3f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmF0IG9uIGEgc3RpY2t5IHdpY2tldA&hash=2c7a9c9e6a62751f27fbc7501994e9077539fd3f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42066/original/?type=jpeg",
@@ -31,28 +34,16 @@
       "senses": [
         {
           "definition": "to be dealing with a critical or extremely difficult situation",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I knew I was batting on a sticky wicket when the boss saw me kissing his daughter at the cinema."
-            },
-            {
-              "cf": "",
-              "x": "Trying to navigate the complex world of international trade, the negotiators were on a sticky wicket."
-            },
-            {
-              "cf": "",
-              "x": "In the competitive job market, finding a position that matches your qualifications can be like batting on a sticky wicket."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[be] in for",
+      "id": "6898dac4-704b-4fbd-9776-53c527cda8d6",
+      "word": "to [be] in for",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgaW4gZm9y&hash=5b5f505de6ab241f32d2060f64c6de914dddba7f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgaW4gZm9y&hash=5b5f505de6ab241f32d2060f64c6de914dddba7f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46523/original/?type=jpeg",
@@ -86,10 +77,11 @@
       ]
     },
     {
-      "word": "[batten] down the hatches",
+      "id": "f3dab6dc-bcc2-48fd-91a1-4fb75d7f5bdc",
+      "word": "to [batten] down the hatches",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmF0dGVuIGRvd24gdGhlIGhhdGNoZXM&hash=d1e3825e73fd545db2bb76ccda9b8753901cc1fd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmF0dGVuIGRvd24gdGhlIGhhdGNoZXM&hash=d1e3825e73fd545db2bb76ccda9b8753901cc1fd&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46521/original/?type=jpeg",
@@ -123,47 +115,28 @@
       ]
     },
     {
+      "id": "0979c56d-8bd2-47a3-aea6-877e3a88cf9f",
       "word": "be a man",
       "pos": "interjection",
       "phonetic": "https://tts.langeek.co/read?text=YmUgYSBtYW4&hash=2c537c8d55bff5f10f1053772c82fbbae98d7d2e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bi: ə mæn",
       "phonetic_am": "https://tts.langeek.co/read?text=YmUgYSBtYW4&hash=2c537c8d55bff5f10f1053772c82fbbae98d7d2e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bi ē mān",
       "img": "",
       "pronunciation": "biː ɐ mˈæn",
       "senses": [
         {
           "definition": "said to man as a way of asking them to behave less emotional, more though, or more responsible in face of difficulties",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Stop crying over losing your cat and be a man already!"
-            },
-            {
-              "cf": "",
-              "x": "You need to be a man and accept the punishment coming to you."
-            },
-            {
-              "cf": "",
-              "x": "When he hesitated to confront the issue, his friends told him to be a man and address the problem."
-            },
-            {
-              "cf": "",
-              "x": "In the face of adversity, his father encouraged him to be a man and confront his fears."
-            },
-            {
-              "cf": "",
-              "x": "When she was tempted to give up, her coach urged her to be a man and finish the race."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[catch] a Tartar",
+      "id": "72415e68-516f-48da-b1ba-5367211fe64d",
+      "word": "to [catch] a Tartar",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2F0Y2ggYSBUYXJ0YXI&hash=404106636b2cbece70050d44acf7d6c87a9e17b7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2F0Y2ggYSBUYXJ0YXI&hash=404106636b2cbece70050d44acf7d6c87a9e17b7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43128/original/?type=jpeg",
@@ -193,10 +166,11 @@
       ]
     },
     {
+      "id": "eadb572f-f8af-4750-83c6-380bb578b79c",
       "word": "dog's life",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZG9nJ3MgbGlmZQ&hash=c664512c5535e9dc300e58e1b61a174a50cfaa89&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG9nJ3MgbGlmZQ&hash=c664512c5535e9dc300e58e1b61a174a50cfaa89&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46585/original/?type=jpeg",
@@ -204,36 +178,16 @@
       "senses": [
         {
           "definition": "a miserable life filled with difficulties and misfortune",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Working two jobs and barely having time for oneself can feel like living a dog's life."
-            },
-            {
-              "cf": "",
-              "x": "Growing up in poverty, he experienced a dog's life, struggling for basic necessities."
-            },
-            {
-              "cf": "",
-              "x": "Taking care of her ailing parents and her own family made her feel like she was living a dog's life."
-            },
-            {
-              "cf": "",
-              "x": "During the peak of the recession, many people were forced to live a dog's life, trying to make ends meet."
-            },
-            {
-              "cf": "",
-              "x": "The relentless demands of her high-stress job sometimes made her feel as if she had a dog's life."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[go] through hell",
+      "id": "dc8ed1da-a5b0-4ad0-9c25-a6476b4676fa",
+      "word": "to [go] through hell",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ28gdGhyb3VnaCBoZWxs&hash=1a59858abb0693b41518e76e5e4046f781a8fca4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ28gdGhyb3VnaCBoZWxs&hash=1a59858abb0693b41518e76e5e4046f781a8fca4&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43020/original/?type=jpeg",
@@ -241,38 +195,18 @@
       "senses": [
         {
           "definition": "to experience something that is extremely painful or difficult, particularly for a long time",
-          "examples": [
-            {
-              "cf": "",
-              "x": "During the war, the soldiers went through hell, facing constant danger and hardship."
-            },
-            {
-              "cf": "",
-              "x": "\"After the loss of her loved one, she felt like she was going through hell, struggling with grief and sadness."
-            },
-            {
-              "cf": "",
-              "x": "The athlete trained rigorously for the competition, going through hell to achieve peak performance."
-            },
-            {
-              "cf": "",
-              "x": "Many families went through hell during the economic recession, facing unemployment and financial struggles."
-            },
-            {
-              "cf": "",
-              "x": "He had to go through hell to overcome his addiction and rebuild his life."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "c9dc03c2-c899-47b7-8177-5da4274272e5",
       "word": "in deep water",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aW4gZGVlcCB3YXRlcg&hash=3a43a561f2acc47dbef326ebe48c6f6da0850805&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn dip wɑ:.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gZGVlcCB3YXRlcg&hash=3a43a561f2acc47dbef326ebe48c6f6da0850805&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in dip vaa.tēr",
       "img": "https://cdn.langeek.co/photo/20213/original/miserable?type=jpeg",
       "pronunciation": "ɪn dˈiːp wˈɔːɾɚ",
       "senses": [
@@ -300,84 +234,45 @@
       ]
     },
     {
+      "id": "0adb2805-677f-4238-96c6-1da9b9327247",
       "word": "pretty pass",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJldHR5IHBhc3M&hash=fb33f37989f0a00869d217eebc54a930bac73481&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "prɪ.ti pæs",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJldHR5IHBhc3M&hash=fb33f37989f0a00869d217eebc54a930bac73481&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pri.ti pās",
       "img": "https://cdn.langeek.co/photo/17559/original/unpleasant?type=jpeg",
       "pronunciation": "pɹˈɪɾi pˈæs",
       "senses": [
         {
           "definition": "a situation or state that is very undesirable or difficult",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The sudden downpour during the picnic made for a pretty pass, with everyone scrambling for cover."
-            },
-            {
-              "cf": "",
-              "x": "After a series of unfortunate events, the project was in a pretty pass, and the team had to work hard to get back on track."
-            },
-            {
-              "cf": "",
-              "x": "Discovering the extent of the financial mismanagement put the organization in a pretty pass, necessitating immediate action."
-            },
-            {
-              "cf": "",
-              "x": "The city's traffic congestion had reached a pretty pass, causing daily delays for commuters."
-            },
-            {
-              "cf": "",
-              "x": "The family's disagreement over the inheritance had led to a pretty pass, straining their relationships."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "9bbe71c1-a04f-47d4-acb3-a1f9145b48b9",
       "word": "the weight of the world",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIHdlaWdodCBvZiB0aGUgd29ybGQ&hash=58f0f44c3a6a6922daf346944b3c3fc635001212&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ðə weɪt ʌv ðə wɜrld",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIHdlaWdodCBvZiB0aGUgd29ybGQ&hash=58f0f44c3a6a6922daf346944b3c3fc635001212&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dhē veit av dhē vērld",
       "img": "https://cdn.langeek.co/photo/42872/original/?type=jpeg",
       "pronunciation": "ðə wˈeɪt ʌvðə wˈɜːld",
       "senses": [
         {
           "definition": "a worrisome or difficult responsibility or undertaking that is a burden to one",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After his promotion, he felt the weight of the world on his shoulders as he assumed greater responsibilities at work."
-            },
-            {
-              "cf": "",
-              "x": "When dealing with her family's financial troubles, she often felt like she was carrying the weight of the world."
-            },
-            {
-              "cf": "",
-              "x": "The mayor faced a crisis that made it seem as if he had the weight of the world on his shoulders."
-            },
-            {
-              "cf": "",
-              "x": "The young activist took on environmental causes and felt the weight of the world in her mission to make a difference."
-            },
-            {
-              "cf": "",
-              "x": "Coping with the illness of a loved one can make one feel as if they have the weight of the world on their shoulders."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[put] years on {sb}",
+      "id": "5e440228-6df5-467b-abeb-3a0dcc6b291a",
+      "word": "to [put] years on {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcHV0IHllYXJzIG9uIHNvbWVib2R5&hash=81a1d347dc8407b13ab0765d1f8dcd6fd5dd614b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcHV0IHllYXJzIG9uIHNvbWVib2R5&hash=81a1d347dc8407b13ab0765d1f8dcd6fd5dd614b&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/44182/original/?type=jpeg",
@@ -407,10 +302,11 @@
       ]
     },
     {
-      "word": "[rear|raise] its (ugly|) head",
+      "id": "10732013-f0ea-4454-a890-ac5716661808",
+      "word": "to [rear|raise] its (ugly|) head",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVhciBpdHMgdWdseSBoZWFk&hash=0e8806d5aaed045883adfd8dfea3e095c8fc8706&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVhciBpdHMgdWdseSBoZWFk&hash=0e8806d5aaed045883adfd8dfea3e095c8fc8706&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/46625/original/?type=jpeg",
@@ -444,12 +340,13 @@
       ]
     },
     {
+      "id": "d43ae17d-7b0c-4dcb-a58f-557b79925ddd",
       "word": "high and dry",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aGlnaCBhbmQgZHJ5&hash=f76e90389980727fe2bbe3deea264977975f9022&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "haɪ ænd draɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=aGlnaCBhbmQgZHJ5&hash=f76e90389980727fe2bbe3deea264977975f9022&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hai ānd drai",
       "img": "https://cdn.langeek.co/photo/40795/original/?type=jpeg",
       "pronunciation": "hˈaɪ ænd dɹˈaɪ",
       "senses": [
@@ -481,12 +378,13 @@
       ]
     },
     {
+      "id": "3df0f7a3-6bbc-465e-b781-31c596a3728a",
       "word": "in the eye of the storm",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aW4gdGhlIGV5ZSBvZiB0aGUgc3Rvcm0&hash=421b01dff25b9b06011d6cd2bbe0654212e6be9d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn ðə aɪ ʌv ðə stɔrm",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gdGhlIGV5ZSBvZiB0aGUgc3Rvcm0&hash=421b01dff25b9b06011d6cd2bbe0654212e6be9d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in dhē ai av dhē stawrm",
       "img": "https://cdn.langeek.co/photo/42112/original/?type=jpeg",
       "pronunciation": "ɪnðɪ ˈaɪ ʌvðə stˈoːɹm",
       "senses": [
@@ -510,10 +408,11 @@
       ]
     },
     {
+      "id": "4e9393c2-251d-4e7b-8688-add193f5976b",
       "word": "the party [is] over",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dGhlIHBhcnR5IGlzIG92ZXI&hash=4f6cadb0b45901619bfaf388730051ab154e4333&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dGhlIHBhcnR5IGlzIG92ZXI&hash=4f6cadb0b45901619bfaf388730051ab154e4333&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42128/original/?type=jpeg",
@@ -526,60 +425,45 @@
       ]
     },
     {
+      "id": "b3d27fe5-ae41-4a46-be57-c937c38eb172",
       "word": "bad hair day",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YmFkIGhhaXIgZGF5&hash=d6b04a7200a9b84fa75af76f54fcb4076abd2351&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæd hɛr deɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFkIGhhaXIgZGF5&hash=d6b04a7200a9b84fa75af76f54fcb4076abd2351&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bād her dei",
       "img": "",
       "pronunciation": "bˈæd hˈɛɹ dˈeɪ",
       "senses": [
         {
           "definition": "a day that is full of incidents and misfortunes",
-          "examples": [
-            {
-              "cf": "",
-              "x": "They had a bad hair day on their vacation, encountering unexpected weather, canceled plans, and lost luggage."
-            },
-            {
-              "cf": "",
-              "x": "Today feels like a bad hair day for him, with one mishap after another, from spilling coffee on his shirt to missing the bus."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "face to face",
+      "id": "01cbe37f-6fa3-4c34-800c-cb7b78da60ce",
+      "word": "face-to-face",
       "pos": "None",
-      "phonetic": "https://tts.langeek.co/read?text=ZmFjZSB0byBmYWNl&hash=065f5ef5db08eeb8464a1c670428494c882ef372&lang=en&cache-only=0",
-      "phonetic_text": null,
-      "phonetic_am": "https://tts.langeek.co/read?text=ZmFjZSB0byBmYWNl&hash=065f5ef5db08eeb8464a1c670428494c882ef372&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic": "https://tts.langeek.co/read?text=ZmFjZS10by1mYWNl&hash=5d1cff9bae68fe47772d608ebb5ab4e63876bb5d&lang=en&cache-only=0",
+      "phonetic_text": "feɪs tu: feɪs",
+      "phonetic_am": "https://tts.langeek.co/read?text=ZmFjZS10by1mYWNl&hash=5d1cff9bae68fe47772d608ebb5ab4e63876bb5d&lang=en&cache-only=0",
+      "phonetic_am_text": "feis too feis",
       "img": "https://cdn.langeek.co/photo/46649/original/?type=jpeg",
-      "pronunciation": "fˈeɪs tə fˈeɪs",
+      "pronunciation": "ˈfeɪstuˈfeɪs",
       "senses": [
         {
           "definition": "in an inevitable confrontation with an unpleasant or difficult situation",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Eventually, he came face to face with discrimination again."
-            },
-            {
-              "cf": "",
-              "x": "They knew they had to meet face to face with their financial struggles and come up with a plan to overcome them."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[go] sour",
+      "id": "3d91656d-bafc-4c8d-9932-528b63a535e3",
+      "word": "to [go] sour",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ28gc291cg&hash=7b6ad26d6ca1f1add334873d7dd526f53af3e2d8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ28gc291cg&hash=7b6ad26d6ca1f1add334873d7dd526f53af3e2d8&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41295/original/?type=jpeg",

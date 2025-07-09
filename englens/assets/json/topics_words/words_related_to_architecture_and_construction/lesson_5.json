@@ -1,15 +1,17 @@
 {
+  "id": "0b65b0c2-e49e-43e5-b40c-381d7ac46380",
   "topic": "words_related_to_architecture_and_construction",
   "title": "Churches",
   "lesson": "lesson_5",
   "word_list": [
     {
+      "id": "354951d3-d4a1-44ae-a059-3c357786e5ad",
       "word": "ambulatory",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW1idWxhdG9yeQ&hash=ff50c67b6723ba0ddade6b48690b0e4076dd5d33&lang=en&cache-only=0",
-      "phonetic_text": "æmbjələtɔri",
+      "phonetic_text": "æmb.jə.lə.tɔ.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=YW1idWxhdG9yeQ&hash=ff50c67b6723ba0ddade6b48690b0e4076dd5d33&lang=en&cache-only=0",
-      "phonetic_am_text": "āmbyēlētawri",
+      "phonetic_am_text": "āmb.yē.lē.taw.ri",
       "img": "",
       "pronunciation": "ˈæmbjəɫəˌtɔɹi",
       "senses": [
@@ -20,12 +22,13 @@
       ]
     },
     {
+      "id": "278519a8-6884-40e4-a417-cb0a31dbf28f",
       "word": "apse",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXBzZQ&hash=239022c3f327560634eb62e2840b727f734efcc7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æps",
       "phonetic_am": "https://tts.langeek.co/read?text=YXBzZQ&hash=239022c3f327560634eb62e2840b727f734efcc7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "āps",
       "img": "",
       "pronunciation": "ˈæps",
       "senses": [
@@ -36,30 +39,49 @@
       ]
     },
     {
+      "id": "2294c845-8845-4d6d-aa88-32cd08c639c1",
       "word": "aisle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWlzbGU&hash=883cb753368ccf827f51aef3d30be33cc51d30a1&lang=en&cache-only=0",
-      "phonetic_text": "aɪl",
+      "phonetic_text": "aɪəl",
       "phonetic_am": "https://tts.langeek.co/read?text=YWlzbGU&hash=883cb753368ccf827f51aef3d30be33cc51d30a1&lang=en&cache-only=0",
-      "phonetic_am_text": "ail",
+      "phonetic_am_text": "aiēl",
       "img": "https://cdn.langeek.co/photo/31721/original/?type=jpeg",
       "pronunciation": "ˈaɪəɫ/, /ˈaɪɫ",
       "senses": [
         {
           "definition": "the passageway between rows of seats in a church, often leading from the entrance to the altar",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The bride walked gracefully down the aisle, her dress trailing behind her."
+            },
+            {
+              "cf": "",
+              "x": "The flower girl scattered petals along the aisle before the wedding ceremony began."
+            },
+            {
+              "cf": "",
+              "x": "Guests stood and turned to watch the groom as he made his way up the aisle."
+            },
+            {
+              "cf": "",
+              "x": "During the service, the priest walked up and down the aisle, blessing the congregation."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "5a468ed1-280a-4f65-a684-69ec35b569b5",
       "word": "choir",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hvaXI&hash=8b7cf5b99959c2f5a2538de7c1d7cf0e5b4cd36b&lang=en&cache-only=0",
-      "phonetic_text": "kwaɪər",
+      "phonetic_text": "kr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hvaXI&hash=8b7cf5b99959c2f5a2538de7c1d7cf0e5b4cd36b&lang=en&cache-only=0",
-      "phonetic_am_text": "kwaiēr",
+      "phonetic_am_text": "kr",
       "img": "",
-      "pronunciation": "ˈkwaɪɝ",
+      "pronunciation": "ˈkwaɪɚ",
       "senses": [
         {
           "definition": "an area in a church that is occasionally occupied by a group of singers performing together while religious ceremonies are held",
@@ -68,12 +90,13 @@
       ]
     },
     {
+      "id": "410a5130-27bf-4437-b01b-62356803eee2",
       "word": "choir loft",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hvaXIgbG9mdA&hash=178dbbb93eabfdec85fdb9dc3cc4bb0cbe685d0e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kr lɔft",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hvaXIgbG9mdA&hash=178dbbb93eabfdec85fdb9dc3cc4bb0cbe685d0e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kr lawft",
       "img": "",
       "pronunciation": "kwˈaɪɚ lˈɔft",
       "senses": [
@@ -84,12 +107,13 @@
       ]
     },
     {
+      "id": "fc1f2129-3706-40d3-b55e-19241e0ec60c",
       "word": "concha",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29uY2hh&hash=216d77c0ebb33b8d2dec2c44e74807d15d176fc3&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:nʧə",
+      "phonetic_text": "kɑn.ʧə",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uY2hh&hash=216d77c0ebb33b8d2dec2c44e74807d15d176fc3&lang=en&cache-only=0",
-      "phonetic_am_text": "kaanchē",
+      "phonetic_am_text": "kaan.chē",
       "img": "",
       "pronunciation": "ˈkɑntʃə",
       "senses": [
@@ -100,12 +124,13 @@
       ]
     },
     {
+      "id": "c31eb2cb-8969-4d06-8c94-2c748ba08008",
       "word": "crossing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3Jvc3Npbmc&hash=fe825106a82b6447c1c4a9b4f2c4ad37cc511445&lang=en&cache-only=0",
-      "phonetic_text": "krɔ:sɪng",
+      "phonetic_text": "krɔ.sɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3Jvc3Npbmc&hash=fe825106a82b6447c1c4a9b4f2c4ad37cc511445&lang=en&cache-only=0",
-      "phonetic_am_text": "kraawsing",
+      "phonetic_am_text": "kraw.sing",
       "img": "",
       "pronunciation": "ˈkɹɔsɪŋ",
       "senses": [
@@ -116,12 +141,13 @@
       ]
     },
     {
+      "id": "3c60ec09-0800-485a-a935-4d5f853b710d",
       "word": "rood screen",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9vZCBzY3JlZW4&hash=a1e7bc7ad9d1d271164e8cf856f53b660e26b427&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rud skri:n",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9vZCBzY3JlZW4&hash=a1e7bc7ad9d1d271164e8cf856f53b660e26b427&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "rood skrin",
       "img": "",
       "pronunciation": "ɹˈuːd skɹˈiːn",
       "senses": [
@@ -132,12 +158,13 @@
       ]
     },
     {
+      "id": "a04f55c3-bbaf-4a2e-89b0-5e7672af0325",
       "word": "narthex",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmFydGhleA&hash=0163b06ead4d8a580978648ac49eadd7a456faaa&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nɑ:r.θɛks",
       "phonetic_am": "https://tts.langeek.co/read?text=bmFydGhleA&hash=0163b06ead4d8a580978648ac49eadd7a456faaa&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "naar.theks",
       "img": "",
       "pronunciation": "nˈɑːɹθɛks",
       "senses": [
@@ -148,12 +175,13 @@
       ]
     },
     {
+      "id": "ec3f5861-e049-47af-b5b0-bab7e615f7b8",
       "word": "poppyhead",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9wcHloZWFk&hash=d9229a1c86687378a29ee5a2d0c0993917ca5504&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɑ.pi.hɛd",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9wcHloZWFk&hash=d9229a1c86687378a29ee5a2d0c0993917ca5504&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "paa.pi.hed",
       "img": "",
       "pronunciation": "pˈɑːpɪhˌɛd",
       "senses": [
@@ -164,12 +192,13 @@
       ]
     },
     {
+      "id": "fe27542b-3d5c-4421-b6e0-55be0e8d6a20",
       "word": "steeple",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RlZXBsZQ&hash=982e54d14d913933377e046904dc55189af2c3e3&lang=en&cache-only=0",
-      "phonetic_text": "sti:pəl",
+      "phonetic_text": "sti.pəl",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RlZXBsZQ&hash=982e54d14d913933377e046904dc55189af2c3e3&lang=en&cache-only=0",
-      "phonetic_am_text": "steepēl",
+      "phonetic_am_text": "sti.pēl",
       "img": "",
       "pronunciation": "ˈstipəɫ",
       "senses": [
@@ -180,12 +209,13 @@
       ]
     },
     {
+      "id": "04a70f77-c16e-4f69-b07e-5e0f6fdd3e2f",
       "word": "transept",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhbnNlcHQ&hash=310987b08779326e3e1bd5a02a7e7e229d34e2e1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "træn.sɛpt",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhbnNlcHQ&hash=310987b08779326e3e1bd5a02a7e7e229d34e2e1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trān.sept",
       "img": "",
       "pronunciation": "tɹænsˈɛpt",
       "senses": [
@@ -196,12 +226,13 @@
       ]
     },
     {
+      "id": "f6ee9384-2b1d-479b-9b31-db22196493b1",
       "word": "tribune",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJpYnVuZQ&hash=1f7149f0f36316aecd4566ea73bc87d5adfa37b0&lang=en&cache-only=0",
-      "phonetic_text": "trɪbjun",
+      "phonetic_text": "trɪ.bjun",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJpYnVuZQ&hash=1f7149f0f36316aecd4566ea73bc87d5adfa37b0&lang=en&cache-only=0",
-      "phonetic_am_text": "tribyun",
+      "phonetic_am_text": "tri.byoon",
       "img": "",
       "pronunciation": "ˈtɹɪbjun",
       "senses": [
@@ -212,12 +243,13 @@
       ]
     },
     {
+      "id": "74868eb2-042e-4061-a43d-f7c42743b91b",
       "word": "triforium",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJpZm9yaXVt&hash=c5a103807f1b748c8ff17a41c0c8a0b8b106890a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "traɪ.fo:.riəm",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJpZm9yaXVt&hash=c5a103807f1b748c8ff17a41c0c8a0b8b106890a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trai.fo.riēm",
       "img": "",
       "pronunciation": "tɹaɪfˈoːɹiəm",
       "senses": [
@@ -228,6 +260,7 @@
       ]
     },
     {
+      "id": "1ecaedbd-1eaa-405c-9a4d-8b61ef6c3fca",
       "word": "nave",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmF2ZQ&hash=1ecb7abb577f0f0bc82b5a3cc1426dbe65cdc9f4&lang=en&cache-only=0",
@@ -244,12 +277,13 @@
       ]
     },
     {
+      "id": "ba2ba54b-f40b-4d92-88eb-9267bdf7b2f2",
       "word": "pulpit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHVscGl0&hash=88889023feb235cc632e85b9c2fe4f3f9c3de117&lang=en&cache-only=0",
-      "phonetic_text": "pʊlpɪt",
+      "phonetic_text": "pʊl.pɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=cHVscGl0&hash=88889023feb235cc632e85b9c2fe4f3f9c3de117&lang=en&cache-only=0",
-      "phonetic_am_text": "pulpit",
+      "phonetic_am_text": "pool.pit",
       "img": "",
       "pronunciation": "ˈpʊɫpɪt",
       "senses": [
@@ -260,12 +294,13 @@
       ]
     },
     {
+      "id": "55e4d8b3-c06a-4ddf-b4df-fa8da6d526f2",
       "word": "chancel",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hhbmNlbA&hash=0ed7f71be191f16cd529db8113bd14fd25955101&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧæn.səl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hhbmNlbA&hash=0ed7f71be191f16cd529db8113bd14fd25955101&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chān.sēl",
       "img": "",
       "pronunciation": "tʃˈænsəl",
       "senses": [
@@ -276,12 +311,13 @@
       ]
     },
     {
+      "id": "eec11736-7873-4c69-8898-44a867a19e83",
       "word": "transept chapel",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhbnNlcHQgY2hhcGVs&hash=610e8cca26bc37884292bc86a039bec694ff4ee1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "træn.sɛpt ʧæ.pəl",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhbnNlcHQgY2hhcGVs&hash=610e8cca26bc37884292bc86a039bec694ff4ee1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trān.sept chā.pēl",
       "img": "",
       "pronunciation": "tɹænsˈɛpt tʃˈæpəl",
       "senses": [
@@ -292,12 +328,13 @@
       ]
     },
     {
+      "id": "f321a35c-53d2-41b7-a3d2-ff43566fb9fc",
       "word": "nave arcade",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bmF2ZSBhcmNhZGU&hash=8891bb05824d372c1573d20df74dd4ed9a00f2c4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "neɪv ɑr.keɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=bmF2ZSBhcmNhZGU&hash=8891bb05824d372c1573d20df74dd4ed9a00f2c4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "neiv aar.keid",
       "img": "",
       "pronunciation": "nˈeɪv ɑːɹkˈeɪd",
       "senses": [
@@ -308,12 +345,13 @@
       ]
     },
     {
+      "id": "77036c0e-96e6-4972-a92b-e95c6fde8474",
       "word": "chapel",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hhcGVs&hash=5223dc53ed689574e3a32c00fe3dd53b07d20baa&lang=en&cache-only=0",
-      "phonetic_text": "ʧæpəl",
+      "phonetic_text": "ʧæ.pəl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hhcGVs&hash=5223dc53ed689574e3a32c00fe3dd53b07d20baa&lang=en&cache-only=0",
-      "phonetic_am_text": "chāpēl",
+      "phonetic_am_text": "chā.pēl",
       "img": "",
       "pronunciation": "ˈtʃæpəɫ",
       "senses": [
@@ -324,6 +362,7 @@
       ]
     },
     {
+      "id": "09d102fb-2345-439d-98b0-8d2bc8ca21e0",
       "word": "crypt",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3J5cHQ&hash=90d122156194f5017a2392b1d19ae33e48b9274f&lang=en&cache-only=0",
@@ -340,12 +379,13 @@
       ]
     },
     {
+      "id": "e64cb01d-cf30-4906-ae40-2345fc6ca81f",
       "word": "chantry chapel",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hhbnRyeSBjaGFwZWw&hash=e949c0f885e266cd2a623d7f1a4d4f06d44cbc40&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧænt.ri ʧæ.pəl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hhbnRyeSBjaGFwZWw&hash=e949c0f885e266cd2a623d7f1a4d4f06d44cbc40&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chānt.ri chā.pēl",
       "img": "",
       "pronunciation": "tʃˈæntɹi tʃˈæpəl",
       "senses": [
@@ -356,12 +396,13 @@
       ]
     },
     {
+      "id": "6a80eedc-fa8c-43ed-93f7-978b2f184bc5",
       "word": "fleche",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmxlY2hl&hash=8a0e8b8e449e7df91de2043e5d627dee4981bf86&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "flɛʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmxlY2hl&hash=8a0e8b8e449e7df91de2043e5d627dee4981bf86&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "flech",
       "img": "",
       "pronunciation": "flˈɛtʃ",
       "senses": [
@@ -372,12 +413,13 @@
       ]
     },
     {
+      "id": "6c14fc27-0533-4d11-9855-57bfc5dc8c4e",
       "word": "piscina",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGlzY2luYQ&hash=80577638e1e9bbbf6cb1dadd2fcacd9355c0db46&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɪs.ɪ.nə",
       "phonetic_am": "https://tts.langeek.co/read?text=cGlzY2luYQ&hash=80577638e1e9bbbf6cb1dadd2fcacd9355c0db46&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pis.i.nē",
       "img": "",
       "pronunciation": "pˈɪsɪnə",
       "senses": [
@@ -388,12 +430,13 @@
       ]
     },
     {
+      "id": "283b00cf-1b71-4117-990f-a83053c3a0f4",
       "word": "stave church",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RhdmUgY2h1cmNo&hash=96607a2cdc079273193ea10c3fcdfa582660b746&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "steɪv ʧɜrʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RhdmUgY2h1cmNo&hash=96607a2cdc079273193ea10c3fcdfa582660b746&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "steiv chērch",
       "img": "",
       "pronunciation": "stˈeɪv tʃˈɜːtʃ",
       "senses": [
@@ -404,12 +447,13 @@
       ]
     },
     {
+      "id": "1871ec23-9594-4edc-a338-4c10016f3cb9",
       "word": "cloister",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xvaXN0ZXI&hash=fae4ce445ccb388f32e6d7fdc0a4e63711757885&lang=en&cache-only=0",
-      "phonetic_text": "klɔɪstər",
+      "phonetic_text": "klɔɪs.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xvaXN0ZXI&hash=fae4ce445ccb388f32e6d7fdc0a4e63711757885&lang=en&cache-only=0",
-      "phonetic_am_text": "kloystēr",
+      "phonetic_am_text": "klawis.tēr",
       "img": "",
       "pronunciation": "ˈkɫɔɪstɝ",
       "senses": [
@@ -420,6 +464,7 @@
       ]
     },
     {
+      "id": "7eb821f6-a65b-4abd-afe3-aa0a7d224c0b",
       "word": "spire",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BpcmU&hash=2060ae22809fa04b97d49f8c7cd0fec463c4d84d&lang=en&cache-only=0",
@@ -436,12 +481,13 @@
       ]
     },
     {
+      "id": "9e0690df-dfd9-4908-a9bf-54554749aa0d",
       "word": "flying buttress",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zmx5aW5nIGJ1dHRyZXNz&hash=58c8c611ba8208ed1e69f6ad6acd490669a03fd0&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "flaɪɪng bʌt.rəs",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmx5aW5nIGJ1dHRyZXNz&hash=58c8c611ba8208ed1e69f6ad6acd490669a03fd0&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "flaiing bat.rēs",
       "img": "",
       "pronunciation": "flˈaɪɪŋ bˈʌtɹəs",
       "senses": [
@@ -452,12 +498,13 @@
       ]
     },
     {
+      "id": "67a46e15-53f2-44a2-9790-9e09a00db700",
       "word": "gargoyle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2FyZ295bGU&hash=6b376f93f1fa673aa00a677c5c1788f9789a5e7d&lang=en&cache-only=0",
-      "phonetic_text": "gɑ:rgɔɪl",
+      "phonetic_text": "gɑr.gɔɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2FyZ295bGU&hash=6b376f93f1fa673aa00a677c5c1788f9789a5e7d&lang=en&cache-only=0",
-      "phonetic_am_text": "gaargoyl",
+      "phonetic_am_text": "gaar.gawil",
       "img": "",
       "pronunciation": "ˈɡɑɹˌɡɔɪɫ",
       "senses": [
@@ -489,12 +536,13 @@
       ]
     },
     {
+      "id": "f3391254-3c60-4624-a0c8-550948a394b3",
       "word": "cloister garth",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xvaXN0ZXIgZ2FydGg&hash=25cf59bead5b9421f6a38d3f26c65f978de3dfe3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "klɔɪs.tɜr gɑrθ",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xvaXN0ZXIgZ2FydGg&hash=25cf59bead5b9421f6a38d3f26c65f978de3dfe3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "klawis.tēr gaarth",
       "img": "",
       "pronunciation": "klˈɔɪstɚ ɡˈɑːɹθ",
       "senses": [
@@ -505,12 +553,13 @@
       ]
     },
     {
+      "id": "e3ebcedd-8afd-4579-b278-3cb114f4c831",
       "word": "belfry",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVsZnJ5&hash=0e8280844e207d3880398b049639fe8e53c31033&lang=en&cache-only=0",
-      "phonetic_text": "bɛlfri",
+      "phonetic_text": "belf.ri",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVsZnJ5&hash=0e8280844e207d3880398b049639fe8e53c31033&lang=en&cache-only=0",
-      "phonetic_am_text": "belfri",
+      "phonetic_am_text": "belf.ri",
       "img": "",
       "pronunciation": "ˈbelfri",
       "senses": [
@@ -521,12 +570,13 @@
       ]
     },
     {
+      "id": "9a04ade5-1aa5-4f18-ae69-e0235111c6fc",
       "word": "screen",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2NyZWVu&hash=385c3555d6d4491b4bb0a9db80422bbf24d5f803&lang=en&cache-only=0",
       "phonetic_text": "skri:n",
       "phonetic_am": "https://tts.langeek.co/read?text=c2NyZWVu&hash=385c3555d6d4491b4bb0a9db80422bbf24d5f803&lang=en&cache-only=0",
-      "phonetic_am_text": "skreen",
+      "phonetic_am_text": "skrin",
       "img": "",
       "pronunciation": "skriːn",
       "senses": [
@@ -537,12 +587,13 @@
       ]
     },
     {
+      "id": "2a759f78-ec51-4364-974c-29a130254687",
       "word": "stained glass",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RhaW5lZCBnbGFzcw&hash=32a7e212bda33bf035a0977be138cd54f68b728f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "steɪnd glæs",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RhaW5lZCBnbGFzcw&hash=32a7e212bda33bf035a0977be138cd54f68b728f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "steind glās",
       "img": "",
       "pronunciation": "stˈeɪnd ɡlˈæs",
       "senses": [
@@ -553,12 +604,13 @@
       ]
     },
     {
+      "id": "8d26ade1-9ad8-4f6d-a0a9-70797524fe7a",
       "word": "broach spire",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJvYWNoIHNwaXJl&hash=b95fff6ecd2b4b036af9b7efc708de5da8508ac7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "broʊʧ spaɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJvYWNoIHNwaXJl&hash=b95fff6ecd2b4b036af9b7efc708de5da8508ac7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "broooch spair",
       "img": "",
       "pronunciation": "bɹˈoʊtʃ spˈaɪɚ",
       "senses": [
@@ -569,12 +621,13 @@
       ]
     },
     {
+      "id": "81e6c95a-66fa-4414-b4fe-b49eb49fb387",
       "word": "broach",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YnJvYWNo&hash=2c6fc64951456cfafb0ea27cd0b772ce9fc9d064&lang=en&cache-only=0",
       "phonetic_text": "broʊʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=YnJvYWNo&hash=2c6fc64951456cfafb0ea27cd0b772ce9fc9d064&lang=en&cache-only=0",
-      "phonetic_am_text": "browch",
+      "phonetic_am_text": "broooch",
       "img": "",
       "pronunciation": "ˈbɹoʊtʃ",
       "senses": [

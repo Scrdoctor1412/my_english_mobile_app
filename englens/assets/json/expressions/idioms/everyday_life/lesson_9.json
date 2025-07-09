@@ -1,13 +1,15 @@
 {
+  "id": "b233f12a-4c7f-4d72-b061-e3302b5c89e6",
   "topic": "everyday_life",
   "title": "Socializing",
   "lesson": "lesson_9",
   "word_list": [
     {
-      "word": "[give] {sb} some skin",
+      "id": "0a3315f7-d347-456a-bdeb-ef5ae242f49d",
+      "word": "to [give] {sb} some skin",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21lYm9keSBzb21lIHNraW4&hash=612676060dc5ed7982db2355de6dfcd6bdc27833&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBzb21lYm9keSBzb21lIHNraW4&hash=612676060dc5ed7982db2355de6dfcd6bdc27833&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -15,24 +17,16 @@
       "senses": [
         {
           "definition": "to slap one's palm against the palm of another person as a way of greeting or congratulating them",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Delighted, I gave him some skin, and his mother gave him a big hug."
-            },
-            {
-              "cf": "",
-              "x": "It's always nice to see old friends and give them some skin as a warm welcome."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[rub] shoulders with {sb}",
+      "id": "c687c85d-6fe1-464e-a26c-3fc2ae2b9a57",
+      "word": "to [rub] shoulders with {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcnViIHNob3VsZGVycyB3aXRoIHNvbWVib2R5&hash=ddd0098bede8375e115b90f63fa21f4f713f68df&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcnViIHNob3VsZGVycyB3aXRoIHNvbWVib2R5&hash=ddd0098bede8375e115b90f63fa21f4f713f68df&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -40,20 +34,16 @@
       "senses": [
         {
           "definition": "to have the opportunity to spend time with a famous person, whether professionally or socially",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The gala was an excellent opportunity to rub shoulders with celebrities and philanthropists."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[chew] the fat",
+      "id": "342e73fc-f996-493f-8e0a-9c1f5616f746",
+      "word": "to [chew] the fat",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hldyB0aGUgZmF0&hash=a1bbbcdb2598dcd07f561f3e4b86eaae626e8870&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2hldyB0aGUgZmF0&hash=a1bbbcdb2598dcd07f561f3e4b86eaae626e8870&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/36880/original/?type=jpeg",
@@ -87,10 +77,11 @@
       ]
     },
     {
-      "word": "[shoot] the breeze",
+      "id": "714a67ef-983f-4fbf-831d-b6cc0b91fbcd",
+      "word": "to [shoot] the breeze",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2hvb3QgdGhlIGJyZWV6ZQ&hash=2061d2e78d8dd6aae94aa696d39f50f54641287f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2hvb3QgdGhlIGJyZWV6ZQ&hash=2061d2e78d8dd6aae94aa696d39f50f54641287f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/36880/original/?type=jpeg",
@@ -108,10 +99,11 @@
       ]
     },
     {
-      "word": "[break] the ice",
+      "id": "4de61fb3-ce28-4596-bf34-f65559012f58",
+      "word": "to [break] the ice",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnJlYWsgdGhlIGljZQ&hash=f194db5a6574f948532cc6fca8bc2f101d510aa9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYnJlYWsgdGhlIGljZQ&hash=f194db5a6574f948532cc6fca8bc2f101d510aa9&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -145,12 +137,13 @@
       ]
     },
     {
+      "id": "71441764-7c74-404d-8b4b-4b2018315c92",
       "word": "hello stranger",
       "pos": "interjection",
       "phonetic": "https://tts.langeek.co/read?text=aGVsbG8gc3RyYW5nZXI&hash=4161888519764ff2115d45220a0767e26b98997c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "hə.loʊ streɪn.ʤɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=aGVsbG8gc3RyYW5nZXI&hash=4161888519764ff2115d45220a0767e26b98997c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "hē.looo strein.jēr",
       "img": "",
       "pronunciation": "həlˈoʊ stɹˈeɪndʒɚ",
       "senses": [
@@ -166,12 +159,13 @@
       ]
     },
     {
+      "id": "fe259f9e-e540-4557-93ce-46aaa4a0b5b1",
       "word": "small talk",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c21hbGwgdGFsaw&hash=4073018d8a309c6bc13576f4246d79787d67a7f9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "smɔl tɑ:k",
       "phonetic_am": "https://tts.langeek.co/read?text=c21hbGwgdGFsaw&hash=4073018d8a309c6bc13576f4246d79787d67a7f9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "smawl taak",
       "img": "https://cdn.langeek.co/photo/36880/original/?type=jpeg",
       "pronunciation": "smˈɔːl tˈɔːk",
       "senses": [
@@ -203,12 +197,13 @@
       ]
     },
     {
+      "id": "c074c55c-cfa6-4193-8b0f-5a2ff02e4968",
       "word": "a sight for sore eyes",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=YSBzaWdodCBmb3Igc29yZSBleWVz&hash=5f379f4f2bd59d2e82fce0939367b884a28e5608&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ə saɪt fɔ:r sɔ:r aɪz",
       "phonetic_am": "https://tts.langeek.co/read?text=YSBzaWdodCBmb3Igc29yZSBleWVz&hash=5f379f4f2bd59d2e82fce0939367b884a28e5608&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ē sait fawr sawr aiz",
       "img": "",
       "pronunciation": "ɐ sˈaɪt fɔːɹ sˈoːɹ ˈaɪz",
       "senses": [
@@ -236,10 +231,11 @@
       ]
     },
     {
+      "id": "280d5cf6-6498-4cdf-b198-1e625e66e157",
       "word": "penny for your thoughts",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=cGVubnkgZm9yIHlvdXIgdGhvdWdodHM&hash=d5b09fe90dc47f3f56bdeb27c986e19eac396a1d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVubnkgZm9yIHlvdXIgdGhvdWdodHM&hash=d5b09fe90dc47f3f56bdeb27c986e19eac396a1d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -247,20 +243,16 @@
       "senses": [
         {
           "definition": "used as a question when one wants to know what another person has in mind at the moment",
-          "examples": [
-            {
-              "cf": "",
-              "x": "While they were sitting in silence, he suddenly said, 'A penny for your thoughts?'"
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "6b1ad078-30bd-45e8-b969-3989f685ca79",
       "word": "(speak|talk) of the devil",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=c3BlYWsgb2YgdGhlIGRldmls&hash=e3aa313b6d4a3b3237184b6ea9b634b6416db3e2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BlYWsgb2YgdGhlIGRldmls&hash=e3aa313b6d4a3b3237184b6ea9b634b6416db3e2&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -294,35 +286,28 @@
       ]
     },
     {
+      "id": "0de4302a-22d1-4596-9d45-e357f8cf69f2",
       "word": "not be a stranger",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bm90IGJlIGEgc3RyYW5nZXI&hash=cd5405d0ab56c3debee35dcec2ef734fee0b8b34&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "nɑt bi: ə streɪn.ʤɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bm90IGJlIGEgc3RyYW5nZXI&hash=cd5405d0ab56c3debee35dcec2ef734fee0b8b34&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "naat bi ē strein.jēr",
       "img": "",
       "pronunciation": "duːnˌɑːt biː ɐ stɹˈeɪndʒɚ",
       "senses": [
         {
           "definition": "used to ask a departing person to keep visiting or communicating with one",
-          "examples": [
-            {
-              "cf": "",
-              "x": "It's been a while since we last met; please don't be a stranger – let's catch up soon."
-            },
-            {
-              "cf": "",
-              "x": "When a close friend moves away, we often say, 'Don't be a stranger,' to convey our desire to stay connected."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[overstay|outstay] {one's} welcome",
+      "id": "eb860819-639c-40f1-a14e-097c0821505c",
+      "word": "to [overstay|outstay] {one's} welcome",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gb3ZlcnN0YXkgb25lJ3Mgd2VsY29tZQ&hash=485c65a87c6f3e8094c08df22d1c66a19a3e2017&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gb3ZlcnN0YXkgb25lJ3Mgd2VsY29tZQ&hash=485c65a87c6f3e8094c08df22d1c66a19a3e2017&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -330,36 +315,16 @@
       "senses": [
         {
           "definition": "(particularly of a guest) to stay in someone's house longer than is considered appropriate, often to the point where one is not welcomed anymore",
-          "examples": [
-            {
-              "cf": "",
-              "x": "After the cool reception I received at breakfast, it was apparent that I had overstayed my welcome at the cottage of my father's friend."
-            },
-            {
-              "cf": "",
-              "x": "After the kindness that had been shown to him, he didn't want to outstay his welcome."
-            },
-            {
-              "cf": "",
-              "x": "As much as he has contributed to the company, he has outstayed his welcome and needs to go."
-            },
-            {
-              "cf": "",
-              "x": "We had a great time at the party, but we didn't want to overstay our welcome, so we left before midnight."
-            },
-            {
-              "cf": "",
-              "x": "After the weekend stay with my friends, I knew it was time to go home; I didn't want to overstay my welcome."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[wash] {one's} hands of {sb}",
+      "id": "5e4bcbbc-f168-46e1-b87e-55e68630c178",
+      "word": "to [wash] {one's} hands of {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2FzaCBvbmUncyBoYW5kcyBvZiBzb21lYm9keQ&hash=95a8fe30535af912a7ac1f7d2a90e9cf25204580&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2FzaCBvbmUncyBoYW5kcyBvZiBzb21lYm9keQ&hash=95a8fe30535af912a7ac1f7d2a90e9cf25204580&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -377,10 +342,11 @@
       ]
     },
     {
-      "word": "[keep] to {oneself}",
+      "id": "6782ae67-d2e1-481c-8f71-2fc7a352bde1",
+      "word": "to [keep] to {oneself}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ga2VlcCB0byBvbmVzZWxm&hash=3ce7e839e8fb95f5e395ca1063b2e0ea462cee42&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ga2VlcCB0byBvbmVzZWxm&hash=3ce7e839e8fb95f5e395ca1063b2e0ea462cee42&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/22255/original/?type=jpeg",

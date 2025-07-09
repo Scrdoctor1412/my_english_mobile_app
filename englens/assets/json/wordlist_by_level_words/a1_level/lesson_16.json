@@ -1,16 +1,18 @@
 {
+  "id": "3ef13c7d-28b0-4078-a94b-28efdc48474d",
   "topic": "a1_level",
   "title": "Basic Verbs",
   "lesson": "lesson_16",
   "word_list": [
     {
-      "word": "be",
+      "id": "99a7b7e1-2bef-401a-b0af-ab69a699cf04",
+      "word": "to be",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmU&hash=9c1d22cbb2687b5b6a5732f7ec16abaca36d2415&lang=en&cache-only=0",
       "phonetic_text": "bi:",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmU&hash=9c1d22cbb2687b5b6a5732f7ec16abaca36d2415&lang=en&cache-only=0",
-      "phonetic_am_text": "bee",
-      "img": "",
+      "phonetic_am_text": "bi",
+      "img": "https://cdn.langeek.co/photo/60798/original/?type=jpeg",
       "pronunciation": "biː",
       "senses": [
         {
@@ -49,14 +51,15 @@
       ]
     },
     {
-      "word": "wake up",
+      "id": "8aff5b57-867b-4459-bf49-21cd3de50fd2",
+      "word": "to wake up",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2FrZSB1cA&hash=48822a0458cfff8100876a6c8f775a96182933ab&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "weɪk ʌp",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2FrZSB1cA&hash=48822a0458cfff8100876a6c8f775a96182933ab&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "veik ap",
       "img": "https://cdn.langeek.co/photo/21183/original/wake-up?type=jpeg",
-      "pronunciation": "weɪk ʌp",
+      "pronunciation": "ˈweɪk ˈʌp",
       "senses": [
         {
           "definition": "to no longer be asleep",
@@ -86,12 +89,13 @@
       ]
     },
     {
-      "word": "sleep",
+      "id": "277db9e2-1057-4f62-811e-5094dca14f11",
+      "word": "to sleep",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2xlZXA&hash=9f70b72357378ae4357890fd8aee62afe62b00cf&lang=en&cache-only=0",
       "phonetic_text": "sli:p",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2xlZXA&hash=9f70b72357378ae4357890fd8aee62afe62b00cf&lang=en&cache-only=0",
-      "phonetic_am_text": "sleep",
+      "phonetic_am_text": "slip",
       "img": "https://cdn.langeek.co/photo/47446/original/sleep?type=jpeg",
       "pronunciation": "sliːp",
       "senses": [
@@ -119,12 +123,13 @@
       ]
     },
     {
-      "word": "work",
+      "id": "ab9f3b6a-0be7-413d-a109-a3eb4c7a3418",
+      "word": "to work",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd29yaw&hash=3d6788b1b4d25d2f1e1a1e483fea4bad3abafecf&lang=en&cache-only=0",
       "phonetic_text": "wɜrk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd29yaw&hash=3d6788b1b4d25d2f1e1a1e483fea4bad3abafecf&lang=en&cache-only=0",
-      "phonetic_am_text": "wērk",
+      "phonetic_am_text": "vērk",
       "img": "https://cdn.langeek.co/photo/48595/original/work?type=jpeg",
       "pronunciation": "wɝːk",
       "senses": [
@@ -156,7 +161,8 @@
       ]
     },
     {
-      "word": "drive",
+      "id": "800527d6-853e-448d-a59a-7ff17fd9e936",
+      "word": "to drive",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJpdmU&hash=704a8f2ae7dbeafb5fcb21f996d425b92f21e83b&lang=en&cache-only=0",
       "phonetic_text": "draɪv",
@@ -193,7 +199,8 @@
       ]
     },
     {
-      "word": "buy",
+      "id": "a6ad80bd-f41d-441b-9ca2-1efd7412ba60",
+      "word": "to buy",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYnV5&hash=7b4f04f937434c27dbdc9c0dd268ce18dca5186c&lang=en&cache-only=0",
       "phonetic_text": "baɪ",
@@ -230,7 +237,8 @@
       ]
     },
     {
-      "word": "sell",
+      "id": "ea41e7bf-b5ec-4df1-b7f6-447996fed458",
+      "word": "to sell",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2VsbA&hash=b753dc143f8438dbb63aa9599eb9c279a8a37e5d&lang=en&cache-only=0",
       "phonetic_text": "sɛl",
@@ -267,13 +275,14 @@
       ]
     },
     {
-      "word": "read",
+      "id": "0f98043e-208f-4c3f-aa73-148626749f01",
+      "word": "to read",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVhZA&hash=427a80ce7525cab69179303522de16b159a65f29&lang=en&cache-only=0",
-      "phonetic_text": "rɛd",
+      "phonetic_text": "ri:d",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcmVhZA&hash=427a80ce7525cab69179303522de16b159a65f29&lang=en&cache-only=0",
-      "phonetic_am_text": "red",
-      "img": "https://cdn.langeek.co/photo/29194/original/read?type=jpeg",
+      "phonetic_am_text": "rid",
+      "img": "https://cdn.langeek.co/photo/60718/original/read?type=jpeg",
       "pronunciation": "riːd",
       "senses": [
         {
@@ -304,7 +313,8 @@
       ]
     },
     {
-      "word": "write",
+      "id": "526cd7b4-6dce-48f5-878d-c63745cb54b0",
+      "word": "to write",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd3JpdGU&hash=6ff4e97717d82d73484670a87953ab7bdb417d83&lang=en&cache-only=0",
       "phonetic_text": "raɪt",
@@ -341,7 +351,8 @@
       ]
     },
     {
-      "word": "play",
+      "id": "2998bc28-50ba-42c3-8f8d-9a988a873c04",
+      "word": "to play",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGxheQ&hash=a3c216e79f57dc78f3571927648783c93d2a305f&lang=en&cache-only=0",
       "phonetic_text": "pleɪ",
@@ -378,7 +389,8 @@
       ]
     },
     {
-      "word": "pay",
+      "id": "842166b4-7ac5-4008-9804-e7171ed680ff",
+      "word": "to pay",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGF5&hash=566906c8b5cb560b20277d7fd7f4d5f5bf9217d8&lang=en&cache-only=0",
       "phonetic_text": "peɪ",
@@ -415,7 +427,8 @@
       ]
     },
     {
-      "word": "rest",
+      "id": "2a3c6eca-11d0-4fee-9c9d-2b70606d8f3e",
+      "word": "to rest",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcmVzdA&hash=cace1c439578857b6e5310eeddb993c9c22ec669&lang=en&cache-only=0",
       "phonetic_text": "rɛst",
@@ -444,12 +457,13 @@
       ]
     },
     {
-      "word": "wash",
+      "id": "006dec8a-edec-4efe-8848-024ddd56b512",
+      "word": "to wash",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2FzaA&hash=b6c0c541d6ad0e5002efdb1f2aea0c00f2d9a6e9&lang=en&cache-only=0",
       "phonetic_text": "wɑ:ʃ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2FzaA&hash=b6c0c541d6ad0e5002efdb1f2aea0c00f2d9a6e9&lang=en&cache-only=0",
-      "phonetic_am_text": "waash",
+      "phonetic_am_text": "vaash",
       "img": "https://cdn.langeek.co/photo/39199/original/wash?type=jpeg",
       "pronunciation": "wɑːʃ/ , /wɒʃ",
       "senses": [
@@ -481,7 +495,8 @@
       ]
     },
     {
-      "word": "drink",
+      "id": "019d7568-de08-4368-b55a-473529f880ba",
+      "word": "to drink",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZHJpbms&hash=c6484aa6eabb4a2333f4238abc0f33c70a1556e4&lang=en&cache-only=0",
       "phonetic_text": "drɪnk",
@@ -518,12 +533,13 @@
       ]
     },
     {
-      "word": "cook",
+      "id": "28bf68c4-c44b-448d-84f9-cba2b7d08719",
+      "word": "to cook",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29vaw&hash=18484c8302f0374ef6c9fb0c9fa87043c0ea0602&lang=en&cache-only=0",
       "phonetic_text": "kʊk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29vaw&hash=18484c8302f0374ef6c9fb0c9fa87043c0ea0602&lang=en&cache-only=0",
-      "phonetic_am_text": "kuk",
+      "phonetic_am_text": "kook",
       "img": "https://cdn.langeek.co/photo/27059/original/cook?type=jpeg",
       "pronunciation": "kʊk",
       "senses": [
@@ -555,12 +571,13 @@
       ]
     },
     {
-      "word": "eat",
+      "id": "39fff85f-dea5-4c44-a651-b820e0254307",
+      "word": "to eat",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZWF0&hash=759b9e5a7f9c35e0ec93c2400d3543df874f4539&lang=en&cache-only=0",
       "phonetic_text": "i:t",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZWF0&hash=759b9e5a7f9c35e0ec93c2400d3543df874f4539&lang=en&cache-only=0",
-      "phonetic_am_text": "eet",
+      "phonetic_am_text": "it",
       "img": "https://cdn.langeek.co/photo/48579/original/eat?type=jpeg",
       "pronunciation": "iːt",
       "senses": [
@@ -592,13 +609,14 @@
       ]
     },
     {
-      "word": "have",
+      "id": "9d7df8c9-35f4-4768-9a5a-1978a038fe95",
+      "word": "to have",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gaGF2ZQ&hash=f50f008a97735633f0ac679f3f12de346952ff3e&lang=en&cache-only=0",
       "phonetic_text": "hæv",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gaGF2ZQ&hash=f50f008a97735633f0ac679f3f12de346952ff3e&lang=en&cache-only=0",
       "phonetic_am_text": "hāv",
-      "img": "https://cdn.langeek.co/photo/48579/original/eat?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60802/original/?type=jpeg",
       "pronunciation": "hæv",
       "senses": [
         {
@@ -641,7 +659,8 @@
       ]
     },
     {
-      "word": "make",
+      "id": "30e75dc8-ef96-4a58-9735-9cf801d195a5",
+      "word": "to make",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZQ&hash=4c31fcc9b7ef1cc25961f1a6f961df09d7bd57d6&lang=en&cache-only=0",
       "phonetic_text": "meɪk",
@@ -674,13 +693,14 @@
       ]
     },
     {
-      "word": "wear",
+      "id": "f3e92d6e-d0e7-4515-86bb-aa7a28466975",
+      "word": "to wear",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gd2Vhcg&hash=a68d9051a195f4a6c53761ddaac9dc15ab268728&lang=en&cache-only=0",
       "phonetic_text": "wɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gd2Vhcg&hash=a68d9051a195f4a6c53761ddaac9dc15ab268728&lang=en&cache-only=0",
-      "phonetic_am_text": "wer",
-      "img": "https://cdn.langeek.co/photo/16463/original/wear?type=jpeg",
+      "phonetic_am_text": "ver",
+      "img": "https://cdn.langeek.co/photo/60808/original/wear?type=jpeg",
       "pronunciation": "wɛr",
       "senses": [
         {
@@ -711,13 +731,14 @@
       ]
     },
     {
-      "word": "clean",
+      "id": "92a4a6ad-54ff-4af4-b422-393db3f6b5f7",
+      "word": "to clean",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2xlYW4&hash=c39f5c5c3fc679eaf7d8fa2c4b79d9896a05d2db&lang=en&cache-only=0",
       "phonetic_text": "kli:n",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2xlYW4&hash=c39f5c5c3fc679eaf7d8fa2c4b79d9896a05d2db&lang=en&cache-only=0",
-      "phonetic_am_text": "kleen",
-      "img": "https://cdn.langeek.co/photo/14160/original/clean?type=jpeg",
+      "phonetic_am_text": "klin",
+      "img": "https://cdn.langeek.co/photo/60800/original/clean?type=jpeg",
       "pronunciation": "kliːn",
       "senses": [
         {
@@ -748,13 +769,14 @@
       ]
     },
     {
-      "word": "think",
+      "id": "92da0155-da68-43d2-be18-41fc5dc3c814",
+      "word": "to think",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGhpbms&hash=8753721dd21650db54aff0af001f87360b8a8cf3&lang=en&cache-only=0",
       "phonetic_text": "θɪnk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGhpbms&hash=8753721dd21650db54aff0af001f87360b8a8cf3&lang=en&cache-only=0",
       "phonetic_am_text": "think",
-      "img": "https://cdn.langeek.co/photo/21228/original/?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60847/original/?type=jpeg",
       "pronunciation": "θɪŋk",
       "senses": [
         {
@@ -781,7 +803,8 @@
       ]
     },
     {
-      "word": "take",
+      "id": "44a7472d-41e9-411e-b015-09aa3903d1f9",
+      "word": "to take",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGFrZQ&hash=218a7b24f2f9192973800c7366909ef3421d1aec&lang=en&cache-only=0",
       "phonetic_text": "teɪk",
@@ -818,7 +841,8 @@
       ]
     },
     {
-      "word": "stand",
+      "id": "d9b0ccb9-c54a-4c79-9778-86514c4c9bea",
+      "word": "to stand",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3RhbmQ&hash=c08de753623ef1c41bd744b8bab5dfeebef02c9d&lang=en&cache-only=0",
       "phonetic_text": "stænd",
@@ -855,13 +879,14 @@
       ]
     },
     {
-      "word": "speak",
+      "id": "97cdc0b8-2915-4840-a62f-096432755d85",
+      "word": "to speak",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3BlYWs&hash=6d30ebf9b713503cc57376e8cc08814ebaa9f248&lang=en&cache-only=0",
       "phonetic_text": "spi:k",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3BlYWs&hash=6d30ebf9b713503cc57376e8cc08814ebaa9f248&lang=en&cache-only=0",
-      "phonetic_am_text": "speek",
-      "img": "https://cdn.langeek.co/photo/48701/original/talk?type=jpeg",
+      "phonetic_am_text": "spik",
+      "img": "https://cdn.langeek.co/photo/60806/original/?type=jpeg",
       "pronunciation": "spiːk",
       "senses": [
         {
@@ -892,13 +917,14 @@
       ]
     },
     {
-      "word": "spell",
+      "id": "a8483102-d419-4d9e-8cd7-bce1eee652bd",
+      "word": "to spell",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3BlbGw&hash=e284cba3a16e7f3eacc61e1da6ba3e90d354cfce&lang=en&cache-only=0",
       "phonetic_text": "spɛl",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3BlbGw&hash=e284cba3a16e7f3eacc61e1da6ba3e90d354cfce&lang=en&cache-only=0",
       "phonetic_am_text": "spel",
-      "img": "https://cdn.langeek.co/photo/21258/original/?type=jpeg",
+      "img": "https://cdn.langeek.co/photo/60794/original/?type=jpeg",
       "pronunciation": "spɛl",
       "senses": [
         {
@@ -929,12 +955,13 @@
       ]
     },
     {
-      "word": "dislike",
+      "id": "1136f858-8bad-4296-ba7e-e177dd2c87e6",
+      "word": "to dislike",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZGlzbGlrZQ&hash=bdf748fe08435621cef658dd83e3d5d150701680&lang=en&cache-only=0",
-      "phonetic_text": "dɪslaɪk",
+      "phonetic_text": "dɪs.laɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZGlzbGlrZQ&hash=bdf748fe08435621cef658dd83e3d5d150701680&lang=en&cache-only=0",
-      "phonetic_am_text": "dislaik",
+      "phonetic_am_text": "dis.laik",
       "img": "https://cdn.langeek.co/photo/43726/original/?type=jpeg",
       "pronunciation": "dɪsˈlaɪk",
       "senses": [
@@ -962,7 +989,8 @@
       ]
     },
     {
-      "word": "add",
+      "id": "7570be80-7bb2-43f2-bdc2-dc1bfe03b192",
+      "word": "to add",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWRk&hash=5321d9c06b266668acd4881693fa40b5cec60847&lang=en&cache-only=0",
       "phonetic_text": "æd",
@@ -995,13 +1023,14 @@
       ]
     },
     {
-      "word": "call",
+      "id": "2b90a4eb-ab44-4b25-a4e2-931d0228c715",
+      "word": "to call",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2FsbA&hash=67dd5e1100d76d08ee54aadd21a54570b88429c3&lang=en&cache-only=0",
       "phonetic_text": "kɔ:l",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2FsbA&hash=67dd5e1100d76d08ee54aadd21a54570b88429c3&lang=en&cache-only=0",
-      "phonetic_am_text": "kaawl",
-      "img": "https://cdn.langeek.co/photo/21254/original/?type=jpeg",
+      "phonetic_am_text": "kawl",
+      "img": "https://cdn.langeek.co/photo/60756/original/?type=jpeg",
       "pronunciation": "kɔːl",
       "senses": [
         {
@@ -1032,7 +1061,8 @@
       ]
     },
     {
-      "word": "create",
+      "id": "7a4b3042-4b47-4c10-b9f5-4c06a184ece5",
+      "word": "to create",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3JlYXRl&hash=add4ae58fec98328e28aa15bdcf35dc4976d4340&lang=en&cache-only=0",
       "phonetic_text": "krieɪt",
@@ -1069,7 +1099,8 @@
       ]
     },
     {
-      "word": "cut",
+      "id": "35a5b183-89df-4100-9500-07ed3c5c9c28",
+      "word": "to cut",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY3V0&hash=5c0a06b7124a306811bf5557a68596a8cb917a5f&lang=en&cache-only=0",
       "phonetic_text": "kʌt",

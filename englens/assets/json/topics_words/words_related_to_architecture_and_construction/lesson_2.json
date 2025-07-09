@@ -1,15 +1,17 @@
 {
+  "id": "d077dc9b-21a4-4681-89c7-90845830d39e",
   "topic": "words_related_to_architecture_and_construction",
   "title": "Classical Architecture",
   "lesson": "lesson_2",
   "word_list": [
     {
+      "id": "bc196d14-eeda-48b0-85ee-2b4132a40291",
       "word": "tambour",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGFtYm91cg&hash=e77edfc238236dedbfdd201e14efa7304b57d008&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tæm.bər",
       "phonetic_am": "https://tts.langeek.co/read?text=dGFtYm91cg&hash=e77edfc238236dedbfdd201e14efa7304b57d008&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tām.bēr",
       "img": "",
       "pronunciation": "tˈæmbɚ",
       "senses": [
@@ -20,12 +22,13 @@
       ]
     },
     {
+      "id": "8256743d-27b4-44f2-bd68-5d9fd3e59233",
       "word": "glyph",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2x5cGg&hash=4f85a8bc86b23550a07473c0f5017c9e5b8025fb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "glɪf",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2x5cGg&hash=4f85a8bc86b23550a07473c0f5017c9e5b8025fb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "glif",
       "img": "",
       "pronunciation": "ɡlˈɪf",
       "senses": [
@@ -36,12 +39,13 @@
       ]
     },
     {
+      "id": "e687c489-6960-49b4-a8b4-486921417760",
       "word": "triglyph",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJpZ2x5cGg&hash=5c22ff9d8c4ca32f2739d70bbe4adaf53eed40fc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "traɪ.glɪf",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJpZ2x5cGg&hash=5c22ff9d8c4ca32f2739d70bbe4adaf53eed40fc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trai.glif",
       "img": "",
       "pronunciation": "tɹˈɪɡlɪf",
       "senses": [
@@ -52,28 +56,51 @@
       ]
     },
     {
+      "id": "d9ace865-a524-4c4b-83e2-0e26c9e52e2d",
       "word": "pediment",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVkaW1lbnQ&hash=a571eee37ab309fe536286f0089292e52adf7e05&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɛ.dɪ.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVkaW1lbnQ&hash=a571eee37ab309fe536286f0089292e52adf7e05&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pe.di.mēnt",
       "img": "",
       "pronunciation": "pˈɛdɪmənt",
       "senses": [
         {
           "definition": "the triangular upper portion of the entrance of a building, often seen in buildings with Classical architecture",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The neoclassical building had a grand entrance adorned with a triangular pediment, supported by columns."
+            },
+            {
+              "cf": "",
+              "x": "The Greek temple's pediment depicted scenes from mythology, carved in intricate relief sculptures."
+            },
+            {
+              "cf": "",
+              "x": "The Baroque façade was crowned with an elaborate pediment featuring sculpted figures and decorative motifs."
+            },
+            {
+              "cf": "",
+              "x": "The Federal-style house had a pediment above the front door, adding a touch of elegance to its simple design."
+            },
+            {
+              "cf": "",
+              "x": "The Romanesque church had a tympanum set within its pediment, depicting the Last Judgment in vivid detail."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "41d6935a-da87-452e-ab6f-208ec13579fa",
       "word": "entablature",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZW50YWJsYXR1cmU&hash=7f61b999662e4c67c4fa78e0f81774b2f7d523cb&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛn.tæb.lə.ʧɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZW50YWJsYXR1cmU&hash=7f61b999662e4c67c4fa78e0f81774b2f7d523cb&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "en.tāb.lē.chēr",
       "img": "",
       "pronunciation": "ɛntˈæblətʃɚ",
       "senses": [
@@ -105,12 +132,13 @@
       ]
     },
     {
+      "id": "e099789a-d004-44f6-b8a3-a87413dd0bf6",
       "word": "portico",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cG9ydGljbw&hash=a48158aad27c45b1fe1c3f387f2c99c2a44f0069&lang=en&cache-only=0",
-      "phonetic_text": "pɔ:rtəkoʊ",
+      "phonetic_text": "pɔr.tə.koʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=cG9ydGljbw&hash=a48158aad27c45b1fe1c3f387f2c99c2a44f0069&lang=en&cache-only=0",
-      "phonetic_am_text": "paawrtēkow",
+      "phonetic_am_text": "pawr.tē.kooo",
       "img": "",
       "pronunciation": "ˈpɔɹtəˌkoʊ",
       "senses": [
@@ -142,12 +170,13 @@
       ]
     },
     {
+      "id": "c7bc24bb-8265-411b-8d58-efd0377eeaac",
       "word": "classical order",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xhc3NpY2FsIG9yZGVy&hash=cbe060e02d9c39315ced4503a0406fa5d6d07860&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "klæ.sɪ.kəl ɔ:r.dər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xhc3NpY2FsIG9yZGVy&hash=cbe060e02d9c39315ced4503a0406fa5d6d07860&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "klā.si.kēl awr.dēr",
       "img": "",
       "pronunciation": "klˈæsɪkəl ˈɔːɹdɚ",
       "senses": [
@@ -158,12 +187,13 @@
       ]
     },
     {
+      "id": "b385e5e3-3d3b-40d5-bf4b-77f4eb79de1e",
       "word": "xyst",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=eHlzdA&hash=431c165fd73231d6c1a93a1651da05613933f0f3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "zaɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=eHlzdA&hash=431c165fd73231d6c1a93a1651da05613933f0f3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "zaist",
       "img": "",
       "pronunciation": "zˈaɪst",
       "senses": [
@@ -174,12 +204,13 @@
       ]
     },
     {
+      "id": "b5fd129a-5d9e-4424-a369-8262a3f21915",
       "word": "architrave",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJjaGl0cmF2ZQ&hash=e058c205653badbd57a3348b1b2d6bf7e44f3c9a&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:rkətreɪv",
+      "phonetic_text": "ɑr.kət.reɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJjaGl0cmF2ZQ&hash=e058c205653badbd57a3348b1b2d6bf7e44f3c9a&lang=en&cache-only=0",
-      "phonetic_am_text": "aarkētreiv",
+      "phonetic_am_text": "aar.kēt.reiv",
       "img": "",
       "pronunciation": "ˈɑɹkəˌtɹeɪv",
       "senses": [
@@ -190,12 +221,13 @@
       ]
     },
     {
+      "id": "48d0572c-934a-4039-9445-f6dc64c88e22",
       "word": "metope",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWV0b3Bl&hash=d530112bec89222355d9e768367293021abd541f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mɛ.toʊp",
       "phonetic_am": "https://tts.langeek.co/read?text=bWV0b3Bl&hash=d530112bec89222355d9e768367293021abd541f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "me.tooop",
       "img": "",
       "pronunciation": "mˈɛɾoʊp",
       "senses": [
@@ -206,10 +238,11 @@
       ]
     },
     {
-      "word": "doric frieze",
+      "id": "e16d01d5-d958-496e-affe-4cbc6915e6dd",
+      "word": "Doric frieze",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RG9yaWMgZnJpZXpl&hash=0d1238d955249476cb1475c0f2e066aa965e29a3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RG9yaWMgZnJpZXpl&hash=0d1238d955249476cb1475c0f2e066aa965e29a3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -222,10 +255,11 @@
       ]
     },
     {
+      "id": "69078fae-b0ea-4255-aa01-10491f51e246",
       "word": "Doric order",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=RG9yaWMgb3JkZXI&hash=3fca0eee986b2aa3525e1db50987bc40e80f730d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=RG9yaWMgb3JkZXI&hash=3fca0eee986b2aa3525e1db50987bc40e80f730d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -238,12 +272,13 @@
       ]
     },
     {
+      "id": "e607e6a8-f159-40a2-a059-0f0ec36e710d",
       "word": "arcade",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJjYWRl&hash=d757563ecf165ff6ef22fc350de61d126c55cf5d&lang=en&cache-only=0",
-      "phonetic_text": "ɑrkeɪd",
+      "phonetic_text": "ɑr.keɪd",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJjYWRl&hash=d757563ecf165ff6ef22fc350de61d126c55cf5d&lang=en&cache-only=0",
-      "phonetic_am_text": "ɑrkeid",
+      "phonetic_am_text": "aar.keid",
       "img": "https://cdn.langeek.co/photo/31777/original/?type=jpeg",
       "pronunciation": "ɑɹˈkeɪd",
       "senses": [
@@ -275,12 +310,13 @@
       ]
     },
     {
+      "id": "c3fe45b4-758c-4432-bead-5aef17fba676",
       "word": "peristyle",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGVyaXN0eWxl&hash=9a4fd4dcfc7bf3cfbeb82dc92feb137d81ee0681&lang=en&cache-only=0",
-      "phonetic_text": "pɛrəstaɪl",
+      "phonetic_text": "pɛ.rəs.taɪl",
       "phonetic_am": "https://tts.langeek.co/read?text=cGVyaXN0eWxl&hash=9a4fd4dcfc7bf3cfbeb82dc92feb137d81ee0681&lang=en&cache-only=0",
-      "phonetic_am_text": "perēstail",
+      "phonetic_am_text": "pe.rēs.tail",
       "img": "",
       "pronunciation": "ˈpɛɹəˌstaɪɫ",
       "senses": [
@@ -291,12 +327,13 @@
       ]
     },
     {
+      "id": "e6711771-318a-4225-a1d5-9e5de07c0f67",
       "word": "stoa",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RvYQ&hash=0639bcc4e32d84417c72064187cd18369c310b1d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stoʊə",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RvYQ&hash=0639bcc4e32d84417c72064187cd18369c310b1d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "stoooē",
       "img": "",
       "pronunciation": "stˈoʊə",
       "senses": [
@@ -307,12 +344,13 @@
       ]
     },
     {
+      "id": "c69b73e8-a72d-4b69-bb9b-21450a56a65a",
       "word": "odeon",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=b2Rlb24&hash=70f896ec9100c78a3f00fdde73ed9c3a392ddb6b&lang=en&cache-only=0",
-      "phonetic_text": "oʊdiən",
+      "phonetic_text": "oʊ.diən",
       "phonetic_am": "https://tts.langeek.co/read?text=b2Rlb24&hash=70f896ec9100c78a3f00fdde73ed9c3a392ddb6b&lang=en&cache-only=0",
-      "phonetic_am_text": "owdiēn",
+      "phonetic_am_text": "ooo.diēn",
       "img": "",
       "pronunciation": "ˈoʊdiən",
       "senses": [
@@ -323,12 +361,13 @@
       ]
     },
     {
+      "id": "1fe46dcf-b678-47af-b8ea-efdf93c74ba0",
       "word": "basilica",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFzaWxpY2E&hash=c570a56d1fb18e02ab9b670772f37ace03ecade4&lang=en&cache-only=0",
-      "phonetic_text": "bəsɪlɪkə",
+      "phonetic_text": "bə.sɪ.lɪ.kə",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFzaWxpY2E&hash=c570a56d1fb18e02ab9b670772f37ace03ecade4&lang=en&cache-only=0",
-      "phonetic_am_text": "bēsilikē",
+      "phonetic_am_text": "bē.si.li.kē",
       "img": "",
       "pronunciation": "bəˈsɪɫɪkə/, /bəˈzɪɫəkə",
       "senses": [
@@ -339,12 +378,13 @@
       ]
     },
     {
+      "id": "1346edfd-e044-4ceb-bb2a-1b5999f96094",
       "word": "loggia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bG9nZ2lh&hash=3d56db661697066fa9104afcf0e16ca0ba48eb32&lang=en&cache-only=0",
-      "phonetic_text": "lɑ:giə",
+      "phonetic_text": "lɑ.giə",
       "phonetic_am": "https://tts.langeek.co/read?text=bG9nZ2lh&hash=3d56db661697066fa9104afcf0e16ca0ba48eb32&lang=en&cache-only=0",
-      "phonetic_am_text": "laagiē",
+      "phonetic_am_text": "laa.giē",
       "img": "",
       "pronunciation": "ˈɫɑɡiə",
       "senses": [
@@ -355,12 +395,13 @@
       ]
     },
     {
+      "id": "c5e5ba54-5809-440b-8e04-a3a726b13303",
       "word": "cella",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2VsbGE&hash=ba39f671cf67ca923ed63a60d3795b98b093e7dd&lang=en&cache-only=0",
-      "phonetic_text": "sɛlə",
+      "phonetic_text": "sɛ.lə",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2VsbGE&hash=ba39f671cf67ca923ed63a60d3795b98b093e7dd&lang=en&cache-only=0",
-      "phonetic_am_text": "selē",
+      "phonetic_am_text": "se.lē",
       "img": "",
       "pronunciation": "ˈsɛɫə",
       "senses": [
@@ -371,12 +412,13 @@
       ]
     },
     {
+      "id": "85e5940d-12ba-4d0d-b6c0-34a22da2c8fd",
       "word": "anthemion",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW50aGVtaW9u&hash=4517cd8d348a7772c515c20a226e021834a2258d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æn.θɛ.miən",
       "phonetic_am": "https://tts.langeek.co/read?text=YW50aGVtaW9u&hash=4517cd8d348a7772c515c20a226e021834a2258d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ān.the.miēn",
       "img": "",
       "pronunciation": "ænθˈɛmiən",
       "senses": [
@@ -387,12 +429,13 @@
       ]
     },
     {
+      "id": "5bb83f9f-8c5e-4464-b435-e68f786a26aa",
       "word": "arcature",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJjYXR1cmU&hash=3f3082393a5fc788b44f90b7343c7b750f080e55&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:r.kə.ʧʊr",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJjYXR1cmU&hash=3f3082393a5fc788b44f90b7343c7b750f080e55&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aar.kē.choor",
       "img": "",
       "pronunciation": "ˈɑːɹkətʃˌʊɹ",
       "senses": [
@@ -403,12 +446,13 @@
       ]
     },
     {
+      "id": "1c093339-e78f-4a80-88cc-00ff176034b8",
       "word": "banderole",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFuZGVyb2xl&hash=39a1a598b0024770e70ed4caaf31363eeb067acd&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bæn.də.roʊl",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFuZGVyb2xl&hash=39a1a598b0024770e70ed4caaf31363eeb067acd&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bān.dē.roool",
       "img": "",
       "pronunciation": "bˈændɚɹˌoʊl",
       "senses": [
@@ -419,12 +463,13 @@
       ]
     },
     {
+      "id": "b09b7244-dad0-4ceb-94be-16074a5fe621",
       "word": "cyma",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y3ltYQ&hash=12be86c1e88fd5cfd0934e876fd46d35eaab6867&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "saɪ.mə",
       "phonetic_am": "https://tts.langeek.co/read?text=Y3ltYQ&hash=12be86c1e88fd5cfd0934e876fd46d35eaab6867&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "sai.mē",
       "img": "",
       "pronunciation": "sˈaɪmə",
       "senses": [
@@ -435,12 +480,13 @@
       ]
     },
     {
+      "id": "68bc2730-efd1-4d77-8d8f-b4a71e09e71e",
       "word": "exedra",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXhlZHJh&hash=89a4076908e53d1945de87159e3c4a38512335c8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛ.gzɛd.rə",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXhlZHJh&hash=89a4076908e53d1945de87159e3c4a38512335c8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "e.gzed.rē",
       "img": "",
       "pronunciation": "ɛɡzˈɛdɹə",
       "senses": [
@@ -451,12 +497,13 @@
       ]
     },
     {
+      "id": "3b516ce5-e48f-4126-9e00-39bc1812997e",
       "word": "stylobate",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3R5bG9iYXRl&hash=bbb7c5783eee4422f828c0384be45770eac127e9&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "staɪ.lə.beɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=c3R5bG9iYXRl&hash=bbb7c5783eee4422f828c0384be45770eac127e9&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "stai.lē.beit",
       "img": "",
       "pronunciation": "stˈaɪləbˌeɪt",
       "senses": [
@@ -467,12 +514,13 @@
       ]
     },
     {
+      "id": "0f2b8a37-b27c-4fef-9195-6a30583d1ce3",
       "word": "corona",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29yb25h&hash=25ffe2b694f8be140ee8589018efead7f57245dd&lang=en&cache-only=0",
-      "phonetic_text": "kəroʊnə",
+      "phonetic_text": "kɜ.roʊ.nə",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29yb25h&hash=25ffe2b694f8be140ee8589018efead7f57245dd&lang=en&cache-only=0",
-      "phonetic_am_text": "kērownē",
+      "phonetic_am_text": "kē.rooo.nē",
       "img": "",
       "pronunciation": "kɝˈoʊnə",
       "senses": [
@@ -483,12 +531,13 @@
       ]
     },
     {
+      "id": "f519a119-d54a-4cb6-8572-89f44637b490",
       "word": "acroter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWNyb3Rlcg&hash=a19cfbb6d585511401c5494bb38d5a8661484cb6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æk.roʊ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=YWNyb3Rlcg&hash=a19cfbb6d585511401c5494bb38d5a8661484cb6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "āk.rooo.tēr",
       "img": "",
       "pronunciation": "ˈækɹoʊɾɚ",
       "senses": [
@@ -499,12 +548,13 @@
       ]
     },
     {
+      "id": "64f7bf48-88d5-4599-a0f7-f7c102e8ed57",
       "word": "grotto",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JvdHRv&hash=8feb34541e2bcec2eee27cc674d4b0357a45199d&lang=en&cache-only=0",
-      "phonetic_text": "grɑ:toʊ",
+      "phonetic_text": "grɑ.toʊ",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JvdHRv&hash=8feb34541e2bcec2eee27cc674d4b0357a45199d&lang=en&cache-only=0",
-      "phonetic_am_text": "graatow",
+      "phonetic_am_text": "graa.tooo",
       "img": "",
       "pronunciation": "ˈɡɹɑˌtoʊ",
       "senses": [
@@ -515,12 +565,13 @@
       ]
     },
     {
+      "id": "90b53555-40ec-4c8d-99b4-72e7f749420c",
       "word": "mutule",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bXV0dWxl&hash=16a08d0c475aea9cf8bcf5e0ad29e87bdd03cbf6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mju:.tu:l",
       "phonetic_am": "https://tts.langeek.co/read?text=bXV0dWxl&hash=16a08d0c475aea9cf8bcf5e0ad29e87bdd03cbf6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "myoo.tool",
       "img": "",
       "pronunciation": "mjˈuːɾuːl",
       "senses": [
@@ -531,10 +582,11 @@
       ]
     },
     {
+      "id": "5984f545-cf76-4c29-b04b-e650e4ca09f5",
       "word": "Ionic order",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=SW9uaWMgb3JkZXI&hash=31de3442f3969bbdd593554d5e5fe56434bbb4a4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=SW9uaWMgb3JkZXI&hash=31de3442f3969bbdd593554d5e5fe56434bbb4a4&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -547,10 +599,11 @@
       ]
     },
     {
+      "id": "3d97f10f-c0da-45c6-87a1-05f69fed961e",
       "word": "Corinthian order",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q29yaW50aGlhbiBvcmRlcg&hash=303076fcf107d651c4828f452bb8b1739dadede6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Q29yaW50aGlhbiBvcmRlcg&hash=303076fcf107d651c4828f452bb8b1739dadede6&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -563,12 +616,13 @@
       ]
     },
     {
+      "id": "2907870c-31a7-437d-ae80-bd30742261a8",
       "word": "cornice",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29ybmljZQ&hash=b62a808b8083c7046fa435fa62f90469ff8cd30a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɔrn.aɪs",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29ybmljZQ&hash=b62a808b8083c7046fa435fa62f90469ff8cd30a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kawrn.ais",
       "img": "",
       "pronunciation": "kˈɔːɹnɪs",
       "senses": [
@@ -579,12 +633,13 @@
       ]
     },
     {
+      "id": "3cf0adcc-dd5d-45f6-8276-2f6c9e74af21",
       "word": "antefix",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW50ZWZpeA&hash=035e765dfa01d15cb11575dfc8cd0293345730cf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æn.tɪ.fɪks",
       "phonetic_am": "https://tts.langeek.co/read?text=YW50ZWZpeA&hash=035e765dfa01d15cb11575dfc8cd0293345730cf&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ān.ti.fiks",
       "img": "",
       "pronunciation": "ˈæntɪfˌɪks",
       "senses": [
@@ -595,12 +650,13 @@
       ]
     },
     {
+      "id": "802eea5f-2381-4a50-8534-a2da76d253fb",
       "word": "egg and dart",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=ZWdnIGFuZCBkYXJ0&hash=7b0bafa96a83d63c413867562ab3361934a845db&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɛg ænd dɑrt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWdnIGFuZCBkYXJ0&hash=7b0bafa96a83d63c413867562ab3361934a845db&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "eg ānd daart",
       "img": "",
       "pronunciation": "ˈɛɡ ænd dˈɑːɹt",
       "senses": [
@@ -611,12 +667,13 @@
       ]
     },
     {
+      "id": "594330fb-154e-4d70-b445-650e654014f7",
       "word": "atrium",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXRyaXVt&hash=00d87d4a1f77b836e5fccc74180975f7971f6e8e&lang=en&cache-only=0",
-      "phonetic_text": "eɪtriəm",
+      "phonetic_text": "eɪt.riəm",
       "phonetic_am": "https://tts.langeek.co/read?text=YXRyaXVt&hash=00d87d4a1f77b836e5fccc74180975f7971f6e8e&lang=en&cache-only=0",
-      "phonetic_am_text": "eitriēm",
+      "phonetic_am_text": "eit.riēm",
       "img": "",
       "pronunciation": "ˈeɪtɹiəm",
       "senses": [
@@ -627,12 +684,13 @@
       ]
     },
     {
+      "id": "e735bba4-9d95-4402-a8db-d4bd8e1f8dea",
       "word": "amphitheater",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW1waGl0aGVhdGVy&hash=7db03e51fa274241900fb4b87833346a826b26aa&lang=en&cache-only=0",
-      "phonetic_text": "æmfəθieɪtər",
+      "phonetic_text": "æm.fə.θieɪ.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YW1waGl0aGVhdGVy&hash=7db03e51fa274241900fb4b87833346a826b26aa&lang=en&cache-only=0",
-      "phonetic_am_text": "āmfēthieitēr",
+      "phonetic_am_text": "ām.fē.thiei.tēr",
       "img": "https://cdn.langeek.co/photo/27211/original/?type=jpeg",
       "pronunciation": "ˈæmfəθiˈeɪtɝ",
       "senses": [
@@ -664,10 +722,11 @@
       ]
     },
     {
+      "id": "24bd859d-d9a3-4cf2-a39b-fb63620e80dc",
       "word": "Tuscan order",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=VHVzY2FuIG9yZGVy&hash=c5187253b1ce8fe5cea85c96859f11fe9e338cf7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=VHVzY2FuIG9yZGVy&hash=c5187253b1ce8fe5cea85c96859f11fe9e338cf7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -680,14 +739,15 @@
       ]
     },
     {
+      "id": "dab1f7ed-f38a-4071-a4fc-6ebc45b646b4",
       "word": "arch",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJjaA&hash=e660ec6b28190b6d678c50f58af49dffd7073bdb&lang=en&cache-only=0",
-      "phonetic_text": "ɑ:rʧ",
+      "phonetic_text": "ɑrʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJjaA&hash=e660ec6b28190b6d678c50f58af49dffd7073bdb&lang=en&cache-only=0",
       "phonetic_am_text": "aarch",
       "img": "https://cdn.langeek.co/photo/50898/original/?type=jpeg",
-      "pronunciation": "ˈɑɹtʃ",
+      "pronunciation": "ɑrtʃ",
       "senses": [
         {
           "definition": "a curved symmetrical structure that supports the weight above it, used in bridges or buildings",

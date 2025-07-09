@@ -1,17 +1,19 @@
 {
+  "id": "edfb25af-0416-4467-9d4b-4ecf3aadbb91",
   "topic": "hobbies_games",
   "title": "Playground Equipment",
   "lesson": "lesson_23",
   "word_list": [
     {
+      "id": "7b25825d-b4c7-4a65-b7c1-8268a7f52a3f",
       "word": "playground",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGxheWdyb3VuZA&hash=a8c9eff8a10617bc67ed3bccb4c38c9eb5cc26bc&lang=en&cache-only=0",
-      "phonetic_text": "pleɪgraʊnd",
+      "phonetic_text": "pleɪ.graʊnd",
       "phonetic_am": "https://tts.langeek.co/read?text=cGxheWdyb3VuZA&hash=a8c9eff8a10617bc67ed3bccb4c38c9eb5cc26bc&lang=en&cache-only=0",
-      "phonetic_am_text": "pleigrawnd",
+      "phonetic_am_text": "plei.graoond",
       "img": "https://cdn.langeek.co/photo/19196/original/playground?type=jpeg",
-      "pronunciation": "ˈpɫeɪˌɡɹaʊn/, /ˈpɫeɪˌɡɹaʊnd",
+      "pronunciation": "ˈpleɪˌɡraʊnd",
       "senses": [
         {
           "definition": "a playing area built outdoors for children, particularly inside parks or schools",
@@ -41,49 +43,30 @@
       ]
     },
     {
+      "id": "a4a0d4f1-88fa-4989-b567-0fe5ca03d2f9",
       "word": "ball pit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmFsbCBwaXQ&hash=e9237ca0bc264ad9af6da903cafd63f58bbb717e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bɔ:l pɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=YmFsbCBwaXQ&hash=e9237ca0bc264ad9af6da903cafd63f58bbb717e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bawl pit",
       "img": "",
       "pronunciation": "bˈɔːl pˈɪt",
       "senses": [
         {
           "definition": "an indoor play area filled with a large quantity of small, colorful plastic balls, often found in amusement parks, playgrounds, and children's entertainment centers, where kids can jump, play, and interact within the soft and bouncy environment",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The children spent hours playing in the ball pit at the indoor play center."
-            },
-            {
-              "cf": "",
-              "x": "I found my son buried under a mountain of colorful balls in the ball pit."
-            },
-            {
-              "cf": "",
-              "x": "The ball pit was full of laughing kids, each trying to find their way through the balls."
-            },
-            {
-              "cf": "",
-              "x": "After climbing the slide, she dove straight into the ball pit."
-            },
-            {
-              "cf": "",
-              "x": "We took the kids to a restaurant with a ball pit, and they had so much fun."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "bc03cf88-ffe7-46e9-a6af-8fef5c22a003",
       "word": "inflatable",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW5mbGF0YWJsZQ&hash=1ee33b5f5105841e0832e8a443b7da0909722348&lang=en&cache-only=0",
-      "phonetic_text": "ɪnfleɪtəbəl",
+      "phonetic_text": "ɪnf.leɪ.tə.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=aW5mbGF0YWJsZQ&hash=1ee33b5f5105841e0832e8a443b7da0909722348&lang=en&cache-only=0",
-      "phonetic_am_text": "infleitēbēl",
+      "phonetic_am_text": "inf.lei.tē.bēl",
       "img": "",
       "pronunciation": "ɪnˈfɫeɪtəbəɫ",
       "senses": [
@@ -94,12 +77,13 @@
       ]
     },
     {
+      "id": "8a50564a-9ce1-4a9b-a042-582a0c5c0a06",
       "word": "jungle gym",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=anVuZ2xlIGd5bQ&hash=5e521fbccbd5d5db927c15bdda67f24013e137b7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʤʌn.gəl ʤɪm",
       "phonetic_am": "https://tts.langeek.co/read?text=anVuZ2xlIGd5bQ&hash=5e521fbccbd5d5db927c15bdda67f24013e137b7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "jan.gēl jim",
       "img": "https://cdn.langeek.co/photo/32072/original/?type=jpeg",
       "pronunciation": "dʒˈʌŋɡəl dʒˈɪm",
       "senses": [
@@ -131,6 +115,7 @@
       ]
     },
     {
+      "id": "13fb1974-1736-4ef7-b4e4-5561ced4b567",
       "word": "slide",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2xpZGU&hash=7c75540d0c8ac2d61aa80cf8ad510510ed103da7&lang=en&cache-only=0",
@@ -168,14 +153,15 @@
       ]
     },
     {
+      "id": "cc3c4c96-afcc-4521-866d-33777aaf151f",
       "word": "swing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3dpbmc&hash=8e6169eb59c06ea10f5cce57d5a269042c60de22&lang=en&cache-only=0",
       "phonetic_text": "swɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=c3dpbmc&hash=8e6169eb59c06ea10f5cce57d5a269042c60de22&lang=en&cache-only=0",
-      "phonetic_am_text": "swing",
+      "phonetic_am_text": "sving",
       "img": "https://cdn.langeek.co/photo/31984/original/?type=jpeg",
-      "pronunciation": "ˈswɪŋ",
+      "pronunciation": "swɪŋ",
       "senses": [
         {
           "definition": "a seat hung by overhead chains or ropes on which people can sit on and move back and forth, often seen in playgrounds",
@@ -184,12 +170,13 @@
       ]
     },
     {
+      "id": "05567b22-ac62-4385-b91a-7b04d4fd8183",
       "word": "playhouse",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGxheWhvdXNl&hash=4dfce2c5cf33f07cd2f44764c2611c2926feaef5&lang=en&cache-only=0",
-      "phonetic_text": "pleɪhaʊs",
+      "phonetic_text": "pleɪ.haʊs",
       "phonetic_am": "https://tts.langeek.co/read?text=cGxheWhvdXNl&hash=4dfce2c5cf33f07cd2f44764c2611c2926feaef5&lang=en&cache-only=0",
-      "phonetic_am_text": "pleihaws",
+      "phonetic_am_text": "plei.haoos",
       "img": "",
       "pronunciation": "ˈpɫeɪˌhaʊs",
       "senses": [
@@ -221,49 +208,30 @@
       ]
     },
     {
+      "id": "2f2f0a7e-bd64-4543-a081-51dbcc899ea1",
       "word": "monkey bars",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bW9ua2V5IGJhcnM&hash=2064bcc98ffab34d119dcfa67a631597507fec19&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mʌn.ki bɑrz",
       "phonetic_am": "https://tts.langeek.co/read?text=bW9ua2V5IGJhcnM&hash=2064bcc98ffab34d119dcfa67a631597507fec19&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "man.ki baarz",
       "img": "",
       "pronunciation": "mˈʌnki bˈɑːɹz",
       "senses": [
         {
           "definition": "a playground equipment consisting of a series of horizontal bars set at different heights, where children can hang, swing, and climb across, promoting upper body strength and coordination during play",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The children were having fun swinging across the monkey bars at the playground."
-            },
-            {
-              "cf": "",
-              "x": "She climbed up to the top of the jungle gym and raced her friend across the monkey bars."
-            },
-            {
-              "cf": "",
-              "x": "After school, the kids always run straight to the monkey bars to see who can go the fastest."
-            },
-            {
-              "cf": "",
-              "x": "The monkey bars are too high for me, but I love watching others do tricks on them."
-            },
-            {
-              "cf": "",
-              "x": "He was tired after playing on the monkey bars for so long, but he did not want to stop."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "f8d20286-cbb4-4fdc-a896-5fb510175776",
       "word": "seesaw",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Vlc2F3&hash=9b5db28248049938a0058371088234c5865f8e06&lang=en&cache-only=0",
-      "phonetic_text": "si:sɔ",
+      "phonetic_text": "si:.sɔ",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Vlc2F3&hash=9b5db28248049938a0058371088234c5865f8e06&lang=en&cache-only=0",
-      "phonetic_am_text": "seesaw",
+      "phonetic_am_text": "si.saw",
       "img": "https://cdn.langeek.co/photo/31863/original/?type=jpeg",
       "pronunciation": "ˈsiˌsɔ",
       "senses": [
@@ -274,12 +242,13 @@
       ]
     },
     {
+      "id": "9e7c3407-43af-4d21-8963-d2b4a46ffdcf",
       "word": "merry-go-round",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWVycnktZ28tcm91bmQ&hash=373a8ec51db564f0a688988ff9e0a8a21f0abfa1&lang=en&cache-only=0",
-      "phonetic_text": "mɛrigoʊraʊnd",
+      "phonetic_text": "mɛ.ri-goʊ-raʊnd",
       "phonetic_am": "https://tts.langeek.co/read?text=bWVycnktZ28tcm91bmQ&hash=373a8ec51db564f0a688988ff9e0a8a21f0abfa1&lang=en&cache-only=0",
-      "phonetic_am_text": "merigowrawnd",
+      "phonetic_am_text": "me.ri-gooo-raoond",
       "img": "https://cdn.langeek.co/photo/32076/original/?type=jpeg",
       "pronunciation": "ˈmɛɹiɡoʊˌɹaʊnd",
       "senses": [
@@ -290,12 +259,13 @@
       ]
     },
     {
+      "id": "2af42967-0d06-45b2-8432-2b587d33b36e",
       "word": "sandbox",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2FuZGJveA&hash=103e073cb5c0ff94bf82337c39bf40bb14abac94&lang=en&cache-only=0",
-      "phonetic_text": "sændbɑks",
+      "phonetic_text": "sænd.bɑ:ks",
       "phonetic_am": "https://tts.langeek.co/read?text=c2FuZGJveA&hash=103e073cb5c0ff94bf82337c39bf40bb14abac94&lang=en&cache-only=0",
-      "phonetic_am_text": "sāndbɑks",
+      "phonetic_am_text": "sānd.baaks",
       "img": "https://cdn.langeek.co/photo/33847/original/?type=jpeg",
       "pronunciation": "ˈsændˌbɑks",
       "senses": [
@@ -306,12 +276,13 @@
       ]
     },
     {
+      "id": "2eeed825-cf2f-46ef-b20e-7fb8fc2ce238",
       "word": "spring rider",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3ByaW5nIHJpZGVy&hash=d66037c3e2fb42198f2446aba20eac59403636bf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sprɪng raɪ.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3ByaW5nIHJpZGVy&hash=d66037c3e2fb42198f2446aba20eac59403636bf&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "spring rai.dēr",
       "img": "",
       "pronunciation": "spɹˈɪŋ ɹˈaɪdɚ",
       "senses": [
@@ -343,45 +314,30 @@
       ]
     },
     {
+      "id": "da673b22-186d-4ea7-afd7-b39465ad1cf9",
       "word": "climbing structure",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xpbWJpbmcgc3RydWN0dXJl&hash=97a6fa5a37a7fdd8f16f397184a5181e57826b46&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "klaɪm.ɪng strək.ʧɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xpbWJpbmcgc3RydWN0dXJl&hash=97a6fa5a37a7fdd8f16f397184a5181e57826b46&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "klaim.ing strēk.chēr",
       "img": "",
       "pronunciation": "klˈaɪmɪŋ stɹˈʌktʃɚ",
       "senses": [
         {
           "definition": "a play equipment with various climbing elements, promoting physical activity and imaginative play",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The children spent hours playing on the climbing structure at the park."
-            },
-            {
-              "cf": "",
-              "x": "The new climbing structure has slides and tunnels, making it even more exciting."
-            },
-            {
-              "cf": "",
-              "x": "After playing on the climbing structure, they ran over to the swings to take a break."
-            },
-            {
-              "cf": "",
-              "x": "She climbed all the way to the top of the climbing structure without any help."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "73018f0a-dea1-4301-be52-4420b1fd864a",
       "word": "tire swing",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dGlyZSBzd2luZw&hash=c78cafcbe6d317646b18fe275366d3e6fa3e6e1f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "taɪɜr swɪng",
       "phonetic_am": "https://tts.langeek.co/read?text=dGlyZSBzd2luZw&hash=c78cafcbe6d317646b18fe275366d3e6fa3e6e1f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "taiēr sving",
       "img": "",
       "pronunciation": "tˈaɪɚ swˈɪŋ",
       "senses": [
@@ -392,12 +348,13 @@
       ]
     },
     {
+      "id": "e38a4559-b11f-4b89-aa38-13bd00ce28ee",
       "word": "climbing net",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xpbWJpbmcgbmV0&hash=ff202f39fdc553bc542aa240c54e7806d286c120&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "klaɪm.ɪng net",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xpbWJpbmcgbmV0&hash=ff202f39fdc553bc542aa240c54e7806d286c120&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "klaim.ing net",
       "img": "",
       "pronunciation": "klˈaɪmɪŋ nˈɛt",
       "senses": [
@@ -408,47 +365,28 @@
       ]
     },
     {
+      "id": "f15ea524-4972-4c34-a04a-63b47515b61c",
       "word": "zip line",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=emlwIGxpbmU&hash=f24e1a344c989a051e89dbd6fd78846e12b56ad2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "zɪp laɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=emlwIGxpbmU&hash=f24e1a344c989a051e89dbd6fd78846e12b56ad2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "zip lain",
       "img": "https://cdn.langeek.co/photo/45014/original/?type=jpeg",
       "pronunciation": "zˈɪp lˈaɪn",
       "senses": [
         {
           "definition": "an outdoor recreational activity and adventure sport where participants ride along a cable or wire, often suspended between two elevated points, using a harness and pulley system, experiencing a thrilling and fast-paced aerial ride",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The kids couldn’t wait to try the zip line at the adventure park."
-            },
-            {
-              "cf": "",
-              "x": "The zip line goes over the entire playground, offering a thrilling view from above."
-            },
-            {
-              "cf": "",
-              "x": "I’ve never been on a zip line before, but it looks thrilling."
-            },
-            {
-              "cf": "",
-              "x": "The zip line took us high above the forest, giving us an amazing view."
-            },
-            {
-              "cf": "",
-              "x": "After climbing up to the platform, he grabbed the harness and took off on the zip line."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "c28a3659-ff71-4892-a832-b20f15b319c5",
       "word": "rocking horse",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cm9ja2luZyBob3JzZQ&hash=94373c70f5e3951e894fd113acb8b8d50978e8ec&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9ja2luZyBob3JzZQ&hash=94373c70f5e3951e894fd113acb8b8d50978e8ec&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/32042/original/?type=jpeg",
@@ -482,12 +420,13 @@
       ]
     },
     {
+      "id": "91b41143-cd9a-4106-b569-2e4648f908ab",
       "word": "trampoline",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhbXBvbGluZQ&hash=9bffb9c49771d8159410f85024358e7ca733de3d&lang=en&cache-only=0",
-      "phonetic_text": "træmpəli:n",
+      "phonetic_text": "træm.pə.lin",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhbXBvbGluZQ&hash=9bffb9c49771d8159410f85024358e7ca733de3d&lang=en&cache-only=0",
-      "phonetic_am_text": "trāmpēleen",
+      "phonetic_am_text": "trām.pē.lin",
       "img": "https://cdn.langeek.co/photo/21877/original/?type=jpeg",
       "pronunciation": "ˌtɹæmpəˈɫin",
       "senses": [
@@ -519,10 +458,11 @@
       ]
     },
     {
-      "word": "slip 'n slide",
+      "id": "5bb6750f-18d5-40d5-bddf-f134e9e72bdc",
+      "word": "Slip 'n Slide",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=U2xpcCAnbiBTbGlkZQ&hash=224fb352b9dbbed30f81263884abf44745c6620d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=U2xpcCAnbiBTbGlkZQ&hash=224fb352b9dbbed30f81263884abf44745c6620d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",

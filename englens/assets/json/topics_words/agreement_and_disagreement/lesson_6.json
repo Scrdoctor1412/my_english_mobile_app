@@ -1,15 +1,17 @@
 {
+  "id": "fab48e69-5255-4b13-8286-bbf1dfcdab0e",
   "topic": "agreement_and_disagreement",
   "title": "Cooperation and Conformity",
   "lesson": "lesson_6",
   "word_list": [
     {
-      "word": "accord with",
+      "id": "08c9091b-2225-420d-9d6b-89cf26ca997f",
+      "word": "to accord with",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYWNjb3JkIHdpdGg&hash=333687408c2cccb0618f159a9dcb8280e21c84fc&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ə.kɔrd wɪð",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYWNjb3JkIHdpdGg&hash=333687408c2cccb0618f159a9dcb8280e21c84fc&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ē.kawrd vidh",
       "img": "",
       "pronunciation": "ɐkˈoːɹd wɪð",
       "senses": [
@@ -25,12 +27,13 @@
       ]
     },
     {
-      "word": "chime in with",
+      "id": "af8b1a21-fc1a-434f-aa1d-18d4ae8273c5",
+      "word": "to chime in with",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hpbWUgaW4gd2l0aA&hash=7956ef9732ceeaf952831be777756fdf0918a6d4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧaɪm ɪn wɪð",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2hpbWUgaW4gd2l0aA&hash=7956ef9732ceeaf952831be777756fdf0918a6d4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chaim in vidh",
       "img": "",
       "pronunciation": "tʃˈaɪm ɪn wɪð",
       "senses": [
@@ -41,28 +44,51 @@
       ]
     },
     {
-      "word": "collaborate",
+      "id": "4ae01bb9-1f2f-4997-bfb9-5daf219ec5cc",
+      "word": "to collaborate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29sbGFib3JhdGU&hash=94e15c1606d0b0999e974c1272bffdae4e363126&lang=en&cache-only=0",
-      "phonetic_text": "kəlæbəreɪt",
+      "phonetic_text": "kə.læ.bɜ.reɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29sbGFib3JhdGU&hash=94e15c1606d0b0999e974c1272bffdae4e363126&lang=en&cache-only=0",
-      "phonetic_am_text": "kēlābēreit",
-      "img": "https://cdn.langeek.co/photo/16397/original/hire?type=jpeg",
+      "phonetic_am_text": "kē.lā.bē.reit",
+      "img": "https://cdn.langeek.co/photo/61764/original/hire?type=jpeg",
       "pronunciation": "kəˈɫæbɝˌeɪt",
       "senses": [
         {
           "definition": "to work with someone else in order to create something or reach the same goal",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The researchers collaborated on a groundbreaking study in neuroscience."
+            },
+            {
+              "cf": "",
+              "x": "Artists from different backgrounds collaborated on a mural for the community center."
+            },
+            {
+              "cf": "",
+              "x": "We need to collaborate with our colleagues to finalize the project proposal."
+            },
+            {
+              "cf": "",
+              "x": "The two companies decided to collaborate on developing a new software application."
+            },
+            {
+              "cf": "",
+              "x": "Teachers and parents collaborated to organize a successful school fundraiser."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7384a599-064f-47de-a226-60e4ccda9732",
       "word": "collaboration",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29sbGFib3JhdGlvbg&hash=40b6f4fdae219431750764e2838c2cd476cb2434&lang=en&cache-only=0",
-      "phonetic_text": "kəlæbəreɪʃən",
+      "phonetic_text": "kə.læ.bɜ.reɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29sbGFib3JhdGlvbg&hash=40b6f4fdae219431750764e2838c2cd476cb2434&lang=en&cache-only=0",
-      "phonetic_am_text": "kēlābēreishēn",
+      "phonetic_am_text": "kē.lā.bē.rei.shēn",
       "img": "https://cdn.langeek.co/photo/20766/original/partnership?type=jpeg",
       "pronunciation": "kəˌɫæbɝˈeɪʃən",
       "senses": [
@@ -73,12 +99,13 @@
       ]
     },
     {
+      "id": "ea55c64c-182b-416f-9c26-cf38750e25f2",
       "word": "collaborative",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y29sbGFib3JhdGl2ZQ&hash=166c80c732bb7810f48e06772f36e9a1d4ebfcb3&lang=en&cache-only=0",
-      "phonetic_text": "kəlæbəreɪtɪv",
+      "phonetic_text": "kə.læ.bɜ.reɪ.tɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29sbGFib3JhdGl2ZQ&hash=166c80c732bb7810f48e06772f36e9a1d4ebfcb3&lang=en&cache-only=0",
-      "phonetic_am_text": "kēlābēreitiv",
+      "phonetic_am_text": "kē.lā.bē.rei.tiv",
       "img": "",
       "pronunciation": "kəˈɫæbɝˌeɪtɪv/, /kəˈɫæbɹətɪv",
       "senses": [
@@ -89,28 +116,51 @@
       ]
     },
     {
+      "id": "51657692-c4a2-45a0-8e02-964f138205a7",
       "word": "collective",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y29sbGVjdGl2ZQ&hash=806523f1e55173d1d9f29e0e8747db8ead39c931&lang=en&cache-only=0",
-      "phonetic_text": "kəlɛktɪv",
+      "phonetic_text": "kə.lɛk.tɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29sbGVjdGl2ZQ&hash=806523f1e55173d1d9f29e0e8747db8ead39c931&lang=en&cache-only=0",
-      "phonetic_am_text": "kēlektiv",
+      "phonetic_am_text": "kē.lek.tiv",
       "img": "",
-      "pronunciation": "kəˈɫɛktɪv",
+      "pronunciation": "kəˈlɛktɪv",
       "senses": [
         {
           "definition": "involving, done, or shared by all members of a group",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The collective efforts of the volunteers resulted in a successful charity event."
+            },
+            {
+              "cf": "",
+              "x": "The village made a collective decision to preserve the ancient forest."
+            },
+            {
+              "cf": "",
+              "x": "The team's collective effort led to the successful completion of the project ahead of schedule."
+            },
+            {
+              "cf": "",
+              "x": "The community made a collective decision to renovate the local park."
+            },
+            {
+              "cf": "",
+              "x": "The board issued a collective statement in support of the new policy changes."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "collude",
+      "id": "4b2495b5-03e7-467c-8e73-75fb3c1d41c0",
+      "word": "to collude",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29sbHVkZQ&hash=6bab180dcbd8a2ca842e9045cc959eaf5ac1d6ee&lang=en&cache-only=0",
-      "phonetic_text": "kəlu:d",
+      "phonetic_text": "kə.lud",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29sbHVkZQ&hash=6bab180dcbd8a2ca842e9045cc959eaf5ac1d6ee&lang=en&cache-only=0",
-      "phonetic_am_text": "kēlood",
+      "phonetic_am_text": "kē.lood",
       "img": "",
       "pronunciation": "kəˈɫud",
       "senses": [
@@ -142,12 +192,13 @@
       ]
     },
     {
+      "id": "d18f7e16-0532-4284-b241-5d96998b0060",
       "word": "collusion",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29sbHVzaW9u&hash=4dbd65eddc3caffeffb6c91854ffae0c7e11464c&lang=en&cache-only=0",
-      "phonetic_text": "kəlu:ʒən",
+      "phonetic_text": "kə.lu.ʒən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29sbHVzaW9u&hash=4dbd65eddc3caffeffb6c91854ffae0c7e11464c&lang=en&cache-only=0",
-      "phonetic_am_text": "kēloozhēn",
+      "phonetic_am_text": "kē.loo.zhēn",
       "img": "",
       "pronunciation": "kəˈɫuʒən",
       "senses": [
@@ -179,12 +230,13 @@
       ]
     },
     {
+      "id": "a856915b-bba9-4d52-b970-5f88d6e58288",
       "word": "collusive",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y29sbHVzaXZl&hash=6a869693fb4202d90741b3a89e0d23c415ac8cfd&lang=en&cache-only=0",
-      "phonetic_text": "kəlu:sɪv",
+      "phonetic_text": "kə.lu.sɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29sbHVzaXZl&hash=6a869693fb4202d90741b3a89e0d23c415ac8cfd&lang=en&cache-only=0",
-      "phonetic_am_text": "kēloosiv",
+      "phonetic_am_text": "kē.loo.siv",
       "img": "",
       "pronunciation": "kəˈɫusɪv",
       "senses": [
@@ -195,12 +247,13 @@
       ]
     },
     {
+      "id": "8993ad5f-67f2-4ce2-9c9c-3477b6402f24",
       "word": "common ground",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29tbW9uIGdyb3VuZA&hash=e209523351b4b6b3ca4a2180cc463980792b3926&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑ.mən graʊnd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tbW9uIGdyb3VuZA&hash=e209523351b4b6b3ca4a2180cc463980792b3926&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaa.mēn graoond",
       "img": "",
       "pronunciation": "kˈɑːmən ɡɹˈaʊnd",
       "senses": [
@@ -232,12 +285,13 @@
       ]
     },
     {
-      "word": "conform",
+      "id": "9c6d2873-fed8-4126-a71a-e2e8ba76f3b0",
+      "word": "to conform",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29uZm9ybQ&hash=00ca0b9131188c8c2f000c230e87a04ea3df37fc&lang=en&cache-only=0",
-      "phonetic_text": "kənfɔ:rm",
+      "phonetic_text": "kən.fɔrm",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29uZm9ybQ&hash=00ca0b9131188c8c2f000c230e87a04ea3df37fc&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnfaawrm",
+      "phonetic_am_text": "kēn.fawrm",
       "img": "",
       "pronunciation": "kənˈfɔɹm",
       "senses": [
@@ -248,12 +302,13 @@
       ]
     },
     {
+      "id": "08cfd978-4266-410d-8e39-1b94cac518ac",
       "word": "conformability",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29uZm9ybWFiaWxpdHk&hash=50b5f4ad0b3a71c02b9c6a99a18d9522e9d4c0e8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kən.fɔ:r.mə.bɪ.lɪ.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uZm9ybWFiaWxpdHk&hash=50b5f4ad0b3a71c02b9c6a99a18d9522e9d4c0e8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kēn.fawr.mē.bi.li.ti",
       "img": "",
       "pronunciation": "kənfˌɔːɹməbˈɪlɪɾi",
       "senses": [
@@ -264,12 +319,13 @@
       ]
     },
     {
+      "id": "a0c18e3f-1525-4f57-aae0-980ff9674a41",
       "word": "conformable",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y29uZm9ybWFibGU&hash=090da915de0ef8590f08b5afa6368b270f98a060&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kən.fɔ:r.mə.bəl",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uZm9ybWFibGU&hash=090da915de0ef8590f08b5afa6368b270f98a060&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kēn.fawr.mē.bēl",
       "img": "",
       "pronunciation": "kənfˈɔːɹməbəl",
       "senses": [
@@ -293,12 +349,13 @@
       ]
     },
     {
+      "id": "c503f9c2-5d5b-4740-9668-3b4639775efd",
       "word": "conformance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29uZm9ybWFuY2U&hash=29654d5956bb9926503999bc8aa904aeca870b3a&lang=en&cache-only=0",
-      "phonetic_text": "kənfɔ:rməns",
+      "phonetic_text": "kən.fɔr.məns",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uZm9ybWFuY2U&hash=29654d5956bb9926503999bc8aa904aeca870b3a&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnfaawrmēns",
+      "phonetic_am_text": "kēn.fawr.mēns",
       "img": "",
       "pronunciation": "kənˈfɔɹməns",
       "senses": [
@@ -309,12 +366,13 @@
       ]
     },
     {
+      "id": "9b1289ac-1635-4dc8-8031-c0967faf98a5",
       "word": "conformity",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29uZm9ybWl0eQ&hash=7eca55f00d5871f6a227d1c4534a31c9e6bb4259&lang=en&cache-only=0",
-      "phonetic_text": "kənfɔ:rməti",
+      "phonetic_text": "kən.fɔr.mə.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uZm9ybWl0eQ&hash=7eca55f00d5871f6a227d1c4534a31c9e6bb4259&lang=en&cache-only=0",
-      "phonetic_am_text": "kēnfaawrmēti",
+      "phonetic_am_text": "kēn.fawr.mē.ti",
       "img": "",
       "pronunciation": "kənˈfɔɹməti",
       "senses": [
@@ -346,12 +404,13 @@
       ]
     },
     {
+      "id": "7e11eaf9-a6ee-466a-893a-fb01b61b18ce",
       "word": "consonance",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29uc29uYW5jZQ&hash=f75046fcfbd820e64f61604f2692356e8f4bf650&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑ:n.sə.nəns",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uc29uYW5jZQ&hash=f75046fcfbd820e64f61604f2692356e8f4bf650&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaan.sē.nēns",
       "img": "",
       "pronunciation": "kˈɑːnsənəns",
       "senses": [
@@ -362,12 +421,13 @@
       ]
     },
     {
+      "id": "9486cc5e-b788-4631-ae46-ee41f0962bb5",
       "word": "consonant",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y29uc29uYW50&hash=3bdb32fafb00cf021c7387629a1ef2c0b7df7818&lang=en&cache-only=0",
-      "phonetic_text": "kɑ:nsənənt",
+      "phonetic_text": "kɑn.sə.nənt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29uc29uYW50&hash=3bdb32fafb00cf021c7387629a1ef2c0b7df7818&lang=en&cache-only=0",
-      "phonetic_am_text": "kaansēnēnt",
+      "phonetic_am_text": "kaan.sē.nēnt",
       "img": "",
       "pronunciation": "ˈkɑnsənənt",
       "senses": [
@@ -378,28 +438,51 @@
       ]
     },
     {
-      "word": "cooperate",
+      "id": "20d138dd-4d56-45ad-9ad6-b653d0eda0af",
+      "word": "to cooperate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29vcGVyYXRl&hash=24928c7f5cfca0335ab7a5cbbaf57ac08844a363&lang=en&cache-only=0",
-      "phonetic_text": "koʊɑ:pəreɪt",
+      "phonetic_text": "koʊ.ɑ.pɜ.reɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29vcGVyYXRl&hash=24928c7f5cfca0335ab7a5cbbaf57ac08844a363&lang=en&cache-only=0",
-      "phonetic_am_text": "kowaapēreit",
-      "img": "https://cdn.langeek.co/photo/16421/original/meeting?type=jpeg",
-      "pronunciation": "ˈkwɑpɝˌeɪt/, /koʊˈɑpɝˌeɪt",
+      "phonetic_am_text": "kooo.aa.pē.reit",
+      "img": "https://cdn.langeek.co/photo/61644/original/meeting?type=jpeg",
+      "pronunciation": "koʊˈɑpəˌreɪt",
       "senses": [
         {
           "definition": "to work with other people in order to achieve a common goal",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The team members cooperated to complete the project ahead of schedule."
+            },
+            {
+              "cf": "",
+              "x": "Nations must cooperate to address global challenges such as climate change."
+            },
+            {
+              "cf": "",
+              "x": "Students cooperated on the group project to produce a comprehensive result."
+            },
+            {
+              "cf": "",
+              "x": "In sports, players must cooperate to win the game."
+            },
+            {
+              "cf": "",
+              "x": "Family members cooperated to organize a successful event."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "04042d29-7b20-4774-bf7e-68301b7b7e5f",
       "word": "cooperation",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29vcGVyYXRpb24&hash=bdf9498c4baa4a589d212224a5184f319fa7304b&lang=en&cache-only=0",
-      "phonetic_text": "koʊɑpəreɪʃən",
+      "phonetic_text": "koʊ.ɑ.pə.reɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29vcGVyYXRpb24&hash=bdf9498c4baa4a589d212224a5184f319fa7304b&lang=en&cache-only=0",
-      "phonetic_am_text": "kowɑpēreishēn",
+      "phonetic_am_text": "kooo.aa.pē.rei.shēn",
       "img": "https://cdn.langeek.co/photo/20766/original/partnership?type=jpeg",
       "pronunciation": "ˌkwɑpɝˈeɪʃən/, /ˌkwɔpɝˈeɪʃən/, /koʊˌɑpɝˈeɪʃən",
       "senses": [
@@ -410,39 +493,84 @@
       ]
     },
     {
+      "id": "9d6dcc66-383e-400f-abae-367a675e8e56",
       "word": "cooperative",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=Y29vcGVyYXRpdmU&hash=96eac43ae4ad3c0f50b8335db309520d2fdb7939&lang=en&cache-only=0",
-      "phonetic_text": "koʊɑ:pəreɪtɪv",
+      "phonetic_text": "koʊ.ɑ.pɜ.rə.tɪv",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29vcGVyYXRpdmU&hash=96eac43ae4ad3c0f50b8335db309520d2fdb7939&lang=en&cache-only=0",
-      "phonetic_am_text": "kowaapēreitiv",
+      "phonetic_am_text": "kooo.aa.pē.rē.tiv",
       "img": "",
-      "pronunciation": "koʊˈɑpɝˌeɪtɪv",
+      "pronunciation": "koʊˈɑpɚətɪv",
       "senses": [
         {
           "definition": "involving partnership of a group of people working toward a common goal",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The project was a cooperative effort between several departments within the company."
+            },
+            {
+              "cf": "",
+              "x": "The team members were cooperative and willing to collaborate to achieve success."
+            },
+            {
+              "cf": "",
+              "x": "The community organized a cooperative initiative to revitalize the neighborhood."
+            },
+            {
+              "cf": "",
+              "x": "The negotiations were cooperative, resulting in a mutually beneficial agreement."
+            },
+            {
+              "cf": "",
+              "x": "The cooperative approach to problem-solving led to innovative solutions and improved outcomes."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "coordinate",
+      "id": "523e5f6e-b460-4b54-b88e-709bc2729eb3",
+      "word": "to coordinate",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY29vcmRpbmF0ZQ&hash=08d08c7b0421f34260e9a89b2c38ea38cc78ac63&lang=en&cache-only=0",
-      "phonetic_text": "koʊɔ:rdənət",
+      "phonetic_text": "koʊ.ɔ:r.di.nət",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY29vcmRpbmF0ZQ&hash=08d08c7b0421f34260e9a89b2c38ea38cc78ac63&lang=en&cache-only=0",
-      "phonetic_am_text": "kowaawrdēnēt",
+      "phonetic_am_text": "kooo.awr.di.nēt",
       "img": "https://cdn.langeek.co/photo/59539/original/?type=jpeg",
       "pronunciation": "koʊˈɔɹdəˌneɪt/, /koʊˈɔɹdənət",
       "senses": [
         {
           "definition": "to control and organize the different parts of an activity and the group of people involved so that a good result is achieved",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The event planner coordinated all aspects of the wedding, ensuring that vendors, guests, and the wedding party were synchronized for a seamless celebration."
+            },
+            {
+              "cf": "",
+              "x": "The project manager frequently coordinates team efforts to meet project deadlines."
+            },
+            {
+              "cf": "",
+              "x": "She is currently coordinating schedules for the upcoming event."
+            },
+            {
+              "cf": "",
+              "x": "Can you please coordinate the transportation for the conference attendees?"
+            },
+            {
+              "cf": "",
+              "x": "We are coordinating with vendors to ensure timely delivery of supplies."
+            }
+          ]
         }
       ]
     },
     {
-      "word": "fit",
+      "id": "d7547f98-fcfb-401d-b3b8-4127704a5a3d",
+      "word": "to fit",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZml0&hash=3354b7c4007ee43c40d2eb602099a7947feac54a&lang=en&cache-only=0",
       "phonetic_text": "fɪt",
@@ -453,31 +581,75 @@
       "senses": [
         {
           "definition": "to agree with or be suitable for a particular thing",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The candidate's qualifications fit the job description perfectly."
+            },
+            {
+              "cf": "",
+              "x": "His personality doesn't quite fit the company culture."
+            },
+            {
+              "cf": "",
+              "x": "This solution fits the problem we're trying to solve."
+            },
+            {
+              "cf": "",
+              "x": "The new software doesn't quite fit our needs; we may need to explore other options."
+            },
+            {
+              "cf": "",
+              "x": "The design of the website needs to fit the brand's image and message."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "0cb13cf1-6fb5-4981-8032-7ec32f10131a",
       "word": "in accordance with",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=aW4gYWNjb3JkYW5jZSB3aXRo&hash=d554c6c82630b6458797e0e7ad5c55ada62ea8fe&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn ə.kɔr.dəns wɪð",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gYWNjb3JkYW5jZSB3aXRo&hash=d554c6c82630b6458797e0e7ad5c55ada62ea8fe&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in ē.kawr.dēns vidh",
       "img": "",
       "pronunciation": "ɪn ɐkˈoːɹdəns wɪð",
       "senses": [
         {
           "definition": "used to show compliance with a specific rule, guideline, or standard",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "All employees are required to act in accordance with the company's code of ethics."
+            },
+            {
+              "cf": "",
+              "x": "The company operates in accordance with industry regulations."
+            },
+            {
+              "cf": "",
+              "x": "The event was organized in accordance with local laws and regulations."
+            },
+            {
+              "cf": "",
+              "x": "All products must be manufactured in accordance with safety standards."
+            },
+            {
+              "cf": "",
+              "x": "Students are expected to complete their assignments in accordance with the guidelines."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "fe1bf926-6c44-44f4-9be5-104afe2095a5",
       "word": "in conformity (with|to)",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=aW4gY29uZm9ybWl0eSB3aXRo&hash=47aef3bfa59cd4a18636ee6612dcd30dc42780f7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gY29uZm9ybWl0eSB3aXRo&hash=47aef3bfa59cd4a18636ee6612dcd30dc42780f7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -507,12 +679,13 @@
       ]
     },
     {
+      "id": "a6e7c010-e0f9-4cbd-a188-99ff1fa79288",
       "word": "in keeping with",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=aW4ga2VlcGluZyB3aXRo&hash=e021ea0cadef8aeee835fb909c1e9c35c3a82416&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn ki.pɪng wɪð",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4ga2VlcGluZyB3aXRo&hash=e021ea0cadef8aeee835fb909c1e9c35c3a82416&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in ki.ping vidh",
       "img": "",
       "pronunciation": "ɪn kˈiːpɪŋ wɪð",
       "senses": [
@@ -540,10 +713,11 @@
       ]
     },
     {
+      "id": "efa73b40-e993-45e5-b712-3de9d578141a",
       "word": "in sync with",
       "pos": "preposition",
       "phonetic": "https://tts.langeek.co/read?text=aW4gc3luYyB3aXRo&hash=5de26dd6f9e0a9334fba332dd918d364619a068e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gc3luYyB3aXRo&hash=5de26dd6f9e0a9334fba332dd918d364619a068e&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -577,14 +751,15 @@
       ]
     },
     {
+      "id": "c263730d-655c-4304-823e-f66dbb396f2c",
       "word": "joint",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=am9pbnQ&hash=7060cbece844a5297f8a05981f4bf489c20609d5&lang=en&cache-only=0",
       "phonetic_text": "ʤɔɪnt",
       "phonetic_am": "https://tts.langeek.co/read?text=am9pbnQ&hash=7060cbece844a5297f8a05981f4bf489c20609d5&lang=en&cache-only=0",
-      "phonetic_am_text": "joynt",
-      "img": "https://cdn.langeek.co/photo/16397/original/hire?type=jpeg",
-      "pronunciation": "ˈdʒɔɪnt",
+      "phonetic_am_text": "jawint",
+      "img": "https://cdn.langeek.co/photo/61764/original/hire?type=jpeg",
+      "pronunciation": "ʤɔɪnt",
       "senses": [
         {
           "definition": "controlled, done, shared, or owned by two or more people",
@@ -610,12 +785,13 @@
       ]
     },
     {
+      "id": "038c80be-899b-4bac-9dc4-0c34bfb312af",
       "word": "jointly",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=am9pbnRseQ&hash=e39295630549d75fac06c3b5c03e918cb2d432ab&lang=en&cache-only=0",
-      "phonetic_text": "ʤɔɪntli",
+      "phonetic_text": "ʤɔɪnt.li",
       "phonetic_am": "https://tts.langeek.co/read?text=am9pbnRseQ&hash=e39295630549d75fac06c3b5c03e918cb2d432ab&lang=en&cache-only=0",
-      "phonetic_am_text": "joyntli",
+      "phonetic_am_text": "jawint.li",
       "img": "https://cdn.langeek.co/photo/22279/original/?type=jpeg",
       "pronunciation": "ˈdʒɔɪntɫi",
       "senses": [
@@ -647,10 +823,11 @@
       ]
     },
     {
-      "word": "[make] common cause",
+      "id": "e49358bf-f443-4276-994b-a71f78a91cea",
+      "word": "to [make] common cause",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZSBjb21tb24gY2F1c2U&hash=2750e3d4663e8a1e8e86d86ccfd1d28b6a09d6f5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFrZSBjb21tb24gY2F1c2U&hash=2750e3d4663e8a1e8e86d86ccfd1d28b6a09d6f5&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/41656/original/?type=jpeg",
@@ -700,14 +877,15 @@
       ]
     },
     {
-      "word": "match",
+      "id": "48bba95a-38ad-4d43-9d7a-76e4e8d6586f",
+      "word": "to match",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWF0Y2g&hash=7b819e699bfbbd388146de2c81b50481309ba480&lang=en&cache-only=0",
       "phonetic_text": "mæʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWF0Y2g&hash=7b819e699bfbbd388146de2c81b50481309ba480&lang=en&cache-only=0",
       "phonetic_am_text": "māch",
       "img": "https://cdn.langeek.co/photo/48157/original/?type=jpeg",
-      "pronunciation": "ˈmætʃ",
+      "pronunciation": "mætʃ",
       "senses": [
         {
           "definition": "to be the same as or similar to something else",
@@ -733,6 +911,7 @@
       ]
     },
     {
+      "id": "d37467ee-0bce-4c2d-b731-22e8c31f307f",
       "word": "match",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWF0Y2g&hash=7af6d91e27ad7301429e373ac01a45b7f7f52493&lang=en&cache-only=0",
@@ -740,7 +919,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=bWF0Y2g&hash=7af6d91e27ad7301429e373ac01a45b7f7f52493&lang=en&cache-only=0",
       "phonetic_am_text": "māch",
       "img": "",
-      "pronunciation": "ˈmætʃ",
+      "pronunciation": "mætʃ",
       "senses": [
         {
           "definition": "something that corresponds to something else",
@@ -749,12 +928,13 @@
       ]
     },
     {
-      "word": "play along",
+      "id": "4a378d83-41ab-4015-b1f4-ee1a3f897970",
+      "word": "to play along",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gcGxheSBhbG9uZw&hash=b53cbfba36be60c67d41e1c5f88e2acd34ac4024&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pleɪ ə.lɔng",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gcGxheSBhbG9uZw&hash=b53cbfba36be60c67d41e1c5f88e2acd34ac4024&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "plei ē.lawng",
       "img": "https://cdn.langeek.co/photo/53174/original/?type=jpeg",
       "pronunciation": "plˈeɪ ɐlˈɑːŋ",
       "senses": [
@@ -786,12 +966,13 @@
       ]
     },
     {
+      "id": "6337c937-0583-4eb1-a390-24693d48dbf5",
       "word": "square",
       "pos": "adjective",
       "phonetic": "https://tts.langeek.co/read?text=c3F1YXJl&hash=84375fcb232426978fab61ef6cf2a8828931386e&lang=en&cache-only=0",
       "phonetic_text": "skwɛr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3F1YXJl&hash=84375fcb232426978fab61ef6cf2a8828931386e&lang=en&cache-only=0",
-      "phonetic_am_text": "skwer",
+      "phonetic_am_text": "skver",
       "img": "",
       "pronunciation": "skwɛr",
       "senses": [
@@ -802,12 +983,13 @@
       ]
     },
     {
-      "word": "square with",
+      "id": "d70ff8da-cda4-41a7-a103-70436094c022",
+      "word": "to square with",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc3F1YXJlIHdpdGg&hash=bad8f9ca374fbac6233b47dcecafa66c8576643e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skwɛr wɪð",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc3F1YXJlIHdpdGg&hash=bad8f9ca374fbac6233b47dcecafa66c8576643e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skver vidh",
       "img": "",
       "pronunciation": "skwˈɛɹ wɪð",
       "senses": [
@@ -818,12 +1000,13 @@
       ]
     },
     {
-      "word": "tie in",
+      "id": "051b17a6-a32f-474d-a0fa-716abe1d5e18",
+      "word": "to tie in",
       "pos": "verb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGllIGlu&hash=368315f22e0db5536f4a95060757e8f7f2a80970&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "taɪ ɪn",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGllIGlu&hash=368315f22e0db5536f4a95060757e8f7f2a80970&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "tai in",
       "img": "",
       "pronunciation": "tˈaɪ ˈɪn",
       "senses": [

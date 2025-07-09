@@ -1,13 +1,15 @@
 {
+  "id": "b5051301-8454-4a9a-884c-685906327249",
   "topic": "feelings",
   "title": "Fear & Terror",
   "lesson": "lesson_9",
   "word_list": [
     {
-      "word": "[frighten|scare|terrify] {sb} out of  {one's} wits",
+      "id": "68e07f6f-ac8a-45a8-9b15-81cfc2fcd4c4",
+      "word": "to [frighten|scare|terrify] {sb} out of  {one's} wits",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gZnJpZ2h0ZW4gc29tZWJvZHkgb3V0IG9mICBvbmUncyB3aXRz&hash=16fe947e6affeb5c2a4cacdfb5e9fec93b9d2317&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gZnJpZ2h0ZW4gc29tZWJvZHkgb3V0IG9mICBvbmUncyB3aXRz&hash=16fe947e6affeb5c2a4cacdfb5e9fec93b9d2317&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42810/original/?type=jpeg",
@@ -15,26 +17,18 @@
       "senses": [
         {
           "definition": "to do something that makes someone really scared",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The haunted house was so realistically designed that it frightened me out of my wits."
-            },
-            {
-              "cf": "",
-              "x": "Walking through the dark alley at night, the sound of footsteps behind me terrified me out of my wits."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "df4edf4d-0e32-4d25-803a-3525e9e31cb4",
       "word": "cold sweat",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29sZCBzd2VhdA&hash=e1aa6969fbe7545f16cf907abb3114e7775cd157&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "koʊld swɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29sZCBzd2VhdA&hash=e1aa6969fbe7545f16cf907abb3114e7775cd157&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kooold svet",
       "img": "https://cdn.langeek.co/photo/42804/original/?type=jpeg",
       "pronunciation": "kˈoʊld swˈɛt",
       "senses": [
@@ -86,10 +80,11 @@
       ]
     },
     {
-      "word": "[chill] {sb} to the (bone|marrow)",
+      "id": "e3d9f53f-dd53-4202-bdcf-c10a3e06996d",
+      "word": "to [chill] {sb} to the (bone|marrow)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gY2hpbGwgc29tZWJvZHkgdG8gdGhlIGJvbmU&hash=d3b5545f06216d5cf1eeefbbb2556e2c9ac71653&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gY2hpbGwgc29tZWJvZHkgdG8gdGhlIGJvbmU&hash=d3b5545f06216d5cf1eeefbbb2556e2c9ac71653&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42790/original/?type=jpeg",
@@ -115,10 +110,11 @@
       ]
     },
     {
+      "id": "eee4552e-8d97-44a9-9b75-61f47e3c2c19",
       "word": "[chill|shiver] [run] (up|down) {one's} [spine]",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Y2hpbGwgcnVuIHVwIG9uZSdzIHNwaW5l&hash=8ab9a5227254d60715c71506808d74637a299557&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hpbGwgcnVuIHVwIG9uZSdzIHNwaW5l&hash=8ab9a5227254d60715c71506808d74637a299557&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42052/original/?type=jpeg",
@@ -126,36 +122,16 @@
       "senses": [
         {
           "definition": "used when one does or says something that makes someone become extremely scared or excited",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The suspenseful movie always sends chills running up my spine."
-            },
-            {
-              "cf": "",
-              "x": "The haunting melody in the song sends chills running up her spine."
-            },
-            {
-              "cf": "",
-              "x": "The upcoming haunted attraction will send chills running down my spine."
-            },
-            {
-              "cf": "",
-              "x": "The thought of visiting the haunted forest next week will send chills running up their spines."
-            },
-            {
-              "cf": "",
-              "x": "The haunting melody of the music box sends shivers running up my spine."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[be] the death of {sb}",
+      "id": "d7e964cc-5c17-41e8-bdaa-07bfa604f27f",
+      "word": "to [be] the death of {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gYmUgdGhlIGRlYXRoIG9mIHNvbWVib2R5&hash=1f153b3355c9120a19ae2773d6dd07edfdd60336&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gYmUgdGhlIGRlYXRoIG9mIHNvbWVib2R5&hash=1f153b3355c9120a19ae2773d6dd07edfdd60336&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42588/original/?type=jpeg",
@@ -163,26 +139,18 @@
       "senses": [
         {
           "definition": "to cause extreme worry, distress, or discomfort for others",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Her incessant nagging is the death of me; I can't take it anymore."
-            },
-            {
-              "cf": "",
-              "x": "That job was the death of him; the stress and long hours took a toll on his health."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "363f5f32-b08e-451f-b600-f2611ba2e6c0",
       "word": "with bated breath",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=d2l0aCBiYXRlZCBicmVhdGg&hash=a301b7d5a9faa41d085c1dbe386bdcec38acfa34&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɪð beɪ.tɪd brɛθ",
       "phonetic_am": "https://tts.langeek.co/read?text=d2l0aCBiYXRlZCBicmVhdGg&hash=a301b7d5a9faa41d085c1dbe386bdcec38acfa34&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vidh bei.tid breth",
       "img": "",
       "pronunciation": "wɪð bˈeɪɾᵻd bɹˈɛθ",
       "senses": [
@@ -218,10 +186,11 @@
       ]
     },
     {
-      "word": "[shake|tremble] like a leaf",
+      "id": "0f787f95-e047-4e59-b317-b6067fdeacfa",
+      "word": "to [shake|tremble] like a leaf",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2hha2UgbGlrZSBhIGxlYWY&hash=644ebd8daa7120350b275078bd4b67d84777e94a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2hha2UgbGlrZSBhIGxlYWY&hash=644ebd8daa7120350b275078bd4b67d84777e94a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42788/original/?type=jpeg",
@@ -229,32 +198,16 @@
       "senses": [
         {
           "definition": "(of a person) to involuntarily shake one's body due to feeling nervous, afraid, or cold",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He shakes like a leaf every time he has to speak in public."
-            },
-            {
-              "cf": "",
-              "x": "She shook like a leaf when she encountered the wild bear in the woods."
-            },
-            {
-              "cf": "",
-              "x": "Tomorrow, she will shake like a leaf as she gives her presentation to a large audience."
-            },
-            {
-              "cf": "",
-              "x": "If I were to encounter a ghost, I would shake like a leaf."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[scare] the (living|) crap out of  {sb}",
+      "id": "13ca2847-d307-4947-9e0e-96734d03cbbb",
+      "word": "to [scare] the (living|) crap out of  {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NhcmUgdGhlIGxpdmluZyBjcmFwIG91dCBvZiAgc29tZWJvZHk&hash=b9564347cc8af52c67c00c6a8826561ae7293450&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NhcmUgdGhlIGxpdmluZyBjcmFwIG91dCBvZiAgc29tZWJvZHk&hash=b9564347cc8af52c67c00c6a8826561ae7293450&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42784/original/?type=jpeg",
@@ -262,28 +215,16 @@
       "senses": [
         {
           "definition": "to extremely frighten someone",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The horror movie I'm watching right now is really scaring the crap out of me."
-            },
-            {
-              "cf": "",
-              "x": "That haunted house we visited last Halloween scared the living crap out of us."
-            },
-            {
-              "cf": "",
-              "x": "The horror movie they'll be watching later will scare the living crap out of everyone."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[scare] {sb} witless",
+      "id": "17a29ec4-8d11-44d7-ba4e-959c44f56bd4",
+      "word": "to [scare] {sb} witless",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NhcmUgc29tZWJvZHkgd2l0bGVzcw&hash=fe6a01adf2fb952698eca6d339fc51dea42c60e4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NhcmUgc29tZWJvZHkgd2l0bGVzcw&hash=fe6a01adf2fb952698eca6d339fc51dea42c60e4&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42786/original/?type=jpeg",
@@ -309,10 +250,11 @@
       ]
     },
     {
-      "word": "[scare] {sb} straight",
+      "id": "d3b64bad-b8fb-4ba0-bc7a-650ea5834c06",
+      "word": "to [scare] {sb} straight",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NhcmUgc29tZWJvZHkgc3RyYWlnaHQ&hash=f322bbcf6f03c9349141eb7b73c3805e998fafef&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NhcmUgc29tZWJvZHkgc3RyYWlnaHQ&hash=f322bbcf6f03c9349141eb7b73c3805e998fafef&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42782/original/?type=jpeg",
@@ -320,24 +262,16 @@
       "senses": [
         {
           "definition": "to frighten or shock someone in order to improve or correct their behavior",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The documentary about prison life scares me straight, making me reconsider my choices."
-            },
-            {
-              "cf": "",
-              "x": "The tough love approach they use in the rehabilitation program scares him straight, motivating him to turn his life around."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[scare] {sb} shitless",
+      "id": "34d613cd-f06b-4b29-8630-4a0ceb06cc08",
+      "word": "to [scare] {sb} shitless",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NhcmUgc29tZWJvZHkgc2hpdGxlc3M&hash=fd10235d06e04b37712cac1a84b90208239952e2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NhcmUgc29tZWJvZHkgc2hpdGxlc3M&hash=fd10235d06e04b37712cac1a84b90208239952e2&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42780/original/?type=jpeg",
@@ -363,10 +297,11 @@
       ]
     },
     {
-      "word": "[jump|leap] out of {one's} skin",
+      "id": "c32a9d14-d183-4e1f-b6cd-21ecaf31c942",
+      "word": "to [jump|leap] out of {one's} skin",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8ganVtcCBvdXQgb2Ygb25lJ3Mgc2tpbg&hash=114d49ef5c335cfff944524262610ede4f455b7d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8ganVtcCBvdXQgb2Ygb25lJ3Mgc2tpbg&hash=114d49ef5c335cfff944524262610ede4f455b7d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/52109/original/?type=jpeg",
@@ -374,36 +309,16 @@
       "senses": [
         {
           "definition": "to become extremely scared or surprised, causing a strong physical reaction",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The sudden loud bang makes me jump out of my skin every time."
-            },
-            {
-              "cf": "",
-              "x": "Whenever I see a spider, I jump out of my skin with fear."
-            },
-            {
-              "cf": "",
-              "x": "The loud noise made her jump out of her skin."
-            },
-            {
-              "cf": "",
-              "x": "I almost leaped out of my skin when I saw the spider on my desk."
-            },
-            {
-              "cf": "",
-              "x": "The unexpected fireworks caused everyone to jump out of their skin."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[make] {one's} hair stand on end",
+      "id": "1b9d61cf-eb58-4776-8003-b2f2eaeeffd4",
+      "word": "to [make] {one's} hair stand on end",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZSBvbmUncyBoYWlyIHN0YW5kIG9uIGVuZA&hash=565dfa472a05915816cfc98ed6ae1912b74af3f3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFrZSBvbmUncyBoYWlyIHN0YW5kIG9uIGVuZA&hash=565dfa472a05915816cfc98ed6ae1912b74af3f3&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42778/original/?type=jpeg",
@@ -433,10 +348,11 @@
       ]
     },
     {
-      "word": "[shake|quake|tremble] in {one's} (boots|shoes)",
+      "id": "91585c86-6b5d-4d8a-a951-96a3a427c301",
+      "word": "to [shake|quake|tremble] in {one's} (boots|shoes)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2hha2UgaW4gb25lJ3MgYm9vdHM&hash=281babbec0bc93cef57c6ef334cce2bc301182c1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2hha2UgaW4gb25lJ3MgYm9vdHM&hash=281babbec0bc93cef57c6ef334cce2bc301182c1&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42054/original/?type=jpeg",
@@ -444,40 +360,16 @@
       "senses": [
         {
           "definition": "to shake involuntarily as a response to extreme fear",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The idea of giving a presentation in front of a large audience makes me quake in my shoes."
-            },
-            {
-              "cf": "",
-              "x": "The sight of the charging bull made him quake in his boots."
-            },
-            {
-              "cf": "",
-              "x": "I know that meeting my significant other's parents for the first time will make me quake in my boots."
-            },
-            {
-              "cf": "",
-              "x": "The eerie noises in the dark forest have me trembling in my boots."
-            },
-            {
-              "cf": "",
-              "x": "When I heard the loud crash, I trembled in my boots with fear."
-            },
-            {
-              "cf": "",
-              "x": "The haunted house we visited last Halloween had us all trembling in our shoes."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[scare|freighten] the (living|) daylights out of {sb}",
+      "id": "ac4ac9d9-2022-4620-b311-f12ffbd219ff",
+      "word": "to [scare|freighten] the (living|) daylights out of {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NhcmUgdGhlIGxpdmluZyBkYXlsaWdodHMgb3V0IG9mIHNvbWVib2R5&hash=a580e29dd598e40e48f7783b3be0ff99b8c34d1f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NhcmUgdGhlIGxpdmluZyBkYXlsaWdodHMgb3V0IG9mIHNvbWVib2R5&hash=a580e29dd598e40e48f7783b3be0ff99b8c34d1f&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42688/original/?type=jpeg",
@@ -507,59 +399,28 @@
       ]
     },
     {
+      "id": "36d9434f-efc6-475d-a6aa-4aa055b25ae8",
       "word": "on tenterhooks",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=b24gdGVudGVyaG9va3M&hash=250bf3fe5b5009be3f2ea50a634e18b05732a4be&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:n tɛn.tər.hʊks",
       "phonetic_am": "https://tts.langeek.co/read?text=b24gdGVudGVyaG9va3M&hash=250bf3fe5b5009be3f2ea50a634e18b05732a4be&lang=en&cache-only=0",
-      "phonetic_am_text": null,
-      "img": "https://cdn.langeek.co/photo/52147/original/anxious?type=jpeg",
+      "phonetic_am_text": "aan ten.tēr.hooks",
+      "img": "https://cdn.langeek.co/photo/61450/original/anxious?type=jpeg",
       "pronunciation": "ˌɑːn tˈɛntɚhˌʊks",
       "senses": [
         {
           "definition": "in a state of great anxiety, suspense, or excitement while waiting for something",
-          "examples": [
-            {
-              "cf": "",
-              "x": "I am on tenterhooks waiting to hear back about the job interview."
-            },
-            {
-              "cf": "",
-              "x": "She is on tenterhooks as she awaits the results of the medical tests."
-            },
-            {
-              "cf": "",
-              "x": "He was on tenterhooks until the final exam grades were announced."
-            },
-            {
-              "cf": "",
-              "x": "We were on tenterhooks during the tense penalty shootout."
-            },
-            {
-              "cf": "",
-              "x": "They will be on tenterhooks until the winner of the competition is announced."
-            },
-            {
-              "cf": "",
-              "x": "I will be on tenterhooks until I receive a response to my scholarship application."
-            },
-            {
-              "cf": "",
-              "x": "The suspenseful movie is keeping me on tenterhooks until the mystery is solved."
-            },
-            {
-              "cf": "",
-              "x": "The ongoing negotiation process has everyone on tenterhooks."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "faa8aa71-511e-45ca-b256-a41159824aaf",
       "word": "like a scalded cat",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=bGlrZSBhIHNjYWxkZWQgY2F0&hash=c599822519c11e91a46296816fb42b0d455d8de7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlrZSBhIHNjYWxkZWQgY2F0&hash=c599822519c11e91a46296816fb42b0d455d8de7&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/43092/original/?type=jpeg",
@@ -589,10 +450,11 @@
       ]
     },
     {
-      "word": "[scare] the (living|) shit out of {sb}",
+      "id": "85ca3a38-f8b6-4cf3-ae98-95b8aa264af3",
+      "word": "to [scare] the (living|) shit out of {sb}",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gc2NhcmUgdGhlIGxpdmluZyBzaGl0IG91dCBvZiBzb21lYm9keQ&hash=73359009a74c41664e7c360b1bf80223cb14a76c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gc2NhcmUgdGhlIGxpdmluZyBzaGl0IG91dCBvZiBzb21lYm9keQ&hash=73359009a74c41664e7c360b1bf80223cb14a76c&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42780/original/?type=jpeg",
@@ -622,10 +484,11 @@
       ]
     },
     {
+      "id": "0614ae8a-4539-429b-bc89-8f996aa2d94d",
       "word": "rooted (to|in) the (spot|floor|ground)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=cm9vdGVkIHRvIHRoZSBzcG90&hash=fb379626b22e6864e7ceb6492a27f67bd6051743&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=cm9vdGVkIHRvIHRoZSBzcG90&hash=fb379626b22e6864e7ceb6492a27f67bd6051743&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42696/original/?type=jpeg",
@@ -655,10 +518,11 @@
       ]
     },
     {
-      "word": "[make] {one's} blood run cold",
+      "id": "a1338441-5919-42d6-b71b-4c04b23b264c",
+      "word": "to [make] {one's} blood run cold",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZSBvbmUncyBibG9vZCBydW4gY29sZA&hash=ff34fccfaa0ff51a63d24c1979fe266a3be84465&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFrZSBvbmUncyBibG9vZCBydW4gY29sZA&hash=ff34fccfaa0ff51a63d24c1979fe266a3be84465&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/42692/original/?type=jpeg",
@@ -666,28 +530,16 @@
       "senses": [
         {
           "definition": "to cause a strong feeling of fear in someone",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The sinister revelation in the movie makes my blood run cold every time I watch it."
-            },
-            {
-              "cf": "",
-              "x": "The eerie silence and dark shadows in the abandoned house make my blood run cold as I cautiously explore."
-            },
-            {
-              "cf": "",
-              "x": "The terrifying scream from the haunted house made my blood run cold as I hurriedly ran away."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "[make] {one'} ‌(skin|flesh) (crawl|creep)",
+      "id": "12f47ead-0856-4c2e-a8b7-b6cf833d7352",
+      "word": "to [make] {one'} ‌(skin|flesh) (crawl|creep)",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=dG8gbWFrZSBvbmUnIOKAjHNraW4gY3Jhd2w&hash=7a5fb1f153d9093dc0305e7e139e3a202d42808d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gbWFrZSBvbmUnIOKAjHNraW4gY3Jhd2w&hash=7a5fb1f153d9093dc0305e7e139e3a202d42808d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "https://cdn.langeek.co/photo/28732/original/?type=jpeg",
@@ -700,12 +552,13 @@
       ]
     },
     {
+      "id": "5e7958c4-55be-47d8-8299-15bf3ff5431c",
       "word": "for dear life",
       "pos": "None",
       "phonetic": "https://tts.langeek.co/read?text=Zm9yIGRlYXIgbGlmZQ&hash=5882eb9ed9b4d6e19ba69844ed2ff1e71733f89e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɔ:r dɪr laɪf",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9yIGRlYXIgbGlmZQ&hash=5882eb9ed9b4d6e19ba69844ed2ff1e71733f89e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fawr dir laif",
       "img": "https://cdn.langeek.co/photo/42690/original/?type=jpeg",
       "pronunciation": "fɔːɹ dˈɪɹ lˈaɪf",
       "senses": [

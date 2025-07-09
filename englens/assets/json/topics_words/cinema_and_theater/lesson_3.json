@@ -1,47 +1,77 @@
 {
+  "id": "fb7219d9-7dcb-4ea8-a828-2662792e90a4",
   "topic": "cinema_and_theater",
   "title": "People Involved in Cinema and Theater",
   "lesson": "lesson_3",
   "word_list": [
     {
+      "id": "86d80b09-64a0-407a-80a3-f052cb270671",
       "word": "agent",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWdlbnQ&hash=b80e3659d4fa110bb390f592939de7c0b64406f8&lang=en&cache-only=0",
-      "phonetic_text": "eɪʤənt",
+      "phonetic_text": "eɪ.ʤənt",
       "phonetic_am": "https://tts.langeek.co/read?text=YWdlbnQ&hash=b80e3659d4fa110bb390f592939de7c0b64406f8&lang=en&cache-only=0",
-      "phonetic_am_text": "eijēnt",
+      "phonetic_am_text": "ei.jēnt",
       "img": "https://cdn.langeek.co/photo/51618/original/agent?type=jpeg",
       "pronunciation": "ˈeɪdʒənt",
       "senses": [
         {
           "definition": "a company or person that represents another person or company or manages their affairs",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The agent facilitated the sale of the company's products to retailers."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "36b04619-a489-4fe6-9732-653795343fa2",
       "word": "art director",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJ0IGRpcmVjdG9y&hash=1d1960a45bfb1c811e471c75db481c03f8419e81&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑ:rt dɪ.rɛk.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJ0IGRpcmVjdG9y&hash=1d1960a45bfb1c811e471c75db481c03f8419e81&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aart di.rek.tēr",
       "img": "https://cdn.langeek.co/photo/32494/original/?type=jpeg",
-      "pronunciation": "ˈɑːɹt dɚɹˈɛktɚ",
+      "pronunciation": "ɑrt dəˈrɛktɚ",
       "senses": [
         {
           "definition": "someone who is in charge of the artistic features, such as props and costumes of a movie or play",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The art director oversees the visual elements of a film, ensuring consistency and creativity in every scene."
+            },
+            {
+              "cf": "",
+              "x": "She was promoted to art director after demonstrating exceptional talent and leadership skills in previous projects."
+            },
+            {
+              "cf": "",
+              "x": "The art director collaborated closely with the production designer to bring the director's vision to life on screen."
+            },
+            {
+              "cf": "",
+              "x": "As the art director of the advertising agency, he leads a team of designers and illustrators to create captivating campaigns for clients."
+            },
+            {
+              "cf": "",
+              "x": "The art director is responsible for setting the overall aesthetic tone and style of a magazine, website, or multimedia project."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "623be729-c91e-479b-a27d-fea2dcf59359",
       "word": "artistic director",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXJ0aXN0aWMgZGlyZWN0b3I&hash=e5cd0f00a55155a268e4985cef77787a39d9ef09&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɑr.tɪs.tɪk dɪ.rɛk.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=YXJ0aXN0aWMgZGlyZWN0b3I&hash=e5cd0f00a55155a268e4985cef77787a39d9ef09&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aar.tis.tik di.rek.tēr",
       "img": "",
       "pronunciation": "ɑːɹtˈɪstɪk dɚɹˈɛktɚ",
       "senses": [
@@ -52,12 +82,13 @@
       ]
     },
     {
+      "id": "558eef46-9723-48e5-ad5e-385b704f6cd7",
       "word": "cameraman",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FtZXJhbWFu&hash=0219f012ad2103b2f138d0936e35af0e6f553c7c&lang=en&cache-only=0",
-      "phonetic_text": "kæmərəmən",
+      "phonetic_text": "kæm.rə.mæn",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FtZXJhbWFu&hash=0219f012ad2103b2f138d0936e35af0e6f553c7c&lang=en&cache-only=0",
-      "phonetic_am_text": "kāmērēmēn",
+      "phonetic_am_text": "kām.rē.mān",
       "img": "",
       "pronunciation": "ˈkæmɝəmən",
       "senses": [
@@ -68,12 +99,13 @@
       ]
     },
     {
+      "id": "2c68aeb5-98de-414f-abc2-cd70a9408d70",
       "word": "camerawoman",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FtZXJhd29tYW4&hash=5df241d920d07449139898487f56bb0ff1624ead&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kæm.rə.wʊ.mən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FtZXJhd29tYW4&hash=5df241d920d07449139898487f56bb0ff1624ead&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kām.rē.voo.mēn",
       "img": "",
       "pronunciation": "kˈæmɹəwˌʊmən",
       "senses": [
@@ -84,14 +116,15 @@
       ]
     },
     {
+      "id": "b12bb899-b77c-49ac-b7a8-2f4c294d1b99",
       "word": "playwright",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cGxheXdyaWdodA&hash=e24aeb649b64b3ccb83f01661912f43cadc43a4c&lang=en&cache-only=0",
-      "phonetic_text": "pleɪraɪt",
+      "phonetic_text": "pleɪ.raɪt",
       "phonetic_am": "https://tts.langeek.co/read?text=cGxheXdyaWdodA&hash=e24aeb649b64b3ccb83f01661912f43cadc43a4c&lang=en&cache-only=0",
-      "phonetic_am_text": "pleirait",
+      "phonetic_am_text": "plei.rait",
       "img": "https://cdn.langeek.co/photo/19090/original/scriptwriter?type=jpeg",
-      "pronunciation": "ˈpɫeɪˌɹaɪt",
+      "pronunciation": "ˈpleɪˌraɪt",
       "senses": [
         {
           "definition": "someone who writes plays for the TV, radio, or theater",
@@ -121,12 +154,13 @@
       ]
     },
     {
+      "id": "2ba50d55-4075-48b8-b5cc-453fcb8c5bfa",
       "word": "producer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvZHVjZXI&hash=c4aa347cfdbff0517262a1cc9bcdb98b81376a71&lang=en&cache-only=0",
-      "phonetic_text": "prədu:sər",
+      "phonetic_text": "prə.du.sɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvZHVjZXI&hash=c4aa347cfdbff0517262a1cc9bcdb98b81376a71&lang=en&cache-only=0",
-      "phonetic_am_text": "prēdoosēr",
+      "phonetic_am_text": "prē.doo.sēr",
       "img": "",
       "pronunciation": "pɹəˈdusɝ",
       "senses": [
@@ -158,12 +192,13 @@
       ]
     },
     {
+      "id": "73bce0a5-a54c-4e1d-9204-5419d4b9e202",
       "word": "publicist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHVibGljaXN0&hash=50afb488771f8f2ad146b50f5e07f02851bf9c9a&lang=en&cache-only=0",
-      "phonetic_text": "pʌblɪsɪst",
+      "phonetic_text": "pəb.lɪ.sɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=cHVibGljaXN0&hash=50afb488771f8f2ad146b50f5e07f02851bf9c9a&lang=en&cache-only=0",
-      "phonetic_am_text": "pablisist",
+      "phonetic_am_text": "pēb.li.sist",
       "img": "",
       "pronunciation": "ˈpəbɫɪsɪst",
       "senses": [
@@ -174,28 +209,51 @@
       ]
     },
     {
+      "id": "05abce64-266a-4994-9a3f-f9c065bf562d",
       "word": "screenwriter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2NyZWVud3JpdGVy&hash=acd70baa7604a0f754cac593167c97115592ad7e&lang=en&cache-only=0",
-      "phonetic_text": "skri:nraɪtər",
+      "phonetic_text": "skri:n.raɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=c2NyZWVud3JpdGVy&hash=acd70baa7604a0f754cac593167c97115592ad7e&lang=en&cache-only=0",
-      "phonetic_am_text": "skreenraitēr",
+      "phonetic_am_text": "skrin.rai.tēr",
       "img": "https://cdn.langeek.co/photo/19090/original/scriptwriter?type=jpeg",
       "pronunciation": "ˈskɹinˌɹaɪtɝ",
       "senses": [
         {
           "definition": "a person whose job is to write scripts for movies, TV series, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The screenwriter spent months developing the script for the upcoming movie."
+            },
+            {
+              "cf": "",
+              "x": "She is a talented screenwriter known for her work on several successful TV series."
+            },
+            {
+              "cf": "",
+              "x": "The screenwriter's adaptation of the novel impressed critics and audiences alike."
+            },
+            {
+              "cf": "",
+              "x": "He started his career as a screenwriter, writing scripts for independent films."
+            },
+            {
+              "cf": "",
+              "x": "The screenwriter attended a workshop to learn more about writing dialogue for screenplays."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "61bb58aa-e44d-46a5-ad3d-e0a6a7f76bd9",
       "word": "stagehand",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RhZ2VoYW5k&hash=424b0e7a325c535e0da95d56fe3dde024487ad49&lang=en&cache-only=0",
-      "phonetic_text": "steɪʤhænd",
+      "phonetic_text": "steɪʤ.hænd",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RhZ2VoYW5k&hash=424b0e7a325c535e0da95d56fe3dde024487ad49&lang=en&cache-only=0",
-      "phonetic_am_text": "steijhānd",
+      "phonetic_am_text": "steij.hānd",
       "img": "",
       "pronunciation": "ˈsteɪdʒˌhænd",
       "senses": [
@@ -206,12 +264,13 @@
       ]
     },
     {
+      "id": "d64ec8ea-0ea1-4c6e-a0e6-bda622c2597f",
       "word": "stage manager",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RhZ2UgbWFuYWdlcg&hash=c770c3869309c8f7c762c44ff2ed0eea8955d001&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "steɪʤ mæ.nɪ.ʤər",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RhZ2UgbWFuYWdlcg&hash=c770c3869309c8f7c762c44ff2ed0eea8955d001&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "steij mā.ni.jēr",
       "img": "",
       "pronunciation": "stˈeɪdʒ mˈænɪdʒɚ",
       "senses": [
@@ -222,12 +281,13 @@
       ]
     },
     {
+      "id": "28b1f473-624e-489e-918c-af2369df8060",
       "word": "story editor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3RvcnkgZWRpdG9y&hash=72dc4aa1cdd3cd9f99c764d07a3ac83742468d68&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "stɔ:.ri ɛ.dɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=c3RvcnkgZWRpdG9y&hash=72dc4aa1cdd3cd9f99c764d07a3ac83742468d68&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "staw.ri e.di.tēr",
       "img": "",
       "pronunciation": "stˈoːɹi ˈɛdɪɾɚ",
       "senses": [
@@ -238,12 +298,13 @@
       ]
     },
     {
+      "id": "3fec3d9e-7460-4ef6-b1a7-47360078dc8a",
       "word": "usher",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dXNoZXI&hash=ed7bd1183db3199e47b37975802bcbd4fdb19c62&lang=en&cache-only=0",
-      "phonetic_text": "ʌʃər",
+      "phonetic_text": "ə.ʃɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=dXNoZXI&hash=ed7bd1183db3199e47b37975802bcbd4fdb19c62&lang=en&cache-only=0",
-      "phonetic_am_text": "ashēr",
+      "phonetic_am_text": "ē.shēr",
       "img": "",
       "pronunciation": "ˈəʃɝ",
       "senses": [
@@ -254,12 +315,13 @@
       ]
     },
     {
+      "id": "91677c2c-ea25-4282-9179-4e2f52de66ca",
       "word": "usherette",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dXNoZXJldHRl&hash=4e03a0cfe915013f6e398b37c2af94d482e66a9d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʌ.ʃə.rɛt",
       "phonetic_am": "https://tts.langeek.co/read?text=dXNoZXJldHRl&hash=4e03a0cfe915013f6e398b37c2af94d482e66a9d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "a.shē.ret",
       "img": "",
       "pronunciation": "ˌʌʃɚɹˈɛt",
       "senses": [
@@ -270,12 +332,13 @@
       ]
     },
     {
+      "id": "959d13b3-0384-401f-85fd-966171363b3a",
       "word": "wardrobe master",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2FyZHJvYmUgbWFzdGVy&hash=7b33313a254f78d55995db2c73520d946e541df4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɔrd.roʊb mæs.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=d2FyZHJvYmUgbWFzdGVy&hash=7b33313a254f78d55995db2c73520d946e541df4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vawrd.rooob mās.tēr",
       "img": "",
       "pronunciation": "wˈɔːɹdɹoʊb mˈæstɚ",
       "senses": [
@@ -286,12 +349,13 @@
       ]
     },
     {
+      "id": "ca5af433-0767-4d22-a8f3-b8dd3a0328bf",
       "word": "wardrobe mistress",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2FyZHJvYmUgbWlzdHJlc3M&hash=6971e40216af21a36e440e31ca4d5bab1a3797b5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "wɔrd.roʊb mɪst.rəs",
       "phonetic_am": "https://tts.langeek.co/read?text=d2FyZHJvYmUgbWlzdHJlc3M&hash=6971e40216af21a36e440e31ca4d5bab1a3797b5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vawrd.rooob mist.rēs",
       "img": "",
       "pronunciation": "wˈɔːɹdɹoʊb mˈɪstɹəs",
       "senses": [
@@ -302,12 +366,13 @@
       ]
     },
     {
+      "id": "05de5fe6-4cfc-4b6d-9921-d6d42b2093a7",
       "word": "costumier",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29zdHVtaWVy&hash=024cd8a84211268b9703b8d741113cd1c645e10e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɔs.tə.mɪər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29zdHVtaWVy&hash=024cd8a84211268b9703b8d741113cd1c645e10e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaws.tē.miēr",
       "img": "",
       "pronunciation": "kˈɔstəmɪɚ",
       "senses": [
@@ -318,12 +383,13 @@
       ]
     },
     {
+      "id": "86fcea7d-6c1c-41b8-b74b-51e03841daa8",
       "word": "debutant",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVidXRhbnQ&hash=38c45f9a29a72935743f651e8c7898fc0bac6bb7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɛ.bju:.tənt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVidXRhbnQ&hash=38c45f9a29a72935743f651e8c7898fc0bac6bb7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "de.byoo.tēnt",
       "img": "",
       "pronunciation": "dˈɛbjuːtənt",
       "senses": [
@@ -334,12 +400,13 @@
       ]
     },
     {
+      "id": "3e0eed51-7c76-408f-9ee6-a8b87ca1944c",
       "word": "debutante",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGVidXRhbnRl&hash=c8b1c461af3438628eea27c34df577f7f8d0a69d&lang=en&cache-only=0",
-      "phonetic_text": "dɛbjətɑ:nt",
+      "phonetic_text": "dɛb.jə.tɑnt",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGVidXRhbnRl&hash=c8b1c461af3438628eea27c34df577f7f8d0a69d&lang=en&cache-only=0",
-      "phonetic_am_text": "debyētaant",
+      "phonetic_am_text": "deb.yē.taant",
       "img": "",
       "pronunciation": "ˈdɛbjəˈtɑnt",
       "senses": [
@@ -350,76 +417,169 @@
       ]
     },
     {
+      "id": "9cca3a53-208f-47b5-b721-72013dce556a",
       "word": "director",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlyZWN0b3I&hash=3d3b5f3202d469e62536763408353874e4581834&lang=en&cache-only=0",
-      "phonetic_text": "dərɛktər",
+      "phonetic_text": "dɪ.rɛk.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlyZWN0b3I&hash=3d3b5f3202d469e62536763408353874e4581834&lang=en&cache-only=0",
-      "phonetic_am_text": "dērektēr",
+      "phonetic_am_text": "di.rek.tēr",
       "img": "https://cdn.langeek.co/photo/50581/original/director?type=jpeg",
       "pronunciation": "dɪˈrɛktɚ/ , /daɪˈrɛktɚ",
       "senses": [
         {
           "definition": "a person in charge of a movie or play who gives instructions to the actors and staff",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "He is working with a well-known director on his next film."
+            },
+            {
+              "cf": "",
+              "x": "She has been a director in the theater for many years."
+            },
+            {
+              "cf": "",
+              "x": "The director guided the actors through the scene."
+            },
+            {
+              "cf": "",
+              "x": "The director of the movie was overjoyed when he won an Oscar."
+            },
+            {
+              "cf": "",
+              "x": "The director was famous for his meticulous attention to detail."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "cc80a725-dc76-4bf7-a084-c5c5d2b8d738",
       "word": "dramatist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJhbWF0aXN0&hash=90d7752ec882b907f6f4e7aeff91e8931408ab09&lang=en&cache-only=0",
-      "phonetic_text": "drɑ:mətɪst",
+      "phonetic_text": "drɑ.mə.tɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJhbWF0aXN0&hash=90d7752ec882b907f6f4e7aeff91e8931408ab09&lang=en&cache-only=0",
-      "phonetic_am_text": "draamētist",
+      "phonetic_am_text": "draa.mē.tist",
       "img": "https://cdn.langeek.co/photo/19090/original/scriptwriter?type=jpeg",
-      "pronunciation": "ˈdɹɑmətɪst",
+      "pronunciation": "ˈdræmətɪst",
       "senses": [
         {
           "definition": "someone who writes plays for the TV, radio, or theater",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The theater company invited a talented dramatist to write an original script for their upcoming production."
+            },
+            {
+              "cf": "",
+              "x": "Shakespeare remains one of the most renowned dramatists in English literature for his tragedies and comedies."
+            },
+            {
+              "cf": "",
+              "x": "The dramatist's latest play received rave reviews for its compelling characters and thought-provoking themes."
+            },
+            {
+              "cf": "",
+              "x": "As a dramatist, she drew inspiration from real-life events and personal experiences to create powerful narratives for the stage."
+            },
+            {
+              "cf": "",
+              "x": "The playwright's career spanned decades, establishing him as a renowned dramatist in the world of theater."
+            },
+            {
+              "cf": "",
+              "x": "She studied the works of classic dramatists such as Shakespeare and Ibsen to hone her craft and develop her own unique voice."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "7ceb20de-0e26-48b3-9988-329c23fb4a30",
       "word": "dresser",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJlc3Nlcg&hash=097c8e2e1374edc1022586fa838ceceb306b997b&lang=en&cache-only=0",
-      "phonetic_text": "drɛsər",
+      "phonetic_text": "drɛ.sɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJlc3Nlcg&hash=097c8e2e1374edc1022586fa838ceceb306b997b&lang=en&cache-only=0",
-      "phonetic_am_text": "dresēr",
+      "phonetic_am_text": "dre.sēr",
       "img": "",
-      "pronunciation": "ˈdɹɛsɝ",
+      "pronunciation": "ˈdrɛsɚ",
       "senses": [
         {
           "definition": "someone whose job is to help an actor get dressed for a play or is in charge of their costumes",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "The dresser assists actors backstage, ensuring they are properly attired for each scene of the play."
+            },
+            {
+              "cf": "",
+              "x": "She worked as a dresser for the theater company, meticulously organizing costumes and accessories for the cast."
+            },
+            {
+              "cf": "",
+              "x": "The dresser's role is crucial in ensuring quick costume changes during the fast-paced production."
+            },
+            {
+              "cf": "",
+              "x": "He started as a dresser before eventually becoming a costume designer, inspired by the magic of theatrical transformations."
+            },
+            {
+              "cf": "",
+              "x": "The dresser anticipates the needs of each actor, preparing their costumes and props in advance of the performance."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "b7d37cca-37e3-490b-ad3e-cfbff319d849",
       "word": "editor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZWRpdG9y&hash=7f5bf7985a89b73115bb4df1c902bd72fb025d07&lang=en&cache-only=0",
-      "phonetic_text": "ɛdətər",
+      "phonetic_text": "ɛ.dɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=ZWRpdG9y&hash=7f5bf7985a89b73115bb4df1c902bd72fb025d07&lang=en&cache-only=0",
-      "phonetic_am_text": "edētēr",
+      "phonetic_am_text": "e.di.tēr",
       "img": "https://cdn.langeek.co/photo/19080/original/editor?type=jpeg",
-      "pronunciation": "ˈɛdətɝ/, /ˈɛdɪtɝ",
+      "pronunciation": "ˈɛdɪtɚ",
       "senses": [
         {
           "definition": "the person who is in charge of arranging or removing the scenes of a movie, show, etc.",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "She's an experienced film editor who has worked on several award-winning movies."
+            },
+            {
+              "cf": "",
+              "x": "The editor meticulously cut and rearranged scenes to enhance the pacing of the film."
+            },
+            {
+              "cf": "",
+              "x": "He's collaborating closely with the director and cinematographer as the editor of the upcoming TV series."
+            },
+            {
+              "cf": "",
+              "x": "The editor used special effects and sound editing techniques to enhance the final cut of the movie."
+            },
+            {
+              "cf": "",
+              "x": "The editor's skillful editing transformed the raw footage into a captivating documentary."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "43a51f1c-2855-4830-84c9-034099a1ebe8",
       "word": "cinematographer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2luZW1hdG9ncmFwaGVy&hash=8d33511bcf9a924767c2f596f56ff12fb0d87a63&lang=en&cache-only=0",
-      "phonetic_text": "sɪnɪmətɑ:grəfər",
+      "phonetic_text": "sɪ.nɪ.mə.tɑg.rə.fɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2luZW1hdG9ncmFwaGVy&hash=8d33511bcf9a924767c2f596f56ff12fb0d87a63&lang=en&cache-only=0",
-      "phonetic_am_text": "sinimētaagrēfēr",
+      "phonetic_am_text": "si.ni.mē.taag.rē.fēr",
       "img": "",
       "pronunciation": "ˌsɪnɪməˈtɑɡɹəfɝ",
       "senses": [
@@ -430,10 +590,11 @@
       ]
     },
     {
+      "id": "06722881-a2be-4804-98db-a142e8eeff62",
       "word": "focus puller",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zm9jdXMgcHVsbGVy&hash=8d83b15ed8c557f6ee070a36a8bf9aed51a7e8ed&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Zm9jdXMgcHVsbGVy&hash=8d83b15ed8c557f6ee070a36a8bf9aed51a7e8ed&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -446,12 +607,13 @@
       ]
     },
     {
+      "id": "35da2b9d-8861-490d-a838-53aecc656018",
       "word": "clapper loader",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2xhcHBlciBsb2FkZXI&hash=1e2116edf13cca02261022a8d441691d507c76b5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "klæ.pɜr loʊ.dər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2xhcHBlciBsb2FkZXI&hash=1e2116edf13cca02261022a8d441691d507c76b5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "klā.pēr looo.dēr",
       "img": "",
       "pronunciation": "klˈæpɚ lˈoʊdɚ",
       "senses": [
@@ -462,12 +624,13 @@
       ]
     },
     {
+      "id": "bd53d40b-6fbe-4d3e-8a92-0d40875539ec",
       "word": "lighting technician",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGlnaHRpbmcgdGVjaG5pY2lhbg&hash=17c62fb5f08c5278c4feec4d9611f33d78d062af&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "laɪ.tɪng tɛk.nɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlnaHRpbmcgdGVjaG5pY2lhbg&hash=17c62fb5f08c5278c4feec4d9611f33d78d062af&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lai.ting tek.ni.shēn",
       "img": "",
       "pronunciation": "lˈaɪɾɪŋ tɛknˈɪʃən",
       "senses": [
@@ -478,12 +641,13 @@
       ]
     },
     {
+      "id": "5289a006-c4f3-49e6-8289-8ed6a76f993e",
       "word": "executive producer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZXhlY3V0aXZlIHByb2R1Y2Vy&hash=26e0ba8e3b8e2be7a1564595b1cc5badc2fbcafe&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪ.gzɛk.jə.tɪv prə.du.sɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZXhlY3V0aXZlIHByb2R1Y2Vy&hash=26e0ba8e3b8e2be7a1564595b1cc5badc2fbcafe&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "i.gzek.yē.tiv prē.doo.sēr",
       "img": "",
       "pronunciation": "ɛɡzˈɛkjuːtˌɪv pɹədˈuːsɚ",
       "senses": [
@@ -494,12 +658,13 @@
       ]
     },
     {
+      "id": "b6c41a85-09ab-4859-a90f-4cd18db35e24",
       "word": "line producer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGluZSBwcm9kdWNlcg&hash=f5510f8188b2e880d96344bc1db46e34af48507b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "laɪn prə.du.sɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bGluZSBwcm9kdWNlcg&hash=f5510f8188b2e880d96344bc1db46e34af48507b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lain prē.doo.sēr",
       "img": "",
       "pronunciation": "lˈaɪn pɹədˈuːsɚ",
       "senses": [
@@ -510,12 +675,13 @@
       ]
     },
     {
+      "id": "da7ee952-f9a7-41de-9a8a-fbd5bebadfe1",
       "word": "production manager",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvZHVjdGlvbiBtYW5hZ2Vy&hash=9b1de9e49ae1a4e5ab83460d7467ef8e6b23151a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɜr.dək.ʃən mæ.nɪ.ʤər",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvZHVjdGlvbiBtYW5hZ2Vy&hash=9b1de9e49ae1a4e5ab83460d7467ef8e6b23151a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pēr.dēk.shēn mā.ni.jēr",
       "img": "",
       "pronunciation": "pɹədˈʌkʃən mˈænɪdʒɚ",
       "senses": [
@@ -526,12 +692,13 @@
       ]
     },
     {
+      "id": "d382c337-b7e8-480c-a50e-9ed2af9d8ceb",
       "word": "production coordinator",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvZHVjdGlvbiBjb29yZGluYXRvcg&hash=d128445f105126b7b78a02213e88659d76ee0784&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɜr.dək.ʃən koʊɔr.də.neɪ.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvZHVjdGlvbiBjb29yZGluYXRvcg&hash=d128445f105126b7b78a02213e88659d76ee0784&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pēr.dēk.shēn koooawr.dē.nei.tēr",
       "img": "",
       "pronunciation": "pɹədˈʌkʃən koʊˈɔːɹdᵻnˌeɪɾɚ",
       "senses": [
@@ -542,12 +709,13 @@
       ]
     },
     {
+      "id": "ed4c169d-5e39-4ef1-9b3f-1e9de48d49ef",
       "word": "first assistant director",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Zmlyc3QgYXNzaXN0YW50IGRpcmVjdG9y&hash=e880bb0da332355af8afc3a7e758699a22f54474&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɜrst ə.sɪs.tənt dɪ.rɛk.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=Zmlyc3QgYXNzaXN0YW50IGRpcmVjdG9y&hash=e880bb0da332355af8afc3a7e758699a22f54474&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "fērst ē.sis.tēnt di.rek.tēr",
       "img": "",
       "pronunciation": "fˈɜːst ɐsˈɪstənt dɚɹˈɛktɚ",
       "senses": [
@@ -558,12 +726,13 @@
       ]
     },
     {
+      "id": "a42e24f0-b6fa-4323-8ce6-61f3a328cc3b",
       "word": "second assistant director",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Vjb25kIGFzc2lzdGFudCBkaXJlY3Rvcg&hash=e884eacb27348cee6594b9dde5a4441b878af4df&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛ.kənd ə.sɪs.tənt dɪ.rɛk.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Vjb25kIGFzc2lzdGFudCBkaXJlY3Rvcg&hash=e884eacb27348cee6594b9dde5a4441b878af4df&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "se.kēnd ē.sis.tēnt di.rek.tēr",
       "img": "",
       "pronunciation": "sˈɛkənd ɐsˈɪstənt dɚɹˈɛktɚ",
       "senses": [
@@ -574,12 +743,13 @@
       ]
     },
     {
+      "id": "66263bc2-7c0b-4605-983f-4867f0d4cc18",
       "word": "script supervisor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2NyaXB0IHN1cGVydmlzb3I&hash=634b60f333461c746e68e79de453b4da6b74a382&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "skrɪpt su.pɜr.vaɪ.zɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c2NyaXB0IHN1cGVydmlzb3I&hash=634b60f333461c746e68e79de453b4da6b74a382&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "skript soo.pēr.vai.zēr",
       "img": "",
       "pronunciation": "skɹˈɪpt sˈuːpɚvˌaɪzɚ",
       "senses": [
@@ -590,12 +760,13 @@
       ]
     },
     {
+      "id": "56eeb47c-9489-4dfe-ac11-4edc7f6b1fa9",
       "word": "casting director",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FzdGluZyBkaXJlY3Rvcg&hash=aaa0891417038efff5ebea04f18aaf8df73632a6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kæs.tɪng dɪ.rɛk.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FzdGluZyBkaXJlY3Rvcg&hash=aaa0891417038efff5ebea04f18aaf8df73632a6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kās.ting di.rek.tēr",
       "img": "",
       "pronunciation": "kˈæstɪŋ dɚɹˈɛktɚ",
       "senses": [
@@ -606,12 +777,13 @@
       ]
     },
     {
+      "id": "76a69bfc-182f-44e6-a09e-8c9048b51183",
       "word": "digital imaging technician",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlnaXRhbCBpbWFnaW5nIHRlY2huaWNpYW4&hash=b182ccf054115ac7ded455bd7957244578c921ab&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɪ.ʤɪtl ɪ.mɪ.ʤɪng tɛk.nɪ.ʃən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlnaXRhbCBpbWFnaW5nIHRlY2huaWNpYW4&hash=b182ccf054115ac7ded455bd7957244578c921ab&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "di.jitl i.mi.jing tek.ni.shēn",
       "img": "",
       "pronunciation": "dˈɪdʒɪɾəl ˈɪmɪdʒɪŋ tɛknˈɪʃən",
       "senses": [
@@ -622,12 +794,13 @@
       ]
     },
     {
+      "id": "9c7a0331-8178-4665-950c-dac516b0c092",
       "word": "best boy",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YmVzdCBib3k&hash=b61c3910c1c8ff45eb1ac917eb2a30ef1a0d677c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "best bɔɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=YmVzdCBib3k&hash=b61c3910c1c8ff45eb1ac917eb2a30ef1a0d677c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "best bawi",
       "img": "",
       "pronunciation": "bˈɛst bˈɔɪ",
       "senses": [
@@ -638,12 +811,13 @@
       ]
     },
     {
+      "id": "d33058dd-caf0-4fcc-a3c0-eb59c9e4a9d5",
       "word": "dolly grip",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZG9sbHkgZ3JpcA&hash=51c9740133f6557de2e327d14dfcd11ff8499edf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɑ.li grɪp",
       "phonetic_am": "https://tts.langeek.co/read?text=ZG9sbHkgZ3JpcA&hash=51c9740133f6557de2e327d14dfcd11ff8499edf&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "daa.li grip",
       "img": "",
       "pronunciation": "dˈɑːli ɡɹˈɪp",
       "senses": [
@@ -654,12 +828,13 @@
       ]
     },
     {
+      "id": "d52d33ee-5ceb-41f4-bca2-5c2e8f7a7501",
       "word": "production sound mixer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvZHVjdGlvbiBzb3VuZCBtaXhlcg&hash=2cf78967067b16c44471206b140eb143d0178e16&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɜr.dək.ʃən saʊnd mɪk.sɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvZHVjdGlvbiBzb3VuZCBtaXhlcg&hash=2cf78967067b16c44471206b140eb143d0178e16&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pēr.dēk.shēn saoond mik.sēr",
       "img": "",
       "pronunciation": "pɹədˈʌkʃən sˈaʊnd mˈɪksɚ",
       "senses": [
@@ -670,12 +845,13 @@
       ]
     },
     {
+      "id": "c858472c-20f5-4a1a-9b2c-0362d250b389",
       "word": "boom operator",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Ym9vbSBvcGVyYXRvcg&hash=a0916ca7725a7f70d11cd33f64a6c8c60b4eca20&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "bum ɑ.pɜ.reɪ.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=Ym9vbSBvcGVyYXRvcg&hash=a0916ca7725a7f70d11cd33f64a6c8c60b4eca20&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "boom aa.pē.rei.tēr",
       "img": "",
       "pronunciation": "bˈuːm ˈɑːpɚɹˌeɪɾɚ",
       "senses": [
@@ -686,12 +862,13 @@
       ]
     },
     {
+      "id": "cc748906-fe1d-482b-8c38-02fe0eed205a",
       "word": "cable person",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FibGUgcGVyc29u&hash=5348d0a752030318ac88c48cbbb0a8ffa5555400&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "keɪ.bəl pɜr.sən",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FibGUgcGVyc29u&hash=5348d0a752030318ac88c48cbbb0a8ffa5555400&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kei.bēl pēr.sēn",
       "img": "",
       "pronunciation": "kˈeɪbəl pˈɜːsən",
       "senses": [
@@ -702,12 +879,13 @@
       ]
     },
     {
+      "id": "2fc71969-490a-4684-97b8-d1f2cd0ad16d",
       "word": "production designer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvZHVjdGlvbiBkZXNpZ25lcg&hash=7afca6145940c91624ad7607aa35f01466f1c79f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "pɜr.dək.ʃən dɪ.zaɪ.nər",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvZHVjdGlvbiBkZXNpZ25lcg&hash=7afca6145940c91624ad7607aa35f01466f1c79f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "pēr.dēk.shēn di.zai.nēr",
       "img": "",
       "pronunciation": "pɹədˈʌkʃən dɪzˈaɪnɚ",
       "senses": [
@@ -718,12 +896,13 @@
       ]
     },
     {
+      "id": "bb2c9976-2d49-42ea-9c0a-25f179e654d8",
       "word": "set designer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2V0IGRlc2lnbmVy&hash=9f0ce69649374d2a3603be9b9856e3a9ab05e368&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛt dɪ.zaɪ.nər",
       "phonetic_am": "https://tts.langeek.co/read?text=c2V0IGRlc2lnbmVy&hash=9f0ce69649374d2a3603be9b9856e3a9ab05e368&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "set di.zai.nēr",
       "img": "",
       "pronunciation": "sˈɛt dɪzˈaɪnɚ",
       "senses": [
@@ -734,12 +913,13 @@
       ]
     },
     {
+      "id": "4f92ebfe-f553-43bc-ad66-079c48b65096",
       "word": "auteur",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXV0ZXVy&hash=8e00b09c3b3f75f5f1b9d38e1e6ce22eba1263f2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɔ:.tʊr",
       "phonetic_am": "https://tts.langeek.co/read?text=YXV0ZXVy&hash=8e00b09c3b3f75f5f1b9d38e1e6ce22eba1263f2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aw.toor",
       "img": "",
       "pronunciation": "ɔːtˈʊɹ",
       "senses": [
@@ -771,12 +951,13 @@
       ]
     },
     {
+      "id": "2f44e613-df51-4200-83a0-1278e552ab51",
       "word": "film critic",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmlsbSBjcml0aWM&hash=1de3d7d0ee0f17d90443c37491b708570e6c0cb3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɪlm krɪ.tɪk",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmlsbSBjcml0aWM&hash=1de3d7d0ee0f17d90443c37491b708570e6c0cb3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "film kri.tik",
       "img": "",
       "pronunciation": "fˈɪlm kɹˈɪɾɪk",
       "senses": [
@@ -787,12 +968,13 @@
       ]
     },
     {
+      "id": "e9ea1780-1245-4044-a003-ba911c48652c",
       "word": "lighting designer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGlnaHRpbmcgZGVzaWduZXI&hash=43a212f774e953ff108b1f4c691b468946f17138&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "laɪ.tɪng dɪ.zaɪ.nər",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlnaHRpbmcgZGVzaWduZXI&hash=43a212f774e953ff108b1f4c691b468946f17138&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lai.ting di.zai.nēr",
       "img": "",
       "pronunciation": "lˈaɪɾɪŋ dɪzˈaɪnɚ",
       "senses": [
@@ -803,12 +985,13 @@
       ]
     },
     {
+      "id": "26de620f-8cda-49fc-a6d7-92a9c0f9ffef",
       "word": "filmmaker",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmlsbW1ha2Vy&hash=5384cefd07e62cdad5af67286151fb2f5925f7ae&lang=en&cache-only=0",
-      "phonetic_text": "fɪlmeɪkər",
+      "phonetic_text": "fɪlm.meɪ.kər",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmlsbW1ha2Vy&hash=5384cefd07e62cdad5af67286151fb2f5925f7ae&lang=en&cache-only=0",
-      "phonetic_am_text": "filmeikēr",
+      "phonetic_am_text": "film.mei.kēr",
       "img": "https://cdn.langeek.co/photo/50581/original/director?type=jpeg",
       "pronunciation": "ˈfɪɫˌmeɪkɝ",
       "senses": [
@@ -840,12 +1023,13 @@
       ]
     },
     {
+      "id": "0d7d5085-7b19-4f91-9bd7-f4643fe24d4b",
       "word": "gaffer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z2FmZmVy&hash=4e04f289f095dce654f9bc8d2ebc8953eb77f86b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gæ.fər",
       "phonetic_am": "https://tts.langeek.co/read?text=Z2FmZmVy&hash=4e04f289f095dce654f9bc8d2ebc8953eb77f86b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "gā.fēr",
       "img": "",
       "pronunciation": "ɡˈæfɚ",
       "senses": [
@@ -856,6 +1040,7 @@
       ]
     },
     {
+      "id": "645bd943-bd78-452d-818e-097e940bf66f",
       "word": "grip",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JpcA&hash=f27f9304b6b7a77d4cf05c2186c03d9b708058a0&lang=en&cache-only=0",
@@ -863,7 +1048,7 @@
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JpcA&hash=f27f9304b6b7a77d4cf05c2186c03d9b708058a0&lang=en&cache-only=0",
       "phonetic_am_text": "grip",
       "img": "",
-      "pronunciation": "ˈɡɹɪp",
+      "pronunciation": "ɡrɪp",
       "senses": [
         {
           "definition": "someone whose job is to carry or prepare cameras or lighting equipment in a movie or TV set",
@@ -872,12 +1057,13 @@
       ]
     },
     {
+      "id": "01f70652-598b-44fc-aeac-5c9a6ab9e187",
       "word": "key grip",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=a2V5IGdyaXA&hash=53458eac15ce37e8bc9ed07a4404a5e5cf6d5521&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ki grɪp",
       "phonetic_am": "https://tts.langeek.co/read?text=a2V5IGdyaXA&hash=53458eac15ce37e8bc9ed07a4404a5e5cf6d5521&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ki grip",
       "img": "",
       "pronunciation": "kˈiː ɡɹˈɪp",
       "senses": [
@@ -888,12 +1074,13 @@
       ]
     },
     {
+      "id": "fca39efb-7fc0-43f3-9c16-13594e08e12f",
       "word": "lighting engineer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGlnaHRpbmcgZW5naW5lZXI&hash=713a1b39a060b6c085ba1b887addff46db04bc46&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "laɪ.tɪng ɛn.ʤɪ.nɪr",
       "phonetic_am": "https://tts.langeek.co/read?text=bGlnaHRpbmcgZW5naW5lZXI&hash=713a1b39a060b6c085ba1b887addff46db04bc46&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lai.ting en.ji.nir",
       "img": "",
       "pronunciation": "lˈaɪɾɪŋ ˌɛndʒɪnˈɪɹ",
       "senses": [
@@ -921,12 +1108,13 @@
       ]
     },
     {
+      "id": "852b0f49-589f-4b13-93ef-74ce4c0337e9",
       "word": "leadman",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGVhZG1hbg&hash=0d7b0e72f8a3503dbae7ac60893523b8269eae6b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "li:d.mæn",
       "phonetic_am": "https://tts.langeek.co/read?text=bGVhZG1hbg&hash=0d7b0e72f8a3503dbae7ac60893523b8269eae6b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lid.mān",
       "img": "",
       "pronunciation": "lˈiːdmən",
       "senses": [
@@ -937,12 +1125,13 @@
       ]
     },
     {
+      "id": "6c0fb404-2848-48b5-82ea-2bf14f574bf2",
       "word": "set dresser",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2V0IGRyZXNzZXI&hash=4944f6507767e6397dce87812b9bbf3c1010f220&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛt drɛ.sɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c2V0IGRyZXNzZXI&hash=4944f6507767e6397dce87812b9bbf3c1010f220&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "set dre.sēr",
       "img": "",
       "pronunciation": "sˈɛt dɹˈɛsɚ",
       "senses": [
@@ -953,12 +1142,13 @@
       ]
     },
     {
+      "id": "7ad2b2b4-0864-4893-97de-7934b1f8bc49",
       "word": "greensman",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Z3JlZW5zbWFu&hash=30471a26de54db77bbb338095b88781b9e9e61cf&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "gri:nz.mən",
       "phonetic_am": "https://tts.langeek.co/read?text=Z3JlZW5zbWFu&hash=30471a26de54db77bbb338095b88781b9e9e61cf&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "grinz.mēn",
       "img": "",
       "pronunciation": "ɡɹˈiːnzmən",
       "senses": [
@@ -969,10 +1159,11 @@
       ]
     },
     {
+      "id": "4408dc27-d667-4bec-9097-557fb5fce946",
       "word": "weapons master",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=d2VhcG9ucyBtYXN0ZXI&hash=efcf2ad2a06307709d4acfb39a79327e69343098&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=d2VhcG9ucyBtYXN0ZXI&hash=efcf2ad2a06307709d4acfb39a79327e69343098&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -985,12 +1176,13 @@
       ]
     },
     {
+      "id": "12aac9b1-330e-431a-97d3-bc29e7bd7940",
       "word": "charge artist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2hhcmdlIGFydGlzdA&hash=041ca6af9a909125199796fb67cd55017d2f1119&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ʧɑrʤ ɑ:r.tɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2hhcmdlIGFydGlzdA&hash=041ca6af9a909125199796fb67cd55017d2f1119&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "chaarj aar.tist",
       "img": "",
       "pronunciation": "tʃˈɑːɹdʒ ˈɑːɹɾɪst",
       "senses": [
@@ -1001,12 +1193,13 @@
       ]
     },
     {
+      "id": "a6812e66-0e30-4710-8d8b-8e9c56db4acc",
       "word": "costume designer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29zdHVtZSBkZXNpZ25lcg&hash=4a2eface318ea731a5840f6cd4e86a4bb2c4776a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑs.tu:m dɪ.zaɪ.nər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29zdHVtZSBkZXNpZ25lcg&hash=4a2eface318ea731a5840f6cd4e86a4bb2c4776a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaas.toom di.zai.nēr",
       "img": "",
       "pronunciation": "kˈɔstuːm dɪzˈaɪnɚ",
       "senses": [
@@ -1038,12 +1231,13 @@
       ]
     },
     {
+      "id": "09999958-2a8f-4654-9397-cd6dc3ae44d7",
       "word": "makeup artist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWFrZXVwIGFydGlzdA&hash=e2881054690b2242da8f2784f2ebe527804b194b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "meɪ.kəp ɑ:r.tɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=bWFrZXVwIGFydGlzdA&hash=e2881054690b2242da8f2784f2ebe527804b194b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mei.kēp aar.tist",
       "img": "https://cdn.langeek.co/photo/35318/original/?type=jpeg",
       "pronunciation": "meɪkʌp ɑːɹɾɪst",
       "senses": [
@@ -1054,12 +1248,13 @@
       ]
     },
     {
+      "id": "14030d7f-b6d4-4d35-b027-8bf810367571",
       "word": "special effects supervisor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c3BlY2lhbCBlZmZlY3RzIHN1cGVydmlzb3I&hash=831208b10500ce6dec03290426283cea77f287ec&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spɛ.ʃəl i.fɛkts su.pɜr.vaɪ.zɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BlY2lhbCBlZmZlY3RzIHN1cGVydmlzb3I&hash=831208b10500ce6dec03290426283cea77f287ec&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "spe.shēl i.fekts soo.pēr.vai.zēr",
       "img": "",
       "pronunciation": "spˈɛʃəl ɪfˈɛkts sˈuːpɚvˌaɪzɚ",
       "senses": [
@@ -1070,12 +1265,13 @@
       ]
     },
     {
+      "id": "bfa72bfb-c0fd-4026-b295-84196d294e98",
       "word": "compositor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29tcG9zaXRvcg&hash=5de97bb1327315a9b1b1125c06cde323f1c0aea6&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kɑ:m.pə.sɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tcG9zaXRvcg&hash=5de97bb1327315a9b1b1125c06cde323f1c0aea6&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaam.pē.si.tēr",
       "img": "",
       "pronunciation": "kˈɑːmpəsˌɪɾɚ",
       "senses": [
@@ -1086,12 +1282,13 @@
       ]
     },
     {
+      "id": "2ad3cd1e-beea-47b1-a344-e1954c1aef44",
       "word": "matte painter",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWF0dGUgcGFpbnRlcg&hash=38b1aab932f39b089893bae97dd284c1d6f85938&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mæt peɪn.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=bWF0dGUgcGFpbnRlcg&hash=38b1aab932f39b089893bae97dd284c1d6f85938&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "māt pein.tēr",
       "img": "",
       "pronunciation": "mˈæt pˈeɪntɚ",
       "senses": [
@@ -1102,12 +1299,13 @@
       ]
     },
     {
+      "id": "4f3f2d08-4afb-4fe5-b293-4f15fed7ff4d",
       "word": "film distributor",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZmlsbSBkaXN0cmlidXRvcg&hash=3e4ae9a74329183ddfca92ab94df14cf751de880&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "fɪlm dɪst.rɪb.jə.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=ZmlsbSBkaXN0cmlidXRvcg&hash=3e4ae9a74329183ddfca92ab94df14cf751de880&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "film dist.rib.yē.tēr",
       "img": "",
       "pronunciation": "fˈɪlm dɪstɹˈɪbjuːɾɚ",
       "senses": [
@@ -1118,12 +1316,13 @@
       ]
     },
     {
+      "id": "e419d5ca-9041-48b4-8bf4-47897ef985ab",
       "word": "animator",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YW5pbWF0b3I&hash=30fcce66bfb488979bc40e61f67a404746c0d27f&lang=en&cache-only=0",
-      "phonetic_text": "ænəmeɪtər",
+      "phonetic_text": "æ.nə.meɪ.tɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YW5pbWF0b3I&hash=30fcce66bfb488979bc40e61f67a404746c0d27f&lang=en&cache-only=0",
-      "phonetic_am_text": "ānēmeitēr",
+      "phonetic_am_text": "ā.nē.mei.tēr",
       "img": "https://cdn.langeek.co/photo/47658/original/?type=jpeg",
       "pronunciation": "ˈænəˌmeɪtɝ",
       "senses": [
@@ -1134,12 +1333,13 @@
       ]
     },
     {
+      "id": "12b4bc2e-3150-49ad-ab2f-eca35e1d4e21",
       "word": "sound designer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c291bmQgZGVzaWduZXI&hash=31f7d02caf25da9755d3178c687d4c867afb6b9d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "saʊnd dɪ.zaɪ.nər",
       "phonetic_am": "https://tts.langeek.co/read?text=c291bmQgZGVzaWduZXI&hash=31f7d02caf25da9755d3178c687d4c867afb6b9d&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "saoond di.zai.nēr",
       "img": "",
       "pronunciation": "sˈaʊnd dɪzˈaɪnɚ",
       "senses": [
@@ -1150,12 +1350,13 @@
       ]
     },
     {
+      "id": "c3f50a14-c4a9-4e3b-a49b-c3b7c88232bc",
       "word": "tragedian",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dHJhZ2VkaWFu&hash=df76ea89aecc4c6e592ce9ca4b9be8fdf32eece8&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "træ.ʤi:.diən",
       "phonetic_am": "https://tts.langeek.co/read?text=dHJhZ2VkaWFu&hash=df76ea89aecc4c6e592ce9ca4b9be8fdf32eece8&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "trā.ji.diēn",
       "img": "",
       "pronunciation": "tɹædʒˈiːdiən",
       "senses": [
@@ -1183,12 +1384,13 @@
       ]
     },
     {
+      "id": "805b0ebc-36a0-4a8e-86ab-a7750b5011c5",
       "word": "projectionist",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvamVjdGlvbmlzdA&hash=ae9871f73a4bb1a86cb8064cf1e77f2404cb6326&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "prə.ʤɛk.ʃə.nɪst",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvamVjdGlvbmlzdA&hash=ae9871f73a4bb1a86cb8064cf1e77f2404cb6326&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "prē.jek.shē.nist",
       "img": "",
       "pronunciation": "pɹədʒˈɛkʃənˌɪst",
       "senses": [
@@ -1199,12 +1401,13 @@
       ]
     },
     {
+      "id": "7f3c52b8-4ebf-48f2-9066-306d3936b3ad",
       "word": "dramaturg",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHJhbWF0dXJn&hash=e81d2ff78934d3fac76169be28cd095caec6b8ce&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dræ.mə.ʧʊrg",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHJhbWF0dXJn&hash=e81d2ff78934d3fac76169be28cd095caec6b8ce&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "drā.mē.choorg",
       "img": "",
       "pronunciation": "dɹˈæmətʃˌʊɹɡ",
       "senses": [
@@ -1215,12 +1418,13 @@
       ]
     },
     {
+      "id": "8ce89a1e-3a1b-492b-933b-8d9d5517bcfc",
       "word": "scenographer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2Nlbm9ncmFwaGVy&hash=7fbe6bdba86f7f9df330f3ea5de5be291103b487&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "sɛ.nɑ:g.rə.fər",
       "phonetic_am": "https://tts.langeek.co/read?text=c2Nlbm9ncmFwaGVy&hash=7fbe6bdba86f7f9df330f3ea5de5be291103b487&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "se.naag.rē.fēr",
       "img": "",
       "pronunciation": "sɛnˈɑːɡɹəfɚ",
       "senses": [

@@ -1,29 +1,41 @@
 {
+  "id": "6b3dc817-d007-4781-afff-4f10f5784d99",
   "topic": "compound_adverbs",
   "title": "Giving Explanation",
   "lesson": "lesson_7",
   "word_list": [
     {
+      "id": "060230e2-426e-4b58-b483-5df5d68a07c5",
       "word": "as a side note",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YXMgYSBzaWRlIG5vdGU&hash=b8737338eee14d032e8790b6d4ebb59dc0dc5d3c&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "æz ə saɪd noʊt",
       "phonetic_am": "https://tts.langeek.co/read?text=YXMgYSBzaWRlIG5vdGU&hash=b8737338eee14d032e8790b6d4ebb59dc0dc5d3c&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "āz ē said nooot",
       "img": "",
       "pronunciation": "æz ɐ sˈaɪd nˈoʊt",
       "senses": [
         {
           "definition": "used to introduce additional information or a comment that is related to the main topic but not essential to it",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "As a side note, I wanted to mention that there will be a staff meeting tomorrow morning."
+            },
+            {
+              "cf": "",
+              "x": "As a side note, don't forget to bring any book recommendations for future reads."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "5bb70224-4e50-4401-85fa-287c68491835",
       "word": "by all accounts",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YnkgYWxsIGFjY291bnRz&hash=8f03a6b3089e7d15f2ab2ca554196429dac1f850&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=YnkgYWxsIGFjY291bnRz&hash=8f03a6b3089e7d15f2ab2ca554196429dac1f850&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -31,31 +43,71 @@
       "senses": [
         {
           "definition": "used to indicate that, according to various sources or opinions, something is generally accepted as true or accurate",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "By all accounts, the restaurant serves the best pizza in town."
+            },
+            {
+              "cf": "",
+              "x": "The film was, by all accounts, a box office success, drawing in large crowds and receiving positive reviews from critics."
+            },
+            {
+              "cf": "",
+              "x": "By all accounts, she is a dedicated and hardworking employee, consistently exceeding expectations in her role."
+            },
+            {
+              "cf": "",
+              "x": "The renovations to the historic building were, by all accounts, a labor of love, with meticulous attention to detail and preservation."
+            },
+            {
+              "cf": "",
+              "x": "By all accounts, the conference was a resounding success, with engaging speakers and valuable networking opportunities."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "e5d4df2d-d72a-408a-8fee-64119efd05c0",
       "word": "by the way",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=YnkgdGhlIHdheQ&hash=aeb6a43b6dd70c4f447c4e3bcc892841996af8c2&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "baɪ ðə weɪ",
       "phonetic_am": "https://tts.langeek.co/read?text=YnkgdGhlIHdheQ&hash=aeb6a43b6dd70c4f447c4e3bcc892841996af8c2&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "bai dhē vei",
       "img": "",
       "pronunciation": "baɪ ðə wˈeɪ",
       "senses": [
         {
           "definition": "used to introduce a new topic or information that is related to the ongoing conversation",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "By the way, have you heard about the upcoming company picnic?"
+            },
+            {
+              "cf": "",
+              "x": "By the way, did you remember to bring the report for today's meeting?"
+            },
+            {
+              "cf": "",
+              "x": "By the way, I saw your sister at the grocery store yesterday."
+            },
+            {
+              "cf": "",
+              "x": "By the way, have you had a chance to review the revised draft of the proposal?"
+            }
+          ]
         }
       ]
     },
     {
+      "id": "30b034c1-6a21-4496-bcaf-9b966b535ec6",
       "word": "come to think (of|about) it",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=Y29tZSB0byB0aGluayBvZiBpdA&hash=3808a69bf4936325bff64fcdd037b3fd4335e806&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tZSB0byB0aGluayBvZiBpdA&hash=3808a69bf4936325bff64fcdd037b3fd4335e806&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -68,12 +120,13 @@
       ]
     },
     {
+      "id": "41d7dd1b-806c-428a-9d7d-c4575c4cf935",
       "word": "in particular",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=aW4gcGFydGljdWxhcg&hash=a454dd815973fe4a45c6dbe428349de86ce7233b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn pər.tɪk.jə.lər",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gcGFydGljdWxhcg&hash=a454dd815973fe4a45c6dbe428349de86ce7233b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in pēr.tik.yē.lēr",
       "img": "",
       "pronunciation": "ɪn pɚtˈɪkjʊlɚ",
       "senses": [
@@ -105,12 +158,13 @@
       ]
     },
     {
+      "id": "d9629807-cc1f-49fb-b333-2eec88d69864",
       "word": "in this regard",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=aW4gdGhpcyByZWdhcmQ&hash=d7dab56c3c3b96d2d2dc0477d0a280c407b34b4f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn ðɪs rɪ.gɑrd",
       "phonetic_am": "https://tts.langeek.co/read?text=aW4gdGhpcyByZWdhcmQ&hash=d7dab56c3c3b96d2d2dc0477d0a280c407b34b4f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in dhis ri.gaard",
       "img": "",
       "pronunciation": "ɪn ðɪs ɹɪɡˈɑːɹd",
       "senses": [
@@ -121,12 +175,13 @@
       ]
     },
     {
+      "id": "20e9af67-3381-47bf-93f4-9260ce34e65a",
       "word": "speaking of which",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=c3BlYWtpbmcgb2Ygd2hpY2g&hash=9e37aff3377e4f6755a59a1e5ac1807da47f292e&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "spi.kɪng ʌv wɪʧ",
       "phonetic_am": "https://tts.langeek.co/read?text=c3BlYWtpbmcgb2Ygd2hpY2g&hash=9e37aff3377e4f6755a59a1e5ac1807da47f292e&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "spi.king av vich",
       "img": "",
       "pronunciation": "spˈiːkɪŋ ʌvwˈɪtʃ",
       "senses": [
@@ -146,55 +201,57 @@
       ]
     },
     {
+      "id": "617345c5-72a0-4197-b35e-de364b7ca0d4",
       "word": "to that end",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGhhdCBlbmQ&hash=dc0d907ad4a1f241cddf46816befeca7a71ddd56&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tu: ðæt ɛnd",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGhhdCBlbmQ&hash=dc0d907ad4a1f241cddf46816befeca7a71ddd56&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "too dhāt end",
       "img": "",
       "pronunciation": "tə ðæt ˈɛnd",
       "senses": [
         {
           "definition": "used to indicate that something is being done or stated with a specific purpose or goal in mind",
-          "examples": []
+          "examples": [
+            {
+              "cf": "",
+              "x": "We are implementing these new safety measures to that end, ensuring the well-being of our employees."
+            },
+            {
+              "cf": "",
+              "x": "The company is investing in renewable energy technologies, and to that end, we're exploring solar and wind power options."
+            },
+            {
+              "cf": "",
+              "x": "The committee is reviewing proposals for infrastructure improvements, and to that end, we're prioritizing projects that will enhance efficiency and sustainability."
+            },
+            {
+              "cf": "",
+              "x": "We're promoting work-life balance among employees, and to that end, we're introducing flexible scheduling and wellness programs."
+            },
+            {
+              "cf": "",
+              "x": "We're advocating for social justice reforms, and to that end, we're organizing community events and lobbying policymakers."
+            }
+          ]
         }
       ]
     },
     {
+      "id": "fce9956a-f423-4ff2-a196-d5a6731189ee",
       "word": "to the point that",
       "pos": "adverb",
       "phonetic": "https://tts.langeek.co/read?text=dG8gdGhlIHBvaW50IHRoYXQ&hash=208fe79f5c94f1f45f6ba13bab5f29fddd21add7&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "tu: ðə pɔɪnt ðæt",
       "phonetic_am": "https://tts.langeek.co/read?text=dG8gdGhlIHBvaW50IHRoYXQ&hash=208fe79f5c94f1f45f6ba13bab5f29fddd21add7&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "too dhē pawint dhāt",
       "img": "",
       "pronunciation": "tə ðə pˈɔɪnt ðˈæt",
       "senses": [
         {
           "definition": "used to describe a situation where something has reached a particular level or condition, often implying that it has become excessive or extreme",
-          "examples": [
-            {
-              "cf": "",
-              "x": "He has been working so hard, to the point that he's neglecting his health."
-            },
-            {
-              "cf": "",
-              "x": "She practiced her speech so much to the point that she could recite it word for word without any hesitation."
-            },
-            {
-              "cf": "",
-              "x": "The workload at the office has increased to the point that employees are feeling overwhelmed and stressed."
-            },
-            {
-              "cf": "",
-              "x": "The noise from the construction next door has escalated to the point that it's disrupting our daily activities."
-            },
-            {
-              "cf": "",
-              "x": "They argued about the issue for hours, to the point that they were both emotionally drained and exhausted."
-            }
-          ]
+          "examples": []
         }
       ]
     }

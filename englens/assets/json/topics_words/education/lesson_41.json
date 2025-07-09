@@ -1,15 +1,17 @@
 {
+  "id": "ce94ccde-f489-4e38-800d-8ef73e931d49",
   "topic": "education",
   "title": "Learning Disorders",
   "lesson": "lesson_41",
   "word_list": [
     {
+      "id": "adce5365-26d5-44b2-8135-9ebb8ff846df",
       "word": "dyslexia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHlzbGV4aWE&hash=2498759cd3b1d0c8882db4f6efee06931200b4fa&lang=en&cache-only=0",
-      "phonetic_text": "dɪslɛksiə",
+      "phonetic_text": "dɪs.lɛk.siə",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHlzbGV4aWE&hash=2498759cd3b1d0c8882db4f6efee06931200b4fa&lang=en&cache-only=0",
-      "phonetic_am_text": "disleksiē",
+      "phonetic_am_text": "dis.lek.siē",
       "img": "",
       "pronunciation": "dɪˈsɫɛksiə",
       "senses": [
@@ -20,12 +22,13 @@
       ]
     },
     {
+      "id": "539a7c14-9347-4e8b-9cc8-a24ec31d737f",
       "word": "dysgraphia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHlzZ3JhcGhpYQ&hash=6cbbe5cd20884d7183031c87533dcb951bf8ca91&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɪsg.ræ.fiə",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHlzZ3JhcGhpYQ&hash=6cbbe5cd20884d7183031c87533dcb951bf8ca91&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "disg.rā.fiē",
       "img": "",
       "pronunciation": "dɪsɡɹˈæfiə",
       "senses": [
@@ -36,12 +39,13 @@
       ]
     },
     {
+      "id": "98be86be-4e7a-4dfc-9c63-de39598c0f4a",
       "word": "dyscalculia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHlzY2FsY3VsaWE&hash=34a6c364e756284391bbf9bfa058fbffc311f06b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɪs.kal.kju:.liə",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHlzY2FsY3VsaWE&hash=34a6c364e756284391bbf9bfa058fbffc311f06b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dis.kal.kyoo.liē",
       "img": "",
       "pronunciation": "dˌɪskɐlkjˈuːliə",
       "senses": [
@@ -73,41 +77,30 @@
       ]
     },
     {
+      "id": "ff897eec-e2b1-4bd2-b00b-d2173135f52b",
       "word": "dyspraxia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHlzcHJheGlh&hash=e335f5df365882477576adb4bf8c47fe447966b3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɪsp.reɪk.siə",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHlzcHJheGlh&hash=e335f5df365882477576adb4bf8c47fe447966b3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "disp.reik.siē",
       "img": "",
       "pronunciation": "dɪspɹˈeɪksiə",
       "senses": [
         {
           "definition": "a neurological condition characterized by difficulties in coordination, movement, and planning, often affecting activities of daily living and academic performance",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Individuals with dyspraxia may struggle with tasks such as tying shoelaces, buttoning shirts, or using utensils while eating."
-            },
-            {
-              "cf": "",
-              "x": "Children with dyspraxia may have difficulty with handwriting, often resulting in messy or illegible writing."
-            },
-            {
-              "cf": "",
-              "x": "Occupational therapy and targeted interventions can help individuals with dyspraxia improve their coordination and develop strategies to manage daily tasks more effectively."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "4d0863a0-ab16-4889-b07a-50401f53b939",
       "word": "dyscravia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHlzY3Jhdmlh&hash=ae98cd3a9748dcc3e243b80c2f60acc9ff78c338&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɪsk.reɪ.viə",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHlzY3Jhdmlh&hash=ae98cd3a9748dcc3e243b80c2f60acc9ff78c338&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "disk.rei.viē",
       "img": "",
       "pronunciation": "dɪskɹˈeɪviə",
       "senses": [
@@ -131,12 +124,13 @@
       ]
     },
     {
+      "id": "f72b9861-d8a2-4e2f-bfd8-7d03d0d704bc",
       "word": "aphasia",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXBoYXNpYQ&hash=9bc27e0082a0d43c67bf22bac6fc837df9f84395&lang=en&cache-only=0",
-      "phonetic_text": "əfeɪʒə",
+      "phonetic_text": "ə.feɪ.ʒə",
       "phonetic_am": "https://tts.langeek.co/read?text=YXBoYXNpYQ&hash=9bc27e0082a0d43c67bf22bac6fc837df9f84395&lang=en&cache-only=0",
-      "phonetic_am_text": "ēfeizhē",
+      "phonetic_am_text": "ē.fei.zhē",
       "img": "",
       "pronunciation": "əˈfeɪʒə",
       "senses": [
@@ -147,12 +141,13 @@
       ]
     },
     {
+      "id": "98460f04-a613-48ba-9e3b-4580679b766c",
       "word": "auditory processing disorder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXVkaXRvcnkgcHJvY2Vzc2luZyBkaXNvcmRlcg&hash=d7afa1ee8b45b725169aecd5652375c3bd780a02&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɔ.dɪ.tɔ.ri prɑ.sɛ.sɪng dɪ.sɔr.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YXVkaXRvcnkgcHJvY2Vzc2luZyBkaXNvcmRlcg&hash=d7afa1ee8b45b725169aecd5652375c3bd780a02&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "aw.di.taw.ri praa.se.sing di.sawr.dēr",
       "img": "",
       "pronunciation": "ˈɔːdɪtˌoːɹi pɹˈɑːsɛsɪŋ dɪsˈoːɹdɚ",
       "senses": [
@@ -176,12 +171,13 @@
       ]
     },
     {
+      "id": "cbf81522-feea-4099-bd61-349aad8c0d24",
       "word": "attention deficit hyperactivity disorder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YXR0ZW50aW9uIGRlZmljaXQgaHlwZXJhY3Rpdml0eSBkaXNvcmRlcg&hash=b9bb2a8d5c95825f2fb5af7eb74de9b49a236a1a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ə.tɛn.ʃən dɛ.fə.sət haɪ.pɜ.ræk.tɪ.vɪ.ti dɪ.sɔr.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=YXR0ZW50aW9uIGRlZmljaXQgaHlwZXJhY3Rpdml0eSBkaXNvcmRlcg&hash=b9bb2a8d5c95825f2fb5af7eb74de9b49a236a1a&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "ē.ten.shēn de.fē.sēt hai.pē.rāk.ti.vi.ti di.sawr.dēr",
       "img": "",
       "pronunciation": "ɐtˈɛnʃən dˈɛfɪsˌɪt hˌaɪpɚɹɐktˈɪvɪɾi dɪsˈoːɹdɚ",
       "senses": [
@@ -192,12 +188,13 @@
       ]
     },
     {
+      "id": "a6770bc9-3505-4909-bc8b-51631118be86",
       "word": "language disorder",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bGFuZ3VhZ2UgZGlzb3JkZXI&hash=efd95457f013c47b98b3680dd5d85fa6a397ed2f&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "læng.wɪʤ dɪ.sɔr.dɜr",
       "phonetic_am": "https://tts.langeek.co/read?text=bGFuZ3VhZ2UgZGlzb3JkZXI&hash=efd95457f013c47b98b3680dd5d85fa6a397ed2f&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "lāng.vij di.sawr.dēr",
       "img": "",
       "pronunciation": "lˈæŋɡwɪdʒ dɪsˈoːɹdɚ",
       "senses": [
@@ -208,49 +205,30 @@
       ]
     },
     {
+      "id": "3d40c549-bff0-46db-9441-1de3b3f7eb18",
       "word": "visual motor deficit",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=dmlzdWFsIG1vdG9yIGRlZmljaXQ&hash=b4c7efc3413e708258f028aadf12bcf2d8389a38&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "vɪʒ.wəl moʊ.tɜr dɛ.fə.sət",
       "phonetic_am": "https://tts.langeek.co/read?text=dmlzdWFsIG1vdG9yIGRlZmljaXQ&hash=b4c7efc3413e708258f028aadf12bcf2d8389a38&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "vizh.vēl mooo.tēr de.fē.sēt",
       "img": "",
       "pronunciation": "vˈɪʒuːəl mˈoʊɾɚ dˈɛfɪsˌɪt",
       "senses": [
         {
           "definition": "a condition characterized by trouble connecting what the eyes see with what the hands do, causing difficulties in tasks like writing, drawing, and hand-eye coordination",
-          "examples": [
-            {
-              "cf": "",
-              "x": "A child with a visual motor deficit may struggle to form letters or numbers correctly when writing."
-            },
-            {
-              "cf": "",
-              "x": "Students with visual motor deficits might find it challenging to complete puzzles or trace shapes accurately."
-            },
-            {
-              "cf": "",
-              "x": "Someone with a visual motor deficit might have difficulty catching a ball or hitting a target during sports."
-            },
-            {
-              "cf": "",
-              "x": "Occupational therapists often work with individuals with visual motor deficits to improve skills like tying shoelaces or using scissors."
-            },
-            {
-              "cf": "",
-              "x": "Individuals with a visual motor deficit may have trouble with tasks like pouring liquids, buttoning clothes, or threading needles."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "41300c34-06b7-412e-b72d-30b66d7111a2",
       "word": "dysorthography",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZHlzb3J0aG9ncmFwaHk&hash=e40d3130f59e8244553671d0d413142e9c9537b1&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "daɪ.sɔ:r.θɑ:g.rə.fi",
       "phonetic_am": "https://tts.langeek.co/read?text=ZHlzb3J0aG9ncmFwaHk&hash=e40d3130f59e8244553671d0d413142e9c9537b1&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "dai.sawr.thaag.rē.fi",
       "img": "",
       "pronunciation": "dˌaɪsɔːɹθˈɑːɡɹəfi",
       "senses": [
@@ -274,12 +252,13 @@
       ]
     },
     {
+      "id": "3201d335-8e9e-478f-95c6-2646219ac660",
       "word": "intellectual disability",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=aW50ZWxsZWN0dWFsIGRpc2FiaWxpdHk&hash=8cf8eb4340a03090167792a91f0a01067165d560&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "ɪn.ə.lɛk.ʧuəl dɪ.sə.bɪ.lɪ.ti",
       "phonetic_am": "https://tts.langeek.co/read?text=aW50ZWxsZWN0dWFsIGRpc2FiaWxpdHk&hash=8cf8eb4340a03090167792a91f0a01067165d560&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "in.ē.lek.chooēl di.sē.bi.li.ti",
       "img": "",
       "pronunciation": "ˌɪntəlˈɛktʃuːəl dˌɪsɐbˈɪləɾi",
       "senses": [
@@ -311,39 +290,19 @@
       ]
     },
     {
+      "id": "c80098ea-508c-4c0a-90ff-c6ae4d0b31c4",
       "word": "mild cognitive impairment",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWlsZCBjb2duaXRpdmUgaW1wYWlybWVudA&hash=8114bc9b381da0a6d6f95815ce13505da2f91616&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "maɪld kɑg.nɪ.tɪv ɪm.pɛr.mənt",
       "phonetic_am": "https://tts.langeek.co/read?text=bWlsZCBjb2duaXRpdmUgaW1wYWlybWVudA&hash=8114bc9b381da0a6d6f95815ce13505da2f91616&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "maild kaag.ni.tiv im.per.mēnt",
       "img": "",
       "pronunciation": "mˈaɪld kˈɑːɡnɪtˌɪv ɪmpˈɛɹmənt",
       "senses": [
         {
           "definition": "a cognitive decline that is greater than expected for an individual's age and education level but does not significantly interfere with daily functioning",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Mild cognitive impairment may involve difficulties with memory, language, and decision-making skills."
-            },
-            {
-              "cf": "",
-              "x": "Individuals with mild cognitive impairment may experience subtle changes in their ability to remember recent events or conversations."
-            },
-            {
-              "cf": "",
-              "x": "Regular cognitive assessments can help detect mild cognitive impairment in its early stages."
-            },
-            {
-              "cf": "",
-              "x": "Lifestyle modifications such as engaging in cognitive activities and maintaining social connections may help slow down the progression of mild cognitive impairment."
-            },
-            {
-              "cf": "",
-              "x": "Some people with mild cognitive impairment may eventually progress to develop dementia, while others may remain stable or even improve over time."
-            }
-          ]
+          "examples": []
         }
       ]
     }

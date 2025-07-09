@@ -1,15 +1,17 @@
 {
+  "id": "b8046f7b-0735-405d-ad82-9b877085111b",
   "topic": "education",
   "title": "Calculating Tools",
   "lesson": "lesson_8",
   "word_list": [
     {
+      "id": "87c7227c-2fc7-4a26-a989-172005397f4e",
       "word": "calculator",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FsY3VsYXRvcg&hash=1ff0c72d0082f3037ea49f09a8e0c88b44396e30&lang=en&cache-only=0",
-      "phonetic_text": "kælkjəleɪtər",
+      "phonetic_text": "kælk.jə.leɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FsY3VsYXRvcg&hash=1ff0c72d0082f3037ea49f09a8e0c88b44396e30&lang=en&cache-only=0",
-      "phonetic_am_text": "kālkyēleitēr",
+      "phonetic_am_text": "kālk.yē.lei.tēr",
       "img": "https://cdn.langeek.co/photo/41728/original/?type=jpeg",
       "pronunciation": "ˈkælkjəˌleɪtɚ",
       "senses": [
@@ -41,12 +43,13 @@
       ]
     },
     {
+      "id": "7ce14c62-7a31-49b5-9aa9-3bbce1aeb382",
       "word": "scientific calculator",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2NpZW50aWZpYyBjYWxjdWxhdG9y&hash=bf04afdc65eb008253d468adc3f84a5eedcc4869&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "saɪən.tɪ.fɪk kælk.jə.leɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=c2NpZW50aWZpYyBjYWxjdWxhdG9y&hash=bf04afdc65eb008253d468adc3f84a5eedcc4869&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "saiēn.ti.fik kālk.yē.lei.tēr",
       "img": "",
       "pronunciation": "saɪəntˈɪfɪk kˈælkjʊlˌeɪɾɚ",
       "senses": [
@@ -78,49 +81,30 @@
       ]
     },
     {
+      "id": "8c9d5954-439d-466b-b217-02b22badbc90",
       "word": "printing calculator",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJpbnRpbmcgY2FsY3VsYXRvcg&hash=e694b6d0c0cceaa75fa60b2e5b0521dddf44dcd3&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "prɪn.ɪng kælk.jə.leɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJpbnRpbmcgY2FsY3VsYXRvcg&hash=e694b6d0c0cceaa75fa60b2e5b0521dddf44dcd3&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "prin.ing kālk.yē.lei.tēr",
       "img": "",
       "pronunciation": "pɹˈɪntɪŋ kˈælkjʊlˌeɪɾɚ",
       "senses": [
         {
           "definition": "a type of calculator equipped with a built-in printer that produces a physical record of calculations",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The accountant used a printing calculator to quickly compute and print out financial statements for the quarterly report."
-            },
-            {
-              "cf": "",
-              "x": "At the checkout counter, the cashier entered the prices of items into the printing calculator to generate a receipt for the customer."
-            },
-            {
-              "cf": "",
-              "x": "The small business owner relied on a printing calculator to track sales and expenses, printing out daily summaries for record-keeping purposes."
-            },
-            {
-              "cf": "",
-              "x": "During the tax season, the tax preparer used a printing calculator to calculate deductions and print out detailed tax returns for clients."
-            },
-            {
-              "cf": "",
-              "x": "The office manager used a printing calculator to tally up expenses for the month and print out expense reports for review by upper management."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "1f136a0f-c1f9-4fa4-914d-11d399f0a9e9",
       "word": "programmable calculator",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cHJvZ3JhbW1hYmxlIGNhbGN1bGF0b3I&hash=f37dc868b16aa558dca257b7b62468ff93ecb7e5&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "proʊg.ræ.mə.bəl kælk.jə.leɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=cHJvZ3JhbW1hYmxlIGNhbGN1bGF0b3I&hash=f37dc868b16aa558dca257b7b62468ff93ecb7e5&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "prooog.rā.mē.bēl kālk.yē.lei.tēr",
       "img": "",
       "pronunciation": "pɹoʊɡɹˈæməbəl kˈælkjʊlˌeɪɾɚ",
       "senses": [
@@ -152,10 +136,11 @@
       ]
     },
     {
+      "id": "2dd9a931-d3ea-4a78-9132-98c6038d95f4",
       "word": "RPN calculator",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=UlBOIGNhbGN1bGF0b3I&hash=4e2d7fe60e220426a6f006559083c2e20933151d&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=UlBOIGNhbGN1bGF0b3I&hash=4e2d7fe60e220426a6f006559083c2e20933151d&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -189,12 +174,13 @@
       ]
     },
     {
+      "id": "13bb6678-656f-40e2-83fd-604df6177e02",
       "word": "mechanical calculator",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=bWVjaGFuaWNhbCBjYWxjdWxhdG9y&hash=3d6cf97a54be134852ea052b13f13cd0a042b46b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "mə.kæ.nɪ.kəl kælk.jə.leɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=bWVjaGFuaWNhbCBjYWxjdWxhdG9y&hash=3d6cf97a54be134852ea052b13f13cd0a042b46b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "mē.kā.ni.kēl kālk.yē.lei.tēr",
       "img": "",
       "pronunciation": "mɪkˈænɪkəl kˈælkjʊlˌeɪɾɚ",
       "senses": [
@@ -226,12 +212,13 @@
       ]
     },
     {
+      "id": "28d62f76-45f6-4936-b84f-111a7c2f28a0",
       "word": "calculating machine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y2FsY3VsYXRpbmcgbWFjaGluZQ&hash=df786c31c5807fae11d3a17ee1d7bcc506dd381b&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kælk.jə.leɪ.tɪng mə.ʃin",
       "phonetic_am": "https://tts.langeek.co/read?text=Y2FsY3VsYXRpbmcgbWFjaGluZQ&hash=df786c31c5807fae11d3a17ee1d7bcc506dd381b&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kālk.yē.lei.ting mē.shin",
       "img": "",
       "pronunciation": "kˈælkjʊlˌeɪɾɪŋ məʃˈiːn",
       "senses": [
@@ -263,12 +250,13 @@
       ]
     },
     {
+      "id": "cc469546-e86d-49df-8a8f-ea07b2f25bb1",
       "word": "abacus",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=YWJhY3Vz&hash=e2db7ce7913459478da52181ff79ddc781041d9f&lang=en&cache-only=0",
-      "phonetic_text": "æbəkəs",
+      "phonetic_text": "æ.bə.kəs",
       "phonetic_am": "https://tts.langeek.co/read?text=YWJhY3Vz&hash=e2db7ce7913459478da52181ff79ddc781041d9f&lang=en&cache-only=0",
-      "phonetic_am_text": "ābēkēs",
+      "phonetic_am_text": "ā.bē.kēs",
       "img": "https://cdn.langeek.co/photo/37279/original/?type=jpeg",
       "pronunciation": "ˈæbəkəs",
       "senses": [
@@ -300,10 +288,11 @@
       ]
     },
     {
+      "id": "27638047-7759-4399-915a-3d8cdef4dba1",
       "word": "Napier's bones",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=TmFwaWVyJ3MgYm9uZXM&hash=def0ff399b7d17dbd5890a354e4ecaa3baa36f13&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=TmFwaWVyJ3MgYm9uZXM&hash=def0ff399b7d17dbd5890a354e4ecaa3baa36f13&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -316,12 +305,13 @@
       ]
     },
     {
+      "id": "7f9e3f03-fe7f-4ef8-a8cd-96dc5df366a2",
       "word": "reckoning board",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=cmVja29uaW5nIGJvYXJk&hash=96b0c674a65120a3fcce6bcc2b6a47c144cd0704&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "rɛ.kə.nɪng bɔ:rd",
       "phonetic_am": "https://tts.langeek.co/read?text=cmVja29uaW5nIGJvYXJk&hash=96b0c674a65120a3fcce6bcc2b6a47c144cd0704&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "re.kē.ning bawrd",
       "img": "",
       "pronunciation": "ɹˈɛkənɪŋ bˈoːɹd",
       "senses": [
@@ -353,49 +343,30 @@
       ]
     },
     {
+      "id": "bb78309c-5eeb-400e-895b-1c8b1f25175a",
       "word": "counting rod",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y291bnRpbmcgcm9k&hash=284930664179c15dbc72854dfb491dd54f6ffc53&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kaʊn.ɪng rɑd",
       "phonetic_am": "https://tts.langeek.co/read?text=Y291bnRpbmcgcm9k&hash=284930664179c15dbc72854dfb491dd54f6ffc53&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kaoon.ing raad",
       "img": "",
       "pronunciation": "kˈaʊntɪŋ ɹˈɑːd",
       "senses": [
         {
           "definition": "a tool with marked rods or sticks used in ancient math, especially in Chinese and Japanese traditions",
-          "examples": [
-            {
-              "cf": "",
-              "x": "Chinese mathematicians used counting rods to perform calculations centuries before the invention of modern calculators."
-            },
-            {
-              "cf": "",
-              "x": "The teacher demonstrated how to add and subtract using counting rods during a lesson on ancient math techniques."
-            },
-            {
-              "cf": "",
-              "x": "In Japan, counting rods, known as \"soroban,\" are still used in some schools to teach arithmetic skills to students."
-            },
-            {
-              "cf": "",
-              "x": "Archaeologists uncovered ancient counting rods at excavation sites, revealing insights into early mathematical practices."
-            },
-            {
-              "cf": "",
-              "x": "Historians study ancient texts and artifacts, including counting rods, to understand the development of mathematics in different cultures."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
-      "word": "Comptometer",
+      "id": "c769f3c6-bce3-499e-9e82-8ccee87b266e",
+      "word": "comptometer",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Y29tcHRvbWV0ZXI&hash=e718abc08bfb752a7bf3ae60fd29d42d94d30aa4&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "kəmp.tɑ:.mɪ.tər",
       "phonetic_am": "https://tts.langeek.co/read?text=Y29tcHRvbWV0ZXI&hash=e718abc08bfb752a7bf3ae60fd29d42d94d30aa4&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "kēmp.taa.mi.tēr",
       "img": "",
       "pronunciation": "kəmptˈɑːmɪɾɚ",
       "senses": [
@@ -411,47 +382,28 @@
       ]
     },
     {
-      "word": "Difference Engine",
+      "id": "4c4459f6-de3d-4b8d-8a28-4784dcce95a4",
+      "word": "difference engine",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=ZGlmZmVyZW5jZSBlbmdpbmU&hash=9552271854850d537e7cdb178b653455c91c3940&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "dɪ.fɜ.rəns ɛn.ʤən",
       "phonetic_am": "https://tts.langeek.co/read?text=ZGlmZmVyZW5jZSBlbmdpbmU&hash=9552271854850d537e7cdb178b653455c91c3940&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "di.fē.rēns en.jēn",
       "img": "",
       "pronunciation": "dˈɪfɹəns ˈɛndʒɪn",
       "senses": [
         {
           "definition": "a mechanical calculator designed by Charles Babbage in the 19th century, intended to perform mathematical calculations automatically by the method of finite differences, considered a precursor to modern computers",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The Difference Engine, a mechanical calculator from the 19th century, was designed to automate complex mathematical calculations."
-            },
-            {
-              "cf": "",
-              "x": "Funding challenges hindered the full realization of the Difference Engine during its development."
-            },
-            {
-              "cf": "",
-              "x": "Museums often showcase working replicas of the Difference Engine, offering insights into its historical significance."
-            },
-            {
-              "cf": "",
-              "x": "Engineers and historians study the Difference Engine to understand its role in the evolution of computing technology."
-            },
-            {
-              "cf": "",
-              "x": "The Difference Engine's conceptualization revolutionized mathematical computation, paving the way for modern computing devices."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "20e8e997-1cc7-4fcf-b97b-ab7eda415c7e",
       "word": "Curta",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=Q3VydGE&hash=a22aaa888b0a3a084f92ea56fbb502fff9cd946a&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "",
       "phonetic_am": "https://tts.langeek.co/read?text=Q3VydGE&hash=a22aaa888b0a3a084f92ea56fbb502fff9cd946a&lang=en&cache-only=0",
       "phonetic_am_text": null,
       "img": "",
@@ -459,38 +411,18 @@
       "senses": [
         {
           "definition": "a compact, hand-cranked mechanical calculator invented by Curt Herzstark in the 1940s, renowned for its innovative design and portability, capable of performing complex arithmetic calculations",
-          "examples": [
-            {
-              "cf": "",
-              "x": "The engineer relied on his trusty Curta calculator to quickly perform intricate calculations for the design of the new bridge."
-            },
-            {
-              "cf": "",
-              "x": "During the space mission, the astronauts used a Curta calculator to check trajectory adjustments, ensuring precise orbital maneuvers."
-            },
-            {
-              "cf": "",
-              "x": "The mathematician showcased the elegance of the Curta calculator's design while demonstrating its capability to solve complex equations at a conference."
-            },
-            {
-              "cf": "",
-              "x": "In the 1950s, owning a Curta calculator was a symbol of prestige among scientists and academics due to its innovative mechanical precision."
-            },
-            {
-              "cf": "",
-              "x": "Despite the advent of electronic calculators, some enthusiasts still prefer the tactile experience of using a Curta for mathematical computations."
-            }
-          ]
+          "examples": []
         }
       ]
     },
     {
+      "id": "01181cb8-dc81-4602-8cac-65ba53a07583",
       "word": "slide rule",
       "pos": "noun",
       "phonetic": "https://tts.langeek.co/read?text=c2xpZGUgcnVsZQ&hash=0d85f27d2afd8061a1148b81e4a51e55e2a53636&lang=en&cache-only=0",
-      "phonetic_text": null,
+      "phonetic_text": "slaɪd rul",
       "phonetic_am": "https://tts.langeek.co/read?text=c2xpZGUgcnVsZQ&hash=0d85f27d2afd8061a1148b81e4a51e55e2a53636&lang=en&cache-only=0",
-      "phonetic_am_text": null,
+      "phonetic_am_text": "slaid rool",
       "img": "",
       "pronunciation": "slˈaɪd ɹˈuːl",
       "senses": [
