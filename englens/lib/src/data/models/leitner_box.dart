@@ -36,7 +36,7 @@ class LeitnerBox {
   List<String>? wordIds;
 
   @HiveField(3)
-  DateTime? lastLearned;
+  String? lastLearned;
 
   LeitnerBox({
     this.index,
@@ -49,7 +49,7 @@ class LeitnerBox {
     int? index,
     LeitnerBoxType? boxType,
     List<String>? wordIds,
-    DateTime? lastLearned,
+    String? lastLearned,
   }) {
     return LeitnerBox(
       index: index ?? this.index,

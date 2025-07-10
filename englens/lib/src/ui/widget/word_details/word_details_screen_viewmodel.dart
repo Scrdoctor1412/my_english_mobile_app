@@ -3,6 +3,7 @@ import 'package:englens/src/data/models/sense.dart';
 import 'package:englens/src/data/repositories/user_words_repository.dart';
 import 'package:englens/src/service/firebase/word/word_service.dart';
 import 'package:englens/src/service/leitner_box_service.dart';
+import 'package:englens/src/service/local_word_service.dart';
 import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/complete/complete_screen.dart';
 import 'package:englens/src/ui/widget/complete/complete_screen_viewmodel.dart';
@@ -159,6 +160,13 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
     //True - trường hợp thêm vào box
     if (isAddToLeitner[index]) {
       if (words != null && words.isNotEmpty) {
+        //Trường hợp từ các trang trong page study
+        words[index].lastLearned = DateTime.now().toIso8601String();
+
+        //Cập nhật từ trong Hive
+        await LocalWordService.saveWord(words[index]);
+
+        //Thêm từ vào Leitner box
         LeitnerBoxService.addNewToLeitnerBox(words[index].id!);
         List<String> leitnerboxeswordsid =
             prefs.getStringList(AppConstants.leitnerBoxPrefsKey) ?? [];
@@ -173,6 +181,12 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
         await prefs.setStringList(
             AppConstants.leitnerBoxPrefsKey, leitnerboxeswordsid);
       } else if (onlyWord != null && onlyWord!.isNotEmpty) {
+        //Trường hợp khoong phải từ các trang trong page study
+
+        onlyWord![0].lastLearned = DateTime.now().toIso8601String();
+
+        //Cập nhật từ trong Hive
+        await LocalWordService.saveWord(onlyWord![0]);
         LeitnerBoxService.addNewToLeitnerBox(onlyWord![0].id!);
         List<String> leitnerboxeswordsid =
             prefs.getStringList(AppConstants.leitnerBoxPrefsKey) ?? [];
@@ -189,6 +203,25 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
       }
     } else {
       //False - trường hợp xóa khỏi box
+
+      if (words != null && words.isNotEmpty) {
+        words[index].lastLearned = null;
+        await LocalWordService.saveWord(words[index]);
+        var leitnerBoxes = LeitnerBoxService.getLeitnerBoxes();
+        leitnerBoxes[0].wordIds!.removeWhere(
+              (element) => element == words[index].id!,
+            );
+        LeitnerBoxService.saveLeitnerBoxes(leitnerBoxes);
+      } else if (onlyWord != null && onlyWord!.isNotEmpty) {
+        onlyWord![0].lastLearned = null;
+        await LocalWordService.saveWord(onlyWord![0]);
+        var leitnerBoxes = LeitnerBoxService.getLeitnerBoxes();
+        leitnerBoxes[0].wordIds!.removeWhere(
+              (element) => element == onlyWord![0].id!,
+            );
+        LeitnerBoxService.saveLeitnerBoxes(leitnerBoxes);
+      }
+
       var listPrefs = prefs.getStringList(AppConstants.leitnerBoxPrefsKey);
       if (listPrefs != null && listPrefs.isNotEmpty) {
         if (words != null && words.isNotEmpty) {

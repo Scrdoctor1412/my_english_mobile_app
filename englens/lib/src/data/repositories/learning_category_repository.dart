@@ -3,6 +3,7 @@ import 'package:englens/src/data/data_sources/local_data.dart';
 import 'package:englens/src/data/models/learning_category.dart';
 import 'package:englens/src/data/models/word.dart';
 import 'package:englens/src/utils/extensions/list_extensions.dart';
+import 'package:flutter/foundation.dart';
 import 'package:get/get.dart';
 import 'package:uuid/uuid.dart';
 
@@ -17,6 +18,7 @@ abstract interface class LearningCategoryRepository {
   List<LearningCategory> getAllPhrasalVerbsCat();
 
   Future<List<Word>> getAllWords();
+  Future<bool> saveWord(Word word);
   Future<void> saveLearningCategories(List<LearningCategory> learningCategory);
   Future<void> updateCategory(LearningCategory learningCategory);
 }
@@ -252,73 +254,6 @@ class LearningCategoryRepositoryImpl extends GetxController
   Future<List<Word>> getAllWords() async {
     final currentWords = _localData.getWords();
     return currentWords;
-    // if (currentWords.isNotEmpty && currentWords.length > 5946)
-    //   return currentWords;
-    // return [];
-    // var uuid = Uuid();
-    // final results = await Future.wait([
-    //   _assetsData.getAllTopicsWords(),
-    //   _assetsData.getAllLevelBasedWords(),
-    //   _assetsData.getAllIdiomsWords(),
-    //   _assetsData.getAllCollocationsWords(),
-    //   _assetsData.getAllEngProverbsWords(),
-    //   _assetsData.getAllPhrasalVerbsWords(),
-    // ]);
-    // List<Word> topics = results[0].mapIndexed(
-    //   (index, word) {
-    //     word.id = uuid.v4();
-
-    //     return word;
-    //   },
-    // ).toList();
-    // List<Word> levelBased = results[1].mapIndexed(
-    //   (index, word) {
-    //     word.id = uuid.v4();
-
-    //     return word;
-    //   },
-    // ).toList();
-    // List<Word> idioms = results[2].mapIndexed(
-    //   (index, word) {
-    //     word.id = uuid.v4();
-
-    //     return word;
-    //   },
-    // ).toList();
-    // List<Word> collocations = results[3].mapIndexed(
-    //   (index, word) {
-    //     word.id = uuid.v4();
-
-    //     return word;
-    //   },
-    // ).toList();
-    // List<Word> engProverbs = results[4].mapIndexed(
-    //   (index, word) {
-    //     word.id = uuid.v4();
-
-    //     return word;
-    //   },
-    // ).toList();
-
-    // List<Word> phrasalVerbs = results[5].mapIndexed(
-    //   (index, word) {
-    //     word.id = uuid.v4();
-
-    //     return word;
-    //   },
-    // ).toList();
-
-    // var words = [
-    //   ...currentWords,
-    //   ...topics,
-    //   ...levelBased,
-    //   ...idioms,
-    //   ...collocations,
-    //   ...engProverbs,
-    //   ...phrasalVerbs
-    // ];
-    // await _localData.saveWords(words);
-    // return words;
   }
 
   @override
@@ -330,5 +265,21 @@ class LearningCategoryRepositoryImpl extends GetxController
   @override
   Future<void> updateCategory(LearningCategory learningCategory) async {
     await _localData.updateLearningCategory(learningCategory);
+  }
+
+  @override
+  Future<bool> saveWord(Word word) async {
+    try {
+      bool isSave = false;
+      await _localData.saveWord(word).then(
+        (value) {
+          isSave = true;
+        },
+      );
+      return isSave;
+    } catch (e) {
+      debugPrint(e.toString());
+      return Future.value(false);
+    }
   }
 }

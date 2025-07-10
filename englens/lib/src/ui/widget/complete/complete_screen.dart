@@ -24,11 +24,7 @@ class CompleteScreen extends StatelessWidget {
             automaticallyImplyLeading: false,
             leading: IconButton(
               onPressed: () {
-                if (controller.type == CompleteScreenType.leitnerBox) {
-                  controller.onGetBack();
-                } else {
-                  Get.back();
-                }
+                controller.onGetBack();
               },
               icon: Icon(Icons.arrow_back),
             ),
@@ -144,9 +140,18 @@ class CompleteScreen extends StatelessWidget {
           );
         }
 
-        return Scaffold(
-          appBar: _appBar(),
-          body: _body(),
+        return PopScope(
+          canPop: false,
+          onPopInvoked: (bool didPop) {
+            if (didPop) {
+              return;
+            }
+            controller.onGetBack();
+          },
+          child: Scaffold(
+            appBar: _appBar(),
+            body: _body(),
+          ),
         );
       },
     );

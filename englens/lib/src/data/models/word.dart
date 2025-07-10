@@ -41,18 +41,23 @@ class Word {
   @HiveField(10)
   String? id;
 
-  Word(
-      {required this.word,
-      required this.pos,
-      required this.phonetic,
-      required this.phoneticText,
-      required this.phoneticAm,
-      required this.phoneticAmText,
-      required this.senses,
-      this.index = 0,
-      this.img = "",
-      this.pronunciation,
-      this.id = ""});
+  @HiveField(11)
+  String? lastLearned;
+
+  Word({
+    required this.word,
+    required this.pos,
+    required this.phonetic,
+    required this.phoneticText,
+    required this.phoneticAm,
+    required this.phoneticAmText,
+    required this.senses,
+    this.index = 0,
+    this.img = "",
+    this.pronunciation,
+    this.id = "",
+    this.lastLearned,
+  });
 
   // Chuyển từ JSON String sang WordEntry
   factory Word.fromJson(Map<String, dynamic> json) {
@@ -69,6 +74,7 @@ class Word {
       img: json["img"] ?? "",
       pronunciation: json["pronunciation"] ?? "",
       id: json["id"] ?? "",
+      lastLearned: json["lastLearned"] ?? "",
     );
   }
 
@@ -86,6 +92,7 @@ class Word {
       "img": img,
       "pronunciation": pronunciation,
       "id": id,
+      "lastLearned": lastLearned,
     };
   }
 
@@ -102,6 +109,7 @@ class Word {
       img: map["word"] ?? "",
       index: map["index"] ?? 0,
       pronunciation: map["pronunciation"] ?? "",
+      lastLearned: map["lastLearned"] ?? "",
     );
   }
 
@@ -122,6 +130,7 @@ class Word {
     String? img,
     String? pronunciation,
     String? id,
+    String? lastLearned,
   }) {
     return Word(
       word: word ?? this.word,
@@ -135,6 +144,7 @@ class Word {
       img: img ?? this.img,
       pronunciation: pronunciation ?? this.pronunciation,
       id: id ?? this.id,
+      lastLearned: lastLearned ?? this.lastLearned,
     );
   }
 }

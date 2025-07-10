@@ -49,7 +49,7 @@ class LeitnerBoxRepositoryImpl extends GetxController
         index: i,
         boxType: LeitnerBoxType.values[i],
         wordIds: [],
-        lastLearned: DateTime.now(),
+        lastLearned: DateTime.now().toIso8601String(),
       ));
     }
     await _localData.saveLeitnerBoxes(leitnerBoxes);

@@ -105,6 +105,10 @@ class CompleteScreenViewmodel extends GetViewModelBase {
   }
 
   void onGetBack() {
-    Get.back(result: "yes");
+    if (type == CompleteScreenType.leitnerBox) {
+      Get.back(result: true);
+    } else {
+      Get.back();
+    }
   }
 }

@@ -176,6 +176,8 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
 
   List<LeitnerBox> leitnerBoxes = [];
 
+  List<Word> todayWords = [];
+
   int countWaitingWords = 0;
   int countLearningWords = 0;
   int countLearnedWords = 0;
@@ -223,7 +225,26 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
     onCountLearningWords();
     onCountWaitingWords();
 
+    onGetTodayWords();
+
     update();
+  }
+
+  void onGetTodayWords() async {
+    for (var box in leitnerBoxes) {
+      for (var wordId in box.wordIds!) {
+        var word = await LocalWordService.getWord(wordId);
+        int interval = boxIntervals[box.boxType] ?? 0;
+        var now = DateTime.now();
+        if (word.lastLearned != null && word.lastLearned != "") {
+          DateTime wordLastLearned = DateTime.parse(word.lastLearned!);
+          var difference = now.difference(wordLastLearned);
+          if (difference.inDays >= interval) {
+            todayWords.add(word);
+          }
+        }
+      }
+    }
   }
 
   bool shouldLearnToday(LeitnerBox box) {
@@ -234,39 +255,75 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
     final interval = boxIntervals[box.boxType];
     if (interval == null) return false;
 
-    final nextDate = box.lastLearned!.add(Duration(days: interval));
+    // final nextDate = box.lastLearned!.add(Duration(days: interval).toString());
     final today = DateTime.now();
 
-    return !nextDate.isAfter(today); // hôm nay hoặc quá hạn
+    // return !nextDate.isAfter(today); // hôm nay hoặc quá hạn
+    return true;
   }
 
   void onTapLearnNow() async {
-    List<Word> todayWords = [];
+    // List<Word> todayWords = [];
 
-    for (var i = 0; i < leitnerBoxes.length; i++) {
-      // bỏ pending & learned
-      final box = leitnerBoxes[i];
-      if (shouldLearnToday(box)) {
-        for (var wordId in box.wordIds!) {
-          final word = await LocalWordService.getWord(wordId);
-          todayWords.add(word);
-        }
-      }
-    }
+    // for (var i = 0; i < leitnerBoxes.length; i++) {
+    //   // bỏ pending & learned
+    //   final box = leitnerBoxes[i];
+    //   if (shouldLearnToday(box)) {
+    //     for (var wordId in box.wordIds!) {
+    //       final word = await LocalWordService.getWord(wordId);
+    //       todayWords.add(word);
+    //     }
+    //   }
+    // }
 
     if (todayWords.isEmpty) {
-      Get.snackbar("Thông báo", "Không có từ nào cần học hôm nay");
+      // Get.snackbar("Thông báo", "Không có từ nào cần học hôm nay");
+      Get.snackbar(
+        "Notification",
+        "No words to learn today",
+        backgroundColor: Colors.grey.shade300,
+      );
       return;
     }
 
     var res = await Get.toNamed(
       FlashcardsScreen.routeName,
       arguments: FlashcardsScreenArgs(
-          title: "test",
+          title: "Today words",
           wordList: todayWords,
           completeScreenType: CompleteScreenType.leitnerBox),
     );
     print("res: $res");
+    if (res is bool && res) {
+      for (var box in leitnerBoxes) {
+        //Duyệt qua từng box
+
+        if (box.wordIds != null && box.wordIds!.isNotEmpty) {
+          var tempWordIdsList = box.wordIds!
+              .map(
+                (e) => e,
+              )
+              .toList();
+          for (var wordId in box.wordIds!) {
+            //Duyệt qua từng từ có trong box - nếu từ trong box trùng với từ hôm nay thì sẽ remove từ đó ra khỏi box và truyền nó cho box kế tiếp
+            if (todayWords.indexWhere((element) => element.id == wordId) !=
+                -1) {
+              if (box.boxType == LeitnerBoxType.pending) {
+                leitnerBoxes[box.index! + 2].wordIds!.add(wordId);
+              } else if (box.index! + 1 < leitnerBoxes.length) {
+                leitnerBoxes[box.index! + 1].wordIds!.add(wordId);
+              }
+
+              todayWords.removeWhere((element) => element.id == wordId);
+              tempWordIdsList.removeWhere((element) => element == wordId);
+            }
+          }
+          box.wordIds = tempWordIdsList;
+        }
+      }
+      await LeitnerBoxService.saveLeitnerBoxes(leitnerBoxes);
+      initData();
+    }
   }
 
   void onCountWaitingWords() {

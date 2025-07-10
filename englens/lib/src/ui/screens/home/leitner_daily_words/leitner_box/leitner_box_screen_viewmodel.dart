@@ -58,7 +58,7 @@ class LeitnerBoxScreenViewmodel extends GetViewModelBase {
       var indexDuplicate =
           listPrefs.indexWhere((element) => element == wordList[index].id);
       // listPrefs.removeWhere((element) => element == wordList[index].id);
-      if (index != -1) {
+      if (indexDuplicate != -1) {
         listPrefs.removeAt(indexDuplicate);
       }
     }

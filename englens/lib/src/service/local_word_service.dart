@@ -72,6 +72,12 @@ class LocalWordService {
     return word;
   }
 
+  ///Hàm lưu từ
+  ///@param - Word word: từ vựng
+  static Future<bool> saveWord(Word word) async {
+    return await _learningCategoryRepositoryImpl.saveWord(word);
+  }
+
   //Hàm lưu danh sách từ vựng tổng từ local
   static Future<void> saveListWordToGlobalWordList(List<Word> words) async {
     final prefs = await SharedPreferences.getInstance();

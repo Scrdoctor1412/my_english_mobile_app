@@ -20,7 +20,7 @@ class LeitnerBoxAdapter extends TypeAdapter<LeitnerBox> {
       index: fields[0] as int?,
       boxType: fields[1] as LeitnerBoxType?,
       wordIds: (fields[2] as List?)?.cast<String>(),
-      lastLearned: fields[3] as DateTime?,
+      lastLearned: fields[3] as String?,
     );
   }
 

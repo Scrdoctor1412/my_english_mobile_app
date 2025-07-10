@@ -68,7 +68,7 @@ class HiveDatabase extends GetxController implements LocalData {
 
   @override
   Future<void> saveWord(Word word) {
-    return _appHive.wordBox.put(word.index, word);
+    return _appHive.wordBox.put(word.id, word);
   }
 
   @override
