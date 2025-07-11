@@ -146,6 +146,9 @@ class $AssetsJsonGen {
   $AssetsJsonOxfordWordsGen get oxfordWords =>
       const $AssetsJsonOxfordWordsGen();
 
+  /// File path: assets/json/oxford_words.zip
+  String get oxfordWordsZip => 'assets/json/oxford_words.zip';
+
   /// Directory path: assets/json/topics_words
   $AssetsJsonTopicsWordsGen get topicsWords =>
       const $AssetsJsonTopicsWordsGen();
@@ -153,6 +156,9 @@ class $AssetsJsonGen {
   /// Directory path: assets/json/wordlist_by_level_words
   $AssetsJsonWordlistByLevelWordsGen get wordlistByLevelWords =>
       const $AssetsJsonWordlistByLevelWordsGen();
+
+  /// List of all assets
+  List<String> get values => [oxfordWordsZip];
 }
 
 class $AssetsMdGen {

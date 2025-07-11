@@ -6,4 +6,6 @@ class AppConstants {
   static String grammarSentencesPrefsKey = "grammarSentences";
   static String grammarWordsPrefsKey = "grammarWords";
   static String grammarOthersPrefsKey = "grammarOthers";
+  static String notificationKey = "notification";
+  static String langKey = 'lang';
 }

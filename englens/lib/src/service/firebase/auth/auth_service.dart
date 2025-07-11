@@ -1,5 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:englens/src/core/base_view_model.dart';
+import 'package:englens/src/service/leitner_box_service.dart';
+import 'package:englens/src/service/local_notification_service.dart';
 import 'package:englens/src/ui/screens/login/login_screen.dart';
 import 'package:englens/src/ui/screens/tabs/tabs_screen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
@@ -22,11 +24,19 @@ class AuthService extends GetViewModelBase {
     ever(user, _setInitialScreen);
   }
 
-  void _setInitialScreen(User? user) {
+  void _setInitialScreen(User? user) async {
     if (user == null) {
       Get.offAll(() => LoginScreen());
     } else {
       Get.offAll(() => TabsScreen());
+      var todayWords = await LeitnerBoxService.getTodaysWords();
+      if (todayWords.isNotEmpty) {
+        LocalNotificationService.showSimpleNotification(
+          id: 1,
+          title: "Daily Words",
+          body: "You have ${todayWords.length} words to learn today",
+        );
+      }
     }
   }
 

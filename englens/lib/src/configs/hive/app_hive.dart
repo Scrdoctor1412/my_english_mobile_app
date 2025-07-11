@@ -1,6 +1,7 @@
 import 'package:englens/src/data/models/example.dart';
 
 import 'package:englens/src/data/models/learning_category.dart';
+import 'package:englens/src/data/models/learning_record.dart';
 import 'package:englens/src/data/models/leitner_box.dart';
 
 import 'package:englens/src/data/models/schedule_notification.dart';
@@ -18,6 +19,7 @@ class AppHive extends GetxController {
   static const String learningCategoryKey = 'learningCategory';
   static const String scheduleNotificationKey = 'scheduledNotification';
   static const String leitnerBoxKey = 'leitnerBox';
+  static const String learningRecordBoxKey = "learningRecordBox";
 
   Box<Word> get wordBox => Hive.box<Word>(wordKey);
   Box<LearningCategory> get learningCategoryBox =>
@@ -25,6 +27,8 @@ class AppHive extends GetxController {
   Box<ScheduleNotification> get scheduleNotificationBox =>
       Hive.box<ScheduleNotification>(scheduleNotificationKey);
   Box<LeitnerBox> get leitnerBoxBox => Hive.box<LeitnerBox>(leitnerBoxKey);
+  Box<LearningRecord> get learningRecordBox =>
+      Hive.box<LearningRecord>(learningRecordBoxKey);
 
   init() async {
     final dir = await getApplicationCacheDirectory();
@@ -39,6 +43,7 @@ class AppHive extends GetxController {
     Hive.registerAdapter(ScheduleNotificationAdapter());
     Hive.registerAdapter(LessonAdapter());
     Hive.registerAdapter(CategoryTypeAdapter());
+    Hive.registerAdapter(LearningRecordAdapter());
 
     // await Hive.deleteBoxFromDisk(wordKey)
 
@@ -46,6 +51,7 @@ class AppHive extends GetxController {
     await Hive.openBox<LearningCategory>(learningCategoryKey);
     await Hive.openBox<ScheduleNotification>(scheduleNotificationKey);
     await Hive.openBox<LeitnerBox>(leitnerBoxKey);
+    await Hive.openBox<LearningRecord>(learningRecordBoxKey);
 
     // await Hive.deleteBoxFromDisk(wordKey)
 

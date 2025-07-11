@@ -140,7 +140,9 @@ class LeitnerDailyWordsScreen extends StatelessWidget {
                             ),
                             const Spacer(),
                             IconButton(
-                              onPressed: () {},
+                              onPressed: () {
+                                controller.onTapSettings();
+                              },
                               icon: Icon(Icons.settings),
                             ),
                           ],

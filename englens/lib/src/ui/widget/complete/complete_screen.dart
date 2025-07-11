@@ -69,72 +69,74 @@ class CompleteScreen extends StatelessWidget {
                         : SizedBox()
                     : SizedBox(),
                 const SizedBox(height: 90),
-                SizedBox(
-                  width: 250,
-                  child: ElevatedButton(
-                    onPressed: () {
-                      controller.onTapToReview();
-                    },
-                    style: ElevatedButton.styleFrom(
-                      backgroundColor: Colors.grey.shade300,
-                      foregroundColor: Colors.black,
-                      shape: RoundedRectangleBorder(
-                        borderRadius: BorderRadius.circular(24),
-                      ),
-                      shadowColor: Colors.transparent,
-                      padding: const EdgeInsets.symmetric(
-                        // horizontal: 80,
-                        vertical: 12,
-                      ),
-                    ),
-                    child: Row(
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: [
-                        Text(
-                          controller.reviewButtonTypeText,
-                          style: TextStyle(fontSize: 20),
+                if (controller.type != CompleteScreenType.leitnerBox) ...[
+                  SizedBox(
+                    width: 250,
+                    child: ElevatedButton(
+                      onPressed: () {
+                        controller.onTapToReview();
+                      },
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.grey.shade300,
+                        foregroundColor: Colors.black,
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(24),
                         ),
-                        controller.type == CompleteScreenType.wordReview
-                            ? const Icon(Icons.refresh_outlined)
-                            : const Icon(Icons.chevron_right),
-                      ],
+                        shadowColor: Colors.transparent,
+                        padding: const EdgeInsets.symmetric(
+                          // horizontal: 80,
+                          vertical: 12,
+                        ),
+                      ),
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          Text(
+                            controller.reviewButtonTypeText,
+                            style: TextStyle(fontSize: 20),
+                          ),
+                          controller.type == CompleteScreenType.wordReview
+                              ? const Icon(Icons.refresh_outlined)
+                              : const Icon(Icons.chevron_right),
+                        ],
+                      ),
                     ),
                   ),
-                ),
-                const SizedBox(height: 22),
-                SizedBox(
-                  width: 250,
-                  child: ElevatedButton(
-                    onPressed: () {
-                      controller.onTapResetFlashCards();
-                    },
-                    style: ElevatedButton.styleFrom(
-                      backgroundColor: Colors.grey.shade300,
-                      foregroundColor: Colors.black,
-                      shape: RoundedRectangleBorder(
-                        borderRadius: BorderRadius.circular(24),
-                      ),
-                      shadowColor: Colors.transparent,
-                      padding: const EdgeInsets.symmetric(
-                        // horizontal: 80,
-                        vertical: 12,
-                      ),
-                    ),
-                    child: Row(
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: [
-                        Text(
-                          controller.flashcardButtonTypeText,
-                          style: TextStyle(fontSize: 20),
+                  const SizedBox(height: 22),
+                  SizedBox(
+                    width: 250,
+                    child: ElevatedButton(
+                      onPressed: () {
+                        controller.onTapResetFlashCards();
+                      },
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.grey.shade300,
+                        foregroundColor: Colors.black,
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(24),
                         ),
-                        const SizedBox(width: 6),
-                        controller.type == CompleteScreenType.flashcard
-                            ? const Icon(Icons.refresh_outlined)
-                            : const Icon(Icons.chevron_right),
-                      ],
+                        shadowColor: Colors.transparent,
+                        padding: const EdgeInsets.symmetric(
+                          // horizontal: 80,
+                          vertical: 12,
+                        ),
+                      ),
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          Text(
+                            controller.flashcardButtonTypeText,
+                            style: TextStyle(fontSize: 20),
+                          ),
+                          const SizedBox(width: 6),
+                          controller.type == CompleteScreenType.flashcard
+                              ? const Icon(Icons.refresh_outlined)
+                              : const Icon(Icons.chevron_right),
+                        ],
+                      ),
                     ),
                   ),
-                ),
+                ],
               ],
             ),
           );

@@ -1,6 +1,7 @@
 import 'package:englens/src/configs/hive/app_hive.dart';
 
 import 'package:englens/src/data/models/learning_category.dart';
+import 'package:englens/src/data/models/learning_record.dart';
 import 'package:englens/src/data/models/leitner_box.dart';
 
 import 'package:englens/src/data/models/schedule_notification.dart';
@@ -34,6 +35,12 @@ abstract interface class LocalData extends GetxController {
   List<LeitnerBox> getLeitnerBoxes();
 
   Future<void> updateLeitnerBox(LeitnerBox leitnerBox);
+
+  Future<void> saveRecords(List<LearningRecord> learningRecords);
+
+  Future<void> updateRecord(LearningRecord learningRecords);
+
+  List<LearningRecord> getLearningRecords();
 }
 
 class HiveDatabase extends GetxController implements LocalData {
@@ -124,5 +131,28 @@ class HiveDatabase extends GetxController implements LocalData {
   @override
   Future<void> updateLeitnerBox(LeitnerBox leitnerBox) async {
     _appHive.leitnerBoxBox.put(leitnerBox.index, leitnerBox);
+  }
+
+  //--------------LEARNING RECORD---------------
+
+  @override
+  List<LearningRecord> getLearningRecords() {
+    return _appHive.learningRecordBox.values.toList();
+  }
+
+  @override
+  Future<void> updateRecord(LearningRecord learningRecords) async {
+    await _appHive.learningRecordBox.put(learningRecords.id, learningRecords);
+  }
+
+  @override
+  Future<void> saveRecords(List<LearningRecord> learningRecords) async {
+    await _appHive.learningRecordBox.putAll(
+      Map.fromEntries(
+        learningRecords.map(
+          (e) => MapEntry(e.id, e),
+        ),
+      ),
+    );
   }
 }

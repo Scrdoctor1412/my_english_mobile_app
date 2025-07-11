@@ -337,11 +337,12 @@ class HomeScreen extends StatelessWidget {
                                           backgroundColor:
                                               ThemePrimary.grey.withAlpha(50),
                                           strokeCap: StrokeCap.round,
-                                          value: 0.5,
+                                          value: controller.indicatorValue,
                                         ),
                                       ),
                                       Text(
-                                        '0',
+                                        "${controller.todaLearnWordsIds.length.toString()}/5" ??
+                                            '0',
                                         style: TextStyle(
                                           fontSize: 40,
                                           letterSpacing: 3,

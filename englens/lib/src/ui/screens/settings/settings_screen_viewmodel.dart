@@ -1,16 +1,39 @@
+import 'dart:ui';
+
+import 'package:englens/src/constants/app_constants.dart';
 import 'package:englens/src/core/base_view_model.dart';
+import 'package:englens/src/service/lang/translation_service.dart';
 import 'package:get/get.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 import '../../../service/firebase/auth/auth_service.dart';
 
 class SettingsScreenViewmodel extends GetViewModelBase {
   AuthService authController = Get.put(AuthService());
+  late SharedPreferences prefs;
 
   //general menu
   double generalMenuHeigth = 60;
   bool isGeneralExpand = false;
   bool notificationSwitchValue = false;
   bool languageSwitchValue = false;
+
+  @override
+  void onInit() {
+    // TODO: implement onInit
+    super.onInit();
+    initData();
+  }
+
+  void initData() async {
+    prefs = await SharedPreferences.getInstance();
+    notificationSwitchValue =
+        prefs.getBool(AppConstants.notificationKey) ?? false;
+    // languageSwitchValue = prefs.getBool(AppConstants.langKey) ?? false;
+    languageSwitchValue =
+        (TranslationService.fallbackLocale.languageCode == 'vi') ? false : true;
+    update();
+  }
 
   void onTapToggleGeneralMenu() {
     isGeneralExpand = !isGeneralExpand;
@@ -20,11 +43,17 @@ class SettingsScreenViewmodel extends GetViewModelBase {
 
   void onTapToggleNotification() {
     notificationSwitchValue = !notificationSwitchValue;
+    prefs.setBool(AppConstants.notificationKey, notificationSwitchValue);
     update();
   }
 
   void onTapToggleLanguage() {
     languageSwitchValue = !languageSwitchValue;
+    if (languageSwitchValue) {
+      TranslationService.updateLocale(Locale("en", "US"));
+    } else {
+      TranslationService.updateLocale(Locale("vi", "VN"));
+    }
     update();
   }
 

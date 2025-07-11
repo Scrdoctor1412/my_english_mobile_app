@@ -1,5 +1,6 @@
 import 'dart:ui';
 
+import 'package:englens/src/constants/app_constants.dart';
 import 'package:englens/src/service/lang/en.dart';
 import 'package:englens/src/service/lang/vi.dart';
 import 'package:get/get.dart';
@@ -21,7 +22,7 @@ class TranslationService extends Translations {
 
   static Future<void> init(Locale locale) async {
     final SharedPreferences prefs = await _prefs;
-    String? lang = prefs.getString('lang');
+    String? lang = prefs.getString(AppConstants.langKey);
     if (lang != null && lang.isNotEmpty) {
       fallbackLocale = localFromString(lang);
     } else {
@@ -36,6 +37,6 @@ class TranslationService extends Translations {
     final SharedPreferences prefs = await _prefs;
     Get.updateLocale(locale);
     fallbackLocale = locale;
-    prefs.setString('lang', localToString(locale));
+    prefs.setString(AppConstants.langKey, localToString(locale));
   }
 }

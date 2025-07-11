@@ -3,6 +3,7 @@ import 'package:englens/src/data/data_sources/assets_data.dart';
 import 'package:englens/src/data/data_sources/local_data.dart';
 
 import 'package:englens/src/data/repositories/learning_category_repository.dart';
+import 'package:englens/src/data/repositories/learning_record_repository.dart';
 import 'package:englens/src/data/repositories/leitner_box_repository.dart';
 import 'package:englens/src/data/repositories/oxford_words_repository.dart';
 
@@ -46,5 +47,6 @@ class DI {
         assetsData: assetsData, localData: localData));
     Get.put(
         LeitnerBoxRepositoryImpl(assetsData: assetsData, localData: localData));
+    Get.put(LearningRecordRepositoryImpl(localData: localData));
   }
 }

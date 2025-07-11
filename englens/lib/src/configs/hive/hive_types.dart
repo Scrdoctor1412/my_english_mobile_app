@@ -18,4 +18,5 @@ class HiveTypes {
   static const categoryType = 14;
   static const leitnerBox = 15;
   static const leitnerBoxType = 16;
+  static const learningRecord = 17;
 }

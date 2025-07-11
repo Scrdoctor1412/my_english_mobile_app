@@ -1,15 +1,22 @@
 import 'package:englens/src/core/base_view_model.dart';
+import 'package:englens/src/data/models/learning_record.dart';
 import 'package:englens/src/data/models/leitner_box.dart';
 import 'package:englens/src/data/models/word.dart';
+import 'package:englens/src/service/learning_record_service.dart';
 import 'package:englens/src/service/leitner_box_service.dart';
+import 'package:englens/src/service/local_notification_service.dart';
 import 'package:englens/src/service/local_word_service.dart';
 import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/screens/home/leitner_daily_words/leitner_box/leitner_box_screen.dart';
 import 'package:englens/src/ui/screens/home/leitner_daily_words/leitner_box/leitner_box_screen_viewmodel.dart';
+import 'package:englens/src/ui/screens/settings/settings_screen.dart';
+import 'package:englens/src/ui/screens/tabs/tabs_screen.dart';
+import 'package:englens/src/ui/screens/tabs/tabs_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/complete/complete_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/flashcards/flashcards_screen.dart';
 import 'package:englens/src/ui/widget/flashcards/flashcards_screen_viewmodel.dart';
 import 'package:flutter/material.dart';
+import 'package:intl/intl.dart';
 
 import 'package:get/get.dart';
 
@@ -234,13 +241,23 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
     for (var box in leitnerBoxes) {
       for (var wordId in box.wordIds!) {
         var word = await LocalWordService.getWord(wordId);
-        int interval = boxIntervals[box.boxType] ?? 0;
-        var now = DateTime.now();
-        if (word.lastLearned != null && word.lastLearned != "") {
-          DateTime wordLastLearned = DateTime.parse(word.lastLearned!);
-          var difference = now.difference(wordLastLearned);
-          if (difference.inDays >= interval) {
-            todayWords.add(word);
+        if (box.boxType == LeitnerBoxType.pending) {
+          todayWords.add(word);
+          continue;
+        } else {
+          int interval = boxIntervals[box.boxType] ?? 0;
+          var now = DateTime.now();
+          if (word.lastLearned != null && word.lastLearned != "") {
+            DateTime wordLastLearned = DateTime.parse(word.lastLearned!);
+            var difference = now.difference(wordLastLearned);
+            if (difference.inDays >= interval) {
+              int indexDuplicate =
+                  todayWords.indexWhere((element) => element.id == word.id);
+              if (indexDuplicate == -1) {
+                // todayWords.removeAt(indexDuplicate);
+                todayWords.add(word);
+              }
+            }
           }
         }
       }
@@ -260,6 +277,15 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
 
     // return !nextDate.isAfter(today); // hôm nay hoặc quá hạn
     return true;
+  }
+
+  void onTapSettings() {
+    // LocalNotificationService.showSimpleNotification(
+    //     id: 1, title: "test", body: "test body");
+    Get.offAllNamed(
+      TabsScreen.routeName,
+      arguments: TabsScreenViewArgs(tabIndex: 3),
+    );
   }
 
   void onTapLearnNow() async {
@@ -295,6 +321,24 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
     );
     print("res: $res");
     if (res is bool && res) {
+      //Lưu vào box theo dõi từ vựng qua các ngày
+      var learningRecords = LearningRecordService.getLearningRecords();
+      String now = DateFormat("dd/MM/yyyy").format(DateTime.now());
+      for (var record in learningRecords) {
+        if (record.id == now) {
+          // record.wordIds = [];
+          record.wordIds = [
+            ...record.wordIds ?? [],
+            ...todayWords
+                .map(
+                  (e) => e.id!,
+                )
+                .toList()
+          ];
+        }
+      }
+
+      //Xử lý chuyển đổi các từ qua lại các box
       for (var box in leitnerBoxes) {
         //Duyệt qua từng box
 
@@ -312,6 +356,8 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
                 leitnerBoxes[box.index! + 2].wordIds!.add(wordId);
               } else if (box.index! + 1 < leitnerBoxes.length) {
                 leitnerBoxes[box.index! + 1].wordIds!.add(wordId);
+              } else {
+                leitnerBoxes[1].wordIds!.add(wordId);
               }
 
               todayWords.removeWhere((element) => element.id == wordId);
@@ -321,6 +367,8 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
           box.wordIds = tempWordIdsList;
         }
       }
+
+      await LearningRecordService.saveRecords(learningRecords);
       await LeitnerBoxService.saveLeitnerBoxes(leitnerBoxes);
       initData();
     }
