@@ -1,3 +1,4 @@
+import 'package:englens/firebase_options.dart';
 import 'package:englens/src/app.dart';
 import 'package:englens/src/configs/di.dart';
 import 'package:englens/src/data/models/learning_record.dart';
@@ -16,7 +17,13 @@ import 'package:flutter/services.dart';
 void main() async {
   // Ensure Flutter bindings are initialized
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
+
+  // await Firebase.initializeApp(
+  //     // options: FirebaseOptions(apiKey: apiKey, appId: appId, messagingSenderId: messagingSenderId, projectId: projectId),
+  //   );
 
   await Future.wait([
     TranslationService.init(const Locale('vi', 'en')),

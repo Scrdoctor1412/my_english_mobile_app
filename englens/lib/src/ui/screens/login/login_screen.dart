@@ -11,13 +11,13 @@ class LoginScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetBuilder<LoginScreenViewmodel>(
-      init: LoginScreenViewmodel(),
+      // init: LoginScreenViewmodel(),
       builder: (controller) {
         controller.context = context;
         var screenHeight = MediaQuery.of(context).size.height;
         // var screenWidth = MediaQuery.of(context).size.width;
 
-        _orBlock() {
+        Widget _orBlock() {
           return Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [

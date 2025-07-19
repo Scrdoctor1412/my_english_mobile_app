@@ -262,6 +262,12 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
         }
       }
     }
+
+    leitnerBoxes[0].wordIds = [
+      ...leitnerBoxes[0].wordIds!,
+      ...todayWords.map((e) => e.id!).toList()
+    ];
+    LeitnerBoxService.saveLeitnerBoxes(leitnerBoxes);
   }
 
   bool shouldLearnToday(LeitnerBox box) {
