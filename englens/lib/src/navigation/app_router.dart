@@ -5,6 +5,7 @@ import 'package:englens/src/ui/screens/english_handbook/english_handbook_screen.
 import 'package:englens/src/ui/screens/english_handbook/english_handbook_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/home/leitner_daily_words/leitner_box/leitner_box_screen.dart';
 import 'package:englens/src/ui/screens/home/leitner_daily_words/leitner_daily_words_screen.dart';
+import 'package:englens/src/ui/screens/home/progress_chart/progress_chart_screen.dart';
 import 'package:englens/src/ui/screens/login/register/register_screen.dart';
 
 import 'package:englens/src/ui/screens/study/expressions/expressions_screen.dart';
@@ -252,6 +253,12 @@ class AppRouter {
       name: GrammarLessonsDetailsScreen.routeName,
       page: () => GrammarLessonsDetailsScreen(),
       binding: GetBinding(GrammarLessonsDetailsScreen.routeName),
+    ),
+
+    GetPage(
+      name: ProgressChartScreen.routeName,
+      page: () => ProgressChartScreen(),
+      binding: GetBinding(ProgressChartScreen.routeName),
     ),
   ];
 }

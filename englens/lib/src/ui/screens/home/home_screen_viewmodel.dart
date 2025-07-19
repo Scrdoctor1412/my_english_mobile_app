@@ -5,6 +5,7 @@ import 'package:englens/src/data/models/word.dart';
 import 'package:englens/src/data/repositories/oxford_words_repository.dart';
 import 'package:englens/src/service/learning_record_service.dart';
 import 'package:englens/src/ui/screens/home/leitner_daily_words/leitner_daily_words_screen.dart';
+import 'package:englens/src/ui/screens/home/progress_chart/progress_chart_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
@@ -53,6 +54,12 @@ class HomeScreenViewmodel extends GetViewModelBase {
       })
     ];
     update();
+  }
+
+  void onTapToProgressChart() {
+    Get.toNamed(
+      ProgressChartScreen.routeName,
+    );
   }
 
   void onTapToLeinerDailyWords() {

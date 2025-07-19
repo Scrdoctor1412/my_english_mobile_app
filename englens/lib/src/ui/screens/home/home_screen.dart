@@ -56,27 +56,7 @@ class HomeScreen extends StatelessWidget {
                   onTap: () {
                     // Update the state of the app.
                     // ...
-                  },
-                ),
-                const Divider(
-                  color: Colors.grey,
-                ),
-                ListTile(
-                  leading: Icon(
-                    Icons.bar_chart,
-                    size: 32,
-                    color: ThemePrimary.grey,
-                  ),
-                  title: const Text(
-                    'Ranking',
-                    style: TextStyle(
-                      fontSize: 18,
-                      fontWeight: FontWeight.w700,
-                    ),
-                  ),
-                  onTap: () {
-                    // Update the state of the app.
-                    // ...
+                    controller.onTapToProgressChart();
                   },
                 ),
               ],
