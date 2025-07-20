@@ -96,6 +96,13 @@ class RegisterScreen extends StatelessWidget {
                         validator: (value) {
                           if (value == "" || value == null) {
                             return 'Email is required';
+                          }
+                          final bool emailValid = RegExp(
+                                  r"^[a-zA-Z0-9.a-zA-Z0-9.!#$%&'*+-/=?^_`{|}~]+@[a-zA-Z0-9]+\.[a-zA-Z]+")
+                              .hasMatch(value);
+
+                          if (!emailValid) {
+                            return 'Please enter a valid email';
                           } else {
                             return null;
                           }
@@ -115,6 +122,8 @@ class RegisterScreen extends StatelessWidget {
                         validator: (value) {
                           if (value == "" || value == null) {
                             return 'Password is required';
+                          } else if (value.length < 6) {
+                            return 'Password must be at least 6 characters';
                           } else {
                             return null;
                           }

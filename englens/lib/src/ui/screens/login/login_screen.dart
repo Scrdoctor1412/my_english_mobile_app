@@ -113,6 +113,8 @@ class LoginScreen extends StatelessWidget {
                     validator: (value) {
                       if (value == null || value.isEmpty) {
                         return 'LOGIN_SCREEN.PASSWORD_BLANK'.tr;
+                      } else if (value.length < 6) {
+                        return 'Password must be at least 6 characters';
                       }
                       return null;
                     },
@@ -146,7 +148,7 @@ class LoginScreen extends StatelessWidget {
                     height: 50,
                     child: ElevatedButton(
                       style: ElevatedButton.styleFrom(
-                          backgroundColor: Colors.blue,
+                          backgroundColor: ThemePrimary.primaryBlue,
                           shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(26),
                           )),

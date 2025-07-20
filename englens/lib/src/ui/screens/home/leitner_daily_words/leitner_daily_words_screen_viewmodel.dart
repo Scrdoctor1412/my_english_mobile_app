@@ -239,35 +239,40 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
 
   void onGetTodayWords() async {
     for (var box in leitnerBoxes) {
+      if (box.boxType == LeitnerBoxType.pending) {
+        // var word = await LocalWordService.getWord(wordId);
+        // todayWords.add(word);
+        var words = List.generate(
+            box.wordIds!.length,
+            (index) async =>
+                await LocalWordService.getWord(box.wordIds![index]));
+        todayWords = [...todayWords, ...await Future.wait(words)];
+        continue;
+      }
       for (var wordId in box.wordIds!) {
         var word = await LocalWordService.getWord(wordId);
-        if (box.boxType == LeitnerBoxType.pending) {
-          todayWords.add(word);
-          continue;
-        } else {
-          int interval = boxIntervals[box.boxType] ?? 0;
-          var now = DateTime.now();
-          if (word.lastLearned != null && word.lastLearned != "") {
-            DateTime wordLastLearned = DateTime.parse(word.lastLearned!);
-            var difference = now.difference(wordLastLearned);
-            if (difference.inDays >= interval) {
-              int indexDuplicate =
-                  todayWords.indexWhere((element) => element.id == word.id);
-              if (indexDuplicate == -1) {
-                // todayWords.removeAt(indexDuplicate);
-                todayWords.add(word);
-              }
+
+        int interval = boxIntervals[box.boxType] ?? 0;
+        var now = DateTime.now();
+        if (word.lastLearned != null && word.lastLearned != "") {
+          DateTime wordLastLearned = DateTime.parse(word.lastLearned!);
+          var difference = now.difference(wordLastLearned);
+          if (difference.inDays >= interval) {
+            int indexDuplicate =
+                todayWords.indexWhere((element) => element.id == word.id);
+            if (indexDuplicate == -1) {
+              // todayWords.removeAt(indexDuplicate);
+              todayWords.add(word);
             }
           }
         }
       }
     }
 
-    leitnerBoxes[0].wordIds = [
-      ...leitnerBoxes[0].wordIds!,
-      ...todayWords.map((e) => e.id!).toList()
-    ];
-    LeitnerBoxService.saveLeitnerBoxes(leitnerBoxes);
+    //cập nhật số lượng từ trong pending box
+    leitnerItems[0] = leitnerItems[0].copyWith(wordList: todayWords);
+    // leitnerBoxes[0].wordIds = todayWords.map((e) => e.id!).toList();
+    // update();
   }
 
   bool shouldLearnToday(LeitnerBox box) {
