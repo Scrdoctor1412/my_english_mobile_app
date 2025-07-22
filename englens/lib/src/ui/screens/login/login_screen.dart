@@ -11,7 +11,7 @@ class LoginScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetBuilder<LoginScreenViewmodel>(
-      // init: LoginScreenViewmodel(),
+      init: LoginScreenViewmodel(),
       builder: (controller) {
         controller.context = context;
         var screenHeight = MediaQuery.of(context).size.height;
