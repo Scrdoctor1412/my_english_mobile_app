@@ -238,6 +238,7 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
   }
 
   void onGetTodayWords() async {
+    todayWords = [];
     for (var box in leitnerBoxes) {
       if (box.boxType == LeitnerBoxType.pending) {
         // var word = await LocalWordService.getWord(wordId);
