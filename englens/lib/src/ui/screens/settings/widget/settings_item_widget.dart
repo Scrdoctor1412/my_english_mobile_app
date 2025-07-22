@@ -76,9 +76,10 @@ class SettingsItemWidget extends StatelessWidget {
                 // enabled: false,
                 // enableFeedback: true,
                 // collapsedBackgroundColor: Colors.white,
+
                 showTrailingIcon: showTrailingIcon,
                 trailing: trailing ?? null,
-                initiallyExpanded: test,
+                initiallyExpanded: true,
                 title: Text(
                   title,
                   style: TextStyle(

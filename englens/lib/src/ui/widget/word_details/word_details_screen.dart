@@ -1,3 +1,4 @@
+import 'package:englens/src/data/models/word.dart';
 import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen_viewmodel.dart';
 import 'package:flutter/material.dart';
@@ -7,12 +8,13 @@ import 'package:get/instance_manager.dart';
 
 class WordDetailsScreen extends StatelessWidget {
   static const String routeName = '/wordDetailsScreen';
-  const WordDetailsScreen({Key? key}) : super(key: key);
+  final List<Word>? onlyWord;
+  const WordDetailsScreen({Key? key, this.onlyWord}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return GetBuilder<WordDetailsScreenViewmodel>(
-      init: WordDetailsScreenViewmodel(),
+      init: WordDetailsScreenViewmodel(onlyWord: onlyWord),
       builder: (controller) {
         controller.context = context;
         var screenWidth = MediaQuery.of(context).size.width;

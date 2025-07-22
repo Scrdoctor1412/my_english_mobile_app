@@ -87,6 +87,60 @@ Future<void> showCustomAlertDialog({
   );
 }
 
+Future<void> showCustomAlertDialog2({
+  required BuildContext context,
+  required String bodyContent,
+}) {
+  return showDialog(
+    context: context,
+    builder: (context) {
+      return Dialog(
+        elevation: 1,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(0),
+        ),
+        child: Container(
+          padding: const EdgeInsets.all(12),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Text(
+                "Alert",
+                style: TextStyle(fontSize: 20, fontWeight: FontWeight.w600),
+              ),
+              const SizedBox(height: 20),
+              Text(
+                bodyContent,
+                style: TextStyle(
+                  color: ThemePrimary.primaryBlue,
+                ),
+              ),
+              const SizedBox(height: 26),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.end,
+                children: [
+                  TextButton(
+                    onPressed: () {
+                      Navigator.of(context).pop();
+                    },
+                    child: Text(
+                      "Agree",
+                      style: TextStyle(
+                        color: ThemePrimary.lightBlue,
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+            ],
+          ),
+        ),
+      );
+    },
+  );
+}
+
 final _formKey = GlobalKey<FormState>();
 final TextEditingController _wordListNameTxtController =
     TextEditingController();

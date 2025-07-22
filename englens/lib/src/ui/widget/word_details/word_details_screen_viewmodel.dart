@@ -52,6 +52,8 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
   //List cờ mở - tắt leitner box
   List<bool> isAddToLeitner = [];
 
+  WordDetailsScreenViewmodel({this.onlyWord});
+
   @override
   void onInit() {
     super.onInit();
@@ -201,6 +203,16 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
         await prefs.setStringList(
             AppConstants.leitnerBoxPrefsKey, leitnerboxeswordsid);
       }
+      ScaffoldMessenger.of(context!).showSnackBar(
+        SnackBar(
+          duration: Duration(milliseconds: 500),
+          backgroundColor: ThemePrimary.darkBlue,
+          content: Text(
+            'Add to leitner box success!',
+            style: TextStyle(color: Colors.white),
+          ),
+        ),
+      );
     } else {
       //False - trường hợp xóa khỏi box
 
@@ -232,6 +244,16 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
 
         await prefs.setStringList(AppConstants.leitnerBoxPrefsKey, listPrefs);
       }
+      ScaffoldMessenger.of(context!).showSnackBar(
+        SnackBar(
+          duration: Duration(milliseconds: 500),
+          backgroundColor: ThemePrimary.darkBlue,
+          content: Text(
+            'Remove from leitner box success!',
+            style: TextStyle(color: Colors.white),
+          ),
+        ),
+      );
     }
 
     update();

@@ -273,7 +273,7 @@ class GetBinding extends Bindings {
     // TODO: implement dependencies
     switch (routeName) {
       case LoginScreen.routeName:
-        Get.lazyPut(() => LoginScreenViewmodel());
+        // Get.lazyPut(() => LoginScreenViewmodel());
         Get.lazyPut(() => AuthService());
         break;
       case ForgetPasswordScreen.routeName:

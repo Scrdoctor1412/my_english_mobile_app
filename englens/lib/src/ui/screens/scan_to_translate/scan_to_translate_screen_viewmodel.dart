@@ -7,6 +7,8 @@ import 'package:englens/src/data/models/word.dart';
 import 'package:englens/src/service/local_word_service.dart';
 import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/loading_dialog.dart';
+import 'package:englens/src/ui/widget/word_details/word_details_screen.dart';
+import 'package:englens/src/utils/helper.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
@@ -112,14 +114,32 @@ class ScanToTranslateScreenViewmodel extends GetViewModelBase {
       final textRec = TextRecognizer();
       final RecognizedText recognizedText =
           await textRec.processImage(inputImage);
-      String extractText = recognizedText.text;
-      print(extractText);
-
+      String extractText = "";
+      if (recognizedText != null) {
+        extractText = recognizedText.text;
+      }
       return extractText;
     } catch (e) {
       debugPrint(e.toString());
       return "";
     }
+  }
+
+  void onOpenDetailsWord(Word word) {
+    // Get.bottomSheet(WordDetailsScreen(), );
+    showModalBottomSheet(
+      context: context!,
+      isScrollControlled: true,
+      builder: (context) {
+        return Container(
+          width: MediaQuery.of(context).size.width,
+          height: MediaQuery.of(context).size.height * 0.8,
+          child: WordDetailsScreen(
+            onlyWord: [word],
+          ),
+        );
+      },
+    );
   }
 
   void onTapSpecificWord(String word) {
@@ -130,8 +150,17 @@ class ScanToTranslateScreenViewmodel extends GetViewModelBase {
             .replaceAll(RegExp(r'[^a-zA-Z0-9\s]'), '') ==
         word.toLowerCase().trim().replaceAll(RegExp(r'[^a-zA-Z0-9\s]'), ''));
     // print(word.toLowerCase().trim().replaceAll(RegExp(r'[^a-zA-Z0-9\s]'), ''));
-    print(index);
+    // print(index);
     // print(words.length);
+    if (index != -1) {
+      onOpenDetailsWord(words[index]);
+    } else {
+      showCustomAlertDialog2(
+        context: context!,
+        bodyContent:
+            "This word has yet to be added to our dictionary database, please try again later!",
+      );
+    }
   }
 
   Future<String> _onTranslateText(String input) async {
@@ -153,6 +182,14 @@ class ScanToTranslateScreenViewmodel extends GetViewModelBase {
         context: context!, loadingText: "Loading...");
 
     var a = await _processImage();
+    if (a == "") {
+      ShowLoadingDialog.hideLoadingDialog(context: context!);
+      showCustomAlertDialog2(
+        context: context!,
+        bodyContent: "Cannot extract text from image. Please try again!",
+      );
+      return;
+    }
 
     ShowLoadingDialog.hideLoadingDialog(context: context!);
 
@@ -186,6 +223,7 @@ class ScanToTranslateScreenViewmodel extends GetViewModelBase {
             child: SingleChildScrollView(
               child: Column(
                 children: [
+                  const SizedBox(height: 12),
                   Align(
                     alignment: Alignment.topCenter,
                     child: Container(
@@ -286,6 +324,7 @@ class ScanToTranslateScreenViewmodel extends GetViewModelBase {
                       ],
                     ),
                   ),
+                  SizedBox(height: 22),
                 ],
               ),
             ),

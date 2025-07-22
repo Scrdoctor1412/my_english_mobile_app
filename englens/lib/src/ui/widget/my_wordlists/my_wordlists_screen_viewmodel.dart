@@ -135,6 +135,7 @@ class MyWordlistsScreenViewmodel extends GetViewModelBase {
             ShowLoadingDialog.hideLoadingDialog(context: context!);
             ScaffoldMessenger.of(context!).showSnackBar(
               SnackBar(
+                duration: Duration(milliseconds: 500),
                 backgroundColor: ThemePrimary.darkBlue,
                 content: Text(
                   'Delete success!',
@@ -147,6 +148,7 @@ class MyWordlistsScreenViewmodel extends GetViewModelBase {
             ShowLoadingDialog.hideLoadingDialog(context: context!);
             ScaffoldMessenger.of(context!).showSnackBar(
               SnackBar(
+                duration: Duration(milliseconds: 500),
                 backgroundColor: ThemePrimary.darkBlue,
                 content: Text(
                   'Delete failed!',
