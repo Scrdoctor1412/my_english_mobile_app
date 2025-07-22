@@ -4,6 +4,8 @@ import 'package:englens/src/data/repositories/user_words_repository.dart';
 import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/screens/tabs/tabs_screen.dart';
 import 'package:englens/src/ui/screens/tabs/tabs_screen_viewmodel.dart';
+import 'package:englens/src/ui/widget/flashcards/flashcards_screen.dart';
+import 'package:englens/src/ui/widget/flashcards/flashcards_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/loading_dialog.dart';
 import 'package:englens/src/ui/widget/my_wordlists/word_list/word_list_edit_screen/word_list_edit_screen.dart';
 import 'package:englens/src/ui/widget/my_wordlists/word_list/word_list_edit_screen/word_list_edit_screen_viewmodel.dart';
@@ -74,9 +76,17 @@ class WordListScreenViewmodel extends GetViewModelBase {
   }
 
   void onAcceptSelect() {
-    var listWordRes =
-        longPressSelectIndex.map((index) => wordList[index]).toList();
-    Get.back(result: listWordRes);
+    if (fromScreen == ToWordListFromScreen.neutral) {
+      var listWordRes =
+          longPressSelectIndex.map((index) => wordList[index]).toList();
+      Get.toNamed(FlashcardsScreen.routeName,
+          arguments: FlashcardsScreenArgs(
+              title: "My word list", wordList: listWordRes));
+    } else {
+      var listWordRes =
+          longPressSelectIndex.map((index) => wordList[index]).toList();
+      Get.back(result: listWordRes);
+    }
   }
 
   void onLongPress(int index) {

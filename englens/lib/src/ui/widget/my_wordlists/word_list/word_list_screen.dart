@@ -180,27 +180,47 @@ class WordListScreen extends StatelessWidget {
         }
 
         _body() {
-          return controller.isLoading
-              ? Center(child: CircularProgressIndicator())
-              : controller.wordList.isEmpty
-                  ? Center(child: _emptyWidget())
-                  : Container(
-                      padding: const EdgeInsets.symmetric(
-                        horizontal: 12,
-                      ),
-                      child: ListView.separated(
-                        padding: const EdgeInsets.symmetric(vertical: 12),
-                        itemBuilder: (context, index) => _wordItem(index),
-                        itemCount: controller.wordList.length,
-                        separatorBuilder: (context, index) => Container(
-                          color: Colors.white,
-                          padding: const EdgeInsets.symmetric(horizontal: 12),
-                          child: Divider(
-                            color: ThemePrimary.grey.withAlpha(80),
+          return Stack(
+            children: [
+              controller.isLoading
+                  ? Center(child: CircularProgressIndicator())
+                  : controller.wordList.isEmpty
+                      ? Center(child: _emptyWidget())
+                      : Container(
+                          padding: const EdgeInsets.symmetric(
+                            horizontal: 12,
+                          ),
+                          child: ListView.separated(
+                            padding: const EdgeInsets.symmetric(vertical: 12),
+                            itemBuilder: (context, index) => _wordItem(index),
+                            itemCount: controller.wordList.length,
+                            separatorBuilder: (context, index) => Container(
+                              color: Colors.white,
+                              padding:
+                                  const EdgeInsets.symmetric(horizontal: 12),
+                              child: Divider(
+                                color: ThemePrimary.grey.withAlpha(80),
+                              ),
+                            ),
                           ),
                         ),
-                      ),
-                    );
+              if (controller.isOnLongPress &&
+                  controller.fromScreen == ToWordListFromScreen.neutral) ...[
+                Align(
+                  alignment: Alignment.bottomCenter,
+                  child: Padding(
+                    padding: const EdgeInsets.only(bottom: 20),
+                    child: ElevatedButton(
+                      onPressed: () {
+                        controller.onAcceptSelect();
+                      },
+                      child: Text("Learn now"),
+                    ),
+                  ),
+                ),
+              ],
+            ],
+          );
         }
 
         return Scaffold(
