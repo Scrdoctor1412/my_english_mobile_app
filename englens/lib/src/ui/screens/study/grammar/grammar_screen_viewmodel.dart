@@ -1,4 +1,4 @@
-import 'package:englens/src/constants/app_constants.dart';
+import 'package:englens/src/core/constants/app_constants.dart';
 import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/ui/screens/study/grammar/grammar_lessons/grammar_lessons_screen.dart';
 import 'package:englens/src/ui/screens/study/grammar/grammar_lessons/grammar_lessons_screen_viewmodel.dart';
@@ -78,11 +78,8 @@ class GrammarScreenViewmodel extends GetViewModelBase {
         title: listGrammarRowItem[index].title,
         type: listGrammarRowItem[index].type,
       ),
-    )!
-        .then(
-      (value) {
-        initData();
-      },
-    );
+    )!.then((value) {
+      initData();
+    });
   }
 }

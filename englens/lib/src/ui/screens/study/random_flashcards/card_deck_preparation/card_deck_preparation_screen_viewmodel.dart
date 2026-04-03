@@ -1,16 +1,14 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
 import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/data/models/word.dart';
-import 'package:englens/src/service/local_word_service.dart';
+import 'package:englens/src/core/service/local_word_service.dart';
 import 'package:englens/src/ui/widget/flashcards/flashcards_screen.dart';
 import 'package:englens/src/ui/widget/flashcards/flashcards_screen_viewmodel.dart';
 import 'package:get/get.dart';
 
 class CardDeckPreparationScreenArgs {
   final List<Word>? words;
-  CardDeckPreparationScreenArgs({
-    this.words,
-  });
+  CardDeckPreparationScreenArgs({this.words});
 }
 
 class CardDeckPreparationScreenViewmodel extends GetViewModelBase {

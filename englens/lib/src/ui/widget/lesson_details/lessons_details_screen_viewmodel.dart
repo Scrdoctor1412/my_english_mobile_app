@@ -2,7 +2,7 @@ import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/data/models/learning_category.dart';
 import 'package:englens/src/data/models/lesson.dart';
 import 'package:englens/src/data/repositories/learning_category_repository.dart';
-import 'package:englens/src/service/local_word_service.dart';
+import 'package:englens/src/core/service/local_word_service.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

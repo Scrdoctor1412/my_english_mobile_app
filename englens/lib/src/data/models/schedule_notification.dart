@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:englens/src/configs/hive/hive_types.dart';
+import 'package:englens/src/core/configs/hive/hive_types.dart';
 import 'package:hive_flutter/adapters.dart';
 
 part 'generated/schedule_notification.g.dart';

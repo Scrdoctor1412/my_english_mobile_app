@@ -3,7 +3,7 @@ import 'dart:math';
 import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/data/models/word.dart';
 import 'package:englens/src/data/repositories/oxford_words_repository.dart';
-import 'package:englens/src/service/learning_record_service.dart';
+import 'package:englens/src/core/service/learning_record_service.dart';
 import 'package:englens/src/ui/screens/home/leitner_daily_words/leitner_daily_words_screen.dart';
 import 'package:englens/src/ui/screens/home/progress_chart/progress_chart_screen.dart';
 import 'package:flutter/material.dart';
@@ -51,22 +51,18 @@ class HomeScreenViewmodel extends GetViewModelBase {
       ...List.generate(5, (index) {
         int randomtIndex = random.nextInt(listOxfordWords.length);
         return listOxfordWords[randomtIndex];
-      })
+      }),
     ];
     update();
   }
 
   void onTapToProgressChart() {
-    Get.toNamed(
-      ProgressChartScreen.routeName,
-    );
+    Get.toNamed(ProgressChartScreen.routeName);
   }
 
   void onTapToLeinerDailyWords() {
-    Get.toNamed(LeitnerDailyWordsScreen.routeName)!.then(
-      (value) {
-        initData();
-      },
-    );
+    Get.toNamed(LeitnerDailyWordsScreen.routeName)!.then((value) {
+      initData();
+    });
   }
 }

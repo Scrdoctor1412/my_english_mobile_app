@@ -1,4 +1,4 @@
-import 'package:englens/src/configs/hive/hive_types.dart';
+import 'package:englens/src/core/configs/hive/hive_types.dart';
 import 'package:hive/hive.dart';
 
 part 'generated/learning_record.g.dart';
@@ -14,9 +14,5 @@ class LearningRecord {
   @HiveField(2)
   String? learnDate;
 
-  LearningRecord({
-    this.id,
-    this.wordIds,
-    this.learnDate,
-  });
+  LearningRecord({this.id, this.wordIds, this.learnDate});
 }

@@ -2,11 +2,11 @@ import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/data/models/learning_record.dart';
 import 'package:englens/src/data/models/leitner_box.dart';
 import 'package:englens/src/data/models/word.dart';
-import 'package:englens/src/service/learning_record_service.dart';
-import 'package:englens/src/service/leitner_box_service.dart';
-import 'package:englens/src/service/local_notification_service.dart';
-import 'package:englens/src/service/local_word_service.dart';
-import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/core/service/learning_record_service.dart';
+import 'package:englens/src/core/service/leitner_box_service.dart';
+import 'package:englens/src/core/service/local_notification_service.dart';
+import 'package:englens/src/core/service/local_word_service.dart';
+import 'package:englens/src/core/theme/theme_primary.dart';
 import 'package:englens/src/ui/screens/home/leitner_daily_words/leitner_box/leitner_box_screen.dart';
 import 'package:englens/src/ui/screens/home/leitner_daily_words/leitner_box/leitner_box_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/settings/settings_screen.dart';
@@ -78,20 +78,21 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
       boxIndex: 0,
     ),
     LeitnerItem(
-        title: "Every day",
-        abvTitle: "A",
-        color: ThemePrimary.primaryBlue,
-        stepperItem: Text(
-          "1",
-          style: TextStyle(
-            color: Colors.white,
-            fontSize: 15,
-            fontWeight: FontWeight.bold,
-          ),
+      title: "Every day",
+      abvTitle: "A",
+      color: ThemePrimary.primaryBlue,
+      stepperItem: Text(
+        "1",
+        style: TextStyle(
+          color: Colors.white,
+          fontSize: 15,
+          fontWeight: FontWeight.bold,
         ),
-        leitnerBoxType: LeitnerBoxType.everyDay,
-        wordList: [],
-        boxIndex: 1),
+      ),
+      leitnerBoxType: LeitnerBoxType.everyDay,
+      wordList: [],
+      boxIndex: 1,
+    ),
     LeitnerItem(
       title: "Every 2 days",
       abvTitle: "B",
@@ -109,35 +110,37 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
       boxIndex: 2,
     ),
     LeitnerItem(
-        title: "Every 4 days",
-        abvTitle: "C",
-        color: ThemePrimary.primaryBlue,
-        stepperItem: Text(
-          "3",
-          style: TextStyle(
-            color: Colors.white,
-            fontSize: 15,
-            fontWeight: FontWeight.bold,
-          ),
+      title: "Every 4 days",
+      abvTitle: "C",
+      color: ThemePrimary.primaryBlue,
+      stepperItem: Text(
+        "3",
+        style: TextStyle(
+          color: Colors.white,
+          fontSize: 15,
+          fontWeight: FontWeight.bold,
         ),
-        leitnerBoxType: LeitnerBoxType.every4days,
-        wordList: [],
-        boxIndex: 3),
+      ),
+      leitnerBoxType: LeitnerBoxType.every4days,
+      wordList: [],
+      boxIndex: 3,
+    ),
     LeitnerItem(
-        title: "Every 8 days",
-        abvTitle: "D",
-        color: ThemePrimary.primaryBlue,
-        stepperItem: Text(
-          "4",
-          style: TextStyle(
-            color: Colors.white,
-            fontSize: 15,
-            fontWeight: FontWeight.bold,
-          ),
+      title: "Every 8 days",
+      abvTitle: "D",
+      color: ThemePrimary.primaryBlue,
+      stepperItem: Text(
+        "4",
+        style: TextStyle(
+          color: Colors.white,
+          fontSize: 15,
+          fontWeight: FontWeight.bold,
         ),
-        leitnerBoxType: LeitnerBoxType.every8days,
-        wordList: [],
-        boxIndex: 4),
+      ),
+      leitnerBoxType: LeitnerBoxType.every8days,
+      wordList: [],
+      boxIndex: 4,
+    ),
     LeitnerItem(
       title: "Every 16 days",
       abvTitle: "E",
@@ -222,10 +225,16 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
     }
     //Gán onTap
     leitnerItems = leitnerItems
-        .map((e) => e.copyWith(
-              onTap: () => onTapToLeitnerBox(
-                  e.abvTitle!, e.wordList!, e.leitnerBoxType!, e.boxIndex!),
-            ))
+        .map(
+          (e) => e.copyWith(
+            onTap: () => onTapToLeitnerBox(
+              e.abvTitle!,
+              e.wordList!,
+              e.leitnerBoxType!,
+              e.boxIndex!,
+            ),
+          ),
+        )
         .toList();
 
     onCountLearnedWords();
@@ -244,9 +253,9 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
         // var word = await LocalWordService.getWord(wordId);
         // todayWords.add(word);
         var words = List.generate(
-            box.wordIds!.length,
-            (index) async =>
-                await LocalWordService.getWord(box.wordIds![index]));
+          box.wordIds!.length,
+          (index) async => await LocalWordService.getWord(box.wordIds![index]),
+        );
         todayWords = [...todayWords, ...await Future.wait(words)];
         continue;
       }
@@ -259,8 +268,9 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
           DateTime wordLastLearned = DateTime.parse(word.lastLearned!);
           var difference = now.difference(wordLastLearned);
           if (difference.inDays >= interval) {
-            int indexDuplicate =
-                todayWords.indexWhere((element) => element.id == word.id);
+            int indexDuplicate = todayWords.indexWhere(
+              (element) => element.id == word.id,
+            );
             if (indexDuplicate == -1) {
               // todayWords.removeAt(indexDuplicate);
               todayWords.add(word);
@@ -327,9 +337,10 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
     var res = await Get.toNamed(
       FlashcardsScreen.routeName,
       arguments: FlashcardsScreenArgs(
-          title: "Today words",
-          wordList: todayWords,
-          completeScreenType: CompleteScreenType.leitnerBox),
+        title: "Today words",
+        wordList: todayWords,
+        completeScreenType: CompleteScreenType.leitnerBox,
+      ),
     );
     print("res: $res");
     if (res is bool && res) {
@@ -341,11 +352,7 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
           // record.wordIds = [];
           record.wordIds = [
             ...record.wordIds ?? [],
-            ...todayWords
-                .map(
-                  (e) => e.id!,
-                )
-                .toList()
+            ...todayWords.map((e) => e.id!).toList(),
           ];
         }
       }
@@ -355,11 +362,7 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
         //Duyệt qua từng box
 
         if (box.wordIds != null && box.wordIds!.isNotEmpty) {
-          var tempWordIdsList = box.wordIds!
-              .map(
-                (e) => e,
-              )
-              .toList();
+          var tempWordIdsList = box.wordIds!.map((e) => e).toList();
           for (var wordId in box.wordIds!) {
             //Duyệt qua từng từ có trong box - nếu từ trong box trùng với từ hôm nay thì sẽ remove từ đó ra khỏi box và truyền nó cho box kế tiếp
             if (todayWords.indexWhere((element) => element.id == wordId) !=
@@ -413,8 +416,12 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
     update();
   }
 
-  void onTapToLeitnerBox(String title, List<Word> wordList,
-      LeitnerBoxType leitnerBoxType, int boxIndex) {
+  void onTapToLeitnerBox(
+    String title,
+    List<Word> wordList,
+    LeitnerBoxType leitnerBoxType,
+    int boxIndex,
+  ) {
     Get.toNamed(
       LeitnerBoxScreen.routeName,
       arguments: LeitnerBoxScreenArgs(
@@ -423,11 +430,8 @@ class LeitnerDailyWordsScreenViewModel extends GetViewModelBase {
         wordList: wordList,
         leitnerBoxType: leitnerBoxType,
       ),
-    )!
-        .then(
-      (value) {
-        initData();
-      },
-    );
+    )!.then((value) {
+      initData();
+    });
   }
 }

@@ -1,12 +1,12 @@
 import 'dart:ui';
 
-import 'package:englens/src/constants/app_constants.dart';
+import 'package:englens/src/core/constants/app_constants.dart';
 import 'package:englens/src/core/base_view_model.dart';
-import 'package:englens/src/service/lang/translation_service.dart';
+import 'package:englens/src/core/service/lang/translation_service.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-import '../../../service/firebase/auth/auth_service.dart';
+import '../../../core/service/firebase/auth/auth_service.dart';
 
 class SettingsScreenViewmodel extends GetViewModelBase {
   AuthService authController = Get.put(AuthService());

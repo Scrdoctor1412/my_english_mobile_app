@@ -1,7 +1,7 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
 import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/data/models/word.dart';
-import 'package:englens/src/service/local_word_service.dart';
+import 'package:englens/src/core/service/local_word_service.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen_viewmodel.dart';
 import 'package:flutter/material.dart';
@@ -9,9 +9,7 @@ import 'package:get/get.dart';
 
 class WordSearchScreenArgs {
   final List<Word> wordList;
-  WordSearchScreenArgs({
-    required this.wordList,
-  });
+  WordSearchScreenArgs({required this.wordList});
 }
 
 class WordSearchScreenViewmodel extends GetViewModelBase {
@@ -48,9 +46,7 @@ class WordSearchScreenViewmodel extends GetViewModelBase {
       WordDetailsScreen.routeName,
       arguments: WordDetailsScreenViewmodelArgs(
         isFromLessonDetailsScreen: false,
-        onlyWord: [
-          searchResult[index],
-        ],
+        onlyWord: [searchResult[index]],
       ),
     );
   }

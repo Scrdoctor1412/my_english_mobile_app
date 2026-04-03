@@ -1,4 +1,4 @@
-import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/core/theme/theme_primary.dart';
 import 'package:englens/src/ui/screens/settings/widget/settings_item_content_widget.dart';
 import 'package:flutter/material.dart';
 
@@ -14,36 +14,37 @@ class SettingsItemWidget extends StatelessWidget {
   final bool showShadow;
   final List<Color>? gradient;
 
-  SettingsItemWidget(
-      {Key? key,
-      this.children,
-      required this.title,
-      this.icon,
-      this.showTrailingIcon = true,
-      this.trailing,
-      this.isNotExpandable = false,
-      this.onTap,
-      ExpansionTileThemeData? themeData,
-      this.showShadow = true,
-      this.gradient})
-      : _themeData = themeData ??
-            ExpansionTileThemeData(
-              backgroundColor: Colors.white,
-              collapsedBackgroundColor: Colors.white,
-              shape: RoundedRectangleBorder(
-                borderRadius: BorderRadius.circular(12),
-              ),
-              collapsedShape: RoundedRectangleBorder(
-                borderRadius: BorderRadius.circular(12),
-              ),
-              childrenPadding: const EdgeInsets.only(
-                left: 22,
-                right: 12,
-                bottom: 12,
-              ),
-              iconColor: ThemePrimary.grey,
-            ),
-        super(key: key);
+  SettingsItemWidget({
+    Key? key,
+    this.children,
+    required this.title,
+    this.icon,
+    this.showTrailingIcon = true,
+    this.trailing,
+    this.isNotExpandable = false,
+    this.onTap,
+    ExpansionTileThemeData? themeData,
+    this.showShadow = true,
+    this.gradient,
+  }) : _themeData =
+           themeData ??
+           ExpansionTileThemeData(
+             backgroundColor: Colors.white,
+             collapsedBackgroundColor: Colors.white,
+             shape: RoundedRectangleBorder(
+               borderRadius: BorderRadius.circular(12),
+             ),
+             collapsedShape: RoundedRectangleBorder(
+               borderRadius: BorderRadius.circular(12),
+             ),
+             childrenPadding: const EdgeInsets.only(
+               left: 22,
+               right: 12,
+               bottom: 12,
+             ),
+             iconColor: ThemePrimary.grey,
+           ),
+       super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -76,29 +77,20 @@ class SettingsItemWidget extends StatelessWidget {
                 // enabled: false,
                 // enableFeedback: true,
                 // collapsedBackgroundColor: Colors.white,
-
                 showTrailingIcon: showTrailingIcon,
                 trailing: trailing ?? null,
                 initiallyExpanded: true,
                 title: Text(
                   title,
-                  style: TextStyle(
-                    fontWeight: FontWeight.w600,
-                    fontSize: 16,
-                  ),
+                  style: TextStyle(fontWeight: FontWeight.w600, fontSize: 16),
                 ),
                 leading: icon != null
-                    ? Icon(
-                        icon,
-                        color: ThemePrimary.grey,
-                      )
+                    ? Icon(icon, color: ThemePrimary.grey)
                     : null,
                 onExpansionChanged: (value) {
                   print(value);
                 },
-                children: [
-                  ...children ?? [],
-                ],
+                children: [...children ?? []],
               ),
             ),
           ),

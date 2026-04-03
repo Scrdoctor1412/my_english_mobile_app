@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:englens/src/configs/hive/hive_types.dart';
+import 'package:englens/src/core/configs/hive/hive_types.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
 import 'package:englens/src/data/models/sense.dart';

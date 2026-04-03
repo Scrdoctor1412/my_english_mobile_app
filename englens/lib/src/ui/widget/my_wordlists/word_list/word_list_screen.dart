@@ -1,4 +1,4 @@
-import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/core/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/my_wordlists/word_list/word_list_screen_viewmodel.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
@@ -39,7 +39,7 @@ class WordListScreen extends StatelessWidget {
                     controller.onAcceptSelect();
                   },
                   icon: Icon(Icons.check),
-                )
+                ),
             ],
             leading: controller.isOnLongPress
                 ? IconButton(
@@ -98,7 +98,7 @@ class WordListScreen extends StatelessWidget {
                         foregroundColor: Colors.white,
                         icon: Icons.delete,
                         label: 'Delete',
-                      )
+                      ),
                     ],
                   )
                 : null,
@@ -113,11 +113,7 @@ class WordListScreen extends StatelessWidget {
                 controller.onLongPress(index);
               },
               child: Container(
-                padding: const EdgeInsets.only(
-                  right: 12,
-                  left: 12,
-                  top: 10,
-                ),
+                padding: const EdgeInsets.only(right: 12, left: 12, top: 10),
                 decoration: BoxDecoration(
                   color: controller.wordSelected[index]
                       ? Colors.grey.shade300
@@ -128,11 +124,11 @@ class WordListScreen extends StatelessWidget {
                           topRight: Radius.circular(12),
                         )
                       : index == controller.wordList.length - 1
-                          ? BorderRadius.only(
-                              bottomRight: Radius.circular(12),
-                              bottomLeft: Radius.circular(12),
-                            )
-                          : null,
+                      ? BorderRadius.only(
+                          bottomRight: Radius.circular(12),
+                          bottomLeft: Radius.circular(12),
+                        )
+                      : null,
                 ),
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
@@ -152,9 +148,10 @@ class WordListScreen extends StatelessWidget {
                           child: Text(
                             controller.wordList[index].word,
                             style: TextStyle(
-                                fontWeight: FontWeight.bold,
-                                fontSize: 18,
-                                overflow: TextOverflow.ellipsis),
+                              fontWeight: FontWeight.bold,
+                              fontSize: 18,
+                              overflow: TextOverflow.ellipsis,
+                            ),
                           ),
                         ),
                       ],
@@ -162,13 +159,9 @@ class WordListScreen extends StatelessWidget {
                     const SizedBox(height: 10),
                     Text(
                       controller.wordList[index].senses[0].definition,
-                      style: TextStyle(
-                        fontSize: 16,
-                      ),
+                      style: TextStyle(fontSize: 16),
                     ),
-                    const SizedBox(
-                      height: 10,
-                    ),
+                    const SizedBox(height: 10),
                     // Divider(
                     //   color: ThemePrimary.grey.withAlpha(80),
                     // ),
@@ -185,25 +178,22 @@ class WordListScreen extends StatelessWidget {
               controller.isLoading
                   ? Center(child: CircularProgressIndicator())
                   : controller.wordList.isEmpty
-                      ? Center(child: _emptyWidget())
-                      : Container(
-                          padding: const EdgeInsets.symmetric(
-                            horizontal: 12,
-                          ),
-                          child: ListView.separated(
-                            padding: const EdgeInsets.symmetric(vertical: 12),
-                            itemBuilder: (context, index) => _wordItem(index),
-                            itemCount: controller.wordList.length,
-                            separatorBuilder: (context, index) => Container(
-                              color: Colors.white,
-                              padding:
-                                  const EdgeInsets.symmetric(horizontal: 12),
-                              child: Divider(
-                                color: ThemePrimary.grey.withAlpha(80),
-                              ),
-                            ),
+                  ? Center(child: _emptyWidget())
+                  : Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 12),
+                      child: ListView.separated(
+                        padding: const EdgeInsets.symmetric(vertical: 12),
+                        itemBuilder: (context, index) => _wordItem(index),
+                        itemCount: controller.wordList.length,
+                        separatorBuilder: (context, index) => Container(
+                          color: Colors.white,
+                          padding: const EdgeInsets.symmetric(horizontal: 12),
+                          child: Divider(
+                            color: ThemePrimary.grey.withAlpha(80),
                           ),
                         ),
+                      ),
+                    ),
               if (controller.isOnLongPress &&
                   controller.fromScreen == ToWordListFromScreen.neutral) ...[
                 Align(

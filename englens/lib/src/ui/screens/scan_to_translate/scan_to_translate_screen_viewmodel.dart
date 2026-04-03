@@ -4,11 +4,11 @@ import 'dart:typed_data';
 import 'package:cunning_document_scanner/cunning_document_scanner.dart';
 import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/data/models/word.dart';
-import 'package:englens/src/service/local_word_service.dart';
-import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/core/service/local_word_service.dart';
+import 'package:englens/src/core/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/loading_dialog.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen.dart';
-import 'package:englens/src/utils/helper.dart';
+import 'package:englens/src/core/utils/helper.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
@@ -28,10 +28,7 @@ class ScanToTranslateScreenViewmodel extends GetViewModelBase {
   File? imageFile;
   List<Word> words = [];
 
-  List<IconData> icons = [
-    Icons.camera_alt,
-    Icons.image,
-  ];
+  List<IconData> icons = [Icons.camera_alt, Icons.image];
   List<String> bottomOptions = [
     'Take pictures with Camera',
     'Choose image from Gallery',
@@ -112,8 +109,9 @@ class ScanToTranslateScreenViewmodel extends GetViewModelBase {
     try {
       final inputImage = InputImage.fromFilePath(imageFile!.path);
       final textRec = TextRecognizer();
-      final RecognizedText recognizedText =
-          await textRec.processImage(inputImage);
+      final RecognizedText recognizedText = await textRec.processImage(
+        inputImage,
+      );
       String extractText = "";
       if (recognizedText != null) {
         extractText = recognizedText.text;
@@ -134,21 +132,21 @@ class ScanToTranslateScreenViewmodel extends GetViewModelBase {
         return Container(
           width: MediaQuery.of(context).size.width,
           height: MediaQuery.of(context).size.height * 0.8,
-          child: WordDetailsScreen(
-            onlyWord: [word],
-          ),
+          child: WordDetailsScreen(onlyWord: [word]),
         );
       },
     );
   }
 
   void onTapSpecificWord(String word) {
-    var index = words.indexWhere((element) =>
-        element.word
-            .toLowerCase()
-            .trim()
-            .replaceAll(RegExp(r'[^a-zA-Z0-9\s]'), '') ==
-        word.toLowerCase().trim().replaceAll(RegExp(r'[^a-zA-Z0-9\s]'), ''));
+    var index = words.indexWhere(
+      (element) =>
+          element.word.toLowerCase().trim().replaceAll(
+            RegExp(r'[^a-zA-Z0-9\s]'),
+            '',
+          ) ==
+          word.toLowerCase().trim().replaceAll(RegExp(r'[^a-zA-Z0-9\s]'), ''),
+    );
     // print(word.toLowerCase().trim().replaceAll(RegExp(r'[^a-zA-Z0-9\s]'), ''));
     // print(index);
     // print(words.length);
@@ -179,7 +177,9 @@ class ScanToTranslateScreenViewmodel extends GetViewModelBase {
 
   void onTapShowBottomSheetTranslate() async {
     ShowLoadingDialog.showLoadingDialog(
-        context: context!, loadingText: "Loading...");
+      context: context!,
+      loadingText: "Loading...",
+    );
 
     var a = await _processImage();
     if (a == "") {
@@ -239,18 +239,17 @@ class ScanToTranslateScreenViewmodel extends GetViewModelBase {
                       ),
                     ),
                   ),
-                  Divider(
-                    color: Colors.grey.shade500,
-                  ),
+                  Divider(color: Colors.grey.shade500),
                   Padding(
-                    padding:
-                        const EdgeInsets.only(top: 12, left: 12, right: 12),
+                    padding: const EdgeInsets.only(
+                      top: 12,
+                      left: 12,
+                      right: 12,
+                    ),
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        const SizedBox(
-                          height: 22,
-                        ),
+                        const SizedBox(height: 22),
                         Text(
                           'Translate Text',
                           style: TextStyle(
@@ -277,9 +276,7 @@ class ScanToTranslateScreenViewmodel extends GetViewModelBase {
                             ),
                           ),
                         ),
-                        const SizedBox(
-                          height: 22,
-                        ),
+                        const SizedBox(height: 22),
                         Text(
                           'Original Text',
                           style: TextStyle(
@@ -343,9 +340,7 @@ class ScanToTranslateScreenViewmodel extends GetViewModelBase {
           child: Container(
             width: MediaQuery.of(context).size.width,
             height: 150,
-            padding: const EdgeInsets.symmetric(
-              horizontal: 12,
-            ),
+            padding: const EdgeInsets.symmetric(horizontal: 12),
             child: ListView.separated(
               itemBuilder: (context, index) {
                 return InkWell(
@@ -360,16 +355,13 @@ class ScanToTranslateScreenViewmodel extends GetViewModelBase {
                     ),
                     title: Text(
                       bottomOptions[index],
-                      style: TextStyle(
-                        fontWeight: FontWeight.w600,
-                      ),
+                      style: TextStyle(fontWeight: FontWeight.w600),
                     ),
                   ),
                 );
               },
-              separatorBuilder: (context, index) => Divider(
-                color: ThemePrimary.grey.withAlpha(150),
-              ),
+              separatorBuilder: (context, index) =>
+                  Divider(color: ThemePrimary.grey.withAlpha(150)),
               itemCount: icons.length,
             ),
           ),

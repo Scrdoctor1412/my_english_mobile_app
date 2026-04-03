@@ -30,9 +30,7 @@ class EnglishHandbookScreenViewmodel extends GetViewModelBase
     var list = _oxfordWordsRepo.getAllOxfordWords();
     // test = list;
     list = list
-        .where(
-          (element) => element.pos.toLowerCase() != "none",
-        )
+        .where((element) => element.pos.toLowerCase() != "none")
         .toList();
 
     list.sort((a, b) => a.word.toLowerCase().compareTo(b.word.toLowerCase()));
@@ -40,18 +38,11 @@ class EnglishHandbookScreenViewmodel extends GetViewModelBase
     wordList = list;
   }
 
-  String snakeCaseToNormal(String input) {
-    return input
-        .split('_') // Tách chuỗi bằng dấu gạch dưới
-        .map(
-          (word) => word[0].toUpperCase() + word.substring(1),
-        ) // Viết hoa chữ cái đầu mỗi từ
-        .join(' '); // Ghép lại các từ bằng dấu cách
-  }
-
   void onTapToWordSearch() {
-    Get.toNamed(WordSearchScreen.routeName,
-        arguments: WordSearchScreenArgs(wordList: wordList));
+    Get.toNamed(
+      WordSearchScreen.routeName,
+      arguments: WordSearchScreenArgs(wordList: wordList),
+    );
   }
 
   // _calculateLessonsWords() {

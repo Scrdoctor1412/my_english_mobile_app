@@ -1,7 +1,7 @@
 import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/data/models/word.dart';
 import 'package:englens/src/data/repositories/user_words_repository.dart';
-import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/core/theme/theme_primary.dart';
 import 'package:englens/src/ui/screens/tabs/tabs_screen.dart';
 import 'package:englens/src/ui/screens/tabs/tabs_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/flashcards/flashcards_screen.dart';
@@ -11,7 +11,7 @@ import 'package:englens/src/ui/widget/my_wordlists/word_list/word_list_edit_scre
 import 'package:englens/src/ui/widget/my_wordlists/word_list/word_list_edit_screen/word_list_edit_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen_viewmodel.dart';
-import 'package:englens/src/utils/helper.dart';
+import 'package:englens/src/core/utils/helper.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:get/get_navigation/src/extension_navigation.dart';
@@ -58,8 +58,9 @@ class WordListScreenViewmodel extends GetViewModelBase {
   }
 
   void initData() async {
-    var res =
-        await _userWordsRepository.getAllUsersWords(wordListId: wordListId);
+    var res = await _userWordsRepository.getAllUsersWords(
+      wordListId: wordListId,
+    );
     wordList = res;
     wordSelected = List.generate(wordList.length, (index) => false);
     isLoading = false;
@@ -77,14 +78,20 @@ class WordListScreenViewmodel extends GetViewModelBase {
 
   void onAcceptSelect() {
     if (fromScreen == ToWordListFromScreen.neutral) {
-      var listWordRes =
-          longPressSelectIndex.map((index) => wordList[index]).toList();
-      Get.toNamed(FlashcardsScreen.routeName,
-          arguments: FlashcardsScreenArgs(
-              title: "My word list", wordList: listWordRes));
+      var listWordRes = longPressSelectIndex
+          .map((index) => wordList[index])
+          .toList();
+      Get.toNamed(
+        FlashcardsScreen.routeName,
+        arguments: FlashcardsScreenArgs(
+          title: "My word list",
+          wordList: listWordRes,
+        ),
+      );
     } else {
-      var listWordRes =
-          longPressSelectIndex.map((index) => wordList[index]).toList();
+      var listWordRes = longPressSelectIndex
+          .map((index) => wordList[index])
+          .toList();
       Get.back(result: listWordRes);
     }
   }
@@ -111,18 +118,14 @@ class WordListScreenViewmodel extends GetViewModelBase {
   void onTapToWordDetails(Word word) {
     Get.toNamed(
       WordDetailsScreen.routeName,
-      arguments: WordDetailsScreenViewmodelArgs(
-        onlyWord: [word],
-      ),
+      arguments: WordDetailsScreenViewmodelArgs(onlyWord: [word]),
     );
   }
 
   void onTapEditWord(int index) {
     Get.toNamed(
       WordListEditScreen.routeName,
-      arguments: WordListEditScreenArgs(
-        word: wordList[index],
-      ),
+      arguments: WordListEditScreenArgs(word: wordList[index]),
     );
   }
 
@@ -141,9 +144,13 @@ class WordListScreenViewmodel extends GetViewModelBase {
       onAccept: () async {
         Get.back();
         ShowLoadingDialog.showLoadingDialog(
-            context: context!, loadingText: "Deleting...");
+          context: context!,
+          loadingText: "Deleting...",
+        );
         var res = await _userWordsRepository.deleteWord(
-            wordId: wordList[index].id!, wordListId: wordListId);
+          wordId: wordList[index].id!,
+          wordListId: wordListId,
+        );
         if (res) {
           ShowLoadingDialog.hideLoadingDialog(context: context!);
           ScaffoldMessenger.of(context!).showSnackBar(

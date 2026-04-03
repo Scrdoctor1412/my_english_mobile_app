@@ -1,26 +1,39 @@
 import 'package:dartz/dartz.dart';
 import 'package:englens/src/data/models/user_internal.dart';
-import 'package:englens/src/service/firebase/auth/auth_service.dart';
+import 'package:englens/src/core/service/firebase/auth/auth_service.dart';
 import 'package:englens/src/ui/screens/english_handbook/english_handbook_screen.dart';
 import 'package:englens/src/ui/screens/english_handbook/english_handbook_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/home/leitner_daily_words/leitner_box/leitner_box_screen.dart';
 import 'package:englens/src/ui/screens/home/leitner_daily_words/leitner_daily_words_screen.dart';
 import 'package:englens/src/ui/screens/home/progress_chart/progress_chart_screen.dart';
 import 'package:englens/src/ui/screens/login/register/register_screen.dart';
+import 'package:englens/src/ui/screens/login/register/register_screen_viewmodel.dart';
 
 import 'package:englens/src/ui/screens/study/expressions/expressions_screen.dart';
+import 'package:englens/src/ui/screens/study/expressions/expressions_screen_viewmode.dart';
 import 'package:englens/src/ui/screens/study/grammar/grammar_lessons/grammar_lessons_screen.dart';
+import 'package:englens/src/ui/screens/study/grammar/grammar_lessons/grammar_lessons_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/study/grammar/grammar_lessons_details/grammar_lessons_details_screen.dart';
+import 'package:englens/src/ui/screens/study/grammar/grammar_lessons_details/grammar_lessons_details_screen_viewmodel.dart';
 
 import 'package:englens/src/ui/screens/study/grammar/grammar_screen.dart';
+import 'package:englens/src/ui/screens/study/grammar/grammar_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/study/learning_category/learning_category_lessons/learning_category_lessons_screen.dart';
 import 'package:englens/src/ui/screens/study/learning_category/learning_category_lessons/learning_category_lessons_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/study/learning_category/learning_category_screen.dart';
+import 'package:englens/src/ui/screens/study/learning_category/learning_category_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/study/pronunciation/pronunciation_screen.dart';
+import 'package:englens/src/ui/screens/study/pronunciation/pronunciation_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/study/random_flashcards/card_deck_preparation/card_deck_preparation_screen.dart';
+import 'package:englens/src/ui/screens/study/random_flashcards/card_deck_preparation/card_deck_preparation_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/study/random_flashcards/random_flashcards_screen.dart';
+import 'package:englens/src/ui/screens/study/random_flashcards/random_flashcards_screen_viewmodel.dart';
 
 import 'package:englens/src/ui/screens/study/vocab/vocab_screen.dart';
+import 'package:englens/src/ui/screens/study/vocab/vocab_screen_viewmodel.dart';
+import 'package:englens/src/ui/screens/home/leitner_daily_words/leitner_daily_words_screen_viewmodel.dart';
+import 'package:englens/src/ui/screens/home/leitner_daily_words/leitner_box/leitner_box_screen_viewmodel.dart';
+import 'package:englens/src/ui/screens/home/progress_chart/progress_chart_screen_viewmode.dart';
 import 'package:englens/src/ui/widget/complete/complete_screen.dart';
 import 'package:englens/src/ui/widget/complete/difficult_words/difficult_words_screen.dart';
 import 'package:englens/src/ui/widget/flashcards/flashcards_screen.dart';
@@ -51,18 +64,20 @@ import 'package:englens/src/ui/screens/tabs/tabs_screen_viewmodel.dart';
 // import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
+import 'package:englens/src/navigation/auth_middleware.dart';
+
 class AppRouter {
   static String INITIAL = TabsScreen.routeName;
 
-  static navigateDefaultScreen() async {
-    UserInternal userInternal = UserInternal();
-    AuthService authController = Get.put(AuthService());
-    if (authController.user.value != null) {
-      AppRouter.INITIAL = TabsScreen.routeName;
-    } else {
-      AppRouter.INITIAL = LoginScreen.routeName;
-    }
-  }
+  // static navigateDefaultScreen() async {
+  //   UserInternal userInternal = UserInternal();
+  //   AuthService authController = Get.put(AuthService());
+  //   if (authController.user.value != null) {
+  //     AppRouter.INITIAL = TabsScreen.routeName;
+  //   } else {
+  //     AppRouter.INITIAL = LoginScreen.routeName;
+  //   }
+  // }
 
   static final List<GetPage> routes = [
     //Login Screen
@@ -70,16 +85,19 @@ class AppRouter {
       name: LoginScreen.routeName,
       page: () => LoginScreen(),
       binding: GetBinding(LoginScreen.routeName),
+      middlewares: [LoginMiddleware()],
     ),
     GetPage(
       name: ForgetPasswordScreen.routeName,
       page: () => ForgetPasswordScreen(),
       binding: GetBinding(ForgetPasswordScreen.routeName),
+      middlewares: [LoginMiddleware()],
     ),
     GetPage(
       name: RegisterScreen.routeName,
       page: () => RegisterScreen(),
       binding: GetBinding(RegisterScreen.routeName),
+      middlewares: [LoginMiddleware()],
     ),
 
     //Tabs screen
@@ -87,6 +105,7 @@ class AppRouter {
       name: TabsScreen.routeName,
       page: () => TabsScreen(),
       binding: GetBinding(TabsScreen.routeName),
+      middlewares: [AuthMiddleware()],
     ),
 
     //English handbook screen
@@ -273,7 +292,7 @@ class GetBinding extends Bindings {
     // TODO: implement dependencies
     switch (routeName) {
       case LoginScreen.routeName:
-        // Get.lazyPut(() => LoginScreenViewmodel());
+        Get.lazyPut(() => LoginScreenViewmodel());
         Get.lazyPut(() => AuthService());
         break;
       case ForgetPasswordScreen.routeName:
@@ -295,6 +314,48 @@ class GetBinding extends Bindings {
         break;
       case LessonDetailsScreen.routeName:
         Get.lazyPut(() => LessonsDetailsScreenViewmodel());
+        break;
+      case RegisterScreen.routeName:
+        Get.lazyPut(() => RegisterScreenViewmodel());
+        break;
+      case VocabScreen.routeName:
+        Get.lazyPut(() => VocabScreenViewmodel());
+        break;
+      case PronunciationScreen.routeName:
+        Get.lazyPut(() => PronunciationScreenViewmodel());
+        break;
+      case GrammarScreen.routeName:
+        Get.lazyPut(() => GrammarScreenViewmodel());
+        break;
+      case GrammarLessonsScreen.routeName:
+        Get.lazyPut(() => GrammarLessonsScreenViewmodel());
+        break;
+      case GrammarLessonsDetailsScreen.routeName:
+        Get.lazyPut(() => GrammarLessonsDetailsScreenViewmodel());
+        break;
+      case ExpressionsScreen.routeName:
+        Get.lazyPut(() => ExpressionsScreenViewModel());
+        break;
+      case LearningCategoryScreen.routeName:
+        Get.lazyPut(() => LearningCategoryScreenViewModel());
+        break;
+      case LearningCategoryLessonsScreen.routeName:
+        Get.lazyPut(() => LearningCategoryLessonsScreenViewmodel());
+        break;
+      case RandomFlashcardsScreen.routeName:
+        Get.lazyPut(() => RandomFlashcardsScreenViewModel());
+        break;
+      case CardDeckPreparationScreen.routeName:
+        Get.lazyPut(() => CardDeckPreparationScreenViewmodel());
+        break;
+      case LeitnerDailyWordsScreen.routeName:
+        Get.lazyPut(() => LeitnerDailyWordsScreenViewModel());
+        break;
+      case LeitnerBoxScreen.routeName:
+        Get.lazyPut(() => LeitnerBoxScreenViewmodel());
+        break;
+      case ProgressChartScreen.routeName:
+        Get.lazyPut(() => ProgressChartScreenViewmodel());
         break;
     }
   }

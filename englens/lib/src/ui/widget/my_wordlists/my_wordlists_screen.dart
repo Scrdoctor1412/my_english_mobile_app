@@ -1,9 +1,9 @@
 import 'package:englens/src/data/models/user_word_list.dart';
-import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/core/theme/theme_primary.dart';
 import 'package:englens/src/ui/screens/settings/widget/settings_item_content_widget.dart';
 import 'package:englens/src/ui/screens/settings/widget/settings_item_widget.dart';
 import 'package:englens/src/ui/widget/my_wordlists/my_wordlists_screen_viewmodel.dart';
-import 'package:englens/src/utils/helper.dart';
+import 'package:englens/src/core/utils/helper.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
 import 'package:get/get.dart';
@@ -21,10 +21,7 @@ class MyWordlistsScreen extends StatelessWidget {
         controller.context = context;
         _appBar() {
           return AppBar(
-            title: Text(
-              'My Word list',
-              style: TextStyle(color: Colors.black),
-            ),
+            title: Text('My Word list', style: TextStyle(color: Colors.black)),
             centerTitle: true,
             backgroundColor: Colors.transparent,
             foregroundColor: Colors.black,
@@ -36,9 +33,7 @@ class MyWordlistsScreen extends StatelessWidget {
           return Container(
             width: MediaQuery.of(context).size.width,
             // height: MediaQuery.of(context).size.height,
-            decoration: BoxDecoration(
-              color: Colors.white,
-            ),
+            decoration: BoxDecoration(color: Colors.white),
             child: Column(
               children: [
                 SizedBox(
@@ -76,13 +71,14 @@ class MyWordlistsScreen extends StatelessWidget {
                 SlidableAction(
                   onPressed: (context) {
                     controller.onTapDeleteWordList(
-                        controller.userWordList[index].id!);
+                      controller.userWordList[index].id!,
+                    );
                   },
                   backgroundColor: Colors.red,
                   foregroundColor: Colors.white,
                   icon: Icons.delete,
                   label: 'Delete',
-                )
+                ),
               ],
             ),
             child: SettingsItemContentWidget(
@@ -90,17 +86,19 @@ class MyWordlistsScreen extends StatelessWidget {
               backgroundColor: Colors.white,
               trailing: IconButton(
                 onPressed: () {
-                  controller.onTapToWordList(controller.userWordList[index].id!,
-                      controller.userWordList[index].name);
+                  controller.onTapToWordList(
+                    controller.userWordList[index].id!,
+                    controller.userWordList[index].name,
+                  );
                 },
-                icon: Icon(
-                  Icons.chevron_right,
-                ),
+                icon: Icon(Icons.chevron_right),
               ),
               title: controller.userWordList[index].name,
               onTap: () {
-                controller.onTapToWordList(controller.userWordList[index].id!,
-                    controller.userWordList[index].name);
+                controller.onTapToWordList(
+                  controller.userWordList[index].id!,
+                  controller.userWordList[index].name,
+                );
               },
             ),
           );
@@ -118,9 +116,9 @@ class MyWordlistsScreen extends StatelessWidget {
                   collapsedShape: RoundedRectangleBorder(),
                   shape: RoundedRectangleBorder(),
                   childrenPadding: const EdgeInsets.symmetric(
-                      // vertical: 12,
-                      // horizontal: 16,
-                      ),
+                    // vertical: 12,
+                    // horizontal: 16,
+                  ),
                 ),
                 gradient: [
                   Colors.grey.shade400.withAlpha(150),
@@ -130,61 +128,55 @@ class MyWordlistsScreen extends StatelessWidget {
                 children: controller.isLoading
                     ? [CircularProgressIndicator()]
                     : controller.userWordList.length > 0
-                        ? [
-                            ...List.generate(
-                              controller.userWordList.length,
-                              (index) => _wordListTabItems(index),
+                    ? [
+                        ...List.generate(
+                          controller.userWordList.length,
+                          (index) => _wordListTabItems(index),
+                        ),
+                        SettingsItemContentWidget(
+                          backgroundColor: Colors.white,
+                          title: "hi",
+                          child: InkWell(
+                            onTap: () {
+                              controller.onTapAddWordList();
+                            },
+                            child: Container(
+                              padding: const EdgeInsets.only(bottom: 12),
+                              color: Colors.white,
+                              width: MediaQuery.of(context).size.width,
+                              height: 35,
+                              child: Icon(Icons.add),
                             ),
-                            SettingsItemContentWidget(
-                              backgroundColor: Colors.white,
-                              title: "hi",
-                              child: InkWell(
-                                onTap: () {
-                                  controller.onTapAddWordList();
-                                },
-                                child: Container(
-                                  padding: const EdgeInsets.only(bottom: 12),
-                                  color: Colors.white,
-                                  width: MediaQuery.of(context).size.width,
-                                  height: 35,
-                                  child: Icon(
-                                    Icons.add,
-                                  ),
-                                ),
-                              ),
+                          ),
+                        ),
+                      ]
+                    : [
+                        SettingsItemContentWidget(
+                          title: "lmao",
+                          child: _emptyWidget(),
+                        ),
+                        SettingsItemContentWidget(
+                          backgroundColor: Colors.white,
+                          title: "hi",
+                          child: InkWell(
+                            onTap: () {
+                              controller.onTapAddWordList();
+                            },
+                            child: Container(
+                              padding: const EdgeInsets.only(bottom: 12),
+                              color: Colors.white,
+                              width: MediaQuery.of(context).size.width,
+                              height: 35,
+                              child: Icon(Icons.add),
                             ),
-                          ]
-                        : [
-                            SettingsItemContentWidget(
-                              title: "lmao",
-                              child: _emptyWidget(),
-                            ),
-                            SettingsItemContentWidget(
-                              backgroundColor: Colors.white,
-                              title: "hi",
-                              child: InkWell(
-                                onTap: () {
-                                  controller.onTapAddWordList();
-                                },
-                                child: Container(
-                                  padding: const EdgeInsets.only(bottom: 12),
-                                  color: Colors.white,
-                                  width: MediaQuery.of(context).size.width,
-                                  height: 35,
-                                  child: Icon(
-                                    Icons.add,
-                                  ),
-                                ),
-                              ),
-                            ),
-                          ],
+                          ),
+                        ),
+                      ],
               ),
               // Divider(
               //   color: ThemePrimary.grey.withAlpha(100),
               // ),
-              const SizedBox(
-                height: 6,
-              ),
+              const SizedBox(height: 6),
               SettingsItemWidget(
                 title: "Bookmark",
                 onTap: () => controller.onTapToBookmark(),

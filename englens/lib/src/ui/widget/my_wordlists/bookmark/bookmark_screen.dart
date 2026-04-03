@@ -1,11 +1,12 @@
 import 'package:auto_size_text/auto_size_text.dart';
-import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/core/extensions/string_extensions.dart';
+import 'package:englens/src/core/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/flashcards/flashcards_screen.dart';
 import 'package:englens/src/ui/widget/flashcards/flashcards_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/my_wordlists/bookmark/bookmark_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen_viewmodel.dart';
-import 'package:englens/src/utils/helper.dart';
+import 'package:englens/src/core/utils/helper.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
 import 'package:get/get.dart';
@@ -25,10 +26,7 @@ class BookmarkScreen extends StatelessWidget {
 
         _appBar() {
           return AppBar(
-            title: Text(
-              'Bookmarks',
-              style: TextStyle(color: Colors.black),
-            ),
+            title: Text('Bookmarks', style: TextStyle(color: Colors.black)),
             backgroundColor: Colors.transparent,
             foregroundColor: Colors.black,
             bottom: PreferredSize(
@@ -37,8 +35,10 @@ class BookmarkScreen extends StatelessWidget {
                 borderRadius: const BorderRadius.all(Radius.circular(8)),
                 child: Container(
                   height: 40,
-                  margin:
-                      const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
+                  margin: const EdgeInsets.symmetric(
+                    horizontal: 20,
+                    vertical: 12,
+                  ),
                   // padding: const EdgeInsets.symmetric(vertical: 12),
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(8),
@@ -59,9 +59,7 @@ class BookmarkScreen extends StatelessWidget {
                         // child: Text('Books'),
                         text: "Books",
                       ),
-                      Tab(
-                        text: "Lessons",
-                      ),
+                      Tab(text: "Lessons"),
                     ],
                   ),
                 ),
@@ -75,9 +73,7 @@ class BookmarkScreen extends StatelessWidget {
           return Container(
             width: MediaQuery.of(context).size.width,
             // height: MediaQuery.of(context).size.height,
-            decoration: BoxDecoration(
-              color: Colors.white,
-            ),
+            decoration: BoxDecoration(color: Colors.white),
             child: Column(
               children: [
                 SizedBox(
@@ -118,16 +114,15 @@ class BookmarkScreen extends StatelessWidget {
                       "assets/images/learning_category/${controller.bookmarkedBooks[index].title}.jpg",
                     ),
                   ),
-                  const SizedBox(
-                    width: 12,
-                  ),
+                  const SizedBox(width: 12),
                   Expanded(
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          snakeCaseToNormal(
-                              controller.bookmarkedBooks[index].title),
+                          controller.bookmarkedBooks[index].title
+                              .snakeCaseToNormal(),
+
                           style: TextStyle(
                             fontSize: 18,
                             fontWeight: FontWeight.w500,
@@ -140,11 +135,10 @@ class BookmarkScreen extends StatelessWidget {
                               Icons.menu_book_rounded,
                               color: ThemePrimary.successGreen,
                             ),
-                            const SizedBox(
-                              width: 8,
-                            ),
+                            const SizedBox(width: 8),
                             Text(
-                                '${controller.bookmarkedBooks[index].lessons!.length} Lesson'),
+                              '${controller.bookmarkedBooks[index].lessons!.length} Lesson',
+                            ),
                             const SizedBox(width: 12),
                           ],
                         ),
@@ -158,10 +152,11 @@ class BookmarkScreen extends StatelessWidget {
         }
 
         _LessonLearnFlow(int index) {
-          __lessonLearnItem(
-              {required String title,
-              required String assetImagePath,
-              required VoidCallback onTap}) {
+          __lessonLearnItem({
+            required String title,
+            required String assetImagePath,
+            required VoidCallback onTap,
+          }) {
             return GestureDetector(
               onTap: onTap,
               child: Column(
@@ -197,17 +192,12 @@ class BookmarkScreen extends StatelessWidget {
           }
 
           return Container(
-            padding: const EdgeInsets.symmetric(
-              vertical: 12,
-              horizontal: 12,
-            ),
+            padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 12),
             child: Row(
               children: [
                 Expanded(
-                    child: Divider(
-                  thickness: 2,
-                  color: ThemePrimary.grey,
-                )),
+                  child: Divider(thickness: 2, color: ThemePrimary.grey),
+                ),
                 __lessonLearnItem(
                   title: 'Review',
                   assetImagePath: 'assets/icons/review_blue.png',
@@ -215,18 +205,16 @@ class BookmarkScreen extends StatelessWidget {
                     Get.toNamed(
                       WordDetailsScreen.routeName,
                       arguments: WordDetailsScreenViewmodelArgs(
-                          words: controller.bookmarkedLessons[index].wordList!,
-                          lessonTitle:
-                              controller.bookmarkedLessons[index].title,
-                          isFromLessonDetailsScreen: true),
+                        words: controller.bookmarkedLessons[index].wordList!,
+                        lessonTitle: controller.bookmarkedLessons[index].title,
+                        isFromLessonDetailsScreen: true,
+                      ),
                     );
                   },
                 ),
                 Expanded(
-                    child: Divider(
-                  thickness: 2,
-                  color: ThemePrimary.grey,
-                )),
+                  child: Divider(thickness: 2, color: ThemePrimary.grey),
+                ),
                 __lessonLearnItem(
                   title: 'Flashcards',
                   assetImagePath: 'assets/icons/flashcards_blue.png',
@@ -241,10 +229,8 @@ class BookmarkScreen extends StatelessWidget {
                   },
                 ),
                 Expanded(
-                    child: Divider(
-                  thickness: 2,
-                  color: ThemePrimary.grey,
-                )),
+                  child: Divider(thickness: 2, color: ThemePrimary.grey),
+                ),
               ],
             ),
           );
@@ -279,26 +265,23 @@ class BookmarkScreen extends StatelessWidget {
                     children: [
                       Text(
                         controller.bookmarkedLessonTopicTitle[index],
-                        style: TextStyle(
-                          color: Colors.blue,
-                        ),
+                        style: TextStyle(color: Colors.blue),
                       ),
                       Text(
-                        snakeCaseToNormal(
-                          controller.bookmarkedLessons[index].lesson,
-                        ),
+                        controller.bookmarkedLessons[index].lesson
+                            .snakeCaseToNormal(),
 
                         // 'Lesson ${index + 1}',
-                        style: TextStyle(
-                          fontSize: 15,
-                        ),
+                        style: TextStyle(fontSize: 15),
                       ),
                       // const SizedBox(height: 8),
                       AutoSizeText(
                         // '${controller.lessons[0].wordList?.length} words',
                         controller.bookmarkedLessons[index].title,
                         style: TextStyle(
-                            fontSize: 16, fontWeight: FontWeight.w500),
+                          fontSize: 16,
+                          fontWeight: FontWeight.w500,
+                        ),
                         overflow: TextOverflow.ellipsis,
                         maxLines: 2,
                       ),
@@ -332,9 +315,7 @@ class BookmarkScreen extends StatelessWidget {
                     ],
                   ),
                 ),
-                children: [
-                  _LessonLearnFlow(index),
-                ],
+                children: [_LessonLearnFlow(index)],
               ),
             ),
           );
@@ -363,101 +344,81 @@ class BookmarkScreen extends StatelessWidget {
           return controller.isLoading
               ? CircularProgressIndicator()
               : controller.bookmarkedBooks.isEmpty
-                  ? Center(child: _emptyWidget())
-                  : Padding(
-                      padding: const EdgeInsets.only(
-                        top: 32,
-                        left: 12,
-                        right: 12,
-                      ),
-                      child: ListView.separated(
-                        itemBuilder: (context, index) {
-                          return Slidable(
-                            endActionPane: ActionPane(
-                              motion: ScrollMotion(),
-                              children: [
-                                SlidableAction(
-                                  onPressed: (context) {
-                                    // controller.onTapDeleteWordList(
-                                    //     controller.userWordList[index].id!);
-                                    controller.onTapDeleteBookmarkBook(index);
-                                  },
-                                  backgroundColor: Colors.red,
-                                  foregroundColor: Colors.white,
-                                  icon: Icons.delete,
-                                  label: 'Delete',
-                                  spacing: 2,
-                                )
-                              ],
+              ? Center(child: _emptyWidget())
+              : Padding(
+                  padding: const EdgeInsets.only(top: 32, left: 12, right: 12),
+                  child: ListView.separated(
+                    itemBuilder: (context, index) {
+                      return Slidable(
+                        endActionPane: ActionPane(
+                          motion: ScrollMotion(),
+                          children: [
+                            SlidableAction(
+                              onPressed: (context) {
+                                // controller.onTapDeleteWordList(
+                                //     controller.userWordList[index].id!);
+                                controller.onTapDeleteBookmarkBook(index);
+                              },
+                              backgroundColor: Colors.red,
+                              foregroundColor: Colors.white,
+                              icon: Icons.delete,
+                              label: 'Delete',
+                              spacing: 2,
                             ),
-                            child: _bookmarkBooksItem(index),
-                          );
-                        },
-                        separatorBuilder: (context, index) => SizedBox(
-                          height: 20,
+                          ],
                         ),
-                        itemCount: controller.bookmarkedBooks.length,
-                      ),
-                    );
+                        child: _bookmarkBooksItem(index),
+                      );
+                    },
+                    separatorBuilder: (context, index) => SizedBox(height: 20),
+                    itemCount: controller.bookmarkedBooks.length,
+                  ),
+                );
         }
 
         _lessonsTab() {
           return controller.isLoading
               ? CircularProgressIndicator()
               : controller.bookmarkedLessons.isEmpty
-                  ? Center(child: _emptyWidget())
-                  : Padding(
-                      padding: const EdgeInsets.only(
-                        top: 32,
-                        left: 12,
-                        right: 12,
-                      ),
-                      child: ListView.separated(
-                        itemBuilder: (context, index) {
-                          return Slidable(
-                            endActionPane: ActionPane(
-                              motion: ScrollMotion(),
-                              children: [
-                                SlidableAction(
-                                  onPressed: (context) {
-                                    // controller.onTapDeleteWordList(
-                                    //     controller.userWordList[index].id!);
-                                    controller.onTapDeleteBookmarkLesson(index);
-                                  },
-                                  backgroundColor: Colors.red,
-                                  foregroundColor: Colors.white,
-                                  icon: Icons.delete,
-                                  label: 'Delete',
-                                  spacing: 2,
-                                )
-                              ],
+              ? Center(child: _emptyWidget())
+              : Padding(
+                  padding: const EdgeInsets.only(top: 32, left: 12, right: 12),
+                  child: ListView.separated(
+                    itemBuilder: (context, index) {
+                      return Slidable(
+                        endActionPane: ActionPane(
+                          motion: ScrollMotion(),
+                          children: [
+                            SlidableAction(
+                              onPressed: (context) {
+                                // controller.onTapDeleteWordList(
+                                //     controller.userWordList[index].id!);
+                                controller.onTapDeleteBookmarkLesson(index);
+                              },
+                              backgroundColor: Colors.red,
+                              foregroundColor: Colors.white,
+                              icon: Icons.delete,
+                              label: 'Delete',
+                              spacing: 2,
                             ),
-                            child: _bookmarkLessonItem(index),
-                          );
-                        },
-                        separatorBuilder: (context, index) => SizedBox(
-                          height: 20,
+                          ],
                         ),
-                        itemCount: controller.bookmarkedLessons.length,
-                      ),
-                    );
+                        child: _bookmarkLessonItem(index),
+                      );
+                    },
+                    separatorBuilder: (context, index) => SizedBox(height: 20),
+                    itemCount: controller.bookmarkedLessons.length,
+                  ),
+                );
         }
 
         _body() {
-          return TabBarView(
-            children: [
-              _booksTab(),
-              _lessonsTab(),
-            ],
-          );
+          return TabBarView(children: [_booksTab(), _lessonsTab()]);
         }
 
         return DefaultTabController(
           length: 2,
-          child: Scaffold(
-            appBar: _appBar(),
-            body: _body(),
-          ),
+          child: Scaffold(appBar: _appBar(), body: _body()),
         );
       },
     );

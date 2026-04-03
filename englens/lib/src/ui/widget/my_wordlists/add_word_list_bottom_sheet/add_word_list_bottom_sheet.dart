@@ -1,4 +1,4 @@
-import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/core/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/my_wordlists/add_word_list_bottom_sheet/add_word_list_bottom_sheet_viewmodel.dart';
 import 'package:flutter/material.dart';
 import 'package:get/state_manager.dart';
@@ -18,8 +18,8 @@ class AddWordListBottomSheet extends StatelessWidget {
             width: MediaQuery.of(context).size.width,
             // height: MediaQuery.of(context).size.height,
             decoration: BoxDecoration(
-                // color: Colors.white,
-                ),
+              // color: Colors.white,
+            ),
             child: Column(
               children: [
                 SizedBox(
@@ -53,10 +53,11 @@ class AddWordListBottomSheet extends StatelessWidget {
                 centerTitle: true,
                 actions: [
                   IconButton(
-                      onPressed: () {
-                        controller.onTapAddWordList();
-                      },
-                      icon: Icon(Icons.add)),
+                    onPressed: () {
+                      controller.onTapAddWordList();
+                    },
+                    icon: Icon(Icons.add),
+                  ),
                   IconButton(
                     onPressed: () {
                       Navigator.of(context).pop();
@@ -72,45 +73,43 @@ class AddWordListBottomSheet extends StatelessWidget {
               controller.isLoading
                   ? CircularProgressIndicator()
                   : controller.wordLists.isEmpty
-                      ? _emptyWidget()
-                      : Expanded(
-                          child: ListView.separated(
-                            padding: const EdgeInsets.symmetric(horizontal: 12),
-                            itemBuilder: (context, index) {
-                              return InkWell(
-                                onTap: () {
-                                  Navigator.of(context)
-                                      .pop(controller.wordLists[index].id);
-                                },
-                                child: SizedBox(
-                                  height: 50,
-                                  child: Row(
-                                    children: [
-                                      Icon(
-                                        Icons.folder,
-                                        color: ThemePrimary.grey,
-                                      ),
-                                      const SizedBox(width: 12),
-                                      Text(
-                                        controller.wordLists[index].name,
-                                        style: TextStyle(
-                                          fontWeight: FontWeight.w600,
-                                          fontSize: 18,
-                                        ),
-                                        overflow: TextOverflow.ellipsis,
-                                      ),
-                                    ],
-                                  ),
-                                ),
-                              );
+                  ? _emptyWidget()
+                  : Expanded(
+                      child: ListView.separated(
+                        padding: const EdgeInsets.symmetric(horizontal: 12),
+                        itemBuilder: (context, index) {
+                          return InkWell(
+                            onTap: () {
+                              Navigator.of(
+                                context,
+                              ).pop(controller.wordLists[index].id);
                             },
-                            separatorBuilder: (context, index) => Divider(
-                              color: ThemePrimary.grey.withAlpha(80),
-                              height: 20,
+                            child: SizedBox(
+                              height: 50,
+                              child: Row(
+                                children: [
+                                  Icon(Icons.folder, color: ThemePrimary.grey),
+                                  const SizedBox(width: 12),
+                                  Text(
+                                    controller.wordLists[index].name,
+                                    style: TextStyle(
+                                      fontWeight: FontWeight.w600,
+                                      fontSize: 18,
+                                    ),
+                                    overflow: TextOverflow.ellipsis,
+                                  ),
+                                ],
+                              ),
                             ),
-                            itemCount: controller.wordLists.length,
-                          ),
+                          );
+                        },
+                        separatorBuilder: (context, index) => Divider(
+                          color: ThemePrimary.grey.withAlpha(80),
+                          height: 20,
                         ),
+                        itemCount: controller.wordLists.length,
+                      ),
+                    ),
             ],
           ),
         );

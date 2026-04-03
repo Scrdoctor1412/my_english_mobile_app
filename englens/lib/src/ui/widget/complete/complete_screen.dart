@@ -1,4 +1,4 @@
-import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/core/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/complete/complete_screen_viewmodel.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -51,22 +51,22 @@ class CompleteScreen extends StatelessWidget {
                 const SizedBox(height: 12),
                 controller.type == CompleteScreenType.flashcard
                     ? controller.listMapWordIncorrectKeys.isNotEmpty
-                        ? TextButton(
-                            onPressed: () {
-                              controller.onTapToDifficultWords();
-                            },
-                            child: Row(
-                              mainAxisAlignment: MainAxisAlignment.center,
-                              children: [
-                                Text(
-                                  'See ${controller.listMapWordIncorrectKeys.length} difficult words',
-                                  style: TextStyle(fontSize: 22),
-                                ),
-                                Icon(Icons.chevron_right),
-                              ],
-                            ),
-                          )
-                        : SizedBox()
+                          ? TextButton(
+                              onPressed: () {
+                                controller.onTapToDifficultWords();
+                              },
+                              child: Row(
+                                mainAxisAlignment: MainAxisAlignment.center,
+                                children: [
+                                  Text(
+                                    'See ${controller.listMapWordIncorrectKeys.length} difficult words',
+                                    style: TextStyle(fontSize: 22),
+                                  ),
+                                  Icon(Icons.chevron_right),
+                                ],
+                              ),
+                            )
+                          : SizedBox()
                     : SizedBox(),
                 const SizedBox(height: 90),
                 if (controller.type != CompleteScreenType.leitnerBox) ...[
@@ -150,10 +150,7 @@ class CompleteScreen extends StatelessWidget {
             }
             controller.onGetBack();
           },
-          child: Scaffold(
-            appBar: _appBar(),
-            body: _body(),
-          ),
+          child: Scaffold(appBar: _appBar(), body: _body()),
         );
       },
     );

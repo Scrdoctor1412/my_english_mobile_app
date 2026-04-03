@@ -1,8 +1,8 @@
-import 'package:englens/src/constants/app_constants.dart';
+import 'package:englens/src/core/constants/app_constants.dart';
 import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/data/models/leitner_box.dart';
 import 'package:englens/src/data/models/word.dart';
-import 'package:englens/src/service/leitner_box_service.dart';
+import 'package:englens/src/core/service/leitner_box_service.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -55,8 +55,9 @@ class LeitnerBoxScreenViewmodel extends GetViewModelBase {
     //xóa khỏi preferences
     var listPrefs = prefs.getStringList(AppConstants.leitnerBoxPrefsKey) ?? [];
     if (listPrefs.isNotEmpty) {
-      var indexDuplicate =
-          listPrefs.indexWhere((element) => element == wordList[index].id);
+      var indexDuplicate = listPrefs.indexWhere(
+        (element) => element == wordList[index].id,
+      );
       // listPrefs.removeWhere((element) => element == wordList[index].id);
       if (indexDuplicate != -1) {
         listPrefs.removeAt(indexDuplicate);

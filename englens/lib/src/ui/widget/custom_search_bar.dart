@@ -1,4 +1,4 @@
-import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/core/theme/theme_primary.dart';
 import 'package:englens/src/ui/screens/home/word_search/word_search_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -29,39 +29,26 @@ class CustomSearchBar extends StatelessWidget {
                 color: ThemePrimary.grey,
                 fontWeight: FontWeight.w600,
               ),
-              suffixIcon: Icon(
-                Icons.search,
-                color: ThemePrimary.grey,
-              ),
+              suffixIcon: Icon(Icons.search, color: ThemePrimary.grey),
               disabledBorder: OutlineInputBorder(
                 borderRadius: BorderRadius.circular(8),
-                borderSide: BorderSide(
-                  color: Colors.transparent.withAlpha(0),
-                ),
+                borderSide: BorderSide(color: Colors.transparent.withAlpha(0)),
               ),
               focusedBorder: OutlineInputBorder(
                 borderRadius: BorderRadius.circular(8),
-                borderSide: BorderSide(
-                  color: Colors.transparent.withAlpha(0),
-                ),
+                borderSide: BorderSide(color: Colors.transparent.withAlpha(0)),
               ),
               enabledBorder: OutlineInputBorder(
                 borderRadius: BorderRadius.circular(8),
-                borderSide: BorderSide(
-                  color: Colors.transparent.withAlpha(0),
-                ),
+                borderSide: BorderSide(color: Colors.transparent.withAlpha(0)),
               ),
               errorBorder: OutlineInputBorder(
                 borderRadius: BorderRadius.circular(8),
-                borderSide: BorderSide(
-                  color: Colors.transparent.withAlpha(0),
-                ),
+                borderSide: BorderSide(color: Colors.transparent.withAlpha(0)),
               ),
               border: OutlineInputBorder(
                 borderRadius: BorderRadius.circular(8),
-                borderSide: BorderSide(
-                  color: Colors.transparent.withAlpha(0),
-                ),
+                borderSide: BorderSide(color: Colors.transparent.withAlpha(0)),
               ),
             ),
           ),

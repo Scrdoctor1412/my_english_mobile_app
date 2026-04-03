@@ -1,21 +1,21 @@
-import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/core/theme/theme_primary.dart';
+import 'package:englens/src/core/utils/helper.dart';
 import 'package:englens/src/ui/screens/settings/settings_screen_viewmodel.dart';
 import 'package:englens/src/ui/screens/settings/widget/settings_item_content_widget.dart';
 import 'package:englens/src/ui/screens/settings/widget/settings_item_widget.dart';
-import 'package:englens/src/utils/helper.dart';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
-class SettingsScreen extends StatelessWidget {
+class SettingsScreen extends GetView<SettingsScreenViewmodel> {
   static const routeName = '/settingsScreen';
   const SettingsScreen({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return GetBuilder<SettingsScreenViewmodel>(
-      init: SettingsScreenViewmodel(),
       builder: (controller) {
         controller.context = context;
         var screenWidth = MediaQuery.of(context).size.width;
@@ -24,97 +24,10 @@ class SettingsScreen extends StatelessWidget {
         _appBar() {
           return AppBar(
             toolbarHeight: 65,
-            title: Text(
-              'Settings',
-              style: TextStyle(fontSize: 32),
-            ),
+            title: Text('Settings', style: TextStyle(fontSize: 32)),
             automaticallyImplyLeading: false,
           );
         }
-
-        // _bodyContent() {
-        //   return Column(
-        //     spacing: 16,
-        //     children: [
-        //       SizedBox(
-        //         height: 120 * 1.5,
-        //         width: 120 * 1.5,
-        //         child: Image.asset(
-        //           'assets/icons/app_icon_color_white_2.png',
-        //           // scale: 1,
-        //           // fit: BoxFit,
-        //         ),
-        //       ),
-        //       SettingsItemWidget(
-        //         icon: Icons.settings,
-        //         title: 'General',
-        //         children: [
-        //           SettingsItemContentWidget(
-        //             title: 'Notification',
-        //             trailing: Switch(
-        //               value: controller.notificationSwitchValue,
-        //               inactiveThumbColor: ThemePrimary.grey,
-        //               inactiveTrackColor: ThemePrimary.grey.withAlpha(40),
-        //               trackOutlineColor:
-        //                   WidgetStateProperty.resolveWith<Color?>(
-        //                 (Set<WidgetState> states) {
-        //                   // if (states.contains(WidgetState.disabled)) {
-        //                   //   return Colors.orange.withOpacity(.48);
-        //                   // }
-        //                   return ThemePrimary.grey
-        //                       .withAlpha(0); // Use the default color.
-        //                 },
-        //               ),
-        //               onChanged: (value) {
-        //                 controller.onTapToggleNotification();
-        //               },
-        //             ),
-        //           ),
-        //           SettingsItemContentWidget(
-        //             title: 'Language',
-        //             trailing: IconButton(
-        //               onPressed: () {},
-        //               icon: Icon(
-        //                 Icons.chevron_right,
-        //               ),
-        //             ),
-        //           ),
-        //         ],
-        //       ),
-        //       SettingsItemWidget(
-        //         title: 'Account',
-        //         icon: Icons.person,
-        //       ),
-        //       SettingsItemWidget(
-        //         title: 'Security',
-        //         icon: Icons.verified_user,
-        //       ),
-        //       SettingsItemWidget(
-        //         title: 'Contact us',
-        //         icon: Icons.email,
-        //       ),
-        //       SettingsItemWidget(
-        //         title: 'Logout',
-        //         icon: Icons.logout,
-        //         showTrailingIcon: false,
-        //         isNotExpandable: true,
-        //         onTap: () {
-        //           // controller.signout();
-        //           showCustomAlertDialog(
-        //             context: context,
-        //             title: 'Alert',
-        //             content: 'Are you sure you want to logout?',
-        //             onAccept: () {
-        //               controller.signout();
-        //               Navigator.of(context).pop();
-        //             },
-        //           );
-        //         },
-        //         // trailing: ,
-        //       ),
-        //     ],
-        //   );
-        // }
 
         _bodyContent2() {
           return Column(
@@ -122,15 +35,10 @@ class SettingsScreen extends StatelessWidget {
               SizedBox(
                 height: 120 * 1.5,
                 width: 120 * 1.5,
-                child: Image.asset(
-                  'assets/icons/app_icon_color_white_2.png',
-                  // scale: 1,
-                  // fit: BoxFit,
-                ),
+                child: Image.asset('assets/icons/app_icon_color_white_2.png'),
               ),
               const SizedBox(height: 44),
               Container(
-                // height: screenHeight * 0.5,
                 width: screenWidth,
                 decoration: BoxDecoration(
                   color: Colors.white,
@@ -193,14 +101,10 @@ class SettingsScreen extends StatelessWidget {
                         ),
                       ],
                     ),
-                    // const Spacer(),
                     const SizedBox(height: 22),
-                    Divider(
-                      color: Colors.grey.withAlpha(120),
-                    ),
+                    Divider(color: Colors.grey.withAlpha(120)),
                     InkWell(
                       onTap: () {
-                        // controller.on
                         showCustomAlertDialog(
                           context: context,
                           title: 'Alert',
@@ -245,21 +149,12 @@ class SettingsScreen extends StatelessWidget {
                 ),
                 painter: RPSCustomPainter(),
               ),
-              Positioned(
-                top: 33,
-                right: 12,
-                left: 12,
-                // bottom: 30,
-                child: _bodyContent2(),
-              )
+              Positioned(top: 33, right: 12, left: 12, child: _bodyContent2()),
             ],
           );
         }
 
-        return Scaffold(
-          appBar: _appBar(),
-          body: _body(),
-        );
+        return Scaffold(appBar: _appBar(), body: _body());
       },
     );
   }
@@ -279,17 +174,26 @@ class RPSCustomPainter extends CustomPainter {
 
     Path path_0 = Path();
     path_0.moveTo(size.width * 0.0009921, size.height * -0.0004167);
-    path_0.quadraticBezierTo(size.width * -0.0002505, size.height * 0.2649521,
-        size.width * -0.0006647, size.height * 0.3534083);
+    path_0.quadraticBezierTo(
+      size.width * -0.0002505,
+      size.height * 0.2649521,
+      size.width * -0.0006647,
+      size.height * 0.3534083,
+    );
     path_0.cubicTo(
-        size.width * 0.3838790,
-        size.height * 0.2116917,
-        size.width * 0.6127183,
-        size.height * 0.4551292,
-        size.width * 0.9990079,
-        size.height * 0.2695833);
-    path_0.quadraticBezierTo(size.width * 0.9987599, size.height * 0.2020833,
-        size.width * 0.9980159, size.height * -0.0004167);
+      size.width * 0.3838790,
+      size.height * 0.2116917,
+      size.width * 0.6127183,
+      size.height * 0.4551292,
+      size.width * 0.9990079,
+      size.height * 0.2695833,
+    );
+    path_0.quadraticBezierTo(
+      size.width * 0.9987599,
+      size.height * 0.2020833,
+      size.width * 0.9980159,
+      size.height * -0.0004167,
+    );
 
     canvas.drawPath(path_0, paint_fill_0);
 

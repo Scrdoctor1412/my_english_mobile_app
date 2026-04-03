@@ -1,5 +1,5 @@
 import 'package:englens/src/core/base_view_model.dart';
-import 'package:englens/src/service/firebase/auth/auth_service.dart';
+import 'package:englens/src/core/service/firebase/auth/auth_service.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

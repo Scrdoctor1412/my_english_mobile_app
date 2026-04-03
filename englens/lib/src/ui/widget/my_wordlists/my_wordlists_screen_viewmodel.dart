@@ -2,12 +2,12 @@ import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/data/models/user_word_list.dart';
 import 'package:englens/src/data/models/word.dart';
 import 'package:englens/src/data/repositories/user_words_repository.dart';
-import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/core/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/loading_dialog.dart';
 import 'package:englens/src/ui/widget/my_wordlists/bookmark/bookmark_screen.dart';
 import 'package:englens/src/ui/widget/my_wordlists/word_list/word_list_screen.dart';
 import 'package:englens/src/ui/widget/my_wordlists/word_list/word_list_screen_viewmodel.dart';
-import 'package:englens/src/utils/helper.dart';
+import 'package:englens/src/core/utils/helper.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -38,8 +38,10 @@ class MyWordlistsScreenViewmodel extends GetViewModelBase {
   void onTapToWordList(String wordListId, String title) async {
     // List<Word> wordList =
     //     await _userWordsRepository.getAllUsersWords(wordListId: wordListId);
-    Get.toNamed(WordListScreen.routeName,
-        arguments: WordListScreenArgs(wordListId: wordListId, title: title));
+    Get.toNamed(
+      WordListScreen.routeName,
+      arguments: WordListScreenArgs(wordListId: wordListId, title: title),
+    );
   }
 
   void onTapToBookmark() {
@@ -50,10 +52,13 @@ class MyWordlistsScreenViewmodel extends GetViewModelBase {
     var name = await showGetTextInputDialog(context: context!);
     if (name != "") {
       ShowLoadingDialog.showLoadingDialog(
-          context: context!, loadingText: "Adding...");
+        context: context!,
+        loadingText: "Adding...",
+      );
       UserWordList userWordList = UserWordList(name: name, wordList: []);
-      var res =
-          await _userWordsRepository.addWordList(userWordList: userWordList);
+      var res = await _userWordsRepository.addWordList(
+        userWordList: userWordList,
+      );
       if (res) {
         ShowLoadingDialog.hideLoadingDialog(context: context!);
         ScaffoldMessenger.of(context!).showSnackBar(
@@ -85,11 +90,14 @@ class MyWordlistsScreenViewmodel extends GetViewModelBase {
     var name = await showGetTextInputDialog(context: context!);
     if (name != "") {
       ShowLoadingDialog.showLoadingDialog(
-          context: context!, loadingText: "Adding...");
+        context: context!,
+        loadingText: "Adding...",
+      );
       // UserWordList userWordList = UserWordList(name: name, wordList: []);
       var userWord = userWordList[index].copyWith(name: name);
-      var res =
-          await _userWordsRepository.updateWordList(userWordList: userWord);
+      var res = await _userWordsRepository.updateWordList(
+        userWordList: userWord,
+      );
       if (res) {
         ShowLoadingDialog.hideLoadingDialog(context: context!);
         ScaffoldMessenger.of(context!).showSnackBar(
@@ -126,11 +134,14 @@ class MyWordlistsScreenViewmodel extends GetViewModelBase {
       onAccept: () async {
         Get.back();
         ShowLoadingDialog.showLoadingDialog(
-            context: context!, loadingText: "Deleting...");
+          context: context!,
+          loadingText: "Deleting...",
+        );
         // var res = await _userWordsRepository.deleteWordList(wordListId);
         try {
-          var res =
-              await _userWordsRepository.deleteWordList(wordListId: wordListId);
+          var res = await _userWordsRepository.deleteWordList(
+            wordListId: wordListId,
+          );
           if (res) {
             ShowLoadingDialog.hideLoadingDialog(context: context!);
             ScaffoldMessenger.of(context!).showSnackBar(

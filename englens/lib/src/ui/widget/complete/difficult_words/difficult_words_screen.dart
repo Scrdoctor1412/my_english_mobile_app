@@ -1,5 +1,5 @@
 import 'package:englens/src/data/models/word.dart';
-import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/core/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/complete/difficult_words/difficult_words_screen_viewmodel.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
@@ -19,9 +19,7 @@ class DifficultWordsScreen extends StatelessWidget {
         var screenHeight = MediaQuery.of(context).size.height;
 
         _appBar() {
-          return AppBar(
-            title: Text("Difficult words"),
-          );
+          return AppBar(title: Text("Difficult words"));
         }
 
         _wordItem({required Word word, required int index}) {
@@ -30,11 +28,7 @@ class DifficultWordsScreen extends StatelessWidget {
               controller.onTapToWordDetails(word);
             },
             child: Container(
-              padding: const EdgeInsets.only(
-                right: 12,
-                left: 12,
-                top: 10,
-              ),
+              padding: const EdgeInsets.only(right: 12, left: 12, top: 10),
               decoration: BoxDecoration(
                 color: Colors.white,
                 borderRadius: index == 0
@@ -43,11 +37,11 @@ class DifficultWordsScreen extends StatelessWidget {
                         topRight: Radius.circular(12),
                       )
                     : index == controller.wordList.length - 1
-                        ? BorderRadius.only(
-                            bottomRight: Radius.circular(12),
-                            bottomLeft: Radius.circular(12),
-                          )
-                        : null,
+                    ? BorderRadius.only(
+                        bottomRight: Radius.circular(12),
+                        bottomLeft: Radius.circular(12),
+                      )
+                    : null,
               ),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
@@ -67,9 +61,10 @@ class DifficultWordsScreen extends StatelessWidget {
                         child: Text(
                           word.word,
                           style: TextStyle(
-                              fontWeight: FontWeight.bold,
-                              fontSize: 18,
-                              overflow: TextOverflow.ellipsis),
+                            fontWeight: FontWeight.bold,
+                            fontSize: 18,
+                            overflow: TextOverflow.ellipsis,
+                          ),
                         ),
                       ),
                     ],
@@ -77,13 +72,9 @@ class DifficultWordsScreen extends StatelessWidget {
                   const SizedBox(height: 10),
                   Text(
                     word.senses[0].definition,
-                    style: TextStyle(
-                      fontSize: 16,
-                    ),
+                    style: TextStyle(fontSize: 16),
                   ),
-                  const SizedBox(
-                    height: 10,
-                  ),
+                  const SizedBox(height: 10),
                   InkWell(
                     onTap: () {
                       controller.onTapSaveWordToMyWordList(word: word);
@@ -101,12 +92,8 @@ class DifficultWordsScreen extends StatelessWidget {
                       ),
                     ),
                   ),
-                  const SizedBox(
-                    height: 6,
-                  ),
-                  Divider(
-                    color: ThemePrimary.grey.withAlpha(80),
-                  ),
+                  const SizedBox(height: 6),
+                  Divider(color: ThemePrimary.grey.withAlpha(80)),
                 ],
               ),
             ),
@@ -115,9 +102,7 @@ class DifficultWordsScreen extends StatelessWidget {
 
         _easyWordList() {
           return Container(
-            padding: const EdgeInsets.symmetric(
-              horizontal: 12,
-            ),
+            padding: const EdgeInsets.symmetric(horizontal: 12),
             width: screenWidth,
             // height: screenHeight,
             // height: double.infinity,
@@ -126,18 +111,17 @@ class DifficultWordsScreen extends StatelessWidget {
               children: [
                 Text(
                   "Easy",
-                  style: TextStyle(
-                    fontSize: 18,
-                    fontWeight: FontWeight.w700,
-                  ),
+                  style: TextStyle(fontSize: 18, fontWeight: FontWeight.w700),
                 ),
 
                 const SizedBox(height: 8),
                 ...List.generate(
                   controller.easyWordList.length,
                   (index) => _wordItem(
-                      word: controller.easyWordList[index], index: index),
-                )
+                    word: controller.easyWordList[index],
+                    index: index,
+                  ),
+                ),
                 // Expanded(
                 //   child: CustomScrollView(
                 //     physics: NeverScrollableScrollPhysics(),
@@ -160,9 +144,7 @@ class DifficultWordsScreen extends StatelessWidget {
 
         _mediumWordList() {
           return Container(
-            padding: const EdgeInsets.symmetric(
-              horizontal: 12,
-            ),
+            padding: const EdgeInsets.symmetric(horizontal: 12),
             width: screenWidth,
             // height: screenHeight,
             child: Column(
@@ -170,19 +152,16 @@ class DifficultWordsScreen extends StatelessWidget {
               children: [
                 Text(
                   "Medium",
-                  style: TextStyle(
-                    fontSize: 18,
-                    fontWeight: FontWeight.w700,
-                  ),
+                  style: TextStyle(fontSize: 18, fontWeight: FontWeight.w700),
                 ),
-                const SizedBox(
-                  height: 8,
-                ),
+                const SizedBox(height: 8),
                 ...List.generate(
                   controller.mediumWordList.length,
                   (index) => _wordItem(
-                      word: controller.mediumWordList[index], index: index),
-                )
+                    word: controller.mediumWordList[index],
+                    index: index,
+                  ),
+                ),
                 // Expanded(
                 //   child: CustomScrollView(
                 //     physics: NeverScrollableScrollPhysics(),
@@ -205,9 +184,7 @@ class DifficultWordsScreen extends StatelessWidget {
 
         _hardWordList() {
           return Container(
-            padding: const EdgeInsets.symmetric(
-              horizontal: 12,
-            ),
+            padding: const EdgeInsets.symmetric(horizontal: 12),
             width: screenWidth,
             // height: screenHeight,
             child: Column(
@@ -215,19 +192,16 @@ class DifficultWordsScreen extends StatelessWidget {
               children: [
                 Text(
                   "Hard",
-                  style: TextStyle(
-                    fontSize: 18,
-                    fontWeight: FontWeight.w700,
-                  ),
+                  style: TextStyle(fontSize: 18, fontWeight: FontWeight.w700),
                 ),
-                const SizedBox(
-                  height: 8,
-                ),
+                const SizedBox(height: 8),
                 ...List.generate(
                   controller.hardWordList.length,
                   (index) => _wordItem(
-                      word: controller.hardWordList[index], index: index),
-                )
+                    word: controller.hardWordList[index],
+                    index: index,
+                  ),
+                ),
                 // Expanded(
                 //   child: CustomScrollView(
                 //     physics: NeverScrollableScrollPhysics(),
@@ -262,23 +236,17 @@ class DifficultWordsScreen extends StatelessWidget {
           return SingleChildScrollView(
             child: Container(
               width: screenWidth,
-              padding: const EdgeInsets.symmetric(
-                vertical: 12,
-              ),
+              padding: const EdgeInsets.symmetric(vertical: 12),
               child: Column(
                 children: [
                   controller.easyWordList.isNotEmpty
                       ? _easyWordList()
                       : SizedBox(),
-                  const SizedBox(
-                    height: 12,
-                  ),
+                  const SizedBox(height: 12),
                   controller.mediumWordList.isNotEmpty
                       ? _mediumWordList()
                       : SizedBox(),
-                  const SizedBox(
-                    height: 12,
-                  ),
+                  const SizedBox(height: 12),
                   controller.hardWordList.isNotEmpty
                       ? _hardWordList()
                       : SizedBox(),
@@ -288,10 +256,7 @@ class DifficultWordsScreen extends StatelessWidget {
           );
         }
 
-        return Scaffold(
-          appBar: _appBar(),
-          body: _body(),
-        );
+        return Scaffold(appBar: _appBar(), body: _body());
       },
     );
   }

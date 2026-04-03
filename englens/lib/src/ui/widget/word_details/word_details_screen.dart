@@ -1,5 +1,5 @@
 import 'package:englens/src/data/models/word.dart';
-import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/core/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen_viewmodel.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
@@ -72,11 +72,12 @@ class WordDetailsScreen extends StatelessWidget {
                 ),
                 const SizedBox(height: 12),
                 Text(
-                  '/${word.pronunciation != null && word.pronunciation != "" ? word.pronunciation : word.phoneticText == "" ? '' : word.phoneticText.split('/')[1]}/',
-                  style: TextStyle(
-                    fontSize: 24,
-                    color: Colors.grey,
-                  ),
+                  '/${word.pronunciation != null && word.pronunciation != ""
+                      ? word.pronunciation
+                      : word.phoneticText == ""
+                      ? ''
+                      : word.phoneticText.split('/')[1]}/',
+                  style: TextStyle(fontSize: 24, color: Colors.grey),
                   textAlign: TextAlign.center,
                 ),
                 const SizedBox(height: 12),
@@ -165,20 +166,17 @@ class WordDetailsScreen extends StatelessWidget {
                   ],
                 ),
                 const SizedBox(height: 26),
-                Text(
-                  word.senses[0].definition,
-                  style: TextStyle(
-                    fontSize: 18,
-                  ),
-                ),
+                Text(word.senses[0].definition, style: TextStyle(fontSize: 18)),
                 const SizedBox(height: 16),
                 Container(
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(12),
                     color: Color(0xfff7f9fc),
                   ),
-                  padding:
-                      const EdgeInsets.symmetric(horizontal: 8, vertical: 12),
+                  padding: const EdgeInsets.symmetric(
+                    horizontal: 8,
+                    vertical: 12,
+                  ),
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
@@ -186,10 +184,7 @@ class WordDetailsScreen extends StatelessWidget {
                         children: [
                           Icon(Icons.question_answer_outlined),
                           const SizedBox(width: 8),
-                          Text(
-                            'Examples',
-                            style: TextStyle(fontSize: 16),
-                          ),
+                          Text('Examples', style: TextStyle(fontSize: 16)),
                         ],
                       ),
                       const SizedBox(height: 12),
@@ -261,10 +256,7 @@ class WordDetailsScreen extends StatelessWidget {
                 );
         }
 
-        return Scaffold(
-          appBar: _appBar(),
-          body: _body(),
-        );
+        return Scaffold(appBar: _appBar(), body: _body());
       },
     );
   }

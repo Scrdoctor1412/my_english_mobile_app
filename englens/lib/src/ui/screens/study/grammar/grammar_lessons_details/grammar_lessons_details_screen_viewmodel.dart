@@ -1,5 +1,5 @@
 import 'package:englens/src/core/base_view_model.dart';
-import 'package:englens/src/utils/helper.dart';
+import 'package:englens/src/core/utils/helper.dart';
 import 'package:get/get.dart';
 
 class GrammarLessonsDetailsScreenArgs {

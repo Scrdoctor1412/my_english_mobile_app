@@ -1,5 +1,5 @@
 import 'package:dartz/dartz.dart';
-import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/core/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/flashcards/flashcards_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/flashcards/widget/flashcard_item.dart';
 import 'package:flutter/material.dart';
@@ -53,7 +53,9 @@ class FlashcardsScreen extends StatelessWidget {
                   itemBuilder: (context, index) {
                     return Padding(
                       padding: const EdgeInsets.symmetric(
-                          horizontal: 12, vertical: 12),
+                        horizontal: 12,
+                        vertical: 12,
+                      ),
                       child: FlashcardItem(
                         definition:
                             controller.tempWordList[index].senses[0].definition,
@@ -69,15 +71,12 @@ class FlashcardsScreen extends StatelessWidget {
                   },
                   itemCount: controller.tempWordList.length,
                 ),
-              )
+              ),
             ],
           );
         }
 
-        return Scaffold(
-          appBar: _appBar(),
-          body: _body(),
-        );
+        return Scaffold(appBar: _appBar(), body: _body());
       },
     );
   }

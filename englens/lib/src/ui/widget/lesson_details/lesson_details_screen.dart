@@ -1,5 +1,5 @@
 import 'package:auto_size_text/auto_size_text.dart';
-import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/core/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/flashcards/flashcards_screen.dart';
 import 'package:englens/src/ui/widget/flashcards/flashcards_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/lesson_details/lessons_details_screen_viewmodel.dart';
@@ -52,10 +52,11 @@ class LessonDetailsScreen extends StatelessWidget {
         // Widget _
 
         _LessonLearnFlow(int index) {
-          __lessonLearnItem(
-              {required String title,
-              required String assetImagePath,
-              required VoidCallback onTap}) {
+          __lessonLearnItem({
+            required String title,
+            required String assetImagePath,
+            required VoidCallback onTap,
+          }) {
             return GestureDetector(
               onTap: onTap,
               child: Column(
@@ -91,17 +92,12 @@ class LessonDetailsScreen extends StatelessWidget {
           }
 
           return Container(
-            padding: const EdgeInsets.symmetric(
-              vertical: 12,
-              horizontal: 12,
-            ),
+            padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 12),
             child: Row(
               children: [
                 Expanded(
-                    child: Divider(
-                  thickness: 2,
-                  color: ThemePrimary.grey,
-                )),
+                  child: Divider(thickness: 2, color: ThemePrimary.grey),
+                ),
                 __lessonLearnItem(
                   title: 'Review',
                   assetImagePath: 'assets/icons/review_blue.png',
@@ -109,17 +105,16 @@ class LessonDetailsScreen extends StatelessWidget {
                     Get.toNamed(
                       WordDetailsScreen.routeName,
                       arguments: WordDetailsScreenViewmodelArgs(
-                          words: controller.lessons[index].wordList!,
-                          lessonTitle: controller.lessons[index].title,
-                          isFromLessonDetailsScreen: true),
+                        words: controller.lessons[index].wordList!,
+                        lessonTitle: controller.lessons[index].title,
+                        isFromLessonDetailsScreen: true,
+                      ),
                     );
                   },
                 ),
                 Expanded(
-                    child: Divider(
-                  thickness: 2,
-                  color: ThemePrimary.grey,
-                )),
+                  child: Divider(thickness: 2, color: ThemePrimary.grey),
+                ),
                 __lessonLearnItem(
                   title: 'Flashcards',
                   assetImagePath: 'assets/icons/flashcards_blue.png',
@@ -134,10 +129,8 @@ class LessonDetailsScreen extends StatelessWidget {
                   },
                 ),
                 Expanded(
-                    child: Divider(
-                  thickness: 2,
-                  color: ThemePrimary.grey,
-                )),
+                  child: Divider(thickness: 2, color: ThemePrimary.grey),
+                ),
               ],
             ),
           );
@@ -169,16 +162,16 @@ class LessonDetailsScreen extends StatelessWidget {
                       Text(
                         // controller.lessons[0].title,
                         'Lesson ${index + 1}',
-                        style: TextStyle(
-                          fontSize: 16,
-                        ),
+                        style: TextStyle(fontSize: 16),
                       ),
                       const SizedBox(height: 8),
                       AutoSizeText(
                         // '${controller.lessons[0].wordList?.length} words',
                         controller.lessons[index].title,
                         style: TextStyle(
-                            fontSize: 16, fontWeight: FontWeight.w500),
+                          fontSize: 16,
+                          fontWeight: FontWeight.w500,
+                        ),
                         overflow: TextOverflow.ellipsis,
                         maxLines: 2,
                       ),
@@ -211,9 +204,7 @@ class LessonDetailsScreen extends StatelessWidget {
                     ],
                   ),
                 ),
-                children: [
-                  _LessonLearnFlow(index),
-                ],
+                children: [_LessonLearnFlow(index)],
               ),
             ),
           );
@@ -226,8 +217,8 @@ class LessonDetailsScreen extends StatelessWidget {
             child: SingleChildScrollView(
               child: Container(
                 padding: const EdgeInsets.only(
-                    // top: 12,
-                    ),
+                  // top: 12,
+                ),
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
@@ -243,12 +234,7 @@ class LessonDetailsScreen extends StatelessWidget {
                       ),
                     ),
                     const SizedBox(height: 20),
-                    Text(
-                      controller.topicTitle,
-                      style: TextStyle(
-                        fontSize: 20,
-                      ),
-                    ),
+                    Text(controller.topicTitle, style: TextStyle(fontSize: 20)),
                     const SizedBox(height: 12),
                     Text(
                       'Words Related to ${controller.topicTitle}',
@@ -290,10 +276,7 @@ class LessonDetailsScreen extends StatelessWidget {
           );
         }
 
-        return Scaffold(
-          appBar: _appBar(),
-          body: _body(),
-        );
+        return Scaffold(appBar: _appBar(), body: _body());
       },
     );
   }

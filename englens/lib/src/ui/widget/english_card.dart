@@ -1,6 +1,6 @@
 import 'package:auto_size_text/auto_size_text.dart';
 import 'package:englens/src/data/models/word.dart';
-import 'package:englens/src/utils/helper.dart';
+import 'package:englens/src/core/utils/helper.dart';
 import 'package:flutter/material.dart';
 
 enum Classifier { verb, noun, adjective, adverb, indefiniteArticle }
@@ -46,10 +46,7 @@ class EnglishCard extends StatelessWidget {
         color: Colors.white,
         borderRadius: BorderRadius.circular(12),
       ),
-      padding: EdgeInsets.symmetric(
-        horizontal: 12,
-        vertical: 12,
-      ),
+      padding: EdgeInsets.symmetric(horizontal: 12, vertical: 12),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
@@ -58,10 +55,7 @@ class EnglishCard extends StatelessWidget {
               Expanded(
                 child: AutoSizeText(
                   word.word,
-                  style: TextStyle(
-                    fontSize: 23,
-                    fontWeight: FontWeight.w600,
-                  ),
+                  style: TextStyle(fontSize: 23, fontWeight: FontWeight.w600),
                   maxLines: 2,
                 ),
               ),
@@ -82,7 +76,7 @@ class EnglishCard extends StatelessWidget {
                     ),
                   ),
                 ),
-              )
+              ),
             ],
           ),
           Row(
@@ -120,9 +114,7 @@ class EnglishCard extends StatelessWidget {
             child: AutoSizeText(
               // 'used to show that somebody/something is a member of a group or profession',
               word.senses[0].definition,
-              style: TextStyle(
-                fontSize: 15,
-              ),
+              style: TextStyle(fontSize: 15),
             ),
           ),
         ],

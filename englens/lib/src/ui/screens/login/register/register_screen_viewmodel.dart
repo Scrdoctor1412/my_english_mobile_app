@@ -1,5 +1,5 @@
 import 'package:englens/src/core/base_view_model.dart';
-import 'package:englens/src/service/firebase/auth/auth_service.dart';
+import 'package:englens/src/core/service/firebase/auth/auth_service.dart';
 import 'package:englens/src/ui/screens/login/login_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -26,7 +26,9 @@ class RegisterScreenViewmodel extends GetViewModelBase {
     if (formKey.currentState!.validate()) {
       try {
         var res = await _authService.createUserWithEmailAndPassword(
-            email: emailController.text, password: passwordController.text);
+          email: emailController.text,
+          password: passwordController.text,
+        );
 
         // if (res != null) {
         //   Get.offAllNamed(LoginScreen.routeName);

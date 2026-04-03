@@ -1,6 +1,6 @@
 import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/data/models/learning_record.dart';
-import 'package:englens/src/service/learning_record_service.dart';
+import 'package:englens/src/core/service/learning_record_service.dart';
 
 class ProgressChartScreenViewmodel extends GetViewModelBase {
   List<LearningRecord> learningRecords = [];

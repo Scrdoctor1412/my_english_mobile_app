@@ -1,15 +1,15 @@
-import 'package:englens/src/constants/app_constants.dart';
+import 'package:englens/src/core/constants/app_constants.dart';
 import 'package:englens/src/data/models/sense.dart';
 import 'package:englens/src/data/repositories/user_words_repository.dart';
-import 'package:englens/src/service/firebase/word/word_service.dart';
-import 'package:englens/src/service/leitner_box_service.dart';
-import 'package:englens/src/service/local_word_service.dart';
-import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/core/service/firebase/word/word_service.dart';
+import 'package:englens/src/core/service/leitner_box_service.dart';
+import 'package:englens/src/core/service/local_word_service.dart';
+import 'package:englens/src/core/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/complete/complete_screen.dart';
 import 'package:englens/src/ui/widget/complete/complete_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/flashcards/flashcards_screen_viewmodel.dart';
 import 'package:englens/src/ui/widget/loading_dialog.dart';
-import 'package:englens/src/utils/helper.dart';
+import 'package:englens/src/core/utils/helper.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:just_audio/just_audio.dart';
@@ -76,14 +76,17 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
       tempWords.add(word);
     }
     //dummy word
-    tempWords.add(Word(
+    tempWords.add(
+      Word(
         word: "",
         pos: "",
         phonetic: "",
         phoneticText: "",
         phoneticAm: "",
         phoneticAmText: "",
-        senses: [Sense(definition: "", examples: [])]));
+        senses: [Sense(definition: "", examples: [])],
+      ),
+    );
     progressValue = 1 / words.length;
 
     initData();
@@ -174,14 +177,17 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
             prefs.getStringList(AppConstants.leitnerBoxPrefsKey) ?? [];
 
         //check trùng
-        int isDuplicate = leitnerboxeswordsid
-            .indexWhere((element) => element == words[index].id!);
+        int isDuplicate = leitnerboxeswordsid.indexWhere(
+          (element) => element == words[index].id!,
+        );
         if (isDuplicate == -1) {
           leitnerboxeswordsid.add(words[index].id!);
         }
 
         await prefs.setStringList(
-            AppConstants.leitnerBoxPrefsKey, leitnerboxeswordsid);
+          AppConstants.leitnerBoxPrefsKey,
+          leitnerboxeswordsid,
+        );
       } else if (onlyWord != null && onlyWord!.isNotEmpty) {
         //Trường hợp khoong phải từ các trang trong page study
 
@@ -194,14 +200,17 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
             prefs.getStringList(AppConstants.leitnerBoxPrefsKey) ?? [];
 
         //check duplicate
-        int isDuplicate = leitnerboxeswordsid
-            .indexWhere((element) => element == onlyWord!.first.id!);
+        int isDuplicate = leitnerboxeswordsid.indexWhere(
+          (element) => element == onlyWord!.first.id!,
+        );
         if (isDuplicate == -1) {
           leitnerboxeswordsid.add(onlyWord!.first.id!);
         }
 
         await prefs.setStringList(
-            AppConstants.leitnerBoxPrefsKey, leitnerboxeswordsid);
+          AppConstants.leitnerBoxPrefsKey,
+          leitnerboxeswordsid,
+        );
       }
       ScaffoldMessenger.of(context!).showSnackBar(
         SnackBar(
@@ -221,16 +230,16 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
         await LocalWordService.saveWord(words[index]);
         var leitnerBoxes = LeitnerBoxService.getLeitnerBoxes();
         leitnerBoxes[0].wordIds!.removeWhere(
-              (element) => element == words[index].id!,
-            );
+          (element) => element == words[index].id!,
+        );
         LeitnerBoxService.saveLeitnerBoxes(leitnerBoxes);
       } else if (onlyWord != null && onlyWord!.isNotEmpty) {
         onlyWord![0].lastLearned = null;
         await LocalWordService.saveWord(onlyWord![0]);
         var leitnerBoxes = LeitnerBoxService.getLeitnerBoxes();
         leitnerBoxes[0].wordIds!.removeWhere(
-              (element) => element == onlyWord![0].id!,
-            );
+          (element) => element == onlyWord![0].id!,
+        );
         LeitnerBoxService.saveLeitnerBoxes(leitnerBoxes);
       }
 
@@ -263,9 +272,13 @@ class WordDetailsScreenViewmodel extends GetViewModelBase {
     var wordListId = await onTapShowUsersWordListBottomSheet(context: context!);
     if (wordListId != null && wordListId is String) {
       ShowLoadingDialog.showLoadingDialog(
-          context: context!, loadingText: 'Adding...');
+        context: context!,
+        loadingText: 'Adding...',
+      );
       var res = await userWordsRepositoryImpl.addWord(
-          word: word, wordListId: wordListId);
+        word: word,
+        wordListId: wordListId,
+      );
       if (res) {
         ShowLoadingDialog.hideLoadingDialog(context: context!);
         ScaffoldMessenger.of(context!).showSnackBar(

@@ -1,228 +1,357 @@
-import 'package:englens/src/theme/theme_primary.dart';
 import 'package:englens/src/ui/screens/login/login_screen_viewmodel.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-class LoginScreen extends StatelessWidget {
+class LoginScreen extends GetView<LoginScreenViewmodel> {
   static const routeName = '/loginScreen';
   const LoginScreen({Key? key});
 
   @override
   Widget build(BuildContext context) {
-    return GetBuilder<LoginScreenViewmodel>(
-      init: LoginScreenViewmodel(),
-      builder: (controller) {
-        controller.context = context;
-        var screenHeight = MediaQuery.of(context).size.height;
-        // var screenWidth = MediaQuery.of(context).size.width;
+    controller.context = context;
 
-        Widget _orBlock() {
-          return Row(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              Expanded(
-                child: Divider(
-                  color: ThemePrimary.grey.withAlpha(80),
-                  thickness: 2,
-                  height: 20,
-                ),
-              ),
-              const SizedBox(width: 12),
-              Text(
-                'LOGIN_SCREEN.OR'.tr,
-                style: TextStyle(
-                  fontSize: 16,
-                  color: ThemePrimary.grey,
-                  fontWeight: FontWeight.w600,
-                ),
-              ),
-              const SizedBox(width: 12),
-              Expanded(
-                child: Divider(
-                  color: ThemePrimary.grey.withAlpha(80),
-                  thickness: 2,
-                  height: 20,
-                ),
-              ),
-            ],
-          );
-        }
+    final Color primaryPurple = const Color(0xFF6B4EFF);
+    final Color inputFillColor = const Color(0xFFEFEAF9);
+    final Color textGrey = const Color(0xff868686);
 
-        _googleSignin() {
-          return InkWell(
-            onTap: () {
-              controller.onLoginWithGoogle();
-            },
-            radius: 10,
-            child: SizedBox(
-              height: 75,
-              width: 75,
-              child: Image.asset('assets/icons/google_icon.png'),
+    Widget _orBlock() {
+      return Row(
+        children: [
+          Expanded(child: Divider(color: Colors.grey.shade300, thickness: 1)),
+          Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 16),
+            child: Text(
+              'HOẶC',
+              style: TextStyle(
+                fontSize: 10,
+                color: textGrey,
+                fontWeight: FontWeight.bold,
+              ),
             ),
-          );
-        }
+          ),
+          Expanded(child: Divider(color: Colors.grey.shade300, thickness: 1)),
+        ],
+      );
+    }
 
-        _body() {
-          return SingleChildScrollView(
-            child: Form(
-              key: controller.formKey,
-              child: Column(
-                mainAxisAlignment: MainAxisAlignment.center,
-                crossAxisAlignment: CrossAxisAlignment.center,
-                children: [
-                  // Text('New login screen'),
-                  // Image.asset('assets/images/test.jpg'),
-                  Image.asset('assets/images/launcher_icon_no_bg.png'),
-                  SizedBox(height: screenHeight * 0.035),
-                  TextFormField(
-                    controller: controller.emailController,
-                    validator: (value) {
-                      if (value == null || value.isEmpty) {
-                        return 'LOGIN_SCREEN.EMAIL_BLANK'.tr;
-                      } else {
-                        final bool emailValid = RegExp(
-                                r"^[a-zA-Z0-9.a-zA-Z0-9.!#$%&'*+-/=?^_`{|}~]+@[a-zA-Z0-9]+\.[a-zA-Z]+")
-                            .hasMatch(value);
-                        if (!emailValid) {
-                          return 'LOGIN_SCREEN.EMAIL_ERROR'.tr;
+    Widget _googleSignin() {
+      return SizedBox(
+        width: double.infinity,
+        child: ElevatedButton.icon(
+          style: ElevatedButton.styleFrom(
+            backgroundColor: const Color(0xFFF8F5FF),
+            foregroundColor: Colors.black87,
+            elevation: 0,
+            padding: const EdgeInsets.symmetric(vertical: 5),
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(12),
+            ),
+          ),
+          icon: Image.asset(
+            'assets/icons/google_icon.png',
+            height: 50,
+            width: 50,
+          ),
+          label: const Text(
+            'Tiếp tục với Google',
+            style: TextStyle(fontSize: 14, fontWeight: FontWeight.w600),
+          ),
+          onPressed: () {
+            controller.onLoginWithGoogle();
+          },
+        ),
+      );
+    }
+
+    Widget _body() {
+      return SingleChildScrollView(
+        child: Form(
+          key: controller.formKey,
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              const SizedBox(height: 60),
+              Container(
+                height: 64,
+                width: 64,
+                decoration: BoxDecoration(
+                  // color: primaryPurple,
+                  borderRadius: BorderRadius.circular(16),
+                  // boxShadow: [
+                  //   BoxShadow(
+                  //     color: primaryPurple.withOpacity(0.3),
+                  //     blurRadius: 15,
+                  //     offset: const Offset(0, 5),
+                  //   ),
+                  // ],
+                ),
+                padding: const EdgeInsets.all(12),
+                child: Image.asset(
+                  'assets/images/launcher_icon_no_bg.png',
+                  // width: 65,
+                  // height: 65,
+                  fit: BoxFit.contain,
+                ),
+              ),
+              const SizedBox(height: 16),
+              const Text(
+                'ENGLENS',
+                style: TextStyle(
+                  fontSize: 22,
+                  fontWeight: FontWeight.w800,
+                  color: Colors.black87,
+                ),
+              ),
+              const SizedBox(height: 4),
+              const Text(
+                'Linguistic Clarity, Mastered.',
+                style: TextStyle(fontSize: 12, color: Colors.black54),
+              ),
+              const SizedBox(height: 40),
+              Container(
+                width: double.infinity,
+                decoration: BoxDecoration(
+                  color: Colors.white,
+                  borderRadius: BorderRadius.circular(24),
+                  boxShadow: [
+                    BoxShadow(
+                      color: Colors.black.withOpacity(0.04),
+                      blurRadius: 24,
+                      offset: const Offset(0, 10),
+                    ),
+                  ],
+                ),
+                padding: const EdgeInsets.all(28),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    const Center(
+                      child: Text(
+                        'Chào mừng trở lại',
+                        style: TextStyle(
+                          fontSize: 20,
+                          fontWeight: FontWeight.w700,
+                          color: Colors.black87,
+                        ),
+                      ),
+                    ),
+                    const SizedBox(height: 32),
+                    const Text(
+                      'Email',
+                      style: TextStyle(
+                        fontSize: 12,
+                        fontWeight: FontWeight.w600,
+                        color: Colors.black87,
+                      ),
+                    ),
+                    const SizedBox(height: 8),
+                    TextFormField(
+                      controller: controller.emailController,
+                      validator: (value) {
+                        if (value == null || value.isEmpty) {
+                          return 'LOGIN_SCREEN.EMAIL_BLANK'.tr;
+                        } else {
+                          final bool emailValid = RegExp(
+                            r"^[a-zA-Z0-9.a-zA-Z0-9.!#$%&'*+-/=?^_`{|}~]+@[a-zA-Z0-9]+\.[a-zA-Z]+",
+                          ).hasMatch(value);
+                          if (!emailValid) {
+                            return 'LOGIN_SCREEN.EMAIL_ERROR'.tr;
+                          }
                         }
-                      }
-                      return null;
-                    },
-                    decoration: InputDecoration(
-                      prefixIcon: Icon(
-                        Icons.email,
-                        color: Color(0xff868686),
-                      ),
-                      label: Text('LOGIN_SCREEN.EMAIL'.tr),
-                      hintText: 'LOGIN_SCREEN.EMAIL_HINT'.tr,
-                      // filled: true,
-                      // fillColor: Colors.white,
-                      border: OutlineInputBorder(
-                        borderSide: BorderSide(
-                          width: 3,
+                        return null;
+                      },
+                      decoration: InputDecoration(
+                        prefixIcon: Icon(
+                          Icons.email,
+                          color: textGrey.withOpacity(0.7),
+                          size: 20,
                         ),
-                        borderRadius: BorderRadius.circular(26),
+                        hintText: 'name@example.com',
+                        hintStyle: TextStyle(
+                          color: textGrey.withOpacity(0.7),
+                          fontSize: 14,
+                        ),
+                        filled: true,
+                        fillColor: inputFillColor,
+                        border: OutlineInputBorder(
+                          borderSide: BorderSide.none,
+                          borderRadius: BorderRadius.circular(12),
+                        ),
+                        contentPadding: const EdgeInsets.symmetric(
+                          vertical: 16,
+                        ),
                       ),
                     ),
-                  ),
-                  const SizedBox(height: 15),
-                  TextFormField(
-                    controller: controller.passwordController,
-                    validator: (value) {
-                      if (value == null || value.isEmpty) {
-                        return 'LOGIN_SCREEN.PASSWORD_BLANK'.tr;
-                      } else if (value.length < 6) {
-                        return 'Password must be at least 6 characters';
-                      }
-                      return null;
-                    },
-                    obscureText: controller.isObsecureText,
-                    enableSuggestions: false,
-                    autocorrect: false,
-                    decoration: InputDecoration(
-                      prefixIcon: Icon(
-                        Icons.lock_outline_rounded,
-                        color: Color(0xff868686),
+                    const SizedBox(height: 20),
+                    const Text(
+                      'Mật khẩu',
+                      style: TextStyle(
+                        fontSize: 12,
+                        fontWeight: FontWeight.w600,
+                        color: Colors.black87,
                       ),
-                      suffixIcon: GestureDetector(
-                        onTap: () {
-                          controller.onToggleShowPassword();
+                    ),
+                    const SizedBox(height: 8),
+                    TextFormField(
+                      controller: controller.passwordController,
+                      validator: (value) {
+                        if (value == null || value.isEmpty) {
+                          return 'LOGIN_SCREEN.PASSWORD_BLANK'.tr;
+                        } else if (value.length < 6) {
+                          return 'Password must be at least 6 characters';
+                        }
+                        return null;
+                      },
+                      obscureText: controller.isObsecureText,
+                      enableSuggestions: false,
+                      autocorrect: false,
+                      decoration: InputDecoration(
+                        prefixIcon: Icon(
+                          Icons.lock,
+                          color: textGrey.withOpacity(0.7),
+                          size: 20,
+                        ),
+                        suffixIcon: GestureDetector(
+                          onTap: () {
+                            controller.onToggleShowPassword();
+                          },
+                          child: Icon(
+                            Icons.remove_red_eye_sharp,
+                            color: textGrey.withOpacity(0.7),
+                            size: 20,
+                          ),
+                        ),
+                        hintText: '••••••••',
+                        hintStyle: TextStyle(
+                          color: textGrey.withOpacity(0.7),
+                          fontSize: 14,
+                          letterSpacing: 2,
+                        ),
+                        filled: true,
+                        fillColor: inputFillColor,
+                        border: OutlineInputBorder(
+                          borderSide: BorderSide.none,
+                          borderRadius: BorderRadius.circular(12),
+                        ),
+                        contentPadding: const EdgeInsets.symmetric(
+                          vertical: 16,
+                        ),
+                      ),
+                    ),
+                    const SizedBox(height: 8),
+                    Align(
+                      alignment: Alignment.centerRight,
+                      child: TextButton(
+                        onPressed: () {
+                          controller.onTapToForgetPasswordScreen();
                         },
-                        child: Icon(
-                          Icons.remove_red_eye_sharp,
-                          color: Color(0xff868686),
+                        style: TextButton.styleFrom(
+                          padding: EdgeInsets.zero,
+                          minimumSize: Size.zero,
+                          tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                        ),
+                        child: Text(
+                          'QUÊN MẬT KHẨU?',
+                          style: TextStyle(
+                            fontSize: 10,
+                            color: primaryPurple,
+                            fontWeight: FontWeight.bold,
+                            letterSpacing: 0.5,
+                          ),
                         ),
                       ),
-                      label: Text('LOGIN_SCREEN.PASSWORD'.tr),
-                      hintText: 'LOGIN_SCREEN.PASSWORD_HINT'.tr,
-                      border: OutlineInputBorder(
-                        borderRadius: BorderRadius.circular(26),
-                      ),
                     ),
-                  ),
-                  const SizedBox(height: 20),
-                  SizedBox(
-                    width: MediaQuery.of(context).size.width,
-                    height: 50,
-                    child: ElevatedButton(
-                      style: ElevatedButton.styleFrom(
-                          backgroundColor: ThemePrimary.primaryBlue,
+                    const SizedBox(height: 24),
+                    SizedBox(
+                      width: double.infinity,
+                      height: 52,
+                      child: ElevatedButton(
+                        style: ElevatedButton.styleFrom(
+                          backgroundColor: primaryPurple,
                           shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(26),
-                          )),
-                      onPressed: () {
-                        controller.onLogin();
-                      },
-                      child: Text(
-                        'LOGIN_SCREEN.SIGNIN'.tr,
-                        style: TextStyle(
-                          color: Colors.white,
-                          fontSize: 18,
-                          fontWeight: FontWeight.w700,
-                        ),
-                      ),
-                    ),
-                  ),
-                  const SizedBox(height: 12),
-                  RichText(
-                    text: TextSpan(
-                      children: [
-                        TextSpan(
-                          text: 'Không có tài khoản?',
-                          style: TextStyle(color: Colors.black),
-                        ),
-                        TextSpan(
-                          text: " ",
-                          style: TextStyle(color: Colors.black),
-                        ),
-                        TextSpan(
-                          text: "Đăng ký",
-                          style: TextStyle(
-                            color: ThemePrimary.primaryBlue,
                           ),
-                          recognizer: TapGestureRecognizer()
-                            ..onTap = () {
-                              controller.onTapToResgisterScreen();
-                            },
+                          elevation: 0,
                         ),
-                      ],
-                    ),
-                  ),
-                  const SizedBox(height: 36),
-                  _orBlock(),
-                  const SizedBox(height: 12),
-                  _googleSignin(),
-                  const SizedBox(height: 12),
-                  GestureDetector(
-                    onTap: () {
-                      controller.onTapToForgetPasswordScreen();
-                    },
-                    child: Text(
-                      'LOGIN_SCREEN.FORGOT_PASSWORD'.tr,
-                      style: TextStyle(
-                        color: ThemePrimary.primaryBlue,
+                        onPressed: () {
+                          controller.onLogin();
+                        },
+                        child: Row(
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: [
+                            Text(
+                              'Đăng nhập'.tr,
+                              style: const TextStyle(
+                                color: Colors.white,
+                                fontSize: 16,
+                                fontWeight: FontWeight.w600,
+                              ),
+                            ),
+                            const SizedBox(width: 8),
+                            const Icon(
+                              Icons.arrow_forward,
+                              color: Colors.white,
+                              size: 20,
+                            ),
+                          ],
+                        ),
                       ),
                     ),
-                  ),
-                  const SizedBox(height: 12),
-                ],
+                    const SizedBox(height: 32),
+                    _orBlock(),
+                    const SizedBox(height: 24),
+                    _googleSignin(),
+                  ],
+                ),
               ),
-            ),
-          );
-        }
+              const SizedBox(height: 32),
+              RichText(
+                text: TextSpan(
+                  children: [
+                    const TextSpan(
+                      text: 'Không có tài khoản? ',
+                      style: TextStyle(color: Colors.black87, fontSize: 13),
+                    ),
+                    TextSpan(
+                      text: "Đăng ký",
+                      style: TextStyle(
+                        color: primaryPurple,
+                        fontWeight: FontWeight.w700,
+                        fontSize: 13,
+                      ),
+                      recognizer: TapGestureRecognizer()
+                        ..onTap = () {
+                          controller.onTapToResgisterScreen();
+                        },
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(height: 32),
+            ],
+          ),
+        ),
+      );
+    }
 
-        return Scaffold(
-          body: Padding(
-            padding: const EdgeInsets.symmetric(
-              horizontal: 12,
-              vertical: 12,
-            ),
+    return Scaffold(
+      body: Container(
+        decoration: const BoxDecoration(
+          gradient: LinearGradient(
+            begin: Alignment.topRight,
+            end: Alignment.bottomLeft,
+            colors: [Color(0xFFF3EEFD), Color(0xFFE2EAF8)],
+          ),
+        ),
+        child: SafeArea(
+          child: Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 24),
             child: _body(),
           ),
-        );
-      },
+        ),
+      ),
     );
   }
 }

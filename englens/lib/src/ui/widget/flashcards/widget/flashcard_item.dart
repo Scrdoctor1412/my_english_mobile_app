@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:englens/src/theme/theme_primary.dart';
-import 'package:englens/src/utils/helper.dart';
+import 'package:englens/src/core/theme/theme_primary.dart';
+import 'package:englens/src/core/utils/helper.dart';
 import 'package:flutter/material.dart';
 
 class FlashcardItem extends StatefulWidget {
@@ -48,9 +48,7 @@ class _FlashcardItemState extends State<FlashcardItem>
     super.initState();
     animController = AnimationController(
       vsync: this,
-      duration: const Duration(
-        milliseconds: 600,
-      ),
+      duration: const Duration(milliseconds: 600),
     );
     animation = Tween<double>(begin: 0, end: 1).animate(animController);
     widget.isVolumeOn ? onTapPlayAudio(audioUrl: widget.audioUrl!) : null;
@@ -86,28 +84,25 @@ class _FlashcardItemState extends State<FlashcardItem>
 
   void startTimer() {
     const oneSec = const Duration(seconds: 1);
-    _timer = new Timer.periodic(
-      oneSec,
-      (Timer timer) {
-        if (!mounted) {
+    _timer = new Timer.periodic(oneSec, (Timer timer) {
+      if (!mounted) {
+        timer.cancel();
+        return;
+      }
+      if (_start <= 0) {
+        setState(() {
           timer.cancel();
-          return;
-        }
-        if (_start <= 0) {
+          isTimerCancel = true;
+        });
+        toggleCard();
+      } else {
+        if (mounted) {
           setState(() {
-            timer.cancel();
-            isTimerCancel = true;
+            _start--;
           });
-          toggleCard();
-        } else {
-          if (mounted) {
-            setState(() {
-              _start--;
-            });
-          }
         }
-      },
-    );
+      }
+    });
   }
 
   @override
@@ -155,10 +150,7 @@ class _FlashcardItemState extends State<FlashcardItem>
                   child: Text(
                     // controller.wordList[index].word,
                     widget.word,
-                    style: TextStyle(
-                      fontSize: 32,
-                      fontWeight: FontWeight.w500,
-                    ),
+                    style: TextStyle(fontSize: 32, fontWeight: FontWeight.w500),
                     textAlign: TextAlign.center,
                   ),
                 ),
@@ -169,17 +161,11 @@ class _FlashcardItemState extends State<FlashcardItem>
                     color: ThemePrimary.primaryBlue,
                     borderRadius: BorderRadius.circular(10),
                   ),
-                  padding: EdgeInsets.symmetric(
-                    horizontal: 12,
-                    vertical: 3,
-                  ),
+                  padding: EdgeInsets.symmetric(horizontal: 12, vertical: 3),
                   child: Text(
                     // controller.wordList[index].pos,
                     widget.pos,
-                    style: TextStyle(
-                      color: Colors.white,
-                      fontSize: 20,
-                    ),
+                    style: TextStyle(color: Colors.white, fontSize: 20),
                   ),
                 ),
                 //reveal definition button
@@ -261,25 +247,24 @@ class _FlashcardItemState extends State<FlashcardItem>
                                 borderRadius: BorderRadius.circular(32),
                               ),
                               child: TweenAnimationBuilder<double>(
-                                  tween: Tween(begin: 0.0, end: 1.0),
-                                  duration: Duration(seconds: 3),
-                                  builder: (context, value, _) {
-                                    return CircularProgressIndicator(
-                                      strokeWidth: 8,
-                                      value: value,
-                                      color: ThemePrimary.successGreen,
-                                      backgroundColor: ThemePrimary.lightGreen,
-                                    );
-                                  }),
+                                tween: Tween(begin: 0.0, end: 1.0),
+                                duration: Duration(seconds: 3),
+                                builder: (context, value, _) {
+                                  return CircularProgressIndicator(
+                                    strokeWidth: 8,
+                                    value: value,
+                                    color: ThemePrimary.successGreen,
+                                    backgroundColor: ThemePrimary.lightGreen,
+                                  );
+                                },
+                              ),
                             ),
                           ),
-                          Center(
-                            child: Text('$_start'),
-                          ),
+                          Center(child: Text('$_start')),
                         ],
                       ),
                     ),
-                  )
+                  ),
           ],
         ),
       );
@@ -289,16 +274,17 @@ class _FlashcardItemState extends State<FlashcardItem>
       return Container(
         height: screenHeight * 0.7,
         decoration: BoxDecoration(
-            color: Colors.white,
-            borderRadius: BorderRadius.circular(16),
-            boxShadow: [
-              BoxShadow(
-                color: Colors.black.withAlpha(30),
-                spreadRadius: 1,
-                blurRadius: 2,
-                offset: Offset(0, 5),
-              ),
-            ]),
+          color: Colors.white,
+          borderRadius: BorderRadius.circular(16),
+          boxShadow: [
+            BoxShadow(
+              color: Colors.black.withAlpha(30),
+              spreadRadius: 1,
+              blurRadius: 2,
+              offset: Offset(0, 5),
+            ),
+          ],
+        ),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.start,
@@ -307,19 +293,15 @@ class _FlashcardItemState extends State<FlashcardItem>
                 ? Container()
                 : ClipRRect(
                     borderRadius: BorderRadius.circular(32),
-                    child: Image.network(widget.imgUrl!)),
+                    child: Image.network(widget.imgUrl!),
+                  ),
             const Spacer(),
             Padding(
-              padding: const EdgeInsets.symmetric(
-                horizontal: 12,
-              ),
+              padding: const EdgeInsets.symmetric(horizontal: 12),
               child: Text(
                 // controller.wordList[index].senses[0].definition,
                 widget.definition,
-                style: TextStyle(
-                  fontSize: 20,
-                  color: Colors.grey,
-                ),
+                style: TextStyle(fontSize: 20, color: Colors.grey),
               ),
             ),
             const SizedBox(height: 6),
@@ -340,14 +322,8 @@ class _FlashcardItemState extends State<FlashcardItem>
                   ),
                 ],
               ),
-              padding: const EdgeInsets.only(
-                left: 12,
-                right: 20,
-              ),
-              child: Icon(
-                Icons.keyboard_return,
-                color: Colors.white,
-              ),
+              padding: const EdgeInsets.only(left: 12, right: 20),
+              child: Icon(Icons.keyboard_return, color: Colors.white),
             ),
             const Spacer(),
             Container(
@@ -375,10 +351,7 @@ class _FlashcardItemState extends State<FlashcardItem>
                               child: Row(
                                 mainAxisAlignment: MainAxisAlignment.center,
                                 children: [
-                                  Expanded(
-                                      child: Divider(
-                                    color: Colors.red,
-                                  )),
+                                  Expanded(child: Divider(color: Colors.red)),
                                   Container(
                                     width: 39,
                                     height: 39,
@@ -391,15 +364,9 @@ class _FlashcardItemState extends State<FlashcardItem>
                                     ),
                                     // padding: const EdgeInsets.all(12),
                                     alignment: Alignment.center,
-                                    child: Icon(
-                                      Icons.close,
-                                      color: Colors.red,
-                                    ),
+                                    child: Icon(Icons.close, color: Colors.red),
                                   ),
-                                  Expanded(
-                                      child: Divider(
-                                    color: Colors.red,
-                                  )),
+                                  Expanded(child: Divider(color: Colors.red)),
                                 ],
                               ),
                             ),
@@ -433,9 +400,10 @@ class _FlashcardItemState extends State<FlashcardItem>
                                 mainAxisAlignment: MainAxisAlignment.center,
                                 children: [
                                   Expanded(
-                                      child: Divider(
-                                    color: ThemePrimary.successGreen,
-                                  )),
+                                    child: Divider(
+                                      color: ThemePrimary.successGreen,
+                                    ),
+                                  ),
                                   Container(
                                     width: 39,
                                     height: 39,
@@ -454,9 +422,10 @@ class _FlashcardItemState extends State<FlashcardItem>
                                     ),
                                   ),
                                   Expanded(
-                                      child: Divider(
-                                    color: ThemePrimary.successGreen,
-                                  )),
+                                    child: Divider(
+                                      color: ThemePrimary.successGreen,
+                                    ),
+                                  ),
                                 ],
                               ),
                             ),
@@ -490,9 +459,7 @@ class _FlashcardItemState extends State<FlashcardItem>
             animation: animation,
             builder: (context, child) {
               return Transform(
-                transform: Matrix4.rotationY(
-                  animation.value * 3.14139,
-                ),
+                transform: Matrix4.rotationY(animation.value * 3.14139),
                 alignment: Alignment.center,
                 child: animation.value < 0.5
                     ? flashcardFront()

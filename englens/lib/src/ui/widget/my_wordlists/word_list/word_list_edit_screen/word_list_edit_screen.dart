@@ -1,4 +1,4 @@
-import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/core/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/my_wordlists/word_list/word_list_edit_screen/word_list_edit_screen_viewmodel.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -13,15 +13,14 @@ class WordListEditScreen extends StatelessWidget {
       init: WordListEditScreenViewmodel(),
       builder: (controller) {
         _appBar() {
-          return AppBar(
-            title: Text("Edit"),
-          );
+          return AppBar(title: Text("Edit"));
         }
 
-        _textFormFieldItem(
-            {required String labelText,
-            required String hintText,
-            required TextEditingController controller}) {
+        _textFormFieldItem({
+          required String labelText,
+          required String hintText,
+          required TextEditingController controller,
+        }) {
           return TextFormField(
             controller: controller,
             decoration: InputDecoration(
@@ -54,10 +53,7 @@ class WordListEditScreen extends StatelessWidget {
           );
         }
 
-        return Scaffold(
-          appBar: _appBar(),
-          body: _body(),
-        );
+        return Scaffold(appBar: _appBar(), body: _body());
       },
     );
   }

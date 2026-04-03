@@ -15,14 +15,10 @@ abstract interface class LeitnerBoxRepository {
 
 class LeitnerBoxRepositoryImpl extends GetxController
     implements LeitnerBoxRepository {
-  final AssetsData _assetsData;
   final LocalData _localData;
 
-  LeitnerBoxRepositoryImpl({
-    required AssetsData assetsData,
-    required LocalData localData,
-  })  : _assetsData = assetsData,
-        _localData = localData;
+  LeitnerBoxRepositoryImpl({required LocalData localData})
+    : _localData = localData;
   @override
   List<LeitnerBox> getLeitnerBoxes() {
     var list = _localData.getLeitnerBoxes();
@@ -45,12 +41,14 @@ class LeitnerBoxRepositoryImpl extends GetxController
     if (currentLeitnerBoxes.isNotEmpty) return;
     List<LeitnerBox> leitnerBoxes = [];
     for (var i = 0; i < 8; i++) {
-      leitnerBoxes.add(LeitnerBox(
-        index: i,
-        boxType: LeitnerBoxType.values[i],
-        wordIds: [],
-        lastLearned: DateTime.now().toIso8601String(),
-      ));
+      leitnerBoxes.add(
+        LeitnerBox(
+          index: i,
+          boxType: LeitnerBoxType.values[i],
+          wordIds: [],
+          lastLearned: DateTime.now().toIso8601String(),
+        ),
+      );
     }
     await _localData.saveLeitnerBoxes(leitnerBoxes);
   }

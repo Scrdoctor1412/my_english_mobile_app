@@ -1,6 +1,6 @@
 import 'package:hive/hive.dart';
 
-import 'package:englens/src/configs/hive/hive_types.dart';
+import 'package:englens/src/core/configs/hive/hive_types.dart';
 
 part 'generated/leitner_box.g.dart'; // Dùng build_runner để generate
 
@@ -38,12 +38,7 @@ class LeitnerBox {
   @HiveField(3)
   String? lastLearned;
 
-  LeitnerBox({
-    this.index,
-    this.boxType,
-    this.wordIds,
-    this.lastLearned,
-  });
+  LeitnerBox({this.index, this.boxType, this.wordIds, this.lastLearned});
 
   LeitnerBox copyWith({
     int? index,

@@ -2,19 +2,17 @@
 import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/data/models/word.dart';
 import 'package:englens/src/data/repositories/user_words_repository.dart';
-import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/core/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/loading_dialog.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen.dart';
 import 'package:englens/src/ui/widget/word_details/word_details_screen_viewmodel.dart';
-import 'package:englens/src/utils/helper.dart';
+import 'package:englens/src/core/utils/helper.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 class DifficultWordsScreenArgs {
   final List<Word> listIncorrect;
-  DifficultWordsScreenArgs({
-    required this.listIncorrect,
-  });
+  DifficultWordsScreenArgs({required this.listIncorrect});
 }
 
 class DifficultWordsScreenViewmodel extends GetViewModelBase {
@@ -74,9 +72,7 @@ class DifficultWordsScreenViewmodel extends GetViewModelBase {
   void onTapToWordDetails(Word word) {
     Get.toNamed(
       WordDetailsScreen.routeName,
-      arguments: WordDetailsScreenViewmodelArgs(
-        onlyWord: [word],
-      ),
+      arguments: WordDetailsScreenViewmodelArgs(onlyWord: [word]),
     );
   }
 
@@ -84,7 +80,9 @@ class DifficultWordsScreenViewmodel extends GetViewModelBase {
     var wordListId = await onTapShowUsersWordListBottomSheet(context: context!);
     if (wordListId != null && wordListId is String) {
       ShowLoadingDialog.showLoadingDialog(
-          context: context!, loadingText: 'Adding...');
+        context: context!,
+        loadingText: 'Adding...',
+      );
       var res = await _userWordRepo.addWord(word: word, wordListId: wordListId);
       if (res) {
         ShowLoadingDialog.hideLoadingDialog(context: context!);

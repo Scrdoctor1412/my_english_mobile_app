@@ -1,5 +1,5 @@
-import 'package:englens/gen/assets.gen.dart';
-import 'package:englens/src/constants/app_constants.dart';
+import 'package:englens/src/core/gen/assets.gen.dart';
+import 'package:englens/src/core/constants/app_constants.dart';
 import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/ui/screens/study/grammar/grammar_lessons_details/grammar_lessons_details_screen.dart';
 import 'package:englens/src/ui/screens/study/grammar/grammar_lessons_details/grammar_lessons_details_screen_viewmodel.dart';
@@ -13,10 +13,7 @@ enum GrammarLessonType { tenses, sentences, words, others }
 class GrammarLessonsScreenArgs {
   final String title;
   final GrammarLessonType type;
-  GrammarLessonsScreenArgs({
-    required this.title,
-    required this.type,
-  });
+  GrammarLessonsScreenArgs({required this.title, required this.type});
 }
 
 class MarkDownProps {
@@ -112,19 +109,31 @@ class GrammarLessonsScreenViewmodel extends GetViewModelBase {
     switch (type) {
       case GrammarLessonType.words:
         updateGrammarLessonsPrefs(
-            value, index, AppConstants.grammarWordsPrefsKey);
+          value,
+          index,
+          AppConstants.grammarWordsPrefsKey,
+        );
         break;
       case GrammarLessonType.sentences:
         updateGrammarLessonsPrefs(
-            value, index, AppConstants.grammarSentencesPrefsKey);
+          value,
+          index,
+          AppConstants.grammarSentencesPrefsKey,
+        );
         break;
       case GrammarLessonType.tenses:
         updateGrammarLessonsPrefs(
-            value, index, AppConstants.grammarTensesPrefsKey);
+          value,
+          index,
+          AppConstants.grammarTensesPrefsKey,
+        );
         break;
       case GrammarLessonType.others:
         updateGrammarLessonsPrefs(
-            value, index, AppConstants.grammarOthersPrefsKey);
+          value,
+          index,
+          AppConstants.grammarOthersPrefsKey,
+        );
         break;
     }
     update();
@@ -162,9 +171,7 @@ class GrammarLessonsScreenViewmodel extends GetViewModelBase {
       }
     } else {
       //Trường hơp uncheck checkbox -> xóa khỏi danh sách
-      list.removeWhere(
-        (element) => element == listMdProps[index].id,
-      );
+      list.removeWhere((element) => element == listMdProps[index].id);
     }
     prefs.setStringList(key, list);
   }

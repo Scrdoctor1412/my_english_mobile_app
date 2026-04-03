@@ -1,10 +1,11 @@
 import 'package:englens/src/core/base_view_model.dart';
+import 'package:englens/src/core/extensions/string_extensions.dart';
 import 'package:englens/src/data/models/learning_category.dart';
 import 'package:englens/src/data/models/lesson.dart';
-import 'package:englens/src/service/local_word_service.dart';
+import 'package:englens/src/core/service/local_word_service.dart';
 import 'package:englens/src/ui/widget/lesson_details/lesson_details_screen.dart';
 import 'package:englens/src/ui/widget/lesson_details/lessons_details_screen_viewmodel.dart';
-import 'package:englens/src/utils/helper.dart';
+import 'package:englens/src/core/utils/helper.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -74,7 +75,7 @@ class BookmarkScreenViewmodel extends GetViewModelBase {
       for (var id in item2TopicId) {
         var item = _getTopic(id);
         if (item != null) {
-          bookmarkedLessonTopicTitle.add(snakeCaseToNormal(item.title));
+          bookmarkedLessonTopicTitle.add(item.title.snakeCaseToNormal());
         }
       }
     }
@@ -89,7 +90,7 @@ class BookmarkScreenViewmodel extends GetViewModelBase {
         lessons: bookmarkedBooks[index].lessons!,
         lessonImage:
             'assets/images/learning_category/${bookmarkedBooks[index].title}.jpg',
-        topicTitle: snakeCaseToNormal(bookmarkedBooks[index].title),
+        topicTitle: bookmarkedBooks[index].title.snakeCaseToNormal(),
         topicId: bookmarkedBooks[index].id,
       ),
     );

@@ -1,4 +1,4 @@
-import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/core/theme/theme_primary.dart';
 import 'package:englens/src/ui/widget/custom_search_bar.dart';
 import 'package:englens/src/ui/widget/english_card.dart';
 import 'package:englens/src/ui/screens/english_handbook/english_handbook_screen_viewmodel.dart';
@@ -10,99 +10,87 @@ import 'package:flutter/material.dart';
 import 'package:flutter_expandable_fab/flutter_expandable_fab.dart';
 import 'package:get/get.dart';
 
-class EnglishHandbookScreen extends StatelessWidget {
+class EnglishHandbookScreen extends GetView<EnglishHandbookScreenViewmodel> {
   static const routeName = '/englishHandbookScreen';
   const EnglishHandbookScreen({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    return GetBuilder<EnglishHandbookScreenViewmodel>(
-      init: EnglishHandbookScreenViewmodel(),
-      builder: (controller) {
-        controller.context = context;
+    controller.context = context;
 
-        _appBar() {
-          return AppBar(
-            // primary: false,
-            backgroundColor: ThemePrimary.successGreen,
-            title: Text('English handbook'),
-            actions: [
-              IconButton(
-                onPressed: () {
-                  controller.onTapToWordSearch();
-                },
-                icon: Icon(Icons.search),
-              )
-            ],
-          );
-        }
+    _appBar() {
+      return AppBar(
+        // primary: false,
+        backgroundColor: ThemePrimary.successGreen,
+        title: Text('English handbook'),
+        actions: [
+          IconButton(
+            onPressed: () {
+              controller.onTapToWordSearch();
+            },
+            icon: Icon(Icons.search),
+          ),
+        ],
+      );
+    }
 
-        _wordListTab() {
-          return Column(
-            mainAxisAlignment: MainAxisAlignment.center,
-            // spacing: 10,
-            children: [
-              // const SizedBox(
-              //   height: 12,
-              // ),
-              Expanded(
-                child: ListView.separated(
-                  itemBuilder: (context, index) {
-                    return Padding(
-                      padding: const EdgeInsets.only(top: 15),
-                      child: SizedBox(
-                        height: 230,
-                        child: InkWell(
-                          onTap: () {
-                            // print(index);
-                            Get.toNamed(
-                              WordDetailsScreen.routeName,
-                              arguments: WordDetailsScreenViewmodelArgs(
-                                lessonTitle: '',
-                                isFromLessonDetailsScreen: false,
-                                onlyWord: [controller.wordList[index]],
-                              ),
-                            );
-                          },
-                          child: EnglishCard(
-                            word: controller.wordList[index],
+    _wordListTab() {
+      return Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        // spacing: 10,
+        children: [
+          // const SizedBox(
+          //   height: 12,
+          // ),
+          Expanded(
+            child: ListView.separated(
+              itemBuilder: (context, index) {
+                return Padding(
+                  padding: const EdgeInsets.only(top: 15),
+                  child: SizedBox(
+                    height: 230,
+                    child: InkWell(
+                      onTap: () {
+                        // print(index);
+                        Get.toNamed(
+                          WordDetailsScreen.routeName,
+                          arguments: WordDetailsScreenViewmodelArgs(
+                            lessonTitle: '',
+                            isFromLessonDetailsScreen: false,
+                            onlyWord: [controller.wordList[index]],
                           ),
-                        ),
-                      ),
-                    );
-                  },
-                  separatorBuilder: (context, index) => SizedBox(),
-                  itemCount: controller.wordList.length,
-                ),
-              )
-            ],
-          );
-        }
-
-        _body() {
-          return Padding(
-            padding: const EdgeInsets.only(
-              left: 12,
-              right: 12,
-              // top: 12,
+                        );
+                      },
+                      child: EnglishCard(word: controller.wordList[index]),
+                    ),
+                  ),
+                );
+              },
+              separatorBuilder: (context, index) => SizedBox(),
+              itemCount: controller.wordList.length,
             ),
-            child: Column(
-              children: [
-                // CustomSearchBar(),
-                Expanded(
-                  child: _wordListTab(),
-                ),
-              ],
-            ),
-          );
-        }
+          ),
+        ],
+      );
+    }
 
-        return Scaffold(
-          appBar: _appBar(),
-          body: _body(),
-        );
-      },
-    );
+    _body() {
+      return Padding(
+        padding: const EdgeInsets.only(
+          left: 12,
+          right: 12,
+          // top: 12,
+        ),
+        child: Column(
+          children: [
+            // CustomSearchBar(),
+            Expanded(child: _wordListTab()),
+          ],
+        ),
+      );
+    }
+
+    return Scaffold(appBar: _appBar(), body: _body());
   }
 }
 
@@ -113,14 +101,14 @@ class TabsPainter extends CustomPainter {
   // final double height;
   double height = 48;
   TabsPainter({required this.controller, required this.context})
-      : super(repaint: controller);
+    : super(repaint: controller);
 
   // final List<double> widths = [89, 98, 111, 141, 108];
   double tabHeight = 50;
   double tabWidth = MediaQuery.of(Get.context!).size.width / 2;
   List<double> widths = [
     MediaQuery.of(Get.context!).size.width / 2,
-    MediaQuery.of(Get.context!).size.width / 2
+    MediaQuery.of(Get.context!).size.width / 2,
   ];
 
   @override
@@ -146,7 +134,11 @@ class TabsPainter extends CustomPainter {
 
     path.lineTo(dx + tabWidth, tabHeight - radius);
     path.quadraticBezierTo(
-        dx + tabWidth, tabHeight, dx + tabWidth - radius, tabHeight);
+      dx + tabWidth,
+      tabHeight,
+      dx + tabWidth - radius,
+      tabHeight,
+    );
 
     // Vẽ đến cạnh phải của lõm
     final rightOfNotch = centerX + notchWidth / 2;

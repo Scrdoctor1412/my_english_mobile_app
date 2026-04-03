@@ -1,6 +1,6 @@
 import 'package:englens/src/core/base_view_model.dart';
-import 'package:englens/src/service/firebase/auth/auth_service.dart';
-import 'package:englens/src/theme/theme_primary.dart';
+import 'package:englens/src/core/service/firebase/auth/auth_service.dart';
+import 'package:englens/src/core/theme/theme_primary.dart';
 import 'package:englens/src/ui/screens/login/register/register_screen.dart';
 import 'package:englens/src/ui/widget/loading_dialog.dart';
 import 'package:englens/src/ui/screens/login/forget_password/forget_password_screen.dart';
@@ -16,6 +16,13 @@ class LoginScreenViewmodel extends GetViewModelBase {
   bool isObsecureText = true;
 
   AuthService authService = Get.put(AuthService());
+
+  @override
+  void onClose() {
+    emailController.dispose();
+    passwordController.dispose();
+    super.onClose();
+  }
 
   void onToggleShowPassword() {
     isObsecureText = !isObsecureText;
@@ -33,7 +40,9 @@ class LoginScreenViewmodel extends GetViewModelBase {
   void onLoginWithGoogle() async {
     try {
       ShowLoadingDialog.showLoadingDialog(
-          context: Get.context!, loadingText: 'Logging in');
+        context: Get.context!,
+        loadingText: 'Logging in',
+      );
       var res = await authService.loginWithGoogle();
 
       if (res == true) {
@@ -80,7 +89,9 @@ class LoginScreenViewmodel extends GetViewModelBase {
     //     context: Get.context!, loadingText: 'Loging in');
     if (formKey.currentState!.validate()) {
       ShowLoadingDialog.showLoadingDialog(
-          context: Get.context!, loadingText: 'Logging in');
+        context: Get.context!,
+        loadingText: 'Logging in',
+      );
       try {
         var email = emailController.text;
         var password = passwordController.text;

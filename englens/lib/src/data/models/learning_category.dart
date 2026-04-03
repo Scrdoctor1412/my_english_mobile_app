@@ -1,6 +1,6 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
 
-import 'package:englens/src/configs/hive/hive_types.dart';
+import 'package:englens/src/core/configs/hive/hive_types.dart';
 import 'package:englens/src/data/models/lesson.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
@@ -19,7 +19,7 @@ enum CategoryType {
   @HiveField(4)
   topic,
   @HiveField(5)
-  levelBased
+  levelBased,
 }
 
 @HiveType(typeId: HiveTypes.learningCategory)
@@ -50,8 +50,9 @@ class LearningCategory {
   factory LearningCategory.fromJson(Map<String, dynamic> json) {
     return LearningCategory(
       title: json['title'],
-      lessons:
-          List<Lesson>.from(json['lessons'].map((x) => Lesson.fromJson(x))),
+      lessons: List<Lesson>.from(
+        json['lessons'].map((x) => Lesson.fromJson(x)),
+      ),
       isBookmarked: json['isBookmarked'] ?? false,
       categoryType: json['categoryType'],
       id: json['id'] ?? "",
