@@ -3,6 +3,7 @@ import 'dart:ui';
 import 'package:englens/src/core/constants/app_constants.dart';
 import 'package:englens/src/core/base_view_model.dart';
 import 'package:englens/src/core/service/lang/translation_service.dart';
+import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -17,6 +18,7 @@ class SettingsScreenViewmodel extends GetViewModelBase {
   bool isGeneralExpand = false;
   bool notificationSwitchValue = false;
   bool languageSwitchValue = false;
+  bool darkModeSwitchValue = false;
 
   @override
   void onInit() {
@@ -32,6 +34,9 @@ class SettingsScreenViewmodel extends GetViewModelBase {
     // languageSwitchValue = prefs.getBool(AppConstants.langKey) ?? false;
     languageSwitchValue =
         (TranslationService.fallbackLocale.languageCode == 'vi') ? false : true;
+    
+    darkModeSwitchValue = prefs.getBool('darkModeKey') ?? false;
+
     update();
   }
 
@@ -44,6 +49,17 @@ class SettingsScreenViewmodel extends GetViewModelBase {
   void onTapToggleNotification() {
     notificationSwitchValue = !notificationSwitchValue;
     prefs.setBool(AppConstants.notificationKey, notificationSwitchValue);
+    update();
+  }
+
+  void onTapToggleDarkMode() {
+    darkModeSwitchValue = !darkModeSwitchValue;
+    prefs.setBool('darkModeKey', darkModeSwitchValue);
+    if (darkModeSwitchValue) {
+      Get.changeThemeMode(ThemeMode.dark);
+    } else {
+      Get.changeThemeMode(ThemeMode.light);
+    }
     update();
   }
 

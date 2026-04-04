@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 class ThemePrimary {
   ThemePrimary._();
@@ -18,13 +19,13 @@ class ThemePrimary {
 
   static const darkGrey = Color(0xff333333);
 
-  static final ColorScheme myColorScheme = ColorScheme(
+  static final ColorScheme myColorScheme = const ColorScheme(
     primary: Color(0xFF007AFF), // Xanh dương chính
     primaryContainer: Color(0xFF66B2FF), // Xanh dương nhạt
     secondary: Color(0xFFFF9500), // Cam chính
     secondaryContainer: Color(0xFFFFC266), // Cam nhạt
-    background: Color(0xFFFFFFFF), // Nền trắng
-    surface: Color(0xFFF5F5F5), // Màu nền phụ
+    background: Color(0xFFFBFAFF), // Nền trắng ngà (Light)
+    surface: Color(0xFFFFFFFF), // Màu nền phụ (Light)
     onPrimary: Color(0xFFFFFFFF), // Văn bản trên nền xanh dương
     onSecondary: Color(0xFF333333), // Văn bản trên nền cam
     onBackground: Color(0xFF333333), // Văn bản trên nền trắng
@@ -34,14 +35,27 @@ class ThemePrimary {
     brightness: Brightness.light, // Giao diện sáng
   );
 
+  static final ColorScheme darkColorScheme = const ColorScheme(
+    primary: Color(0xFF7B61FF), // Tím Englens
+    primaryContainer: Color(0xFF5A45D1), 
+    secondary: Color(0xFFFF9500), 
+    secondaryContainer: Color(0xFFCC7700),
+    background: Color(0xFF121214), // Nền đen sâu (Dark mode)
+    surface: Color(0xFF1E1C24), // Màu nền phụ (Dark mode - Container)
+    onPrimary: Color(0xFFFFFFFF), 
+    onSecondary: Color(0xFF121214), 
+    onBackground: Color(0xFFE0E0E0), // Text tĩnh trên nền (Dark)
+    onSurface: Color(0xFFE0E0E0), 
+    error: Color(0xFFCF6679), 
+    onError: Color(0xFF121214), 
+    brightness: Brightness.dark, 
+  );
+
   static theme() {
     return ThemeData(
-      textTheme: const TextTheme(
-        bodyMedium: TextStyle(color: Colors.black),
-        bodyLarge: TextStyle(color: Colors.black),
-      ),
+      textTheme: GoogleFonts.beVietnamProTextTheme(),
       colorScheme: myColorScheme,
-      appBarTheme: AppBarTheme(
+      appBarTheme: const AppBarTheme(
         backgroundColor: primaryBlue,
         foregroundColor: Colors.white,
         titleTextStyle: TextStyle(
@@ -57,7 +71,35 @@ class ThemePrimary {
           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
         ),
       ),
-      scaffoldBackgroundColor: Color(0xfff1f0f6),
+      scaffoldBackgroundColor: const Color(0xFFFBFAFF),
+    );
+  }
+
+  static darkTheme() {
+    return ThemeData(
+      textTheme: GoogleFonts.beVietnamProTextTheme(ThemeData.dark().textTheme).apply(
+        bodyColor: const Color(0xFFE0E0E0),
+        displayColor: const Color(0xFFE0E0E0),
+      ),
+      colorScheme: darkColorScheme,
+      appBarTheme: const AppBarTheme(
+        backgroundColor: Color(0xFF121214),
+        foregroundColor: Colors.white,
+        titleTextStyle: TextStyle(
+          color: Colors.white,
+          fontSize: 20,
+          fontWeight: FontWeight.w600,
+        ),
+      ),
+      elevatedButtonTheme: ElevatedButtonThemeData(
+        style: ElevatedButton.styleFrom(
+          foregroundColor: Colors.white,
+          backgroundColor: const Color(0xFF7B61FF),
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
+        ),
+      ),
+      scaffoldBackgroundColor: const Color(0xFF121214),
+      cardColor: const Color(0xFF1E1C24),
     );
   }
 }

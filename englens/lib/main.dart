@@ -12,6 +12,7 @@ import 'package:englens/src/core/service/local_notification_service.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 void main() async {
   // Ensure Flutter bindings are initialized
@@ -41,5 +42,8 @@ void main() async {
 
   // Nvigate to default screen
   // await AppRouter.navigateDefaultScreen();
-  runApp(const MyApp());
+  final prefs = await SharedPreferences.getInstance();
+  final isDarkMode = prefs.getBool('darkModeKey') ?? false;
+
+  runApp(MyApp(isDarkMode: isDarkMode));
 }

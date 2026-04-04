@@ -12,7 +12,7 @@ class TabsScreenViewArgs {
 }
 
 class TabsScreenViewmodel extends GetViewModelBase {
-  int tabIndex = 0;
+  RxInt tabIndex = 0.obs;
 
   var tabsScreen = [
     HomeScreen(),
@@ -28,12 +28,12 @@ class TabsScreenViewmodel extends GetViewModelBase {
     super.onInit();
     if (Get.arguments != null) {
       TabsScreenViewArgs args = Get.arguments as TabsScreenViewArgs;
-      tabIndex = args.tabIndex ?? 0;
+      tabIndex.value = args.tabIndex ?? 0;
     }
   }
 
   void onTapChangeScreen(int index) {
-    tabIndex = index;
+    tabIndex.value = index;
     update();
   }
 }

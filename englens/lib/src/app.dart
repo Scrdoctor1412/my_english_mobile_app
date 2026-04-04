@@ -7,7 +7,8 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:get/route_manager.dart';
 
 class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
+  final bool isDarkMode;
+  const MyApp({Key? key, this.isDarkMode = false}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -16,6 +17,8 @@ class MyApp extends StatelessWidget {
       getPages: AppRouter.routes,
       title: "Eng lens",
       theme: ThemePrimary.theme(),
+      darkTheme: ThemePrimary.darkTheme(),
+      themeMode: isDarkMode ? ThemeMode.dark : ThemeMode.light, // We can switch this via Get.changeThemeMode
       builder: (context, child) {
         return MediaQuery(
           data: MediaQuery.of(context).copyWith(textScaleFactor: 1.0),
