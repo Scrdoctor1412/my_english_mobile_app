@@ -58,7 +58,7 @@ Dự án được tổ chức theo hướng **Feature-First** kết hợp với 
 
 ## 🎥 Demo
 
-* **Video giới thiệu:** [Xem Demo tại đây](https://github.com/Scrdoctor1412/my_english_mobile_app/blob/main/2151067318_QuachKhaiNguyen_demo.mp4)
+* **Video giới thiệu:** [Xem Demo tại đây](https://drive.google.com/file/d/1QQi7NUdynZ6aiXUsEYcnDUE9avIZqKuP/view?usp=sharing)
 
 <p align="center">
   <img src="[https://via.placeholder.com/250x500?text=Scan+Feature](https://via.placeholder.com/250x500?text=Scan+Feature)" width="250" />
@@ -69,7 +69,7 @@ Dự án được tổ chức theo hướng **Feature-First** kết hợp với 
 
 **Quách Khải Nguyên**
 * **Vị trí:** Mobile Developer (Flutter / iOS / Android)
-* **Học vấn:** Thủ khoa ngành CNTT - Phân hiệu Đại học Thủy Lợi (GPA: 3.75)
+* **Học vấn:** ngành CNTT - Phân hiệu Đại học Thủy Lợi (GPA: 3.73)
 * **GitHub:** [Scrdoctor1412](https://github.com/Scrdoctor1412)
 
 ---
